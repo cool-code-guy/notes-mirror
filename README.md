@@ -1,7 +1,7 @@
 <!-- Title -->
-# Berean Course Content
+# Course Content Reference
 
-Public curriculum data from the Berean School of the Bible / Global University course catalog — course structure, learning objectives, lesson text, scripture coverage, and bibliography for 24 active courses.
+Curriculum data mirror — course structure, learning objectives, lesson text, scripture coverage, and bibliography for 24 active courses. (Berean School of the Bible / Global University, if you're looking for the source.)
 
 **No exam questions or answer keys are in this repository.** It's curriculum content only, safe to read, quote, or hand to any AI assistant.
 
