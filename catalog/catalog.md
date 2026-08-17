@@ -14,7 +14,7 @@ Active content only — retired material is excluded from every figure.
 | Curriculum paragraphs | 91,779 |
 | Interactive study questions | 8,883 |
 | Scripture references | 32,429 |
-| — distinct passages | 7,659 |
+| — distinct passages | 7,661 |
 | — biblical books referenced | 65 of 66 |
 | Distinct works cited | 1,106 |
 

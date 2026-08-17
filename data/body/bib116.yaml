@@ -74242,7 +74242,7 @@ courses:
             - p: 5
               text: Many scholars do not believe the epistle to the Ephesians was
                 written specifically to the believers in Ephesus. Because the phrase
-                in Ephesus (Philemon 1:1) is not found in some of the earliest and
+                in Ephesus (Ephesians 1:1) is not found in some of the earliest and
                 best manuscripts (Wright and Bird 2019, 469) some believe this was
                 an encyclical letter, intended for a general audience. The fact that
                 Paul includes no specific greetings or personal information, unlike
@@ -74257,7 +74257,7 @@ courses:
               cls: IST_Body-Indent
               md: Many scholars do not believe the epistle to the Ephesians was written
                 specifically to the believers in Ephesus. Because the phrase in *Ephesus*
-                (Philemon 1:1) is not found in some of the earliest and best manuscripts
+                (Ephesians 1:1) is not found in some of the earliest and best manuscripts
                 (Wright and Bird 2019, 469) some believe this was an encyclical letter,
                 intended for a general audience. The fact that Paul includes no specific
                 greetings or personal information, unlike his other epistles, supports
@@ -74268,8 +74268,8 @@ courses:
                 for its name. Regardless of its intended destination, few can discount
                 the epistle’s impact on several first-century churches and many Christian
                 churches since then.
-              UID: BIB116.7.1.1.P.4.2
-              source_uid: BIB116.7.1.1.P.4.1
+              UID: BIB116.7.1.1.P.4.3
+              source_uid: BIB116.7.1.1.P.4.2
             - p: 6
               text: Although Pergamum was the capital of Asia, Ephesus was a center
                 for trade in Asia Minor (deSilva 2018, 630). The largest ships in
@@ -75076,6 +75076,40 @@ courses:
               cls: IST_Body-Indent
               UID: BIB116.7.1.1.P.101.1
               source_uid: BIB116.7.1.1.P.101
+            - p: 5
+              text: Many scholars do not believe the epistle to the Ephesians was
+                written specifically to the believers in Ephesus. Because the phrase
+                in Ephesus (Philemon 1:1) is not found in some of the earliest and
+                best manuscripts (Wright and Bird 2019, 469) some believe this was
+                an encyclical letter, intended for a general audience. The fact that
+                Paul includes no specific greetings or personal information, unlike
+                his other epistles, supports this view. A plausible theory envisions
+                Tychicus as Paul’s courier (Ephesians 6:21–22), reading the letter
+                to all of the churches to which he traveled (Foulkes 2008). If so,
+                Ephesus may have been the last stop and permanent home for this letter,
+                which would account for its name. Regardless of its intended destination,
+                few can discount the epistle’s impact on several first-century churches
+                and many Christian churches since then.
+              kind: prose
+              cls: IST_Body-Indent
+              md: Many scholars do not believe the epistle to the Ephesians was written
+                specifically to the believers in Ephesus. Because the phrase in *Ephesus*
+                (Philemon 1:1) is not found in some of the earliest and best manuscripts
+                (Wright and Bird 2019, 469) some believe this was an encyclical letter,
+                intended for a general audience. The fact that Paul includes no specific
+                greetings or personal information, unlike his other epistles, supports
+                this view. A plausible theory envisions Tychicus as Paul’s courier
+                (Ephesians 6:21–22), reading the letter to all of the churches to
+                which he traveled (Foulkes 2008). If so, Ephesus may have been the
+                last stop and permanent home for this letter, which would account
+                for its name. Regardless of its intended destination, few can discount
+                the epistle’s impact on several first-century churches and many Christian
+                churches since then.
+              UID: BIB116.7.1.1.P.4.2
+              source_uid: BIB116.7.1.1.P.4.1
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.7.1.1.P.4.3
             - p: 106
               text: Summarize the background of Paul’s letter to the Philippians.
               kind: prose
@@ -76054,12 +76088,12 @@ courses:
               pandoc: '[@wright2019, 469]'
               intext: (Wright et al. 2019, 469)
               page: '469'
-              paragraph: BIB116.7.1.1.P.4.2
+              paragraph: BIB116.7.1.1.P.4.3
               UID: BIB116.7.1.1.C.13
             - citekey: foulkes2008
               pandoc: '[@foulkes2008]'
               intext: (Foulkes 2008)
-              paragraph: BIB116.7.1.1.P.4.2
+              paragraph: BIB116.7.1.1.P.4.3
               UID: BIB116.7.1.1.C.14
             - citekey: glahn2023
               pandoc: '[@glahn2023]'
@@ -76215,21 +76249,21 @@ courses:
                 bib_gate: https://www.biblegateway.com/passage/?search=Philemon%201%3A9-10&version=NIV
               paragraph: BIB116.7.1.1.P.2.1
               UID: BIB116.7.1.1.S.5
-            - intext: Philemon 1:1
+            - intext: Ephesians 1:1
               version: NIV
               refs:
-              - ref: Philemon 1:1
-                key: philemon.1.1
-                bib_gate: https://www.biblegateway.com/passage/?search=Philemon%201%3A1&version=NIV
-              paragraph: BIB116.7.1.1.P.4.2
-              UID: BIB116.7.1.1.S.96
+              - ref: Ephesians 1:1
+                key: ephesians.1.1
+                bib_gate: https://www.biblegateway.com/passage/?search=Ephesians%201%3A1&version=NIV
+              paragraph: BIB116.7.1.1.P.4.3
+              UID: BIB116.7.1.1.S.101
             - intext: Ephesians 6:21–22
               version: NIV
               refs:
               - ref: Ephesians 6:21-22
                 key: ephesians.6.21-22
                 bib_gate: https://www.biblegateway.com/passage/?search=Ephesians%206%3A21-22&version=NIV
-              paragraph: BIB116.7.1.1.P.4.2
+              paragraph: BIB116.7.1.1.P.4.3
               UID: BIB116.7.1.1.S.6
             - intext: Acts 19:23-41
               version: NIV
@@ -76503,6 +76537,16 @@ courses:
                 bib_gate: https://www.biblegateway.com/passage/?search=Ephesians%206%3A18&version=NIV
               paragraph: BIB116.7.1.1.P.96.2
               UID: BIB116.7.1.1.S.99
+            - intext: Philemon 1:1
+              version: NIV
+              refs:
+              - ref: Philemon 1:1
+                key: philemon.1.1
+                bib_gate: https://www.biblegateway.com/passage/?search=Philemon%201%3A1&version=NIV
+              paragraph: BIB116.7.1.1.P.4.2
+              UID: BIB116.7.1.1.S.96
+              status: outdated 2026-08-17
+              outdated_reason: struck
             - intext: Ephesians 3:1
               version: NIV
               refs:
@@ -77187,7 +77231,7 @@ courses:
             - p: 5
               text: Many scholars do not believe the epistle to the Ephesians was
                 written specifically to the believers in Ephesus. Because the phrase
-                in Ephesus (Philemon 1:1) is not found in some of the earliest and
+                in Ephesus (Ephesians 1:1) is not found in some of the earliest and
                 best manuscripts (Wright and Bird 2019, 469) some believe this was
                 an encyclical letter, intended for a general audience. The fact that
                 Paul includes no specific greetings or personal information, unlike
@@ -77202,7 +77246,7 @@ courses:
               cls: IST_Body-Indent
               md: Many scholars do not believe the epistle to the Ephesians was written
                 specifically to the believers in Ephesus. Because the phrase in *Ephesus*
-                (Philemon 1:1) is not found in some of the earliest and best manuscripts
+                (Ephesians 1:1) is not found in some of the earliest and best manuscripts
                 (Wright and Bird 2019, 469) some believe this was an encyclical letter,
                 intended for a general audience. The fact that Paul includes no specific
                 greetings or personal information, unlike his other epistles, supports
@@ -77213,8 +77257,8 @@ courses:
                 for its name. Regardless of its intended destination, few can discount
                 the epistle’s impact on several first-century churches and many Christian
                 churches since then.
-              UID: BIB116.7.1.2.P.4.2
-              source_uid: BIB116.7.1.2.P.4.1
+              UID: BIB116.7.1.2.P.4.3
+              source_uid: BIB116.7.1.2.P.4.2
             - p: 6
               text: Although Pergamum was the capital of Asia, Ephesus was a center
                 for trade in Asia Minor (deSilva 2018, 630). The largest ships in
@@ -78021,6 +78065,40 @@ courses:
               cls: IST_Body-Indent
               UID: BIB116.7.1.2.P.101.1
               source_uid: BIB116.7.1.2.P.101
+            - p: 5
+              text: Many scholars do not believe the epistle to the Ephesians was
+                written specifically to the believers in Ephesus. Because the phrase
+                in Ephesus (Philemon 1:1) is not found in some of the earliest and
+                best manuscripts (Wright and Bird 2019, 469) some believe this was
+                an encyclical letter, intended for a general audience. The fact that
+                Paul includes no specific greetings or personal information, unlike
+                his other epistles, supports this view. A plausible theory envisions
+                Tychicus as Paul’s courier (Ephesians 6:21–22), reading the letter
+                to all of the churches to which he traveled (Foulkes 2008). If so,
+                Ephesus may have been the last stop and permanent home for this letter,
+                which would account for its name. Regardless of its intended destination,
+                few can discount the epistle’s impact on several first-century churches
+                and many Christian churches since then.
+              kind: prose
+              cls: IST_Body-Indent
+              md: Many scholars do not believe the epistle to the Ephesians was written
+                specifically to the believers in Ephesus. Because the phrase in *Ephesus*
+                (Philemon 1:1) is not found in some of the earliest and best manuscripts
+                (Wright and Bird 2019, 469) some believe this was an encyclical letter,
+                intended for a general audience. The fact that Paul includes no specific
+                greetings or personal information, unlike his other epistles, supports
+                this view. A plausible theory envisions Tychicus as Paul’s courier
+                (Ephesians 6:21–22), reading the letter to all of the churches to
+                which he traveled (Foulkes 2008). If so, Ephesus may have been the
+                last stop and permanent home for this letter, which would account
+                for its name. Regardless of its intended destination, few can discount
+                the epistle’s impact on several first-century churches and many Christian
+                churches since then.
+              UID: BIB116.7.1.2.P.4.2
+              source_uid: BIB116.7.1.2.P.4.1
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.7.1.2.P.4.3
             - p: 106
               text: Summarize the background of Paul’s letter to the Philippians.
               kind: prose
@@ -78999,12 +79077,12 @@ courses:
               pandoc: '[@wright2019, 469]'
               intext: (Wright et al. 2019, 469)
               page: '469'
-              paragraph: BIB116.7.1.2.P.4.2
+              paragraph: BIB116.7.1.2.P.4.3
               UID: BIB116.7.1.2.C.13
             - citekey: foulkes2008
               pandoc: '[@foulkes2008]'
               intext: (Foulkes 2008)
-              paragraph: BIB116.7.1.2.P.4.2
+              paragraph: BIB116.7.1.2.P.4.3
               UID: BIB116.7.1.2.C.14
             - citekey: glahn2023
               pandoc: '[@glahn2023]'
@@ -79160,21 +79238,21 @@ courses:
                 bib_gate: https://www.biblegateway.com/passage/?search=Philemon%201%3A9-10&version=NIV
               paragraph: BIB116.7.1.2.P.2.1
               UID: BIB116.7.1.2.S.5
-            - intext: Philemon 1:1
+            - intext: Ephesians 1:1
               version: NIV
               refs:
-              - ref: Philemon 1:1
-                key: philemon.1.1
-                bib_gate: https://www.biblegateway.com/passage/?search=Philemon%201%3A1&version=NIV
-              paragraph: BIB116.7.1.2.P.4.2
-              UID: BIB116.7.1.2.S.96
+              - ref: Ephesians 1:1
+                key: ephesians.1.1
+                bib_gate: https://www.biblegateway.com/passage/?search=Ephesians%201%3A1&version=NIV
+              paragraph: BIB116.7.1.2.P.4.3
+              UID: BIB116.7.1.2.S.101
             - intext: Ephesians 6:21–22
               version: NIV
               refs:
               - ref: Ephesians 6:21-22
                 key: ephesians.6.21-22
                 bib_gate: https://www.biblegateway.com/passage/?search=Ephesians%206%3A21-22&version=NIV
-              paragraph: BIB116.7.1.2.P.4.2
+              paragraph: BIB116.7.1.2.P.4.3
               UID: BIB116.7.1.2.S.6
             - intext: Acts 19:23-41
               version: NIV
@@ -79448,6 +79526,16 @@ courses:
                 bib_gate: https://www.biblegateway.com/passage/?search=Ephesians%206%3A18&version=NIV
               paragraph: BIB116.7.1.2.P.96.2
               UID: BIB116.7.1.2.S.99
+            - intext: Philemon 1:1
+              version: NIV
+              refs:
+              - ref: Philemon 1:1
+                key: philemon.1.1
+                bib_gate: https://www.biblegateway.com/passage/?search=Philemon%201%3A1&version=NIV
+              paragraph: BIB116.7.1.2.P.4.2
+              UID: BIB116.7.1.2.S.96
+              status: outdated 2026-08-17
+              outdated_reason: struck
             - intext: Ephesians 3:1
               version: NIV
               refs:
@@ -87756,22 +87844,22 @@ courses:
               text: Whatever the circumstances of his meeting Paul, Onesimus found
                 someone who would not only plead his case but who would also introduce
                 him to the One who could save his soul. Like Philemon, Onesimus received
-                Christ through Paul’s preaching (Philemon 19:10) and proved kind and
+                Christ through Paul’s preaching (Philemon 10) and proved kind and
                 helpful to Paul. Nevertheless, Paul sent Onesimus back to his master.
               kind: prose
               cls: IST_Body-Indent
-              UID: BIB116.7.4.1.P.15.1
-              source_uid: BIB116.7.4.1.P.15
+              UID: BIB116.7.4.1.P.15.2
+              source_uid: BIB116.7.4.1.P.15.1
             - p: 16
               text: According to Roman law, upon the slave’s return, Philemon could
                 punish him or even have him killed. But Paul asked Philemon to forgive
                 Onesimus and receive him back. Paul wanted Philemon to accept Onesimus
                 not as a slave, but as a brother, and even to consider sending him
-                back to Paul (Philemon 19:16).
+                back to Paul (Philemon 16).
               kind: prose
               cls: IST_Body-Indent
-              UID: BIB116.7.4.1.P.16.1
-              source_uid: BIB116.7.4.1.P.16
+              UID: BIB116.7.4.1.P.16.2
+              source_uid: BIB116.7.4.1.P.16.1
             - p: 17
               text: Lessons from Philemon
               kind: heading
@@ -87781,9 +87869,9 @@ courses:
               text: The letter to Philemon teaches us at least two lessons. First,
                 accepting the gospel improves an individual’s character. Onesimus’
                 name means “useful.” Onesimus changed because of the gospel. He was
-                useful to Paul as a helper (Philemon 19:11) and would be “better than
-                a slave” to Philemon (Philemon 19:16). The Greek term for “helper”
-                is the same word for “minister” ( diakonos ). Therefore, some believe
+                useful to Paul as a helper (Philemon 11) and would be “better than
+                a slave” to Philemon (Philemon 16). The Greek term for “helper” is
+                the same word for “minister” ( diakonos ). Therefore, some believe
                 Onesimus may have been a minister of the Gospel for Paul (Shaner 2018).
                 God’s love causes us to forgive others and treat them with love and
                 respect. A few scholars speculate that this Onesimus and the later
@@ -87795,8 +87883,8 @@ courses:
               md: The letter to Philemon teaches us at least two lessons. First, accepting
                 the gospel improves an individual’s character. Onesimus’ name means
                 “useful.” Onesimus changed because of the gospel. He was *useful*
-                to Paul as a helper (Philemon 19:11) and would be “better than a slave”
-                to Philemon (Philemon 19:16). The Greek term for “helper” is the same
+                to Paul as a helper (Philemon 11) and would be “better than a slave”
+                to Philemon (Philemon 16). The Greek term for “helper” is the same
                 word for “minister” (*diakonos*). Therefore, some believe Onesimus
                 may have been a minister of the Gospel for Paul (Shaner 2018). God’s
                 love causes us to forgive others and treat them with love and respect.
@@ -87804,21 +87892,21 @@ courses:
                 Ephesus named Onesimus were one and the same (Beavis 2021, 86-88).
                 Although unverifiable, this would emphasize the amazing power of the
                 gospel to change a person’s heart.
-              UID: BIB116.7.4.1.P.18.2
-              source_uid: BIB116.7.4.1.P.18.1
+              UID: BIB116.7.4.1.P.18.3
+              source_uid: BIB116.7.4.1.P.18.2
             - p: 19
               text: Second, this epistle shows how the gospel works in society, giving
                 believers the love they need to solve hard problems. Paul loved his
                 converts enough to help pay their debts. Onesimus loved Paul enough
                 to go back to his master. Philemon loved Paul enough to forgive Onesimus.
                 Paul asked Philemon to receive Onesimus as he would receive the apostle
-                himself (Philemon 19:17). In Christ, apostles, masters, and workers
-                are brothers and sisters who love each other enough to forgive and
-                do what is right.
+                himself (Philemon 17). In Christ, apostles, masters, and workers are
+                brothers and sisters who love each other enough to forgive and do
+                what is right.
               kind: prose
               cls: IST_Body-Indent
-              UID: BIB116.7.4.1.P.19.1
-              source_uid: BIB116.7.4.1.P.19
+              UID: BIB116.7.4.1.P.19.2
+              source_uid: BIB116.7.4.1.P.19.1
             - p: 20
               text: The gospel brings change into society not by force or rebellion,
                 but by changing hearts, one at a time. It teaches believers to “do
@@ -87894,6 +87982,80 @@ courses:
               cls: IST_Body-Indent
               UID: BIB116.7.4.1.P.27.1
               source_uid: BIB116.7.4.1.P.27
+            - p: 15
+              text: Whatever the circumstances of his meeting Paul, Onesimus found
+                someone who would not only plead his case but who would also introduce
+                him to the One who could save his soul. Like Philemon, Onesimus received
+                Christ through Paul’s preaching (Philemon 19:10) and proved kind and
+                helpful to Paul. Nevertheless, Paul sent Onesimus back to his master.
+              kind: prose
+              cls: IST_Body-Indent
+              UID: BIB116.7.4.1.P.15.1
+              source_uid: BIB116.7.4.1.P.15
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.7.4.1.P.15.2
+            - p: 16
+              text: According to Roman law, upon the slave’s return, Philemon could
+                punish him or even have him killed. But Paul asked Philemon to forgive
+                Onesimus and receive him back. Paul wanted Philemon to accept Onesimus
+                not as a slave, but as a brother, and even to consider sending him
+                back to Paul (Philemon 19:16).
+              kind: prose
+              cls: IST_Body-Indent
+              UID: BIB116.7.4.1.P.16.1
+              source_uid: BIB116.7.4.1.P.16
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.7.4.1.P.16.2
+            - p: 18
+              text: The letter to Philemon teaches us at least two lessons. First,
+                accepting the gospel improves an individual’s character. Onesimus’
+                name means “useful.” Onesimus changed because of the gospel. He was
+                useful to Paul as a helper (Philemon 19:11) and would be “better than
+                a slave” to Philemon (Philemon 19:16). The Greek term for “helper”
+                is the same word for “minister” ( diakonos ). Therefore, some believe
+                Onesimus may have been a minister of the Gospel for Paul (Shaner 2018).
+                God’s love causes us to forgive others and treat them with love and
+                respect. A few scholars speculate that this Onesimus and the later
+                bishop of Ephesus named Onesimus were one and the same (Beavis 2021,
+                86-88). Although unverifiable, this would emphasize the amazing power
+                of the gospel to change a person’s heart.
+              kind: prose
+              cls: IST_Body-Indent
+              md: The letter to Philemon teaches us at least two lessons. First, accepting
+                the gospel improves an individual’s character. Onesimus’ name means
+                “useful.” Onesimus changed because of the gospel. He was *useful*
+                to Paul as a helper (Philemon 19:11) and would be “better than a slave”
+                to Philemon (Philemon 19:16). The Greek term for “helper” is the same
+                word for “minister” (*diakonos*). Therefore, some believe Onesimus
+                may have been a minister of the Gospel for Paul (Shaner 2018). God’s
+                love causes us to forgive others and treat them with love and respect.
+                A few scholars speculate that this Onesimus and the later bishop of
+                Ephesus named Onesimus were one and the same (Beavis 2021, 86-88).
+                Although unverifiable, this would emphasize the amazing power of the
+                gospel to change a person’s heart.
+              UID: BIB116.7.4.1.P.18.2
+              source_uid: BIB116.7.4.1.P.18.1
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.7.4.1.P.18.3
+            - p: 19
+              text: Second, this epistle shows how the gospel works in society, giving
+                believers the love they need to solve hard problems. Paul loved his
+                converts enough to help pay their debts. Onesimus loved Paul enough
+                to go back to his master. Philemon loved Paul enough to forgive Onesimus.
+                Paul asked Philemon to receive Onesimus as he would receive the apostle
+                himself (Philemon 19:17). In Christ, apostles, masters, and workers
+                are brothers and sisters who love each other enough to forgive and
+                do what is right.
+              kind: prose
+              cls: IST_Body-Indent
+              UID: BIB116.7.4.1.P.19.1
+              source_uid: BIB116.7.4.1.P.19
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.7.4.1.P.19.2
             - p: 10
               text: In the days of Paul and Philemon, no church buildings existed
                 like we have today. Instead, believers met together in homes. If one
@@ -88136,13 +88298,13 @@ courses:
             - citekey: shaner2018
               pandoc: '[@shaner2018]'
               intext: (Shaner 2018)
-              paragraph: BIB116.7.4.1.P.18.2
+              paragraph: BIB116.7.4.1.P.18.3
               UID: BIB116.7.4.1.C.4
             - citekey: beavis2021
               pandoc: '[@beavis2021, 86-88]'
               intext: (Beavis 2021, 86-88)
               page: 86-88
-              paragraph: BIB116.7.4.1.P.18.2
+              paragraph: BIB116.7.4.1.P.18.3
               UID: BIB116.7.4.1.C.5
             - citekey: knox1955
               pandoc: '[@knox1955, 556–560]'
@@ -88235,48 +88397,48 @@ courses:
               - ref: Philemon 1:19
                 key: philemon.1.19
                 bib_gate: https://www.biblegateway.com/passage/?search=Philemon%201%3A19&version=NIV
-              paragraph: BIB116.7.4.1.P.15.1
+              paragraph: BIB116.7.4.1.P.15.2
               UID: BIB116.7.4.1.S.12
-            - intext: Philemon 19:10
+            - intext: Philemon 10
               version: NIV
               refs:
-              - ref: Philemon 19:10
-                key: philemon.19.10
-                bib_gate: https://www.biblegateway.com/passage/?search=Philemon%2019%3A10&version=NIV
-              paragraph: BIB116.7.4.1.P.16.1
-              UID: BIB116.7.4.1.S.30
-            - intext: Philemon 19:16
+              - ref: Philemon 1:10
+                key: philemon.1.10
+                bib_gate: https://www.biblegateway.com/passage/?search=Philemon%201%3A10&version=NIV
+              paragraph: BIB116.7.4.1.P.16.2
+              UID: BIB116.7.4.1.S.35
+            - intext: Philemon 16
               version: NIV
               refs:
-              - ref: Philemon 19:16
-                key: philemon.19.16
-                bib_gate: https://www.biblegateway.com/passage/?search=Philemon%2019%3A16&version=NIV
+              - ref: Philemon 1:16
+                key: philemon.1.16
+                bib_gate: https://www.biblegateway.com/passage/?search=Philemon%201%3A16&version=NIV
               paragraph: BIB116.7.4.1.P.17
-              UID: BIB116.7.4.1.S.31
-            - intext: Philemon 19:11
+              UID: BIB116.7.4.1.S.36
+            - intext: Philemon 11
               version: NIV
               refs:
-              - ref: Philemon 19:11
-                key: philemon.19.11
-                bib_gate: https://www.biblegateway.com/passage/?search=Philemon%2019%3A11&version=NIV
-              paragraph: BIB116.7.4.1.P.19.1
-              UID: BIB116.7.4.1.S.32
-            - intext: Philemon 19:16
+              - ref: Philemon 1:11
+                key: philemon.1.11
+                bib_gate: https://www.biblegateway.com/passage/?search=Philemon%201%3A11&version=NIV
+              paragraph: BIB116.7.4.1.P.19.2
+              UID: BIB116.7.4.1.S.37
+            - intext: Philemon 16
               version: NIV
               refs:
-              - ref: Philemon 19:16
-                key: philemon.19.16
-                bib_gate: https://www.biblegateway.com/passage/?search=Philemon%2019%3A16&version=NIV
-              paragraph: BIB116.7.4.1.P.19.1
-              UID: BIB116.7.4.1.S.33
-            - intext: Philemon 19:17
+              - ref: Philemon 1:16
+                key: philemon.1.16
+                bib_gate: https://www.biblegateway.com/passage/?search=Philemon%201%3A16&version=NIV
+              paragraph: BIB116.7.4.1.P.19.2
+              UID: BIB116.7.4.1.S.38
+            - intext: Philemon 17
               version: NIV
               refs:
-              - ref: Philemon 19:17
-                key: philemon.19.17
-                bib_gate: https://www.biblegateway.com/passage/?search=Philemon%2019%3A17&version=NIV
+              - ref: Philemon 1:17
+                key: philemon.1.17
+                bib_gate: https://www.biblegateway.com/passage/?search=Philemon%201%3A17&version=NIV
               paragraph: BIB116.7.4.1.P.20
-              UID: BIB116.7.4.1.S.34
+              UID: BIB116.7.4.1.S.39
             - intext: Matthew 7:12
               version: NIV
               refs:
@@ -88352,6 +88514,56 @@ courses:
                 bib_gate: https://www.biblegateway.com/passage/?search=Titus%202%3A5&version=NIV
               UID: BIB116.7.4.1.S.27
               paragraph: BIB116.7.4.1.P.27.1
+            - intext: Philemon 19:10
+              version: NIV
+              refs:
+              - ref: Philemon 19:10
+                key: philemon.19.10
+                bib_gate: https://www.biblegateway.com/passage/?search=Philemon%2019%3A10&version=NIV
+              paragraph: BIB116.7.4.1.P.16.1
+              UID: BIB116.7.4.1.S.30
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - intext: Philemon 19:16
+              version: NIV
+              refs:
+              - ref: Philemon 19:16
+                key: philemon.19.16
+                bib_gate: https://www.biblegateway.com/passage/?search=Philemon%2019%3A16&version=NIV
+              paragraph: BIB116.7.4.1.P.17
+              UID: BIB116.7.4.1.S.31
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - intext: Philemon 19:11
+              version: NIV
+              refs:
+              - ref: Philemon 19:11
+                key: philemon.19.11
+                bib_gate: https://www.biblegateway.com/passage/?search=Philemon%2019%3A11&version=NIV
+              paragraph: BIB116.7.4.1.P.19.1
+              UID: BIB116.7.4.1.S.32
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - intext: Philemon 19:16
+              version: NIV
+              refs:
+              - ref: Philemon 19:16
+                key: philemon.19.16
+                bib_gate: https://www.biblegateway.com/passage/?search=Philemon%2019%3A16&version=NIV
+              paragraph: BIB116.7.4.1.P.19.1
+              UID: BIB116.7.4.1.S.33
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - intext: Philemon 19:17
+              version: NIV
+              refs:
+              - ref: Philemon 19:17
+                key: philemon.19.17
+                bib_gate: https://www.biblegateway.com/passage/?search=Philemon%2019%3A17&version=NIV
+              paragraph: BIB116.7.4.1.P.20
+              UID: BIB116.7.4.1.S.34
+              status: outdated 2026-08-17
+              outdated_reason: struck
             - intext: Philemon 1–3
               version: NIV
               refs:
@@ -100903,16 +101115,16 @@ courses:
                 truths and strategies to impart to Timothy—which could only be communicated
                 in the give-and-take of extended personal exchange” (Hughes and Chapell
                 2000, 258). Twice in 2 Timothy, Paul requests that Timothy come to
-                the prison (Philemon 4:9, 21). We do not know if Timothy arrived before
-                Paul was executed (Elwell and Yarbrough 1998, 339). Nevertheless,
+                the prison (2 Timothy 4:9, 21). We do not know if Timothy arrived
+                before Paul was executed (Elwell and Yarbrough 1998, 339). Nevertheless,
                 it is probable that Timothy responded immediately to Paul’s beckoning
                 and joined Luke and Mark in Rome, where (according to Clement of Rome)
                 Paul was beheaded at the Ostian Gate, just outside the city (Hughes
                 and Chapell 2000, 270).
               kind: prose
               cls: IST_Body-Indent
-              UID: BIB116.9.3.1.P.2.1
-              source_uid: BIB116.9.3.1.P.2
+              UID: BIB116.9.3.1.P.2.2
+              source_uid: BIB116.9.3.1.P.2.1
             - p: 3
               text: Outline of 2 Timothy
               kind: heading
@@ -101467,6 +101679,31 @@ courses:
               kind: quote
               cls: IST_Body-Block-Quote
               UID: BIB116.9.3.1.P.73
+            - p: 2
+              text: It is fitting that Paul would pen a final letter to this young
+                man who was so dear to him—a disciple he called “my dear son” and
+                “my fellow worker” (2 Timothy 1:2; Romans 16:21). Timothy had helped
+                deliver six of Paul’s letters and was with Paul the first time the
+                apostle was in the Roman prison (Philippians 1:1; Colossians 1:1;
+                Philemon 1). As the great apostle faced death, it is not surprising
+                that he wanted to see his son in the faith one more time. In addition
+                to their close relationship, it is likely “that Paul had important
+                truths and strategies to impart to Timothy—which could only be communicated
+                in the give-and-take of extended personal exchange” (Hughes and Chapell
+                2000, 258). Twice in 2 Timothy, Paul requests that Timothy come to
+                the prison (Philemon 4:9, 21). We do not know if Timothy arrived before
+                Paul was executed (Elwell and Yarbrough 1998, 339). Nevertheless,
+                it is probable that Timothy responded immediately to Paul’s beckoning
+                and joined Luke and Mark in Rome, where (according to Clement of Rome)
+                Paul was beheaded at the Ostian Gate, just outside the city (Hughes
+                and Chapell 2000, 270).
+              kind: prose
+              cls: IST_Body-Indent
+              UID: BIB116.9.3.1.P.2.1
+              source_uid: BIB116.9.3.1.P.2
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.9.3.1.P.2.2
             - p: 72
               text: Paul then describes Timothy’s great weapon against evil, explaining
                 the nature of the Scriptures (3:14–17). The Scriptures are God-breathed;
@@ -101698,19 +101935,19 @@ courses:
               pandoc: '[@hughes2000, 258]'
               intext: (Hughes et al. 2000, 258)
               page: '258'
-              paragraph: BIB116.9.3.1.P.2.1
+              paragraph: BIB116.9.3.1.P.2.2
               UID: BIB116.9.3.1.C.1
             - citekey: elwell1998
               pandoc: '[@elwell1998, 339]'
               intext: (Elwell et al. 1998, 339)
               page: '339'
-              paragraph: BIB116.9.3.1.P.2.1
+              paragraph: BIB116.9.3.1.P.2.2
               UID: BIB116.9.3.1.C.7
             - citekey: hughes2000
               pandoc: '[@hughes2000, 270]'
               intext: (Hughes et al. 2000, 270)
               page: '270'
-              paragraph: BIB116.9.3.1.P.2.1
+              paragraph: BIB116.9.3.1.P.2.2
               UID: BIB116.9.3.1.C.3
             - citekey: gundry1994
               pandoc: '[@gundry1994, 417]'
@@ -101772,7 +102009,7 @@ courses:
               - ref: 2 Timothy 1:2
                 key: 2timothy.1.2
                 bib_gate: https://www.biblegateway.com/passage/?search=2%20Timothy%201%3A2&version=NIV
-              paragraph: BIB116.9.3.1.P.2.1
+              paragraph: BIB116.9.3.1.P.2.2
               UID: BIB116.9.3.1.S.2
             - intext: Romans 16:21
               version: NIV
@@ -101780,7 +102017,7 @@ courses:
               - ref: Romans 16:21
                 key: romans.16.21
                 bib_gate: https://www.biblegateway.com/passage/?search=Romans%2016%3A21&version=NIV
-              paragraph: BIB116.9.3.1.P.2.1
+              paragraph: BIB116.9.3.1.P.2.2
               UID: BIB116.9.3.1.S.3
             - intext: Philippians 1:1
               version: NIV
@@ -101788,7 +102025,7 @@ courses:
               - ref: Philippians 1:1
                 key: philippians.1.1
                 bib_gate: https://www.biblegateway.com/passage/?search=Philippians%201%3A1&version=NIV
-              paragraph: BIB116.9.3.1.P.2.1
+              paragraph: BIB116.9.3.1.P.2.2
               UID: BIB116.9.3.1.S.4
             - intext: Colossians 1:1
               version: NIV
@@ -101796,7 +102033,7 @@ courses:
               - ref: Colossians 1:1
                 key: colossians.1.1
                 bib_gate: https://www.biblegateway.com/passage/?search=Colossians%201%3A1&version=NIV
-              paragraph: BIB116.9.3.1.P.2.1
+              paragraph: BIB116.9.3.1.P.2.2
               UID: BIB116.9.3.1.S.5
             - intext: Philemon 1
               version: NIV
@@ -101804,19 +102041,19 @@ courses:
               - ref: Philemon 1:1
                 key: philemon.1.1
                 bib_gate: https://www.biblegateway.com/passage/?search=Philemon%201%3A1&version=NIV
-              paragraph: BIB116.9.3.1.P.2.1
+              paragraph: BIB116.9.3.1.P.2.2
               UID: BIB116.9.3.1.S.6
-            - intext: Philemon 4:9, 21
+            - intext: 2 Timothy 4:9, 21
               version: NIV
               refs:
-              - ref: Philemon 4:9
-                key: philemon.4.9
-                bib_gate: https://www.biblegateway.com/passage/?search=Philemon%204%3A9&version=NIV
-              - ref: Philemon 4:21
-                key: philemon.4.21
-                bib_gate: https://www.biblegateway.com/passage/?search=Philemon%204%3A21&version=NIV
-              paragraph: BIB116.9.3.1.P.2.1
-              UID: BIB116.9.3.1.S.43
+              - ref: 2 Timothy 4:9
+                key: 2timothy.4.9
+                bib_gate: https://www.biblegateway.com/passage/?search=2%20Timothy%204%3A9&version=NIV
+              - ref: 2 Timothy 4:21
+                key: 2timothy.4.21
+                bib_gate: https://www.biblegateway.com/passage/?search=2%20Timothy%204%3A21&version=NIV
+              paragraph: BIB116.9.3.1.P.2.2
+              UID: BIB116.9.3.1.S.48
             - intext: (2:1–2)
               version: NIV
               refs:
@@ -101954,7 +102191,7 @@ courses:
                 key: 2timothy.4.21
                 bib_gate: https://www.biblegateway.com/passage/?search=2%20Timothy%204%3A21&version=NIV
               paragraph: BIB116.9.3.1.P.72.1
-              UID: BIB116.9.3.1.S.48
+              UID: BIB116.9.3.1.S.49
             - intext: 2 Timothy 4:6–8
               version: NIV
               refs:
@@ -101963,6 +102200,19 @@ courses:
                 bib_gate: https://www.biblegateway.com/passage/?search=2%20Timothy%204%3A6-8&version=NIV
               paragraph: BIB116.9.3.1.P.73
               UID: BIB116.9.3.1.S.17
+            - intext: Philemon 4:9, 21
+              version: NIV
+              refs:
+              - ref: Philemon 4:9
+                key: philemon.4.9
+                bib_gate: https://www.biblegateway.com/passage/?search=Philemon%204%3A9&version=NIV
+              - ref: Philemon 4:21
+                key: philemon.4.21
+                bib_gate: https://www.biblegateway.com/passage/?search=Philemon%204%3A21&version=NIV
+              paragraph: BIB116.9.3.1.P.2.1
+              UID: BIB116.9.3.1.S.43
+              status: outdated 2026-08-17
+              outdated_reason: struck
             - intext: (1:1–2)
               version: NIV
               refs:
@@ -102253,16 +102503,16 @@ courses:
                 truths and strategies to impart to Timothy—which could only be communicated
                 in the give-and-take of extended personal exchange” (Hughes and Chapell
                 2000, 258). Twice in 2 Timothy, Paul requests that Timothy come to
-                the prison (Philemon 4:9, 21). We do not know if Timothy arrived before
-                Paul was executed (Elwell and Yarbrough 1998, 339). Nevertheless,
+                the prison (2 Timothy 4:9, 21). We do not know if Timothy arrived
+                before Paul was executed (Elwell and Yarbrough 1998, 339). Nevertheless,
                 it is probable that Timothy responded immediately to Paul’s beckoning
                 and joined Luke and Mark in Rome, where (according to Clement of Rome)
                 Paul was beheaded at the Ostian Gate, just outside the city (Hughes
                 and Chapell 2000, 270).
               kind: prose
               cls: IST_Body-Indent
-              UID: BIB116.9.3.2.P.2.1
-              source_uid: BIB116.9.3.2.P.2
+              UID: BIB116.9.3.2.P.2.2
+              source_uid: BIB116.9.3.2.P.2.1
             - p: 3
               text: Outline of 2 Timothy
               kind: heading
@@ -102817,6 +103067,31 @@ courses:
               kind: quote
               cls: IST_Body-Block-Quote
               UID: BIB116.9.3.2.P.73
+            - p: 2
+              text: It is fitting that Paul would pen a final letter to this young
+                man who was so dear to him—a disciple he called “my dear son” and
+                “my fellow worker” (2 Timothy 1:2; Romans 16:21). Timothy had helped
+                deliver six of Paul’s letters and was with Paul the first time the
+                apostle was in the Roman prison (Philippians 1:1; Colossians 1:1;
+                Philemon 1). As the great apostle faced death, it is not surprising
+                that he wanted to see his son in the faith one more time. In addition
+                to their close relationship, it is likely “that Paul had important
+                truths and strategies to impart to Timothy—which could only be communicated
+                in the give-and-take of extended personal exchange” (Hughes and Chapell
+                2000, 258). Twice in 2 Timothy, Paul requests that Timothy come to
+                the prison (Philemon 4:9, 21). We do not know if Timothy arrived before
+                Paul was executed (Elwell and Yarbrough 1998, 339). Nevertheless,
+                it is probable that Timothy responded immediately to Paul’s beckoning
+                and joined Luke and Mark in Rome, where (according to Clement of Rome)
+                Paul was beheaded at the Ostian Gate, just outside the city (Hughes
+                and Chapell 2000, 270).
+              kind: prose
+              cls: IST_Body-Indent
+              UID: BIB116.9.3.2.P.2.1
+              source_uid: BIB116.9.3.2.P.2
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.9.3.2.P.2.2
             - p: 72
               text: Paul then describes Timothy’s great weapon against evil, explaining
                 the nature of the Scriptures (3:14–17). The Scriptures are God-breathed;
@@ -103048,19 +103323,19 @@ courses:
               pandoc: '[@hughes2000, 258]'
               intext: (Hughes et al. 2000, 258)
               page: '258'
-              paragraph: BIB116.9.3.2.P.2.1
+              paragraph: BIB116.9.3.2.P.2.2
               UID: BIB116.9.3.2.C.1
             - citekey: elwell1998
               pandoc: '[@elwell1998, 339]'
               intext: (Elwell et al. 1998, 339)
               page: '339'
-              paragraph: BIB116.9.3.2.P.2.1
+              paragraph: BIB116.9.3.2.P.2.2
               UID: BIB116.9.3.2.C.7
             - citekey: hughes2000
               pandoc: '[@hughes2000, 270]'
               intext: (Hughes et al. 2000, 270)
               page: '270'
-              paragraph: BIB116.9.3.2.P.2.1
+              paragraph: BIB116.9.3.2.P.2.2
               UID: BIB116.9.3.2.C.3
             - citekey: gundry1994
               pandoc: '[@gundry1994, 417]'
@@ -103122,7 +103397,7 @@ courses:
               - ref: 2 Timothy 1:2
                 key: 2timothy.1.2
                 bib_gate: https://www.biblegateway.com/passage/?search=2%20Timothy%201%3A2&version=NIV
-              paragraph: BIB116.9.3.2.P.2.1
+              paragraph: BIB116.9.3.2.P.2.2
               UID: BIB116.9.3.2.S.2
             - intext: Romans 16:21
               version: NIV
@@ -103130,7 +103405,7 @@ courses:
               - ref: Romans 16:21
                 key: romans.16.21
                 bib_gate: https://www.biblegateway.com/passage/?search=Romans%2016%3A21&version=NIV
-              paragraph: BIB116.9.3.2.P.2.1
+              paragraph: BIB116.9.3.2.P.2.2
               UID: BIB116.9.3.2.S.3
             - intext: Philippians 1:1
               version: NIV
@@ -103138,7 +103413,7 @@ courses:
               - ref: Philippians 1:1
                 key: philippians.1.1
                 bib_gate: https://www.biblegateway.com/passage/?search=Philippians%201%3A1&version=NIV
-              paragraph: BIB116.9.3.2.P.2.1
+              paragraph: BIB116.9.3.2.P.2.2
               UID: BIB116.9.3.2.S.4
             - intext: Colossians 1:1
               version: NIV
@@ -103146,7 +103421,7 @@ courses:
               - ref: Colossians 1:1
                 key: colossians.1.1
                 bib_gate: https://www.biblegateway.com/passage/?search=Colossians%201%3A1&version=NIV
-              paragraph: BIB116.9.3.2.P.2.1
+              paragraph: BIB116.9.3.2.P.2.2
               UID: BIB116.9.3.2.S.5
             - intext: Philemon 1
               version: NIV
@@ -103154,19 +103429,19 @@ courses:
               - ref: Philemon 1:1
                 key: philemon.1.1
                 bib_gate: https://www.biblegateway.com/passage/?search=Philemon%201%3A1&version=NIV
-              paragraph: BIB116.9.3.2.P.2.1
+              paragraph: BIB116.9.3.2.P.2.2
               UID: BIB116.9.3.2.S.6
-            - intext: Philemon 4:9, 21
+            - intext: 2 Timothy 4:9, 21
               version: NIV
               refs:
-              - ref: Philemon 4:9
-                key: philemon.4.9
-                bib_gate: https://www.biblegateway.com/passage/?search=Philemon%204%3A9&version=NIV
-              - ref: Philemon 4:21
-                key: philemon.4.21
-                bib_gate: https://www.biblegateway.com/passage/?search=Philemon%204%3A21&version=NIV
-              paragraph: BIB116.9.3.2.P.2.1
-              UID: BIB116.9.3.2.S.43
+              - ref: 2 Timothy 4:9
+                key: 2timothy.4.9
+                bib_gate: https://www.biblegateway.com/passage/?search=2%20Timothy%204%3A9&version=NIV
+              - ref: 2 Timothy 4:21
+                key: 2timothy.4.21
+                bib_gate: https://www.biblegateway.com/passage/?search=2%20Timothy%204%3A21&version=NIV
+              paragraph: BIB116.9.3.2.P.2.2
+              UID: BIB116.9.3.2.S.48
             - intext: (2:1–2)
               version: NIV
               refs:
@@ -103304,7 +103579,7 @@ courses:
                 key: 2timothy.4.21
                 bib_gate: https://www.biblegateway.com/passage/?search=2%20Timothy%204%3A21&version=NIV
               paragraph: BIB116.9.3.2.P.72.1
-              UID: BIB116.9.3.2.S.48
+              UID: BIB116.9.3.2.S.49
             - intext: 2 Timothy 4:6–8
               version: NIV
               refs:
@@ -103313,6 +103588,19 @@ courses:
                 bib_gate: https://www.biblegateway.com/passage/?search=2%20Timothy%204%3A6-8&version=NIV
               paragraph: BIB116.9.3.2.P.73
               UID: BIB116.9.3.2.S.17
+            - intext: Philemon 4:9, 21
+              version: NIV
+              refs:
+              - ref: Philemon 4:9
+                key: philemon.4.9
+                bib_gate: https://www.biblegateway.com/passage/?search=Philemon%204%3A9&version=NIV
+              - ref: Philemon 4:21
+                key: philemon.4.21
+                bib_gate: https://www.biblegateway.com/passage/?search=Philemon%204%3A21&version=NIV
+              paragraph: BIB116.9.3.2.P.2.1
+              UID: BIB116.9.3.2.S.43
+              status: outdated 2026-08-17
+              outdated_reason: struck
             - intext: (1:1–2)
               version: NIV
               refs:
@@ -112246,7 +112534,7 @@ courses:
               UID: BIB116.10.2.1.P.18
             - p: 20
               text: James was written “to the twelve tribes scattered among the nations”
-                (Jude 1:1). Along with James 2:21, this verse suggests that the readers
+                (James 1:1). Along with James 2:21, this verse suggests that the readers
                 were Jewish believers. The Greek word used here for a scattering is
                 diaspora, which refers to Jews scattered outside their homeland of
                 Palestine (Elwell and Yarbrough 1998, 354). In this case, some Jewish
@@ -112256,8 +112544,8 @@ courses:
                 as far as Phoenicia (Lebanon), Cyprus, and Antioch of Syria.
               kind: prose
               cls: IST_Body-Indent
-              UID: BIB116.10.2.1.P.19.2
-              source_uid: BIB116.10.2.1.P.19.1
+              UID: BIB116.10.2.1.P.19.3
+              source_uid: BIB116.10.2.1.P.19.2
             - p: 21
               text: Since James was a leader of the Jerusalem church, some of his
                 readers may have been his “sheep,” that is, believers who had been
@@ -112840,6 +113128,23 @@ courses:
               cls: IST_Body-Indent
               UID: BIB116.10.2.1.P.90.1
               source_uid: BIB116.10.2.1.P.90
+            - p: 20
+              text: James was written “to the twelve tribes scattered among the nations”
+                (Jude 1:1). Along with James 2:21, this verse suggests that the readers
+                were Jewish believers. The Greek word used here for a scattering is
+                diaspora, which refers to Jews scattered outside their homeland of
+                Palestine (Elwell and Yarbrough 1998, 354). In this case, some Jewish
+                believers probably fled from Jerusalem because of the persecution
+                that arose after Stephen’s death. Unbelieving Jews drove Jerusalem
+                believers to escape into Judea and Samaria (Acts 8:1), with some traveling
+                as far as Phoenicia (Lebanon), Cyprus, and Antioch of Syria.
+              kind: prose
+              cls: IST_Body-Indent
+              UID: BIB116.10.2.1.P.19.2
+              source_uid: BIB116.10.2.1.P.19.1
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.10.2.1.P.19.3
             - p: 4
               text: James, too, talks of persevering in the face of “trials of many
                 kinds” (1:2–4). Suffering for faith has not stopped over the centuries;
@@ -113549,7 +113854,7 @@ courses:
               pandoc: '[@elwell1998, 354]'
               intext: (Elwell et al. 1998, 354)
               page: '354'
-              paragraph: BIB116.10.2.1.P.19.2
+              paragraph: BIB116.10.2.1.P.19.3
               UID: BIB116.10.2.1.C.14
             - citekey: elwell1998
               pandoc: '[@elwell1998, 355]'
@@ -113818,14 +114123,14 @@ courses:
                 bib_gate: https://www.biblegateway.com/passage/?search=Jude%201%3A1&version=NIV
               paragraph: BIB116.10.2.1.P.17
               UID: BIB116.10.2.1.S.46
-            - intext: Jude 1:1
+            - intext: James 1:1
               version: NIV
               refs:
-              - ref: Jude 1:1
-                key: jude.1.1
-                bib_gate: https://www.biblegateway.com/passage/?search=Jude%201%3A1&version=NIV
+              - ref: James 1:1
+                key: james.1.1
+                bib_gate: https://www.biblegateway.com/passage/?search=James%201%3A1&version=NIV
               paragraph: BIB116.10.2.1.P.20.1
-              UID: BIB116.10.2.1.S.91
+              UID: BIB116.10.2.1.S.111
             - intext: James 2:21
               version: NIV
               refs:
@@ -114201,6 +114506,16 @@ courses:
                 bib_gate: https://www.biblegateway.com/passage/?search=James%205%3A16&version=NIV
               UID: BIB116.10.2.1.S.108
               paragraph: BIB116.10.2.1.P.90.1
+            - intext: Jude 1:1
+              version: NIV
+              refs:
+              - ref: Jude 1:1
+                key: jude.1.1
+                bib_gate: https://www.biblegateway.com/passage/?search=Jude%201%3A1&version=NIV
+              paragraph: BIB116.10.2.1.P.20.1
+              UID: BIB116.10.2.1.S.91
+              status: outdated 2026-08-17
+              outdated_reason: struck
             - intext: John 2:12
               version: NIV
               refs:
@@ -114895,7 +115210,7 @@ courses:
               UID: BIB116.10.2.2.P.18
             - p: 20
               text: James was written “to the twelve tribes scattered among the nations”
-                (Jude 1:1). Along with James 2:21, this verse suggests that the readers
+                (James 1:1). Along with James 2:21, this verse suggests that the readers
                 were Jewish believers. The Greek word used here for a scattering is
                 diaspora, which refers to Jews scattered outside their homeland of
                 Palestine (Elwell and Yarbrough 1998, 354). In this case, some Jewish
@@ -114905,8 +115220,8 @@ courses:
                 as far as Phoenicia (Lebanon), Cyprus, and Antioch of Syria.
               kind: prose
               cls: IST_Body-Indent
-              UID: BIB116.10.2.2.P.19.2
-              source_uid: BIB116.10.2.2.P.19.1
+              UID: BIB116.10.2.2.P.19.3
+              source_uid: BIB116.10.2.2.P.19.2
             - p: 21
               text: Since James was a leader of the Jerusalem church, some of his
                 readers may have been his “sheep,” that is, believers who had been
@@ -115489,6 +115804,23 @@ courses:
               cls: IST_Body-Indent
               UID: BIB116.10.2.2.P.90.1
               source_uid: BIB116.10.2.2.P.90
+            - p: 20
+              text: James was written “to the twelve tribes scattered among the nations”
+                (Jude 1:1). Along with James 2:21, this verse suggests that the readers
+                were Jewish believers. The Greek word used here for a scattering is
+                diaspora, which refers to Jews scattered outside their homeland of
+                Palestine (Elwell and Yarbrough 1998, 354). In this case, some Jewish
+                believers probably fled from Jerusalem because of the persecution
+                that arose after Stephen’s death. Unbelieving Jews drove Jerusalem
+                believers to escape into Judea and Samaria (Acts 8:1), with some traveling
+                as far as Phoenicia (Lebanon), Cyprus, and Antioch of Syria.
+              kind: prose
+              cls: IST_Body-Indent
+              UID: BIB116.10.2.2.P.19.2
+              source_uid: BIB116.10.2.2.P.19.1
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.10.2.2.P.19.3
             - p: 4
               text: James, too, talks of persevering in the face of “trials of many
                 kinds” (1:2–4). Suffering for faith has not stopped over the centuries;
@@ -116198,7 +116530,7 @@ courses:
               pandoc: '[@elwell1998, 354]'
               intext: (Elwell et al. 1998, 354)
               page: '354'
-              paragraph: BIB116.10.2.2.P.19.2
+              paragraph: BIB116.10.2.2.P.19.3
               UID: BIB116.10.2.2.C.14
             - citekey: elwell1998
               pandoc: '[@elwell1998, 355]'
@@ -116467,14 +116799,14 @@ courses:
                 bib_gate: https://www.biblegateway.com/passage/?search=Jude%201%3A1&version=NIV
               paragraph: BIB116.10.2.2.P.17
               UID: BIB116.10.2.2.S.46
-            - intext: Jude 1:1
+            - intext: James 1:1
               version: NIV
               refs:
-              - ref: Jude 1:1
-                key: jude.1.1
-                bib_gate: https://www.biblegateway.com/passage/?search=Jude%201%3A1&version=NIV
+              - ref: James 1:1
+                key: james.1.1
+                bib_gate: https://www.biblegateway.com/passage/?search=James%201%3A1&version=NIV
               paragraph: BIB116.10.2.2.P.20.1
-              UID: BIB116.10.2.2.S.91
+              UID: BIB116.10.2.2.S.111
             - intext: James 2:21
               version: NIV
               refs:
@@ -116850,6 +117182,16 @@ courses:
                 bib_gate: https://www.biblegateway.com/passage/?search=James%205%3A16&version=NIV
               UID: BIB116.10.2.2.S.108
               paragraph: BIB116.10.2.2.P.90.1
+            - intext: Jude 1:1
+              version: NIV
+              refs:
+              - ref: Jude 1:1
+                key: jude.1.1
+                bib_gate: https://www.biblegateway.com/passage/?search=Jude%201%3A1&version=NIV
+              paragraph: BIB116.10.2.2.P.20.1
+              UID: BIB116.10.2.2.S.91
+              status: outdated 2026-08-17
+              outdated_reason: struck
             - intext: John 2:12
               version: NIV
               refs:
@@ -117545,7 +117887,7 @@ courses:
               UID: BIB116.10.2.3.P.18
             - p: 20
               text: James was written “to the twelve tribes scattered among the nations”
-                (Jude 1:1). Along with James 2:21, this verse suggests that the readers
+                (James 1:1). Along with James 2:21, this verse suggests that the readers
                 were Jewish believers. The Greek word used here for a scattering is
                 diaspora, which refers to Jews scattered outside their homeland of
                 Palestine (Elwell and Yarbrough 1998, 354). In this case, some Jewish
@@ -117555,8 +117897,8 @@ courses:
                 as far as Phoenicia (Lebanon), Cyprus, and Antioch of Syria.
               kind: prose
               cls: IST_Body-Indent
-              UID: BIB116.10.2.3.P.19.2
-              source_uid: BIB116.10.2.3.P.19.1
+              UID: BIB116.10.2.3.P.19.3
+              source_uid: BIB116.10.2.3.P.19.2
             - p: 21
               text: Since James was a leader of the Jerusalem church, some of his
                 readers may have been his “sheep,” that is, believers who had been
@@ -118139,6 +118481,23 @@ courses:
               cls: IST_Body-Indent
               UID: BIB116.10.2.3.P.90.1
               source_uid: BIB116.10.2.3.P.90
+            - p: 20
+              text: James was written “to the twelve tribes scattered among the nations”
+                (Jude 1:1). Along with James 2:21, this verse suggests that the readers
+                were Jewish believers. The Greek word used here for a scattering is
+                diaspora, which refers to Jews scattered outside their homeland of
+                Palestine (Elwell and Yarbrough 1998, 354). In this case, some Jewish
+                believers probably fled from Jerusalem because of the persecution
+                that arose after Stephen’s death. Unbelieving Jews drove Jerusalem
+                believers to escape into Judea and Samaria (Acts 8:1), with some traveling
+                as far as Phoenicia (Lebanon), Cyprus, and Antioch of Syria.
+              kind: prose
+              cls: IST_Body-Indent
+              UID: BIB116.10.2.3.P.19.2
+              source_uid: BIB116.10.2.3.P.19.1
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.10.2.3.P.19.3
             - p: 4
               text: James, too, talks of persevering in the face of “trials of many
                 kinds” (1:2–4). Suffering for faith has not stopped over the centuries;
@@ -118848,7 +119207,7 @@ courses:
               pandoc: '[@elwell1998, 354]'
               intext: (Elwell et al. 1998, 354)
               page: '354'
-              paragraph: BIB116.10.2.3.P.19.2
+              paragraph: BIB116.10.2.3.P.19.3
               UID: BIB116.10.2.3.C.14
             - citekey: elwell1998
               pandoc: '[@elwell1998, 355]'
@@ -119117,14 +119476,14 @@ courses:
                 bib_gate: https://www.biblegateway.com/passage/?search=Jude%201%3A1&version=NIV
               paragraph: BIB116.10.2.3.P.17
               UID: BIB116.10.2.3.S.46
-            - intext: Jude 1:1
+            - intext: James 1:1
               version: NIV
               refs:
-              - ref: Jude 1:1
-                key: jude.1.1
-                bib_gate: https://www.biblegateway.com/passage/?search=Jude%201%3A1&version=NIV
+              - ref: James 1:1
+                key: james.1.1
+                bib_gate: https://www.biblegateway.com/passage/?search=James%201%3A1&version=NIV
               paragraph: BIB116.10.2.3.P.20.1
-              UID: BIB116.10.2.3.S.91
+              UID: BIB116.10.2.3.S.111
             - intext: James 2:21
               version: NIV
               refs:
@@ -119500,6 +119859,16 @@ courses:
                 bib_gate: https://www.biblegateway.com/passage/?search=James%205%3A16&version=NIV
               UID: BIB116.10.2.3.S.108
               paragraph: BIB116.10.2.3.P.90.1
+            - intext: Jude 1:1
+              version: NIV
+              refs:
+              - ref: Jude 1:1
+                key: jude.1.1
+                bib_gate: https://www.biblegateway.com/passage/?search=Jude%201%3A1&version=NIV
+              paragraph: BIB116.10.2.3.P.20.1
+              UID: BIB116.10.2.3.S.91
+              status: outdated 2026-08-17
+              outdated_reason: struck
             - intext: John 2:12
               version: NIV
               refs:
@@ -136992,10 +137361,10 @@ courses:
               UID: BIB116.11.2.1.P.49.1
               source_uid: BIB116.11.2.1.P.49
             - p: 55
-              text: Notice that John links love and truth in 2 John 1:1 and 3 (Barclay
+              text: Notice that John links love and truth in 2 John 1 and 3 (Barclay
                 1976, 139). The apostle says he “loves” the chosen lady and her children
                 “in the truth.” He also says Jesus will be with them “in truth and
-                love” (2 John 1:3). The world uses the word love in lesser ways. To
+                love” (2 John 3). The world uses the word love in lesser ways. To
                 those of the world, love may refer to passion, desire, and lust that
                 offend God; it is often sick, soft, weak, and selfish. In contrast,
                 Christian love not only is always righteous, strong, and true, but
@@ -137005,19 +137374,19 @@ courses:
                 read the thirteen verses in 2 John.
               kind: prose
               cls: IST_Body-Indent
-              md: Notice that John links love and truth in 2 John 1:1 and 3 (Barclay
+              md: Notice that John links love and truth in 2 John 1 and 3 (Barclay
                 1976, 139). The apostle says he “loves” the chosen lady and her children
                 “in the truth.” He also says Jesus will be with them “in truth and
-                love” (2 John 1:3). The world uses the word *love* in lesser ways.
-                To those of the world, love may refer to passion, desire, and lust
-                that offend God; it is often sick, soft, weak, and selfish. In contrast,
+                love” (2 John 3). The world uses the word *love* in lesser ways. To
+                those of the world, love may refer to passion, desire, and lust that
+                offend God; it is often sick, soft, weak, and selfish. In contrast,
                 Christian love not only is always righteous, strong, and true, but
                 it is always in the realm of light and truth. John’s love caused him
                 to warn believers. Biblical love does not close its eyes to error
                 that leads to destruction. Think about how love is truthful as you
                 read the thirteen verses in 2 John.
-              UID: BIB116.11.2.1.P.50.1
-              source_uid: BIB116.11.2.1.P.50
+              UID: BIB116.11.2.1.P.50.2
+              source_uid: BIB116.11.2.1.P.50.1
             - p: 56
               text: Praise for Truth (2 John 4)
               kind: heading
@@ -137103,11 +137472,53 @@ courses:
               text: 'In the last few verses, John explains why his letter to the chosen
                 lady is so short: “I have much to write to you, but I do not want
                 to use paper and ink. Instead, I hope to visit you and talk with you
+                face to face, so that our joy may be complete” (2 John 12).'
+              kind: prose
+              cls: IST_Body-Indent
+              UID: BIB116.11.2.1.P.60.2
+              source_uid: BIB116.11.2.1.P.60.1
+            - p: 55
+              text: Notice that John links love and truth in 2 John 1:1 and 3 (Barclay
+                1976, 139). The apostle says he “loves” the chosen lady and her children
+                “in the truth.” He also says Jesus will be with them “in truth and
+                love” (2 John 1:3). The world uses the word love in lesser ways. To
+                those of the world, love may refer to passion, desire, and lust that
+                offend God; it is often sick, soft, weak, and selfish. In contrast,
+                Christian love not only is always righteous, strong, and true, but
+                it is always in the realm of light and truth. John’s love caused him
+                to warn believers. Biblical love does not close its eyes to error
+                that leads to destruction. Think about how love is truthful as you
+                read the thirteen verses in 2 John.
+              kind: prose
+              cls: IST_Body-Indent
+              md: Notice that John links love and truth in 2 John 1:1 and 3 (Barclay
+                1976, 139). The apostle says he “loves” the chosen lady and her children
+                “in the truth.” He also says Jesus will be with them “in truth and
+                love” (2 John 1:3). The world uses the word *love* in lesser ways.
+                To those of the world, love may refer to passion, desire, and lust
+                that offend God; it is often sick, soft, weak, and selfish. In contrast,
+                Christian love not only is always righteous, strong, and true, but
+                it is always in the realm of light and truth. John’s love caused him
+                to warn believers. Biblical love does not close its eyes to error
+                that leads to destruction. Think about how love is truthful as you
+                read the thirteen verses in 2 John.
+              UID: BIB116.11.2.1.P.50.1
+              source_uid: BIB116.11.2.1.P.50
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.11.2.1.P.50.2
+            - p: 65
+              text: 'In the last few verses, John explains why his letter to the chosen
+                lady is so short: “I have much to write to you, but I do not want
+                to use paper and ink. Instead, I hope to visit you and talk with you
                 face to face, so that our joy may be complete” (2 John 11:12).'
               kind: prose
               cls: IST_Body-Indent
               UID: BIB116.11.2.1.P.60.1
               source_uid: BIB116.11.2.1.P.60
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.11.2.1.P.60.2
             - p: 55
               text: Notice that John links love and truth in verses 1 and 3 (Barclay
                 1976, 139). The apostle says he “loves” the chosen lady and her children
@@ -137340,29 +137751,29 @@ courses:
                 bib_gate: https://www.biblegateway.com/passage/?search=2%20John%201%3A13&version=NIV
               paragraph: BIB116.11.2.1.P.46
               UID: BIB116.11.2.1.S.5
-            - intext: 2 John 1:1
+            - intext: 2 John 1
               version: NIV
               refs:
               - ref: 2 John 1:1
                 key: 2john.1.1
                 bib_gate: https://www.biblegateway.com/passage/?search=2%20John%201%3A1&version=NIV
               paragraph: BIB116.11.2.1.P.48
-              UID: BIB116.11.2.1.S.21
-            - intext: 2 John 1:3
+              UID: BIB116.11.2.1.S.27
+            - intext: 2 John 3
               version: NIV
               refs:
               - ref: 2 John 1:3
                 key: 2john.1.3
                 bib_gate: https://www.biblegateway.com/passage/?search=2%20John%201%3A3&version=NIV
               paragraph: BIB116.11.2.1.P.48
-              UID: BIB116.11.2.1.S.22
+              UID: BIB116.11.2.1.S.28
             - intext: Matthew 13:41
               version: NIV
               refs:
               - ref: Matthew 13:41
                 key: matthew.13.41
                 bib_gate: https://www.biblegateway.com/passage/?search=Matthew%2013%3A41&version=NIV
-              paragraph: BIB116.11.2.1.P.50.1
+              paragraph: BIB116.11.2.1.P.50.2
               UID: BIB116.11.2.1.S.9
             - intext: 1 John 4:11
               version: NIV
@@ -137420,6 +137831,34 @@ courses:
                 bib_gate: https://www.biblegateway.com/passage/?search=2%20John%201%3A11&version=NIV
               paragraph: BIB116.11.2.1.P.56.1
               UID: BIB116.11.2.1.S.18
+            - intext: 2 John 12
+              version: NIV
+              refs:
+              - ref: 2 John 1:12
+                key: 2john.1.12
+                bib_gate: https://www.biblegateway.com/passage/?search=2%20John%201%3A12&version=NIV
+              paragraph: BIB116.11.2.1.P.58
+              UID: BIB116.11.2.1.S.29
+            - intext: 2 John 1:1
+              version: NIV
+              refs:
+              - ref: 2 John 1:1
+                key: 2john.1.1
+                bib_gate: https://www.biblegateway.com/passage/?search=2%20John%201%3A1&version=NIV
+              paragraph: BIB116.11.2.1.P.48
+              UID: BIB116.11.2.1.S.21
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - intext: 2 John 1:3
+              version: NIV
+              refs:
+              - ref: 2 John 1:3
+                key: 2john.1.3
+                bib_gate: https://www.biblegateway.com/passage/?search=2%20John%201%3A3&version=NIV
+              paragraph: BIB116.11.2.1.P.48
+              UID: BIB116.11.2.1.S.22
+              status: outdated 2026-08-17
+              outdated_reason: struck
             - intext: 2 John 11:12
               version: NIV
               refs:
@@ -137428,6 +137867,8 @@ courses:
                 bib_gate: https://www.biblegateway.com/passage/?search=2%20John%2011%3A12&version=NIV
               paragraph: BIB116.11.2.1.P.58
               UID: BIB116.11.2.1.S.26
+              status: outdated 2026-08-17
+              outdated_reason: struck
             - intext: 2 John 1–3
               version: NIV
               refs:
@@ -137967,10 +138408,10 @@ courses:
               UID: BIB116.11.2.2.P.49.1
               source_uid: BIB116.11.2.2.P.49
             - p: 55
-              text: Notice that John links love and truth in 2 John 1:1 and 3 (Barclay
+              text: Notice that John links love and truth in 2 John 1 and 3 (Barclay
                 1976, 139). The apostle says he “loves” the chosen lady and her children
                 “in the truth.” He also says Jesus will be with them “in truth and
-                love” (2 John 1:3). The world uses the word love in lesser ways. To
+                love” (2 John 3). The world uses the word love in lesser ways. To
                 those of the world, love may refer to passion, desire, and lust that
                 offend God; it is often sick, soft, weak, and selfish. In contrast,
                 Christian love not only is always righteous, strong, and true, but
@@ -137980,19 +138421,19 @@ courses:
                 read the thirteen verses in 2 John.
               kind: prose
               cls: IST_Body-Indent
-              md: Notice that John links love and truth in 2 John 1:1 and 3 (Barclay
+              md: Notice that John links love and truth in 2 John 1 and 3 (Barclay
                 1976, 139). The apostle says he “loves” the chosen lady and her children
                 “in the truth.” He also says Jesus will be with them “in truth and
-                love” (2 John 1:3). The world uses the word *love* in lesser ways.
-                To those of the world, love may refer to passion, desire, and lust
-                that offend God; it is often sick, soft, weak, and selfish. In contrast,
+                love” (2 John 3). The world uses the word *love* in lesser ways. To
+                those of the world, love may refer to passion, desire, and lust that
+                offend God; it is often sick, soft, weak, and selfish. In contrast,
                 Christian love not only is always righteous, strong, and true, but
                 it is always in the realm of light and truth. John’s love caused him
                 to warn believers. Biblical love does not close its eyes to error
                 that leads to destruction. Think about how love is truthful as you
                 read the thirteen verses in 2 John.
-              UID: BIB116.11.2.2.P.50.1
-              source_uid: BIB116.11.2.2.P.50
+              UID: BIB116.11.2.2.P.50.2
+              source_uid: BIB116.11.2.2.P.50.1
             - p: 56
               text: Praise for Truth (2 John 4)
               kind: heading
@@ -138078,11 +138519,53 @@ courses:
               text: 'In the last few verses, John explains why his letter to the chosen
                 lady is so short: “I have much to write to you, but I do not want
                 to use paper and ink. Instead, I hope to visit you and talk with you
+                face to face, so that our joy may be complete” (2 John 12).'
+              kind: prose
+              cls: IST_Body-Indent
+              UID: BIB116.11.2.2.P.60.2
+              source_uid: BIB116.11.2.2.P.60.1
+            - p: 55
+              text: Notice that John links love and truth in 2 John 1:1 and 3 (Barclay
+                1976, 139). The apostle says he “loves” the chosen lady and her children
+                “in the truth.” He also says Jesus will be with them “in truth and
+                love” (2 John 1:3). The world uses the word love in lesser ways. To
+                those of the world, love may refer to passion, desire, and lust that
+                offend God; it is often sick, soft, weak, and selfish. In contrast,
+                Christian love not only is always righteous, strong, and true, but
+                it is always in the realm of light and truth. John’s love caused him
+                to warn believers. Biblical love does not close its eyes to error
+                that leads to destruction. Think about how love is truthful as you
+                read the thirteen verses in 2 John.
+              kind: prose
+              cls: IST_Body-Indent
+              md: Notice that John links love and truth in 2 John 1:1 and 3 (Barclay
+                1976, 139). The apostle says he “loves” the chosen lady and her children
+                “in the truth.” He also says Jesus will be with them “in truth and
+                love” (2 John 1:3). The world uses the word *love* in lesser ways.
+                To those of the world, love may refer to passion, desire, and lust
+                that offend God; it is often sick, soft, weak, and selfish. In contrast,
+                Christian love not only is always righteous, strong, and true, but
+                it is always in the realm of light and truth. John’s love caused him
+                to warn believers. Biblical love does not close its eyes to error
+                that leads to destruction. Think about how love is truthful as you
+                read the thirteen verses in 2 John.
+              UID: BIB116.11.2.2.P.50.1
+              source_uid: BIB116.11.2.2.P.50
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.11.2.2.P.50.2
+            - p: 65
+              text: 'In the last few verses, John explains why his letter to the chosen
+                lady is so short: “I have much to write to you, but I do not want
+                to use paper and ink. Instead, I hope to visit you and talk with you
                 face to face, so that our joy may be complete” (2 John 11:12).'
               kind: prose
               cls: IST_Body-Indent
               UID: BIB116.11.2.2.P.60.1
               source_uid: BIB116.11.2.2.P.60
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.11.2.2.P.60.2
             - p: 55
               text: Notice that John links love and truth in verses 1 and 3 (Barclay
                 1976, 139). The apostle says he “loves” the chosen lady and her children
@@ -138315,29 +138798,29 @@ courses:
                 bib_gate: https://www.biblegateway.com/passage/?search=2%20John%201%3A13&version=NIV
               paragraph: BIB116.11.2.2.P.46
               UID: BIB116.11.2.2.S.5
-            - intext: 2 John 1:1
+            - intext: 2 John 1
               version: NIV
               refs:
               - ref: 2 John 1:1
                 key: 2john.1.1
                 bib_gate: https://www.biblegateway.com/passage/?search=2%20John%201%3A1&version=NIV
               paragraph: BIB116.11.2.2.P.48
-              UID: BIB116.11.2.2.S.21
-            - intext: 2 John 1:3
+              UID: BIB116.11.2.2.S.27
+            - intext: 2 John 3
               version: NIV
               refs:
               - ref: 2 John 1:3
                 key: 2john.1.3
                 bib_gate: https://www.biblegateway.com/passage/?search=2%20John%201%3A3&version=NIV
               paragraph: BIB116.11.2.2.P.48
-              UID: BIB116.11.2.2.S.22
+              UID: BIB116.11.2.2.S.28
             - intext: Matthew 13:41
               version: NIV
               refs:
               - ref: Matthew 13:41
                 key: matthew.13.41
                 bib_gate: https://www.biblegateway.com/passage/?search=Matthew%2013%3A41&version=NIV
-              paragraph: BIB116.11.2.2.P.50.1
+              paragraph: BIB116.11.2.2.P.50.2
               UID: BIB116.11.2.2.S.9
             - intext: 1 John 4:11
               version: NIV
@@ -138395,6 +138878,34 @@ courses:
                 bib_gate: https://www.biblegateway.com/passage/?search=2%20John%201%3A11&version=NIV
               paragraph: BIB116.11.2.2.P.56.1
               UID: BIB116.11.2.2.S.18
+            - intext: 2 John 12
+              version: NIV
+              refs:
+              - ref: 2 John 1:12
+                key: 2john.1.12
+                bib_gate: https://www.biblegateway.com/passage/?search=2%20John%201%3A12&version=NIV
+              paragraph: BIB116.11.2.2.P.58
+              UID: BIB116.11.2.2.S.29
+            - intext: 2 John 1:1
+              version: NIV
+              refs:
+              - ref: 2 John 1:1
+                key: 2john.1.1
+                bib_gate: https://www.biblegateway.com/passage/?search=2%20John%201%3A1&version=NIV
+              paragraph: BIB116.11.2.2.P.48
+              UID: BIB116.11.2.2.S.21
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - intext: 2 John 1:3
+              version: NIV
+              refs:
+              - ref: 2 John 1:3
+                key: 2john.1.3
+                bib_gate: https://www.biblegateway.com/passage/?search=2%20John%201%3A3&version=NIV
+              paragraph: BIB116.11.2.2.P.48
+              UID: BIB116.11.2.2.S.22
+              status: outdated 2026-08-17
+              outdated_reason: struck
             - intext: 2 John 11:12
               version: NIV
               refs:
@@ -138403,6 +138914,8 @@ courses:
                 bib_gate: https://www.biblegateway.com/passage/?search=2%20John%2011%3A12&version=NIV
               paragraph: BIB116.11.2.2.P.58
               UID: BIB116.11.2.2.S.26
+              status: outdated 2026-08-17
+              outdated_reason: struck
             - intext: 2 John 1–3
               version: NIV
               refs:
@@ -138808,12 +139321,12 @@ courses:
               text: In 2 John, the apostle warned believers not to show hospitality
                 to false teachers. However, in 3 John 5–8, he tells them to show hospitality
                 to worthy teachers. By helping God’s workers, we are partners in truth
-                (3 John 5:8). The elder praised Gaius for showing faithfulness to
-                God by extending kindness to worthy preachers and teachers.
+                (3 John 8). The elder praised Gaius for showing faithfulness to God
+                by extending kindness to worthy preachers and teachers.
               kind: prose
               cls: IST_Body-Indent
-              UID: BIB116.11.3.1.P.35.1
-              source_uid: BIB116.11.3.1.P.35
+              UID: BIB116.11.3.1.P.35.2
+              source_uid: BIB116.11.3.1.P.35.1
             - p: 38
               text: 'Diotrephes: A Proud Man (3 John 9–11)'
               kind: heading
@@ -138823,16 +139336,16 @@ courses:
               text: On the other hand, a church leader named Diotrephes did not show
                 kindness to visiting preachers because he was proud. Wanting to be
                 the only leader, he rejected a letter from the apostle John (3 John
-                5:9) and gossiped about him (3 John 5:10). Furthermore, not only did
-                Diotrephes refuse to help the visiting teachers, but he also stopped
-                those who wanted to help them—even putting the hospitable believers
-                out of the church (3 John 5:10). Diotrephes was full of pride and
-                clearly lacked love and kindness. Leading and loving must go hand
-                in hand (Neyrey 1993, 28).
+                9) and gossiped about him (3 John 10). Furthermore, not only did Diotrephes
+                refuse to help the visiting teachers, but he also stopped those who
+                wanted to help them—even putting the hospitable believers out of the
+                church (3 John 10). Diotrephes was full of pride and clearly lacked
+                love and kindness. Leading and loving must go hand in hand (Neyrey
+                1993, 28).
               kind: prose
               cls: IST_Body-Indent
-              UID: BIB116.11.3.1.P.37.1
-              source_uid: BIB116.11.3.1.P.37
+              UID: BIB116.11.3.1.P.37.2
+              source_uid: BIB116.11.3.1.P.37.1
             - p: 40
               text: Consider John’s love in dealing with the issue of Diotrephes.
                 John was a great apostle—the only one of the Twelve still living at
@@ -138882,6 +139395,36 @@ courses:
               cls: IST_Body-Indent
               UID: BIB116.11.3.1.P.42.1
               source_uid: BIB116.11.3.1.P.42
+            - p: 37
+              text: In 2 John, the apostle warned believers not to show hospitality
+                to false teachers. However, in 3 John 5–8, he tells them to show hospitality
+                to worthy teachers. By helping God’s workers, we are partners in truth
+                (3 John 5:8). The elder praised Gaius for showing faithfulness to
+                God by extending kindness to worthy preachers and teachers.
+              kind: prose
+              cls: IST_Body-Indent
+              UID: BIB116.11.3.1.P.35.1
+              source_uid: BIB116.11.3.1.P.35
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.11.3.1.P.35.2
+            - p: 39
+              text: On the other hand, a church leader named Diotrephes did not show
+                kindness to visiting preachers because he was proud. Wanting to be
+                the only leader, he rejected a letter from the apostle John (3 John
+                5:9) and gossiped about him (3 John 5:10). Furthermore, not only did
+                Diotrephes refuse to help the visiting teachers, but he also stopped
+                those who wanted to help them—even putting the hospitable believers
+                out of the church (3 John 5:10). Diotrephes was full of pride and
+                clearly lacked love and kindness. Leading and loving must go hand
+                in hand (Neyrey 1993, 28).
+              kind: prose
+              cls: IST_Body-Indent
+              UID: BIB116.11.3.1.P.37.1
+              source_uid: BIB116.11.3.1.P.37
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.11.3.1.P.37.2
             - p: 45
               text: Summarize what 1 John teaches about Jesus Christ, sin, knowledge,
                 and love.
@@ -138985,7 +139528,7 @@ courses:
               pandoc: '[@neyrey1993, 28]'
               intext: (Neyrey 1993, 28)
               page: '28'
-              paragraph: BIB116.11.3.1.P.37.1
+              paragraph: BIB116.11.3.1.P.37.2
               UID: BIB116.11.3.1.C.1
             - citekey: akin2001
               pandoc: '[@akin2001, 250–251]'
@@ -139040,40 +139583,40 @@ courses:
               - ref: 3 John 1:5-8
                 key: 3john.1.5-8
                 bib_gate: https://www.biblegateway.com/passage/?search=3%20John%201%3A5-8&version=NIV
-              paragraph: BIB116.11.3.1.P.35.1
+              paragraph: BIB116.11.3.1.P.35.2
               UID: BIB116.11.3.1.S.8
-            - intext: 3 John 5:8
+            - intext: 3 John 8
               version: NIV
               refs:
-              - ref: 3 John 5:8
-                key: 3john.5.8
-                bib_gate: https://www.biblegateway.com/passage/?search=3%20John%205%3A8&version=NIV
-              paragraph: BIB116.11.3.1.P.35.1
-              UID: BIB116.11.3.1.S.21
-            - intext: 3 John 5:9
+              - ref: 3 John 1:8
+                key: 3john.1.8
+                bib_gate: https://www.biblegateway.com/passage/?search=3%20John%201%3A8&version=NIV
+              paragraph: BIB116.11.3.1.P.35.2
+              UID: BIB116.11.3.1.S.29
+            - intext: 3 John 9
               version: NIV
               refs:
-              - ref: 3 John 5:9
-                key: 3john.5.9
-                bib_gate: https://www.biblegateway.com/passage/?search=3%20John%205%3A9&version=NIV
-              paragraph: BIB116.11.3.1.P.37.1
-              UID: BIB116.11.3.1.S.24
-            - intext: 3 John 5:10
+              - ref: 3 John 1:9
+                key: 3john.1.9
+                bib_gate: https://www.biblegateway.com/passage/?search=3%20John%201%3A9&version=NIV
+              paragraph: BIB116.11.3.1.P.37.2
+              UID: BIB116.11.3.1.S.30
+            - intext: 3 John 10
               version: NIV
               refs:
-              - ref: 3 John 5:10
-                key: 3john.5.10
-                bib_gate: https://www.biblegateway.com/passage/?search=3%20John%205%3A10&version=NIV
-              paragraph: BIB116.11.3.1.P.37.1
-              UID: BIB116.11.3.1.S.25
-            - intext: 3 John 5:10
+              - ref: 3 John 1:10
+                key: 3john.1.10
+                bib_gate: https://www.biblegateway.com/passage/?search=3%20John%201%3A10&version=NIV
+              paragraph: BIB116.11.3.1.P.37.2
+              UID: BIB116.11.3.1.S.31
+            - intext: 3 John 10
               version: NIV
               refs:
-              - ref: 3 John 5:10
-                key: 3john.5.10
-                bib_gate: https://www.biblegateway.com/passage/?search=3%20John%205%3A10&version=NIV
-              paragraph: BIB116.11.3.1.P.37.1
-              UID: BIB116.11.3.1.S.26
+              - ref: 3 John 1:10
+                key: 3john.1.10
+                bib_gate: https://www.biblegateway.com/passage/?search=3%20John%201%3A10&version=NIV
+              paragraph: BIB116.11.3.1.P.37.2
+              UID: BIB116.11.3.1.S.32
             - intext: Luke 9:54
               version: NIV
               refs:
@@ -139114,6 +139657,46 @@ courses:
                 bib_gate: https://www.biblegateway.com/passage/?search=Mark%209%3A10&version=NIV
               paragraph: BIB116.11.3.1.P.42.1
               UID: BIB116.11.3.1.S.28
+            - intext: 3 John 5:8
+              version: NIV
+              refs:
+              - ref: 3 John 5:8
+                key: 3john.5.8
+                bib_gate: https://www.biblegateway.com/passage/?search=3%20John%205%3A8&version=NIV
+              paragraph: BIB116.11.3.1.P.35.1
+              UID: BIB116.11.3.1.S.21
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - intext: 3 John 5:9
+              version: NIV
+              refs:
+              - ref: 3 John 5:9
+                key: 3john.5.9
+                bib_gate: https://www.biblegateway.com/passage/?search=3%20John%205%3A9&version=NIV
+              paragraph: BIB116.11.3.1.P.37.1
+              UID: BIB116.11.3.1.S.24
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - intext: 3 John 5:10
+              version: NIV
+              refs:
+              - ref: 3 John 5:10
+                key: 3john.5.10
+                bib_gate: https://www.biblegateway.com/passage/?search=3%20John%205%3A10&version=NIV
+              paragraph: BIB116.11.3.1.P.37.1
+              UID: BIB116.11.3.1.S.25
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - intext: 3 John 5:10
+              version: NIV
+              refs:
+              - ref: 3 John 5:10
+                key: 3john.5.10
+                bib_gate: https://www.biblegateway.com/passage/?search=3%20John%205%3A10&version=NIV
+              paragraph: BIB116.11.3.1.P.37.1
+              UID: BIB116.11.3.1.S.26
+              status: outdated 2026-08-17
+              outdated_reason: struck
             - intext: 3 John 1–2
               version: NIV
               refs:
