@@ -1,9 +1,11 @@
 <!-- Title -->
 # Course Content
 
-Public curriculum data from the course catalog — course structure, learning objectives, lesson text, scripture coverage, and bibliography for 24 active courses.
+## About this mirror
 
-**No exam questions or answer keys are in this repository.** It's curriculum content only, safe to read, quote, or hand to any AI assistant.
+Published and maintained by the administrator of the Berean School of the Bible / Global University course database, for use in recruitment, partnership, and stakeholder conversations. This is a curriculum content export — course structure, learning objectives, lesson text, scripture coverage, and bibliography for 24 active courses. It is not an official Global University publication or website.
+
+No exam questions or answer keys are in this repository.
 
 ## Use it with Claude (or any AI)
 
