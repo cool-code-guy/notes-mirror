@@ -1893,8 +1893,8 @@ courses:
         PN: 03.21.02
       '2.25':
         timestamp: '2026-03-06'
-    body_baseline_pn: 01.26.01
-    body_baseline_date: '2026-08-07'
+    body_baseline_pn: 03.21.02
+    body_baseline_date: '2026-08-17'
     glossary:
     - term: Achaia
       definition: a Roman province in Greece that included cities such as Athens and
@@ -8917,25 +8917,16 @@ courses:
               table: 6
               row: 1
               col: 1
-              colspan: 3
+              colspan: 2
               header: true
               UID: BIB116.1.4.1.P.17
-            - p: 21
-              text: Book
-              kind: heading
-              cls: IST_Table-Header
-              table: 6
-              row: 2
-              col: 1
-              header: true
-              UID: BIB116.1.4.1.P.18
             - p: 22
               text: Picture or Description of Christ
               kind: heading
               cls: IST_Table-Header
               table: 6
               row: 2
-              col: 2
+              col: 1
               header: true
               UID: BIB116.1.4.1.P.19
             - p: 23
@@ -8944,113 +8935,77 @@ courses:
               cls: IST_Table-Header
               table: 6
               row: 2
-              col: 3
+              col: 2
               header: true
               UID: BIB116.1.4.1.P.20
-            - p: 24
-              text: Matthew
-              kind: chart
-              cls: IST_Table-Body
-              table: 6
-              row: 3
-              col: 1
-              UID: BIB116.1.4.1.P.21
             - p: 25
               text: The Messiah—King of the Jews
               kind: chart
               cls: IST_Table-Body
               table: 6
               row: 3
-              col: 2
+              col: 1
               UID: BIB116.1.4.1.P.22
             - p: 26
-              text: 2:1–2; 27:37
+              text: Matthew 2:1–2; 27:37
               kind: chart
               cls: IST_Table-Body
               table: 6
               row: 3
-              col: 3
-              UID: BIB116.1.4.1.P.23
-            - p: 27
-              text: Mark
-              kind: chart
-              cls: IST_Table-Body
-              table: 6
-              row: 4
-              col: 1
-              UID: BIB116.1.4.1.P.24
+              col: 2
+              UID: BIB116.1.4.1.P.23.1
+              source_uid: BIB116.1.4.1.P.23
             - p: 28
               text: The Servant who came to redeem us
               kind: chart
               cls: IST_Table-Body
               table: 6
               row: 4
-              col: 2
+              col: 1
               UID: BIB116.1.4.1.P.25
             - p: 29
-              text: 10:35–45
+              text: Mark 10:35–45
               kind: chart
               cls: IST_Table-Body
               table: 6
               row: 4
-              col: 3
-              UID: BIB116.1.4.1.P.148
-            - p: 30
-              text: Luke
-              kind: chart
-              cls: IST_Table-Body
-              table: 6
-              row: 5
-              col: 1
-              UID: BIB116.1.4.1.P.27
+              col: 2
+              UID: BIB116.1.4.1.P.148.1
+              source_uid: BIB116.1.4.1.P.148
             - p: 31
               text: The Son of Man and Savior for all
               kind: chart
               cls: IST_Table-Body
               table: 6
               row: 5
-              col: 2
+              col: 1
               UID: BIB116.1.4.1.P.28
             - p: 32
-              text: 6:5; 19:10
+              text: Luke 6:5; 19:10
               kind: chart
               cls: IST_Table-Body
               table: 6
               row: 5
-              col: 3
-              UID: BIB116.1.4.1.P.29
-            - p: 33
-              text: John
-              kind: chart
-              cls: IST_Table-Body
-              table: 6
-              row: 6
-              col: 1
-              UID: BIB116.1.4.1.P.34
+              col: 2
+              UID: BIB116.1.4.1.P.29.1
+              source_uid: BIB116.1.4.1.P.29
             - p: 34
               text: The Son of God who gives eternal life to all who believe in Him
               kind: chart
               cls: IST_Table-Body
               table: 6
               row: 6
-              col: 2
+              col: 1
               UID: BIB116.1.4.1.P.35
             - p: 35
-              text: 3:16–17
+              text: John 3:16–17
               kind: chart
               cls: IST_Table-Body
               table: 6
               row: 6
-              col: 3
-              UID: BIB116.1.4.1.P.36
-            - p: 36
-              text: Acts
-              kind: chart
-              cls: IST_Table-Body
-              table: 6
-              row: 7
-              col: 1
-              UID: BIB116.1.4.1.P.37
+              col: 2
+              UID: BIB116.1.4.1.P.36.1
+              source_uid: BIB116.1.4.1.P.36
             - p: 37
               text: The One who baptizes believers in the Holy Spirit The One who
                 empowers believers to witness for Him The ascending Lord The One standing
@@ -9062,19 +9017,19 @@ courses:
                 One standing at the Father's right hand
               table: 6
               row: 7
-              col: 2
+              col: 1
               UID: BIB116.1.4.1.P.38.1
               source_uid: BIB116.1.4.1.P.38
             - p: 38
-              text: 1:5; 2:4 1:8 1:9 7:5–6
+              text: Acts 1:5; 2:4 Acts 1:8 Acts 1:9 Acts 7:5–6
               kind: chart
               cls: IST_Table-Body
-              md: 1:5; 2:4<br/>1:8<br/>1:9<br/>7:5–6
+              md: Acts 1:5; 2:4<br/>Acts 1:8<br/>Acts 1:9<br/>Acts 7:5–6
               table: 6
               row: 7
-              col: 3
-              UID: BIB116.1.4.1.P.39.1
-              source_uid: BIB116.1.4.1.P.39
+              col: 2
+              UID: BIB116.1.4.1.P.39.2
+              source_uid: BIB116.1.4.1.P.39.1
             - p: 39
               text: Figure 1.5
               kind: caption
@@ -9104,26 +9059,17 @@ courses:
               table: 7
               row: 1
               col: 1
-              colspan: 3
+              colspan: 2
               header: true
               UID: BIB116.1.4.1.P.42.1
               source_uid: BIB116.1.4.1.P.42
-            - p: 43
-              text: Book
-              kind: heading
-              cls: IST_Table-Header
-              table: 7
-              row: 2
-              col: 1
-              header: true
-              UID: BIB116.1.4.1.P.31
             - p: 44
               text: Picture or Description of Christ
               kind: heading
               cls: IST_Table-Header
               table: 7
               row: 2
-              col: 2
+              col: 1
               header: true
               UID: BIB116.1.4.1.P.32
             - p: 45
@@ -9132,17 +9078,9 @@ courses:
               cls: IST_Table-Header
               table: 7
               row: 2
-              col: 3
+              col: 2
               header: true
               UID: BIB116.1.4.1.P.33
-            - p: 46
-              text: Romans
-              kind: chart
-              cls: IST_Table-Body
-              table: 7
-              row: 3
-              col: 1
-              UID: BIB116.1.4.1.P.46
             - p: 47
               text: Our righteousness The One who delivers us from being enslaved
                 to sin
@@ -9152,146 +9090,104 @@ courses:
                 to sin
               table: 7
               row: 3
-              col: 2
+              col: 1
               UID: BIB116.1.4.1.P.47.1
               source_uid: BIB116.1.4.1.P.47
             - p: 48
-              text: 3:22 6:15–18
+              text: Romans 3:22 Romans 6:15–18
               kind: chart
               cls: IST_Table-Body
-              md: 3:22<br/>6:15–18
+              md: Romans 3:22<br/>Romans 6:15–18
               table: 7
               row: 3
-              col: 3
-              UID: BIB116.1.4.1.P.48
-            - p: 49
-              text: 1 Corinthians
-              kind: chart
-              cls: IST_Table-Body
-              table: 7
-              row: 4
-              col: 1
-              UID: BIB116.1.4.1.P.49
+              col: 2
+              UID: BIB116.1.4.1.P.48.1
+              source_uid: BIB116.1.4.1.P.48
             - p: 50
               text: The resurrected One
               kind: chart
               cls: IST_Table-Body
               table: 7
               row: 4
-              col: 2
+              col: 1
               UID: BIB116.1.4.1.P.150
             - p: 51
-              text: '15:20'
+              text: 1 Corinthians 15:20
               kind: chart
               cls: IST_Table-Body
               table: 7
               row: 4
-              col: 3
-              UID: BIB116.1.4.1.P.51
-            - p: 52
-              text: 2 Corinthians
-              kind: chart
-              cls: IST_Table-Body
-              table: 7
-              row: 5
-              col: 1
-              UID: BIB116.1.4.1.P.52
+              col: 2
+              UID: BIB116.1.4.1.P.49.1
+              source_uid: BIB116.1.4.1.P.49
             - p: 53
               text: The One who was made to be sin for us
               kind: chart
               cls: IST_Table-Body
               table: 7
               row: 5
-              col: 2
+              col: 1
               UID: BIB116.1.4.1.P.53
             - p: 54
-              text: '5:21'
+              text: 2 Corinthians 5:21
               kind: chart
               cls: IST_Table-Body
               table: 7
               row: 5
-              col: 3
-              UID: BIB116.1.4.1.P.54
-            - p: 55
-              text: Galatians
-              kind: chart
-              cls: IST_Table-Body
-              table: 7
-              row: 6
-              col: 1
-              UID: BIB116.1.4.1.P.55
+              col: 2
+              UID: BIB116.1.4.1.P.52.1
+              source_uid: BIB116.1.4.1.P.52
             - p: 56
               text: The fulfillment of the Law
               kind: chart
               cls: IST_Table-Body
               table: 7
               row: 6
-              col: 2
+              col: 1
               UID: BIB116.1.4.1.P.151
             - p: 57
-              text: 3:10, 13
+              text: Galatians 3:10, 13
               kind: chart
               cls: IST_Table-Body
               table: 7
               row: 6
-              col: 3
-              UID: BIB116.1.4.1.P.57
-            - p: 58
-              text: Ephesians
-              kind: chart
-              cls: IST_Table-Body
-              table: 7
-              row: 7
-              col: 1
-              UID: BIB116.1.4.1.P.58
+              col: 2
+              UID: BIB116.1.4.1.P.55.1
+              source_uid: BIB116.1.4.1.P.55
             - p: 59
               text: The Head over all powers and authorities for the church
               kind: chart
               cls: IST_Table-Body
               table: 7
               row: 7
-              col: 2
+              col: 1
               UID: BIB116.1.4.1.P.59
             - p: 60
-              text: 1:20–23
+              text: Ephesians 1:20–23
               kind: chart
               cls: IST_Table-Body
               table: 7
               row: 7
-              col: 3
-              UID: BIB116.1.4.1.P.60
-            - p: 61
-              text: Philippians
-              kind: chart
-              cls: IST_Table-Body
-              table: 7
-              row: 8
-              col: 1
-              UID: BIB116.1.4.1.P.61
+              col: 2
+              UID: BIB116.1.4.1.P.58.1
+              source_uid: BIB116.1.4.1.P.58
             - p: 62
               text: The One through whom God supplies all our needs
               kind: chart
               cls: IST_Table-Body
               table: 7
               row: 8
-              col: 2
+              col: 1
               UID: BIB116.1.4.1.P.62
             - p: 63
-              text: '4:19'
+              text: Philippians 4:19
               kind: chart
               cls: IST_Table-Body
               table: 7
               row: 8
-              col: 3
-              UID: BIB116.1.4.1.P.63
-            - p: 64
-              text: Colossians
-              kind: chart
-              cls: IST_Table-Body
-              table: 7
-              row: 9
-              col: 1
-              UID: BIB116.1.4.1.P.64
+              col: 2
+              UID: BIB116.1.4.1.P.61.1
+              source_uid: BIB116.1.4.1.P.61
             - p: 65
               text: The Image of the invisible God The Creator The Head of the body,
                 the church
@@ -9301,163 +9197,120 @@ courses:
                 body, the church
               table: 7
               row: 9
-              col: 2
+              col: 1
               UID: BIB116.1.4.1.P.65
             - p: 66
-              text: 1:15–18 2:9 1:18
+              text: Colossians 1:15–18 Colossians 2:9 Colossians 1:18
               kind: chart
               cls: IST_Table-Body
-              md: 1:15–18<br/>2:9<br/>1:18
+              md: Colossians 1:15–18<br/>Colossians 2:9<br/>Colossians 1:18
               table: 7
               row: 9
-              col: 3
-              UID: BIB116.1.4.1.P.66
-            - p: 67
-              text: 1 Thessalonians
-              kind: chart
-              cls: IST_Table-Body
-              table: 7
-              row: 10
-              col: 1
-              UID: BIB116.1.4.1.P.67
+              col: 2
+              UID: BIB116.1.4.1.P.160
             - p: 68
               text: Our returning Lord
               kind: chart
               cls: IST_Table-Body
               table: 7
               row: 10
-              col: 2
+              col: 1
               UID: BIB116.1.4.1.P.68
             - p: 69
-              text: 4:15–18
+              text: 1 Thessalonians 4:15–18
               kind: chart
               cls: IST_Table-Body
               table: 7
               row: 10
-              col: 3
-              UID: BIB116.1.4.1.P.69
-            - p: 70
-              text: 2 Thessalonians
-              kind: chart
-              cls: IST_Table-Body
-              table: 7
-              row: 11
-              col: 1
-              UID: BIB116.1.4.1.P.70
+              col: 2
+              UID: BIB116.1.4.1.P.67.1
+              source_uid: BIB116.1.4.1.P.67
             - p: 71
               text: The world's returning Judge
               kind: chart
               cls: IST_Table-Body
               table: 7
               row: 11
-              col: 2
+              col: 1
               UID: BIB116.1.4.1.P.71.1
               source_uid: BIB116.1.4.1.P.71
             - p: 72
-              text: 1:6–10
+              text: 2 Thessalonians 1:6–10
               kind: chart
               cls: IST_Table-Body
               table: 7
               row: 11
-              col: 3
-              UID: BIB116.1.4.1.P.72
-            - p: 73
-              text: 1 Timothy
-              kind: chart
-              cls: IST_Table-Body
-              table: 7
-              row: 12
-              col: 1
-              UID: BIB116.1.4.1.P.73
+              col: 2
+              UID: BIB116.1.4.1.P.70.1
+              source_uid: BIB116.1.4.1.P.70
             - p: 74
               text: The only Mediator between God and humanity
               kind: chart
               cls: IST_Table-Body
               table: 7
               row: 12
-              col: 2
+              col: 1
               UID: BIB116.1.4.1.P.74
             - p: 75
-              text: '2:5'
+              text: 1 Timothy 2:5
               kind: chart
               cls: IST_Table-Body
               table: 7
               row: 12
-              col: 3
-              UID: BIB116.1.4.1.P.75
-            - p: 76
-              text: 2 Timothy
-              kind: chart
-              cls: IST_Table-Body
-              table: 7
-              row: 13
-              col: 1
-              UID: BIB116.1.4.1.P.76
+              col: 2
+              UID: BIB116.1.4.1.P.73.1
+              source_uid: BIB116.1.4.1.P.73
             - p: 77
               text: The Giver of crowns to faithful shepherds and believers
               kind: chart
               cls: IST_Table-Body
               table: 7
               row: 13
-              col: 2
+              col: 1
               UID: BIB116.1.4.1.P.77
             - p: 78
-              text: '4:8'
+              text: 2 Timothy 4:8
               kind: chart
               cls: IST_Table-Body
               table: 7
               row: 13
-              col: 3
-              UID: BIB116.1.4.1.P.78
-            - p: 79
-              text: Titus
-              kind: chart
-              cls: IST_Table-Body
-              table: 7
-              row: 14
-              col: 1
-              UID: BIB116.1.4.1.P.79
+              col: 2
+              UID: BIB116.1.4.1.P.76.1
+              source_uid: BIB116.1.4.1.P.76
             - p: 80
               text: Our great God and Savior who gives us grace to be holy
               kind: chart
               cls: IST_Table-Body
               table: 7
               row: 14
-              col: 2
+              col: 1
               UID: BIB116.1.4.1.P.80
             - p: 81
-              text: '2:13'
+              text: Titus 2:13
               kind: chart
               cls: IST_Table-Body
               table: 7
               row: 14
-              col: 3
-              UID: BIB116.1.4.1.P.81
-            - p: 82
-              text: Philemon
-              kind: chart
-              cls: IST_Table-Body
-              table: 7
-              row: 15
-              col: 1
-              UID: BIB116.1.4.1.P.82
+              col: 2
+              UID: BIB116.1.4.1.P.79.1
+              source_uid: BIB116.1.4.1.P.79
             - p: 83
               text: The One who sets the captive free
               kind: chart
               cls: IST_Table-Body
               table: 7
               row: 15
-              col: 2
+              col: 1
               UID: BIB116.1.4.1.P.152
             - p: 84
-              text: '1:16'
+              text: Philemon 16
               kind: chart
               cls: IST_Table-Body
               table: 7
               row: 15
-              col: 3
-              UID: BIB116.1.4.1.P.141.1
-              source_uid: BIB116.1.4.1.P.141
+              col: 2
+              UID: BIB116.1.4.1.P.82.1
+              source_uid: BIB116.1.4.1.P.82
             - p: 85
               text: Figure 1.6
               kind: caption
@@ -9496,25 +9349,16 @@ courses:
               table: 8
               row: 1
               col: 1
-              colspan: 3
+              colspan: 2
               header: true
               UID: BIB116.1.4.1.P.87
-            - p: 89
-              text: Book
-              kind: heading
-              cls: IST_Table-Header
-              table: 8
-              row: 2
-              col: 1
-              header: true
-              UID: BIB116.1.4.1.P.43
             - p: 90
               text: Picture or Description of Christ
               kind: heading
               cls: IST_Table-Header
               table: 8
               row: 2
-              col: 2
+              col: 1
               header: true
               UID: BIB116.1.4.1.P.44
             - p: 91
@@ -9523,17 +9367,9 @@ courses:
               cls: IST_Table-Header
               table: 8
               row: 2
-              col: 3
+              col: 2
               header: true
               UID: BIB116.1.4.1.P.45
-            - p: 92
-              text: Hebrews
-              kind: chart
-              cls: IST_Table-Body
-              table: 8
-              row: 3
-              col: 1
-              UID: BIB116.1.4.1.P.91
             - p: 93
               text: The One who represents God perfectly and is better than all Our
                 Great High Priest who offered His own blood
@@ -9543,25 +9379,17 @@ courses:
                 Great High Priest who offered His own blood
               table: 8
               row: 3
-              col: 2
+              col: 1
               UID: BIB116.1.4.1.P.92
             - p: 94
-              text: 1:3 9:11–15
+              text: Hebrews 1:3 Hebrews 9:11–15
               kind: chart
               cls: IST_Table-Body
-              md: 1:3<br/>9:11–15
+              md: Hebrews 1:3<br/>Hebrews 9:11–15
               table: 8
               row: 3
-              col: 3
-              UID: BIB116.1.4.1.P.93
-            - p: 95
-              text: James
-              kind: chart
-              cls: IST_Table-Body
-              table: 8
-              row: 4
-              col: 1
-              UID: BIB116.1.4.1.P.94
+              col: 2
+              UID: BIB116.1.4.1.P.161
             - p: 96
               text: The One who demands action from faith The Healer of the sick
               kind: chart
@@ -9569,74 +9397,52 @@ courses:
               md: The One who demands action from faith<br/>The Healer of the sick
               table: 8
               row: 4
-              col: 2
+              col: 1
               UID: BIB116.1.4.1.P.95.1
               source_uid: BIB116.1.4.1.P.95
             - p: 97
-              text: 1–5 5:15
+              text: James 1–5 James 5:15
               kind: chart
               cls: IST_Table-Body
-              md: 1–5<br/>5:15
+              md: James 1–5<br/>James 5:15
               table: 8
               row: 4
-              col: 3
-              UID: BIB116.1.4.1.P.96
-            - p: 98
-              text: 1 Peter
-              kind: chart
-              cls: IST_Table-Body
-              table: 8
-              row: 5
-              col: 1
-              UID: BIB116.1.4.1.P.97
+              col: 2
+              UID: BIB116.1.4.1.P.162
             - p: 99
               text: The Shepherd of our souls who suffered for us
               kind: chart
               cls: IST_Table-Body
               table: 8
               row: 5
-              col: 2
+              col: 1
               UID: BIB116.1.4.1.P.98
             - p: 100
-              text: 2:22–25
+              text: 1 Peter 2:22–25
               kind: chart
               cls: IST_Table-Body
               table: 8
               row: 5
-              col: 3
-              UID: BIB116.1.4.1.P.99
-            - p: 101
-              text: 2 Peter
-              kind: chart
-              cls: IST_Table-Body
-              table: 8
-              row: 6
-              col: 1
-              UID: BIB116.1.4.1.P.100
+              col: 2
+              UID: BIB116.1.4.1.P.97.1
+              source_uid: BIB116.1.4.1.P.97
             - p: 102
               text: The patient Lord who will return to judge the earth
               kind: chart
               cls: IST_Table-Body
               table: 8
               row: 6
-              col: 2
+              col: 1
               UID: BIB116.1.4.1.P.101
             - p: 103
-              text: 2:8–10
+              text: 2 Peter 2:8–10
               kind: chart
               cls: IST_Table-Body
               table: 8
               row: 6
-              col: 3
-              UID: BIB116.1.4.1.P.102
-            - p: 104
-              text: 1 John
-              kind: chart
-              cls: IST_Table-Body
-              table: 8
-              row: 7
-              col: 1
-              UID: BIB116.1.4.1.P.103
+              col: 2
+              UID: BIB116.1.4.1.P.100.1
+              source_uid: BIB116.1.4.1.P.100
             - p: 105
               text: The Word of life who came by water and blood Our Standard for
                 truth and practice
@@ -9646,49 +9452,35 @@ courses:
                 truth and practice
               table: 8
               row: 7
-              col: 2
+              col: 1
               UID: BIB116.1.4.1.P.104
             - p: 106
-              text: 1:1; 5:6 1:5–7; 3:3, 16; 4:17
+              text: 1 John 1:1; 5:6 1 John 1:5–7; 3:3, 16; 4:17
               kind: chart
               cls: IST_Table-Body
-              md: 1:1; 5:6<br/>1:5–7; 3:3, 16; 4:17
+              md: 1 John 1:1; 5:6<br/>1 John 1:5–7; 3:3, 16; 4:17
               table: 8
               row: 7
-              col: 3
-              UID: BIB116.1.4.1.P.105
-            - p: 107
-              text: 2 John
-              kind: chart
-              cls: IST_Table-Body
-              table: 8
-              row: 8
-              col: 1
-              UID: BIB116.1.4.1.P.106
+              col: 2
+              UID: BIB116.1.4.1.P.105.1
+              source_uid: BIB116.1.4.1.P.105
             - p: 108
               text: The union of truth and love
               kind: chart
               cls: IST_Table-Body
               table: 8
               row: 8
-              col: 2
+              col: 1
               UID: BIB116.1.4.1.P.107
             - p: 109
-              text: '3'
+              text: 2 John 3
               kind: chart
               cls: IST_Table-Body
               table: 8
               row: 8
-              col: 3
-              UID: BIB116.1.4.1.P.108
-            - p: 110
-              text: 3 John
-              kind: chart
-              cls: IST_Table-Body
-              table: 8
-              row: 9
-              col: 1
-              UID: BIB116.1.4.1.P.109
+              col: 2
+              UID: BIB116.1.4.1.P.106.1
+              source_uid: BIB116.1.4.1.P.106
             - p: 111
               text: The One who changed the "Son of Thunder" into the apostle of love
                 and truth
@@ -9696,41 +9488,34 @@ courses:
               cls: IST_Table-Body
               table: 8
               row: 9
-              col: 2
+              col: 1
               UID: BIB116.1.4.1.P.110.1
               source_uid: BIB116.1.4.1.P.110
             - p: 112
-              text: entire book
+              text: 3 John (entire book)
               kind: chart
               cls: IST_Table-Body
               table: 8
               row: 9
-              col: 3
-              UID: BIB116.1.4.1.P.26
-            - p: 113
-              text: Jude
-              kind: chart
-              cls: IST_Table-Body
-              table: 8
-              row: 10
-              col: 1
-              UID: BIB116.1.4.1.P.112
+              col: 2
+              UID: BIB116.1.4.1.P.163
             - p: 114
               text: The Lord coming with thousands upon thousands of His saints
               kind: chart
               cls: IST_Table-Body
               table: 8
               row: 10
-              col: 2
+              col: 1
               UID: BIB116.1.4.1.P.113
             - p: 115
-              text: '14'
+              text: Jude 14
               kind: chart
               cls: IST_Table-Body
               table: 8
               row: 10
-              col: 3
-              UID: BIB116.1.4.1.P.114
+              col: 2
+              UID: BIB116.1.4.1.P.112.1
+              source_uid: BIB116.1.4.1.P.112
             - p: 116
               text: Figure 1.7
               kind: caption
@@ -9760,25 +9545,16 @@ courses:
               table: 9
               row: 1
               col: 1
-              colspan: 3
+              colspan: 2
               header: true
               UID: BIB116.1.4.1.P.117
-            - p: 120
-              text: Book
-              kind: heading
-              cls: IST_Table-Header
-              table: 9
-              row: 2
-              col: 1
-              header: true
-              UID: BIB116.1.4.1.P.88
             - p: 121
               text: Picture or Description of Christ
               kind: heading
               cls: IST_Table-Header
               table: 9
               row: 2
-              col: 2
+              col: 1
               header: true
               UID: BIB116.1.4.1.P.89
             - p: 122
@@ -9787,34 +9563,26 @@ courses:
               cls: IST_Table-Header
               table: 9
               row: 2
-              col: 3
+              col: 2
               header: true
               UID: BIB116.1.4.1.P.90
-            - p: 123
-              text: Revelation
-              kind: chart
-              cls: IST_Table-Body
-              table: 9
-              row: 3
-              col: 1
-              rowspan: 11
-              UID: BIB116.1.4.1.P.121
             - p: 124
               text: The One coming with the clouds and whom all nations will see
               kind: chart
               cls: IST_Table-Body
               table: 9
               row: 3
-              col: 2
+              col: 1
               UID: BIB116.1.4.1.P.122
             - p: 125
-              text: '1:7'
+              text: Revelation 1:7
               kind: chart
               cls: IST_Table-Body
               table: 9
               row: 3
-              col: 3
-              UID: BIB116.1.4.1.P.123
+              col: 2
+              UID: BIB116.1.4.1.P.121.1
+              source_uid: BIB116.1.4.1.P.121
             - p: 126
               text: The One walking among the lampstands, who was dead but is alive
                 for ever and ever
@@ -9825,13 +9593,13 @@ courses:
               col: 1
               UID: BIB116.1.4.1.P.124
             - p: 127
-              text: 1:13, 18
+              text: Revelation 1:13, 18
               kind: chart
               cls: IST_Table-Body
               table: 9
               row: 4
               col: 2
-              UID: BIB116.1.4.1.P.125
+              UID: BIB116.1.4.1.P.164
             - p: 128
               text: The One who holds the keys of death and Hades
               kind: chart
@@ -9841,13 +9609,13 @@ courses:
               col: 1
               UID: BIB116.1.4.1.P.126
             - p: 129
-              text: '1:18'
+              text: Revelation 1:18
               kind: chart
               cls: IST_Table-Body
               table: 9
               row: 5
               col: 2
-              UID: BIB116.1.4.1.P.127
+              UID: BIB116.1.4.1.P.165
             - p: 130
               text: The One who hates the deeds of the Nicolaitans
               kind: chart
@@ -9857,13 +9625,13 @@ courses:
               col: 1
               UID: BIB116.1.4.1.P.128
             - p: 131
-              text: '2:6'
+              text: Revelation 2:6
               kind: chart
               cls: IST_Table-Body
               table: 9
               row: 6
               col: 2
-              UID: BIB116.1.4.1.P.129
+              UID: BIB116.1.4.1.P.166
             - p: 132
               text: The One with a sharp two-edged sword
               kind: chart
@@ -9873,13 +9641,13 @@ courses:
               col: 1
               UID: BIB116.1.4.1.P.130
             - p: 133
-              text: '2:12'
+              text: Revelation 2:12
               kind: chart
               cls: IST_Table-Body
               table: 9
               row: 7
               col: 2
-              UID: BIB116.1.4.1.P.131
+              UID: BIB116.1.4.1.P.167
             - p: 134
               text: The Son of God with eyes like blazing fire and feet like polished
                 bronze
@@ -9890,13 +9658,13 @@ courses:
               col: 1
               UID: BIB116.1.4.1.P.132
             - p: 135
-              text: '2:18'
+              text: Revelation 2:18
               kind: chart
               cls: IST_Table-Body
               table: 9
               row: 8
               col: 2
-              UID: BIB116.1.4.1.P.133
+              UID: BIB116.1.4.1.P.168
             - p: 136
               text: The Lamb who takes the scroll from the Father's right hand
               kind: chart
@@ -9907,13 +9675,13 @@ courses:
               UID: BIB116.1.4.1.P.134.1
               source_uid: BIB116.1.4.1.P.134
             - p: 137
-              text: 5:6–7
+              text: Revelation 5:6–7
               kind: chart
               cls: IST_Table-Body
               table: 9
               row: 9
               col: 2
-              UID: BIB116.1.4.1.P.135
+              UID: BIB116.1.4.1.P.169
             - p: 138
               text: Israel's Son who will rule the nations with an iron rod
               kind: chart
@@ -9924,13 +9692,13 @@ courses:
               UID: BIB116.1.4.1.P.136.1
               source_uid: BIB116.1.4.1.P.136
             - p: 139
-              text: '12:5'
+              text: Revelation 12:5
               kind: chart
               cls: IST_Table-Body
               table: 9
               row: 10
               col: 2
-              UID: BIB116.1.4.1.P.137
+              UID: BIB116.1.4.1.P.170
             - p: 140
               text: The Bridegroom who will come for His bride
               kind: chart
@@ -9940,13 +9708,13 @@ courses:
               col: 1
               UID: BIB116.1.4.1.P.138
             - p: 141
-              text: '19:7'
+              text: Revelation 19:7
               kind: chart
               cls: IST_Table-Body
               table: 9
               row: 11
               col: 2
-              UID: BIB116.1.4.1.P.139
+              UID: BIB116.1.4.1.P.171
             - p: 142
               text: The King of kings and Lord of lords
               kind: chart
@@ -9956,13 +9724,13 @@ courses:
               col: 1
               UID: BIB116.1.4.1.P.140
             - p: 143
-              text: '19:16'
+              text: Revelation 19:16
               kind: chart
               cls: IST_Table-Body
               table: 9
               row: 12
               col: 2
-              UID: BIB116.1.4.1.P.155
+              UID: BIB116.1.4.1.P.172
             - p: 144
               text: The Alpha and the Omega, the First and the Last, the Beginning
                 and the End
@@ -9973,6 +9741,725 @@ courses:
               col: 1
               UID: BIB116.1.4.1.P.142
             - p: 145
+              text: Revelation 22:13
+              kind: chart
+              cls: IST_Table-Body
+              table: 9
+              row: 13
+              col: 2
+              UID: BIB116.1.4.1.P.173
+            - p: 146
+              text: Figure 1.8
+              kind: caption
+              cls: IST_Photo-Caption
+              UID: BIB116.1.4.1.P.156
+            - p: 26
+              text: 2:1–2; 27:37
+              kind: chart
+              cls: IST_Table-Body
+              table: 6
+              row: 3
+              col: 3
+              UID: BIB116.1.4.1.P.23
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.1.4.1.P.23.1
+            - p: 29
+              text: 10:35–45
+              kind: chart
+              cls: IST_Table-Body
+              table: 6
+              row: 4
+              col: 3
+              UID: BIB116.1.4.1.P.148
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.1.4.1.P.148.1
+            - p: 32
+              text: 6:5; 19:10
+              kind: chart
+              cls: IST_Table-Body
+              table: 6
+              row: 5
+              col: 3
+              UID: BIB116.1.4.1.P.29
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.1.4.1.P.29.1
+            - p: 35
+              text: 3:16–17
+              kind: chart
+              cls: IST_Table-Body
+              table: 6
+              row: 6
+              col: 3
+              UID: BIB116.1.4.1.P.36
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.1.4.1.P.36.1
+            - p: 38
+              text: 1:5; 2:4 1:8 1:9 7:5–6
+              kind: chart
+              cls: IST_Table-Body
+              md: 1:5; 2:4<br/>1:8<br/>1:9<br/>7:5–6
+              table: 6
+              row: 7
+              col: 3
+              UID: BIB116.1.4.1.P.39.1
+              source_uid: BIB116.1.4.1.P.39
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.1.4.1.P.39.2
+            - p: 48
+              text: 3:22 6:15–18
+              kind: chart
+              cls: IST_Table-Body
+              md: 3:22<br/>6:15–18
+              table: 7
+              row: 3
+              col: 3
+              UID: BIB116.1.4.1.P.48
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.1.4.1.P.48.1
+            - p: 49
+              text: 1 Corinthians
+              kind: chart
+              cls: IST_Table-Body
+              table: 7
+              row: 4
+              col: 1
+              UID: BIB116.1.4.1.P.49
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.1.4.1.P.49.1
+            - p: 52
+              text: 2 Corinthians
+              kind: chart
+              cls: IST_Table-Body
+              table: 7
+              row: 5
+              col: 1
+              UID: BIB116.1.4.1.P.52
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.1.4.1.P.52.1
+            - p: 55
+              text: Galatians
+              kind: chart
+              cls: IST_Table-Body
+              table: 7
+              row: 6
+              col: 1
+              UID: BIB116.1.4.1.P.55
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.1.4.1.P.55.1
+            - p: 58
+              text: Ephesians
+              kind: chart
+              cls: IST_Table-Body
+              table: 7
+              row: 7
+              col: 1
+              UID: BIB116.1.4.1.P.58
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.1.4.1.P.58.1
+            - p: 61
+              text: Philippians
+              kind: chart
+              cls: IST_Table-Body
+              table: 7
+              row: 8
+              col: 1
+              UID: BIB116.1.4.1.P.61
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.1.4.1.P.61.1
+            - p: 67
+              text: 1 Thessalonians
+              kind: chart
+              cls: IST_Table-Body
+              table: 7
+              row: 10
+              col: 1
+              UID: BIB116.1.4.1.P.67
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.1.4.1.P.67.1
+            - p: 70
+              text: 2 Thessalonians
+              kind: chart
+              cls: IST_Table-Body
+              table: 7
+              row: 11
+              col: 1
+              UID: BIB116.1.4.1.P.70
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.1.4.1.P.70.1
+            - p: 73
+              text: 1 Timothy
+              kind: chart
+              cls: IST_Table-Body
+              table: 7
+              row: 12
+              col: 1
+              UID: BIB116.1.4.1.P.73
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.1.4.1.P.73.1
+            - p: 76
+              text: 2 Timothy
+              kind: chart
+              cls: IST_Table-Body
+              table: 7
+              row: 13
+              col: 1
+              UID: BIB116.1.4.1.P.76
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.1.4.1.P.76.1
+            - p: 79
+              text: Titus
+              kind: chart
+              cls: IST_Table-Body
+              table: 7
+              row: 14
+              col: 1
+              UID: BIB116.1.4.1.P.79
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.1.4.1.P.79.1
+            - p: 82
+              text: Philemon
+              kind: chart
+              cls: IST_Table-Body
+              table: 7
+              row: 15
+              col: 1
+              UID: BIB116.1.4.1.P.82
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.1.4.1.P.82.1
+            - p: 98
+              text: 1 Peter
+              kind: chart
+              cls: IST_Table-Body
+              table: 8
+              row: 5
+              col: 1
+              UID: BIB116.1.4.1.P.97
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.1.4.1.P.97.1
+            - p: 101
+              text: 2 Peter
+              kind: chart
+              cls: IST_Table-Body
+              table: 8
+              row: 6
+              col: 1
+              UID: BIB116.1.4.1.P.100
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.1.4.1.P.100.1
+            - p: 106
+              text: 1:1; 5:6 1:5–7; 3:3, 16; 4:17
+              kind: chart
+              cls: IST_Table-Body
+              md: 1:1; 5:6<br/>1:5–7; 3:3, 16; 4:17
+              table: 8
+              row: 7
+              col: 3
+              UID: BIB116.1.4.1.P.105
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.1.4.1.P.105.1
+            - p: 107
+              text: 2 John
+              kind: chart
+              cls: IST_Table-Body
+              table: 8
+              row: 8
+              col: 1
+              UID: BIB116.1.4.1.P.106
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.1.4.1.P.106.1
+            - p: 113
+              text: Jude
+              kind: chart
+              cls: IST_Table-Body
+              table: 8
+              row: 10
+              col: 1
+              UID: BIB116.1.4.1.P.112
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.1.4.1.P.112.1
+            - p: 123
+              text: Revelation
+              kind: chart
+              cls: IST_Table-Body
+              table: 9
+              row: 3
+              col: 1
+              rowspan: 11
+              UID: BIB116.1.4.1.P.121
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.1.4.1.P.121.1
+            - p: 21
+              text: Book
+              kind: heading
+              cls: IST_Table-Header
+              table: 6
+              row: 2
+              col: 1
+              header: true
+              UID: BIB116.1.4.1.P.18
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 24
+              text: Matthew
+              kind: chart
+              cls: IST_Table-Body
+              table: 6
+              row: 3
+              col: 1
+              UID: BIB116.1.4.1.P.21
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 27
+              text: Mark
+              kind: chart
+              cls: IST_Table-Body
+              table: 6
+              row: 4
+              col: 1
+              UID: BIB116.1.4.1.P.24
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 30
+              text: Luke
+              kind: chart
+              cls: IST_Table-Body
+              table: 6
+              row: 5
+              col: 1
+              UID: BIB116.1.4.1.P.27
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 33
+              text: John
+              kind: chart
+              cls: IST_Table-Body
+              table: 6
+              row: 6
+              col: 1
+              UID: BIB116.1.4.1.P.34
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 36
+              text: Acts
+              kind: chart
+              cls: IST_Table-Body
+              table: 6
+              row: 7
+              col: 1
+              UID: BIB116.1.4.1.P.37
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 43
+              text: Book
+              kind: heading
+              cls: IST_Table-Header
+              table: 7
+              row: 2
+              col: 1
+              header: true
+              UID: BIB116.1.4.1.P.31
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 46
+              text: Romans
+              kind: chart
+              cls: IST_Table-Body
+              table: 7
+              row: 3
+              col: 1
+              UID: BIB116.1.4.1.P.46
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 51
+              text: '15:20'
+              kind: chart
+              cls: IST_Table-Body
+              table: 7
+              row: 4
+              col: 3
+              UID: BIB116.1.4.1.P.51
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 54
+              text: '5:21'
+              kind: chart
+              cls: IST_Table-Body
+              table: 7
+              row: 5
+              col: 3
+              UID: BIB116.1.4.1.P.54
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 57
+              text: 3:10, 13
+              kind: chart
+              cls: IST_Table-Body
+              table: 7
+              row: 6
+              col: 3
+              UID: BIB116.1.4.1.P.57
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 60
+              text: 1:20–23
+              kind: chart
+              cls: IST_Table-Body
+              table: 7
+              row: 7
+              col: 3
+              UID: BIB116.1.4.1.P.60
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 63
+              text: '4:19'
+              kind: chart
+              cls: IST_Table-Body
+              table: 7
+              row: 8
+              col: 3
+              UID: BIB116.1.4.1.P.63
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 64
+              text: Colossians
+              kind: chart
+              cls: IST_Table-Body
+              table: 7
+              row: 9
+              col: 1
+              UID: BIB116.1.4.1.P.64
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 66
+              text: 1:15–18 2:9 1:18
+              kind: chart
+              cls: IST_Table-Body
+              md: 1:15–18<br/>2:9<br/>1:18
+              table: 7
+              row: 9
+              col: 3
+              UID: BIB116.1.4.1.P.66
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 69
+              text: 4:15–18
+              kind: chart
+              cls: IST_Table-Body
+              table: 7
+              row: 10
+              col: 3
+              UID: BIB116.1.4.1.P.69
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 72
+              text: 1:6–10
+              kind: chart
+              cls: IST_Table-Body
+              table: 7
+              row: 11
+              col: 3
+              UID: BIB116.1.4.1.P.72
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 75
+              text: '2:5'
+              kind: chart
+              cls: IST_Table-Body
+              table: 7
+              row: 12
+              col: 3
+              UID: BIB116.1.4.1.P.75
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 78
+              text: '4:8'
+              kind: chart
+              cls: IST_Table-Body
+              table: 7
+              row: 13
+              col: 3
+              UID: BIB116.1.4.1.P.78
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 81
+              text: '2:13'
+              kind: chart
+              cls: IST_Table-Body
+              table: 7
+              row: 14
+              col: 3
+              UID: BIB116.1.4.1.P.81
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 84
+              text: '1:16'
+              kind: chart
+              cls: IST_Table-Body
+              table: 7
+              row: 15
+              col: 3
+              UID: BIB116.1.4.1.P.141.1
+              source_uid: BIB116.1.4.1.P.141
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 89
+              text: Book
+              kind: heading
+              cls: IST_Table-Header
+              table: 8
+              row: 2
+              col: 1
+              header: true
+              UID: BIB116.1.4.1.P.43
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 92
+              text: Hebrews
+              kind: chart
+              cls: IST_Table-Body
+              table: 8
+              row: 3
+              col: 1
+              UID: BIB116.1.4.1.P.91
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 94
+              text: 1:3 9:11–15
+              kind: chart
+              cls: IST_Table-Body
+              md: 1:3<br/>9:11–15
+              table: 8
+              row: 3
+              col: 3
+              UID: BIB116.1.4.1.P.93
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 95
+              text: James
+              kind: chart
+              cls: IST_Table-Body
+              table: 8
+              row: 4
+              col: 1
+              UID: BIB116.1.4.1.P.94
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 97
+              text: 1–5 5:15
+              kind: chart
+              cls: IST_Table-Body
+              md: 1–5<br/>5:15
+              table: 8
+              row: 4
+              col: 3
+              UID: BIB116.1.4.1.P.96
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 100
+              text: 2:22–25
+              kind: chart
+              cls: IST_Table-Body
+              table: 8
+              row: 5
+              col: 3
+              UID: BIB116.1.4.1.P.99
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 103
+              text: 2:8–10
+              kind: chart
+              cls: IST_Table-Body
+              table: 8
+              row: 6
+              col: 3
+              UID: BIB116.1.4.1.P.102
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 104
+              text: 1 John
+              kind: chart
+              cls: IST_Table-Body
+              table: 8
+              row: 7
+              col: 1
+              UID: BIB116.1.4.1.P.103
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 109
+              text: '3'
+              kind: chart
+              cls: IST_Table-Body
+              table: 8
+              row: 8
+              col: 3
+              UID: BIB116.1.4.1.P.108
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 110
+              text: 3 John
+              kind: chart
+              cls: IST_Table-Body
+              table: 8
+              row: 9
+              col: 1
+              UID: BIB116.1.4.1.P.109
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 112
+              text: entire book
+              kind: chart
+              cls: IST_Table-Body
+              table: 8
+              row: 9
+              col: 3
+              UID: BIB116.1.4.1.P.26
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 115
+              text: '14'
+              kind: chart
+              cls: IST_Table-Body
+              table: 8
+              row: 10
+              col: 3
+              UID: BIB116.1.4.1.P.114
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 120
+              text: Book
+              kind: heading
+              cls: IST_Table-Header
+              table: 9
+              row: 2
+              col: 1
+              header: true
+              UID: BIB116.1.4.1.P.88
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 125
+              text: '1:7'
+              kind: chart
+              cls: IST_Table-Body
+              table: 9
+              row: 3
+              col: 3
+              UID: BIB116.1.4.1.P.123
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 127
+              text: 1:13, 18
+              kind: chart
+              cls: IST_Table-Body
+              table: 9
+              row: 4
+              col: 2
+              UID: BIB116.1.4.1.P.125
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 129
+              text: '1:18'
+              kind: chart
+              cls: IST_Table-Body
+              table: 9
+              row: 5
+              col: 2
+              UID: BIB116.1.4.1.P.127
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 131
+              text: '2:6'
+              kind: chart
+              cls: IST_Table-Body
+              table: 9
+              row: 6
+              col: 2
+              UID: BIB116.1.4.1.P.129
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 133
+              text: '2:12'
+              kind: chart
+              cls: IST_Table-Body
+              table: 9
+              row: 7
+              col: 2
+              UID: BIB116.1.4.1.P.131
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 135
+              text: '2:18'
+              kind: chart
+              cls: IST_Table-Body
+              table: 9
+              row: 8
+              col: 2
+              UID: BIB116.1.4.1.P.133
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 137
+              text: 5:6–7
+              kind: chart
+              cls: IST_Table-Body
+              table: 9
+              row: 9
+              col: 2
+              UID: BIB116.1.4.1.P.135
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 139
+              text: '12:5'
+              kind: chart
+              cls: IST_Table-Body
+              table: 9
+              row: 10
+              col: 2
+              UID: BIB116.1.4.1.P.137
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 141
+              text: '19:7'
+              kind: chart
+              cls: IST_Table-Body
+              table: 9
+              row: 11
+              col: 2
+              UID: BIB116.1.4.1.P.139
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 143
+              text: '19:16'
+              kind: chart
+              cls: IST_Table-Body
+              table: 9
+              row: 12
+              col: 2
+              UID: BIB116.1.4.1.P.155
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 145
               text: '22:13'
               kind: chart
               cls: IST_Table-Body
@@ -9980,11 +10467,8 @@ courses:
               row: 13
               col: 2
               UID: BIB116.1.4.1.P.143
-            - p: 146
-              text: Figure 1.8
-              kind: caption
-              cls: IST_Photo-Caption
-              UID: BIB116.1.4.1.P.156
+              status: outdated 2026-08-17
+              outdated_reason: struck
             - p: 6
               text: The Gospels record Christ’s appearance and tell of Christ’s
               kind: chart
@@ -10435,6 +10919,371 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             glossary: []
+            scripture:
+            - intext: Matthew 2:1–2; 27:37
+              version: NIV
+              refs:
+              - ref: Matthew 2:1-2
+                key: matthew.2.1-2
+                bib_gate: https://www.biblegateway.com/passage/?search=Matthew%202%3A1-2&version=NIV
+              - ref: Matthew 27:37
+                key: matthew.27.37
+                bib_gate: https://www.biblegateway.com/passage/?search=Matthew%2027%3A37&version=NIV
+              paragraph: BIB116.1.4.1.P.19
+              UID: BIB116.1.4.1.S.1
+            - intext: Mark 10:35–45
+              version: NIV
+              refs:
+              - ref: Mark 10:35-45
+                key: mark.10.35-45
+                bib_gate: https://www.biblegateway.com/passage/?search=Mark%2010%3A35-45&version=NIV
+              UID: BIB116.1.4.1.S.2
+            - intext: Luke 6:5; 19:10
+              version: NIV
+              refs:
+              - ref: Luke 6:5
+                key: luke.6.5
+                bib_gate: https://www.biblegateway.com/passage/?search=Luke%206%3A5&version=NIV
+              - ref: Luke 19:10
+                key: luke.19.10
+                bib_gate: https://www.biblegateway.com/passage/?search=Luke%2019%3A10&version=NIV
+              paragraph: BIB116.1.4.1.P.23.1
+              UID: BIB116.1.4.1.S.3
+            - intext: John 3:16–17
+              version: NIV
+              refs:
+              - ref: John 3:16-17
+                key: john.3.16-17
+                bib_gate: https://www.biblegateway.com/passage/?search=John%203%3A16-17&version=NIV
+              paragraph: BIB116.1.4.1.P.25
+              UID: BIB116.1.4.1.S.4
+            - intext: Acts 1:5; 2:4
+              version: NIV
+              refs:
+              - ref: Acts 1:5
+                key: acts.1.5
+                bib_gate: https://www.biblegateway.com/passage/?search=Acts%201%3A5&version=NIV
+              - ref: Acts 2:4
+                key: acts.2.4
+                bib_gate: https://www.biblegateway.com/passage/?search=Acts%202%3A4&version=NIV
+              UID: BIB116.1.4.1.S.5
+            - intext: Acts 1:8
+              version: NIV
+              refs:
+              - ref: Acts 1:8
+                key: acts.1.8
+                bib_gate: https://www.biblegateway.com/passage/?search=Acts%201%3A8&version=NIV
+              UID: BIB116.1.4.1.S.6
+            - intext: Acts 1:9
+              version: NIV
+              refs:
+              - ref: Acts 1:9
+                key: acts.1.9
+                bib_gate: https://www.biblegateway.com/passage/?search=Acts%201%3A9&version=NIV
+              UID: BIB116.1.4.1.S.7
+            - intext: Acts 7:5–6
+              version: NIV
+              refs:
+              - ref: Acts 7:5-6
+                key: acts.7.5-6
+                bib_gate: https://www.biblegateway.com/passage/?search=Acts%207%3A5-6&version=NIV
+              UID: BIB116.1.4.1.S.8
+            - intext: Romans 3:22
+              version: NIV
+              refs:
+              - ref: Romans 3:22
+                key: romans.3.22
+                bib_gate: https://www.biblegateway.com/passage/?search=Romans%203%3A22&version=NIV
+              paragraph: BIB116.1.4.1.P.39.2
+              UID: BIB116.1.4.1.S.9
+            - intext: Romans 6:15–18
+              version: NIV
+              refs:
+              - ref: Romans 6:15-18
+                key: romans.6.15-18
+                bib_gate: https://www.biblegateway.com/passage/?search=Romans%206%3A15-18&version=NIV
+              paragraph: BIB116.1.4.1.P.39.2
+              UID: BIB116.1.4.1.S.10
+            - intext: 1 Corinthians 15:20
+              version: NIV
+              refs:
+              - ref: 1 Corinthians 15:20
+                key: 1corinthians.15.20
+                bib_gate: https://www.biblegateway.com/passage/?search=1%20Corinthians%2015%3A20&version=NIV
+              paragraph: BIB116.1.4.1.P.40
+              UID: BIB116.1.4.1.S.11
+            - intext: 2 Corinthians 5:21
+              version: NIV
+              refs:
+              - ref: 2 Corinthians 5:21
+                key: 2corinthians.5.21
+                bib_gate: https://www.biblegateway.com/passage/?search=2%20Corinthians%205%3A21&version=NIV
+              paragraph: BIB116.1.4.1.P.42.1
+              UID: BIB116.1.4.1.S.12
+            - intext: Galatians 3:10, 13
+              version: NIV
+              refs:
+              - ref: Galatians 3:10
+                key: galatians.3.10
+                bib_gate: https://www.biblegateway.com/passage/?search=Galatians%203%3A10&version=NIV
+              - ref: Galatians 3:13
+                key: galatians.3.13
+                bib_gate: https://www.biblegateway.com/passage/?search=Galatians%203%3A13&version=NIV
+              paragraph: BIB116.1.4.1.P.32
+              UID: BIB116.1.4.1.S.13
+            - intext: Ephesians 1:20–23
+              version: NIV
+              refs:
+              - ref: Ephesians 1:20-23
+                key: ephesians.1.20-23
+                bib_gate: https://www.biblegateway.com/passage/?search=Ephesians%201%3A20-23&version=NIV
+              UID: BIB116.1.4.1.S.14
+            - intext: Philippians 4:19
+              version: NIV
+              refs:
+              - ref: Philippians 4:19
+                key: philippians.4.19
+                bib_gate: https://www.biblegateway.com/passage/?search=Philippians%204%3A19&version=NIV
+              paragraph: BIB116.1.4.1.P.48.1
+              UID: BIB116.1.4.1.S.15
+            - intext: Colossians 1:15–18
+              version: NIV
+              refs:
+              - ref: Colossians 1:15-18
+                key: colossians.1.15-18
+                bib_gate: https://www.biblegateway.com/passage/?search=Colossians%201%3A15-18&version=NIV
+              paragraph: BIB116.1.4.1.P.150
+              UID: BIB116.1.4.1.S.16
+            - intext: Colossians 2:9
+              version: NIV
+              refs:
+              - ref: Colossians 2:9
+                key: colossians.2.9
+                bib_gate: https://www.biblegateway.com/passage/?search=Colossians%202%3A9&version=NIV
+              paragraph: BIB116.1.4.1.P.150
+              UID: BIB116.1.4.1.S.17
+            - intext: Colossians 1:18
+              version: NIV
+              refs:
+              - ref: Colossians 1:18
+                key: colossians.1.18
+                bib_gate: https://www.biblegateway.com/passage/?search=Colossians%201%3A18&version=NIV
+              paragraph: BIB116.1.4.1.P.150
+              UID: BIB116.1.4.1.S.18
+            - intext: 1 Thessalonians 4:15–18
+              version: NIV
+              refs:
+              - ref: 1 Thessalonians 4:15-18
+                key: 1thessalonians.4.15-18
+                bib_gate: https://www.biblegateway.com/passage/?search=1%20Thessalonians%204%3A15-18&version=NIV
+              UID: BIB116.1.4.1.S.19
+            - intext: 2 Thessalonians 1:6–10
+              version: NIV
+              refs:
+              - ref: 2 Thessalonians 1:6-10
+                key: 2thessalonians.1.6-10
+                bib_gate: https://www.biblegateway.com/passage/?search=2%20Thessalonians%201%3A6-10&version=NIV
+              paragraph: BIB116.1.4.1.P.52.1
+              UID: BIB116.1.4.1.S.20
+            - intext: 1 Timothy 2:5
+              version: NIV
+              refs:
+              - ref: 1 Timothy 2:5
+                key: 1timothy.2.5
+                bib_gate: https://www.biblegateway.com/passage/?search=1%20Timothy%202%3A5&version=NIV
+              paragraph: BIB116.1.4.1.P.151
+              UID: BIB116.1.4.1.S.21
+            - intext: 2 Timothy 4:8
+              version: NIV
+              refs:
+              - ref: 2 Timothy 4:8
+                key: 2timothy.4.8
+                bib_gate: https://www.biblegateway.com/passage/?search=2%20Timothy%204%3A8&version=NIV
+              UID: BIB116.1.4.1.S.22
+            - intext: Titus 2:13
+              version: NIV
+              refs:
+              - ref: Titus 2:13
+                key: titus.2.13
+                bib_gate: https://www.biblegateway.com/passage/?search=Titus%202%3A13&version=NIV
+              paragraph: BIB116.1.4.1.P.58.1
+              UID: BIB116.1.4.1.S.23
+            - intext: Philemon 16
+              version: NIV
+              refs:
+              - ref: Philemon 1:16
+                key: philemon.1.16
+                bib_gate: https://www.biblegateway.com/passage/?search=Philemon%201%3A16&version=NIV
+              paragraph: BIB116.1.4.1.P.62
+              UID: BIB116.1.4.1.S.24
+            - intext: Hebrews 1:3
+              version: NIV
+              refs:
+              - ref: Hebrews 1:3
+                key: hebrews.1.3
+                bib_gate: https://www.biblegateway.com/passage/?search=Hebrews%201%3A3&version=NIV
+              UID: BIB116.1.4.1.S.25
+            - intext: Hebrews 9:11–15
+              version: NIV
+              refs:
+              - ref: Hebrews 9:11-15
+                key: hebrews.9.11-15
+                bib_gate: https://www.biblegateway.com/passage/?search=Hebrews%209%3A11-15&version=NIV
+              UID: BIB116.1.4.1.S.26
+            - intext: James 5:15
+              version: NIV
+              refs:
+              - ref: James 5:15
+                key: james.5.15
+                bib_gate: https://www.biblegateway.com/passage/?search=James%205%3A15&version=NIV
+              paragraph: BIB116.1.4.1.P.70.1
+              UID: BIB116.1.4.1.S.27
+            - intext: 1 Peter 2:22–25
+              version: NIV
+              refs:
+              - ref: 1 Peter 2:22-25
+                key: 1peter.2.22-25
+                bib_gate: https://www.biblegateway.com/passage/?search=1%20Peter%202%3A22-25&version=NIV
+              paragraph: BIB116.1.4.1.P.74
+              UID: BIB116.1.4.1.S.28
+            - intext: 2 Peter 2:8–10
+              version: NIV
+              refs:
+              - ref: 2 Peter 2:8-10
+                key: 2peter.2.8-10
+                bib_gate: https://www.biblegateway.com/passage/?search=2%20Peter%202%3A8-10&version=NIV
+              UID: BIB116.1.4.1.S.29
+            - intext: 1 John 1:1; 5:6
+              version: NIV
+              refs:
+              - ref: 1 John 1:1
+                key: 1john.1.1
+                bib_gate: https://www.biblegateway.com/passage/?search=1%20John%201%3A1&version=NIV
+              - ref: 1 John 5:6
+                key: 1john.5.6
+                bib_gate: https://www.biblegateway.com/passage/?search=1%20John%205%3A6&version=NIV
+              paragraph: BIB116.1.4.1.P.76.1
+              UID: BIB116.1.4.1.S.30
+            - intext: 1 John 1:5–7; 3:3, 16; 4:17
+              version: NIV
+              refs:
+              - ref: 1 John 1:5-7
+                key: 1john.1.5-7
+                bib_gate: https://www.biblegateway.com/passage/?search=1%20John%201%3A5-7&version=NIV
+              - ref: 1 John 3:3
+                key: 1john.3.3
+                bib_gate: https://www.biblegateway.com/passage/?search=1%20John%203%3A3&version=NIV
+              - ref: 1 John 3:16
+                key: 1john.3.16
+                bib_gate: https://www.biblegateway.com/passage/?search=1%20John%203%3A16&version=NIV
+              - ref: 1 John 4:17
+                key: 1john.4.17
+                bib_gate: https://www.biblegateway.com/passage/?search=1%20John%204%3A17&version=NIV
+              paragraph: BIB116.1.4.1.P.76.1
+              UID: BIB116.1.4.1.S.31
+            - intext: 2 John 3
+              version: NIV
+              refs:
+              - ref: 2 John 1:3
+                key: 2john.1.3
+                bib_gate: https://www.biblegateway.com/passage/?search=2%20John%201%3A3&version=NIV
+              paragraph: BIB116.1.4.1.P.80
+              UID: BIB116.1.4.1.S.32
+            - intext: Jude 14
+              version: NIV
+              refs:
+              - ref: Jude 1:14
+                key: jude.1.14
+                bib_gate: https://www.biblegateway.com/passage/?search=Jude%201%3A14&version=NIV
+              paragraph: BIB116.1.4.1.P.82.1
+              UID: BIB116.1.4.1.S.33
+            - intext: Revelation 1:7
+              version: NIV
+              refs:
+              - ref: Revelation 1:7
+                key: revelation.1.7
+                bib_gate: https://www.biblegateway.com/passage/?search=Revelation%201%3A7&version=NIV
+              UID: BIB116.1.4.1.S.34
+            - intext: Revelation 1:13, 18
+              version: NIV
+              refs:
+              - ref: Revelation 1:13
+                key: revelation.1.13
+                bib_gate: https://www.biblegateway.com/passage/?search=Revelation%201%3A13&version=NIV
+              - ref: Revelation 1:18
+                key: revelation.1.18
+                bib_gate: https://www.biblegateway.com/passage/?search=Revelation%201%3A18&version=NIV
+              paragraph: BIB116.1.4.1.P.161
+              UID: BIB116.1.4.1.S.35
+            - intext: Revelation 1:18
+              version: NIV
+              refs:
+              - ref: Revelation 1:18
+                key: revelation.1.18
+                bib_gate: https://www.biblegateway.com/passage/?search=Revelation%201%3A18&version=NIV
+              paragraph: BIB116.1.4.1.P.95.1
+              UID: BIB116.1.4.1.S.36
+            - intext: Revelation 2:6
+              version: NIV
+              refs:
+              - ref: Revelation 2:6
+                key: revelation.2.6
+                bib_gate: https://www.biblegateway.com/passage/?search=Revelation%202%3A6&version=NIV
+              UID: BIB116.1.4.1.S.37
+            - intext: Revelation 2:12
+              version: NIV
+              refs:
+              - ref: Revelation 2:12
+                key: revelation.2.12
+                bib_gate: https://www.biblegateway.com/passage/?search=Revelation%202%3A12&version=NIV
+              paragraph: BIB116.1.4.1.P.97.1
+              UID: BIB116.1.4.1.S.38
+            - intext: Revelation 2:18
+              version: NIV
+              refs:
+              - ref: Revelation 2:18
+                key: revelation.2.18
+                bib_gate: https://www.biblegateway.com/passage/?search=Revelation%202%3A18&version=NIV
+              paragraph: BIB116.1.4.1.P.101
+              UID: BIB116.1.4.1.S.39
+            - intext: Revelation 5:6–7
+              version: NIV
+              refs:
+              - ref: Revelation 5:6-7
+                key: revelation.5.6-7
+                bib_gate: https://www.biblegateway.com/passage/?search=Revelation%205%3A6-7&version=NIV
+              UID: BIB116.1.4.1.S.40
+            - intext: Revelation 12:5
+              version: NIV
+              refs:
+              - ref: Revelation 12:5
+                key: revelation.12.5
+                bib_gate: https://www.biblegateway.com/passage/?search=Revelation%2012%3A5&version=NIV
+              paragraph: BIB116.1.4.1.P.105.1
+              UID: BIB116.1.4.1.S.41
+            - intext: Revelation 19:7
+              version: NIV
+              refs:
+              - ref: Revelation 19:7
+                key: revelation.19.7
+                bib_gate: https://www.biblegateway.com/passage/?search=Revelation%2019%3A7&version=NIV
+              paragraph: BIB116.1.4.1.P.107
+              UID: BIB116.1.4.1.S.42
+            - intext: Revelation 19:16
+              version: NIV
+              refs:
+              - ref: Revelation 19:16
+                key: revelation.19.16
+                bib_gate: https://www.biblegateway.com/passage/?search=Revelation%2019%3A16&version=NIV
+              UID: BIB116.1.4.1.S.43
+            - intext: Revelation 22:13
+              version: NIV
+              refs:
+              - ref: Revelation 22:13
+                key: revelation.22.13
+                bib_gate: https://www.biblegateway.com/passage/?search=Revelation%2022%3A13&version=NIV
+              paragraph: BIB116.1.4.1.P.163
+              UID: BIB116.1.4.1.S.44
     - last_modified: '2026-05-28'
       title: '2 - The Synoptic Gospels: Matthew, Mark, and Luke'
       print_page: 39
