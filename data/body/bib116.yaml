@@ -64204,22 +64204,19 @@ courses:
             - p: 28
               kind: image
               src: BBIB116ENE01-90_01.26.01-web-resources/image/Fig_4-13.png
-              caption: ''
+              caption: Map 4.1
               alt: A map of the Mediterranean region with various countries and cities
                 labeled.
-              UID: BIB116.4.3.1.IMG.4
+              UID: BIB116.4.3.1.IMG.4.1
+              source_uid: BIB116.4.3.1.IMG.4
             - p: 29
               kind: image
               src: BBIB116ENE01-90_01.26.01-web-resources/image/Fig_4-14.png
-              caption: Map 4.1
+              caption: Map 4.2
               alt: A map of the Middle East shows the countries of Turkey, Syria,
                 and Egypt.
-              UID: BIB116.4.3.1.IMG.5
-            - p: 30
-              text: Map 4.2
-              kind: caption
-              cls: IST_Photo-Caption
-              UID: BIB116.4.3.1.P.108
+              UID: BIB116.4.3.1.IMG.5.1
+              source_uid: BIB116.4.3.1.IMG.5
             - p: 31
               kind: image
               src: BBIB116ENE01-90_01.26.01-web-resources/image/Fig_4-15.png
@@ -64909,6 +64906,13 @@ courses:
               md: '*<br/>Indicate three steps in which believers witnessed for Jesus
                 from Jerusalem to Rome.*'
               UID: BIB116.4.3.1.P.113
+            - p: 30
+              text: Map 4.2
+              kind: caption
+              cls: IST_Photo-Caption
+              UID: BIB116.4.3.1.P.108
+              status: outdated 2026-08-17
+              outdated_reason: struck
             - p: 4
               text: They often prayed together (1:14; 2:1–2; 4:23–31).
               kind: list
@@ -65618,6 +65622,26 @@ courses:
               outdated_reason: struck
             - p: 28
               kind: image
+              src: BBIB116ENE01-90_01.26.01-web-resources/image/Fig_4-13.png
+              caption: ''
+              alt: A map of the Mediterranean region with various countries and cities
+                labeled.
+              UID: BIB116.4.3.1.IMG.4
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.4.3.1.IMG.4.1
+            - p: 29
+              kind: image
+              src: BBIB116ENE01-90_01.26.01-web-resources/image/Fig_4-14.png
+              caption: Map 4.1
+              alt: A map of the Middle East shows the countries of Turkey, Syria,
+                and Egypt.
+              UID: BIB116.4.3.1.IMG.5
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.4.3.1.IMG.5.1
+            - p: 28
+              kind: image
               src: BBIB212ENE03-90_03.21.02-web-resources/image/Fig_4-13.jpg
               caption: ''
               alt: ''
@@ -65875,7 +65899,7 @@ courses:
               - ref: Acts 17:22-34
                 key: acts.17.22-34
                 bib_gate: https://www.biblegateway.com/passage/?search=Acts%2017%3A22-34&version=NIV
-              paragraph: BIB116.4.3.1.P.32
+              paragraph: BIB116.4.3.1.P.31
               UID: BIB116.4.3.1.S.22
             - intext: Romans 15:19
               version: NIV
@@ -65883,7 +65907,7 @@ courses:
               - ref: Romans 15:19
                 key: romans.15.19
                 bib_gate: https://www.biblegateway.com/passage/?search=Romans%2015%3A19&version=NIV
-              paragraph: BIB116.4.3.1.P.33.1
+              paragraph: BIB116.4.3.1.P.32
               UID: BIB116.4.3.1.S.23
             - intext: Acts 13:4–12
               version: NIV
@@ -65891,7 +65915,7 @@ courses:
               - ref: Acts 13:4-12
                 key: acts.13.4-12
                 bib_gate: https://www.biblegateway.com/passage/?search=Acts%2013%3A4-12&version=NIV
-              paragraph: BIB116.4.3.1.P.38
+              paragraph: BIB116.4.3.1.P.37.1
               UID: BIB116.4.3.1.S.56
             - intext: Acts 13:13
               version: NIV
@@ -65899,7 +65923,7 @@ courses:
               - ref: Acts 13:13
                 key: acts.13.13
                 bib_gate: https://www.biblegateway.com/passage/?search=Acts%2013%3A13&version=NIV
-              paragraph: BIB116.4.3.1.P.41
+              paragraph: BIB116.4.3.1.P.40.1
               UID: BIB116.4.3.1.S.57
             - intext: Acts 13:14–52
               version: NIV
@@ -65907,7 +65931,7 @@ courses:
               - ref: Acts 13:14-52
                 key: acts.13.14-52
                 bib_gate: https://www.biblegateway.com/passage/?search=Acts%2013%3A14-52&version=NIV
-              paragraph: BIB116.4.3.1.P.44
+              paragraph: BIB116.4.3.1.P.43.1
               UID: BIB116.4.3.1.S.58
             - intext: Acts 14:8–20
               version: NIV
@@ -65915,7 +65939,7 @@ courses:
               - ref: Acts 14:8-20
                 key: acts.14.8-20
                 bib_gate: https://www.biblegateway.com/passage/?search=Acts%2014%3A8-20&version=NIV
-              paragraph: BIB116.4.3.1.P.47
+              paragraph: BIB116.4.3.1.P.46.1
               UID: BIB116.4.3.1.S.59
             - intext: Acts 16:8–10
               version: NIV
@@ -65923,7 +65947,7 @@ courses:
               - ref: Acts 16:8-10
                 key: acts.16.8-10
                 bib_gate: https://www.biblegateway.com/passage/?search=Acts%2016%3A8-10&version=NIV
-              paragraph: BIB116.4.3.1.P.51
+              paragraph: BIB116.4.3.1.P.50.1
               UID: BIB116.4.3.1.S.60
             - intext: Acts 16:11–40
               version: NIV
@@ -65931,7 +65955,7 @@ courses:
               - ref: Acts 16:11-40
                 key: acts.16.11-40
                 bib_gate: https://www.biblegateway.com/passage/?search=Acts%2016%3A11-40&version=NIV
-              paragraph: BIB116.4.3.1.P.54
+              paragraph: BIB116.4.3.1.P.53.1
               UID: BIB116.4.3.1.S.61
             - intext: Acts 17:1–9
               version: NIV
@@ -65939,7 +65963,7 @@ courses:
               - ref: Acts 17:1-9
                 key: acts.17.1-9
                 bib_gate: https://www.biblegateway.com/passage/?search=Acts%2017%3A1-9&version=NIV
-              paragraph: BIB116.4.3.1.P.57
+              paragraph: BIB116.4.3.1.P.56.1
               UID: BIB116.4.3.1.S.62
             - intext: Acts 17:10–15
               version: NIV
@@ -65947,7 +65971,7 @@ courses:
               - ref: Acts 17:10-15
                 key: acts.17.10-15
                 bib_gate: https://www.biblegateway.com/passage/?search=Acts%2017%3A10-15&version=NIV
-              paragraph: BIB116.4.3.1.P.60
+              paragraph: BIB116.4.3.1.P.59.1
               UID: BIB116.4.3.1.S.63
             - intext: Acts 17:16–34
               version: NIV
@@ -65955,15 +65979,15 @@ courses:
               - ref: Acts 17:16-34
                 key: acts.17.16-34
                 bib_gate: https://www.biblegateway.com/passage/?search=Acts%2017%3A16-34&version=NIV
-              paragraph: BIB116.4.3.1.P.62.1
               UID: BIB116.4.3.1.S.64
+              paragraph: BIB116.4.3.1.P.62.1
             - intext: Acts 18:1–18
               version: NIV
               refs:
               - ref: Acts 18:1-18
                 key: acts.18.1-18
                 bib_gate: https://www.biblegateway.com/passage/?search=Acts%2018%3A1-18&version=NIV
-              paragraph: BIB116.4.3.1.P.65.1
+              paragraph: BIB116.4.3.1.P.64
               UID: BIB116.4.3.1.S.65
             - intext: Acts 18:18
               version: NIV
@@ -65971,6 +65995,7 @@ courses:
               - ref: Acts 18:18
                 key: acts.18.18
                 bib_gate: https://www.biblegateway.com/passage/?search=Acts%2018%3A18&version=NIV
+              paragraph: BIB116.4.3.1.P.67.2
               UID: BIB116.4.3.1.S.66
             - intext: Acts 18:19–21
               version: NIV
@@ -65978,7 +66003,7 @@ courses:
               - ref: Acts 18:19-21
                 key: acts.18.19-21
                 bib_gate: https://www.biblegateway.com/passage/?search=Acts%2018%3A19-21&version=NIV
-              paragraph: BIB116.4.3.1.P.70
+              paragraph: BIB116.4.3.1.P.69
               UID: BIB116.4.3.1.S.67
             - intext: Acts 19:1–41
               version: NIV
@@ -65986,7 +66011,7 @@ courses:
               - ref: Acts 19:1-41
                 key: acts.19.1-41
                 bib_gate: https://www.biblegateway.com/passage/?search=Acts%2019%3A1-41&version=NIV
-              paragraph: BIB116.4.3.1.P.77
+              paragraph: BIB116.4.3.1.P.73
               UID: BIB116.4.3.1.S.68
             - intext: Acts 20:1–6
               version: NIV
@@ -65994,7 +66019,7 @@ courses:
               - ref: Acts 20:1-6
                 key: acts.20.1-6
                 bib_gate: https://www.biblegateway.com/passage/?search=Acts%2020%3A1-6&version=NIV
-              paragraph: BIB116.4.3.1.P.80
+              paragraph: BIB116.4.3.1.P.79
               UID: BIB116.4.3.1.S.69
             - intext: Acts 20:7–12
               version: NIV
@@ -66002,7 +66027,7 @@ courses:
               - ref: Acts 20:7-12
                 key: acts.20.7-12
                 bib_gate: https://www.biblegateway.com/passage/?search=Acts%2020%3A7-12&version=NIV
-              paragraph: BIB116.4.3.1.P.83
+              paragraph: BIB116.4.3.1.P.82
               UID: BIB116.4.3.1.S.70
             - intext: Acts 20:13–38
               version: NIV
@@ -66010,7 +66035,7 @@ courses:
               - ref: Acts 20:13-38
                 key: acts.20.13-38
                 bib_gate: https://www.biblegateway.com/passage/?search=Acts%2020%3A13-38&version=NIV
-              paragraph: BIB116.4.3.1.P.86
+              paragraph: BIB116.4.3.1.P.85
               UID: BIB116.4.3.1.S.71
             - intext: Acts 21:3–6
               version: NIV
@@ -66018,7 +66043,7 @@ courses:
               - ref: Acts 21:3-6
                 key: acts.21.3-6
                 bib_gate: https://www.biblegateway.com/passage/?search=Acts%2021%3A3-6&version=NIV
-              paragraph: BIB116.4.3.1.P.89
+              paragraph: BIB116.4.3.1.P.88
               UID: BIB116.4.3.1.S.72
             - intext: Acts 21:8–14
               version: NIV
@@ -66026,7 +66051,7 @@ courses:
               - ref: Acts 21:8-14
                 key: acts.21.8-14
                 bib_gate: https://www.biblegateway.com/passage/?search=Acts%2021%3A8-14&version=NIV
-              paragraph: BIB116.4.3.1.P.92
+              paragraph: BIB116.4.3.1.P.91
               UID: BIB116.4.3.1.S.73
             - intext: Acts 21:17–23:30
               version: NIV
@@ -66034,7 +66059,7 @@ courses:
               - ref: Acts 21:17-23:30
                 key: acts.21.17-23.30
                 bib_gate: https://www.biblegateway.com/passage/?search=Acts%2021%3A17-23%3A30&version=NIV
-              paragraph: BIB116.4.3.1.P.95
+              paragraph: BIB116.4.3.1.P.94
               UID: BIB116.4.3.1.S.74
             - intext: Acts 23:33–26:32
               version: NIV
@@ -66042,7 +66067,7 @@ courses:
               - ref: Acts 23:33-26:32
                 key: acts.23.33-26.32
                 bib_gate: https://www.biblegateway.com/passage/?search=Acts%2023%3A33-26%3A32&version=NIV
-              paragraph: BIB116.4.3.1.P.98
+              paragraph: BIB116.4.3.1.P.97
               UID: BIB116.4.3.1.S.75
             - intext: Philippians 4:22
               version: NIV
@@ -66050,7 +66075,7 @@ courses:
               - ref: Philippians 4:22
                 key: philippians.4.22
                 bib_gate: https://www.biblegateway.com/passage/?search=Philippians%204%3A22&version=NIV
-              paragraph: BIB116.4.3.1.P.104
+              paragraph: BIB116.4.3.1.P.103
               UID: BIB116.4.3.1.S.25
             - intext: Acts 1–7
               version: NIV
