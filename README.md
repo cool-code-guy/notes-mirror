@@ -7,7 +7,44 @@ Public curriculum data from the course catalog — course structure, learning ob
 
 ## Use it with Claude (or any AI)
 
-**Copy one of the exact links below and paste it into the chat** — not a link to this page, and not the plain repo URL. Those are pages meant for a browser to render; an AI fetching a URL directly needs the raw-content link, or it'll get a 404 the same way a plain text fetch would on any GitHub page. Each link is alone on its own line below — copy the whole line, nothing more, nothing less.
+### Point-and-shoot: just paste the repo link
+
+`https://github.com/cool-code-guy/notes-mirror` works as a starting point on its own — paste it with your question, e.g. *"based on the curriculum here, what does it say about Paul's theology?"* The course table below is part of what gets fetched when an AI reads this page, so it can match your question to a course code and pull that course's full content itself, in a second fetch it does automatically. No second link needed from you.
+
+If it comes back saying it couldn't find anything relevant, or seems to be guessing instead of citing specifics: give it one of the exact links in the next section instead — some fetch tools only read the one URL they're given and won't take that second automatic step.
+
+**Active courses:**
+
+| Code | Title | Level |
+| --- | --- | --- |
+| BIB111 | Old Testament Survey | 1 |
+| BIB114 | Christ in the Synoptic Gospels | 1 |
+| BIB116 | New Testament Survey | 1 |
+| BIB121 | Introduction to Hermeneutics | 1 |
+| BIB211 | Acts: The Holy Spirit at Work in Believers | 2 |
+| BIB215 | Romans: Justification by Faith | 2 |
+| BIB217 | Prison Epistles | 2 |
+| BIB313 | Corinthian Correspondence | 3 |
+| BIB318 | Pentateuch | 3 |
+| BIB322 | The Poetic Books | 3 |
+| MIN171 | Spirit-Empowered Church | 1 |
+| MIN183 | Relationships & Ethics in Ministry | 1 |
+| MIN223 | Introduction to Homiletics | 2 |
+| MIN227 | The Local Church in Evangelism | 2 |
+| MIN251 | Effective Leadership | 2 |
+| MIN261 | Introduction to AG Missions | 2 |
+| MIN281 | Conflict Management | 2 |
+| MIN325 | Preaching in the Contemporary World | 3 |
+| MIN327 | Church Administration Finance & Law | 3 |
+| MIN381 | Pastoral Ministry | 3 |
+| THE118 | Introduction to Theology | 1 |
+| THE154 | History, Missions, and Governance | 1 |
+| THE245 | Eschatology | 2 |
+| THE311 | Prayer and Worship | 3 |
+
+### Exact links (when you already know what you want)
+
+Copy one of the links below and paste it into the chat instead of the repo link above — this skips straight to one file, no second fetch needed. Not a link to this page, and not the plain repo URL from above: those render for a browser; an AI fetching a URL directly needs the raw-content link, or it'll 404 the same way a plain text fetch would on any GitHub page. Each link is alone on its own line — copy the whole line, nothing more, nothing less.
 
 **Start here — every course, one table:**
 
