@@ -13193,8 +13193,7 @@ courses:
               after_body_index: 20
               status: outdated 2026-08-17
               outdated_reason: struck
-              UID: BIB116.2.1.1.IQ.2.1
-              source_uid: BIB116.2.1.1.IQ.2
+              UID: BIB116.2.1.1.IQ.12
             - p: 4
               text: Give three examples of how Matthew showed that Jesus was the Messiah.
               response: Any three from the chart in Lesson 2.1
@@ -13229,6 +13228,14 @@ courses:
               after_body_index: 87
               UID: BIB116.2.1.1.IQ.4.1
               source_uid: BIB116.2.1.1.IQ.4
+            - p: 4
+              text: What was one of Matthew's major purposes?
+              response: To prove to readers that Jesus was the Messiah
+              after_body_index: 20
+              status: outdated 2026-08-17
+              outdated_reason: struck
+              UID: BIB116.2.1.1.IQ.2.1
+              source_uid: BIB116.2.1.1.IQ.2
             - p: 1
               text: Gospel
               after_body_index: 3
@@ -15599,8 +15606,7 @@ courses:
               after_body_index: 20
               status: outdated 2026-08-17
               outdated_reason: struck
-              UID: BIB116.2.1.2.IQ.2.1
-              source_uid: BIB116.2.1.2.IQ.2
+              UID: BIB116.2.1.2.IQ.12
             - p: 4
               text: Give three examples of how Matthew showed that Jesus was the Messiah.
               response: Any three from the chart in Lesson 2.1
@@ -15635,6 +15641,14 @@ courses:
               after_body_index: 87
               UID: BIB116.2.1.2.IQ.4.1
               source_uid: BIB116.2.1.2.IQ.4
+            - p: 4
+              text: What was one of Matthew's major purposes?
+              response: To prove to readers that Jesus was the Messiah
+              after_body_index: 20
+              status: outdated 2026-08-17
+              outdated_reason: struck
+              UID: BIB116.2.1.2.IQ.2.1
+              source_uid: BIB116.2.1.2.IQ.2
             - p: 1
               text: Gospel
               after_body_index: 3
@@ -17986,8 +18000,7 @@ courses:
               after_body_index: 20
               status: outdated 2026-08-17
               outdated_reason: struck
-              UID: BIB116.2.1.3.IQ.2.1
-              source_uid: BIB116.2.1.3.IQ.2
+              UID: BIB116.2.1.3.IQ.12
             - p: 4
               text: Give three examples of how Matthew showed that Jesus was the Messiah.
               response: Any three from the chart in Lesson 2.1
@@ -18022,6 +18035,14 @@ courses:
               after_body_index: 87
               UID: BIB116.2.1.3.IQ.4.1
               source_uid: BIB116.2.1.3.IQ.4
+            - p: 4
+              text: What was one of Matthew's major purposes?
+              response: To prove to readers that Jesus was the Messiah
+              after_body_index: 20
+              status: outdated 2026-08-17
+              outdated_reason: struck
+              UID: BIB116.2.1.3.IQ.2.1
+              source_uid: BIB116.2.1.3.IQ.2
             - p: 1
               text: Gospel
               after_body_index: 3
@@ -19984,13 +20005,13 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 7
+            - p: 6
               text: How did John Mark know so much about Jesus?
               response: He lived in Jerusalem, was a friend of Peter, was a cousin
                 of Barnabas, and worked with Paul.
               after_body_index: 6
               UID: BIB116.2.2.1.IQ.5
-            - p: 8
+            - p: 7
               text: How did Mark help his mostly Gentile audience understand his account
                 of Jesus the Jew, who lived in a Jewish culture?
               response: Mark explained Jewish customs and many Aramaic words.
@@ -21887,13 +21908,13 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 7
+            - p: 6
               text: How did John Mark know so much about Jesus?
               response: He lived in Jerusalem, was a friend of Peter, was a cousin
                 of Barnabas, and worked with Paul.
               after_body_index: 6
               UID: BIB116.2.2.2.IQ.5
-            - p: 8
+            - p: 7
               text: How did Mark help his mostly Gentile audience understand his account
                 of Jesus the Jew, who lived in a Jewish culture?
               response: Mark explained Jewish customs and many Aramaic words.
@@ -23588,12 +23609,12 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 9
+            - p: 8
               text: What was Luke’s main theme?
               response: Jesus, the Savior of all
               after_body_index: 3
               UID: BIB116.2.3.1.IQ.1
-            - p: 10
+            - p: 9
               text: How do the purposes of Matthew and Luke differ?
               response: Matthew’s purpose was to prove Jesus was the Jewish Messiah
                 who fulfilled the Old Testament prophecies, but Luke’s purpose was
@@ -23601,7 +23622,7 @@ courses:
                 aim (28:19–20), but his emphasis was on Israel’s Messiah.
               after_body_index: 13
               UID: BIB116.2.3.1.IQ.2
-            - p: 11
+            - p: 10
               text: Since Jesus relied on the Holy Spirit to empower His ministry,
                 what priority should we give to living a Spirit-filled life? What
                 are some practical ways you can let the Holy Spirit accomplish God’s
@@ -23611,7 +23632,7 @@ courses:
               after_body_index: 36
               UID: BIB116.2.3.1.IQ.3.1
               source_uid: BIB116.2.3.1.IQ.3
-            - p: 12
+            - p: 11
               text: Fill in the chart below for each Synoptic Gospel.
               response: Gospel Readers Purpose and Theme Matthew Jews Jesus as Messiah
                 Mark Romans Jesus as Servant Luke Greeks Jesus as Savior of all and/or
@@ -25851,12 +25872,12 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 9
+            - p: 8
               text: What was Luke’s main theme?
               response: Jesus, the Savior of all
               after_body_index: 3
               UID: BIB116.2.3.2.IQ.1
-            - p: 10
+            - p: 9
               text: How do the purposes of Matthew and Luke differ?
               response: Matthew’s purpose was to prove Jesus was the Jewish Messiah
                 who fulfilled the Old Testament prophecies, but Luke’s purpose was
@@ -25864,7 +25885,7 @@ courses:
                 aim (28:19–20), but his emphasis was on Israel’s Messiah.
               after_body_index: 13
               UID: BIB116.2.3.2.IQ.2
-            - p: 11
+            - p: 10
               text: Since Jesus relied on the Holy Spirit to empower His ministry,
                 what priority should we give to living a Spirit-filled life? What
                 are some practical ways you can let the Holy Spirit accomplish God’s
@@ -25874,7 +25895,7 @@ courses:
               after_body_index: 36
               UID: BIB116.2.3.2.IQ.3.1
               source_uid: BIB116.2.3.2.IQ.3
-            - p: 12
+            - p: 11
               text: Fill in the chart below for each Synoptic Gospel.
               response: Gospel Readers Purpose and Theme Matthew Jews Jesus as Messiah
                 Mark Romans Jesus as Servant Luke Greeks Jesus as Savior of all and/or
@@ -28310,20 +28331,20 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 13
+            - p: 12
               text: Name six events that are in all the Synoptic Gospels.
               response: Announcement of the Savior by John the Baptist; Baptism of
                 the Savior; Temptation of the Savior; Transfiguration of the Savior;
                 Trial, death, and burial of the Savior; Resurrection of the Savior
               after_body_index: 32
               UID: BIB116.2.4.1.IQ.4
-            - p: 14
+            - p: 13
               text: How might the use of relevant stories help you share truth with
                 others?
               response: Answers may vary.
               after_body_index: 45
               UID: BIB116.2.4.1.IQ.1
-            - p: 15
+            - p: 14
               text: What are four reasons Jesus taught in parables?
               response: 'Any four of these: (1) Parables were safe. (2) Parables illustrated
                 truth. (3) They preserved truth. (4) They were easily remembered.
@@ -28331,7 +28352,7 @@ courses:
                 about the kingdom of God.'
               after_body_index: 52
               UID: BIB116.2.4.1.IQ.2
-            - p: 16
+            - p: 15
               text: Explain the two phases of the kingdom of God.
               response: The invisible phase refers to God’s spiritual rule in the
                 hearts of believers. The visible phase will begin when Jesus returns
@@ -29946,20 +29967,20 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 13
+            - p: 12
               text: Name six events that are in all the Synoptic Gospels.
               response: Announcement of the Savior by John the Baptist; Baptism of
                 the Savior; Temptation of the Savior; Transfiguration of the Savior;
                 Trial, death, and burial of the Savior; Resurrection of the Savior
               after_body_index: 32
               UID: BIB116.2.4.2.IQ.4
-            - p: 14
+            - p: 13
               text: How might the use of relevant stories help you share truth with
                 others?
               response: Answers may vary.
               after_body_index: 45
               UID: BIB116.2.4.2.IQ.1
-            - p: 15
+            - p: 14
               text: What are four reasons Jesus taught in parables?
               response: 'Any four of these: (1) Parables were safe. (2) Parables illustrated
                 truth. (3) They preserved truth. (4) They were easily remembered.
@@ -29967,7 +29988,7 @@ courses:
                 about the kingdom of God.'
               after_body_index: 52
               UID: BIB116.2.4.2.IQ.2
-            - p: 16
+            - p: 15
               text: Explain the two phases of the kingdom of God.
               response: The invisible phase refers to God’s spiritual rule in the
                 hearts of believers. The visible phase will begin when Jesus returns
@@ -31582,20 +31603,20 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 13
+            - p: 12
               text: Name six events that are in all the Synoptic Gospels.
               response: Announcement of the Savior by John the Baptist; Baptism of
                 the Savior; Temptation of the Savior; Transfiguration of the Savior;
                 Trial, death, and burial of the Savior; Resurrection of the Savior
               after_body_index: 32
               UID: BIB116.2.4.3.IQ.4
-            - p: 14
+            - p: 13
               text: How might the use of relevant stories help you share truth with
                 others?
               response: Answers may vary.
               after_body_index: 45
               UID: BIB116.2.4.3.IQ.1
-            - p: 15
+            - p: 14
               text: What are four reasons Jesus taught in parables?
               response: 'Any four of these: (1) Parables were safe. (2) Parables illustrated
                 truth. (3) They preserved truth. (4) They were easily remembered.
@@ -31603,7 +31624,7 @@ courses:
                 about the kingdom of God.'
               after_body_index: 52
               UID: BIB116.2.4.3.IQ.2
-            - p: 16
+            - p: 15
               text: Explain the two phases of the kingdom of God.
               response: The invisible phase refers to God’s spiritual rule in the
                 hearts of believers. The visible phase will begin when Jesus returns
