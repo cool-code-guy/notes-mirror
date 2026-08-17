@@ -11515,14 +11515,14 @@ courses:
               header: true
               UID: BIB116.2.1.1.P.181
             - p: 19
-              text: Matthew
+              text: Reference
               kind: heading
               cls: IST_Table-Header
               table: 12
               row: 2
               col: 1
               header: true
-              UID: BIB116.2.1.1.P.20
+              UID: BIB116.2.1.1.P.192
             - p: 20
               text: Quote from the Old Testament
               kind: heading
@@ -11533,13 +11533,14 @@ courses:
               header: true
               UID: BIB116.2.1.1.P.21
             - p: 21
-              text: 1:22–23
+              text: Matthew 1:22–23
               kind: chart
               cls: IST_Table-Body
               table: 12
               row: 3
               col: 1
-              UID: BIB116.2.1.1.P.22
+              UID: BIB116.2.1.1.P.20.1
+              source_uid: BIB116.2.1.1.P.20
             - p: 22
               text: 'All this took place to fulfill what the Lord had said through
                 the prophet: "The virgin will be with child and will give birth to
@@ -11553,13 +11554,14 @@ courses:
               UID: BIB116.2.1.1.P.23.1
               source_uid: BIB116.2.1.1.P.23
             - p: 23
-              text: '2:15'
+              text: Matthew 2:15
               kind: chart
               cls: IST_Table-Body
               table: 12
               row: 4
               col: 1
-              UID: BIB116.2.1.1.P.24
+              UID: BIB116.2.1.1.P.27.1
+              source_uid: BIB116.2.1.1.P.27
             - p: 24
               text: 'Where he stayed until the death of Herod. And so was fulfilled
                 what the Lord had said through the prophet: "Out of Egypt I called
@@ -11572,13 +11574,14 @@ courses:
               UID: BIB116.2.1.1.P.25.1
               source_uid: BIB116.2.1.1.P.25
             - p: 25
-              text: 2:17–18
+              text: Matthew 2:17–18
               kind: chart
               cls: IST_Table-Body
               table: 12
               row: 5
               col: 1
-              UID: BIB116.2.1.1.P.29
+              UID: BIB116.2.1.1.P.29.1
+              source_uid: BIB116.2.1.1.P.29
             - p: 26
               text: 'Then what was said through the prophet Jeremiah was fulfilled:
                 "A voice is heard in Ramah, weeping and great mourning, Rachel weeping
@@ -11592,13 +11595,13 @@ courses:
               UID: BIB116.2.1.1.P.30.1
               source_uid: BIB116.2.1.1.P.30
             - p: 27
-              text: '2:23'
+              text: Matthew 2:23
               kind: chart
               cls: IST_Table-Body
               table: 12
               row: 6
               col: 1
-              UID: BIB116.2.1.1.P.31
+              UID: BIB116.2.1.1.P.193
             - p: 28
               text: 'And he went and lived in a town called Nazareth. So was fulfilled
                 what was said through the prophets: "He will be called a Nazarene."'
@@ -11610,13 +11613,14 @@ courses:
               UID: BIB116.2.1.1.P.32.1
               source_uid: BIB116.2.1.1.P.32
             - p: 29
-              text: 4:14–16
+              text: Matthew 4:14–16
               kind: chart
               cls: IST_Table-Body
               table: 12
               row: 7
               col: 1
-              UID: BIB116.2.1.1.P.33
+              UID: BIB116.2.1.1.P.33.1
+              source_uid: BIB116.2.1.1.P.33
             - p: 30
               text: 'To fulfill what was said through the prophet Isaiah: "Land of
                 Zebulun and land of Naphtali, the way to the sea, along the Jordan,
@@ -11631,13 +11635,13 @@ courses:
               UID: BIB116.2.1.1.P.34.1
               source_uid: BIB116.2.1.1.P.34
             - p: 31
-              text: '8:17'
+              text: Matthew 8:17
               kind: chart
               cls: IST_Table-Body
               table: 12
               row: 8
               col: 1
-              UID: BIB116.2.1.1.P.35
+              UID: BIB116.2.1.1.P.194
             - p: 32
               text: 'This was to fulfill what was spoken through the prophet Isaiah:
                 "He took up our infirmities and carried our diseases." (Isaiah 53:4)'
@@ -11649,13 +11653,14 @@ courses:
               UID: BIB116.2.1.1.P.36.1
               source_uid: BIB116.2.1.1.P.36
             - p: 33
-              text: 12:17–21
+              text: Matthew 12:17–21
               kind: chart
               cls: IST_Table-Body
               table: 12
               row: 9
               col: 1
-              UID: BIB116.2.1.1.P.37
+              UID: BIB116.2.1.1.P.37.1
+              source_uid: BIB116.2.1.1.P.37
             - p: 34
               text: 'This was to fulfill what was spoken through the prophet Isaiah:
                 "Here is my servant whom I have chosen, the one I love, in whom I
@@ -11672,13 +11677,13 @@ courses:
               UID: BIB116.2.1.1.P.38.1
               source_uid: BIB116.2.1.1.P.38
             - p: 35
-              text: '13:35'
+              text: Matthew 13:35
               kind: chart
               cls: IST_Table-Body
               table: 12
               row: 10
               col: 1
-              UID: BIB116.2.1.1.P.39
+              UID: BIB116.2.1.1.P.195
             - p: 36
               text: 'So was fulfilled what was spoken through the prophet: "I will
                 open my mouth in parables, I will utter things hidden since the creation
@@ -11691,13 +11696,14 @@ courses:
               UID: BIB116.2.1.1.P.40.1
               source_uid: BIB116.2.1.1.P.40
             - p: 37
-              text: 21:4–5
+              text: Matthew 21:4–5
               kind: chart
               cls: IST_Table-Body
               table: 12
               row: 11
               col: 1
-              UID: BIB116.2.1.1.P.41
+              UID: BIB116.2.1.1.P.41.1
+              source_uid: BIB116.2.1.1.P.41
             - p: 38
               text: 'This took place to fulfill what was spoken through the prophet:
                 "Say to the Daughter or Zion, '' See, your king comes to you, gentle
@@ -11711,13 +11717,14 @@ courses:
               UID: BIB116.2.1.1.P.42.1
               source_uid: BIB116.2.1.1.P.42
             - p: 39
-              text: 27:9–10
+              text: Matthew 27:9–10
               kind: chart
               cls: IST_Table-Body
               table: 12
               row: 12
               col: 1
-              UID: BIB116.2.1.1.P.43
+              UID: BIB116.2.1.1.P.43.1
+              source_uid: BIB116.2.1.1.P.43
             - p: 40
               text: 'Then what was spoken by Jeremiah the prophet was fulfilled: "They
                 took the thirty silver coins, the price set on him by the people of
@@ -12039,7 +12046,7 @@ courses:
               row: 2
               col: 2
               header: true
-              UID: BIB116.2.1.1.P.27
+              UID: BIB116.2.1.1.P.196
             - p: 88
               text: Thoughts on the kingdom of heaven
               kind: heading
@@ -12241,6 +12248,135 @@ courses:
               row: 14
               col: 2
               UID: BIB116.2.1.1.P.113
+            - p: 19
+              text: Matthew
+              kind: heading
+              cls: IST_Table-Header
+              table: 12
+              row: 2
+              col: 1
+              header: true
+              UID: BIB116.2.1.1.P.20
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.2.1.1.P.20.1
+            - p: 87
+              text: Matthew
+              kind: heading
+              cls: IST_Table-Header
+              table: 13
+              row: 2
+              col: 2
+              header: true
+              UID: BIB116.2.1.1.P.27
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.2.1.1.P.27.1
+            - p: 25
+              text: 2:17–18
+              kind: chart
+              cls: IST_Table-Body
+              table: 12
+              row: 5
+              col: 1
+              UID: BIB116.2.1.1.P.29
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.2.1.1.P.29.1
+            - p: 29
+              text: 4:14–16
+              kind: chart
+              cls: IST_Table-Body
+              table: 12
+              row: 7
+              col: 1
+              UID: BIB116.2.1.1.P.33
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.2.1.1.P.33.1
+            - p: 33
+              text: 12:17–21
+              kind: chart
+              cls: IST_Table-Body
+              table: 12
+              row: 9
+              col: 1
+              UID: BIB116.2.1.1.P.37
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.2.1.1.P.37.1
+            - p: 37
+              text: 21:4–5
+              kind: chart
+              cls: IST_Table-Body
+              table: 12
+              row: 11
+              col: 1
+              UID: BIB116.2.1.1.P.41
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.2.1.1.P.41.1
+            - p: 39
+              text: 27:9–10
+              kind: chart
+              cls: IST_Table-Body
+              table: 12
+              row: 12
+              col: 1
+              UID: BIB116.2.1.1.P.43
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.2.1.1.P.43.1
+            - p: 21
+              text: 1:22–23
+              kind: chart
+              cls: IST_Table-Body
+              table: 12
+              row: 3
+              col: 1
+              UID: BIB116.2.1.1.P.22
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 23
+              text: '2:15'
+              kind: chart
+              cls: IST_Table-Body
+              table: 12
+              row: 4
+              col: 1
+              UID: BIB116.2.1.1.P.24
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 27
+              text: '2:23'
+              kind: chart
+              cls: IST_Table-Body
+              table: 12
+              row: 6
+              col: 1
+              UID: BIB116.2.1.1.P.31
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 31
+              text: '8:17'
+              kind: chart
+              cls: IST_Table-Body
+              table: 12
+              row: 8
+              col: 1
+              UID: BIB116.2.1.1.P.35
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 35
+              text: '13:35'
+              kind: chart
+              cls: IST_Table-Body
+              table: 12
+              row: 10
+              col: 1
+              UID: BIB116.2.1.1.P.39
+              status: outdated 2026-08-17
+              outdated_reason: struck
             - p: 113
               text: Explain Mark’s purpose and how he fulfilled it.
               kind: prose
@@ -13332,7 +13468,7 @@ courses:
               - ref: Matthew 9:9-13
                 key: matthew.9.9-13
                 bib_gate: https://www.biblegateway.com/passage/?search=Matthew%209%3A9-13&version=NIV
-              paragraph: BIB116.2.1.1.P.20
+              paragraph: BIB116.2.1.1.P.192
               UID: BIB116.2.1.1.S.1
             - intext: Mark 2:14
               version: NIV
@@ -13340,7 +13476,7 @@ courses:
               - ref: Mark 2:14
                 key: mark.2.14
                 bib_gate: https://www.biblegateway.com/passage/?search=Mark%202%3A14&version=NIV
-              paragraph: BIB116.2.1.1.P.20
+              paragraph: BIB116.2.1.1.P.192
               UID: BIB116.2.1.1.S.2
             - intext: Matthew 1:1
               version: NIV
@@ -13348,64 +13484,136 @@ courses:
               - ref: Matthew 1:1
                 key: matthew.1.1
                 bib_gate: https://www.biblegateway.com/passage/?search=Matthew%201%3A1&version=NIV
-              paragraph: BIB116.2.1.1.P.20
+              paragraph: BIB116.2.1.1.P.192
               UID: BIB116.2.1.1.S.3
+            - intext: Matthew 1:22–23
+              version: NIV
+              refs:
+              - ref: Matthew 1:22-23
+                key: matthew.1.22-23
+                bib_gate: https://www.biblegateway.com/passage/?search=Matthew%201%3A22-23&version=NIV
+              paragraph: BIB116.2.1.1.P.25.1
+              UID: BIB116.2.1.1.S.41
             - intext: Isaiah 7:14
               version: NIV
               refs:
               - ref: Isaiah 7:14
                 key: isaiah.7.14
                 bib_gate: https://www.biblegateway.com/passage/?search=Isaiah%207%3A14&version=NIV
-              paragraph: BIB116.2.1.1.P.29
+              paragraph: BIB116.2.1.1.P.29.1
               UID: BIB116.2.1.1.S.4
+            - intext: Matthew 2:15
+              version: NIV
+              refs:
+              - ref: Matthew 2:15
+                key: matthew.2.15
+                bib_gate: https://www.biblegateway.com/passage/?search=Matthew%202%3A15&version=NIV
+              paragraph: BIB116.2.1.1.P.30.1
+              UID: BIB116.2.1.1.S.42
             - intext: Hosea 11:1
               version: NIV
               refs:
               - ref: Hosea 11:1
                 key: hosea.11.1
                 bib_gate: https://www.biblegateway.com/passage/?search=Hosea%2011%3A1&version=NIV
-              paragraph: BIB116.2.1.1.P.31
+              paragraph: BIB116.2.1.1.P.193
               UID: BIB116.2.1.1.S.5
+            - intext: Matthew 2:17–18
+              version: NIV
+              refs:
+              - ref: Matthew 2:17-18
+                key: matthew.2.17-18
+                bib_gate: https://www.biblegateway.com/passage/?search=Matthew%202%3A17-18&version=NIV
+              paragraph: BIB116.2.1.1.P.32.1
+              UID: BIB116.2.1.1.S.43
             - intext: Jeremiah 31:15
               version: NIV
               refs:
               - ref: Jeremiah 31:15
                 key: jeremiah.31.15
                 bib_gate: https://www.biblegateway.com/passage/?search=Jeremiah%2031%3A15&version=NIV
-              paragraph: BIB116.2.1.1.P.33
+              paragraph: BIB116.2.1.1.P.33.1
               UID: BIB116.2.1.1.S.6
+            - intext: Matthew 2:23
+              version: NIV
+              refs:
+              - ref: Matthew 2:23
+                key: matthew.2.23
+                bib_gate: https://www.biblegateway.com/passage/?search=Matthew%202%3A23&version=NIV
+              paragraph: BIB116.2.1.1.P.34.1
+              UID: BIB116.2.1.1.S.44
+            - intext: Matthew 4:14–16
+              version: NIV
+              refs:
+              - ref: Matthew 4:14-16
+                key: matthew.4.14-16
+                bib_gate: https://www.biblegateway.com/passage/?search=Matthew%204%3A14-16&version=NIV
+              paragraph: BIB116.2.1.1.P.36.1
+              UID: BIB116.2.1.1.S.45
             - intext: Isaiah 9:1–2
               version: NIV
               refs:
               - ref: Isaiah 9:1-2
                 key: isaiah.9.1-2
                 bib_gate: https://www.biblegateway.com/passage/?search=Isaiah%209%3A1-2&version=NIV
-              paragraph: BIB116.2.1.1.P.37
+              paragraph: BIB116.2.1.1.P.37.1
               UID: BIB116.2.1.1.S.7
+            - intext: Matthew 8:17
+              version: NIV
+              refs:
+              - ref: Matthew 8:17
+                key: matthew.8.17
+                bib_gate: https://www.biblegateway.com/passage/?search=Matthew%208%3A17&version=NIV
+              paragraph: BIB116.2.1.1.P.38.1
+              UID: BIB116.2.1.1.S.46
             - intext: Isaiah 53:4
               version: NIV
               refs:
               - ref: Isaiah 53:4
                 key: isaiah.53.4
                 bib_gate: https://www.biblegateway.com/passage/?search=Isaiah%2053%3A4&version=NIV
-              paragraph: BIB116.2.1.1.P.39
+              paragraph: BIB116.2.1.1.P.195
               UID: BIB116.2.1.1.S.8
+            - intext: Matthew 12:17–21
+              version: NIV
+              refs:
+              - ref: Matthew 12:17-21
+                key: matthew.12.17-21
+                bib_gate: https://www.biblegateway.com/passage/?search=Matthew%2012%3A17-21&version=NIV
+              paragraph: BIB116.2.1.1.P.40.1
+              UID: BIB116.2.1.1.S.47
             - intext: Isaiah 42:1–4
               version: NIV
               refs:
               - ref: Isaiah 42:1-4
                 key: isaiah.42.1-4
                 bib_gate: https://www.biblegateway.com/passage/?search=Isaiah%2042%3A1-4&version=NIV
-              paragraph: BIB116.2.1.1.P.41
+              paragraph: BIB116.2.1.1.P.41.1
               UID: BIB116.2.1.1.S.9
+            - intext: Matthew 13:35
+              version: NIV
+              refs:
+              - ref: Matthew 13:35
+                key: matthew.13.35
+                bib_gate: https://www.biblegateway.com/passage/?search=Matthew%2013%3A35&version=NIV
+              paragraph: BIB116.2.1.1.P.42.1
+              UID: BIB116.2.1.1.S.48
             - intext: Psalm 78:2
               version: NIV
               refs:
               - ref: Psalms 78:2
                 key: psalms.78.2
                 bib_gate: https://www.biblegateway.com/passage/?search=Psalms%2078%3A2&version=NIV
-              paragraph: BIB116.2.1.1.P.43
+              paragraph: BIB116.2.1.1.P.43.1
               UID: BIB116.2.1.1.S.10
+            - intext: Matthew 21:4–5
+              version: NIV
+              refs:
+              - ref: Matthew 21:4-5
+                key: matthew.21.4-5
+                bib_gate: https://www.biblegateway.com/passage/?search=Matthew%2021%3A4-5&version=NIV
+              paragraph: BIB116.2.1.1.P.44.1
+              UID: BIB116.2.1.1.S.49
             - intext: Zechariah 9:9
               version: NIV
               refs:
@@ -13414,6 +13622,14 @@ courses:
                 bib_gate: https://www.biblegateway.com/passage/?search=Zechariah%209%3A9&version=NIV
               paragraph: BIB116.2.1.1.P.182
               UID: BIB116.2.1.1.S.11
+            - intext: Matthew 27:9–10
+              version: NIV
+              refs:
+              - ref: Matthew 27:9-10
+                key: matthew.27.9-10
+                bib_gate: https://www.biblegateway.com/passage/?search=Matthew%2027%3A9-10&version=NIV
+              paragraph: BIB116.2.1.1.P.183
+              UID: BIB116.2.1.1.S.50
             - intext: Zechariah 11:13
               version: NIV
               refs:
@@ -13928,14 +14144,14 @@ courses:
               header: true
               UID: BIB116.2.1.2.P.181
             - p: 19
-              text: Matthew
+              text: Reference
               kind: heading
               cls: IST_Table-Header
               table: 12
               row: 2
               col: 1
               header: true
-              UID: BIB116.2.1.2.P.20
+              UID: BIB116.2.1.2.P.192
             - p: 20
               text: Quote from the Old Testament
               kind: heading
@@ -13946,13 +14162,14 @@ courses:
               header: true
               UID: BIB116.2.1.2.P.21
             - p: 21
-              text: 1:22–23
+              text: Matthew 1:22–23
               kind: chart
               cls: IST_Table-Body
               table: 12
               row: 3
               col: 1
-              UID: BIB116.2.1.2.P.22
+              UID: BIB116.2.1.2.P.20.1
+              source_uid: BIB116.2.1.2.P.20
             - p: 22
               text: 'All this took place to fulfill what the Lord had said through
                 the prophet: "The virgin will be with child and will give birth to
@@ -13966,13 +14183,14 @@ courses:
               UID: BIB116.2.1.2.P.23.1
               source_uid: BIB116.2.1.2.P.23
             - p: 23
-              text: '2:15'
+              text: Matthew 2:15
               kind: chart
               cls: IST_Table-Body
               table: 12
               row: 4
               col: 1
-              UID: BIB116.2.1.2.P.24
+              UID: BIB116.2.1.2.P.27.1
+              source_uid: BIB116.2.1.2.P.27
             - p: 24
               text: 'Where he stayed until the death of Herod. And so was fulfilled
                 what the Lord had said through the prophet: "Out of Egypt I called
@@ -13985,13 +14203,14 @@ courses:
               UID: BIB116.2.1.2.P.25.1
               source_uid: BIB116.2.1.2.P.25
             - p: 25
-              text: 2:17–18
+              text: Matthew 2:17–18
               kind: chart
               cls: IST_Table-Body
               table: 12
               row: 5
               col: 1
-              UID: BIB116.2.1.2.P.29
+              UID: BIB116.2.1.2.P.29.1
+              source_uid: BIB116.2.1.2.P.29
             - p: 26
               text: 'Then what was said through the prophet Jeremiah was fulfilled:
                 "A voice is heard in Ramah, weeping and great mourning, Rachel weeping
@@ -14005,13 +14224,13 @@ courses:
               UID: BIB116.2.1.2.P.30.1
               source_uid: BIB116.2.1.2.P.30
             - p: 27
-              text: '2:23'
+              text: Matthew 2:23
               kind: chart
               cls: IST_Table-Body
               table: 12
               row: 6
               col: 1
-              UID: BIB116.2.1.2.P.31
+              UID: BIB116.2.1.2.P.193
             - p: 28
               text: 'And he went and lived in a town called Nazareth. So was fulfilled
                 what was said through the prophets: "He will be called a Nazarene."'
@@ -14023,13 +14242,14 @@ courses:
               UID: BIB116.2.1.2.P.32.1
               source_uid: BIB116.2.1.2.P.32
             - p: 29
-              text: 4:14–16
+              text: Matthew 4:14–16
               kind: chart
               cls: IST_Table-Body
               table: 12
               row: 7
               col: 1
-              UID: BIB116.2.1.2.P.33
+              UID: BIB116.2.1.2.P.33.1
+              source_uid: BIB116.2.1.2.P.33
             - p: 30
               text: 'To fulfill what was said through the prophet Isaiah: "Land of
                 Zebulun and land of Naphtali, the way to the sea, along the Jordan,
@@ -14044,13 +14264,13 @@ courses:
               UID: BIB116.2.1.2.P.34.1
               source_uid: BIB116.2.1.2.P.34
             - p: 31
-              text: '8:17'
+              text: Matthew 8:17
               kind: chart
               cls: IST_Table-Body
               table: 12
               row: 8
               col: 1
-              UID: BIB116.2.1.2.P.35
+              UID: BIB116.2.1.2.P.194
             - p: 32
               text: 'This was to fulfill what was spoken through the prophet Isaiah:
                 "He took up our infirmities and carried our diseases." (Isaiah 53:4)'
@@ -14062,13 +14282,14 @@ courses:
               UID: BIB116.2.1.2.P.36.1
               source_uid: BIB116.2.1.2.P.36
             - p: 33
-              text: 12:17–21
+              text: Matthew 12:17–21
               kind: chart
               cls: IST_Table-Body
               table: 12
               row: 9
               col: 1
-              UID: BIB116.2.1.2.P.37
+              UID: BIB116.2.1.2.P.37.1
+              source_uid: BIB116.2.1.2.P.37
             - p: 34
               text: 'This was to fulfill what was spoken through the prophet Isaiah:
                 "Here is my servant whom I have chosen, the one I love, in whom I
@@ -14085,13 +14306,13 @@ courses:
               UID: BIB116.2.1.2.P.38.1
               source_uid: BIB116.2.1.2.P.38
             - p: 35
-              text: '13:35'
+              text: Matthew 13:35
               kind: chart
               cls: IST_Table-Body
               table: 12
               row: 10
               col: 1
-              UID: BIB116.2.1.2.P.39
+              UID: BIB116.2.1.2.P.195
             - p: 36
               text: 'So was fulfilled what was spoken through the prophet: "I will
                 open my mouth in parables, I will utter things hidden since the creation
@@ -14104,13 +14325,14 @@ courses:
               UID: BIB116.2.1.2.P.40.1
               source_uid: BIB116.2.1.2.P.40
             - p: 37
-              text: 21:4–5
+              text: Matthew 21:4–5
               kind: chart
               cls: IST_Table-Body
               table: 12
               row: 11
               col: 1
-              UID: BIB116.2.1.2.P.41
+              UID: BIB116.2.1.2.P.41.1
+              source_uid: BIB116.2.1.2.P.41
             - p: 38
               text: 'This took place to fulfill what was spoken through the prophet:
                 "Say to the Daughter or Zion, '' See, your king comes to you, gentle
@@ -14124,13 +14346,14 @@ courses:
               UID: BIB116.2.1.2.P.42.1
               source_uid: BIB116.2.1.2.P.42
             - p: 39
-              text: 27:9–10
+              text: Matthew 27:9–10
               kind: chart
               cls: IST_Table-Body
               table: 12
               row: 12
               col: 1
-              UID: BIB116.2.1.2.P.43
+              UID: BIB116.2.1.2.P.43.1
+              source_uid: BIB116.2.1.2.P.43
             - p: 40
               text: 'Then what was spoken by Jeremiah the prophet was fulfilled: "They
                 took the thirty silver coins, the price set on him by the people of
@@ -14452,7 +14675,7 @@ courses:
               row: 2
               col: 2
               header: true
-              UID: BIB116.2.1.2.P.27
+              UID: BIB116.2.1.2.P.196
             - p: 88
               text: Thoughts on the kingdom of heaven
               kind: heading
@@ -14654,6 +14877,135 @@ courses:
               row: 14
               col: 2
               UID: BIB116.2.1.2.P.113
+            - p: 19
+              text: Matthew
+              kind: heading
+              cls: IST_Table-Header
+              table: 12
+              row: 2
+              col: 1
+              header: true
+              UID: BIB116.2.1.2.P.20
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.2.1.2.P.20.1
+            - p: 87
+              text: Matthew
+              kind: heading
+              cls: IST_Table-Header
+              table: 13
+              row: 2
+              col: 2
+              header: true
+              UID: BIB116.2.1.2.P.27
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.2.1.2.P.27.1
+            - p: 25
+              text: 2:17–18
+              kind: chart
+              cls: IST_Table-Body
+              table: 12
+              row: 5
+              col: 1
+              UID: BIB116.2.1.2.P.29
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.2.1.2.P.29.1
+            - p: 29
+              text: 4:14–16
+              kind: chart
+              cls: IST_Table-Body
+              table: 12
+              row: 7
+              col: 1
+              UID: BIB116.2.1.2.P.33
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.2.1.2.P.33.1
+            - p: 33
+              text: 12:17–21
+              kind: chart
+              cls: IST_Table-Body
+              table: 12
+              row: 9
+              col: 1
+              UID: BIB116.2.1.2.P.37
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.2.1.2.P.37.1
+            - p: 37
+              text: 21:4–5
+              kind: chart
+              cls: IST_Table-Body
+              table: 12
+              row: 11
+              col: 1
+              UID: BIB116.2.1.2.P.41
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.2.1.2.P.41.1
+            - p: 39
+              text: 27:9–10
+              kind: chart
+              cls: IST_Table-Body
+              table: 12
+              row: 12
+              col: 1
+              UID: BIB116.2.1.2.P.43
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.2.1.2.P.43.1
+            - p: 21
+              text: 1:22–23
+              kind: chart
+              cls: IST_Table-Body
+              table: 12
+              row: 3
+              col: 1
+              UID: BIB116.2.1.2.P.22
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 23
+              text: '2:15'
+              kind: chart
+              cls: IST_Table-Body
+              table: 12
+              row: 4
+              col: 1
+              UID: BIB116.2.1.2.P.24
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 27
+              text: '2:23'
+              kind: chart
+              cls: IST_Table-Body
+              table: 12
+              row: 6
+              col: 1
+              UID: BIB116.2.1.2.P.31
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 31
+              text: '8:17'
+              kind: chart
+              cls: IST_Table-Body
+              table: 12
+              row: 8
+              col: 1
+              UID: BIB116.2.1.2.P.35
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 35
+              text: '13:35'
+              kind: chart
+              cls: IST_Table-Body
+              table: 12
+              row: 10
+              col: 1
+              UID: BIB116.2.1.2.P.39
+              status: outdated 2026-08-17
+              outdated_reason: struck
             - p: 113
               text: Explain Mark’s purpose and how he fulfilled it.
               kind: prose
@@ -15745,7 +16097,7 @@ courses:
               - ref: Matthew 9:9-13
                 key: matthew.9.9-13
                 bib_gate: https://www.biblegateway.com/passage/?search=Matthew%209%3A9-13&version=NIV
-              paragraph: BIB116.2.1.2.P.20
+              paragraph: BIB116.2.1.2.P.192
               UID: BIB116.2.1.2.S.1
             - intext: Mark 2:14
               version: NIV
@@ -15753,7 +16105,7 @@ courses:
               - ref: Mark 2:14
                 key: mark.2.14
                 bib_gate: https://www.biblegateway.com/passage/?search=Mark%202%3A14&version=NIV
-              paragraph: BIB116.2.1.2.P.20
+              paragraph: BIB116.2.1.2.P.192
               UID: BIB116.2.1.2.S.2
             - intext: Matthew 1:1
               version: NIV
@@ -15761,64 +16113,136 @@ courses:
               - ref: Matthew 1:1
                 key: matthew.1.1
                 bib_gate: https://www.biblegateway.com/passage/?search=Matthew%201%3A1&version=NIV
-              paragraph: BIB116.2.1.2.P.20
+              paragraph: BIB116.2.1.2.P.192
               UID: BIB116.2.1.2.S.3
+            - intext: Matthew 1:22–23
+              version: NIV
+              refs:
+              - ref: Matthew 1:22-23
+                key: matthew.1.22-23
+                bib_gate: https://www.biblegateway.com/passage/?search=Matthew%201%3A22-23&version=NIV
+              paragraph: BIB116.2.1.2.P.25.1
+              UID: BIB116.2.1.2.S.41
             - intext: Isaiah 7:14
               version: NIV
               refs:
               - ref: Isaiah 7:14
                 key: isaiah.7.14
                 bib_gate: https://www.biblegateway.com/passage/?search=Isaiah%207%3A14&version=NIV
-              paragraph: BIB116.2.1.2.P.29
+              paragraph: BIB116.2.1.2.P.29.1
               UID: BIB116.2.1.2.S.4
+            - intext: Matthew 2:15
+              version: NIV
+              refs:
+              - ref: Matthew 2:15
+                key: matthew.2.15
+                bib_gate: https://www.biblegateway.com/passage/?search=Matthew%202%3A15&version=NIV
+              paragraph: BIB116.2.1.2.P.30.1
+              UID: BIB116.2.1.2.S.42
             - intext: Hosea 11:1
               version: NIV
               refs:
               - ref: Hosea 11:1
                 key: hosea.11.1
                 bib_gate: https://www.biblegateway.com/passage/?search=Hosea%2011%3A1&version=NIV
-              paragraph: BIB116.2.1.2.P.31
+              paragraph: BIB116.2.1.2.P.193
               UID: BIB116.2.1.2.S.5
+            - intext: Matthew 2:17–18
+              version: NIV
+              refs:
+              - ref: Matthew 2:17-18
+                key: matthew.2.17-18
+                bib_gate: https://www.biblegateway.com/passage/?search=Matthew%202%3A17-18&version=NIV
+              paragraph: BIB116.2.1.2.P.32.1
+              UID: BIB116.2.1.2.S.43
             - intext: Jeremiah 31:15
               version: NIV
               refs:
               - ref: Jeremiah 31:15
                 key: jeremiah.31.15
                 bib_gate: https://www.biblegateway.com/passage/?search=Jeremiah%2031%3A15&version=NIV
-              paragraph: BIB116.2.1.2.P.33
+              paragraph: BIB116.2.1.2.P.33.1
               UID: BIB116.2.1.2.S.6
+            - intext: Matthew 2:23
+              version: NIV
+              refs:
+              - ref: Matthew 2:23
+                key: matthew.2.23
+                bib_gate: https://www.biblegateway.com/passage/?search=Matthew%202%3A23&version=NIV
+              paragraph: BIB116.2.1.2.P.34.1
+              UID: BIB116.2.1.2.S.44
+            - intext: Matthew 4:14–16
+              version: NIV
+              refs:
+              - ref: Matthew 4:14-16
+                key: matthew.4.14-16
+                bib_gate: https://www.biblegateway.com/passage/?search=Matthew%204%3A14-16&version=NIV
+              paragraph: BIB116.2.1.2.P.36.1
+              UID: BIB116.2.1.2.S.45
             - intext: Isaiah 9:1–2
               version: NIV
               refs:
               - ref: Isaiah 9:1-2
                 key: isaiah.9.1-2
                 bib_gate: https://www.biblegateway.com/passage/?search=Isaiah%209%3A1-2&version=NIV
-              paragraph: BIB116.2.1.2.P.37
+              paragraph: BIB116.2.1.2.P.37.1
               UID: BIB116.2.1.2.S.7
+            - intext: Matthew 8:17
+              version: NIV
+              refs:
+              - ref: Matthew 8:17
+                key: matthew.8.17
+                bib_gate: https://www.biblegateway.com/passage/?search=Matthew%208%3A17&version=NIV
+              paragraph: BIB116.2.1.2.P.38.1
+              UID: BIB116.2.1.2.S.46
             - intext: Isaiah 53:4
               version: NIV
               refs:
               - ref: Isaiah 53:4
                 key: isaiah.53.4
                 bib_gate: https://www.biblegateway.com/passage/?search=Isaiah%2053%3A4&version=NIV
-              paragraph: BIB116.2.1.2.P.39
+              paragraph: BIB116.2.1.2.P.195
               UID: BIB116.2.1.2.S.8
+            - intext: Matthew 12:17–21
+              version: NIV
+              refs:
+              - ref: Matthew 12:17-21
+                key: matthew.12.17-21
+                bib_gate: https://www.biblegateway.com/passage/?search=Matthew%2012%3A17-21&version=NIV
+              paragraph: BIB116.2.1.2.P.40.1
+              UID: BIB116.2.1.2.S.47
             - intext: Isaiah 42:1–4
               version: NIV
               refs:
               - ref: Isaiah 42:1-4
                 key: isaiah.42.1-4
                 bib_gate: https://www.biblegateway.com/passage/?search=Isaiah%2042%3A1-4&version=NIV
-              paragraph: BIB116.2.1.2.P.41
+              paragraph: BIB116.2.1.2.P.41.1
               UID: BIB116.2.1.2.S.9
+            - intext: Matthew 13:35
+              version: NIV
+              refs:
+              - ref: Matthew 13:35
+                key: matthew.13.35
+                bib_gate: https://www.biblegateway.com/passage/?search=Matthew%2013%3A35&version=NIV
+              paragraph: BIB116.2.1.2.P.42.1
+              UID: BIB116.2.1.2.S.48
             - intext: Psalm 78:2
               version: NIV
               refs:
               - ref: Psalms 78:2
                 key: psalms.78.2
                 bib_gate: https://www.biblegateway.com/passage/?search=Psalms%2078%3A2&version=NIV
-              paragraph: BIB116.2.1.2.P.43
+              paragraph: BIB116.2.1.2.P.43.1
               UID: BIB116.2.1.2.S.10
+            - intext: Matthew 21:4–5
+              version: NIV
+              refs:
+              - ref: Matthew 21:4-5
+                key: matthew.21.4-5
+                bib_gate: https://www.biblegateway.com/passage/?search=Matthew%2021%3A4-5&version=NIV
+              paragraph: BIB116.2.1.2.P.44.1
+              UID: BIB116.2.1.2.S.49
             - intext: Zechariah 9:9
               version: NIV
               refs:
@@ -15827,6 +16251,14 @@ courses:
                 bib_gate: https://www.biblegateway.com/passage/?search=Zechariah%209%3A9&version=NIV
               paragraph: BIB116.2.1.2.P.182
               UID: BIB116.2.1.2.S.11
+            - intext: Matthew 27:9–10
+              version: NIV
+              refs:
+              - ref: Matthew 27:9-10
+                key: matthew.27.9-10
+                bib_gate: https://www.biblegateway.com/passage/?search=Matthew%2027%3A9-10&version=NIV
+              paragraph: BIB116.2.1.2.P.183
+              UID: BIB116.2.1.2.S.50
             - intext: Zechariah 11:13
               version: NIV
               refs:
@@ -16322,14 +16754,14 @@ courses:
               header: true
               UID: BIB116.2.1.3.P.181
             - p: 19
-              text: Matthew
+              text: Reference
               kind: heading
               cls: IST_Table-Header
               table: 12
               row: 2
               col: 1
               header: true
-              UID: BIB116.2.1.3.P.20
+              UID: BIB116.2.1.3.P.192
             - p: 20
               text: Quote from the Old Testament
               kind: heading
@@ -16340,13 +16772,14 @@ courses:
               header: true
               UID: BIB116.2.1.3.P.21
             - p: 21
-              text: 1:22–23
+              text: Matthew 1:22–23
               kind: chart
               cls: IST_Table-Body
               table: 12
               row: 3
               col: 1
-              UID: BIB116.2.1.3.P.22
+              UID: BIB116.2.1.3.P.20.1
+              source_uid: BIB116.2.1.3.P.20
             - p: 22
               text: 'All this took place to fulfill what the Lord had said through
                 the prophet: "The virgin will be with child and will give birth to
@@ -16360,13 +16793,14 @@ courses:
               UID: BIB116.2.1.3.P.23.1
               source_uid: BIB116.2.1.3.P.23
             - p: 23
-              text: '2:15'
+              text: Matthew 2:15
               kind: chart
               cls: IST_Table-Body
               table: 12
               row: 4
               col: 1
-              UID: BIB116.2.1.3.P.24
+              UID: BIB116.2.1.3.P.27.1
+              source_uid: BIB116.2.1.3.P.27
             - p: 24
               text: 'Where he stayed until the death of Herod. And so was fulfilled
                 what the Lord had said through the prophet: "Out of Egypt I called
@@ -16379,13 +16813,14 @@ courses:
               UID: BIB116.2.1.3.P.25.1
               source_uid: BIB116.2.1.3.P.25
             - p: 25
-              text: 2:17–18
+              text: Matthew 2:17–18
               kind: chart
               cls: IST_Table-Body
               table: 12
               row: 5
               col: 1
-              UID: BIB116.2.1.3.P.29
+              UID: BIB116.2.1.3.P.29.1
+              source_uid: BIB116.2.1.3.P.29
             - p: 26
               text: 'Then what was said through the prophet Jeremiah was fulfilled:
                 "A voice is heard in Ramah, weeping and great mourning, Rachel weeping
@@ -16399,13 +16834,13 @@ courses:
               UID: BIB116.2.1.3.P.30.1
               source_uid: BIB116.2.1.3.P.30
             - p: 27
-              text: '2:23'
+              text: Matthew 2:23
               kind: chart
               cls: IST_Table-Body
               table: 12
               row: 6
               col: 1
-              UID: BIB116.2.1.3.P.31
+              UID: BIB116.2.1.3.P.193
             - p: 28
               text: 'And he went and lived in a town called Nazareth. So was fulfilled
                 what was said through the prophets: "He will be called a Nazarene."'
@@ -16417,13 +16852,14 @@ courses:
               UID: BIB116.2.1.3.P.32.1
               source_uid: BIB116.2.1.3.P.32
             - p: 29
-              text: 4:14–16
+              text: Matthew 4:14–16
               kind: chart
               cls: IST_Table-Body
               table: 12
               row: 7
               col: 1
-              UID: BIB116.2.1.3.P.33
+              UID: BIB116.2.1.3.P.33.1
+              source_uid: BIB116.2.1.3.P.33
             - p: 30
               text: 'To fulfill what was said through the prophet Isaiah: "Land of
                 Zebulun and land of Naphtali, the way to the sea, along the Jordan,
@@ -16438,13 +16874,13 @@ courses:
               UID: BIB116.2.1.3.P.34.1
               source_uid: BIB116.2.1.3.P.34
             - p: 31
-              text: '8:17'
+              text: Matthew 8:17
               kind: chart
               cls: IST_Table-Body
               table: 12
               row: 8
               col: 1
-              UID: BIB116.2.1.3.P.35
+              UID: BIB116.2.1.3.P.194
             - p: 32
               text: 'This was to fulfill what was spoken through the prophet Isaiah:
                 "He took up our infirmities and carried our diseases." (Isaiah 53:4)'
@@ -16456,13 +16892,14 @@ courses:
               UID: BIB116.2.1.3.P.36.1
               source_uid: BIB116.2.1.3.P.36
             - p: 33
-              text: 12:17–21
+              text: Matthew 12:17–21
               kind: chart
               cls: IST_Table-Body
               table: 12
               row: 9
               col: 1
-              UID: BIB116.2.1.3.P.37
+              UID: BIB116.2.1.3.P.37.1
+              source_uid: BIB116.2.1.3.P.37
             - p: 34
               text: 'This was to fulfill what was spoken through the prophet Isaiah:
                 "Here is my servant whom I have chosen, the one I love, in whom I
@@ -16479,13 +16916,13 @@ courses:
               UID: BIB116.2.1.3.P.38.1
               source_uid: BIB116.2.1.3.P.38
             - p: 35
-              text: '13:35'
+              text: Matthew 13:35
               kind: chart
               cls: IST_Table-Body
               table: 12
               row: 10
               col: 1
-              UID: BIB116.2.1.3.P.39
+              UID: BIB116.2.1.3.P.195
             - p: 36
               text: 'So was fulfilled what was spoken through the prophet: "I will
                 open my mouth in parables, I will utter things hidden since the creation
@@ -16498,13 +16935,14 @@ courses:
               UID: BIB116.2.1.3.P.40.1
               source_uid: BIB116.2.1.3.P.40
             - p: 37
-              text: 21:4–5
+              text: Matthew 21:4–5
               kind: chart
               cls: IST_Table-Body
               table: 12
               row: 11
               col: 1
-              UID: BIB116.2.1.3.P.41
+              UID: BIB116.2.1.3.P.41.1
+              source_uid: BIB116.2.1.3.P.41
             - p: 38
               text: 'This took place to fulfill what was spoken through the prophet:
                 "Say to the Daughter or Zion, '' See, your king comes to you, gentle
@@ -16518,13 +16956,14 @@ courses:
               UID: BIB116.2.1.3.P.42.1
               source_uid: BIB116.2.1.3.P.42
             - p: 39
-              text: 27:9–10
+              text: Matthew 27:9–10
               kind: chart
               cls: IST_Table-Body
               table: 12
               row: 12
               col: 1
-              UID: BIB116.2.1.3.P.43
+              UID: BIB116.2.1.3.P.43.1
+              source_uid: BIB116.2.1.3.P.43
             - p: 40
               text: 'Then what was spoken by Jeremiah the prophet was fulfilled: "They
                 took the thirty silver coins, the price set on him by the people of
@@ -16846,7 +17285,7 @@ courses:
               row: 2
               col: 2
               header: true
-              UID: BIB116.2.1.3.P.27
+              UID: BIB116.2.1.3.P.196
             - p: 88
               text: Thoughts on the kingdom of heaven
               kind: heading
@@ -17048,6 +17487,135 @@ courses:
               row: 14
               col: 2
               UID: BIB116.2.1.3.P.113
+            - p: 19
+              text: Matthew
+              kind: heading
+              cls: IST_Table-Header
+              table: 12
+              row: 2
+              col: 1
+              header: true
+              UID: BIB116.2.1.3.P.20
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.2.1.3.P.20.1
+            - p: 87
+              text: Matthew
+              kind: heading
+              cls: IST_Table-Header
+              table: 13
+              row: 2
+              col: 2
+              header: true
+              UID: BIB116.2.1.3.P.27
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.2.1.3.P.27.1
+            - p: 25
+              text: 2:17–18
+              kind: chart
+              cls: IST_Table-Body
+              table: 12
+              row: 5
+              col: 1
+              UID: BIB116.2.1.3.P.29
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.2.1.3.P.29.1
+            - p: 29
+              text: 4:14–16
+              kind: chart
+              cls: IST_Table-Body
+              table: 12
+              row: 7
+              col: 1
+              UID: BIB116.2.1.3.P.33
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.2.1.3.P.33.1
+            - p: 33
+              text: 12:17–21
+              kind: chart
+              cls: IST_Table-Body
+              table: 12
+              row: 9
+              col: 1
+              UID: BIB116.2.1.3.P.37
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.2.1.3.P.37.1
+            - p: 37
+              text: 21:4–5
+              kind: chart
+              cls: IST_Table-Body
+              table: 12
+              row: 11
+              col: 1
+              UID: BIB116.2.1.3.P.41
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.2.1.3.P.41.1
+            - p: 39
+              text: 27:9–10
+              kind: chart
+              cls: IST_Table-Body
+              table: 12
+              row: 12
+              col: 1
+              UID: BIB116.2.1.3.P.43
+              status: outdated 2026-08-17
+              outdated_reason: revised
+              replaced_by: BIB116.2.1.3.P.43.1
+            - p: 21
+              text: 1:22–23
+              kind: chart
+              cls: IST_Table-Body
+              table: 12
+              row: 3
+              col: 1
+              UID: BIB116.2.1.3.P.22
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 23
+              text: '2:15'
+              kind: chart
+              cls: IST_Table-Body
+              table: 12
+              row: 4
+              col: 1
+              UID: BIB116.2.1.3.P.24
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 27
+              text: '2:23'
+              kind: chart
+              cls: IST_Table-Body
+              table: 12
+              row: 6
+              col: 1
+              UID: BIB116.2.1.3.P.31
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 31
+              text: '8:17'
+              kind: chart
+              cls: IST_Table-Body
+              table: 12
+              row: 8
+              col: 1
+              UID: BIB116.2.1.3.P.35
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 35
+              text: '13:35'
+              kind: chart
+              cls: IST_Table-Body
+              table: 12
+              row: 10
+              col: 1
+              UID: BIB116.2.1.3.P.39
+              status: outdated 2026-08-17
+              outdated_reason: struck
             - p: 113
               text: Explain Mark’s purpose and how he fulfilled it.
               kind: prose
@@ -18139,7 +18707,7 @@ courses:
               - ref: Matthew 9:9-13
                 key: matthew.9.9-13
                 bib_gate: https://www.biblegateway.com/passage/?search=Matthew%209%3A9-13&version=NIV
-              paragraph: BIB116.2.1.3.P.20
+              paragraph: BIB116.2.1.3.P.192
               UID: BIB116.2.1.3.S.1
             - intext: Mark 2:14
               version: NIV
@@ -18147,7 +18715,7 @@ courses:
               - ref: Mark 2:14
                 key: mark.2.14
                 bib_gate: https://www.biblegateway.com/passage/?search=Mark%202%3A14&version=NIV
-              paragraph: BIB116.2.1.3.P.20
+              paragraph: BIB116.2.1.3.P.192
               UID: BIB116.2.1.3.S.2
             - intext: Matthew 1:1
               version: NIV
@@ -18155,64 +18723,136 @@ courses:
               - ref: Matthew 1:1
                 key: matthew.1.1
                 bib_gate: https://www.biblegateway.com/passage/?search=Matthew%201%3A1&version=NIV
-              paragraph: BIB116.2.1.3.P.20
+              paragraph: BIB116.2.1.3.P.192
               UID: BIB116.2.1.3.S.3
+            - intext: Matthew 1:22–23
+              version: NIV
+              refs:
+              - ref: Matthew 1:22-23
+                key: matthew.1.22-23
+                bib_gate: https://www.biblegateway.com/passage/?search=Matthew%201%3A22-23&version=NIV
+              paragraph: BIB116.2.1.3.P.25.1
+              UID: BIB116.2.1.3.S.41
             - intext: Isaiah 7:14
               version: NIV
               refs:
               - ref: Isaiah 7:14
                 key: isaiah.7.14
                 bib_gate: https://www.biblegateway.com/passage/?search=Isaiah%207%3A14&version=NIV
-              paragraph: BIB116.2.1.3.P.29
+              paragraph: BIB116.2.1.3.P.29.1
               UID: BIB116.2.1.3.S.4
+            - intext: Matthew 2:15
+              version: NIV
+              refs:
+              - ref: Matthew 2:15
+                key: matthew.2.15
+                bib_gate: https://www.biblegateway.com/passage/?search=Matthew%202%3A15&version=NIV
+              paragraph: BIB116.2.1.3.P.30.1
+              UID: BIB116.2.1.3.S.42
             - intext: Hosea 11:1
               version: NIV
               refs:
               - ref: Hosea 11:1
                 key: hosea.11.1
                 bib_gate: https://www.biblegateway.com/passage/?search=Hosea%2011%3A1&version=NIV
-              paragraph: BIB116.2.1.3.P.31
+              paragraph: BIB116.2.1.3.P.193
               UID: BIB116.2.1.3.S.5
+            - intext: Matthew 2:17–18
+              version: NIV
+              refs:
+              - ref: Matthew 2:17-18
+                key: matthew.2.17-18
+                bib_gate: https://www.biblegateway.com/passage/?search=Matthew%202%3A17-18&version=NIV
+              paragraph: BIB116.2.1.3.P.32.1
+              UID: BIB116.2.1.3.S.43
             - intext: Jeremiah 31:15
               version: NIV
               refs:
               - ref: Jeremiah 31:15
                 key: jeremiah.31.15
                 bib_gate: https://www.biblegateway.com/passage/?search=Jeremiah%2031%3A15&version=NIV
-              paragraph: BIB116.2.1.3.P.33
+              paragraph: BIB116.2.1.3.P.33.1
               UID: BIB116.2.1.3.S.6
+            - intext: Matthew 2:23
+              version: NIV
+              refs:
+              - ref: Matthew 2:23
+                key: matthew.2.23
+                bib_gate: https://www.biblegateway.com/passage/?search=Matthew%202%3A23&version=NIV
+              paragraph: BIB116.2.1.3.P.34.1
+              UID: BIB116.2.1.3.S.44
+            - intext: Matthew 4:14–16
+              version: NIV
+              refs:
+              - ref: Matthew 4:14-16
+                key: matthew.4.14-16
+                bib_gate: https://www.biblegateway.com/passage/?search=Matthew%204%3A14-16&version=NIV
+              paragraph: BIB116.2.1.3.P.36.1
+              UID: BIB116.2.1.3.S.45
             - intext: Isaiah 9:1–2
               version: NIV
               refs:
               - ref: Isaiah 9:1-2
                 key: isaiah.9.1-2
                 bib_gate: https://www.biblegateway.com/passage/?search=Isaiah%209%3A1-2&version=NIV
-              paragraph: BIB116.2.1.3.P.37
+              paragraph: BIB116.2.1.3.P.37.1
               UID: BIB116.2.1.3.S.7
+            - intext: Matthew 8:17
+              version: NIV
+              refs:
+              - ref: Matthew 8:17
+                key: matthew.8.17
+                bib_gate: https://www.biblegateway.com/passage/?search=Matthew%208%3A17&version=NIV
+              paragraph: BIB116.2.1.3.P.38.1
+              UID: BIB116.2.1.3.S.46
             - intext: Isaiah 53:4
               version: NIV
               refs:
               - ref: Isaiah 53:4
                 key: isaiah.53.4
                 bib_gate: https://www.biblegateway.com/passage/?search=Isaiah%2053%3A4&version=NIV
-              paragraph: BIB116.2.1.3.P.39
+              paragraph: BIB116.2.1.3.P.195
               UID: BIB116.2.1.3.S.8
+            - intext: Matthew 12:17–21
+              version: NIV
+              refs:
+              - ref: Matthew 12:17-21
+                key: matthew.12.17-21
+                bib_gate: https://www.biblegateway.com/passage/?search=Matthew%2012%3A17-21&version=NIV
+              paragraph: BIB116.2.1.3.P.40.1
+              UID: BIB116.2.1.3.S.47
             - intext: Isaiah 42:1–4
               version: NIV
               refs:
               - ref: Isaiah 42:1-4
                 key: isaiah.42.1-4
                 bib_gate: https://www.biblegateway.com/passage/?search=Isaiah%2042%3A1-4&version=NIV
-              paragraph: BIB116.2.1.3.P.41
+              paragraph: BIB116.2.1.3.P.41.1
               UID: BIB116.2.1.3.S.9
+            - intext: Matthew 13:35
+              version: NIV
+              refs:
+              - ref: Matthew 13:35
+                key: matthew.13.35
+                bib_gate: https://www.biblegateway.com/passage/?search=Matthew%2013%3A35&version=NIV
+              paragraph: BIB116.2.1.3.P.42.1
+              UID: BIB116.2.1.3.S.48
             - intext: Psalm 78:2
               version: NIV
               refs:
               - ref: Psalms 78:2
                 key: psalms.78.2
                 bib_gate: https://www.biblegateway.com/passage/?search=Psalms%2078%3A2&version=NIV
-              paragraph: BIB116.2.1.3.P.43
+              paragraph: BIB116.2.1.3.P.43.1
               UID: BIB116.2.1.3.S.10
+            - intext: Matthew 21:4–5
+              version: NIV
+              refs:
+              - ref: Matthew 21:4-5
+                key: matthew.21.4-5
+                bib_gate: https://www.biblegateway.com/passage/?search=Matthew%2021%3A4-5&version=NIV
+              paragraph: BIB116.2.1.3.P.44.1
+              UID: BIB116.2.1.3.S.49
             - intext: Zechariah 9:9
               version: NIV
               refs:
@@ -18221,6 +18861,14 @@ courses:
                 bib_gate: https://www.biblegateway.com/passage/?search=Zechariah%209%3A9&version=NIV
               paragraph: BIB116.2.1.3.P.182
               UID: BIB116.2.1.3.S.11
+            - intext: Matthew 27:9–10
+              version: NIV
+              refs:
+              - ref: Matthew 27:9-10
+                key: matthew.27.9-10
+                bib_gate: https://www.biblegateway.com/passage/?search=Matthew%2027%3A9-10&version=NIV
+              paragraph: BIB116.2.1.3.P.183
+              UID: BIB116.2.1.3.S.50
             - intext: Zechariah 11:13
               version: NIV
               refs:
