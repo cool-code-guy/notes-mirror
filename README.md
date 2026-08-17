@@ -7,17 +7,24 @@ Public curriculum data from the course catalog — course structure, learning ob
 
 ## Use it with Claude (or any AI)
 
-Paste a link from this repo straight into a chat — for a public GitHub repo, Claude's web browsing can read it directly, no upload needed:
+**Copy one of the exact links below and paste it into the chat** — not a link to this page, and not the plain repo URL. Those are pages meant for a browser to render; an AI fetching a URL directly needs the raw-content link, or it'll get a 404 the same way a plain text fetch would on any GitHub page:
 
-- **Start here:** [`catalog/catalog.md`](catalog/catalog.md) — every course, one table.
-- **One course in depth:** [`catalog/courses/BIB116.md`](catalog/courses/BIB116.md) (swap the code) — objectives, structure, counts.
-- **Full lesson text for a course:** `data/body/<code>.yaml` (lowercase code), e.g. [`data/body/bib116.yaml`](data/body/bib116.yaml).
-- **Scripture coverage:** [`indexes/scripture_index.json`](indexes/scripture_index.json) — every passage, and which lessons teach it.
-- **Sources cited:** [`indexes/bibliography.json`](indexes/bibliography.json).
+- **Start here:** every course, one table —
+  `https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/catalog/catalog.md`
+- **One course in depth** (swap `BIB116` for another code) —
+  `https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/catalog/courses/BIB116.md`
+- **Full lesson text for a course** (swap `bib116`, lowercase) —
+  `https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/data/body/bib116.yaml`
+- **Scripture coverage** — every passage, and which lessons teach it —
+  `https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/indexes/scripture_index.json`
+- **Sources cited** —
+  `https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/indexes/bibliography.json`
 
 Example prompt, once you've pasted a link:
 
 > Using this, draft a one-paragraph description of this course for a denominational training director — plain language, no internal codes.
+
+If a link 404s or the assistant says it can't reach it: check that you copied the full `raw.githubusercontent.com` address above, not a `github.com/.../blob/...` page URL — those look similar but aren't the same thing to a fetch tool.
 
 ## Layout
 
@@ -29,7 +36,7 @@ data/body/    Full lesson text per course (YAML).
 
 ## Freshness
 
-See [`MANIFEST.yaml`](MANIFEST.yaml) for the generation date. Refreshed automatically when the source curriculum changes.
+See `https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/MANIFEST.yaml` for the generation date. Refreshed automatically when the source curriculum changes.
 
 ## Questions
 
