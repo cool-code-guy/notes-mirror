@@ -2329,6 +2329,11 @@ courses:
           heaven with Him. Indeed, God plans ahead, and we are part of His plans.
         kind: prose
         cls: IST_Chapter-Intro-Intro-Text
+      intro_interactive_questions:
+      - p: 1
+        text: Consider ways in whcih events in history and in your own life demonstrate
+          that God planned ahead for your salvation.
+        after_body_index: 8
       lessons:
       - last_modified: '2026-05-28'
         title: Preparation for the New Testament
@@ -3968,7 +3973,7 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 2
               text: Explain two ways in which the Jewish way of life prepared the
                 world for Christ.
               response: The Jews expressed belief in the one true God and the Law
@@ -3976,13 +3981,13 @@ courses:
               after_body_index: 41
               UID: BIB116.1.1.1.IQ.1.1
               source_uid: BIB116.1.1.1.IQ.1
-            - p: 2
+            - p: 3
               text: How did the Septuagint help prepare the world for Christ?
               response: It made the Old Testament teachings available to a broader
                 range of people (Jews and Gentiles alike) through a common language.
               after_body_index: 45
               UID: BIB116.1.1.1.IQ.2
-            - p: 3
+            - p: 4
               text: How did the beliefs of the Pharisees and Sadducees differ from
                 each other?
               response: The Pharisees believed in angels, spirits, and resurrection;
@@ -3990,7 +3995,7 @@ courses:
                 the Sadducees did not.
               after_body_index: 50
               UID: BIB116.1.1.1.IQ.3
-            - p: 4
+            - p: 5
               text: How did God use the Greeks to prepare the world for His Son?
               response: Greek became the world’s common language through Alexander
                 the Great’s conquests. In this way, both Jew and Gentile were prepared
@@ -5910,7 +5915,7 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 2
               text: Explain two ways in which the Jewish way of life prepared the
                 world for Christ.
               response: The Jews expressed belief in the one true God and the Law
@@ -5918,13 +5923,13 @@ courses:
               after_body_index: 41
               UID: BIB116.1.1.2.IQ.1.1
               source_uid: BIB116.1.1.2.IQ.1
-            - p: 2
+            - p: 3
               text: How did the Septuagint help prepare the world for Christ?
               response: It made the Old Testament teachings available to a broader
                 range of people (Jews and Gentiles alike) through a common language.
               after_body_index: 45
               UID: BIB116.1.1.2.IQ.2
-            - p: 3
+            - p: 4
               text: How did the beliefs of the Pharisees and Sadducees differ from
                 each other?
               response: The Pharisees believed in angels, spirits, and resurrection;
@@ -5932,7 +5937,7 @@ courses:
                 the Sadducees did not.
               after_body_index: 50
               UID: BIB116.1.1.2.IQ.3
-            - p: 4
+            - p: 5
               text: How did God use the Greeks to prepare the world for His Son?
               response: Greek became the world’s common language through Alexander
                 the Great’s conquests. In this way, both Jew and Gentile were prepared
@@ -6557,7 +6562,7 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 6
               text: How did Pilate's position differ from that of Herod Antipas?
               response: Pilate was governor over Judea, while Antipas was the tetrarch
                 who ruled over Galilee. Also, Pilate was appointed by Caesar, while
@@ -6565,7 +6570,7 @@ courses:
               after_body_index: 10
               UID: BIB116.1.2.1.IQ.1.1
               source_uid: BIB116.1.2.1.IQ.1
-            - p: 2
+            - p: 7
               text: Summarize the facts about each Palestinian ruler by completing
                 the adjacent chart.
               response: Palestinian Rulers Rulers Place(s) Dates Scriptures Herod
@@ -6578,7 +6583,7 @@ courses:
                 19
               after_body_index: 10
               UID: BIB116.1.2.1.IQ.2
-            - p: 3
+            - p: 8
               text: In Christ's time, how did Jews use the temple and synagogue?
               response: The temple was the religious center for the Jews. Synagogues
                 provided local places to worship, learn the Scriptures, and pray.
@@ -6587,7 +6592,7 @@ courses:
               after_body_index: 31
               UID: BIB116.1.2.1.IQ.3.1
               source_uid: BIB116.1.2.1.IQ.3
-            - p: 4
+            - p: 9
               text: What was the essential criterion for accepting books into the
                 New Testament canon, and what three factors supported this criterion?
               response: Divine inspiration was the essential criterion, supported
@@ -6595,7 +6600,7 @@ courses:
                 acceptance by a majority of the early churches.
               after_body_index: 34
               UID: BIB116.1.2.1.IQ.4
-            - p: 5
+            - p: 10
               text: Since the key to understanding New Testament Scriptures in often
                 found in the Old Testament, what are some practical ways you can increase
                 your knowledge and understanding of both Testaments?
@@ -7216,7 +7221,7 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 6
               text: How did Pilate's position differ from that of Herod Antipas?
               response: Pilate was governor over Judea, while Antipas was the tetrarch
                 who ruled over Galilee. Also, Pilate was appointed by Caesar, while
@@ -7224,7 +7229,7 @@ courses:
               after_body_index: 10
               UID: BIB116.1.2.2.IQ.1.1
               source_uid: BIB116.1.2.2.IQ.1
-            - p: 2
+            - p: 7
               text: Summarize the facts about each Palestinian ruler by completing
                 the adjacent chart.
               response: Palestinian Rulers Rulers Place(s) Dates Scriptures Herod
@@ -7237,7 +7242,7 @@ courses:
                 19
               after_body_index: 10
               UID: BIB116.1.2.2.IQ.2
-            - p: 3
+            - p: 8
               text: In Christ's time, how did Jews use the temple and synagogue?
               response: The temple was the religious center for the Jews. Synagogues
                 provided local places to worship, learn the Scriptures, and pray.
@@ -7246,7 +7251,7 @@ courses:
               after_body_index: 31
               UID: BIB116.1.2.2.IQ.3.1
               source_uid: BIB116.1.2.2.IQ.3
-            - p: 4
+            - p: 9
               text: What was the essential criterion for accepting books into the
                 New Testament canon, and what three factors supported this criterion?
               response: Divine inspiration was the essential criterion, supported
@@ -7254,7 +7259,7 @@ courses:
                 acceptance by a majority of the early churches.
               after_body_index: 34
               UID: BIB116.1.2.2.IQ.4
-            - p: 5
+            - p: 10
               text: Since the key to understanding New Testament Scriptures in often
                 found in the Old Testament, what are some practical ways you can increase
                 your knowledge and understanding of both Testaments?
@@ -8609,13 +8614,13 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 11
               text: How do the five historical books describe Jesus?
               response: 'Matthew: King of the Jews; Mark: Servant of the Lord; Luke:
                 Son of Man; John: Son of God; Acts: the Baptizer'
               after_body_index: 9
               UID: BIB116.1.3.1.IQ.4
-            - p: 2
+            - p: 12
               text: Memorize and name the five history books and the thirteen letters
                 from Paul in order.
               response: 'The history books: Matthew, Mark, Luke, John, Acts; Paul’s
@@ -8623,7 +8628,7 @@ courses:
                 Colossians, 1 and 2 Thessalonians, 1 and 2 Timothy, Titus, and Philemon'
               after_body_index: 15
               UID: BIB116.1.3.1.IQ.1
-            - p: 3
+            - p: 13
               text: Memorize the names of all twenty-seven New Testament books and
                 practice saying them in order.
               response: 'The books in order: Matthew; Mark; Luke; John; Acts; Romans;
@@ -8633,7 +8638,7 @@ courses:
               after_body_index: 20
               UID: BIB116.1.3.1.IQ.2.1
               source_uid: BIB116.1.3.1.IQ.2
-            - p: 4
+            - p: 14
               text: Explain three forms of writing in Revelation.
               response: (1) Revelation includes apocalyptic writing, using visions
                 and symbols to encourage and challenge faithful Christians. (2) It
@@ -10851,24 +10856,24 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 15
               text: Describe Christ from each of the five historical books.
               response: Check your answers with the chart given in the lesson.
               after_body_index: 37
               UID: BIB116.1.4.1.IQ.1
-            - p: 2
+            - p: 16
               text: Explain at least five pictures of Christ in Paul's Epistles.
               response: Check your answers with the chart given in the lesson.
               after_body_index: 83
               UID: BIB116.1.4.1.IQ.2.1
               source_uid: BIB116.1.4.1.IQ.2
-            - p: 3
+            - p: 17
               text: Identify five pictures of Christ from Hebrews and the General
                 Epistles.
               response: Check your answers with the chart given in the lesson.
               after_body_index: 114
               UID: BIB116.1.4.1.IQ.3
-            - p: 4
+            - p: 18
               text: Summarize three pictures of Christ in Revelation.
               response: Check your answers with the chart given in the lesson.
               after_body_index: 144
@@ -11310,6 +11315,11 @@ courses:
           Jesus was the Son of Man, but John emphasizes that He was the Son of God.
         kind: prose
         cls: IST_Body-Indent
+      intro_interactive_questions:
+      - p: 1
+        text: How might you respond to someone who doubts the validity of the Bible,
+          due to the variations in each of the Gospel accounts?
+        after_body_index: 3
       lessons:
       - last_modified: '2026-05-28'
         title: The Gospel of Matthew
@@ -11346,6 +11356,30 @@ courses:
               colspan: 3
               header: true
               UID: BIB116.2.1.1.P.178
+            - text: Gospel
+              kind: heading
+              cls: IST_Table-Header
+              table: 11
+              row: 2
+              col: 1
+              header: true
+              UID: BIB116.2.1.1.P.189
+            - text: Readers
+              kind: heading
+              cls: IST_Table-Header
+              table: 11
+              row: 2
+              col: 2
+              header: true
+              UID: BIB116.2.1.1.P.190
+            - text: Purpose and Theme
+              kind: heading
+              cls: IST_Table-Header
+              table: 11
+              row: 2
+              col: 3
+              header: true
+              UID: BIB116.2.1.1.P.191
             - p: 4
               text: Matthew
               kind: chart
@@ -13142,41 +13176,31 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
-              text: Gospel
-              after_body_index: 3
-              UID: BIB116.2.1.1.IQ.8
             - p: 2
-              text: Readers
-              after_body_index: 3
-              UID: BIB116.2.1.1.IQ.9
-            - p: 3
-              text: Purpose and Theme
-              after_body_index: 3
-              UID: BIB116.2.1.1.IQ.10
-            - p: 4
               text: What does synoptic mean?
               response: Synoptic means “seeing together.”
-              after_body_index: 13
+              after_body_index: 16
               UID: BIB116.2.1.1.IQ.11
-            - p: 5
+            - p: 3
               text: Identify the author and theme of the book of Matthew.
               response: 'The disciple Matthew is the likely author. Theme: Jesus the
                 Messiah, King of the Jews'
-              after_body_index: 16
+              after_body_index: 19
               UID: BIB116.2.1.1.IQ.1
-            - p: 6
+            - p: 4
               text: What was one of Matthew's major purposes?
               response: To prove to readers that Jesus was the Messiah
-              after_body_index: 17
+              after_body_index: 20
+              status: outdated 2026-08-17
+              outdated_reason: struck
               UID: BIB116.2.1.1.IQ.2.1
               source_uid: BIB116.2.1.1.IQ.2
-            - p: 7
+            - p: 4
               text: Give three examples of how Matthew showed that Jesus was the Messiah.
               response: Any three from the chart in Lesson 2.1
-              after_body_index: 42
+              after_body_index: 45
               UID: BIB116.2.1.1.IQ.3
-            - p: 8
+            - p: 5
               text: Look up each parable referenced in the chart below. Then, in the
                 blank space provided, write what the parable says about the kingdom
                 of heaven.
@@ -13202,9 +13226,27 @@ courses:
                 kingdom of God requires our vigilance. The talents 25:14–30 God has
                 entrusted the power and value of His Kingdom to us to administer until
                 He returns.
-              after_body_index: 84
+              after_body_index: 87
               UID: BIB116.2.1.1.IQ.4.1
               source_uid: BIB116.2.1.1.IQ.4
+            - p: 1
+              text: Gospel
+              after_body_index: 3
+              UID: BIB116.2.1.1.IQ.8
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 2
+              text: Readers
+              after_body_index: 3
+              UID: BIB116.2.1.1.IQ.9
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 3
+              text: Purpose and Theme
+              after_body_index: 3
+              UID: BIB116.2.1.1.IQ.10
+              status: outdated 2026-08-17
+              outdated_reason: struck
             - p: 2
               text: What was one of Matthew’s major purposes?
               response: To prove to Jewish readers that Jesus was the Messiah
@@ -13283,7 +13325,7 @@ courses:
               - ref: Matthew 9:9-13
                 key: matthew.9.9-13
                 bib_gate: https://www.biblegateway.com/passage/?search=Matthew%209%3A9-13&version=NIV
-              paragraph: BIB116.2.1.1.P.17
+              paragraph: BIB116.2.1.1.P.20
               UID: BIB116.2.1.1.S.1
             - intext: Mark 2:14
               version: NIV
@@ -13291,7 +13333,7 @@ courses:
               - ref: Mark 2:14
                 key: mark.2.14
                 bib_gate: https://www.biblegateway.com/passage/?search=Mark%202%3A14&version=NIV
-              paragraph: BIB116.2.1.1.P.17
+              paragraph: BIB116.2.1.1.P.20
               UID: BIB116.2.1.1.S.2
             - intext: Matthew 1:1
               version: NIV
@@ -13299,7 +13341,7 @@ courses:
               - ref: Matthew 1:1
                 key: matthew.1.1
                 bib_gate: https://www.biblegateway.com/passage/?search=Matthew%201%3A1&version=NIV
-              paragraph: BIB116.2.1.1.P.17
+              paragraph: BIB116.2.1.1.P.20
               UID: BIB116.2.1.1.S.3
             - intext: Isaiah 7:14
               version: NIV
@@ -13307,7 +13349,7 @@ courses:
               - ref: Isaiah 7:14
                 key: isaiah.7.14
                 bib_gate: https://www.biblegateway.com/passage/?search=Isaiah%207%3A14&version=NIV
-              paragraph: BIB116.2.1.1.P.23.1
+              paragraph: BIB116.2.1.1.P.29
               UID: BIB116.2.1.1.S.4
             - intext: Hosea 11:1
               version: NIV
@@ -13315,7 +13357,7 @@ courses:
               - ref: Hosea 11:1
                 key: hosea.11.1
                 bib_gate: https://www.biblegateway.com/passage/?search=Hosea%2011%3A1&version=NIV
-              paragraph: BIB116.2.1.1.P.25.1
+              paragraph: BIB116.2.1.1.P.31
               UID: BIB116.2.1.1.S.5
             - intext: Jeremiah 31:15
               version: NIV
@@ -13323,7 +13365,7 @@ courses:
               - ref: Jeremiah 31:15
                 key: jeremiah.31.15
                 bib_gate: https://www.biblegateway.com/passage/?search=Jeremiah%2031%3A15&version=NIV
-              paragraph: BIB116.2.1.1.P.30.1
+              paragraph: BIB116.2.1.1.P.33
               UID: BIB116.2.1.1.S.6
             - intext: Isaiah 9:1–2
               version: NIV
@@ -13331,7 +13373,7 @@ courses:
               - ref: Isaiah 9:1-2
                 key: isaiah.9.1-2
                 bib_gate: https://www.biblegateway.com/passage/?search=Isaiah%209%3A1-2&version=NIV
-              paragraph: BIB116.2.1.1.P.34.1
+              paragraph: BIB116.2.1.1.P.37
               UID: BIB116.2.1.1.S.7
             - intext: Isaiah 53:4
               version: NIV
@@ -13339,7 +13381,7 @@ courses:
               - ref: Isaiah 53:4
                 key: isaiah.53.4
                 bib_gate: https://www.biblegateway.com/passage/?search=Isaiah%2053%3A4&version=NIV
-              paragraph: BIB116.2.1.1.P.36.1
+              paragraph: BIB116.2.1.1.P.39
               UID: BIB116.2.1.1.S.8
             - intext: Isaiah 42:1–4
               version: NIV
@@ -13347,7 +13389,7 @@ courses:
               - ref: Isaiah 42:1-4
                 key: isaiah.42.1-4
                 bib_gate: https://www.biblegateway.com/passage/?search=Isaiah%2042%3A1-4&version=NIV
-              paragraph: BIB116.2.1.1.P.38.1
+              paragraph: BIB116.2.1.1.P.41
               UID: BIB116.2.1.1.S.9
             - intext: Psalm 78:2
               version: NIV
@@ -13355,7 +13397,7 @@ courses:
               - ref: Psalms 78:2
                 key: psalms.78.2
                 bib_gate: https://www.biblegateway.com/passage/?search=Psalms%2078%3A2&version=NIV
-              paragraph: BIB116.2.1.1.P.40.1
+              paragraph: BIB116.2.1.1.P.43
               UID: BIB116.2.1.1.S.10
             - intext: Zechariah 9:9
               version: NIV
@@ -13363,7 +13405,7 @@ courses:
               - ref: Zechariah 9:9
                 key: zechariah.9.9
                 bib_gate: https://www.biblegateway.com/passage/?search=Zechariah%209%3A9&version=NIV
-              paragraph: BIB116.2.1.1.P.42.1
+              paragraph: BIB116.2.1.1.P.182
               UID: BIB116.2.1.1.S.11
             - intext: Zechariah 11:13
               version: NIV
@@ -13371,7 +13413,7 @@ courses:
               - ref: Zechariah 11:13
                 key: zechariah.11.13
                 bib_gate: https://www.biblegateway.com/passage/?search=Zechariah%2011%3A13&version=NIV
-              paragraph: BIB116.2.1.1.P.44.1
+              paragraph: BIB116.2.1.1.P.46
               UID: BIB116.2.1.1.S.12
             - intext: Psalm 103:19
               version: NIV
@@ -13379,7 +13421,7 @@ courses:
               - ref: Psalms 103:19
                 key: psalms.103.19
                 bib_gate: https://www.biblegateway.com/passage/?search=Psalms%20103%3A19&version=NIV
-              paragraph: BIB116.2.1.1.P.183
+              paragraph: BIB116.2.1.1.P.48
               UID: BIB116.2.1.1.S.29
             - intext: Gen 11
               version: NIV
@@ -13720,6 +13762,30 @@ courses:
               colspan: 3
               header: true
               UID: BIB116.2.1.2.P.178
+            - text: Gospel
+              kind: heading
+              cls: IST_Table-Header
+              table: 11
+              row: 2
+              col: 1
+              header: true
+              UID: BIB116.2.1.2.P.189
+            - text: Readers
+              kind: heading
+              cls: IST_Table-Header
+              table: 11
+              row: 2
+              col: 2
+              header: true
+              UID: BIB116.2.1.2.P.190
+            - text: Purpose and Theme
+              kind: heading
+              cls: IST_Table-Header
+              table: 11
+              row: 2
+              col: 3
+              header: true
+              UID: BIB116.2.1.2.P.191
             - p: 4
               text: Matthew
               kind: chart
@@ -15516,41 +15582,31 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
-              text: Gospel
-              after_body_index: 3
-              UID: BIB116.2.1.2.IQ.8
             - p: 2
-              text: Readers
-              after_body_index: 3
-              UID: BIB116.2.1.2.IQ.9
-            - p: 3
-              text: Purpose and Theme
-              after_body_index: 3
-              UID: BIB116.2.1.2.IQ.10
-            - p: 4
               text: What does synoptic mean?
               response: Synoptic means “seeing together.”
-              after_body_index: 13
+              after_body_index: 16
               UID: BIB116.2.1.2.IQ.11
-            - p: 5
+            - p: 3
               text: Identify the author and theme of the book of Matthew.
               response: 'The disciple Matthew is the likely author. Theme: Jesus the
                 Messiah, King of the Jews'
-              after_body_index: 16
+              after_body_index: 19
               UID: BIB116.2.1.2.IQ.1
-            - p: 6
+            - p: 4
               text: What was one of Matthew's major purposes?
               response: To prove to readers that Jesus was the Messiah
-              after_body_index: 17
+              after_body_index: 20
+              status: outdated 2026-08-17
+              outdated_reason: struck
               UID: BIB116.2.1.2.IQ.2.1
               source_uid: BIB116.2.1.2.IQ.2
-            - p: 7
+            - p: 4
               text: Give three examples of how Matthew showed that Jesus was the Messiah.
               response: Any three from the chart in Lesson 2.1
-              after_body_index: 42
+              after_body_index: 45
               UID: BIB116.2.1.2.IQ.3
-            - p: 8
+            - p: 5
               text: Look up each parable referenced in the chart below. Then, in the
                 blank space provided, write what the parable says about the kingdom
                 of heaven.
@@ -15576,9 +15632,27 @@ courses:
                 kingdom of God requires our vigilance. The talents 25:14–30 God has
                 entrusted the power and value of His Kingdom to us to administer until
                 He returns.
-              after_body_index: 84
+              after_body_index: 87
               UID: BIB116.2.1.2.IQ.4.1
               source_uid: BIB116.2.1.2.IQ.4
+            - p: 1
+              text: Gospel
+              after_body_index: 3
+              UID: BIB116.2.1.2.IQ.8
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 2
+              text: Readers
+              after_body_index: 3
+              UID: BIB116.2.1.2.IQ.9
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 3
+              text: Purpose and Theme
+              after_body_index: 3
+              UID: BIB116.2.1.2.IQ.10
+              status: outdated 2026-08-17
+              outdated_reason: struck
             - p: 2
               text: What was one of Matthew’s major purposes?
               response: To prove to Jewish readers that Jesus was the Messiah
@@ -15657,7 +15731,7 @@ courses:
               - ref: Matthew 9:9-13
                 key: matthew.9.9-13
                 bib_gate: https://www.biblegateway.com/passage/?search=Matthew%209%3A9-13&version=NIV
-              paragraph: BIB116.2.1.2.P.17
+              paragraph: BIB116.2.1.2.P.20
               UID: BIB116.2.1.2.S.1
             - intext: Mark 2:14
               version: NIV
@@ -15665,7 +15739,7 @@ courses:
               - ref: Mark 2:14
                 key: mark.2.14
                 bib_gate: https://www.biblegateway.com/passage/?search=Mark%202%3A14&version=NIV
-              paragraph: BIB116.2.1.2.P.17
+              paragraph: BIB116.2.1.2.P.20
               UID: BIB116.2.1.2.S.2
             - intext: Matthew 1:1
               version: NIV
@@ -15673,7 +15747,7 @@ courses:
               - ref: Matthew 1:1
                 key: matthew.1.1
                 bib_gate: https://www.biblegateway.com/passage/?search=Matthew%201%3A1&version=NIV
-              paragraph: BIB116.2.1.2.P.17
+              paragraph: BIB116.2.1.2.P.20
               UID: BIB116.2.1.2.S.3
             - intext: Isaiah 7:14
               version: NIV
@@ -15681,7 +15755,7 @@ courses:
               - ref: Isaiah 7:14
                 key: isaiah.7.14
                 bib_gate: https://www.biblegateway.com/passage/?search=Isaiah%207%3A14&version=NIV
-              paragraph: BIB116.2.1.2.P.23.1
+              paragraph: BIB116.2.1.2.P.29
               UID: BIB116.2.1.2.S.4
             - intext: Hosea 11:1
               version: NIV
@@ -15689,7 +15763,7 @@ courses:
               - ref: Hosea 11:1
                 key: hosea.11.1
                 bib_gate: https://www.biblegateway.com/passage/?search=Hosea%2011%3A1&version=NIV
-              paragraph: BIB116.2.1.2.P.25.1
+              paragraph: BIB116.2.1.2.P.31
               UID: BIB116.2.1.2.S.5
             - intext: Jeremiah 31:15
               version: NIV
@@ -15697,7 +15771,7 @@ courses:
               - ref: Jeremiah 31:15
                 key: jeremiah.31.15
                 bib_gate: https://www.biblegateway.com/passage/?search=Jeremiah%2031%3A15&version=NIV
-              paragraph: BIB116.2.1.2.P.30.1
+              paragraph: BIB116.2.1.2.P.33
               UID: BIB116.2.1.2.S.6
             - intext: Isaiah 9:1–2
               version: NIV
@@ -15705,7 +15779,7 @@ courses:
               - ref: Isaiah 9:1-2
                 key: isaiah.9.1-2
                 bib_gate: https://www.biblegateway.com/passage/?search=Isaiah%209%3A1-2&version=NIV
-              paragraph: BIB116.2.1.2.P.34.1
+              paragraph: BIB116.2.1.2.P.37
               UID: BIB116.2.1.2.S.7
             - intext: Isaiah 53:4
               version: NIV
@@ -15713,7 +15787,7 @@ courses:
               - ref: Isaiah 53:4
                 key: isaiah.53.4
                 bib_gate: https://www.biblegateway.com/passage/?search=Isaiah%2053%3A4&version=NIV
-              paragraph: BIB116.2.1.2.P.36.1
+              paragraph: BIB116.2.1.2.P.39
               UID: BIB116.2.1.2.S.8
             - intext: Isaiah 42:1–4
               version: NIV
@@ -15721,7 +15795,7 @@ courses:
               - ref: Isaiah 42:1-4
                 key: isaiah.42.1-4
                 bib_gate: https://www.biblegateway.com/passage/?search=Isaiah%2042%3A1-4&version=NIV
-              paragraph: BIB116.2.1.2.P.38.1
+              paragraph: BIB116.2.1.2.P.41
               UID: BIB116.2.1.2.S.9
             - intext: Psalm 78:2
               version: NIV
@@ -15729,7 +15803,7 @@ courses:
               - ref: Psalms 78:2
                 key: psalms.78.2
                 bib_gate: https://www.biblegateway.com/passage/?search=Psalms%2078%3A2&version=NIV
-              paragraph: BIB116.2.1.2.P.40.1
+              paragraph: BIB116.2.1.2.P.43
               UID: BIB116.2.1.2.S.10
             - intext: Zechariah 9:9
               version: NIV
@@ -15737,7 +15811,7 @@ courses:
               - ref: Zechariah 9:9
                 key: zechariah.9.9
                 bib_gate: https://www.biblegateway.com/passage/?search=Zechariah%209%3A9&version=NIV
-              paragraph: BIB116.2.1.2.P.42.1
+              paragraph: BIB116.2.1.2.P.182
               UID: BIB116.2.1.2.S.11
             - intext: Zechariah 11:13
               version: NIV
@@ -15745,7 +15819,7 @@ courses:
               - ref: Zechariah 11:13
                 key: zechariah.11.13
                 bib_gate: https://www.biblegateway.com/passage/?search=Zechariah%2011%3A13&version=NIV
-              paragraph: BIB116.2.1.2.P.44.1
+              paragraph: BIB116.2.1.2.P.46
               UID: BIB116.2.1.2.S.12
             - intext: Psalm 103:19
               version: NIV
@@ -15753,7 +15827,7 @@ courses:
               - ref: Psalms 103:19
                 key: psalms.103.19
                 bib_gate: https://www.biblegateway.com/passage/?search=Psalms%20103%3A19&version=NIV
-              paragraph: BIB116.2.1.2.P.183
+              paragraph: BIB116.2.1.2.P.48
               UID: BIB116.2.1.2.S.29
             - intext: Gen 11
               version: NIV
@@ -16075,6 +16149,30 @@ courses:
               colspan: 3
               header: true
               UID: BIB116.2.1.3.P.178
+            - text: Gospel
+              kind: heading
+              cls: IST_Table-Header
+              table: 11
+              row: 2
+              col: 1
+              header: true
+              UID: BIB116.2.1.3.P.189
+            - text: Readers
+              kind: heading
+              cls: IST_Table-Header
+              table: 11
+              row: 2
+              col: 2
+              header: true
+              UID: BIB116.2.1.3.P.190
+            - text: Purpose and Theme
+              kind: heading
+              cls: IST_Table-Header
+              table: 11
+              row: 2
+              col: 3
+              header: true
+              UID: BIB116.2.1.3.P.191
             - p: 4
               text: Matthew
               kind: chart
@@ -17871,41 +17969,31 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
-              text: Gospel
-              after_body_index: 3
-              UID: BIB116.2.1.3.IQ.8
             - p: 2
-              text: Readers
-              after_body_index: 3
-              UID: BIB116.2.1.3.IQ.9
-            - p: 3
-              text: Purpose and Theme
-              after_body_index: 3
-              UID: BIB116.2.1.3.IQ.10
-            - p: 4
               text: What does synoptic mean?
               response: Synoptic means “seeing together.”
-              after_body_index: 13
+              after_body_index: 16
               UID: BIB116.2.1.3.IQ.11
-            - p: 5
+            - p: 3
               text: Identify the author and theme of the book of Matthew.
               response: 'The disciple Matthew is the likely author. Theme: Jesus the
                 Messiah, King of the Jews'
-              after_body_index: 16
+              after_body_index: 19
               UID: BIB116.2.1.3.IQ.1
-            - p: 6
+            - p: 4
               text: What was one of Matthew's major purposes?
               response: To prove to readers that Jesus was the Messiah
-              after_body_index: 17
+              after_body_index: 20
+              status: outdated 2026-08-17
+              outdated_reason: struck
               UID: BIB116.2.1.3.IQ.2.1
               source_uid: BIB116.2.1.3.IQ.2
-            - p: 7
+            - p: 4
               text: Give three examples of how Matthew showed that Jesus was the Messiah.
               response: Any three from the chart in Lesson 2.1
-              after_body_index: 42
+              after_body_index: 45
               UID: BIB116.2.1.3.IQ.3
-            - p: 8
+            - p: 5
               text: Look up each parable referenced in the chart below. Then, in the
                 blank space provided, write what the parable says about the kingdom
                 of heaven.
@@ -17931,9 +18019,27 @@ courses:
                 kingdom of God requires our vigilance. The talents 25:14–30 God has
                 entrusted the power and value of His Kingdom to us to administer until
                 He returns.
-              after_body_index: 84
+              after_body_index: 87
               UID: BIB116.2.1.3.IQ.4.1
               source_uid: BIB116.2.1.3.IQ.4
+            - p: 1
+              text: Gospel
+              after_body_index: 3
+              UID: BIB116.2.1.3.IQ.8
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 2
+              text: Readers
+              after_body_index: 3
+              UID: BIB116.2.1.3.IQ.9
+              status: outdated 2026-08-17
+              outdated_reason: struck
+            - p: 3
+              text: Purpose and Theme
+              after_body_index: 3
+              UID: BIB116.2.1.3.IQ.10
+              status: outdated 2026-08-17
+              outdated_reason: struck
             - p: 2
               text: What was one of Matthew’s major purposes?
               response: To prove to Jewish readers that Jesus was the Messiah
@@ -18012,7 +18118,7 @@ courses:
               - ref: Matthew 9:9-13
                 key: matthew.9.9-13
                 bib_gate: https://www.biblegateway.com/passage/?search=Matthew%209%3A9-13&version=NIV
-              paragraph: BIB116.2.1.3.P.17
+              paragraph: BIB116.2.1.3.P.20
               UID: BIB116.2.1.3.S.1
             - intext: Mark 2:14
               version: NIV
@@ -18020,7 +18126,7 @@ courses:
               - ref: Mark 2:14
                 key: mark.2.14
                 bib_gate: https://www.biblegateway.com/passage/?search=Mark%202%3A14&version=NIV
-              paragraph: BIB116.2.1.3.P.17
+              paragraph: BIB116.2.1.3.P.20
               UID: BIB116.2.1.3.S.2
             - intext: Matthew 1:1
               version: NIV
@@ -18028,7 +18134,7 @@ courses:
               - ref: Matthew 1:1
                 key: matthew.1.1
                 bib_gate: https://www.biblegateway.com/passage/?search=Matthew%201%3A1&version=NIV
-              paragraph: BIB116.2.1.3.P.17
+              paragraph: BIB116.2.1.3.P.20
               UID: BIB116.2.1.3.S.3
             - intext: Isaiah 7:14
               version: NIV
@@ -18036,7 +18142,7 @@ courses:
               - ref: Isaiah 7:14
                 key: isaiah.7.14
                 bib_gate: https://www.biblegateway.com/passage/?search=Isaiah%207%3A14&version=NIV
-              paragraph: BIB116.2.1.3.P.23.1
+              paragraph: BIB116.2.1.3.P.29
               UID: BIB116.2.1.3.S.4
             - intext: Hosea 11:1
               version: NIV
@@ -18044,7 +18150,7 @@ courses:
               - ref: Hosea 11:1
                 key: hosea.11.1
                 bib_gate: https://www.biblegateway.com/passage/?search=Hosea%2011%3A1&version=NIV
-              paragraph: BIB116.2.1.3.P.25.1
+              paragraph: BIB116.2.1.3.P.31
               UID: BIB116.2.1.3.S.5
             - intext: Jeremiah 31:15
               version: NIV
@@ -18052,7 +18158,7 @@ courses:
               - ref: Jeremiah 31:15
                 key: jeremiah.31.15
                 bib_gate: https://www.biblegateway.com/passage/?search=Jeremiah%2031%3A15&version=NIV
-              paragraph: BIB116.2.1.3.P.30.1
+              paragraph: BIB116.2.1.3.P.33
               UID: BIB116.2.1.3.S.6
             - intext: Isaiah 9:1–2
               version: NIV
@@ -18060,7 +18166,7 @@ courses:
               - ref: Isaiah 9:1-2
                 key: isaiah.9.1-2
                 bib_gate: https://www.biblegateway.com/passage/?search=Isaiah%209%3A1-2&version=NIV
-              paragraph: BIB116.2.1.3.P.34.1
+              paragraph: BIB116.2.1.3.P.37
               UID: BIB116.2.1.3.S.7
             - intext: Isaiah 53:4
               version: NIV
@@ -18068,7 +18174,7 @@ courses:
               - ref: Isaiah 53:4
                 key: isaiah.53.4
                 bib_gate: https://www.biblegateway.com/passage/?search=Isaiah%2053%3A4&version=NIV
-              paragraph: BIB116.2.1.3.P.36.1
+              paragraph: BIB116.2.1.3.P.39
               UID: BIB116.2.1.3.S.8
             - intext: Isaiah 42:1–4
               version: NIV
@@ -18076,7 +18182,7 @@ courses:
               - ref: Isaiah 42:1-4
                 key: isaiah.42.1-4
                 bib_gate: https://www.biblegateway.com/passage/?search=Isaiah%2042%3A1-4&version=NIV
-              paragraph: BIB116.2.1.3.P.38.1
+              paragraph: BIB116.2.1.3.P.41
               UID: BIB116.2.1.3.S.9
             - intext: Psalm 78:2
               version: NIV
@@ -18084,7 +18190,7 @@ courses:
               - ref: Psalms 78:2
                 key: psalms.78.2
                 bib_gate: https://www.biblegateway.com/passage/?search=Psalms%2078%3A2&version=NIV
-              paragraph: BIB116.2.1.3.P.40.1
+              paragraph: BIB116.2.1.3.P.43
               UID: BIB116.2.1.3.S.10
             - intext: Zechariah 9:9
               version: NIV
@@ -18092,7 +18198,7 @@ courses:
               - ref: Zechariah 9:9
                 key: zechariah.9.9
                 bib_gate: https://www.biblegateway.com/passage/?search=Zechariah%209%3A9&version=NIV
-              paragraph: BIB116.2.1.3.P.42.1
+              paragraph: BIB116.2.1.3.P.182
               UID: BIB116.2.1.3.S.11
             - intext: Zechariah 11:13
               version: NIV
@@ -18100,7 +18206,7 @@ courses:
               - ref: Zechariah 11:13
                 key: zechariah.11.13
                 bib_gate: https://www.biblegateway.com/passage/?search=Zechariah%2011%3A13&version=NIV
-              paragraph: BIB116.2.1.3.P.44.1
+              paragraph: BIB116.2.1.3.P.46
               UID: BIB116.2.1.3.S.12
             - intext: Psalm 103:19
               version: NIV
@@ -18108,7 +18214,7 @@ courses:
               - ref: Psalms 103:19
                 key: psalms.103.19
                 bib_gate: https://www.biblegateway.com/passage/?search=Psalms%20103%3A19&version=NIV
-              paragraph: BIB116.2.1.3.P.183
+              paragraph: BIB116.2.1.3.P.48
               UID: BIB116.2.1.3.S.29
             - intext: Gen 11
               version: NIV
@@ -19878,13 +19984,13 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 7
               text: How did John Mark know so much about Jesus?
               response: He lived in Jerusalem, was a friend of Peter, was a cousin
                 of Barnabas, and worked with Paul.
               after_body_index: 6
               UID: BIB116.2.2.1.IQ.5
-            - p: 2
+            - p: 8
               text: How did Mark help his mostly Gentile audience understand his account
                 of Jesus the Jew, who lived in a Jewish culture?
               response: Mark explained Jewish customs and many Aramaic words.
@@ -21781,13 +21887,13 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 7
               text: How did John Mark know so much about Jesus?
               response: He lived in Jerusalem, was a friend of Peter, was a cousin
                 of Barnabas, and worked with Paul.
               after_body_index: 6
               UID: BIB116.2.2.2.IQ.5
-            - p: 2
+            - p: 8
               text: How did Mark help his mostly Gentile audience understand his account
                 of Jesus the Jew, who lived in a Jewish culture?
               response: Mark explained Jewish customs and many Aramaic words.
@@ -23482,12 +23588,12 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 9
               text: What was Luke’s main theme?
               response: Jesus, the Savior of all
               after_body_index: 3
               UID: BIB116.2.3.1.IQ.1
-            - p: 2
+            - p: 10
               text: How do the purposes of Matthew and Luke differ?
               response: Matthew’s purpose was to prove Jesus was the Jewish Messiah
                 who fulfilled the Old Testament prophecies, but Luke’s purpose was
@@ -23495,7 +23601,7 @@ courses:
                 aim (28:19–20), but his emphasis was on Israel’s Messiah.
               after_body_index: 13
               UID: BIB116.2.3.1.IQ.2
-            - p: 3
+            - p: 11
               text: Since Jesus relied on the Holy Spirit to empower His ministry,
                 what priority should we give to living a Spirit-filled life? What
                 are some practical ways you can let the Holy Spirit accomplish God’s
@@ -23505,7 +23611,7 @@ courses:
               after_body_index: 36
               UID: BIB116.2.3.1.IQ.3.1
               source_uid: BIB116.2.3.1.IQ.3
-            - p: 4
+            - p: 12
               text: Fill in the chart below for each Synoptic Gospel.
               response: Gospel Readers Purpose and Theme Matthew Jews Jesus as Messiah
                 Mark Romans Jesus as Servant Luke Greeks Jesus as Savior of all and/or
@@ -25745,12 +25851,12 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 9
               text: What was Luke’s main theme?
               response: Jesus, the Savior of all
               after_body_index: 3
               UID: BIB116.2.3.2.IQ.1
-            - p: 2
+            - p: 10
               text: How do the purposes of Matthew and Luke differ?
               response: Matthew’s purpose was to prove Jesus was the Jewish Messiah
                 who fulfilled the Old Testament prophecies, but Luke’s purpose was
@@ -25758,7 +25864,7 @@ courses:
                 aim (28:19–20), but his emphasis was on Israel’s Messiah.
               after_body_index: 13
               UID: BIB116.2.3.2.IQ.2
-            - p: 3
+            - p: 11
               text: Since Jesus relied on the Holy Spirit to empower His ministry,
                 what priority should we give to living a Spirit-filled life? What
                 are some practical ways you can let the Holy Spirit accomplish God’s
@@ -25768,7 +25874,7 @@ courses:
               after_body_index: 36
               UID: BIB116.2.3.2.IQ.3.1
               source_uid: BIB116.2.3.2.IQ.3
-            - p: 4
+            - p: 12
               text: Fill in the chart below for each Synoptic Gospel.
               response: Gospel Readers Purpose and Theme Matthew Jews Jesus as Messiah
                 Mark Romans Jesus as Servant Luke Greeks Jesus as Savior of all and/or
@@ -28204,20 +28310,20 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 13
               text: Name six events that are in all the Synoptic Gospels.
               response: Announcement of the Savior by John the Baptist; Baptism of
                 the Savior; Temptation of the Savior; Transfiguration of the Savior;
                 Trial, death, and burial of the Savior; Resurrection of the Savior
               after_body_index: 32
               UID: BIB116.2.4.1.IQ.4
-            - p: 2
+            - p: 14
               text: How might the use of relevant stories help you share truth with
                 others?
               response: Answers may vary.
               after_body_index: 45
               UID: BIB116.2.4.1.IQ.1
-            - p: 3
+            - p: 15
               text: What are four reasons Jesus taught in parables?
               response: 'Any four of these: (1) Parables were safe. (2) Parables illustrated
                 truth. (3) They preserved truth. (4) They were easily remembered.
@@ -28225,7 +28331,7 @@ courses:
                 about the kingdom of God.'
               after_body_index: 52
               UID: BIB116.2.4.1.IQ.2
-            - p: 4
+            - p: 16
               text: Explain the two phases of the kingdom of God.
               response: The invisible phase refers to God’s spiritual rule in the
                 hearts of believers. The visible phase will begin when Jesus returns
@@ -29840,20 +29946,20 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 13
               text: Name six events that are in all the Synoptic Gospels.
               response: Announcement of the Savior by John the Baptist; Baptism of
                 the Savior; Temptation of the Savior; Transfiguration of the Savior;
                 Trial, death, and burial of the Savior; Resurrection of the Savior
               after_body_index: 32
               UID: BIB116.2.4.2.IQ.4
-            - p: 2
+            - p: 14
               text: How might the use of relevant stories help you share truth with
                 others?
               response: Answers may vary.
               after_body_index: 45
               UID: BIB116.2.4.2.IQ.1
-            - p: 3
+            - p: 15
               text: What are four reasons Jesus taught in parables?
               response: 'Any four of these: (1) Parables were safe. (2) Parables illustrated
                 truth. (3) They preserved truth. (4) They were easily remembered.
@@ -29861,7 +29967,7 @@ courses:
                 about the kingdom of God.'
               after_body_index: 52
               UID: BIB116.2.4.2.IQ.2
-            - p: 4
+            - p: 16
               text: Explain the two phases of the kingdom of God.
               response: The invisible phase refers to God’s spiritual rule in the
                 hearts of believers. The visible phase will begin when Jesus returns
@@ -31476,20 +31582,20 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 13
               text: Name six events that are in all the Synoptic Gospels.
               response: Announcement of the Savior by John the Baptist; Baptism of
                 the Savior; Temptation of the Savior; Transfiguration of the Savior;
                 Trial, death, and burial of the Savior; Resurrection of the Savior
               after_body_index: 32
               UID: BIB116.2.4.3.IQ.4
-            - p: 2
+            - p: 14
               text: How might the use of relevant stories help you share truth with
                 others?
               response: Answers may vary.
               after_body_index: 45
               UID: BIB116.2.4.3.IQ.1
-            - p: 3
+            - p: 15
               text: What are four reasons Jesus taught in parables?
               response: 'Any four of these: (1) Parables were safe. (2) Parables illustrated
                 truth. (3) They preserved truth. (4) They were easily remembered.
@@ -31497,7 +31603,7 @@ courses:
                 about the kingdom of God.'
               after_body_index: 52
               UID: BIB116.2.4.3.IQ.2
-            - p: 4
+            - p: 16
               text: Explain the two phases of the kingdom of God.
               response: The invisible phase refers to God’s spiritual rule in the
                 hearts of believers. The visible phase will begin when Jesus returns
@@ -34599,14 +34705,14 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 8
               text: Summarize the three main characteristics of John found in the
                 introduction.
               response: The main Person is the Word. The main words are life, light,
                 darkness, witness, believe, and truth. The main action is conflict.
               after_body_index: 27
               UID: BIB116.3.2.1.IQ.1
-            - p: 2
+            - p: 9
               text: Give examples of contrast in John’s Gospel.
               response: 'Any of these: (1) Light and darkness; (2) Jesus becomes a
                 friend to those who receive Him and walk in the light, but He becomes
@@ -35856,20 +35962,20 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 10
               text: Identify the seven signs in John, and explain the spiritual truth
                 linked to each sign.
               response: Refer to the chart of signs in Lesson 3.3.
               after_body_index: 12
               UID: BIB116.3.3.1.IQ.1
-            - p: 2
+            - p: 11
               text: Explain the error of the multitude following Jesus.
               response: They erred by coming to Him primarily for physical bread and
                 earthly blessings. They missed the spiritual focus of His works and
                 teachings.
               after_body_index: 15
               UID: BIB116.3.3.1.IQ.2
-            - p: 3
+            - p: 12
               text: Jesus healed a blind man and taught about spiritual blindness
                 (John 9:1–41). Consider the relationship that must always exist between
                 spiritual sight and humility. Evaluate your own life in relation to
@@ -35877,7 +35983,7 @@ courses:
               response: Answers may vary.
               after_body_index: 17
               UID: BIB116.3.3.1.IQ.3
-            - p: 4
+            - p: 13
               text: Recreate the “I am” list from memory.
               response: “I am the bread of life” (John 6:35). “I am the light of the
                 world” (John 8:12; 9:5). “I am the gate” (John 10:7, 9). “I am the
@@ -35887,7 +35993,7 @@ courses:
               after_body_index: 31
               UID: BIB116.3.3.1.IQ.4.1
               source_uid: BIB116.3.3.1.IQ.4
-            - p: 5
+            - p: 14
               text: What lessons about believing can be learned from Andrew, Peter,
                 and Nicodemus?
               response: 'Andrew: We should share our belief with others. Peter: Jesus
@@ -35895,7 +36001,7 @@ courses:
                 born again.'
               after_body_index: 72
               UID: BIB116.3.3.1.IQ.5
-            - p: 6
+            - p: 15
               text: Reflect on at least three ways your ministry is dependent on the
                 work of the Holy Spirit.
               response: Answers will vary but should include such ideas as teaching,
@@ -37902,20 +38008,20 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 10
               text: Identify the seven signs in John, and explain the spiritual truth
                 linked to each sign.
               response: Refer to the chart of signs in Lesson 3.3.
               after_body_index: 12
               UID: BIB116.3.3.2.IQ.1
-            - p: 2
+            - p: 11
               text: Explain the error of the multitude following Jesus.
               response: They erred by coming to Him primarily for physical bread and
                 earthly blessings. They missed the spiritual focus of His works and
                 teachings.
               after_body_index: 15
               UID: BIB116.3.3.2.IQ.2
-            - p: 3
+            - p: 12
               text: Jesus healed a blind man and taught about spiritual blindness
                 (John 9:1–41). Consider the relationship that must always exist between
                 spiritual sight and humility. Evaluate your own life in relation to
@@ -37923,7 +38029,7 @@ courses:
               response: Answers may vary.
               after_body_index: 17
               UID: BIB116.3.3.2.IQ.3
-            - p: 4
+            - p: 13
               text: Recreate the “I am” list from memory.
               response: “I am the bread of life” (John 6:35). “I am the light of the
                 world” (John 8:12; 9:5). “I am the gate” (John 10:7, 9). “I am the
@@ -37933,7 +38039,7 @@ courses:
               after_body_index: 31
               UID: BIB116.3.3.2.IQ.4.1
               source_uid: BIB116.3.3.2.IQ.4
-            - p: 5
+            - p: 14
               text: What lessons about believing can be learned from Andrew, Peter,
                 and Nicodemus?
               response: 'Andrew: We should share our belief with others. Peter: Jesus
@@ -37941,7 +38047,7 @@ courses:
                 born again.'
               after_body_index: 72
               UID: BIB116.3.3.2.IQ.5
-            - p: 6
+            - p: 15
               text: Reflect on at least three ways your ministry is dependent on the
                 work of the Holy Spirit.
               response: Answers will vary but should include such ideas as teaching,
@@ -39943,20 +40049,20 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 10
               text: Identify the seven signs in John, and explain the spiritual truth
                 linked to each sign.
               response: Refer to the chart of signs in Lesson 3.3.
               after_body_index: 12
               UID: BIB116.3.3.3.IQ.1
-            - p: 2
+            - p: 11
               text: Explain the error of the multitude following Jesus.
               response: They erred by coming to Him primarily for physical bread and
                 earthly blessings. They missed the spiritual focus of His works and
                 teachings.
               after_body_index: 15
               UID: BIB116.3.3.3.IQ.2
-            - p: 3
+            - p: 12
               text: Jesus healed a blind man and taught about spiritual blindness
                 (John 9:1–41). Consider the relationship that must always exist between
                 spiritual sight and humility. Evaluate your own life in relation to
@@ -39964,7 +40070,7 @@ courses:
               response: Answers may vary.
               after_body_index: 17
               UID: BIB116.3.3.3.IQ.3
-            - p: 4
+            - p: 13
               text: Recreate the “I am” list from memory.
               response: “I am the bread of life” (John 6:35). “I am the light of the
                 world” (John 8:12; 9:5). “I am the gate” (John 10:7, 9). “I am the
@@ -39974,7 +40080,7 @@ courses:
               after_body_index: 31
               UID: BIB116.3.3.3.IQ.4.1
               source_uid: BIB116.3.3.3.IQ.4
-            - p: 5
+            - p: 14
               text: What lessons about believing can be learned from Andrew, Peter,
                 and Nicodemus?
               response: 'Andrew: We should share our belief with others. Peter: Jesus
@@ -39982,7 +40088,7 @@ courses:
                 born again.'
               after_body_index: 72
               UID: BIB116.3.3.3.IQ.5
-            - p: 6
+            - p: 15
               text: Reflect on at least three ways your ministry is dependent on the
                 work of the Holy Spirit.
               response: Answers will vary but should include such ideas as teaching,
@@ -48670,7 +48776,7 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 11
               text: Acts 1:8 progressively moved the followers of Jesus to witness
                 beyond their comfort zones and across cultural and geographical barriers.
                 How might your calling to witness for Christ lead you beyond your
@@ -50230,20 +50336,20 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 12
               text: What happened in Jerusalem after Stephen’s death?
               response: Jews in Jerusalem began to greatly persecute the church, and
                 believers were forced to scatter. This allowed the gospel to spread
                 as the scattered believers began to witness wherever they went.
               after_body_index: 12
               UID: BIB116.4.3.1.IQ.1
-            - p: 2
+            - p: 13
               text: What caused the gospel to spread to Samaria?
               response: When persecution in Jerusalem began, Philip took the gospel
                 to Samaria.
               after_body_index: 15
               UID: BIB116.4.3.1.IQ.2
-            - p: 3
+            - p: 14
               text: How did miracles help spread the gospel in Judea?
               response: Miracles attracted crowds and helped to persuade them of God’s
                 power.
@@ -56601,7 +56707,7 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 5
               text: Describe the circumstances surrounding the church at Rome when
                 Paul wrote in AD 57.
               response: The church in Rome faced cultural tension over Jewish and
@@ -56610,12 +56716,12 @@ courses:
                 Christ.
               after_body_index: 25
               UID: BIB116.5.2.1.IQ.1
-            - p: 2
+            - p: 6
               text: What is the main theme of Romans?
               response: Righteousness comes by an active faith in Jesus (Romans 4:13).
               after_body_index: 26
               UID: BIB116.5.2.1.IQ.2
-            - p: 3
+            - p: 7
               text: Identify at least two Scriptures in Romans where Paul refers to
                 Jews and Gentiles, and explain how this reference may have helped
                 ease the tension between the two groups in the Roman church.
@@ -56626,14 +56732,14 @@ courses:
                 by faith in Christ.'
               after_body_index: 73
               UID: BIB116.5.2.1.IQ.3
-            - p: 4
+            - p: 8
               text: What do you think Paul meant when he said that all of Israel would
                 be saved (Romans 11:26)? Do you believe this refers to national Israel,
                 spiritual Israel, every ethnic Jew, or something else entirely?
               response: Answers may vary.
               after_body_index: 152
               UID: BIB116.5.2.1.IQ.4
-            - p: 5
+            - p: 9
               text: Write the appropriate subtheme beside each reference in Romans
                 in the adjacent chart.
               response: Five Aspects of Righteousness in Romans Romans Subtheme 1–3
@@ -60084,7 +60190,7 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 5
               text: Describe the circumstances surrounding the church at Rome when
                 Paul wrote in AD 57.
               response: The church in Rome faced cultural tension over Jewish and
@@ -60093,12 +60199,12 @@ courses:
                 Christ.
               after_body_index: 25
               UID: BIB116.5.2.2.IQ.1
-            - p: 2
+            - p: 6
               text: What is the main theme of Romans?
               response: Righteousness comes by an active faith in Jesus (Romans 4:13).
               after_body_index: 26
               UID: BIB116.5.2.2.IQ.2
-            - p: 3
+            - p: 7
               text: Identify at least two Scriptures in Romans where Paul refers to
                 Jews and Gentiles, and explain how this reference may have helped
                 ease the tension between the two groups in the Roman church.
@@ -60109,14 +60215,14 @@ courses:
                 by faith in Christ.'
               after_body_index: 73
               UID: BIB116.5.2.2.IQ.3
-            - p: 4
+            - p: 8
               text: What do you think Paul meant when he said that all of Israel would
                 be saved (Romans 11:26)? Do you believe this refers to national Israel,
                 spiritual Israel, every ethnic Jew, or something else entirely?
               response: Answers may vary.
               after_body_index: 152
               UID: BIB116.5.2.2.IQ.4
-            - p: 5
+            - p: 9
               text: Write the appropriate subtheme beside each reference in Romans
                 in the adjacent chart.
               response: Five Aspects of Righteousness in Romans Romans Subtheme 1–3
@@ -62169,7 +62275,7 @@ courses:
               outdated_reason: revised
               replaced_by: BIB116.5.3.1.P.57.1
             interactive_questions:
-            - p: 1
+            - p: 10
               text: Paul gave what three reasons to believe the gospel?
               response: (1) The gospel message was revealed by the Lord. (2) The gospel
                 message is not completely new. (3) The gospel works in personal experience.
@@ -63601,7 +63707,7 @@ courses:
               outdated_reason: revised
               replaced_by: BIB116.5.3.2.P.57.1
             interactive_questions:
-            - p: 1
+            - p: 10
               text: Paul gave what three reasons to believe the gospel?
               response: (1) The gospel message was revealed by the Lord. (2) The gospel
                 message is not completely new. (3) The gospel works in personal experience.
@@ -70853,39 +70959,39 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 7
               text: Describe the main purposes of 1 Corinthians and 2 Corinthians.
               response: Paul wrote 1 Corinthians to correct problems and answer questions.
                 Paul’s main reason for writing 2 Corinthians was to defend his ministry
                 against false accusations.
               after_body_index: 4
               UID: BIB116.6.2.1.IQ.6
-            - p: 2
+            - p: 8
               text: In light of Paul’s suffering, discuss why God allows believers
                 to suffer.
               response: Answers will vary.
               after_body_index: 30
               UID: BIB116.6.2.1.IQ.1
-            - p: 3
+            - p: 9
               text: Discuss some appropriate ways for ministers to respond to unjust
                 criticism. In what kinds of situations should ministers attempt to
                 defend themselves? When is it best to ignore false accusations?
               response: Answers will vary.
               after_body_index: 33
               UID: BIB116.6.2.1.IQ.2
-            - p: 4
+            - p: 10
               text: What is the purpose of church discipline?
               response: To help and restore
               after_body_index: 42
               UID: BIB116.6.2.1.IQ.3
-            - p: 5
+            - p: 11
               text: Explain the potential benefit of trouble or suffering for believers
                 in light of 2 Corinthians 4:17–18.
               response: Trouble or suffering for believers helps us gain eternal glory
                 that outlasts the trouble by far.
               after_body_index: 42
               UID: BIB116.6.2.1.IQ.4
-            - p: 6
+            - p: 12
               text: List several principles of giving from 2 Corinthians 8–9.
               response: (1) Give as much as you are able to give and beyond (8:3).
                 (2) View giving as a privilege (8:4). (3) Learn to excel in the grace
@@ -72720,39 +72826,39 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 7
               text: Describe the main purposes of 1 Corinthians and 2 Corinthians.
               response: Paul wrote 1 Corinthians to correct problems and answer questions.
                 Paul’s main reason for writing 2 Corinthians was to defend his ministry
                 against false accusations.
               after_body_index: 4
               UID: BIB116.6.2.2.IQ.6
-            - p: 2
+            - p: 8
               text: In light of Paul’s suffering, discuss why God allows believers
                 to suffer.
               response: Answers will vary.
               after_body_index: 30
               UID: BIB116.6.2.2.IQ.1
-            - p: 3
+            - p: 9
               text: Discuss some appropriate ways for ministers to respond to unjust
                 criticism. In what kinds of situations should ministers attempt to
                 defend themselves? When is it best to ignore false accusations?
               response: Answers will vary.
               after_body_index: 33
               UID: BIB116.6.2.2.IQ.2
-            - p: 4
+            - p: 10
               text: What is the purpose of church discipline?
               response: To help and restore
               after_body_index: 42
               UID: BIB116.6.2.2.IQ.3
-            - p: 5
+            - p: 11
               text: Explain the potential benefit of trouble or suffering for believers
                 in light of 2 Corinthians 4:17–18.
               response: Trouble or suffering for believers helps us gain eternal glory
                 that outlasts the trouble by far.
               after_body_index: 42
               UID: BIB116.6.2.2.IQ.4
-            - p: 6
+            - p: 12
               text: List several principles of giving from 2 Corinthians 8–9.
               response: (1) Give as much as you are able to give and beyond (8:3).
                 (2) View giving as a privilege (8:4). (3) Learn to excel in the grace
@@ -80062,13 +80168,13 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 5
               text: In light of Paul’s reasons for rejoicing in prison, what kinds
                 of reasons might you find to rejoice in the midst of a difficult situation?
               response: Answers will vary.
               after_body_index: 36
               UID: BIB116.7.2.1.IQ.1
-            - p: 2
+            - p: 6
               text: Choose one of your favorite teachings from Philippians 4 and personalize
                 it. (For example, “Rejoice in the Lord always” = I will find reasons
                 to express joyful praise to the Lord in every situation.)
@@ -81569,13 +81675,13 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 5
               text: In light of Paul’s reasons for rejoicing in prison, what kinds
                 of reasons might you find to rejoice in the midst of a difficult situation?
               response: Answers will vary.
               after_body_index: 36
               UID: BIB116.7.2.2.IQ.1
-            - p: 2
+            - p: 6
               text: Choose one of your favorite teachings from Philippians 4 and personalize
                 it. (For example, “Rejoice in the Lord always” = I will find reasons
                 to express joyful praise to the Lord in every situation.)
@@ -83906,26 +84012,26 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 7
               text: What is the main idea of Colossians?
               response: Jesus is supreme.
               after_body_index: 5
               UID: BIB116.7.3.1.IQ.1
-            - p: 2
+            - p: 8
               text: Summarize the Colossian heresy.
               response: The false teachings in Colossae were a mixture of Jewish teaching
                 and popular Greco-Roman philosophy, involving extreme self-denial,
                 angel worship, lowering Christ, and new knowledge.
               after_body_index: 38
               UID: BIB116.7.3.1.IQ.2
-            - p: 3
+            - p: 9
               text: Summarize Paul’s teaching on old and new clothes.
               response: Taking off our old clothes means putting away things like
                 sexual sins, greed, and anger. In contrast, our new clothes include
                 things like compassion, humility, patience, and love.
               after_body_index: 42
               UID: BIB116.7.3.1.IQ.3
-            - p: 4
+            - p: 10
               text: How are the themes of Ephesians and Colossians different?
               response: In Colossians, Paul emphasizes Christ as the head of the body.
                 In Ephesians, he emphasizes the church as the body of Christ.
@@ -86177,26 +86283,26 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 7
               text: What is the main idea of Colossians?
               response: Jesus is supreme.
               after_body_index: 5
               UID: BIB116.7.3.2.IQ.1
-            - p: 2
+            - p: 8
               text: Summarize the Colossian heresy.
               response: The false teachings in Colossae were a mixture of Jewish teaching
                 and popular Greco-Roman philosophy, involving extreme self-denial,
                 angel worship, lowering Christ, and new knowledge.
               after_body_index: 38
               UID: BIB116.7.3.2.IQ.2
-            - p: 3
+            - p: 9
               text: Summarize Paul’s teaching on old and new clothes.
               response: Taking off our old clothes means putting away things like
                 sexual sins, greed, and anger. In contrast, our new clothes include
                 things like compassion, humility, patience, and love.
               after_body_index: 42
               UID: BIB116.7.3.2.IQ.3
-            - p: 4
+            - p: 10
               text: How are the themes of Ephesians and Colossians different?
               response: In Colossians, Paul emphasizes Christ as the head of the body.
                 In Ephesians, he emphasizes the church as the body of Christ.
@@ -87330,7 +87436,7 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 11
               text: Explain why Onesimus may have intentionally sought Paul out in
                 Rome.
               response: Onesimus may have sought Paul out to seek mediation and help
@@ -87339,7 +87445,7 @@ courses:
                 to the Lord.
               after_body_index: 17
               UID: BIB116.7.4.1.IQ.1
-            - p: 2
+            - p: 12
               text: Give one example of someone you know whose life was completely
                 changed for the better by the gospel.
               response: Answers will vary.
@@ -91984,14 +92090,14 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 6
               text: What potential danger can an overemphasis on the nearness of the
                 Rapture bring?
               response: The danger is to stop working for Christ and start watching
                 the clouds (see Acts 1:9–11).
               after_body_index: 2
               UID: BIB116.8.2.1.IQ.2
-            - p: 2
+            - p: 7
               text: Summarize two views regarding the identity of the one who holds
                 back lawlessness (2 Thessalonians 2:7).
               response: (1) Some see the one who restrains lawlessness as the Holy
@@ -97961,21 +98067,21 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 7
               text: Name the pastoral characteristics that are unique to Titus. Name
                 those that are unique to 1 Timothy 3.
               response: 'Titus: One who loves what is good; upright and holy (1:8).
                 1 Timothy: Gentle (3:3). Not a recent convert (3:6).'
               after_body_index: 66
               UID: BIB116.9.2.1.IQ.1
-            - p: 2
+            - p: 8
               text: Identify at least two pastoral characteristics with which you
                 struggle the most as a believer. What steps have you taken to correct
                 these areas? What further steps is God prompting you to take?
               response: Answers will vary.
               after_body_index: 66
               UID: BIB116.9.2.1.IQ.2
-            - p: 3
+            - p: 9
               text: Describe the godly lifestyle required of both young women and
                 men that will result in a good reputation for the gospel.
               response: Younger women, love your husbands; be self-controlled and
@@ -97983,7 +98089,7 @@ courses:
                 be self-controlled.
               after_body_index: 79
               UID: BIB116.9.2.1.IQ.3
-            - p: 4
+            - p: 10
               text: What does the grace of God teach believers to do, according to
                 Titus 2:11–14?
               response: God’s grace teaches us to say “No” to ungodliness and worldly
@@ -99566,21 +99672,21 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 7
               text: Name the pastoral characteristics that are unique to Titus. Name
                 those that are unique to 1 Timothy 3.
               response: 'Titus: One who loves what is good; upright and holy (1:8).
                 1 Timothy: Gentle (3:3). Not a recent convert (3:6).'
               after_body_index: 66
               UID: BIB116.9.2.2.IQ.1
-            - p: 2
+            - p: 8
               text: Identify at least two pastoral characteristics with which you
                 struggle the most as a believer. What steps have you taken to correct
                 these areas? What further steps is God prompting you to take?
               response: Answers will vary.
               after_body_index: 66
               UID: BIB116.9.2.2.IQ.2
-            - p: 3
+            - p: 9
               text: Describe the godly lifestyle required of both young women and
                 men that will result in a good reputation for the gospel.
               response: Younger women, love your husbands; be self-controlled and
@@ -99588,7 +99694,7 @@ courses:
                 be self-controlled.
               after_body_index: 79
               UID: BIB116.9.2.2.IQ.3
-            - p: 4
+            - p: 10
               text: What does the grace of God teach believers to do, according to
                 Titus 2:11–14?
               response: God’s grace teaches us to say “No” to ungodliness and worldly
@@ -100862,18 +100968,18 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 11
               text: Summarize Paul’s circumstances when he wrote 2 Timothy.
               response: Paul was in a Roman prison facing death when he wrote 2 Timothy.
               after_body_index: 2
               UID: BIB116.9.3.1.IQ.6
-            - p: 2
+            - p: 12
               text: Which of Paul’s instructions in 2 Timothy are most needed in your
                 life today? Explain.
               response: Answers will vary.
               after_body_index: 58
               UID: BIB116.9.3.1.IQ.1
-            - p: 3
+            - p: 13
               text: Explain how a pastor is like a soldier, an athlete, and a farmer.
               response: As a soldier, the pastor is to suffer hardship and please
                 the commander. As an athlete, he or she is to obey the rules of the
@@ -100881,14 +100987,14 @@ courses:
                 to have a portion of the crops.
               after_body_index: 67
               UID: BIB116.9.3.1.IQ.2
-            - p: 4
+            - p: 14
               text: How does 2 Timothy 3:1–9 relate to today? Explain.
               response: People today fit this description. We are getting nearer to
                 the “last days.”
               after_body_index: 70
               UID: BIB116.9.3.1.IQ.3.1
               source_uid: BIB116.9.3.1.IQ.3
-            - p: 5
+            - p: 15
               text: How did God give us the Scriptures (2 Timothy 3:16)? Why did He
                 give them?
               response: God gave us the Scriptures by working through the biblical
@@ -100897,7 +101003,7 @@ courses:
                 we should live.
               after_body_index: 72
               UID: BIB116.9.3.1.IQ.4
-            - p: 6
+            - p: 16
               text: Do you think Paul was about to die (2 Timothy 4:6–8)? Explain?
               response: Answers will vary.
               after_body_index: 76
@@ -102212,18 +102318,18 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 11
               text: Summarize Paul’s circumstances when he wrote 2 Timothy.
               response: Paul was in a Roman prison facing death when he wrote 2 Timothy.
               after_body_index: 2
               UID: BIB116.9.3.2.IQ.6
-            - p: 2
+            - p: 12
               text: Which of Paul’s instructions in 2 Timothy are most needed in your
                 life today? Explain.
               response: Answers will vary.
               after_body_index: 58
               UID: BIB116.9.3.2.IQ.1
-            - p: 3
+            - p: 13
               text: Explain how a pastor is like a soldier, an athlete, and a farmer.
               response: As a soldier, the pastor is to suffer hardship and please
                 the commander. As an athlete, he or she is to obey the rules of the
@@ -102231,14 +102337,14 @@ courses:
                 to have a portion of the crops.
               after_body_index: 67
               UID: BIB116.9.3.2.IQ.2
-            - p: 4
+            - p: 14
               text: How does 2 Timothy 3:1–9 relate to today? Explain.
               response: People today fit this description. We are getting nearer to
                 the “last days.”
               after_body_index: 70
               UID: BIB116.9.3.2.IQ.3.1
               source_uid: BIB116.9.3.2.IQ.3
-            - p: 5
+            - p: 15
               text: How did God give us the Scriptures (2 Timothy 3:16)? Why did He
                 give them?
               response: God gave us the Scriptures by working through the biblical
@@ -102247,7 +102353,7 @@ courses:
                 we should live.
               after_body_index: 72
               UID: BIB116.9.3.2.IQ.4
-            - p: 6
+            - p: 16
               text: Do you think Paul was about to die (2 Timothy 4:6–8)? Explain?
               response: Answers will vary.
               after_body_index: 76
@@ -112724,29 +112830,29 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 7
               text: Why are the seven General Epistles also called the Catholic Epistles?
               response: Catholic means “general, universal, or to all.”
               after_body_index: 5
               UID: BIB116.10.2.1.IQ.6
-            - p: 2
+            - p: 8
               text: Who most likely wrote the epistle of James?
               response: James, the half-brother of Jesus
               after_body_index: 19
               UID: BIB116.10.2.1.IQ.1
-            - p: 3
+            - p: 9
               text: Summarize James’ reasons for writing his epistle.
               response: James wrote to encourage suffering believers, to correct false
                 ideas about saving faith, and to teach readers how faith is revealed
                 through life and action.
               after_body_index: 26
               UID: BIB116.10.2.1.IQ.2
-            - p: 4
+            - p: 10
               text: What single theme seems to be evident throughout the book of James?
               response: Faith that works
               after_body_index: 55
               UID: BIB116.10.2.1.IQ.3
-            - p: 5
+            - p: 11
               text: Is it possible to harmonize the teachings of Paul and James? Explain
                 how Romans 3:28 and James 2:17, 24 can work together.
               response: Yes, the teachings of Paul and James can be harmonized. Since
@@ -112758,7 +112864,7 @@ courses:
                 part of genuine faith.
               after_body_index: 73
               UID: BIB116.10.2.1.IQ.4
-            - p: 6
+            - p: 12
               text: How has prayer been powerful and effective in your life?
               response: Answers will vary.
               after_body_index: 93
@@ -115373,29 +115479,29 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 7
               text: Why are the seven General Epistles also called the Catholic Epistles?
               response: Catholic means “general, universal, or to all.”
               after_body_index: 5
               UID: BIB116.10.2.2.IQ.6
-            - p: 2
+            - p: 8
               text: Who most likely wrote the epistle of James?
               response: James, the half-brother of Jesus
               after_body_index: 19
               UID: BIB116.10.2.2.IQ.1
-            - p: 3
+            - p: 9
               text: Summarize James’ reasons for writing his epistle.
               response: James wrote to encourage suffering believers, to correct false
                 ideas about saving faith, and to teach readers how faith is revealed
                 through life and action.
               after_body_index: 26
               UID: BIB116.10.2.2.IQ.2
-            - p: 4
+            - p: 10
               text: What single theme seems to be evident throughout the book of James?
               response: Faith that works
               after_body_index: 55
               UID: BIB116.10.2.2.IQ.3
-            - p: 5
+            - p: 11
               text: Is it possible to harmonize the teachings of Paul and James? Explain
                 how Romans 3:28 and James 2:17, 24 can work together.
               response: Yes, the teachings of Paul and James can be harmonized. Since
@@ -115407,7 +115513,7 @@ courses:
                 part of genuine faith.
               after_body_index: 73
               UID: BIB116.10.2.2.IQ.4
-            - p: 6
+            - p: 12
               text: How has prayer been powerful and effective in your life?
               response: Answers will vary.
               after_body_index: 93
@@ -118023,29 +118129,29 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 7
               text: Why are the seven General Epistles also called the Catholic Epistles?
               response: Catholic means “general, universal, or to all.”
               after_body_index: 5
               UID: BIB116.10.2.3.IQ.6
-            - p: 2
+            - p: 8
               text: Who most likely wrote the epistle of James?
               response: James, the half-brother of Jesus
               after_body_index: 19
               UID: BIB116.10.2.3.IQ.1
-            - p: 3
+            - p: 9
               text: Summarize James’ reasons for writing his epistle.
               response: James wrote to encourage suffering believers, to correct false
                 ideas about saving faith, and to teach readers how faith is revealed
                 through life and action.
               after_body_index: 26
               UID: BIB116.10.2.3.IQ.2
-            - p: 4
+            - p: 10
               text: What single theme seems to be evident throughout the book of James?
               response: Faith that works
               after_body_index: 55
               UID: BIB116.10.2.3.IQ.3
-            - p: 5
+            - p: 11
               text: Is it possible to harmonize the teachings of Paul and James? Explain
                 how Romans 3:28 and James 2:17, 24 can work together.
               response: Yes, the teachings of Paul and James can be harmonized. Since
@@ -118057,7 +118163,7 @@ courses:
                 part of genuine faith.
               after_body_index: 73
               UID: BIB116.10.2.3.IQ.4
-            - p: 6
+            - p: 12
               text: How has prayer been powerful and effective in your life?
               response: Answers will vary.
               after_body_index: 93
@@ -120967,19 +121073,19 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 13
               text: Consider the transformation that Jesus worked in Peter’s life.
                 How does this affect your view of the changes that are needed in your
                 own life?
               response: Answers will vary.
               after_body_index: 15
               UID: BIB116.10.3.1.IQ.1
-            - p: 2
+            - p: 14
               text: What is the theme of 1 Peter?
               response: Suffering as Jesus did
               after_body_index: 37
               UID: BIB116.10.3.1.IQ.2
-            - p: 3
+            - p: 15
               text: List as many characteristics of a godly lifestyle as you can identify
                 in 1 Peter.
               response: 'Compare your answer to this list: Are to be obedient children;
@@ -120998,7 +121104,7 @@ courses:
                 of Christ; Are to be clothed with humility and receive God’s grace'
               after_body_index: 122
               UID: BIB116.10.3.1.IQ.3
-            - p: 4
+            - p: 16
               text: What interpretation seems to best fit 1 Peter 3:18–20?
               response: Answers will vary but should be consistent with the body of
                 Scripture.
@@ -123683,19 +123789,19 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 13
               text: Consider the transformation that Jesus worked in Peter’s life.
                 How does this affect your view of the changes that are needed in your
                 own life?
               response: Answers will vary.
               after_body_index: 15
               UID: BIB116.10.3.2.IQ.1
-            - p: 2
+            - p: 14
               text: What is the theme of 1 Peter?
               response: Suffering as Jesus did
               after_body_index: 37
               UID: BIB116.10.3.2.IQ.2
-            - p: 3
+            - p: 15
               text: List as many characteristics of a godly lifestyle as you can identify
                 in 1 Peter.
               response: 'Compare your answer to this list: Are to be obedient children;
@@ -123714,7 +123820,7 @@ courses:
                 of Christ; Are to be clothed with humility and receive God’s grace'
               after_body_index: 122
               UID: BIB116.10.3.2.IQ.3
-            - p: 4
+            - p: 16
               text: What interpretation seems to best fit 1 Peter 3:18–20?
               response: Answers will vary but should be consistent with the body of
                 Scripture.
@@ -126399,19 +126505,19 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 13
               text: Consider the transformation that Jesus worked in Peter’s life.
                 How does this affect your view of the changes that are needed in your
                 own life?
               response: Answers will vary.
               after_body_index: 15
               UID: BIB116.10.3.3.IQ.1
-            - p: 2
+            - p: 14
               text: What is the theme of 1 Peter?
               response: Suffering as Jesus did
               after_body_index: 37
               UID: BIB116.10.3.3.IQ.2
-            - p: 3
+            - p: 15
               text: List as many characteristics of a godly lifestyle as you can identify
                 in 1 Peter.
               response: 'Compare your answer to this list: Are to be obedient children;
@@ -126430,7 +126536,7 @@ courses:
                 of Christ; Are to be clothed with humility and receive God’s grace'
               after_body_index: 122
               UID: BIB116.10.3.3.IQ.3
-            - p: 4
+            - p: 16
               text: What interpretation seems to best fit 1 Peter 3:18–20?
               response: Answers will vary but should be consistent with the body of
                 Scripture.
@@ -136482,20 +136588,20 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 11
               text: What evidence seems to suggest that the same author wrote the
                 Gospel of John as well as 1 and 2 John?
               response: The four similar verses in these books suggest that one author
                 wrote all three books.
               after_body_index: 34
               UID: BIB116.11.2.1.IQ.3
-            - p: 2
+            - p: 12
               text: In what sense is love related to truth?
               response: Christian love is righteous. It does not close its eyes to
                 error but speaks the truth.
               after_body_index: 59
               UID: BIB116.11.2.1.IQ.1
-            - p: 3
+            - p: 13
               text: In what ways do false teachers penetrate churches today? What
                 are some ways the church can guard itself against false teachers?
               response: Answers will vary.
@@ -137457,20 +137563,20 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 11
               text: What evidence seems to suggest that the same author wrote the
                 Gospel of John as well as 1 and 2 John?
               response: The four similar verses in these books suggest that one author
                 wrote all three books.
               after_body_index: 34
               UID: BIB116.11.2.2.IQ.3
-            - p: 2
+            - p: 12
               text: In what sense is love related to truth?
               response: Christian love is righteous. It does not close its eyes to
                 error but speaks the truth.
               after_body_index: 59
               UID: BIB116.11.2.2.IQ.1
-            - p: 3
+            - p: 13
               text: In what ways do false teachers penetrate churches today? What
                 are some ways the church can guard itself against false teachers?
               response: Answers will vary.
@@ -138178,28 +138284,28 @@ courses:
               outdated_reason: re-parsed
               replaced_by: BIB116.11.3.1.P.35.1
             interactive_questions:
-            - p: 1
+            - p: 14
               text: What are three similarities between 2 John and 3 John?
               response: (1) John writes as the beloved elder; (2) he expresses joy
                 in children walking in truth; and (3) he has much to write but would
                 rather see the recipients.
               after_body_index: 22
               UID: BIB116.11.3.1.IQ.1
-            - p: 2
+            - p: 15
               text: What do we know about Gaius?
               response: Gaius was a faithful and much loved member of a church in
                 Asia. John commended him for showing hospitality to the teachers that
                 were sent out.
               after_body_index: 37
               UID: BIB116.11.3.1.IQ.2
-            - p: 3
+            - p: 16
               text: What error did Diotrephes make?
               response: Diotrephes was a proud leader who refused to support the visiting
                 teachers that John sent. He even stopped others who wanted to welcome
                 them.
               after_body_index: 40
               UID: BIB116.11.3.1.IQ.3
-            - p: 4
+            - p: 17
               text: What is known about Demetrius?
               response: Demetrius was well spoken of, devoted to the truth, and recommended
                 by John and the church.
@@ -147340,7 +147446,7 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 8
               text: Give two reasons why the author of Jude is thought to be Jesus’
                 half-brother.
               response: (1) Jude claims to be James’ brother, and the only two brothers
@@ -147349,20 +147455,20 @@ courses:
                 seems to refer to apostles apart from himself.
               after_body_index: 55
               UID: BIB116.12.2.1.IQ.1
-            - p: 2
+            - p: 9
               text: What was Jude’s purpose in writing?
               response: Jude wrote to warn believers about false teachers who were
                 corrupting the grace of God.
               after_body_index: 60
               UID: BIB116.12.2.1.IQ.2
-            - p: 3
+            - p: 10
               text: In your opinion, how secure is the salvation of a professing believer
                 who lives in habitual immorality but expects God’s grace to somehow
                 cover his or her sin?
               response: Answers will vary but should be informed from Jude 4.
               after_body_index: 63
               UID: BIB116.12.2.1.IQ.3
-            - p: 4
+            - p: 11
               text: Choose one of the word pictures in Jude 12–13 and explain how
                 it describes false teachers.
               response: 'One of the following: (1) Blemishes: The false teachers were
@@ -147380,19 +147486,19 @@ courses:
               after_body_index: 139
               UID: BIB116.12.2.1.IQ.4.1
               source_uid: BIB116.12.2.1.IQ.4
-            - p: 5
+            - p: 12
               text: In your opinion, if Jude quoted from an uninspired source (1 Enoch),
                 does this create any problems with his message?
               response: Answer will vary.
               after_body_index: 159
               UID: BIB116.12.2.1.IQ.5
-            - p: 6
+            - p: 13
               text: When was the list of New Testament books completed?
               response: The list as we know it today was formally approved by AD 367.
               after_body_index: 171
               UID: BIB116.12.2.1.IQ.6.1
               source_uid: BIB116.12.2.1.IQ.6
-            - p: 7
+            - p: 14
               text: Why do we reject the books of the Apocrypha as not being divinely
                 inspired?
               response: They contain some truth, but they also contain error.
@@ -151472,7 +151578,7 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 8
               text: Give two reasons why the author of Jude is thought to be Jesus’
                 half-brother.
               response: (1) Jude claims to be James’ brother, and the only two brothers
@@ -151481,20 +151587,20 @@ courses:
                 seems to refer to apostles apart from himself.
               after_body_index: 55
               UID: BIB116.12.2.2.IQ.1
-            - p: 2
+            - p: 9
               text: What was Jude’s purpose in writing?
               response: Jude wrote to warn believers about false teachers who were
                 corrupting the grace of God.
               after_body_index: 60
               UID: BIB116.12.2.2.IQ.2
-            - p: 3
+            - p: 10
               text: In your opinion, how secure is the salvation of a professing believer
                 who lives in habitual immorality but expects God’s grace to somehow
                 cover his or her sin?
               response: Answers will vary but should be informed from Jude 4.
               after_body_index: 63
               UID: BIB116.12.2.2.IQ.3
-            - p: 4
+            - p: 11
               text: Choose one of the word pictures in Jude 12–13 and explain how
                 it describes false teachers.
               response: 'One of the following: (1) Blemishes: The false teachers were
@@ -151512,19 +151618,19 @@ courses:
               after_body_index: 139
               UID: BIB116.12.2.2.IQ.4.1
               source_uid: BIB116.12.2.2.IQ.4
-            - p: 5
+            - p: 12
               text: In your opinion, if Jude quoted from an uninspired source (1 Enoch),
                 does this create any problems with his message?
               response: Answer will vary.
               after_body_index: 159
               UID: BIB116.12.2.2.IQ.5
-            - p: 6
+            - p: 13
               text: When was the list of New Testament books completed?
               response: The list as we know it today was formally approved by AD 367.
               after_body_index: 171
               UID: BIB116.12.2.2.IQ.6.1
               source_uid: BIB116.12.2.2.IQ.6
-            - p: 7
+            - p: 14
               text: Why do we reject the books of the Apocrypha as not being divinely
                 inspired?
               response: They contain some truth, but they also contain error.
@@ -155455,12 +155561,12 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 4
               text: What does the preterist view of Revelation teach?
               response: That Revelation 1–18 happened in the first century
               after_body_index: 5
               UID: BIB116.13.2.1.IQ.8
-            - p: 2
+            - p: 5
               text: How does the historicist view of Revelation differ from the preterist
                 view?
               response: Both views involve the past, but the historicist view tries
@@ -155468,14 +155574,14 @@ courses:
                 the present.
               after_body_index: 8
               UID: BIB116.13.2.1.IQ.1
-            - p: 3
+            - p: 6
               text: What does the idealist view teach about the Antichrist?
               response: It teaches that Revelation is about spiritual ideas, not real
                 people or events. Therefore, it teaches that the Antichrist is an
                 opposing force, not a real person.
               after_body_index: 11
               UID: BIB116.13.2.1.IQ.2
-            - p: 4
+            - p: 7
               text: How does the futurist view of Revelation differ from the preterist
                 view?
               response: The preterist view looks back, but the futurist view teaches
@@ -155483,7 +155589,7 @@ courses:
                 years in the future.
               after_body_index: 14
               UID: BIB116.13.2.1.IQ.3
-            - p: 5
+            - p: 8
               text: How does Revelation 1:19 serve as an outline of the book? (Include
                 chapters in your answer.)
               response: (a) “What you have seen” refers to John’s vision of Christ
@@ -155492,7 +155598,7 @@ courses:
                 4–22).
               after_body_index: 21
               UID: BIB116.13.2.1.IQ.4
-            - p: 6
+            - p: 9
               text: Which five things that Revelation reveals about Jesus mean the
                 most to you? Why?
               response: Answers will vary but should come from the given chart.
@@ -158269,12 +158375,12 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 4
               text: What does the preterist view of Revelation teach?
               response: That Revelation 1–18 happened in the first century
               after_body_index: 5
               UID: BIB116.13.2.2.IQ.8
-            - p: 2
+            - p: 5
               text: How does the historicist view of Revelation differ from the preterist
                 view?
               response: Both views involve the past, but the historicist view tries
@@ -158282,14 +158388,14 @@ courses:
                 the present.
               after_body_index: 8
               UID: BIB116.13.2.2.IQ.1
-            - p: 3
+            - p: 6
               text: What does the idealist view teach about the Antichrist?
               response: It teaches that Revelation is about spiritual ideas, not real
                 people or events. Therefore, it teaches that the Antichrist is an
                 opposing force, not a real person.
               after_body_index: 11
               UID: BIB116.13.2.2.IQ.2
-            - p: 4
+            - p: 7
               text: How does the futurist view of Revelation differ from the preterist
                 view?
               response: The preterist view looks back, but the futurist view teaches
@@ -158297,7 +158403,7 @@ courses:
                 years in the future.
               after_body_index: 14
               UID: BIB116.13.2.2.IQ.3
-            - p: 5
+            - p: 8
               text: How does Revelation 1:19 serve as an outline of the book? (Include
                 chapters in your answer.)
               response: (a) “What you have seen” refers to John’s vision of Christ
@@ -158306,7 +158412,7 @@ courses:
                 4–22).
               after_body_index: 21
               UID: BIB116.13.2.2.IQ.4
-            - p: 6
+            - p: 9
               text: Which five things that Revelation reveals about Jesus mean the
                 most to you? Why?
               response: Answers will vary but should come from the given chart.
@@ -161052,12 +161158,12 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 4
               text: What does the preterist view of Revelation teach?
               response: That Revelation 1–18 happened in the first century
               after_body_index: 5
               UID: BIB116.13.2.3.IQ.8
-            - p: 2
+            - p: 5
               text: How does the historicist view of Revelation differ from the preterist
                 view?
               response: Both views involve the past, but the historicist view tries
@@ -161065,14 +161171,14 @@ courses:
                 the present.
               after_body_index: 8
               UID: BIB116.13.2.3.IQ.1
-            - p: 3
+            - p: 6
               text: What does the idealist view teach about the Antichrist?
               response: It teaches that Revelation is about spiritual ideas, not real
                 people or events. Therefore, it teaches that the Antichrist is an
                 opposing force, not a real person.
               after_body_index: 11
               UID: BIB116.13.2.3.IQ.2
-            - p: 4
+            - p: 7
               text: How does the futurist view of Revelation differ from the preterist
                 view?
               response: The preterist view looks back, but the futurist view teaches
@@ -161080,7 +161186,7 @@ courses:
                 years in the future.
               after_body_index: 14
               UID: BIB116.13.2.3.IQ.3
-            - p: 5
+            - p: 8
               text: How does Revelation 1:19 serve as an outline of the book? (Include
                 chapters in your answer.)
               response: (a) “What you have seen” refers to John’s vision of Christ
@@ -161089,7 +161195,7 @@ courses:
                 4–22).
               after_body_index: 21
               UID: BIB116.13.2.3.IQ.4
-            - p: 6
+            - p: 9
               text: Which five things that Revelation reveals about Jesus mean the
                 most to you? Why?
               response: Answers will vary but should come from the given chart.
@@ -165524,13 +165630,13 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 10
               text: Identify two possible reasons why John used symbols.
               response: John may have used symbols to protect Christians and to give
                 us word pictures that add emotion and value to truth.
               after_body_index: 4
               UID: BIB116.13.3.1.IQ.3
-            - p: 2
+            - p: 11
               text: What are two examples that show that symbols give us powerful
                 pictures?
               response: 'Possible examples include these: The lampstand reminds us
@@ -165539,7 +165645,7 @@ courses:
                 the church and the worldly system.'
               after_body_index: 79
               UID: BIB116.13.3.1.IQ.4
-            - p: 3
+            - p: 12
               text: Identify at least three contrasts in Revelation 1–5 that describe
                 God’s character or nature.
               response: 'Any three of the following: Dependable vs. undependable;
@@ -165548,7 +165654,7 @@ courses:
                 else who is unworthy.'
               after_body_index: 130
               UID: BIB116.13.3.1.IQ.1
-            - p: 4
+            - p: 13
               text: What are your favorite three contrasts from Revelation 6–18? Why?
               response: 'Your answer Course Conclusion Congratulations on completing
                 BIB116 New Testament Survey! Please take the course survey to complete
@@ -171116,13 +171222,13 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: struck
             interactive_questions:
-            - p: 1
+            - p: 10
               text: Identify two possible reasons why John used symbols.
               response: John may have used symbols to protect Christians and to give
                 us word pictures that add emotion and value to truth.
               after_body_index: 4
               UID: BIB116.13.3.2.IQ.3
-            - p: 2
+            - p: 11
               text: What are two examples that show that symbols give us powerful
                 pictures?
               response: 'Possible examples include these: The lampstand reminds us
@@ -171131,7 +171237,7 @@ courses:
                 the church and the worldly system.'
               after_body_index: 79
               UID: BIB116.13.3.2.IQ.4
-            - p: 3
+            - p: 12
               text: Identify at least three contrasts in Revelation 1–5 that describe
                 God’s character or nature.
               response: 'Any three of the following: Dependable vs. undependable;
@@ -171140,7 +171246,7 @@ courses:
                 else who is unworthy.'
               after_body_index: 130
               UID: BIB116.13.3.2.IQ.1
-            - p: 4
+            - p: 13
               text: What are your favorite three contrasts from Revelation 6–18? Why?
               response: 'Your answer Course Conclusion Congratulations on completing
                 BIB116 New Testament Survey! Please take the course survey to complete
