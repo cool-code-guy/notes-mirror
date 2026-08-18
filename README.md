@@ -9,25 +9,15 @@ No exam questions or answer keys are in this repository.
 
 ## Use it with Claude (or any AI)
 
-### Recommended: the site version
+### Start here — one file has everything
 
-This repo is also published as an ordinary website — real HTML pages, not raw data files. That matters: a raw `.yaml`/`.md` file is served as plain text, which some AI web-fetch tools handle fine and others don't retrieve reliably at all. A real webpage is exactly what every general-purpose web tool is built to read.
+Paste this ONE link with your question, e.g. *"based on the curriculum here, what does it say about Paul's theology?"* — no second link needed, and nothing to construct:
 
-**Point-and-shoot** — paste this with your question, e.g. *"based on the curriculum here, what does it say about Paul's theology?"*:
+https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/INDEX.md
 
-https://cool-code-guy.github.io/notes-mirror/
+(HTML version, if your tool prefers a real webpage over raw text: https://cool-code-guy.github.io/notes-mirror/INDEX.html)
 
-**One course, full lesson text** (swap `BIB116` for another code — see the table below):
-
-https://cool-code-guy.github.io/notes-mirror/lessons/BIB116.html
-
-**One course, objectives and structure only** (shorter, no lesson prose):
-
-https://cool-code-guy.github.io/notes-mirror/catalog/courses/BIB116.html
-
-**Every course, one table:**
-
-https://cool-code-guy.github.io/notes-mirror/catalog/catalog.html
+This single file has every active course's objectives and structure, AND — right next to each course — the exact, already-complete URL for that course's full lesson text. If your question needs the actual teaching text (not just objectives), the AI reading this file has the specific URL for that written out for it; it doesn't have to guess a course code or build a link from a pattern. That "guess or build a URL" step is where every earlier version of this repo broke down on one AI surface or another.
 
 **Active courses:**
 
@@ -58,40 +48,25 @@ https://cool-code-guy.github.io/notes-mirror/catalog/catalog.html
 | THE245 | Eschatology | 2 |
 | THE311 | Prayer and Worship | 3 |
 
-Example prompt, once you've pasted a link:
+Example prompt:
 
-> Using this, draft a one-paragraph description of this course for a denominational training director — plain language, no internal codes.
+> Using this, draft a one-paragraph description of the Romans course for a denominational training director — plain language, no internal codes.
 
-### Fallback: raw files
+### If that doesn't work
 
-If the site link is ever down, or a tool specifically wants a raw file, these work too — same content, served as plain text/YAML/JSON instead of a rendered page. Each link is alone on its own line — copy the whole line, nothing more, nothing less.
+Some fetch tools are pickier than others. In order of what to try next:
 
-**Every course, one table:**
+1. **The site homepage instead of the raw link:** https://cool-code-guy.github.io/notes-mirror/ — same content, served as a real HTML page rather than raw text.
+2. **One course directly, full text:** https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/BIB116.md (swap the code) — smaller than INDEX.md, in case the whole-catalog file is too large for that tool.
+3. **Paste the content directly.** Open the link yourself, copy the text, paste it into the chat instead of the URL. Slower, but nothing about fetching a URL can fail this way.
 
-https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/catalog/catalog.md
-
-**One course, full lesson text:**
-
-https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/BIB116.md
-
-**One course, objectives and structure only:**
-
-https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/catalog/courses/BIB116.md
-
-**Scripture coverage — every passage, and which lessons teach it:**
-
-https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/indexes/scripture_index.json
-
-**Sources cited:**
-
-https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/indexes/bibliography.json
-
-If a link 404s or the assistant says it can't reach it: check that you copied the exact `raw.githubusercontent.com` line above and nothing else — not a `github.com/.../blob/...` page URL, which looks similar but isn't the same thing to a fetch tool. If neither the site nor the raw links work in your particular chat: paste the file's content directly into the conversation instead of a link.
+If it still doesn't work after trying those, tell me which app/surface you're using — that's useful to know.
 
 ## Layout
 
 ```
-lessons/          Full lesson text per active course (this is the deep content).
+INDEX.md          Start here. Every course + an exact pointer to its full text.
+lessons/          Full lesson text per active course, one file per course.
 catalog/          Objectives, structure, counts per course. Lighter than lessons/.
 indexes/          Scripture coverage + bibliography, cross-referenced.
 data/body/        Same content as lessons/, as raw YAML (source format).
