@@ -1,3 +1,7 @@
+---
+title: "Course Content"
+---
+
 <!-- Title -->
 # Course Content
 

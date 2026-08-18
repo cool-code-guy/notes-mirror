@@ -1,3 +1,7 @@
+---
+title: "Course Catalog"
+---
+
 # Course Catalog
 
 Auto-generated. Do not edit by hand -- see `MANIFEST.yaml` for provenance.
