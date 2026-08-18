@@ -17,9 +17,9 @@ No exam questions or answer keys are in this repository.
 
 Paste this ONE link with your question, e.g. *"based on the curriculum here, what does it say about Paul's theology?"* — no second link needed, and nothing to construct:
 
-https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/INDEX.md
+https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/START_HERE.md
 
-(HTML version, if your tool prefers a real webpage over raw text: https://cool-code-guy.github.io/notes-mirror/INDEX.html)
+(HTML version, if your tool prefers a real webpage over raw text: https://cool-code-guy.github.io/notes-mirror/START_HERE.html)
 
 This single file has every active course's objectives and structure, AND — right next to each course — the exact, already-complete URL for that course's full lesson text. If your question needs the actual teaching text (not just objectives), the AI reading this file has the specific URL for that written out for it; it doesn't have to guess a course code or build a link from a pattern. That "guess or build a URL" step is where every earlier version of this repo broke down on one AI surface or another.
 
@@ -61,7 +61,7 @@ Example prompt:
 Some fetch tools are pickier than others. In order of what to try next:
 
 1. **The site homepage instead of the raw link:** https://cool-code-guy.github.io/notes-mirror/ — same content, served as a real HTML page rather than raw text.
-2. **One course directly, full text:** https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/BIB116.md (swap the code) — smaller than INDEX.md, in case the whole-catalog file is too large for that tool.
+2. **One course directly, full text:** https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/BIB116.md (swap the code) — smaller than START_HERE.md, in case the whole-catalog file is too large for that tool.
 3. **Paste the content directly.** Open the link yourself, copy the text, paste it into the chat instead of the URL. Slower, but nothing about fetching a URL can fail this way.
 
 If it still doesn't work after trying those, tell me which app/surface you're using — that's useful to know.
@@ -69,7 +69,7 @@ If it still doesn't work after trying those, tell me which app/surface you're us
 ## Layout
 
 ```
-INDEX.md          Start here. Every course + an exact pointer to its full text.
+START_HERE.md          Start here. Every course + an exact pointer to its full text.
 lessons/          Full lesson text per active course, one file per course.
 catalog/          Objectives, structure, counts per course. Lighter than lessons/.
 indexes/          Scripture coverage + bibliography, cross-referenced.
