@@ -1894,7 +1894,7 @@ courses:
       '2.25':
         timestamp: '2026-03-06'
     body_baseline_pn: 03.21.02
-    body_baseline_date: '2026-08-17'
+    body_baseline_date: '2026-08-18'
     glossary:
     - term: Achaia
       definition: a Roman province in Greece that included cities such as Athens and
@@ -20998,13 +20998,13 @@ courses:
             last_modified: '2026-03-27'
             text: Explain Mark’s purpose and how he fulfilled it.
             body:
-            - p: 113
+            - p: 0
               text: Explain Mark’s purpose and how he fulfilled it.
               kind: prose
               cls: IST_Objective-text
               md: '*<br/>Explain Mark’s purpose and how he fulfilled it.*'
               UID: BIB116.2.2.1.P.185
-            - p: 155
+            - p: 0
               text: Give two examples of how Mark helped Gentile readers.
               kind: prose
               cls: IST_Objective-text
@@ -23556,13 +23556,13 @@ courses:
             last_modified: '2026-03-27'
             text: Give two examples of how Mark helped Gentile readers.
             body:
-            - p: 113
+            - p: 0
               text: Explain Mark’s purpose and how he fulfilled it.
               kind: prose
               cls: IST_Objective-text
               md: '*<br/>Explain Mark’s purpose and how he fulfilled it.*'
               UID: BIB116.2.2.2.P.185
-            - p: 155
+            - p: 0
               text: Give two examples of how Mark helped Gentile readers.
               kind: prose
               cls: IST_Objective-text
@@ -46679,7 +46679,7 @@ courses:
             last_modified: '2026-03-27'
             text: Analyze the introduction and conclusion of John.
             body:
-            - p: 18
+            - p: 0
               text: Analyze the introduction and conclusion of John.
               kind: prose
               cls: IST_Objective-text
@@ -47197,8 +47197,8 @@ courses:
               - ref: John 21:1-25
                 key: john.21.1-25
                 bib_gate: https://www.biblegateway.com/passage/?search=John%2021%3A1-25&version=NIV
-              paragraph: BIB116.3.2.1.P.30
               UID: BIB116.3.2.1.S.17
+              paragraph: BIB116.3.2.1.P.30
             - intext: John 1:1–18
               version: NIV
               refs:
@@ -62086,7 +62086,7 @@ courses:
             last_modified: '2026-03-27'
             text: Divide Acts into three parts, giving the chapters for each part.
             body:
-            - p: 155
+            - p: 0
               text: Divide Acts into three parts, giving the chapters for each part.
               kind: prose
               cls: IST_Objective-text
@@ -63952,6 +63952,14 @@ courses:
             text: Indicate three steps in which believers witnessed for Jesus from
               Jerusalem to Rome.
             body:
+            - p: 0
+              text: Indicate three steps in which believers witnessed for Jesus from
+                Jerusalem to Rome.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*<br/>Indicate three steps in which believers witnessed for Jesus
+                from Jerusalem to Rome.*'
+              UID: BIB116.4.3.1.P.113
             - p: 1
               text: Witnessing in Jerusalem (Acts 1–7)
               kind: heading
@@ -64898,14 +64906,6 @@ courses:
               kind: prose
               cls: IST_Body-Indent
               UID: BIB116.4.3.1.P.112
-            - p: 109
-              text: Indicate three steps in which believers witnessed for Jesus from
-                Jerusalem to Rome.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*<br/>Indicate three steps in which believers witnessed for Jesus
-                from Jerusalem to Rome.*'
-              UID: BIB116.4.3.1.P.113
             - p: 30
               text: Map 4.2
               kind: caption
@@ -70017,7 +70017,7 @@ courses:
             last_modified: '2026-03-27'
             text: Describe the setting for the book of Romans.
             body:
-            - p: 74
+            - p: 0
               text: Describe the setting for the book of Romans.
               kind: prose
               cls: IST_Objective-text
@@ -74873,7 +74873,7 @@ courses:
             last_modified: '2026-03-27'
             text: Relate righteousness to the five parts of Romans.
             body:
-            - p: 74
+            - p: 0
               text: Describe the setting for the book of Romans.
               kind: prose
               cls: IST_Objective-text
@@ -103531,7 +103531,7 @@ courses:
             last_modified: '2026-07-01'
             text: Summarize the background of Paul’s letter to the Philippians.
             body:
-            - p: 106
+            - p: 0
               text: Summarize the background of Paul’s letter to the Philippians.
               kind: prose
               cls: IST_Objective-text
@@ -105309,7 +105309,7 @@ courses:
             last_modified: '2026-03-27'
             text: Summarize what Philippians teaches about joy and unity.
             body:
-            - p: 106
+            - p: 0
               text: Summarize the background of Paul’s letter to the Philippians.
               kind: prose
               cls: IST_Objective-text
@@ -112247,7 +112247,7 @@ courses:
             last_modified: '2026-03-27'
             text: Analyze three people and two lessons in the letter to Philemon.
             body:
-            - p: 58
+            - p: 0
               text: Analyze three people and two lessons in the letter to Philemon.
               kind: prose
               cls: IST_Objective-text
@@ -143737,7 +143737,7 @@ courses:
             text: Explain the name General Epistles, and list the seven books in this
               group.
             body:
-            - p: 127
+            - p: 0
               text: Explain the name General Epistles, and list the seven books in
                 this group.
               kind: prose
@@ -146853,7 +146853,7 @@ courses:
             last_modified: '2026-07-02'
             text: Indicate the author, purpose, and style of James.
             body:
-            - p: 127
+            - p: 0
               text: Explain the name General Epistles, and list the seven books in
                 this group.
               kind: prose
@@ -149970,7 +149970,7 @@ courses:
             text: Summarize and apply what James says about trials, the tongue, faith,
               and the wealthy.
             body:
-            - p: 127
+            - p: 0
               text: Explain the name General Epistles, and list the seven books in
                 this group.
               kind: prose
@@ -179013,7 +179013,7 @@ courses:
             text: Explain the contrasts between growing in grace and falling from
               grace found in 2 Peter.
             body:
-            - p: 190
+            - p: 0
               text: Explain the contrasts between growing in grace and falling from
                 grace found in 2 Peter.
               kind: prose
@@ -182475,7 +182475,7 @@ courses:
             last_modified: '2026-03-27'
             text: Summarize what 2 Peter says about the Scriptures and false teachers.
             body:
-            - p: 190
+            - p: 0
               text: Explain the contrasts between growing in grace and falling from
                 grace found in 2 Peter.
               kind: prose
