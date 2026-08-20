@@ -58,6 +58,7 @@ courses:
           Old Testament, we cannot fully understand and appreciate the New Testament.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.UNIT1.INTRO.P.1
       - text: Therefore, in Unit 1, we will begin to discover the Old Testament’s
           riches by examining the books of the Law. These first three chapters will
           survey the value of the Old Testament and the account of beginnings, the
@@ -65,10 +66,12 @@ courses:
           also trace the formation of God’s covenant with Abraham and his descendants.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.UNIT1.INTRO.P.2
       - text: Please take time to read each Book of the Old Testament as you approach
           the specific lessons.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.UNIT1.INTRO.P.3
     - title: The Historical Books
       chapters:
       - 4
@@ -84,132 +87,174 @@ courses:
           in terms of the nation of Israel as follows:'
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.UNIT2.INTRO.P.1
       - text: Books of the Law and History from a National Point of View
         kind: heading
         cls: IST_Table-Header
         md: '**Books of the Law and History from a National Point of View**'
+        UID: BIB111.UNIT2.INTRO.P.2
       - text: Book
         kind: heading
         cls: IST_Table-Header
+        UID: BIB111.UNIT2.INTRO.P.3
       - text: Theme
         kind: heading
         cls: IST_Table-Header
+        UID: BIB111.UNIT2.INTRO.P.4
       - text: 'Law: The Foundation for Christ'
         kind: heading
         cls: IST_Table-Header
         md: '**Law: The Foundation for Christ**'
+        UID: BIB111.UNIT2.INTRO.P.5
       - text: Genesis
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT2.INTRO.P.6
       - text: The election of the nation
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT2.INTRO.P.7
       - text: Exodus
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT2.INTRO.P.8
       - text: The redemption of the nation
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT2.INTRO.P.9
       - text: Leviticus
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT2.INTRO.P.10
       - text: The sanctification of the nation
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT2.INTRO.P.11
       - text: Numbers
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT2.INTRO.P.12
       - text: The direction of the nation
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT2.INTRO.P.13
       - text: Deuteronomy
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT2.INTRO.P.14
       - text: The instruction of the nation
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT2.INTRO.P.15
       - text: 'History: The Preparation for Christ'
         kind: heading
         cls: IST_Table-Header
         md: '**History: The Preparation for Christ**'
+        UID: BIB111.UNIT2.INTRO.P.16
       - text: Joshua
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT2.INTRO.P.17
       - text: The possession of the nation
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT2.INTRO.P.18
       - text: Judges/Ruth
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT2.INTRO.P.19
       - text: The oppression of the nation
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT2.INTRO.P.20
       - text: 1 Samuel
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT2.INTRO.P.21
       - text: The kingdom of the nation
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT2.INTRO.P.22
       - text: 2 Samuel
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT2.INTRO.P.23
       - text: The expansion of the nation
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT2.INTRO.P.24
       - text: 1 Kings 1–11
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT2.INTRO.P.25
       - text: The glory of the nation
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT2.INTRO.P.26
       - text: 1 Kings 12–22
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT2.INTRO.P.27
       - text: The division of the nation
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT2.INTRO.P.28
       - text: 2 Kings 1–17
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT2.INTRO.P.29
       - text: The fall of the northern nation
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT2.INTRO.P.30
       - text: 2 Kings 18–25
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT2.INTRO.P.31
       - text: The exile of the southern nation
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT2.INTRO.P.32
       - text: 1 Chronicles
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT2.INTRO.P.33
       - text: The preparation of the nation’s temple
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT2.INTRO.P.34
       - text: 2 Chronicles
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT2.INTRO.P.35
       - text: The destruction of the nation’s temple
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT2.INTRO.P.36
       - text: Ezra
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT2.INTRO.P.37
       - text: The restoration of the nation’s temple
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT2.INTRO.P.38
       - text: Nehemiah
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT2.INTRO.P.39
       - text: The rebuilding of the nation’s capital city
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT2.INTRO.P.40
       - text: Esther
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT2.INTRO.P.41
       - text: The protection of the nation’s people
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT2.INTRO.P.42
     - title: The Poetry and Wisdom Books
       chapters:
       - 8
@@ -223,11 +268,13 @@ courses:
           pulled from its ancient agricultural context.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.UNIT3.INTRO.P.1
       - text: We can also split these books into two broad categories. Job and Psalms
           can be considered humanity’s appeal to God for assistance. Proverbs, Ecclesiastes,
           and Song of Songs demonstrate godly wisdom in everyday life.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.UNIT3.INTRO.P.2
     - title: The Early Prophets
       chapters:
       - 10
@@ -246,6 +293,7 @@ courses:
           on the wall (Daniel 5:1–31).'
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.UNIT4.INTRO.P.1
       - text: Two common methods are used to divide the Old Testament books of prophecy.
           One way is to distinguish between the Major Prophets and the Minor Prophets
           (referring to the general length of the books rather than to the prophets
@@ -255,6 +303,7 @@ courses:
           Haggai, Zechariah, and Malachi.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.UNIT4.INTRO.P.2
       - text: 'In the second method, scholarly literature divides the prophets by
           the historical eras in which they lived and the way they spoke to their
           respective nations or kingdoms. This organizational pattern divides the
@@ -265,50 +314,64 @@ courses:
           the purposes of our study.'
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.UNIT4.INTRO.P.3
       - text: Divided (Assyrian) Kingdom
         kind: heading
         cls: IST_Table-Header
+        UID: BIB111.UNIT4.INTRO.P.4
       - text: Babylonian Kingdom
         kind: heading
         cls: IST_Table-Header
+        UID: BIB111.UNIT4.INTRO.P.5
       - text: Persian Kingdom
         kind: heading
         cls: IST_Table-Header
+        UID: BIB111.UNIT4.INTRO.P.6
       - text: 'Prophets to/from Israel: Jonah, Amos, and Hosea'
         kind: chart
         cls: IST_Table-Body
         md: '**Prophets to/from Israel:** Jonah, Amos, and Hosea'
+        UID: BIB111.UNIT4.INTRO.P.7
       - text: 'Prophets to Judah: Joel, Isaiah, and Micah'
         kind: chart
         cls: IST_Table-Body
         md: '**Prophets to Judah:** Joel, Isaiah, and Micah'
+        UID: BIB111.UNIT4.INTRO.P.8
       - text: 'Pre-Exile Prophets: Nahum, Zephaniah, Habakkuk, Obadiah, and Jeremiah'
         kind: chart
         cls: IST_Table-Body
         md: '**Pre-Exile Prophets:** Nahum, Zephaniah, Habakkuk, Obadiah, and Jeremiah'
+        UID: BIB111.UNIT4.INTRO.P.9
       - text: 'Prophets in Exile: Ezekiel and Daniel'
         kind: chart
         cls: IST_Table-Body
         md: '**Prophets in Exile:** Ezekiel and Daniel'
+        UID: BIB111.UNIT4.INTRO.P.10
       - text: 'Post-Exile Prophets: Haggai, Zechariah, and Malachi'
         kind: chart
         cls: IST_Table-Body
         md: '**Post-Exile Prophets:** Haggai, Zechariah, and Malachi'
+        UID: BIB111.UNIT4.INTRO.P.11
       - text: Chapter 10
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT4.INTRO.P.12
       - text: Chapter 11
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT4.INTRO.P.13
       - text: Chapter 12
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT4.INTRO.P.14
       - text: Chapter 13
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT4.INTRO.P.15
       - text: Chapter 14
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT4.INTRO.P.16
     - title: The Later Prophets
       chapters:
       - 12
@@ -323,42 +386,53 @@ courses:
           that sparked some of the prophecies.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.UNIT5.INTRO.P.1
       - text: 'In the previous unit, we considered the prophets who ministered in
           the divided kingdom until and immediately following Israel’s captivity.
           Now, we turn our attention to those who prophesied before, during, and after
           the time of Judah’s exile:'
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.UNIT5.INTRO.P.2
       - text: Babylonian Kingdom
         kind: heading
         cls: IST_Table-Header
+        UID: BIB111.UNIT5.INTRO.P.3
       - text: Persian Kingdom
         kind: heading
         cls: IST_Table-Header
+        UID: BIB111.UNIT5.INTRO.P.4
       - text: 'Pre-Exile Prophets: Nahum, Zephaniah, Habakkuk, Obadiah, and Jeremiah'
         kind: chart
         cls: IST_Table-Body
         md: '**Pre-Exile Prophets:** Nahum, Zephaniah, Habakkuk, Obadiah, and Jeremiah'
+        UID: BIB111.UNIT5.INTRO.P.5
       - text: 'Prophets in Exile:'
         kind: chart
         cls: IST_Table-Body
         md: '**Prophets in Exile:**'
+        UID: BIB111.UNIT5.INTRO.P.6
       - text: Ezekiel and Daniel
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT5.INTRO.P.7
       - text: 'Post-Exile Prophets: Haggai, Zechariah, and Malachi'
         kind: chart
         cls: IST_Table-Body
         md: '**Post-Exile Prophets:** Haggai, Zechariah, and Malachi'
+        UID: BIB111.UNIT5.INTRO.P.8
       - text: Chapter 12
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT5.INTRO.P.9
       - text: Chapter 13
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT5.INTRO.P.10
       - text: Chapter 14
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.UNIT5.INTRO.P.11
     revision_cycle_progress: 2.0
     revision_cycle_timestamp: '2026-04-01'
     revision_cycle_history:
@@ -1337,7 +1411,7 @@ courses:
         future events in the last days of human history (that is, the period of time
         from the Rapture to the Great White Throne Judgment).
       chapter: 11
-      paragraph: BIB111.11.1.1.P.10
+      paragraph: BIB111.11.1.1.P.41
     - term: deviant
       definition: different from what is considered normal or right
       chapter: 9
@@ -1389,6 +1463,7 @@ courses:
         or experience that gives information about God that is not directly quoted
         in Scripture
       chapter: 6
+      paragraph: BIB111.CH6.INTRO.P.4
     - term: the Fall
       definition: the event of Adam and Eve’s disobedience that broke their relationship
         with God and the resulting effects; namely, their expulsion from the Garden
@@ -1399,7 +1474,7 @@ courses:
       definition: the practice of wrongfully treating a person (or a group) better
         than others
       chapter: 2
-      paragraph: BIB111.2.4.1.P.29
+      paragraph: BIB111.2.3.1.P.38
     - term: the Flood
       definition: God’s judgment on all life on earth for the people’s great corruption
         in ancient times (Genesis 6–9). God covered the earth with water and then
@@ -1544,7 +1619,7 @@ courses:
         of Weeks, a festival that celebrated the firstfruits of the harvest; called
         “Pentecost” because it was celebrated fifty days after the feast of the Passover
       chapter: 11
-      paragraph: BIB111.11.1.1.P.40
+      paragraph: BIB111.11.1.1.P.41
     - term: pessimistic
       definition: gloomy, negative, cynical, hopeless, or despairing
       chapter: 9
@@ -1652,7 +1727,7 @@ courses:
         that housed the ark of the covenant; considered the dwelling place of God’s
         presence among the Israelites while they journeyed to the Promised Land
       chapter: 1
-      paragraph: BIB111.3.1.1.P.66
+      paragraph: BIB111.3.1.1.P.68
     - term: tenacity
       definition: the quality of being very determined; having a firm resolve
       chapter: 8
@@ -1879,6 +1954,7 @@ courses:
           display God’s plan of redemption. They reveal His character, and His desire
           to redeem the world. The Old Testament also prepares us for the revelation
           of Jesus as **Messiah** and Savior.
+        UID: BIB111.CH1.INTRO.P.1
       - text: To see the craftsmanship of this tapestry unfold, we must learn to understand
           how the Old Testament is woven together. We must learn what the Old Testament
           is and the role it plays in God’s plan. We must also consider the historical
@@ -1888,6 +1964,7 @@ courses:
           can seek and apply to our hearts and lives.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.CH1.INTRO.P.2
       lessons:
       - last_modified: '2026-03-27'
         title: The Old Testament
@@ -13442,12 +13519,14 @@ courses:
           endless, numerous tools have been developed to help provide answers.'
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.CH2.INTRO.P.1
       - text: 'In revealing the family tree of Israel, the Bible provides a framework
           to help us understand more about God and His people. Genesis 12–50 focuses
           on four patriarchs or ancestors of the nation of Israel: Abraham, Isaac,
           Jacob, and Joseph.'
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.CH2.INTRO.P.2
       - text: 'What is a patriarch? The term refers to the individuals who stood at
           the fountainhead of our faith: Abraham, Isaac, and Jacob. They, their wives,
           and their families were pioneers of faith who paved the way for ancient
@@ -13456,6 +13535,7 @@ courses:
           90).'
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.CH2.INTRO.P.3
       - text: In the previous chapter, we found that Genesis 1–11 describes the background
           of humanity and the problem of sin. People were created in God’s image to
           have fellowship with Him. By Genesis 11, we see humans both separated from
@@ -13463,6 +13543,7 @@ courses:
           we begin to see God’s plan unfold to redeem and restore His people.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.CH2.INTRO.P.4
       lessons:
       - last_modified: '2026-05-18'
         title: Abraham (Genesis 12:1–25:11)
@@ -21153,6 +21234,7 @@ courses:
           inhabit the land of Canaan. It was now time to fulfill that promise.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.CH3.INTRO.P.1
       - text: To do so, He would need a strong leader—an imperfect yet righteous prophet
           to mediate between God and His people. He needed Moses. Throughout the grueling
           ordeal of leading the disgruntled, rebellious Israelites to the land of
@@ -21164,12 +21246,14 @@ courses:
           power” and “awesome deeds” (Deuteronomy 34:12).
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.CH3.INTRO.P.2
       - text: The last four books of the Pentateuch entwine the life of Moses with
           the journey of the Israelites to the Promised Land. As we study Exodus through
           Deuteronomy, you will notice the contrast between the Israelites’ rebellion
           and Moses’s faithfulness.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.CH3.INTRO.P.3
       lessons:
       - last_modified: '2026-05-18'
         title: 'Exodus: Escape from Egypt'
@@ -25345,12 +25429,14 @@ courses:
           enemies (Deuteronomy 30:15–18).'
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.CH4.INTRO.P.1
       - text: Had the Israelites remembered these key principles, their years of entering
           and settling in Canaan would have been far more peaceful and far less volatile.
           Yet, as the years passed, the people forgot the words of Moses. They became
           more interested in their own pursuits than in the pursuits of their God.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.CH4.INTRO.P.2
       - text: Despite the Israelites’ faithlessness, however, God himself remained
           faithful (see 2 Timothy 2:13). Although He punished the Israelites, He also
           raised up godly people such as Joshua, Deborah, Jephthah, Samuel, and David
@@ -25360,6 +25446,7 @@ courses:
           our heart, soul, mind, and strength.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.CH4.INTRO.P.3
       lessons:
       - last_modified: '2026-06-16'
         title: 'Joshua: Conquering Canaan'
@@ -32319,6 +32406,7 @@ courses:
           by increasingly wicked kings and did not last long.'
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.CH5.INTRO.P.1
       lessons:
       - last_modified: '2026-03-27'
         title: David’s Reign (2 Samuel, 1 Chronicles)
@@ -46461,12 +46549,14 @@ courses:
           him <br/>(11:9–13), although the divided kingdom occurred after Solomon’s
           death <br/>(2 Samuel 7:12–16). God delayed His judgment as an expression
           of grace and mercy to David.'
+        UID: BIB111.CH6.INTRO.P.1
       - text: The Southern Kingdom, or the kingdom of Judah, lasted approximately
           350 years (931–586 BC). Twenty kings ruled in Judah, twelve of them during
           the time of the divided kingdom. The events of their reigns are recorded
           in 1 and 2 Kings and the ending chapters of 2 Chronicles.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.CH6.INTRO.P.2
       - text: It is helpful to remember that the Books of Kings and Chronicles are
           not like modern history textbooks. While they do record the events that
           happened, they select and arrange the stories for theological reasons primarily.
@@ -46475,6 +46565,7 @@ courses:
           (for example, the book of the kings of Judah and Israel).
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.CH6.INTRO.P.3
       - text: While these books are primarily concerned with the theological significance
           of Israel’s and Judah’s history, we do know more about this era of biblical
           history than the eras of the patriarchs, exodus, conquest, or judges. Not
@@ -46492,6 +46583,7 @@ courses:
           describe the history of the Southern Kingdom in reference to the Northern
           Kingdom, 2 Chronicles gives more detailed information about David’s ruling
           family.
+        UID: BIB111.CH6.INTRO.P.4
       lessons:
       - last_modified: '2026-05-15'
         title: 'Rehoboam to Ahaz: Judah During the Divided Kingdom (1 Kings 12–22;
@@ -59329,11 +59421,13 @@ courses:
           of rebuilding their homeland.'
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.CH7.INTRO.P.1
       - text: As the final three historical books, Ezra, Nehemiah, and Esther give
           us the history of God’s people after the Babylonian Exile. They describe
           Jewish life from the return to Jerusalem through the close of the Old Testament.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.CH7.INTRO.P.2
       lessons:
       - last_modified: '2026-05-28'
         title: 'Ezra: The Rebuilding of the Temple'
@@ -68325,6 +68419,7 @@ courses:
           yet persevered in his faith in God.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.CH8.INTRO.P.1
       - text: As the prayer book for the nation of Israel, Psalms highlights the gamut
           of human emotions. Its 150 prayers and songs were originally set to music
           and expressed strong emotions about life’s difficulties. While many of the
@@ -68334,6 +68429,7 @@ courses:
           powerful examples of prayer for Jews and Christians until today.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.CH8.INTRO.P.2
       lessons:
       - last_modified: '2026-05-28'
         title: 'Job: Perseverance in Suffering'
@@ -75662,6 +75758,7 @@ courses:
           or wisdom books taken together can be considered a conversation with God.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.CH9.INTRO.P.1
       lessons:
       - last_modified: '2026-05-28'
         title: Proverbs
@@ -81513,6 +81610,7 @@ courses:
           were still consistently worshipping Baal (Smith 1991, 40).
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.CH10.INTRO.P.1
       - text: God became angry with Israel because of His people’s participation in
           sinful practices and consistent breaking of their covenant with Him. The
           prophets’ voices fell on deaf ears. God therefore commissioned Syrian kings
@@ -81522,6 +81620,7 @@ courses:
           the Syrians.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.CH10.INTRO.P.2
       lessons:
       - last_modified: '2026-03-27'
         title: 'Jonah: The Fleeing Prophet'
@@ -88797,23 +88896,29 @@ courses:
           era. (Review the following chart.)
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.CH11.INTRO.P.1
       - text: Divided (Assyrian) Kingdom
         kind: heading
         cls: IST_Table-Header
+        UID: BIB111.CH11.INTRO.P.2
       - text: 'Prophets to Israel: Jonah, Amos, and Hosea'
         kind: chart
         cls: IST_Table-Body
         md: '**Prophets to Israel:**Jonah, Amos, and Hosea'
+        UID: BIB111.CH11.INTRO.P.3
       - text: 'Prophets to Judah: Joel, Isaiah, and Micah'
         kind: chart
         cls: IST_Table-Body
         md: '**Prophets to Judah:**Joel, Isaiah, and Micah'
+        UID: BIB111.CH11.INTRO.P.4
       - text: Chapter 10
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.CH11.INTRO.P.5
       - text: Chapter 11
         kind: chart
         cls: IST_Table-Body
+        UID: BIB111.CH11.INTRO.P.6
       - text: While the rulers of the Northern Kingdom led Israel further and further
           into idolatry, the Southern Kingdom’s decline under her leaders was more
           gradual. Kings such as Jehoshaphat and Josiah led the nation of Judah in
@@ -88823,6 +88928,7 @@ courses:
           calling His people to repent and turn to Him wholeheartedly or face judgment.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.CH11.INTRO.P.7
       lessons:
       - last_modified: '2026-05-28'
         title: 'Joel: The Prophet of Pentecost'
@@ -94700,6 +94806,7 @@ courses:
           are Nahum, Habakkuk, Zephaniah, Obadiah, Jeremiah, and Lamentations.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.CH12.INTRO.P.1
       lessons:
       - last_modified: '2026-03-27'
         title: 'Nahum: The Prophet of Nineveh’s Fall'
@@ -100068,6 +100175,7 @@ courses:
           and Daniel to fulfill His plans and purposes.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.CH13.INTRO.P.1
       - text: Daniel was taken captive when he was approximately seventeen years old,
           in 605 BC. He had been living in Babylon for nine years when the ten thousand
           captives that included Ezekiel were exiled to Babylon in 597 BC. The remaining
@@ -100075,6 +100183,7 @@ courses:
           of Jerusalem was complete in 586 BC.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.CH13.INTRO.P.2
       - text: Ezekiel and Daniel ministered to the people by prophesying and assuring
           them of God’s ultimate control and sovereignty. God’s unique design called
           for Ezekiel to convey his prophetic messages through dramatic acts or plays;
@@ -100084,6 +100193,7 @@ courses:
           the prophet of divine sovereignty.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.CH13.INTRO.P.3
       lessons:
       - last_modified: '2026-03-27'
         title: 'Ezekiel: The Prophet of Dramatic Acting'
@@ -104505,6 +104615,7 @@ courses:
           the people to return to proper priorities.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.CH14.INTRO.P.1
       lessons:
       - last_modified: '2026-03-27'
         title: 'Haggai: The Prophet of Rebuilding the Temple'
@@ -109966,6 +110077,7 @@ courses:
           principles and commands apply today?'
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.CH15.INTRO.P.1
       - text: The Old Testament lays the groundwork for the New Testament. Without
           the Old Testament, it would be very difficult, perhaps impossible, to understand
           the New Testament. But is that its only purpose? According to 2 Timothy
@@ -109986,6 +110098,7 @@ courses:
           likely focused on the Old Testament. Thus, when he said that Scripture is
           God-breathed, he meant that it is inspired by God. And this undoubtedly
           includes the Old Testament.
+        UID: BIB111.CH15.INTRO.P.2
       - text: While all faithful Christians affirm the value of the Old Testament,
           many still find it difficult to know how to apply the Old Testament. Unfortunately,
           many people neglect the Old Testament except for the famous passages that
@@ -109997,12 +110110,14 @@ courses:
           into nearly 2,000 years ago.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.CH15.INTRO.P.3
       - text: In this last chapter of our study, we will attempt to address these
           issues in a biblically balanced way. Based on the principle that all Scripture
           is God-inspired, we will examine the relationship between the two testaments
           and consider the Old Testament’s relevance to today’s believers.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB111.CH15.INTRO.P.4
       lessons:
       - last_modified: '2026-03-27'
         title: The Discontinuity

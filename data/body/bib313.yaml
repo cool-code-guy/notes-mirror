@@ -978,6 +978,7 @@ courses:
           5:1). The church you founded is clearly in trouble.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB313.UNIT1.INTRO.P.1
       - text: However unlikely the above story seems, it is very close to picturing
           what the apostle Paul faced when writing 1 Corinthians. Paul founded the
           church at Corinth during his second missionary journey. When he left, the
@@ -988,11 +989,13 @@ courses:
           and misunderstood much of what Paul had taught them.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB313.UNIT1.INTRO.P.2
       - text: Paul’s pastoral heart cannot ignore their situation. He writes them
           a letter addressing their concerns and teaches valuable principles for daily
           living as a Christian.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB313.UNIT1.INTRO.P.3
     - title: Guidelines for Worshipping and Believing (1 Corinthians 11–16)
       chapters:
       - 4
@@ -1010,6 +1013,7 @@ courses:
           on a number of issues.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB313.UNIT2.INTRO.P.1
       - text: 'In this section of the epistle, we see two categories of issues: liturgy
           and doctrine. The first occupies most of Paul’s attention, since it seems
           that the Corinthian church had many questions relating to worship. Students
@@ -1021,6 +1025,7 @@ courses:
           of the resurrection and presents its centrality to the Christian faith.'
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB313.UNIT2.INTRO.P.2
     - title: Paul’s Apostolic Ministry (2 Corinthians 1–9)
       chapters:
       - 7
@@ -1039,6 +1044,7 @@ courses:
           to teach the Corinthians principles about giving.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB313.UNIT3.INTRO.P.1
     - title: In Defense of Apostolic Authority (2 Corinthians 10–13)
       chapters:
       - 10
@@ -1057,6 +1063,7 @@ courses:
           teaching.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB313.UNIT4.INTRO.P.1
     glossary:
     - term: apocalyptic
       definition: relating to the end-time; describes visionary prophecy that deals
@@ -1270,6 +1277,7 @@ courses:
           that would become a positive and negative example to Christians everywhere.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB313.CH1.INTRO.P.1
       - text: In writing to this congregation, Paul first addresses the lack of unity
           among the Corinthian Christians. The disunity centered on which spiritual
           leader the believers should follow. Apollos was an impressive orator; Paul
@@ -1281,10 +1289,12 @@ courses:
           Paul sought to teach them the importance of unity under Christ.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB313.CH1.INTRO.P.2
       - text: Read 1 Corinthians 1–4 before you begin study in this chapter.
         kind: heading
         cls: IST_Body-Center-Header
         md: '*Read 1 Corinthians 1–4 before you begin study in this chapter.*'
+        UID: BIB313.CH1.INTRO.P.3
       lessons:
       - last_modified: '2026-05-28'
         title: Introduction and Background to 1 Corinthians (1:1–9)
@@ -7122,10 +7132,12 @@ courses:
           as a guide in addressing these issues.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB313.CH2.INTRO.P.1
       - text: Read 1 Corinthians 5–7 before you begin study in this chapter.
         kind: heading
         cls: IST_Body-Center-Header
         md: '*Read 1 Corinthians 5–7 before you begin study in this chapter.*'
+        UID: BIB313.CH2.INTRO.P.2
       lessons:
       - last_modified: '2026-03-27'
         title: Church Discipline (5:1–13)
@@ -9797,10 +9809,12 @@ courses:
           motivation.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB313.CH3.INTRO.P.1
       - text: Read 1 Corinthians 8–10 before you begin study in this chapter.
         kind: heading
         cls: IST_Body-Center-Header
         md: '*Read 1 Corinthians 8–10 before you begin study in this chapter.*'
+        UID: BIB313.CH3.INTRO.P.2
       lessons:
       - last_modified: '2026-05-28'
         title: Christian Freedom and Meat Sacrificed to Idols (8–9)
@@ -11690,6 +11704,7 @@ courses:
           reader.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB313.CH4.INTRO.P.1
       - text: Later in the chapter, Paul responds to reports that the Corinthians’
           celebration of the Lord’s Supper had become a deplorable fanfare of greed
           and self-indulgence. Then, Paul teaches about spiritual gifts. His message
@@ -11699,10 +11714,12 @@ courses:
           needs to understand.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB313.CH4.INTRO.P.2
       - text: Read 1 Corinthians 11:2–12:11 before you begin study in this chapter.
         kind: heading
         cls: IST_Body-Center-Header
         md: '*Read 1 Corinthians 11:2–12:11 before you begin study in this chapter.*'
+        UID: BIB313.CH4.INTRO.P.3
       lessons:
       - last_modified: '2026-03-27'
         title: Instructions on Worship (11:2–16)
@@ -13653,16 +13670,19 @@ courses:
           diversity.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB313.CH5.INTRO.P.1
       - text: As the Church universal then lives out this unity, the Holy Spirit will
           continue to produce in us attitudes, motives, and behaviors that reflect
           the love of God. When this love motivates and controls the operation of
           spiritual gifts, all things will be done decently to the glory of the Father.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB313.CH5.INTRO.P.2
       - text: Read 1 Corinthians 12:12–14:40 before you begin study in this chapter.
         kind: heading
         cls: IST_Body-Center-Header
         md: '*Read 1 Corinthians* *12:12–14:40* *before you begin study in this chapter.*'
+        UID: BIB313.CH5.INTRO.P.3
       lessons:
       - last_modified: '2026-05-28'
         title: Spiritual Gifts and the Body (12:12–13:13)
@@ -17169,6 +17189,7 @@ courses:
           rejected the resurrection of the dead.'
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB313.CH6.INTRO.P.1
       - text: These schools of influence created confusion and uncertainty among the
           Christians in Corinth. Thus, the assurance and hope of the resurrection
           is the pervasive truth that Paul desired to leave with the Corinthian believers.
@@ -17176,10 +17197,12 @@ courses:
           other issues and problems in the perspective of eternity.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB313.CH6.INTRO.P.2
       - text: Read 1 Corinthians 15–16 before you begin study in this chapter.
         kind: heading
         cls: IST_Body-Center-Header
         md: '*Read 1 Corinthians* *15–16* *before you begin study in this chapter.*'
+        UID: BIB313.CH6.INTRO.P.3
       lessons:
       - last_modified: '2026-05-28'
         title: Truths About the Resurrection (15:1–58)
@@ -18960,6 +18983,7 @@ courses:
           in 2 Corinthians 7:5–7.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB313.CH7.INTRO.P.1
       - text: Paul first visited Corinth in AD 51 (Carson, Moo, and Morris 1992, 223–231)
           during his second missionary journey and founded the church there. Through
           the gospel, he had become their spiritual father (1 Corinthians 4:15). But
@@ -18971,10 +18995,12 @@ courses:
           1:15–16).
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB313.CH7.INTRO.P.2
       - text: Read 1 Corinthians 1:1–2:11 before you begin study in this chapter.
         kind: heading
         cls: IST_Body-Center-Header
         md: '*Read 1 Corinthians* *1:1–2:11* *before you begin study in this chapter.*'
+        UID: BIB313.CH7.INTRO.P.3
       lessons:
       - last_modified: '2026-03-27'
         title: Introduction to 2 Corinthians (1:1–2)
@@ -20707,6 +20733,7 @@ courses:
           these troublemakers as false workmen.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB313.CH8.INTRO.P.1
       - text: As you study this lesson, keep in mind that Paul wrote 2 Corinthians
           in the early years of the church when Jewish believers still struggled to
           let go of thousands of years of teaching and beliefs. Many refused to entirely
@@ -20717,10 +20744,12 @@ courses:
           for Christ.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB313.CH8.INTRO.P.2
       - text: Read 2 Corinthians 2:12–7:16 before you begin study in this chapter.
         kind: heading
         cls: IST_Body-Center-Header
         md: '*Read 2 Corinthians* *2:12–7:16* *before you begin study in this chapter.*'
+        UID: BIB313.CH8.INTRO.P.3
       lessons:
       - last_modified: '2026-03-27'
         title: The Greatness of Paul’s Ministry (2:12–4:6)
@@ -24054,16 +24083,19 @@ courses:
           (Romans 11:13–25; 15:27). Undoubtedly, he saw this offering as a powerful
           symbol of the spiritual unity of both Jews and Gentiles in Christ (Ephesians
           2:13–18).
+        UID: BIB313.CH9.INTRO.P.1
       - text: The Corinthians had begun an offering (2 Corinthians 8:6; 1 Corinthians
           16:1–4), but it had stalled, probably due to the conflicts in the church.
           Now with the good news from Titus, Paul feels confident that he can urge
           them to complete their offering.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB313.CH9.INTRO.P.2
       - text: Read 2 Corinthians 8–9 before you begin study in this chapter.
         kind: heading
         cls: IST_Body-Center-Header
         md: '*Read 2 Corinthians* *8–9* *before you begin study in this chapter.*'
+        UID: BIB313.CH9.INTRO.P.3
       lessons:
       - last_modified: '2026-05-28'
         title: The Grace of Giving (8:1–9:5)
@@ -26393,10 +26425,12 @@ courses:
           learn are steeped in sarcasm.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB313.CH10.INTRO.P.1
       - text: Read 2 Corinthians 10:1–11:15 before you begin study in this chapter.
         kind: heading
         cls: IST_Body-Center-Header
         md: '*Read 2 Corinthians* *10:1–11:15* *before you begin study in this chapter.*'
+        UID: BIB313.CH10.INTRO.P.2
       lessons:
       - last_modified: '2026-03-27'
         title: True Apostolic Authority (10:1–11)
@@ -29077,6 +29111,7 @@ courses:
           experiences of great revelation, and ultimate proof of apostleship.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB313.CH11.INTRO.P.1
       - text: Unfortunately, Paul’s defense did not signal an end to false teachers.
           The church today is even more susceptible to the dangers of false teaching.
           Thus, Christian leaders must be vigilant stewards of the gospel of Jesus
@@ -29084,10 +29119,12 @@ courses:
           integrity of the gospel.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB313.CH11.INTRO.P.2
       - text: Read 2 Corinthians 11:16–13:14 before you begin study in this chapter.
         kind: heading
         cls: IST_Body-Center-Header
         md: '*Read 2 Corinthians* *11:16–13:14* *before you begin study in this chapter.*'
+        UID: BIB313.CH11.INTRO.P.3
       lessons:
       - last_modified: '2026-05-28'
         title: Paul’s Boasts (11–12)

@@ -55,6 +55,7 @@ courses:
           church of many languages and cultures.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB116.UNIT1.INTRO.P.1
       - text: The books of the New Testament were written for the church (groups of
           believers). The Gospels teach believers about the life and teachings of
           Christ. Acts and the Epistles, Romans through Jude, record the history and
@@ -64,6 +65,7 @@ courses:
           New Testament provides a picture of Christ.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB116.UNIT1.INTRO.P.2
       - text: In this unit, after a brief synopsis of the New Testament, we will focus
           on the Gospels and Acts. We will consider the background or setting, purpose,
           and outline of each book, along with its major teachings and emphasis. Most
@@ -72,6 +74,7 @@ courses:
           the New Testament as you approach the specific lessons.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB116.UNIT1.INTRO.P.3
     - title: Thirteen Letters of Paul
       chapters:
       - 5
@@ -85,6 +88,7 @@ courses:
           letters provided an effective method for accomplishing both goals.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB116.UNIT2.INTRO.P.1
       - text: Paul’s epistles deal with a variety of issues. To the Romans, Corinthians,
           and Galatians, he emphasized that we receive salvation, that is, God’s righteousness,
           through His grace. In the epistles he wrote from prison—Ephesians, Philippians,
@@ -98,12 +102,14 @@ courses:
           they contain will help you in your ministry.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB116.UNIT2.INTRO.P.2
       - text: Although Paul addressed his epistles to specific churches and individuals,
           the truth he presents unquestionably applied to all churches and applies
           to us today. As we face similar questions and situations, the Holy Spirit
           uses Paul’s words of encouragement and instruction to guide us.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB116.UNIT2.INTRO.P.3
     - title: Eight Letters for All and the Apocalypse
       chapters:
       - 10
@@ -118,11 +124,13 @@ courses:
           to Christ’s return.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB116.UNIT3.INTRO.P.1
       - text: Trials and false teachings have not disappeared over the centuries.
           In fact, they seem to have worsened. The same God-inspired truths that nurtured
           and taught the early believers still fortify and teach believers today.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB116.UNIT3.INTRO.P.2
     bibliography:
     - raw: Akin, Daniel L. 2001. “1, 2, 3 John”. In The New American Commentary, edited
         by E. Ray Clendenen. Vol. 38. Broadman & Holman Publishers.
@@ -2280,6 +2288,7 @@ courses:
           30). Those dreams were not fulfilled until Joseph was thirty (Genesis 41:46).
         kind: prose
         cls: IST_Chapter-Intro-Intro-Text
+        UID: BIB116.CH1.INTRO.P.1
       - text: The Almighty made every nation of people from one man. He planned the
           times for each nation and the places where each nation would live (Acts
           17:26). He showed Daniel that the Medes and Persians would conquer the Babylonians,
@@ -2288,25 +2297,30 @@ courses:
           ruins of all human kingdoms (Daniel 2:24–47).
         kind: prose
         cls: IST_Chapter-Intro-Intro-Text
+        UID: BIB116.CH1.INTRO.P.2
       - text: 'Therefore, we are not surprised that God planned for our salvation.
           Although He allows each person to accept or reject the gospel, He made a
           plan to save us before He created us:'
         kind: prose
         cls: IST_Chapter-Intro-Intro-Text
+        UID: BIB116.CH1.INTRO.P.3
       - text: “Then the King will say to those on his right, ‘Come, you who are blessed
           by my Father; take your inheritance, the kingdom prepared for you since
           the creation of the world’” (Matthew 25:34).
         kind: list
         cls: IST_Body-Bullet-2
+        UID: BIB116.CH1.INTRO.P.4
       - text: God “chose us in [Christ] before the creation of the world to be holy
           and blameless in his sight” (Ephesians 1:4).
         kind: list
         cls: IST_Body-Bullet-2
+        UID: BIB116.CH1.INTRO.P.5
       - text: God “has saved us and called us to a holy life—not because of anything
           we have done but because of his own purpose and grace. This grace was given
           us in Christ Jesus before the beginning of time” (2 Timothy 1:9).
         kind: list
         cls: IST_Body-Bullet-2
+        UID: BIB116.CH1.INTRO.P.6
       - text: “For you know that it was not with perishable things such as silver
           or gold that you were redeemed from the empty way of life handed down to
           you from your forefathers, but with the precious blood of Christ, a lamb
@@ -2314,11 +2328,13 @@ courses:
           but was revealed in these last times for your sake” (1 Peter 1:18–20).
         kind: list
         cls: IST_Body-Bullet-2
+        UID: BIB116.CH1.INTRO.P.7
       - text: “But when the time had fully come, God sent his Son, born of a woman,
           born under law, to redeem those under law, that we might receive the full
           rights of sons” (Galatians 4:4–5).
         kind: list
         cls: IST_Body-Bullet-2
+        UID: BIB116.CH1.INTRO.P.8
       - text: In this chapter, we will consider God’s ways of preparing the world
           for Jesus through the Jews, the Greeks, and the Romans; the history behind
           and elements of the New Testament; and the unique ways Jesus is presented
@@ -2327,6 +2343,7 @@ courses:
           heaven with Him. Indeed, God plans ahead, and we are part of His plans.
         kind: prose
         cls: IST_Chapter-Intro-Intro-Text
+        UID: BIB116.CH1.INTRO.P.9
       intro_interactive_questions:
       - p: 1
         text: Consider ways in whcih events in history and in your own life demonstrate
@@ -11298,6 +11315,7 @@ courses:
           of truth.”
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB116.CH2.INTRO.P.1
       - text: In London’s National Gallery of Art, three paintings of King Charles
           I hang together within one frame. In the first painting, his head is turned
           to the left; in the second, his head is turned to the right; in the third,
@@ -11306,6 +11324,7 @@ courses:
           who wanted to make a stone statue of the king (Mears 1983, 340).
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB116.CH2.INTRO.P.2
       - text: Likewise, the Synoptic Gospels—Matthew, Mark, and Luke—allow us to learn
           about Jesus Christ from three different points of view. The Synoptics, together
           with John, give us four portraits of Jesus. Matthew emphasizes that Jesus
@@ -11313,6 +11332,7 @@ courses:
           Jesus was the Son of Man, but John emphasizes that He was the Son of God.
         kind: prose
         cls: IST_Body-Indent
+        UID: BIB116.CH2.INTRO.P.3
       intro_interactive_questions:
       - p: 1
         text: How might you respond to someone who doubts the validity of the Bible,
@@ -43206,6 +43226,7 @@ courses:
           a thorough understanding of Jesus—who He is, what He did, and what He taught.'
         kind: prose
         cls: IST_Chapter-Intro-Intro-Text
+        UID: BIB116.CH3.INTRO.P.1
       lessons:
       - last_modified: '2026-03-27'
         title: Understanding John
@@ -54566,6 +54587,7 @@ courses:
           entire known world.
         kind: prose
         cls: IST_Chapter-Intro-Intro-Text
+        UID: BIB116.CH4.INTRO.P.1
       - text: Among the many other persons described in Acts, the book highlights
           the ministries of Peter and Paul—two men who were radically changed by the
           power of the Spirit and the truth of Jesus’ salvation. As you read through
@@ -54574,6 +54596,7 @@ courses:
           just as it did for the believers of the early church.
         kind: prose
         cls: IST_Chapter-Intro-Intro-Text
+        UID: BIB116.CH4.INTRO.P.2
       lessons:
       - last_modified: '2026-03-27'
         title: Understanding the Book of Acts
@@ -66523,6 +66546,7 @@ courses:
           of life.
         kind: prose
         cls: IST_Chapter-Intro-Intro-Text
+        UID: BIB116.CH5.INTRO.P.1
       - text: Paul knew this truth firsthand. Having zealously persecuted believers
           before his conversion, Paul had experienced the life-changing grace of God’s
           gift of righteousness to all who believe. Now his zeal turned to serving
@@ -66531,6 +66555,7 @@ courses:
           God had delivered them from and what He was leading them to with His gift.
         kind: prose
         cls: IST_Chapter-Intro-Intro-Text
+        UID: BIB116.CH5.INTRO.P.2
       lessons:
       - last_modified: '2026-05-28'
         title: Paul
@@ -83579,6 +83604,7 @@ courses:
           not exist. Churches consist of people, and people are imperfect.
         kind: prose
         cls: IST_Chapter-Intro-Intro-Text
+        UID: BIB116.CH6.INTRO.P.1
       - text: Paul’s letters to the church at Corinth remind us that all people have
           problems. Although Paul had founded the Corinthian church and it was rich
           in spiritual gifts (1 Corinthians 1:7), the church had many problems. One
@@ -83587,12 +83613,14 @@ courses:
           in court, and confusion during church services.
         kind: prose
         cls: IST_Chapter-Intro-Intro-Text
+        UID: BIB116.CH6.INTRO.P.2
       - text: Studying Corinthians emphasizes the important truth that no matter how
           bad a church’s problems are, God has a solution. Corinth was one of the
           darkest, most sinful cities of Paul’s day. Yet the gospel light shone brightly
           there, and those who were saved learned to live at peace with other believers.
         kind: prose
         cls: IST_Chapter-Intro-Intro-Text
+        UID: BIB116.CH6.INTRO.P.3
       lessons:
       - last_modified: '2026-03-27'
         title: First Corinthians
@@ -96204,6 +96232,7 @@ courses:
           the poem “It Is Well with My Soul,” which was later put to music. Today,
           believers around the world sing this great hymn of the church. It has brought
           comfort to millions of sad hearts (Kauffman 2018).'
+        UID: BIB116.CH7.INTRO.P.1
       - text: Likewise, in a prison, the Holy Spirit encouraged Paul. In chains, he
           wrote four of his most glorious letters. Spiritual giants of the church
           like John Bunyan, Dietrich Bonhoeffer, Martin Luther King Jr., and Watchman
@@ -96212,6 +96241,7 @@ courses:
           the most precious to us.
         kind: prose
         cls: IST_Chapter-Intro-Intro-Text
+        UID: BIB116.CH7.INTRO.P.2
       lessons:
       - last_modified: '2026-03-27'
         title: Ephesians
@@ -113430,6 +113460,7 @@ courses:
           150 times (Elwell and Yarbrough 1998, 332).
         kind: prose
         cls: IST_Chapter-Intro-Intro-Text
+        UID: BIB116.CH8.INTRO.P.1
       - text: Paul praised the Thessalonians for turning from idols to Jesus and thanked
           them for standing firm in suffering, saying they were a model for others.
           For further encouragement, Paul reminded them of Jesus’ imminent return
@@ -113439,6 +113470,7 @@ courses:
           it did for the Thessalonians long ago.
         kind: prose
         cls: IST_Chapter-Intro-Intro-Text
+        UID: BIB116.CH8.INTRO.P.2
       lessons:
       - last_modified: '2026-03-27'
         title: First Thessalonians
@@ -119609,6 +119641,7 @@ courses:
           with him and encouraged him to start the church.
         kind: prose
         cls: IST_Chapter-Intro-Intro-Text
+        UID: BIB116.CH9.INTRO.P.1
       - text: The pastor’s encouragement did not stop there. In fact, he kept encouraging
           Marcus for many years. The neighboring pastor took time to meet with Marcus
           regularly and shared much of his wisdom about the ministry. He answered
@@ -119617,6 +119650,7 @@ courses:
           grown in the ministry as he did.
         kind: prose
         cls: IST_Chapter-Intro-Intro-Text
+        UID: BIB116.CH9.INTRO.P.2
       - text: In the same way, Paul encouraged Timothy and Titus in their pastoral
           calling. He helped them get started in the ministry, and he wrote letters
           to them to share his wisdom regarding the ministry. Whereas almost all of
@@ -119627,6 +119661,7 @@ courses:
           and leadership.
         kind: prose
         cls: IST_Chapter-Intro-Intro-Text
+        UID: BIB116.CH9.INTRO.P.3
       lessons:
       - last_modified: '2026-03-27'
         title: First Timothy
@@ -133038,12 +133073,14 @@ courses:
           not only that she faced great danger, but also that God had called her.
         kind: prose
         cls: IST_Chapter-Intro-Intro-Text
+        UID: BIB116.CH10.INTRO.P.1
       - text: At the onset of the war, Kathryn was arrested and placed in a prison
           camp. The camp had little food and much disease. Hundreds of women and children
           died from hunger and sickness. When the end of the war liberated Kathryn,
           she too was near death.
         kind: prose
         cls: IST_Chapter-Intro-Intro-Text
+        UID: BIB116.CH10.INTRO.P.2
       - text: However, her best memory from this time of suffering was the Lord’s
           help. She wrote, “Surely, if the Lord was ever sufficient, He was during
           this time. To know Him as I do now, I would be willing to endure it all
@@ -133051,11 +133088,13 @@ courses:
           darkest hours.
         kind: prose
         cls: IST_Chapter-Intro-Intro-Text
+        UID: BIB116.CH10.INTRO.P.3
       - text: Suffering has always been a part of the Christian life. In this chapter,
           the letters to suffering believers show us that God is with us in the midst
           of trials.
         kind: prose
         cls: IST_Chapter-Intro-Intro-Text
+        UID: BIB116.CH10.INTRO.P.4
       lessons:
       - last_modified: '2026-03-27'
         title: Hebrews
@@ -163806,9 +163845,11 @@ courses:
           marathon runners, the finish line is the goal that drives them on.
         kind: prose
         cls: IST_Chapter-Intro-Intro-Text
+        UID: BIB116.CH11.INTRO.P.1
       - text: 'Biblical writers compare the Christian life to running a race:'
         kind: prose
         cls: IST_Chapter-Intro-Intro-Text
+        UID: BIB116.CH11.INTRO.P.2
       - text: Do you not know that in a race all the runners run, but only one gets
           the prize? Run in such a way as to get the prize. Everyone who competes
           in the games goes into strict training. They do it to get a crown that will
@@ -163819,27 +163860,32 @@ courses:
           9:24–27)
         kind: quote
         cls: IST_Body-Block-Quote
+        UID: BIB116.CH11.INTRO.P.3
       - text: 'Brothers, I do not consider myself yet to have taken hold of it. But
           one thing I do: Forgetting what is behind and straining toward what is ahead,
           I press on toward the goal to win the prize for which God has called me
           heavenward in Christ Jesus. (Philippians 3:13–14)'
         kind: quote
         cls: IST_Body-Block-Quote
+        UID: BIB116.CH11.INTRO.P.4
       - text: Similarly, if anyone competes as an athlete, he does not receive the
           victor’s crown unless he competes according to the rules. (2 Timothy 2:5)
         kind: quote
         cls: IST_Body-Block-Quote
+        UID: BIB116.CH11.INTRO.P.5
       - text: I have fought the good fight, I have finished the race, I have kept
           the faith. Now there is in store for me the crown of righteousness, which
           the Lord, the righteous Judge, will award to me on that day—and not only
           to me, but also to all who have longed for his appearing. (2 Timothy 4:7–8)
         kind: quote
         cls: IST_Body-Block-Quote
+        UID: BIB116.CH11.INTRO.P.6
       - text: Therefore, since we are surrounded by such a great cloud of witnesses,
           let us throw off everything that hinders and the sin that so easily entangles,
           and let us run with perseverance the race marked out for us. (Hebrews 12:1)
         kind: quote
         cls: IST_Body-Block-Quote
+        UID: BIB116.CH11.INTRO.P.7
       - text: The goal of the Christian life is to cross the finish line and win the
           crown of life. It is not enough to begin walking in the light of God. The
           Christian must continue walking in the light until the end. False teachers
@@ -163848,6 +163894,7 @@ courses:
           encourage us to keep running the race.
         kind: prose
         cls: IST_Chapter-Intro-Intro-Text
+        UID: BIB116.CH11.INTRO.P.8
       lessons:
       - last_modified: '2026-03-27'
         title: First John
@@ -179169,6 +179216,7 @@ courses:
           or print is true.
         kind: prose
         cls: IST_Chapter-Intro-Intro-Text
+        UID: BIB116.CH12.INTRO.P.1
       - text: The most important contest between truth and error centers on the topic
           of religion. In keeping with the current trend, more religious books are
           printed today than ever before, and more and more individuals are preaching,
@@ -179177,6 +179225,7 @@ courses:
           destroying themselves and others (2 Peter 3:16).
         kind: prose
         cls: IST_Chapter-Intro-Intro-Text
+        UID: BIB116.CH12.INTRO.P.2
       - text: Second Peter and Jude warn against false teachers and teach us that
           walking in truth means walking in holiness and righteousness. Many of those
           who try to find truth using only one or the other are led astray. Ultimately,
@@ -179185,6 +179234,7 @@ courses:
           our feet and a light for our paths (Psalm 119:105).
         kind: prose
         cls: IST_Chapter-Intro-Intro-Text
+        UID: BIB116.CH12.INTRO.P.3
       lessons:
       - last_modified: '2026-03-27'
         title: Second Peter
@@ -196807,6 +196857,7 @@ courses:
           in white conquered the one in black.
         kind: prose
         cls: IST_Chapter-Intro-Intro-Text
+        UID: BIB116.CH13.INTRO.P.1
       - text: 'At the end of the drama, the leader asked the children to explain the
           skit’s meaning. What did it teach them? Some said it showed the importance
           of wearing the armor of God. Others said it represented the need for truth
@@ -196814,6 +196865,7 @@ courses:
           statement: “It shows us that the man in white wins in the end.”'
         kind: prose
         cls: IST_Chapter-Intro-Intro-Text
+        UID: BIB116.CH13.INTRO.P.2
       - text: 'Despite all of the hard-to-understand details in the book of Revelation,
           this message stands out above everything else: In the end, Jesus wins! John
           saw Him returning as a conqueror on a white horse, followed by an army clothed
@@ -196823,6 +196875,7 @@ courses:
           that those who overcome evil will reign with Him.'
         kind: prose
         cls: IST_Chapter-Intro-Intro-Text
+        UID: BIB116.CH13.INTRO.P.3
       lessons:
       - last_modified: '2026-03-27'
         title: The Background of Revelation
