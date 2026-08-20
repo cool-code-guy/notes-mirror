@@ -5684,25 +5684,25 @@ courses:
             interactive_questions:
             - p: 1
               text: Briefly describe the Old Testament.
-              after_body_index: 18
-              UID: BIB111.1.1.1.IQ.1
               response: It is the first thirty-nine books of the Bible. The word testament
                 means “covenant, agreement, or will.”
+              after_body_index: 18
+              UID: BIB111.1.1.1.IQ.1
             - p: 2
               text: Explain what is meant by the term canon .
-              after_body_index: 42
-              UID: BIB111.1.1.1.IQ.2
               response: The word canon means “standard” and has come to mean “list.”
                 In the Old Testament, the canon is the list of books that meet the
                 standards for being in God’s Word.
+              after_body_index: 42
+              UID: BIB111.1.1.1.IQ.2
             - p: 3
               text: Why is it important to study the Old Testament?
-              after_body_index: 47
-              UID: BIB111.1.1.1.IQ.3
               response: 'Among the number of reasons are the following: the Old Testament
                 is 75 percent of the entire Bible; God has not changed since Old Testament
                 days, and we need to understand God better; and the Old Testament
                 is the seed and plant from which the fruit of the New Testament grew.'
+              after_body_index: 47
+              UID: BIB111.1.1.1.IQ.3
             - p: 4
               text: From memory, write the five major divisions of the Old Testament.
               response: The Law; History; Poetry and Wisdom; Major Prophets; and Minor
@@ -7028,25 +7028,25 @@ courses:
             interactive_questions:
             - p: 1
               text: Briefly describe the Old Testament.
-              after_body_index: 18
-              UID: BIB111.1.1.2.IQ.1
               response: It is the first thirty-nine books of the Bible. The word testament
                 means “covenant, agreement, or will.”
+              after_body_index: 18
+              UID: BIB111.1.1.2.IQ.1
             - p: 2
               text: Explain what is meant by the term canon .
-              after_body_index: 42
-              UID: BIB111.1.1.2.IQ.2
               response: The word canon means “standard” and has come to mean “list.”
                 In the Old Testament, the canon is the list of books that meet the
                 standards for being in God’s Word.
+              after_body_index: 42
+              UID: BIB111.1.1.2.IQ.2
             - p: 3
               text: Why is it important to study the Old Testament?
-              after_body_index: 47
-              UID: BIB111.1.1.2.IQ.3
               response: 'Among the number of reasons are the following: the Old Testament
                 is 75 percent of the entire Bible; God has not changed since Old Testament
                 days, and we need to understand God better; and the Old Testament
                 is the seed and plant from which the fruit of the New Testament grew.'
+              after_body_index: 47
+              UID: BIB111.1.1.2.IQ.3
             - p: 4
               text: From memory, write the five major divisions of the Old Testament.
               response: The Law; History; Poetry and Wisdom; Major Prophets; and Minor
@@ -8868,37 +8868,44 @@ courses:
             interactive_questions:
             - p: 4
               text: Why is Moses considered to have written the Pentateuch?
+              response: In general, the Bible and all of Jewish and Christian tradition
+                credit Moses as the author of the Pentateuch. However, many Christians
+                throughout history have acknowledged that parts of the Pentateuch
+                predate Moses (that is, oral tradition) and other parts were edited
+                after Moses’s death (that is, Deuteronomy 34:1–12).
               after_body_index: 12
               UID: BIB111.1.2.1.IQ.1
-              response: In general, the Bible and all of Jewish and Christian tradition
-                credit Moses as the author of the Pentateuch.
             - p: 5
               text: Explain three views about creation.
+              response: The gap theory allows for a time gap between the first two
+                verses of Genesis and says that God restored creation after the fall
+                of Satan. The step-by-step view is the preferred view. It states that
+                Genesis 1:1–2 describes the first step God took in creation. The literary
+                framework view believes the organization of the days in Genesis 1
+                to be topical and theological, not necessarily chronological or sequential.
               after_body_index: 58
               UID: BIB111.1.2.1.IQ.2.1
               source_uid: BIB111.1.2.1.IQ.2
             - p: 6
               text: Give an example of God’s judgment and of His mercy in the Garden.
-              after_body_index: 85
-              UID: BIB111.1.2.1.IQ.4
               response: God punished Adam and Eve for disobeying Him by driving them
                 out of the Garden. He showed them mercy by promising a Savior, the
                 hope for the future.
+              after_body_index: 85
+              UID: BIB111.1.2.1.IQ.4
             - p: 7
               text: Compare Cain’s family record with Seth’s descendants.
-              after_body_index: 85
-              UID: BIB111.1.2.1.IQ.5
               response: God is not mentioned in Cain’s family tree; the people depended
                 on themselves, not on God. Seth’s lineage included notable, godly
                 men.
+              after_body_index: 85
+              UID: BIB111.1.2.1.IQ.5
             - p: 8
               text: Why are the Fall and the Flood significant Old Testament events?
+              response: Both events show that sin and evil existed. In both events,
+                God’s judgment was tempered by His mercy and grace.
               after_body_index: 90
               UID: BIB111.1.2.1.IQ.7
-              response: Both events show that sin and evil existed, and because it
-                was constantly increasing, God was sorry that He had created people.
-                In both events, God’s judgment was tempered by His mercy and grace.
-                2 CHAPTER
             - p: 2
               text: Explain three views about Creation.
               response: The gap theory allows for a time gap between the first two
@@ -11846,37 +11853,44 @@ courses:
             interactive_questions:
             - p: 4
               text: Why is Moses considered to have written the Pentateuch?
+              response: In general, the Bible and all of Jewish and Christian tradition
+                credit Moses as the author of the Pentateuch. However, many Christians
+                throughout history have acknowledged that parts of the Pentateuch
+                predate Moses (that is, oral tradition) and other parts were edited
+                after Moses’s death (that is, Deuteronomy 34:1–12).
               after_body_index: 12
               UID: BIB111.1.2.2.IQ.1
-              response: In general, the Bible and all of Jewish and Christian tradition
-                credit Moses as the author of the Pentateuch.
             - p: 5
               text: Explain three views about creation.
+              response: The gap theory allows for a time gap between the first two
+                verses of Genesis and says that God restored creation after the fall
+                of Satan. The step-by-step view is the preferred view. It states that
+                Genesis 1:1–2 describes the first step God took in creation. The literary
+                framework view believes the organization of the days in Genesis 1
+                to be topical and theological, not necessarily chronological or sequential.
               after_body_index: 58
               UID: BIB111.1.2.2.IQ.2.1
               source_uid: BIB111.1.2.2.IQ.2
             - p: 6
               text: Give an example of God’s judgment and of His mercy in the Garden.
-              after_body_index: 85
-              UID: BIB111.1.2.2.IQ.4
               response: God punished Adam and Eve for disobeying Him by driving them
                 out of the Garden. He showed them mercy by promising a Savior, the
                 hope for the future.
+              after_body_index: 85
+              UID: BIB111.1.2.2.IQ.4
             - p: 7
               text: Compare Cain’s family record with Seth’s descendants.
-              after_body_index: 85
-              UID: BIB111.1.2.2.IQ.5
               response: God is not mentioned in Cain’s family tree; the people depended
                 on themselves, not on God. Seth’s lineage included notable, godly
                 men.
+              after_body_index: 85
+              UID: BIB111.1.2.2.IQ.5
             - p: 8
               text: Why are the Fall and the Flood significant Old Testament events?
+              response: Both events show that sin and evil existed. In both events,
+                God’s judgment was tempered by His mercy and grace.
               after_body_index: 90
               UID: BIB111.1.2.2.IQ.7
-              response: Both events show that sin and evil existed, and because it
-                was constantly increasing, God was sorry that He had created people.
-                In both events, God’s judgment was tempered by His mercy and grace.
-                2 CHAPTER
             - p: 2
               text: Explain three views about Creation.
               response: The gap theory allows for a time gap between the first two
@@ -14793,37 +14807,44 @@ courses:
             interactive_questions:
             - p: 4
               text: Why is Moses considered to have written the Pentateuch?
+              response: In general, the Bible and all of Jewish and Christian tradition
+                credit Moses as the author of the Pentateuch. However, many Christians
+                throughout history have acknowledged that parts of the Pentateuch
+                predate Moses (that is, oral tradition) and other parts were edited
+                after Moses’s death (that is, Deuteronomy 34:1–12).
               after_body_index: 12
               UID: BIB111.1.2.3.IQ.1
-              response: In general, the Bible and all of Jewish and Christian tradition
-                credit Moses as the author of the Pentateuch.
             - p: 5
               text: Explain three views about creation.
+              response: The gap theory allows for a time gap between the first two
+                verses of Genesis and says that God restored creation after the fall
+                of Satan. The step-by-step view is the preferred view. It states that
+                Genesis 1:1–2 describes the first step God took in creation. The literary
+                framework view believes the organization of the days in Genesis 1
+                to be topical and theological, not necessarily chronological or sequential.
               after_body_index: 58
               UID: BIB111.1.2.3.IQ.2.1
               source_uid: BIB111.1.2.3.IQ.2
             - p: 6
               text: Give an example of God’s judgment and of His mercy in the Garden.
-              after_body_index: 85
-              UID: BIB111.1.2.3.IQ.4
               response: God punished Adam and Eve for disobeying Him by driving them
                 out of the Garden. He showed them mercy by promising a Savior, the
                 hope for the future.
+              after_body_index: 85
+              UID: BIB111.1.2.3.IQ.4
             - p: 7
               text: Compare Cain’s family record with Seth’s descendants.
-              after_body_index: 85
-              UID: BIB111.1.2.3.IQ.5
               response: God is not mentioned in Cain’s family tree; the people depended
                 on themselves, not on God. Seth’s lineage included notable, godly
                 men.
+              after_body_index: 85
+              UID: BIB111.1.2.3.IQ.5
             - p: 8
               text: Why are the Fall and the Flood significant Old Testament events?
+              response: Both events show that sin and evil existed. In both events,
+                God’s judgment was tempered by His mercy and grace.
               after_body_index: 90
               UID: BIB111.1.2.3.IQ.7
-              response: Both events show that sin and evil existed, and because it
-                was constantly increasing, God was sorry that He had created people.
-                In both events, God’s judgment was tempered by His mercy and grace.
-                2 CHAPTER
             - p: 2
               text: Explain three views about Creation.
               response: The gap theory allows for a time gap between the first two
@@ -17271,17 +17292,28 @@ courses:
             interactive_questions:
             - p: 1
               text: Describe Abraham’s strengths and weaknessess.
+              response: Abraham’s great faith was his strength, but when he lost faith
+                in God’s protection and became fearful, he took matters into his own
+                hands. Abraham believed God’s promise that he would become the father
+                of many nations (his strength) but then lied again and demonstrated
+                his spiritual weakness.
               after_body_index: 62
               UID: BIB111.2.1.1.IQ.1.1
               source_uid: BIB111.2.1.1.IQ.1
             - p: 2
               text: What was God’s purpose in asking Abraham to sacrifice Isaac?
-              after_body_index: 83
-              UID: BIB111.2.1.1.IQ.3
               response: To test Abraham’s ultimate faith in God. Such a sacrifice
                 required radical obedience.
+              after_body_index: 83
+              UID: BIB111.2.1.1.IQ.3
             - p: 3
               text: How does Genesis 22 anticipate the gospel of Jesus?
+              response: The Christian tradition has always seen a significant parallel
+                between this story and the sacrificial death of Jesus on the cross.
+                Just as Isaac was Abraham’s only son of promise, Jesus is God’s only
+                Son. Unlike Isaac, however, Jesus became the perfect sacrifice who
+                takes away the sins of the world. Like Abraham, we trust that God
+                has provided the sacrifice necessary for our salvation.
               after_body_index: 83
               UID: BIB111.2.1.1.IQ.6
             - p: 1
@@ -18883,17 +18915,28 @@ courses:
             interactive_questions:
             - p: 1
               text: Describe Abraham’s strengths and weaknessess.
+              response: Abraham’s great faith was his strength, but when he lost faith
+                in God’s protection and became fearful, he took matters into his own
+                hands. Abraham believed God’s promise that he would become the father
+                of many nations (his strength) but then lied again and demonstrated
+                his spiritual weakness.
               after_body_index: 62
               UID: BIB111.2.1.2.IQ.1.1
               source_uid: BIB111.2.1.2.IQ.1
             - p: 2
               text: What was God’s purpose in asking Abraham to sacrifice Isaac?
-              after_body_index: 83
-              UID: BIB111.2.1.2.IQ.3
               response: To test Abraham’s ultimate faith in God. Such a sacrifice
                 required radical obedience.
+              after_body_index: 83
+              UID: BIB111.2.1.2.IQ.3
             - p: 3
               text: How does Genesis 22 anticipate the gospel of Jesus?
+              response: The Christian tradition has always seen a significant parallel
+                between this story and the sacrificial death of Jesus on the cross.
+                Just as Isaac was Abraham’s only son of promise, Jesus is God’s only
+                Son. Unlike Isaac, however, Jesus became the perfect sacrifice who
+                takes away the sins of the world. Like Abraham, we trust that God
+                has provided the sacrifice necessary for our salvation.
               after_body_index: 83
               UID: BIB111.2.1.2.IQ.6
             - p: 1
@@ -20488,20 +20531,20 @@ courses:
             - p: 4
               text: What were the four characters in this narrative guilty of? What
                 did it prove about God?
-              after_body_index: 7
-              UID: BIB111.2.3.1.IQ.2
               response: Esau was guilty of reckless marriages, Isaac of excessive
                 favoritism, Rebekah of calculated brazen plotting, and Jacob of deceitful
                 exploitation. God accomplished His purposes, and His grace endured
                 in spite of each character’s mistakes.
+              after_body_index: 7
+              UID: BIB111.2.3.1.IQ.2
             - p: 5
               text: Describe the consequences of sibling rivalry in this biblical
                 account.
+              response: Jacob manipulated Esau’s hunger to get his birthright, he
+                deceived his blind father, and Esau was so angry at losing the birthright
+                that Jacob had to flee for his life.
               after_body_index: 34
               UID: BIB111.2.3.1.IQ.1
-              response: Jacob manipulated Esau’s hunger to get his birthright; he
-                deceived his blind father; and Esau was so angry at losing the birthright
-                that Jacob had to flee for his life.
             citations:
             - citekey: stallman2003
               pandoc: '[@stallman2003, 206]'
@@ -21156,20 +21199,20 @@ courses:
             - p: 4
               text: What were the four characters in this narrative guilty of? What
                 did it prove about God?
-              after_body_index: 7
-              UID: BIB111.2.3.2.IQ.2
               response: Esau was guilty of reckless marriages, Isaac of excessive
                 favoritism, Rebekah of calculated brazen plotting, and Jacob of deceitful
                 exploitation. God accomplished His purposes, and His grace endured
                 in spite of each character’s mistakes.
+              after_body_index: 7
+              UID: BIB111.2.3.2.IQ.2
             - p: 5
               text: Describe the consequences of sibling rivalry in this biblical
                 account.
+              response: Jacob manipulated Esau’s hunger to get his birthright, he
+                deceived his blind father, and Esau was so angry at losing the birthright
+                that Jacob had to flee for his life.
               after_body_index: 34
               UID: BIB111.2.3.2.IQ.1
-              response: Jacob manipulated Esau’s hunger to get his birthright; he
-                deceived his blind father; and Esau was so angry at losing the birthright
-                that Jacob had to flee for his life.
             citations:
             - citekey: stallman2003
               pandoc: '[@stallman2003, 206]'
@@ -21974,8 +22017,6 @@ courses:
             - p: 6
               text: Give examples of God’s sovereignty, grace, and mercy in Joseph’s
                 life story.
-              after_body_index: 49
-              UID: BIB111.2.4.1.IQ.1
               response: 'Among the many examples are these: (1) Instead of carrying
                 out their plot to kill him, Joseph’s brothers threw him into a pit
                 and sold him to a caravan of traders. (2) When Joseph was falsely
@@ -21983,11 +22024,11 @@ courses:
                 to help him. (3) From his interpretations of dreams in prison, Joseph
                 was brought forward to interpret Pharaoh’s dreams. Pharaoh recognized
                 Joseph’s gift of wisdom and appointed him to be a great ruler.'
+              after_body_index: 49
+              UID: BIB111.2.4.1.IQ.1
             - p: 7
               text: Compare and contrast the actions of Joseph with the actions of
                 his brothers.
-              after_body_index: 49
-              UID: BIB111.2.4.1.IQ.2
               response: Joseph was impetuous and unwisely shared his dreams with his
                 brothers. The brothers were extremely jealous of Joseph (their father’s
                 favorite son), hated him, and planned to kill him. Joseph performed
@@ -21995,7 +22036,9 @@ courses:
                 house. He was a wise ruler under Pharaoh. He was shrewd and verified
                 his brothers’ trustworthiness before he revealed himself to them.
                 His brothers finally showed trustworthiness in their loyalty to the
-                family. 3 CHAPTER
+                family.
+              after_body_index: 49
+              UID: BIB111.2.4.1.IQ.2
             citations:
             - citekey: arnold1998
               pandoc: '[@arnold1998, 216]'
@@ -22831,8 +22874,6 @@ courses:
             - p: 6
               text: Give examples of God’s sovereignty, grace, and mercy in Joseph’s
                 life story.
-              after_body_index: 49
-              UID: BIB111.2.4.2.IQ.1
               response: 'Among the many examples are these: (1) Instead of carrying
                 out their plot to kill him, Joseph’s brothers threw him into a pit
                 and sold him to a caravan of traders. (2) When Joseph was falsely
@@ -22840,11 +22881,11 @@ courses:
                 to help him. (3) From his interpretations of dreams in prison, Joseph
                 was brought forward to interpret Pharaoh’s dreams. Pharaoh recognized
                 Joseph’s gift of wisdom and appointed him to be a great ruler.'
+              after_body_index: 49
+              UID: BIB111.2.4.2.IQ.1
             - p: 7
               text: Compare and contrast the actions of Joseph with the actions of
                 his brothers.
-              after_body_index: 49
-              UID: BIB111.2.4.2.IQ.2
               response: Joseph was impetuous and unwisely shared his dreams with his
                 brothers. The brothers were extremely jealous of Joseph (their father’s
                 favorite son), hated him, and planned to kill him. Joseph performed
@@ -22852,7 +22893,9 @@ courses:
                 house. He was a wise ruler under Pharaoh. He was shrewd and verified
                 his brothers’ trustworthiness before he revealed himself to them.
                 His brothers finally showed trustworthiness in their loyalty to the
-                family. 3 CHAPTER
+                family.
+              after_body_index: 49
+              UID: BIB111.2.4.2.IQ.2
             citations:
             - citekey: arnold1998
               pandoc: '[@arnold1998, 216]'
@@ -23677,8 +23720,6 @@ courses:
             - p: 6
               text: Give examples of God’s sovereignty, grace, and mercy in Joseph’s
                 life story.
-              after_body_index: 49
-              UID: BIB111.2.4.3.IQ.1
               response: 'Among the many examples are these: (1) Instead of carrying
                 out their plot to kill him, Joseph’s brothers threw him into a pit
                 and sold him to a caravan of traders. (2) When Joseph was falsely
@@ -23686,11 +23727,11 @@ courses:
                 to help him. (3) From his interpretations of dreams in prison, Joseph
                 was brought forward to interpret Pharaoh’s dreams. Pharaoh recognized
                 Joseph’s gift of wisdom and appointed him to be a great ruler.'
+              after_body_index: 49
+              UID: BIB111.2.4.3.IQ.1
             - p: 7
               text: Compare and contrast the actions of Joseph with the actions of
                 his brothers.
-              after_body_index: 49
-              UID: BIB111.2.4.3.IQ.2
               response: Joseph was impetuous and unwisely shared his dreams with his
                 brothers. The brothers were extremely jealous of Joseph (their father’s
                 favorite son), hated him, and planned to kill him. Joseph performed
@@ -23698,7 +23739,9 @@ courses:
                 house. He was a wise ruler under Pharaoh. He was shrewd and verified
                 his brothers’ trustworthiness before he revealed himself to them.
                 His brothers finally showed trustworthiness in their loyalty to the
-                family. 3 CHAPTER
+                family.
+              after_body_index: 49
+              UID: BIB111.2.4.3.IQ.2
             citations:
             - citekey: arnold1998
               pandoc: '[@arnold1998, 216]'
@@ -24688,25 +24731,26 @@ courses:
             interactive_questions:
             - p: 1
               text: What are the major themes of Exodus?
+              response: God’s judgment of Egypt and deliverance of Israel, God’s guidance
+                of Israel to Mount Sinai, and God’s establishment of the covenant.
               after_body_index: 9
               UID: BIB111.3.1.1.IQ.1
-              response: Deliverance, covenant, and divine mystery
             - p: 2
               text: Explain the difference between God’s covenant with Abraham and
                 His covenant with Israel.
-              after_body_index: 48
-              UID: BIB111.3.1.1.IQ.2
               response: God’s covenant with Abraham made Israel the people of the
                 Lord. His covenant with Israel gave Israel the opportunity to be the
                 channel through which God would transmit and communicate His redemptive
                 program to the entire world.
+              after_body_index: 48
+              UID: BIB111.3.1.1.IQ.2
             - p: 3
               text: What was the purpose of the Ten Commandments?
-              after_body_index: 55
-              UID: BIB111.3.1.1.IQ.3
               response: The commandments were given to protect both the individual
                 and the nation. The purpose was to prevent injustices and unfair treatment
                 of other people.
+              after_body_index: 55
+              UID: BIB111.3.1.1.IQ.3
             citations:
             - citekey: arnold1999
               pandoc: '[@arnold1999, 104–105]'
@@ -26374,8 +26418,6 @@ courses:
             - p: 4
               text: Name the five types of offerings from memory, and then explain
                 each one’s purpose.
-              after_body_index: 40
-              UID: BIB111.3.2.1.IQ.1
               response: The burnt offering was to atone for unintentional sins and
                 to show complete surrender to God. The grain offering was thanks and
                 praise to God for His goodness and provisions, never offered alone.
@@ -26383,21 +26425,23 @@ courses:
                 The sin offering was required for certain unintentional sins and offered
                 forgiveness and cleansing. The guilt offering was required for unintentional
                 sins and required restitution, necessary to restore relationships.
+              after_body_index: 40
+              UID: BIB111.3.2.1.IQ.1
             - p: 5
               text: What were the priests’ duties?
-              after_body_index: 43
-              UID: BIB111.3.2.1.IQ.2
               response: The priests represented the people before God and taught them
                 God’s laws and principles. The priests were also custodians of the
                 tabernacle. Their ministry differed significantly from the priests
                 of other religions and cultures of peoples who lived near Israel (Numbers
                 3:5–10).
+              after_body_index: 43
+              UID: BIB111.3.2.1.IQ.2
             - p: 6
               text: Why did the Israelites have special feasts and holy days?
-              after_body_index: 84
-              UID: BIB111.3.2.1.IQ.3
               response: To remind them that they were God’s holy people. The Law told
                 them what to do on each occasion.
+              after_body_index: 84
+              UID: BIB111.3.2.1.IQ.3
             - p: 4
               text: Describe the outline of Numbers.
               response: 'At Sinai: God prepares Israel to inherit Canaan. At Kadesh:
@@ -27212,27 +27256,30 @@ courses:
             interactive_questions:
             - p: 7
               text: Describe the outline of Numbers.
+              response: 'At Sinai: God prepares Israel to inherit Canaan. At Kadesh:
+                The people forfeit their inheritance. At Moab: God prepares a new
+                generation to possess Canaan.'
               after_body_index: 21
               UID: BIB111.3.3.1.IQ.4
             - p: 8
               text: What did God prepare Israel for at Sinai?
-              after_body_index: 31
-              UID: BIB111.3.3.1.IQ.1
               response: He prepared Israel with everything they would need to inherit
                 Canaan.
+              after_body_index: 31
+              UID: BIB111.3.3.1.IQ.1
             - p: 9
               text: The Israelites’ time in Kadesh can be divided into what four parts?
-              after_body_index: 46
-              UID: BIB111.3.3.1.IQ.2
               response: (1) Complaints and an outpouring of the Spirit; (2) rebellion
                 with ten spies at Kadesh; (3) thirty-eight years of wandering; (4)
-                from Kadesh to the Plains of Moab
+                from Kadesh to the Plains of Moab.
+              after_body_index: 46
+              UID: BIB111.3.3.1.IQ.2
             - p: 10
               text: Describe the purpose for the six cities of refuge.
-              after_body_index: 50
-              UID: BIB111.3.3.1.IQ.3
               response: They were places of safety. If an Israelite accidentally killed
                 another, he or she could run to a city of refuge to live.
+              after_body_index: 50
+              UID: BIB111.3.3.1.IQ.3
             citations:
             - citekey: hill2023
               pandoc: '[@hill2023, 94]'
@@ -27834,18 +27881,20 @@ courses:
             interactive_questions:
             - p: 11
               text: What was the purpose of Moses’s first message?
-              after_body_index: 17
-              UID: BIB111.3.4.1.IQ.1
               response: Moses’s first speech reviewed Israel’s history, emphasizing
                 both positive and negative.
+              after_body_index: 17
+              UID: BIB111.3.4.1.IQ.1
             - p: 12
               text: What would you title Moses’s third message?
+              response: Blessings and Curses
               after_body_index: 27
               UID: BIB111.3.4.1.IQ.2
-              response: Blessings and Curses
             - p: 13
               text: How does the conclusion of Deuteronomy anticipate the next books
                 of the Bible?
+              response: Moses could see the land Israel was about to enter, although
+                he himself would not enter the Promised Land.
               after_body_index: 31
               UID: BIB111.3.4.1.IQ.4
             - p: 3
@@ -28778,50 +28827,50 @@ courses:
             interactive_questions:
             - p: 1
               text: What were the physical and religious conditions in Canaan?
+              response: The Israelites incorporated gods from neighboring polytheistic
+                people groups into their faith. But some of their religious practices
+                were extremely violent (for example, child sacrifice). God did not
+                want the Israelites to incorporate Canaanite religious practices into
+                their faith. Thus, the war between Israel and Canaan was God’s tool
+                of judgment on the Canaanites.
               after_body_index: 10
               UID: BIB111.4.1.1.IQ.2
-              response: A Canaanite city was often built on a hill and had a tall,
-                thick wall around it to help make the city secure. The cruel, evil
-                nature of the many gods the Canaanites worshipped was reflected in
-                the religious customs. Archaeologists believe that they sacrificed
-                their children, consorted with religious prostitutes, and worshipped
-                snakes.
             - p: 2
               text: Explain why Joshua was an excellent choice for leadership in conquering
                 Canaan.
-              after_body_index: 13
-              UID: BIB111.4.1.1.IQ.3
               response: Joshua was a former slave, well-trained leader, and witness
                 to the miracles with which God delivered Israel. As Moses’s aide,
                 Joshua participated in several key developments in the Exodus. Before
                 Moses died, he laid his hands on Joshua, who received God’s Spirit,
                 enabling and empowering him to lead Israel.
+              after_body_index: 13
+              UID: BIB111.4.1.1.IQ.3
             - p: 3
               text: Describe the miracle of entering Canaan as told in Joshua 4.
-              after_body_index: 35
-              UID: BIB111.4.1.1.IQ.4
               response: God rolled back the waters of the Jordan River, enabling the
                 Israelites to cross in safety.
+              after_body_index: 35
+              UID: BIB111.4.1.1.IQ.4
             - p: 4
               text: How was Joshua’s military strategy described?
-              after_body_index: 43
-              UID: BIB111.4.1.1.IQ.6
               response: “Divide and conquer.” His armies drove a wedge between the
                 Amorites to the south and the Canaanites to the north.
+              after_body_index: 43
+              UID: BIB111.4.1.1.IQ.6
             - p: 5
               text: What famous biblical story is told in Joshua 6?
-              after_body_index: 43
-              UID: BIB111.4.1.1.IQ.7
               response: Joshua’s army defeated Jericho through the unusual means of
                 marching around the city and blowing trumpets.
+              after_body_index: 43
+              UID: BIB111.4.1.1.IQ.7
             - p: 6
               text: Describe briefly the topic and main occurrences of Joshua 22–24.
+              response: Israel enjoyed a time of peace and commitment to God. Before
+                Joshua died, he called all Israel together, renewed the covenant,
+                and reminded them that God had called Abraham out of idolatry and
+                warned them to always fear and obey God.
               after_body_index: 47
               UID: BIB111.4.1.1.IQ.8
-              response: Israel enjoyed a time of peace and commitment to God. Before
-                Joshua died, he called all Israel together, reminding them that God
-                had called Abraham out of idolatry and warning them to always fear
-                and obey God.
             - p: 1
               text: Describe the main theme and purpose for the book of Joshua.
               response: The theme and purpose of Joshua is to demonstrate that God
@@ -29836,50 +29885,50 @@ courses:
             interactive_questions:
             - p: 1
               text: What were the physical and religious conditions in Canaan?
+              response: The Israelites incorporated gods from neighboring polytheistic
+                people groups into their faith. But some of their religious practices
+                were extremely violent (for example, child sacrifice). God did not
+                want the Israelites to incorporate Canaanite religious practices into
+                their faith. Thus, the war between Israel and Canaan was God’s tool
+                of judgment on the Canaanites.
               after_body_index: 10
               UID: BIB111.4.1.2.IQ.2
-              response: A Canaanite city was often built on a hill and had a tall,
-                thick wall around it to help make the city secure. The cruel, evil
-                nature of the many gods the Canaanites worshipped was reflected in
-                the religious customs. Archaeologists believe that they sacrificed
-                their children, consorted with religious prostitutes, and worshipped
-                snakes.
             - p: 2
               text: Explain why Joshua was an excellent choice for leadership in conquering
                 Canaan.
-              after_body_index: 13
-              UID: BIB111.4.1.2.IQ.3
               response: Joshua was a former slave, well-trained leader, and witness
                 to the miracles with which God delivered Israel. As Moses’s aide,
                 Joshua participated in several key developments in the Exodus. Before
                 Moses died, he laid his hands on Joshua, who received God’s Spirit,
                 enabling and empowering him to lead Israel.
+              after_body_index: 13
+              UID: BIB111.4.1.2.IQ.3
             - p: 3
               text: Describe the miracle of entering Canaan as told in Joshua 4.
-              after_body_index: 35
-              UID: BIB111.4.1.2.IQ.4
               response: God rolled back the waters of the Jordan River, enabling the
                 Israelites to cross in safety.
+              after_body_index: 35
+              UID: BIB111.4.1.2.IQ.4
             - p: 4
               text: How was Joshua’s military strategy described?
-              after_body_index: 43
-              UID: BIB111.4.1.2.IQ.6
               response: “Divide and conquer.” His armies drove a wedge between the
                 Amorites to the south and the Canaanites to the north.
+              after_body_index: 43
+              UID: BIB111.4.1.2.IQ.6
             - p: 5
               text: What famous biblical story is told in Joshua 6?
-              after_body_index: 43
-              UID: BIB111.4.1.2.IQ.7
               response: Joshua’s army defeated Jericho through the unusual means of
                 marching around the city and blowing trumpets.
+              after_body_index: 43
+              UID: BIB111.4.1.2.IQ.7
             - p: 6
               text: Describe briefly the topic and main occurrences of Joshua 22–24.
+              response: Israel enjoyed a time of peace and commitment to God. Before
+                Joshua died, he called all Israel together, renewed the covenant,
+                and reminded them that God had called Abraham out of idolatry and
+                warned them to always fear and obey God.
               after_body_index: 47
               UID: BIB111.4.1.2.IQ.8
-              response: Israel enjoyed a time of peace and commitment to God. Before
-                Joshua died, he called all Israel together, reminding them that God
-                had called Abraham out of idolatry and warning them to always fear
-                and obey God.
             - p: 1
               text: Describe the main theme and purpose for the book of Joshua.
               response: The theme and purpose of Joshua is to demonstrate that God
@@ -31224,21 +31273,21 @@ courses:
             interactive_questions:
             - p: 7
               text: What was Israel’s cycle of failure during the time of the judges?
-              after_body_index: 24
-              UID: BIB111.4.2.1.IQ.1
               response: Israel refused to obey God and became enamored with idols
                 and immorality. God sent other nations to conquer them. After some
                 years of slavery, Israel cried out for deliverance, and God sent deliverers.
                 They returned to God and worshipped Him, but eventually returned to
                 idolatry and sin, again setting the cycle in motion.
+              after_body_index: 24
+              UID: BIB111.4.2.1.IQ.1
             - p: 8
               text: Who was Abimelech, and what sets him apart from the other judges?
-              after_body_index: 66
-              UID: BIB111.4.2.1.IQ.2
               response: Abimelech was the opposite of the type of judge God usually
                 appointed. Unlike the six major judges, he did not deliver Israel
                 from any enemies, and unlike the six minor judges, there is an entire
                 chapter about him.
+              after_body_index: 66
+              UID: BIB111.4.2.1.IQ.2
             citations:
             - citekey: dyer2001
               pandoc: '[@dyer2001, 185]'
@@ -32522,21 +32571,21 @@ courses:
             interactive_questions:
             - p: 7
               text: What was Israel’s cycle of failure during the time of the judges?
-              after_body_index: 24
-              UID: BIB111.4.2.2.IQ.1
               response: Israel refused to obey God and became enamored with idols
                 and immorality. God sent other nations to conquer them. After some
                 years of slavery, Israel cried out for deliverance, and God sent deliverers.
                 They returned to God and worshipped Him, but eventually returned to
                 idolatry and sin, again setting the cycle in motion.
+              after_body_index: 24
+              UID: BIB111.4.2.2.IQ.1
             - p: 8
               text: Who was Abimelech, and what sets him apart from the other judges?
-              after_body_index: 66
-              UID: BIB111.4.2.2.IQ.2
               response: Abimelech was the opposite of the type of judge God usually
                 appointed. Unlike the six major judges, he did not deliver Israel
                 from any enemies, and unlike the six minor judges, there is an entire
                 chapter about him.
+              after_body_index: 66
+              UID: BIB111.4.2.2.IQ.2
             citations:
             - citekey: dyer2001
               pandoc: '[@dyer2001, 185]'
@@ -33089,11 +33138,11 @@ courses:
             - p: 9
               text: What is the importance of the story of Ruth, and how does it apply
                 to us?
-              after_body_index: 14
-              UID: BIB111.4.3.1.IQ.1
               response: The story of Ruth reveals that God is the sovereign King over
                 all and extends His mercy to all, specifically to those who experience
                 great suffering—a great application for believers today.
+              after_body_index: 14
+              UID: BIB111.4.3.1.IQ.1
             - p: 2
               text: What does 1 Samuel record, and over what period of time?
               response: First Samuel describes Israel’s transition from judges to
@@ -33972,23 +34021,33 @@ courses:
             interactive_questions:
             - p: 10
               text: Explain the title of 1 Samuel.
+              response: Although the Babylonian Talmud attributes authorship to Samuel,
+                his death is mentioned twice before the end of the first book. Most
+                likely, his prominence in 1 Samuel was considered reasonable evidence
+                for the title of both books.
               after_body_index: 4
               UID: BIB111.4.4.1.IQ.5
             - p: 11
               text: How does Scripture treat Samuel, and what were some of his accomplishments?
-              after_body_index: 37
-              UID: BIB111.4.4.1.IQ.1
               response: Scripture commends Samuel for acting in a godly manner. Samuel
                 taught, offered sacrifices, and cleansed the land from idols.
+              after_body_index: 37
+              UID: BIB111.4.4.1.IQ.1
             - p: 12
               text: What is the one characteristic that applied only to the reigns
                 of Saul and David?
-              after_body_index: 41
-              UID: BIB111.4.4.1.IQ.2
               response: Only in the stories of Saul and David are we told that the
                 Spirit came upon them during their anointing.
+              after_body_index: 41
+              UID: BIB111.4.4.1.IQ.2
             - p: 13
               text: What two theological emphases are found in 1 Samuel?
+              response: (1) The book highlights the danger of rejecting God’s leadership.
+                The Israelites did not simply reject Samuel or a tribal style of government.
+                They rejected God as their king and reaped the consequences. (2) God
+                desires obedience over ritual performance. Saul’s errors reveal that
+                our heart’s posture toward God is critical. We must humbly submit
+                to the Lord’s leading and surrender to His will for our lives.
               after_body_index: 48
               UID: BIB111.4.4.1.IQ.4.1
               source_uid: BIB111.4.4.1.IQ.4
@@ -34795,23 +34854,33 @@ courses:
             interactive_questions:
             - p: 10
               text: Explain the title of 1 Samuel.
+              response: Although the Babylonian Talmud attributes authorship to Samuel,
+                his death is mentioned twice before the end of the first book. Most
+                likely, his prominence in 1 Samuel was considered reasonable evidence
+                for the title of both books.
               after_body_index: 4
               UID: BIB111.4.4.2.IQ.5
             - p: 11
               text: How does Scripture treat Samuel, and what were some of his accomplishments?
-              after_body_index: 37
-              UID: BIB111.4.4.2.IQ.1
               response: Scripture commends Samuel for acting in a godly manner. Samuel
                 taught, offered sacrifices, and cleansed the land from idols.
+              after_body_index: 37
+              UID: BIB111.4.4.2.IQ.1
             - p: 12
               text: What is the one characteristic that applied only to the reigns
                 of Saul and David?
-              after_body_index: 41
-              UID: BIB111.4.4.2.IQ.2
               response: Only in the stories of Saul and David are we told that the
                 Spirit came upon them during their anointing.
+              after_body_index: 41
+              UID: BIB111.4.4.2.IQ.2
             - p: 13
               text: What two theological emphases are found in 1 Samuel?
+              response: (1) The book highlights the danger of rejecting God’s leadership.
+                The Israelites did not simply reject Samuel or a tribal style of government.
+                They rejected God as their king and reaped the consequences. (2) God
+                desires obedience over ritual performance. Saul’s errors reveal that
+                our heart’s posture toward God is critical. We must humbly submit
+                to the Lord’s leading and surrender to His will for our lives.
               after_body_index: 48
               UID: BIB111.4.4.2.IQ.4.1
               source_uid: BIB111.4.4.2.IQ.4
@@ -36790,34 +36859,34 @@ courses:
             interactive_questions:
             - p: 1
               text: Describe some examples of David’s political successes.
-              after_body_index: 109
-              UID: BIB111.5.1.1.IQ.1
               response: King David took Jerusalem back from the Jebusites. It became
                 the place of authority for all Israel, and David organized the nation
                 from Jerusalem (often called Zion).
+              after_body_index: 109
+              UID: BIB111.5.1.1.IQ.1
             - p: 2
               text: Why was King David not allowed to build God’s temple?
-              after_body_index: 114
-              UID: BIB111.5.1.1.IQ.2
               response: The prophet Nathan revealed that David’s son would build the
                 temple since David was a warring king and his son Solomon would be
                 a man of peace.
+              after_body_index: 114
+              UID: BIB111.5.1.1.IQ.2
             - p: 3
               text: What did David do militarily to make Israel the dominant power
                 in western Asia?
-              after_body_index: 118
-              UID: BIB111.5.1.1.IQ.3
               response: King David conquered Edom and acquired iron and copper. He
                 conquered the Moabites and Amalekites, taking gold and silver from
                 them. He defeated Syria and Ammon. He liberated Israel from Philistine
                 oppression and made their territories and people subject to his rule.
+              after_body_index: 118
+              UID: BIB111.5.1.1.IQ.3
             - p: 4
               text: How did David’s sin affect his family and the nation of Israel?
-              after_body_index: 125
-              UID: BIB111.5.1.1.IQ.5
               response: David’s personal sin cost the lives of people, his lack of
                 firm discipline contributed to bloodshed in his own family, and his
                 pride brought a plague against the nation.
+              after_body_index: 125
+              UID: BIB111.5.1.1.IQ.5
             - p: 4
               text: What had happened in David’s life that might have contributed
                 to his sin with Bathsheba?
@@ -39100,34 +39169,34 @@ courses:
             interactive_questions:
             - p: 1
               text: Describe some examples of David’s political successes.
-              after_body_index: 109
-              UID: BIB111.5.1.2.IQ.1
               response: King David took Jerusalem back from the Jebusites. It became
                 the place of authority for all Israel, and David organized the nation
                 from Jerusalem (often called Zion).
+              after_body_index: 109
+              UID: BIB111.5.1.2.IQ.1
             - p: 2
               text: Why was King David not allowed to build God’s temple?
-              after_body_index: 114
-              UID: BIB111.5.1.2.IQ.2
               response: The prophet Nathan revealed that David’s son would build the
                 temple since David was a warring king and his son Solomon would be
                 a man of peace.
+              after_body_index: 114
+              UID: BIB111.5.1.2.IQ.2
             - p: 3
               text: What did David do militarily to make Israel the dominant power
                 in western Asia?
-              after_body_index: 118
-              UID: BIB111.5.1.2.IQ.3
               response: King David conquered Edom and acquired iron and copper. He
                 conquered the Moabites and Amalekites, taking gold and silver from
                 them. He defeated Syria and Ammon. He liberated Israel from Philistine
                 oppression and made their territories and people subject to his rule.
+              after_body_index: 118
+              UID: BIB111.5.1.2.IQ.3
             - p: 4
               text: How did David’s sin affect his family and the nation of Israel?
-              after_body_index: 125
-              UID: BIB111.5.1.2.IQ.5
               response: David’s personal sin cost the lives of people, his lack of
                 firm discipline contributed to bloodshed in his own family, and his
                 pride brought a plague against the nation.
+              after_body_index: 125
+              UID: BIB111.5.1.2.IQ.5
             - p: 4
               text: What had happened in David’s life that might have contributed
                 to his sin with Bathsheba?
@@ -40715,40 +40784,46 @@ courses:
             - p: 5
               text: What kind of heritage did King David leave Solomon with, and how
                 did Solomon enlarge on it?
+              response: While much of Solomon’s rule can be characterized by peace
+                and security, the legacy he inherited from King David was complicated.
+                In his final message to his son, David encouraged Solomon to obey
+                the law of the Lord even as he implored him to exact revenge on David’s
+                enemies. Thus, Solomon’s reign started with a mixture of faithfulness
+                and murder. Even though Solomon proved to be a complicated ruler,
+                he made some great decisions early in his reign. Solomon used his
+                wisdom to build the temple, lead the people, and command the respect
+                of other nations. Unfortunately, Solomon’s wisdom did not prevent
+                him from making catastrophic mistakes throughout his reign, especially
+                at the end.
               after_body_index: 62
               UID: BIB111.5.2.1.IQ.1
-              response: David left Solomon the heritage of a kingdom that was united,
-                had expanded borders, and was respected by other nations. Solomon
-                increased the kingdom further, divided it into twelve districts for
-                supplying the government, and added greatly to the number and military
-                strength of Israel’s army.
             - p: 6
               text: What were some of Solomon’s building programs?
-              after_body_index: 67
-              UID: BIB111.5.2.1.IQ.2
               response: The most important was the temple, with its dedication being
                 one of the most significant events in Israel’s history since they
                 left Mount Sinai. He also built a palace for himself.
+              after_body_index: 67
+              UID: BIB111.5.2.1.IQ.2
             - p: 7
               text: What did Solomon do to increase Israel’s power in business and
                 trade?
-              after_body_index: 70
-              UID: BIB111.5.2.1.IQ.3
               response: King Solomon built ships to carry Israel’s copper and iron
                 to other nations where he traded for gold, silver, and ivory. He also
                 gained wealth by trading spices with other countries. He obtained
                 horses and chariots from the Hittites to increase his military strength,
                 and his army enabled him to control trade in the entire region.
+              after_body_index: 70
+              UID: BIB111.5.2.1.IQ.3
             - p: 8
               text: What was Solomon’s disobedience, and what was God’s judgment as
                 a result?
-              after_body_index: 75
-              UID: BIB111.5.2.1.IQ.4
               response: King Solomon confirmed treaties and sealed alliances with
                 other kings by marrying the kings’ daughters. The foreign wives brought
                 religious apostasy into the royal court and began the worshipping
                 of other gods. After Solomon’s death, God would divide the kingdom
                 because of Solomon’s disobedience.
+              after_body_index: 75
+              UID: BIB111.5.2.1.IQ.4
             citations:
             - citekey: arnold1999
               pandoc: '[@arnold1999, 227]'
@@ -42167,40 +42242,46 @@ courses:
             - p: 5
               text: What kind of heritage did King David leave Solomon with, and how
                 did Solomon enlarge on it?
+              response: While much of Solomon’s rule can be characterized by peace
+                and security, the legacy he inherited from King David was complicated.
+                In his final message to his son, David encouraged Solomon to obey
+                the law of the Lord even as he implored him to exact revenge on David’s
+                enemies. Thus, Solomon’s reign started with a mixture of faithfulness
+                and murder. Even though Solomon proved to be a complicated ruler,
+                he made some great decisions early in his reign. Solomon used his
+                wisdom to build the temple, lead the people, and command the respect
+                of other nations. Unfortunately, Solomon’s wisdom did not prevent
+                him from making catastrophic mistakes throughout his reign, especially
+                at the end.
               after_body_index: 62
               UID: BIB111.5.2.2.IQ.1
-              response: David left Solomon the heritage of a kingdom that was united,
-                had expanded borders, and was respected by other nations. Solomon
-                increased the kingdom further, divided it into twelve districts for
-                supplying the government, and added greatly to the number and military
-                strength of Israel’s army.
             - p: 6
               text: What were some of Solomon’s building programs?
-              after_body_index: 67
-              UID: BIB111.5.2.2.IQ.2
               response: The most important was the temple, with its dedication being
                 one of the most significant events in Israel’s history since they
                 left Mount Sinai. He also built a palace for himself.
+              after_body_index: 67
+              UID: BIB111.5.2.2.IQ.2
             - p: 7
               text: What did Solomon do to increase Israel’s power in business and
                 trade?
-              after_body_index: 70
-              UID: BIB111.5.2.2.IQ.3
               response: King Solomon built ships to carry Israel’s copper and iron
                 to other nations where he traded for gold, silver, and ivory. He also
                 gained wealth by trading spices with other countries. He obtained
                 horses and chariots from the Hittites to increase his military strength,
                 and his army enabled him to control trade in the entire region.
+              after_body_index: 70
+              UID: BIB111.5.2.2.IQ.3
             - p: 8
               text: What was Solomon’s disobedience, and what was God’s judgment as
                 a result?
-              after_body_index: 75
-              UID: BIB111.5.2.2.IQ.4
               response: King Solomon confirmed treaties and sealed alliances with
                 other kings by marrying the kings’ daughters. The foreign wives brought
                 religious apostasy into the royal court and began the worshipping
                 of other gods. After Solomon’s death, God would divide the kingdom
                 because of Solomon’s disobedience.
+              after_body_index: 75
+              UID: BIB111.5.2.2.IQ.4
             citations:
             - citekey: arnold1999
               pandoc: '[@arnold1999, 227]'
@@ -45245,36 +45326,39 @@ courses:
             - p: 9
               text: What was the length in time of Israel’s first dynasty, and who
                 were its kings?
-              after_body_index: 36
-              UID: BIB111.5.3.1.IQ.1
               response: 'The first dynasty lasted for twenty-four years: Jeroboam
                 reigned for twenty-two years, and his son Nadab ruled only two years.'
+              after_body_index: 36
+              UID: BIB111.5.3.1.IQ.1
             - p: 10
               text: The second dynasty was characterized by what king and his reign?
-              after_body_index: 40
-              UID: BIB111.5.3.1.IQ.2
               response: Baasha, who reigned for twenty-four years. His dynasty was
                 characterized by idolatrous lifestyles.
+              after_body_index: 40
+              UID: BIB111.5.3.1.IQ.2
             - p: 11
               text: Who was the best known and most sinful king in the third dynasty,
                 and what famous Bible story occurred during his reign?
+              response: Ahab’s reign included the story of Elijah’s confronting the
+                prophets of Baal on Mount Carmel and God’s answering Elijah in a spectacular,
+                miraculous way.
               after_body_index: 49
               UID: BIB111.5.3.1.IQ.4.1
               source_uid: BIB111.5.3.1.IQ.4
             - p: 12
               text: Which king was considered the Northern Kingdom’s greatest king,
                 and why?
-              after_body_index: 54
-              UID: BIB111.5.3.1.IQ.6
               response: King Jeroboam II, the fourth ruler in Jehu’s dynasty, won
                 back much of Israel’s land, made Samaria’s walls larger, and brought
                 peace and wealth back to Israel that had not existed since King Solomon.
+              after_body_index: 54
+              UID: BIB111.5.3.1.IQ.6
             - p: 13
               text: What is most notable about Israel’s fifth dynasty?
+              response: The fifth dynasty (Menahem’s dynasty) was the last dynasty
+                of the Northern Kingdom and lasted only fourteen years.
               after_body_index: 59
               UID: BIB111.5.3.1.IQ.7
-              response: The fifth dynasty (Menahem’s dynasty) was the last dynasty
-                of the Northern Kingdom and lasted only fourteen years. 6 CHAPTER
             - p: 4
               text: Who was the best-known and most sinful king in the third dynasty,
                 and what famous Bible story occurred during his reign?
@@ -48546,36 +48630,39 @@ courses:
             - p: 9
               text: What was the length in time of Israel’s first dynasty, and who
                 were its kings?
-              after_body_index: 36
-              UID: BIB111.5.3.2.IQ.1
               response: 'The first dynasty lasted for twenty-four years: Jeroboam
                 reigned for twenty-two years, and his son Nadab ruled only two years.'
+              after_body_index: 36
+              UID: BIB111.5.3.2.IQ.1
             - p: 10
               text: The second dynasty was characterized by what king and his reign?
-              after_body_index: 40
-              UID: BIB111.5.3.2.IQ.2
               response: Baasha, who reigned for twenty-four years. His dynasty was
                 characterized by idolatrous lifestyles.
+              after_body_index: 40
+              UID: BIB111.5.3.2.IQ.2
             - p: 11
               text: Who was the best known and most sinful king in the third dynasty,
                 and what famous Bible story occurred during his reign?
+              response: Ahab’s reign included the story of Elijah’s confronting the
+                prophets of Baal on Mount Carmel and God’s answering Elijah in a spectacular,
+                miraculous way.
               after_body_index: 49
               UID: BIB111.5.3.2.IQ.4.1
               source_uid: BIB111.5.3.2.IQ.4
             - p: 12
               text: Which king was considered the Northern Kingdom’s greatest king,
                 and why?
-              after_body_index: 54
-              UID: BIB111.5.3.2.IQ.6
               response: King Jeroboam II, the fourth ruler in Jehu’s dynasty, won
                 back much of Israel’s land, made Samaria’s walls larger, and brought
                 peace and wealth back to Israel that had not existed since King Solomon.
+              after_body_index: 54
+              UID: BIB111.5.3.2.IQ.6
             - p: 13
               text: What is most notable about Israel’s fifth dynasty?
+              response: The fifth dynasty (Menahem’s dynasty) was the last dynasty
+                of the Northern Kingdom and lasted only fourteen years.
               after_body_index: 59
               UID: BIB111.5.3.2.IQ.7
-              response: The fifth dynasty (Menahem’s dynasty) was the last dynasty
-                of the Northern Kingdom and lasted only fourteen years. 6 CHAPTER
             - p: 4
               text: Who was the best-known and most sinful king in the third dynasty,
                 and what famous Bible story occurred during his reign?
@@ -50946,39 +51033,39 @@ courses:
             - p: 1
               text: What characterized Judah’s second period, and how long did it
                 last?
+              response: The first period lasted sixty years and was characterized
+                by war with Israel.
               after_body_index: 100
               UID: BIB111.6.1.1.IQ.3
-              response: The second period was seventy-five years of political alliance
-                between Israel and Judah.
             - p: 2
               text: What king’s reign is sometimes considered one of Judah’s most
                 spiritual times? What did he do to bring this about?
+              response: King Jehoshaphat restored some godly practices, sent teachers
+                to teach the law of Moses, established peaceful relations with other
+                nations, and led Judah in prayer and fasting.
               after_body_index: 100
               UID: BIB111.6.1.1.IQ.4
-              response: King Jehoshaphat restored some godly practices, sent teachers
-                to teach the Law of Moses, established peaceful relations with other
-                nations, and led Judah in prayer and fasting.
             - p: 3
               text: How could seven-year-old Joash have the wisdom to reign as king?
-              after_body_index: 108
-              UID: BIB111.6.1.1.IQ.5
               response: The godly priest Jehoiada heavily influenced Joash at the
                 beginning of his reign, and that period was known as the period of
                 Jehoiada’s godly influence.
+              after_body_index: 108
+              UID: BIB111.6.1.1.IQ.5
             - p: 4
               text: How long did the third period last, and how was it characterized?
-              after_body_index: 112
-              UID: BIB111.6.1.1.IQ.7
               response: The third period lasted seventy-five years and was characterized
                 by war between Israel and Judah.
+              after_body_index: 112
+              UID: BIB111.6.1.1.IQ.7
             - p: 5
               text: Who was the final king of Judah during the divided kingdom, and
                 what was his tragic mistake?
-              after_body_index: 123
-              UID: BIB111.6.1.1.IQ.9
               response: King Ahaz did not take the prophet Isaiah’s counsel, which
                 was to not be afraid and to trust in God alone. Instead, he turned
                 to the nation of Assyria for help and led the people into idolatry.
+              after_body_index: 123
+              UID: BIB111.6.1.1.IQ.9
             - p: 1
               text: How long was the first period of Judah, and how is it characterized?
               response: The first period lasted sixty years and was characterized
@@ -53289,39 +53376,39 @@ courses:
             - p: 1
               text: What characterized Judah’s second period, and how long did it
                 last?
+              response: The first period lasted sixty years and was characterized
+                by war with Israel.
               after_body_index: 100
               UID: BIB111.6.1.2.IQ.3
-              response: The second period was seventy-five years of political alliance
-                between Israel and Judah.
             - p: 2
               text: What king’s reign is sometimes considered one of Judah’s most
                 spiritual times? What did he do to bring this about?
+              response: King Jehoshaphat restored some godly practices, sent teachers
+                to teach the law of Moses, established peaceful relations with other
+                nations, and led Judah in prayer and fasting.
               after_body_index: 100
               UID: BIB111.6.1.2.IQ.4
-              response: King Jehoshaphat restored some godly practices, sent teachers
-                to teach the Law of Moses, established peaceful relations with other
-                nations, and led Judah in prayer and fasting.
             - p: 3
               text: How could seven-year-old Joash have the wisdom to reign as king?
-              after_body_index: 108
-              UID: BIB111.6.1.2.IQ.5
               response: The godly priest Jehoiada heavily influenced Joash at the
                 beginning of his reign, and that period was known as the period of
                 Jehoiada’s godly influence.
+              after_body_index: 108
+              UID: BIB111.6.1.2.IQ.5
             - p: 4
               text: How long did the third period last, and how was it characterized?
-              after_body_index: 112
-              UID: BIB111.6.1.2.IQ.7
               response: The third period lasted seventy-five years and was characterized
                 by war between Israel and Judah.
+              after_body_index: 112
+              UID: BIB111.6.1.2.IQ.7
             - p: 5
               text: Who was the final king of Judah during the divided kingdom, and
                 what was his tragic mistake?
-              after_body_index: 123
-              UID: BIB111.6.1.2.IQ.9
               response: King Ahaz did not take the prophet Isaiah’s counsel, which
                 was to not be afraid and to trust in God alone. Instead, he turned
                 to the nation of Assyria for help and led the people into idolatry.
+              after_body_index: 123
+              UID: BIB111.6.1.2.IQ.9
             - p: 1
               text: How long was the first period of Judah, and how is it characterized?
               response: The first period lasted sixty years and was characterized
@@ -57521,44 +57608,47 @@ courses:
             interactive_questions:
             - p: 6
               text: Identify positive, significant aspects of King Hezekiah’s rule.
-              after_body_index: 87
-              UID: BIB111.6.2.1.IQ.1
               response: King Hezekiah led the nation in righteousness restoration—cleansing
                 the temple, removing idols, restoring prescribed worship patterns,
                 and reinstituting sacrificial sin offerings and thanksgiving celebrations.
+              after_body_index: 87
+              UID: BIB111.6.2.1.IQ.1
             - p: 7
               text: What happened to Hezekiah when the prophet Isaiah told him he
                 would die?
-              after_body_index: 87
-              UID: BIB111.6.2.1.IQ.2
               response: Hezekiah turned his face to the wall and prayed. God answered
                 by adding fifteen years to his life.
+              after_body_index: 87
+              UID: BIB111.6.2.1.IQ.2
             - p: 8
               text: What does King Manasseh’s life portray about God, and why?
-              after_body_index: 92
-              UID: BIB111.6.2.1.IQ.3
               response: Manasseh was considered the most wicked king Judah ever had
                 (in addition to other horrors he committed, he ordered Isaiah to be
                 tied between two boards and sawed in half), but when he was taken
                 to Babylon in chains, he repented and returned to Judah to lead the
                 people in serving the one true God. His life shows that God forgives
                 anyone who repents, even the worst sinner.
+              after_body_index: 92
+              UID: BIB111.6.2.1.IQ.3
             - p: 9
               text: Describe King Josiah’s reign and its effects on Judah as a nation.
-              after_body_index: 99
-              UID: BIB111.6.2.1.IQ.4
               response: King Josiah sought the Lord, and at the age of twenty, he
                 began to lead the nation back to God. During his reign, he led a campaign
-                to repair the temple, and the book of the Law was discovered. Because
+                to repair the temple, and the Book of the Law was discovered. Because
                 he and the people sought God, the judgment of Judah was delayed.
+              after_body_index: 99
+              UID: BIB111.6.2.1.IQ.4
             - p: 10
               text: What is the benefit of studying both good and evil kings and the
                 impact of their reigns?
+              response: By studying both the good and evil kings as well as learning
+                about the people’s periods of righteousness and idolatry, we can learn
+                valuable lessons about God’s faithfulness in spite of our unfaithfulness.
+                The story reminds us that God demands holiness but exercises great
+                patience with us. Though He will discipline us for unfaithfulness,
+                He remains faithful to His covenant.
               after_body_index: 109
               UID: BIB111.6.2.1.IQ.6
-              response: It (1) commends obedience and proper motives, (2) warns against
-                disobedience and (3) demonstrates God’s sovereignty in spite of human
-                mistakes, sin, and poor decisions. 7 CHAPTER
             - p: 5
               text: Which kings were Josiah’s sons, and what characterized all their
                 reigns?
@@ -61595,44 +61685,47 @@ courses:
             interactive_questions:
             - p: 6
               text: Identify positive, significant aspects of King Hezekiah’s rule.
-              after_body_index: 87
-              UID: BIB111.6.2.2.IQ.1
               response: King Hezekiah led the nation in righteousness restoration—cleansing
                 the temple, removing idols, restoring prescribed worship patterns,
                 and reinstituting sacrificial sin offerings and thanksgiving celebrations.
+              after_body_index: 87
+              UID: BIB111.6.2.2.IQ.1
             - p: 7
               text: What happened to Hezekiah when the prophet Isaiah told him he
                 would die?
-              after_body_index: 87
-              UID: BIB111.6.2.2.IQ.2
               response: Hezekiah turned his face to the wall and prayed. God answered
                 by adding fifteen years to his life.
+              after_body_index: 87
+              UID: BIB111.6.2.2.IQ.2
             - p: 8
               text: What does King Manasseh’s life portray about God, and why?
-              after_body_index: 92
-              UID: BIB111.6.2.2.IQ.3
               response: Manasseh was considered the most wicked king Judah ever had
                 (in addition to other horrors he committed, he ordered Isaiah to be
                 tied between two boards and sawed in half), but when he was taken
                 to Babylon in chains, he repented and returned to Judah to lead the
                 people in serving the one true God. His life shows that God forgives
                 anyone who repents, even the worst sinner.
+              after_body_index: 92
+              UID: BIB111.6.2.2.IQ.3
             - p: 9
               text: Describe King Josiah’s reign and its effects on Judah as a nation.
-              after_body_index: 99
-              UID: BIB111.6.2.2.IQ.4
               response: King Josiah sought the Lord, and at the age of twenty, he
                 began to lead the nation back to God. During his reign, he led a campaign
-                to repair the temple, and the book of the Law was discovered. Because
+                to repair the temple, and the Book of the Law was discovered. Because
                 he and the people sought God, the judgment of Judah was delayed.
+              after_body_index: 99
+              UID: BIB111.6.2.2.IQ.4
             - p: 10
               text: What is the benefit of studying both good and evil kings and the
                 impact of their reigns?
+              response: By studying both the good and evil kings as well as learning
+                about the people’s periods of righteousness and idolatry, we can learn
+                valuable lessons about God’s faithfulness in spite of our unfaithfulness.
+                The story reminds us that God demands holiness but exercises great
+                patience with us. Though He will discipline us for unfaithfulness,
+                He remains faithful to His covenant.
               after_body_index: 109
               UID: BIB111.6.2.2.IQ.6
-              response: It (1) commends obedience and proper motives, (2) warns against
-                disobedience and (3) demonstrates God’s sovereignty in spite of human
-                mistakes, sin, and poor decisions. 7 CHAPTER
             - p: 5
               text: Which kings were Josiah’s sons, and what characterized all their
                 reigns?
@@ -63496,35 +63589,50 @@ courses:
             interactive_questions:
             - p: 1
               text: With what does Hebrew tradition credit Ezra?
+              response: Hebrew tradition credits Ezra with organizing the entire Old
+                Testament into the Hebrew canon. In addition, the Hebrew canon combines
+                Ezra and Nehemiah as one book called Ezra.
               after_body_index: 6
               UID: BIB111.7.1.1.IQ.8
             - p: 2
               text: What does the Book of Ezra demonstrate about God and the people?
+              response: It reinforces the faithfulness of God. He had inspired prophets
+                to predict Judah’s eventual restoration after seventy years in Babylon.
+                Though it occurs in phases, the exiles do return to the land of Israel.
+                Second, the Book of Ezra reveals the challenges the people face as
+                it relates to covenant faithfulness. Though God blesses the people
+                and enables them to return to the land, they must learn from their
+                previous idolatry so as to avoid further discipline from God.
               after_body_index: 8
               UID: BIB111.7.1.1.IQ.1.1
               source_uid: BIB111.7.1.1.IQ.1
             - p: 3
               text: Identify the three stages of exile, including people involved
                 and dates.
+              response: Daniel and others were taken to Babylon in 605 BC, Ezekiel
+                and ten thousand more were exiled in 597 BC, and the rest of Judah
+                was taken in 586 BC.
               after_body_index: 26
               UID: BIB111.7.1.1.IQ.2
-              response: Daniel and others were taken to Babylon in 605 BC; Ezekiel
-                and ten thousand more were exiled in 597 BC; and the rest of Judah
-                was taken in 586 BC.
             - p: 4
               text: What is the primary setting of the Book of Ezra?
+              response: Much of the setting is in Jerusalem, where the Jews rebuilt
+                the altar and completed the temple.
               after_body_index: 26
               UID: BIB111.7.1.1.IQ.4.1
               source_uid: BIB111.7.1.1.IQ.4
             - p: 5
               text: What hindered the progress of rebuilding the temple?
-              after_body_index: 42
-              UID: BIB111.7.1.1.IQ.5
               response: The Jews refused to let the Samaritans help with the temple
                 because of their idolatry and mixed heritage. The Samaritans became
                 angry and effectively opposed the rebuilding.
+              after_body_index: 42
+              UID: BIB111.7.1.1.IQ.5
             - p: 6
               text: What theological emphases are found in the Book of Ezra?
+              response: The theological emphases include the viability of the community,
+                repentance, covenant renewal in the postexilic community, and reaffirmation
+                of divine sovereignty.
               after_body_index: 52
               UID: BIB111.7.1.1.IQ.6.1
               source_uid: BIB111.7.1.1.IQ.6
@@ -65895,35 +66003,50 @@ courses:
             interactive_questions:
             - p: 1
               text: With what does Hebrew tradition credit Ezra?
+              response: Hebrew tradition credits Ezra with organizing the entire Old
+                Testament into the Hebrew canon. In addition, the Hebrew canon combines
+                Ezra and Nehemiah as one book called Ezra.
               after_body_index: 6
               UID: BIB111.7.1.2.IQ.8
             - p: 2
               text: What does the Book of Ezra demonstrate about God and the people?
+              response: It reinforces the faithfulness of God. He had inspired prophets
+                to predict Judah’s eventual restoration after seventy years in Babylon.
+                Though it occurs in phases, the exiles do return to the land of Israel.
+                Second, the Book of Ezra reveals the challenges the people face as
+                it relates to covenant faithfulness. Though God blesses the people
+                and enables them to return to the land, they must learn from their
+                previous idolatry so as to avoid further discipline from God.
               after_body_index: 8
               UID: BIB111.7.1.2.IQ.1.1
               source_uid: BIB111.7.1.2.IQ.1
             - p: 3
               text: Identify the three stages of exile, including people involved
                 and dates.
+              response: Daniel and others were taken to Babylon in 605 BC, Ezekiel
+                and ten thousand more were exiled in 597 BC, and the rest of Judah
+                was taken in 586 BC.
               after_body_index: 26
               UID: BIB111.7.1.2.IQ.2
-              response: Daniel and others were taken to Babylon in 605 BC; Ezekiel
-                and ten thousand more were exiled in 597 BC; and the rest of Judah
-                was taken in 586 BC.
             - p: 4
               text: What is the primary setting of the Book of Ezra?
+              response: Much of the setting is in Jerusalem, where the Jews rebuilt
+                the altar and completed the temple.
               after_body_index: 26
               UID: BIB111.7.1.2.IQ.4.1
               source_uid: BIB111.7.1.2.IQ.4
             - p: 5
               text: What hindered the progress of rebuilding the temple?
-              after_body_index: 42
-              UID: BIB111.7.1.2.IQ.5
               response: The Jews refused to let the Samaritans help with the temple
                 because of their idolatry and mixed heritage. The Samaritans became
                 angry and effectively opposed the rebuilding.
+              after_body_index: 42
+              UID: BIB111.7.1.2.IQ.5
             - p: 6
               text: What theological emphases are found in the Book of Ezra?
+              response: The theological emphases include the viability of the community,
+                repentance, covenant renewal in the postexilic community, and reaffirmation
+                of divine sovereignty.
               after_body_index: 52
               UID: BIB111.7.1.2.IQ.6.1
               source_uid: BIB111.7.1.2.IQ.6
@@ -68284,35 +68407,50 @@ courses:
             interactive_questions:
             - p: 1
               text: With what does Hebrew tradition credit Ezra?
+              response: Hebrew tradition credits Ezra with organizing the entire Old
+                Testament into the Hebrew canon. In addition, the Hebrew canon combines
+                Ezra and Nehemiah as one book called Ezra.
               after_body_index: 6
               UID: BIB111.7.1.3.IQ.8
             - p: 2
               text: What does the Book of Ezra demonstrate about God and the people?
+              response: It reinforces the faithfulness of God. He had inspired prophets
+                to predict Judah’s eventual restoration after seventy years in Babylon.
+                Though it occurs in phases, the exiles do return to the land of Israel.
+                Second, the Book of Ezra reveals the challenges the people face as
+                it relates to covenant faithfulness. Though God blesses the people
+                and enables them to return to the land, they must learn from their
+                previous idolatry so as to avoid further discipline from God.
               after_body_index: 8
               UID: BIB111.7.1.3.IQ.1.1
               source_uid: BIB111.7.1.3.IQ.1
             - p: 3
               text: Identify the three stages of exile, including people involved
                 and dates.
+              response: Daniel and others were taken to Babylon in 605 BC, Ezekiel
+                and ten thousand more were exiled in 597 BC, and the rest of Judah
+                was taken in 586 BC.
               after_body_index: 26
               UID: BIB111.7.1.3.IQ.2
-              response: Daniel and others were taken to Babylon in 605 BC; Ezekiel
-                and ten thousand more were exiled in 597 BC; and the rest of Judah
-                was taken in 586 BC.
             - p: 4
               text: What is the primary setting of the Book of Ezra?
+              response: Much of the setting is in Jerusalem, where the Jews rebuilt
+                the altar and completed the temple.
               after_body_index: 26
               UID: BIB111.7.1.3.IQ.4.1
               source_uid: BIB111.7.1.3.IQ.4
             - p: 5
               text: What hindered the progress of rebuilding the temple?
-              after_body_index: 42
-              UID: BIB111.7.1.3.IQ.5
               response: The Jews refused to let the Samaritans help with the temple
                 because of their idolatry and mixed heritage. The Samaritans became
                 angry and effectively opposed the rebuilding.
+              after_body_index: 42
+              UID: BIB111.7.1.3.IQ.5
             - p: 6
               text: What theological emphases are found in the Book of Ezra?
+              response: The theological emphases include the viability of the community,
+                repentance, covenant renewal in the postexilic community, and reaffirmation
+                of divine sovereignty.
               after_body_index: 52
               UID: BIB111.7.1.3.IQ.6.1
               source_uid: BIB111.7.1.3.IQ.6
@@ -69427,8 +69565,6 @@ courses:
             interactive_questions:
             - p: 7
               text: Describe Nehemiah’s character, giving examples of each aspect.
-              after_body_index: 13
-              UID: BIB111.7.2.1.IQ.1
               response: Nehemiah had a servant’s heart, working beside the people
                 on the wall rather than dictating to them as governor. He had tremendous
                 organizational abilities, was able to delegate, loved the Jewish people,
@@ -69438,6 +69574,8 @@ courses:
                 and led the people in praise to God. After a time in Persia, he returned
                 to Jerusalem and dispatched the foreigners, cleansed the temple, and
                 restored temple worship.
+              after_body_index: 13
+              UID: BIB111.7.2.1.IQ.1
             scripture:
             - intext: (4:6)
               version: NIV
@@ -70009,16 +70147,19 @@ courses:
             interactive_questions:
             - p: 8
               text: What is a unique aspect of the Book of Esther?
+              response: Esther is one of two books of the Bible that do not mention
+                God’s name anywhere, although His hand is seen throughout the book.
+                (The other book is Song of Songs.)
               after_body_index: 5
               UID: BIB111.7.3.1.IQ.2.1
               source_uid: BIB111.7.3.1.IQ.2
             - p: 9
               text: How would you describe the theme of Esther?
+              response: As with the stories of Joseph and Daniel, the story of Esther
+                emphasizes God’s ability to protect His people and even cause them
+                to prosper in a foreign land.
               after_body_index: 24
               UID: BIB111.7.3.1.IQ.4
-              response: It could be described as God’s sovereignty and protection
-                of His people and chosen nation. The book also reveals the character
-                of Queen Esther.
             - p: 2
               text: What is a unique aspect of the book of Esther?
               response: Esther is one of two books of the Bible that do not mention
@@ -70667,16 +70808,19 @@ courses:
             interactive_questions:
             - p: 8
               text: What is a unique aspect of the Book of Esther?
+              response: Esther is one of two books of the Bible that do not mention
+                God’s name anywhere, although His hand is seen throughout the book.
+                (The other book is Song of Songs.)
               after_body_index: 5
               UID: BIB111.7.3.2.IQ.2.1
               source_uid: BIB111.7.3.2.IQ.2
             - p: 9
               text: How would you describe the theme of Esther?
+              response: As with the stories of Joseph and Daniel, the story of Esther
+                emphasizes God’s ability to protect His people and even cause them
+                to prosper in a foreign land.
               after_body_index: 24
               UID: BIB111.7.3.2.IQ.4
-              response: It could be described as God’s sovereignty and protection
-                of His people and chosen nation. The book also reveals the character
-                of Queen Esther.
             - p: 2
               text: What is a unique aspect of the book of Esther?
               response: Esther is one of two books of the Bible that do not mention
@@ -71867,34 +72011,45 @@ courses:
             - p: 1
               text: What are some pieces of evidence that the literary setting for
                 the Book of Job is the patriarchal era?
+              response: Several features suggest that the literary setting of the
+                book is sometime in the patriarchal era (that is, Abraham, Isaac,
+                and Jacob). For example, Job’s long life is comparable to Abraham’s
+                175 years (Genesis 25:7; compare, Job 42:16). Additionally, the book
+                of Job never mentions the law of Moses or any history of the Israelites.
+                The character Job appears to have been an Edomite, not an Israelite.
               after_body_index: 3
               UID: BIB111.8.1.1.IQ.6
             - p: 2
               text: What is the setting for the Book of Job?
+              response: Job’s story took place in Arabia, not Israel. He lived in
+                Uz, a large area east of the Jordan.
               after_body_index: 8
               UID: BIB111.8.1.1.IQ.2.1
               source_uid: BIB111.8.1.1.IQ.2
             - p: 3
               text: Identify four insights in the Book of Job that relate to the problem
                 of theodicy.
+              response: (1) God’s complete plan is not fully realized on this earth.
+                (2) Satan’s power is limited by God’s sovereign design. (3) God tests
+                and tries people, and He allows Satan to test people. (4) Due to the
+                Fall, we live in an imperfect world and experience horrible things.
               after_body_index: 16
               UID: BIB111.8.1.1.IQ.3.1
               source_uid: BIB111.8.1.1.IQ.3
             - p: 4
               text: What were the main points of God’s two speeches to Job?
-              after_body_index: 59
-              UID: BIB111.8.1.1.IQ.4
               response: In God’s first speech, He questioned Job about the creation
                 of the world. In the second speech, God challenged Job again, centering
                 on His awesome strength and power as Creator and Sustainer of the
                 universe.
+              after_body_index: 59
+              UID: BIB111.8.1.1.IQ.4
             - p: 5
               text: What are the primary theological themes of Job?
+              response: The book calls for humility before God’s wisdom. Ultimately,
+                we can and should trust God’s sovereignty and His goodness.
               after_body_index: 62
               UID: BIB111.8.1.1.IQ.5
-              response: Job is not intended to address causes of suffering but to
-                give comfort that all is in the hand of a divine God. The book emphasizes
-                God’s attributes of wisdom, justice, and sovereignty.
             - p: 2
               text: What is the setting for the book of Job?
               response: Job’s story took place in Arabia, not Israel. He lived in
@@ -73150,34 +73305,45 @@ courses:
             - p: 1
               text: What are some pieces of evidence that the literary setting for
                 the Book of Job is the patriarchal era?
+              response: Several features suggest that the literary setting of the
+                book is sometime in the patriarchal era (that is, Abraham, Isaac,
+                and Jacob). For example, Job’s long life is comparable to Abraham’s
+                175 years (Genesis 25:7; compare, Job 42:16). Additionally, the book
+                of Job never mentions the law of Moses or any history of the Israelites.
+                The character Job appears to have been an Edomite, not an Israelite.
               after_body_index: 3
               UID: BIB111.8.1.2.IQ.6
             - p: 2
               text: What is the setting for the Book of Job?
+              response: Job’s story took place in Arabia, not Israel. He lived in
+                Uz, a large area east of the Jordan.
               after_body_index: 8
               UID: BIB111.8.1.2.IQ.2.1
               source_uid: BIB111.8.1.2.IQ.2
             - p: 3
               text: Identify four insights in the Book of Job that relate to the problem
                 of theodicy.
+              response: (1) God’s complete plan is not fully realized on this earth.
+                (2) Satan’s power is limited by God’s sovereign design. (3) God tests
+                and tries people, and He allows Satan to test people. (4) Due to the
+                Fall, we live in an imperfect world and experience horrible things.
               after_body_index: 16
               UID: BIB111.8.1.2.IQ.3.1
               source_uid: BIB111.8.1.2.IQ.3
             - p: 4
               text: What were the main points of God’s two speeches to Job?
-              after_body_index: 59
-              UID: BIB111.8.1.2.IQ.4
               response: In God’s first speech, He questioned Job about the creation
                 of the world. In the second speech, God challenged Job again, centering
                 on His awesome strength and power as Creator and Sustainer of the
                 universe.
+              after_body_index: 59
+              UID: BIB111.8.1.2.IQ.4
             - p: 5
               text: What are the primary theological themes of Job?
+              response: The book calls for humility before God’s wisdom. Ultimately,
+                we can and should trust God’s sovereignty and His goodness.
               after_body_index: 62
               UID: BIB111.8.1.2.IQ.5
-              response: Job is not intended to address causes of suffering but to
-                give comfort that all is in the hand of a divine God. The book emphasizes
-                God’s attributes of wisdom, justice, and sovereignty.
             - p: 2
               text: What is the setting for the book of Job?
               response: Job’s story took place in Arabia, not Israel. He lived in
@@ -74458,8 +74624,6 @@ courses:
             - p: 6
               text: What are the four categories of parallelism, and how are they
                 defined?
-              after_body_index: 17
-              UID: BIB111.8.2.1.IQ.3
               response: (1) Synonymous parallelism is the repetition of the same thought
                 in two different phrases, using two different sets of words. (2) Antithetical
                 parallelism also states the same thought twice, but from two different
@@ -74468,17 +74632,19 @@ courses:
                 parallelism occurs when two successive lines of poetry reverse the
                 order in which parallel themes appear, thereby crisscrossing each
                 other.
+              after_body_index: 17
+              UID: BIB111.8.2.1.IQ.3
             - p: 7
               text: How do the five sections of Psalms parallel the five books of
                 the Pentateuch?
-              after_body_index: 57
-              UID: BIB111.8.2.1.IQ.4
               response: '(a) Psalms 1–41 parallel Genesis; common topics: humans and
-                Creation. (b) Psalms 42–72 parallel Exodus; common topics: deliverance
+                creation. (b) Psalms 42–72 parallel Exodus; common topics: deliverance
                 and redemption. (c) Psalms 73–89 parallel Leviticus; common topics:
                 worship and the temple. (d) Psalms 90–106 parallel Numbers; common
                 topics: the desert and God’s ways. (e) Psalms 107–150 parallel Deuteronomy;
                 common topics: God’s Word and praise.'
+              after_body_index: 57
+              UID: BIB111.8.2.1.IQ.4
             - p: 1
               text: Who wrote the psalms, and over what period of time did they write?
               response: King David wrote the most psalms (seventy-three). Other authors
@@ -75910,8 +76076,6 @@ courses:
             - p: 6
               text: What are the four categories of parallelism, and how are they
                 defined?
-              after_body_index: 17
-              UID: BIB111.8.2.2.IQ.3
               response: (1) Synonymous parallelism is the repetition of the same thought
                 in two different phrases, using two different sets of words. (2) Antithetical
                 parallelism also states the same thought twice, but from two different
@@ -75920,17 +76084,19 @@ courses:
                 parallelism occurs when two successive lines of poetry reverse the
                 order in which parallel themes appear, thereby crisscrossing each
                 other.
+              after_body_index: 17
+              UID: BIB111.8.2.2.IQ.3
             - p: 7
               text: How do the five sections of Psalms parallel the five books of
                 the Pentateuch?
-              after_body_index: 57
-              UID: BIB111.8.2.2.IQ.4
               response: '(a) Psalms 1–41 parallel Genesis; common topics: humans and
-                Creation. (b) Psalms 42–72 parallel Exodus; common topics: deliverance
+                creation. (b) Psalms 42–72 parallel Exodus; common topics: deliverance
                 and redemption. (c) Psalms 73–89 parallel Leviticus; common topics:
                 worship and the temple. (d) Psalms 90–106 parallel Numbers; common
                 topics: the desert and God’s ways. (e) Psalms 107–150 parallel Deuteronomy;
                 common topics: God’s Word and praise.'
+              after_body_index: 57
+              UID: BIB111.8.2.2.IQ.4
             - p: 1
               text: Who wrote the psalms, and over what period of time did they write?
               response: King David wrote the most psalms (seventy-three). Other authors
@@ -77356,8 +77522,6 @@ courses:
             - p: 6
               text: What are the four categories of parallelism, and how are they
                 defined?
-              after_body_index: 17
-              UID: BIB111.8.2.3.IQ.3
               response: (1) Synonymous parallelism is the repetition of the same thought
                 in two different phrases, using two different sets of words. (2) Antithetical
                 parallelism also states the same thought twice, but from two different
@@ -77366,17 +77530,19 @@ courses:
                 parallelism occurs when two successive lines of poetry reverse the
                 order in which parallel themes appear, thereby crisscrossing each
                 other.
+              after_body_index: 17
+              UID: BIB111.8.2.3.IQ.3
             - p: 7
               text: How do the five sections of Psalms parallel the five books of
                 the Pentateuch?
-              after_body_index: 57
-              UID: BIB111.8.2.3.IQ.4
               response: '(a) Psalms 1–41 parallel Genesis; common topics: humans and
-                Creation. (b) Psalms 42–72 parallel Exodus; common topics: deliverance
+                creation. (b) Psalms 42–72 parallel Exodus; common topics: deliverance
                 and redemption. (c) Psalms 73–89 parallel Leviticus; common topics:
                 worship and the temple. (d) Psalms 90–106 parallel Numbers; common
                 topics: the desert and God’s ways. (e) Psalms 107–150 parallel Deuteronomy;
                 common topics: God’s Word and praise.'
+              after_body_index: 57
+              UID: BIB111.8.2.3.IQ.4
             - p: 1
               text: Who wrote the psalms, and over what period of time did they write?
               response: King David wrote the most psalms (seventy-three). Other authors
@@ -78162,6 +78328,15 @@ courses:
             interactive_questions:
             - p: 8
               text: What are the five main categories of psalms and their definitions?
+              response: Individual or communal laments originate in a period of crisis
+                for the psalmist. Hymns of praise focus on some praiseworthy aspect
+                of God’s character or activity. Individual or communal thanksgiving
+                psalms often tell the story of how God redeemed a person or group
+                from a difficult situation and ensured their safety. Royal psalms
+                often focus on David’s time as king or on God’s kingship and could
+                be grouped in this category. Wisdom psalms is a broad category of
+                psalms that focus on themes similar to those found in the Book of
+                Proverbs.
               after_body_index: 8
               UID: BIB111.8.3.1.IQ.1
     - last_modified: '2026-05-28'
@@ -78977,37 +79152,37 @@ courses:
             - p: 1
               text: Who were the authors of the proverbs, and approximately when was
                 the book compiled?
-              after_body_index: 7
-              UID: BIB111.9.1.1.IQ.1
               response: Solomon wrote the majority of the proverbs, but other authors
                 included the wise men Agur and Lemuel. The book was compiled about
                 700 BC, under King Hezekiah’s leadership.
+              after_body_index: 7
+              UID: BIB111.9.1.1.IQ.1
             - p: 2
               text: Identify several characteristics of Proverbs.
-              after_body_index: 16
-              UID: BIB111.9.1.1.IQ.2
-              response: (1) Proverbs 1–9 contain thirteen mashals (short speeches).
+              response: (1) Proverbs 1–9 contains thirteen mashals (short speeches).
                 (2) In Proverbs 10:1–22:16, most proverbs consist of two lines that
                 show contrast or comparison. (3) Proverbs are not laws, but descriptions
                 of what usually happens. (4) People of all cultures can easily apply
                 the proverbs. (5) Some proverbs use numbers for emphasis. (6) Some
                 are direct. (7) Many teach that we should trust the Lord.
+              after_body_index: 16
+              UID: BIB111.9.1.1.IQ.2
             - p: 3
               text: What are the major themes of Proverbs?
-              after_body_index: 35
-              UID: BIB111.9.1.1.IQ.4
               response: (1) The secret of a meaningful, effective life lies in wisdom
                 and its application; (2) wisdom comes only from knowing and confessing
                 God as its source; (3) to be wise and enjoy wisdom’s benefits, individuals
                 must seek after God with all their beings.
+              after_body_index: 35
+              UID: BIB111.9.1.1.IQ.4
             - p: 4
               text: Describe some of the main topics discussed in Proverbs.
-              after_body_index: 55
-              UID: BIB111.9.1.1.IQ.5
               response: Main topics include leadership and kings’ responsibilities,
                 desired qualities or characteristics for individuals, poverty and
                 wealth, respect for authority, a virtuous woman, trusting in God,
                 and so forth.
+              after_body_index: 55
+              UID: BIB111.9.1.1.IQ.5
             - p: 3
               text: What are the purposes of Proverbs according to Proverbs 1:2–6?
               response: To (1) promote wisdom, understanding, and discipline; (2)
@@ -80416,37 +80591,37 @@ courses:
             - p: 1
               text: Who were the authors of the proverbs, and approximately when was
                 the book compiled?
-              after_body_index: 7
-              UID: BIB111.9.1.2.IQ.1
               response: Solomon wrote the majority of the proverbs, but other authors
                 included the wise men Agur and Lemuel. The book was compiled about
                 700 BC, under King Hezekiah’s leadership.
+              after_body_index: 7
+              UID: BIB111.9.1.2.IQ.1
             - p: 2
               text: Identify several characteristics of Proverbs.
-              after_body_index: 16
-              UID: BIB111.9.1.2.IQ.2
-              response: (1) Proverbs 1–9 contain thirteen mashals (short speeches).
+              response: (1) Proverbs 1–9 contains thirteen mashals (short speeches).
                 (2) In Proverbs 10:1–22:16, most proverbs consist of two lines that
                 show contrast or comparison. (3) Proverbs are not laws, but descriptions
                 of what usually happens. (4) People of all cultures can easily apply
                 the proverbs. (5) Some proverbs use numbers for emphasis. (6) Some
                 are direct. (7) Many teach that we should trust the Lord.
+              after_body_index: 16
+              UID: BIB111.9.1.2.IQ.2
             - p: 3
               text: What are the major themes of Proverbs?
-              after_body_index: 35
-              UID: BIB111.9.1.2.IQ.4
               response: (1) The secret of a meaningful, effective life lies in wisdom
                 and its application; (2) wisdom comes only from knowing and confessing
                 God as its source; (3) to be wise and enjoy wisdom’s benefits, individuals
                 must seek after God with all their beings.
+              after_body_index: 35
+              UID: BIB111.9.1.2.IQ.4
             - p: 4
               text: Describe some of the main topics discussed in Proverbs.
-              after_body_index: 55
-              UID: BIB111.9.1.2.IQ.5
               response: Main topics include leadership and kings’ responsibilities,
                 desired qualities or characteristics for individuals, poverty and
                 wealth, respect for authority, a virtuous woman, trusting in God,
                 and so forth.
+              after_body_index: 55
+              UID: BIB111.9.1.2.IQ.5
             - p: 3
               text: What are the purposes of Proverbs according to Proverbs 1:2–6?
               response: To (1) promote wisdom, understanding, and discipline; (2)
@@ -81614,24 +81789,24 @@ courses:
             interactive_questions:
             - p: 5
               text: What is the best conclusion regarding the author and date of Ecclesiastes?
-              after_body_index: 4
-              UID: BIB111.9.2.1.IQ.1
               response: Because of inconclusive evidence, “it is best to leave the
                 matter unsettled.”
+              after_body_index: 4
+              UID: BIB111.9.2.1.IQ.1
             - p: 6
               text: What is the primary theme of Ecclesiastes?
-              after_body_index: 15
-              UID: BIB111.9.2.1.IQ.2
               response: “‘Utterly meaningless! Everything is meaningless’” (1:2; 12:8).
                 That is, life is meaningless without God at the center.
+              after_body_index: 15
+              UID: BIB111.9.2.1.IQ.2
             - p: 7
               text: What are some positive aspects of Ecclesiastes?
-              after_body_index: 15
-              UID: BIB111.9.2.1.IQ.4
               response: Its positive statements acknowledge God’s gifts and affirm
                 the wise actions of those who keep God as the center of their lives.
                 Also, the author encourages readers to discern between what has value
                 and what is useless.
+              after_body_index: 15
+              UID: BIB111.9.2.1.IQ.4
             - p: 3
               text: With its negative statements, why is Ecclesiastes included in
                 the Old Testament canon?
@@ -82402,24 +82577,24 @@ courses:
             interactive_questions:
             - p: 5
               text: What is the best conclusion regarding the author and date of Ecclesiastes?
-              after_body_index: 4
-              UID: BIB111.9.2.2.IQ.1
               response: Because of inconclusive evidence, “it is best to leave the
                 matter unsettled.”
+              after_body_index: 4
+              UID: BIB111.9.2.2.IQ.1
             - p: 6
               text: What is the primary theme of Ecclesiastes?
-              after_body_index: 15
-              UID: BIB111.9.2.2.IQ.2
               response: “‘Utterly meaningless! Everything is meaningless’” (1:2; 12:8).
                 That is, life is meaningless without God at the center.
+              after_body_index: 15
+              UID: BIB111.9.2.2.IQ.2
             - p: 7
               text: What are some positive aspects of Ecclesiastes?
-              after_body_index: 15
-              UID: BIB111.9.2.2.IQ.4
               response: Its positive statements acknowledge God’s gifts and affirm
                 the wise actions of those who keep God as the center of their lives.
                 Also, the author encourages readers to discern between what has value
                 and what is useless.
+              after_body_index: 15
+              UID: BIB111.9.2.2.IQ.4
             - p: 3
               text: With its negative statements, why is Ecclesiastes included in
                 the Old Testament canon?
@@ -83112,22 +83287,22 @@ courses:
             - p: 8
               text: Describe evidence both for and against Solomon’s authorship of
                 Song of Songs.
-              after_body_index: 6
-              UID: BIB111.9.3.1.IQ.1
               response: Although the book mentions Solomon seven times, the evidence
                 that Solomon authored it is inconclusive. Proponents for Solomon’s
                 authorship point to the author’s knowledge of plants as well as Hebrew
                 wisdom and poetry. Opponents to his authorship say this is insufficient
                 evidence and point out that many references to Solomon are in the
                 third person.
+              after_body_index: 6
+              UID: BIB111.9.3.1.IQ.1
             - p: 9
               text: What is the best interpretation of Song of Songs?
-              after_body_index: 24
-              UID: BIB111.9.3.1.IQ.3
               response: It is best to interpret the book in its literal, natural sense.
                 It encourages the celebration of sexual relations between husband
                 and wife in the bonds of marriage, affirming that this is a gift from
                 God.
+              after_body_index: 24
+              UID: BIB111.9.3.1.IQ.3
             - p: 2
               text: What are the various dates suggested for the writing of Song of
                 Songs?
@@ -83812,22 +83987,22 @@ courses:
             - p: 8
               text: Describe evidence both for and against Solomon’s authorship of
                 Song of Songs.
-              after_body_index: 6
-              UID: BIB111.9.3.2.IQ.1
               response: Although the book mentions Solomon seven times, the evidence
                 that Solomon authored it is inconclusive. Proponents for Solomon’s
                 authorship point to the author’s knowledge of plants as well as Hebrew
                 wisdom and poetry. Opponents to his authorship say this is insufficient
                 evidence and point out that many references to Solomon are in the
                 third person.
+              after_body_index: 6
+              UID: BIB111.9.3.2.IQ.1
             - p: 9
               text: What is the best interpretation of Song of Songs?
-              after_body_index: 24
-              UID: BIB111.9.3.2.IQ.3
               response: It is best to interpret the book in its literal, natural sense.
                 It encourages the celebration of sexual relations between husband
                 and wife in the bonds of marriage, affirming that this is a gift from
                 God.
+              after_body_index: 24
+              UID: BIB111.9.3.2.IQ.3
             - p: 2
               text: What are the various dates suggested for the writing of Song of
                 Songs?
@@ -84774,20 +84949,22 @@ courses:
             - p: 1
               text: Explain the underlying question regarding the historical accuracy
                 of Jonah’s story.
-              after_body_index: 10
-              UID: BIB111.10.1.1.IQ.1
               response: Some question the truth of Jonah’s story, wondering whether
                 a person can survive three days in a fish. However, the underlying
                 question is whether or not God performs miracles.
+              after_body_index: 10
+              UID: BIB111.10.1.1.IQ.1
             - p: 2
               text: Why did Jonah disobey God’s call?
-              after_body_index: 30
-              UID: BIB111.10.1.1.IQ.2
               response: Jonah avoided God’s call most likely for a variety of reasons,
                 including both prejudice and fear that God would be merciful to a
                 cruel people whom Jonah detested.
+              after_body_index: 30
+              UID: BIB111.10.1.1.IQ.2
             - p: 3
               text: What major theological issue does the Book of Jonah raise?
+              response: The issue of whether God changes His mind or relents. This
+                course advocates that God does not change His mind.
               after_body_index: 39
               UID: BIB111.10.1.1.IQ.3.1
               source_uid: BIB111.10.1.1.IQ.3
@@ -85802,20 +85979,22 @@ courses:
             - p: 1
               text: Explain the underlying question regarding the historical accuracy
                 of Jonah’s story.
-              after_body_index: 10
-              UID: BIB111.10.1.2.IQ.1
               response: Some question the truth of Jonah’s story, wondering whether
                 a person can survive three days in a fish. However, the underlying
                 question is whether or not God performs miracles.
+              after_body_index: 10
+              UID: BIB111.10.1.2.IQ.1
             - p: 2
               text: Why did Jonah disobey God’s call?
-              after_body_index: 30
-              UID: BIB111.10.1.2.IQ.2
               response: Jonah avoided God’s call most likely for a variety of reasons,
                 including both prejudice and fear that God would be merciful to a
                 cruel people whom Jonah detested.
+              after_body_index: 30
+              UID: BIB111.10.1.2.IQ.2
             - p: 3
               text: What major theological issue does the Book of Jonah raise?
+              response: The issue of whether God changes His mind or relents. This
+                course advocates that God does not change His mind.
               after_body_index: 39
               UID: BIB111.10.1.2.IQ.3.1
               source_uid: BIB111.10.1.2.IQ.3
@@ -86743,28 +86922,32 @@ courses:
             interactive_questions:
             - p: 4
               text: What does Amos’s name mean, and how did he exemplify this?
-              after_body_index: 7
-              UID: BIB111.10.2.1.IQ.1
               response: Amos means “burden-bearer.” Amos bore the burdens of the nation
                 of Israel in their unfaithfulness to God, the burden of social injustice,
                 the burden of identifying with people in life’s difficult times, and
                 the burden of God’s call to speak prophetically to people who had
                 sinned and failed to repent.
+              after_body_index: 7
+              UID: BIB111.10.2.1.IQ.1
             - p: 5
               text: What is the main theme of Amos?
-              after_body_index: 12
-              UID: BIB111.10.2.1.IQ.2
               response: “Let justice roll on like a river, righteousness like a never-failing
                 stream” (Amos 5:24).
+              after_body_index: 12
+              UID: BIB111.10.2.1.IQ.2
             - p: 6
               text: What were Amos’s three principles for judgment against Israel?
-              after_body_index: 44
-              UID: BIB111.10.2.1.IQ.4
               response: (1) Privilege brings responsibility. (2) The purpose of God’s
                 discipline is to lead to repentance. (3) God is with those who seek
                 good and against those who seek evil.
+              after_body_index: 44
+              UID: BIB111.10.2.1.IQ.4
             - p: 7
               text: How does the Book of Amos end? What are two descriptions of this?
+              response: 'Amos ends on a positive, hopeful note: Even after divine
+                judgment comes divine mercy, grace, and hope. Two descriptions of
+                that hope are (1) God’s promise to David to restore Israel through
+                Jesus and (2) a vivid image of a future agricultural bounty.'
               after_body_index: 49
               UID: BIB111.10.2.1.IQ.5.1
               source_uid: BIB111.10.2.1.IQ.5
@@ -87883,28 +88066,32 @@ courses:
             interactive_questions:
             - p: 4
               text: What does Amos’s name mean, and how did he exemplify this?
-              after_body_index: 7
-              UID: BIB111.10.2.2.IQ.1
               response: Amos means “burden-bearer.” Amos bore the burdens of the nation
                 of Israel in their unfaithfulness to God, the burden of social injustice,
                 the burden of identifying with people in life’s difficult times, and
                 the burden of God’s call to speak prophetically to people who had
                 sinned and failed to repent.
+              after_body_index: 7
+              UID: BIB111.10.2.2.IQ.1
             - p: 5
               text: What is the main theme of Amos?
-              after_body_index: 12
-              UID: BIB111.10.2.2.IQ.2
               response: “Let justice roll on like a river, righteousness like a never-failing
                 stream” (Amos 5:24).
+              after_body_index: 12
+              UID: BIB111.10.2.2.IQ.2
             - p: 6
               text: What were Amos’s three principles for judgment against Israel?
-              after_body_index: 44
-              UID: BIB111.10.2.2.IQ.4
               response: (1) Privilege brings responsibility. (2) The purpose of God’s
                 discipline is to lead to repentance. (3) God is with those who seek
                 good and against those who seek evil.
+              after_body_index: 44
+              UID: BIB111.10.2.2.IQ.4
             - p: 7
               text: How does the Book of Amos end? What are two descriptions of this?
+              response: 'Amos ends on a positive, hopeful note: Even after divine
+                judgment comes divine mercy, grace, and hope. Two descriptions of
+                that hope are (1) God’s promise to David to restore Israel through
+                Jesus and (2) a vivid image of a future agricultural bounty.'
               after_body_index: 49
               UID: BIB111.10.2.2.IQ.5.1
               source_uid: BIB111.10.2.2.IQ.5
@@ -88953,15 +89140,13 @@ courses:
             interactive_questions:
             - p: 8
               text: What was the purpose of Hosea’s prophecy?
-              after_body_index: 5
-              UID: BIB111.10.3.1.IQ.1
               response: To call the nation of Israel to repentance. It emphasized
                 (1) God’s love for His people and desire for redemption, (2) impending
                 judgment on those who rejected God, and (3) Israel’s spiritual adultery.
+              after_body_index: 5
+              UID: BIB111.10.3.1.IQ.1
             - p: 9
               text: Compare Hosea’s marriage with his message.
-              after_body_index: 22
-              UID: BIB111.10.3.1.IQ.4
               response: Gomer represented Israel, and Hosea represented God. She committed
                 physical adultery as Israel committed spiritual adultery against God.
                 The pain Hosea felt from Gomer’s unfaithfulness reflected God’s sorrow
@@ -88970,6 +89155,8 @@ courses:
                 during the marriage, yet God did not tell Hosea to stone her, but
                 to love her. Gomer became the property of another, so Hosea redeemed
                 her.
+              after_body_index: 22
+              UID: BIB111.10.3.1.IQ.4
             - p: 2
               text: What question from Hosea do Bible scholars debate?
               response: Was Gomer, Hosea’s wife, unfaithful before or after Hosea
@@ -89927,15 +90114,13 @@ courses:
             interactive_questions:
             - p: 8
               text: What was the purpose of Hosea’s prophecy?
-              after_body_index: 5
-              UID: BIB111.10.3.2.IQ.1
               response: To call the nation of Israel to repentance. It emphasized
                 (1) God’s love for His people and desire for redemption, (2) impending
                 judgment on those who rejected God, and (3) Israel’s spiritual adultery.
+              after_body_index: 5
+              UID: BIB111.10.3.2.IQ.1
             - p: 9
               text: Compare Hosea’s marriage with his message.
-              after_body_index: 22
-              UID: BIB111.10.3.2.IQ.4
               response: Gomer represented Israel, and Hosea represented God. She committed
                 physical adultery as Israel committed spiritual adultery against God.
                 The pain Hosea felt from Gomer’s unfaithfulness reflected God’s sorrow
@@ -89944,6 +90129,8 @@ courses:
                 during the marriage, yet God did not tell Hosea to stone her, but
                 to love her. Gomer became the property of another, so Hosea redeemed
                 her.
+              after_body_index: 22
+              UID: BIB111.10.3.2.IQ.4
             - p: 2
               text: What question from Hosea do Bible scholars debate?
               response: Was Gomer, Hosea’s wife, unfaithful before or after Hosea
@@ -90901,15 +91088,13 @@ courses:
             interactive_questions:
             - p: 8
               text: What was the purpose of Hosea’s prophecy?
-              after_body_index: 5
-              UID: BIB111.10.3.3.IQ.1
               response: To call the nation of Israel to repentance. It emphasized
                 (1) God’s love for His people and desire for redemption, (2) impending
                 judgment on those who rejected God, and (3) Israel’s spiritual adultery.
+              after_body_index: 5
+              UID: BIB111.10.3.3.IQ.1
             - p: 9
               text: Compare Hosea’s marriage with his message.
-              after_body_index: 22
-              UID: BIB111.10.3.3.IQ.4
               response: Gomer represented Israel, and Hosea represented God. She committed
                 physical adultery as Israel committed spiritual adultery against God.
                 The pain Hosea felt from Gomer’s unfaithfulness reflected God’s sorrow
@@ -90918,6 +91103,8 @@ courses:
                 during the marriage, yet God did not tell Hosea to stone her, but
                 to love her. Gomer became the property of another, so Hosea redeemed
                 her.
+              after_body_index: 22
+              UID: BIB111.10.3.3.IQ.4
             - p: 2
               text: What question from Hosea do Bible scholars debate?
               response: Was Gomer, Hosea’s wife, unfaithful before or after Hosea
@@ -91877,23 +92064,26 @@ courses:
             interactive_questions:
             - p: 1
               text: Why did Joel write his book?
-              after_body_index: 12
-              UID: BIB111.11.1.1.IQ.1
               response: (a) To explain why locusts and famine had come to Judah, (b)
                 to warn of a great army that was to march on Judah from the north,
                 (c) to call Judah to repent, and (d) to prophesy about the future
                 Day of the Lord
+              after_body_index: 12
+              UID: BIB111.11.1.1.IQ.1
             - p: 2
               text: What did the locusts in the Book of Joel represent?
+              response: The locusts and their devastation of the land represented
+                another army that would march on Judah from the north and destroy
+                the land.
               after_body_index: 31
               UID: BIB111.11.1.1.IQ.2.1
               source_uid: BIB111.11.1.1.IQ.2
             - p: 3
               text: Why did Peter quote Joel on the Day of Pentecost?
-              after_body_index: 38
-              UID: BIB111.11.1.1.IQ.3
               response: Peter explained the phenomenon of the Holy Spirit coming on
                 the believers in the upper room as a fulfillment of Joel 2:28–32.
+              after_body_index: 38
+              UID: BIB111.11.1.1.IQ.3
             - p: 2
               text: What did the locusts in the book of Joel represent?
               response: The locusts and their devastation of the land represented
@@ -93340,27 +93530,37 @@ courses:
             interactive_questions:
             - p: 4
               text: Who does this course advocate as the author of Isaiah, and why?
+              response: The entire book was authored by Isaiah, son of Amoz. Predicitve
+                prophecy cannot be a disqualifying issue for Isaiah being the author—it
+                is possible that God could provide Isaiah with divine insight. A shift
+                in tone and literary style does not necessarily imply a new author—writers
+                can change tone of voice and style to fit their purposes. Also, the
+                Book of Kings seems to make use of the whole Book of Isaiah. Since
+                the Book of Kings was written during the Exile, the Book of Isaiah
+                must have been completed prior to this time, which could support Isaiah’s
+                authorship of the whole book.
               after_body_index: 7
               UID: BIB111.11.2.1.IQ.1
-              response: The entire book was authored by Isaiah, son of Amoz. Internal
-                biblical evidence, including quotes from Jesus and the apostles, appears
-                to support the unified authorship viewpoint.
             - p: 5
               text: Read Isaiah 6:1–8, and describe Isaiah’s call.
-              after_body_index: 10
-              UID: BIB111.11.2.1.IQ.2
               response: Isaiah had a vision of the Lord seated on a throne, with seraphs
                 flying around Him and worshipping Him. One of the seraphs cleansed
                 Isaiah’s lips with a coal, and Isaiah obediently answered God’s call
                 to serve Him.
+              after_body_index: 10
+              UID: BIB111.11.2.1.IQ.2
             - p: 6
               text: Why did Isaiah write his book?
+              response: Isaiah wrote his book to exhort the people to put their hope
+                and trust in God alone. He argued that because they could trust that
+                God would be faithful to His covenant, they did not need to appeal
+                to the Assyrians or Egyptians for help in times of crisis. This theme
+                is best illustrated by Ahaz and Hezekiah. Ahaz refused to trust God
+                and appealed to the Assyrians. Consequently, the people faced an even
+                greater crisis. By contrast, Hezekiah ultimately put his trust in
+                God instead of the Egyptians and the people were delivered as a result.
               after_body_index: 13
               UID: BIB111.11.2.1.IQ.3
-              response: (a) To warn Judah and other nations that God’s judgment was
-                coming on their sins, (b) to prophesy that a group of Jews would return
-                after the captivity and would be a light to the nations, and (c) to
-                prophesy that God would send the Messiah to be the Savior of all nations
             - p: 4
               text: What does the name Isaiah mean, and how does it relate to one
                 of the book’s major themes?
@@ -95453,27 +95653,37 @@ courses:
             interactive_questions:
             - p: 4
               text: Who does this course advocate as the author of Isaiah, and why?
+              response: The entire book was authored by Isaiah, son of Amoz. Predicitve
+                prophecy cannot be a disqualifying issue for Isaiah being the author—it
+                is possible that God could provide Isaiah with divine insight. A shift
+                in tone and literary style does not necessarily imply a new author—writers
+                can change tone of voice and style to fit their purposes. Also, the
+                Book of Kings seems to make use of the whole Book of Isaiah. Since
+                the Book of Kings was written during the Exile, the Book of Isaiah
+                must have been completed prior to this time, which could support Isaiah’s
+                authorship of the whole book.
               after_body_index: 7
               UID: BIB111.11.2.2.IQ.1
-              response: The entire book was authored by Isaiah, son of Amoz. Internal
-                biblical evidence, including quotes from Jesus and the apostles, appears
-                to support the unified authorship viewpoint.
             - p: 5
               text: Read Isaiah 6:1–8, and describe Isaiah’s call.
-              after_body_index: 10
-              UID: BIB111.11.2.2.IQ.2
               response: Isaiah had a vision of the Lord seated on a throne, with seraphs
                 flying around Him and worshipping Him. One of the seraphs cleansed
                 Isaiah’s lips with a coal, and Isaiah obediently answered God’s call
                 to serve Him.
+              after_body_index: 10
+              UID: BIB111.11.2.2.IQ.2
             - p: 6
               text: Why did Isaiah write his book?
+              response: Isaiah wrote his book to exhort the people to put their hope
+                and trust in God alone. He argued that because they could trust that
+                God would be faithful to His covenant, they did not need to appeal
+                to the Assyrians or Egyptians for help in times of crisis. This theme
+                is best illustrated by Ahaz and Hezekiah. Ahaz refused to trust God
+                and appealed to the Assyrians. Consequently, the people faced an even
+                greater crisis. By contrast, Hezekiah ultimately put his trust in
+                God instead of the Egyptians and the people were delivered as a result.
               after_body_index: 13
               UID: BIB111.11.2.2.IQ.3
-              response: (a) To warn Judah and other nations that God’s judgment was
-                coming on their sins, (b) to prophesy that a group of Jews would return
-                after the captivity and would be a light to the nations, and (c) to
-                prophesy that God would send the Messiah to be the Savior of all nations
             - p: 4
               text: What does the name Isaiah mean, and how does it relate to one
                 of the book’s major themes?
@@ -96812,20 +97022,20 @@ courses:
             interactive_questions:
             - p: 7
               text: During the reigns of what three kings did Micah minister?
+              response: Jotham, Ahaz, and Hezekiah (of Judah)
               after_body_index: 3
               UID: BIB111.11.3.1.IQ.3
             - p: 8
               text: What were Micah’s themes?
-              after_body_index: 10
-              UID: BIB111.11.3.1.IQ.1
               response: His message centered on social injustice, true worship, false
                 security, and judgment. Yet he also emphasized mercy and deliverance.
+              after_body_index: 10
+              UID: BIB111.11.3.1.IQ.1
             - p: 9
               text: What theological tension is apparent in Micah?
+              response: The tension between God’s judgment and God’s mercy and grace
               after_body_index: 34
               UID: BIB111.11.3.1.IQ.2
-              response: The tension between God’s judgment and God’s mercy and grace
-                UNIT 5
             citations:
             - citekey: smith1991
               pandoc: '[@smith1991, 50]'
@@ -97574,16 +97784,16 @@ courses:
             interactive_questions:
             - p: 1
               text: What was Nahum’s message?
-              after_body_index: 10
-              UID: BIB111.12.1.1.IQ.1
               response: He prophesied God’s judgment and destruction for Nineveh but
                 comfort and compassion for Judah.
+              after_body_index: 10
+              UID: BIB111.12.1.1.IQ.1
             - p: 2
               text: What does Nahum remind us about God?
-              after_body_index: 25
-              UID: BIB111.12.1.1.IQ.2
               response: God is the true source of security, yet He never overlooks
                 wickedness.
+              after_body_index: 25
+              UID: BIB111.12.1.1.IQ.2
             citations:
             - citekey: hill2023
               pandoc: '[@hill2023, 462]'
@@ -98286,39 +98496,39 @@ courses:
             interactive_questions:
             - p: 3
               text: Describe the three Babylonian invasions of Judah.
-              after_body_index: 9
-              UID: BIB111.12.2.1.IQ.1
               response: (1) In 605 BC, Nebuchadnezzar invaded Judah and took Daniel
                 and others as captives. (2) In 597 BC, the king again struck Judah
                 and took ten thousand people (including Ezekiel) captive. (3) In 587
                 BC, Nebuchadnezzar destroyed Jerusalem and the temple and took numerous
                 captives.
+              after_body_index: 9
+              UID: BIB111.12.2.1.IQ.1
             - p: 4
               text: What were Habakkuk’s two questions and God’s responses?
-              after_body_index: 26
-              UID: BIB111.12.2.1.IQ.2
               response: 'Question 1: How could God allow wicked Judah to go unpunished?
                 Answer 1: God would use the Babylonians to punish Judah. Question
                 2: How could God use a more wicked nation to punish Judah? Answer
                 2: God would judge Babylon at a later time.'
+              after_body_index: 26
+              UID: BIB111.12.2.1.IQ.2
             - p: 5
               text: With what images did Habakkuk describe God?
-              after_body_index: 39
-              UID: BIB111.12.2.1.IQ.3
               response: His splendor was like the dawn, and power flashed from His
                 hand. The Lord rode in a chariot, and His horses trampled the sea.
                 The Almighty shot many arrows and split the earth with rivers. Lightning
                 was His flashing spear as He went through the earth to deliver His
                 people.
+              after_body_index: 39
+              UID: BIB111.12.2.1.IQ.3
             - p: 6
               text: What three truths concerning believers and doubt can we learn
                 from Habakkuk?
-              after_body_index: 39
-              UID: BIB111.12.2.1.IQ.4
               response: (1) Believers do experience doubt. (2) Believers must place
                 their trust in the providential hands of God. (3) Believers can and
                 should continue to praise God in spite of any lingering questions
                 or doubts.
+              after_body_index: 39
+              UID: BIB111.12.2.1.IQ.4
             - p: 5
               text: What was Zephaniah’s personal background?
               response: He was a great-great-grandson of Hezekiah, and his unusual
@@ -98956,39 +99166,39 @@ courses:
             interactive_questions:
             - p: 3
               text: Describe the three Babylonian invasions of Judah.
-              after_body_index: 9
-              UID: BIB111.12.2.2.IQ.1
               response: (1) In 605 BC, Nebuchadnezzar invaded Judah and took Daniel
                 and others as captives. (2) In 597 BC, the king again struck Judah
                 and took ten thousand people (including Ezekiel) captive. (3) In 587
                 BC, Nebuchadnezzar destroyed Jerusalem and the temple and took numerous
                 captives.
+              after_body_index: 9
+              UID: BIB111.12.2.2.IQ.1
             - p: 4
               text: What were Habakkuk’s two questions and God’s responses?
-              after_body_index: 26
-              UID: BIB111.12.2.2.IQ.2
               response: 'Question 1: How could God allow wicked Judah to go unpunished?
                 Answer 1: God would use the Babylonians to punish Judah. Question
                 2: How could God use a more wicked nation to punish Judah? Answer
                 2: God would judge Babylon at a later time.'
+              after_body_index: 26
+              UID: BIB111.12.2.2.IQ.2
             - p: 5
               text: With what images did Habakkuk describe God?
-              after_body_index: 39
-              UID: BIB111.12.2.2.IQ.3
               response: His splendor was like the dawn, and power flashed from His
                 hand. The Lord rode in a chariot, and His horses trampled the sea.
                 The Almighty shot many arrows and split the earth with rivers. Lightning
                 was His flashing spear as He went through the earth to deliver His
                 people.
+              after_body_index: 39
+              UID: BIB111.12.2.2.IQ.3
             - p: 6
               text: What three truths concerning believers and doubt can we learn
                 from Habakkuk?
-              after_body_index: 39
-              UID: BIB111.12.2.2.IQ.4
               response: (1) Believers do experience doubt. (2) Believers must place
                 their trust in the providential hands of God. (3) Believers can and
                 should continue to praise God in spite of any lingering questions
                 or doubts.
+              after_body_index: 39
+              UID: BIB111.12.2.2.IQ.4
             - p: 5
               text: What was Zephaniah’s personal background?
               response: He was a great-great-grandson of Hezekiah, and his unusual
@@ -99494,22 +99704,27 @@ courses:
             interactive_questions:
             - p: 7
               text: What was Zephaniah’s personal background?
+              response: While we know little about Zephaniah from the rest of the
+                Bible, the book introduces him by referencing four generations of
+                his family line. This biographical information identifies Zephaniah
+                as a descendant of the Davidic family line (Zephaniah 1:1). He also
+                prophesied during the early portion of Josiah’s reign.
               after_body_index: 4
               UID: BIB111.12.3.1.IQ.4
             - p: 8
               text: What were Zephaniah’s three purposes in writing his book?
-              after_body_index: 6
-              UID: BIB111.12.3.1.IQ.1
               response: (1) To warn of immediate judgment if the nations did not repent,
                 (2) to warn of future judgment at the end of time, (3) to offer the
-                hope of restoration for the Jews
+                hope of restoration for the Jews.
+              after_body_index: 6
+              UID: BIB111.12.3.1.IQ.1
             - p: 9
               text: What positive message of hope appears at the end of Zephaniah?
-              after_body_index: 26
-              UID: BIB111.12.3.1.IQ.3
               response: The Lord promised to purify His people so they might serve
                 Him faithfully, to remove the proud, to exalt the humble, and to give
                 His people security. He promised to rejoice over them with singing.
+              after_body_index: 26
+              UID: BIB111.12.3.1.IQ.3
             - p: 2
               text: What does Zephaniah write about the Day of the Lord?
               response: On that day, God will finally judge all nations for their
@@ -99939,16 +100154,20 @@ courses:
             interactive_questions:
             - p: 10
               text: What is the three-part purpose for the Book of Obadiah?
+              response: 1. To condemn Edom for their pride and betrayal of Judah.
+                2. To encourage the remnant of the righteous ones in Israel. 3. To
+                emphasize God’s sovereignty over all nations (Hill and Walton 2023,
+                441–442).
               after_body_index: 11
               UID: BIB111.12.4.1.IQ.1.1
               source_uid: BIB111.12.4.1.IQ.1
             - p: 11
               text: According to Obadiah, why was God going to judge Edom?
-              after_body_index: 20
-              UID: BIB111.12.4.1.IQ.2
               response: Edom’s arrogance and pride in its defendable location, trade
                 routes, and political alliances angered God. In addition, Edom took
                 pleasure and gloated in Judah’s humiliation.
+              after_body_index: 20
+              UID: BIB111.12.4.1.IQ.2
             - p: 1
               text: What is the three-part purpose for the book of Obadiah?
               response: (1) To reveal that God was angry because Edom rejoiced at
@@ -101126,35 +101345,37 @@ courses:
             interactive_questions:
             - p: 12
               text: What was Jeremiah often called, and why?
-              after_body_index: 9
-              UID: BIB111.12.5.1.IQ.2
               response: He was known as the Weeping Prophet because of his heartfelt
                 concern and tears about God’s message of judgment for Judah.
+              after_body_index: 9
+              UID: BIB111.12.5.1.IQ.2
             - p: 13
               text: What themes occur frequently in Jeremiah?
+              response: First, God is sovereign over all the nations of the world.
+                Second, Jeremiah famously envisions a coming day when God would establish
+                a new covenant with His people. Third, Jeremiah combated false prophets.
+                Many prophets wrongly insisted that everything was fine even though
+                God’s judgment was coming (Hill and Walton 2023, 385–387).
               after_body_index: 12
               UID: BIB111.12.5.1.IQ.3
-              response: God’s sovereignty and control in all circumstances, the sinfulness
-                of human nature, and the human tendency to rebel; also, the inevitability
-                of judgment for sin and God’s promise not to abandon His people
             - p: 14
               text: What evidence indicates that Jeremiah wrote Lamentations?
-              after_body_index: 52
-              UID: BIB111.12.5.1.IQ.4
-              response: The themes of the books of Jeremiah and Lamentations are similar.
+              response: The themes of the Books of Jeremiah and Lamentations are similar.
                 Jeremiah had written other laments previously, and the Septuagint
                 and Jewish tradition credit him with writing Lamentations. In addition,
                 the book reflects the heartache of someone who had witnessed the vivid
                 scenes and horror of Jerusalem’s fall yet clung to the hope of restoration.
                 This description fits Jeremiah.
+              after_body_index: 52
+              UID: BIB111.12.5.1.IQ.4
             - p: 15
               text: What is the message of the five poems in Lamentations?
-              after_body_index: 52
-              UID: BIB111.12.5.1.IQ.5
               response: They express grief over the fall of the nation of Judah as
                 well as the city of Jerusalem. They indicate that sin caused this
                 judgment, but they take comfort in God’s faithfulness, His mercy,
-                and the hope of Judah’s restoration. 13 CHAPTER
+                and the hope of Judah’s restoration.
+              after_body_index: 52
+              UID: BIB111.12.5.1.IQ.5
             - p: 1
               text: What did God specifically instruct Jeremiah not to do?
               response: God told Jeremiah not to marry and not to attend weddings
@@ -102318,35 +102539,37 @@ courses:
             interactive_questions:
             - p: 12
               text: What was Jeremiah often called, and why?
-              after_body_index: 9
-              UID: BIB111.12.5.2.IQ.2
               response: He was known as the Weeping Prophet because of his heartfelt
                 concern and tears about God’s message of judgment for Judah.
+              after_body_index: 9
+              UID: BIB111.12.5.2.IQ.2
             - p: 13
               text: What themes occur frequently in Jeremiah?
+              response: First, God is sovereign over all the nations of the world.
+                Second, Jeremiah famously envisions a coming day when God would establish
+                a new covenant with His people. Third, Jeremiah combated false prophets.
+                Many prophets wrongly insisted that everything was fine even though
+                God’s judgment was coming (Hill and Walton 2023, 385–387).
               after_body_index: 12
               UID: BIB111.12.5.2.IQ.3
-              response: God’s sovereignty and control in all circumstances, the sinfulness
-                of human nature, and the human tendency to rebel; also, the inevitability
-                of judgment for sin and God’s promise not to abandon His people
             - p: 14
               text: What evidence indicates that Jeremiah wrote Lamentations?
-              after_body_index: 52
-              UID: BIB111.12.5.2.IQ.4
-              response: The themes of the books of Jeremiah and Lamentations are similar.
+              response: The themes of the Books of Jeremiah and Lamentations are similar.
                 Jeremiah had written other laments previously, and the Septuagint
                 and Jewish tradition credit him with writing Lamentations. In addition,
                 the book reflects the heartache of someone who had witnessed the vivid
                 scenes and horror of Jerusalem’s fall yet clung to the hope of restoration.
                 This description fits Jeremiah.
+              after_body_index: 52
+              UID: BIB111.12.5.2.IQ.4
             - p: 15
               text: What is the message of the five poems in Lamentations?
-              after_body_index: 52
-              UID: BIB111.12.5.2.IQ.5
               response: They express grief over the fall of the nation of Judah as
                 well as the city of Jerusalem. They indicate that sin caused this
                 judgment, but they take comfort in God’s faithfulness, His mercy,
-                and the hope of Judah’s restoration. 13 CHAPTER
+                and the hope of Judah’s restoration.
+              after_body_index: 52
+              UID: BIB111.12.5.2.IQ.5
             - p: 1
               text: What did God specifically instruct Jeremiah not to do?
               response: God told Jeremiah not to marry and not to attend weddings
@@ -103184,27 +103407,34 @@ courses:
             interactive_questions:
             - p: 1
               text: Identify several unique aspects of the Book of Ezekiel.
+              response: 'Any of these: The book includes many visions, parables, and
+                unusual actions by the prophet and describes them with vivid imagery.
+                More than any other Old Testament prophet, Ezekiel cataloged the dates
+                of many of his visions. God referred to Ezekiel as “son of man” ninety
+                times. The Spirit came into Ezekiel and often lifted him. God instructed
+                Ezekiel to act out his messages more often than any other prophet.'
               after_body_index: 6
               UID: BIB111.13.1.1.IQ.1.1
               source_uid: BIB111.13.1.1.IQ.1
             - p: 2
               text: What are some purposes and themes in the Book of Ezekiel?
+              response: To proclaim God’s judgment on Judah, encourage the Jewish
+                captives with prophecies of the future glory of God’s kingdom, and
+                affirm divine sovereignty.
               after_body_index: 11
               UID: BIB111.13.1.1.IQ.2.1
               source_uid: BIB111.13.1.1.IQ.2
             - p: 3
               text: Why did Ezekiel communicate his message with drama and symbolism?
-              after_body_index: 36
-              UID: BIB111.13.1.1.IQ.4
               response: Ezekiel’s dramatic words and actions were meant to shock a
                 people calloused by sin. The provocative language and imagery were
                 designed to scandalize and convict a people desensitized to the truth
                 by a life of spiritual adultery.
+              after_body_index: 36
+              UID: BIB111.13.1.1.IQ.4
             - p: 4
               text: In your opinion, what is the best interpretation concerning Israel’s
                 new temple?
-              after_body_index: 50
-              UID: BIB111.13.1.1.IQ.7
               response: 'Your answer may include one of these views: (1) These prophecies
                 were fulfilled during the rebuilding of Jerusalem under Zerubbabel,
                 Ezra, and Nehemiah. (2) This will be fulfilled in the future as a
@@ -103212,6 +103442,8 @@ courses:
                 reign of Christ over His church. (4) A combination of the first and
                 third views is correct. (5) These passages should be interpreted symbolically,
                 not literally.'
+              after_body_index: 50
+              UID: BIB111.13.1.1.IQ.7
             - p: 1
               text: Identify several unique aspects of the book of Ezekiel.
               response: 'Any of these: The book includes many visions, parables, and
@@ -104133,27 +104365,34 @@ courses:
             interactive_questions:
             - p: 1
               text: Identify several unique aspects of the Book of Ezekiel.
+              response: 'Any of these: The book includes many visions, parables, and
+                unusual actions by the prophet and describes them with vivid imagery.
+                More than any other Old Testament prophet, Ezekiel cataloged the dates
+                of many of his visions. God referred to Ezekiel as “son of man” ninety
+                times. The Spirit came into Ezekiel and often lifted him. God instructed
+                Ezekiel to act out his messages more often than any other prophet.'
               after_body_index: 6
               UID: BIB111.13.1.2.IQ.1.1
               source_uid: BIB111.13.1.2.IQ.1
             - p: 2
               text: What are some purposes and themes in the Book of Ezekiel?
+              response: To proclaim God’s judgment on Judah, encourage the Jewish
+                captives with prophecies of the future glory of God’s kingdom, and
+                affirm divine sovereignty.
               after_body_index: 11
               UID: BIB111.13.1.2.IQ.2.1
               source_uid: BIB111.13.1.2.IQ.2
             - p: 3
               text: Why did Ezekiel communicate his message with drama and symbolism?
-              after_body_index: 36
-              UID: BIB111.13.1.2.IQ.4
               response: Ezekiel’s dramatic words and actions were meant to shock a
                 people calloused by sin. The provocative language and imagery were
                 designed to scandalize and convict a people desensitized to the truth
                 by a life of spiritual adultery.
+              after_body_index: 36
+              UID: BIB111.13.1.2.IQ.4
             - p: 4
               text: In your opinion, what is the best interpretation concerning Israel’s
                 new temple?
-              after_body_index: 50
-              UID: BIB111.13.1.2.IQ.7
               response: 'Your answer may include one of these views: (1) These prophecies
                 were fulfilled during the rebuilding of Jerusalem under Zerubbabel,
                 Ezra, and Nehemiah. (2) This will be fulfilled in the future as a
@@ -104161,6 +104400,8 @@ courses:
                 reign of Christ over His church. (4) A combination of the first and
                 third views is correct. (5) These passages should be interpreted symbolically,
                 not literally.'
+              after_body_index: 50
+              UID: BIB111.13.1.2.IQ.7
             - p: 1
               text: Identify several unique aspects of the book of Ezekiel.
               response: 'Any of these: The book includes many visions, parables, and
@@ -105360,33 +105601,33 @@ courses:
             interactive_questions:
             - p: 5
               text: Describe the literary genre in which Daniel falls.
-              after_body_index: 11
-              UID: BIB111.13.2.1.IQ.1
               response: Daniel is considered apocalyptic literature, meaning it unveils
                 hidden things (often future events) through symbols and visions.
+              after_body_index: 11
+              UID: BIB111.13.2.1.IQ.1
             - p: 6
               text: What is the primary theme of Daniel, and what does it mean?
-              after_body_index: 15
-              UID: BIB111.13.2.1.IQ.2
               response: Daniel’s primary theme is divine sovereignty, or God’s supreme
                 rule over all human kingdoms and governments.
+              after_body_index: 15
+              UID: BIB111.13.2.1.IQ.2
             - p: 7
               text: What are the four beasts in Daniel, and what four kingdoms do
                 they represent?
-              after_body_index: 53
-              UID: BIB111.13.2.1.IQ.4
               response: The lion with wings symbolizes Babylon. The bear represents
                 Media-Persia. The leopard with four wings and four heads represents
                 Greece. The terrible beast symbolizes Rome.
+              after_body_index: 53
+              UID: BIB111.13.2.1.IQ.4
             - p: 8
               text: Describe the three views different evangelicals hold concerning
                 the Millennium.
-              after_body_index: 66
-              UID: BIB111.13.2.1.IQ.5
               response: '(1) Premillennial view: Christ will return before the Millennium.
                 (2) Postmillennial view: Christ will return after the Millennium.
                 (3) Amillennial view: A literal millennium will not occur because
-                Revelation 20 is symbolic. 14 CHAPTER'
+                Revelation 20 is symbolic.'
+              after_body_index: 66
+              UID: BIB111.13.2.1.IQ.5
             - p: 3
               text: What are some other themes of Daniel, and how are they conveyed?
               response: Other primary themes of the book include (1) the arrogance
@@ -106615,33 +106856,33 @@ courses:
             interactive_questions:
             - p: 5
               text: Describe the literary genre in which Daniel falls.
-              after_body_index: 11
-              UID: BIB111.13.2.2.IQ.1
               response: Daniel is considered apocalyptic literature, meaning it unveils
                 hidden things (often future events) through symbols and visions.
+              after_body_index: 11
+              UID: BIB111.13.2.2.IQ.1
             - p: 6
               text: What is the primary theme of Daniel, and what does it mean?
-              after_body_index: 15
-              UID: BIB111.13.2.2.IQ.2
               response: Daniel’s primary theme is divine sovereignty, or God’s supreme
                 rule over all human kingdoms and governments.
+              after_body_index: 15
+              UID: BIB111.13.2.2.IQ.2
             - p: 7
               text: What are the four beasts in Daniel, and what four kingdoms do
                 they represent?
-              after_body_index: 53
-              UID: BIB111.13.2.2.IQ.4
               response: The lion with wings symbolizes Babylon. The bear represents
                 Media-Persia. The leopard with four wings and four heads represents
                 Greece. The terrible beast symbolizes Rome.
+              after_body_index: 53
+              UID: BIB111.13.2.2.IQ.4
             - p: 8
               text: Describe the three views different evangelicals hold concerning
                 the Millennium.
-              after_body_index: 66
-              UID: BIB111.13.2.2.IQ.5
               response: '(1) Premillennial view: Christ will return before the Millennium.
                 (2) Postmillennial view: Christ will return after the Millennium.
                 (3) Amillennial view: A literal millennium will not occur because
-                Revelation 20 is symbolic. 14 CHAPTER'
+                Revelation 20 is symbolic.'
+              after_body_index: 66
+              UID: BIB111.13.2.2.IQ.5
             - p: 3
               text: What are some other themes of Daniel, and how are they conveyed?
               response: Other primary themes of the book include (1) the arrogance
@@ -107391,33 +107632,33 @@ courses:
             interactive_questions:
             - p: 1
               text: What was Haggai’s primary theme?
-              after_body_index: 6
-              UID: BIB111.14.1.1.IQ.1
               response: He encouraged the Jews—specifically Zeruabbabel and Joshua—to
                 finish rebuilding the temple. Then they would receive God’s blessings.
+              after_body_index: 6
+              UID: BIB111.14.1.1.IQ.1
             - p: 2
               text: What four messages convey Haggai’s theme?
-              after_body_index: 24
-              UID: BIB111.14.1.1.IQ.2
               response: (1) Put God first by finishing the temple (1:1–15). (2) God’s
                 presence matters more than beauty (2:1–9). (3) It is easier to spread
                 sin than holiness (2:10–19). (4) The Day of the Lord will exalt the
                 godly.
+              after_body_index: 24
+              UID: BIB111.14.1.1.IQ.2
             - p: 3
               text: Which message in Haggai contained strong warnings, and what were
                 the warnings against?
-              after_body_index: 31
-              UID: BIB111.14.1.1.IQ.3
               response: The third message warned against being spiritually contaminated
                 by close association with ungodly practices and people. The people’s
                 return to consistent sinful practices defiled everything they touched.
+              after_body_index: 31
+              UID: BIB111.14.1.1.IQ.3
             - p: 4
               text: Why is the fourth message considered messianic?
-              after_body_index: 34
-              UID: BIB111.14.1.1.IQ.4
               response: Zerubbabel is a descendant of David, he is called “God’s signet
                 ring” as a sign of authority, and he is specifically mentioned in
                 the genealogy of Jesus in Matthew 1:12.
+              after_body_index: 34
+              UID: BIB111.14.1.1.IQ.4
             citations:
             - citekey: arnold1999
               pandoc: '[@arnold1999, 464]'
@@ -107972,33 +108213,33 @@ courses:
             interactive_questions:
             - p: 1
               text: What was Haggai’s primary theme?
-              after_body_index: 6
-              UID: BIB111.14.1.2.IQ.1
               response: He encouraged the Jews—specifically Zeruabbabel and Joshua—to
                 finish rebuilding the temple. Then they would receive God’s blessings.
+              after_body_index: 6
+              UID: BIB111.14.1.2.IQ.1
             - p: 2
               text: What four messages convey Haggai’s theme?
-              after_body_index: 24
-              UID: BIB111.14.1.2.IQ.2
               response: (1) Put God first by finishing the temple (1:1–15). (2) God’s
                 presence matters more than beauty (2:1–9). (3) It is easier to spread
                 sin than holiness (2:10–19). (4) The Day of the Lord will exalt the
                 godly.
+              after_body_index: 24
+              UID: BIB111.14.1.2.IQ.2
             - p: 3
               text: Which message in Haggai contained strong warnings, and what were
                 the warnings against?
-              after_body_index: 31
-              UID: BIB111.14.1.2.IQ.3
               response: The third message warned against being spiritually contaminated
                 by close association with ungodly practices and people. The people’s
                 return to consistent sinful practices defiled everything they touched.
+              after_body_index: 31
+              UID: BIB111.14.1.2.IQ.3
             - p: 4
               text: Why is the fourth message considered messianic?
-              after_body_index: 34
-              UID: BIB111.14.1.2.IQ.4
               response: Zerubbabel is a descendant of David, he is called “God’s signet
                 ring” as a sign of authority, and he is specifically mentioned in
                 the genealogy of Jesus in Matthew 1:12.
+              after_body_index: 34
+              UID: BIB111.14.1.2.IQ.4
             citations:
             - citekey: arnold1999
               pandoc: '[@arnold1999, 464]'
@@ -109211,27 +109452,31 @@ courses:
             - p: 5
               text: How many sections is the Book of Zechariah divided into, and what
                 is the theme of each?
+              response: 'It is divided into two major sections: In chapters 1–8, the
+                theme is the rebuilding of the temple. In chapters 9–14, the theme
+                is the rebuilding of the nation or, more accurately, the kingdom of
+                God; this section includes two messianic prophecies.'
               after_body_index: 7
               UID: BIB111.14.2.1.IQ.1.1
               source_uid: BIB111.14.2.1.IQ.1
             - p: 6
               text: What does the vision in Zechariah 3 point out, and what does this
                 represent?
-              after_body_index: 46
-              UID: BIB111.14.2.1.IQ.3
               response: It indicates that Satan accuses the high priest of sin, representing
                 the failure of the priesthood in Israel to serve God faithfully in
                 their God-given capacity.
+              after_body_index: 46
+              UID: BIB111.14.2.1.IQ.3
             - p: 7
               text: What are the New Testament fulfillments of Zechariah’s messianic
                 prophecies?
-              after_body_index: 74
-              UID: BIB111.14.2.1.IQ.4
               response: 'Matthew 21:5: Jesus, a humble King, rides a donkey and brings
                 salvation. John 10:14: Jesus says that He is the Good Shepherd. Matthew
                 26:15: Christ is sold for thirty pieces of silver. John 19:37: Jesus
-                is pierced on the Cross. Revelation 22:5: There will no longer be
+                is pierced on the cross. Revelation 22:5: There will no longer be
                 any night. Revelation 22:1–2: A river runs out of Jerusalem.'
+              after_body_index: 74
+              UID: BIB111.14.2.1.IQ.4
             - p: 1
               text: How many sections is the book of Zechariah divided into, and what
                 is the theme of each?
@@ -110680,27 +110925,31 @@ courses:
             - p: 5
               text: How many sections is the Book of Zechariah divided into, and what
                 is the theme of each?
+              response: 'It is divided into two major sections: In chapters 1–8, the
+                theme is the rebuilding of the temple. In chapters 9–14, the theme
+                is the rebuilding of the nation or, more accurately, the kingdom of
+                God; this section includes two messianic prophecies.'
               after_body_index: 7
               UID: BIB111.14.2.2.IQ.1.1
               source_uid: BIB111.14.2.2.IQ.1
             - p: 6
               text: What does the vision in Zechariah 3 point out, and what does this
                 represent?
-              after_body_index: 46
-              UID: BIB111.14.2.2.IQ.3
               response: It indicates that Satan accuses the high priest of sin, representing
                 the failure of the priesthood in Israel to serve God faithfully in
                 their God-given capacity.
+              after_body_index: 46
+              UID: BIB111.14.2.2.IQ.3
             - p: 7
               text: What are the New Testament fulfillments of Zechariah’s messianic
                 prophecies?
-              after_body_index: 74
-              UID: BIB111.14.2.2.IQ.4
               response: 'Matthew 21:5: Jesus, a humble King, rides a donkey and brings
                 salvation. John 10:14: Jesus says that He is the Good Shepherd. Matthew
                 26:15: Christ is sold for thirty pieces of silver. John 19:37: Jesus
-                is pierced on the Cross. Revelation 22:5: There will no longer be
+                is pierced on the cross. Revelation 22:5: There will no longer be
                 any night. Revelation 22:1–2: A river runs out of Jerusalem.'
+              after_body_index: 74
+              UID: BIB111.14.2.2.IQ.4
             - p: 1
               text: How many sections is the book of Zechariah divided into, and what
                 is the theme of each?
@@ -111503,18 +111752,24 @@ courses:
             - p: 8
               text: What internal biblical evidence points to the time period when
                 Malachi was written?
+              response: References to a governor, a temple, and similar social conditions
+                to the age of Ezra and Nehemiah indicate that Malachi ministered after
+                the Exile.
               after_body_index: 4
               UID: BIB111.14.3.1.IQ.4
             - p: 9
               text: What are the purpose and prominent themes of Malachi?
+              response: The purpose of the Book of Malachi was to call people back
+                to covenant faithfulness. He wanted to reemphasize God’s sovereignty
+                over the people and their need to relate to Him faithfully as laid
+                out in the covenant (Hill and Walton, 2009, 706).
               after_body_index: 9
               UID: BIB111.14.3.1.IQ.1
-              response: The purpose is to call God’s people back to spiritual vitality.
-                The first theme emphasizes the nature and attributes of God, a second
-                theme is the keeping of the covenant, and a third theme is the giving
-                of one’s best to God.
             - p: 10
               text: How does the end of Malachi anticipate the events of the New Testament?
+              response: Malachi envisions a forerunner like Elijah that would proclaim
+                the coming of God’s kingdom. The New Testament and Early Church all
+                recognized John the Baptist as the Elijah-like figure.
               after_body_index: 36
               UID: BIB111.14.3.1.IQ.5
             - p: 2
@@ -112170,18 +112425,24 @@ courses:
             - p: 8
               text: What internal biblical evidence points to the time period when
                 Malachi was written?
+              response: References to a governor, a temple, and similar social conditions
+                to the age of Ezra and Nehemiah indicate that Malachi ministered after
+                the Exile.
               after_body_index: 4
               UID: BIB111.14.3.2.IQ.4
             - p: 9
               text: What are the purpose and prominent themes of Malachi?
+              response: The purpose of the Book of Malachi was to call people back
+                to covenant faithfulness. He wanted to reemphasize God’s sovereignty
+                over the people and their need to relate to Him faithfully as laid
+                out in the covenant (Hill and Walton, 2009, 706).
               after_body_index: 9
               UID: BIB111.14.3.2.IQ.1
-              response: The purpose is to call God’s people back to spiritual vitality.
-                The first theme emphasizes the nature and attributes of God, a second
-                theme is the keeping of the covenant, and a third theme is the giving
-                of one’s best to God.
             - p: 10
               text: How does the end of Malachi anticipate the events of the New Testament?
+              response: Malachi envisions a forerunner like Elijah that would proclaim
+                the coming of God’s kingdom. The New Testament and Early Church all
+                recognized John the Baptist as the Elijah-like figure.
               after_body_index: 36
               UID: BIB111.14.3.2.IQ.5
             - p: 2
@@ -112694,15 +112955,24 @@ courses:
             - p: 1
               text: What are some significant differences (discontinuity) between
                 the Old and New Testaments?
+              response: (1) The political and historical contexts were different.
+                (2) The Old Testament concluded by looking toward the Messiah’s coming,
+                while the New Testament began with the Messiah’s coming and continues
+                looking toward His return. (3) The primary purpose of God’s revelation
+                was national in the Old Testament (revelatory) and individual in the
+                New Testament (soteriological). (4) Animal sacrifices were required
+                in Old Testament times, but Jesus’ sacrifice as described in the New
+                Testament atoned for our sins once and for all.
               after_body_index: 10
               UID: BIB111.15.1.1.IQ.2
             - p: 2
               text: What is meant by revelatory people and soteriological people?
+              response: God revealed the Law with its stipulations and commands to
+                the nation of Israel, His revelatory people. God brought grace and
+                salvation to individuals in the New Testament and today; thus, believers
+                are the soteriological people of God.
               after_body_index: 10
               UID: BIB111.15.1.1.IQ.1
-              response: a) the Day of the Lord and the coming Messiah. b) Babylon’s
-                destruction and the Day of the Lord. c) God’s judgment of sin in His
-                time and living by faith. d) the Day of the Lord and living by faith.
             citations:
             - citekey: hill2000
               pandoc: '[@hill2000, 568]'
@@ -112975,19 +113245,31 @@ courses:
             interactive_questions:
             - p: 3
               text: What is the promise fulfillment motif between the testaments?
+              response: A significant amount of what is promised in the Old Testament
+                is fulfilled in the New Testament. The New Testament fulfills and
+                complements the Old Testament.
               after_body_index: 8
               UID: BIB111.15.2.1.IQ.1.1
               source_uid: BIB111.15.2.1.IQ.1
             - p: 4
               text: What is the historical connection between the Old and New Testaments?
+              response: The Old Testament is the historical basis for the New Testament;
+                readers could not understand the themes and purposes of the New Testament
+                without the historical information and background described in the
+                Old Testament. The Old Testament is also the theological foundation
+                of the New Testament; many theological themes on which biblical doctrines
+                are based are first introduced and sometimes explained in the Old
+                Testament.
               after_body_index: 8
               UID: BIB111.15.2.1.IQ.3
-              response: a) Judah. b) Moab. c) Israel. d) Edom.
             - p: 5
               text: Name some themes that are emphasized in both testaments.
+              response: 'Any of these: (1) God’s sovereignty, (2) God as the one true
+                God, (3) God’s holiness, (4) His transcendence, (5) His righteousness
+                and justice, (6) His compassion and grace, (7) the covenant, and (8)
+                God’s loyalty.'
               after_body_index: 8
               UID: BIB111.15.2.1.IQ.4
-              response: a) Israel. b) Nineveh. c) Judah. d) Edom.
             - p: 1
               text: What is the promise-fulfillment motif between the testaments?
               response: a) Judah. b) Israel. c) Edom. d) Nineveh.
@@ -113502,17 +113784,20 @@ courses:
             interactive_questions:
             - p: 6
               text: What is the descriptive/prescriptive principle?
+              response: Both testaments contain descriptive and prescriptive passages.
+                Some scriptural passages simply describe or recount behavior, while
+                others are intended to prescribe or encourage certain actions or behavior.
               after_body_index: 13
               UID: BIB111.15.3.1.IQ.1
-              response: a) Israel’s sin. b) the fall of Judah and Jerusalem. c) Israel’s
-                future. d) Israel’s coming judgment.
             - p: 7
               text: How should a reader apply the hermeneutics principle that notes
                 the context?
+              response: He or she must pay attention to the immediate context of the
+                phrase in question as well as look at the context of the verse, chapter,
+                and the entire book of the Bible. Further, he or she should determine
+                whether a New Testament passage interprets an Old Testament passage.
               after_body_index: 13
               UID: BIB111.15.3.1.IQ.2
-              response: a) wrath against unrepentant sin. b) peace. c) righteousness.
-                d) faithfulness and unfailing love.
             - p: 3
               text: What laws from the Old Testament are authoritative for people
                 today?
@@ -114015,17 +114300,20 @@ courses:
             interactive_questions:
             - p: 6
               text: What is the descriptive/prescriptive principle?
+              response: Both testaments contain descriptive and prescriptive passages.
+                Some scriptural passages simply describe or recount behavior, while
+                others are intended to prescribe or encourage certain actions or behavior.
               after_body_index: 13
               UID: BIB111.15.3.2.IQ.1
-              response: a) Israel’s sin. b) the fall of Judah and Jerusalem. c) Israel’s
-                future. d) Israel’s coming judgment.
             - p: 7
               text: How should a reader apply the hermeneutics principle that notes
                 the context?
+              response: He or she must pay attention to the immediate context of the
+                phrase in question as well as look at the context of the verse, chapter,
+                and the entire book of the Bible. Further, he or she should determine
+                whether a New Testament passage interprets an Old Testament passage.
               after_body_index: 13
               UID: BIB111.15.3.2.IQ.2
-              response: a) wrath against unrepentant sin. b) peace. c) righteousness.
-                d) faithfulness and unfailing love.
             - p: 3
               text: What laws from the Old Testament are authoritative for people
                 today?
