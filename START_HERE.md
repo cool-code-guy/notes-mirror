@@ -611,9 +611,9 @@ Level 3 · 11 chapters · 29 lessons · 63 subobjectives
 - The Example of the Israelites (10:1–11:1) (3.2.1, 3.2.2)
 
 **4 - Christian Worship (1 Corinthians 11:2–12:11)**
-- 4.1 (4.1.1, 4.1.2)
-- 4.2 (4.2.1)
-- 4.3 (4.3.1, 4.3.2)
+- Instructions on Worship (11:2–16) (4.1.1, 4.1.2)
+- Instructions on the Lord’s Supper (11:17–34) (4.2.1)
+- Instructions on Spiritual Gifts (12:1–11) (4.3.1, 4.3.2)
 
 **5 - Chapter 5**
 - Spiritual Gifts and the Body (12:12–13:13) (5.1.1, 5.1.2)

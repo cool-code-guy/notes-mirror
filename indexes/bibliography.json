@@ -1,5 +1,5 @@
 {
-  "entry_count": 1107,
+  "entry_count": 1118,
   "index_version": 1,
   "works": [
     {
@@ -1029,10 +1029,10 @@
         "BIB313"
       ],
       "editor": null,
-      "place": "Grand Rapids",
-      "publisher": "Zondervan",
-      "raw": "Arrington, French L., and Roger Stronstad, eds. 1999. Full Life Bible Commentary to the New Testament: An International Commentary for Spirit-filled Christians . Grand Rapids: Zondervan.",
-      "title": "Full Life Bible Commentary to the New Testament: An International Commentary for Spirit-filled Christians",
+      "place": null,
+      "publisher": null,
+      "raw": "Arrington, French L., and Roger Stronstad, eds. 1999. Full Life Bible Commentary to the New Testament: An International Commentary for Spirit-Filled Christians . Zondervan.",
+      "title": "Full Life Bible Commentary to the New Testament: An International Commentary for Spirit-Filled Christians",
       "url": null,
       "volume": null,
       "year": "1999"
@@ -1332,10 +1332,10 @@
       "courses": [
         "BIB313"
       ],
-      "editor": "Rev",
-      "place": "Philadelphia",
+      "editor": null,
+      "place": null,
       "publisher": "Westminster Press",
-      "raw": "Barclay, William. 1975. The Letters to the Corinthians . Rev. ed. Philadelphia: Westminster Press.",
+      "raw": "Barclay, William. 1975. The Letters to the Corinthians . Rev. ed. Westminster Press.",
       "title": "The Letters to the Corinthians",
       "url": null,
       "volume": null,
@@ -2378,9 +2378,9 @@
         "BIB313"
       ],
       "editor": null,
-      "place": "Grand Rapids",
-      "publisher": "Eerdmans",
-      "raw": "Bittlinger, Arnold. 1973. Gifts and Ministries . Grand Rapids: Eerdmans.",
+      "place": null,
+      "publisher": "Gifts and Ministries . Eerdmans",
+      "raw": "Bittlinger, Arnold. 1973. Gifts and Ministries . Eerdmans.",
       "title": "Gifts and Ministries",
       "url": null,
       "volume": null,
@@ -3445,9 +3445,9 @@
         "BIB313"
       ],
       "editor": null,
-      "place": "Grand Rapids",
-      "publisher": "Eerdmans",
-      "raw": "Bruce, F. F. 1977. Paul: Apostle of the Heart Set Free . Grand Rapids: Eerdmans.",
+      "place": null,
+      "publisher": null,
+      "raw": "Bruce, F. F. 1977. Paul: Apostle of the Heart Set Free . Eerdmans.",
       "title": "Paul: Apostle of the Heart Set Free",
       "url": null,
       "volume": null,
@@ -3999,9 +3999,9 @@
         "BIB313"
       ],
       "editor": "Ralph W. Harris",
-      "place": "Springfield, MO",
+      "place": null,
       "publisher": "World Library Press",
-      "raw": "Carlson, G. Raymond, Paul A. Hamar, and Russell Wisehart. 1989. Romans–Corinthians . Vol. 6, The Complete Biblical Library , ed. Ralph W. Harris. Springfield, MO: World Library Press.",
+      "raw": "Carlson, G. Raymond, Paul A. Hamar, and Russell Wisehart. 1989. Romans–Corinthians . Vol. 6, The Complete Biblical Library , ed. Ralph W. Harris. World Library Press.",
       "title": "Romans–Corinthians",
       "url": null,
       "volume": "6",
@@ -4081,9 +4081,9 @@
         "BIB313"
       ],
       "editor": null,
-      "place": "Grand Rapids",
-      "publisher": "Baker",
-      "raw": "Carson, D. A. 1987. Showing the Spirit: A Theological Exposition of 1 Corinthians 12–14 . Grand Rapids: Baker.",
+      "place": null,
+      "publisher": null,
+      "raw": "Carson, D. A. 1987. Showing the Spirit: A Theological Exposition of 1 Corinthians 12–14 . Baker.",
       "title": "Showing the Spirit: A Theological Exposition of 1 Corinthians 12–14",
       "url": null,
       "volume": null,
@@ -7254,7 +7254,7 @@
       "year": "1995"
     },
     {
-      "authors": "Fee, Gordon D————",
+      "authors": "Fee, Gordon D",
       "citation_count": 6,
       "cited_in": [
         "THE311.11.3.1",
@@ -7272,9 +7272,9 @@
         "THE311"
       ],
       "editor": null,
-      "place": "Peabody, MA",
+      "place": null,
       "publisher": "Hendrickson Publishers",
-      "raw": "Fee, Gordon D————. 1996. Paul, the Spirit, and the People of God . Peabody, MA: Hendrickson Publishers.",
+      "raw": "Fee, Gordon D. 1996. Paul, the Spirit, and the People of God . Hendrickson Publishers.",
       "title": "Paul, the Spirit, and the People of God",
       "url": null,
       "volume": null,
@@ -7314,10 +7314,10 @@
       "courses": [
         "BIB313"
       ],
-      "editor": null,
-      "place": "Grand Rapids",
-      "publisher": "Zondervan",
-      "raw": "Fee, Gordon D., and Douglas Stuart. 2003. How to Read the Bible for All Its Worth . 3rd ed. Grand Rapids: Zondervan.",
+      "editor": "Zondervan",
+      "place": null,
+      "publisher": null,
+      "raw": "Fee, Gordon D., and Douglas Stuart. 2003. How to Read the Bible for All Its Worth . 3rd ed. Zondervan.",
       "title": "How to Read the Bible for All Its Worth",
       "url": null,
       "volume": null,
@@ -7395,10 +7395,10 @@
       "courses": [
         "BIB313"
       ],
-      "editor": null,
-      "place": "Grand Rapids",
-      "publisher": "Eerdmans",
-      "raw": "Ferguson, Everett. 1993. Backgrounds of Early Christianity . 2nd ed. Grand Rapids: Eerdmans.",
+      "editor": "Eerdmans",
+      "place": null,
+      "publisher": null,
+      "raw": "Ferguson, Everett. 1993. Backgrounds of Early Christianity . 2nd ed. Eerdmans.",
       "title": "Backgrounds of Early Christianity",
       "url": null,
       "volume": null,
@@ -8038,6 +8038,25 @@
       "year": "1997"
     },
     {
+      "authors": "Gardner, Paul",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "gardner2018",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB313"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Gardner, Paul. 2018. 1 Corinthians. Zondervan.",
+      "title": "1 Corinthians",
+      "url": null,
+      "volume": null,
+      "year": "2018"
+    },
+    {
       "authors": "Garland, David E",
       "citation_count": 1,
       "cited_in": [
@@ -8057,6 +8076,25 @@
       "url": null,
       "volume": null,
       "year": "2003"
+    },
+    {
+      "authors": "Garland, David E., and Nijay K. Gupta",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "garland2025",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB313"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": "HarperCollins Christian Publishing",
+      "raw": "Garland, David E., and Nijay K. Gupta. 2025. 2 Corinthians, Volume 8. HarperCollins Christian Publishing.",
+      "title": "2 Corinthians, Volume 8. HarperCollins Christian Publishing",
+      "url": null,
+      "volume": "8",
+      "year": "2025"
     },
     {
       "authors": "Garrison, Alton",
@@ -8690,9 +8728,9 @@
         "BIB313"
       ],
       "editor": null,
-      "place": "Grand Rapids",
-      "publisher": "Kregel Publications",
-      "raw": "Godet, Frederic L. 1977. Commentary on First Corinthians . Grand Rapids: Kregel Publications.",
+      "place": null,
+      "publisher": null,
+      "raw": "Godet, Frederic L. 1977. Commentary on First Corinthians . Kregel Publications.",
       "title": "Commentary on First Corinthians",
       "url": null,
       "volume": null,
@@ -8826,8 +8864,11 @@
     },
     {
       "authors": "Gonzalez, Justo L",
-      "citation_count": 0,
-      "cited_in": [],
+      "citation_count": 2,
+      "cited_in": [
+        "BIB313.4.1.1",
+        "BIB313.4.1.2"
+      ],
       "citekey": "gonzalez1970",
       "container": null,
       "course_count": 1,
@@ -8835,9 +8876,9 @@
         "BIB313"
       ],
       "editor": null,
-      "place": "Nashville",
+      "place": null,
       "publisher": "Abingdon Press",
-      "raw": "Gonzalez, Justo L. 1970. A History of the Christian Thought . Vol. 1. Nashville: Abingdon Press.",
+      "raw": "Gonzalez, Justo L. 1970. A History of the Christian Thought . Vol. 1. Abingdon Press.",
       "title": "A History of the Christian Thought",
       "url": null,
       "volume": "1",
@@ -9197,9 +9238,9 @@
         "BIB313"
       ],
       "editor": null,
-      "place": "Louisville, KY",
-      "publisher": "Westminster-John Knox Press",
-      "raw": "Grenz, Stanley J. 1998. What Christians Really Believe and Why . Louisville, KY: Westminster-John Knox Press.",
+      "place": null,
+      "publisher": null,
+      "raw": "Grenz, Stanley J. 1998. What Christians Really Believe and Why . Westminster-John Knox Press.",
       "title": "What Christians Really Believe and Why",
       "url": null,
       "volume": null,
@@ -9212,15 +9253,15 @@
         "BIB313.8.2.1"
       ],
       "citekey": "grenz1999",
-      "container": "Pocket Dictionary of Theological Terms",
+      "container": "Pocket Dictionary of Theological Terms . InterVarsity Press",
       "course_count": 1,
       "courses": [
         "BIB313"
       ],
       "editor": null,
-      "place": "Downers Grove, IL",
+      "place": null,
       "publisher": "InterVarsity Press",
-      "raw": "Grenz, Stanley J., David Guretzki, and Cherith Fee Nordling. 1999. “Asceticism.” In Pocket Dictionary of Theological Terms . Downers Grove, IL: InterVarsity Press.",
+      "raw": "Grenz, Stanley J., David Guretzki, and Cherith Fee Nordling. 1999. “Asceticism.” In Pocket Dictionary of Theological Terms . InterVarsity Press.",
       "title": "Asceticism",
       "url": null,
       "volume": null,
@@ -9350,7 +9391,7 @@
       "year": "1985"
     },
     {
-      "authors": "Grudem, Wayne——",
+      "authors": "Grudem, Wayne",
       "citation_count": 0,
       "cited_in": [],
       "citekey": "grudem1990",
@@ -9362,14 +9403,14 @@
       "editor": null,
       "place": null,
       "publisher": null,
-      "raw": "Grudem, Wayne——. 1990. “The Meaning of kephalē : A Response to Recent Studies.” Trinity Journal 11 NS (1): 3–72.",
+      "raw": "Grudem, Wayne. 1990. “The Meaning of kephalē : A Response to Recent Studies.” Trinity Journal 11 NS (1): 3–72.",
       "title": "The Meaning of kephalē : A Response to Recent Studies",
       "url": null,
       "volume": null,
       "year": "1990"
     },
     {
-      "authors": "Grudem, Wayne————",
+      "authors": "Grudem, Wayne",
       "citation_count": 3,
       "cited_in": [
         "BIB313.11.1.1",
@@ -9383,9 +9424,9 @@
         "BIB313"
       ],
       "editor": null,
-      "place": "Ventura, CA",
+      "place": null,
       "publisher": "Regal Books",
-      "raw": "Grudem, Wayne————. 1993. “Should Christians Expect Miracles Today?” In The Kingdom and the Power , ed. Gary S. Greig and Kevin N. Springer, 63–66. Ventura, CA: Regal Books.",
+      "raw": "Grudem, Wayne. 1993. “Should Christians Expect Miracles Today?” In The Kingdom and the Power , ed. Gary S. Greig and Kevin N. Springer, 63–66. Regal Books.",
       "title": "Should Christians Expect Miracles Today?",
       "url": null,
       "volume": null,
@@ -9415,7 +9456,7 @@
       "year": "1994"
     },
     {
-      "authors": "Grudem, Wayne——————",
+      "authors": "Grudem, Wayne",
       "citation_count": 0,
       "cited_in": [],
       "citekey": "grudem2001",
@@ -9427,7 +9468,7 @@
       "editor": "Real and Alleg",
       "place": null,
       "publisher": null,
-      "raw": "Grudem, Wayne——————. 2001. “The Meaning of kephalē (‘Head’): An Evaluation of New Evidence, Real and Alleged.” Journal of the Evangelical Theological Society , 44 (March): 25–65.",
+      "raw": "Grudem, Wayne. 2001. “The Meaning of kephalē (‘Head’): An Evaluation of New Evidence, Real and Alleged.” Journal of the Evangelical Theological Society , 44 (March): 25–65.",
       "title": "The Meaning of kephalē (‘Head’): An Evaluation of New Evidence, Real and Alleged",
       "url": null,
       "volume": null,
@@ -9668,6 +9709,25 @@
       "year": "1990"
     },
     {
+      "authors": "Guthrie, George H",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "guthrie2015",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB313"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": "Baker Academic",
+      "raw": "Guthrie, George H. 2015. 2 Corinthians. Baker Academic.",
+      "title": "2 Corinthians",
+      "url": null,
+      "volume": null,
+      "year": "2015"
+    },
+    {
       "authors": "Haenchen, E",
       "citation_count": 4,
       "cited_in": [
@@ -9897,7 +9957,7 @@
       "editor": null,
       "place": "London",
       "publisher": "SCM Press",
-      "raw": "Hanson, R.P.C. 1954. II Corinthians. London: SCM Press. Quoted in Micheal Grant, St. Paul (London: Phoenix Press, 1976), 5.",
+      "raw": "Hanson, R.P.C. 1954. II Corinthians. London: SCM Press. Quoted in Michael Grant, St. Paul (Phoenix Press, 1976), 5.",
       "title": "II Corinthians",
       "url": null,
       "volume": null,
@@ -10284,9 +10344,9 @@
         "BIB313"
       ],
       "editor": null,
-      "place": "Downers Grove, IL",
-      "publisher": "InterVarsity Press",
-      "raw": "Hawthorne, Gerald F., and Ralph P. Martin, eds. 1993. Dictionary of Paul and His Letters . Downers Grove, IL: InterVarsity Press.",
+      "place": null,
+      "publisher": "Dictionary of Paul and His Letters . InterVarsity Press",
+      "raw": "Hawthorne, Gerald F., and Ralph P. Martin, eds. 1993. Dictionary of Paul and His Letters . InterVarsity Press.",
       "title": "Dictionary of Paul and His Letters",
       "url": null,
       "volume": null,
@@ -10550,22 +10610,22 @@
         "BIB313.7.1.1"
       ],
       "citekey": "hernando1999",
-      "container": "Full Life Bible Commentary to the New Testament: An International Commentary for Spirit-filled Christians",
+      "container": "Full Life Bible Commentary to the New Testament: An International Commentary for Spirit-Filled Christians",
       "course_count": 1,
       "courses": [
         "BIB313"
       ],
       "editor": "French L. Arrington and Roger Stronstad",
-      "place": "Grand Rapids",
+      "place": null,
       "publisher": "Zondervan",
-      "raw": "Hernando, James D. 1999. “2 Corinthians.” In Full Life Bible Commentary to the New Testament: An International Commentary for Spirit-filled Christians , ed. French L. Arrington and Roger Stronstad. Grand Rapids: Zondervan.",
+      "raw": "Hernando, James D. 1999. “2 Corinthians.” In Full Life Bible Commentary to the New Testament: An International Commentary for Spirit-Filled Christians , ed. French L. Arrington and Roger Stronstad. Zondervan.",
       "title": "2 Corinthians",
       "url": null,
       "volume": null,
       "year": "1999"
     },
     {
-      "authors": "Hernando, James D——",
+      "authors": "Hernando, James D",
       "citation_count": 0,
       "cited_in": [],
       "citekey": "hernando2005",
@@ -10575,9 +10635,9 @@
         "BIB313"
       ],
       "editor": null,
-      "place": "Springfield, MO",
+      "place": null,
       "publisher": "Gospel Publishing House",
-      "raw": "Hernando, James D——. 2005. Dictionary of Hermeneutics: A Concise Guide to Terms, Names, Methods and Expressions. Springfield, MO: Gospel Publishing House.",
+      "raw": "Hernando, James D. 2005. Dictionary of Hermeneutics: A Concise Guide to Terms, Names, Methods and Expressions. Gospel Publishing House.",
       "title": "Dictionary of Hermeneutics: A Concise Guide to Terms, Names, Methods and Expressions",
       "url": null,
       "volume": null,
@@ -10804,9 +10864,9 @@
         "BIB313"
       ],
       "editor": null,
-      "place": "Grand Rapids",
-      "publisher": "Eerdmans",
-      "raw": "Hodge, Charles. 1973. An Exposition of the Second Epistle to the Corinthians . Grand Rapids: Eerdmans.",
+      "place": null,
+      "publisher": null,
+      "raw": "Hodge, Charles. 1973. An Exposition of the Second Epistle to the Corinthians . Eerdmans.",
       "title": "An Exposition of the Second Epistle to the Corinthians",
       "url": null,
       "volume": null,
@@ -11240,13 +11300,15 @@
     },
     {
       "authors": "Horton, Stanley M",
-      "citation_count": 7,
+      "citation_count": 9,
       "cited_in": [
         "BIB313.2.3.1",
         "BIB313.2.3.2",
         "BIB313.2.3.3",
         "BIB313.3.1.1",
         "BIB313.3.1.2",
+        "BIB313.4.1.1",
+        "BIB313.4.1.2",
         "BIB313.5.1.1",
         "BIB313.5.1.2"
       ],
@@ -11257,9 +11319,9 @@
         "BIB313"
       ],
       "editor": null,
-      "place": "Springfield, MO",
-      "publisher": "Logion Press",
-      "raw": "Horton, Stanley M. 1999. I & II Corinthians . Springfield, MO: Logion Press.",
+      "place": null,
+      "publisher": "I & II Corinthians . Logion Press",
+      "raw": "Horton, Stanley M. 1999. I & II Corinthians . Logion Press.",
       "title": "I & II Corinthians",
       "url": null,
       "volume": null,
@@ -11697,6 +11759,25 @@
       "url": null,
       "volume": null,
       "year": "1995"
+    },
+    {
+      "authors": "Instone-Brewer, David",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "instonebrewer2003",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB313"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": "InterVarsity Press",
+      "raw": "Instone-Brewer, David. 2003. Divorce and Remarriage in the Church: Biblical Solutions for Pastoral Realities. InterVarsity Press.",
+      "title": "Divorce and Remarriage in the Church: Biblical Solutions for Pastoral Realities",
+      "url": null,
+      "volume": null,
+      "year": "2003"
     },
     {
       "authors": "Introduction to the Apocrypha",
@@ -12204,7 +12285,7 @@
       "year": "2002"
     },
     {
-      "authors": "Keener, Craig S——",
+      "authors": "Keener, Craig S",
       "citation_count": 0,
       "cited_in": [],
       "citekey": "keener2005",
@@ -12214,9 +12295,9 @@
         "BIB313"
       ],
       "editor": null,
-      "place": "New York",
+      "place": null,
       "publisher": "Cambridge University Press",
-      "raw": "Keener, Craig S——. 2005. 1–2 Corinthians . New Cambridge Bible Commentary. New York: Cambridge University Press.",
+      "raw": "Keener, Craig S. 2005. 1–2 Corinthians . New Cambridge Bible Commentary. Cambridge University Press.",
       "title": "1–2 Corinthians",
       "url": null,
       "volume": null,
@@ -12989,6 +13070,29 @@
       "year": "2014"
     },
     {
+      "authors": "Kowalski, Waldemar",
+      "citation_count": 3,
+      "cited_in": [
+        "BIB313.5.2.1",
+        "BIB313.5.2.2",
+        "BIB313.5.2.3"
+      ],
+      "citekey": "kowalski2017",
+      "container": "Asian Journal of Pentecostal Studies",
+      "course_count": 1,
+      "courses": [
+        "BIB313"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Kowalski, Waldemar. 2017. “Does Paul Really Want All Women To Be Silent? 1 Corinthians 14:34–35,” Asian Journal of Pentecostal Studies, 20, # 2: 171–181.",
+      "title": "Does Paul Really Want All Women To Be Silent? 1 Corinthians 14:34–35",
+      "url": null,
+      "volume": null,
+      "year": "2017"
+    },
+    {
       "authors": "Kozak, Aaron",
       "citation_count": 7,
       "cited_in": [
@@ -13092,9 +13196,9 @@
         "BIB313"
       ],
       "editor": null,
-      "place": "Downers Grove, IL",
+      "place": null,
       "publisher": "InterVarsity Press",
-      "raw": "Kroeger, Catherine. 1993. “Head.” In Dictionary of Paul and His Letters , ed. Gerald F. Hawthorne and Ralph P. Martin, 375–377. Downers Grove, IL: InterVarsity Press.",
+      "raw": "Kroeger, Catherine. 1993. “Head.” In Dictionary of Paul and His Letters , ed. Gerald F. Hawthorne and Ralph P. Martin, 375–377. InterVarsity Press.",
       "title": "Head",
       "url": null,
       "volume": null,
@@ -13134,9 +13238,9 @@
         "BIB313"
       ],
       "editor": null,
-      "place": "Grand Rapids",
+      "place": null,
       "publisher": "Eerdmans",
-      "raw": "Kruse, Colin. 1987. The Second Epistle of Paul to the Corinthians: An Introduction and Commentary. Tyndale New Testament Commentaries. Grand Rapids: Eerdmans.",
+      "raw": "Kruse, Colin. 1987. The Second Epistle of Paul to the Corinthians: An Introduction and Commentary. Tyndale New Testament Commentaries. Eerdmans.",
       "title": "The Second Epistle of Paul to the Corinthians: An Introduction and Commentary",
       "url": null,
       "volume": null,
@@ -13552,9 +13656,9 @@
         "BIB313"
       ],
       "editor": null,
-      "place": "Springfield, MO",
-      "publisher": "The Assemblies of God Theological Seminary",
-      "raw": "Lee, Edgar, ed. 2005. He Gave Apostles: Apostolic Ministry in the 21st Century . Springfield, MO: The Assemblies of God Theological Seminary.",
+      "place": null,
+      "publisher": null,
+      "raw": "Lee, Edgar, ed. 2005. He Gave Apostles: Apostolic Ministry in the 21st Century . The Assemblies of God Theological Seminary.",
       "title": "He Gave Apostles: Apostolic Ministry in the 21st Century",
       "url": null,
       "volume": null,
@@ -14013,9 +14117,9 @@
         "BIB313"
       ],
       "editor": null,
-      "place": "Grand Rapids",
-      "publisher": "Zondervan",
-      "raw": "Longenecker, Richard N. 1971. The Ministry and Message of Paul . Grand Rapids: Zondervan.",
+      "place": null,
+      "publisher": "The Ministry and Message of Paul . Zondervan",
+      "raw": "Longenecker, Richard N. 1971. The Ministry and Message of Paul . Zondervan.",
       "title": "The Ministry and Message of Paul",
       "url": null,
       "volume": null,
@@ -14569,9 +14673,9 @@
         "BIB313"
       ],
       "editor": "David A. Hubbard and Glenn W. Barker",
-      "place": "Waco, TX",
+      "place": null,
       "publisher": "Word Books",
-      "raw": "Martin, Ralph P. 1986. 2 Corinthians . Vol. 40, Word Biblical Commentary , ed. David A. Hubbard and Glenn W. Barker. Waco, TX: Word Books.",
+      "raw": "Martin, Ralph P. 1986. 2 Corinthians . Vol. 40, Word Biblical Commentary , ed. David A. Hubbard and Glenn W. Barker. Word Books.",
       "title": "2 Corinthians",
       "url": null,
       "volume": "40",
@@ -15184,9 +15288,9 @@
         "BIB313"
       ],
       "editor": "Gerald F. Hawthorne and Ralph P. Martin",
-      "place": "Downers Grove, IL",
+      "place": null,
       "publisher": "InterVarsity Press",
-      "raw": "McKnight, Scott. 1993. “Collection for the Saints.” In Dictionary of Paul and His Letters , ed. Gerald F. Hawthorne and Ralph P. Martin. Downers Grove, IL: InterVarsity Press.",
+      "raw": "McKnight, Scott. 1993. “Collection for the Saints.” In Dictionary of Paul and His Letters , ed. Gerald F. Hawthorne and Ralph P. Martin. InterVarsity Press.",
       "title": "Collection for the Saints",
       "url": null,
       "volume": null,
@@ -16508,16 +16612,16 @@
         "BIB313"
       ],
       "editor": null,
-      "place": "Collegeville, MN",
-      "publisher": "Liturgical Press",
-      "raw": "Murphy-O’Conner, Jerome. 1983. St. Paul’s Corinth: Texts and Archaeology . Collegeville, MN: Liturgical Press. [2002. 3rd rev. and expanded ed.]",
+      "place": null,
+      "publisher": null,
+      "raw": "Murphy-O’Conner, Jerome. 1983. St. Paul’s Corinth: Texts and Archaeology . Liturgical Press. [2002. 3rd rev. and expanded ed.]",
       "title": "St. Paul’s Corinth: Texts and Archaeology",
       "url": null,
       "volume": null,
       "year": "1983"
     },
     {
-      "authors": "Murphy-O’Conner, Jerome——",
+      "authors": "Murphy-O’Conner, Jerome",
       "citation_count": 2,
       "cited_in": [
         "BIB313.8.4.1",
@@ -16532,7 +16636,7 @@
       "editor": null,
       "place": null,
       "publisher": null,
-      "raw": "Murphy-O’Conner, Jerome——. 1984. “The Corinth That Saint Paul Saw.” Biblical Archaeologist 47: 147–159.",
+      "raw": "Murphy-O’Conner, Jerome. 1984. “The Corinth That Saint Paul Saw.” Biblical Archaeologist 47: 147–159.",
       "title": "The Corinth That Saint Paul Saw",
       "url": null,
       "volume": null,
@@ -17167,6 +17271,25 @@
       "year": "1988"
     },
     {
+      "authors": "Oropeza, B. J",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "oropeza2017",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB313"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": "Cascade Books",
+      "raw": "Oropeza, B. J. 2017. 1 Corinthians . Cascade Books.",
+      "title": "1 Corinthians",
+      "url": null,
+      "volume": null,
+      "year": "2017"
+    },
+    {
       "authors": "Orr, James",
       "citation_count": 7,
       "cited_in": [
@@ -17368,9 +17491,9 @@
         "BIB313"
       ],
       "editor": null,
-      "place": "Springfield, MO",
+      "place": null,
       "publisher": "Logion Press",
-      "raw": "Palma, Anthony D. 1998. The Holy Spirit: A Pentecostal Perspective . Springfield, MO: Logion Press.",
+      "raw": "Palma, Anthony D. 1998. The Holy Spirit: A Pentecostal Perspective . Logion Press.",
       "title": "The Holy Spirit: A Pentecostal Perspective",
       "url": null,
       "volume": null,
@@ -17384,15 +17507,15 @@
         "BIB313.6.2.2"
       ],
       "citekey": "palma1999",
-      "container": "Full Life Bible Commentary to the New Testament: An International Commentary for Spirit-filled Christians",
+      "container": "Full Life Bible Commentary to the New Testament: An International Commentary for Spirit-Filled Christians",
       "course_count": 1,
       "courses": [
         "BIB313"
       ],
       "editor": "French L. Arrington and Roger Stronstad",
-      "place": "Grand Rapids",
+      "place": null,
       "publisher": "Zondervan",
-      "raw": "Palma, Anthony D. 1999. “1 Corinthians.” In Full Life Bible Commentary to the New Testament: An International Commentary for Spirit-filled Christians , ed. French L. Arrington and Roger Stronstad. Grand Rapids: Zondervan.",
+      "raw": "Palma, Anthony D. 1999. “1 Corinthians.” In Full Life Bible Commentary to the New Testament: An International Commentary for Spirit-Filled Christians , ed. French L. Arrington and Roger Stronstad. Zondervan.",
       "title": "1 Corinthians",
       "url": null,
       "volume": null,
@@ -17466,9 +17589,9 @@
         "BIB313"
       ],
       "editor": null,
-      "place": "Grand Rapids",
-      "publisher": "Zondervan",
-      "raw": "Pate, C. Marvin. 1995. The End of the Age Has Come: The Theology of Paul . Grand Rapids: Zondervan.",
+      "place": null,
+      "publisher": null,
+      "raw": "Pate, C. Marvin. 1995. The End of the Age Has Come: The Theology of Paul . Zondervan.",
       "title": "The End of the Age Has Come: The Theology of Paul",
       "url": null,
       "volume": null,
@@ -18604,9 +18727,9 @@
         "BIB313"
       ],
       "editor": null,
-      "place": "Grand Rapids",
+      "place": null,
       "publisher": "Eerdmans",
-      "raw": "Ridderbos, Herman N. 1975. Paul: An Outline of His Theology . Trans. John Richard de Witt. Grand Rapids: Eerdmans.",
+      "raw": "Ridderbos, Herman N. 1975. Paul: An Outline of His Theology . Trans. John Richard de Witt. Eerdmans.",
       "title": "Paul: An Outline of His Theology",
       "url": null,
       "volume": null,
@@ -19574,9 +19697,9 @@
         "BIB313"
       ],
       "editor": null,
-      "place": "Peabody, MA",
-      "publisher": "Hendrickson Publishers",
-      "raw": "Schatzmann, Siegfried S. 1987. A Pauline Theology of Charismata . Peabody, MA: Hendrickson Publishers.",
+      "place": null,
+      "publisher": "A Pauline Theology of Charismata . Hendrickson Publishers",
+      "raw": "Schatzmann, Siegfried S. 1987. A Pauline Theology of Charismata . Hendrickson Publishers.",
       "title": "A Pauline Theology of Charismata",
       "url": null,
       "volume": null,
@@ -19622,6 +19745,25 @@
       "url": null,
       "volume": null,
       "year": "2006"
+    },
+    {
+      "authors": "Schreiner, Thomas R",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "schreiner2018",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB313"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": "IVP Academic",
+      "raw": "Schreiner, Thomas R. 2018. 1 Corinthians : An Introduction and Commentary . IVP Academic.",
+      "title": "1 Corinthians : An Introduction and Commentary",
+      "url": null,
+      "volume": null,
+      "year": "2018"
     },
     {
       "authors": "Schultz, Samuel J",
@@ -19815,6 +19957,25 @@
       "url": null,
       "volume": null,
       "year": "2019"
+    },
+    {
+      "authors": "Seifrid, Mark A",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "seifrid2014",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB313"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": "The Second Letter to the Corinthians . Eerdmans",
+      "raw": "Seifrid, Mark A. 2014. The Second Letter to the Corinthians . Eerdmans.",
+      "title": "The Second Letter to the Corinthians",
+      "url": null,
+      "volume": null,
+      "year": "2014"
     },
     {
       "authors": "Seiler, Linda",
@@ -20904,6 +21065,28 @@
       "year": "2023"
     },
     {
+      "authors": "Suurmond, Jean-Jacques",
+      "citation_count": 2,
+      "cited_in": [
+        "BIB313.4.3.1",
+        "BIB313.4.3.2"
+      ],
+      "citekey": "suurmond1998",
+      "container": "ExpTim",
+      "course_count": 1,
+      "courses": [
+        "BIB313"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Suurmond, Jean-Jacques. 1998. “A Fresh Look at Spirit-Baptism and the Charisms,” ExpTim 109, #4: 103–6.",
+      "title": "A Fresh Look at Spirit-Baptism and the Charisms",
+      "url": null,
+      "volume": null,
+      "year": "1998"
+    },
+    {
       "authors": "Sweet, Leonard, ed",
       "citation_count": 0,
       "cited_in": [],
@@ -21096,10 +21279,10 @@
         "BIB313"
       ],
       "editor": null,
-      "place": "London",
-      "publisher": "Macmillan & Co",
-      "raw": "Taylor, Vincent. 1959. The Gospel according to Mark . London: Macmillan & Co.",
-      "title": "The Gospel according to Mark",
+      "place": null,
+      "publisher": null,
+      "raw": "Taylor, Vincent. 1959. The Gospel According to Mark . Macmillan & Co.",
+      "title": "The Gospel According to Mark",
       "url": null,
       "volume": null,
       "year": "1959"
@@ -21122,6 +21305,25 @@
       "url": "https://www.theatlantic.com/photo/2013/03/100-years-ago-the-1913-womens-suffrage-parade/100465/",
       "volume": null,
       "year": "2013"
+    },
+    {
+      "authors": "Taylor, Mark Edward",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "taylor2014",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB313"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Taylor, Mark Edward. 2014. 1 Corinthians . Broadman & Holman.",
+      "title": "1 Corinthians",
+      "url": null,
+      "volume": null,
+      "year": "2014"
     },
     {
       "authors": "Ten Boom, Corrie",
@@ -23503,6 +23705,28 @@
       "url": null,
       "volume": null,
       "year": "2006"
+    },
+    {
+      "authors": "Winter, Bruce W",
+      "citation_count": 2,
+      "cited_in": [
+        "BIB313.4.1.1",
+        "BIB313.4.1.2"
+      ],
+      "citekey": "winter2003",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB313"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": "W.B. Eerdmans",
+      "raw": "Winter, Bruce W. 2003. Roman Wives, Roman Widows : The Appearance of New Women and the Pauline Communities . W.B. Eerdmans.",
+      "title": "Roman Wives, Roman Widows : The Appearance of New Women and the Pauline Communities",
+      "url": null,
+      "volume": null,
+      "year": "2003"
     },
     {
       "authors": "Witherington, Ben, III",
