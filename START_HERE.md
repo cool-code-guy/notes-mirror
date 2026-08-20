@@ -32,75 +32,75 @@ Level 1 · 15 chapters · 47 lessons · 84 subobjectives
 - The Old Testament (1.1.1, 1.1.2)
 - The Beginnings (Genesis 1–11) (1.2.1, 1.2.2, 1.2.3)
 
-**2 - Chapter 2**
+**2 - The Patriarchs (Genesis 12–50)**
 - Abraham (Genesis 12:1–25:11) (2.1.1, 2.1.2)
 - Isaac (Genesis 24:1–28:9) (2.2.1)
 - Jacob (Genesis 25:19–35:27) (2.3.1, 2.3.2)
 - Joseph (Genesis 37–50) (2.4.1, 2.4.2, 2.4.3)
 
-**3 - Chapter 3**
+**3 - Israel’s Early Years (Exodus–Deuteronomy)**
 - Exodus: Escape from Egypt (3.1.1)
 - Leviticus: Prescription for Living (3.2.1)
 - Numbers: Prescription for Traveling (3.3.1)
 - Deuteronomy: Centrality of the Covenant (3.4.1)
 
-**4 - Chapter 4**
+**4 - Conquest and Life in Canaan (Joshua–1 Samuel)**
 - Joshua: Conquering Canaan (4.1.1, 4.1.2)
 - Judges: Settling Canaan (4.2.1, 4.2.2)
 - Ruth: Providential Grace (4.3.1)
 - 1 Samuel: Kingdom Beginnings (4.4.1, 4.4.2)
 
-**5 - Chapter 5**
+**5 - The Israelite Empire (2 Samuel, 1 and 2 Kings, 1 Chronicles, 2 Chronicles 1–9)**
 - David’s Reign (2 Samuel, 1 Chronicles) (5.1.1, 5.1.2)
 - Solomon’s Reign (1 Kings 1–11; 2 Chronicles 1–9) (5.2.1, 5.2.2)
 - The Northern Kingdom (1 Kings 12–2 Kings 17) (5.3.1, 5.3.2)
 
-**6 - Chapter 6**
+**6 - The Southern Kingdom of Judah (1 and 2 Kings, 2 Chronicles 10–36)**
 - Rehoboam to Ahaz: Judah During the Divided Kingdom (1 Kings 12–22; 2 Kings 8–16; 2 Chronicles 10–28) (6.1.1, 6.1.2)
 - Hezekiah to Zedekiah: Judah, the Surviving Kingdom (2 Kings 18–24; 2 Chronicles 29–36) (6.2.1, 6.2.2)
 
-**7 - Chapter 7**
+**7 - The Postexilic Books (Ezra, Nehemiah, Esther)**
 - Ezra: The Rebuilding of the Temple (7.1.1, 7.1.2, 7.1.3)
 - Nehemiah: The Rebuilding of the Walls (7.2.1)
 - Esther: The Protection of the Nation (7.3.1, 7.3.2)
 
-**8 - Chapter 8**
+**8 - Humanity’s Appeals to God (Job, Psalms)**
 - Job: Perseverance in Suffering (8.1.1, 8.1.2)
 - Psalms: Israel’s Hymnbook and Prayer Book (8.2.1, 8.2.2, 8.2.3)
 - Psalms: Categories of Psalms (8.3.1)
 
-**9 - Chapter 9**
+**9 - Divine Appeals to Humanity(Proverbs, Ecclesiastes, Song of Songs)**
 - Proverbs (9.1.1, 9.1.2)
 - Ecclesiastes (9.2.1, 9.2.2)
 - Song of Songs (9.3.1, 9.3.2)
 
-**10 - Chapter 10**
+**10 - Israel’s Early Prophets (Jonah, Amos, Hosea)**
 - Jonah: The Fleeing Prophet (10.1.1, 10.1.2)
 - Amos: The Prophesying Shepherd (10.2.1, 10.2.2)
 - Hosea: The Prophet and the Prostitute (10.3.1, 10.3.2, 10.3.3)
 
-**11 - Chapter 11**
+**11 - Judah’s Early Prophets (Joel, Isaiah, Micah)**
 - Joel: The Prophet of Pentecost (11.1.1)
 - Isaiah: The Prophet of the Messiah (11.2.1, 11.2.2)
 - Micah: The Prophet of Judgment and Mercy (11.3.1)
 
-**12 - Chapter 12**
+**12 - The Preexilic Prophets(Nahum, Habakkuk, Zephaniah, Obadiah, Jeremiah)**
 - Nahum: The Prophet of Nineveh’s Fall (12.1.1)
 - Habakkuk: The Prophet of Faith (12.2.1, 12.2.2)
 - Zephaniah: The Prophet of the Day of the Lord (12.3.1)
 - Obadiah: The Prophet Against Edom (12.4.1)
 - Jeremiah and His Lamentations: The Prophet of Weeping (12.5.1, 12.5.2)
 
-**13 - Chapter 13**
+**13 - The Exilic Prophets (Ezekiel, Daniel)**
 - Ezekiel: The Prophet of Dramatic Acting (13.1.1, 13.1.2)
 - Daniel: The Prophet of Divine Sovereignty (13.2.1, 13.2.2)
 
-**14 - Chapter 14**
+**14 - The Postexilic Prophets (Haggai, Zechariah, Malachi)**
 - Haggai: The Prophet of Rebuilding the Temple (14.1.1, 14.1.2)
 - Zechariah: The Prophet of Visionary Encouragement (14.2.1, 14.2.2)
 - Malachi: The Prophet of Giving One’s Best (14.3.1, 14.3.2)
 
-**15 - Chapter 15**
+**15 - The Connection (The Old and New Testaments)**
 - The Discontinuity (15.1.1)
 - The Continuity (15.2.1)
 - The Relevance (15.3.1, 15.3.2)
@@ -615,7 +615,7 @@ Level 3 · 11 chapters · 29 lessons · 63 subobjectives
 - Instructions on the Lord’s Supper (11:17–34) (4.2.1)
 - Instructions on Spiritual Gifts (12:1–11) (4.3.1, 4.3.2)
 
-**5 - Chapter 5**
+**5 - Christian Relationships and Spiritual Gifts (1 Corinthians 12:12–14:40)**
 - Spiritual Gifts and the Body (12:12–13:13) (5.1.1, 5.1.2)
 - Gifts of Prophecy and Tongues (14:1–40) (5.2.1, 5.2.2, 5.2.3)
 
