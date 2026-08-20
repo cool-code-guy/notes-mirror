@@ -2901,6 +2901,10 @@ courses:
               kind: quote
               UID: MIN251.1.4.1.P.10
             glossary: []
+            status: outdated 2026-08-20
+            outdated_reason: confirmed absent from the current source export -- stale
+              from before this course was correctly re-extracted (parser-robustifier
+              reverse-engineering session)
     - last_modified: '2026-05-28'
       title: 2 - The Heart of a Leader
       print_page: 27
@@ -13392,6 +13396,10 @@ courses:
               definition: to fortify, support, strengthen, or boost
               paragraph: MIN251.5.2.2.P.17
               UID: MIN251.5.2.2.G.2
+            status: outdated 2026-08-20
+            outdated_reason: confirmed absent from the current source export -- stale
+              from before this course was correctly re-extracted (parser-robustifier
+              reverse-engineering session)
       - last_modified: '2026-06-12'
         title: Communicating Vision Clearly
         subobjectives:
@@ -15722,6 +15730,10 @@ courses:
             text: 6.3.2
             last_modified: '2026-07-06'
             glossary: []
+            status: outdated 2026-08-20
+            outdated_reason: confirmed absent from the current source export -- stale
+              from before this course was correctly re-extracted (parser-robustifier
+              reverse-engineering session)
       - last_modified: '2026-06-12'
         title: Collective Counsel and Unity
         subobjectives:
@@ -20373,6 +20385,10 @@ courses:
               paragraph: MIN251.8.2.2.P.16
               UID: MIN251.8.2.2.S.4
             glossary: []
+            status: outdated 2026-08-20
+            outdated_reason: confirmed absent from the current source export -- stale
+              from before this course was correctly re-extracted (parser-robustifier
+              reverse-engineering session)
       - last_modified: '2026-06-12'
         title: Trusting God in Uncertainty
         subobjectives:
