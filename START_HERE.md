@@ -1184,7 +1184,7 @@ Level 2 · 12 chapters · 42 lessons · 47 subobjectives
 - 9. Describe how people skills impact leadership and explain the ways in which such skills are developed.
 - 10. Identify and explain key principles concerning time management and how a person can focus his or her greatest energy on the highest of his or her priorities.
 
-**1 - Leading Yourself Before Leading Others**
+**1 - The Foundation of Christ-Centered Leadership**
 - Jesus as the Model for Leadership (1.1.1)
 - Identity Formed in Christ (1.2.1)
 - Leading from Overflow, Not Emptiness (1.3.1)
@@ -1204,25 +1204,25 @@ Level 2 · 12 chapters · 42 lessons · 47 subobjectives
 - The Definition and Blessing of Testing (4.2.1)
 - The Ten Tests of Leadership Development (4.3.1)
 
-**5 - The Mission of the Church**
+**5 - Developing God’s Vision**
 - Seeking God’s Direction (5.1.1)
 - Aligning Vision with God’s Mission (5.2.1, 5.2.2)
 - Communicating Vision Clearly (5.3.1)
 - Inspiring Others to the Vision (5.4.1)
 
-**6 - The Vision of the Church**
+**6 - Decision Making and Discernment**
 - Wisdom from Above (6.1.1)
 - Discerning God’s Will (6.2.1)
 - Balancing Faith and Practicality (6.3.1, 6.3.2)
 - Collective Counsel and Unity (6.4.1)
 
-**7 - A Biblical Model of Ministry**
+**7 - Stewardship and Responsibility**
 - Stewarding God’s Resources (7.1.1)
 - Time Management as Kingdom Stewardship (7.2.1)
 - Financial Integrity (7.3.1)
 - Responsibility to Care for People (7.4.1)
 
-**8 - The Jethro Principle of Leadership**
+**8 - Leading Through Change and Challenges**
 - Courage to Face Opposition (8.1.1)
 - Navigating Conflict with Grace (8.2.1, 8.2.2)
 - Trusting God in Uncertainty (8.3.1)
@@ -1239,7 +1239,7 @@ Level 2 · 12 chapters · 42 lessons · 47 subobjectives
 - What Every Leader Should Know About People (10.2.1)
 - Keys to Becoming a People Person (10.3.1)
 
-**11 - Priorities and Decision Making**
+**11 - Communication as a Leadership Tool**
 - Speaking with Truth and Grace (11.1.1)
 - Listening with Wisdom (11.2.1)
 - Encouragement as a Leadership Practice (11.3.1)
