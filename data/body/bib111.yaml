@@ -81856,6 +81856,12 @@ courses:
         kind: prose
         cls: IST_Body-Indent
         UID: BIB111.CH10.INTRO.P.1
+      - text: ''
+        kind: image
+        src: BBIB111ENE01-90_01.26.01-web-resources/image/Ch_10_Timeline_Assyrians_Babylonians.png
+        alt: A graph showing the population of Babylonians and Assyrians.
+        caption: 'Figure 10.1: Timeline of Israel’s kings and prophets'
+        UID: BIB111.CH10.INTRO.IMG.1
       - text: God became angry with Israel because of His people’s participation in
           sinful practices and consistent breaking of their covenant with Him. The
           prophets’ voices fell on deaf ears. God therefore commissioned Syrian kings
@@ -81865,7 +81871,7 @@ courses:
           the Syrians.
         kind: prose
         cls: IST_Body-Indent
-        UID: BIB111.CH10.INTRO.P.2
+        UID: BIB111.CH10.INTRO.P.3
       lessons:
       - last_modified: '2026-03-27'
         title: 'Jonah: The Fleeing Prophet'

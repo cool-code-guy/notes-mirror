@@ -177,6 +177,77 @@ courses:
         UID: MIN251.UNIT3.INTRO.P.3
     - title: Course Conclusion
       chapters: []
+      intro_body:
+      - text: ''
+        kind: image
+        src: MIN251_UMD-web-resources/image/IST-Reference-List-Header.png
+        alt: ''
+        UID: MIN251.UNIT4.INTRO.IMG.1
+      - text: ''
+        kind: image
+        src: MIN251_UMD-web-resources/image/CV-ECM.png
+        alt: ''
+        UID: MIN251.UNIT4.INTRO.IMG.2
+      - text: ''
+        kind: image
+        src: MIN251_UMD-web-resources/image/CV-SLR.png
+        alt: ''
+        UID: MIN251.UNIT4.INTRO.IMG.3
+      - text: ''
+        kind: image
+        src: MIN251_UMD-web-resources/image/SLR-Ins-1.png
+        alt: ''
+        UID: MIN251.UNIT4.INTRO.IMG.4
+      - text: ''
+        kind: image
+        src: MIN251_UMD-web-resources/image/SLR-Ins-2.png
+        alt: ''
+        UID: MIN251.UNIT4.INTRO.IMG.5
+      - text: ''
+        kind: image
+        src: MIN251_UMD-web-resources/image/SLR-RF.png
+        alt: ''
+        UID: MIN251.UNIT4.INTRO.IMG.6
+      - text: ''
+        kind: image
+        src: MIN251_UMD-web-resources/image/CV-UPE-Ins.png
+        alt: ''
+        UID: MIN251.UNIT4.INTRO.IMG.7
+      - text: ''
+        kind: image
+        src: MIN251_UMD-web-resources/image/Follow-UPEs.png
+        alt: ''
+        UID: MIN251.UNIT4.INTRO.IMG.8
+      - text: ''
+        kind: image
+        src: MIN251_UMD-web-resources/image/Follow-UPEs1.png
+        alt: ''
+        UID: MIN251.UNIT4.INTRO.IMG.9
+      - text: ''
+        kind: image
+        src: MIN251_UMD-web-resources/image/Follow-Fin-UPE.png
+        alt: ''
+        UID: MIN251.UNIT4.INTRO.IMG.10
+      - text: ''
+        kind: image
+        src: MIN251_UMD-web-resources/image/CV-Ans-Keys.png
+        alt: ''
+        UID: MIN251.UNIT4.INTRO.IMG.11
+      - text: ''
+        kind: image
+        src: MIN251_UMD-web-resources/image/CV-Forms.png
+        alt: ''
+        UID: MIN251.UNIT4.INTRO.IMG.12
+      - text: ''
+        kind: image
+        src: MIN251_UMD-web-resources/image/Round_Tripper.png
+        alt: ''
+        UID: MIN251.UNIT4.INTRO.IMG.13
+      - text: ''
+        kind: image
+        src: MIN251_UMD-web-resources/image/Req-Fin-Ex-new_testament_survey.png
+        alt: ''
+        UID: MIN251.UNIT4.INTRO.IMG.14
     bibliography:
     - raw: 'Carter, Doug. 2000. Big Picture People: Overcoming a Knothole View of
         Life . Beacon Hill Press.'
@@ -191,6 +262,7 @@ courses:
       url: null
       notes: null
       pages: 33–34
+      suggested_reading: false
       citekey: carter2000
       cited_in:
       - MIN251.4.2.1
@@ -207,6 +279,7 @@ courses:
       url: null
       notes: null
       pages: '108'
+      suggested_reading: false
       citekey: elliot1958
       cited_in:
       - MIN251.2.1.1
@@ -224,6 +297,7 @@ courses:
       url: null
       notes: null
       pages: 82, 85
+      suggested_reading: false
       citekey: elmore2001
       cited_in:
       - MIN251.12.2.1
@@ -239,6 +313,7 @@ courses:
       url: null
       notes: null
       pages: null
+      suggested_reading: false
       citekey: maxwell1993devel
       cited_in: []
     - raw: 'Maxwell, John. 1997. The Success Journey: The Process of Living Your Dreams
@@ -254,6 +329,7 @@ courses:
       url: null
       notes: null
       pages: '172'
+      suggested_reading: false
       citekey: maxwell1997b
       cited_in:
       - MIN251.10.2.1
@@ -270,6 +346,7 @@ courses:
       url: null
       notes: null
       pages: '33'
+      suggested_reading: false
       citekey: maxwell1998
       cited_in:
       - MIN251.10.2.1
@@ -286,6 +363,7 @@ courses:
       url: null
       notes: null
       pages: null
+      suggested_reading: false
       citekey: maxwell2000a
       cited_in: []
     - raw: 'Maxwell, John. 2000b. The 21 Most Powerful Minutes in a Leader’s Day:
@@ -302,6 +380,7 @@ courses:
       url: null
       notes: null
       pages: null
+      suggested_reading: false
       citekey: maxwell2000b
       cited_in: []
     - raw: Maxwell, John. 2002. Your Road Map for Success . Thomas Nelson, Inc.
@@ -316,6 +395,7 @@ courses:
       url: null
       notes: null
       pages: '11'
+      suggested_reading: false
       citekey: maxwell2002
       cited_in:
       - MIN251.2.1.1
@@ -333,6 +413,7 @@ courses:
       url: null
       notes: null
       pages: null
+      suggested_reading: false
       citekey: maxwell2003a
       cited_in: []
     - raw: 'Maxwell, John. 2003b. Notebook 2 (series of 6): Million Leaders Mandate
@@ -348,6 +429,7 @@ courses:
       url: null
       notes: null
       pages: null
+      suggested_reading: false
       citekey: maxwell2003b
       cited_in: []
     - raw: 'Maxwell, John. 2003c. Notebook 3 (series of 6): Million Leaders Mandate
@@ -363,6 +445,7 @@ courses:
       url: null
       notes: null
       pages: null
+      suggested_reading: false
       citekey: maxwell2003c
       cited_in: []
     - raw: Maxwell, John. 2004. Equipping 101 . Thomas Nelson, Inc.
@@ -377,6 +460,7 @@ courses:
       url: null
       notes: null
       pages: null
+      suggested_reading: false
       citekey: maxwell2004
       cited_in: []
     - raw: Maxwell, John. 2005. Winning with People . Thomas Nelson, Inc.
@@ -391,6 +475,7 @@ courses:
       url: null
       notes: null
       pages: 25, 188
+      suggested_reading: false
       citekey: maxwell2005
       cited_in:
       - MIN251.10.2.1
@@ -408,6 +493,7 @@ courses:
       url: null
       notes: null
       pages: null
+      suggested_reading: false
       citekey: maxwell1997a
       cited_in: []
     - raw: 'Scroggins, Clay. 2019. How to Lead in a World of Distraction: Four Simple
@@ -424,6 +510,7 @@ courses:
       url: null
       notes: null
       pages: '24'
+      suggested_reading: false
       citekey: scroggins2019
       cited_in:
       - MIN251.8.5.1
@@ -440,6 +527,7 @@ courses:
       url: null
       notes: null
       pages: null
+      suggested_reading: false
       citekey: sinek2009
       cited_in: []
     - raw: 'Steadman, Ray. 1993. Loving God’s Word: Exploring the Gospel of John .
@@ -455,6 +543,7 @@ courses:
       url: null
       notes: null
       pages: null
+      suggested_reading: false
       citekey: steadman1993
       cited_in: []
     - raw: 'Toler, Stan. 2004. The Secret Blend: A Parable of Rich Success . Waterbook
@@ -470,6 +559,7 @@ courses:
       url: null
       notes: null
       pages: 168–172
+      suggested_reading: false
       citekey: toler2004
       cited_in:
       - MIN251.10.3.1
@@ -487,6 +577,7 @@ courses:
       url: null
       notes: null
       pages: '89'
+      suggested_reading: false
       citekey: woolfe2002
       cited_in:
       - MIN251.2.2.1
@@ -1051,7 +1142,7 @@ courses:
               UID: MIN251.1.1.1.P.10
             - p: 4
               kind: image
-              src: BMIN251ENE03-90_03.26.01-web-resources/image/Chapter_01_Love&Serve.jpg
+              src: MIN251_UMD-web-resources/image/Chapter_01_Love&Serve.jpg
               caption: 'Figure 1.1: Leading from love with a heart to serve'
               alt: ''
               UID: MIN251.1.1.1.IMG.4
@@ -11360,7 +11451,7 @@ courses:
               UID: MIN251.4.3.1.P.34
             - p: 35
               kind: image
-              src: BMIN251ENE03-90_03.26.01-web-resources/image/Ch_04_Promotion.png
+              src: MIN251_UMD-web-resources/image/Ch_04_Promotion.png
               caption: ''
               alt: 'A drawing of a man standing on a bridge with the words "Proposition:
                 Growth Becomes Visible" written above him.'
@@ -13867,7 +13958,7 @@ courses:
               UID: MIN251.5.4.1.P.13
             - p: 15
               kind: image
-              src: BMIN251ENE03-90_03.26.01-web-resources/image/Chapter_05_Three_People.jpg
+              src: MIN251_UMD-web-resources/image/Chapter_05_Three_People.jpg
               caption: 'Figure 5.1: Passion is contagious.'
               alt: ''
               UID: MIN251.5.4.1.IMG.1
@@ -14664,7 +14755,7 @@ courses:
               UID: MIN251.6.2.1.P.13
             - p: 6
               kind: image
-              src: BMIN251ENE03-90_03.26.01-web-resources/image/Chapter_06_Man_Praying.jpg
+              src: MIN251_UMD-web-resources/image/Chapter_06_Man_Praying.jpg
               caption: 'Figure 6.1: Actively engage in prayer and meditation.'
               alt: ''
               UID: MIN251.6.2.1.IMG.3
@@ -17128,7 +17219,7 @@ courses:
               UID: MIN251.7.3.1.P.13
             - p: 4
               kind: image
-              src: BMIN251ENE03-90_03.26.01-web-resources/image/Chapter_07_Coins.jpg
+              src: MIN251_UMD-web-resources/image/Chapter_07_Coins.jpg
               caption: 'Figure 7.1: Financial integrity builds trust'
               alt: ''
               UID: MIN251.7.3.1.IMG.3
@@ -20829,7 +20920,7 @@ courses:
               UID: MIN251.8.4.1.P.5
             - p: 7
               kind: image
-              src: BMIN251ENE03-90_03.26.01-web-resources/image/Chpater_08_Run_the_Race.jpg
+              src: MIN251_UMD-web-resources/image/Chpater_08_Run_the_Race.jpg
               caption: 'Figure 8.1: “Run with perseverance the race.”'
               alt: ''
               UID: MIN251.8.4.1.IMG.1
@@ -23600,7 +23691,7 @@ courses:
               source_uid: MIN251.10.1.1.P.17
             - p: 19
               kind: image
-              src: BMIN251ENE03-90_03.26.01-web-resources/image/Ch_10_Connection.png
+              src: MIN251_UMD-web-resources/image/Ch_10_Connection.png
               caption: ''
               alt: ''
               UID: MIN251.10.1.1.IMG.1
@@ -28598,7 +28689,7 @@ courses:
               UID: MIN251.11.4.1.P.2
             - p: 4
               kind: image
-              src: BMIN251ENE03-90_03.26.01-web-resources/image/Chapter_11_Storyteller.jpg
+              src: MIN251_UMD-web-resources/image/Chapter_11_Storyteller.jpg
               caption: 'Figure 11.1: Effective storytelling helps truth connect with
                 people.'
               alt: ''
