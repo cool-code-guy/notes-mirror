@@ -91,169 +91,298 @@ courses:
       - text: Books of the Law and History from a National Point of View
         kind: heading
         cls: IST_Table-Header
+        table: 11
+        row: 1
+        col: 1
+        colspan: 2
+        header: true
         md: '**Books of the Law and History from a National Point of View**'
         UID: BIB111.UNIT2.INTRO.P.2
       - text: Book
         kind: heading
         cls: IST_Table-Header
+        table: 11
+        row: 2
+        col: 1
+        header: true
         UID: BIB111.UNIT2.INTRO.P.3
       - text: Theme
         kind: heading
         cls: IST_Table-Header
+        table: 11
+        row: 2
+        col: 2
+        header: true
         UID: BIB111.UNIT2.INTRO.P.4
       - text: 'Law: The Foundation for Christ'
         kind: heading
         cls: IST_Table-Header
+        table: 11
+        row: 3
+        col: 1
+        colspan: 2
         md: '**Law: The Foundation for Christ**'
         UID: BIB111.UNIT2.INTRO.P.5
       - text: Genesis
         kind: chart
         cls: IST_Table-Body
+        table: 11
+        row: 4
+        col: 1
         UID: BIB111.UNIT2.INTRO.P.6
       - text: The election of the nation
         kind: chart
         cls: IST_Table-Body
+        table: 11
+        row: 4
+        col: 2
         UID: BIB111.UNIT2.INTRO.P.7
       - text: Exodus
         kind: chart
         cls: IST_Table-Body
+        table: 11
+        row: 5
+        col: 1
         UID: BIB111.UNIT2.INTRO.P.8
       - text: The redemption of the nation
         kind: chart
         cls: IST_Table-Body
+        table: 11
+        row: 5
+        col: 2
         UID: BIB111.UNIT2.INTRO.P.9
       - text: Leviticus
         kind: chart
         cls: IST_Table-Body
+        table: 11
+        row: 6
+        col: 1
         UID: BIB111.UNIT2.INTRO.P.10
       - text: The sanctification of the nation
         kind: chart
         cls: IST_Table-Body
+        table: 11
+        row: 6
+        col: 2
         UID: BIB111.UNIT2.INTRO.P.11
       - text: Numbers
         kind: chart
         cls: IST_Table-Body
+        table: 11
+        row: 7
+        col: 1
         UID: BIB111.UNIT2.INTRO.P.12
       - text: The direction of the nation
         kind: chart
         cls: IST_Table-Body
+        table: 11
+        row: 7
+        col: 2
         UID: BIB111.UNIT2.INTRO.P.13
       - text: Deuteronomy
         kind: chart
         cls: IST_Table-Body
+        table: 11
+        row: 8
+        col: 1
         UID: BIB111.UNIT2.INTRO.P.14
       - text: The instruction of the nation
         kind: chart
         cls: IST_Table-Body
+        table: 11
+        row: 8
+        col: 2
         UID: BIB111.UNIT2.INTRO.P.15
       - text: 'History: The Preparation for Christ'
         kind: heading
         cls: IST_Table-Header
+        table: 11
+        row: 9
+        col: 1
+        colspan: 2
         md: '**History: The Preparation for Christ**'
         UID: BIB111.UNIT2.INTRO.P.16
       - text: Joshua
         kind: chart
         cls: IST_Table-Body
+        table: 11
+        row: 10
+        col: 1
         UID: BIB111.UNIT2.INTRO.P.17
       - text: The possession of the nation
         kind: chart
         cls: IST_Table-Body
+        table: 11
+        row: 10
+        col: 2
         UID: BIB111.UNIT2.INTRO.P.18
       - text: Judges/Ruth
         kind: chart
         cls: IST_Table-Body
+        table: 11
+        row: 11
+        col: 1
         UID: BIB111.UNIT2.INTRO.P.19
       - text: The oppression of the nation
         kind: chart
         cls: IST_Table-Body
+        table: 11
+        row: 11
+        col: 2
         UID: BIB111.UNIT2.INTRO.P.20
       - text: 1 Samuel
         kind: chart
         cls: IST_Table-Body
+        table: 11
+        row: 12
+        col: 1
         UID: BIB111.UNIT2.INTRO.P.21
       - text: The kingdom of the nation
         kind: chart
         cls: IST_Table-Body
+        table: 11
+        row: 12
+        col: 2
         UID: BIB111.UNIT2.INTRO.P.22
       - text: 2 Samuel
         kind: chart
         cls: IST_Table-Body
+        table: 11
+        row: 13
+        col: 1
         UID: BIB111.UNIT2.INTRO.P.23
       - text: The expansion of the nation
         kind: chart
         cls: IST_Table-Body
+        table: 11
+        row: 13
+        col: 2
         UID: BIB111.UNIT2.INTRO.P.24
       - text: 1 Kings 1–11
         kind: chart
         cls: IST_Table-Body
+        table: 11
+        row: 14
+        col: 1
         UID: BIB111.UNIT2.INTRO.P.25
       - text: The glory of the nation
         kind: chart
         cls: IST_Table-Body
+        table: 11
+        row: 14
+        col: 2
         UID: BIB111.UNIT2.INTRO.P.26
       - text: 1 Kings 12–22
         kind: chart
         cls: IST_Table-Body
+        table: 11
+        row: 15
+        col: 1
         UID: BIB111.UNIT2.INTRO.P.27
       - text: The division of the nation
         kind: chart
         cls: IST_Table-Body
+        table: 11
+        row: 15
+        col: 2
         UID: BIB111.UNIT2.INTRO.P.28
       - text: 2 Kings 1–17
         kind: chart
         cls: IST_Table-Body
+        table: 11
+        row: 16
+        col: 1
         UID: BIB111.UNIT2.INTRO.P.29
       - text: The fall of the northern nation
         kind: chart
         cls: IST_Table-Body
+        table: 11
+        row: 16
+        col: 2
         UID: BIB111.UNIT2.INTRO.P.30
       - text: 2 Kings 18–25
         kind: chart
         cls: IST_Table-Body
+        table: 11
+        row: 17
+        col: 1
         UID: BIB111.UNIT2.INTRO.P.31
       - text: The exile of the southern nation
         kind: chart
         cls: IST_Table-Body
+        table: 11
+        row: 17
+        col: 2
         UID: BIB111.UNIT2.INTRO.P.32
       - text: 1 Chronicles
         kind: chart
         cls: IST_Table-Body
+        table: 11
+        row: 18
+        col: 1
         UID: BIB111.UNIT2.INTRO.P.33
       - text: The preparation of the nation’s temple
         kind: chart
         cls: IST_Table-Body
+        table: 11
+        row: 18
+        col: 2
         UID: BIB111.UNIT2.INTRO.P.34
       - text: 2 Chronicles
         kind: chart
         cls: IST_Table-Body
+        table: 11
+        row: 19
+        col: 1
         UID: BIB111.UNIT2.INTRO.P.35
       - text: The destruction of the nation’s temple
         kind: chart
         cls: IST_Table-Body
+        table: 11
+        row: 19
+        col: 2
         UID: BIB111.UNIT2.INTRO.P.36
       - text: Ezra
         kind: chart
         cls: IST_Table-Body
+        table: 11
+        row: 20
+        col: 1
         UID: BIB111.UNIT2.INTRO.P.37
       - text: The restoration of the nation’s temple
         kind: chart
         cls: IST_Table-Body
+        table: 11
+        row: 20
+        col: 2
         UID: BIB111.UNIT2.INTRO.P.38
       - text: Nehemiah
         kind: chart
         cls: IST_Table-Body
+        table: 11
+        row: 21
+        col: 1
         UID: BIB111.UNIT2.INTRO.P.39
       - text: The rebuilding of the nation’s capital city
         kind: chart
         cls: IST_Table-Body
+        table: 11
+        row: 21
+        col: 2
         UID: BIB111.UNIT2.INTRO.P.40
       - text: Esther
         kind: chart
         cls: IST_Table-Body
+        table: 11
+        row: 22
+        col: 1
         UID: BIB111.UNIT2.INTRO.P.41
       - text: The protection of the nation’s people
         kind: chart
         cls: IST_Table-Body
+        table: 11
+        row: 22
+        col: 2
         UID: BIB111.UNIT2.INTRO.P.42
     - title: The Poetry and Wisdom Books
       chapters:
@@ -318,59 +447,103 @@ courses:
       - text: Divided (Assyrian) Kingdom
         kind: heading
         cls: IST_Table-Header
+        table: 24
+        row: 1
+        col: 1
+        colspan: 2
+        header: true
         UID: BIB111.UNIT4.INTRO.P.4
       - text: Babylonian Kingdom
         kind: heading
         cls: IST_Table-Header
+        table: 24
+        row: 1
+        col: 2
+        colspan: 2
+        header: true
         UID: BIB111.UNIT4.INTRO.P.5
       - text: Persian Kingdom
         kind: heading
         cls: IST_Table-Header
+        table: 24
+        row: 1
+        col: 3
+        header: true
         UID: BIB111.UNIT4.INTRO.P.6
       - text: 'Prophets to/from Israel: Jonah, Amos, and Hosea'
         kind: chart
         cls: IST_Table-Body
+        table: 24
+        row: 2
+        col: 1
         md: '**Prophets to/from Israel:** Jonah, Amos, and Hosea'
         UID: BIB111.UNIT4.INTRO.P.7
       - text: 'Prophets to Judah: Joel, Isaiah, and Micah'
         kind: chart
         cls: IST_Table-Body
+        table: 24
+        row: 2
+        col: 2
         md: '**Prophets to Judah:** Joel, Isaiah, and Micah'
         UID: BIB111.UNIT4.INTRO.P.8
       - text: 'Pre-Exile Prophets: Nahum, Zephaniah, Habakkuk, Obadiah, and Jeremiah'
         kind: chart
         cls: IST_Table-Body
+        table: 24
+        row: 2
+        col: 3
         md: '**Pre-Exile Prophets:** Nahum, Zephaniah, Habakkuk, Obadiah, and Jeremiah'
         UID: BIB111.UNIT4.INTRO.P.9
       - text: 'Prophets in Exile: Ezekiel and Daniel'
         kind: chart
         cls: IST_Table-Body
+        table: 24
+        row: 2
+        col: 4
         md: '**Prophets in Exile:** Ezekiel and Daniel'
         UID: BIB111.UNIT4.INTRO.P.10
       - text: 'Post-Exile Prophets: Haggai, Zechariah, and Malachi'
         kind: chart
         cls: IST_Table-Body
+        table: 24
+        row: 2
+        col: 5
         md: '**Post-Exile Prophets:** Haggai, Zechariah, and Malachi'
         UID: BIB111.UNIT4.INTRO.P.11
       - text: Chapter 10
         kind: chart
         cls: IST_Table-Body
+        table: 24
+        row: 3
+        col: 1
         UID: BIB111.UNIT4.INTRO.P.12
       - text: Chapter 11
         kind: chart
         cls: IST_Table-Body
+        table: 24
+        row: 3
+        col: 2
         UID: BIB111.UNIT4.INTRO.P.13
       - text: Chapter 12
         kind: chart
         cls: IST_Table-Body
+        table: 24
+        row: 3
+        col: 3
         UID: BIB111.UNIT4.INTRO.P.14
       - text: Chapter 13
         kind: chart
         cls: IST_Table-Body
+        table: 24
+        row: 3
+        col: 4
         UID: BIB111.UNIT4.INTRO.P.15
       - text: Chapter 14
         kind: chart
         cls: IST_Table-Body
+        table: 24
+        row: 3
+        col: 5
         UID: BIB111.UNIT4.INTRO.P.16
     - title: The Later Prophets
       chapters:
@@ -397,41 +570,71 @@ courses:
       - text: Babylonian Kingdom
         kind: heading
         cls: IST_Table-Header
+        table: 27
+        row: 1
+        col: 1
+        colspan: 2
+        header: true
         UID: BIB111.UNIT5.INTRO.P.3
       - text: Persian Kingdom
         kind: heading
         cls: IST_Table-Header
+        table: 27
+        row: 1
+        col: 2
+        header: true
         UID: BIB111.UNIT5.INTRO.P.4
       - text: 'Pre-Exile Prophets: Nahum, Zephaniah, Habakkuk, Obadiah, and Jeremiah'
         kind: chart
         cls: IST_Table-Body
+        table: 27
+        row: 2
+        col: 1
         md: '**Pre-Exile Prophets:** Nahum, Zephaniah, Habakkuk, Obadiah, and Jeremiah'
         UID: BIB111.UNIT5.INTRO.P.5
       - text: 'Prophets in Exile:'
         kind: chart
         cls: IST_Table-Body
+        table: 27
+        row: 2
+        col: 2
         md: '**Prophets in Exile:**'
         UID: BIB111.UNIT5.INTRO.P.6
       - text: Ezekiel and Daniel
         kind: chart
         cls: IST_Table-Body
+        table: 27
+        row: 2
+        col: 2
         UID: BIB111.UNIT5.INTRO.P.7
       - text: 'Post-Exile Prophets: Haggai, Zechariah, and Malachi'
         kind: chart
         cls: IST_Table-Body
+        table: 27
+        row: 2
+        col: 3
         md: '**Post-Exile Prophets:** Haggai, Zechariah, and Malachi'
         UID: BIB111.UNIT5.INTRO.P.8
       - text: Chapter 12
         kind: chart
         cls: IST_Table-Body
+        table: 27
+        row: 3
+        col: 1
         UID: BIB111.UNIT5.INTRO.P.9
       - text: Chapter 13
         kind: chart
         cls: IST_Table-Body
+        table: 27
+        row: 3
+        col: 2
         UID: BIB111.UNIT5.INTRO.P.10
       - text: Chapter 14
         kind: chart
         cls: IST_Table-Body
+        table: 27
+        row: 3
+        col: 3
         UID: BIB111.UNIT5.INTRO.P.11
     revision_cycle_progress: 2.0
     revision_cycle_timestamp: '2026-04-01'
@@ -455,6 +658,7 @@ courses:
       url: null
       notes: null
       pages: '17'
+      suggested_reading: false
       citekey: archer1978
       cited_in:
       - BIB111.1.1.1
@@ -471,6 +675,7 @@ courses:
       url: null
       notes: null
       pages: 58, 74, 123, 216, 146, 151
+      suggested_reading: false
       citekey: arnold1998
       cited_in:
       - BIB111.1.2.1
@@ -498,6 +703,7 @@ courses:
       pages: 104–105, 169, 187–188, 214, 227, 277, 297, 282, 283, 283–284, 284, 321,
         316, 318, 320, 327, 326, 333, 440, 441, 355, 354, 455, 457, 460–461, 385,
         384–402, 402–403, 403, 421, 423–424, 428, 431–432, 434, 464, 466, 468, 476
+      suggested_reading: false
       citekey: arnold1999
       cited_in:
       - BIB111.3.1.1
@@ -553,6 +759,7 @@ courses:
       url: null
       notes: null
       pages: '1368'
+      suggested_reading: false
       citekey: barker1985
       cited_in:
       - BIB111.10.1.1
@@ -570,6 +777,7 @@ courses:
       url: null
       notes: null
       pages: '51'
+      suggested_reading: false
       citekey: blocher1984
       cited_in:
       - BIB111.1.2.1
@@ -588,6 +796,7 @@ courses:
       url: null
       notes: null
       pages: 664, 667, 671–672, 672
+      suggested_reading: false
       citekey: braddy2003
       cited_in:
       - BIB111.6.1.1
@@ -604,6 +813,7 @@ courses:
       url: null
       notes: null
       pages: '141'
+      suggested_reading: false
       citekey: bright1991
       cited_in:
       - BIB111.15.3.1
@@ -621,6 +831,7 @@ courses:
       url: null
       notes: null
       pages: 801–840
+      suggested_reading: false
       citekey: brubaker2003b
       cited_in: []
     - raw: 'Brubaker, Malcolm. 2003b. “On the Edge of Night: Judah from Manasseh to
@@ -636,6 +847,7 @@ courses:
       url: null
       notes: null
       pages: 753–800
+      suggested_reading: false
       citekey: brubaker2003a
       cited_in: []
     - raw: Brueggeman, Dale. 2003a. “Israel Acquires Empire.” In Williams 2003, 457–510.
@@ -650,6 +862,7 @@ courses:
       url: null
       notes: null
       pages: 457–510
+      suggested_reading: false
       citekey: brueggeman2003
       cited_in: []
     - raw: Brueggemann, Walter, with W. H. Bellinger. 2014. Psalms . New Cambridge
@@ -665,6 +878,7 @@ courses:
       url: null
       notes: null
       pages: 5–6
+      suggested_reading: false
       citekey: brueggemann2014
       cited_in:
       - BIB111.8.3.1
@@ -681,6 +895,7 @@ courses:
       url: null
       notes: null
       pages: 511–554
+      suggested_reading: false
       citekey: brueggemann2003
       cited_in: []
     - raw: 'Carr, G. Lloyd. 1984. The Song of Solomon: An Introduction and Commentary
@@ -696,6 +911,7 @@ courses:
       url: null
       notes: null
       pages: 34–35
+      suggested_reading: false
       citekey: carr1984
       cited_in:
       - BIB111.9.3.1
@@ -714,6 +930,7 @@ courses:
       url: null
       notes: null
       pages: 501, 500
+      suggested_reading: false
       citekey: collins2014
       cited_in:
       - BIB111.9.3.1
@@ -731,6 +948,7 @@ courses:
       url: null
       notes: null
       pages: 193, 454, 888
+      suggested_reading: false
       citekey: douglas1978new
       cited_in:
       - BIB111.1.1.1
@@ -751,6 +969,7 @@ courses:
       notes: null
       pages: 57–58, 59, 167, 185, 328, 333, 334, 338, 391, 483, 495, 505, 511, 748,
         725, 742, 783–794, 800, 648–655, 717
+      suggested_reading: false
       citekey: dyer2001
       cited_in:
       - BIB111.3.1.1
@@ -795,6 +1014,7 @@ courses:
       url: null
       notes: null
       pages: null
+      suggested_reading: false
       citekey: geisler1981
       cited_in: []
     - raw: 'Goldingay, John. Genesis . ed. Bill T. Arnold. Baker Commentary on the
@@ -810,6 +1030,7 @@ courses:
       url: null
       notes: null
       pages: null
+      suggested_reading: false
       citekey: ''
       cited_in: []
     - raw: Good, Edwin M. 1965. Irony in the Old Testament . The Westminster Press.
@@ -824,6 +1045,7 @@ courses:
       url: null
       notes: null
       pages: null
+      suggested_reading: false
       citekey: good1965
       cited_in: []
     - raw: Hamilton, Victor P. 2005. Handbook on the Pentateuch, 2nd ed . Baker Academic.
@@ -838,6 +1060,7 @@ courses:
       url: null
       notes: null
       pages: 273, 187, 191, 232, 256
+      suggested_reading: false
       citekey: hamilton2005
       cited_in:
       - BIB111.1.2.1
@@ -858,6 +1081,7 @@ courses:
       url: null
       notes: null
       pages: 180, 182–183
+      suggested_reading: false
       citekey: harris1969
       cited_in:
       - BIB111.1.1.1
@@ -875,6 +1099,7 @@ courses:
       url: null
       notes: null
       pages: 570, 702
+      suggested_reading: false
       citekey: hill2009
       cited_in:
       - BIB111.13.2.1
@@ -896,6 +1121,7 @@ courses:
       pages: 65, 74, 76, 94, 108, 237, 233–234, 285, 289–290, 323, 325, 322, 323–333,
         431, 434, 416, 421–422, 425–426, 428, 373, 375–376, 455, 462, 463–464, 468,
         469–470, 475, 440, 441–442, 385–387, 391, 392, 401, 492, 499–500, 503, 532
+      suggested_reading: false
       citekey: hill2023
       cited_in:
       - BIB111.3.1.1
@@ -945,6 +1171,7 @@ courses:
       url: null
       notes: null
       pages: 218, 226–227
+      suggested_reading: false
       citekey: horton1995syste
       cited_in:
       - BIB111.1.2.1
@@ -963,6 +1190,7 @@ courses:
       url: null
       notes: null
       pages: 706, 707, 710, 717, 730, 733
+      suggested_reading: false
       citekey: israel2003
       cited_in:
       - BIB111.10.1.1
@@ -987,6 +1215,7 @@ courses:
       url: null
       notes: null
       pages: '108'
+      suggested_reading: false
       citekey: jensen1968
       cited_in:
       - BIB111.5.3.1
@@ -1005,6 +1234,7 @@ courses:
       url: null
       notes: null
       pages: '1210'
+      suggested_reading: false
       citekey: kinlaw1991
       cited_in:
       - BIB111.9.3.1
@@ -1021,6 +1251,7 @@ courses:
       url: null
       notes: null
       pages: 561–562
+      suggested_reading: false
       citekey: leupold1969expos
       cited_in:
       - BIB111.8.2.1
@@ -1040,6 +1271,7 @@ courses:
       url: null
       notes: null
       pages: '480'
+      suggested_reading: false
       citekey: lint1998
       cited_in:
       - BIB111.9.3.1
@@ -1056,6 +1288,7 @@ courses:
       url: null
       notes: null
       pages: 52, 65
+      suggested_reading: false
       citekey: longman1988
       cited_in:
       - BIB111.8.2.1
@@ -1074,6 +1307,7 @@ courses:
       url: null
       notes: null
       pages: '77'
+      suggested_reading: false
       citekey: longman2006
       cited_in:
       - BIB111.3.1.1
@@ -1090,6 +1324,7 @@ courses:
       url: null
       notes: null
       pages: 244–245, 253
+      suggested_reading: false
       citekey: mcqueen2003
       cited_in:
       - BIB111.3.1.1
@@ -1106,6 +1341,7 @@ courses:
       url: null
       notes: null
       pages: '138'
+      suggested_reading: false
       citekey: moreland1999
       cited_in:
       - BIB111.1.2.1
@@ -1123,6 +1359,7 @@ courses:
       url: null
       notes: null
       pages: null
+      suggested_reading: false
       citekey: newenglishbiblewiththeapocrypha1970
       cited_in: []
     - raw: Raccah, William. 2003. “From Tribal League to Kingdom.” In Williams 2003,
@@ -1138,6 +1375,7 @@ courses:
       url: null
       notes: null
       pages: 410–411, 453
+      suggested_reading: false
       citekey: raccah2003
       cited_in:
       - BIB111.4.4.1
@@ -1155,6 +1393,7 @@ courses:
       url: null
       notes: null
       pages: '281'
+      suggested_reading: false
       citekey: ryken1993compl
       cited_in:
       - BIB111.9.3.1
@@ -1171,6 +1410,7 @@ courses:
       url: null
       notes: null
       pages: '2'
+      suggested_reading: false
       citekey: schultz2000
       cited_in:
       - BIB111.1.1.1
@@ -1188,6 +1428,7 @@ courses:
       url: null
       notes: null
       pages: 23, 50
+      suggested_reading: false
       citekey: smith1991
       cited_in:
       - BIB111.9.2.1
@@ -1205,6 +1446,7 @@ courses:
       url: null
       notes: null
       pages: 199, 204, 204–205, 206, 216
+      suggested_reading: false
       citekey: stallman2003
       cited_in:
       - BIB111.2.1.1
@@ -1228,6 +1470,7 @@ courses:
       url: null
       notes: null
       pages: 976, 1372–1376
+      suggested_reading: false
       citekey: stamps1992a
       cited_in:
       - BIB111.11.2.1
@@ -1247,6 +1490,7 @@ courses:
       url: null
       notes: null
       pages: 59–100
+      suggested_reading: false
       citekey: williams2003begin
       cited_in: []
     - raw: Wood, Leon J. 1970. A Survey of Israel’s History . Zondervan.
@@ -1261,6 +1505,7 @@ courses:
       url: null
       notes: null
       pages: '129'
+      suggested_reading: false
       citekey: wood1970
       cited_in:
       - BIB111.3.1.1
@@ -1411,7 +1656,7 @@ courses:
         future events in the last days of human history (that is, the period of time
         from the Rapture to the Great White Throne Judgment).
       chapter: 11
-      paragraph: BIB111.11.1.1.P.10
+      paragraph: BIB111.11.1.1.P.41
     - term: deviant
       definition: different from what is considered normal or right
       chapter: 9
@@ -1474,7 +1719,7 @@ courses:
       definition: the practice of wrongfully treating a person (or a group) better
         than others
       chapter: 2
-      paragraph: BIB111.2.4.1.P.29
+      paragraph: BIB111.2.3.1.P.38
     - term: the Flood
       definition: God’s judgment on all life on earth for the people’s great corruption
         in ancient times (Genesis 6–9). God covered the earth with water and then
@@ -1619,7 +1864,7 @@ courses:
         of Weeks, a festival that celebrated the firstfruits of the harvest; called
         “Pentecost” because it was celebrated fifty days after the feast of the Passover
       chapter: 11
-      paragraph: BIB111.11.1.1.P.40
+      paragraph: BIB111.11.1.1.P.41
     - term: pessimistic
       definition: gloomy, negative, cynical, hopeless, or despairing
       chapter: 9
@@ -1727,7 +1972,7 @@ courses:
         that housed the ark of the covenant; considered the dwelling place of God’s
         presence among the Israelites while they journeyed to the Promised Land
       chapter: 1
-      paragraph: BIB111.3.1.1.P.66
+      paragraph: BIB111.3.1.1.P.68
     - term: tenacity
       definition: the quality of being very determined; having a firm resolve
       chapter: 8
@@ -88900,24 +89145,41 @@ courses:
       - text: Divided (Assyrian) Kingdom
         kind: heading
         cls: IST_Table-Header
+        table: 25
+        row: 1
+        col: 1
+        colspan: 2
+        header: true
         UID: BIB111.CH11.INTRO.P.2
       - text: 'Prophets to Israel: Jonah, Amos, and Hosea'
         kind: chart
         cls: IST_Table-Body
+        table: 25
+        row: 2
+        col: 1
         md: '**Prophets to Israel:**Jonah, Amos, and Hosea'
         UID: BIB111.CH11.INTRO.P.3
       - text: 'Prophets to Judah: Joel, Isaiah, and Micah'
         kind: chart
         cls: IST_Table-Body
+        table: 25
+        row: 2
+        col: 2
         md: '**Prophets to Judah:**Joel, Isaiah, and Micah'
         UID: BIB111.CH11.INTRO.P.4
       - text: Chapter 10
         kind: chart
         cls: IST_Table-Body
+        table: 25
+        row: 3
+        col: 1
         UID: BIB111.CH11.INTRO.P.5
       - text: Chapter 11
         kind: chart
         cls: IST_Table-Body
+        table: 25
+        row: 3
+        col: 2
         UID: BIB111.CH11.INTRO.P.6
       - text: While the rulers of the Northern Kingdom led Israel further and further
           into idolatry, the Southern Kingdom’s decline under her leaders was more
