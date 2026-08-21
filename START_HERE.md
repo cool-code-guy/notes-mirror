@@ -1968,7 +1968,7 @@ Level 3 · 12 chapters · 37 lessons · 104 subobjectives
 - The Challenge of Unanswered Prayer (7.2.1)
 - The Blessing of Unanswered Prayer (7.3.1)
 
-**8 - Chapter 8**
+**8 - Spiritual Leaders: A Challenge to Prayer-Driven Leadership**
 - The Need for Leaders Who Pray (8.1.1, 8.1.2, 8.1.3)
 - The Benefits of Leaders Who Pray (8.2.1, 8.2.2)
 - The Peril When Leaders Do Not Pray (8.3.1, 8.3.2, 8.3.3)

@@ -4973,11 +4973,8 @@
     },
     {
       "authors": "Cornwell, Patricia Daniels",
-      "citation_count": 2,
-      "cited_in": [
-        "MIN223.4.1.1",
-        "MIN223.4.1.2"
-      ],
+      "citation_count": 0,
+      "cited_in": [],
       "citekey": "cornwell1983",
       "container": null,
       "course_count": 1,
@@ -5872,11 +5869,8 @@
     },
     {
       "authors": "Dorsett, Lyle W",
-      "citation_count": 2,
-      "cited_in": [
-        "MIN223.10.1.1",
-        "MIN223.10.1.2"
-      ],
+      "citation_count": 0,
+      "cited_in": [],
       "citekey": "dorsett1997",
       "container": null,
       "course_count": 1,
@@ -6110,8 +6104,11 @@
     },
     {
       "authors": "Dunning, Norman G",
-      "citation_count": 0,
-      "cited_in": [],
+      "citation_count": 2,
+      "cited_in": [
+        "MIN223.10.1.1",
+        "MIN223.10.1.2"
+      ],
       "citekey": "dunning1933",
       "container": null,
       "course_count": 1,
@@ -6748,8 +6745,9 @@
     },
     {
       "authors": "Epstein, Daniel Mark",
-      "citation_count": 1,
+      "citation_count": 2,
       "cited_in": [
+        "MIN223.10.3.1",
         "MIN223.9.3.1"
       ],
       "citekey": "epstein1993",
@@ -17061,13 +17059,8 @@
     },
     {
       "authors": "Ockenga, Harold John",
-      "citation_count": 4,
-      "cited_in": [
-        "MIN223.5.3.1",
-        "MIN223.5.3.2",
-        "MIN223.5.3.3",
-        "MIN223.5.3.4"
-      ],
+      "citation_count": 0,
+      "cited_in": [],
       "citekey": "ockenga1959",
       "container": null,
       "course_count": 1,
@@ -19650,8 +19643,9 @@
     },
     {
       "authors": "Sangster, W. E",
-      "citation_count": 1,
+      "citation_count": 2,
       "cited_in": [
+        "MIN223.10.3.1",
         "MIN223.9.3.1"
       ],
       "citekey": "sangster1951",
@@ -20578,10 +20572,9 @@
       "year": "1990"
     },
     {
-      "authors": "Stamps, D",
-      "citation_count": 8,
+      "authors": "Stamps, Donald C., gen. ed",
+      "citation_count": 7,
       "cited_in": [
-        "BIB115.4.2.1",
         "BIB214.11.2.1",
         "BIB214.11.2.2",
         "BIB214.12.4.1",
@@ -20592,36 +20585,37 @@
       ],
       "citekey": "stamps1992",
       "container": null,
-      "course_count": 4,
+      "course_count": 3,
       "courses": [
-        "BIB115",
         "BIB214",
         "BIB322",
         "MIN281"
       ],
       "editor": null,
       "place": "Grand Rapids, MI",
-      "publisher": "Zondervan",
-      "raw": "Stamps, D. 1992. Full Life Study Bible . Grand Rapids, MI: Zondervan.",
-      "title": "Full Life Study Bible",
+      "publisher": "Zondervan Publishing House",
+      "raw": "Stamps, Donald C., gen. ed. 1992. Full Life Study Bible: New International Version. Grand Rapids, MI: Zondervan Publishing House.",
+      "title": "Full Life Study Bible: New International Version",
       "url": null,
       "volume": null,
       "year": "1992"
     },
     {
       "authors": "Stamps, Donald C., gen. ed",
-      "citation_count": 4,
+      "citation_count": 5,
       "cited_in": [
         "BIB111.11.2.1",
         "BIB111.11.2.2",
         "BIB111.14.2.1",
-        "BIB111.14.2.2"
+        "BIB111.14.2.2",
+        "BIB115.4.2.1"
       ],
       "citekey": "stamps1992a",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB111"
+        "BIB111",
+        "BIB115"
       ],
       "editor": null,
       "place": null,
