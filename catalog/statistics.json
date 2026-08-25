@@ -12,9 +12,9 @@
     },
     "paragraphs": {
       "active": 98913,
-      "retired": 17023
+      "retired": 17446
     },
-    "scripture_mentions": 41391
+    "scripture_mentions": 41859
   },
   "courses": {
     "active": 24,
@@ -484,15 +484,15 @@
       "questions": {
         "active": {
           "final": 75,
-          "total": 295,
+          "total": 294,
           "ty": 120,
-          "upe": 100
+          "upe": 99
         },
         "retired": {
           "final": 14,
-          "total": 205,
-          "ty": 109,
-          "upe": 82
+          "total": 273,
+          "ty": 125,
+          "upe": 134
         }
       },
       "status": "active",
@@ -666,16 +666,16 @@
   "questions": {
     "active": {
       "final": 1765,
-      "total": 6967,
+      "total": 6966,
       "ty": 3034,
-      "upe": 2168
+      "upe": 2167
     },
     "retired": {
       "final": 593,
-      "total": 3743,
-      "ty": 1862,
-      "upe": 1288
+      "total": 3811,
+      "ty": 1878,
+      "upe": 1340
     },
-    "total": 10710
+    "total": 10777
   }
 }
