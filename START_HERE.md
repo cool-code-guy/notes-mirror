@@ -1416,7 +1416,7 @@ Level 3 · 12 chapters · 27 lessons · 60 subobjectives
 - Anticipate Challenges to the Sermon (5.1.1, 5.1.2)
 - Organize the Sermon for Understanding (5.2.1, 5.2.2, 5.2.3, 5.2.4)
 
-**6 - Chapter 6**
+**6 - Speaker / Audience Dynamics Part 1: Know Your Audience**
 - The Non-Christian Church (6.1.1, 6.1.2)
 - Church Language (6.2.1, 6.2.2)
 - Background Checks (6.3.1, 6.3.2)
