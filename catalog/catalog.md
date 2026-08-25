@@ -14,13 +14,13 @@ Active content only — retired material is excluded from every figure.
 | --- | --- |
 | Active courses | 24 |
 | Retired courses | 9 |
-| Assessment items | 6,966 |
-| Curriculum paragraphs | 93,429 |
-| Interactive study questions | 8,894 |
-| Scripture references | 34,018 |
-| — distinct passages | 8,370 |
+| Assessment items | 6,967 |
+| Curriculum paragraphs | 98,351 |
+| Interactive study questions | 9,516 |
+| Scripture references | 36,026 |
+| — distinct passages | 8,434 |
 | — biblical books referenced | 65 of 66 |
-| Distinct works cited | 1,118 |
+| Distinct works cited | 1,130 |
 
 ## Suggested pathways
 
@@ -52,7 +52,7 @@ Published sequence toward Licensed Minister credentialing.
 | 1 | Intermediate Ministerial Internship — *not tracked in examdb (practicum course)* | | |
 | 2 | [BIB211](courses/BIB211.md) — Acts: The Holy Spirit at Work in Believers | 2 | 285 |
 | 3 | [MIN227](courses/MIN227.md) — The Local Church in Evangelism | 2 | 320 |
-| 4 | [BIB217](courses/BIB217.md) — Prison Epistles | 2 | 299 |
+| 4 | [BIB217](courses/BIB217.md) — Prison Epistles | 2 | 300 |
 | 5 | [BIB215](courses/BIB215.md) — Romans: Justification by Faith | 2 | 244 |
 | 6 | [MIN223](courses/MIN223.md) — Introduction to Homiletics · proposed renumber to `MIN225` | 2 | 337 |
 | 7 | [MIN251](courses/MIN251.md) — Effective Leadership | 2 | 263 |
@@ -87,7 +87,7 @@ Published sequence toward Ordained Minister credentialing.
 | [BIB121](courses/BIB121.md) | Introduction to Hermeneutics | 1 | 03.23.01 | 15 | 42 | 281 |
 | [BIB211](courses/BIB211.md) | ⚠️ _Acts: The Holy Spirit at Work in Believers (unconfirmed)_ | 2 | 03.22.01 | 13 | 38 | 285 |
 | [BIB215](courses/BIB215.md) | ⚠️ _Romans: Justification by Faith (unconfirmed)_ | 2 | 03.22.01 | 8 | 26 | 244 |
-| [BIB217](courses/BIB217.md) | Prison Epistles | 2 | 03.22.01 | 13 | 40 | 299 |
+| [BIB217](courses/BIB217.md) | Prison Epistles | 2 | 01.26.01 | 13 | 40 | 300 |
 | [BIB313](courses/BIB313.md) | Corinthian Correspondence | 3 | 02.22.01 | 11 | 29 | 290 |
 | [BIB318](courses/BIB318.md) | Pentateuch | 3 | 02.22.01 | 13 | 36 | 334 |
 | [BIB322](courses/BIB322.md) | The Poetic Books | 3 | 02.22.01 | 8 | 27 | 242 |

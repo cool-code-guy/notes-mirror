@@ -1,5 +1,5 @@
 {
-  "entry_count": 1118,
+  "entry_count": 1130,
   "index_version": 1,
   "works": [
     {
@@ -842,19 +842,25 @@
     },
     {
       "authors": "Arnold, C. E",
-      "citation_count": 5,
+      "citation_count": 10,
       "cited_in": [
         "BIB117.5.1.1",
         "BIB117.5.1.2",
         "BIB117.5.1.3",
         "BIB117.5.1.4",
-        "BIB117.5.1.5"
+        "BIB117.5.1.5",
+        "BIB217.5.1.1",
+        "BIB217.5.1.2",
+        "BIB217.5.1.3",
+        "BIB217.5.1.4",
+        "BIB217.5.1.5"
       ],
       "citekey": "arnold1993",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": "Gerald F. Hawthorne and Ralph P. Martin",
       "place": "Downers Grove, IL",
@@ -1235,6 +1241,25 @@
       "url": "https://backlinko.com/screen-time-statistics#]",
       "volume": null,
       "year": "2025"
+    },
+    {
+      "authors": "Bailey, Kenneth E",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "bailey2009",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB217"
+      ],
+      "editor": null,
+      "place": "Downers Grove, IL",
+      "publisher": "IVP Academic",
+      "raw": "Bailey, Kenneth E. 2009. Jesus Through Middle Eastern Eyes: Cultural Studies in the Gospels . Downers Grove, IL: IVP Academic.",
+      "title": "Jesus Through Middle Eastern Eyes: Cultural Studies in the Gospels",
+      "url": null,
+      "volume": null,
+      "year": "2009"
     },
     {
       "authors": "Baird, John S",
@@ -1780,9 +1805,10 @@
       "cited_in": [],
       "citekey": "barth1974",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": "Garden City, NY",
@@ -1795,7 +1821,7 @@
     },
     {
       "authors": "Barton, Bruce B., et al",
-      "citation_count": 15,
+      "citation_count": 30,
       "cited_in": [
         "BIB117.2.1.1",
         "BIB117.2.1.2",
@@ -1811,13 +1837,29 @@
         "BIB117.2.3.4",
         "BIB117.3.1.1",
         "BIB117.3.1.2",
-        "BIB117.3.1.3"
+        "BIB117.3.1.3",
+        "BIB217.2.1.1",
+        "BIB217.2.1.2",
+        "BIB217.2.1.3",
+        "BIB217.2.1.4",
+        "BIB217.2.2.1",
+        "BIB217.2.2.2",
+        "BIB217.2.2.3",
+        "BIB217.2.2.4",
+        "BIB217.2.3.1",
+        "BIB217.2.3.2",
+        "BIB217.2.3.3",
+        "BIB217.2.3.4",
+        "BIB217.3.1.1",
+        "BIB217.3.1.2",
+        "BIB217.3.1.3"
       ],
       "citekey": "barton1995",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": "Grant Osborne and Philip Comfort",
       "place": "Wheaton, IL",
@@ -1834,9 +1876,10 @@
       "cited_in": [],
       "citekey": "bascom1993",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": "Downers Grove, IL",
@@ -2344,6 +2387,44 @@
       "url": null,
       "volume": null,
       "year": "1998"
+    },
+    {
+      "authors": "Bilezikian, Gilbert",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "bilezikian2006",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB217"
+      ],
+      "editor": null,
+      "place": "Grand Rapids, MI",
+      "publisher": "Baker Academic",
+      "raw": "Bilezikian, Gilbert. 2006. Beyond Sex Roles: What the Bible Says about a Woman’s Place in the Church and Family , 3rd ed. Grand Rapids, MI: Baker Academic.",
+      "title": "Beyond Sex Roles: What the Bible Says about a Woman’s Place in the Church and Family",
+      "url": null,
+      "volume": null,
+      "year": "2006"
+    },
+    {
+      "authors": "Birkey, Del",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "birkey2005",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB217"
+      ],
+      "editor": null,
+      "place": "Tuscon, AZ",
+      "publisher": "Fenstra Books ®",
+      "raw": "Birkey, Del. 2005. The Fall of Patriarchy: Its Broken Legacy Judged by Jesus & the Apostolic House Church Communities. Tuscon, AZ: Fenstra Books ® .",
+      "title": "The Fall of Patriarchy: Its Broken Legacy Judged by Jesus & the Apostolic House Church Communities",
+      "url": null,
+      "volume": null,
+      "year": "2005"
     },
     {
       "authors": "Bisagno, John R",
@@ -2876,17 +2957,21 @@
     },
     {
       "authors": "Borthwick, Christie, and Paul Borthwick",
-      "citation_count": 3,
+      "citation_count": 6,
       "cited_in": [
         "BIB117.1.3.1",
         "BIB117.1.3.2",
-        "BIB117.1.3.3"
+        "BIB117.1.3.3",
+        "BIB217.1.3.1",
+        "BIB217.1.3.2",
+        "BIB217.1.3.3"
       ],
       "citekey": "borthwick2001",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": null,
@@ -3108,6 +3193,30 @@
       "url": null,
       "volume": null,
       "year": "1989"
+    },
+    {
+      "authors": "Brauch, Manfred T",
+      "citation_count": 4,
+      "cited_in": [
+        "BIB217.8.1.1",
+        "BIB217.8.1.2",
+        "BIB217.8.1.3",
+        "BIB217.8.1.4"
+      ],
+      "citekey": "brauch2009",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB217"
+      ],
+      "editor": null,
+      "place": "Downers Grove, IL",
+      "publisher": "IVP Academic",
+      "raw": "Brauch, Manfred T. 2009. Abusing Scripture. Downers Grove, IL: IVP Academic.",
+      "title": "Abusing Scripture",
+      "url": null,
+      "volume": null,
+      "year": "2009"
     },
     {
       "authors": "Bray, Gerald",
@@ -3496,7 +3605,7 @@
     },
     {
       "authors": "Bruce, F. F",
-      "citation_count": 37,
+      "citation_count": 74,
       "cited_in": [
         "BIB117.2.2.1",
         "BIB117.2.2.2",
@@ -3534,13 +3643,51 @@
         "BIB117.7.4.3",
         "BIB117.8.3.1",
         "BIB117.8.3.2",
-        "BIB117.8.3.3"
+        "BIB117.8.3.3",
+        "BIB217.2.2.1",
+        "BIB217.2.2.2",
+        "BIB217.2.2.3",
+        "BIB217.2.2.4",
+        "BIB217.3.2.1",
+        "BIB217.3.2.2",
+        "BIB217.3.2.3",
+        "BIB217.3.2.4",
+        "BIB217.3.2.5",
+        "BIB217.3.2.6",
+        "BIB217.4.1.1",
+        "BIB217.4.1.2",
+        "BIB217.4.1.3",
+        "BIB217.5.2.1",
+        "BIB217.5.2.2",
+        "BIB217.5.2.3",
+        "BIB217.5.2.4",
+        "BIB217.5.2.5",
+        "BIB217.5.2.6",
+        "BIB217.5.2.7",
+        "BIB217.6.2.1",
+        "BIB217.6.2.2",
+        "BIB217.6.2.3",
+        "BIB217.6.2.4",
+        "BIB217.6.3.1",
+        "BIB217.6.3.2",
+        "BIB217.6.3.3",
+        "BIB217.6.3.4",
+        "BIB217.7.3.1",
+        "BIB217.7.3.2",
+        "BIB217.7.3.3",
+        "BIB217.7.4.1",
+        "BIB217.7.4.2",
+        "BIB217.7.4.3",
+        "BIB217.8.3.1",
+        "BIB217.8.3.2",
+        "BIB217.8.3.3"
       ],
       "citekey": "bruce1984",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": "Grand Rapids, MI",
@@ -4731,17 +4878,21 @@
     },
     {
       "authors": "Colson, Charles, and Ellen Vaughn",
-      "citation_count": 3,
+      "citation_count": 6,
       "cited_in": [
         "BIB117.11.4.1",
         "BIB117.11.4.2",
-        "BIB117.11.4.3"
+        "BIB117.11.4.3",
+        "BIB217.11.4.1",
+        "BIB217.11.4.2",
+        "BIB217.11.4.3"
       ],
       "citekey": "colson2003",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": "Nashville, TN",
@@ -5530,17 +5681,21 @@
     },
     {
       "authors": "Cymbala, Jim",
-      "citation_count": 3,
+      "citation_count": 6,
       "cited_in": [
         "BIB117.7.3.1",
         "BIB117.7.3.2",
-        "BIB117.7.3.3"
+        "BIB117.7.3.3",
+        "BIB217.7.3.1",
+        "BIB217.7.3.2",
+        "BIB217.7.3.3"
       ],
       "citekey": "cymbala2004",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": null,
@@ -5744,6 +5899,25 @@
       "url": null,
       "volume": null,
       "year": "2000"
+    },
+    {
+      "authors": "deSilva, David A",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "desilva2009",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB217"
+      ],
+      "editor": null,
+      "place": "Downers Grove, IL",
+      "publisher": "IVP Academic",
+      "raw": "deSilva, David A. 2009. Honor, Patronage, Kinship & Purity: Unlocking New Testament Culture . Downers Grove, IL: IVP Academic.",
+      "title": "Honor, Patronage, Kinship & Purity: Unlocking New Testament Culture",
+      "url": null,
+      "volume": null,
+      "year": "2009"
     },
     {
       "authors": "deSilva, David A",
@@ -6065,9 +6239,10 @@
       "cited_in": [],
       "citekey": "dunn1998",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": "Grand Rapids, MI",
@@ -6456,21 +6631,27 @@
     },
     {
       "authors": "Elliot, Elisabeth",
-      "citation_count": 7,
+      "citation_count": 12,
       "cited_in": [
         "BIB117.1.2.1",
         "BIB117.1.2.2",
         "BIB117.1.2.3",
         "BIB117.1.2.4",
         "BIB117.1.2.5",
+        "BIB217.1.2.1",
+        "BIB217.1.2.2",
+        "BIB217.1.2.3",
+        "BIB217.1.2.4",
+        "BIB217.1.2.5",
         "MIN251.2.1.1",
         "MIN251.2.1.2"
       ],
       "citekey": "elliot1958",
       "container": null,
-      "course_count": 2,
+      "course_count": 3,
       "courses": [
         "BIB117",
+        "BIB217",
         "MIN251"
       ],
       "editor": null,
@@ -6790,18 +6971,23 @@
     },
     {
       "authors": "Erickson, Millard J",
-      "citation_count": 4,
+      "citation_count": 8,
       "cited_in": [
         "BIB117.6.2.1",
         "BIB117.6.2.2",
         "BIB117.6.2.3",
-        "BIB117.6.2.4"
+        "BIB117.6.2.4",
+        "BIB217.6.2.1",
+        "BIB217.6.2.2",
+        "BIB217.6.2.3",
+        "BIB217.6.2.4"
       ],
       "citekey": "erickson1986",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": "Grand Rapids, MI",
@@ -7156,9 +7342,10 @@
       "cited_in": [],
       "citekey": "fee1993read",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": "Grand Rapids, MI",
@@ -7171,7 +7358,7 @@
     },
     {
       "authors": "Fee, Gordon D",
-      "citation_count": 13,
+      "citation_count": 23,
       "cited_in": [
         "BIB117.5.3.1",
         "BIB117.5.3.2",
@@ -7183,15 +7370,26 @@
         "BIB117.7.1.2",
         "BIB117.7.1.3",
         "BIB117.7.1.4",
+        "BIB217.5.3.1",
+        "BIB217.5.3.2",
+        "BIB217.5.3.3",
+        "BIB217.6.4.1",
+        "BIB217.6.4.2",
+        "BIB217.6.4.3",
+        "BIB217.7.1.1",
+        "BIB217.7.1.2",
+        "BIB217.7.1.3",
+        "BIB217.7.1.4",
         "BIB313.10.3.1",
         "BIB313.10.3.2",
         "BIB313.10.3.3"
       ],
       "citekey": "fee1994",
       "container": null,
-      "course_count": 2,
+      "course_count": 3,
       "courses": [
         "BIB117",
+        "BIB217",
         "BIB313"
       ],
       "editor": null,
@@ -7205,7 +7403,7 @@
     },
     {
       "authors": "Fee, Gordon D——",
-      "citation_count": 28,
+      "citation_count": 56,
       "cited_in": [
         "BIB117.10.1.1",
         "BIB117.10.1.2",
@@ -7234,13 +7432,42 @@
         "BIB117.13.3.2",
         "BIB117.13.3.3",
         "BIB117.13.3.4",
-        "BIB117.13.3.5"
+        "BIB117.13.3.5",
+        "BIB217.10.1.1",
+        "BIB217.10.1.2",
+        "BIB217.10.1.3",
+        "BIB217.10.1.4",
+        "BIB217.11.2.1",
+        "BIB217.11.2.2",
+        "BIB217.11.2.3",
+        "BIB217.11.2.4",
+        "BIB217.11.3.1",
+        "BIB217.11.3.2",
+        "BIB217.11.3.3",
+        "BIB217.11.4.1",
+        "BIB217.11.4.2",
+        "BIB217.11.4.3",
+        "BIB217.12.2.1",
+        "BIB217.12.2.2",
+        "BIB217.12.2.3",
+        "BIB217.12.3.1",
+        "BIB217.12.3.2",
+        "BIB217.12.3.3",
+        "BIB217.13.2.1",
+        "BIB217.13.2.2",
+        "BIB217.13.2.3",
+        "BIB217.13.3.1",
+        "BIB217.13.3.2",
+        "BIB217.13.3.3",
+        "BIB217.13.3.4",
+        "BIB217.13.3.5"
       ],
       "citekey": "fee1995",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": "Grand Rapids, MI",
@@ -7280,18 +7507,23 @@
     },
     {
       "authors": "Fee, Gordon D————",
-      "citation_count": 4,
+      "citation_count": 8,
       "cited_in": [
         "BIB117.8.1.1",
         "BIB117.8.1.2",
         "BIB117.8.1.3",
-        "BIB117.8.1.4"
+        "BIB117.8.1.4",
+        "BIB217.8.1.1",
+        "BIB217.8.1.2",
+        "BIB217.8.1.3",
+        "BIB217.8.1.4"
       ],
       "citekey": "fee2002",
       "container": "Priscilla Papers",
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": null,
@@ -7323,18 +7555,23 @@
     },
     {
       "authors": "Fenelon, Francois",
-      "citation_count": 4,
+      "citation_count": 8,
       "cited_in": [
         "BIB117.11.2.1",
         "BIB117.11.2.2",
         "BIB117.11.2.3",
-        "BIB117.11.2.4"
+        "BIB117.11.2.4",
+        "BIB217.11.2.1",
+        "BIB217.11.2.2",
+        "BIB217.11.2.3",
+        "BIB217.11.2.4"
       ],
       "citekey": "fenelon1992",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": "Jacksonville, FL",
@@ -7670,7 +7907,7 @@
     },
     {
       "authors": "Foulkes, Francis",
-      "citation_count": 14,
+      "citation_count": 28,
       "cited_in": [
         "BIB117.7.1.1",
         "BIB117.7.1.2",
@@ -7685,13 +7922,28 @@
         "BIB117.8.1.4",
         "BIB117.9.1.1",
         "BIB117.9.1.2",
-        "BIB117.9.1.3"
+        "BIB117.9.1.3",
+        "BIB217.7.1.1",
+        "BIB217.7.1.2",
+        "BIB217.7.1.3",
+        "BIB217.7.1.4",
+        "BIB217.7.4.1",
+        "BIB217.7.4.2",
+        "BIB217.7.4.3",
+        "BIB217.8.1.1",
+        "BIB217.8.1.2",
+        "BIB217.8.1.3",
+        "BIB217.8.1.4",
+        "BIB217.9.1.1",
+        "BIB217.9.1.2",
+        "BIB217.9.1.3"
       ],
       "citekey": "foulkes1979",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": "R. V. G. Tasker",
       "place": "Grand Rapids, MI",
@@ -7855,17 +8107,21 @@
     },
     {
       "authors": "Frazee, Randy",
-      "citation_count": 3,
+      "citation_count": 6,
       "cited_in": [
         "BIB117.4.1.1",
         "BIB117.4.1.2",
-        "BIB117.4.1.3"
+        "BIB117.4.1.3",
+        "BIB217.4.1.1",
+        "BIB217.4.1.2",
+        "BIB217.4.1.3"
       ],
       "citekey": "frazee2001",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": null,
@@ -8569,7 +8825,7 @@
     },
     {
       "authors": "Gill, Deborah M., and Barbara L. Cavaness",
-      "citation_count": 10,
+      "citation_count": 20,
       "cited_in": [
         "BIB117.3.2.1",
         "BIB117.3.2.2",
@@ -8580,15 +8836,26 @@
         "BIB117.8.1.1",
         "BIB117.8.1.2",
         "BIB117.8.1.3",
-        "BIB117.8.1.4"
+        "BIB117.8.1.4",
+        "BIB217.3.2.1",
+        "BIB217.3.2.2",
+        "BIB217.3.2.3",
+        "BIB217.3.2.4",
+        "BIB217.3.2.5",
+        "BIB217.3.2.6",
+        "BIB217.8.1.1",
+        "BIB217.8.1.2",
+        "BIB217.8.1.3",
+        "BIB217.8.1.4"
       ],
       "citekey": "gill2004",
       "container": null,
-      "course_count": 5,
+      "course_count": 6,
       "courses": [
         "BIB116",
         "BIB117",
         "BIB212",
+        "BIB217",
         "BIB313",
         "MIN381"
       ],
@@ -8647,7 +8914,7 @@
     },
     {
       "authors": "Gingrich, Wilbur F",
-      "citation_count": 9,
+      "citation_count": 18,
       "cited_in": [
         "BIB117.10.2.1",
         "BIB117.10.2.2",
@@ -8657,13 +8924,23 @@
         "BIB117.6.3.1",
         "BIB117.6.3.2",
         "BIB117.6.3.3",
-        "BIB117.6.3.4"
+        "BIB117.6.3.4",
+        "BIB217.10.2.1",
+        "BIB217.10.2.2",
+        "BIB217.10.2.3",
+        "BIB217.10.2.4",
+        "BIB217.10.2.5",
+        "BIB217.6.3.1",
+        "BIB217.6.3.2",
+        "BIB217.6.3.3",
+        "BIB217.6.3.4"
       ],
       "citekey": "gingrich1983",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": "Chicago, IL",
@@ -9077,20 +9354,27 @@
     },
     {
       "authors": "Grady, J. Lee",
-      "citation_count": 6,
+      "citation_count": 12,
       "cited_in": [
         "BIB117.3.2.1",
         "BIB117.3.2.2",
         "BIB117.3.2.3",
         "BIB117.3.2.4",
         "BIB117.3.2.5",
-        "BIB117.3.2.6"
+        "BIB117.3.2.6",
+        "BIB217.3.2.1",
+        "BIB217.3.2.2",
+        "BIB217.3.2.3",
+        "BIB217.3.2.4",
+        "BIB217.3.2.5",
+        "BIB217.3.2.6"
       ],
       "citekey": "grady2000",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": "Lake Mary, FL",
@@ -9103,18 +9387,23 @@
     },
     {
       "authors": "Grant, David",
-      "citation_count": 4,
+      "citation_count": 8,
       "cited_in": [
         "BIB117.6.3.1",
         "BIB117.6.3.2",
         "BIB117.6.3.3",
-        "BIB117.6.3.4"
+        "BIB117.6.3.4",
+        "BIB217.6.3.1",
+        "BIB217.6.3.2",
+        "BIB217.6.3.3",
+        "BIB217.6.3.4"
       ],
       "citekey": "grant2004",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": null,
@@ -9496,18 +9785,23 @@
     },
     {
       "authors": "Gundry, Patricia",
-      "citation_count": 4,
+      "citation_count": 8,
       "cited_in": [
         "BIB117.8.1.1",
         "BIB117.8.1.2",
         "BIB117.8.1.3",
-        "BIB117.8.1.4"
+        "BIB117.8.1.4",
+        "BIB217.8.1.1",
+        "BIB217.8.1.2",
+        "BIB217.8.1.3",
+        "BIB217.8.1.4"
       ],
       "citekey": "gundry1980",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": "Grand Rapids, MI",
@@ -9520,7 +9814,7 @@
     },
     {
       "authors": "Gundry, Robert H",
-      "citation_count": 44,
+      "citation_count": 49,
       "cited_in": [
         "BIB116.10.2.1",
         "BIB116.10.2.2",
@@ -9565,15 +9859,21 @@
         "BIB212.9.1.1",
         "BIB212.9.1.2",
         "BIB212.9.3.1",
-        "BIB212.9.3.2"
+        "BIB212.9.3.2",
+        "BIB217.1.1.1",
+        "BIB217.1.1.2",
+        "BIB217.1.1.3",
+        "BIB217.1.1.4",
+        "BIB217.1.1.5"
       ],
       "citekey": "gundry1994",
       "container": null,
-      "course_count": 3,
+      "course_count": 4,
       "courses": [
         "BIB116",
         "BIB117",
-        "BIB212"
+        "BIB212",
+        "BIB217"
       ],
       "editor": null,
       "place": null,
@@ -9643,15 +9943,17 @@
     },
     {
       "authors": "Gupton, Kay Lawing",
-      "citation_count": 1,
+      "citation_count": 2,
       "cited_in": [
-        "BIB117.4.3.1"
+        "BIB117.4.3.1",
+        "BIB217.4.3.1"
       ],
       "citekey": "gupton1998",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": null,
@@ -9693,9 +9995,10 @@
       "cited_in": [],
       "citekey": "guthrie1990",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": "Rev",
       "place": "Downers Grove, IL",
@@ -10304,7 +10607,7 @@
     },
     {
       "authors": "Hawthorne, Gerald F",
-      "citation_count": 8,
+      "citation_count": 16,
       "cited_in": [
         "BIB117.11.4.1",
         "BIB117.11.4.2",
@@ -10313,14 +10616,23 @@
         "BIB117.13.3.2",
         "BIB117.13.3.3",
         "BIB117.13.3.4",
-        "BIB117.13.3.5"
+        "BIB117.13.3.5",
+        "BIB217.11.4.1",
+        "BIB217.11.4.2",
+        "BIB217.11.4.3",
+        "BIB217.13.3.1",
+        "BIB217.13.3.2",
+        "BIB217.13.3.3",
+        "BIB217.13.3.4",
+        "BIB217.13.3.5"
       ],
       "citekey": "hawthorne1983",
       "container": null,
-      "course_count": 2,
+      "course_count": 3,
       "courses": [
         "BIB117",
-        "BIB212"
+        "BIB212",
+        "BIB217"
       ],
       "editor": null,
       "place": "Waco, TX",
@@ -11591,20 +11903,27 @@
     },
     {
       "authors": "Hull, Gretchen Gaebelein",
-      "citation_count": 6,
+      "citation_count": 12,
       "cited_in": [
         "BIB117.3.2.1",
         "BIB117.3.2.2",
         "BIB117.3.2.3",
         "BIB117.3.2.4",
         "BIB117.3.2.5",
-        "BIB117.3.2.6"
+        "BIB117.3.2.6",
+        "BIB217.3.2.1",
+        "BIB217.3.2.2",
+        "BIB217.3.2.3",
+        "BIB217.3.2.4",
+        "BIB217.3.2.5",
+        "BIB217.3.2.6"
       ],
       "citekey": "hull1987",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": "Grand Rapids, MI",
@@ -12184,7 +12503,7 @@
     },
     {
       "authors": "Keener, Craig S",
-      "citation_count": 56,
+      "citation_count": 84,
       "cited_in": [
         "BIB116.1.4.1",
         "BIB116.10.3.1",
@@ -12239,17 +12558,46 @@
         "BIB212.8.2.1",
         "BIB212.9.3.1",
         "BIB212.9.3.2",
+        "BIB217.13.3.1",
+        "BIB217.13.3.2",
+        "BIB217.13.3.3",
+        "BIB217.13.3.4",
+        "BIB217.13.3.5",
+        "BIB217.2.1.1",
+        "BIB217.2.1.2",
+        "BIB217.2.1.3",
+        "BIB217.2.1.4",
+        "BIB217.3.1.1",
+        "BIB217.3.1.2",
+        "BIB217.3.1.3",
+        "BIB217.4.1.1",
+        "BIB217.4.1.2",
+        "BIB217.4.1.3",
+        "BIB217.5.1.1",
+        "BIB217.5.1.2",
+        "BIB217.5.1.3",
+        "BIB217.5.1.4",
+        "BIB217.5.1.5",
+        "BIB217.7.2.1",
+        "BIB217.7.2.2",
+        "BIB217.8.2.1",
+        "BIB217.8.2.2",
+        "BIB217.8.2.3",
+        "BIB217.9.1.1",
+        "BIB217.9.1.2",
+        "BIB217.9.1.3",
         "BIB313.10.2.1",
         "BIB313.2.1.1",
         "BIB313.2.1.2"
       ],
       "citekey": "keener1993",
       "container": null,
-      "course_count": 4,
+      "course_count": 5,
       "courses": [
         "BIB116",
         "BIB117",
         "BIB212",
+        "BIB217",
         "BIB313"
       ],
       "editor": null,
@@ -12519,7 +12867,7 @@
     },
     {
       "authors": "Kent, Homer A. Jr",
-      "citation_count": 26,
+      "citation_count": 52,
       "cited_in": [
         "BIB117.10.1.1",
         "BIB117.10.1.2",
@@ -12546,13 +12894,40 @@
         "BIB117.13.3.2",
         "BIB117.13.3.3",
         "BIB117.13.3.4",
-        "BIB117.13.3.5"
+        "BIB117.13.3.5",
+        "BIB217.10.1.1",
+        "BIB217.10.1.2",
+        "BIB217.10.1.3",
+        "BIB217.10.1.4",
+        "BIB217.10.2.1",
+        "BIB217.10.2.2",
+        "BIB217.10.2.3",
+        "BIB217.10.2.4",
+        "BIB217.10.2.5",
+        "BIB217.11.2.1",
+        "BIB217.11.2.2",
+        "BIB217.11.2.3",
+        "BIB217.11.2.4",
+        "BIB217.12.1.1",
+        "BIB217.12.1.2",
+        "BIB217.13.1.1",
+        "BIB217.13.1.2",
+        "BIB217.13.1.3",
+        "BIB217.13.2.1",
+        "BIB217.13.2.2",
+        "BIB217.13.2.3",
+        "BIB217.13.3.1",
+        "BIB217.13.3.2",
+        "BIB217.13.3.3",
+        "BIB217.13.3.4",
+        "BIB217.13.3.5"
       ],
       "citekey": "kent1978",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": "Frank E. Gaebelein",
       "place": "Grand Rapids, MI",
@@ -12877,9 +13252,10 @@
       "cited_in": [],
       "citekey": "kittel1985",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": "Geoffrey W. Bromiley",
       "place": "Grand Rapids, MI",
@@ -13206,17 +13582,21 @@
     },
     {
       "authors": "Kruger, J., and Dunning, D",
-      "citation_count": 3,
+      "citation_count": 6,
       "cited_in": [
         "BIB117.12.3.1",
         "BIB117.12.3.2",
-        "BIB117.12.3.3"
+        "BIB117.12.3.3",
+        "BIB217.12.3.1",
+        "BIB217.12.3.2",
+        "BIB217.12.3.3"
       ],
       "citekey": "kruger1999",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": null,
@@ -13267,18 +13647,23 @@
     },
     {
       "authors": "Ladd, George Eldon",
-      "citation_count": 4,
+      "citation_count": 8,
       "cited_in": [
         "BIB117.2.2.1",
         "BIB117.2.2.2",
         "BIB117.2.2.3",
-        "BIB117.2.2.4"
+        "BIB117.2.2.4",
+        "BIB217.2.2.1",
+        "BIB217.2.2.2",
+        "BIB217.2.2.3",
+        "BIB217.2.2.4"
       ],
       "citekey": "ladd1974",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": "Grand Rapids, MI",
@@ -13666,17 +14051,21 @@
     },
     {
       "authors": "Lehman, F. M",
-      "citation_count": 3,
+      "citation_count": 6,
       "cited_in": [
         "BIB117.6.4.1",
         "BIB117.6.4.2",
-        "BIB117.6.4.3"
+        "BIB117.6.4.3",
+        "BIB217.6.4.1",
+        "BIB217.6.4.2",
+        "BIB217.6.4.3"
       ],
       "citekey": "lehman1976",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": "Fred Bock",
       "place": "Nashville",
@@ -13861,9 +14250,10 @@
       "cited_in": [],
       "citekey": "lightfoot1876",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": "London",
@@ -14585,6 +14975,25 @@
       "year": "1939"
     },
     {
+      "authors": "Marshall, I. Howard",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "marshall2005",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB217"
+      ],
+      "editor": null,
+      "place": "Downers Grove, IL",
+      "publisher": "InterVarsity Press",
+      "raw": "Marshall, I. Howard. 2005. Mutual Love and Submission in Marriage in Discovering Biblical Equality: Complimentary without Hierarchy . Eds. Ronald W. Pierce, Rebecca Merrill Groothuis, and Gordon D. Fee, 186–204. Downers Grove, IL: InterVarsity Press.",
+      "title": "Discovering Biblical Equality: Complimentary without Hierarchy",
+      "url": null,
+      "volume": null,
+      "year": "2005"
+    },
+    {
       "authors": "Martens, Elmer A",
       "citation_count": 0,
       "cited_in": [],
@@ -14626,7 +15035,7 @@
     },
     {
       "authors": "Martin, Ralph P",
-      "citation_count": 9,
+      "citation_count": 18,
       "cited_in": [
         "BIB117.11.2.1",
         "BIB117.11.2.2",
@@ -14636,13 +15045,23 @@
         "BIB117.13.3.2",
         "BIB117.13.3.3",
         "BIB117.13.3.4",
-        "BIB117.13.3.5"
+        "BIB117.13.3.5",
+        "BIB217.11.2.1",
+        "BIB217.11.2.2",
+        "BIB217.11.2.3",
+        "BIB217.11.2.4",
+        "BIB217.13.3.1",
+        "BIB217.13.3.2",
+        "BIB217.13.3.3",
+        "BIB217.13.3.4",
+        "BIB217.13.3.5"
       ],
       "citekey": "martin1959",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": "Grand Rapids, MI",
@@ -16541,9 +16960,10 @@
       "cited_in": [],
       "citekey": "muller1955",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": "Grand Rapids, MI",
@@ -16739,17 +17159,21 @@
     },
     {
       "authors": "Neven, Tom",
-      "citation_count": 3,
+      "citation_count": 6,
       "cited_in": [
         "BIB117.8.3.1",
         "BIB117.8.3.2",
-        "BIB117.8.3.3"
+        "BIB117.8.3.3",
+        "BIB217.8.3.1",
+        "BIB217.8.3.2",
+        "BIB217.8.3.3"
       ],
       "citekey": "neven2000",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": null,
@@ -16873,17 +17297,21 @@
     },
     {
       "authors": "Oates, Stephen B",
-      "citation_count": 3,
+      "citation_count": 6,
       "cited_in": [
         "BIB117.4.2.1",
         "BIB117.4.2.2",
-        "BIB117.4.2.3"
+        "BIB117.4.2.3",
+        "BIB217.4.2.1",
+        "BIB217.4.2.2",
+        "BIB217.4.2.3"
       ],
       "citekey": "oates1977",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": "New York",
@@ -16934,7 +17362,7 @@
     },
     {
       "authors": "O’Brien, Peter T",
-      "citation_count": 23,
+      "citation_count": 46,
       "cited_in": [
         "BIB117.1.1.1",
         "BIB117.1.1.2",
@@ -16958,13 +17386,37 @@
         "BIB117.4.2.1",
         "BIB117.4.2.2",
         "BIB117.4.2.3",
-        "BIB117.4.3.1"
+        "BIB117.4.3.1",
+        "BIB217.1.1.1",
+        "BIB217.1.1.2",
+        "BIB217.1.1.3",
+        "BIB217.1.1.4",
+        "BIB217.1.1.5",
+        "BIB217.1.3.1",
+        "BIB217.1.3.2",
+        "BIB217.1.3.3",
+        "BIB217.2.1.1",
+        "BIB217.2.1.2",
+        "BIB217.2.1.3",
+        "BIB217.2.1.4",
+        "BIB217.2.3.1",
+        "BIB217.2.3.2",
+        "BIB217.2.3.3",
+        "BIB217.2.3.4",
+        "BIB217.3.1.1",
+        "BIB217.3.1.2",
+        "BIB217.3.1.3",
+        "BIB217.4.2.1",
+        "BIB217.4.2.2",
+        "BIB217.4.2.3",
+        "BIB217.4.3.1"
       ],
       "citekey": "obrien1982",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": "David A. Hubbard and Glenn W. Barker",
       "place": "Waco, TX",
@@ -16977,7 +17429,7 @@
     },
     {
       "authors": "O’Brien, Peter T——",
-      "citation_count": 9,
+      "citation_count": 18,
       "cited_in": [
         "BIB117.11.3.1",
         "BIB117.11.3.2",
@@ -16987,13 +17439,23 @@
         "BIB117.12.2.3",
         "BIB117.13.2.1",
         "BIB117.13.2.2",
-        "BIB117.13.2.3"
+        "BIB117.13.2.3",
+        "BIB217.11.3.1",
+        "BIB217.11.3.2",
+        "BIB217.11.3.3",
+        "BIB217.12.2.1",
+        "BIB217.12.2.2",
+        "BIB217.12.2.3",
+        "BIB217.13.2.1",
+        "BIB217.13.2.2",
+        "BIB217.13.2.3"
       ],
       "citekey": "obrien1991",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": "I. Howard Marshall and W. Ward Gasque",
       "place": "Grand Rapids, MI",
@@ -17006,7 +17468,7 @@
     },
     {
       "authors": "O’Brien, Peter T————",
-      "citation_count": 12,
+      "citation_count": 24,
       "cited_in": [
         "BIB117.10.1.1",
         "BIB117.10.1.2",
@@ -17019,13 +17481,26 @@
         "BIB117.10.2.5",
         "BIB117.11.1.1",
         "BIB117.11.1.2",
-        "BIB117.11.1.3"
+        "BIB117.11.1.3",
+        "BIB217.10.1.1",
+        "BIB217.10.1.2",
+        "BIB217.10.1.3",
+        "BIB217.10.1.4",
+        "BIB217.10.2.1",
+        "BIB217.10.2.2",
+        "BIB217.10.2.3",
+        "BIB217.10.2.4",
+        "BIB217.10.2.5",
+        "BIB217.11.1.1",
+        "BIB217.11.1.2",
+        "BIB217.11.1.3"
       ],
       "citekey": "obrien1993",
       "container": "Dictionary of Paul and His Letters",
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": "Gerald F. Hawthorne and Ralph P. Martin",
       "place": "Downers Grove, IL",
@@ -17252,9 +17727,10 @@
       "cited_in": [],
       "citekey": "opperwall1988",
       "container": "The International Standard Bible Encyclopedia",
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": "Geoffrey W. Bromiley",
       "place": "Grand Rapids, MI",
@@ -17643,17 +18119,21 @@
     },
     {
       "authors": "Patzia, Arthur, G",
-      "citation_count": 3,
+      "citation_count": 6,
       "cited_in": [
         "BIB117.4.1.1",
         "BIB117.4.1.2",
-        "BIB117.4.1.3"
+        "BIB117.4.1.3",
+        "BIB217.4.1.1",
+        "BIB217.4.1.2",
+        "BIB217.4.1.3"
       ],
       "citekey": "patzia1993",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": "Gerald F. Hawthorne and Ralph P. Martin",
       "place": "Downers Grove, IL",
@@ -17732,6 +18212,32 @@
       "url": null,
       "volume": null,
       "year": "1980"
+    },
+    {
+      "authors": "Payne, Philip B. Man and Woman, One in Christ: An Exegetical and Theological Study of Paul’s Letters",
+      "citation_count": 6,
+      "cited_in": [
+        "BIB217.3.2.1",
+        "BIB217.3.2.2",
+        "BIB217.3.2.3",
+        "BIB217.3.2.4",
+        "BIB217.3.2.5",
+        "BIB217.3.2.6"
+      ],
+      "citekey": "payne2009",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB217"
+      ],
+      "editor": null,
+      "place": "Grand Rapids, MI",
+      "publisher": "Zondervan",
+      "raw": "Payne, Philip B. Man and Woman, One in Christ: An Exegetical and Theological Study of Paul’s Letters. 2009. Grand Rapids, MI: Zondervan.",
+      "title": "Man and Woman, One in Christ: An Exegetical and Theological Study of Paul’s Letters",
+      "url": null,
+      "volume": null,
+      "year": "2009"
     },
     {
       "authors": "Pearlman, Myer",
@@ -17915,9 +18421,10 @@
       "cited_in": [],
       "citekey": "peterson1980",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": "Downers Grove, IL",
@@ -17949,17 +18456,21 @@
     },
     {
       "authors": "Peterson, Eugene——",
-      "citation_count": 3,
+      "citation_count": 6,
       "cited_in": [
         "BIB117.13.2.1",
         "BIB117.13.2.2",
-        "BIB117.13.2.3"
+        "BIB117.13.2.3",
+        "BIB217.13.2.1",
+        "BIB217.13.2.2",
+        "BIB217.13.2.3"
       ],
       "citekey": "peterson2000",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": "Downers Grove, IL",
@@ -18596,9 +19107,10 @@
       "cited_in": [],
       "citekey": "rees1979",
       "container": "The International Standard Bible Encyclopedia",
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": "Geoffrey W. Bromiley",
       "place": "Grand Rapids, MI",
@@ -18732,7 +19244,7 @@
     },
     {
       "authors": "Rienecker, Fritz",
-      "citation_count": 14,
+      "citation_count": 28,
       "cited_in": [
         "BIB117.11.2.1",
         "BIB117.11.2.2",
@@ -18747,13 +19259,28 @@
         "BIB117.6.3.4",
         "BIB117.7.4.1",
         "BIB117.7.4.2",
-        "BIB117.7.4.3"
+        "BIB117.7.4.3",
+        "BIB217.11.2.1",
+        "BIB217.11.2.2",
+        "BIB217.11.2.3",
+        "BIB217.11.2.4",
+        "BIB217.3.1.1",
+        "BIB217.3.1.2",
+        "BIB217.3.1.3",
+        "BIB217.6.3.1",
+        "BIB217.6.3.2",
+        "BIB217.6.3.3",
+        "BIB217.6.3.4",
+        "BIB217.7.4.1",
+        "BIB217.7.4.2",
+        "BIB217.7.4.3"
       ],
       "citekey": "rienecker1980",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": "Cleon Rogers, Jr",
       "place": "Grand Rapids, MI",
@@ -18878,7 +19405,7 @@
     },
     {
       "authors": "Robertson, A. T",
-      "citation_count": 8,
+      "citation_count": 16,
       "cited_in": [
         "BIB117.3.2.1",
         "BIB117.3.2.2",
@@ -18887,13 +19414,22 @@
         "BIB117.3.2.5",
         "BIB117.3.2.6",
         "BIB117.7.2.1",
-        "BIB117.7.2.2"
+        "BIB117.7.2.2",
+        "BIB217.3.2.1",
+        "BIB217.3.2.2",
+        "BIB217.3.2.3",
+        "BIB217.3.2.4",
+        "BIB217.3.2.5",
+        "BIB217.3.2.6",
+        "BIB217.7.2.1",
+        "BIB217.7.2.2"
       ],
       "citekey": "robertson1931",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": "Nashville, TN",
@@ -19207,9 +19743,10 @@
       "cited_in": [],
       "citekey": "rossier1989",
       "container": "Complete Biblical Library: New Testament Study Bible",
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": "Ralph W. Harris and Stanley M. Horton",
       "place": "Springfield, MO",
@@ -19345,17 +19882,21 @@
     },
     {
       "authors": "Rupprecht, Arthur A",
-      "citation_count": 3,
+      "citation_count": 6,
       "cited_in": [
         "BIB117.4.1.1",
         "BIB117.4.1.2",
-        "BIB117.4.1.3"
+        "BIB117.4.1.3",
+        "BIB217.4.1.1",
+        "BIB217.4.1.2",
+        "BIB217.4.1.3"
       ],
       "citekey": "rupprecht1978",
       "container": "The Expositor’s Bible Commentary",
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": "Frank E. Gaebelein",
       "place": "Grand Rapids, MI",
@@ -19548,9 +20089,10 @@
       "cited_in": [],
       "citekey": "salmond1956",
       "container": "The Expositors Greek Testament",
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": "Grand Rapids, MI",
@@ -20042,9 +20584,10 @@
       "cited_in": [],
       "citekey": "sharrock1998",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": null,
@@ -20157,16 +20700,19 @@
     },
     {
       "authors": "Sheridan, Chris",
-      "citation_count": 2,
+      "citation_count": 4,
       "cited_in": [
         "BIB117.12.1.1",
-        "BIB117.12.1.2"
+        "BIB117.12.1.2",
+        "BIB217.12.1.1",
+        "BIB217.12.1.2"
       ],
       "citekey": "sheridan2009",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": null,
@@ -20932,17 +21478,21 @@
     },
     {
       "authors": "Strobel, Lee and Jane Vogel",
-      "citation_count": 3,
+      "citation_count": 6,
       "cited_in": [
         "BIB117.6.1.1",
         "BIB117.6.1.2",
-        "BIB117.6.1.3"
+        "BIB117.6.1.3",
+        "BIB217.6.1.1",
+        "BIB217.6.1.2",
+        "BIB217.6.1.3"
       ],
       "citekey": "strobel2001",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": "Grand Rapids, MI",
@@ -21329,9 +21879,10 @@
       "cited_in": [],
       "citekey": "tenboom1978",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": "New York, NY",
@@ -21660,14 +22211,34 @@
       "year": "2015"
     },
     {
+      "authors": "The Holy Bible, New Living Translation",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "theholybible2015b",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB217"
+      ],
+      "editor": null,
+      "place": "Carol stream, IL",
+      "publisher": "Tyndale House Publishers, Inc",
+      "raw": "The Holy Bible, New Living Translation. 2015. Carol stream, IL: Tyndale House Publishers, Inc.",
+      "title": null,
+      "url": null,
+      "volume": null,
+      "year": "2015"
+    },
+    {
       "authors": "The King James Version",
       "citation_count": 0,
       "cited_in": [],
       "citekey": "thekingjamesversion1987",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": null,
@@ -21698,6 +22269,25 @@
       "year": "1971"
     },
     {
+      "authors": "The Living Bible",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "thelivingbible1971b",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB217"
+      ],
+      "editor": null,
+      "place": "Carol Stream, IL",
+      "publisher": "Tyndale House Publishers Inc",
+      "raw": "The Living Bible. 1971. Carol Stream, IL: Tyndale House Publishers Inc.",
+      "title": null,
+      "url": null,
+      "volume": null,
+      "year": "1971"
+    },
+    {
       "authors": "The New Century Version",
       "citation_count": 0,
       "cited_in": [],
@@ -21717,6 +22307,25 @@
       "year": "2005"
     },
     {
+      "authors": "The New Century Version",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "thenewcenturyversion2005b",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB217"
+      ],
+      "editor": null,
+      "place": "Nashville, TN",
+      "publisher": "Thomas Nelson",
+      "raw": "The New Century Version. 2005. Nashville, TN: Thomas Nelson.",
+      "title": null,
+      "url": null,
+      "volume": null,
+      "year": "2005"
+    },
+    {
       "authors": "The New King James Version",
       "citation_count": 0,
       "cited_in": [],
@@ -21725,6 +22334,25 @@
       "course_count": 1,
       "courses": [
         "BIB117"
+      ],
+      "editor": null,
+      "place": "Nashville, TN",
+      "publisher": "Thomas Nelson",
+      "raw": "The New King James Version. 1982. Nashville, TN: Thomas Nelson.",
+      "title": null,
+      "url": null,
+      "volume": null,
+      "year": "1982"
+    },
+    {
+      "authors": "The New King James Version",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "thenewkingjamesversion1982b",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB217"
       ],
       "editor": null,
       "place": "Nashville, TN",
@@ -21926,6 +22554,25 @@
       "course_count": 1,
       "courses": [
         "BIB117"
+      ],
+      "editor": null,
+      "place": "Philadelphia, PA",
+      "publisher": "American Bible Society",
+      "raw": "Today’s English Version (also called Good News Translation). 1992. Philadelphia, PA: American Bible Society.",
+      "title": null,
+      "url": null,
+      "volume": null,
+      "year": "1992"
+    },
+    {
+      "authors": "Today’s English Version (also called Good News Translation)",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "todaysenglishversionalsocalledgoodnewstranslation1992b",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB217"
       ],
       "editor": null,
       "place": "Philadelphia, PA",
@@ -22215,17 +22862,21 @@
     },
     {
       "authors": "Vajnar, Jane",
-      "citation_count": 3,
+      "citation_count": 6,
       "cited_in": [
         "BIB117.12.3.1",
         "BIB117.12.3.2",
-        "BIB117.12.3.3"
+        "BIB117.12.3.3",
+        "BIB217.12.3.1",
+        "BIB217.12.3.2",
+        "BIB217.12.3.3"
       ],
       "citekey": "vajnar1999",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": null,
@@ -22314,7 +22965,7 @@
     },
     {
       "authors": "Vaughan, Curtis",
-      "citation_count": 33,
+      "citation_count": 66,
       "cited_in": [
         "BIB117.1.1.1",
         "BIB117.1.1.2",
@@ -22348,13 +22999,47 @@
         "BIB117.3.3.1",
         "BIB117.3.3.2",
         "BIB117.3.3.3",
-        "BIB117.3.3.4"
+        "BIB117.3.3.4",
+        "BIB217.1.1.1",
+        "BIB217.1.1.2",
+        "BIB217.1.1.3",
+        "BIB217.1.1.4",
+        "BIB217.1.1.5",
+        "BIB217.1.3.1",
+        "BIB217.1.3.2",
+        "BIB217.1.3.3",
+        "BIB217.2.1.1",
+        "BIB217.2.1.2",
+        "BIB217.2.1.3",
+        "BIB217.2.1.4",
+        "BIB217.2.2.1",
+        "BIB217.2.2.2",
+        "BIB217.2.2.3",
+        "BIB217.2.2.4",
+        "BIB217.2.3.1",
+        "BIB217.2.3.2",
+        "BIB217.2.3.3",
+        "BIB217.2.3.4",
+        "BIB217.3.1.1",
+        "BIB217.3.1.2",
+        "BIB217.3.1.3",
+        "BIB217.3.2.1",
+        "BIB217.3.2.2",
+        "BIB217.3.2.3",
+        "BIB217.3.2.4",
+        "BIB217.3.2.5",
+        "BIB217.3.2.6",
+        "BIB217.3.3.1",
+        "BIB217.3.3.2",
+        "BIB217.3.3.3",
+        "BIB217.3.3.4"
       ],
       "citekey": "vaughan1978",
       "container": "The Expositor’s Bible Commentary",
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": "Frank E. Gaebelein",
       "place": "Grand Rapids, MI",
@@ -22451,9 +23136,10 @@
       "cited_in": [],
       "citekey": "vinesexpositorydictionaryofnewtestamentword1985",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": "Seattle, WA",
@@ -22908,18 +23594,23 @@
     },
     {
       "authors": "Watson, Karen",
-      "citation_count": 4,
+      "citation_count": 8,
       "cited_in": [
         "BIB117.2.2.1",
         "BIB117.2.2.2",
         "BIB117.2.2.3",
-        "BIB117.2.2.4"
+        "BIB117.2.2.4",
+        "BIB217.2.2.1",
+        "BIB217.2.2.2",
+        "BIB217.2.2.3",
+        "BIB217.2.2.4"
       ],
       "citekey": "watson2004",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": null,
@@ -23598,19 +24289,25 @@
     },
     {
       "authors": "Wilson, Grady",
-      "citation_count": 5,
+      "citation_count": 10,
       "cited_in": [
         "BIB117.1.2.1",
         "BIB117.1.2.2",
         "BIB117.1.2.3",
         "BIB117.1.2.4",
-        "BIB117.1.2.5"
+        "BIB117.1.2.5",
+        "BIB217.1.2.1",
+        "BIB217.1.2.2",
+        "BIB217.1.2.3",
+        "BIB217.1.2.4",
+        "BIB217.1.2.5"
       ],
       "citekey": "wilson1984",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": null,
       "place": "Nashville",
@@ -23963,7 +24660,7 @@
     },
     {
       "authors": "Wood, A. Skevington",
-      "citation_count": 41,
+      "citation_count": 82,
       "cited_in": [
         "BIB117.5.1.1",
         "BIB117.5.1.2",
@@ -24005,13 +24702,55 @@
         "BIB117.7.3.3",
         "BIB117.7.4.1",
         "BIB117.7.4.2",
-        "BIB117.7.4.3"
+        "BIB117.7.4.3",
+        "BIB217.5.1.1",
+        "BIB217.5.1.2",
+        "BIB217.5.1.3",
+        "BIB217.5.1.4",
+        "BIB217.5.1.5",
+        "BIB217.5.2.1",
+        "BIB217.5.2.2",
+        "BIB217.5.2.3",
+        "BIB217.5.2.4",
+        "BIB217.5.2.5",
+        "BIB217.5.2.6",
+        "BIB217.5.2.7",
+        "BIB217.5.3.1",
+        "BIB217.5.3.2",
+        "BIB217.5.3.3",
+        "BIB217.6.1.1",
+        "BIB217.6.1.2",
+        "BIB217.6.1.3",
+        "BIB217.6.2.1",
+        "BIB217.6.2.2",
+        "BIB217.6.2.3",
+        "BIB217.6.2.4",
+        "BIB217.6.3.1",
+        "BIB217.6.3.2",
+        "BIB217.6.3.3",
+        "BIB217.6.3.4",
+        "BIB217.6.4.1",
+        "BIB217.6.4.2",
+        "BIB217.6.4.3",
+        "BIB217.7.1.1",
+        "BIB217.7.1.2",
+        "BIB217.7.1.3",
+        "BIB217.7.1.4",
+        "BIB217.7.2.1",
+        "BIB217.7.2.2",
+        "BIB217.7.3.1",
+        "BIB217.7.3.2",
+        "BIB217.7.3.3",
+        "BIB217.7.4.1",
+        "BIB217.7.4.2",
+        "BIB217.7.4.3"
       ],
       "citekey": "wood1978expos",
       "container": "The Expositor’s Bible Commentary",
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": "Frank E. Gaebelein",
       "place": "Grand Rapids, MI",
@@ -24586,7 +25325,7 @@
     },
     {
       "authors": "Yancey, Phillip",
-      "citation_count": 7,
+      "citation_count": 14,
       "cited_in": [
         "BIB117.6.1.1",
         "BIB117.6.1.2",
@@ -24594,14 +25333,22 @@
         "BIB117.6.2.1",
         "BIB117.6.2.2",
         "BIB117.6.2.3",
-        "BIB117.6.2.4"
+        "BIB117.6.2.4",
+        "BIB217.6.1.1",
+        "BIB217.6.1.2",
+        "BIB217.6.1.3",
+        "BIB217.6.2.1",
+        "BIB217.6.2.2",
+        "BIB217.6.2.3",
+        "BIB217.6.2.4"
       ],
       "citekey": "yancey1997",
       "container": null,
-      "course_count": 2,
+      "course_count": 3,
       "courses": [
         "BIB117",
-        "BIB215"
+        "BIB215",
+        "BIB217"
       ],
       "editor": null,
       "place": "Grand Rapids, MI",
@@ -24688,19 +25435,25 @@
     },
     {
       "authors": "Youngblood, Ronald F",
-      "citation_count": 5,
+      "citation_count": 10,
       "cited_in": [
         "BIB117.1.2.1",
         "BIB117.1.2.2",
         "BIB117.1.2.3",
         "BIB117.1.2.4",
-        "BIB117.1.2.5"
+        "BIB117.1.2.5",
+        "BIB217.1.2.1",
+        "BIB217.1.2.2",
+        "BIB217.1.2.3",
+        "BIB217.1.2.4",
+        "BIB217.1.2.5"
       ],
       "citekey": "youngblood1986",
       "container": "The International Standard Bible Encyclopedia",
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB117"
+        "BIB117",
+        "BIB217"
       ],
       "editor": "Geoffrey W. Bromiley",
       "place": "Grand Rapids, MI",

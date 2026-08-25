@@ -521,70 +521,70 @@ Level 2 · 13 chapters · 40 lessons · 142 subobjectives
 - 6. Identify key Christian doctrines addressed by Paul, and describe how Paul develops these teachings.
 
 **1 - Introducing Colossians (1:1–14)**
-- 1.1 (1.1.1, 1.1.2, 1.1.3, 1.1.4, 1.1.5)
-- 1.2 (1.2.1, 1.2.2, 1.2.3, 1.2.4, 1.2.5)
-- 1.3 (1.3.1, 1.3.2, 1.3.3)
+- Introducing Paul’s Letter to the Colossians (1:1–14) (1.1.1, 1.1.2, 1.1.3, 1.1.4, 1.1.5)
+- Paul’s Reason for Giving Thanks (1:1–8) (1.2.1, 1.2.2, 1.2.3, 1.2.4, 1.2.5)
+- Paul’s Prayer of Intercession (1:9–14) (1.3.1, 1.3.2, 1.3.3)
 
-**2 - Chapter 2**
-- 2.1 (2.1.1, 2.1.2, 2.1.3, 2.1.4)
-- 2.2 (2.2.1, 2.2.2, 2.2.3, 2.2.4)
-- 2.3 (2.3.1, 2.3.2, 2.3.3, 2.3.4)
+**2 - Who Christ Is and What He Has Accomplished (Colossians 1:15–2:23)**
+- Jesus Christ: Supreme Creator, Sustainer, and Reconciler (1:15–23) (2.1.1, 2.1.2, 2.1.3, 2.1.4)
+- Paul’s Ministry and Message (1:24–2:5) (2.2.1, 2.2.2, 2.2.3, 2.2.4)
+- A Warning about False Teaching (2:6–23) (2.3.1, 2.3.2, 2.3.3, 2.3.4)
 
 **3 - How Christians Should Live (Colossians 3:1–4:18)**
-- 3.1 (3.1.1, 3.1.2, 3.1.3)
-- 3.2 (3.2.1, 3.2.2, 3.2.3, 3.2.4, 3.2.5, 3.2.6)
-- 3.3 (3.3.1, 3.3.2, 3.3.3, 3.3.4)
+- Living the Christ-Life in Your Interpersonal Relationships (3:1–17) (3.1.1, 3.1.2, 3.1.3)
+- Living the Christ-Life at Home (3:18–4:1) (3.2.1, 3.2.2, 3.2.3, 3.2.4, 3.2.5, 3.2.6)
+- Closing Challenges, Observations, and Greetings (4:2–18) (3.3.1, 3.3.2, 3.3.3, 3.3.4)
 
-**4 - Chapter 4**
-- 4.1 (4.1.1, 4.1.2, 4.1.3)
-- 4.2 (4.2.1, 4.2.2, 4.2.3)
-- 4.3 (4.3.1)
+**4 - Introducing Philemon (Philemon vv. 1–25)**
+- Understanding Philemon (vv. 1–25) (4.1.1, 4.1.2, 4.1.3)
+- Paul’s Appreciation of Philemon (vv. 1–7) (4.2.1, 4.2.2, 4.2.3)
+- Paul’s Appeal on Behalf of Onesimus (vv. 8–25) (4.3.1)
 
 **5 - Introducing Ephesians (1:1–23)**
-- 5.1 (5.1.1, 5.1.2, 5.1.3, 5.1.4, 5.1.5)
-- 5.2 (5.2.1, 5.2.2, 5.2.3, 5.2.4, 5.2.5, 5.2.6, 5.2.7)
-- 5.3 (5.3.1, 5.3.2, 5.3.3)
+- Introductory Matters (1:1–23) (5.1.1, 5.1.2, 5.1.3, 5.1.4, 5.1.5)
+- Praise for Every Spiritual Blessing In Christ (1:1–14) (5.2.1, 5.2.2, 5.2.3, 5.2.4, 5.2.5, 5.2.6, 5.2.7)
+- Paul’s Apostolic Prayer (1:15–23) (5.3.1, 5.3.2, 5.3.3)
 
-**6 - Chapter 6**
-- 6.1 (6.1.1, 6.1.2, 6.1.3)
-- 6.2 (6.2.1, 6.2.2, 6.2.3, 6.2.4)
-- 6.3 (6.3.1, 6.3.2, 6.3.3, 6.3.4)
-- 6.4 (6.4.1, 6.4.2, 6.4.3, 6.4.4)
+**6 - What God Has Accomplished in Christ (Ephesians 2:1–3:21)**
+- The Before and After of Those In Christ: Part 1 (2:1–10) (6.1.1, 6.1.2, 6.1.3)
+- The Before and After of Those In Christ: Part 2 (2:11–22) (6.2.1, 6.2.2, 6.2.3, 6.2.4)
+- The Revelation of the Mystery of Christ (3:1–13) (6.3.1, 6.3.2, 6.3.3, 6.3.4)
+- Prayer and Doxology (3:14–21) (6.4.1, 6.4.2, 6.4.3, 6.4.4)
 
-**7 - Chapter 7**
-- 7.1 (7.1.1, 7.1.2, 7.1.3, 7.1.4)
-- 7.2 (7.2.1, 7.2.2)
-- 7.3 (7.3.1, 7.3.2, 7.3.3)
-- 7.4 (7.4.1, 7.4.2, 7.4.3)
+**7 - Paul’s Appeal and God’s Goal: Christ Fully Expressed (Ephesians 4:1–5:21)**
+- Christ Fully Expressed through the Church (4:1–16) (7.1.1, 7.1.2, 7.1.3, 7.1.4)
+- Christ Fully Expressed in Our Personal Lives: Part 1 (4:17–32) (7.2.1, 7.2.2)
+- Christ Fully Expressed in Our Personal Lives: Part 2 (5:1–7) (7.3.1, 7.3.2, 7.3.3)
+- Christ Fully Expressed in Our Personal Lives: Part 3 (5:8–21) (7.4.1, 7.4.2, 7.4.3)
 
-**8 - Chapter 8**
-- 8.1 (8.1.1, 8.1.2, 8.1.3, 8.1.4)
-- 8.2 (8.2.1, 8.2.2, 8.2.3)
-- 8.3 (8.3.1, 8.3.2, 8.3.3)
+**8 - Paul’s Appeal and God’s Goal: Christ Fully Expressed at Home and at Work (Ephesians 5:21–6:9)**
+- Christ Fully Expressed between Husband and Wife (5:21–33) (8.1.1, 8.1.2, 8.1.3, 8.1.4)
+- Christ Fully Expressed between Parents and Children (6:1–4) (8.2.1, 8.2.2, 8.2.3)
+- Christ Fully Expressed at Work through Masters and Servants (6:5–9) (8.3.1, 8.3.2, 8.3.3)
 
-**9 - Chapter 9**
-- 9.1 (9.1.1, 9.1.2, 9.1.3)
-- 9.2 (9.2.1)
+**9 - A Final Charge to Those Who Are in Christ (Ephesians 6:10–24)**
+- The Fully Outfitted Christian Warrior (6:10–17) (9.1.1, 9.1.2, 9.1.3)
+- The Praying Christian (6:18–24) (9.2.1)
 
-**10 - Chapter 10**
-- 10.1 (10.1.1, 10.1.2, 10.1.3, 10.1.4)
-- 10.2 (10.2.1, 10.2.2, 10.2.3, 10.2.4, 10.2.5)
+**10 - Introducing Philippians (Philippians 1:1–11)**
+- Introductory Matters (1:1–11) (10.1.1, 10.1.2, 10.1.3, 10.1.4)
+- Deep Feelings and Prayer for Fellow Christians (1:1–11) (10.2.1, 10.2.2, 10.2.3, 10.2.4, 10.2.5)
 
-**11 - Chapter 11**
-- 11.1 (11.1.1, 11.1.2, 11.1.3)
-- 11.2 (11.2.1, 11.2.2, 11.2.3, 11.2.4)
-- 11.3 (11.3.1, 11.3.2, 11.3.3)
-- 11.4 (11.4.1, 11.4.2, 11.4.3)
+**11 - Christ’s Example and Christian Responsibility (Philippians 1:12–2:18)**
+- Maintaining a Positive Perspective in Difficult Circumstances (1:12–26) (11.1.1, 11.1.2, 11.1.3)
+- Living as Christians in a Pagan World (1:27–30) (11.2.1, 11.2.2, 11.2.3, 11.2.4)
+- Making a Leader’s Joy Complete (2:1–11) (11.3.1, 11.3.2, 11.3.3)
+- Living as God’s Children (2:12–18) (11.4.1, 11.4.2, 11.4.3)
 
-**12 - Chapter 12**
-- 12.1 (12.1.1, 12.1.2)
-- 12.2 (12.2.1, 12.2.2, 12.2.3)
-- 12.3 (12.3.1, 12.3.2, 12.3.3)
+**12 - Encouragement, Exhortation, and Evaluation (Philippians 2:19–4:1)**
+- Deep Appreciation for Two Quality People (2:19–30) (12.1.1, 12.1.2)
+- An Appeal and Warning from a Concerned Christian Friend (3:1–3, 17–19) (12.2.1, 12.2.2, 12.2.3)
+- An Appeal Supported by Paul’s Personal Testimony (3:4–16; 3:20–4:1) (12.3.1, 12.3.2, 12.3.3)
 
-**13 - Chapter 13**
-- 13.1 (13.1.1, 13.1.2, 13.1.3)
-- 13.2 (13.2.1, 13.2.2, 13.2.3)
-- 13.3 (13.3.1, 13.3.2, 13.3.3, 13.3.4, 13.3.5)
+**13 - Concluding Exhortations, Thanks, and Greeting (Philippians 4:2–23)**
+- Exhortations: To Unity, Reconciliation, Rejoicing, and Generosity (4:2–5) (13.1.1, 13.1.2, 13.1.3)
+- Exhortations: To Prayer and Positive Participation in Culture (4:6–9) (13.2.1, 13.2.2, 13.2.3)
+- Thanksgiving and Final Greetings (4:10–23) (13.3.1, 13.3.2, 13.3.3, 13.3.4, 13.3.5)
 
 ---
 

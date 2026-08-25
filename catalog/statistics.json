@@ -1,20 +1,20 @@
 {
   "body_content": {
-    "bibliography_entries": 1263,
-    "citations": 4426,
+    "bibliography_entries": 1341,
+    "citations": 5122,
     "images": {
-      "active": 62,
+      "active": 67,
       "retired": 496
     },
     "interactive_questions": {
-      "active": 8894,
+      "active": 9516,
       "retired": 332
     },
     "paragraphs": {
-      "active": 93429,
+      "active": 98351,
       "retired": 14231
     },
-    "scripture_mentions": 39220
+    "scripture_mentions": 41228
   },
   "courses": {
     "active": 24,
@@ -58,7 +58,7 @@
     ],
     "total": 33
   },
-  "generated": "2026-08-21",
+  "generated": "2026-08-25",
   "per_course": {
     "BIB111": {
       "questions": {
@@ -248,15 +248,15 @@
       "questions": {
         "active": {
           "final": 93,
-          "total": 299,
-          "ty": 131,
-          "upe": 75
+          "total": 300,
+          "ty": 130,
+          "upe": 77
         },
         "retired": {
           "final": 0,
-          "total": 0,
-          "ty": 0,
-          "upe": 0
+          "total": 66,
+          "ty": 29,
+          "upe": 37
         }
       },
       "status": "active",
@@ -666,16 +666,16 @@
   "questions": {
     "active": {
       "final": 1765,
-      "total": 6966,
-      "ty": 3035,
-      "upe": 2166
+      "total": 6967,
+      "ty": 3034,
+      "upe": 2168
     },
     "retired": {
       "final": 593,
-      "total": 3677,
-      "ty": 1833,
-      "upe": 1251
+      "total": 3743,
+      "ty": 1862,
+      "upe": 1288
     },
-    "total": 10643
+    "total": 10710
   }
 }
