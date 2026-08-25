@@ -1,5 +1,5 @@
 {
-  "entry_count": 1130,
+  "entry_count": 1137,
   "index_version": 1,
   "works": [
     {
@@ -1253,9 +1253,9 @@
         "BIB217"
       ],
       "editor": null,
-      "place": "Downers Grove, IL",
+      "place": null,
       "publisher": "IVP Academic",
-      "raw": "Bailey, Kenneth E. 2009. Jesus Through Middle Eastern Eyes: Cultural Studies in the Gospels . Downers Grove, IL: IVP Academic.",
+      "raw": "Bailey, Kenneth E. 2009. Jesus Through Middle Eastern Eyes: Cultural Studies in the Gospels . IVP Academic.",
       "title": "Jesus Through Middle Eastern Eyes: Cultural Studies in the Gospels",
       "url": null,
       "volume": null,
@@ -1876,10 +1876,9 @@
       "cited_in": [],
       "citekey": "bascom1993",
       "container": null,
-      "course_count": 2,
+      "course_count": 1,
       "courses": [
-        "BIB117",
-        "BIB217"
+        "BIB117"
       ],
       "editor": null,
       "place": "Downers Grove, IL",
@@ -2399,10 +2398,10 @@
         "BIB217"
       ],
       "editor": null,
-      "place": "Grand Rapids, MI",
+      "place": null,
       "publisher": "Baker Academic",
-      "raw": "Bilezikian, Gilbert. 2006. Beyond Sex Roles: What the Bible Says about a Woman’s Place in the Church and Family , 3rd ed. Grand Rapids, MI: Baker Academic.",
-      "title": "Beyond Sex Roles: What the Bible Says about a Woman’s Place in the Church and Family",
+      "raw": "Bilezikian, Gilbert. 2006. Beyond Sex Roles: What the Bible Says about a Woman’s Place in Church and Family , 3rd ed. Baker Academic.",
+      "title": "Beyond Sex Roles: What the Bible Says about a Woman’s Place in Church and Family",
       "url": null,
       "volume": null,
       "year": "2006"
@@ -2418,9 +2417,9 @@
         "BIB217"
       ],
       "editor": null,
-      "place": "Tuscon, AZ",
-      "publisher": "Fenstra Books ®",
-      "raw": "Birkey, Del. 2005. The Fall of Patriarchy: Its Broken Legacy Judged by Jesus & the Apostolic House Church Communities. Tuscon, AZ: Fenstra Books ® .",
+      "place": null,
+      "publisher": null,
+      "raw": "Birkey, Del. 2005. The Fall of Patriarchy: Its Broken Legacy Judged by Jesus & the Apostolic House Church Communities . Fenstra Books ® .",
       "title": "The Fall of Patriarchy: Its Broken Legacy Judged by Jesus & the Apostolic House Church Communities",
       "url": null,
       "volume": null,
@@ -2957,27 +2956,46 @@
     },
     {
       "authors": "Borthwick, Christie, and Paul Borthwick",
-      "citation_count": 6,
+      "citation_count": 3,
       "cited_in": [
         "BIB117.1.3.1",
         "BIB117.1.3.2",
-        "BIB117.1.3.3",
-        "BIB217.1.3.1",
-        "BIB217.1.3.2",
-        "BIB217.1.3.3"
+        "BIB117.1.3.3"
       ],
       "citekey": "borthwick2001",
       "container": null,
-      "course_count": 2,
+      "course_count": 1,
       "courses": [
-        "BIB117",
-        "BIB217"
+        "BIB117"
       ],
       "editor": null,
       "place": null,
       "publisher": null,
       "raw": "Borthwick, Christie, and Paul Borthwick. 2001. Don’t Give Up on Your Family. Discipleship Journal. http://www.navpress.com/EPubs/Display/Article/1/1.126.9.html",
       "title": "Discipleship Journal",
+      "url": "http://www.navpress.com/EPubs/Display/Article/1/1.126.9.html",
+      "volume": null,
+      "year": "2001"
+    },
+    {
+      "authors": "Borthwick, Christie, and Paul Borthwick",
+      "citation_count": 3,
+      "cited_in": [
+        "BIB217.1.3.1",
+        "BIB217.1.3.2",
+        "BIB217.1.3.3"
+      ],
+      "citekey": "borthwick2001don",
+      "container": "Discipleship Journal",
+      "course_count": 1,
+      "courses": [
+        "BIB217"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Borthwick, Christie, and Paul Borthwick. 2001. “Don’t Give Up on Your Family.” Discipleship Journal . http://www.navpress.com/EPubs/Display/Article/1/1.126.9.html.",
+      "title": "Don’t Give Up on Your Family",
       "url": "http://www.navpress.com/EPubs/Display/Article/1/1.126.9.html",
       "volume": null,
       "year": "2001"
@@ -3210,9 +3228,9 @@
         "BIB217"
       ],
       "editor": null,
-      "place": "Downers Grove, IL",
-      "publisher": "IVP Academic",
-      "raw": "Brauch, Manfred T. 2009. Abusing Scripture. Downers Grove, IL: IVP Academic.",
+      "place": null,
+      "publisher": "Abusing Scripture . IVP Academic",
+      "raw": "Brauch, Manfred T. 2009. Abusing Scripture . IVP Academic.",
       "title": "Abusing Scripture",
       "url": null,
       "volume": null,
@@ -4878,14 +4896,11 @@
     },
     {
       "authors": "Colson, Charles, and Ellen Vaughn",
-      "citation_count": 6,
+      "citation_count": 3,
       "cited_in": [
         "BIB117.11.4.1",
         "BIB117.11.4.2",
-        "BIB117.11.4.3",
-        "BIB217.11.4.1",
-        "BIB217.11.4.2",
-        "BIB217.11.4.3"
+        "BIB117.11.4.3"
       ],
       "citekey": "colson2003",
       "container": null,
@@ -5681,21 +5696,17 @@
     },
     {
       "authors": "Cymbala, Jim",
-      "citation_count": 6,
+      "citation_count": 3,
       "cited_in": [
         "BIB117.7.3.1",
         "BIB117.7.3.2",
-        "BIB117.7.3.3",
-        "BIB217.7.3.1",
-        "BIB217.7.3.2",
-        "BIB217.7.3.3"
+        "BIB117.7.3.3"
       ],
       "citekey": "cymbala2004",
       "container": null,
-      "course_count": 2,
+      "course_count": 1,
       "courses": [
-        "BIB117",
-        "BIB217"
+        "BIB117"
       ],
       "editor": null,
       "place": null,
@@ -5911,9 +5922,9 @@
         "BIB217"
       ],
       "editor": null,
-      "place": "Downers Grove, IL",
+      "place": null,
       "publisher": "IVP Academic",
-      "raw": "deSilva, David A. 2009. Honor, Patronage, Kinship & Purity: Unlocking New Testament Culture . Downers Grove, IL: IVP Academic.",
+      "raw": "deSilva, David A. 2009. Honor, Patronage, Kinship & Purity: Unlocking New Testament Culture . IVP Academic.",
       "title": "Honor, Patronage, Kinship & Purity: Unlocking New Testament Culture",
       "url": null,
       "volume": null,
@@ -6239,10 +6250,9 @@
       "cited_in": [],
       "citekey": "dunn1998",
       "container": null,
-      "course_count": 2,
+      "course_count": 1,
       "courses": [
-        "BIB117",
-        "BIB217"
+        "BIB117"
       ],
       "editor": null,
       "place": "Grand Rapids, MI",
@@ -6252,6 +6262,25 @@
       "url": null,
       "volume": null,
       "year": "1998"
+    },
+    {
+      "authors": "Dunn, James D. G",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "dunn2006",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB217"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": "The Theology of Paul the Apostle . Eerdmans",
+      "raw": "Dunn, James D. G. 2006. The Theology of Paul the Apostle . Eerdmans.",
+      "title": "The Theology of Paul the Apostle",
+      "url": null,
+      "volume": null,
+      "year": "2006"
     },
     {
       "authors": "Dunnet, Walter M",
@@ -7403,7 +7432,7 @@
     },
     {
       "authors": "Fee, Gordon D——",
-      "citation_count": 56,
+      "citation_count": 61,
       "cited_in": [
         "BIB117.10.1.1",
         "BIB117.10.1.2",
@@ -7437,6 +7466,11 @@
         "BIB217.10.1.2",
         "BIB217.10.1.3",
         "BIB217.10.1.4",
+        "BIB217.10.2.1",
+        "BIB217.10.2.2",
+        "BIB217.10.2.3",
+        "BIB217.10.2.4",
+        "BIB217.10.2.5",
         "BIB217.11.2.1",
         "BIB217.11.2.2",
         "BIB217.11.2.3",
@@ -9387,29 +9421,48 @@
     },
     {
       "authors": "Grant, David",
-      "citation_count": 8,
+      "citation_count": 4,
       "cited_in": [
         "BIB117.6.3.1",
         "BIB117.6.3.2",
         "BIB117.6.3.3",
-        "BIB117.6.3.4",
-        "BIB217.6.3.1",
-        "BIB217.6.3.2",
-        "BIB217.6.3.3",
-        "BIB217.6.3.4"
+        "BIB117.6.3.4"
       ],
       "citekey": "grant2004",
       "container": null,
-      "course_count": 2,
+      "course_count": 1,
       "courses": [
-        "BIB117",
-        "BIB217"
+        "BIB117"
       ],
       "editor": null,
       "place": null,
       "publisher": null,
       "raw": "Grant, David. 2004. Unpublished sermon, October 3, Cedar Hill, TX: Trinity Church.",
       "title": "Unpublished sermon, October 3, Cedar Hill, TX: Trinity Church",
+      "url": null,
+      "volume": null,
+      "year": "2004"
+    },
+    {
+      "authors": "Grant, David",
+      "citation_count": 4,
+      "cited_in": [
+        "BIB217.6.3.1",
+        "BIB217.6.3.2",
+        "BIB217.6.3.3",
+        "BIB217.6.3.4"
+      ],
+      "citekey": "grant2004b",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB217"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Grant, David. 2004. Unpublished sermon, October 3, Trinity Church.",
+      "title": "Unpublished sermon, October 3, Trinity Church",
       "url": null,
       "volume": null,
       "year": "2004"
@@ -9943,23 +9996,42 @@
     },
     {
       "authors": "Gupton, Kay Lawing",
-      "citation_count": 2,
+      "citation_count": 1,
       "cited_in": [
-        "BIB117.4.3.1",
-        "BIB217.4.3.1"
+        "BIB117.4.3.1"
       ],
       "citekey": "gupton1998",
       "container": null,
-      "course_count": 2,
+      "course_count": 1,
       "courses": [
-        "BIB117",
-        "BIB217"
+        "BIB117"
       ],
       "editor": null,
       "place": null,
       "publisher": null,
       "raw": "Gupton, Kay Lawing. 1998. Finding Forgiveness. Today’s Christian Woman . September/October: 70.",
       "title": "Today’s Christian Woman",
+      "url": null,
+      "volume": null,
+      "year": "1998"
+    },
+    {
+      "authors": "Gupton, Kay Lawing",
+      "citation_count": 1,
+      "cited_in": [
+        "BIB217.4.3.1"
+      ],
+      "citekey": "gupton1998findi",
+      "container": "Today’s Christian Woman . September / October",
+      "course_count": 1,
+      "courses": [
+        "BIB217"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Gupton, Kay Lawing. 1998. “Finding Forgiveness.” Today’s Christian Woman . September / October.",
+      "title": "Finding Forgiveness",
       "url": null,
       "volume": null,
       "year": "1998"
@@ -9995,10 +10067,9 @@
       "cited_in": [],
       "citekey": "guthrie1990",
       "container": null,
-      "course_count": 2,
+      "course_count": 1,
       "courses": [
-        "BIB117",
-        "BIB217"
+        "BIB117"
       ],
       "editor": "Rev",
       "place": "Downers Grove, IL",
@@ -10024,6 +10095,29 @@
       "publisher": "Baker Academic",
       "raw": "Guthrie, George H. 2015. 2 Corinthians. Baker Academic.",
       "title": "2 Corinthians",
+      "url": null,
+      "volume": null,
+      "year": "2015"
+    },
+    {
+      "authors": "Guthrie, Donald",
+      "citation_count": 3,
+      "cited_in": [
+        "BIB217.13.1.1",
+        "BIB217.13.1.2",
+        "BIB217.13.1.3"
+      ],
+      "citekey": "guthrie2015new",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB217"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": "InterVarsity Press",
+      "raw": "Guthrie, Donald. 2015. New Testament Introduction . Fourth Edition. InterVarsity Press.",
+      "title": "New Testament Introduction",
       "url": null,
       "volume": null,
       "year": "2015"
@@ -12503,7 +12597,7 @@
     },
     {
       "authors": "Keener, Craig S",
-      "citation_count": 84,
+      "citation_count": 56,
       "cited_in": [
         "BIB116.1.4.1",
         "BIB116.10.3.1",
@@ -12558,34 +12652,6 @@
         "BIB212.8.2.1",
         "BIB212.9.3.1",
         "BIB212.9.3.2",
-        "BIB217.13.3.1",
-        "BIB217.13.3.2",
-        "BIB217.13.3.3",
-        "BIB217.13.3.4",
-        "BIB217.13.3.5",
-        "BIB217.2.1.1",
-        "BIB217.2.1.2",
-        "BIB217.2.1.3",
-        "BIB217.2.1.4",
-        "BIB217.3.1.1",
-        "BIB217.3.1.2",
-        "BIB217.3.1.3",
-        "BIB217.4.1.1",
-        "BIB217.4.1.2",
-        "BIB217.4.1.3",
-        "BIB217.5.1.1",
-        "BIB217.5.1.2",
-        "BIB217.5.1.3",
-        "BIB217.5.1.4",
-        "BIB217.5.1.5",
-        "BIB217.7.2.1",
-        "BIB217.7.2.2",
-        "BIB217.8.2.1",
-        "BIB217.8.2.2",
-        "BIB217.8.2.3",
-        "BIB217.9.1.1",
-        "BIB217.9.1.2",
-        "BIB217.9.1.3",
         "BIB313.10.2.1",
         "BIB313.2.1.1",
         "BIB313.2.1.2"
@@ -13582,27 +13648,46 @@
     },
     {
       "authors": "Kruger, J., and Dunning, D",
-      "citation_count": 6,
+      "citation_count": 3,
       "cited_in": [
         "BIB117.12.3.1",
         "BIB117.12.3.2",
-        "BIB117.12.3.3",
-        "BIB217.12.3.1",
-        "BIB217.12.3.2",
-        "BIB217.12.3.3"
+        "BIB117.12.3.3"
       ],
       "citekey": "kruger1999",
       "container": null,
-      "course_count": 2,
+      "course_count": 1,
       "courses": [
-        "BIB117",
-        "BIB217"
+        "BIB117"
       ],
       "editor": null,
       "place": null,
       "publisher": null,
       "raw": "Kruger, J., and Dunning, D. 1999. Unskilled and Unaware of It: How Difficulties in Recognizing One’s Own Incompetence Lead to Inflated Self-Assessments. Journal of Personality and Social Psychology 77: 1121–1134.",
       "title": "Journal of Personality and Social Psychology",
+      "url": null,
+      "volume": null,
+      "year": "1999"
+    },
+    {
+      "authors": "Kruger, J., and Dunning, D",
+      "citation_count": 3,
+      "cited_in": [
+        "BIB217.12.3.1",
+        "BIB217.12.3.2",
+        "BIB217.12.3.3"
+      ],
+      "citekey": "kruger1999unski",
+      "container": "Journal of Personality and Social Psychology",
+      "course_count": 1,
+      "courses": [
+        "BIB217"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Kruger, J., and Dunning, D. 1999. “Unskilled and Unaware of It: How Difficulties in Recognizing One’s Own Incompetence Lead to Inflated Self-Assessments.” Journal of Personality and Social Psychology 77.",
+      "title": "Unskilled and Unaware of It: How Difficulties in Recognizing One’s Own Incompetence Lead to Inflated Self-Assessments",
       "url": null,
       "volume": null,
       "year": "1999"
@@ -14250,10 +14335,9 @@
       "cited_in": [],
       "citekey": "lightfoot1876",
       "container": null,
-      "course_count": 2,
+      "course_count": 1,
       "courses": [
-        "BIB117",
-        "BIB217"
+        "BIB117"
       ],
       "editor": null,
       "place": "London",
@@ -14263,6 +14347,25 @@
       "url": null,
       "volume": null,
       "year": "1876"
+    },
+    {
+      "authors": "Lightfoot, J. B",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "lightfoot1879",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB217"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Lightfoot, J. B. 1879. St. Paul’s Epistles to the Colossians and to Philemon . Macmillan.",
+      "title": "St. Paul’s Epistles to the Colossians and to Philemon",
+      "url": null,
+      "volume": null,
+      "year": "1879"
     },
     {
       "authors": "Likert, Rensis, and Jane G. Likert",
@@ -14978,17 +15081,17 @@
       "authors": "Marshall, I. Howard",
       "citation_count": 0,
       "cited_in": [],
-      "citekey": "marshall2005",
-      "container": null,
+      "citekey": "marshall2005mutua",
+      "container": "in Discovering Biblical Equality: Complementarity Without Hierarchy",
       "course_count": 1,
       "courses": [
         "BIB217"
       ],
       "editor": null,
-      "place": "Downers Grove, IL",
+      "place": null,
       "publisher": "InterVarsity Press",
-      "raw": "Marshall, I. Howard. 2005. Mutual Love and Submission in Marriage in Discovering Biblical Equality: Complimentary without Hierarchy . Eds. Ronald W. Pierce, Rebecca Merrill Groothuis, and Gordon D. Fee, 186–204. Downers Grove, IL: InterVarsity Press.",
-      "title": "Discovering Biblical Equality: Complimentary without Hierarchy",
+      "raw": "Marshall, I. Howard. 2005. “ Mutual Love and Submission in Marriage” in Discovering Biblical Equality: Complementarity Without Hierarchy , edited by Ronald W. Pierce, Rebecca Merrill Groothuis, and Gordon D. Fee, 186–204. InterVarsity Press.",
+      "title": "Mutual Love and Submission in Marriage",
       "url": null,
       "volume": null,
       "year": "2005"
@@ -17159,27 +17262,46 @@
     },
     {
       "authors": "Neven, Tom",
-      "citation_count": 6,
+      "citation_count": 3,
       "cited_in": [
         "BIB117.8.3.1",
         "BIB117.8.3.2",
-        "BIB117.8.3.3",
-        "BIB217.8.3.1",
-        "BIB217.8.3.2",
-        "BIB217.8.3.3"
+        "BIB117.8.3.3"
       ],
       "citekey": "neven2000",
       "container": null,
-      "course_count": 2,
+      "course_count": 1,
       "courses": [
-        "BIB117",
-        "BIB217"
+        "BIB117"
       ],
       "editor": null,
       "place": null,
       "publisher": null,
       "raw": "Neven, Tom. 2000. A Doer of the Word. Focus on the Family Magazine , September. Accessed July 13, 2005. http://www.family.org/fofmag/Pf/a0026162.cfm",
       "title": "Focus on the Family Magazine",
+      "url": "http://www.family.org/fofmag/Pf/a0026162.cfm",
+      "volume": null,
+      "year": "2000"
+    },
+    {
+      "authors": "Neven, Tom",
+      "citation_count": 3,
+      "cited_in": [
+        "BIB217.8.3.1",
+        "BIB217.8.3.2",
+        "BIB217.8.3.3"
+      ],
+      "citekey": "neven2000doer",
+      "container": "Focus on the Family Magazine , September.  (accessed July",
+      "course_count": 1,
+      "courses": [
+        "BIB217"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Neven, Tom. 2000. “A Doer of the Word.” Focus on the Family Magazine , September. http://www.family.org/fofmag/Pf/a0026162.cfm (accessed July 13, 2005).",
+      "title": "A Doer of the Word",
       "url": "http://www.family.org/fofmag/Pf/a0026162.cfm",
       "volume": null,
       "year": "2000"
@@ -17362,7 +17484,7 @@
     },
     {
       "authors": "O’Brien, Peter T",
-      "citation_count": 46,
+      "citation_count": 34,
       "cited_in": [
         "BIB117.1.1.1",
         "BIB117.1.1.2",
@@ -17387,25 +17509,13 @@
         "BIB117.4.2.2",
         "BIB117.4.2.3",
         "BIB117.4.3.1",
-        "BIB217.1.1.1",
-        "BIB217.1.1.2",
-        "BIB217.1.1.3",
-        "BIB217.1.1.4",
-        "BIB217.1.1.5",
         "BIB217.1.3.1",
         "BIB217.1.3.2",
         "BIB217.1.3.3",
-        "BIB217.2.1.1",
-        "BIB217.2.1.2",
-        "BIB217.2.1.3",
-        "BIB217.2.1.4",
-        "BIB217.2.3.1",
-        "BIB217.2.3.2",
-        "BIB217.2.3.3",
-        "BIB217.2.3.4",
-        "BIB217.3.1.1",
-        "BIB217.3.1.2",
-        "BIB217.3.1.3",
+        "BIB217.3.3.1",
+        "BIB217.3.3.2",
+        "BIB217.3.3.3",
+        "BIB217.3.3.4",
         "BIB217.4.2.1",
         "BIB217.4.2.2",
         "BIB217.4.2.3",
@@ -17429,7 +17539,7 @@
     },
     {
       "authors": "O’Brien, Peter T——",
-      "citation_count": 18,
+      "citation_count": 12,
       "cited_in": [
         "BIB117.11.3.1",
         "BIB117.11.3.2",
@@ -17442,13 +17552,7 @@
         "BIB117.13.2.3",
         "BIB217.11.3.1",
         "BIB217.11.3.2",
-        "BIB217.11.3.3",
-        "BIB217.12.2.1",
-        "BIB217.12.2.2",
-        "BIB217.12.2.3",
-        "BIB217.13.2.1",
-        "BIB217.13.2.2",
-        "BIB217.13.2.3"
+        "BIB217.11.3.3"
       ],
       "citekey": "obrien1991",
       "container": null,
@@ -17468,7 +17572,7 @@
     },
     {
       "authors": "O’Brien, Peter T————",
-      "citation_count": 24,
+      "citation_count": 17,
       "cited_in": [
         "BIB117.10.1.1",
         "BIB117.10.1.2",
@@ -17482,18 +17586,11 @@
         "BIB117.11.1.1",
         "BIB117.11.1.2",
         "BIB117.11.1.3",
-        "BIB217.10.1.1",
-        "BIB217.10.1.2",
-        "BIB217.10.1.3",
-        "BIB217.10.1.4",
         "BIB217.10.2.1",
         "BIB217.10.2.2",
         "BIB217.10.2.3",
         "BIB217.10.2.4",
-        "BIB217.10.2.5",
-        "BIB217.11.1.1",
-        "BIB217.11.1.2",
-        "BIB217.11.1.3"
+        "BIB217.10.2.5"
       ],
       "citekey": "obrien1993",
       "container": "Dictionary of Paul and His Letters",
@@ -18214,7 +18311,7 @@
       "year": "1980"
     },
     {
-      "authors": "Payne, Philip B. Man and Woman, One in Christ: An Exegetical and Theological Study of Paul’s Letters",
+      "authors": "Payne, Philip B. Man and Woman, One in Christ: An Exegetical and Theological Sudy of Paul’s Letters",
       "citation_count": 6,
       "cited_in": [
         "BIB217.3.2.1",
@@ -18231,10 +18328,10 @@
         "BIB217"
       ],
       "editor": null,
-      "place": "Grand Rapids, MI",
-      "publisher": "Zondervan",
-      "raw": "Payne, Philip B. Man and Woman, One in Christ: An Exegetical and Theological Study of Paul’s Letters. 2009. Grand Rapids, MI: Zondervan.",
-      "title": "Man and Woman, One in Christ: An Exegetical and Theological Study of Paul’s Letters",
+      "place": null,
+      "publisher": null,
+      "raw": "Payne, Philip B. Man and Woman, One in Christ: An Exegetical and Theological Sudy of Paul’s Letters . 2009. Zondervan.",
+      "title": "Man and Woman, One in Christ: An Exegetical and Theological Sudy of Paul’s Letters",
       "url": null,
       "volume": null,
       "year": "2009"
@@ -18421,10 +18518,9 @@
       "cited_in": [],
       "citekey": "peterson1980",
       "container": null,
-      "course_count": 2,
+      "course_count": 1,
       "courses": [
-        "BIB117",
-        "BIB217"
+        "BIB117"
       ],
       "editor": null,
       "place": "Downers Grove, IL",
@@ -18456,21 +18552,17 @@
     },
     {
       "authors": "Peterson, Eugene——",
-      "citation_count": 6,
+      "citation_count": 3,
       "cited_in": [
         "BIB117.13.2.1",
         "BIB117.13.2.2",
-        "BIB117.13.2.3",
-        "BIB217.13.2.1",
-        "BIB217.13.2.2",
-        "BIB217.13.2.3"
+        "BIB117.13.2.3"
       ],
       "citekey": "peterson2000",
       "container": null,
-      "course_count": 2,
+      "course_count": 1,
       "courses": [
-        "BIB117",
-        "BIB217"
+        "BIB117"
       ],
       "editor": null,
       "place": "Downers Grove, IL",
@@ -18518,6 +18610,29 @@
       "url": null,
       "volume": null,
       "year": "2003"
+    },
+    {
+      "authors": "Peterson, Eugene H",
+      "citation_count": 3,
+      "cited_in": [
+        "BIB217.13.2.1",
+        "BIB217.13.2.2",
+        "BIB217.13.2.3"
+      ],
+      "citekey": "peterson2024",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB217"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Peterson, Eugene H. 2024. A Long Obedience in the Same Direction: Discipleship in an Instant Society . IVP Formatio.",
+      "title": "A Long Obedience in the Same Direction: Discipleship in an Instant Society",
+      "url": null,
+      "volume": null,
+      "year": "2024"
     },
     {
       "authors": "Pettry, Ernest",
@@ -19882,27 +19997,46 @@
     },
     {
       "authors": "Rupprecht, Arthur A",
-      "citation_count": 6,
+      "citation_count": 3,
       "cited_in": [
         "BIB117.4.1.1",
         "BIB117.4.1.2",
-        "BIB117.4.1.3",
-        "BIB217.4.1.1",
-        "BIB217.4.1.2",
-        "BIB217.4.1.3"
+        "BIB117.4.1.3"
       ],
       "citekey": "rupprecht1978",
       "container": "The Expositor’s Bible Commentary",
-      "course_count": 2,
+      "course_count": 1,
       "courses": [
-        "BIB117",
-        "BIB217"
+        "BIB117"
       ],
       "editor": "Frank E. Gaebelein",
       "place": "Grand Rapids, MI",
       "publisher": "Zondervan",
       "raw": "Rupprecht, Arthur A. 1978. Philemon . In The Expositor’s Bible Commentary , vol. 11. Ed. Frank E. Gaebelein. Grand Rapids, MI: Zondervan. 451–464.",
       "title": "Philemon",
+      "url": null,
+      "volume": "11",
+      "year": "1978"
+    },
+    {
+      "authors": "Rupprecht, Arthur A",
+      "citation_count": 3,
+      "cited_in": [
+        "BIB217.4.1.1",
+        "BIB217.4.1.2",
+        "BIB217.4.1.3"
+      ],
+      "citekey": "rupprecht1978expos",
+      "container": "The Expositor’s Bible Commentary",
+      "course_count": 1,
+      "courses": [
+        "BIB217"
+      ],
+      "editor": "Frank E. Gaebelein",
+      "place": null,
+      "publisher": "Zondervan",
+      "raw": "Rupprecht, Arthur A. 1978. Philemon. In The Expositor’s Bible Commentary , Vol. 11. ed. Frank E. Gaebelein. Zondervan.",
+      "title": "The Expositor’s Bible Commentary",
       "url": null,
       "volume": "11",
       "year": "1978"
@@ -20584,10 +20718,9 @@
       "cited_in": [],
       "citekey": "sharrock1998",
       "container": null,
-      "course_count": 2,
+      "course_count": 1,
       "courses": [
-        "BIB117",
-        "BIB217"
+        "BIB117"
       ],
       "editor": null,
       "place": null,
@@ -21478,21 +21611,17 @@
     },
     {
       "authors": "Strobel, Lee and Jane Vogel",
-      "citation_count": 6,
+      "citation_count": 3,
       "cited_in": [
         "BIB117.6.1.1",
         "BIB117.6.1.2",
-        "BIB117.6.1.3",
-        "BIB217.6.1.1",
-        "BIB217.6.1.2",
-        "BIB217.6.1.3"
+        "BIB117.6.1.3"
       ],
       "citekey": "strobel2001",
       "container": null,
-      "course_count": 2,
+      "course_count": 1,
       "courses": [
-        "BIB117",
-        "BIB217"
+        "BIB117"
       ],
       "editor": null,
       "place": "Grand Rapids, MI",
@@ -21502,6 +21631,29 @@
       "url": null,
       "volume": null,
       "year": "2001"
+    },
+    {
+      "authors": "Strobel, Lee",
+      "citation_count": 3,
+      "cited_in": [
+        "BIB217.6.1.1",
+        "BIB217.6.1.2",
+        "BIB217.6.1.3"
+      ],
+      "citekey": "strobel2016",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB217"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Strobel, Lee. 2016. The Case for Christ: A Journalist’s Personal Investigation of the Evidence for Jesus . ePub. Zondervan. https://www.perlego.com/book/2304065/the-case-for-christ-a-journalists-personal-investigation-of-the-evidence-for-jesus.",
+      "title": "The Case for Christ: A Journalist’s Personal Investigation of the Evidence for Jesus",
+      "url": "https://www.perlego.com/book/2304065/the-case-for-christ-a-journalists-personal-investigation-of-the-evidence-for-jesus",
+      "volume": null,
+      "year": "2016"
     },
     {
       "authors": "Stronstad, Roger H",
@@ -21879,10 +22031,9 @@
       "cited_in": [],
       "citekey": "tenboom1978",
       "container": null,
-      "course_count": 2,
+      "course_count": 1,
       "courses": [
-        "BIB117",
-        "BIB217"
+        "BIB117"
       ],
       "editor": null,
       "place": "New York, NY",
@@ -21892,6 +22043,25 @@
       "url": null,
       "volume": null,
       "year": "1978"
+    },
+    {
+      "authors": "Ten Boom, Corrie, and Jamie Buckingham",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "tenboom2011",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB217"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Ten Boom, Corrie, and Jamie Buckingham. 2011. Tramp for the Lord . CLC Publications.",
+      "title": "Tramp for the Lord",
+      "url": null,
+      "volume": null,
+      "year": "2011"
     },
     {
       "authors": "Tenney, Merrill C",
@@ -22211,34 +22381,14 @@
       "year": "2015"
     },
     {
-      "authors": "The Holy Bible, New Living Translation",
-      "citation_count": 0,
-      "cited_in": [],
-      "citekey": "theholybible2015b",
-      "container": null,
-      "course_count": 1,
-      "courses": [
-        "BIB217"
-      ],
-      "editor": null,
-      "place": "Carol stream, IL",
-      "publisher": "Tyndale House Publishers, Inc",
-      "raw": "The Holy Bible, New Living Translation. 2015. Carol stream, IL: Tyndale House Publishers, Inc.",
-      "title": null,
-      "url": null,
-      "volume": null,
-      "year": "2015"
-    },
-    {
       "authors": "The King James Version",
       "citation_count": 0,
       "cited_in": [],
       "citekey": "thekingjamesversion1987",
       "container": null,
-      "course_count": 2,
+      "course_count": 1,
       "courses": [
-        "BIB117",
-        "BIB217"
+        "BIB117"
       ],
       "editor": null,
       "place": null,
@@ -22269,25 +22419,6 @@
       "year": "1971"
     },
     {
-      "authors": "The Living Bible",
-      "citation_count": 0,
-      "cited_in": [],
-      "citekey": "thelivingbible1971b",
-      "container": null,
-      "course_count": 1,
-      "courses": [
-        "BIB217"
-      ],
-      "editor": null,
-      "place": "Carol Stream, IL",
-      "publisher": "Tyndale House Publishers Inc",
-      "raw": "The Living Bible. 1971. Carol Stream, IL: Tyndale House Publishers Inc.",
-      "title": null,
-      "url": null,
-      "volume": null,
-      "year": "1971"
-    },
-    {
       "authors": "The New Century Version",
       "citation_count": 0,
       "cited_in": [],
@@ -22307,25 +22438,6 @@
       "year": "2005"
     },
     {
-      "authors": "The New Century Version",
-      "citation_count": 0,
-      "cited_in": [],
-      "citekey": "thenewcenturyversion2005b",
-      "container": null,
-      "course_count": 1,
-      "courses": [
-        "BIB217"
-      ],
-      "editor": null,
-      "place": "Nashville, TN",
-      "publisher": "Thomas Nelson",
-      "raw": "The New Century Version. 2005. Nashville, TN: Thomas Nelson.",
-      "title": null,
-      "url": null,
-      "volume": null,
-      "year": "2005"
-    },
-    {
       "authors": "The New King James Version",
       "citation_count": 0,
       "cited_in": [],
@@ -22334,25 +22446,6 @@
       "course_count": 1,
       "courses": [
         "BIB117"
-      ],
-      "editor": null,
-      "place": "Nashville, TN",
-      "publisher": "Thomas Nelson",
-      "raw": "The New King James Version. 1982. Nashville, TN: Thomas Nelson.",
-      "title": null,
-      "url": null,
-      "volume": null,
-      "year": "1982"
-    },
-    {
-      "authors": "The New King James Version",
-      "citation_count": 0,
-      "cited_in": [],
-      "citekey": "thenewkingjamesversion1982b",
-      "container": null,
-      "course_count": 1,
-      "courses": [
-        "BIB217"
       ],
       "editor": null,
       "place": "Nashville, TN",
@@ -22554,25 +22647,6 @@
       "course_count": 1,
       "courses": [
         "BIB117"
-      ],
-      "editor": null,
-      "place": "Philadelphia, PA",
-      "publisher": "American Bible Society",
-      "raw": "Today’s English Version (also called Good News Translation). 1992. Philadelphia, PA: American Bible Society.",
-      "title": null,
-      "url": null,
-      "volume": null,
-      "year": "1992"
-    },
-    {
-      "authors": "Today’s English Version (also called Good News Translation)",
-      "citation_count": 0,
-      "cited_in": [],
-      "citekey": "todaysenglishversionalsocalledgoodnewstranslation1992b",
-      "container": null,
-      "course_count": 1,
-      "courses": [
-        "BIB217"
       ],
       "editor": null,
       "place": "Philadelphia, PA",
@@ -22862,21 +22936,17 @@
     },
     {
       "authors": "Vajnar, Jane",
-      "citation_count": 6,
+      "citation_count": 3,
       "cited_in": [
         "BIB117.12.3.1",
         "BIB117.12.3.2",
-        "BIB117.12.3.3",
-        "BIB217.12.3.1",
-        "BIB217.12.3.2",
-        "BIB217.12.3.3"
+        "BIB117.12.3.3"
       ],
       "citekey": "vajnar1999",
       "container": null,
-      "course_count": 2,
+      "course_count": 1,
       "courses": [
-        "BIB117",
-        "BIB217"
+        "BIB117"
       ],
       "editor": null,
       "place": null,
@@ -22965,7 +23035,7 @@
     },
     {
       "authors": "Vaughan, Curtis",
-      "citation_count": 66,
+      "citation_count": 50,
       "cited_in": [
         "BIB117.1.1.1",
         "BIB117.1.1.2",
@@ -23000,11 +23070,6 @@
         "BIB117.3.3.2",
         "BIB117.3.3.3",
         "BIB117.3.3.4",
-        "BIB217.1.1.1",
-        "BIB217.1.1.2",
-        "BIB217.1.1.3",
-        "BIB217.1.1.4",
-        "BIB217.1.1.5",
         "BIB217.1.3.1",
         "BIB217.1.3.2",
         "BIB217.1.3.3",
@@ -23012,17 +23077,6 @@
         "BIB217.2.1.2",
         "BIB217.2.1.3",
         "BIB217.2.1.4",
-        "BIB217.2.2.1",
-        "BIB217.2.2.2",
-        "BIB217.2.2.3",
-        "BIB217.2.2.4",
-        "BIB217.2.3.1",
-        "BIB217.2.3.2",
-        "BIB217.2.3.3",
-        "BIB217.2.3.4",
-        "BIB217.3.1.1",
-        "BIB217.3.1.2",
-        "BIB217.3.1.3",
         "BIB217.3.2.1",
         "BIB217.3.2.2",
         "BIB217.3.2.3",
@@ -23136,10 +23190,9 @@
       "cited_in": [],
       "citekey": "vinesexpositorydictionaryofnewtestamentword1985",
       "container": null,
-      "course_count": 2,
+      "course_count": 1,
       "courses": [
-        "BIB117",
-        "BIB217"
+        "BIB117"
       ],
       "editor": null,
       "place": "Seattle, WA",
@@ -24660,7 +24713,7 @@
     },
     {
       "authors": "Wood, A. Skevington",
-      "citation_count": 82,
+      "citation_count": 57,
       "cited_in": [
         "BIB117.5.1.1",
         "BIB117.5.1.2",
@@ -24703,28 +24756,12 @@
         "BIB117.7.4.1",
         "BIB117.7.4.2",
         "BIB117.7.4.3",
-        "BIB217.5.1.1",
-        "BIB217.5.1.2",
-        "BIB217.5.1.3",
-        "BIB217.5.1.4",
-        "BIB217.5.1.5",
-        "BIB217.5.2.1",
-        "BIB217.5.2.2",
-        "BIB217.5.2.3",
-        "BIB217.5.2.4",
-        "BIB217.5.2.5",
-        "BIB217.5.2.6",
-        "BIB217.5.2.7",
         "BIB217.5.3.1",
         "BIB217.5.3.2",
         "BIB217.5.3.3",
         "BIB217.6.1.1",
         "BIB217.6.1.2",
         "BIB217.6.1.3",
-        "BIB217.6.2.1",
-        "BIB217.6.2.2",
-        "BIB217.6.2.3",
-        "BIB217.6.2.4",
         "BIB217.6.3.1",
         "BIB217.6.3.2",
         "BIB217.6.3.3",
@@ -24732,15 +24769,6 @@
         "BIB217.6.4.1",
         "BIB217.6.4.2",
         "BIB217.6.4.3",
-        "BIB217.7.1.1",
-        "BIB217.7.1.2",
-        "BIB217.7.1.3",
-        "BIB217.7.1.4",
-        "BIB217.7.2.1",
-        "BIB217.7.2.2",
-        "BIB217.7.3.1",
-        "BIB217.7.3.2",
-        "BIB217.7.3.3",
         "BIB217.7.4.1",
         "BIB217.7.4.2",
         "BIB217.7.4.3"
