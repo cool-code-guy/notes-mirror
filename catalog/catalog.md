@@ -14,7 +14,7 @@ Active content only — retired material is excluded from every figure.
 | --- | --- |
 | Active courses | 24 |
 | Retired courses | 9 |
-| Assessment items | 6,969 |
+| Assessment items | 6,970 |
 | Curriculum paragraphs | 99,162 |
 | Interactive study questions | 9,244 |
 | Scripture references | 36,535 |
@@ -69,7 +69,7 @@ Published sequence toward Ordained Minister credentialing.
 | 1 | Advanced Ministerial Internship — *not tracked in examdb (practicum course)* | | |
 | 2 | [MIN327](courses/MIN327.md) — Church Administration, Finance, and Law · proposed renumber to `MIN329` | 3 | 335 |
 | 3 | [BIB313](courses/BIB313.md) — The Corinthian Correspondence | 3 | 290 |
-| 4 | [MIN325](courses/MIN325.md) — Preaching in the Contemporary World | 3 | 296 |
+| 4 | [MIN325](courses/MIN325.md) — Preaching in the Contemporary World | 3 | 297 |
 | 5 | [BIB318](courses/BIB318.md) — The Pentateuch | 3 | 334 |
 | 6 | [BIB322](courses/BIB322.md) — The Poetic Books | 3 | 242 |
 | 7 | [MIN381](courses/MIN381.md) — Pastoral Ministry | 3 | 310 |
@@ -98,7 +98,7 @@ Published sequence toward Ordained Minister credentialing.
 | [MIN251](courses/MIN251.md) | Effective Leadership | 2 | 03.26.01 | 12 | 42 | 263 |
 | [MIN261](courses/MIN261.md) | Introduction to AG Missions | 2 | 02.22.01 | 11 | 29 | 311 |
 | [MIN281](courses/MIN281.md) | Conflict Management | 2 | 02.22.01 | 7 | 25 | 228 |
-| [MIN325](courses/MIN325.md) | Preaching in the Contemporary World | 3 | 03.26.01 | 12 | 27 | 296 |
+| [MIN325](courses/MIN325.md) | Preaching in the Contemporary World | 3 | 03.26.01 | 12 | 27 | 297 |
 | [MIN327](courses/MIN327.md) | Church Administration Finance & Law | 3 | 02.22.01 | 14 | 54 | 335 |
 | [MIN381](courses/MIN381.md) | Pastoral Ministry | 3 | 03.22.01 | 15 | 46 | 310 |
 | [THE118](courses/THE118.md) | Introduction to Theology | 1 | 04.22.01 | 13 | 36 | 199 |
