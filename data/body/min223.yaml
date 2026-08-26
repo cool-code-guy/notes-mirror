@@ -3304,6 +3304,2539 @@ courses:
           C: overuse alliteration.
           D: allow the theme to emerge from the text.
         answer: B
+    - pn: 03.22.01
+      course_code: MIN223
+      source_html: BMIN223ENE03-90_03.22.01.html
+      template: old
+      recorded: '2026-08-26'
+      unplaced: 1
+      counts:
+        ty: 139
+        upe: 100
+        final: 0
+      questions:
+      - uid: MIN223.1.1.1.UPE.1
+        subobj: 1.1.1
+        type: upe
+        question: The pastor’s main function in the church is to
+        choices:
+          A: coordinate the pastoral staff.
+          B: preach spiritual sermons.
+          C: administrate church business.
+          D: represent the church in the community.
+        answer: B
+      - uid: MIN223.1.1.1.TY.1
+        subobj: 1.1.1
+        type: ty
+        question: A pastor’s main responsibility is to
+        choices:
+          A: represent the church in the community.
+          B: evaluate his or her staff.
+          C: provide nourishment for his or her flock.
+          D: strive for denominational goals.
+        answer: C
+      - uid: MIN223.1.1.2.UPE.1
+        subobj: 1.1.2
+        type: upe
+        question: Positive preaching affects worship by
+        choices:
+          A: creating tradition.
+          B: demonstrating emotionalism.
+          C: teaching the correct posture for worship.
+          D: providing reasons for worship.
+        answer: D
+      - uid: MIN223.1.1.2.TY.1
+        subobj: 1.1.2
+        type: ty
+        question: Positive preaching affects worship by encouraging correct
+        choices:
+          A: structure.
+          B: attitudes.
+          C: posture.
+          D: tradition.
+        answer: B
+      - uid: MIN223.1.1.3.UPE.1
+        subobj: 1.1.3
+        type: upe
+        question: Although mass media are costly, they offer
+        choices:
+          A: mass penetration.
+          B: audience feedback.
+          C: an alternative for church attendance.
+          D: all of the above.
+        answer: A
+      - uid: MIN223.1.1.3.TY.1
+        subobj: 1.1.3
+        type: ty
+        question: A weakness of mass media is that its approach is
+        choices:
+          A: direct.
+          B: impersonal.
+          C: lengthy.
+          D: impractical.
+        answer: B
+      - uid: MIN223.1.2.1.UPE.1
+        subobj: 1.2.1
+        type: upe
+        question: God continues to confront people in a personal revelation through
+        choices:
+          A: scientific exploration.
+          B: the preaching of the Word.
+          C: the search for self-awareness.
+          D: a person’s own disciplined nature.
+        answer: B
+      - uid: MIN223.1.2.1.TY.1
+        subobj: 1.2.1
+        type: ty
+        question: Historically the church’s spiritual condition can be directly tied
+          to
+        choices:
+          A: the strength of preaching.
+          B: small group functions within the church.
+          C: choirs and music.
+          D: liturgy.
+        answer: A
+      - uid: MIN223.1.2.1.TY.2
+        subobj: 1.2.1
+        type: ty
+        question: “Let us go . . . to the nearby villages—so I can preach there also”
+          (Mark 1:38) illustrates the importance of preaching as
+        choices:
+          A: God’s personal revelation.
+          B: a ministry priority.
+          C: a commandment.
+          D: a compulsion.
+        answer: D
+      - uid: MIN223.1.2.1.TY.3
+        subobj: 1.2.1
+        type: ty
+        question: “Go into all the world and preach” (Mark 16:15) illustrates the
+          importance of preaching as
+        choices:
+          A: God’s personal revelation.
+          B: a ministry priority.
+          C: a commandment.
+          D: a compulsion.
+        answer: C
+      - uid: MIN223.1.2.1.TY.4
+        subobj: 1.2.1
+        type: ty
+        question: “For we cannot help speaking about what we have seen and heard”
+          (Acts 4:20) illustrates the importance of preaching as
+        choices:
+          A: God’s personal revelation.
+          B: a ministry priority.
+          C: a commandment.
+          D: a compulsion.
+        answer: D
+      - uid: MIN223.1.2.2.UPE.1
+        subobj: 1.2.2
+        type: upe
+        question: The church’s spiritual condition throughout history has been directly
+          related to
+        choices:
+          A: the strength of preaching.
+          B: national prosperity.
+          C: the size of the church.
+          D: political power.
+        answer: A
+      - uid: MIN223.1.2.3.UPE.1
+        subobj: 1.2.3
+        type: upe
+        question: Preaching can affect the problems of modern-day society by communicating
+        choices:
+          A: positive results rather than focusing on specific sin.
+          B: love, hope, and forgiveness to sinners.
+          C: the promise of a worry-free life.
+          D: plans for social reforms.
+        answer: B
+      - uid: MIN223.1.2.3.TY.1
+        subobj: 1.2.3
+        type: ty
+        question: Which of the following would most likely be a practical effect of
+          biblical preaching in a community?
+        choices:
+          A: Increased public services
+          B: Higher employment
+          C: Lower crime
+          D: Political conservatism
+        answer: C
+      - uid: MIN223.1.2.3.TY.2
+        subobj: 1.2.3
+        type: ty
+        question: A salvation sermon followed by a meal for the homeless is an example
+          of the importance of preaching in what way?
+        choices:
+          A: Scripturally
+          B: Historically
+          C: Practically
+          D: Economically
+        answer: C
+      - uid: MIN223.1.3.1.UPE.1
+        subobj: 1.3.1
+        type: upe
+        question: We have an example of selfishness in the pulpit when a preacher
+          views his or her popularity as
+        choices:
+          A: a reward for human achievement.
+          B: an opportunity for ministry.
+          C: a danger signal of spiritual compromise.
+          D: evidence of a God-given call.
+        answer: A
+      - uid: MIN223.1.3.1.UPE.2
+        subobj: 1.3.1
+        type: upe
+        question: Which of the following is an example of substitution in preaching?
+        choices:
+          A: A message targeted at selected people within the congregation
+          B: Borrowed sermon material from a television evangelist
+          C: A sermon based on a sin the preacher has not conquered personally
+          D: The use of personal illustrations rather than biblical ones
+        answer: C
+      - uid: MIN223.1.3.1.UPE.3
+        subobj: 1.3.1
+        type: upe
+        question: Generally superficiality develops in the pastor because of
+        choices:
+          A: lack of adequate ministerial education.
+          B: the occupational hazards of the ministry.
+          C: not becoming involved in the civic affairs of the community.
+          D: falling out of love with Jesus Christ.
+        answer: D
+      - uid: MIN223.1.3.1.TY.1
+        subobj: 1.3.1
+        type: ty
+        question: An example of superficiality in preaching is
+        choices:
+          A: ritualism.
+          B: spiritualism.
+          C: individualism.
+          D: manipulation.
+        answer: D
+      - uid: MIN223.2.1.1.UPE.1
+        subobj: 2.1.1
+        type: upe
+        question: Which of the following preaching themes is unique to Christianity?
+        choices:
+          A: The resurrection
+          B: Supernatural power
+          C: Prophetic messages
+          D: Reward after death
+        answer: A
+      - uid: MIN223.2.1.1.UPE.2
+        subobj: 2.1.1
+        type: upe
+        question: Preaching on the second coming should focus on
+        choices:
+          A: prophetic accuracy.
+          B: the order of end-time events.
+          C: personal holiness among believers.
+          D: its historical background.
+        answer: C
+      - uid: MIN223.2.1.1.TY.1
+        subobj: 2.1.1
+        type: ty
+        question: Which of the following should be at the center of evangelical preaching?
+        choices:
+          A: Prophecy
+          B: Miracles
+          C: The cross
+          D: Historical facts
+        answer: C
+      - uid: MIN223.2.1.1.TY.2
+        subobj: 2.1.1
+        type: ty
+        question: An essential preaching theme that is unique to Christianity is
+        choices:
+          A: supernatural power.
+          B: prophetic messages.
+          C: the resurrection.
+          D: life after death.
+        answer: C
+      - uid: MIN223.2.1.1.TY.3
+        subobj: 2.1.1
+        type: ty
+        question: The nature of New Testament preaching was primarily
+        choices:
+          A: testimonial.
+          B: historical.
+          C: homiletical.
+          D: ethical.
+        answer: A
+      - uid: MIN223.2.2.1.UPE.1
+        subobj: 2.2.1
+        type: upe
+        question: What manifestation would normally accompany gospel preaching in
+          the New Testament?
+        choices:
+          A: New converts would be slain in the Spirit.
+          B: Slavery would be allowed.
+          C: Women would be given equal rights with men.
+          D: The power of God would be manifest in healings, miracles, and signs.
+        answer: D
+      - uid: MIN223.2.2.1.TY.1
+        subobj: 2.2.1
+        type: ty
+        question: Teaching and preaching are most similar in
+        choices:
+          A: style.
+          B: content.
+          C: audience participation.
+          D: length of presentation.
+        answer: B
+      - uid: MIN223.2.2.1.TY.2
+        subobj: 2.2.1
+        type: ty
+        question: Which method of New Testament preaching is defined as “authoritative
+          presentation”?
+        choices:
+          A: Proclaim
+          B: Evangelize
+          C: Witness
+          D: Correct
+        answer: A
+      - uid: MIN223.2.2.1.TY.3
+        subobj: 2.2.1
+        type: ty
+        question: Which method of New Testament preaching is defined as “sharing the
+          good news”?
+        choices:
+          A: Proclaim
+          B: Evangelize
+          C: Witness
+          D: Correct
+        answer: B
+      - uid: MIN223.2.2.1.TY.4
+        subobj: 2.2.1
+        type: ty
+        question: Which method of New Testament preaching is defined as “a personal
+          testimony”?
+        choices:
+          A: Proclaim
+          B: Evangelize
+          C: Witness
+          D: Correct
+        answer: C
+      - uid: MIN223.2.3.1.UPE.1
+        subobj: 2.3.1
+        type: upe
+        question: The form of ministry mentioned most often in the book of Acts is
+        choices:
+          A: teaching.
+          B: hospitality.
+          C: discipling.
+          D: both in a) and c) above.
+        answer: D
+      - uid: MIN223.2.3.1.TY.1
+        subobj: 2.3.1
+        type: ty
+        question: Which approach to encouraging holiness among believers is described
+          as “preaching that includes teaching”?
+        choices:
+          A: Education
+          B: Ethics
+          C: Edification
+          D: Establishment
+        answer: A
+      - uid: MIN223.2.3.2.UPE.1
+        subobj: 2.3.2
+        type: upe
+        question: Ethical preaching deals primarily with love and
+        choices:
+          A: understanding.
+          B: action.
+          C: attitudes.
+          D: abilities.
+        answer: B
+      - uid: MIN223.2.3.2.TY.1
+        subobj: 2.3.2
+        type: ty
+        question: An example of the value of ethical preaching is when a person
+        choices:
+          A: experiences conviction.
+          B: understands the meaning of personal salvation.
+          C: gives financially to someone in need.
+          D: attends church regularly.
+        answer: C
+      - uid: MIN223.2.3.3.UPE.1
+        subobj: 2.3.3
+        type: upe
+        question: Preaching that focuses on edification centers on
+        choices:
+          A: the individual.
+          B: worship.
+          C: doctrine.
+          D: Jesus.
+        answer: D
+      - uid: MIN223.2.3.3.TY.1
+        subobj: 2.3.3
+        type: ty
+        question: Which approach to encouraging holiness among believers is described
+          as “promoting personal maturity”?
+        choices:
+          A: Education
+          B: Ethics
+          C: Edification
+          D: Establishment
+        answer: C
+      - uid: MIN223.3.1.1.UPE.1
+        subobj: 3.1.1
+        type: upe
+        question: The best example of personal holiness in the life of a preacher
+          is
+        choices:
+          A: the ability to listen.
+          B: a dedication to truth.
+          C: the work ethic.
+          D: an ambition to succeed.
+        answer: B
+      - uid: MIN223.3.1.1.TY.1
+        subobj: 3.1.1
+        type: ty
+        question: As a preacher, your loyalty should first be to
+        choices:
+          A: the local church.
+          B: the denomination.
+          C: Christ.
+          D: members of your congregation.
+        answer: C
+      - uid: MIN223.3.1.2.UPE.1
+        subobj: 3.1.2
+        type: upe
+        question: According to Romans 6:16, obedience to the Lordship of Christ leads
+          to
+        choices:
+          A: discipline.
+          B: righteousness.
+          C: material riches.
+          D: knowledge.
+        answer: B
+      - uid: MIN223.3.1.2.UPE.2
+        subobj: 3.1.2
+        type: upe
+        question: The message of Acts 2:39 verifies that the Holy Spirit was given
+        choices:
+          A: for preachers of the gospel only.
+          B: to the believers of New Testament times.
+          C: to all believers in every age.
+          D: to the disciples only.
+        answer: C
+      - uid: MIN223.3.2.1.UPE.1
+        subobj: 3.2.1
+        type: upe
+        question: Which of the following attitudes should a preacher exhibit regarding
+          the consequences of sin?
+        choices:
+          A: Passion
+          B: Diplomacy
+          C: Tolerance
+          D: Discretion
+        answer: A
+      - uid: MIN223.3.2.1.UPE.2
+        subobj: 3.2.1
+        type: upe
+        question: Our confidence in sharing the gospel with others rests upon
+        choices:
+          A: how long we have been Christians.
+          B: our personal experience with Christ.
+          C: the extent of our sin before becoming a Christian.
+          D: the amount of training we have received.
+        answer: B
+      - uid: MIN223.3.2.1.UPE.3
+        subobj: 3.2.1
+        type: upe
+        question: The motivating force behind our preaching should be
+        choices:
+          A: ambition.
+          B: love.
+          C: skill.
+          D: need for recognition.
+        answer: B
+      - uid: MIN223.3.2.1.TY.1
+        subobj: 3.2.1
+        type: ty
+        question: The message of Romans 6:23, “The wages of sin is death,” should
+          cause one to preach with
+        choices:
+          A: diplomacy.
+          B: passion.
+          C: tolerance.
+          D: eloquence.
+        answer: B
+      - uid: MIN223.3.3.1.UPE.1
+        subobj: 3.3.1
+        type: upe
+        question: When Paul said, “Woe to me if I do not preach the gospel,” he was
+          referring to the importance of his
+        choices:
+          A: time invested in education.
+          B: public image.
+          C: call to preach.
+          D: desire to communicate.
+        answer: C
+      - uid: MIN223.3.3.1.TY.1
+        subobj: 3.3.1
+        type: ty
+        question: When Paul said, “Woe to me if I do not preach the gospel,” he was
+          referring to the importance of his
+        choices:
+          A: time invested in education.
+          B: public image.
+          C: desire to communicate.
+          D: call to preach.
+        answer: D
+      - uid: MIN223.3.3.1.TY.2
+        subobj: 3.3.1
+        type: ty
+        question: Peter compares the qualities of a pastor to those of a
+        choices:
+          A: successful businessman.
+          B: shepherd of a flock.
+          C: worker in a vineyard.
+          D: skilled fisherman.
+        answer: B
+      - uid: MIN223.3.3.1.TY.3
+        subobj: 3.3.1
+        type: ty
+        question: Who said, “For I am compelled to preach”?
+        choices:
+          A: Isaiah
+          B: Jeremiah
+          C: Paul
+          D: Simon Peter
+        answer: C
+      - uid: MIN223.3.3.1.TY.4
+        subobj: 3.3.1
+        type: ty
+        question: What former shepherd worried about his speaking ability?
+        choices:
+          A: Moses
+          B: Isaiah
+          C: Jeremiah
+          D: Simon Peter
+        answer: A
+      - uid: MIN223.3.3.1.TY.5
+        subobj: 3.3.1
+        type: ty
+        question: Whose response to the call was, “Here am I. Send me”?
+        choices:
+          A: Moses
+          B: Isaiah
+          C: Jeremiah
+          D: Paul
+        answer: B
+      - uid: MIN223.3.3.1.TY.6
+        subobj: 3.3.1
+        type: ty
+        question: The Lord called whom as a child?
+        choices:
+          A: Moses
+          B: Isaiah
+          C: Jeremiah
+          D: Paul
+        answer: C
+      - uid: MIN223.3.3.1.TY.7
+        subobj: 3.3.1
+        type: ty
+        question: Who responded to the call immediately by leaving his occupation?
+        choices:
+          A: Moses
+          B: Isaiah
+          C: Paul
+          D: Simon Peter
+        answer: D
+      - uid: MIN223.3.3.2.UPE.1
+        subobj: 3.3.2
+        type: upe
+        question: In the accounts of God calling Moses, Isaiah, and Jeremiah, God
+        choices:
+          A: made the initial move.
+          B: spoke very quietly.
+          C: responded to their desire to preach.
+          D: used other people to get their attention.
+        answer: A
+      - uid: MIN223.3.3.2.UPE.2
+        subobj: 3.3.2
+        type: upe
+        question: God’s call to Isaiah came as
+        choices:
+          A: a heavenly wind.
+          B: a message from a friend.
+          C: an audible voice.
+          D: a dream.
+        answer: C
+      - uid: MIN223.3.3.3.UPE.1
+        subobj: 3.3.3
+        type: upe
+        question: Persons entering the ministry should feel that they
+        choices:
+          A: have earned a place of respect and prestige.
+          B: are comfortable and at ease on stage.
+          C: are pleasing their parents.
+          D: could never leave the preaching ministry.
+        answer: D
+      - uid: MIN223.3.3.3.TY.1
+        subobj: 3.3.3
+        type: ty
+        question: In which of the following ways is the calling of a pastor different
+          from other walks of life?
+        choices:
+          A: The pastor is respected in the community.
+          B: Pastoring requires years of study.
+          C: The pastor’s spouse and children must be an example to others.
+          D: The pastor works many hours a day and often in the evening.
+        answer: C
+      - uid: MIN223.4.1.1.UPE.1
+        subobj: 4.1.1
+        type: upe
+        question: Whether a sermon is to be topical, textual, or expository is determined
+          by the
+        choices:
+          A: text.
+          B: theme.
+          C: aim.
+          D: occasion.
+        answer: A
+      - uid: MIN223.4.1.1.TY.1
+        subobj: 4.1.1
+        type: ty
+        question: The word exegesis means
+        choices:
+          A: “bringing out the real meaning of a word.”
+          B: “putting your own meaning into a word.”
+          C: “using a text out of context.”
+          D: “ignoring the unity of the Bible.”
+        answer: A
+      - uid: MIN223.4.1.1.TY.2
+        subobj: 4.1.1
+        type: ty
+        question: The word text comes from a Latin word meaning “something
+        choices:
+          A: painted.”
+          B: divided.”
+          C: written.”
+          D: woven.”
+        answer: D
+      - uid: MIN223.4.1.2.UPE.1
+        subobj: 4.1.2
+        type: upe
+        question: Which question does a sermon theme answer?
+        choices:
+          A: What do I want this sermon to do?
+          B: What should we believe?
+          C: What does the text say?
+          D: What should we do?
+        answer: C
+      - uid: MIN223.4.1.2.UPE.2
+        subobj: 4.1.2
+        type: upe
+        question: When planning the sermon aim, we should plan for results in terms
+          that are
+        choices:
+          A: predictable.
+          B: reasonable.
+          C: tangible.
+          D: achievable.
+        answer: C
+      - uid: MIN223.4.1.2.TY.1
+        subobj: 4.1.2
+        type: ty
+        question: The MAIN theme for the text “But seek first his kingdom and his
+          righteousness, and all these things will be given to you as well” (Matthew
+          6:33) is
+        choices:
+          A: recognize the authority of God’s Word.
+          B: make God the first priority in your life.
+          C: patience is the key to God’s blessings.
+          D: God’s will offers us financial security.
+        answer: B
+      - uid: MIN223.4.1.2.TY.2
+        subobj: 4.1.2
+        type: ty
+        question: The sermon theme answers the question,
+        choices:
+          A: What do I want this sermon to do?
+          B: How many divisions does this sermon have?
+          C: What does the text say?
+          D: What occasion are we celebrating?
+        answer: C
+      - uid: MIN223.4.1.2.TY.3
+        subobj: 4.1.2
+        type: ty
+        question: The sermon aim answers the question,
+        choices:
+          A: What do I want this sermon to do?
+          B: What does the text say?
+          C: What style of preaching shall I use?
+          D: What illustrations are appropriate?
+        answer: A
+      - uid: MIN223.4.2.1.UPE.1
+        subobj: 4.2.1
+        type: upe
+        question: How many hours does your IST author recommend that you spend preparing
+          each sermon?
+        choices:
+          A: One hour
+          B: Three hours
+          C: Six hours
+          D: Nine hours
+        answer: C
+      - uid: MIN223.4.2.1.TY.1
+        subobj: 4.2.1
+        type: ty
+        question: What lesson from God’s work at Creation can we learn regarding rest?
+        choices:
+          A: The pastor needs to be flexible regarding his or her day off.
+          B: Regular days off should be written into the pastor’s schedule.
+          C: When everything is accomplished, the pastor should take a day off.
+          D: The pastor’s day off should always be on Saturday.
+        answer: B
+      - uid: MIN223.4.2.2.UPE.1
+        subobj: 4.2.2
+        type: upe
+        question: A preacher who is self-disciplined is best described as one who
+          is self-
+        choices:
+          A: sacrificing.
+          B: sufficient.
+          C: controlled.
+          D: actualized.
+        answer: C
+      - uid: MIN223.4.2.2.TY.1
+        subobj: 4.2.2
+        type: ty
+        question: Preparing biblical sermons requires, above all else, that a preacher
+          be
+        choices:
+          A: well educated.
+          B: self-disciplined.
+          C: gifted.
+          D: talented.
+        answer: B
+      - uid: MIN223.4.2.2.TY.2
+        subobj: 4.2.2
+        type: ty
+        question: According to 1 Timothy 4:12, a pastor should be a
+        choices:
+          A: sympathetic observer.
+          B: dictatorial leader.
+          C: free-spirited individual.
+          D: good example to others.
+        answer: D
+      - uid: MIN223.4.3.1.UPE.1
+        subobj: 4.3.1
+        type: upe
+        question: According to your IST author, what will bring the greatest sense
+          of satisfaction in preaching?
+        choices:
+          A: Church growth
+          B: Positive comments from the congregation
+          C: Admiration from minister colleagues
+          D: A knowledge of being in God’s will
+        answer: D
+      - uid: MIN223.4.3.1.TY.1
+        subobj: 4.3.1
+        type: ty
+        question: A preacher’s greatest sense of satisfaction comes from
+        choices:
+          A: practicing faithfulness.
+          B: large numbers of conversions.
+          C: church growth.
+          D: positive feedback from the congregation.
+        answer: A
+      - uid: MIN223.4.3.2.UPE.1
+        subobj: 4.3.2
+        type: upe
+        question: Failure in the preaching ministry is most often related to a lacking
+          in one’s
+        choices:
+          A: devotional life.
+          B: education.
+          C: finances.
+          D: ministerial experience.
+        answer: A
+      - uid: MIN223.4.3.2.TY.1
+        subobj: 4.3.2
+        type: ty
+        question: A pastor should consider personal devotions as the source for sermon
+        choices:
+          A: material.
+          B: ideas.
+          C: development.
+          D: inspiration.
+        answer: D
+      - uid: MIN223.5.1.1.UPE.1
+        subobj: 5.1.1
+        type: upe
+        question: When facing the challenge of securing sermon material, a preacher
+          should rely on biblical material that is
+        choices:
+          A: interesting to the preacher.
+          B: relevant to the needs of the congregation.
+          C: historically significant.
+          D: related to world affairs.
+        answer: B
+      - uid: MIN223.5.1.1.TY.1
+        subobj: 5.1.1
+        type: ty
+        question: The best way to face the challenge of securing sermon material is
+          to use a biblical text and make it
+        choices:
+          A: fit the theme you have chosen.
+          B: illustrate your divisions.
+          C: relevant to current situations.
+          D: interesting without being offensive.
+        answer: C
+      - uid: MIN223.5.2.1.UPE.1
+        subobj: 5.2.1
+        type: upe
+        question: Which of the following is an example of an inadequate solution to
+          securing sermon material?
+        choices:
+          A: Bible commentaries
+          B: Documented quotations
+          C: Sermon idea books
+          D: A borrowed sermon
+        answer: D
+      - uid: MIN223.5.2.1.TY.1
+        subobj: 5.2.1
+        type: ty
+        question: The best definition for plagiarism is “to
+        choices:
+          A: borrow.”
+          B: steal.”
+          C: quote.”
+          D: explain.”
+        answer: B
+      - uid: MIN223.5.2.1.TY.2
+        subobj: 5.2.1
+        type: ty
+        question: Which approach is an inadequate solution to securing sermon material?
+        choices:
+          A: Borrowing a sermon from a preacher friend
+          B: Using sermon idea books as resource material
+          C: Finding a modern-day illustration for a biblical text
+          D: Reading biblical commentaries
+        answer: A
+      - uid: MIN223.5.3.1.UPE.1
+        subobj: 5.3.1
+        type: upe
+        question: The reason for reading complete books or sections of Scripture in
+          your Bible study rather than short portions is to
+        choices:
+          A: discover the author’s purpose for writing.
+          B: develop more than one sermon at a time.
+          C: establish three main thoughts.
+          D: continually read through the Bible.
+        answer: A
+      - uid: MIN223.5.3.1.TY.1
+        subobj: 5.3.1
+        type: ty
+        question: Your IST author suggests that you study an original translation
+          of a text before reading a commentary so that you can
+        choices:
+          A: avoid different opinions in the commentaries.
+          B: allow God’s Word to speak directly to your spirit.
+          C: condense the volume of your study notes.
+          D: add a scholarly touch to your sermon preparation.
+        answer: B
+      - uid: MIN223.5.3.1.TY.2
+        subobj: 5.3.1
+        type: ty
+        question: This chapter suggests that when studying the Bible, it is best to
+          read
+        choices:
+          A: a few verses at a time.
+          B: at least a chapter.
+          C: a section or book.
+          D: what is suggested in a Bible-reading program.
+        answer: C
+      - uid: MIN223.5.3.2.UPE.1
+        subobj: 5.3.2
+        type: upe
+        question: To relate a biblical sermon to current situations requires that
+          a pastor
+        choices:
+          A: spend time with his or her congregation.
+          B: focus on interesting illustrations.
+          C: spend more time studying.
+          D: follow current preaching trends.
+        answer: A
+      - uid: MIN223.5.3.2.TY.1
+        subobj: 5.3.2
+        type: ty
+        question: Matthew 9:36 explains that Jesus ministered to the needs of people
+          as a shepherd, which exhibits
+        choices:
+          A: skill.
+          B: force.
+          C: compassion.
+          D: knowledge.
+        answer: C
+      - uid: MIN223.5.3.2.TY.2
+        subobj: 5.3.2
+        type: ty
+        question: In this chapter, you learned that a sermon should primarily relate
+          to the congregation’s
+        choices:
+          A: needs.
+          B: wishes.
+          C: interests.
+          D: cultural mind-set.
+        answer: A
+      - uid: MIN223.5.3.2.TY.3
+        subobj: 5.3.2
+        type: ty
+        question: What amount of time does your IST author recommend for a sermon
+          series?
+        choices:
+          A: 2–3 weeks
+          B: 4–6 weeks
+          C: 8 weeks
+          D: 3 months
+        answer: B
+      - uid: MIN223.5.3.3.UPE.1
+        subobj: 5.3.3
+        type: upe
+        question: A sequence of sermons in which each sermon is dependent on the preceding
+          one is called a
+        choices:
+          A: series.
+          B: Bible reading.
+          C: serial.
+          D: Bible exposition.
+        answer: C
+      - uid: MIN223.5.3.3.TY.1
+        subobj: 5.3.3
+        type: ty
+        question: The MAIN purpose of the ecclesiastical calendar was to
+        choices:
+          A: emphasize organization within the early church.
+          B: give attention to various political issues.
+          C: accommodate visiting church leaders.
+          D: ensure the teaching of church doctrine.
+        answer: D
+      - uid: MIN223.5.3.4.UPE.1
+        subobj: 5.3.4
+        type: upe
+        question: The Bible reading is different from the expository sermon in that
+          it emphasizes
+        choices:
+          A: conversion.
+          B: doctrine.
+          C: action.
+          D: evangelism.
+        answer: B
+      - uid: MIN223.6.1.1.UPE.1
+        subobj: 6.1.1
+        type: upe
+        question: Knowing the sermon objective will help the preacher in selecting
+          the best
+        choices:
+          A: category.
+          B: text.
+          C: title.
+          D: application.
+        answer: A
+      - uid: MIN223.6.1.1.TY.1
+        subobj: 6.1.1
+        type: ty
+        question: The purpose of the sermon objective is to focus on the sermon
+        choices:
+          A: illustrations.
+          B: text.
+          C: goal.
+          D: length.
+        answer: C
+      - uid: MIN223.6.1.2.UPE.1
+        subobj: 6.1.2
+        type: upe
+        question: Evangelistic preaching calls for
+        choices:
+          A: a specialized style.
+          B: definite decisions.
+          C: spontaneous inspiration.
+          D: a highly intellectual appeal.
+        answer: B
+      - uid: MIN223.6.1.2.UPE.2
+        subobj: 6.1.2
+        type: upe
+        question: The aim of evangelistic preaching is a person’s
+        choices:
+          A: will.
+          B: personality.
+          C: understanding.
+          D: interests.
+        answer: A
+      - uid: MIN223.6.1.2.TY.1
+        subobj: 6.1.2
+        type: ty
+        question: In 2 Timothy 4:2, Paul encourages Timothy to preach the Word and
+          do the work of an
+        choices:
+          A: interpreter.
+          B: evangelist.
+          C: educator.
+          D: author.
+        answer: B
+      - uid: MIN223.6.1.2.TY.2
+        subobj: 6.1.2
+        type: ty
+        question: The best example of evangelistic preaching is a sermon that
+        choices:
+          A: contains nothing beyond the simple gospel.
+          B: focuses on human emotions.
+          C: centers on intellectual appeal.
+          D: calls for a definite decision.
+        answer: D
+      - uid: MIN223.6.2.1.UPE.1
+        subobj: 6.2.1
+        type: upe
+        question: A doctrinal sermon that is illustrated with verbal-illustrative
+          stories is
+        choices:
+          A: didactic.
+          B: demonstrative.
+          C: interrogative.
+          D: contributive.
+        answer: B
+      - uid: MIN223.6.2.1.UPE.2
+        subobj: 6.2.1
+        type: upe
+        question: The mode of teaching that should have limited use in doctrinal teaching
+          is
+        choices:
+          A: didactic.
+          B: demonstrative.
+          C: interrogative.
+          D: contributive.
+        answer: D
+      - uid: MIN223.6.2.1.TY.1
+        subobj: 6.2.1
+        type: ty
+        question: The didactic method of preaching is one that
+        choices:
+          A: tells.
+          B: shows.
+          C: asks.
+          D: shares.
+        answer: A
+      - uid: MIN223.6.2.1.TY.2
+        subobj: 6.2.1
+        type: ty
+        question: Jesus often used the interrogative method of teaching by
+        choices:
+          A: lecturing.
+          B: illustrating.
+          C: asking a question.
+          D: telling a story.
+        answer: C
+      - uid: MIN223.6.2.1.TY.3
+        subobj: 6.2.1
+        type: ty
+        question: What kind of sermon answers the question “What should we believe?”
+        choices:
+          A: Evangelistic preaching
+          B: Doctrinal preaching
+          C: Ethical preaching
+          D: Apologetic preaching
+        answer: B
+      - uid: MIN223.6.3.1.UPE.1
+        subobj: 6.3.1
+        type: upe
+        question: Ethical preaching focuses on teaching a Christian how to
+        choices:
+          A: follow church doctrines.
+          B: live out one’s salvation.
+          C: study the Bible.
+          D: understand prophecy.
+        answer: B
+      - uid: MIN223.6.3.1.TY.1
+        subobj: 6.3.1
+        type: ty
+        question: Doctrinal preaching focuses on beliefs, whereas ethical preaching
+          addresses one’s
+        choices:
+          A: actions.
+          B: guilt.
+          C: sin.
+          D: background.
+        answer: A
+      - uid: MIN223.6.3.1.TY.2
+        subobj: 6.3.1
+        type: ty
+        question: What kind of sermon teaches us how we should live?
+        choices:
+          A: Evangelistic preaching
+          B: Doctrinal preaching
+          C: Ethical preaching
+          D: Apologetic preaching
+        answer: C
+      - uid: MIN223.6.4.1.UPE.1
+        subobj: 6.4.1
+        type: upe
+        question: Preaching that attempts to repel intellectual attacks upon Christianity
+          is
+        choices:
+          A: evangelistic.
+          B: doctrinal.
+          C: ethical.
+          D: apologetic.
+        answer: D
+      - uid: MIN223.6.4.1.TY.1
+        subobj: 6.4.1
+        type: ty
+        question: What kind of sermon refutes arguments against the gospel?
+        choices:
+          A: Evangelistic preaching
+          B: Doctrinal preaching
+          C: Ethical preaching
+          D: Apologetic preaching
+        answer: D
+      - uid: MIN223.6.4.1.TY.2
+        subobj: 6.4.1
+        type: ty
+        question: What kind of sermon answers the question “Why should we believe?”
+        choices:
+          A: Evangelistic preaching
+          B: Doctrinal preaching
+          C: Ethical preaching
+          D: Apologetic preaching
+        answer: D
+      - uid: MIN223.7.1.1.UPE.1
+        subobj: 7.1.1
+        type: upe
+        question: A good sermon illustration will often be what
+        choices:
+          A: moves one toward persuasion.
+          B: provides entertainment.
+          C: establishes a sermon theme.
+          D: makes a sermon colorful.
+        answer: A
+      - uid: MIN223.7.1.1.TY.1
+        subobj: 7.1.1
+        type: ty
+        question: An illustration can best be described as a sermon
+        choices:
+          A: filler.
+          B: decoration.
+          C: illumination.
+          D: focus.
+        answer: C
+      - uid: MIN223.7.1.1.TY.2
+        subobj: 7.1.1
+        type: ty
+        question: One purpose of the sermon illustration is to
+        choices:
+          A: allow time for personal interaction.
+          B: break the dullness of the sermon.
+          C: provide humor in the sermon.
+          D: help people remember a sermon point.
+        answer: D
+      - uid: MIN223.7.2.1.UPE.1
+        subobj: 7.2.1
+        type: upe
+        question: Which illustration would be most helpful in historical prophetic
+          preaching?
+        choices:
+          A: Analogies
+          B: An object lesson
+          C: Time charts
+          D: Quotations
+        answer: C
+      - uid: MIN223.7.2.1.TY.1
+        subobj: 7.2.1
+        type: ty
+        question: What would be the best way to illustrate historical or prophetic
+          studies?
+        choices:
+          A: Quotations
+          B: Time charts
+          C: Object lessons
+          D: Analogies
+        answer: B
+      - uid: MIN223.7.2.1.TY.2
+        subobj: 7.2.1
+        type: ty
+        question: When Jesus referred to His disciples as a “little flock,” He was
+          illustrating with
+        choices:
+          A: an anecdote.
+          B: a quotation.
+          C: a fable.
+          D: a figure of speech.
+        answer: D
+      - uid: MIN223.7.3.1.UPE.1
+        subobj: 7.3.1
+        type: upe
+        question: Which kind of sermon illustration should be used only occasionally?
+        choices:
+          A: Biblical
+          B: Personal
+          C: Biographical
+          D: Practical
+        answer: B
+      - uid: MIN223.7.3.1.TY.1
+        subobj: 7.3.1
+        type: ty
+        question: Which source is the most useful for sermon illustrations?
+        choices:
+          A: Observations of daily life
+          B: A published book of sermon ideas
+          C: Sensational autobiographies
+          D: Illustrations from the preacher’s life
+        answer: A
+      - uid: MIN223.7.4.1.UPE.1
+        subobj: 7.4.1
+        type: upe
+        question: Which statement on illustrations is NOT true?
+        choices:
+          A: When an illustration in a sermon is appropriately timed, it will clarify
+            and illuminate an issue.
+          B: Suitability, accuracy, and variety are keys to effective sermon illustrations.
+          C: An abundance of interesting stories will improve a weak sermon.
+          D: There are no rules about how many illustrations to include in each sermon.
+        answer: C
+      - uid: MIN223.7.4.1.TY.1
+        subobj: 7.4.1
+        type: ty
+        question: It is important for the preacher to LIMIT the use of sermon illustrations
+          that are
+        choices:
+          A: historical.
+          B: personal.
+          C: biographical.
+          D: practical.
+        answer: B
+      - uid: MIN223.7.4.1.TY.2
+        subobj: 7.4.1
+        type: ty
+        question: When using a story as an illustration, it is important to use a
+          story that is
+        choices:
+          A: personal.
+          B: entertaining.
+          C: accurate.
+          D: biblical.
+        answer: C
+      - uid: MIN223.7.4.1.TY.3
+        subobj: 7.4.1
+        type: ty
+        question: From this chapter we learn that sermon illustrations should always
+          be appropriate and
+        choices:
+          A: varied.
+          B: humorous.
+          C: biblical.
+          D: historical.
+        answer: A
+      - uid: MIN223.7.5.1.UPE.1
+        subobj: 7.5.1
+        type: upe
+        question: According to your textbook what is the most beneficial way to alphabetically
+          organize your notebooks of illustrations?
+        choices:
+          A: By sermon title
+          B: By source of information
+          C: By date of illustration
+          D: By topic illuminated
+        answer: D
+      - uid: MIN223.7.5.1.TY.1
+        subobj: 7.5.1
+        type: ty
+        question: Your IST author suggests that it is best to organize an illustration
+          file alphabetically by
+        choices:
+          A: sermon title.
+          B: the source of information.
+          C: the topic.
+          D: a numerical code.
+        answer: C
+      - uid: MIN223.7.5.1.TY.2
+        subobj: 7.5.1
+        type: ty
+        question: According to your IST author, the most practical way to organize
+          your illustrations is to use a
+        choices:
+          A: notebook.
+          B: folder system.
+          C: source index.
+          D: filing cabinet.
+        answer: A
+      - uid: MIN223.8.1.1.UPE.1
+        subobj: 8.1.1
+        type: upe
+        question: The organizational structure of a sermon is based on the sermon
+        choices:
+          A: theme.
+          B: outline.
+          C: title.
+          D: aim.
+        answer: B
+      - uid: MIN223.8.1.2.UPE.1
+        subobj: 8.1.2
+        type: upe
+        question: To help people remember a sermon, the outline’s divisions should
+          have
+        choices:
+          A: theological impact.
+          B: at least five divisions.
+          C: short, concise statements.
+          D: words other than those used in the text.
+        answer: C
+      - uid: MIN223.8.1.2.TY.1
+        subobj: 8.1.2
+        type: ty
+        question: This chapter compares the notes of a musical score (1 Corinthians
+          14:7) with the preparation of a sermon
+        choices:
+          A: conclusion.
+          B: theme.
+          C: outline.
+          D: aim.
+        answer: C
+      - uid: MIN223.8.1.2.TY.2
+        subobj: 8.1.2
+        type: ty
+        question: When going over a sermon outline to check for clarity, it is a good
+          practice to go back to the sermon
+        choices:
+          A: title.
+          B: theme.
+          C: conclusion.
+          D: aim.
+        answer: D
+      - uid: MIN223.8.1.2.TY.3
+        subobj: 8.1.2
+        type: ty
+        question: The sermon that will be remembered is the one that has divisions
+          with
+        choices:
+          A: theological impact.
+          B: at least five headings.
+          C: short, concise statements.
+          D: words other than those used in the text.
+        answer: C
+      - uid: MIN223.8.2.1.UPE.1
+        subobj: 8.2.1
+        type: upe
+        question: The steps of analysis and synthesis give a sermon outline
+        choices:
+          A: unity.
+          B: variety.
+          C: flexibility.
+          D: credibility.
+        answer: A
+      - uid: MIN223.8.2.1.UPE.2
+        subobj: 8.2.1
+        type: upe
+        question: The process of breaking up the text into its constituent parts is
+          called
+        choices:
+          A: synthesis.
+          B: application.
+          C: verification.
+          D: analysis.
+        answer: D
+      - uid: MIN223.8.2.1.TY.1
+        subobj: 8.2.1
+        type: ty
+        question: According to your IST author, poor structure of a sermon is often
+          the result of a poor
+        choices:
+          A: theme.
+          B: outline.
+          C: conclusion.
+          D: choice of Scripture.
+        answer: B
+      - uid: MIN223.8.2.1.TY.2
+        subobj: 8.2.1
+        type: ty
+        question: We achieve unity in a sermon outline by using the process of analysis
+          and
+        choices:
+          A: emphasis.
+          B: synthesis.
+          C: comparison.
+          D: evaluation.
+        answer: B
+      - uid: MIN223.8.2.1.TY.3
+        subobj: 8.2.1
+        type: ty
+        question: In preparing a sermon, it is MOST important that an outline have
+        choices:
+          A: three main divisions.
+          B: an established pattern.
+          C: alliteration.
+          D: correlation with the text.
+        answer: D
+      - uid: MIN223.8.2.2.UPE.1
+        subobj: 8.2.2
+        type: upe
+        question: The purpose of the transitional sentence is to
+        choices:
+          A: allow a time to present each division before preaching.
+          B: introduce the text and title of the sermon.
+          C: move from a weaker to a stronger point.
+          D: bridge the gap between main points.
+        answer: D
+      - uid: MIN223.8.2.2.TY.1
+        subobj: 8.2.2
+        type: ty
+        question: The definition of order , as an element of continuity in an outline,
+          is
+        choices:
+          A: “each point leading naturally into the next.”
+          B: “giving a sense of balance.”
+          C: “bridging the gap between main points.”
+          D: “details following in correct sequence.”
+        answer: D
+      - uid: MIN223.8.2.2.TY.2
+        subobj: 8.2.2
+        type: ty
+        question: The definition of transitional sentence , as an element of continuity
+          in an outline, is
+        choices:
+          A: “each point leading naturally into the next.”
+          B: “giving a sense of balance.”
+          C: “bridging the gap between main points.”
+          D: “details following in correct sequence.”
+        answer: C
+      - uid: MIN223.8.2.2.TY.3
+        subobj: 8.2.2
+        type: ty
+        question: The definition of progression , as an element of continuity in an
+          outline, is
+        choices:
+          A: “each point leading naturally into the next.”
+          B: “giving a sense of balance.”
+          C: “bridging the gap between main points.”
+          D: “details following in correct sequence.”
+        answer: A
+      - uid: MIN223.8.2.2.TY.4
+        subobj: 8.2.2
+        type: ty
+        question: The definition of proportion , as an element of continuity in an
+          outline, is
+        choices:
+          A: “each point leading naturally into the next.”
+          B: “giving a sense of balance.”
+          C: “bridging the gap between main points.”
+          D: “details following in correct sequence.”
+        answer: B
+      - uid: MIN223.8.3.1.UPE.1
+        subobj: 8.3.1
+        type: upe
+        question: Above all else, the main divisions of a sermon outline should
+        choices:
+          A: be limited in number.
+          B: begin with the same letter or sound.
+          C: follow the content of the text.
+          D: use five words or less.
+        answer: C
+      - uid: MIN223.9.1.1.UPE.1
+        subobj: 9.1.1
+        type: upe
+        question: The purposes of the introduction are to interest, establish, and
+        choices:
+          A: condense.
+          B: expound.
+          C: illustrate.
+          D: prepare.
+        answer: D
+      - uid: MIN223.9.1.1.UPE.2
+        subobj: 9.1.1
+        type: upe
+        question: Paul’s statement in Acts 17:22, “Men of Athens! I see that in every
+          way you are very religious,” is an example of a sermon
+        choices:
+          A: introduction.
+          B: application.
+          C: conclusion.
+          D: illustration.
+        answer: A
+      - uid: MIN223.9.1.1.TY.1
+        subobj: 9.1.1
+        type: ty
+        question: One of the purposes of the sermon introduction is to
+        choices:
+          A: give the preacher time to organize his or her thoughts.
+          B: present a shortened view of the sermon.
+          C: allow for flexibility.
+          D: gain the interest of the hearers.
+        answer: D
+      - uid: MIN223.9.1.1.TY.2
+        subobj: 9.1.1
+        type: ty
+        question: A good introduction should establish
+        choices:
+          A: spontaneous interaction with the hearers.
+          B: the relevance of the sermon material.
+          C: an objective view of the Scripture.
+          D: the main point of the outline in the minds of the hearers.
+        answer: B
+      - uid: MIN223.9.2.1.UPE.1
+        subobj: 9.2.1
+        type: upe
+        question: What areas are important to remember when selecting appropriate
+          sermon titles to use in an introduction?
+        choices:
+          A: Choose a title that will appeal to the imagination and cause the hearer
+            to want to listen to the entire sermon.
+          B: The longer a pastor has served at a church, the less important sermon
+            titles become.
+          C: Because of population shifts, a title must always be easily translated
+            into a second language.
+          D: From the perspective of sermon publication, the shorter the title the
+            better.
+        answer: A
+      - uid: MIN223.9.2.1.TY.1
+        subobj: 9.2.1
+        type: ty
+        question: Which sermon title could most effectively be used in the introduction
+          of a sermon?
+        choices:
+          A: “The Price of Service”
+          B: “Meditations of the Old Testament”
+          C: “The Problems of Leadership in the Church”
+          D: “Rituals and Traditions of the New Testament”
+        answer: A
+      - uid: MIN223.9.2.2.UPE.1
+        subobj: 9.2.2
+        type: upe
+        question: A proper introduction will
+        choices:
+          A: establish the main division and subdivisions.
+          B: give detailed textual background.
+          C: make the topic clear.
+          D: be spontaneous.
+        answer: C
+      - uid: MIN223.9.2.2.TY.1
+        subobj: 9.2.2
+        type: ty
+        question: When the introduction is over, the hearers should
+        choices:
+          A: understand the details of the biblical context.
+          B: have a clear idea of the sermon topic.
+          C: know the sermon divisions and subdivisions.
+          D: be able to identify the sermon style.
+        answer: B
+      - uid: MIN223.9.2.2.TY.2
+        subobj: 9.2.2
+        type: ty
+        question: To establish the topic in the minds of the hearers, an introduction
+          should be
+        choices:
+          A: spontaneous.
+          B: detailed.
+          C: well-planned.
+          D: flexible.
+        answer: C
+      - uid: MIN223.9.2.3.UPE.1
+        subobj: 9.2.3
+        type: upe
+        question: Which of the following approaches will most effectively introduce
+          a sermon text?
+        choices:
+          A: An illustration leading into the text
+          B: A formal reading of the text at the beginning of the introduction
+          C: Informal, spontaneous comments regarding the text
+          D: A detailed reading of the outline and the text
+        answer: A
+      - uid: MIN223.9.2.3.TY.1
+        subobj: 9.2.3
+        type: ty
+        question: Announcing the text at the climax of the introduction is
+        choices:
+          A: awkward and time-consuming.
+          B: the best time to present the text.
+          C: usually too late to gain the attention of the hearers.
+          D: helpful in keeping the introduction short.
+        answer: B
+      - uid: MIN223.9.3.1.UPE.1
+        subobj: 9.3.1
+        type: upe
+        question: Keeping the length of the introduction proportionate with the sermon
+          is an example of
+        choices:
+          A: simplicity.
+          B: congruity.
+          C: brevity.
+          D: variety.
+        answer: C
+      - uid: MIN223.9.3.1.TY.1
+        subobj: 9.3.1
+        type: ty
+        question: According to your IST author, generally the introduction should
+          be
+        choices:
+          A: as short as possible.
+          B: longer than a main division.
+          C: dependent on the amount of research notes.
+          D: determined by the audience response.
+        answer: A
+      - uid: MIN223.9.3.1.TY.2
+        subobj: 9.3.1
+        type: ty
+        question: An introduction that prepares for the main thrust of the sermon
+          is an example of
+        choices:
+          A: simplicity.
+          B: congruity.
+          C: brevity.
+          D: variety.
+        answer: B
+      - uid: MIN223.9.3.1.TY.3
+        subobj: 9.3.1
+        type: ty
+        question: Keeping the introduction length proportionate with the sermon length
+          is an example of
+        choices:
+          A: simplicity.
+          B: congruity.
+          C: brevity.
+          D: variety.
+        answer: C
+      - uid: MIN223.9.3.1.TY.4
+        subobj: 9.3.1
+        type: ty
+        question: A well-chosen approach in the introduction, appropriate for the
+          particular sermon, is an example of
+        choices:
+          A: simplicity.
+          B: congruity.
+          C: brevity.
+          D: variety.
+        answer: D
+      - uid: MIN223.10.1.1.UPE.1
+        subobj: 10.1.1
+        type: upe
+        question: What part of the sermon will play the largest part in the sermon
+          results?
+        choices:
+          A: The introduction
+          B: The conclusion
+          C: The illustrations
+          D: The main divisions
+        answer: B
+      - uid: MIN223.10.1.1.TY.1
+        subobj: 10.1.1
+        type: ty
+        question: This chapter presents a direct relationship between the sermon conclusion
+          and the sermon
+        choices:
+          A: title.
+          B: proposition.
+          C: aim.
+          D: introduction.
+        answer: C
+      - uid: MIN223.10.1.1.TY.2
+        subobj: 10.1.1
+        type: ty
+        question: Your IST author suggests there is a similarity between the sermon
+          conclusion and a
+        choices:
+          A: road map.
+          B: difficult path.
+          C: direction.
+          D: destination.
+        answer: D
+      - uid: MIN223.10.1.2.UPE.1
+        subobj: 10.1.2
+        type: upe
+        question: The sermon conclusion compares to a lawyer’s closing remarks at
+          a trial because it
+        choices:
+          A: is lengthy and forceful.
+          B: causes an emotional impact.
+          C: is clear and persuasive.
+          D: often confuses the opponent.
+        answer: C
+      - uid: MIN223.10.1.2.UPE.2
+        subobj: 10.1.2
+        type: upe
+        question: Showing how the sermon will make a difference in one’s life is a
+          purpose of the conclusion called
+        choices:
+          A: exposition.
+          B: intervention.
+          C: illustration.
+          D: application.
+        answer: D
+      - uid: MIN223.10.1.2.TY.1
+        subobj: 10.1.2
+        type: ty
+        question: A sermon conclusion, like a lawyer’s closing argument in a trial,
+          must be
+        choices:
+          A: forceful.
+          B: persuasive.
+          C: gentle.
+          D: emotional.
+        answer: B
+      - uid: MIN223.10.1.2.TY.2
+        subobj: 10.1.2
+        type: ty
+        question: Application, according to this chapter, is MOST closely related
+          to
+        choices:
+          A: practice.
+          B: theory.
+          C: knowledge.
+          D: wisdom.
+        answer: A
+      - uid: MIN223.10.1.2.TY.3
+        subobj: 10.1.2
+        type: ty
+        question: What kind of positive action resulted from Peter’s appeal in Acts
+          2:37–41?
+        choices:
+          A: Public correction
+          B: Water baptism
+          C: Acknowledgment of leadership
+          D: Motivation toward good works
+        answer: B
+      - uid: MIN223.10.2.1.UPE.1
+        subobj: 10.2.1
+        type: upe
+        question: In concluding with a summary, your goal should be to
+        choices:
+          A: give the final aspects of exposition.
+          B: focus on the aim.
+          C: make one final illustration.
+          D: repeat the exact wording of the outline.
+        answer: B
+      - uid: MIN223.10.2.1.TY.1
+        subobj: 10.2.1
+        type: ty
+        question: The correct use of summary in a conclusion is to
+        choices:
+          A: repeat the exact words of the outline.
+          B: rephrase the outline in clear terms.
+          C: give a detailed overview of the sermon.
+          D: repeat the most important feature of the sermon.
+        answer: B
+      - uid: MIN223.10.2.2.UPE.1
+        subobj: 10.2.2
+        type: upe
+        question: What word BEST describes the proper use of emotion in the preacher’s
+          voice during the sermon application?
+        choices:
+          A: Soft
+          B: Urgent
+          C: Forceful
+          D: Genuine
+        answer: D
+      - uid: MIN223.10.2.2.TY.1
+        subobj: 10.2.2
+        type: ty
+        question: Sermon applications should have the most impact
+        choices:
+          A: during the first main division.
+          B: during each illustration.
+          C: at the final sentence of the sermon conclusion.
+          D: when the preacher begins the exposition.
+        answer: C
+      - uid: MIN223.10.2.3.UPE.1
+        subobj: 10.2.3
+        type: upe
+        question: The words of Jesus, “Come, follow me” are an example of which kind
+          of invitational appeal?
+        choices:
+          A: Private
+          B: Delayed
+          C: Immediate
+          D: Indirect
+        answer: C
+      - uid: MIN223.10.2.3.TY.1
+        subobj: 10.2.3
+        type: ty
+        question: Biblical examples of invitational appeal were always
+        choices:
+          A: private.
+          B: delayed.
+          C: immediate.
+          D: indirect.
+        answer: C
+      - uid: MIN223.10.3.1.UPE.1
+        subobj: 10.3.1
+        type: upe
+        question: Pastor Young concluded his sermon with the words, “You are invited
+          to change your life’s direction tonight.” Which example of the principles
+          of conclusion does this represent?
+        choices:
+          A: Appropriate
+          B: Personal
+          C: Varied
+          D: Prepared
+        answer: B
+      - uid: MIN223.10.3.1.TY.1
+        subobj: 10.3.1
+        type: ty
+        question: Well-chosen, brief remarks reflect which of the following principles
+          of conclusion?
+        choices:
+          A: Appropriate
+          B: Personal
+          C: Varied
+          D: Prepared
+        answer: D
+      - uid: MIN223.10.3.1.TY.2
+        subobj: 10.3.1
+        type: ty
+        question: Which illustration uses a correct principle of sermon conclusions?
+        choices:
+          A: For continuity, Pastor Chong always closes with the words of a familiar
+            hymn.
+          B: Pastor Romero prepares his sermon conclusion ahead of time, making sure
+            that he knows exactly how his sermon will end.
+          C: At the end of the sermon on healing, Pastor Franc dismisses in prayer.
+          D: The closing statement at an evangelistic service is, “If anyone would
+            like to receive Christ tonight, please come forward.”
+        answer: B
+      - uid: MIN223.11.1.1.UPE.1
+        subobj: 11.1.1
+        type: upe
+        question: What percent of communication in a sermon comes from the words that
+          the preacher uses?
+        choices:
+          A: 80 percent
+          B: 55 percent
+          C: 38 percent
+          D: 7 percent
+        answer: D
+      - uid: MIN223.11.1.1.UPE.2
+        subobj: 11.1.1
+        type: upe
+        question: When delivering a sermon, the preacher should maintain a tone that
+          is
+        choices:
+          A: natural.
+          B: conversational.
+          C: forceful.
+          D: gentle.
+        answer: A
+      - uid: MIN223.11.1.1.TY.1
+        subobj: 11.1.1
+        type: ty
+        question: The audience is most affected by the preacher’s
+        choices:
+          A: use of gestures and facial expressions.
+          B: spoken words.
+          C: way of speaking.
+          D: intellectual skills.
+        answer: A
+      - uid: MIN223.11.1.1.TY.2
+        subobj: 11.1.1
+        type: ty
+        question: When delivering a sermon, the tone of the preacher’s voice should
+          be
+        choices:
+          A: conversational.
+          B: forceful.
+          C: gentle.
+          D: natural.
+        answer: D
+      - uid: MIN223.11.1.1.TY.3
+        subobj: 11.1.1
+        type: ty
+        question: Which method of voice emphasis does this chapter call the melody
+          of the voice?
+        choices:
+          A: Volume
+          B: Pitch
+          C: Pace
+          D: Pause
+        answer: B
+      - uid: MIN223.11.2.1.UPE.1
+        subobj: 11.2.1
+        type: upe
+        question: In normal speech, the gesture
+        choices:
+          A: slightly precedes the word it emphasizes.
+          B: accompanies the word it emphasizes.
+          C: follows the word it emphasizes.
+          D: continually changes.
+        answer: A
+      - uid: MIN223.11.2.1.TY.1
+        subobj: 11.2.1
+        type: ty
+        question: Sermon gestures should be determined MOST by the
+        choices:
+          A: atmosphere of the sermon setting.
+          B: sermon content.
+          C: personality of the preacher.
+          D: sermon category.
+        answer: B
+      - uid: MIN223.11.2.1.TY.2
+        subobj: 11.2.1
+        type: ty
+        question: In forceful speech, the gesture
+        choices:
+          A: slightly precedes the word it emphasizes.
+          B: is an extension of the preacher’s style.
+          C: is not appropriate.
+          D: accompanies the word it emphasizes.
+        answer: D
+      - uid: MIN223.11.3.1.UPE.1
+        subobj: 11.3.1
+        type: upe
+        question: The reading method is MOST helpful to the
+        choices:
+          A: beginning preacher.
+          B: individual who is organized.
+          C: congregation.
+          D: liturgical preacher.
+        answer: A
+      - uid: MIN223.11.3.1.TY.1
+        subobj: 11.3.1
+        type: ty
+        question: A positive aspect of the reading method is that it helps develop
+        choices:
+          A: precise thinking and speaking.
+          B: specialized literary style.
+          C: rapport with the hearers.
+          D: memorization skills.
+        answer: A
+      - uid: MIN223.11.3.1.TY.2
+        subobj: 11.3.1
+        type: ty
+        question: A weakness of the reading method is that it
+        choices:
+          A: forces the preacher to be flexible in his or her preaching style.
+          B: may sound like an article or essay.
+          C: is not accepted in most evangelical churches.
+          D: hinders the direction of the Holy Spirit.
+        answer: B
+      - uid: MIN223.11.3.2.UPE.1
+        subobj: 11.3.2
+        type: upe
+        question: A strength of the extemporaneous method is that it
+        choices:
+          A: does not require preparation.
+          B: is evangelistic in nature.
+          C: limits the length of the sermon.
+          D: establishes a rapport with the audience.
+        answer: D
+      - uid: MIN223.11.3.2.TY.1
+        subobj: 11.3.2
+        type: ty
+        question: In this chapter, extemporaneous refers to preaching
+        choices:
+          A: a memorized sermon.
+          B: an evangelistic-type sermon.
+          C: without extensive notes.
+          D: a brief sermon.
+        answer: C
+      - uid: MIN223.11.3.2.TY.2
+        subobj: 11.3.2
+        type: ty
+        question: A weakness of the extemporaneous preaching method is that it is
+        choices:
+          A: difficult to prepare.
+          B: not appropriate for every type of sermon.
+          C: difficult for the audience to understand.
+          D: often lengthy.
+        answer: D
+      - uid: MIN223.11.3.3.UPE.1
+        subobj: 11.3.3
+        type: upe
+        question: If the preacher wants to keep audience rapport while maintaining
+          careful sermon structure, it is best to
+        choices:
+          A: read the sermon.
+          B: practice the extemporaneous method.
+          C: use brief sermon notes.
+          D: memorize the sermon.
+        answer: C
+      - uid: MIN223.11.3.3.TY.1
+        subobj: 11.3.3
+        type: ty
+        question: Which method of preaching allows the preacher to have rapport with
+          the audience while giving structure and guidelines to the sermon delivery?
+        choices:
+          A: Reading
+          B: Extemporaneous
+          C: Notes
+          D: Memorization
+        answer: C
+      - uid: MIN223.12.1.1.UPE.1
+        subobj: 12.1.1
+        type: upe
+        question: Topical sermons refer to the
+        choices:
+          A: outline structure.
+          B: content.
+          C: selection of subjects.
+          D: preaching style.
+        answer: A
+      - uid: MIN223.12.1.1.UPE.2
+        subobj: 12.1.1
+        type: upe
+        question: Topical preaching refers to the
+        choices:
+          A: structure.
+          B: delivery.
+          C: subject matter.
+          D: sermon outline.
+        answer: C
+      - uid: MIN223.12.1.1.UPE.3
+        subobj: 12.1.1
+        type: upe
+        question: In topical sermons, the structure is determined by the
+        choices:
+          A: preaching style.
+          B: method of delivery.
+          C: volume of material.
+          D: topic of the text.
+        answer: D
+      - uid: MIN223.12.2.1.UPE.1
+        subobj: 12.2.1
+        type: upe
+        question: Interrogation of the topic is a step in the topical sermon
+        choices:
+          A: illustration.
+          B: outline.
+          C: conclusion.
+          D: interaction.
+        answer: B
+      - uid: MIN223.12.2.2.UPE.1
+        subobj: 12.2.2
+        type: upe
+        question: The topical sermon form in which the theme applies various situations
+          as examples of a principle is
+        choices:
+          A: analytical.
+          B: illustrative.
+          C: demonstrative.
+          D: biographical.
+        answer: B
+      - uid: MIN223.12.2.2.UPE.2
+        subobj: 12.2.2
+        type: upe
+        question: The topical sermon form that shows why we believe a statement to
+          be true is
+        choices:
+          A: analytical.
+          B: illustrative.
+          C: demonstrative.
+          D: biographical.
+        answer: C
+      - uid: MIN223.12.2.2.TY.1
+        subobj: 12.2.2
+        type: ty
+        question: Which topical sermon form proves a statement by argument or reason?
+        choices:
+          A: Analytical
+          B: Illustrative
+          C: Demonstrative
+          D: Biographical
+        answer: C
+      - uid: MIN223.12.2.2.TY.2
+        subobj: 12.2.2
+        type: ty
+        question: Which topical sermon form applies various situations as examples?
+        choices:
+          A: Analytical
+          B: Illustrative
+          C: Demonstrative
+          D: Biographical
+        answer: B
+      - uid: MIN223.12.2.2.TY.3
+        subobj: 12.2.2
+        type: ty
+        question: Which topical sermon form shows why we believe a topical statement?
+        choices:
+          A: Analytical
+          B: Illustrative
+          C: Demonstrative
+          D: Biographical
+        answer: C
+      - uid: MIN223.12.2.2.TY.4
+        subobj: 12.2.2
+        type: ty
+        question: Which topical sermon form requires research of the biblical cultural
+          background?
+        choices:
+          A: Analytical
+          B: Illustrative
+          C: Demonstrative
+          D: Biographical
+        answer: D
+      - uid: MIN223.12.3.1.UPE.1
+        subobj: 12.3.1
+        type: upe
+        question: An example of unity in the topical sermon is
+        choices:
+          A: studying the chosen subject extensively.
+          B: allowing the hearer to draw his or her own final conclusions.
+          C: applying one particular theme.
+          D: balancing between the text and the theme.
+        answer: C
+      - uid: MIN223.12.3.1.TY.1
+        subobj: 12.3.1
+        type: ty
+        question: The advantage of the topical sermon that allows the preacher to
+          thoroughly master the subject is
+        choices:
+          A: unity.
+          B: understanding.
+          C: breadth.
+          D: novelty.
+        answer: C
+      - uid: MIN223.12.3.1.TY.2
+        subobj: 12.3.1
+        type: ty
+        question: The advantage of the topical sermon that allows the preacher to
+          focus directly on the goal is
+        choices:
+          A: unity.
+          B: understanding.
+          C: breadth.
+          D: novelty.
+        answer: A
+      - uid: MIN223.12.3.1.TY.3
+        subobj: 12.3.1
+        type: ty
+        question: The advantage of the topical sermon that makes application of one
+          particular theme possible is
+        choices:
+          A: unity.
+          B: understanding.
+          C: breadth.
+          D: novelty.
+        answer: A
+      - uid: MIN223.12.3.2.UPE.1
+        subobj: 12.3.2
+        type: upe
+        question: Which disadvantage of the topical sermon uses Scripture to prove
+          personal doctrines?
+        choices:
+          A: Subjectivity
+          B: Superficiality
+          C: Novelty
+          D: Dishonesty
+        answer: A
+      - uid: MIN223.12.3.2.TY.1
+        subobj: 12.3.2
+        type: ty
+        question: The disadvantage of the topical sermon that allows the goal of preaching
+          to focus on unusual topics is
+        choices:
+          A: subjectivity.
+          B: superficiality.
+          C: dishonesty.
+          D: novelty.
+        answer: D
+      - uid: MIN223.12.3.2.TY.2
+        subobj: 12.3.2
+        type: ty
+        question: The disadvantage of the topical sermon that encourages the text
+          to be selected because it mentions the topic is
+        choices:
+          A: subjectivity.
+          B: superficiality.
+          C: dishonesty.
+          D: novelty.
+        answer: C
+      - uid: MIN223.12.3.2.TY.3
+        subobj: 12.3.2
+        type: ty
+        question: Which disadvantage of the topical sermon is explained as the preacher,
+          rather than Scripture, deciding which texts belong together?
+        choices:
+          A: Subjectivity
+          B: Superficiality
+          C: Dishonesty
+          D: Novelty
+        answer: A
+      - uid: MIN223.13.1.1.UPE.1
+        subobj: 13.1.1
+        type: upe
+        question: The sermon method that takes its main divisions from the text but
+          draws from other parts of the Bible for subdivisions is called
+        choices:
+          A: topical.
+          B: textual.
+          C: expository.
+          D: Bible reading.
+        answer: B
+      - uid: MIN223.13.1.1.UPE.2
+        subobj: 13.1.1
+        type: upe
+        question: A difference between the textual and the expository sermon is that
+          the textual sermon
+        choices:
+          A: draws supporting material from other parts of the Bible.
+          B: focuses on the exposition of the text.
+          C: uses only the words of the text for the outline.
+          D: focuses on the application of a specific portion.
+        answer: A
+      - uid: MIN223.13.1.1.UPE.3
+        subobj: 13.1.1
+        type: upe
+        question: In the textual sermon, each point in the outline
+        choices:
+          A: follows the same form as the topical sermon.
+          B: should be clearly made in the text.
+          C: has a specific theme of its own.
+          D: corresponds with a cross-referenced text.
+        answer: B
+      - uid: MIN223.13.1.1.TY.1
+        subobj: 13.1.1
+        type: ty
+        question: The textual sermon may draw supporting material from
+        choices:
+          A: current events.
+          B: other parts of the Bible.
+          C: previous sermon outlines.
+          D: sermon illustration textbooks.
+        answer: B
+      - uid: MIN223.13.1.1.TY.2
+        subobj: 13.1.1
+        type: ty
+        question: The textual outline is closely tied to
+        choices:
+          A: the aim of the sermon.
+          B: sermon’s purpose for the hearers.
+          C: a spiritual result.
+          D: the language of the text.
+        answer: D
+      - uid: MIN223.13.1.1.TY.3
+        subobj: 13.1.1
+        type: ty
+        question: The textual sermon is one that can accommodate
+        choices:
+          A: only the intended Scripture passage.
+          B: most topics of interest to the hearers.
+          C: many combinations of Scripture passages.
+          D: many forms, methods, and goals.
+        answer: A
+      - uid: MIN223.13.2.1.UPE.1
+        subobj: 13.2.1
+        type: upe
+        question: In the textual outline, each division of the text
+        choices:
+          A: presents a different subject.
+          B: follows the same rules as the topical outline.
+          C: must have an obvious relationship to the text.
+          D: is a miniature version of a complete sermon.
+        answer: C
+      - uid: MIN223.13.2.1.TY.1
+        subobj: 13.2.1
+        type: ty
+        question: In the textual outline, each division of the text must
+        choices:
+          A: have another Bible passage reference for support.
+          B: be related to the subject or topic.
+          C: be represented by an analytical insight.
+          D: bring out a creative idea from the text.
+        answer: B
+      - uid: MIN223.13.2.2.UPE.1
+        subobj: 13.2.2
+        type: upe
+        question: Which form of textual sermon takes it outline from the logical sequence
+          of the text?
+        choices:
+          A: Textual-natural
+          B: Textual-expository
+          C: Textual-analytical
+          D: Textual-topical
+        answer: A
+      - uid: MIN223.13.2.2.TY.1
+        subobj: 13.2.2
+        type: ty
+        question: In the textual-natural form, the divisions are
+        choices:
+          A: a reflection of the topics in the text.
+          B: rearranged according to the topic.
+          C: not related to the text’s topics.
+          D: a natural reflection of the preacher’s interests.
+        answer: A
+      - uid: MIN223.13.2.2.TY.2
+        subobj: 13.2.2
+        type: ty
+        question: The textual-analytical form interrogates Scripture, then
+        choices:
+          A: arranges the outline according to the sequence of the text.
+          B: forms a logical outline based on the questions’ answers.
+          C: bases the outline on other supporting texts.
+          D: adds main points as needed to explain unanswered questions.
+        answer: A
+      - uid: MIN223.13.3.1.UPE.1
+        subobj: 13.3.1
+        type: upe
+        question: An advantage of the textual sermon is that each division
+        choices:
+          A: uses a different Scripture passage.
+          B: is a sermon in itself.
+          C: introduces a new topic.
+          D: is taken directly from the text.
+        answer: D
+      - uid: MIN223.13.3.1.TY.1
+        subobj: 13.3.1
+        type: ty
+        question: An advantage of the textual sermon is that
+        choices:
+          A: each main division introduces a new Scripture.
+          B: the preacher has more opportunity to share novel insights.
+          C: God’s Word is being expounded.
+          D: every word can be expounded.
+        answer: C
+      - uid: MIN223.13.3.1.TY.2
+        subobj: 13.3.1
+        type: ty
+        question: An advantage of the textual sermon is that
+        choices:
+          A: preachers are less restricted by standard interpretations of the text.
+          B: current events are more easily incorporated as illustrations.
+          C: it prevents long-winded preaching.
+          D: it offers a wide variety of preaching material.
+        answer: D
+      - uid: MIN223.13.3.2.UPE.1
+        subobj: 13.3.2
+        type: upe
+        question: A common disadvantage of the textual sermon is its tendency toward
+        choices:
+          A: simplicity.
+          B: prophetic directness.
+          C: lengthy preparation.
+          D: false analysis.
+        answer: D
+      - uid: MIN223.13.3.2.TY.1
+        subobj: 13.3.2
+        type: ty
+        question: One disadvantage of the textual sermon is that
+        choices:
+          A: its material can become irrelevant.
+          B: it cannot remain focused on the biblical text.
+          C: it prevents referencing other passages.
+          D: there are no disadvantages of the topical sermon.
+        answer: A
+      - uid: MIN223.13.3.2.TY.2
+        subobj: 13.3.2
+        type: ty
+        question: A common disadvantage arises from the textual sermon because
+        choices:
+          A: it is prophetically direct.
+          B: preachers are tempted to draw more from the text than is really there.
+          C: preachers tend to ignore the most important supporting texts.
+          D: it fails to be scripturally enlightening.
+        answer: B
+      - uid: MIN223.14.1.1.UPE.1
+        subobj: 14.1.1
+        type: upe
+        question: The sermon method that draws its main and subdivisions from the
+          text is called
+        choices:
+          A: topical.
+          B: textual.
+          C: expository.
+          D: running commentary.
+        answer: C
+      - uid: MIN223.14.1.1.UPE.2
+        subobj: 14.1.1
+        type: upe
+        question: The sermon that is also called the “running commentary” is the
+        choices:
+          A: topical sermon.
+          B: textual sermon.
+          C: expository sermon.
+          D: Bible reading sermon.
+        answer: D
+      - uid: MIN223.14.1.1.TY.1
+        subobj: 14.1.1
+        type: ty
+        question: Which is also described as the running commentary ?
+        choices:
+          A: Expository Sermon
+          B: Exegetical Paper
+          C: Commentary
+          D: Bible Reading
+        answer: D
+      - uid: MIN223.14.1.1.TY.2
+        subobj: 14.1.1
+        type: ty
+        question: Which proceeds from exegesis to application?
+        choices:
+          A: Expository Sermon
+          B: Exegetical Paper
+          C: Commentary
+          D: Bible Reading
+        answer: A
+      - uid: MIN223.14.1.1.TY.3
+        subobj: 14.1.1
+        type: ty
+        question: Which is a phrase-by-phrase record of information?
+        choices:
+          A: Expository Sermon
+          B: Exegetical Paper
+          C: Commentary
+          D: Bible Reading
+        answer: C
+      - uid: MIN223.14.1.1.TY.4
+        subobj: 14.1.1
+        type: ty
+        question: Which concentrates on analysis and investigation of the text?
+        choices:
+          A: Expository Sermon
+          B: Exegetical Paper
+          C: Commentary
+          D: Bible Reading
+        answer: B
+      - uid: MIN223.14.1.1.TY.5
+        subobj: 14.1.1
+        type: ty
+        question: Which focuses on opening the truth to the hearer?
+        choices:
+          A: Expository Sermon
+          B: Exegetical Paper
+          C: Commentary
+          D: Bible Reading
+        answer: A
+      - uid: MIN223.14.2.1.UPE.1
+        subobj: 14.2.1
+        type: upe
+        question: Using the account of Zacchaeus, the tax collector, in Luke 19:1–9,
+          which preaching form aims to show how to live with Christian principles
+          in a worldly system of business?
+        choices:
+          A: Ethical
+          B: Apologetic
+          C: Doctrinal
+          D: Evangelistic
+        answer: A
+      - uid: MIN223.14.2.1.UPE.2
+        subobj: 14.2.1
+        type: upe
+        question: Using “The Parable of the Ten Virgins” in Matthew 25:1–13, which
+          preaching form aims to teach Christians to live in expectation of Christ’s
+          return?
+        choices:
+          A: Apologetic
+          B: Doctrinal
+          C: Evangelistic
+          D: Ethical
+        answer: B
+      - uid: MIN223.14.2.1.TY.1
+        subobj: 14.2.1
+        type: ty
+        question: A sermon that aims to show why the world’s security is a failure
+          is
+        choices:
+          A: evangelistic.
+          B: doctrinal.
+          C: ethical.
+          D: apologetic.
+        answer: D
+      - uid: MIN223.14.2.1.TY.2
+        subobj: 14.2.1
+        type: ty
+        question: A sermon that aims to motivate people to seek salvation rather than
+          materialism is
+        choices:
+          A: evangelistic.
+          B: doctrinal.
+          C: ethical.
+          D: apologetic.
+        answer: A
+      - uid: MIN223.14.2.1.TY.3
+        subobj: 14.2.1
+        type: ty
+        question: A sermon that aims to show how to live with Christian principles
+          in a worldly system of business is
+        choices:
+          A: evangelistic.
+          B: doctrinal.
+          C: ethical.
+          D: apologetic.
+        answer: C
+      - uid: MIN223.14.2.1.TY.4
+        subobj: 14.2.1
+        type: ty
+        question: A sermon that aims to teach the right attitude toward material possessions
+          is
+        choices:
+          A: evangelistic.
+          B: doctrinal.
+          C: ethical.
+          D: apologetic.
+        answer: B
+      - uid: MIN223.14.3.1.UPE.1
+        subobj: 14.3.1
+        type: upe
+        question: Expository preaching is advantageous to the preacher because it
+        choices:
+          A: is simple in structure.
+          B: requires little preparation time.
+          C: allows one to focus on a particular theme.
+          D: strengthens one’s relationship with the Lord.
+        answer: D
+      - uid: MIN223.14.3.1.UPE.2
+        subobj: 14.3.1
+        type: upe
+        question: An advantage of expository preaching to the preacher is its
+        choices:
+          A: biblical depth.
+          B: outline flexibility.
+          C: focus on unusual topics.
+          D: simplicity.
+        answer: A
+      - uid: MIN223.14.3.1.UPE.3
+        subobj: 14.3.1
+        type: upe
+        question: How does expository preaching benefit the congregation?
+        choices:
+          A: It is possible to teach a variety of material in a short amount of time.
+          B: The congregation learns to view Scripture in a larger perspective.
+          C: The material presented is often self-explanatory.
+          D: Expository preaching focuses on the mature Christian.
+        answer: B
+      - uid: MIN223.14.3.1.UPE.4
+        subobj: 14.3.1
+        type: upe
+        question: An advantage of expository preaching is that it
+        choices:
+          A: follows the same outline form as topical and textual preaching.
+          B: uses a limited amount of biblical text.
+          C: models Bible study methods to the hearer.
+          D: focuses on new believers.
+        answer: C
+      - uid: MIN223.14.3.1.UPE.5
+        subobj: 14.3.1
+        type: upe
+        question: What is NOT an advantage of the expository sermon?
+        choices:
+          A: The individual believer will learn to effectively study the Bible by
+            the example of the preacher.
+          B: The congregation as a whole will be more perceptive and more responsible
+            as they hear messages containing the “whole will of God.”
+          C: The preacher will personally benefit from the study required for expository
+            sermons.
+          D: The preacher will be better able to thoroughly cover a particular doctrine
+            or ethical issue from total biblical content.
+        answer: D
+      - uid: MIN223.14.3.1.TY.1
+        subobj: 14.3.1
+        type: ty
+        question: Expository sermons offer the advantage of
+        choices:
+          A: cultivating perception and maturity in the congregation.
+          B: never running out of things to say while preaching.
+          C: immunity from boredom or incoherence.
+          D: inherent balance and clarity.
+        answer: A
+      - uid: MIN223.14.3.2.UPE.1
+        subobj: 14.3.2
+        type: upe
+        question: A disadvantage of the expository sermon is its tendency to encourage
+          the preacher to
+        choices:
+          A: follow the text too closely.
+          B: include too many details.
+          C: overuse alliteration.
+          D: allow the theme to emerge from the text.
+        answer: B
     chapters:
     - last_modified: '2026-05-22'
       title: 1 - The Place of Preaching

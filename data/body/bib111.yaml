@@ -5008,6 +5008,2824 @@ courses:
           C: descriptive.
           D: both prescriptive and descriptive.
         answer: D
+    - pn: 01.26.01
+      course_code: BIB111
+      source_html: BBIB111ENE01-90_01.26.01.html
+      template: new
+      recorded: '2026-08-26'
+      counts:
+        ty: 150
+        upe: 125
+        final: 0
+      questions:
+      - uid: BIB111.1.1.1.UPE.1
+        subobj: 1.1.1
+        type: upe
+        question: How many books of the Bible are in the Old Testament?
+        choices:
+          A: '27'
+          B: '33'
+          C: '39'
+          D: '66'
+        answer: C
+      - uid: BIB111.1.1.1.UPE.2
+        subobj: 1.1.1
+        type: upe
+        question: Originally, the word canon literally meant
+        choices:
+          A: “hidden books.”
+          B: “standard.”
+          C: “inspired.”
+          D: “infallible.”
+        answer: B
+      - uid: BIB111.1.1.1.UPE.3
+        subobj: 1.1.1
+        type: upe
+        question: The word Apocrypha has come to mean
+        choices:
+          A: “not in the canon.”
+          B: “secret books.”
+          C: “forbidden books.”
+          D: “additional books.”
+        answer: A
+      - uid: BIB111.1.1.1.TY.1
+        subobj: 1.1.1
+        type: ty
+        question: The Old Testament was a covenant or agreement between God and
+        choices:
+          A: Enoch.
+          B: Noah.
+          C: the Hebrews.
+          D: Israel’s surrounding nations.
+        answer: C
+      - uid: BIB111.1.1.1.TY.2
+        subobj: 1.1.1
+        type: ty
+        question: The word canon refers to the books that meet the standards set for
+        choices:
+          A: academic quality.
+          B: recognizing Scripture.
+          C: literary excellence.
+          D: outstanding authorship.
+        answer: B
+      - uid: BIB111.1.1.1.TY.3
+        subobj: 1.1.1
+        type: ty
+        question: Studying the Old Testament is important because
+        choices:
+          A: it is about 50 percent of the entire Bible.
+          B: it alone describes the reality of God’s anger.
+          C: it helps us to properly understand the New Testament.
+          D: the New Testament refers to it more than six thousand times.
+        answer: C
+      - uid: BIB111.1.1.2.UPE.1
+        subobj: 1.1.2
+        type: upe
+        question: Which of these books is part of the Minor Prophets?
+        choices:
+          A: Isaiah
+          B: Lamentations
+          C: Ezekiel
+          D: Zechariah
+        answer: D
+      - uid: BIB111.1.1.2.UPE.2
+        subobj: 1.1.2
+        type: upe
+        question: Ezra and Nehemiah are grouped with the
+        choices:
+          A: Pentateuch.
+          B: History books.
+          C: Poetry and Wisdom books.
+          D: Minor Prophets.
+        answer: B
+      - uid: BIB111.1.1.2.TY.1
+        subobj: 1.1.2
+        type: ty
+        question: The major divisions of the English Old Testament are the
+        choices:
+          A: Pentateuch, History, Poetry and Wisdom, Major Prophets, and Minor Prophets.
+          B: Pentateuch, History, Poetry and Wisdom, Former Prophets, and Latter Prophets.
+          C: Law, Former Prophets, Latter Prophets, and Writings.
+          D: Law, History, Former Prophets, Latter Prophets, and Writings.
+        answer: A
+      - uid: BIB111.1.2.1.UPE.1
+        subobj: 1.2.1
+        type: upe
+        question: Traditionally, the author of the Pentateuch has been identified
+          as
+        choices:
+          A: Abraham.
+          B: Moses.
+          C: Joshua.
+          D: Joseph.
+        answer: B
+      - uid: BIB111.1.2.1.TY.1
+        subobj: 1.2.1
+        type: ty
+        question: We believe Moses wrote the Pentateuch because of
+        choices:
+          A: internal biblical evidence including a Mosaic self-claim.
+          B: Jewish, Christian, and ancient Near Eastern traditions.
+          C: his apparent dislike for using other sources.
+          D: the anonymity of the author of Genesis.
+        answer: A
+      - uid: BIB111.1.2.2.UPE.1
+        subobj: 1.2.2
+        type: upe
+        question: The creation account is in Genesis
+        choices:
+          A: 1–2.
+          B: 3–5.
+          C: 6–8.
+          D: 8–11.
+        answer: A
+      - uid: BIB111.1.2.2.TY.1
+        subobj: 1.2.2
+        type: ty
+        question: The idea that creation days are not necessarily chronological is
+          a characteristic of the
+        choices:
+          A: gap theory.
+          B: literary framework view.
+          C: step-by-step view.
+          D: young earth view.
+        answer: B
+      - uid: BIB111.1.2.2.TY.2
+        subobj: 1.2.2
+        type: ty
+        question: The idea that creation consisted of sequential divine acts is a
+          characteristic of the
+        choices:
+          A: theistic evolution view.
+          B: step-by-step view.
+          C: literary framework view.
+          D: gap theory.
+        answer: B
+      - uid: BIB111.1.2.2.TY.3
+        subobj: 1.2.2
+        type: ty
+        question: The idea that a major time lapse occurred between Genesis 1:1 and
+          1:2 is a characteristic of the
+        choices:
+          A: theistic evolution view.
+          B: step-by-step view.
+          C: literary framework view.
+          D: gap theory.
+        answer: D
+      - uid: BIB111.1.2.3.UPE.1
+        subobj: 1.2.3
+        type: upe
+        question: The first reference to God crushing Satan is found in Genesis
+        choices:
+          A: '1:27.'
+          B: '3:15.'
+          C: '4:25.'
+          D: '5:1.'
+        answer: B
+      - uid: BIB111.1.2.3.UPE.2
+        subobj: 1.2.3
+        type: upe
+        question: Who walked with God and was later raptured?
+        choices:
+          A: Abraham
+          B: Moses
+          C: Enoch
+          D: Lamech
+        answer: C
+      - uid: BIB111.1.2.3.UPE.3
+        subobj: 1.2.3
+        type: upe
+        question: Which of Noah’s sons was an ancestor of the Messiah?
+        choices:
+          A: Shem
+          B: Ham
+          C: Japheth
+          D: Lamech
+        answer: A
+      - uid: BIB111.1.2.3.TY.1
+        subobj: 1.2.3
+        type: ty
+        question: The biblical account of the Fall reveals a tension between
+        choices:
+          A: husbands and wives.
+          B: animals and humans.
+          C: mercy and judgment.
+          D: murder and grace.
+        answer: C
+      - uid: BIB111.1.2.3.TY.2
+        subobj: 1.2.3
+        type: ty
+        question: Our study indicates that the Flood was primarily an act of God’s
+        choices:
+          A: grace.
+          B: judgment.
+          C: promise.
+          D: sovereignty.
+        answer: B
+      - uid: BIB111.2.1.1.UPE.1
+        subobj: 2.1.1
+        type: upe
+        question: Abraham’s journey of faith laid the foundation of
+        choices:
+          A: God’s covenant with Israel.
+          B: Moses’s reception of the Law.
+          C: Joshua’s prophetic vocation.
+          D: David’s battle with Goliath.
+        answer: C
+      - uid: BIB111.2.1.1.UPE.2
+        subobj: 2.1.1
+        type: upe
+        question: After Abraham’s failures,
+        choices:
+          A: God abandoned His covenant.
+          B: God was faithful in His covenant.
+          C: God gave His covenant to someone else.
+          D: Abraham made a new covenant.
+        answer: D
+      - uid: BIB111.2.1.1.UPE.3
+        subobj: 2.1.1
+        type: upe
+        question: The story of Abraham’s burial of Sarah
+        choices:
+          A: plays a pivotal role in the story of God’s covenant.
+          B: has little to do with the rest of the Genesis narrative.
+          C: is inconsequental to Israel’s history.
+          D: violated the covenant God made with Abraham.
+        answer: A
+      - uid: BIB111.2.1.1.TY.1
+        subobj: 2.1.1
+        type: ty
+        question: Abraham’s spiritual weaknesses are revealed by his
+        choices:
+          A: numerous servants, animals, and monetary wealth.
+          B: boldness in interceding for Sodom and Gomorrah.
+          C: acceptance of sinful lifestyles in Sodom and Gomorrah.
+          D: half-truths about his wife to both Pharaoh and Abimelech.
+        answer: D
+      - uid: BIB111.2.1.1.TY.2
+        subobj: 2.1.1
+        type: ty
+        question: Who was the son God promised Abraham and Sarah?
+        choices:
+          A: Isaac
+          B: Ishmael
+          C: Noah
+          D: Eliezer
+        answer: A
+      - uid: BIB111.2.1.2.UPE.1
+        subobj: 2.1.2
+        type: upe
+        question: God asked Abraham to sacrifice Isaac to reveal Abraham’s
+        choices:
+          A: sin.
+          B: faith.
+          C: pride.
+          D: weakness.
+        answer: B
+      - uid: BIB111.2.1.2.TY.1
+        subobj: 2.1.2
+        type: ty
+        question: God asked Abraham to sacrifice Isaac because He was
+        choices:
+          A: angry at Abraham for having a son with Hagar.
+          B: angry at Abraham for lying about Sarah.
+          C: testing Abraham about his degree of trust in God.
+          D: instituting child sacrifices for atonement.
+        answer: C
+      - uid: BIB111.2.2.1.UPE.1
+        subobj: 2.2.1
+        type: upe
+        question: Abraham’s servant finding Rebekah as a wife for Isaac illustrates
+        choices:
+          A: God’s sovereignty.
+          B: human free will.
+          C: favoritism.
+          D: the power of wealth and prestige.
+        answer: A
+      - uid: BIB111.2.2.1.TY.1
+        subobj: 2.2.1
+        type: ty
+        question: The story of the servant seeking a wife for Isaac illustrates human
+        choices:
+          A: free agency and divine election.
+          B: responsibility and divine sovereignty in prayer.
+          C: weaknesses and divine perfections in prayer.
+          D: sinful nature and divine judgments.
+        answer: B
+      - uid: BIB111.2.3.1.UPE.1
+        subobj: 2.3.1
+        type: upe
+        question: Jacob’s greatest weakness was
+        choices:
+          A: his lack of faith.
+          B: deception.
+          C: women.
+          D: wealth.
+        answer: B
+      - uid: BIB111.2.3.1.TY.1
+        subobj: 2.3.1
+        type: ty
+        question: Sibling rivalry tested God’s covenant by
+        choices:
+          A: introducing ideas of election.
+          B: not modeling perfection.
+          C: threatening to destroy Isaac’s family.
+          D: not honoring the eldest sibling.
+        answer: C
+      - uid: BIB111.2.3.2.TY.1
+        subobj: 2.3.2
+        type: ty
+        question: Favoritism in Jacob’s family led to
+        choices:
+          A: God’s purposes being accomplished in their lives.
+          B: positive results for each family member.
+          C: spiritual maturity for each family member.
+          D: continuing problems in succeeding generations.
+        answer: D
+      - uid: BIB111.2.4.1.TY.1
+        subobj: 2.4.1
+        type: ty
+        question: Joseph’s experience in prison confirms that he was
+        choices:
+          A: the central character in the biblical narrative.
+          B: guilty of sexual sin with Potiphar’s wife.
+          C: ultimately released due to God’s sovereignty.
+          D: a master of deceptive practices.
+        answer: C
+      - uid: BIB111.2.4.2.UPE.1
+        subobj: 2.4.2
+        type: upe
+        question: Joseph’s brothers were jealous of
+        choices:
+          A: Joseph’s good looks and his dreams.
+          B: Joseph’s talent and favor with their father.
+          C: their father’s favoritism and Joseph’s dreams.
+          D: their father’s favoritism and Joseph’s good looks.
+        answer: C
+      - uid: BIB111.2.4.2.TY.1
+        subobj: 2.4.2
+        type: ty
+        question: Joseph’s actions in the biblical narrative were
+        choices:
+          A: always wise.
+          B: usually wise.
+          C: usually sinful.
+          D: always sinful.
+        answer: B
+      - uid: BIB111.2.4.2.TY.2
+        subobj: 2.4.2
+        type: ty
+        question: When Joseph dreamed some incredible dreams, he
+        choices:
+          A: unwisely shared them with his family.
+          B: kept them to himself.
+          C: only told his father.
+          D: lessened his brothers’ jealousy by telling them his dreams.
+        answer: A
+      - uid: BIB111.2.4.3.TY.1
+        subobj: 2.4.3
+        type: ty
+        question: Which of Joseph’s brothers talked the others into throwing Joseph
+          into a pit instead of killing him?
+        choices:
+          A: Simeon
+          B: Reuben
+          C: Levi
+          D: Benjamin
+        answer: B
+      - uid: BIB111.3.1.1.UPE.1
+        subobj: 3.1.1
+        type: upe
+        question: Jacob tested God’s covenant with his use of
+        choices:
+          A: prayer.
+          B: deception.
+          C: adultery.
+          D: animal husbandry.
+        answer: A
+      - uid: BIB111.3.1.1.UPE.2
+        subobj: 3.1.1
+        type: upe
+        question: In a covenant relationship, the covenant continues
+        choices:
+          A: as long as it serves the best interests of both parties.
+          B: until one party breaks it.
+          C: for a period of fifty years.
+          D: as long as the initiator wills it.
+        answer: D
+      - uid: BIB111.3.1.1.UPE.3
+        subobj: 3.1.1
+        type: upe
+        question: The Ten commandments are framed as
+        choices:
+          A: suggestions with allowance for interpretation.
+          B: statements that do not always require complete obedience.
+          C: unconditional statements.
+          D: conditional rules.
+        answer: C
+      - uid: BIB111.3.1.1.TY.1
+        subobj: 3.1.1
+        type: ty
+        question: The Book of Exodus is a narrative of
+        choices:
+          A: the Israelites’ wilderness experience and the organization of the Law.
+          B: the Israelites’ escape from Egypt and journey to Mount Sinai.
+          C: events that occurred at Sinai, Kadesh, and Moab.
+          D: God’s anger toward the Israelites.
+        answer: B
+      - uid: BIB111.3.1.1.TY.2
+        subobj: 3.1.1
+        type: ty
+        question: The major themes of Exodus are
+        choices:
+          A: deliverance, holiness, and divine mystery.
+          B: deliverance, holiness, and covenant.
+          C: judgment, deliverance, and covenant.
+          D: divine mystery, holiness, and worship.
+        answer: C
+      - uid: BIB111.3.1.1.TY.3
+        subobj: 3.1.1
+        type: ty
+        question: The Ten Commandments emphasize
+        choices:
+          A: ancient Near Eastern purity laws.
+          B: historical legal wisdom.
+          C: our relationship with God and others.
+          D: spiritual truths over ethical behavior.
+        answer: A
+      - uid: BIB111.3.2.1.UPE.1
+        subobj: 3.2.1
+        type: upe
+        question: Which offering atoned for unintentional sins and showed complete
+          surrender to God?
+        choices:
+          A: Burnt offering
+          B: Sin offering
+          C: Grain offering
+          D: Guilt offering
+        answer: A
+      - uid: BIB111.3.2.1.UPE.2
+        subobj: 3.2.1
+        type: upe
+        question: A free gift of thanks and praise to God that was never offered alone
+          described the
+        choices:
+          A: burnt offering.
+          B: fellowship offering.
+          C: grain offering.
+          D: sin offering.
+        answer: C
+      - uid: BIB111.3.2.1.TY.1
+        subobj: 3.2.1
+        type: ty
+        question: The priest and the person bringing the offering ate part of the
+          sacrifice together in the
+        choices:
+          A: burnt offering.
+          B: sin offering.
+          C: fellowship offering.
+          D: grain offering.
+        answer: C
+      - uid: BIB111.3.2.1.TY.2
+        subobj: 3.2.1
+        type: ty
+        question: Which offering atoned for unintentional sins and required restitution?
+        choices:
+          A: Burnt offering
+          B: Sin offering
+          C: Fellowship offering
+          D: Guilt offering
+        answer: D
+      - uid: BIB111.3.2.1.TY.3
+        subobj: 3.2.1
+        type: ty
+        question: The dominant theme of Leviticus is
+        choices:
+          A: redemption.
+          B: holiness.
+          C: deliverance.
+          D: divine mystery.
+        answer: B
+      - uid: BIB111.3.3.1.TY.1
+        subobj: 3.3.1
+        type: ty
+        question: The Book of Numbers relates that at Sinai
+        choices:
+          A: the people forfeited their inheritance.
+          B: God prepared a new generation to possess Canaan.
+          C: God prepared Israel to inherit Canaan.
+          D: Moses received the Ten Commandments.
+        answer: C
+      - uid: BIB111.3.3.1.TY.2
+        subobj: 3.3.1
+        type: ty
+        question: According to Numbers, what occurred at Kadesh?
+        choices:
+          A: The people forfeited their inheritance.
+          B: God prepared a new generation to possess Canaan.
+          C: God prepared Israel to inherit Canaan.
+          D: Moses received the Ten Commandments.
+        answer: A
+      - uid: BIB111.3.4.1.UPE.1
+        subobj: 3.4.1
+        type: upe
+        question: Moses’s second speech in the Book of Deuteronomy
+        choices:
+          A: centered on the concept of covenant.
+          B: involved both blessings and curses.
+          C: commissioned Joshua to be Israel’s leader.
+          D: reviewed positive and negative aspects of Israel’s history.
+        answer: A
+      - uid: BIB111.3.4.1.UPE.2
+        subobj: 3.4.1
+        type: upe
+        question: Deuteronomy 6:4–5 contains the Jewish Shema , which means “to
+        choices:
+          A: give.”
+          B: honor.”
+          C: hear.”
+          D: worship.”
+        answer: C
+      - uid: BIB111.3.4.1.UPE.3
+        subobj: 3.4.1
+        type: upe
+        question: Moses’s farewell speech in the Book of Deuteronomy
+        choices:
+          A: centered on the concept of covenant.
+          B: involved both blessings and curses.
+          C: commissioned Joshua to be Israel’s leader.
+          D: reviewed positive and negative aspects of Israel’s history.
+        answer: C
+      - uid: BIB111.3.4.1.TY.1
+        subobj: 3.4.1
+        type: ty
+        question: The Book of Deuteronomy summarizes
+        choices:
+          A: God’s anger toward the nation of Israel.
+          B: events that occurred at Sinai, Kadesh, and Moab.
+          C: the Israelites’ escape from Egypt and journey to Mount Sinai.
+          D: the Law and the history of the Israelites’ wilderness experience.
+        answer: D
+      - uid: BIB111.3.4.1.TY.2
+        subobj: 3.4.1
+        type: ty
+        question: Moses’s third speech in the Book of Deuteronomy
+        choices:
+          A: centers on the concept of covenant.
+          B: involves both blessings and curses.
+          C: commissions Joshua to be the future leader of Israel.
+          D: reviews the positive and negative aspects of Israel’s history.
+        answer: B
+      - uid: BIB111.4.1.1.UPE.1
+        subobj: 4.1.1
+        type: upe
+        question: According to Jewish tradition, the author of the Book of Joshua
+          is
+        choices:
+          A: Moses.
+          B: Joshua.
+          C: Samuel.
+          D: unknown.
+        answer: B
+      - uid: BIB111.4.1.1.TY.1
+        subobj: 4.1.1
+        type: ty
+        question: The first section of the Book of Joshua
+        choices:
+          A: provides substantial information about how the land was divided.
+          B: recounts the covenant renewal Joshua completed with the people.
+          C: describes Israel’s entry into the land and their conquest of the people
+            living there.
+          D: summarizes events that occurred at Sinai, Kadesh, and Moab.
+        answer: C
+      - uid: BIB111.4.1.2.TY.1
+        subobj: 4.1.2
+        type: ty
+        question: Joshua’s military strategy for conquering Canaan is known as
+        choices:
+          A: blitzkrieg.
+          B: guerrilla warfare.
+          C: surround and conquer.
+          D: divide and conquer.
+        answer: D
+      - uid: BIB111.4.2.1.UPE.1
+        subobj: 4.2.1
+        type: upe
+        question: The period of the judges lasted about
+        choices:
+          A: 100 years.
+          B: 200 years.
+          C: 400 years.
+          D: 500 years.
+        answer: C
+      - uid: BIB111.4.2.1.TY.1
+        subobj: 4.2.1
+        type: ty
+        question: The Book of Judges emphasizes the Israelites’
+        choices:
+          A: steadfastness and faithfulness.
+          B: removal of all their enemies from the land.
+          C: downward spiritual cycle in Canaan.
+          D: success in conquering Canaan.
+        answer: C
+      - uid: BIB111.4.2.2.TY.1
+        subobj: 4.2.2
+        type: ty
+        question: Which major judge was Caleb’s nephew and fought the king of Aram?
+        choices:
+          A: Ehud
+          B: Othniel
+          C: Jephthah
+          D: Samson
+        answer: B
+      - uid: BIB111.4.2.2.TY.2
+        subobj: 4.2.2
+        type: ty
+        question: Jephthah helped to deliver Israel from
+        choices:
+          A: Moab.
+          B: Canaan.
+          C: Philistia.
+          D: Ammon.
+        answer: D
+      - uid: BIB111.4.3.1.UPE.1
+        subobj: 4.3.1
+        type: upe
+        question: Ruth was from the land of
+        choices:
+          A: Moab.
+          B: Ammon.
+          C: Edom.
+          D: Judah.
+        answer: A
+      - uid: BIB111.4.3.1.UPE.2
+        subobj: 4.3.1
+        type: upe
+        question: Who was Ruth’s kinsman-redeemer?
+        choices:
+          A: Obed
+          B: Elimelech
+          C: Boaz
+          D: Mahlon
+        answer: C
+      - uid: BIB111.4.3.1.TY.1
+        subobj: 4.3.1
+        type: ty
+        question: Naomi literally means
+        choices:
+          A: “bitter.”
+          B: “pleasant.”
+          C: “my God is king.”
+          D: “barren.”
+        answer: B
+      - uid: BIB111.4.3.1.TY.2
+        subobj: 4.3.1
+        type: ty
+        question: The Book of Ruth communicates the message of God’s
+        choices:
+          A: forgiveness and restoration.
+          B: desire for purity and holiness.
+          C: redeeming grace.
+          D: judgment.
+        answer: C
+      - uid: BIB111.4.4.1.TY.1
+        subobj: 4.4.1
+        type: ty
+        question: First Samuel records
+        choices:
+          A: the point at which Israel turned from judges to kings.
+          B: two major leadership changes in approximately fifty years.
+          C: the point at which Israel turned from kings to judges.
+          D: no leadership changes.
+        answer: A
+      - uid: BIB111.4.4.2.UPE.1
+        subobj: 4.4.2
+        type: upe
+        question: First Samuel tells the story of
+        choices:
+          A: Israel’s purity laws.
+          B: the geography of the Promised Land.
+          C: Israel’s civil war.
+          D: Israel’s desire for a king.
+        answer: D
+      - uid: BIB111.4.4.2.UPE.2
+        subobj: 4.4.2
+        type: upe
+        question: When anointing David, Samuel learned that
+        choices:
+          A: humans look at the outside, but God looks at the heart.
+          B: the fear of the Lord is the beginning of wisdom.
+          C: God hears the prayers of the righteous.
+          D: obedience is better than sacrifice.
+        answer: A
+      - uid: BIB111.4.4.2.TY.1
+        subobj: 4.4.2
+        type: ty
+        question: Who was the last judge to rule Israel?
+        choices:
+          A: Samuel
+          B: Gideon
+          C: Samson
+          D: Jephthah
+        answer: A
+      - uid: BIB111.4.4.2.TY.2
+        subobj: 4.4.2
+        type: ty
+        question: What characterized the reigns of both Saul and David?
+        choices:
+          A: Peace with surrounding nations
+          B: The sacredness of the office of king
+          C: Their wholehearted service to God
+          D: Their godly character
+        answer: B
+      - uid: BIB111.5.1.1.UPE.1
+        subobj: 5.1.1
+        type: upe
+        question: David learned the benefits of iron from the
+        choices:
+          A: Ammonites.
+          B: Philistines.
+          C: Jebusities.
+          D: Moabites.
+        answer: B
+      - uid: BIB111.5.1.1.TY.1
+        subobj: 5.1.1
+        type: ty
+        question: The Book of 2 Samuel recounts the years of
+        choices:
+          A: Samuel’s birth to Saul’s death.
+          B: David’s rule.
+          C: Saul’s life.
+          D: Samuel’s life.
+        answer: B
+      - uid: BIB111.5.1.1.TY.2
+        subobj: 5.1.1
+        type: ty
+        question: David captured Jerusalem from the
+        choices:
+          A: Philistines.
+          B: Ammonites.
+          C: Jebusites.
+          D: Moabites.
+        answer: C
+      - uid: BIB111.5.1.2.UPE.1
+        subobj: 5.1.2
+        type: upe
+        question: David spent the last ten years of his life
+        choices:
+          A: enjoying the rewards of his success and prosperity.
+          B: building his palace.
+          C: crushing his enemies to make peace for his son Solomon.
+          D: preparing for Solomon to build the temple.
+        answer: D
+      - uid: BIB111.5.1.2.TY.1
+        subobj: 5.1.2
+        type: ty
+        question: Who confronted David concerning his sin with Bathsheba?
+        choices:
+          A: Nathan
+          B: Samuel
+          C: Hushai
+          D: Ahijah
+        answer: A
+      - uid: BIB111.5.2.1.UPE.1
+        subobj: 5.2.1
+        type: upe
+        question: Solomon’s ability to trade with other nations came from Israel’s
+          mines of
+        choices:
+          A: gold and silver.
+          B: iron and copper.
+          C: coal and gold.
+          D: silver and copper.
+        answer: B
+      - uid: BIB111.5.2.1.TY.1
+        subobj: 5.2.1
+        type: ty
+        question: The years of Solomon’s reign were
+        choices:
+          A: peaceful and prosperous.
+          B: peaceful but unsuccessful.
+          C: prosperous but volatile.
+          D: oppressive and uncertain.
+        answer: A
+      - uid: BIB111.5.2.1.TY.2
+        subobj: 5.2.1
+        type: ty
+        question: Solomon dedicated the temple during the Feast of
+        choices:
+          A: Trumpets.
+          B: Passover.
+          C: Tabernacles.
+          D: Unleavened Bread.
+        answer: C
+      - uid: BIB111.5.2.2.UPE.1
+        subobj: 5.2.2
+        type: upe
+        question: Because of Solomon’s disobedience, God promised to
+        choices:
+          A: cause Solomon’s son to die.
+          B: strike Israel with a plague.
+          C: take away the gift of wisdom.
+          D: divide the kingdom.
+        answer: D
+      - uid: BIB111.5.2.2.TY.1
+        subobj: 5.2.2
+        type: ty
+        question: Solomon disobeyed God by
+        choices:
+          A: handling the ark of the covenant inappropriately.
+          B: marrying many foreign wives.
+          C: accumulating a lot of wealth.
+          D: counting his fighting men.
+        answer: B
+      - uid: BIB111.5.3.1.TY.1
+        subobj: 5.3.1
+        type: ty
+        question: How many tribes comprised the Northern Kingdom?
+        choices:
+          A: Two
+          B: Four
+          C: Eight
+          D: Ten
+        answer: D
+      - uid: BIB111.5.3.2.UPE.1
+        subobj: 5.3.2
+        type: upe
+        question: Who is considered the greatest king of the Northern Kingdom?
+        choices:
+          A: Jeroboam
+          B: Omri
+          C: Jehu
+          D: Jeroboam II
+        answer: D
+      - uid: BIB111.5.3.2.UPE.2
+        subobj: 5.3.2
+        type: upe
+        question: Who confronted the prophets of Baal on Mount Carmel?
+        choices:
+          A: Elisha
+          B: Ahijah
+          C: Elijah
+          D: Jehu
+        answer: C
+      - uid: BIB111.5.3.2.TY.1
+        subobj: 5.3.2
+        type: ty
+        question: The first king of the Northern Kingdom was
+        choices:
+          A: Omri.
+          B: Baasha.
+          C: Jeroboam.
+          D: Rehoboam.
+        answer: C
+      - uid: BIB111.5.3.2.TY.2
+        subobj: 5.3.2
+        type: ty
+        question: Who led Israel in worshipping Baal?
+        choices:
+          A: Omri
+          B: Ahab and Jezebel
+          C: Jeroboam
+          D: Baasha
+        answer: B
+      - uid: BIB111.5.3.2.TY.3
+        subobj: 5.3.2
+        type: ty
+        question: Assyria conquered the Northern Kingdom in
+        choices:
+          A: 586 BC.
+          B: 622 BC.
+          C: 686 BC.
+          D: 722 BC.
+        answer: D
+      - uid: BIB111.6.1.1.UPE.1
+        subobj: 6.1.1
+        type: upe
+        question: Which period of the divided kingdom saw seventy-five years of war
+          between Israel and Judah?
+        choices:
+          A: First
+          B: Second
+          C: Third
+          D: Fourth
+        answer: C
+      - uid: BIB111.6.1.1.TY.1
+        subobj: 6.1.1
+        type: ty
+        question: Israel and Judah saw seventy-five years of political alliance in
+          which period of the divided kingdom?
+        choices:
+          A: First
+          B: Second
+          C: Third
+          D: Fourth
+        answer: B
+      - uid: BIB111.6.1.2.UPE.1
+        subobj: 6.1.2
+        type: upe
+        question: Which king arranged for his son to marry Athaliah, Ahab and Jezebel’s
+          daughter?
+        choices:
+          A: Jehoshaphat
+          B: Rehoboam
+          C: Asa
+          D: Baasha
+        answer: A
+      - uid: BIB111.6.1.2.UPE.2
+        subobj: 6.1.2
+        type: upe
+        question: Jehoiada the priest had a profound influence on the life of
+        choices:
+          A: Jehoram.
+          B: Uzziah.
+          C: Joash.
+          D: Asa.
+        answer: C
+      - uid: BIB111.6.1.2.UPE.3
+        subobj: 6.1.2
+        type: upe
+        question: Which king of Judah entered the temple to burn incense and died
+          of leprosy?
+        choices:
+          A: Amaziah
+          B: Uzziah
+          C: Jotham
+          D: Ahaz
+        answer: B
+      - uid: BIB111.6.1.2.TY.1
+        subobj: 6.1.2
+        type: ty
+        question: The first king of the Southern Kingdom was
+        choices:
+          A: Asa.
+          B: Jehoshaphat.
+          C: Jeroboam.
+          D: Rehoboam.
+        answer: D
+      - uid: BIB111.6.1.2.TY.2
+        subobj: 6.1.2
+        type: ty
+        question: Who immediately killed all his brothers once he was made king of
+          Judah?
+        choices:
+          A: Jehoshaphat
+          B: Asa
+          C: Jehoram
+          D: Abijah
+        answer: C
+      - uid: BIB111.6.1.2.TY.3
+        subobj: 6.1.2
+        type: ty
+        question: When Athaliah tried to destroy David’s lineage through Jehoshaphat,
+          God spared
+        choices:
+          A: Asa.
+          B: Joash.
+          C: Jehoram.
+          D: Jehoshaphat.
+        answer: B
+      - uid: BIB111.6.1.2.TY.4
+        subobj: 6.1.2
+        type: ty
+        question: Which king helped to kill Zechariah, son of Jehoiada?
+        choices:
+          A: Joash
+          B: Amaziah
+          C: Uzziah
+          D: Jehoram
+        answer: A
+      - uid: BIB111.6.2.1.UPE.1
+        subobj: 6.2.1
+        type: upe
+        question: Who sought the Lord about the king of Assyria’s siege of Jerusalem?
+        choices:
+          A: Uzziah
+          B: Joash
+          C: Ahaz
+          D: Hezekiah
+        answer: D
+      - uid: BIB111.6.2.1.UPE.2
+        subobj: 6.2.1
+        type: upe
+        question: Which king of Judah led a campaign to repair and restore the temple?
+        choices:
+          A: Amon
+          B: Zedekiah
+          C: Josiah
+          D: Joash
+        answer: C
+      - uid: BIB111.6.2.1.UPE.3
+        subobj: 6.2.1
+        type: upe
+        question: How old was Josiah when he became king of Judah?
+        choices:
+          A: '8'
+          B: '18'
+          C: '21'
+          D: '25'
+        answer: A
+      - uid: BIB111.6.2.1.TY.1
+        subobj: 6.2.1
+        type: ty
+        question: When Assyria besieged Jerusalem, which prophet urged Hezekiah to
+          trust in the Lord?
+        choices:
+          A: Jeremiah
+          B: Isaiah
+          C: Zechariah
+          D: Amos
+        answer: B
+      - uid: BIB111.6.2.1.TY.2
+        subobj: 6.2.1
+        type: ty
+        question: Which king of Judah sacrificed children to Molech in the valley
+          of Hinnom?
+        choices:
+          A: Manasseh
+          B: Josiah
+          C: Joash
+          D: Amon
+        answer: A
+      - uid: BIB111.6.2.1.TY.3
+        subobj: 6.2.1
+        type: ty
+        question: Jeremiah wrote a lament in memory of King
+        choices:
+          A: Manasseh.
+          B: Zedekiah.
+          C: Josiah.
+          D: Joash.
+        answer: C
+      - uid: BIB111.6.2.2.TY.1
+        subobj: 6.2.2
+        type: ty
+        question: The last king to rule over Judah in Jerusalem was
+        choices:
+          A: Josiah.
+          B: Jehoahaz.
+          C: Jehoiachin.
+          D: Zedekiah.
+        answer: D
+      - uid: BIB111.6.2.2.TY.2
+        subobj: 6.2.2
+        type: ty
+        question: The Old Testament narratives of the kings primarily teach us about
+        choices:
+          A: the lineage of the kings of Judah.
+          B: God’s desire for the construction of the temple.
+          C: Israel’s methods of warfare.
+          D: God’s faithfulness in spite of our unfaithfulness.
+        answer: D
+      - uid: BIB111.7.1.1.UPE.1
+        subobj: 7.1.1
+        type: upe
+        question: Ezra was a
+        choices:
+          A: shepherd.
+          B: priest.
+          C: cupbearer.
+          D: priest and scribe.
+        answer: D
+      - uid: BIB111.7.1.1.TY.1
+        subobj: 7.1.1
+        type: ty
+        question: According to Jewish tradition, who organized the entire Old Testament
+          Hebrew canon?
+        choices:
+          A: Nehemiah
+          B: Ezra
+          C: Zerubbabel
+          D: Zechariah
+        answer: B
+      - uid: BIB111.7.1.2.UPE.1
+        subobj: 7.1.2
+        type: upe
+        question: Judah went into exile in Babylon for how many years?
+        choices:
+          A: '50'
+          B: '60'
+          C: '70'
+          D: '80'
+        answer: C
+      - uid: BIB111.7.1.2.UPE.2
+        subobj: 7.1.2
+        type: upe
+        question: Who led the first group of Jews back to Jerusalem after Cyrus issued
+          his decree?
+        choices:
+          A: Ezra
+          B: Nehemiah
+          C: Zerubbabel
+          D: Zechariah
+        answer: C
+      - uid: BIB111.7.1.2.TY.1
+        subobj: 7.1.2
+        type: ty
+        question: Cyrus’s permission for the Jews to return to Jerusalem was prophesied
+          160 years in advance by
+        choices:
+          A: Isaiah.
+          B: Jeremiah.
+          C: Zechariah.
+          D: Amos.
+        answer: A
+      - uid: BIB111.7.1.3.UPE.1
+        subobj: 7.1.3
+        type: upe
+        question: The Book of Ezra centers on
+        choices:
+          A: rebuilding Jerusalem’s walls.
+          B: rebuilding the temple.
+          C: God’s grace and forgiveness.
+          D: God’s judgment and wrath.
+        answer: B
+      - uid: BIB111.7.1.3.TY.1
+        subobj: 7.1.3
+        type: ty
+        question: After Cyrus’s decree, who led the second group of Jews back to Jerusalem?
+        choices:
+          A: Ezra
+          B: Nehemiah
+          C: Zerubbabel
+          D: Zechariah
+        answer: A
+      - uid: BIB111.7.1.3.TY.2
+        subobj: 7.1.3
+        type: ty
+        question: Ezra 1–6 focuses on the return to Jerusalem and the rebuilding of
+          the temple, while Ezra 7–10 describes
+        choices:
+          A: the dedication of the priests.
+          B: Ezra’s journey and work.
+          C: opposition from other nations.
+          D: Haggai and Zechariah’s prophetic ministry.
+        answer: B
+      - uid: BIB111.7.2.1.TY.1
+        subobj: 7.2.1
+        type: ty
+        question: The Jews completed rebuilding the walls around Jerusalem in how
+          many days?
+        choices:
+          A: Thirty
+          B: Forty-eight
+          C: Fifty-two
+          D: Sixty-four
+        answer: C
+      - uid: BIB111.7.2.1.TY.2
+        subobj: 7.2.1
+        type: ty
+        question: The man with exceptional organizational skills who helped rebuild
+          the walls of Jerusalem was
+        choices:
+          A: Ezra.
+          B: Zerubbabel.
+          C: Zechariah.
+          D: Nehemiah.
+        answer: D
+      - uid: BIB111.7.2.1.TY.3
+        subobj: 7.2.1
+        type: ty
+        question: The theme of Nehemiah is the
+        choices:
+          A: grace and forgiveness of the Lord.
+          B: judgment and wrath of God.
+          C: rebuilding of the temple.
+          D: rebuilding of the walls of Jerusalem.
+        answer: D
+      - uid: BIB111.7.3.1.UPE.1
+        subobj: 7.3.1
+        type: upe
+        question: The events of Esther took place in
+        choices:
+          A: Israel.
+          B: Assyria.
+          C: Persia.
+          D: Egypt.
+        answer: C
+      - uid: BIB111.7.3.1.UPE.2
+        subobj: 7.3.1
+        type: upe
+        question: Who revealed a plot to kill King Xerxes?
+        choices:
+          A: Haman
+          B: Mordecai
+          C: Nehemiah
+          D: Ezra
+        answer: B
+      - uid: BIB111.7.3.1.TY.1
+        subobj: 7.3.1
+        type: ty
+        question: The events of the book of Esther took place
+        choices:
+          A: before the Jews returned to Jerusalem.
+          B: between the first and second returns.
+          C: between the second and third returns.
+          D: after the final return of the Jews.
+        answer: B
+      - uid: BIB111.7.3.1.TY.2
+        subobj: 7.3.1
+        type: ty
+        question: King Xerxes ordered a search for a new queen because Vashti
+        choices:
+          A: rebelled and refused to obey him.
+          B: was old and unable to fulfill her duties.
+          C: was unable to have children.
+          D: became ill and died.
+        answer: A
+      - uid: BIB111.7.3.2.TY.1
+        subobj: 7.3.2
+        type: ty
+        question: Which feast celebrates the Jews’ deliverance from Haman and his
+          plot?
+        choices:
+          A: Trumpets
+          B: Tabernacles
+          C: Purim
+          D: Passover
+        answer: C
+      - uid: BIB111.8.1.1.UPE.1
+        subobj: 8.1.1
+        type: upe
+        question: Job lived in the land of
+        choices:
+          A: Uz.
+          B: Israel.
+          C: Persia.
+          D: Assyria.
+        answer: A
+      - uid: BIB111.8.1.1.TY.1
+        subobj: 8.1.1
+        type: ty
+        question: Reading a book of the Bible in its entire context is especially
+          important for the Book of
+        choices:
+          A: Proverbs.
+          B: Psalms.
+          C: Job.
+          D: Lamentations.
+        answer: C
+      - uid: BIB111.8.1.2.UPE.1
+        subobj: 8.1.2
+        type: upe
+        question: According to Job’s friends, Job’s suffering was a result of
+        choices:
+          A: his sin.
+          B: God’s injustice.
+          C: fallen humanity.
+          D: fate.
+        answer: A
+      - uid: BIB111.8.1.2.UPE.2
+        subobj: 8.1.2
+        type: upe
+        question: Theodicy deals with the issue of
+        choices:
+          A: why the righteous suffer.
+          B: the consequences of sin.
+          C: gossip and slander.
+          D: God’s forgiveness.
+        answer: A
+      - uid: BIB111.8.1.2.TY.1
+        subobj: 8.1.2
+        type: ty
+        question: Theodicy deals with the issue of
+        choices:
+          A: why the righteous suffer.
+          B: the consequences of sin.
+          C: gossip and slander.
+          D: God’s forgiveness.
+        answer: A
+      - uid: BIB111.8.1.2.TY.2
+        subobj: 8.1.2
+        type: ty
+        question: The last and youngest person that contended with Job about the cause
+          of his suffering was
+        choices:
+          A: Eliphaz.
+          B: Bildad.
+          C: Zophar.
+          D: Elihu.
+        answer: D
+      - uid: BIB111.8.1.2.TY.3
+        subobj: 8.1.2
+        type: ty
+        question: The book of Job provides insight on
+        choices:
+          A: God’s forgiveness, judgment, and justice.
+          B: wisdom, judgment, and human injustice.
+          C: wisdom, justice, and human suffering.
+          D: God’s forgiveness, judgment, and restoration.
+        answer: C
+      - uid: BIB111.8.2.1.UPE.1
+        subobj: 8.2.1
+        type: upe
+        question: The longest book in the Bible is
+        choices:
+          A: Genesis.
+          B: Psalms.
+          C: 1 Kings.
+          D: Isaiah.
+        answer: B
+      - uid: BIB111.8.2.1.UPE.2
+        subobj: 8.2.1
+        type: upe
+        question: The Hebrew word hallelujah is translated
+        choices:
+          A: “Selah.”
+          B: “the Lord reigns.”
+          C: “praise the Lord.”
+          D: “the Lord is righteous.”
+        answer: C
+      - uid: BIB111.8.2.1.UPE.3
+        subobj: 8.2.1
+        type: upe
+        question: The Psalms were written over a period of
+        choices:
+          A: 300 years.
+          B: 500 years.
+          C: 800 years.
+          D: 1,000 years.
+        answer: D
+      - uid: BIB111.8.2.1.UPE.4
+        subobj: 8.2.1
+        type: upe
+        question: Which Old Testament book is quoted the most in the New Testament?
+        choices:
+          A: Psalms
+          B: Isaiah
+          C: Jeremiah
+          D: Proverbs
+        answer: A
+      - uid: BIB111.8.2.1.TY.1
+        subobj: 8.2.1
+        type: ty
+        question: A good example of a responsive reading is Psalm
+        choices:
+          A: '1.'
+          B: '32.'
+          C: '100.'
+          D: '136.'
+        answer: D
+      - uid: BIB111.8.2.2.UPE.1
+        subobj: 8.2.2
+        type: upe
+        question: “Why do the nations conspire and the peoples plot in vain?” (Psalm
+          2:1) illustrates what kind of parallelism?
+        choices:
+          A: Antithetical
+          B: Synonymous
+          C: Synthetic
+          D: Chiasm
+        answer: B
+      - uid: BIB111.8.2.2.UPE.2
+        subobj: 8.2.2
+        type: upe
+        question: “A wise son brings joy to his father, but a foolish son brings grief
+          to his mother” (Proverbs 10:1) illustrates
+        choices:
+          A: antithetical parallelism.
+          B: synonymous parallelism.
+          C: synthetic parallelism.
+          D: chiastic parallelism.
+        answer: A
+      - uid: BIB111.8.2.2.TY.1
+        subobj: 8.2.2
+        type: ty
+        question: What kind of parallelism is illustrated in Psalm 2:1, “Why do the
+          nations conspire and the peoples plot in vain?”?
+        choices:
+          A: Antithetical
+          B: Synonymous
+          C: Synthetic
+          D: Chiasm
+        answer: B
+      - uid: BIB111.8.2.2.TY.2
+        subobj: 8.2.2
+        type: ty
+        question: What kind of parallelism is illustrated in Psalm 19:10, “They [ordinances
+          of the Lord] are more precious than gold, than much pure gold.”?
+        choices:
+          A: Antithetical
+          B: Synonymous
+          C: Synthetic
+          D: Chiasm
+        answer: C
+      - uid: BIB111.8.2.3.UPE.1
+        subobj: 8.2.3
+        type: upe
+        question: Psalms 73–89 parallel the Book of
+        choices:
+          A: Genesis.
+          B: Exodus.
+          C: Leviticus.
+          D: Deuteronomy.
+        answer: C
+      - uid: BIB111.8.2.3.UPE.2
+        subobj: 8.2.3
+        type: upe
+        question: Psalms 90–106 parallel the Book of
+        choices:
+          A: Exodus.
+          B: Leviticus.
+          C: Numbers.
+          D: Deuteronomy.
+        answer: C
+      - uid: BIB111.8.2.3.TY.1
+        subobj: 8.2.3
+        type: ty
+        question: Psalms 42–72 parallel the Book of
+        choices:
+          A: Genesis.
+          B: Exodus.
+          C: Leviticus.
+          D: Deuteronomy.
+        answer: B
+      - uid: BIB111.8.3.1.UPE.1
+        subobj: 8.3.1
+        type: upe
+        question: Strong negative emotions in difficult situations are expressed in
+        choices:
+          A: individual or communal laments.
+          B: hymns of praise.
+          C: royal psalms.
+          D: wisdom psalms.
+        answer: A
+      - uid: BIB111.8.3.1.UPE.2
+        subobj: 8.3.1
+        type: upe
+        question: Which psalms express praise to the Lord?
+        choices:
+          A: Hymns of praise
+          B: Individual or communal laments
+          C: Wisdom psalms
+          D: Royal psalms
+        answer: A
+      - uid: BIB111.8.3.1.UPE.3
+        subobj: 8.3.1
+        type: upe
+        question: Which psalms emphasize God’s deliverance from a time of crisis?
+        choices:
+          A: Wisdom psalms
+          B: Individual or communal thanksgiving psalms
+          C: Royal psalms
+          D: Individual or communal laments
+        answer: B
+      - uid: BIB111.8.3.1.TY.1
+        subobj: 8.3.1
+        type: ty
+        question: Which genre of psalm emphasizes God’s deliverance from a time of
+          crisis?
+        choices:
+          A: Individual or communal laments
+          B: Hymns of praise
+          C: Individual or communal thanksgiving psalms
+          D: Wisdom psalms
+        answer: C
+      - uid: BIB111.8.3.1.TY.2
+        subobj: 8.3.1
+        type: ty
+        question: Which genre of psalm emphasizes themes similar to the Book of Proverbs?
+        choices:
+          A: Individual or communal laments
+          B: Hymns of praise
+          C: Royal psalms
+          D: Wisdom psalms
+        answer: D
+      - uid: BIB111.9.1.1.UPE.1
+        subobj: 9.1.1
+        type: upe
+        question: The entire Book of Proverbs was likely compiled around
+        choices:
+          A: 300 BC.
+          B: 500 BC.
+          C: 700 BC.
+          D: 900 BC.
+        answer: C
+      - uid: BIB111.9.1.1.UPE.2
+        subobj: 9.1.1
+        type: upe
+        question: Who composed most of the material in Proverbs?
+        choices:
+          A: David
+          B: Solomon
+          C: Agur
+          D: Lemuel
+        answer: B
+      - uid: BIB111.9.1.1.UPE.3
+        subobj: 9.1.1
+        type: upe
+        question: The Hebrew word mashal means
+        choices:
+          A: “to rule.”
+          B: “wise speech or saying.”
+          C: “to obey or respect.”
+          D: “head knowledge.”
+        answer: B
+      - uid: BIB111.9.1.1.UPE.4
+        subobj: 9.1.1
+        type: upe
+        question: The Book of Proverbs is didactic, meaning it is intended to
+        choices:
+          A: teach.
+          B: tell a story.
+          C: be poetic.
+          D: be prophetic.
+        answer: A
+      - uid: BIB111.9.1.1.TY.1
+        subobj: 9.1.1
+        type: ty
+        question: The entire Book of Proverbs was likely compiled around
+        choices:
+          A: 300 BC.
+          B: 500 BC.
+          C: 700 BC.
+          D: 900 BC.
+        answer: C
+      - uid: BIB111.9.1.1.TY.2
+        subobj: 9.1.1
+        type: ty
+        question: The proverbs are statements that
+        choices:
+          A: describe usual results of actions.
+          B: describe guaranteed results of actions.
+          C: applied only to the Old Testament culture.
+          D: emphasize the contrast between law and grace.
+        answer: A
+      - uid: BIB111.9.1.2.UPE.1
+        subobj: 9.1.2
+        type: upe
+        question: A literary device that represents a concept or idea as a person
+          is called
+        choices:
+          A: a metaphor.
+          B: a simile.
+          C: personification.
+          D: parallelism.
+        answer: C
+      - uid: BIB111.9.1.2.TY.1
+        subobj: 9.1.2
+        type: ty
+        question: The theme of the Book of Proverbs is that
+        choices:
+          A: God’s promises never fail.
+          B: most of life is meaningless.
+          C: our worship of God takes various forms.
+          D: wisdom begins with honoring the Lord.
+        answer: D
+      - uid: BIB111.9.1.2.TY.2
+        subobj: 9.1.2
+        type: ty
+        question: A literary device that represents a concept or idea as a person
+          is called
+        choices:
+          A: a metaphor.
+          B: a simile.
+          C: personification.
+          D: parallelism.
+        answer: C
+      - uid: BIB111.9.2.1.UPE.1
+        subobj: 9.2.1
+        type: upe
+        question: Ecclesiastes is based on a Hebrew word that means
+        choices:
+          A: “one who is sorrowful.”
+          B: “one who calls people together to talk.”
+          C: “wise speech or parable.”
+          D: “meaningless or futile.”
+        answer: B
+      - uid: BIB111.9.2.1.UPE.2
+        subobj: 9.2.1
+        type: upe
+        question: Based on the evidence, the author of Ecclesiastes is
+        choices:
+          A: David.
+          B: Solomon.
+          C: inconclusive.
+          D: Samuel.
+        answer: C
+      - uid: BIB111.9.2.1.TY.1
+        subobj: 9.2.1
+        type: ty
+        question: Ecclesiastes is based on a Hebrew word that means
+        choices:
+          A: “one who is sorrowful.”
+          B: “one who calls people together and talks to them.”
+          C: “wise speech or parable.”
+          D: “meaningless or futile.”
+        answer: B
+      - uid: BIB111.9.2.2.UPE.1
+        subobj: 9.2.2
+        type: upe
+        question: Which book warns that life without God is meaningless?
+        choices:
+          A: Job
+          B: Psalms
+          C: Proverbs
+          D: Ecclesiastes
+        answer: D
+      - uid: BIB111.9.2.2.TY.1
+        subobj: 9.2.2
+        type: ty
+        question: According to Ecclesiastes, the most meaningless, empty pursuit is
+        choices:
+          A: striving after riches.
+          B: living without God.
+          C: pouring much effort into work.
+          D: trying to advance in one’s position.
+        answer: B
+      - uid: BIB111.9.2.2.TY.2
+        subobj: 9.2.2
+        type: ty
+        question: The Book of Ecclesiastes uses the word meaningless how many times?
+        choices:
+          A: Fifteen
+          B: Twenty-five
+          C: Thirty-five
+          D: Forty-five
+        answer: C
+      - uid: BIB111.9.3.1.UPE.1
+        subobj: 9.3.1
+        type: upe
+        question: The title Song of Songs means this is
+        choices:
+          A: a great song.
+          B: one of the great songs of history.
+          C: a greater song than others.
+          D: the greatest song.
+        answer: D
+      - uid: BIB111.9.3.1.TY.1
+        subobj: 9.3.1
+        type: ty
+        question: The author of Song of Songs is
+        choices:
+          A: Samuel.
+          B: David.
+          C: Solomon.
+          D: uncertain.
+        answer: D
+      - uid: BIB111.9.3.2.UPE.1
+        subobj: 9.3.2
+        type: upe
+        question: Who wrote ten books about the allegorical meanings of Song of Songs?
+        choices:
+          A: Polycarp
+          B: Origen
+          C: Ignatius
+          D: Augustine
+        answer: B
+      - uid: BIB111.9.3.2.UPE.2
+        subobj: 9.3.2
+        type: upe
+        question: New Testament Christians should view Song of Songs as a book about
+        choices:
+          A: the beauty of sexual intimacy in marriage.
+          B: perverted and sensual sexuality.
+          C: Christ’s love for the Church.
+          D: God’s love for Israel.
+        answer: A
+      - uid: BIB111.9.3.2.TY.1
+        subobj: 9.3.2
+        type: ty
+        question: Jewish tradition has interpreted the Song of Songs to be a book
+          about
+        choices:
+          A: the beauty of sexual intimacy in marriage.
+          B: perverted and sensual sexuality.
+          C: Christ’s love for the church.
+          D: God’s love for Israel.
+        answer: A
+      - uid: BIB111.9.3.2.TY.2
+        subobj: 9.3.2
+        type: ty
+        question: We should interpret Scripture allegorically only when
+        choices:
+          A: the interpretation appears to conflict with the rest of Scripture.
+          B: the interpretation does not conflict with the rest of Scripture.
+          C: the Scriptures themselves teach an allegorical interpretation.
+          D: a passage is too explicit, as in the case of Song of Songs.
+        answer: C
+      - uid: BIB111.10.1.1.UPE.1
+        subobj: 10.1.1
+        type: upe
+        question: Jonah was a prophet to
+        choices:
+          A: Judah.
+          B: Israel.
+          C: Assyria.
+          D: Israel and Assyria.
+        answer: D
+      - uid: BIB111.10.1.1.TY.1
+        subobj: 10.1.1
+        type: ty
+        question: The greatest debate about Jonah’s historical accuracy centers on
+          which question?
+        choices:
+          A: Would God send a prophet to a wicked Gentile nation?
+          B: Can God perform the miracle of keeping Jonah alive in a fish’s belly
+            for three days?
+          C: Can God use a prophet who resents the mission God has given him?
+          D: Does God really care about the heathen nations of the world?
+        answer: B
+      - uid: BIB111.10.1.2.UPE.1
+        subobj: 10.1.2
+        type: upe
+        question: To avoid God’s call, Jonah boarded a ship to
+        choices:
+          A: Cyprus.
+          B: Crete.
+          C: Tarshish.
+          D: Athens.
+        answer: C
+      - uid: BIB111.10.1.2.UPE.2
+        subobj: 10.1.2
+        type: upe
+        question: The issue of whether God changes His mind is raised in
+        choices:
+          A: Amos.
+          B: Hosea.
+          C: Joel.
+          D: Jonah.
+        answer: D
+      - uid: BIB111.10.1.2.TY.1
+        subobj: 10.1.2
+        type: ty
+        question: Jonah did not want to go to Nineveh primarily because
+        choices:
+          A: the journey was too far.
+          B: the people were wicked and enemies of Israel.
+          C: he would be rejected by his own people.
+          D: he was too old to make the journey.
+        answer: B
+      - uid: BIB111.10.1.2.TY.2
+        subobj: 10.1.2
+        type: ty
+        question: The people of Nineveh responded to Jonah’s message by
+        choices:
+          A: repenting and turning from their wicked ways.
+          B: laughing at Jonah with rejection.
+          C: forcing Jonah to flee for his life.
+          D: listening yet resisting the urge to repent.
+        answer: A
+      - uid: BIB111.10.2.1.UPE.1
+        subobj: 10.2.1
+        type: upe
+        question: Which prophet was a shepherd and took care of fig trees?
+        choices:
+          A: Hosea
+          B: Joel
+          C: Amos
+          D: Jonah
+        answer: C
+      - uid: BIB111.10.2.1.UPE.2
+        subobj: 10.2.1
+        type: upe
+        question: The main theme of Amos is
+        choices:
+          A: idolatry.
+          B: social justice and faithful, godly living.
+          C: the wickedness of Israel’s neighbors.
+          D: the unfaithfulness of Israel and Judah.
+        answer: B
+      - uid: BIB111.10.2.1.TY.1
+        subobj: 10.2.1
+        type: ty
+        question: Amos’s name means
+        choices:
+          A: “Jehovah is my righteousness.”
+          B: “the Lord saves.”
+          C: “burden-bearer.”
+          D: “light-bearer.”
+        answer: C
+      - uid: BIB111.10.2.1.TY.2
+        subobj: 10.2.1
+        type: ty
+        question: According to Amos 5:24, the theme of Amos centers on
+        choices:
+          A: the tension between God’s love and His judgment.
+          B: God’s desire for redemption.
+          C: judgment for Israel’s idolatry.
+          D: social justice and righteousness.
+        answer: D
+      - uid: BIB111.10.2.2.UPE.1
+        subobj: 10.2.2
+        type: upe
+        question: Which prophet had visions of a plumb line and a basket of ripe fruit?
+        choices:
+          A: Joel
+          B: Amos
+          C: Hosea
+          D: Micah
+        answer: B
+      - uid: BIB111.10.2.2.UPE.2
+        subobj: 10.2.2
+        type: upe
+        question: Based on Amos 3–6, it appears that Israel’s sin problem was rooted
+          in their
+        choices:
+          A: intermarriage with people from other nations.
+          B: inability to discern God’s message through Amos.
+          C: pride in their privileged position as God’s chosen people.
+          D: rejection of God’s discipline.
+        answer: C
+      - uid: BIB111.10.2.2.TY.1
+        subobj: 10.2.2
+        type: ty
+        question: According to Amos 3–6, Israel’s calling was accompanied by
+        choices:
+          A: moral perfection.
+          B: protection in warfare.
+          C: great responsibility.
+          D: strict laws for worship.
+        answer: C
+      - uid: BIB111.10.3.1.UPE.1
+        subobj: 10.3.1
+        type: upe
+        question: The period of Hosea’s ministry overlapped that of
+        choices:
+          A: Amos.
+          B: Joel.
+          C: Micah.
+          D: Obadiah.
+        answer: A
+      - uid: BIB111.10.3.1.UPE.2
+        subobj: 10.3.1
+        type: upe
+        question: Who did God call to marry a prostitute named Gomer?
+        choices:
+          A: Joel
+          B: Amos
+          C: Hosea
+          D: Obadiah
+        answer: C
+      - uid: BIB111.10.3.1.TY.1
+        subobj: 10.3.1
+        type: ty
+        question: Hosea’s name means
+        choices:
+          A: “light-bearer.”
+          B: “burden-bearer.”
+          C: “Jehovah is my righteousness.”
+          D: “the Lord saves.”
+        answer: D
+      - uid: BIB111.10.3.1.TY.2
+        subobj: 10.3.1
+        type: ty
+        question: The period of Hosea’s ministry overlapped that of
+        choices:
+          A: Amos.
+          B: Joel.
+          C: Micah.
+          D: Obadiah.
+        answer: A
+      - uid: BIB111.10.3.3.UPE.1
+        subobj: 10.3.3
+        type: upe
+        question: In his marriage to Gomer, Hosea represented
+        choices:
+          A: Israel.
+          B: God.
+          C: Judah.
+          D: Assyria.
+        answer: B
+      - uid: BIB111.10.3.3.UPE.2
+        subobj: 10.3.3
+        type: upe
+        question: God uses courtroom imagery to bring charges of unfaithfulness against
+          Israel in the Book of
+        choices:
+          A: Jonah.
+          B: Obadiah.
+          C: Amos.
+          D: Hosea.
+        answer: D
+      - uid: BIB111.10.3.3.TY.1
+        subobj: 10.3.3
+        type: ty
+        question: The name of Gomer’s third child, Lo-Ammi, meant
+        choices:
+          A: “not my people.”
+          B: “Israel is forsaken.”
+          C: “not loved.”
+          D: “unfaithful.”
+        answer: A
+      - uid: BIB111.10.3.3.TY.2
+        subobj: 10.3.3
+        type: ty
+        question: God uses courtroom imagery to bring charges of unfaithfulness against
+          Israel in the Book of
+        choices:
+          A: Jonah.
+          B: Obadiah.
+          C: Amos.
+          D: Hosea.
+        answer: D
+      - uid: BIB111.11.1.1.UPE.1
+        subobj: 11.1.1
+        type: upe
+        question: Joel means
+        choices:
+          A: “burden-bearer.”
+          B: “the Lord is God.”
+          C: “the Lord is holy.”
+          D: “Jehovah saves.”
+        answer: B
+      - uid: BIB111.11.1.1.UPE.2
+        subobj: 11.1.1
+        type: upe
+        question: Which Old Testament book refers to a great plague of locusts?
+        choices:
+          A: Amos
+          B: Isaiah
+          C: Joel
+          D: Micah
+        answer: C
+      - uid: BIB111.11.1.1.UPE.3
+        subobj: 11.1.1
+        type: upe
+        question: According to Joel, true repentance includes
+        choices:
+          A: tearing one’s clothes.
+          B: observing all the Jewish feasts.
+          C: offering a sin offering to God.
+          D: rending one’s heart.
+        answer: D
+      - uid: BIB111.11.1.1.UPE.4
+        subobj: 11.1.1
+        type: upe
+        question: Which prophet did Peter quote on the day of Pentecost?
+        choices:
+          A: Amos
+          B: Obadiah
+          C: Joel
+          D: Isaiah
+        answer: C
+      - uid: BIB111.11.1.1.TY.1
+        subobj: 11.1.1
+        type: ty
+        question: Joel means
+        choices:
+          A: “burden-bearer.”
+          B: “the Lord is God.”
+          C: “the Lord is holy.”
+          D: “Jehovah saves.”
+        answer: B
+      - uid: BIB111.11.1.1.TY.2
+        subobj: 11.1.1
+        type: ty
+        question: A prominent theme in the Book of Joel is
+        choices:
+          A: the Day of the Lord.
+          B: the coming Messiah.
+          C: God’s faithfulness.
+          D: God’s holiness.
+        answer: A
+      - uid: BIB111.11.1.1.TY.3
+        subobj: 11.1.1
+        type: ty
+        question: What kind of restoration does the prophet Joel refer to?
+        choices:
+          A: Physical
+          B: Spiritual
+          C: Emotional
+          D: Physical and spiritual
+        answer: D
+      - uid: BIB111.11.2.1.UPE.1
+        subobj: 11.2.1
+        type: upe
+        question: Isaiah prophesied during the reigns of
+        choices:
+          A: Pekah, Jotham, Ahaz, and Hezekiah.
+          B: Ahab, Pekah, Uzziah, and Hezekiah.
+          C: Uzziah, Jotham, Ahaz, and Hezekiah.
+          D: Uzziah, Pekah, Ahaz, and Jeroboam.
+        answer: C
+      - uid: BIB111.11.2.1.UPE.2
+        subobj: 11.2.1
+        type: upe
+        question: How many authors do conservative scholars believe wrote the Book
+          of Isaiah?
+        choices:
+          A: One
+          B: Two
+          C: Three
+          D: Four
+        answer: A
+      - uid: BIB111.11.2.1.UPE.3
+        subobj: 11.2.1
+        type: upe
+        question: The name Isaiah means
+        choices:
+          A: “burden-bearer.”
+          B: “the Lord is God.”
+          C: “the Lord is salvation.”
+          D: “the Lord is holy.”
+        answer: C
+      - uid: BIB111.11.2.1.UPE.4
+        subobj: 11.2.1
+        type: upe
+        question: Isaiah was
+        choices:
+          A: a shepherd.
+          B: a priest.
+          C: a farmer.
+          D: an educated man and a poet.
+        answer: D
+      - uid: BIB111.11.2.1.UPE.5
+        subobj: 11.2.1
+        type: upe
+        question: Who did Isaiah prophesy would deliver Israel from captivity?
+        choices:
+          A: Cyrus
+          B: Darius
+          C: Nebuchadnezzar
+          D: Xerxes
+        answer: A
+      - uid: BIB111.11.2.1.TY.1
+        subobj: 11.2.1
+        type: ty
+        question: A major argument against multiple authorship of the Book of Isaiah
+          involves
+        choices:
+          A: Jewish tradition.
+          B: internal biblical evidence.
+          C: the book’s continuity of flow and theme.
+          D: its unified tone and writing style.
+        answer: B
+      - uid: BIB111.11.2.1.TY.2
+        subobj: 11.2.1
+        type: ty
+        question: Isaiah prophesied during the reigns of
+        choices:
+          A: Pekah, Jotham, Ahaz, and Hezekiah.
+          B: Ahab, Pekah, Uzziah, and Hezekiah.
+          C: Uzziah, Jotham, Ahaz, and Hezekiah.
+          D: Uzziah, Pekah, Ahaz, and Jeroboam.
+        answer: C
+      - uid: BIB111.11.2.1.TY.3
+        subobj: 11.2.1
+        type: ty
+        question: Isaiah uses which word more than all the other Old Testament prophets
+          combined?
+        choices:
+          A: Judgment
+          B: Servant
+          C: Salvation
+          D: Restoration
+        answer: C
+      - uid: BIB111.11.2.2.UPE.1
+        subobj: 11.2.2
+        type: upe
+        question: Isaiah 7:14; 9:6–7 prophesy about the Messiah’s
+        choices:
+          A: incarnation.
+          B: message.
+          C: mission.
+          D: second coming.
+        answer: A
+      - uid: BIB111.11.2.2.UPE.2
+        subobj: 11.2.2
+        type: upe
+        question: One reason Isaiah prophesies judgment is to
+        choices:
+          A: protect the Northern Kingdom from destruction.
+          B: purify Jerusalem.
+          C: warn of the Day of the Lord.
+          D: promote a truce with Egypt.
+        answer: B
+      - uid: BIB111.11.2.2.UPE.3
+        subobj: 11.2.2
+        type: upe
+        question: Isaiah 49–55 contains a
+        choices:
+          A: declaration that the people remained unfaithful to God.
+          B: vision of God’s future restoration of creation.
+          C: series of prophecies about Jesus.
+          D: report on Jerusalem’s failure to trust in God.
+        answer: C
+      - uid: BIB111.11.2.2.UPE.4
+        subobj: 11.2.2
+        type: upe
+        question: The incarnation of the Messiah is foretold in Isaiah
+        choices:
+          A: 7 and 9.
+          B: 50 and 53.
+          C: '16.'
+          D: '22.'
+        answer: A
+      - uid: BIB111.11.2.2.TY.1
+        subobj: 11.2.2
+        type: ty
+        question: Isaiah 7:14; 9:6–7 prophesy about the Messiah’s
+        choices:
+          A: incarnation.
+          B: message.
+          C: mission.
+          D: second coming.
+        answer: A
+      - uid: BIB111.11.2.2.TY.2
+        subobj: 11.2.2
+        type: ty
+        question: Isaiah 56–66
+        choices:
+          A: is a collection of prophetic oracles that warn Judah of God’s impending
+            judgment.
+          B: tells of Ahaz’s failure to trust God.
+          C: describes the ultimate future when God restores His people.
+          D: is a series of woe oracles against the nations and a hopeful vision for
+            the future.
+        answer: C
+      - uid: BIB111.11.3.1.UPE.1
+        subobj: 11.3.1
+        type: upe
+        question: Themes in the Book of Micah include
+        choices:
+          A: the Day of the Lord, social injustice, and true worship.
+          B: the Day of the Lord, false security, and true worship.
+          C: corruption, greed, and immorality; the fall of Israel and Samaria, and
+            of Judah and Jerusalem; and deliverance after judgment.
+          D: the Day of the Lord, social injustice, and false security.
+        answer: C
+      - uid: BIB111.11.3.1.TY.1
+        subobj: 11.3.1
+        type: ty
+        question: Micah prophesied during the reigns of
+        choices:
+          A: Uzziah, Ahaz, and Hezekiah.
+          B: Uzziah, Jotham, and Ahaz.
+          C: Uzziah, Jotham, and Hezekiah.
+          D: Jotham, Ahaz, and Hezekiah.
+        answer: D
+      - uid: BIB111.11.3.1.TY.2
+        subobj: 11.3.1
+        type: ty
+        question: In Micah 6:8, the prophet summarizes his message about
+        choices:
+          A: law versus grace.
+          B: mercy and judgment or justice.
+          C: complete restoration for Israel.
+          D: responsibilities that come with privileges.
+        answer: B
+      - uid: BIB111.12.1.1.UPE.1
+        subobj: 12.1.1
+        type: upe
+        question: Nahum’s message was directed to
+        choices:
+          A: Nineveh.
+          B: Judah.
+          C: Edom.
+          D: Israel.
+        answer: A
+      - uid: BIB111.12.1.1.TY.1
+        subobj: 12.1.1
+        type: ty
+        question: As seen in Nahum, promiscuity, cruelties, and false security led
+          to judgment for
+        choices:
+          A: Edom.
+          B: Samaria.
+          C: Jerusalem.
+          D: Nineveh.
+        answer: D
+      - uid: BIB111.12.1.1.TY.2
+        subobj: 12.1.1
+        type: ty
+        question: Nineveh fell in
+        choices:
+          A: 722 BC.
+          B: 612 BC.
+          C: 586 BC.
+          D: 444 BC.
+        answer: B
+      - uid: BIB111.12.2.1.UPE.1
+        subobj: 12.2.1
+        type: upe
+        question: Habakkuk emphasized the themes of
+        choices:
+          A: the Day of the Lord and the coming Messiah.
+          B: Babylon’s destruction and the Day of the Lord.
+          C: God’s judgment of sin in His time and living by faith.
+          D: the Day of the Lord and living by faith.
+        answer: C
+      - uid: BIB111.12.2.1.TY.1
+        subobj: 12.2.1
+        type: ty
+        question: The reminder “the righteous person will live by his faithfulness”
+          (Habakkuk 2:4) was part of God’s promise to
+        choices:
+          A: judge Babylon later for its wickedness.
+          B: use Babylon to punish Judah.
+          C: restore the nation of Israel.
+          D: answer Habakkuk’s cry for help.
+        answer: A
+      - uid: BIB111.12.2.2.TY.1
+        subobj: 12.2.2
+        type: ty
+        question: Habakkuk’s prayer and song of faith show that
+        choices:
+          A: doubt signifies a lack of faith.
+          B: even true believers sometimes experience doubt.
+          C: believers should wait to praise God until they deal with their doubts.
+          D: Habakkuk should not have asked God, “why?”
+        answer: B
+      - uid: BIB111.12.3.1.UPE.1
+        subobj: 12.3.1
+        type: upe
+        question: Zephaniah was a prophet to
+        choices:
+          A: Judah.
+          B: Israel.
+          C: Edom.
+          D: Nineveh.
+        answer: A
+      - uid: BIB111.12.3.1.UPE.2
+        subobj: 12.3.1
+        type: upe
+        question: Zephaniah’s theme was
+        choices:
+          A: the Messiah.
+          B: living by faith.
+          C: social injustice.
+          D: the Day of the Lord.
+        answer: D
+      - uid: BIB111.12.3.1.TY.1
+        subobj: 12.3.1
+        type: ty
+        question: Zephaniah’s prophetic ministry was during the reign of King
+        choices:
+          A: David.
+          B: Saul.
+          C: Josiah.
+          D: Solomon.
+        answer: C
+      - uid: BIB111.12.3.1.TY.2
+        subobj: 12.3.1
+        type: ty
+        question: Zephaniah affirmed that
+        choices:
+          A: the joy of the Lord was the people’s strength.
+          B: God’s people would rejoice over Him.
+          C: God would restore Israel’s joy.
+          D: God would rejoice over His people.
+        answer: D
+      - uid: BIB111.12.4.1.UPE.1
+        subobj: 12.4.1
+        type: upe
+        question: Obadiah’s prophecy addressed the people of
+        choices:
+          A: Judah.
+          B: Moab.
+          C: Israel.
+          D: Edom.
+        answer: D
+      - uid: BIB111.12.4.1.TY.1
+        subobj: 12.4.1
+        type: ty
+        question: Obadiah foretold God’s judgment on Edom because of their
+        choices:
+          A: pride and treatment of Israel.
+          B: sexual perversions.
+          C: social injustice.
+          D: idolatry.
+        answer: A
+      - uid: BIB111.12.5.1.UPE.1
+        subobj: 12.5.1
+        type: upe
+        question: Jeremiah was a prophet to
+        choices:
+          A: Israel.
+          B: Nineveh.
+          C: Judah.
+          D: Edom.
+        answer: C
+      - uid: BIB111.12.5.1.TY.1
+        subobj: 12.5.1
+        type: ty
+        question: The last prophet to Judah before the nation’s fall was
+        choices:
+          A: Zephaniah.
+          B: Obadiah.
+          C: Jeremiah.
+          D: Ezekiel.
+        answer: C
+      - uid: BIB111.12.5.1.TY.2
+        subobj: 12.5.1
+        type: ty
+        question: Jeremiah was called the Weeping Prophet because of
+        choices:
+          A: God’s command for him not to marry.
+          B: his many tears and tender heart.
+          C: his exile to Babylon.
+          D: his lack of courage.
+        answer: B
+      - uid: BIB111.12.5.2.UPE.1
+        subobj: 12.5.2
+        type: upe
+        question: The Book of Lamentations expresses grief over
+        choices:
+          A: Israel’s sin.
+          B: the fall of Judah and Jerusalem.
+          C: Israel’s future.
+          D: Israel’s coming judgment.
+        answer: B
+      - uid: BIB111.12.5.2.UPE.2
+        subobj: 12.5.2
+        type: upe
+        question: Lamentations 3:22–23 reminds believers of God’s
+        choices:
+          A: wrath against unrepentant sin.
+          B: peace.
+          C: righteousness.
+          D: faithfulness and unfailing love.
+        answer: D
+      - uid: BIB111.12.5.2.TY.1
+        subobj: 12.5.2
+        type: ty
+        question: Lamentations 1–4 uses a literary device known as
+        choices:
+          A: an acrostic.
+          B: alliteration.
+          C: personification.
+          D: metaphors.
+        answer: A
+      - uid: BIB111.13.1.1.UPE.1
+        subobj: 13.1.1
+        type: upe
+        question: Ezekiel was
+        choices:
+          A: a priest.
+          B: a prophet.
+          C: a shepherd.
+          D: both a prophet and a priest.
+        answer: D
+      - uid: BIB111.13.1.1.TY.1
+        subobj: 13.1.1
+        type: ty
+        question: The Book of Ezekiel is set in
+        choices:
+          A: Babylon.
+          B: Judah.
+          C: Assyria.
+          D: Israel.
+        answer: A
+      - uid: BIB111.13.1.1.TY.2
+        subobj: 13.1.1
+        type: ty
+        question: Ezekiel means
+        choices:
+          A: “the Lord hides.”
+          B: “the Lord saves.”
+          C: “God strengthens.”
+          D: “God is my judge.”
+        answer: C
+      - uid: BIB111.13.1.1.TY.3
+        subobj: 13.1.1
+        type: ty
+        question: The themes of Ezekiel are
+        choices:
+          A: the Suffering Servant and the Day of the Lord.
+          B: social injustice and encouragement of the captives.
+          C: God’s judgment for Babylon and grace for Judah.
+          D: God’s judgment on Judah and encouragement of the Jewish captives.
+        answer: D
+      - uid: BIB111.13.1.2.UPE.1
+        subobj: 13.1.2
+        type: upe
+        question: Ezekiel 40–48 describes
+        choices:
+          A: a new temple.
+          B: the temple’s destruction.
+          C: God’s judgment on Israel.
+          D: a vision of four beasts.
+        answer: A
+      - uid: BIB111.13.1.2.UPE.2
+        subobj: 13.1.2
+        type: upe
+        question: To illustrate God’s bearing the sin of Israel, God had Ezekiel
+        choices:
+          A: create a wall made of bricks.
+          B: lay on his side for 390 consecutive days.
+          C: cook bread over dung.
+          D: shave his head.
+        answer: B
+      - uid: BIB111.13.1.2.TY.1
+        subobj: 13.1.2
+        type: ty
+        question: God instructed whom to act out his messages more often than any
+          other prophet?
+        choices:
+          A: Ezekiel
+          B: Obadiah
+          C: Amos
+          D: Jeremiah
+        answer: A
+      - uid: BIB111.13.1.2.TY.2
+        subobj: 13.1.2
+        type: ty
+        question: The terms Gog and Magog refer to
+        choices:
+          A: Babylon.
+          B: Assyria.
+          C: Russia.
+          D: the ultimate foe of God’s people.
+        answer: D
+      - uid: BIB111.13.2.1.UPE.1
+        subobj: 13.2.1
+        type: upe
+        question: Daniel was deported to Babylon in
+        choices:
+          A: 612 BC.
+          B: 605 BC.
+          C: 597 BC.
+          D: 586 BC.
+        answer: B
+      - uid: BIB111.13.2.1.TY.1
+        subobj: 13.2.1
+        type: ty
+        question: The primary theme of Daniel is
+        choices:
+          A: the Day of the Lord.
+          B: the Suffering Servant.
+          C: divine sovereignty.
+          D: social injustice.
+        answer: C
+      - uid: BIB111.13.2.1.TY.2
+        subobj: 13.2.1
+        type: ty
+        question: Apocalyptic comes from a Greek word meaning
+        choices:
+          A: “bizarre or unrealistic.”
+          B: “to unveil or reveal.”
+          C: “supernatural intervention.”
+          D: “symbolic and figurative language.”
+        answer: B
+      - uid: BIB111.13.2.1.TY.3
+        subobj: 13.2.1
+        type: ty
+        question: Who took control of Babylon in 539 BC?
+        choices:
+          A: Cyrus
+          B: Xerxes
+          C: Nebuchadnezzar
+          D: Alexander the Great
+        answer: A
+      - uid: BIB111.13.2.2.UPE.1
+        subobj: 13.2.2
+        type: upe
+        question: In Daniel’s visions, Babylon is represented by the statue’s
+        choices:
+          A: chest of silver and the bear.
+          B: bronze belly and the leopard with four wings.
+          C: head of gold and the lion with wings.
+          D: iron/clay and the terrible beast.
+        answer: C
+      - uid: BIB111.13.2.2.UPE.2
+        subobj: 13.2.2
+        type: upe
+        question: In Daniel’s visions, Greece is represented by the statue’s
+        choices:
+          A: chest of silver and the bear.
+          B: bronze belly and the leopard with four wings.
+          C: head of gold and the lion with wings.
+          D: iron/clay and the terrible beast.
+        answer: B
+      - uid: BIB111.13.2.2.UPE.3
+        subobj: 13.2.2
+        type: upe
+        question: Concerning eschatology, the Assemblies of God holds to
+        choices:
+          A: a postmillennial view.
+          B: a midmillennial view.
+          C: an amillennial view.
+          D: a premillennial view.
+        answer: D
+      - uid: BIB111.13.2.2.TY.1
+        subobj: 13.2.2
+        type: ty
+        question: In Daniel’s visions, Media-Persia was represented by both the statue’s
+        choices:
+          A: head of gold and the lion with wings.
+          B: chest of silver and the bear.
+          C: bronze belly and the leopard with four wings.
+          D: iron/clay and the terrible beast.
+        answer: B
+      - uid: BIB111.13.2.2.TY.2
+        subobj: 13.2.2
+        type: ty
+        question: Daniel 9 describes Daniel’s vision of
+        choices:
+          A: the seventy “sevens.”
+          B: a ram, a goat, and a small horn.
+          C: a great war.
+          D: four beasts.
+        answer: A
+      - uid: BIB111.14.1.1.UPE.1
+        subobj: 14.1.1
+        type: upe
+        question: Haggai encouraged the people to rebuild
+        choices:
+          A: the walls of Jerusalem.
+          B: a trading center.
+          C: the temple.
+          D: their houses.
+        answer: C
+      - uid: BIB111.14.1.1.UPE.2
+        subobj: 14.1.1
+        type: upe
+        question: Haggai prophesied to encourage
+        choices:
+          A: Zerubbabel and Joshua.
+          B: Ezra and Nehemiah.
+          C: Zerubbabel and Ezra.
+          D: Nehemiah and Joshua.
+        answer: A
+      - uid: BIB111.14.1.1.TY.1
+        subobj: 14.1.1
+        type: ty
+        question: Who was governor of Judah during the time of Haggai?
+        choices:
+          A: Ezra
+          B: Zerubbabel
+          C: Nehemiah
+          D: Joshua
+        answer: B
+      - uid: BIB111.14.1.2.UPE.1
+        subobj: 14.1.2
+        type: upe
+        question: Haggai’s theme is conveyed through four messages, one of which is
+          that
+        choices:
+          A: Nineveh was judged for her cruelty.
+          B: the Day of the Lord will exalt the godly.
+          C: God is good even in the face of evil in the world.
+          D: Judah needed to wake up and repent.
+        answer: B
+      - uid: BIB111.14.1.2.TY.1
+        subobj: 14.1.2
+        type: ty
+        question: Haggai prophesied that the
+        choices:
+          A: rebuilt temple would be identical to the former temple.
+          B: rebuilt temple would be larger than the former temple.
+          C: glory of God would be the same in the rebuilt temple.
+          D: glory of God would be greater in the rebuilt temple.
+        answer: D
+      - uid: BIB111.14.1.2.TY.2
+        subobj: 14.1.2
+        type: ty
+        question: Haggai’s fourth message emphasized that
+        choices:
+          A: the people were to put God first.
+          B: sin is contagious but holiness is not.
+          C: the Day of the Lord will exalt the godly.
+          D: God’s presence is more important than beauty.
+        answer: C
+      - uid: BIB111.14.2.1.UPE.1
+        subobj: 14.2.1
+        type: upe
+        question: Zechariah was born in
+        choices:
+          A: Judah.
+          B: Israel.
+          C: Babylon.
+          D: Assyria.
+        answer: C
+      - uid: BIB111.14.2.1.TY.1
+        subobj: 14.2.1
+        type: ty
+        question: The Book of Zechariah is divided into how many major sections?
+        choices:
+          A: Two
+          B: Three
+          C: Four
+          D: Five
+        answer: A
+      - uid: BIB111.14.2.1.TY.2
+        subobj: 14.2.1
+        type: ty
+        question: In Zechariah, the truth that Israel’s sin and wickedness would be
+          sent away was illustrated by the
+        choices:
+          A: four chariots.
+          B: woman in a basket.
+          C: four horns and four craftsmen.
+          D: horseman among the myrtle trees.
+        answer: B
+      - uid: BIB111.14.2.2.UPE.1
+        subobj: 14.2.2
+        type: upe
+        question: Jesus’ ride into Jerusalem on a donkey was prophesied by
+        choices:
+          A: Isaiah.
+          B: Jeremiah.
+          C: Zechariah.
+          D: Micah.
+        answer: C
+      - uid: BIB111.14.2.2.TY.1
+        subobj: 14.2.2
+        type: ty
+        question: Zechariah’s messianic prophecy about thirty pieces of silver was
+          quoted in
+        choices:
+          A: Matthew.
+          B: Mark.
+          C: Luke.
+          D: John.
+        answer: A
+      - uid: BIB111.14.2.2.TY.2
+        subobj: 14.2.2
+        type: ty
+        question: Zechariah 9:9 prophesied that the Messiah
+        choices:
+          A: would be pierced.
+          B: was the Chief Shepherd.
+          C: would be sold for thirty pieces of silver.
+          D: would ride on a donkey as Israel’s king.
+        answer: D
+      - uid: BIB111.14.3.1.TY.1
+        subobj: 14.3.1
+        type: ty
+        question: Malachi means
+        choices:
+          A: “God is my judge.”
+          B: “the Lord is my refuge.”
+          C: “the Lord hides.”
+          D: “my messenger.”
+        answer: D
+      - uid: BIB111.14.3.2.TY.1
+        subobj: 14.3.2
+        type: ty
+        question: The purpose of the Book of Malachi is to
+        choices:
+          A: call God’s people back to covenant faithfulness.
+          B: encourage the people to rebuild the wall of Jerusalem.
+          C: proclaim judgment against Judah.
+          D: proclaim judgment against Babylon.
+        answer: A
+      - uid: BIB111.14.3.2.TY.2
+        subobj: 14.3.2
+        type: ty
+        question: In Malachi, God brought charges against His people for
+        choices:
+          A: oppressing the poor and committing social injustice.
+          B: displeasing Him and reaping the consequences.
+          C: engaging in unlawful divorce and failing to tithe.
+          D: questioning His power and authority.
+        answer: C
+      - uid: BIB111.14.intro.UPE.1
+        subobj: 14.intro
+        type: upe
+        question: The term God-breathed is referred to as
+        choices:
+          A: “anointing.”
+          B: “inspiration.”
+          C: “continuity.”
+          D: “discontinuity.”
+        answer: B
+      - uid: BIB111.15.1.1.UPE.1
+        subobj: 15.1.1
+        type: upe
+        question: The Old Testament people of God are known as
+        choices:
+          A: soteriological.
+          B: reactionary.
+          C: revelatory.
+          D: legalistic.
+        answer: C
+      - uid: BIB111.15.1.1.UPE.2
+        subobj: 15.1.1
+        type: upe
+        question: A difference between the Old and New Testaments involves God’s
+        choices:
+          A: sovereignty.
+          B: transcendence.
+          C: holiness.
+          D: provision of salvation.
+        answer: D
+      - uid: BIB111.15.1.1.TY.1
+        subobj: 15.1.1
+        type: ty
+        question: The differences between the Old and New Testaments are called their
+        choices:
+          A: alignment.
+          B: continuity.
+          C: discontinuity.
+          D: uniformity.
+        answer: C
+      - uid: BIB111.15.1.1.TY.2
+        subobj: 15.1.1
+        type: ty
+        question: The people of God in the New Testament are known as
+        choices:
+          A: soteriological.
+          B: revelatory.
+          C: anticipatory.
+          D: legalistic.
+        answer: A
+      - uid: BIB111.15.1.1.TY.3
+        subobj: 15.1.1
+        type: ty
+        question: A difference between the Old and New Testaments involves the
+        choices:
+          A: holiness of God.
+          B: sovereignty of God.
+          C: transcendence of God.
+          D: historical and political contexts.
+        answer: D
+      - uid: BIB111.15.1.1.TY.4
+        subobj: 15.1.1
+        type: ty
+        question: One difference between the testaments relates to
+        choices:
+          A: salvation history.
+          B: sacrificial requirements.
+          C: the Sabbath Day concept.
+          D: God’s promises and their fulfillment.
+        answer: B
+      - uid: BIB111.15.2.1.UPE.1
+        subobj: 15.2.1
+        type: upe
+        question: The similarities of the Old and New Testaments are referred to as
+        choices:
+          A: continuity.
+          B: alignment.
+          C: discontinuity.
+          D: uniformity.
+        answer: A
+      - uid: BIB111.15.2.1.TY.1
+        subobj: 15.2.1
+        type: ty
+        question: Scholars refer to the Scriptures’ unity in divine intent and purpose
+          as
+        choices:
+          A: continuity.
+          B: discontinuity.
+          C: alignment.
+          D: uniformity.
+        answer: A
+      - uid: BIB111.15.2.1.TY.2
+        subobj: 15.2.1
+        type: ty
+        question: Approximately what percent of the New Testament is composed of Old
+          Testament quotations and allusions?
+        choices:
+          A: 50 percent
+          B: 32 percent
+          C: 75 percent
+          D: 5 percent
+        answer: B
+      - uid: BIB111.15.2.1.TY.3
+        subobj: 15.2.1
+        type: ty
+        question: The Old and New Testaments should be read
+        choices:
+          A: independently because of their differences.
+          B: independently, focusing on the unified portions.
+          C: together, ignoring the differences between the two.
+          D: together, acknowledging their unity and diversity.
+        answer: D
+      - uid: BIB111.15.3.2.UPE.1
+        subobj: 15.3.2
+        type: upe
+        question: A passage of Scripture that was written with the intent to teach
+          is
+        choices:
+          A: prescriptive.
+          B: reflective.
+          C: descriptive.
+          D: interrogative.
+        answer: A
+      - uid: BIB111.15.3.2.TY.1
+        subobj: 15.3.2
+        type: ty
+        question: A passage of Scripture that relates historical details without intending
+          to teach behavior is
+        choices:
+          A: prescriptive.
+          B: reflective.
+          C: descriptive.
+          D: normative.
+        answer: C
+      - uid: BIB111.15.3.2.TY.2
+        subobj: 15.3.2
+        type: ty
+        question: A phrase’s surrounding words or verses is called its
+        choices:
+          A: context.
+          B: description.
+          C: prescription.
+          D: Old Testament law.
+        answer: A
+      - uid: BIB111.15.3.2.TY.3
+        subobj: 15.3.2
+        type: ty
+        question: Using solid principles of interpretation, believers should see the
+          entire Old Testament as
+        choices:
+          A: normative.
+          B: prescriptive.
+          C: descriptive.
+          D: both prescriptive and descriptive.
+        answer: D
     chapters:
     - last_modified: '2026-05-28'
       title: 1 - Treasures from the Old Testament

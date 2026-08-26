@@ -3064,6 +3064,2572 @@ courses:
           C: are the fuel that empowers us to fulfill the mission.
           D: cannot be changed.
         answer: A
+    - pn: 02.26.02
+      course_code: MIN171
+      source_html: BMIN171ENE02-90_02.26.02.html
+      template: old
+      recorded: '2026-08-26'
+      counts:
+        ty: 170
+        upe: 75
+        final: 0
+      questions:
+      - uid: MIN171.1.1.1.UPE.1
+        subobj: 1.1.1
+        type: upe
+        question: A process for building a healthy church should focus on
+        choices:
+          A: leadership and management skills.
+          B: a pastor’s experience and vision.
+          C: the spiritual gifts.
+          D: the five functions described in Acts 2.
+        answer: D
+      - uid: MIN171.1.1.1.UPE.2
+        subobj: 1.1.1
+        type: upe
+        question: A complete Acts 2 church has an experience, a message,
+        choices:
+          A: a process, and a plan.
+          B: and a delivery system.
+          C: a building, and ministry coordinators.
+          D: and community support.
+        answer: A
+      - uid: MIN171.1.1.2.TY.1
+        subobj: 1.1.2
+        type: ty
+        question: Pastors today find the early Church appealing because of its
+        choices:
+          A: proven leaders.
+          B: incredible creativity.
+          C: impact on its world.
+          D: lack of hardships.
+        answer: C
+      - uid: MIN171.1.1.2.TY.2
+        subobj: 1.1.2
+        type: ty
+        question: A healthy church is most clearly demonstrated in its commitment
+          to
+        choices:
+          A: a pastor’s experience and vision.
+          B: spiritual gifts.
+          C: the cooperation of the pastor and board of the church.
+          D: the five functions described in Acts 2 message.
+        answer: D
+      - uid: MIN171.1.1.2.TY.3
+        subobj: 1.1.2
+        type: ty
+        question: A complete Acts 2 church has an experience, a message,
+        choices:
+          A: a process, and a plan.
+          B: and a delivery system.
+          C: a building, and ministry coordinators.
+          D: and community support.
+        answer: A
+      - uid: MIN171.1.2.1.UPE.1
+        subobj: 1.2.1
+        type: upe
+        question: What process focuses on helping God’s people utilize their gifts
+          and abilities in ministry?
+        choices:
+          A: Grow
+          B: Worship
+          C: Connect
+          D: Serve
+        answer: D
+      - uid: MIN171.1.2.1.UPE.2
+        subobj: 1.2.1
+        type: upe
+        question: Moving people from being spectators to being active in the ministry
+          of the local church is based on the Acts 2 process called
+        choices:
+          A: praxis .
+          B: worship .
+          C: connect .
+          D: serve .
+        answer: D
+      - uid: MIN171.1.2.1.TY.1
+        subobj: 1.2.1
+        type: ty
+        question: With Christ’s sacrifice and the torn curtain in the Holy Place,
+          the dwelling place of the Holy Spirit shifted from
+        choices:
+          A: Jerusalem to Antioch.
+          B: the temple to the followers of Jesus.
+          C: individual believers to the corporate body.
+          D: Jerusalem to the risen Christ.
+        answer: B
+      - uid: MIN171.1.2.1.TY.2
+        subobj: 1.2.1
+        type: ty
+        question: Connect focuses on
+        choices:
+          A: the vertical and horizontal relationships in life.
+          B: behaviors that promote discipleship.
+          C: Spirit-led service.
+          D: the human dimension of church life.
+        answer: A
+      - uid: MIN171.1.2.1.TY.3
+        subobj: 1.2.1
+        type: ty
+        question: The two functions that Jesus specifically mentioned in the Great
+          Commission are
+        choices:
+          A: Connect and Worship.
+          B: Go and Grow.
+          C: Serve and Worship.
+          D: Go and Connect.
+        answer: B
+      - uid: MIN171.1.2.1.TY.4
+        subobj: 1.2.1
+        type: ty
+        question: The function known as serve is based on
+        choices:
+          A: new believers serving older believers and leaders to gain experience.
+          B: the priesthood of all believers using their gifts in ministry.
+          C: moving from a temple model to a church model.
+          D: global and local missions.
+        answer: B
+      - uid: MIN171.1.2.2.UPE.1
+        subobj: 1.2.2
+        type: upe
+        question: Strategic planning and the power of the Holy Spirit are
+        choices:
+          A: opposite by nature.
+          B: used in completely different realms.
+          C: both necessary for a healthy church.
+          D: based on essentially the same characteristics.
+        answer: C
+      - uid: MIN171.1.2.2.UPE.2
+        subobj: 1.2.2
+        type: upe
+        question: More than anything else, the Acts 2 process and strategy rests upon
+        choices:
+          A: wisdom and patience in executing the plan.
+          B: unity among the leaders of the church.
+          C: empowerment by the Spirit to be successful.
+          D: adapting the Acts 2 process to contemporary culture.
+        answer: C
+      - uid: MIN171.1.2.2.TY.1
+        subobj: 1.2.2
+        type: ty
+        question: The Acts 2 process is transferable, replicable, and
+        choices:
+          A: eternal.
+          B: provisional.
+          C: biblical.
+          D: indescribable.
+        answer: C
+      - uid: MIN171.1.2.2.TY.2
+        subobj: 1.2.2
+        type: ty
+        question: Strategic planning and the power of the Holy Spirit are
+        choices:
+          A: opposite by nature.
+          B: used in completely different realms.
+          C: both necessary for a healthy church.
+          D: based on essentially the same characteristics.
+        answer: C
+      - uid: MIN171.1.2.2.TY.3
+        subobj: 1.2.2
+        type: ty
+        question: The empowerment of the Holy Spirit
+        choices:
+          A: is required for all aspects of the Acts 2 process.
+          B: relates more to evangelism than discipleship.
+          C: relates more to connect than to serve.
+          D: was given to the Church once and for all on the Day of Pentecost.
+        answer: A
+      - uid: MIN171.2.1.1.UPE.1
+        subobj: 2.1.1
+        type: upe
+        question: A key paradigm shift that leaders need to accept to foster change
+          is
+        choices:
+          A: the priesthood of all believers.
+          B: leading through integrity.
+          C: utilizing the gifts of the Spirit more consistently.
+          D: empathy with those who are suffering.
+        answer: A
+      - uid: MIN171.2.1.1.UPE.2
+        subobj: 2.1.1
+        type: upe
+        question: The key quality the author identifies for embracing change is
+        choices:
+          A: patience.
+          B: courage.
+          C: wisdom.
+          D: hope.
+        answer: B
+      - uid: MIN171.2.1.1.TY.1
+        subobj: 2.1.1
+        type: ty
+        question: For a church to effectively engage change, who must be willing to
+          change first?
+        choices:
+          A: the older adults
+          B: the pastor and leadership team
+          C: those people who have been a problem
+          D: those who claim to be Christians
+        answer: B
+      - uid: MIN171.2.1.1.TY.2
+        subobj: 2.1.1
+        type: ty
+        question: In a healthy church,
+        choices:
+          A: people serve the needs of the pastor.
+          B: pastor’s minister to the needs of the people.
+          C: pastors equip people to do the work of ministry.
+          D: only the most mature and experienced people serve in ministry.
+        answer: C
+      - uid: MIN171.2.1.1.TY.3
+        subobj: 2.1.1
+        type: ty
+        question: A key paradigm shift that leaders need to accept in order to bring
+          about change is
+        choices:
+          A: the priesthood of all believers.
+          B: leading through integrity.
+          C: utilizing the gifts of the Spirit more consistently.
+          D: empathy with those who are suffering.
+        answer: A
+      - uid: MIN171.2.2.1.UPE.1
+        subobj: 2.2.1
+        type: upe
+        question: The burning platform is
+        choices:
+          A: intense conflict between the pastor and board.
+          B: the passion inspired by the Spirit.
+          C: the pressing need for radical change.
+          D: the call to overseas missions.
+        answer: C
+      - uid: MIN171.2.2.1.UPE.2
+        subobj: 2.2.1
+        type: upe
+        question: Marketplace evangelism is best facilitated by
+        choices:
+          A: structured outreaches into the city.
+          B: literature distribution.
+          C: building relationships and sharing Jesus with neighbors, coworkers, and
+            friends.
+          D: media saturation and internet connections.
+        answer: C
+      - uid: MIN171.2.2.1.UPE.3
+        subobj: 2.2.1
+        type: upe
+        question: A key component for change is
+        choices:
+          A: that God has a plan for every church.
+          B: fresh interpretations of God’s Word.
+          C: an inward focus in Christ’s church.
+          D: leading from behind.
+        answer: A
+      - uid: MIN171.2.2.1.TY.1
+        subobj: 2.2.1
+        type: ty
+        question: Which of the following is NOT a component of a healthy church?
+        choices:
+          A: Engage and maintain relationships
+          B: Develop and mobilize its people
+          C: Pursue and obey God passionately
+          D: Act with clear direction and inward focus.
+        answer: D
+      - uid: MIN171.2.2.1.TY.2
+        subobj: 2.2.1
+        type: ty
+        question: The “burning platform” is
+        choices:
+          A: intense conflict between the pastor and board.
+          B: the passion inspired by the Holy Spirit.
+          C: a pressing need for radical change.
+          D: the call to overseas missions.
+        answer: C
+      - uid: MIN171.2.2.1.TY.3
+        subobj: 2.2.1
+        type: ty
+        question: Marketplace evangelism
+        choices:
+          A: is that which occurs through the daily lives of the people in the congregation.
+          B: is most effective in the neighborhoods nearest the church property.
+          C: will typically reach fewer people than evangelism events that occur on
+            church property.
+          D: is most effective among people that are unknown to the congregation.
+        answer: A
+      - uid: MIN171.2.2.1.TY.4
+        subobj: 2.2.1
+        type: ty
+        question: Every believer should be actively engaged in the work of ministry
+          because
+        choices:
+          A: very few pastors can actually do it all.
+          B: each has been given gifts and abilities to be used to help fulfil Christ’s
+            mission.
+          C: pastors do not understand real people like we do.
+          D: pastors are too important to do the easier things in ministry.
+        answer: B
+      - uid: MIN171.2.2.1.TY.5
+        subobj: 2.2.1
+        type: ty
+        question: The concept of planning in the church
+        choices:
+          A: contradicts the spontaneity of the Spirit.
+          B: is the central engine for change.
+          C: can work together with the leading of the Spirit.
+          D: leads inevitably to unhealthy traditions.
+        answer: C
+      - uid: MIN171.2.2.1.TY.6
+        subobj: 2.2.1
+        type: ty
+        question: When we say that “God has a plan for every church,” we mean
+        choices:
+          A: every church should use the ministry programs and tools provided by their
+            denomination.
+          B: when one ministry tools works well in a church, every church should do
+            it too.
+          C: only certain churches are intended to reach people with the Gospel.
+          D: God has given each church unique gifts, abilities, experiences, and opportunities
+            and wants to use what he has given us to fulfill His mission.
+        answer: D
+      - uid: MIN171.2.2.1.TY.7
+        subobj: 2.2.1
+        type: ty
+        question: When Jesus said the disciples (and us) would do “greater things”
+          than the works He was doing, He likely meant
+        choices:
+          A: that miracles among the Gentiles would be greater because they had more
+            faith than the Jews.
+          B: that God was planning to do even greater miracles than Jesus was doing.
+          C: that miracles would seem even greater when they were doing them.
+          D: such miracles would be greater in number because they (and we) would
+            be in more places and encounter more people.
+        answer: D
+      - uid: MIN171.3.1.1.UPE.1
+        subobj: 3.1.1
+        type: upe
+        question: A needed paradigm shift for many pastors is to
+        choices:
+          A: focus more on equipping people for ministry.
+          B: focus more on raising up helpers to assist them in their work.
+          C: lead people away from the sense of ownership.
+          D: teach people what they can receive.
+        answer: A
+      - uid: MIN171.3.1.1.UPE.2
+        subobj: 3.1.1
+        type: upe
+        question: The priesthood of all believers means that
+        choices:
+          A: no one should have a sense of ownership regarding the church.
+          B: the people are to help the pastor in every way possible.
+          C: the pastor exists to help people fulfill their callings.
+          D: everyone has equal authority in the church.
+        answer: C
+      - uid: MIN171.3.1.1.UPE.3
+        subobj: 3.1.1
+        type: upe
+        question: When ordinary churchgoers believe that they do n o t come to church
+          to receive ministry but to minister,
+        choices:
+          A: they tend to be in competition with the pastor.
+          B: they are following the prophetic paradigm.
+          C: the church becomes healthier and more alive.
+          D: fewer paid staff will be needed.
+        answer: C
+      - uid: MIN171.3.1.1.TY.1
+        subobj: 3.1.1
+        type: ty
+        question: When ordinary churchgoers realize that they do not come to church
+          to receive ministry but also to minister,
+        choices:
+          A: they tend to be in competition with the pastor.
+          B: they are following a secular paradigm.
+          C: the church becomes healthier.
+          D: the paid staff will feel like they are no longer needed.
+        answer: C
+      - uid: MIN171.3.1.1.TY.2
+        subobj: 3.1.1
+        type: ty
+        question: A paradigm that is needed to bring more health to the church is
+          the paradigm of
+        choices:
+          A: cyclical giving.
+          B: the less becoming greater.
+          C: the expanding open door.
+          D: the priesthood of all believers.
+        answer: D
+      - uid: MIN171.3.1.1.TY.3
+        subobj: 3.1.1
+        type: ty
+        question: A needed paradigm shift for many pastors is to
+        choices:
+          A: focus more on equipping people for ministry.
+          B: focus more on raising up helpers to assist them in their work.
+          C: lead people away from the sense of ownership.
+          D: teach people what they can receive.
+        answer: A
+      - uid: MIN171.3.2.1.UPE.1
+        subobj: 3.2.1
+        type: upe
+        question: When people are committed to ministry and using their gifts, they
+        choices:
+          A: can be taught to minister from the overflow of the Spirit.
+          B: will need little ongoing attention from the pastor.
+          C: can serve as sounding boards in the community.
+          D: will need less accountability in regard to character issues.
+        answer: A
+      - uid: MIN171.3.2.1.UPE.2
+        subobj: 3.2.1
+        type: upe
+        question: A ministry agreement sunset is
+        choices:
+          A: not a helpful idea.
+          B: a time frame for service and reevaluation.
+          C: the time when a pastor resigns and ministries are reevaluated.
+          D: the time when a person becomes too tired to continue in a ministry.
+        answer: B
+      - uid: MIN171.3.2.1.TY.1
+        subobj: 3.2.1
+        type: ty
+        question: How should a pastor respond to those who insist on remaining consumers
+          for the long-term?
+        choices:
+          A: Cater to their expectations so they will not leave the church
+          B: Drive them out of the church
+          C: Make the worship service as engaging as possible.
+          D: Continue to focus on equipping people for the work of ministry, in spite
+            of such resistance.
+        answer: D
+      - uid: MIN171.3.2.1.TY.2
+        subobj: 3.2.1
+        type: ty
+        question: A consumer mentality will result in
+        choices:
+          A: less willingness to attend church.
+          B: people who are primarily about themselves.
+          C: people who are willing to invest in the church.
+          D: processes that flow to the greatest areas of need.
+        answer: B
+      - uid: MIN171.3.2.1.TY.3
+        subobj: 3.2.1
+        type: ty
+        question: One tool that will help build a culture of accountability is
+        choices:
+          A: the online church ministry platform.
+          B: giving board members responsibility to oversee various ministries.
+          C: creating ministry agreements for those involved in various ministries.
+          D: walking through the Acts 2 process with individuals.
+        answer: C
+      - uid: MIN171.3.2.1.TY.4
+        subobj: 3.2.1
+        type: ty
+        question: When pastor does all or most of the ministry
+        choices:
+          A: the church sees its impact increase exponentially.
+          B: people feel more purposeful in their relationship with Christ.
+          C: things usually run better because pastor is usually better than the people
+            at ministry work.
+          D: the purposes of God are thwarted.
+        answer: D
+      - uid: MIN171.3.2.1.TY.5
+        subobj: 3.2.1
+        type: ty
+        question: Which of the following is NOT a result of a shift to a “priesthood
+          of all believers” paradigm?
+        choices:
+          A: The pastor’s assignment becomes more manageable.
+          B: The church’s ministry efforts become less effective.
+          C: People will experience greater growth as disciples of Jesus.
+          D: The local church’s impact on its community increases.
+        answer: B
+      - uid: MIN171.3.2.1.TY.6
+        subobj: 3.2.1
+        type: ty
+        question: According to the textbook, the best approach to holding people accountable
+          is
+        choices:
+          A: by establishing firm rules with definite consequences.
+          B: keeping the rules to an absolute minimum.
+          C: to provide clear direction, and gentle correction when necessary.
+          D: to manage expectations in such a way that accountability is natural.
+        answer: C
+      - uid: MIN171.3.2.1.TY.7
+        subobj: 3.2.1
+        type: ty
+        question: Which of the following statements is NOT true?
+        choices:
+          A: We all initially come to Jesus and His Church as consumers with needs
+            to be met.
+          B: Pastors can often find great satisfaction in meeting the needs of people
+            or doing the work of ministry themselves.
+          C: People in the congregation are less likely than their pastor to be led
+            by the Holy Spirit.
+          D: Many churchgoers see their pastor as one who has been hired to do the
+            work of ministry in their local church.
+        answer: C
+      - uid: MIN171.4.1.1.UPE.1
+        subobj: 4.1.1
+        type: upe
+        question: According to the author, faith is related to miracles, while hope
+          is related to
+        choices:
+          A: supernatural knowledge.
+          B: wisdom.
+          C: spirituality.
+          D: morale.
+        answer: D
+      - uid: MIN171.4.1.1.UPE.2
+        subobj: 4.1.1
+        type: upe
+        question: Hope is significantly impacted by
+        choices:
+          A: empathy.
+          B: emotions.
+          C: exercise.
+          D: accountability.
+        answer: B
+      - uid: MIN171.4.1.1.UPE.3
+        subobj: 4.1.1
+        type: upe
+        question: The number of people who are worshipping in Assemblies of God churches
+          that are plateaued or declining is roughly
+        choices:
+          A: 50,000.
+          B: 300,000.
+          C: 500,000.
+          D: 1,000,000.
+        answer: D
+      - uid: MIN171.4.1.1.TY.1
+        subobj: 4.1.1
+        type: ty
+        question: Even though his congregation seemed full of young energetic people,
+          the biggest challenge that Pastor Glenn Epps faced in his church was
+        choices:
+          A: lifting morale.
+          B: handling issues with the church board.
+          C: finding people to fill ministry positions.
+          D: addressing false teaching that was prevalent.
+        answer: A
+      - uid: MIN171.4.1.1.TY.2
+        subobj: 4.1.1
+        type: ty
+        question: According to the author, faith is related to miracles, while hope
+          is related to
+        choices:
+          A: wisdom.
+          B: supernatural knowledge.
+          C: peace.
+          D: morale.
+        answer: D
+      - uid: MIN171.4.1.1.TY.3
+        subobj: 4.1.1
+        type: ty
+        question: Hope is significantly impacted by
+        choices:
+          A: empathy.
+          B: emotions.
+          C: exercise.
+          D: an educational process.
+        answer: B
+      - uid: MIN171.4.1.1.TY.4
+        subobj: 4.1.1
+        type: ty
+        question: Which of the following is NOT a potential cause of low morale in
+          a congregation?
+        choices:
+          A: Tragedy and loss
+          B: Population decline in the community
+          C: Character established on God’s Word
+          D: A moral failure in leadership
+        answer: C
+      - uid: MIN171.4.1.1.TY.5
+        subobj: 4.1.1
+        type: ty
+        question: Romans 5:3-5 tells us that
+        choices:
+          A: tribulations lead to failure.
+          B: we will have no real hope until we get to heaven.
+          C: character builds perseverance.
+          D: hope grows from character.
+        answer: D
+      - uid: MIN171.4.1.1.TY.6
+        subobj: 4.1.1
+        type: ty
+        question: The author stated that roughly a million people are worshipping
+          in Assemblies of God churches
+        choices:
+          A: that still sing hymns.
+          B: that are plateaued or declining.
+          C: that have existed for five decades or more.
+          D: that have low morale.
+        answer: B
+      - uid: MIN171.4.2.1.UPE.1
+        subobj: 4.2.1
+        type: upe
+        question: The Acts 2 process
+        choices:
+          A: relates primarily to the early church.
+          B: is replicable by churches today.
+          C: requires only the power of the Holy Spirit.
+          D: is not relevant in some cultures today.
+        answer: B
+      - uid: MIN171.4.2.1.TY.1
+        subobj: 4.2.1
+        type: ty
+        question: We can be confident that in God’s wisdom and plan, a local church’s
+        choices:
+          A: mission will match its mission field.
+          B: size should match its sphere of influence.
+          C: budget should match its future vision.
+          D: advertising should match its current activities.
+        answer: A
+      - uid: MIN171.4.2.1.TY.2
+        subobj: 4.2.1
+        type: ty
+        question: Which statement is true?
+        choices:
+          A: Larger churches are thriving churches.
+          B: Every church has reason for hope.
+          C: Church size is a good indication of hope.
+          D: Low morale is seldom overcome in declining churches.
+        answer: B
+      - uid: MIN171.4.2.1.TY.3
+        subobj: 4.2.1
+        type: ty
+        question: In relation to the church in the book of Acts, the church today
+          can be confident because we
+        choices:
+          A: have more resources for outreach.
+          B: have access to many more avenues of communication.
+          C: our foundation is built on the same hope and pursue the same mission
+            as the first-century church.
+          D: have hindsight and can learn from the mistakes of the past.
+        answer: C
+      - uid: MIN171.4.2.1.TY.4
+        subobj: 4.2.1
+        type: ty
+        question: Low morale in the local church
+        choices:
+          A: will eventually turn around on its own.
+          B: will be less of a factor in younger congregations.
+          C: can be resolved with greater relevance in our methods.
+          D: is often the product of fear or disappointment.
+        answer: D
+      - uid: MIN171.5.1.1.UPE.1
+        subobj: 5.1.1
+        type: upe
+        question: An intimate relationship between the believer and the Lord is
+        choices:
+          A: a direct result of acts of service and devotion.
+          B: fostered by the Holy Spirit and leads to transformation.
+          C: a combination of beliefs and behaviors.
+          D: not a primary focus of the Acts 2 Journey.
+        answer: B
+      - uid: MIN171.5.1.1.TY.1
+        subobj: 5.1.1
+        type: ty
+        question: Which of the following is NOT one of the ways that the Holy Spirit
+          impacts the life of a believer?
+        choices:
+          A: the Holy Spirit will help us do more than we can.
+          B: the Holy Spirit will help us not need others in the body of Christ.
+          C: the Holy Spirit will help us say more than we can know.
+          D: the Holy Spirit will help us to be more than we are.
+        answer: B
+      - uid: MIN171.5.1.1.TY.2
+        subobj: 5.1.1
+        type: ty
+        question: In Acts 1, we see the disciples’
+        choices:
+          A: priority of prayer.
+          B: failed attempts at evangelism.
+          C: strategic plan for future ministry.
+          D: return to their old lives now that Jesus had ascended.
+        answer: A
+      - uid: MIN171.5.1.1.TY.3
+        subobj: 5.1.1
+        type: ty
+        question: Which of the following was a consequence of the actions of the early
+          church?
+        choices:
+          A: They shared resources liberally.
+          B: They were led effectively.
+          C: They fellowshipped together regularly.
+          D: They grew exponentially.
+        answer: D
+      - uid: MIN171.5.2.1.UPE.1
+        subobj: 5.2.1
+        type: upe
+        question: Transformation as a work of the Spirit
+        choices:
+          A: is both personal and corporate.
+          B: will only occur when systems and structures are changed.
+          C: focuses completely on the individual.
+          D: is occurring less and less frequently today.
+        answer: A
+      - uid: MIN171.5.2.1.TY.1
+        subobj: 5.2.1
+        type: ty
+        question: Every spiritual discipline, every behavioral truth, every spiritual
+          activity rings hollow
+        choices:
+          A: without a friend to share them with.
+          B: unless church growth results.
+          C: without a growing relationship with Christ.
+          D: unless they lead to achieving greater respect in the community.
+        answer: C
+      - uid: MIN171.5.2.1.TY.2
+        subobj: 5.2.1
+        type: ty
+        question: An intimate relationship between the believer and the Lord is
+        choices:
+          A: a direct result of acts of service and devotion.
+          B: fostered by the Holy Spirit and leads to transformation.
+          C: a combination of beliefs and behaviors.
+          D: not a primary focus of the Acts 2 Journey.
+        answer: B
+      - uid: MIN171.5.2.1.TY.3
+        subobj: 5.2.1
+        type: ty
+        question: At the center of the Acts 2 Journey is the belief that
+        choices:
+          A: missions is the key to future evangelism.
+          B: congregational-level transformation is still possible.
+          C: changing beliefs and goals leads to radical transformation.
+          D: knowledge, behavior, and relationships can grow.
+        answer: B
+      - uid: MIN171.5.2.1.TY.4
+        subobj: 5.2.1
+        type: ty
+        question: People who long for their local church to be transformed must understand
+          that
+        choices:
+          A: nothing will really change until there is a new pastor.
+          B: the church should never change because God never changes.
+          C: it may be that transformation really is not possible.
+          D: transformation begins in the hearts of the people.
+        answer: D
+      - uid: MIN171.5.2.2.UPE.1
+        subobj: 5.2.2
+        type: upe
+        question: Engaging and maintaining loving relationships describes the function
+          known as
+        choices:
+          A: Serve .
+          B: Grow .
+          C: Connect .
+          D: Go .
+        answer: C
+      - uid: MIN171.5.2.2.TY.1
+        subobj: 5.2.2
+        type: ty
+        question: Acting with clear direction and outward focus describes the function
+          known as
+        choices:
+          A: serve.
+          B: grow.
+          C: connect.
+          D: go.
+        answer: A
+      - uid: MIN171.5.3.1.UPE.1
+        subobj: 5.3.1
+        type: upe
+        question: Chapter 2 of Acts provides us with a
+        choices:
+          A: strategy rather than a process.
+          B: corporate method and an individual strategy.
+          C: message of empowerment rather than a blueprint.
+          D: message of empowerment and a blueprint.
+        answer: D
+      - uid: MIN171.5.3.1.UPE.2
+        subobj: 5.3.1
+        type: upe
+        question: Human limitations and inability
+        choices:
+          A: are not factors in the Acts 2 process.
+          B: are supplanted by the Acts 2 process.
+          C: can lead us to connection with the Spirit and greater empowerment.
+          D: will typically frustrate the Acts 2 process.
+        answer: C
+      - uid: MIN171.5.3.1.TY.1
+        subobj: 5.3.1
+        type: ty
+        question: The Holy Spirit in the life of the believer means that
+        choices:
+          A: every day and every encounter has incredible potential for fulfilling
+            Christ’s mission.
+          B: people can now rise to become helpers to their pastor’s ministry efforts.
+          C: pastors and other ministry leaders are no longer necessary.
+          D: believers no longer need one another and should pursue God’s purpose
+            on their own.
+        answer: A
+      - uid: MIN171.5.3.1.TY.2
+        subobj: 5.3.1
+        type: ty
+        question: Realizing one’s limitations and inabilities
+        choices:
+          A: means that competing with others is not an option.
+          B: is the opposite of living by faith.
+          C: can lead to deeper dependence on God.
+          D: usually leads to an ongoing crisis mode.
+        answer: C
+      - uid: MIN171.6.1.1.UPE.1
+        subobj: 6.1.1
+        type: upe
+        question: The process of effective discipleship
+        choices:
+          A: is unrelated to sound doctrine.
+          B: requires biblical knowledge.
+          C: is primarily based on knowledge gained from mentors.
+          D: is unrelated to Spirit empowerment.
+        answer: B
+      - uid: MIN171.6.1.1.TY.1
+        subobj: 6.1.1
+        type: ty
+        question: The process of effective discipleship
+        choices:
+          A: is unrelated to sound doctrine.
+          B: demands biblical teaching.
+          C: is primarily based on knowledge gained from mentors.
+          D: is unrelated to Spirit-empowerment.
+        answer: B
+      - uid: MIN171.6.1.2.UPE.1
+        subobj: 6.1.2
+        type: upe
+        question: According to the author, many people today have traded the Pentecostal
+          experience for
+        choices:
+          A: materialism.
+          B: knowledge.
+          C: human intuition.
+          D: respectability.
+        answer: D
+      - uid: MIN171.6.1.2.TY.1
+        subobj: 6.1.2
+        type: ty
+        question: Facing an impossible situation
+        choices:
+          A: means that it cannot be God’s will.
+          B: will occasionally be encountered in the Spirit-filled life.
+          C: tests our abilities and strengths.
+          D: is an opportunity to demonstrate our dependence on the Holy Spirit.
+        answer: D
+      - uid: MIN171.6.1.2.TY.2
+        subobj: 6.1.2
+        type: ty
+        question: According to the author, many people today have traded the Pentecostal
+          experience for
+        choices:
+          A: materialism.
+          B: knowledge.
+          C: human intuition.
+          D: respectability.
+        answer: D
+      - uid: MIN171.6.1.2.TY.3
+        subobj: 6.1.2
+        type: ty
+        question: Under the New Covenant, the anointing is available
+        choices:
+          A: continually and in advance of the need.
+          B: only after united intercession.
+          C: as a temporary empowerment for specific situations.
+          D: only to those who are fully sanctified.
+        answer: A
+      - uid: MIN171.6.2.1.UPE.1
+        subobj: 6.2.1
+        type: upe
+        question: In the pattern of spiritual growth, the fourth category described
+          by the author is
+        choices:
+          A: reproducers.
+          B: mentors.
+          C: disciples.
+          D: servant-leaders.
+        answer: D
+      - uid: MIN171.6.2.1.UPE.2
+        subobj: 6.2.1
+        type: upe
+        question: The better questions we should often be asking are about
+        choices:
+          A: the relationship between the structure and the strategy of the church.
+          B: how we can improve our ministry structures.
+          C: the people outside the church.
+          D: how we can simplify our structures.
+        answer: C
+      - uid: MIN171.6.2.1.TY.1
+        subobj: 6.2.1
+        type: ty
+        question: People who have received Christ as Lord (belief system) but have
+          not become learners who obey God’s Word (behavior) are called
+        choices:
+          A: the crowd.
+          B: converts.
+          C: believers.
+          D: unbelievers.
+        answer: C
+      - uid: MIN171.6.2.1.TY.2
+        subobj: 6.2.1
+        type: ty
+        question: People who adhere to the teachings and practices of growing in Christ
+          and demonstrating a lifestyle corresponding to God’s Word are called
+        choices:
+          A: reproducers.
+          B: mentors.
+          C: disciples.
+          D: servant-leaders.
+        answer: C
+      - uid: MIN171.6.2.1.TY.3
+        subobj: 6.2.1
+        type: ty
+        question: People who mentor others through relationship to the point where
+          they become servant-leaders are called
+        choices:
+          A: mentors.
+          B: reproducers.
+          C: disciples.
+          D: servant-leaders.
+        answer: B
+      - uid: MIN171.6.2.1.TY.4
+        subobj: 6.2.1
+        type: ty
+        question: Full commitment of one’s life to Christ and His mission is
+        choices:
+          A: the call for every follower of Christ.
+          B: virtually non-existent among younger adults today.
+          C: mainly for pastors and ministry leaders.
+          D: the key to achieving success in this world.
+        answer: A
+      - uid: MIN171.6.2.1.TY.5
+        subobj: 6.2.1
+        type: ty
+        question: The author insists that today’s fascination with the paranormal,
+          superhuman, and mystical demonstrates that
+        choices:
+          A: people are immature and stuck in childish patterns.
+          B: people refuse to deal with real-life problems.
+          C: humanity is becoming less stable and more erratic.
+          D: people are hungry for something or someone greater than themselves.
+        answer: D
+      - uid: MIN171.6.3.1.UPE.1
+        subobj: 6.3.1
+        type: upe
+        question: Spirit-inspired passion
+        choices:
+          A: is based on emotionally connected messages.
+          B: will make us willing to both live and die for Christ.
+          C: is infrequent and should not be relied on.
+          D: is missing from this generation.
+        answer: B
+      - uid: MIN171.6.3.1.TY.1
+        subobj: 6.3.1
+        type: ty
+        question: Spirit-inspired passion
+        choices:
+          A: is infrequent and should not be relied on.
+          B: will make us willing to both live and die for Christ.
+          C: is based on emotionally connected messages.
+          D: is missing from this generation.
+        answer: B
+      - uid: MIN171.7.1.1.UPE.1
+        subobj: 7.1.1
+        type: upe
+        question: Assessment questions are designed to
+        choices:
+          A: reveal what needs to change.
+          B: shed light on the motives of people’s hearts.
+          C: sort out why bad things are happening in the church.
+          D: assess the daily lives of the people in the church.
+        answer: A
+      - uid: MIN171.7.1.1.UPE.2
+        subobj: 7.1.1
+        type: upe
+        question: Strategic plans must begin with
+        choices:
+          A: future vision.
+          B: transforming your current church structures.
+          C: changing the direction of the mission.
+          D: an honest assessment of current strengths and weaknesses.
+        answer: D
+      - uid: MIN171.7.1.1.TY.1
+        subobj: 7.1.1
+        type: ty
+        question: To change our results, with God’s guidance we must change our direction,
+          our activities, and our
+        choices:
+          A: church values.
+          B: relationships.
+          C: principles.
+          D: foundations.
+        answer: B
+      - uid: MIN171.7.1.1.TY.2
+        subobj: 7.1.1
+        type: ty
+        question: According to the textbook, the road to a healthy church begins by
+        choices:
+          A: asking the right questions of ourselves and assessing our current reality.
+          B: submitting to the discernment of those outside the church.
+          C: internalizing a healthy vision for the church.
+          D: walking in divine health as individuals.
+        answer: A
+      - uid: MIN171.7.1.1.TY.3
+        subobj: 7.1.1
+        type: ty
+        question: Assessment questions are designed to
+        choices:
+          A: sort out why bad things are happening in the church.
+          B: shed light on the motives of people’s hearts.
+          C: accurately identify and understand current reality.
+          D: assess the daily lives of the people in the church.
+        answer: C
+      - uid: MIN171.7.1.1.TY.4
+        subobj: 7.1.1
+        type: ty
+        question: Leaders’ responses to the questions on the Congregational Assessment
+        choices:
+          A: should state where the church is going, rather than where it is currently.
+          B: will reveal which of the five functions are doing well and which ones
+            are in most need of improvement.
+          C: should not affect the main goals of the church.
+          D: will always lead to change.
+        answer: B
+      - uid: MIN171.7.1.1.TY.5
+        subobj: 7.1.1
+        type: ty
+        question: Answers to the assessment questions
+        choices:
+          A: should generally be the same.
+          B: may highlight different vantage points from which people engage the church’s
+            ministries.
+          C: should focus primarily on the people in the church.
+          D: should be given by the pastors.
+        answer: B
+      - uid: MIN171.7.2.1.UPE.1
+        subobj: 7.2.1
+        type: upe
+        question: It is not healthy to focus your assessment questions
+        choices:
+          A: on issues that need to be addressed by the leadership.
+          B: on substantive weaknesses in the past or present.
+          C: only on the people already at the church.
+          D: on areas of weakness that may be painful to address.
+        answer: C
+      - uid: MIN171.7.2.1.UPE.2
+        subobj: 7.2.1
+        type: upe
+        question: To make an honest assessment it is necessary to
+        choices:
+          A: survey people in the community for their input.
+          B: ask the right questions.
+          C: provide biblical questions.
+          D: seek for words of knowledge.
+        answer: B
+      - uid: MIN171.7.2.1.TY.1
+        subobj: 7.2.1
+        type: ty
+        question: A small church
+        choices:
+          A: will always have problems that are hindering its growth.
+          B: will not be missional.
+          C: may still be healthy and vibrant.
+          D: may not be able to fulfill all of the five functions.
+        answer: C
+      - uid: MIN171.7.2.1.TY.2
+        subobj: 7.2.1
+        type: ty
+        question: It is not healthy to focus your assessment questions
+        choices:
+          A: on issues that need to be addressed by the leadership.
+          B: on substantive weaknesses in the past or present.
+          C: on areas of weakness that may be painful to address.
+          D: only on the people already at the church.
+        answer: D
+      - uid: MIN171.7.2.1.TY.3
+        subobj: 7.2.1
+        type: ty
+        question: In a church assessment, hard questions should
+        choices:
+          A: should be avoided so as to prevent disagreement.
+          B: should only be given to the pastor and board.
+          C: are necessary if we are to face our need for change.
+          D: should seldom be used.
+        answer: C
+      - uid: MIN171.7.2.1.TY.4
+        subobj: 7.2.1
+        type: ty
+        question: When considering the need for change in the church,
+        choices:
+          A: “buy in” from people in the congregation is crucial.
+          B: no change should be attempted without complete unity.
+          C: the most important factor is getting the right answers.
+          D: evangelism should be more important than missions.
+        answer: A
+      - uid: MIN171.7.2.1.TY.5
+        subobj: 7.2.1
+        type: ty
+        question: Which of the following statements is true?
+        choices:
+          A: Larger churches are healthier churches.
+          B: Smaller churches can be healthy, missional, and effectively making a
+            difference in their communities.
+          C: Church size is a consistent indicator of church health.
+          D: It is generally true that people in smaller churches are not growing
+            spiritually.
+        answer: B
+      - uid: MIN171.8.1.1.UPE.1
+        subobj: 8.1.1
+        type: upe
+        question: The Great Commandment tells us
+        choices:
+          A: the limits of the Great Commission.
+          B: the need for empowerment to fulfill the Great Commission.
+          C: how we should go about fulfilling the Great Commission.
+          D: when the Great Commission applies to the church.
+        answer: C
+      - uid: MIN171.8.1.1.UPE.2
+        subobj: 8.1.1
+        type: upe
+        question: The central factor that should govern how we pursue our mission
+          is
+        choices:
+          A: the divine strategy.
+          B: love.
+          C: making disciples.
+          D: wisdom.
+        answer: B
+      - uid: MIN171.8.1.1.TY.1
+        subobj: 8.1.1
+        type: ty
+        question: The Great Commandment tells us
+        choices:
+          A: the limits of the Great Commission.
+          B: the need for empowerment to fulfill the Great Commission.
+          C: when the Great Commission applies to the church.
+          D: how we should go about fulfilling the Great Commission.
+        answer: D
+      - uid: MIN171.8.1.1.TY.2
+        subobj: 8.1.1
+        type: ty
+        question: The Great Commandment
+        choices:
+          A: provides the belief system for our mission.
+          B: demonstrates the work of Christ in us and through us.
+          C: is established by Jesus in Matthew 28:19-20.
+          D: is all about learning and doing.
+        answer: B
+      - uid: MIN171.8.1.1.TY.3
+        subobj: 8.1.1
+        type: ty
+        question: The mission for every church
+        choices:
+          A: is different for each local church.
+          B: is unrelated to the vision of the church.
+          C: must be found in the Great Commission and Great Commandment.
+          D: relates more to love than empowerment by the Spirit.
+        answer: C
+      - uid: MIN171.8.1.1.TY.4
+        subobj: 8.1.1
+        type: ty
+        question: 'Which of the following statements is NOT true:'
+        choices:
+          A: The Great Commission establishes the purpose for the church’s existence.
+          B: The Great Commission focuses on the “belief system” that Christ taught.
+          C: The Great Commission specifies baptism and teaching Christ’s commands.
+          D: The Great Commission is found in Christ’s words in Matthew 22:37-39.
+        answer: D
+      - uid: MIN171.8.2.1.UPE.1
+        subobj: 8.2.1
+        type: upe
+        question: Knowledge and acts of service should be
+        choices:
+          A: the primary goals of the disciple.
+          B: combined to keep you from burnout.
+          C: our primary testimony to the world.
+          D: reflective of one’s relationship with Christ.
+        answer: D
+      - uid: MIN171.8.2.1.UPE.2
+        subobj: 8.2.1
+        type: upe
+        question: According to the IST, relationship is what makes the mission
+        choices:
+          A: human.
+          B: workable.
+          C: enjoyable.
+          D: strategic.
+        answer: A
+      - uid: MIN171.8.2.1.TY.1
+        subobj: 8.2.1
+        type: ty
+        question: Spirit-empowered discipleship
+        choices:
+          A: must give primary focus to a growing relationship with Christ.
+          B: centers on biblical knowledge and acts of service.
+          C: can only happen on the church campus.
+          D: is reserved for pastors and other church leaders.
+        answer: A
+      - uid: MIN171.8.2.1.TY.2
+        subobj: 8.2.1
+        type: ty
+        question: When we extend relationship to those who do not know Christ,
+        choices:
+          A: we affirm their sinful choices.
+          B: we find our relationships with fellow disciples are less important.
+          C: we can help reveal God’s invitation to relationship with Him.
+          D: we discover that we do not need the power of the Holy Spirit.
+        answer: C
+      - uid: MIN171.8.2.1.TY.3
+        subobj: 8.2.1
+        type: ty
+        question: Knowledge and acts of service should be
+        choices:
+          A: our primary testimony to the world.
+          B: the primary goals of the disciple.
+          C: combined to keep you from burnout.
+          D: reflective of one’s relationship with Christ.
+        answer: D
+      - uid: MIN171.8.2.1.TY.4
+        subobj: 8.2.1
+        type: ty
+        question: When people contribute their gifts and abilities to the ministries
+          of their church,
+        choices:
+          A: a sense of ownership that strengthens their commitment can result.
+          B: a sense of ownership that makes them more difficult will result.
+          C: they will feel used and not valued.
+          D: they usually become demanding of their own way.
+        answer: A
+      - uid: MIN171.8.2.1.TY.5
+        subobj: 8.2.1
+        type: ty
+        question: Relationships are what
+        choices:
+          A: always lead to revitalization.
+          B: impact the human level rather than the divine level.
+          C: make the mission human.
+          D: make empowerment less likely.
+        answer: C
+      - uid: MIN171.8.3.1.UPE.1
+        subobj: 8.3.1
+        type: upe
+        question: Revitalization can begin
+        choices:
+          A: when a significant number of the people of the church align themselves
+            with the mission.
+          B: only when a unified church accepts the vision.
+          C: with just one person who recognizes the need for Spirit empowerment to
+            accomplish God’s mission.
+          D: as a process of translating the values of the church into the leadership
+            vision.
+        answer: C
+      - uid: MIN171.8.3.1.UPE.2
+        subobj: 8.3.1
+        type: upe
+        question: Making a difference in the world
+        choices:
+          A: is a prerogative of God alone.
+          B: requires the vision, love, and courage of individuals.
+          C: is unnecessary in the process of church revitalization.
+          D: is primarily a matter of power.
+        answer: B
+      - uid: MIN171.8.3.1.TY.1
+        subobj: 8.3.1
+        type: ty
+        question: Which of the following statements is NOT true?
+        choices:
+          A: Only those who have attended the church for many years should contribute
+            to its decision making.
+          B: People feel valuable when they are able to make a meaningful contribution.
+          C: Each individual matters and should get their own way in the church’s
+            ministry decisions.
+          D: One person seldom can make much of a difference in a large church.
+        answer: B
+      - uid: MIN171.9.1.1.UPE.1
+        subobj: 9.1.1
+        type: upe
+        question: Vision will
+        choices:
+          A: never be incorrect.
+          B: always be based on present reality.
+          C: never be difficult to carry out.
+          D: always involve risk.
+        answer: D
+      - uid: MIN171.9.1.1.UPE.2
+        subobj: 9.1.1
+        type: upe
+        question: According to the author, vision is the skill of
+        choices:
+          A: pulling visionary material out of yourself.
+          B: seeing what is not there.
+          C: connecting the mission to the growth process.
+          D: dreaming the future into the present.
+        answer: B
+      - uid: MIN171.9.1.1.TY.1
+        subobj: 9.1.1
+        type: ty
+        question: The Great Commission and Great Commandment provide the mission for
+          every church, while
+        choices:
+          A: vision is based on John 3:16.
+          B: vision is unique to each congregation and reveals how they express and
+            pursue that mission.
+          C: vision is only given to church leaders.
+          D: vision is intuitive and emotion-based.
+        answer: B
+      - uid: MIN171.9.1.1.TY.2
+        subobj: 9.1.1
+        type: ty
+        question: Vision answers the question,
+        choices:
+          A: “What time is it?”
+          B: “Who is in charge?”
+          C: “Where are we going?”
+          D: “What is our mandate?”
+        answer: C
+      - uid: MIN171.9.1.1.TY.3
+        subobj: 9.1.1
+        type: ty
+        question: Vision will
+        choices:
+          A: never be incorrect.
+          B: always be based on present reality.
+          C: never be difficult to carry out.
+          D: always involve risk.
+        answer: D
+      - uid: MIN171.9.1.1.TY.4
+        subobj: 9.1.1
+        type: ty
+        question: The only way to see what is not there
+        choices:
+          A: is to envision what success would look like.
+          B: is through the eyes of the Spirit.
+          C: is to follow the ministry programs of successful churches.
+          D: is to stop looking at what is there.
+        answer: B
+      - uid: MIN171.9.2.1.UPE.1
+        subobj: 9.2.1
+        type: upe
+        question: The vision of the church
+        choices:
+          A: should not focus on individual people.
+          B: will not be a guide for strategic planning.
+          C: can receive inspiration by looking at people and their needs.
+          D: is based on ministry programs, tools, and practicality.
+        answer: C
+      - uid: MIN171.9.2.1.TY.1
+        subobj: 9.2.1
+        type: ty
+        question: God’s dreams for your church
+        choices:
+          A: are always about people.
+          B: will seldom be criticized by people.
+          C: require no action on our part.
+          D: can usually be found in your past successes.
+        answer: A
+      - uid: MIN171.9.2.1.TY.2
+        subobj: 9.2.1
+        type: ty
+        question: Looking at the people God has called you to reach
+        choices:
+          A: is something that will hinder your vision.
+          B: is the first step in giving them a mission.
+          C: is something that will hinder your mission.
+          D: can help you to connect with God’s vision for them.
+        answer: D
+      - uid: MIN171.9.2.1.TY.3
+        subobj: 9.2.1
+        type: ty
+        question: A central aspect of vision is
+        choices:
+          A: having specific numerical goals for the growth of the church.
+          B: discerning the ministry tools that the church can use most effectively.
+          C: being the kind of people and church that God wants you to be.
+          D: choosing the best programs for the church.
+        answer: C
+      - uid: MIN171.9.2.1.TY.4
+        subobj: 9.2.1
+        type: ty
+        question: The Amanda game refers to
+        choices:
+          A: finding God’s vision through His heart for people.
+          B: the priority of ministry to children.
+          C: should not be played outside the congregation.
+          D: can only be played with people you know.
+        answer: A
+      - uid: MIN171.9.3.1.UPE.1
+        subobj: 9.3.1
+        type: upe
+        question: A full vision for your church will incorporate
+        choices:
+          A: specific mission and vision plans for each individual.
+          B: the biblical mandate for political justice.
+          C: written steps of action in visionary form.
+          D: love for God and love for people.
+        answer: D
+      - uid: MIN171.9.3.1.UPE.2
+        subobj: 9.3.1
+        type: upe
+        question: The five functions of the Acts 2 process
+        choices:
+          A: relate to the mission rather than the vision of the church.
+          B: should be included in the vision of the church.
+          C: are not part of the congregational assessment.
+          D: relate to individual vision more than corporate vision.
+        answer: B
+      - uid: MIN171.9.3.1.TY.1
+        subobj: 9.3.1
+        type: ty
+        question: Which of the following is not an essential ingredient for a church
+          to thrive?
+        choices:
+          A: The pastor and congregation working together
+          B: A shared vision
+          C: The direction and empowerment of the Holy Spirit
+          D: Abundant financial resources
+        answer: D
+      - uid: MIN171.9.3.1.TY.2
+        subobj: 9.3.1
+        type: ty
+        question: To bridge the gap between the present reality and future possibilities
+        choices:
+          A: it is best to ignore current struggles and focus only on the desired
+            future.
+          B: we must exchange blinders for spiritual lenses.
+          C: strategic planning is usually a hindrance.
+          D: we must find different leaders.
+        answer: B
+      - uid: MIN171.10.1.1.UPE.1
+        subobj: 10.1.1
+        type: upe
+        question: Core values are demonstrated
+        choices:
+          A: primarily in one’s worldview.
+          B: in our behaviors.
+          C: in universal principles that apply to everyone.
+          D: whenever we speak.
+        answer: B
+      - uid: MIN171.10.1.1.UPE.2
+        subobj: 10.1.1
+        type: upe
+        question: What is it that determines whether a person will buy into a vision
+          and get involved?
+        choices:
+          A: The core values
+          B: The mission statement
+          C: The way that the Grow concept is expressed
+          D: The way that the Serve concept is expressed
+        answer: A
+      - uid: MIN171.10.1.1.TY.1
+        subobj: 10.1.1
+        type: ty
+        question: Core values
+        choices:
+          A: are unrelated to priorities.
+          B: provide boundaries and parameters for how a church behaves.
+          C: establish the purpose for the church’s existence.
+          D: are unrelated to vision.
+        answer: B
+      - uid: MIN171.10.1.1.TY.2
+        subobj: 10.1.1
+        type: ty
+        question: If the core values of the church do not support the vision, the
+        choices:
+          A: people will mutiny.
+          B: people will fulfill the mission but not the vision of the church.
+          C: vision should be adjusted, rather than the core values.
+          D: vision will fail.
+        answer: D
+      - uid: MIN171.10.1.1.TY.3
+        subobj: 10.1.1
+        type: ty
+        question: While each church establishes its identity through a unique combination
+          of core values,
+        choices:
+          A: some values are nonnegotiable parts of the biblical Acts 2 model.
+          B: core values are like fingerprints and cannot be changed.
+          C: when the pastor leaves a church, it will need to rebuild its core values.
+          D: those core values and biblical priorities are usually unrelated.
+        answer: A
+      - uid: MIN171.10.1.1.TY.4
+        subobj: 10.1.1
+        type: ty
+        question: Core values are demonstrated
+        choices:
+          A: primarily in one’s worldview.
+          B: in our behaviors.
+          C: in universal principles that apply to everyone.
+          D: whenever we speak.
+        answer: B
+      - uid: MIN171.10.1.1.TY.5
+        subobj: 10.1.1
+        type: ty
+        question: If we are truly “people of the Book”
+        choices:
+          A: we should all use the same Bible translation.
+          B: people will find us judgmental and obnoxious.
+          C: we must be doers of the Word as well as hearers.
+          D: we will seldom change how we do things.
+        answer: C
+      - uid: MIN171.10.2.1.UPE.1
+        subobj: 10.2.1
+        type: upe
+        question: A church’s strengths are
+        choices:
+          A: not to be the basis for core values.
+          B: usually unrelated to core values.
+          C: used to help identify core values.
+          D: usually related to its mission rather than core values.
+        answer: C
+      - uid: MIN171.10.2.1.UPE.2
+        subobj: 10.2.1
+        type: upe
+        question: Core values would not include
+        choices:
+          A: successful programs of the church.
+          B: the unity of the church.
+          C: the importance of prayer.
+          D: the outward focus of the church.
+        answer: A
+      - uid: MIN171.10.2.1.TY.1
+        subobj: 10.2.1
+        type: ty
+        question: One of the three exercises that leads to the development of a core
+          values statement is to
+        choices:
+          A: identify your mission.
+          B: identify program weakness the church needs to address.
+          C: describe behaviors the church need to embrace in order to fulfill the
+            vision.
+          D: describe the area of ministry you need to develop the most.
+        answer: C
+      - uid: MIN171.10.2.1.TY.2
+        subobj: 10.2.1
+        type: ty
+        question: How you spend your time, ministry resources, and money is
+        choices:
+          A: dictated by the type of individuals you have in the church.
+          B: dictated by your mission.
+          C: dictated by your core values.
+          D: subconsciously influenced by your vision.
+        answer: C
+      - uid: MIN171.10.3.1.UPE.1
+        subobj: 10.3.1
+        type: upe
+        question: Personal preferences and personal convictions
+        choices:
+          A: are seldom confused with core values.
+          B: should be brought into complete agreement in the church, by the Spirit.
+          C: can take over when strong values are lacking in a church.
+          D: are usually in harmony with the work of the Spirit in Pentecostal believers.
+        answer: C
+      - uid: MIN171.10.3.1.TY.1
+        subobj: 10.3.1
+        type: ty
+        question: Which statement is NOT true?
+        choices:
+          A: Biblical absolutes, community standards, and personal convictions are
+            all subject to Scriptural directives.
+          B: When core values replace personal convictions and preferences, a leader
+            focuses on making people happy.
+          C: Without clear values, people can easily substitute their own convictions
+            and preferences.
+          D: Biblical absolutes, community standards, and personal convictions should
+            supplant personal beliefs and behaviors.
+        answer: B
+      - uid: MIN171.10.3.1.TY.2
+        subobj: 10.3.1
+        type: ty
+        question: Personal preferences and personal convictions
+        choices:
+          A: are seldom confused with core values.
+          B: should be brought into complete agreement in the church, by the Spirit.
+          C: can take over when strong values are lacking in a church.
+          D: are usually in harmony with the work of the Spirit in Pentecostal believers.
+        answer: C
+      - uid: MIN171.10.3.1.TY.3
+        subobj: 10.3.1
+        type: ty
+        question: A church without clear core values
+        choices:
+          A: can be influenced by the loudest voices and will try to be all things
+            to all people.
+          B: will find it easier to draw people into the church.
+          C: will have less conflict and manage it more effectively.
+          D: will be more strategic in its ministry efforts.
+        answer: A
+      - uid: MIN171.11.1.1.UPE.1
+        subobj: 11.1.1
+        type: upe
+        question: The five functions of the Acts 2 process
+        choices:
+          A: form the pathway from mission to values.
+          B: form the pathway from values to vision.
+          C: form the pathway from the strategic plan to the mission.
+          D: describe the difference between the vision and the values.
+        answer: B
+      - uid: MIN171.11.1.1.TY.1
+        subobj: 11.1.1
+        type: ty
+        question: The five functions of the Acts 2 process
+        choices:
+          A: form the pathway from mission to values.
+          B: form the pathway from values to vision.
+          C: form the pathway from the strategic plan to the mission.
+          D: describe the difference between the vision and the values.
+        answer: B
+      - uid: MIN171.11.1.1.TY.2
+        subobj: 11.1.1
+        type: ty
+        question: In relation to a strategic plan, the Holy Spirit
+        choices:
+          A: is primarily available to guide the implementation of the plan.
+          B: can guide the vision, while the church develops the strategic plan.
+          C: guides the mission, while the church develops the strategic plan.
+          D: should guide both the development and implementation of the strategic
+            plan.
+        answer: D
+      - uid: MIN171.11.1.1.TY.3
+        subobj: 11.1.1
+        type: ty
+        question: When a church needs revitalization, it always means that
+        choices:
+          A: the Holy Spirit is on the outside, wanting to get back in control.
+          B: it needs to go to a higher level by being hungry for more of God.
+          C: no one in the church is currently full of the Spirit.
+          D: human methods have taken over the church.
+        answer: B
+      - uid: MIN171.11.1.2.UPE.1
+        subobj: 11.1.2
+        type: upe
+        question: A strategic plan should
+        choices:
+          A: revise the mission of the church to make it more effective.
+          B: take passion for God and channel it in the right direction.
+          C: take the inward focus of the church to the next level.
+          D: alter the values of the church.
+        answer: B
+      - uid: MIN171.11.1.2.TY.1
+        subobj: 11.1.2
+        type: ty
+        question: The Holy Spirit
+        choices:
+          A: will always work in spontaneous ways.
+          B: is usually hindered by long-range planning.
+          C: can inspire spontaneous ministry and strategic planning.
+          D: favors passion for God over developing a plan.
+        answer: C
+      - uid: MIN171.11.1.2.TY.2
+        subobj: 11.1.2
+        type: ty
+        question: A vision without a plan to carry it out
+        choices:
+          A: is an example of Spirit-led ministry.
+          B: is a way to trust more fully in the Spirit.
+          C: means that the vision is faulty.
+          D: is nothing more than a dream.
+        answer: D
+      - uid: MIN171.11.2.1.UPE.1
+        subobj: 11.2.1
+        type: upe
+        question: The primary focus of a strategic plan should be
+        choices:
+          A: how to develop enduring values.
+          B: the successful implementation of new ministries.
+          C: to nurture people to become all that God wants them to be.
+          D: how to connect the values of the church to the leadership team.
+        answer: C
+      - uid: MIN171.11.2.1.UPE.2
+        subobj: 11.2.1
+        type: upe
+        question: A strategic plan should be built around
+        choices:
+          A: the biblical functions known as connect , grow, serve, go , and worship
+            .
+          B: the vision and mission of the leader.
+          C: a numerical growth plan in progressive stages.
+          D: the biblical priority of spiritual gifts.
+        answer: A
+      - uid: MIN171.11.2.1.TY.1
+        subobj: 11.2.1
+        type: ty
+        question: Which of the following represents the best order of development?
+        choices:
+          A: mission, vision, values, strategic plan
+          B: values, mission, vision, strategic plan
+          C: vision, values, strategic plan, mission
+          D: strategic plan, vision, mission, values
+        answer: A
+      - uid: MIN171.11.2.1.TY.2
+        subobj: 11.2.1
+        type: ty
+        question: If a congregation is like a car, then our mission is
+        choices:
+          A: what is going on inside the car.
+          B: why we are going on the journey together.
+          C: the road we are on.
+          D: the gasoline that fuels the car.
+        answer: B
+      - uid: MIN171.11.2.1.TY.3
+        subobj: 11.2.1
+        type: ty
+        question: If a congregation is like a car, then our strategic plan is
+        choices:
+          A: the gasoline that fuels the car.
+          B: what is going on inside the car.
+          C: how we are going to get to our preferred future.
+          D: our vision of the future.
+        answer: C
+      - uid: MIN171.11.2.1.TY.4
+        subobj: 11.2.1
+        type: ty
+        question: The primary focus of a strategic plan should be
+        choices:
+          A: how to develop enduring values.
+          B: the successful implementation of new ministries.
+          C: to nurture people to become all that God wants them to be.
+          D: how to connect the values of the church to the leadership team.
+        answer: C
+      - uid: MIN171.11.2.1.TY.5
+        subobj: 11.2.1
+        type: ty
+        question: The Acts 2 model is a
+        choices:
+          A: a template to help us leaders God’s plan for His church.
+          B: works best when every church implements the same ministry efforts.
+          C: a linear or step-by-step program for growing a church.
+          D: only useful for churches that are about to close.
+        answer: A
+      - uid: MIN171.12.1.1.UPE.1
+        subobj: 12.1.1
+        type: upe
+        question: Connect refers to
+        choices:
+          A: connecting the mission with the vision.
+          B: connecting the strategic plan with the mission.
+          C: horizontal relationships with people and a vertical relationship with
+            God.
+          D: the connection between people and the values of the church.
+        answer: C
+      - uid: MIN171.12.1.1.TY.1
+        subobj: 12.1.1
+        type: ty
+        question: Connect refers to
+        choices:
+          A: connecting the mission with the vision.
+          B: connecting the strategic plan with the mission.
+          C: the connection between people and the values of the church.
+          D: horizontal relationships with people and a vertical relationship with
+            God.
+        answer: D
+      - uid: MIN171.12.1.1.TY.2
+        subobj: 12.1.1
+        type: ty
+        question: In the early church, we see the priority of “connect” in
+        choices:
+          A: establishing a connection between people and the mission.
+          B: their sharing life together.
+          C: the way values become the strategic plan.
+          D: their attentiveness to the apostles’ teaching.
+        answer: B
+      - uid: MIN171.12.1.1.TY.3
+        subobj: 12.1.1
+        type: ty
+        question: In building an Acts 2 church, the glue that holds everything together
+          is
+        choices:
+          A: the vision.
+          B: the mission.
+          C: love.
+          D: connect.
+        answer: C
+      - uid: MIN171.12.1.1.TY.4
+        subobj: 12.1.1
+        type: ty
+        question: Connect recognizes the church as a(n)
+        choices:
+          A: family.
+          B: value-driven organization.
+          C: apologetics-based institution.
+          D: vehicle for inspiring truth.
+        answer: A
+      - uid: MIN171.12.2.1.UPE.1
+        subobj: 12.2.1
+        type: upe
+        question: Giving and receiving help during times of loss or difficulty is
+          a key aspect of
+        choices:
+          A: go .
+          B: worship .
+          C: connect .
+          D: strategic planning .
+        answer: C
+      - uid: MIN171.12.2.1.TY.1
+        subobj: 12.2.1
+        type: ty
+        question: What creates an environment in the church where we can connect with
+          God vertically?
+        choices:
+          A: Vision
+          B: Worship
+          C: Serve
+          D: Go
+        answer: B
+      - uid: MIN171.12.2.1.TY.2
+        subobj: 12.2.1
+        type: ty
+        question: Times of trouble and difficulty
+        choices:
+          A: usually diminish the longer we are a part of God’s family.
+          B: generally indicate that something needs to change in our lives.
+          C: should be anticipated in the life of the believer.
+          D: occur more today because God doesn’t do as many miracles as He did in
+            the early church.
+        answer: C
+      - uid: MIN171.12.2.1.TY.3
+        subobj: 12.2.1
+        type: ty
+        question: Music
+        choices:
+          A: is our greatest form of worship.
+          B: stirs our souls in amazing ways.
+          C: is little more than a human creation.
+          D: hinders us from truly connecting with God.
+        answer: B
+      - uid: MIN171.12.3.1.UPE.1
+        subobj: 12.3.1
+        type: upe
+        question: The paradigm shift to the priesthood of all believers means that
+        choices:
+          A: the strategic plan can be developed by the church leaders.
+          B: disciples are called to receive grace through the body of Christ.
+          C: leaders are called to be part of the priesthood.
+          D: each believer can contribute by ministering to others.
+        answer: D
+      - uid: MIN171.12.3.1.UPE.2
+        subobj: 12.3.1
+        type: upe
+        question: Systematic Bible study combined with relationships that foster accountability
+          and encouragement are
+        choices:
+          A: based on the process called serve .
+          B: related to the mission of the church rather than its vision.
+          C: facilitated by the process called connect .
+          D: part of the vision of the church rather than the mission.
+        answer: C
+      - uid: MIN171.12.3.1.TY.1
+        subobj: 12.3.1
+        type: ty
+        question: Encouraging belief, teaching knowledge, and facilitating relationships
+          are all aspects of
+        choices:
+          A: discipleship.
+          B: strategic design.
+          C: the overcoming life.
+          D: go.
+        answer: A
+      - uid: MIN171.12.3.1.TY.2
+        subobj: 12.3.1
+        type: ty
+        question: Which statement is NOT true?
+        choices:
+          A: Only a small percentage of Christians are called into full-time ministry.
+          B: A Christian who is not ministering is actually a contradiction.
+          C: If you’re not sharing the gospel message, you cannot be truly ministering.
+          D: You are not a mistake; you are a masterpiece.
+        answer: C
+      - uid: MIN171.12.3.1.TY.3
+        subobj: 12.3.1
+        type: ty
+        question: The paradigm shift to the priesthood of all believers means that
+        choices:
+          A: the strategic plan can be developed by the church leaders.
+          B: disciples are called to receive grace through the body of Christ.
+          C: leaders are called to be part of the priesthood.
+          D: each believer can contribute by ministering to others.
+        answer: D
+      - uid: MIN171.13.1.1.UPE.1
+        subobj: 13.1.1
+        type: upe
+        question: Truth has a behavioral purpose, a rational purpose, and a(n)
+        choices:
+          A: relational purpose.
+          B: instinctive purpose.
+          C: ennobling purpose.
+          D: embracing purpose.
+        answer: A
+      - uid: MIN171.13.1.1.UPE.2
+        subobj: 13.1.1
+        type: upe
+        question: Systematic discipleship programs have often missed the
+        choices:
+          A: biblical studies component.
+          B: missions component.
+          C: dimension of behavioral activity.
+          D: dimension of life in the Spirit.
+        answer: D
+      - uid: MIN171.13.1.1.TY.1
+        subobj: 13.1.1
+        type: ty
+        question: Discipleship that is based on knowledge and behavior is
+        choices:
+          A: the primary purpose of Grow.
+          B: the primary purpose of Serve.
+          C: the basis of transformation.
+          D: incomplete without life in the Spirit.
+        answer: D
+      - uid: MIN171.13.1.1.TY.2
+        subobj: 13.1.1
+        type: ty
+        question: Truth has a behavioral purpose, a rational purpose, and a(n)
+        choices:
+          A: relational purpose.
+          B: instinctive purpose.
+          C: ennobling purpose.
+          D: embracing purpose.
+        answer: A
+      - uid: MIN171.13.1.1.TY.3
+        subobj: 13.1.1
+        type: ty
+        question: A transforming journey of discipleship is made effective by
+        choices:
+          A: a Spirit-empowered relational framework.
+          B: the concepts of behavioral and rational investigation.
+          C: the process of Serve being transformed into Connect.
+          D: following the path of greatest resistance.
+        answer: A
+      - uid: MIN171.13.2.1.UPE.1
+        subobj: 13.2.1
+        type: upe
+        question: Experiencing the truths of Scripture in everyday life
+        choices:
+          A: is helpful but not essential.
+          B: leads to unhealthy imbalances.
+          C: is a key aspect of discipleship.
+          D: begins in the heart and transfers to the mind.
+        answer: C
+      - uid: MIN171.13.2.1.TY.1
+        subobj: 13.2.1
+        type: ty
+        question: The Spirit leads us in a relational journey with God’s Son, God’s
+          Word, and
+        choices:
+          A: Pentecostal traditions.
+          B: the people of God.
+          C: the work of God.
+          D: the omnipotence of God.
+        answer: B
+      - uid: MIN171.13.2.1.TY.2
+        subobj: 13.2.1
+        type: ty
+        question: The path to becoming a Spirit-empowered disciple follows a pattern
+          of
+        choices:
+          A: confess, conform, and create.
+          B: accept, act, and announce.
+          C: embrace, encourage, and experience.
+          D: belong, believe, and become.
+        answer: D
+      - uid: MIN171.13.2.1.TY.3
+        subobj: 13.2.1
+        type: ty
+        question: Imparting faith to a new believer follows a path of explore, embrace,
+          experience, and
+        choices:
+          A: energize.
+          B: exhort.
+          C: express.
+          D: elevate.
+        answer: C
+      - uid: MIN171.13.2.1.TY.4
+        subobj: 13.2.1
+        type: ty
+        question: Experiencing the truths of Scripture in everyday life
+        choices:
+          A: is helpful but not essential.
+          B: leads to unhealthy imbalances.
+          C: is a key aspect of discipleship.
+          D: begins in the heart and transfers to the mind.
+        answer: C
+      - uid: MIN171.13.2.2.UPE.1
+        subobj: 13.2.2
+        type: upe
+        question: Key aspects of Spirit-empowered discipleship include beliefs, behaviors,
+          and
+        choices:
+          A: intuition.
+          B: relationships.
+          C: cultural distinctives.
+          D: having an individualized long-term strategic plan.
+        answer: B
+      - uid: MIN171.13.2.2.TY.1
+        subobj: 13.2.2
+        type: ty
+        question: Spirit-empowered discipleship
+        choices:
+          A: requires a lifestyle of fresh encounters with Jesus.
+          B: is primarily event focused.
+          C: occurs primarily through knowledge and behavior.
+          D: is only for adults.
+        answer: A
+      - uid: MIN171.13.2.2.TY.2
+        subobj: 13.2.2
+        type: ty
+        question: To see people’s need of God, it is important to see them as fallen
+          and
+        choices:
+          A: miserable.
+          B: self-sufficient.
+          C: alone.
+          D: temporal.
+        answer: C
+      - uid: MIN171.13.3.1.UPE.1
+        subobj: 13.3.1
+        type: upe
+        question: Systematic study of God’s Word
+        choices:
+          A: is primarily for mature disciples as they learn to feed themselves.
+          B: is primarily a leadership requirement.
+          C: should be included at various age levels in the church.
+          D: should be the main purpose of connect .
+        answer: C
+      - uid: MIN171.13.3.1.TY.1
+        subobj: 13.3.1
+        type: ty
+        question: Discipleship spans a continuum from
+        choices:
+          A: Go to Serve.
+          B: cradle to grave.
+          C: beginner to veteran disciple.
+          D: retreating to advancing.
+        answer: B
+      - uid: MIN171.14.1.1.UPE.1
+        subobj: 14.1.1
+        type: upe
+        question: Equipping and developing the laity for ministry is
+        choices:
+          A: the concept behind connect .
+          B: essential for the Acts 2 process called Serve .
+          C: the basis of transformation.
+          D: unrelated to growth.
+        answer: B
+      - uid: MIN171.14.1.1.TY.1
+        subobj: 14.1.1
+        type: ty
+        question: Equipping and developing people for the work of ministry is
+        choices:
+          A: unrelated to growth.
+          B: the basis of all growth.
+          C: the concept behind Connect.
+          D: a key part of our role as church leaders.
+        answer: D
+      - uid: MIN171.14.1.1.TY.2
+        subobj: 14.1.1
+        type: ty
+        question: Moving from the leader-helper mentality to a team mentality is directly
+          connected to the
+        choices:
+          A: concept of missional independence.
+          B: availability of a sufficient quantity of people in the church.
+          C: priesthood of all believers.
+          D: status and stature of the leader.
+        answer: C
+      - uid: MIN171.14.1.1.TY.3
+        subobj: 14.1.1
+        type: ty
+        question: Developing an effective team requires trust, empowering team members,
+          accountability, and
+        choices:
+          A: a climate of mentorship.
+          B: instructional design.
+          C: a top-down authority structure.
+          D: increased funding.
+        answer: A
+      - uid: MIN171.14.1.1.TY.4
+        subobj: 14.1.1
+        type: ty
+        question: Open communication and having common goals are basic dimensions
+          of
+        choices:
+          A: moving from Go to Serve.
+          B: a laity-based church.
+          C: a dynamic team.
+          D: process discipleship.
+        answer: C
+      - uid: MIN171.14.1.2.UPE.1
+        subobj: 14.1.2
+        type: upe
+        question: Equipping servant-leaders
+        choices:
+          A: is primarily a pastoral training process.
+          B: is a central dimension of the ministry of Jesus.
+          C: affects some areas of leadership but not others.
+          D: is reflected primarily in the New Testament epistles.
+        answer: B
+      - uid: MIN171.14.1.2.TY.1
+        subobj: 14.1.2
+        type: ty
+        question: The calling to servanthood
+        choices:
+          A: is primarily a process for training pastors.
+          B: is a central dimension of the ministry of Jesus.
+          C: affects some areas of leadership but not others.
+          D: is reflected primarily in the New Testament epistles.
+        answer: B
+      - uid: MIN171.14.1.2.TY.2
+        subobj: 14.1.2
+        type: ty
+        question: Jesus addressed the desire for greatness by
+        choices:
+          A: calling people to repentance.
+          B: exposing this flaw in the disciples.
+          C: magnifying the greatness of God.
+          D: channeling it towards service.
+        answer: D
+      - uid: MIN171.14.2.1.UPE.1
+        subobj: 14.2.1
+        type: upe
+        question: Finding one’s purpose
+        choices:
+          A: is based on supernatural empowerment rather than natural gifts.
+          B: should be an aspect of the discipleship process.
+          C: is usually based on a consumer mentality.
+          D: relates to higher callings rather than basic areas of service.
+        answer: B
+      - uid: MIN171.14.2.1.TY.1
+        subobj: 14.2.1
+        type: ty
+        question: Finding one’s purpose
+        choices:
+          A: is based on supernatural empowerment rather than natural gifts.
+          B: should be an aspect of the discipleship process.
+          C: is usually based on a consumer mentality.
+          D: relates to higher callings rather than basic areas of service.
+        answer: A
+      - uid: MIN171.14.2.1.TY.2
+        subobj: 14.2.1
+        type: ty
+        question: According to the author, each individual has spiritual gifts, natural
+          abilities, distinct passions, and
+        choices:
+          A: their own vision for ministry.
+          B: personal preferences to address.
+          C: unique life experiences.
+          D: plans for the future.
+        answer: C
+      - uid: MIN171.14.3.1.UPE.1
+        subobj: 14.3.1
+        type: upe
+        question: Assessment tools to help people discover their gifts
+        choices:
+          A: should be utilized to discover the values of the church.
+          B: should be utilized in defining the mission of the church.
+          C: are useful in the process known as serve .
+          D: form the pathway from values to secondary goals.
+        answer: C
+      - uid: MIN171.14.3.1.TY.1
+        subobj: 14.3.1
+        type: ty
+        question: An assessment tool can reflect a person’s desire to serve in a role
+          but may
+        choices:
+          A: not reflect their ability.
+          B: not account for their age.
+          C: not be accurate based on gender.
+          D: increase the risk of mismanagement.
+        answer: A
+      - uid: MIN171.14.3.1.TY.2
+        subobj: 14.3.1
+        type: ty
+        question: A specific time commitment to serve in a particular area
+        choices:
+          A: will lead to shortages of people for some areas of ministry.
+          B: is helpful for re-evaluation of the fit of a person to a ministry.
+          C: is not recommended for the Acts 2 process.
+          D: should not be used in conjunction with an exit strategy.
+        answer: B
+      - uid: MIN171.15.1.1.UPE.1
+        subobj: 15.1.1
+        type: upe
+        question: Go is an Acts 2 process that
+        choices:
+          A: changes a church’s inward focus to an outward focus.
+          B: takes priority over all other processes.
+          C: focuses on helping believers to connect with one another.
+          D: focuses on gift-oriented ministry.
+        answer: A
+      - uid: MIN171.15.1.1.UPE.2
+        subobj: 15.1.1
+        type: upe
+        question: Go is often hindered as a process because
+        choices:
+          A: funds are often unavailable.
+          B: local missions are confused with foreign missions.
+          C: investing in the lives of unchurched people is inconvenient and messy.
+          D: Christians are too vocal in the workplace.
+        answer: C
+      - uid: MIN171.15.1.1.TY.1
+        subobj: 15.1.1
+        type: ty
+        question: Mature believers should be creating disciples,
+        choices:
+          A: but hold firmly to the current leadership roles in the congregation.
+          B: but it’s usually best if the pastor does most of this.
+          C: using their growth and maturation to help younger believers grow.
+          D: and maintain their focus on those already attending the church.
+        answer: C
+      - uid: MIN171.15.1.1.TY.2
+        subobj: 15.1.1
+        type: ty
+        question: Go is an Acts 2 process that
+        choices:
+          A: changes a church’s inward focus to an outward focus.
+          B: focuses primarily on gift-oriented ministry.
+          C: helps believers to serve one another.
+          D: takes priority over all other processes.
+        answer: A
+      - uid: MIN171.15.2.1.UPE.1
+        subobj: 15.2.1
+        type: upe
+        question: In the textbook, second-hand evangelism means
+        choices:
+          A: evangelizing without a clear purpose.
+          B: evangelizing through good works.
+          C: evangelizing without an ongoing relationship connection.
+          D: witnessing to people at work.
+        answer: C
+      - uid: MIN171.15.2.1.TY.1
+        subobj: 15.2.1
+        type: ty
+        question: A good example of relational evangelism is
+        choices:
+          A: handing out pamphlets inviting people to church.
+          B: posting an evangelism piece on a blog.
+          C: going on a short-term missions trip and passing out flyers.
+          D: growing a friendship with one of your coworkers and then sharing Christ
+            with that individual.
+        answer: D
+      - uid: MIN171.15.2.1.TY.2
+        subobj: 15.2.1
+        type: ty
+        question: A significant hindrance to relational evangelism is the
+        choices:
+          A: fact that very few people want to hear about Christ.
+          B: fact that believers often seek to avoid contact with “the world.”
+          C: difficulty and cost of large scale outreaches.
+          D: infrequency of short-term missions projects.
+        answer: B
+      - uid: MIN171.15.2.1.TY.3
+        subobj: 15.2.1
+        type: ty
+        question: The three most effective methods of bringing new people into the
+          church are friends, neighbors, and
+        choices:
+          A: advertising.
+          B: strengths.
+          C: city-wide outreaches.
+          D: food shelf ministries.
+        answer: B
+      - uid: MIN171.15.2.1.TY.4
+        subobj: 15.2.1
+        type: ty
+        question: Serving the needs of your church’s neighbors
+        choices:
+          A: demonstrates the love and compassion of Christ and may open doors for
+            meaningful relationships.
+          B: is only working if people start attending your services.
+          C: should be aimed first of all toward the Christians in the neighborhood.
+          D: is seldom as effective as door-to-door efforts to share the Gospel.
+        answer: A
+      - uid: MIN171.15.2.1.TY.5
+        subobj: 15.2.1
+        type: ty
+        question: Nearly 70 percent of first-time attendees come to church as a result
+          of
+        choices:
+          A: the pastor’s preaching.
+          B: the comfort of the church facilities.
+          C: personal crisis.
+          D: a personal invitation.
+        answer: D
+      - uid: MIN171.15.3.1.UPE.1
+        subobj: 15.3.1
+        type: upe
+        question: The goal of focusing on a church’s strengths is to
+        choices:
+          A: avoid the impact of weaknesses.
+          B: use them to make friends and connections.
+          C: use them to address the weaknesses of the church.
+          D: become the most visible church in town.
+        answer: B
+      - uid: MIN171.15.3.1.TY.1
+        subobj: 15.3.1
+        type: ty
+        question: A church’s strengths
+        choices:
+          A: are based on the size of the congregation.
+          B: should focus entirely on preaching the gospel.
+          C: are seldom utilized in smaller congregations.
+          D: can be utilized to meet needs in the community.
+        answer: D
+      - uid: MIN171.15.3.1.TY.2
+        subobj: 15.3.1
+        type: ty
+        question: The goal of focusing on a church’s strengths is to
+        choices:
+          A: avoid the impact of weaknesses.
+          B: use them to make friends and connections.
+          C: use them to address the weaknesses of the church.
+          D: be better at something than the other churches in town.
+        answer: B
+      - uid: MIN171.15.3.1.TY.3
+        subobj: 15.3.1
+        type: ty
+        question: A true outward focus helps us to
+        choices:
+          A: lift our eyes from the distant goals in order to perceive the people
+            around us.
+          B: lift our eyes to heaven rather than the things taking place on earth.
+          C: lose sight of inward realities.
+          D: prioritize go over serve.
+        answer: A
+      - uid: MIN171.16.1.1.UPE.1
+        subobj: 16.1.1
+        type: upe
+        question: As one of the Acts 2 processes, worship is about
+        choices:
+          A: transforming the vision into reality.
+          B: demonstrating a sincere heart toward an unequaled God.
+          C: expressing the proper emotions to God.
+          D: emphasizing the music that glorifies the King of kings.
+        answer: B
+      - uid: MIN171.16.1.1.TY.1
+        subobj: 16.1.1
+        type: ty
+        question: A definition of worship used by the textbook is to
+        choices:
+          A: honor with extravagant love and extreme submission.
+          B: exalt and praise the Almighty God.
+          C: honor with melodies of praise.
+          D: laud and magnify the King of Kings.
+        answer: A
+      - uid: MIN171.16.1.1.TY.2
+        subobj: 16.1.1
+        type: ty
+        question: Worship is
+        choices:
+          A: simply an event.
+          B: primarily a matter of obedience.
+          C: a lifestyle.
+          D: primarily expressed through music.
+        answer: C
+      - uid: MIN171.16.1.1.TY.3
+        subobj: 16.1.1
+        type: ty
+        question: According to the author, we worship God because He is
+        choices:
+          A: righteous.
+          B: infinite.
+          C: ineffable.
+          D: holy.
+        answer: D
+      - uid: MIN171.16.1.1.TY.4
+        subobj: 16.1.1
+        type: ty
+        question: Over-emphasizing emotional worship experiences
+        choices:
+          A: is seldom a concern in today’s churches.
+          B: is a common problem in today’s discipleship training programs.
+          C: can lead to shallow discipleship and evangelism.
+          D: leads to unhealthy ritualism.
+        answer: C
+      - uid: MIN171.16.1.1.TY.5
+        subobj: 16.1.1
+        type: ty
+        question: Outward-focused worship centers on
+        choices:
+          A: God, and not on ourselves.
+          B: choosing songs that the unchurched can relate to.
+          C: drawing people to your church through musical preferences.
+          D: holding worship services in parks and community centers.
+        answer: A
+      - uid: MIN171.16.2.1.UPE.1
+        subobj: 16.2.1
+        type: upe
+        question: Prayer is
+        choices:
+          A: essentially different than worship.
+          B: primarily a preparation for worship.
+          C: one of the chief expressions of worship.
+          D: often emphasized today to the exclusion of worship.
+        answer: C
+      - uid: MIN171.16.2.1.TY.1
+        subobj: 16.2.1
+        type: ty
+        question: Worship Prayer is
+        choices:
+          A: only engaged when the congregation has come together.
+          B: is primarily an expression of corporate hunger.
+          C: should come after preaching in the order of service.
+          D: nothing like the extravagant, public show of the Pharisees.
+        answer: D
+      - uid: MIN171.16.2.1.TY.2
+        subobj: 16.2.1
+        type: ty
+        question: Asking ourselves hard questions about the condition of our heart
+        choices:
+          A: is an unhealthy practice.
+          B: is designed to lead us to corporate confession.
+          C: prepares us for personal empowerment by the Spirit.
+          D: is not an aspect of worship.
+        answer: C
+      - uid: MIN171.16.2.1.TY.3
+        subobj: 16.2.1
+        type: ty
+        question: The textbook includes preaching within the context of
+        choices:
+          A: serving.
+          B: worship.
+          C: holiness.
+          D: affirmation.
+        answer: B
+      - uid: MIN171.16.2.1.TY.4
+        subobj: 16.2.1
+        type: ty
+        question: An effective segment of musical worship
+        choices:
+          A: must include several songs so that people get focused properly.
+          B: is more a product of sacred older songs.
+          C: isn’t determined by length.
+          D: will leave no time for preaching.
+        answer: C
+      - uid: MIN171.16.2.1.TY.5
+        subobj: 16.2.1
+        type: ty
+        question: Our worship experiences actually begin
+        choices:
+          A: when the first note is played.
+          B: in prayer, before the first person has walked through the door.
+          C: with the first smile of a greeter.
+          D: when the first word of the message is delivered.
+        answer: B
+      - uid: MIN171.17.1.1.UPE.1
+        subobj: 17.1.1
+        type: upe
+        question: The Acts 2 journey
+        choices:
+          A: is completed when you craft a strategic plan.
+          B: is completed when you are healthy in the five Acts 2 functions.
+          C: must be reviewed and renewed again and again.
+          D: will be altered as the mission is changed.
+        answer: C
+      - uid: MIN171.17.1.1.TY.1
+        subobj: 17.1.1
+        type: ty
+        question: The five functions of the Acts 2 process are
+        choices:
+          A: the complete vision that God gives to every church.
+          B: the mission that God gives to every church.
+          C: a roadmap for accomplishing the church’s mission on earth.
+          D: the destination point for a personal vision.
+        answer: C
+      - uid: MIN171.17.1.1.TY.2
+        subobj: 17.1.1
+        type: ty
+        question: The five functions of the Acts 2 process are
+        choices:
+          A: sequential.
+          B: simultaneous.
+          C: intended to work separately in church ministry.
+          D: intended to stand individually as missions goals.
+        answer: B
+      - uid: MIN171.17.1.1.TY.3
+        subobj: 17.1.1
+        type: ty
+        question: The Acts 2 journey
+        choices:
+          A: is completed when you craft a strategic plan.
+          B: is completed when you are healthy in the five Acts 2 functions.
+          C: must be reviewed and renewed again and again.
+          D: will be altered as the mission is changed.
+        answer: C
+      - uid: MIN171.17.1.1.TY.4
+        subobj: 17.1.1
+        type: ty
+        question: A vision should incorporate the church’s universal mission and the
+        choices:
+          A: five functions of the first century church.
+          B: specific strategic steps to fulfill the vision.
+          C: personal vision statement of the pastor.
+          D: biblical statements that are defined by the vision.
+        answer: A
+      - uid: MIN171.17.1.1.TY.5
+        subobj: 17.1.1
+        type: ty
+        question: While vision speaks of where we are going, values speak of
+        choices:
+          A: the places we visited in the past.
+          B: the energy and steps needed to accomplish the vision.
+          C: the strategic plans to fulfill the vision.
+          D: the priorities that govern our behavior along the way.
+        answer: D
+      - uid: MIN171.17.1.1.TY.6
+        subobj: 17.1.1
+        type: ty
+        question: The specific pathway to fulfill the vision is set by the
+        choices:
+          A: strategic plan.
+          B: concise vision statement.
+          C: concise mission statement.
+          D: job descriptions provided by the board.
+        answer: A
+      - uid: MIN171.17.2.1.UPE.1
+        subobj: 17.2.1
+        type: upe
+        question: The specific pathway to fulfill the vision is set by the
+        choices:
+          A: job descriptions provided by the board.
+          B: concise vision statement.
+          C: concise mission statement.
+          D: strategic plan.
+        answer: D
+      - uid: MIN171.17.2.1.TY.1
+        subobj: 17.2.1
+        type: ty
+        question: Our vision seeks to capture
+        choices:
+          A: God’s dream for our church.
+          B: the value of having a strategic plan.
+          C: what a life connected to God looks like.
+          D: the steps that are needed to become a disciple.
+        answer: C
+      - uid: MIN171.17.2.1.TY.2
+        subobj: 17.2.1
+        type: ty
+        question: What is it that should drive priorities, shape attitudes and actions,
+          direct processes, and govern relationships?
+        choices:
+          A: Leadership directives
+          B: Core values
+          C: The strategic plan
+          D: The numerical strength of the church
+        answer: B
+      - uid: MIN171.17.2.1.TY.3
+        subobj: 17.2.1
+        type: ty
+        question: Reproducing God’s mission in other people and places best describes
+          the Acts 2 function known as
+        choices:
+          A: connect.
+          B: go.
+          C: worship.
+          D: serve.
+        answer: B
+      - uid: MIN171.17.2.1.TY.4
+        subobj: 17.2.1
+        type: ty
+        question: Our core values
+        choices:
+          A: give our people a sense of direction and an awareness of what matters
+            most.
+          B: are the fulfillment of all future vision.
+          C: are the fuel that empowers us to fulfill the mission.
+          D: cannot be changed.
+        answer: A
     chapters:
     - last_modified: '2026-03-27'
       title: 1 - The Missing Process

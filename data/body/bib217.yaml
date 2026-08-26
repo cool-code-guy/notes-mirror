@@ -1857,6 +1857,2212 @@ courses:
       PN: 01.26.01
       note: 2026 joe castleberry revision
     printings:
+    - pn: 03.15.02
+      course_code: BIB217
+      source_html: BBIB117ENE03.15.02-90.html
+      template: old
+      recorded: '2026-08-26'
+      counts:
+        ty: 130
+        upe: 75
+        final: 0
+      questions:
+      - uid: BIB217.1.1.1.UPE.1
+        subobj: 1.1.1
+        type: upe
+        question: Which books of the Bible are known as the prison or captivity letters?
+        choices:
+          A: Galatians, Philippians, Ephesians, and Colossians
+          B: Ephesians, Philippians, Colossians, and Philemon
+          C: Galatians, Ephesians, Titus, and 2 Timothy
+          D: Ephesians, Philippians, Colossians, and 2 Timothy
+        answer: B
+      - uid: BIB217.1.1.1.TY.1
+        subobj: 1.1.1
+        type: ty
+        question: The traditional view is that the prison epistles were written from
+        choices:
+          A: Caesarea.
+          B: Jerusalem.
+          C: Ephesus.
+          D: Rome.
+        answer: D
+      - uid: BIB217.1.1.2.TY.1
+        subobj: 1.1.2
+        type: ty
+        question: Colosse was located on the banks of the
+        choices:
+          A: Lycus River.
+          B: Hermus River.
+          C: Danube River.
+          D: Moeander River.
+        answer: A
+      - uid: BIB217.1.1.2.TY.2
+        subobj: 1.1.2
+        type: ty
+        question: Colosse was in what Roman province?
+        choices:
+          A: Achaia
+          B: Asia
+          C: Cilicia
+          D: Macedonia
+        answer: B
+      - uid: BIB217.1.1.2.TY.3
+        subobj: 1.1.2
+        type: ty
+        question: Colosse is located in modern-day
+        choices:
+          A: Greece.
+          B: Turkey.
+          C: Syria.
+          D: Bulgaria.
+        answer: B
+      - uid: BIB217.1.1.3.UPE.1
+        subobj: 1.1.3
+        type: upe
+        question: The Book of Colossians addresses many of the same issues as
+        choices:
+          A: Philippians.
+          B: Ephesians.
+          C: Galatians.
+          D: 2 Timothy.
+        answer: B
+      - uid: BIB217.1.1.4.UPE.1
+        subobj: 1.1.4
+        type: upe
+        question: The false teaching at Colosse was based upon
+        choices:
+          A: human philosophy and legalistic practices.
+          B: greed and selfish ambition.
+          C: the undermining influence of the Judaizers.
+          D: Greek mythology.
+        answer: A
+      - uid: BIB217.1.1.4.TY.1
+        subobj: 1.1.4
+        type: ty
+        question: Paul describes the false teaching at Colosse as
+        choices:
+          A: syncretistic, demonic, and blasphemous.
+          B: philosophic, legalistic, and Christ-less.
+          C: mystical, atheistic, and syncretistic.
+          D: demonic, blasphemous, and human-based.
+        answer: B
+      - uid: BIB217.1.1.5.UPE.1
+        subobj: 1.1.5
+        type: upe
+        question: Paul’s answer to the false teaching and error at the Colossian church
+          was
+        choices:
+          A: to avoid idolatry and pagan practices.
+          B: forgiveness and restoration.
+          C: the supremacy and sufficiency of Christ.
+          D: to rejoice in the Lord at all times.
+        answer: C
+      - uid: BIB217.1.2.2.TY.1
+        subobj: 1.2.2
+        type: ty
+        question: In Paul’s introductory remarks to the believers at Colosse, he is
+          thankful for their
+        choices:
+          A: faith, hope, and love.
+          B: humility and love for all the saints.
+          C: patience that has endured under severe persecution.
+          D: generous financial support.
+        answer: A
+      - uid: BIB217.1.2.3.TY.1
+        subobj: 1.2.3
+        type: ty
+        question: The most visible proof of a life transformed by the gospel is the
+          evidence of
+        choices:
+          A: love.
+          B: patience.
+          C: peace.
+          D: self-control.
+        answer: A
+      - uid: BIB217.1.2.5.TY.1
+        subobj: 1.2.5
+        type: ty
+        question: It is believed that the native from Colosse who started the church
+          there was
+        choices:
+          A: Paul.
+          B: Apollos.
+          C: Timothy.
+          D: Epaphras.
+        answer: D
+      - uid: BIB217.1.3.1.UPE.1
+        subobj: 1.3.1
+        type: upe
+        question: Based upon Paul’s prayer in Colossians 1, effective intercessory
+          prayer is
+        choices:
+          A: loud, intense, and continual.
+          B: corporate, intense, and serious.
+          C: private, serious, and filled with concern for others.
+          D: corporate, continual, and filled with concern for others.
+        answer: D
+      - uid: BIB217.1.3.1.TY.1
+        subobj: 1.3.1
+        type: ty
+        question: According to Colossians 1, effective intercessory prayer is
+        choices:
+          A: private, continual, and filled with concern for others.
+          B: corporate, continual, and filled with concern for others.
+          C: private, intense, and continual.
+          D: continual, intense, and filled with concern for others.
+        answer: B
+      - uid: BIB217.1.3.2.UPE.1
+        subobj: 1.3.2
+        type: upe
+        question: In Colossians 1, Paul’s prayer for the believers in Colosse was
+          that they be filled with
+        choices:
+          A: the knowledge of God’s will and live a life pleasing before God.
+          B: the Holy Spirit and power.
+          C: love for each other.
+          D: knowledge, wisdom, and joy in the Holy Spirit.
+        answer: A
+      - uid: BIB217.1.3.3.TY.1
+        subobj: 1.3.3
+        type: ty
+        question: A guide for intercessory prayer can be found in
+        choices:
+          A: Colossians 3:1–11.
+          B: Philippians 1:12–18.
+          C: Ephesians 3:1–6.
+          D: Colossians 1:9–14.
+        answer: D
+      - uid: BIB217.2.1.2.UPE.1
+        subobj: 2.1.2
+        type: upe
+        question: In Colossians 1, Paul refers to Jesus as the
+        choices:
+          A: first and the last.
+          B: author and perfecter of our faith.
+          C: soon coming King.
+          D: firstborn over all creation.
+        answer: D
+      - uid: BIB217.2.1.2.TY.1
+        subobj: 2.1.2
+        type: ty
+        question: Concerning Christ’s relationship to creation, which statement is
+          correct?
+        choices:
+          A: By Him all things were created.
+          B: All things were created through Him.
+          C: All things were created for Him.
+          D: All of the above are true.
+        answer: D
+      - uid: BIB217.2.1.2.TY.2
+        subobj: 2.1.2
+        type: ty
+        question: Which statement best describes the goal of creation?
+        choices:
+          A: By Him all things were created.
+          B: All things were created through Him.
+          C: All things were created for Him.
+          D: In Him all things hold together.
+        answer: C
+      - uid: BIB217.2.1.3.UPE.1
+        subobj: 2.1.3
+        type: upe
+        question: In Colossians 1, Paul wants to establish the
+        choices:
+          A: priesthood of Christ.
+          B: supremacy of Christ.
+          C: humanity of Christ.
+          D: divinity of Christ.
+        answer: B
+      - uid: BIB217.2.1.4.TY.1
+        subobj: 2.1.4
+        type: ty
+        question: According to Colossians 1:22, the purpose of reconciliation is to
+        choices:
+          A: appease God’s wrath.
+          B: present believers holy before God.
+          C: glorify God.
+          D: destroy the works of the devil.
+        answer: B
+      - uid: BIB217.2.2.1.TY.1
+        subobj: 2.2.1
+        type: ty
+        question: Suffering in ministry is
+        choices:
+          A: to be avoided.
+          B: a result of sin.
+          C: to be expected.
+          D: a sign of pride.
+        answer: C
+      - uid: BIB217.2.2.2.UPE.1
+        subobj: 2.2.2
+        type: upe
+        question: What was the mystery that Paul referred to in Colossians 1:26–­27?
+        choices:
+          A: Secret knowledge about God only known to Paul
+          B: That God wants to make salvation known to all people, through Christ
+          C: Believers are justified by faith alone
+          D: That Christ was returning soon
+        answer: B
+      - uid: BIB217.2.2.2.TY.1
+        subobj: 2.2.2
+        type: ty
+        question: According to Colossians 1:27–28, to whom did God want to make known
+          the mystery of Christ?
+        choices:
+          A: Jews
+          B: Saints
+          C: Gentiles and all people
+          D: Romans
+        answer: C
+      - uid: BIB217.2.2.3.UPE.1
+        subobj: 2.2.3
+        type: upe
+        question: According to Colossians 1:28–2:5, bringing believers to maturity
+          includes
+        choices:
+          A: encouraging their hearts and helping them resist deception.
+          B: reaching the lost and encouraging their hearts.
+          C: building relationships with the unsaved and proclaiming to them the mystery
+            of Christ.
+          D: having good programs and fellowship.
+        answer: A
+      - uid: BIB217.2.2.3.TY.1
+        subobj: 2.2.3
+        type: ty
+        question: The tasks of preaching the gospel and the maturing of believers
+          are accomplished through
+        choices:
+          A: hard work and determination.
+          B: the empowerment of the Holy Spirit.
+          C: programs and good organization.
+          D: personal sacrifice.
+        answer: B
+      - uid: BIB217.2.3.1.TY.1
+        subobj: 2.3.1
+        type: ty
+        question: Paul uses the analogy of being built up in Christ , which is
+        choices:
+          A: construction terminology.
+          B: agriculture terminology.
+          C: legal terminology.
+          D: business terminology.
+        answer: A
+      - uid: BIB217.2.3.2.TY.1
+        subobj: 2.3.2
+        type: ty
+        question: In Colossians 2:8, Paul warns the Colossians to not be taken captive
+          by
+        choices:
+          A: lustful thoughts.
+          B: the pursuit of wealth.
+          C: hollow or deceptive philosophy.
+          D: complacency.
+        answer: C
+      - uid: BIB217.2.3.3.UPE.1
+        subobj: 2.3.3
+        type: upe
+        question: What is an outward sign that signifies a believer’s spiritual rebirth?
+        choices:
+          A: Circumcision
+          B: Water baptism
+          C: Communion
+          D: Confirmation
+        answer: B
+      - uid: BIB217.2.3.3.UPE.2
+        subobj: 2.3.3
+        type: upe
+        question: A key word Paul uses in Colossians is fullness, which he uses to
+          emphasize the
+        choices:
+          A: humanity of Christ.
+          B: love of Christ.
+          C: compassion of Christ.
+          D: sufficiency of Christ.
+        answer: D
+      - uid: BIB217.2.3.3.TY.1
+        subobj: 2.3.3
+        type: ty
+        question: Being set apart to serve God is called
+        choices:
+          A: justification.
+          B: purification.
+          C: sanctification.
+          D: isolation.
+        answer: C
+      - uid: BIB217.2.3.4.UPE.1
+        subobj: 2.3.4
+        type: upe
+        question: Mysticism is the pursuit of
+        choices:
+          A: legalism.
+          B: knowledge and academic excellence.
+          C: a higher and deeper religious experience through subjective means.
+          D: self-denial in attempt to reach a higher religious experience.
+        answer: C
+      - uid: BIB217.2.3.4.TY.1
+        subobj: 2.3.4
+        type: ty
+        question: Legalism is
+        choices:
+          A: the religion of human achievement.
+          B: the pursuit of a deeper religious experience through subjective means.
+          C: rigorous self-denial in attempt to reach a higher religious experience.
+          D: the pursuit of secret knowledge and wisdom.
+        answer: A
+      - uid: BIB217.3.1.1.TY.1
+        subobj: 3.1.1
+        type: ty
+        question: Since the Colossian believers had been raised with Christ (Colossians
+          3:1–3), Paul instructs them to
+        choices:
+          A: flee the youthful lusts of the flesh.
+          B: stand strong in the face of affliction.
+          C: set their hearts and minds upon things above.
+          D: pray in the Spirit at all times.
+        answer: C
+      - uid: BIB217.3.1.2.UPE.1
+        subobj: 3.1.2
+        type: upe
+        question: In Colossians 3, Paul uses the analogy of
+        choices:
+          A: sowing and reaping.
+          B: taking off soiled clothes, replacing them with new spiritual garments.
+          C: running a race.
+          D: darkness and light.
+        answer: B
+      - uid: BIB217.3.1.2.UPE.2
+        subobj: 3.1.2
+        type: upe
+        question: According to Colossians 3, what are believers instructed to do with
+          the deeds of their earthly nature?
+        choices:
+          A: Flee from them
+          B: Avoid them
+          C: Put them to death
+          D: Triumph over them
+        answer: C
+      - uid: BIB217.3.1.2.TY.1
+        subobj: 3.1.2
+        type: ty
+        question: According to the IST, compassion is
+        choices:
+          A: a friendly, helpful attitude that seeks to meet the needs of others.
+          B: an obedient submission to God and His will that leads to a good attitude
+            and kind acts.
+          C: a Christ-like sensitivity and heartfelt sympathy for the welfare of others.
+          D: an attitude that recognizes our own weaknesses.
+        answer: C
+      - uid: BIB217.3.1.2.TY.2
+        subobj: 3.1.2
+        type: ty
+        question: According to Colossians 3:16, what richness should dwell in the
+          lives of believers?
+        choices:
+          A: The peace of Christ
+          B: Joy
+          C: The word of Christ
+          D: Gentleness
+        answer: C
+      - uid: BIB217.3.1.3.TY.1
+        subobj: 3.1.3
+        type: ty
+        question: In Colossians 3:17, Paul instructs believers to do all things, whether
+          in word or deed,
+        choices:
+          A: in the name of Jesus, with thanksgiving to God.
+          B: without mumbling or complaining.
+          C: for the glory of God.
+          D: for the sake of winning a crown.
+        answer: A
+      - uid: BIB217.3.2.1.TY.1
+        subobj: 3.2.1
+        type: ty
+        question: The biblical house codes listed in Colossians 3 are different from
+          those of the ancient world because they are
+        choices:
+          A: mutual in nature and listed in sequential order.
+          B: reciprocal and different in motivation.
+          C: listed in sequential order and different in motivation.
+          D: different in motivation and exclusive only to Christianity.
+        answer: B
+      - uid: BIB217.3.2.2.TY.1
+        subobj: 3.2.2
+        type: ty
+        question: The greatest enemy of submission in the marriage relationship is
+        choices:
+          A: work.
+          B: sin.
+          C: cultural upbringing.
+          D: personality.
+        answer: B
+      - uid: BIB217.3.2.2.TY.2
+        subobj: 3.2.2
+        type: ty
+        question: In Colossians 3, Paul’s instruction to wives is to
+        choices:
+          A: love their husbands and try to submit.
+          B: respect their husbands in public.
+          C: serve their husbands for peace’s sake.
+          D: submit to their husbands in the love of Christ.
+        answer: D
+      - uid: BIB217.3.2.4.UPE.1
+        subobj: 3.2.4
+        type: upe
+        question: In Colossians 3, Paul’s instruction to children is to
+        choices:
+          A: obey their parents.
+          B: listen to their parents.
+          C: submit to their parents.
+          D: serve their parents.
+        answer: A
+      - uid: BIB217.3.2.5.UPE.1
+        subobj: 3.2.5
+        type: upe
+        question: In Colossians 3, Paul’s instruction to fathers is to
+        choices:
+          A: discipline their children.
+          B: control their children.
+          C: not embitter or discourage their children.
+          D: love their children.
+        answer: C
+      - uid: BIB217.3.2.6.TY.1
+        subobj: 3.2.6
+        type: ty
+        question: In Colossians 3, Paul’s instruction to servants is to
+        choices:
+          A: respect their masters.
+          B: work as though working for the Lord.
+          C: rejoice in their freedom in Christ.
+          D: peacefully fight for their freedom and deliverance.
+        answer: B
+      - uid: BIB217.3.3.1.UPE.1
+        subobj: 3.3.1
+        type: upe
+        question: In Colossians 4, Paul instructs believers to devote themselves to
+        choices:
+          A: prayer.
+          B: generous giving.
+          C: serving one another.
+          D: loving one another.
+        answer: A
+      - uid: BIB217.3.3.4.UPE.1
+        subobj: 3.3.4
+        type: upe
+        question: Tychicus was a person with a
+        choices:
+          A: past.
+          B: sympathetic heart.
+          C: strong commitment.
+          D: servant’s heart.
+        answer: D
+      - uid: BIB217.3.3.4.TY.1
+        subobj: 3.3.4
+        type: ty
+        question: Mark was a person with a
+        choices:
+          A: sympathetic heart.
+          B: strong commitment.
+          C: second chance.
+          D: servant’s heart.
+        answer: C
+      - uid: BIB217.3.3.4.TY.2
+        subobj: 3.3.4
+        type: ty
+        question: Who does Paul mention in Colossians as having had a powerful prayer
+          life?
+        choices:
+          A: Tychicus
+          B: Epaphras
+          C: Justus
+          D: Archippus
+        answer: B
+      - uid: BIB217.4.1.1.UPE.1
+        subobj: 4.1.1
+        type: upe
+        question: Philemon, the recipient of Paul’s letter, is identified as
+        choices:
+          A: a Roman citizen.
+          B: the author of the Epistle to the Hebrews.
+          C: a slave owner.
+          D: a proselyte (convert) to Judaism.
+        answer: C
+      - uid: BIB217.4.1.1.UPE.2
+        subobj: 4.1.1
+        type: upe
+        question: Who was Epaphras?
+        choices:
+          A: A companion of Paul on Paul’s third missionary journey
+          B: The pastor of the congregation at Colosse
+          C: One of the seven deacons appointed by the church at Jerusalem
+          D: A member of the church at Laodicea
+        answer: B
+      - uid: BIB217.4.1.1.TY.1
+        subobj: 4.1.1
+        type: ty
+        question: What was Paul’s particular role as the apostle to the Gentiles?
+        choices:
+          A: He did not preach to the Jews.
+          B: He communicated exclusively in Greek.
+          C: He encouraged Gentiles to observe the Law.
+          D: He preached to all types of people.
+        answer: D
+      - uid: BIB217.4.1.2.TY.1
+        subobj: 4.1.2
+        type: ty
+        question: Paul’s letter to Philemon is identified as what kind of letter?
+        choices:
+          A: An occasional letter
+          B: A doctrinal treatise
+          C: A letter of recommendation
+          D: An expression of thanks
+        answer: C
+      - uid: BIB217.4.1.2.TY.2
+        subobj: 4.1.2
+        type: ty
+        question: On what basis did Paul want Philemon to respond to his request?
+        choices:
+          A: Paul wanted Philemon’s response to be voluntary.
+          B: Paul invoked his apostolic authority.
+          C: Paul reminded Philemon of his obligation as a friend.
+          D: Paul told Philemon to obey as a son
+        answer: A
+      - uid: BIB217.4.1.3.UPE.1
+        subobj: 4.1.3
+        type: upe
+        question: Identify a major theme in the letter to Philemon.
+        choices:
+          A: Salvation and healing
+          B: Tolerance of Gentile culture and religion
+          C: Forgiveness and restoration
+          D: Citizenship in heaven
+        answer: C
+      - uid: BIB217.4.1.3.TY.1
+        subobj: 4.1.3
+        type: ty
+        question: Why was Paul’s request to Philemon so unusual?
+        choices:
+          A: Paul was a prisoner, requesting amnesty for a lawbreaker.
+          B: Paul made his appeal with respect to the values of the gospel.
+          C: The request would be seen as a direct attack on the institution of slavery.
+          D: Onesimus was guilty of a crime under Roman law.
+        answer: B
+      - uid: BIB217.4.2.1.UPE.1
+        subobj: 4.2.1
+        type: upe
+        question: Which of the following is a clear implication of Paul’s opening
+          greetings?
+        choices:
+          A: Paul was making an effort to recognize Gentile Romans as Christians.
+          B: Greeting fellow believers is an important part of the Christian life.
+          C: The rich and powerful should serve the poor and powerless.
+          D: Paul was asserting his apostolic authority.
+        answer: B
+      - uid: BIB217.4.2.1.TY.1
+        subobj: 4.2.1
+        type: ty
+        question: What role did Philemon have in the Colossian church?
+        choices:
+          A: The church met in Philemon’s house.
+          B: Philemon was a ruler, possibly the chairman of the board.
+          C: Philemon’s son was an elder.
+          D: Philemon was a prominent teacher.
+        answer: A
+      - uid: BIB217.4.2.2.TY.1
+        subobj: 4.2.2
+        type: ty
+        question: What should we give thanks for in our Christian life?
+        choices:
+          A: 'For our Christian family: brothers and sisters in Christ'
+          B: For the good things that we receive from the church
+          C: For the absence of conflict in our church relationships
+          D: For the opportunities to meet new people
+        answer: A
+      - uid: BIB217.4.2.3.UPE.1
+        subobj: 4.2.3
+        type: upe
+        question: Which is a valid interpretation of the difficult phrasing of Philemon
+          6?
+        choices:
+          A: Philemon is to overcome his disapproval of law breakers.
+          B: Paul was suggesting that Philemon should receive Onesimus into the Colossian
+            church.
+          C: Paul is referring to doctrines taught in the Epistle of James.
+          D: Paul wanted Philemon to express his faith in true fellowship (koinonia).
+        answer: D
+      - uid: BIB217.4.2.3.TY.1
+        subobj: 4.2.3
+        type: ty
+        question: Identify a characteristic of koin o nia with one another in the
+          church.
+        choices:
+          A: Our attitudes toward each other have an effect on our individual relationships
+            with God.
+          B: Confrontation and conflict should be avoided at all costs.
+          C: We should not have special favorites in the church.
+          D: Leaders in the church should be accorded special respect and honor.
+        answer: A
+      - uid: BIB217.4.3.1.UPE.1
+        subobj: 4.3.1
+        type: upe
+        question: Identify a principle of forgiveness that is found in the letter
+          to Philemon.
+        choices:
+          A: We must forgive when the offender asks for forgiveness.
+          B: We should take care not to be emotionally involved with the offender.
+          C: We should forgive, but serious offenses should be reported to the authorities.
+          D: We should take the initiative in extending forgiveness.
+        answer: D
+      - uid: BIB217.4.3.1.TY.1
+        subobj: 4.3.1
+        type: ty
+        question: What evidence does our author offer that our society knows little
+          about forgiveness?
+        choices:
+          A: We have retained the death penalty in our legal system.
+          B: Law schools have higher enrollments than all other graduate schools combined.
+          C: The American Civil Liberties Union opposes religiously-oriented decisions.
+          D: Americans are intensely individualistic.
+        answer: B
+      - uid: BIB217.4.3.1.TY.2
+        subobj: 4.3.1
+        type: ty
+        question: Identify a principle of forgiveness that is found in the letter
+          to Philemon.
+        choices:
+          A: Though one forgives, it is often not possible to forget the offense.
+          B: Forgiveness of others is a way to repay God for forgiving us.
+          C: God will judge us more severely if we do not forgive.
+          D: Real forgiveness releases the offender from all obligations.
+        answer: D
+      - uid: BIB217.4.3.1.TY.3
+        subobj: 4.3.1
+        type: ty
+        question: Following Paul’s example, how should we encourage others to forgive
+          those who have offended them?
+        choices:
+          A: Church leadership should take no official notice of private offenses.
+          B: Both parties should appear before the church board so that they may resolve
+            the problem.
+          C: Forgiveness should be gently encouraged, but not demanded or forced.
+          D: Serious problems should be handled with legal counsel.
+        answer: C
+      - uid: BIB217.5.1.1.UPE.1
+        subobj: 5.1.1
+        type: upe
+        question: The theme of Ephesians is
+        choices:
+          A: the supremacy of Christ.
+          B: God has provided everything for an effective Christian life.
+          C: the power of the Holy Spirit.
+          D: the priesthood of the believer.
+        answer: B
+      - uid: BIB217.5.1.1.TY.1
+        subobj: 5.1.1
+        type: ty
+        question: What is the theme of Ephesians?
+        choices:
+          A: The supremacy of Christ
+          B: The priesthood of the believer
+          C: The humanity of Christ
+          D: God’s complete provision for effective Christian life
+        answer: D
+      - uid: BIB217.5.1.1.TY.2
+        subobj: 5.1.1
+        type: ty
+        question: What verse captures the central theme of Ephesians?
+        choices:
+          A: '1:3'
+          B: '1:6'
+          C: '2:1'
+          D: '3:6'
+        answer: A
+      - uid: BIB217.5.1.2.UPE.1
+        subobj: 5.1.2
+        type: upe
+        question: The most important cultural and religious center in Asia was the
+          city of
+        choices:
+          A: Corinth.
+          B: Rome.
+          C: Athens.
+          D: Ephesus.
+        answer: D
+      - uid: BIB217.5.1.2.TY.1
+        subobj: 5.1.2
+        type: ty
+        question: Ephesus was the leading city in the Roman Province of
+        choices:
+          A: Asia.
+          B: Achaia.
+          C: Macedonia.
+          D: Bithynia.
+        answer: A
+      - uid: BIB217.5.1.2.TY.2
+        subobj: 5.1.2
+        type: ty
+        question: Ephesus had a pagan temple dedicated to the Roman goddess
+        choices:
+          A: Aphrodite.
+          B: Diana.
+          C: Athena.
+          D: Demeter.
+        answer: B
+      - uid: BIB217.5.1.5.UPE.1
+        subobj: 5.1.5
+        type: upe
+        question: The course author lists eight key themes in Ephesians. Two of them
+          are the
+        choices:
+          A: status of believers in Christ and spiritual warfare.
+          B: joy of the Lord and the second coming of Christ.
+          C: justification of believers and the second coming of Christ.
+          D: justification of believers and their exalted position.
+        answer: A
+      - uid: BIB217.5.1.5.TY.1
+        subobj: 5.1.5
+        type: ty
+        question: What two verbal moods does Paul use throughout the letter of Ephesians?
+        choices:
+          A: Subjective and indicative
+          B: Optative and imperative
+          C: Subjective and imperative
+          D: Imperative and indicative
+        answer: D
+      - uid: BIB217.5.2.1.UPE.1
+        subobj: 5.2.1
+        type: upe
+        question: How many spiritual blessings does Paul list in Ephesians 1?
+        choices:
+          A: '3'
+          B: '6'
+          C: '9'
+          D: '12'
+        answer: B
+      - uid: BIB217.5.2.2.TY.1
+        subobj: 5.2.2
+        type: ty
+        question: Paul lists six spiritual blessings in Ephesians 1. What are two
+          of them?
+        choices:
+          A: In Christ, believers are justified and sealed by the Holy Spirit.
+          B: In Christ, believers are chosen and are purified by the power of the
+            Holy Spirit.
+          C: In Christ, believers are chosen and sealed by the Holy Spirit.
+          D: In Christ, believers are adopted and anointed for ministry.
+        answer: C
+      - uid: BIB217.5.2.3.TY.1
+        subobj: 5.2.3
+        type: ty
+        question: The Greek word Paul uses for adoption literally means “to
+        choices:
+          A: be one.”
+          B: place as a son.”
+          C: accept.”
+          D: be chosen.”
+        answer: B
+      - uid: BIB217.5.2.7.TY.1
+        subobj: 5.2.7
+        type: ty
+        question: In Ephesians 1, what does Paul mean by saying believers are sealed
+          by the Holy Spirit?
+        choices:
+          A: Believers are anointed by the Holy Spirit for ministry.
+          B: The Holy Spirit is the down payment guaranteeing what is still yet to
+            come.
+          C: Believers have received God’s stamp of approval.
+          D: Believers have been sanctified and set apart for ministry.
+        answer: B
+      - uid: BIB217.5.3.2.TY.1
+        subobj: 5.3.2
+        type: ty
+        question: In Paul’s prayer for the Ephesians, context demands that the term
+          spirit refers to
+        choices:
+          A: attitude.
+          B: capability.
+          C: the Holy Spirit.
+          D: revelation.
+        answer: C
+      - uid: BIB217.5.3.3.UPE.1
+        subobj: 5.3.3
+        type: upe
+        question: In Ephesians 1, Paul prays that the Ephesians would know all of
+          the following EXCEPT
+        choices:
+          A: steadfast faithfulness.
+          B: the hope of their calling,
+          C: their glorious inheritance in the saints.
+          D: God’s incomparably great power to those who believe.
+        answer: A
+      - uid: BIB217.5.3.3.TY.1
+        subobj: 5.3.3
+        type: ty
+        question: The Greek word huperballon means
+        choices:
+          A: “super-exalted.”
+          B: “incomparably great.”
+          C: “majestic.”
+          D: “holy and set apart.”
+        answer: B
+      - uid: BIB217.6.1.1.UPE.1
+        subobj: 6.1.1
+        type: upe
+        question: In Ephesians 2, Paul says that people without Christ are
+        choices:
+          A: poor, blind, lost, and headed for God’s judgment.
+          B: out of control, dead in their sin, lost, and poor.
+          C: tormented, out of control, lost, and dead in their own sin.
+          D: dead in their sin, lost, out of control, and headed for God’s judgment.
+        answer: D
+      - uid: BIB217.6.1.1.TY.1
+        subobj: 6.1.1
+        type: ty
+        question: Without Christ, people are
+        choices:
+          A: poor, lost, out of control, and headed for God’s judgment.
+          B: lost, dead in their sin, out of control, and headed for God’s judgment.
+          C: tormented, lost, dead in their sin, and out of control.
+          D: poor, dead in their sin, lost, and headed for God’s judgment.
+        answer: B
+      - uid: BIB217.6.1.2.UPE.1
+        subobj: 6.1.2
+        type: upe
+        question: God’s grace
+        choices:
+          A: is only needed when believers are initially saved.
+          B: imparts salvation, but also sustains salvation on a continual basis in
+            the life of a believer.
+          C: is unnecessary because believers are saved by faith alone.
+          D: is helpful, but is not necessary to live a consistent Christian life.
+        answer: B
+      - uid: BIB217.6.1.3.TY.1
+        subobj: 6.1.3
+        type: ty
+        question: According to the IST, four results of being saved and in Christ
+          are
+        choices:
+          A: life, hope, position, and purpose/potential.
+          B: prosperity, position, hope, and purpose/potential.
+          C: persecution, life, hope, and purpose/potential.
+          D: position, prosperity, hope, and life.
+        answer: A
+      - uid: BIB217.6.2.1.UPE.1
+        subobj: 6.2.1
+        type: upe
+        question: The process of bringing together two parties that were divided is
+          called
+        choices:
+          A: unification.
+          B: justification.
+          C: restoration.
+          D: reconciliation.
+        answer: D
+      - uid: BIB217.6.2.2.UPE.1
+        subobj: 6.2.2
+        type: upe
+        question: In Ephesians 2, Paul describes unbelievers as without
+        choices:
+          A: Christ, hope, purpose, citizenship, and significance.
+          B: purpose, significance, citizenship, hope, and God.
+          C: Christ, citizenship, hope, covenants, and God.
+          D: hope, God, purpose, Christ and a future.
+        answer: C
+      - uid: BIB217.6.2.2.TY.1
+        subobj: 6.2.2
+        type: ty
+        question: Before people accept Christ, Paul describes them as without
+        choices:
+          A: hope, God, purpose, Christ, and a future.
+          B: Christ, citizenship, hope, covenants, and God.
+          C: purpose, destiny, citizenship, hope, and God.
+          D: Christ, citizenship, covenants, purpose, and significance.
+        answer: B
+      - uid: BIB217.6.2.3.TY.1
+        subobj: 6.2.3
+        type: ty
+        question: Believers are reconciled in Christ, bringing them
+        choices:
+          A: hope, joy, purpose, and access to God.
+          B: access to God, hope, unity, and prosperity.
+          C: hope, peace, purpose, and prosperity.
+          D: near to God, peace, unity, and access to God.
+        answer: D
+      - uid: BIB217.6.2.4.TY.1
+        subobj: 6.2.4
+        type: ty
+        question: A benefit of reconciliation is that believers are
+        choices:
+          A: fellow citizens of God’s kingdom.
+          B: fellow members of God’s family.
+          C: built together into a temple, a dwelling place for God’s Spirit.
+          D: all of the above.
+        answer: D
+      - uid: BIB217.6.3.1.UPE.1
+        subobj: 6.3.1
+        type: upe
+        question: The word mystery as used by Paul in Ephesians is truth that
+        choices:
+          A: can never be understood.
+          B: can be understood by only a select few.
+          C: was hidden for a time, but is now made known to all.
+          D: was never hidden; it was just a concept that was hard to grasp.
+        answer: C
+      - uid: BIB217.6.3.1.TY.1
+        subobj: 6.3.1
+        type: ty
+        question: Paul used the word mystery as it was commonly used by the
+        choices:
+          A: Greeks.
+          B: Romans.
+          C: Jews.
+          D: mystics.
+        answer: C
+      - uid: BIB217.6.3.2.TY.1
+        subobj: 6.3.2
+        type: ty
+        question: The Greek word ethnos, usually translated as “Gentile” in the context
+          of the New Testament, literally means “the
+        choices:
+          A: heathen.”
+          B: nations.”
+          C: uncircumcised.”
+          D: outsiders.”
+        answer: B
+      - uid: BIB217.6.3.3.TY.1
+        subobj: 6.3.3
+        type: ty
+        question: Four responsibilities believers have in light of the mystery of
+          Christ are to
+        choices:
+          A: be a steward of God’s grace, be a servant, proclaim Christ, and teach
+            clearly.
+          B: suffer, be a servant, proclaim Christ, and be hospitable.
+          C: be hospitable, be a servant, proclaim Christ, and teach clearly.
+          D: give generously, be a servant, proclaim Christ, and be hospitable.
+        answer: A
+      - uid: BIB217.6.3.3.TY.2
+        subobj: 6.3.3
+        type: ty
+        question: In Ephesians 3:7, Paul refers to himself as a servant, which in
+          the Greek literally means
+        choices:
+          A: “second class.”
+          B: “bound to another.”
+          C: “a table waiter.”
+          D: “humbled one.”
+        answer: C
+      - uid: BIB217.6.4.2.TY.1
+        subobj: 6.4.2
+        type: ty
+        question: In Paul’s prayer for the Ephesians (3:14–19), he prays that they
+          may
+        choices:
+          A: know the joy of the Lord and His love that surpasses knowledge.
+          B: be strengthened by the power of the Holy Spirit and know His love that
+            surpasses knowledge.
+          C: be rooted and built up, and have the joy of the Lord.
+          D: be filled with the fullness of God and have a peace that passes all understanding.
+        answer: B
+      - uid: BIB217.7.1.1.UPE.1
+        subobj: 7.1.1
+        type: upe
+        question: In Ephesians 4:1, Paul urges believers to
+        choices:
+          A: be filled with the Holy Spirit.
+          B: live a life worthy of their calling.
+          C: abstain from meat offered to idols.
+          D: be ready for Christ’s soon return.
+        answer: B
+      - uid: BIB217.7.1.1.TY.1
+        subobj: 7.1.1
+        type: ty
+        question: What four character qualities contribute to unity based upon Ephesians
+          4:2?
+        choices:
+          A: Humility, integrity, purity, and patience
+          B: Gentleness, integrity, competence, and forbearance
+          C: Humility, gentleness, patience, and forbearance
+          D: Patience, competence, gentleness, and humility
+        answer: C
+      - uid: BIB217.7.1.3.UPE.1
+        subobj: 7.1.3
+        type: upe
+        question: According to Ephesians 4:12, God has appointed apostles, prophets,
+          evangelists, and pastors/teachers to
+        choices:
+          A: do all the work in the church.
+          B: prepare believers for works of service.
+          C: do the professional aspects of ministry.
+          D: lead the church.
+        answer: B
+      - uid: BIB217.7.1.3.TY.1
+        subobj: 7.1.3
+        type: ty
+        question: To prepare believers for works of service, God has appointed
+        choices:
+          A: presbyters, apostles, prophets, and pastors/teachers.
+          B: bishops, prophets, presbyters, and apostles.
+          C: evangelists, presbyters, prophets, and apostles.
+          D: apostles, prophets, evangelists, and pastors/teachers.
+        answer: D
+      - uid: BIB217.7.1.4.TY.1
+        subobj: 7.1.4
+        type: ty
+        question: Being swayed by every wind of doctrine is a result of
+        choices:
+          A: immaturity.
+          B: false teaching.
+          C: modern culture.
+          D: television evangelism.
+        answer: A
+      - uid: BIB217.7.2.1.TY.1
+        subobj: 7.2.1
+        type: ty
+        question: In Ephesians 4, what five behaviors are believers instructed to
+          put off?
+        choices:
+          A: Sorcery, sinful anger, bribery, falsehood, and negative attitudes
+          B: Sexual immorality, witchcraft, gossip, stealing, and falsehood
+          C: Bribery, malice, negative attitudes, stealing, and unwholesome speech
+          D: Lying, sinful anger, stealing, unwholesome speech, and negative attitudes
+        answer: D
+      - uid: BIB217.7.2.2.UPE.1
+        subobj: 7.2.2
+        type: upe
+        question: In Ephesians 4, what five behaviors are believers instructed to
+          put on?
+        choices:
+          A: A good work ethic, a positive attitude, truthfulness, righteous anger,
+            and modesty.
+          B: Righteous anger, wholesome speech, modesty, truthfulness, and a good
+            work ethic.
+          C: Truthfulness, righteous anger, a good work ethic, wholesome speech, and
+            a positive attitude.
+          D: Modesty, truthfulness, wholesome speech, a good work ethic, and a positive
+            attitude.
+        answer: C
+      - uid: BIB217.7.3.1.UPE.1
+        subobj: 7.3.1
+        type: upe
+        question: According to Ephesians 5:1, who are believers urged to imitate?
+        choices:
+          A: Paul
+          B: Church leaders
+          C: God
+          D: The apostles
+        answer: C
+      - uid: BIB217.7.3.2.TY.1
+        subobj: 7.3.2
+        type: ty
+        question: According to Ephesians 5:3, believers are not to possess even a
+          hint of
+        choices:
+          A: sexual immorality, greed, or impurity.
+          B: greed, malice, or bitterness.
+          C: malice, sexual immorality, or bitterness.
+          D: pride, greed, or sexual immorality.
+        answer: A
+      - uid: BIB217.7.3.3.TY.1
+        subobj: 7.3.3
+        type: ty
+        question: As imitators of God, according to Ephesians 5:2, believers should
+          live a life of
+        choices:
+          A: peace.
+          B: joy.
+          C: love.
+          D: devotion.
+        answer: C
+      - uid: BIB217.7.4.1.TY.1
+        subobj: 7.4.1
+        type: ty
+        question: In comparing the lives of Christians and unbelievers, Paul uses
+          the analogy of
+        choices:
+          A: hot and cold.
+          B: clean and unclean.
+          C: gold and stubble.
+          D: light and darkness.
+        answer: D
+      - uid: BIB217.7.4.2.UPE.1
+        subobj: 7.4.2
+        type: upe
+        question: According to Ephesians 5, believers who walk in darkness are walking
+          in ways that are
+        choices:
+          A: evil, foolish, and criminal.
+          B: despairing, evil, and unwise.
+          C: fruitless, unwise, and foolish.
+          D: fruitless, despairing, and evil.
+        answer: C
+      - uid: BIB217.7.4.2.TY.1
+        subobj: 7.4.2
+        type: ty
+        question: According to Ephesians 5, believers who walk in ways that are fruitless,
+          unwise, and foolish are walking in
+        choices:
+          A: emptiness.
+          B: darkness.
+          C: judgment.
+          D: a desert place.
+        answer: B
+      - uid: BIB217.7.4.3.TY.1
+        subobj: 7.4.3
+        type: ty
+        question: The results of believers living as children of light are
+        choices:
+          A: salvation, righteousness, and truth.
+          B: justification, truth, and holiness.
+          C: salvation, goodness, and truth.
+          D: goodness, righteousness, and truth.
+        answer: D
+      - uid: BIB217.7.4.3.TY.2
+        subobj: 7.4.3
+        type: ty
+        question: As children of light (Ephesians 5:15–18), believers should
+        choices:
+          A: make the most of every opportunity, understand the Lord’s will, and be
+            filled with the Spirit.
+          B: be vigilant, endure suffering, and press on in the strength of the Lord.
+          C: rejoice in the Lord always, understand the Lord’s will, and make the
+            most of every opportunity.
+          D: be filled with the Spirit, rejoice in the Lord always, and press on in
+            the strength of the Lord.
+        answer: A
+      - uid: BIB217.8.1.1.UPE.1
+        subobj: 8.1.1
+        type: upe
+        question: Based upon Ephesians 5:21–33, wives demonstrate the lordship of
+          Christ in their marriages through
+        choices:
+          A: loving their husbands.
+          B: obeying their husbands.
+          C: loving submission to their husbands.
+          D: serving their husbands.
+        answer: C
+      - uid: BIB217.8.1.1.TY.1
+        subobj: 8.1.1
+        type: ty
+        question: The IST defines submission as a/an
+        choices:
+          A: voluntary act.
+          B: forced act.
+          C: obligatory act.
+          D: sacrificial act.
+        answer: A
+      - uid: BIB217.8.1.1.TY.2
+        subobj: 8.1.1
+        type: ty
+        question: A Spirit-filled wife submits to her husband by
+        choices:
+          A: resisting her husband’s unreasonable demands.
+          B: obeying her husband’s demands without question.
+          C: loving, respecting, and yielding in support of her husband.
+          D: playing a servant’s role in her marriage.
+        answer: C
+      - uid: BIB217.8.1.2.UPE.1
+        subobj: 8.1.2
+        type: upe
+        question: The church’s submission to Christ should flow out of
+        choices:
+          A: obedience.
+          B: fear.
+          C: obligation.
+          D: reverence.
+        answer: D
+      - uid: BIB217.8.1.2.TY.1
+        subobj: 8.1.2
+        type: ty
+        question: The submission of the church to Christ should be out of
+        choices:
+          A: fear.
+          B: reverence.
+          C: obedience.
+          D: obligation.
+        answer: B
+      - uid: BIB217.8.1.3.TY.1
+        subobj: 8.1.3
+        type: ty
+        question: A Spirit-filled husband submits to his wife by
+        choices:
+          A: allowing her to have her way in all things.
+          B: providing her with a lavish and extravagant lifestyle.
+          C: demonstrating sacrificial, caring, and indissoluble love.
+          D: seeing that she maintains a submissive attitude at all times.
+        answer: C
+      - uid: BIB217.8.1.3.TY.2
+        subobj: 8.1.3
+        type: ty
+        question: What is meant when we say that a husband’s love for his wife is
+          indissoluble?
+        choices:
+          A: His commitment is permanent.
+          B: His commitment is conditional.
+          C: His vows are dissolvable.
+          D: His vows are important.
+        answer: A
+      - uid: BIB217.8.1.4.UPE.1
+        subobj: 8.1.4
+        type: upe
+        question: According to Ephesians 5:25–33, Christ’s love for the church can
+          be characterized as
+        choices:
+          A: selfless, lavish, and indissoluble.
+          B: sacrificial, eternal, and indissoluble.
+          C: lavish, eternal, and out of obligation.
+          D: indissoluble, selfless, and out of obligation.
+        answer: B
+      - uid: BIB217.8.1.4.TY.1
+        subobj: 8.1.4
+        type: ty
+        question: In Ephesians 5, Paul instructs husbands to love their wives and
+          for wives to
+        choices:
+          A: obey their husbands.
+          B: serve their husbands.
+          C: cherish their husbands.
+          D: respect their husbands.
+        answer: D
+      - uid: BIB217.8.2.2.TY.1
+        subobj: 8.2.2
+        type: ty
+        question: Children are instructed to
+        choices:
+          A: honor and respect their parents.
+          B: respect and admire their parents.
+          C: fear and obey their parents.
+          D: obey and honor their parents.
+        answer: D
+      - uid: BIB217.8.2.3.UPE.1
+        subobj: 8.2.3
+        type: upe
+        question: According to Ephesians 6, parents are not to exasperate their children,
+          but instead they should
+        choices:
+          A: discipline them in a loving manner.
+          B: train them and instruct them in the Lord.
+          C: love them and overlook their shortcomings.
+          D: respect them and love them for who they are in Christ.
+        answer: B
+      - uid: BIB217.8.2.3.TY.1
+        subobj: 8.2.3
+        type: ty
+        question: Instead of exasperating their children (Ephesians 6:4), fathers
+          should
+        choices:
+          A: respect them and love them for who they are in Christ.
+          B: discipline them in a loving manner.
+          C: love them and overlook their shortcomings.
+          D: train them and instruct them in the Lord.
+        answer: D
+      - uid: BIB217.8.3.2.TY.1
+        subobj: 8.3.2
+        type: ty
+        question: Each Christian employee must have a proper perspective, a right
+          attitude, right motives, good work habits, and a
+        choices:
+          A: servant’s heart.
+          B: joyful heart.
+          C: grateful heart.
+          D: generous heart.
+        answer: A
+      - uid: BIB217.8.3.3.UPE.1
+        subobj: 8.3.3
+        type: upe
+        question: Based upon Ephesians 6, Christian employees must have a proper perspective,
+          a right attitude, right motives, good work habits, and a
+        choices:
+          A: servant’s heart.
+          B: generous heart.
+          C: joyful heart.
+          D: grateful heart.
+        answer: A
+      - uid: BIB217.8.3.3.TY.1
+        subobj: 8.3.3
+        type: ty
+        question: Christian employers must have a proper perspective, right motives,
+          good management habits, their employees’ respect, and a
+        choices:
+          A: servant’s heart.
+          B: joyful heart.
+          C: right heart.
+          D: grateful heart.
+        answer: C
+      - uid: BIB217.9.1.1.TY.1
+        subobj: 9.1.1
+        type: ty
+        question: The battle Christians face is against
+        choices:
+          A: flesh and blood.
+          B: unbelievers.
+          C: evil spiritual forces and authorities in the heavenly realms.
+          D: governments and politicians.
+        answer: C
+      - uid: BIB217.9.1.2.UPE.1
+        subobj: 9.1.2
+        type: upe
+        question: According to Ephesians 6, a Christian warrior must
+        choices:
+          A: fight and not give in.
+          B: be strong and stand firm.
+          C: lay down his life.
+          D: retreat and seek refuge in God.
+        answer: B
+      - uid: BIB217.9.1.2.TY.1
+        subobj: 9.1.2
+        type: ty
+        question: Based upon Ephesians 6, when in the midst of spiritual warfare,
+          a Christian must
+        choices:
+          A: be strong and stand firm.
+          B: fight until the end.
+          C: retreat and take refuge in God.
+          D: declare his or her fear to others.
+        answer: A
+      - uid: BIB217.9.1.2.TY.2
+        subobj: 9.1.2
+        type: ty
+        question: Stand is a military term meaning “to
+        choices:
+          A: do nothing.”
+          B: be encouraged.”
+          C: hold one’s position.”
+          D: harden one’s resolve.”
+        answer: C
+      - uid: BIB217.9.1.3.UPE.1
+        subobj: 9.1.3
+        type: upe
+        question: Which piece of armor is needed to protect believers against a satanic
+          attack by providing an inner witness that they are God’s children?
+        choices:
+          A: The shield of faith
+          B: The helmet of salvation
+          C: The sword of the Spirit
+          D: The belt of truth
+        answer: B
+      - uid: BIB217.9.1.3.UPE.2
+        subobj: 9.1.3
+        type: upe
+        question: What piece of armor is essential for protecting a believer’s heart
+          and life from Satan’s fiery darts?
+        choices:
+          A: The belt of truth
+          B: The sword of the Spirit
+          C: The shield of faith
+          D: The breastplate of righteousness
+        answer: C
+      - uid: BIB217.9.1.3.UPE.3
+        subobj: 9.1.3
+        type: upe
+        question: What piece of armor does Paul equate with sharing the good news?
+        choices:
+          A: Sword
+          B: Breastplate
+          C: Shoes
+          D: Helmet
+        answer: C
+      - uid: BIB217.9.1.3.TY.1
+        subobj: 9.1.3
+        type: ty
+        question: The piece of armor that provides the inner witness that an individual
+          is a child of God is called the
+        choices:
+          A: belt of truth.
+          B: breastplate of righteousness.
+          C: shield of faith.
+          D: helmet of salvation.
+        answer: D
+      - uid: BIB217.9.1.3.TY.2
+        subobj: 9.1.3
+        type: ty
+        question: Which piece of armor is needed to mold a believer’s thinking?
+        choices:
+          A: The belt of truth
+          B: The helmet of salvation
+          C: The breastplate of righteousness
+          D: The shield of faith
+        answer: A
+      - uid: BIB217.9.1.3.TY.3
+        subobj: 9.1.3
+        type: ty
+        question: The piece of armor that protects a Christian’s heart and life from
+          the fiery darts of the enemy is the
+        choices:
+          A: shield of faith.
+          B: belt of truth.
+          C: sword of the Spirit.
+          D: breastplate of righteousness.
+        answer: A
+      - uid: BIB217.9.1.3.TY.4
+        subobj: 9.1.3
+        type: ty
+        question: What piece of armor is both an offensive and defensive weapon?
+        choices:
+          A: The belt of truth
+          B: The shield of faith
+          C: The breastplate of righteousness
+          D: The sword of the Spirit
+        answer: D
+      - uid: BIB217.9.1.3.TY.5
+        subobj: 9.1.3
+        type: ty
+        question: What is not listed directly as a piece of armor in Ephesians 6,
+          but is emphasized by Paul as being essential in spiritual warfare?
+        choices:
+          A: Singing choruses and hymns to God
+          B: Praying in the Spirit
+          C: Reading the Word of God
+          D: Thanksgiving
+        answer: B
+      - uid: BIB217.9.1.3.TY.6
+        subobj: 9.1.3
+        type: ty
+        question: The piece of armor that is linked to sharing the good news is
+        choices:
+          A: a shield.
+          B: a sword.
+          C: a pair of shoes.
+          D: a helmet.
+        answer: C
+      - uid: BIB217.9.2.1.UPE.1
+        subobj: 9.2.1
+        type: upe
+        question: In Ephesians 6, Paul instructs believers to pray
+        choices:
+          A: in the Spirit at all times.
+          B: many different prayers and requests.
+          C: for all the saints.
+          D: doing all of the above.
+        answer: D
+      - uid: BIB217.9.2.1.TY.1
+        subobj: 9.2.1
+        type: ty
+        question: How do Pentecostals interpret Paul’s words to pray in the Spirit
+          ?
+        choices:
+          A: To pray in other tongues
+          B: To pray in a known language, enabled by the Holy Spirit
+          C: To pray with groans that words cannot express
+          D: It can include all of the above.
+        answer: D
+      - uid: BIB217.10.1.1.TY.1
+        subobj: 10.1.1
+        type: ty
+        question: Which verse of Philippians causes debate concerning the integrity
+          and authorship of this letter?
+        choices:
+          A: '1:3'
+          B: '2:1'
+          C: '3:1'
+          D: '4:3'
+        answer: C
+      - uid: BIB217.10.1.2.TY.1
+        subobj: 10.1.2
+        type: ty
+        question: Philippi was the leading city in the Roman province of
+        choices:
+          A: Asia.
+          B: Macedonia.
+          C: Galatia.
+          D: Thracia.
+        answer: B
+      - uid: BIB217.10.1.2.TY.2
+        subobj: 10.1.2
+        type: ty
+        question: It is believed that Philippi was largely Gentile in population because
+        choices:
+          A: those mentioned in Acts all had Greek names.
+          B: the city had no synagogue.
+          C: Jews were not welcome in Philippi.
+          D: Paul mentions this in his opening comment to the Philippians.
+        answer: B
+      - uid: BIB217.10.1.3.UPE.1
+        subobj: 10.1.3
+        type: upe
+        question: What was Paul’s purpose in writing to the church at Philippi?
+        choices:
+          A: To encourage, rebuke, correct, impart wisdom, and express appreciation
+          B: To emphasize unity, impart wisdom, stir up their spiritual gifts, rebuke,
+            and encourage
+          C: To restore perspective, encourage, warn, emphasize unity, and express
+            appreciation
+          D: To express appreciation, restore perspective, emphasize unity, impart
+            wisdom, and correct
+        answer: C
+      - uid: BIB217.10.1.3.TY.1
+        subobj: 10.1.3
+        type: ty
+        question: Which was NOT one of Paul’s express purposes in writing to the church
+          at Philippi?
+        choices:
+          A: To rebuke
+          B: To emphasize unity
+          C: To express appreciation
+          D: To restore perspective.
+        answer: A
+      - uid: BIB217.10.1.4.UPE.1
+        subobj: 10.1.4
+        type: upe
+        question: What are the two major themes of Philippians?
+        choices:
+          A: The joy of the Lord and the advancement of the gospel
+          B: The centrality of Christ and the joy of the Lord
+          C: The supremacy of Christ and the advancement of the gospel
+          D: The second coming of Christ and the joy of the Lord
+        answer: A
+      - uid: BIB217.10.1.4.TY.1
+        subobj: 10.1.4
+        type: ty
+        question: The two major themes that dominate the letter to the Philippians
+          are the
+        choices:
+          A: supremacy of Christ and the advancement of the gospel.
+          B: joy of the Lord and the supremacy of Christ.
+          C: second coming of Christ and the joy of the Lord.
+          D: joy of the Lord and the advancement of the gospel.
+        answer: D
+      - uid: BIB217.10.2.1.UPE.1
+        subobj: 10.2.1
+        type: upe
+        question: In the opening sentence of Philippians, Paul identifies himself
+          as
+        choices:
+          A: an apostle and teacher.
+          B: an apostle of Jesus Christ.
+          C: a servant and apostle of Jesus Christ.
+          D: a servant of Jesus Christ.
+        answer: D
+      - uid: BIB217.10.2.2.TY.1
+        subobj: 10.2.2
+        type: ty
+        question: Paul is thankful for the church in Philippi because of their
+        choices:
+          A: persistence in midst of suffering.
+          B: partnership in ministry.
+          C: faith in Christ.
+          D: effectiveness in spreading the gospel.
+        answer: B
+      - uid: BIB217.10.2.2.TY.2
+        subobj: 10.2.2
+        type: ty
+        question: How is the Greek word koinonia translated in Philippians 1:5?
+        choices:
+          A: “Affection”
+          B: “Courageous”
+          C: “Partnership”
+          D: “Thankfulness”
+        answer: C
+      - uid: BIB217.10.2.3.UPE.1
+        subobj: 10.2.3
+        type: upe
+        question: A key verse in Philippians that emphasizes that God completes what
+          He has started is
+        choices:
+          A: '1:6.'
+          B: '1:10.'
+          C: '1:12.'
+          D: '1:21.'
+        answer: A
+      - uid: BIB217.10.2.4.UPE.1
+        subobj: 10.2.4
+        type: upe
+        question: In Philippians 1:8, the Greek word splagchnon is translated as
+        choices:
+          A: knowledge.
+          B: partnership.
+          C: affection.
+          D: thanksgiving.
+        answer: C
+      - uid: BIB217.10.2.4.TY.1
+        subobj: 10.2.4
+        type: ty
+        question: In Philippians 1:8, the Greek word for affection literally means
+        choices:
+          A: “intestines, bowels, or kidneys.”
+          B: “heart or chest area.”
+          C: “kindred spirit.”
+          D: “a longing of heart.”
+        answer: A
+      - uid: BIB217.10.2.5.UPE.1
+        subobj: 10.2.5
+        type: upe
+        question: Which is NOT one of the four outcomes Paul sought in prayer for
+          the Philippian believers?
+        choices:
+          A: Steadfastness in suffering
+          B: Discern what is best
+          C: Everything for God’s glory and praise
+          D: Prepare for Christ’s coming
+        answer: A
+      - uid: BIB217.10.2.5.TY.1
+        subobj: 10.2.5
+        type: ty
+        question: The Greek word epignōsis as used in Philippians 1:9 means
+        choices:
+          A: “affection.”
+          B: “partnership.”
+          C: “a deep, personal knowledge of Christ.”
+          D: “moral and spiritual perception.”
+        answer: C
+      - uid: BIB217.10.2.5.TY.2
+        subobj: 10.2.5
+        type: ty
+        question: In Paul’s prayer for the believers in Philippi (1:9–11), what four
+          things does he pray for?
+        choices:
+          A: That they may discern what is best, be morally and spiritually ready
+            for Christ’s return, be filled with fruit of righteousness, and give glory
+            and praise to God for everything
+          B: That they may be thankful in all circumstances, be morally and spiritually
+            ready for Christ’s return, be filled with fruit of righteousness, and
+            give glory and praise to God for everything
+          C: That they may give glory and praise to God for everything, pray for all
+            the saints, be morally and spiritually ready for Christ’s return, and
+            be filled with fruit of righteousness
+          D: That they may know the joy of the Lord, discern what is best, be morally
+            and spiritually ready for Christ’s return, and be filled with fruit of
+            righteousness
+        answer: A
+      - uid: BIB217.11.1.1.TY.1
+        subobj: 11.1.1
+        type: ty
+        question: Joy in the life of the believer is tied to
+        choices:
+          A: circumstances.
+          B: personality.
+          C: his or her relationship with Christ.
+          D: his or her relationships with other people.
+        answer: C
+      - uid: BIB217.11.1.2.UPE.1
+        subobj: 11.1.2
+        type: upe
+        question: What was Paul’s attitude towards his imprisonment?
+        choices:
+          A: He was regretful of this experience.
+          B: He saw it as an opportunity to further and defend the gospel.
+          C: He saw it as an opportunity to get sympathy from his enemies.
+          D: He was resentful towards God and the church.
+        answer: B
+      - uid: BIB217.11.1.2.TY.1
+        subobj: 11.1.2
+        type: ty
+        question: In Philippians 1, Paul responded to jealous, contentious, fellow
+          preachers by
+        choices:
+          A: praying for protection.
+          B: confronting ungodliness.
+          C: warning the church.
+          D: thanking God that Christ was exalted.
+        answer: D
+      - uid: BIB217.11.1.3.UPE.1
+        subobj: 11.1.3
+        type: upe
+        question: There are five anchors that sustained Paul in the face of an uncertain
+          future and they are a confidence in
+        choices:
+          A: the Roman judicial system, the prayers of God’s people, the help of the
+            Holy Spirit, God’s plans and purposes, and that he would not be put to
+            shame.
+          B: the goodness of the Caesar, the Roman judicial system, the prayers of
+            God’s people, the help of the Holy Spirit, and God’s plans and purposes.
+          C: God’s faithfulness, the prayers of God’s people, the help of the Holy
+            Spirit, God’s plans and purposes, and that he would not be put to shame.
+          D: the prayers of God’s people, the help of the Holy Spirit, God’s plans
+            and purposes, the goodness of the Caesar, and that he would not be put
+            to shame.
+        answer: C
+      - uid: BIB217.11.1.3.TY.1
+        subobj: 11.1.3
+        type: ty
+        question: What are five anchors that sustained Paul in the face of an uncertain
+          future?
+        choices:
+          A: Confidence in God’s faithfulness, the prayers of God’s people, the help
+            of the Holy Spirit, God’s plans and purposes, and that he would not be
+            put to shame
+          B: Confidence in the Roman judicial system, the prayers of God’s people,
+            the help of the Holy Spirit, God’s plans and purposes, and that he would
+            not be put to shame
+          C: Confidence in the prayers of God’s people, the help of the Holy Spirit,
+            God’s plans and purposes, the goodness of the Caesar, and that he would
+            not be put to shame
+          D: Confidence in the goodness of the Caesar, the Roman judicial system,
+            the prayers of God’s people, the help of the Holy Spirit, and God’s plans
+            and purposes
+        answer: A
+      - uid: BIB217.11.2.1.TY.1
+        subobj: 11.2.1
+        type: ty
+        question: The Greek word for conduct yourselves used in Philippians 1:27 literally
+          means to
+        choices:
+          A: “be organized and in order.”
+          B: “behave or conduct oneself as a citizen.”
+          C: “live in harmony with others.”
+          D: “take responsibility for one’s actions.”
+        answer: B
+      - uid: BIB217.11.2.2.UPE.1
+        subobj: 11.2.2
+        type: upe
+        question: In the face of opposition, Paul challenges (Philippians 1:27) the
+          church in Philippi to
+        choices:
+          A: live in harmony with other believers.
+          B: be orderly and kind to one another.
+          C: take responsibility for their actions.
+          D: to live their lives in a manner worthy of the gospel.
+        answer: D
+      - uid: BIB217.11.2.2.TY.1
+        subobj: 11.2.2
+        type: ty
+        question: In Philippians 1:27–28, Paul encourages believers to be fearless
+          in the face of opposition, unified in Spirit, and to
+        choices:
+          A: live in harmony with their society.
+          B: work as a team.
+          C: lay down their lives for the cause of Christ.
+          D: pray daily for each other.
+        answer: B
+      - uid: BIB217.11.2.3.UPE.1
+        subobj: 11.2.3
+        type: upe
+        question: Paul assures the congregation in Philippi that Satan is defeated
+          through the qualities of
+        choices:
+          A: unity, cooperation, and resolve.
+          B: unity, peace, and honesty.
+          C: harmony, peace, and resolve.
+          D: honesty, resolve, and hospitality.
+        answer: A
+      - uid: BIB217.11.2.4.UPE.1
+        subobj: 11.2.4
+        type: upe
+        question: Paul saw suffering for Christ as a
+        choices:
+          A: curse.
+          B: privilege.
+          C: a sign of sin.
+          D: difficulty to be overcome.
+        answer: B
+      - uid: BIB217.11.3.1.TY.1
+        subobj: 11.3.1
+        type: ty
+        question: What are two godly motives for maintaining unity in the church?
+        choices:
+          A: Having fellowship with other believers, and experiencing God’s tenderness
+            and compassion
+          B: Receiving encouragement from other believers and comfort from God
+          C: Having fellowship in the Spirit and encouragement from other believers
+          D: Receiving encouragement from Christ and comfort from His love
+        answer: D
+      - uid: BIB217.11.3.2.TY.1
+        subobj: 11.3.2
+        type: ty
+        question: According to Philippians 2:2–4, what are some behaviors that would
+          make Paul’s joy complete?
+        choices:
+          A: Being like-minded, humble, and unselfish
+          B: Being generous, humble, and one in spirit and purpose
+          C: Being self-controlled, unselfish, and generous
+          D: Being like-minded, generous, and self-controlled
+        answer: A
+      - uid: BIB217.11.3.3.TY.1
+        subobj: 11.3.3
+        type: ty
+        question: Based upon Philippians 2, being Christlike means being willing to
+        choices:
+          A: relinquish position, give up privileges, and rest in God’s promise of
+            future reward and glory.
+          B: give up, relinquish position, and accept God’s plan for one’s life.
+          C: fight to the end, hold on to God’s promises, and never give up.
+          D: give up and rest in God’s promise of future reward and glory.
+        answer: A
+      - uid: BIB217.11.4.1.TY.1
+        subobj: 11.4.1
+        type: ty
+        question: Paul’s command in Philippians 2:12 is to work out one’s salvation
+          with
+        choices:
+          A: wisdom.
+          B: fear and trembling.
+          C: guidance from the Holy Spirit.
+          D: love and patience.
+        answer: B
+      - uid: BIB217.11.4.2.UPE.1
+        subobj: 11.4.2
+        type: upe
+        question: While living in a crooked and depraved generation, believers at
+          Philippi are instructed to do everything
+        choices:
+          A: with diligence and grace.
+          B: with joy and kindness.
+          C: without murmuring or complaining.
+          D: without envy or deceit.
+        answer: C
+      - uid: BIB217.11.4.3.TY.1
+        subobj: 11.4.3
+        type: ty
+        question: Paul wanted his life and the service of the Philippian believers
+          to result in mutual
+        choices:
+          A: self-sacrifice and satisfaction.
+          B: satisfaction and rejoicing.
+          C: rejoicing and sorrow.
+          D: self-sacrifice and rejoicing.
+        answer: D
+      - uid: BIB217.12.1.1.UPE.1
+        subobj: 12.1.1
+        type: upe
+        question: Whom was Paul sending to Philippi that had a genuine interest in
+          their welfare and who put the interests of Christ above his own?
+        choices:
+          A: Timothy
+          B: Epaphras
+          C: Tychicus
+          D: Epaphroditus
+        answer: A
+      - uid: BIB217.12.1.1.TY.1
+        subobj: 12.1.1
+        type: ty
+        question: Two servant leaders who assisted Paul and are mentioned in Philippians
+          are
+        choices:
+          A: Luke and Timothy.
+          B: Tychicus and Epaphroditus.
+          C: Epaphras and Timothy.
+          D: Timothy and Epaphroditus.
+        answer: D
+      - uid: BIB217.12.1.1.TY.2
+        subobj: 12.1.1
+        type: ty
+        question: With whom did Paul have a father-son relationship?
+        choices:
+          A: Epaphras
+          B: Tychicus
+          C: Timothy
+          D: Epaphroditus
+        answer: C
+      - uid: BIB217.12.1.1.TY.3
+        subobj: 12.1.1
+        type: ty
+        question: Marks of a servant leader are having a genuine interest in the welfare
+          of others and a
+        choices:
+          A: charisma to lead people.
+          B: passion for the cause of Christ.
+          C: determination to complete a project that has been started.
+          D: passion to work hard.
+        answer: B
+      - uid: BIB217.12.1.2.UPE.1
+        subobj: 12.1.2
+        type: upe
+        question: In Philippians, whom does Paul call my brother, a fellow worker,
+          and a fellow soldier?
+        choices:
+          A: Epaphroditus
+          B: Epaphras
+          C: Tychicus
+          D: Timothy
+        answer: A
+      - uid: BIB217.12.1.2.UPE.2
+        subobj: 12.1.2
+        type: upe
+        question: Whom does Paul instruct the church in Philippi to welcome with great
+          joy and honor?
+        choices:
+          A: Epaphras
+          B: Tychicus
+          C: Timothy
+          D: Epaphroditus
+        answer: D
+      - uid: BIB217.12.1.2.TY.1
+        subobj: 12.1.2
+        type: ty
+        question: Who delivered the letter of Philippians to the church in Philippi?
+        choices:
+          A: Epaphras
+          B: Tychicus
+          C: Epaphroditus
+          D: Timothy
+        answer: C
+      - uid: BIB217.12.2.1.TY.1
+        subobj: 12.2.1
+        type: ty
+        question: How many times does Paul mention the concept of joy or rejoicing
+          in Philippians?
+        choices:
+          A: '12'
+          B: '16'
+          C: '20'
+          D: '23'
+        answer: B
+      - uid: BIB217.12.2.2.UPE.1
+        subobj: 12.2.2
+        type: upe
+        question: Legalism is dangerous because it
+        choices:
+          A: sets people up for failure.
+          B: adds requirements to salvation, making Christ’s sacrifice meaningless.
+          C: encourages people to seek out other religions.
+          D: destroys a believer’s joy in the Lord.
+        answer: B
+      - uid: BIB217.12.2.2.TY.1
+        subobj: 12.2.2
+        type: ty
+        question: What does Paul call the Judaizers in Philippians 3?
+        choices:
+          A: Evil workers, dogs, and mutilators of the flesh
+          B: Rats, scoundrels, and mutilators of the flesh
+          C: False teachers, rats, and scoundrels
+          D: False teachers, scoundrels, and dogs
+        answer: A
+      - uid: BIB217.12.2.3.UPE.1
+        subobj: 12.2.3
+        type: upe
+        question: For those living in a state of lawlessness, their
+        choices:
+          A: destiny is sure, their god is their pride, their glory is their shame,
+            and their mind is on evil things.
+          B: destiny is destruction, their god is their stomach, their glory is their
+            shame, and their mind is on earthly things.
+          C: destiny is sure, their god is their stomach, their glory is their shame,
+            and their mind is on heavenly things.
+          D: destiny is destruction, their god is their sinful desires, their glory
+            is their fame, and their mind is on earthly things.
+        answer: B
+      - uid: BIB217.12.2.3.TY.1
+        subobj: 12.2.3
+        type: ty
+        question: Lawlessness is also called
+        choices:
+          A: heathenism.
+          B: hedonism.
+          C: antinomianism.
+          D: atheism.
+        answer: C
+      - uid: BIB217.12.3.1.UPE.1
+        subobj: 12.3.1
+        type: upe
+        question: What was most important to Paul?
+        choices:
+          A: His national and religious heritage
+          B: His accomplishments and achievements
+          C: Knowing Christ
+          D: Knowledge and prestige
+        answer: C
+      - uid: BIB217.12.3.1.TY.1
+        subobj: 12.3.1
+        type: ty
+        question: Paul was of the tribe of
+        choices:
+          A: Judah.
+          B: Benjamin.
+          C: Manasseh.
+          D: Ephraim.
+        answer: B
+      - uid: BIB217.12.3.2.UPE.1
+        subobj: 12.3.2
+        type: upe
+        question: According to the IST, if believers want to walk in victory they
+          must focus on the prize, forget the past, forge ahead, forgo comparisons,
+          and face their
+        choices:
+          A: future.
+          B: deficiencies.
+          C: enemies.
+          D: fears.
+        answer: B
+      - uid: BIB217.12.3.2.TY.1
+        subobj: 12.3.2
+        type: ty
+        question: According to the IST, if believers want to walk in victory they
+          must
+        choices:
+          A: face their future, focus on the things of this world, forget the past,
+            forge ahead, and forgo comparisons.
+          B: face their enemies, focus on the future, forget the past, forge ahead,
+            and forgo comparisons.
+          C: face their deficiencies, focus on the prize, forget the past, forge ahead,
+            and forgo comparisons.
+          D: face their fears, focus on the prize, forget the past, be comfortable,
+            and forgo comparisons.
+        answer: C
+      - uid: BIB217.12.3.3.TY.1
+        subobj: 12.3.3
+        type: ty
+        question: For Paul, what type of citizenship was most important?
+        choices:
+          A: Heavenly
+          B: Roman
+          C: Jewish
+          D: Earthly
+        answer: A
+      - uid: BIB217.13.1.1.UPE.1
+        subobj: 13.1.1
+        type: upe
+        question: Who did Paul instruct to help with the reconciliation process between
+          Euodia and Syntyche?
+        choices:
+          A: Clement
+          B: Loyal yokefellow or Syzygus
+          C: Aristarchus
+          D: Epaphroditus
+        answer: B
+      - uid: BIB217.13.1.1.TY.1
+        subobj: 13.1.1
+        type: ty
+        question: Who were two key church leaders who had worked alongside Paul, but
+          were now in sharp disagreement?
+        choices:
+          A: Clement and Euodia
+          B: Euodia and Syntyche
+          C: Tychicus and Euodia
+          D: Clement and Syntyche
+        answer: B
+      - uid: BIB217.13.1.2.TY.1
+        subobj: 13.1.2
+        type: ty
+        question: According to Philippians 4:4, how often are believers instructed
+          to rejoice in the Lord?
+        choices:
+          A: Often
+          B: Daily
+          C: Always
+          D: When the need arises
+        answer: C
+      - uid: BIB217.13.1.2.TY.2
+        subobj: 13.1.2
+        type: ty
+        question: The believers at Philippi were losing perspective due to
+        choices:
+          A: severe persecution and hardship.
+          B: wealth and prosperity.
+          C: in fighting, outward attacks, and petty disagreements.
+          D: false teaching concerning the second coming of Christ.
+        answer: C
+      - uid: BIB217.13.1.3.UPE.1
+        subobj: 13.1.3
+        type: upe
+        question: According to Philippians 4:5, what trait should believers possess
+          in light of the Lord’s soon return?
+        choices:
+          A: Determination
+          B: Gentleness
+          C: Zeal
+          D: Peacefulness
+        answer: B
+      - uid: BIB217.13.1.3.TY.1
+        subobj: 13.1.3
+        type: ty
+        question: How is the Greek word epieikos translated in English?
+        choices:
+          A: “Gentleness”
+          B: “Affectionate”
+          C: “Loving”
+          D: “Self-controlled”
+        answer: A
+      - uid: BIB217.13.2.1.UPE.1
+        subobj: 13.2.1
+        type: upe
+        question: A believer’s prayers and petitions should be accompanied with
+        choices:
+          A: joy.
+          B: zeal.
+          C: thanksgiving.
+          D: patience.
+        answer: C
+      - uid: BIB217.13.2.1.UPE.2
+        subobj: 13.2.1
+        type: upe
+        question: In the place of anxiety, God gives believers
+        choices:
+          A: peace.
+          B: love.
+          C: patience.
+          D: grace.
+        answer: A
+      - uid: BIB217.13.2.1.TY.1
+        subobj: 13.2.1
+        type: ty
+        question: a) petition.
+        choices:
+          A: confession.
+          B: requests.
+          C: thanksgiving.
+        answer: B
+      - uid: BIB217.13.2.1.TY.2
+        subobj: 13.2.1
+        type: ty
+        question: What is Paul’s cure for anxiety based upon Philippians 4:6?
+        choices:
+          A: Trust in the Lord.
+          B: Stay busy doing the Lord’s work.
+          C: Practice positive thinking techniques.
+          D: Pray to God with thanksgiving.
+        answer: D
+      - uid: BIB217.13.2.1.TY.3
+        subobj: 13.2.1
+        type: ty
+        question: Based upon Philippians 4:7, what will God’s peace guard?
+        choices:
+          A: Heart
+          B: Emotions
+          C: Mind
+          D: Heart and mind
+        answer: D
+      - uid: BIB217.13.2.2.UPE.1
+        subobj: 13.2.2
+        type: upe
+        question: What eight things are believers to think about? Things that are
+        choices:
+          A: holy, honest, noble, pleasant, admirable, excellent, praiseworthy, and
+            right.
+          B: admirable, excellent, praiseworthy, honest, pleasant, right, and lovely.
+          C: true, admirable, noble, pleasant, honest, lovely, right, and praiseworthy.
+          D: true, noble, right, pure, lovely, admirable, excellent, and praiseworthy.
+        answer: D
+      - uid: BIB217.13.2.2.TY.1
+        subobj: 13.2.2
+        type: ty
+        question: What eight things are believers to think about? Things that are
+        choices:
+          A: holy, honest, noble, pleasant, admirable, excellent, praiseworthy, and
+            right.
+          B: true, noble, right, pure, lovely, admirable, excellent, and praiseworthy.
+          C: admirable, excellent, praiseworthy, honest, pleasant, right, and lovely.
+          D: true, admirable, noble, pleasant, honest, lovely, right, and praiseworthy.
+        answer: B
+      - uid: BIB217.13.3.1.TY.1
+        subobj: 13.3.1
+        type: ty
+        question: In Philippians 4:10, Paul greatly rejoiced
+        choices:
+          A: in the salvation of the Philippian believers.
+          B: that Christ was being preached throughout the palace guard.
+          C: that the church in Philippi renewed concern for him.
+          D: in his trials and imprisonment.
+        answer: C
+      - uid: BIB217.13.3.2.UPE.1
+        subobj: 13.3.2
+        type: upe
+        question: What was Paul’s source of contentment?
+        choices:
+          A: Food
+          B: Clothes
+          C: Christ
+          D: Finances
+        answer: C
+      - uid: BIB217.13.3.2.TY.1
+        subobj: 13.3.2
+        type: ty
+        question: The key to contentment is
+        choices:
+          A: being well-fed.
+          B: financial security.
+          C: Christ, who provides security and satisfaction for the believer.
+          D: ideal circumstances.
+        answer: C
     - pn: 03.24.01
       course_code: BIB217
       source_html: BIB117.html
