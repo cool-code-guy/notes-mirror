@@ -81,14 +81,14 @@ Published sequence toward Ordained Minister credentialing.
 
 | Code | Title | Level | Edition | Chapters | Lessons | Items |
 | --- | --- | --- | --- | --- | --- | --- |
-| [BIB111](courses/BIB111.md) | Old Testament Survey | 1 | 02.21.01 | 15 | 47 | 297 |
+| [BIB111](courses/BIB111.md) | Old Testament Survey | 1 | 01.26.01 | 15 | 47 | 297 |
 | [BIB114](courses/BIB114.md) | Christ in the Synoptic Gospels | 1 | 01.22.01 | 13 | 43 | 255 |
-| [BIB116](courses/BIB116.md) | New Testament Survey | 1 | 03.21.02 | 13 | 39 | 290 |
+| [BIB116](courses/BIB116.md) | New Testament Survey | 1 | 01.26.01 | 13 | 39 | 290 |
 | [BIB121](courses/BIB121.md) | Introduction to Hermeneutics | 1 | 03.23.01 | 15 | 42 | 281 |
 | [BIB211](courses/BIB211.md) | ⚠️ _Acts: The Holy Spirit at Work in Believers (unconfirmed)_ | 2 | 03.22.01 | 13 | 38 | 285 |
 | [BIB215](courses/BIB215.md) | ⚠️ _Romans: Justification by Faith (unconfirmed)_ | 2 | 03.22.01 | 8 | 26 | 244 |
 | [BIB217](courses/BIB217.md) | Prison Epistles | 2 | 01.26.01 | 13 | 40 | 301 |
-| [BIB313](courses/BIB313.md) | Corinthian Correspondence | 3 | 02.22.01 | 11 | 29 | 290 |
+| [BIB313](courses/BIB313.md) | Corinthian Correspondence | 3 | 03.26.01 | 11 | 29 | 290 |
 | [BIB318](courses/BIB318.md) | Pentateuch | 3 | 02.22.01 | 13 | 36 | 334 |
 | [BIB322](courses/BIB322.md) | The Poetic Books | 3 | 02.22.01 | 8 | 27 | 242 |
 | [MIN171](courses/MIN171.md) | Spirit-Empowered Church | 1 | 02.26.02 | 17 | 43 | 327 |
@@ -100,7 +100,7 @@ Published sequence toward Ordained Minister credentialing.
 | [MIN281](courses/MIN281.md) | Conflict Management | 2 | 02.22.01 | 7 | 25 | 228 |
 | [MIN325](courses/MIN325.md) | Preaching in the Contemporary World | 3 | 03.26.01 | 12 | 27 | 297 |
 | [MIN327](courses/MIN327.md) | Church Administration Finance & Law | 3 | 02.22.01 | 14 | 54 | 335 |
-| [MIN381](courses/MIN381.md) | Pastoral Ministry | 3 | 03.22.01 | 15 | 46 | 310 |
+| [MIN381](courses/MIN381.md) | Pastoral Ministry | 3 | 04.26.01 | 15 | 46 | 310 |
 | [THE118](courses/THE118.md) | Introduction to Theology | 1 | 04.22.01 | 13 | 36 | 199 |
 | [THE154](courses/THE154.md) | History, Missions, and Governance | 1 | 01.26.06 | 14 | 57 | 375 |
 | [THE245](courses/THE245.md) | Eschatology | 2 | 04.22.01 | 13 | 37 | 299 |

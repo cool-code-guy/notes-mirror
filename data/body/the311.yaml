@@ -1750,8 +1750,8 @@ courses:
       page: 235
     - title: Request for Printed Final Examination
       page: 237
-    revision_cycle_progress: 3.0
-    revision_cycle_timestamp: '2026-04-01'
+    revision_cycle_progress: 3.25
+    revision_cycle_timestamp: '2026-08-26'
     revision_cycle_history:
       '3.0':
         timestamp: '2026-04-01'
@@ -1764,6 +1764,9 @@ courses:
         timestamp: '2010-01-01'
         precision: year
         source: colophon
+      '3.25':
+        timestamp: '2026-08-26'
+        PN: 03.22.01
     printings:
     - pn: 03.22.01
       course_code: THE311
