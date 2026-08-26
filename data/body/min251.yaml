@@ -647,6 +647,10 @@ courses:
       '3.0':
         timestamp: '2026-08-05'
         PN: 03.26.01
+      '1.0':
+        timestamp: '2006-01-01'
+        precision: year
+        source: colophon
     body_baseline_pn: 03.26.01
     body_baseline_date: '2026-08-05'
     glossary:
@@ -1071,6 +1075,2065 @@ courses:
     - date: '2026-08-05'
       PN: 03.26.01
       note: 2026 joey ellis revision. ch1,ch11, and unit ii rewritten
+    printings:
+    - pn: 02.22.01
+      course_code: MIN251
+      source_html: MIN251.html
+      template: old
+      recorded: '2026-08-26'
+      note: 'Pristine print baseline built by scripts/build_html_baseline.py purely
+        from the InDesign HTML -- no DB input. Read-only: never hand-edit and never
+        feed to the janitor. UIDs are synthesized from the book''s own answer key;
+        diff pairs by content.'
+      counts:
+        ty: 120
+        upe: 75
+        final: 0
+      questions:
+      - uid: MIN251.1.1.1.UPE.1
+        subobj: 1.1.1
+        type: upe
+        question: The effective leader’s life is built on the foundation of
+        choices:
+          A: trustworthiness and self-discipline.
+          B: confidence and self-assurance.
+          C: education and experience.
+          D: eloquence and professionalism.
+        answer: A
+      - uid: MIN251.1.1.1.UPE.2
+        subobj: 1.1.1
+        type: upe
+        question: Daniel is a model of an effective leader because he
+        choices:
+          A: knew how to lead himself.
+          B: was young and vibrant.
+          C: lived away from his family.
+          D: loved God with all his heart.
+        answer: A
+      - uid: MIN251.1.1.1.TY.1
+        subobj: 1.1.1
+        type: ty
+        question: Dr. Kane’s discovery of a local anesthetic demonstrated what aspect
+          of leadership?
+        choices:
+          A: Encouraging others
+          B: Training
+          C: Vision
+          D: Character
+        answer: C
+      - uid: MIN251.1.1.1.TY.2
+        subobj: 1.1.1
+        type: ty
+        question: Which of the following statements concerning character is not true?
+        choices:
+          A: A person’s character has little impact on trust.
+          B: One must have strong character to establish trust.
+          C: Character enables the leader to do what is right even when it is difficult.
+          D: If a leader does not keep his or her word, suffering follows and the
+            strength of societies dissolves.
+        answer: A
+      - uid: MIN251.1.2.1.UPE.1
+        subobj: 1.2.1
+        type: upe
+        question: Daniel struggled with a new knowledge in that
+        choices:
+          A: he learned to integrate his old teachings with his new beliefs.
+          B: he was required to teach his beliefs to the Babylonians.
+          C: the Babylonians taught polytheism, not just one God, Jehovah.
+          D: the Babylonians taught him Deism.
+        answer: C
+      - uid: MIN251.1.2.1.UPE.2
+        subobj: 1.2.1
+        type: upe
+        question: Why was it difficult for Daniel to accept a new name?
+        choices:
+          A: He would have chosen a different, more respectable, name.
+          B: His new name did not reflect his character.
+          C: His name was regal, and he felt unworthy of it.
+          D: His new name was common.
+        answer: B
+      - uid: MIN251.1.2.1.UPE.3
+        subobj: 1.2.1
+        type: upe
+        question: In response to Daniel’s stand to eat only certain foods, his captors
+        choices:
+          A: gave him respect and the opportunity to prove himself.
+          B: laughed at him and mocked him.
+          C: sent him to do slave labor.
+          D: forced him to eat what the king required.
+        answer: A
+      - uid: MIN251.1.2.1.TY.1
+        subobj: 1.2.1
+        type: ty
+        question: Which of the following accurately describes Daniel’s experience
+          in a new home?
+        choices:
+          A: Babylon offered familiar activities and customs.
+          B: Everything was new and foreign to Daniel.
+          C: Daniel’s new home offered him plenty of personal accountability.
+          D: Daniel found the wealth and comforts of Babylon to be attractive.
+        answer: B
+      - uid: MIN251.1.2.1.TY.2
+        subobj: 1.2.1
+        type: ty
+        question: Which of the following demonstrates the different thinking Daniel
+          found in Babylon?
+        choices:
+          A: Daniel’s home was monotheistic; Babylon was polytheistic.
+          B: Daniel’s home taught that God was the center of all things; Babylon placed
+            humans in the central place.
+          C: Daniel’s homeland held to a great dependence on God; Babylon was a place
+            of great human achievement.
+          D: All of the above are true.
+        answer: D
+      - uid: MIN251.1.2.1.TY.3
+        subobj: 1.2.1
+        type: ty
+        question: Which of the following was true of the food offered to Daniel in
+          Babylon?
+        choices:
+          A: It violated the dietary customs of his homeland.
+          B: It was of lesser variety than Daniel was used to.
+          C: It was limited to bread and water for all the prisoners.
+          D: It was similar to the food of Daniel’s homeland.
+        answer: A
+      - uid: MIN251.1.2.1.TY.4
+        subobj: 1.2.1
+        type: ty
+        question: By giving Daniel a new name, the Babylonians sought to
+        choices:
+          A: sever Daniel from the familiar things of his past.
+          B: change Daniel’s identity and remove hope of returning to his homeland.
+          C: connect Daniel to Babylonian culture.
+          D: do all of the above.
+        answer: D
+      - uid: MIN251.1.3.1.UPE.1
+        subobj: 1.3.1
+        type: upe
+        question: Daniel’s leadership style differed from other biblical prophets
+          in that he
+        choices:
+          A: was a strong preacher.
+          B: boldly proclaimed judgments.
+          C: used a team approach.
+          D: was a calm and cool diplomat.
+        answer: D
+      - uid: MIN251.1.3.1.UPE.2
+        subobj: 1.3.1
+        type: upe
+        question: Establishing godly patterns early in life is important because
+        choices:
+          A: future decisions depend on our established patterns.
+          B: it helps us earn the respect of those we lead.
+          C: it gives us more time to establish our leadership.
+          D: early mistakes prevent God from using us effectively.
+        answer: A
+      - uid: MIN251.1.3.1.UPE.3
+        subobj: 1.3.1
+        type: upe
+        question: Daniel’s peers tried to destroy his influence and reputation because
+        choices:
+          A: the king had overlooked Daniel’s lack of qualifications.
+          B: they envied his effectiveness and ascent to leadership.
+          C: Daniel attempted to discredit them.
+          D: Daniel was disloyal to the king.
+        answer: B
+      - uid: MIN251.1.3.1.UPE.4
+        subobj: 1.3.1
+        type: upe
+        question: When taken to Babylon, Daniel responded to the changes by
+        choices:
+          A: determining not to let himself feel anything; he just wanted to survive.
+          B: rebelling against his captors and enduring their punishment.
+          C: complying with all the new expectations to please his captors.
+          D: resolving early not to defile himself.
+        answer: D
+      - uid: MIN251.1.3.1.TY.1
+        subobj: 1.3.1
+        type: ty
+        question: Which of the statements below is not a part of Daniel’s response?
+        choices:
+          A: He refused the food he was offered.
+          B: He decided he would not defile himself.
+          C: He decided it would be easier to influence his captors if he pretended
+            to be one of them.
+          D: He maintained his personal habits of worship and prayer.
+        answer: C
+      - uid: MIN251.1.3.1.TY.2
+        subobj: 1.3.1
+        type: ty
+        question: Which of the following statements reflects his captors’ response
+          to Daniel’s stance?
+        choices:
+          A: He was treated with respect and given opportunity to prove himself.
+          B: He was immediately killed.
+          C: He was removed from the place of privilege and sent to do slave labor.
+          D: He was immediately made ruler over one-half of the land.
+        answer: A
+      - uid: MIN251.1.3.1.TY.3
+        subobj: 1.3.1
+        type: ty
+        question: Which of the following statements is not true of Daniel?
+        choices:
+          A: He told the truth even when it was risky.
+          B: He chose to do everything exactly as he was told in order to survive.
+          C: He lived the truth even when it was unpopular.
+          D: He consistently demonstrated strong character.
+        answer: B
+      - uid: MIN251.1.4.1.UPE.1
+        subobj: 1.4.1
+        type: upe
+        question: Interviewing a leader with integrity and monitoring your motives
+          are two steps toward
+        choices:
+          A: learning God’s commands.
+          B: taking responsibility for your actions.
+          C: disciplining yourself to be a person of integrity and character.
+          D: gaining respect of those around you.
+        answer: C
+      - uid: MIN251.1.4.1.TY.1
+        subobj: 1.4.1
+        type: ty
+        question: Which of the following will aid you in the development of character?
+        choices:
+          A: Discipline yourself to do the things you know are right even though you
+            do not enjoy doing them.
+          B: Ask those who demonstrate integrity how they built such character into
+            their lives.
+          C: Write out the promises you have made and take responsibility for them.
+          D: All of the above will aid you.
+        answer: D
+      - uid: MIN251.2.1.1.UPE.1
+        subobj: 2.1.1
+        type: upe
+        question: According to Acts 22:6-11, Paul’s two questions at his conversion
+          were “Who are you, Lord?” and
+        choices:
+          A: “Where are you, Lord?”
+          B: “Why are you blinding me?”
+          C: “What do you want me to do?”
+          D: “What have I done wrong?”
+        answer: C
+      - uid: MIN251.2.1.1.UPE.2
+        subobj: 2.1.1
+        type: upe
+        question: According to John Maxwell, what are the three crucial steps to successful
+          leadership?
+        choices:
+          A: Know your purpose, grow to your maximum potential, and sow seeds that
+            benefit others.
+          B: Know your purpose, articulate your purpose to those you lead, and sow
+            seeds that benefit others.
+          C: Articulate your purpose to those you lead, grow to your maximum potential,
+            and sow seeds that benefit others.
+          D: Know your purpose, grow to your maximum potential, and articulate your
+            purpose to those you lead.
+        answer: A
+      - uid: MIN251.2.1.1.UPE.3
+        subobj: 2.1.1
+        type: upe
+        question: Which statement MOST COMPLETELY describes how God uses our brokenness
+          for effective ministry?
+        choices:
+          A: God keeps us humble.
+          B: He allows us to see needs through His eyes, developing a true burden
+            to meet the needs.
+          C: He keeps us from developing a prideful spirit, even when faced with successful
+            ministry.
+          D: God needs to break our will and self-motivation.
+        answer: B
+      - uid: MIN251.2.1.1.TY.1
+        subobj: 2.1.1
+        type: ty
+        question: Which of the following is not on John Maxwell’s list of the three
+          crucial steps on the journey of successful leadership?
+        choices:
+          A: Grow to reach your maximum potential.
+          B: Sow seeds that benefit others.
+          C: Choose large organizations.
+          D: Know your purpose in life.
+        answer: C
+      - uid: MIN251.2.1.1.TY.2
+        subobj: 2.1.1
+        type: ty
+        question: What is the best description of brokenness?
+        choices:
+          A: Allowing your heart to break over a specific need and being motivated
+            to make a difference in meeting that need
+          B: Admitting your weaknesses readily
+          C: Making a list of personal failures for regular review
+          D: Maintaining a neutral self-image so pride will not take hold
+        answer: A
+      - uid: MIN251.2.1.1.TY.3
+        subobj: 2.1.1
+        type: ty
+        question: What does character do for a leader?
+        choices:
+          A: Communicates credibility
+          B: Creates consistency
+          C: Earns trust
+          D: All of the above will benefit a leader.
+        answer: D
+      - uid: MIN251.2.1.2.UPE.1
+        subobj: 2.1.2
+        type: upe
+        question: A secure leader is one who
+        choices:
+          A: focuses on titles of position.
+          B: draws strength from image.
+          C: pursues status among others.
+          D: wants to add value to others.
+        answer: D
+      - uid: MIN251.2.1.2.TY.1
+        subobj: 2.1.2
+        type: ty
+        question: Which of the following is not one of the questions to be asked in
+          determining your God-given purpose?
+        choices:
+          A: What do others affirm about me?
+          B: What are my desires and talents?
+          C: What are my burdens?
+          D: What will my current income allow me to do?
+        answer: D
+      - uid: MIN251.2.1.2.TY.2
+        subobj: 2.1.2
+        type: ty
+        question: Which of the following is one of the three types of prayer and its
+          proper definition?
+        choices:
+          A: Seek—this is the prayer of faith.
+          B: Knock—this is the prayer of dedication, seeking to know God’s will.
+          C: Seek—this is the prayer of dedication, seeking to know God’s will.
+          D: Ask—this is the prayer of intercession, praying for those who cannot
+            pray for themselves.
+        answer: C
+      - uid: MIN251.2.1.2.TY.3
+        subobj: 2.1.2
+        type: ty
+        question: Which of the following must a Bible student consider to understand
+          the meaning of the biblical text?
+        choices:
+          A: One time—What did it mean to the original audience?
+          B: All time—What is the universal and timeless principle to be learned?
+          C: Now time—What should we do in response to it?
+          D: A Bible student must consider all of the above.
+        answer: D
+      - uid: MIN251.2.2.1.UPE.1
+        subobj: 2.2.1
+        type: upe
+        question: In Hebrews 11, each person’s embracing and owning God’s promises
+          as his or her own showed
+        choices:
+          A: vision.
+          B: confidence.
+          C: passion.
+          D: dreams.
+        answer: C
+      - uid: MIN251.2.2.1.UPE.2
+        subobj: 2.2.1
+        type: upe
+        question: In Hebrews 11, each individual’s assurance of God’s promises showed
+          the quality of
+        choices:
+          A: vision.
+          B: confidence.
+          C: resolve.
+          D: dreams.
+        answer: B
+      - uid: MIN251.2.2.1.TY.1
+        subobj: 2.2.1
+        type: ty
+        question: Which of the following is not one of the items the men and women
+          of Hebrews 11 had in common?
+        choices:
+          A: Survival skills
+          B: Confidence
+          C: Dreams
+          D: Passion
+        answer: A
+      - uid: MIN251.2.2.1.TY.2
+        subobj: 2.2.1
+        type: ty
+        question: Which of the following is a characteristic of a secure leader?
+        choices:
+          A: Focuses on titles
+          B: Wants to add value to others
+          C: Pursues status with others
+          D: All of the above are characteristics of a secure leader.
+        answer: B
+      - uid: MIN251.2.2.1.TY.3
+        subobj: 2.2.1
+        type: ty
+        question: Which of the following characterizes anointed leaders?
+        choices:
+          A: Their deeds are consistent with their words.
+          B: Their hearts overflow with praise to God.
+          C: Their lives are marked by biblical stewardship.
+          D: All of the above are true.
+        answer: D
+      - uid: MIN251.2.2.1.TY.4
+        subobj: 2.2.1
+        type: ty
+        question: Which of the following statements is not true concerning humility?
+        choices:
+          A: As you rise higher in leadership, your mistakes have less impact.
+          B: A leader is not more important than his or her people, but his or her
+            actions are more important.
+          C: Humility is risky but it usually pays off in increased credibility.
+          D: A leader must recognize the interdependence of himself or herself and
+            those he or she leads.
+        answer: A
+      - uid: MIN251.2.2.2.UPE.1
+        subobj: 2.2.2
+        type: upe
+        question: The five words that represent how Spirit-filled disciples serve
+          the Lord are
+        choices:
+          A: lips, love, lasting, liberty, loot.
+          B: lips, lives, lasting, liberty, loot.
+          C: lips, lives, love, liberty, loot.
+          D: love, lives, lasting, liberty, loot.
+        answer: C
+      - uid: MIN251.3.1.1.UPE.1
+        subobj: 3.1.1
+        type: upe
+        question: A leader who is willing to let others see inside his or her life
+          has a high level of
+        choices:
+          A: authenticity.
+          B: accountability.
+          C: accuracy.
+          D: availability.
+        answer: B
+      - uid: MIN251.3.1.1.UPE.2
+        subobj: 3.1.1
+        type: upe
+        question: The apostle Paul did NOT describe the accountability relationship
+          between
+        choices:
+          A: master and servant.
+          B: farmer and soil.
+          C: mother and child.
+          D: coworkers.
+        answer: C
+      - uid: MIN251.3.1.1.TY.1
+        subobj: 3.1.1
+        type: ty
+        question: Which of the following is true concerning the nearly 400 leaders
+          recorded in the Bible?
+        choices:
+          A: All were Israelites.
+          B: Each experienced a supernatural moment of calling.
+          C: Only about 25 percent finished their lives in the will of God.
+          D: All of the above are true.
+        answer: C
+      - uid: MIN251.3.1.1.TY.2
+        subobj: 3.1.1
+        type: ty
+        question: Which of the following is not one of the accountability relationships
+          the apostle Paul addresses?
+        choices:
+          A: Coach and athlete
+          B: Masters and servants
+          C: Farmers and soil
+          D: Father and son
+        answer: A
+      - uid: MIN251.3.1.1.TY.3
+        subobj: 3.1.1
+        type: ty
+        question: Which of the following is a characteristic of a servant leader?
+        choices:
+          A: Is motivated by love to serve others
+          B: Receives servant ministry from others
+          C: Lives a blessed life
+          D: All the above are characteristics of a servant leader.
+        answer: D
+      - uid: MIN251.3.1.1.TY.4
+        subobj: 3.1.1
+        type: ty
+        question: Which of the following is not illustrated by the example of the
+          farmer and the soil?
+        choices:
+          A: Accountability
+          B: Diligence
+          C: Efficiency
+          D: Patience
+        answer: C
+      - uid: MIN251.3.1.1.TY.5
+        subobj: 3.1.1
+        type: ty
+        question: To whom is the servant to be loyal?
+        choices:
+          A: To those he or she serves
+          B: To the body of Christ
+          C: To the One who has called him or her
+          D: The servant is to be loyal to all of the above.
+        answer: D
+      - uid: MIN251.3.2.1.UPE.1
+        subobj: 3.2.1
+        type: upe
+        question: A pastor’s most serious responsibility is to
+        choices:
+          A: handle God’s Word accurately and relevantly.
+          B: manage staff successfully.
+          C: prepare a weekly sermon.
+          D: balance his or her personal and professional life.
+        answer: A
+      - uid: MIN251.3.2.1.TY.1
+        subobj: 3.2.1
+        type: ty
+        question: Which of the following is not a true statement concerning Joseph?
+        choices:
+          A: He managed Potiphar’s household.
+          B: He saw himself as accountable to both God and his master.
+          C: He felt that he had to be obedient only to his Babylonian captors.
+          D: He sought to honor God by his service to Potiphar.
+        answer: C
+      - uid: MIN251.3.2.1.TY.2
+        subobj: 3.2.1
+        type: ty
+        question: Which of the following does God require from His leaders?
+        choices:
+          A: Faithfulness
+          B: Brilliance
+          C: Articulation
+          D: Creativity
+        answer: A
+      - uid: MIN251.3.2.1.TY.3
+        subobj: 3.2.1
+        type: ty
+        question: Which of the following co-laborers of Paul does Paul use to illustrate
+          faithfulness?
+        choices:
+          A: Timothy
+          B: Epaphras
+          C: Tychicus
+          D: He uses all of the above.
+        answer: D
+      - uid: MIN251.3.3.1.UPE.1
+        subobj: 3.3.1
+        type: upe
+        question: According to John Maxwell, the best way to “multiply” your ministry
+          is to
+        choices:
+          A: lead followers.
+          B: advertise.
+          C: lead leaders.
+          D: develop a five-year plan.
+        answer: C
+      - uid: MIN251.3.3.1.TY.1
+        subobj: 3.3.1
+        type: ty
+        question: Which of the following is the mark of a true leader?
+        choices:
+          A: Fruitfulness
+          B: Excellence
+          C: Organization
+          D: Creativity
+        answer: A
+      - uid: MIN251.3.3.1.TY.2
+        subobj: 3.3.1
+        type: ty
+        question: Which passage contains the path for a life of fruitfulness?
+        choices:
+          A: Romans 8:18–19
+          B: 2 Corinthians 2:5–7
+          C: 1 Corinthians 2:14–15
+          D: 1 Corinthians 4:1–2
+        answer: D
+      - uid: MIN251.4.1.1.UPE.1
+        subobj: 4.1.1
+        type: upe
+        question: Joseph’s extended season of testing may have come because he
+        choices:
+          A: already knew how to follow; he just needed to learn how to lead.
+          B: needed to provide a positive role model for Potiphar’s wife.
+          C: was not yet old enough to fulfill God’s dream for him.
+          D: needed to learn trust and patience.
+        answer: D
+      - uid: MIN251.4.2.1.UPE.1
+        subobj: 4.2.1
+        type: upe
+        question: Every growing leader should embrace the truth that
+        choices:
+          A: tests occur only at certain stages of growth.
+          B: every promotion is followed by a test.
+          C: self-promotion and human promotion cannot replace divine promotion.
+          D: our goal should be to pass most of our tests.
+        answer: C
+      - uid: MIN251.4.2.1.TY.1
+        subobj: 4.2.1
+        type: ty
+        question: Which of the following did Joseph learn in the household of Potiphar?
+        choices:
+          A: He learned to work hard.
+          B: He learned self-control.
+          C: He learned faith in times of adversity.
+          D: He learned all of the above.
+        answer: D
+      - uid: MIN251.4.2.1.TY.2
+        subobj: 4.2.1
+        type: ty
+        question: Which of the following is not one of the revelations of a leader’s
+          testing?
+        choices:
+          A: Inward penitence
+          B: Inward plateau
+          C: Inward poverty
+          D: Inward progress
+        answer: A
+      - uid: MIN251.4.2.1.TY.3
+        subobj: 4.2.1
+        type: ty
+        question: In Kevin Myers’s baseball diamond illustration, which is first base?
+        choices:
+          A: Community
+          B: Character
+          C: Competence
+          D: Communication
+        answer: B
+      - uid: MIN251.4.2.1.TY.4
+        subobj: 4.2.1
+        type: ty
+        question: The test of motivation
+        choices:
+          A: proves our faithfulness and potential.
+          B: proves how we handle resources.
+          C: reveals why we do the right thing.
+          D: displays our integrity.
+        answer: C
+      - uid: MIN251.4.3.1.UPE.1
+        subobj: 4.3.1
+        type: upe
+        question: Which test examines why we do certain tasks?
+        choices:
+          A: Faith test
+          B: Credibility test
+          C: Motivation test
+          D: Forgiveness test
+        answer: C
+      - uid: MIN251.4.3.1.UPE.2
+        subobj: 4.3.1
+        type: upe
+        question: Which test reveals whether we are depending on our own ability?
+        choices:
+          A: Faith test
+          B: Warfare test
+          C: Wilderness test
+          D: Lordship test
+        answer: D
+      - uid: MIN251.4.3.1.TY.1
+        subobj: 4.3.1
+        type: ty
+        question: The test of credibility
+        choices:
+          A: reveals how we handle resources.
+          B: displays our integrity.
+          C: proves our faithfulness and potential.
+          D: reveals why we do the right thing.
+        answer: B
+      - uid: MIN251.4.3.1.TY.2
+        subobj: 4.3.1
+        type: ty
+        question: The test of stewardship
+        choices:
+          A: displays our integrity.
+          B: proves our faithfulness and potential.
+          C: proves how we handle resources.
+          D: reveals why we do the right thing.
+        answer: C
+      - uid: MIN251.4.3.1.TY.3
+        subobj: 4.3.1
+        type: ty
+        question: The wilderness test
+        choices:
+          A: reveals our spiritual dryness and willingness to change and grow.
+          B: proves our faithfulness and potential.
+          C: exposes our attitude and willing submission toward God-given authority.
+          D: shows we are not easily offended.
+        answer: A
+      - uid: MIN251.4.3.1.TY.4
+        subobj: 4.3.1
+        type: ty
+        question: The test of forgiveness
+        choices:
+          A: exposes our attitude and willing submission toward God-given authority.
+          B: shows our spiritual dryness and willingness to change and grow.
+          C: proves our faithfulness and potential.
+          D: reveals we are not easily offended.
+        answer: D
+      - uid: MIN251.4.3.1.TY.5
+        subobj: 4.3.1
+        type: ty
+        question: The test of small things
+        choices:
+          A: reveals the quality of our response to God-given opportunities and our
+            commitment to finish the task.
+          B: proves our faithfulness and potential.
+          C: exposes our attitude and willing submission toward God-given authority.
+          D: exposes our ability to overcome every adversity we face.
+        answer: B
+      - uid: MIN251.4.3.1.TY.6
+        subobj: 4.3.1
+        type: ty
+        question: The test of time
+        choices:
+          A: reveals the quality of our response to God-given opportunities and our
+            commitment to finish the task.
+          B: exposes our attitude and willing submission toward God-given authority.
+          C: exposes our ability to overcome every adversity we face.
+          D: reveals we are not easily offended.
+        answer: A
+      - uid: MIN251.5.1.1.UPE.1
+        subobj: 5.1.1
+        type: upe
+        question: Which book gives tremendous insight into the early church’s growth
+          and operations?
+        choices:
+          A: Luke
+          B: Acts
+          C: 2 Corinthians
+          D: James
+        answer: B
+      - uid: MIN251.5.1.1.UPE.2
+        subobj: 5.1.1
+        type: upe
+        question: How was worship manifested in the early church?
+        choices:
+          A: The music took at least half of their service time.
+          B: Worship was designed to be a great event.
+          C: Worship was a regular part of their routine.
+          D: Worship was more than an event; it was a life attitude.
+        answer: D
+      - uid: MIN251.5.1.1.UPE.3
+        subobj: 5.1.1
+        type: upe
+        question: The word disciple means
+        choices:
+          A: “follower.”
+          B: “learner.”
+          C: “teacher.”
+          D: “encourager.”
+        answer: B
+      - uid: MIN251.5.1.1.UPE.4
+        subobj: 5.1.1
+        type: upe
+        question: The most effective means of reaching the unsaved in our current
+          society is through
+        choices:
+          A: newspaper advertising.
+          B: Christian coffee shops.
+          C: relationships.
+          D: door-to-door evangelism.
+        answer: C
+      - uid: MIN251.5.1.1.TY.1
+        subobj: 5.1.1
+        type: ty
+        question: Which of the following is not mentioned as true of the early church
+          in Acts 2?
+        choices:
+          A: They met for worship.
+          B: They ate together.
+          C: They held annual councils.
+          D: They shared their possessions.
+        answer: C
+      - uid: MIN251.5.1.1.TY.2
+        subobj: 5.1.1
+        type: ty
+        question: Which of the following is not related to the idea of fellowship?
+        choices:
+          A: In the early church men sat apart from women during worship services.
+          B: Jesus commanded us to love one another.
+          C: Our fellowship is to be based on shared relationship with Christ.
+          D: All of the above are related to the idea of fellowship.
+        answer: A
+      - uid: MIN251.5.1.1.TY.3
+        subobj: 5.1.1
+        type: ty
+        question: Which of the following is not one of the words that describe a disciple
+          of Jesus Christ?
+        choices:
+          A: Saint
+          B: Servant
+          C: Apostle
+          D: Soldier
+        answer: C
+      - uid: MIN251.5.1.1.TY.4
+        subobj: 5.1.1
+        type: ty
+        question: Which of the following is a part of the mission of the church?
+        choices:
+          A: People who are committed to live their lives in worship
+          B: People who walk in biblical relationship and love toward others
+          C: People reaching out their arms to touch a hurting world
+          D: All of the above are part of the mission of the church.
+        answer: D
+      - uid: MIN251.5.2.1.UPE.1
+        subobj: 5.2.1
+        type: upe
+        question: What is NOT a reason to have a mission statement?
+        choices:
+          A: It provides long-term direction and stability for a church.
+          B: It captures the heart of the church’s ministry.
+          C: It gives evangelists a sense of the church’s needs.
+          D: It declares a church’s biblical philosophy.
+        answer: C
+      - uid: MIN251.5.2.1.TY.1
+        subobj: 5.2.1
+        type: ty
+        question: Which of the following is not a basis for the significance of a
+          mission statement?
+        choices:
+          A: A mission statement provides long-term direction and stability.
+          B: A mission statement provides a competitive advantage.
+          C: A mission statement declares a church’s biblical philosophy.
+          D: A mission statement captures the heart of your ministry.
+        answer: B
+      - uid: MIN251.5.2.1.TY.2
+        subobj: 5.2.1
+        type: ty
+        question: Which of the following is not a use of a mission statement?
+        choices:
+          A: To change the constitution and bylaws
+          B: To evaluate and potentially eliminate ministries
+          C: To keep the efforts of the group on track
+          D: To determine the viability of a ministry possibility
+        answer: A
+      - uid: MIN251.5.2.1.TY.3
+        subobj: 5.2.1
+        type: ty
+        question: When a church is in conflict, what could be the possible cause?
+        choices:
+          A: A lost sense of the need to reach the lost
+          B: Disagreement over the true mission of the church
+          C: No awareness of the mission of the church
+          D: All of the above are possible causes.
+        answer: D
+      - uid: MIN251.5.2.1.TY.4
+        subobj: 5.2.1
+        type: ty
+        question: Which of the following is not a part of the Assemblies of God statement
+          concerning the mission of the church?
+        choices:
+          A: A place where men and women of all nationalities and social strata can
+            fellowship together
+          B: A corporate body where people can worship God
+          C: An agency of God to evangelize the world
+          D: A channel of God’s purpose to build a body of saints being perfected
+            in His image
+        answer: A
+      - uid: MIN251.5.2.2.UPE.1
+        subobj: 5.2.2
+        type: upe
+        question: The mission statement should be understood on
+        choices:
+          A: a graduate level.
+          B: a college level.
+          C: a high school level.
+          D: an elementary level.
+        answer: D
+      - uid: MIN251.5.2.2.TY.1
+        subobj: 5.2.2
+        type: ty
+        question: Which is among the four tests of a great mission?
+        choices:
+          A: It is quotable.
+          B: It matches ministries.
+          C: It is affirmed by Scripture.
+          D: All of the above are among the four tests of a great mission.
+        answer: D
+      - uid: MIN251.5.2.2.TY.2
+        subobj: 5.2.2
+        type: ty
+        question: Which of the following works against the idea of a quotable mission
+          statement?
+        choices:
+          A: Visual concepts
+          B: Short phrases
+          C: Alliterative word usage
+          D: Long sentences
+        answer: D
+      - uid: MIN251.6.1.1.UPE.1
+        subobj: 6.1.1
+        type: upe
+        question: What characterizes God-given vision?
+        choices:
+          A: It is created on the leader’s gifts and skills.
+          B: Its fulfillment depends on the leader’s obedience.
+          C: Other organizations are seen as competitors.
+          D: It may be put aside for something better.
+        answer: B
+      - uid: MIN251.6.1.1.UPE.2
+        subobj: 6.1.1
+        type: upe
+        question: Human-made vision is
+        choices:
+          A: based on the goal to build the organization.
+          B: received as a revelation from God.
+          C: accompanied by inward peace and outward opposition.
+          D: captivating until fulfilled.
+        answer: A
+      - uid: MIN251.6.1.1.UPE.3
+        subobj: 6.1.1
+        type: upe
+        question: The vision of the church answers what question?
+        choices:
+          A: Why does the church exist?
+          B: What is this church about?
+          C: Where would we like to see our church in five years?
+          D: What will the church become if God’s vision is fulfilled?
+        answer: D
+      - uid: MIN251.6.1.1.UPE.4
+        subobj: 6.1.1
+        type: upe
+        question: It is true that vision
+        choices:
+          A: discourages people and decreases commitment.
+          B: makes one church seem like every other.
+          C: creates enthusiasm and energy.
+          D: creates confusion about the direction the church should pursue.
+        answer: C
+      - uid: MIN251.6.1.1.TY.1
+        subobj: 6.1.1
+        type: ty
+        question: Which of the following is not a characteristic of God-given vision?
+        choices:
+          A: Its fulfillment rests on obedience.
+          B: Its goal is to serve people.
+          C: Other similar organizations are seen as competitors.
+          D: It is accompanied by inward peace and outward opposition.
+        answer: C
+      - uid: MIN251.6.1.1.TY.2
+        subobj: 6.1.1
+        type: ty
+        question: Which of the following is not a characteristic of a human-made vision?
+        choices:
+          A: It is compelling and captivating until fulfilled.
+          B: You create it based on your gifts and skills.
+          C: Its fulfillment rests on staying ahead of others.
+          D: Its goal is to build your organization and generate volume.
+        answer: A
+      - uid: MIN251.6.1.1.TY.3
+        subobj: 6.1.1
+        type: ty
+        question: Which of the following roles must the leader fulfill in communicating
+          the vision?
+        choices:
+          A: Artist
+          B: Prophet
+          C: Lobbyist
+          D: The leader must fulfill all of the above roles.
+        answer: D
+      - uid: MIN251.6.1.1.TY.4
+        subobj: 6.1.1
+        type: ty
+        question: True of vision is that it
+        choices:
+          A: discourages people and decreases commitment.
+          B: makes your church seem like every other.
+          C: creates enthusiasm and energy.
+          D: creates confusion as to the direction the church should pursue.
+        answer: C
+      - uid: MIN251.6.2.1.UPE.1
+        subobj: 6.2.1
+        type: upe
+        question: Many business people become frustrated with the church because
+        choices:
+          A: the church caters to the uneducated.
+          B: most churches lack vision and direction.
+          C: it is more common to work on Sunday.
+          D: the church’s social life does not relate to them.
+        answer: B
+      - uid: MIN251.6.2.1.UPE.2
+        subobj: 6.2.1
+        type: upe
+        question: The people should be involved in forming and implementing the vision
+          statement because
+        choices:
+          A: involvement prevents conflict.
+          B: involvement gives new people a sense of belonging.
+          C: leaders take others with them, developing more leaders.
+          D: the pastor should use his or her time for other things.
+        answer: C
+      - uid: MIN251.6.2.1.TY.1
+        subobj: 6.2.1
+        type: ty
+        question: God’s vision can only be accomplished by the mobilization of
+        choices:
+          A: the church body using their gifts and talents.
+          B: the senior pastor and two or three professional consultants.
+          C: a broad donor base.
+          D: the pastoral staff and the church’s lay leaders.
+        answer: A
+      - uid: MIN251.6.3.1.UPE.1
+        subobj: 6.3.1
+        type: upe
+        question: The vision must connect with a person’s
+        choices:
+          A: mind and emotions.
+          B: soul and spirit.
+          C: body and mind.
+          D: eyes and ears.
+        answer: A
+      - uid: MIN251.6.3.1.UPE.2
+        subobj: 6.3.1
+        type: upe
+        question: Which principle is NOT a factor in sharing the vision?
+        choices:
+          A: Paint pictures on the inside of people.
+          B: Advise against personal commitment.
+          C: Create an atmosphere.
+          D: Embrace the vision.
+        answer: B
+      - uid: MIN251.6.3.1.TY.1
+        subobj: 6.3.1
+        type: ty
+        question: The truth regarding vision that is illustrated by the image of a
+          cart being pulled by two horses is that
+        choices:
+          A: we need to return to old-fashioned methods.
+          B: to bring people into the vision, we must speak to their minds and emotions.
+          C: we should consider at least two options before settling on one vision.
+          D: the vision should be fulfilled within the lowest budget possible.
+        answer: B
+      - uid: MIN251.6.3.1.TY.2
+        subobj: 6.3.1
+        type: ty
+        question: Which of the following must be involved in considering vision?
+        choices:
+          A: The people’s unique gifts
+          B: The talents of the congregation
+          C: The individual and collective potential of the people
+          D: All of the above must be involved in considering vision.
+        answer: D
+      - uid: MIN251.6.3.1.TY.3
+        subobj: 6.3.1
+        type: ty
+        question: Which of the following is one of the questions listed in our text
+          that can evaluate whether or not you have made the vision your own?
+        choices:
+          A: Is your church retaining newcomers?
+          B: What has been done before in this church?
+          C: What are the financial considerations?
+          D: What convictions do you feel compelled to pursue?
+        answer: D
+      - uid: MIN251.6.3.1.TY.4
+        subobj: 6.3.1
+        type: ty
+        question: Which of the following is one of the questions that will help you
+          determine the people’s needs that your vision must address?
+        choices:
+          A: What do they persistently ask for?
+          B: What do they talk about?
+          C: What do they complain about?
+          D: What do they budget for their recreational spending?
+        answer: B
+      - uid: MIN251.6.3.1.TY.5
+        subobj: 6.3.1
+        type: ty
+        question: Which of the following indicates the depth of our passion to others?
+        choices:
+          A: Our courage and conviction
+          B: Our personal sacrifice
+          C: Our integrity and trustworthiness
+          D: All of the above indicate our passion.
+        answer: D
+      - uid: MIN251.7.1.1.UPE.1
+        subobj: 7.1.1
+        type: upe
+        question: Which of the pastor’s responsibilities listed is the most important?
+        choices:
+          A: Administration of the church
+          B: Development of leaders
+          C: Visitation
+          D: Counseling
+        answer: B
+      - uid: MIN251.7.1.1.TY.1
+        subobj: 7.1.1
+        type: ty
+        question: Which of the following is not among the ministry gifts mentioned
+          in Ephesians 4?
+        choices:
+          A: Administrator
+          B: Apostle
+          C: Evangelist
+          D: Teacher
+        answer: A
+      - uid: MIN251.7.1.1.TY.2
+        subobj: 7.1.1
+        type: ty
+        question: The first priority of pastoral ministry is
+        choices:
+          A: responding to denominational directives.
+          B: establishing outreach ministries.
+          C: preparing pulpit ministry.
+          D: preparing people for works of service.
+        answer: D
+      - uid: MIN251.7.1.1.TY.3
+        subobj: 7.1.1
+        type: ty
+        question: How did Jesus demonstrate the work of equipping others?
+        choices:
+          A: He died for the sins of the world.
+          B: He raised the dead.
+          C: He invested in the lives of His disciples.
+          D: He performed many miracles.
+        answer: C
+      - uid: MIN251.7.2.1.UPE.1
+        subobj: 7.2.1
+        type: upe
+        question: The purpose of training leadership is to
+        choices:
+          A: develop better programs.
+          B: provide assistance for the pastor.
+          C: encourage fellowship and friendships.
+          D: help people grow in Christ.
+        answer: D
+      - uid: MIN251.7.2.1.TY.1
+        subobj: 7.2.1
+        type: ty
+        question: The purpose of training leadership is to
+        choices:
+          A: have more effective ministry programs.
+          B: build up the body of Christ.
+          C: have greater ministry efficiency.
+          D: have help in getting the job done.
+        answer: B
+      - uid: MIN251.7.2.1.TY.2
+        subobj: 7.2.1
+        type: ty
+        question: God’s call for His people is
+        choices:
+          A: that every member of the body give life to others.
+          B: that every member of the body be essential.
+          C: that every member know his or her place in the body.
+          D: all of the above.
+        answer: D
+      - uid: MIN251.7.3.1.UPE.1
+        subobj: 7.3.1
+        type: upe
+        question: The most effective training ground for ministry is
+        choices:
+          A: a Bible college.
+          B: the local church.
+          C: Berean courses.
+          D: seminaries.
+        answer: B
+      - uid: MIN251.7.3.1.UPE.2
+        subobj: 7.3.1
+        type: upe
+        question: The Greek word katarismos means
+        choices:
+          A: “preparing.”
+          B: “encouraging.”
+          C: “uniting.”
+          D: “dividing.”
+        answer: A
+      - uid: MIN251.7.3.1.UPE.3
+        subobj: 7.3.1
+        type: upe
+        question: In helping the people become active in ministry, a pastor must
+        choices:
+          A: assign them a specific task each month.
+          B: advise them to try many areas of ministry until one fits their gifts.
+          C: help them to mend the broken areas of their lives.
+          D: provide feedback once a year.
+        answer: C
+      - uid: MIN251.7.3.1.TY.1
+        subobj: 7.3.1
+        type: ty
+        question: What must leaders sometimes do so that their people become what
+          they are called to be?
+        choices:
+          A: Assign them a specific task each month
+          B: Remove them from leadership roles for a season of prayer
+          C: Help them to mend the broken areas of their lives
+          D: Advise them to try many areas of ministry until one fits their gifts
+        answer: C
+      - uid: MIN251.7.3.1.TY.2
+        subobj: 7.3.1
+        type: ty
+        question: Which of the following is not a benefit of equipping ministry?
+        choices:
+          A: It will establish the pastor’s leadership in the community.
+          B: The church will be built up.
+          C: People will grow into spiritual maturity.
+          D: It will equip God’s people.
+        answer: A
+      - uid: MIN251.7.3.1.TY.3
+        subobj: 7.3.1
+        type: ty
+        question: What is the principal training ground for ministry?
+        choices:
+          A: Bible colleges
+          B: Evangelistic outreach events
+          C: A library of Christian books
+          D: The local church
+        answer: D
+      - uid: MIN251.7.3.1.TY.4
+        subobj: 7.3.1
+        type: ty
+        question: The Greek word katarismos means
+        choices:
+          A: “dividing.”
+          B: “encouraging.”
+          C: “uniting.”
+          D: “preparing.”
+        answer: D
+      - uid: MIN251.7.4.1.UPE.1
+        subobj: 7.4.1
+        type: upe
+        question: Jesus demonstrated the work of equipping others by
+        choices:
+          A: dying for the sins of the world.
+          B: rising from the dead.
+          C: investing in His disciples’ lives.
+          D: performing many miracles.
+        answer: C
+      - uid: MIN251.7.4.1.TY.1
+        subobj: 7.4.1
+        type: ty
+        question: What illustration did Jesus use to demonstrate the idea of servanthood?
+        choices:
+          A: Dismissing the servants in the upper room
+          B: Telling the parable of the talents
+          C: Giving His disciples the Great Commission
+          D: Removing His robe, wrapping himself with a towel, and washing His disciples’
+            feet
+        answer: D
+      - uid: MIN251.8.1.1.UPE.1
+        subobj: 8.1.1
+        type: upe
+        question: According to Chuck Swindoll, pastors get burned out because they
+        choices:
+          A: delegate too much.
+          B: disregard the important details.
+          C: are doers or nurturers.
+          D: resist codependency.
+        answer: C
+      - uid: MIN251.8.1.1.UPE.2
+        subobj: 8.1.1
+        type: upe
+        question: An equipping pastor is one who
+        choices:
+          A: focuses on people’s past successes.
+          B: leads every committee.
+          C: develops programs.
+          D: directs people toward important avenues of service.
+        answer: D
+      - uid: MIN251.8.1.1.UPE.3
+        subobj: 8.1.1
+        type: upe
+        question: The opposite of an equipping pastor is a
+        choices:
+          A: nurturing pastor.
+          B: growing pastor.
+          C: delegating pastor.
+          D: secure pastor.
+        answer: A
+      - uid: MIN251.8.1.1.TY.1
+        subobj: 8.1.1
+        type: ty
+        question: Which of the following is true of the role of a pastor?
+        choices:
+          A: The pastor’s primary task is to equip people for ministry.
+          B: The pastor often spends the majority of time nurturing people.
+          C: The pastor’s task is both similar to and more than that of a shepherd.
+          D: All of the above are true in regard to the role of a pastor.
+        answer: D
+      - uid: MIN251.8.1.1.TY.2
+        subobj: 8.1.1
+        type: ty
+        question: Which of the following is not a trait of the doing pastor?
+        choices:
+          A: Is task-focused
+          B: Places a high priority on being relational
+          C: Spends much time in care ministries
+          D: Offers a high level of availability to the needs of people
+        answer: A
+      - uid: MIN251.8.1.1.TY.3
+        subobj: 8.1.1
+        type: ty
+        question: Which of the following is not a trait of the equipping pastor?
+        choices:
+          A: Serves the church through management
+          B: Is task-focused
+          C: Trains people for ministry
+          D: Focuses on immediate needs
+        answer: D
+      - uid: MIN251.8.1.1.TY.4
+        subobj: 8.1.1
+        type: ty
+        question: Which of the following is not a trait of the developing pastor?
+        choices:
+          A: Seeks ministry through multiplication
+          B: Focuses on empowering people
+          C: Focuses on short-term matters
+          D: Trains people for personal growth
+        answer: C
+      - uid: MIN251.8.1.1.TY.5
+        subobj: 8.1.1
+        type: ty
+        question: Which of the following is a trait of a nurturer?
+        choices:
+          A: Draws fulfillment from doing the work
+          B: Empowers others to meet needs
+          C: Creates opportunities to mentor others
+          D: Focuses on the big picture
+        answer: A
+      - uid: MIN251.8.2.1.UPE.1
+        subobj: 8.2.1
+        type: upe
+        question: Accomplishing ministry through others is called the
+        choices:
+          A: Moses principle.
+          B: Jericho principle.
+          C: Jethro principle.
+          D: priesthood principle.
+        answer: C
+      - uid: MIN251.8.2.1.TY.1
+        subobj: 8.2.1
+        type: ty
+        question: What advice did Moses’ father-in-law provide?
+        choices:
+          A: To assign mentors to young people
+          B: To delegate responsibilities to qualified men
+          C: To work longer hours
+          D: To establish a reward system for law-abiding behavior
+        answer: B
+      - uid: MIN251.8.2.1.TY.2
+        subobj: 8.2.1
+        type: ty
+        question: What aspect of focus do we see both in the apostles and in Jethro’s
+          advice to Moses?
+        choices:
+          A: Insuring that the widows were being fed
+          B: Mapping out the direction to the Promised Land
+          C: Focusing on the Word of God and prayer
+          D: Communicating the vision for the Promised Land more effectively
+        answer: C
+      - uid: MIN251.8.2.1.TY.3
+        subobj: 8.2.1
+        type: ty
+        question: Which of the following is a trait of a leader?
+        choices:
+          A: Shepherds others
+          B: Reacts to moment-by-moment needs
+          C: Directly meets the needs of people
+          D: Finds fulfillment in equipping others
+        answer: D
+      - uid: MIN251.8.2.2.UPE.1
+        subobj: 8.2.2
+        type: upe
+        question: “Dumping” a task onto others means
+        choices:
+          A: handing down a task without training.
+          B: working alongside a person until he or she feels comfortable.
+          C: inviting laypeople to accompany the pastor in ministerial duties.
+          D: reading and discussing a book together.
+        answer: A
+      - uid: MIN251.8.2.2.TY.1
+        subobj: 8.2.2
+        type: ty
+        question: What must be included in the art of delegating?
+        choices:
+          A: Giving both responsibility and authority
+          B: Training the individual effectively
+          C: Explaining the assignment clearly and defining the measurement of success
+          D: All of the above must be included
+        answer: D
+      - uid: MIN251.8.2.2.TY.2
+        subobj: 8.2.2
+        type: ty
+        question: What is dumping ?
+        choices:
+          A: Giving someone a task you do not want and leaving him or her without
+            support
+          B: Letting someone else find joy in serving by connecting with their gifts
+          C: Training people to do the assignments they have been given
+          D: When parents drop off kids for children’s church and return for them
+            after morning service
+        answer: A
+      - uid: MIN251.9.1.1.UPE.1
+        subobj: 9.1.1
+        type: upe
+        question: Who was responsible for rebuilding the Jerusalem walls?
+        choices:
+          A: Moses
+          B: Nehemiah
+          C: Daniel
+          D: Joshua
+        answer: B
+      - uid: MIN251.9.1.1.UPE.2
+        subobj: 9.1.1
+        type: upe
+        question: If someone else in the congregation carries the influence, a pastor
+          should
+        choices:
+          A: influence the influencer.
+          B: ask the influencer to leave the church.
+          C: assert his or her authority.
+          D: try to develop a new influencer.
+        answer: A
+      - uid: MIN251.9.1.1.UPE.3
+        subobj: 9.1.1
+        type: upe
+        question: What is NOT a core principle of leadership?
+        choices:
+          A: Leadership is influence.
+          B: Everything rises and falls on leadership.
+          C: The supreme value of leadership is credibility.
+          D: Leadership is inborn; it cannot be taught.
+        answer: D
+      - uid: MIN251.9.1.1.TY.1
+        subobj: 9.1.1
+        type: ty
+        question: What is leadership?
+        choices:
+          A: Giving orders and getting what you want
+          B: Getting people to do your work
+          C: Influence
+          D: Solving everyone’s problems
+        answer: C
+      - uid: MIN251.9.1.1.TY.2
+        subobj: 9.1.1
+        type: ty
+        question: Which of the following is true of leadership?
+        choices:
+          A: Everything rises and falls on leadership.
+          B: Leadership takes responsibility for every area of the task.
+          C: Leadership requires the leader to possess faith in people.
+          D: All of the above are true statements about leadership.
+        answer: D
+      - uid: MIN251.9.1.1.TY.3
+        subobj: 9.1.1
+        type: ty
+        question: What is the most important ingredient to good leadership?
+        choices:
+          A: Organization
+          B: Credibility
+          C: Authority
+          D: Strong will
+        answer: B
+      - uid: MIN251.9.2.1.UPE.1
+        subobj: 9.2.1
+        type: upe
+        question: The lowest level of leadership is
+        choices:
+          A: permission.
+          B: position.
+          C: production.
+          D: people development.
+        answer: B
+      - uid: MIN251.9.2.1.TY.1
+        subobj: 9.2.1
+        type: ty
+        question: Which of the following is true of position leadership?
+        choices:
+          A: Your authority comes from relationship.
+          B: It is the second level of leadership.
+          C: People follow you because they have to.
+          D: This is where people sense success.
+        answer: C
+      - uid: MIN251.9.2.1.TY.2
+        subobj: 9.2.1
+        type: ty
+        question: Which of the following is true of production leadership?
+        choices:
+          A: People follow because of what you have done for the organization.
+          B: People follow because of what you have done for them personally.
+          C: Your influence is limited to the assigned tasks.
+          D: People follow out of devotion rather than duty.
+        answer: A
+      - uid: MIN251.9.2.1.TY.3
+        subobj: 9.2.1
+        type: ty
+        question: Which of the following is true of permission leadership?
+        choices:
+          A: People follow because of what you have done for them personally.
+          B: It is the first level of leadership.
+          C: People follow because they want to.
+          D: This is where long-range growth occurs.
+        answer: C
+      - uid: MIN251.9.3.1.UPE.1
+        subobj: 9.3.1
+        type: upe
+        question: Which statement is NOT one of the seven leadership truths?
+        choices:
+          A: The higher you go, the easier it is to lead.
+          B: At each level, you may put aside the principles of the level underneath.
+          C: You will not be on the same level with all of those who work with you.
+          D: The higher you go, the greater the growth.
+        answer: B
+      - uid: MIN251.9.3.1.TY.1
+        subobj: 9.3.1
+        type: ty
+        question: Which of the following is not true concerning climbing the steps
+          of leadership?
+        choices:
+          A: The higher you go, the less commitment you are required to demonstrate.
+          B: The higher you go, the longer it takes.
+          C: You never really leave the base level or the levels where you are.
+          D: You will not be on the same level with everyone you lead.
+        answer: A
+      - uid: MIN251.9.3.1.TY.2
+        subobj: 9.3.1
+        type: ty
+        question: Which of the following is among the list of ways to climb the leadership
+          levels?
+        choices:
+          A: Develop confidence in your people skills.
+          B: Recognize that people are your most valuable asset.
+          C: Live a life others want to imitate.
+          D: All of the above are among the ways to climb the leadership levels.
+        answer: D
+      - uid: MIN251.9.3.1.TY.3
+        subobj: 9.3.1
+        type: ty
+        question: Which of the following is true of leaders who develop followers?
+        choices:
+          A: They want to be replaced.
+          B: They focus on weakness.
+          C: They give away position and power.
+          D: They grow their ministry by developing more leaders.
+        answer: B
+      - uid: MIN251.9.3.1.TY.4
+        subobj: 9.3.1
+        type: ty
+        question: Which of the following is true of leaders who develop leaders?
+        choices:
+          A: They grow inside out.
+          B: They grow ministry by attracting more followers.
+          C: They need to be needed.
+          D: They hold on to position and power.
+        answer: A
+      - uid: MIN251.10.1.1.UPE.1
+        subobj: 10.1.1
+        type: upe
+        question: A church’s most appreciable asset is its
+        choices:
+          A: people.
+          B: building.
+          C: solid programs.
+          D: good savings plan.
+        answer: A
+      - uid: MIN251.10.1.1.UPE.2
+        subobj: 10.1.1
+        type: upe
+        question: A leader’s most important asset is his or her
+        choices:
+          A: people skills.
+          B: business skills.
+          C: good education.
+          D: years of experience.
+        answer: A
+      - uid: MIN251.10.1.1.UPE.3
+        subobj: 10.1.1
+        type: upe
+        question: In the story of the Good Samaritan, the priests saw the injured
+          man as
+        choices:
+          A: a victim to exploit.
+          B: a problem to avoid.
+          C: a person to be loved.
+          D: none of the above.
+        answer: B
+      - uid: MIN251.10.1.1.TY.1
+        subobj: 10.1.1
+        type: ty
+        question: Which of the following statements is false ?
+        choices:
+          A: People are a church’s most appreciable asset.
+          B: A leader’s most important asset is people skills.
+          C: The leader does not have to be able to relate to different types of people.
+          D: You can have people skills and not be a good leader.
+        answer: C
+      - uid: MIN251.10.1.1.TY.2
+        subobj: 10.1.1
+        type: ty
+        question: In the story of the Good Samaritan, what is true of the priests?
+        choices:
+          A: They were law keepers.
+          B: They saw the man as a victim to exploit.
+          C: They knew how it felt to be ignored.
+          D: They saw the man as a person to be loved.
+        answer: A
+      - uid: MIN251.10.1.1.TY.3
+        subobj: 10.1.1
+        type: ty
+        question: According to the lesson, within the word picture of a counselor
+          , the leader must
+        choices:
+          A: ask probing questions.
+          B: be an active listener.
+          C: show hospitality.
+          D: take people on a journey.
+        answer: B
+      - uid: MIN251.10.2.1.UPE.1
+        subobj: 10.2.1
+        type: upe
+        question: A key principle of human nature is that
+        choices:
+          A: hurting people reach out in love to others.
+          B: we must use our heads to deal with ourselves and others.
+          C: the key to today is a belief in tomorrow.
+          D: connecting with others means getting inside their head.
+        answer: C
+      - uid: MIN251.10.2.1.UPE.2
+        subobj: 10.2.1
+        type: upe
+        question: Which statement describes how most people think?
+        choices:
+          A: Their time is most precious.
+          B: They are willing to put others first.
+          C: They are willing to bypass their own problems.
+          D: They want their faults addressed.
+        answer: A
+      - uid: MIN251.10.2.1.TY.1
+        subobj: 10.2.1
+        type: ty
+        question: Which of the following statements is true concerning the insecurity
+          of people?
+        choices:
+          A: Most people are insecure in some area of their lives.
+          B: Most insecure people are looking for security.
+          C: A secure environment can only be provided by secure and confident people.
+          D: All of the statements above are true.
+        answer: D
+      - uid: MIN251.10.2.1.TY.2
+        subobj: 10.2.1
+        type: ty
+        question: When you affirm someone with words, you should
+        choices:
+          A: speak only in general terms.
+          B: be specific.
+          C: later write down what you said.
+          D: avoid making public statements because someone may become jealous.
+        answer: B
+      - uid: MIN251.10.2.1.TY.3
+        subobj: 10.2.1
+        type: ty
+        question: Which of the following questions can help discern what people really
+          care about?
+        choices:
+          A: What do they cry about?
+          B: What do they dream about?
+          C: What do they plan about?
+          D: All of the above are helpful questions.
+        answer: D
+      - uid: MIN251.10.2.1.TY.4
+        subobj: 10.2.1
+        type: ty
+        question: Which of the following statements is true concerning what most people
+          think?
+        choices:
+          A: They think their situation is unique.
+          B: They put the needs of others ahead of their own.
+          C: Their problems are not bigger than those of others.
+          D: They see the total picture.
+        answer: A
+      - uid: MIN251.10.3.1.UPE.1
+        subobj: 10.3.1
+        type: upe
+        question: The ABCs of relational skills are
+        choices:
+          A: attract, believe, and connect.
+          B: attract, believe, and care.
+          C: admire, befriend, and connect.
+          D: admire, believe, and connect.
+        answer: A
+      - uid: MIN251.10.3.1.UPE.2
+        subobj: 10.3.1
+        type: upe
+        question: One roadblock to great relationships is
+        choices:
+          A: moodiness.
+          B: humility.
+          C: stability.
+          D: dependability.
+        answer: A
+      - uid: MIN251.10.3.1.TY.1
+        subobj: 10.3.1
+        type: ty
+        question: Which of the following is not a part of establishing your own self
+          worth?
+        choices:
+          A: Focus on God and not your own situation.
+          B: Establish your worth according to God’s value system.
+          C: Solve all your issues before you try to help others.
+          D: Compassionately and consistently serve others.
+        answer: C
+      - uid: MIN251.10.3.1.TY.2
+        subobj: 10.3.1
+        type: ty
+        question: Which of the following is true concerning those who believe in others?
+        choices:
+          A: They focus on the strengths they see in others.
+          B: They believe every individual has something to contribute to God’s kingdom.
+          C: They see God-given potential in everyone.
+          D: They believe all of the above statements.
+        answer: D
+      - uid: MIN251.10.3.1.TY.3
+        subobj: 10.3.1
+        type: ty
+        question: Which of the following is not a roadblock to establishing great
+          relationships?
+        choices:
+          A: Confidence
+          B: Insecurity
+          C: Pride
+          D: Negative attitude
+        answer: A
+      - uid: MIN251.11.1.1.UPE.1
+        subobj: 11.1.1
+        type: upe
+        question: The key principle in the story of Mary and Martha in Luke 10 is
+        choices:
+          A: condemnation of those who work hard.
+          B: the priority of sitting at Jesus’ feet.
+          C: criticism of those who serve.
+          D: the importance of hospitality.
+        answer: B
+      - uid: MIN251.11.1.1.UPE.2
+        subobj: 11.1.1
+        type: upe
+        question: Jesus’ top priority was
+        choices:
+          A: servanthood.
+          B: ministry.
+          C: leadership development.
+          D: prayer.
+        answer: D
+      - uid: MIN251.11.1.1.TY.1
+        subobj: 11.1.1
+        type: ty
+        question: Which of the following statements is false concerning Jesus’ priorities?
+        choices:
+          A: Jesus got up early in the morning for quiet time with the Father.
+          B: Jesus knew that private prayer must precede public ministry.
+          C: Jesus allowed the needs of people to dictate His daily schedule.
+          D: Jesus had many demands on His time.
+        answer: C
+      - uid: MIN251.11.1.1.TY.2
+        subobj: 11.1.1
+        type: ty
+        question: Which of the following is not one of the reasons the apostles appointed
+          deacons?
+        choices:
+          A: They did not know how to distribute food.
+          B: They needed to focus on prayer and teaching.
+          C: They had to determine the best way to invest their time.
+          D: God’s plan included the involvement of other leaders.
+        answer: A
+      - uid: MIN251.11.2.1.UPE.1
+        subobj: 11.2.1
+        type: upe
+        question: Which statement is NOT an example of the 80 / 20 principle?
+        choices:
+          A: Twenty percent of our time produces 80 percent of the results.
+          B: We must focus our time on 80 percent of the influencers.
+          C: Twenty percent of the people make 80 percent of the decisions.
+          D: Twenty percent of the members do 80 percent of the work.
+        answer: B
+      - uid: MIN251.11.2.1.UPE.2
+        subobj: 11.2.1
+        type: upe
+        question: We should be willing to say “no” to a task when
+        choices:
+          A: it does not further our goal.
+          B: the person suggesting it is not on our leadership team.
+          C: we personally dislike the person suggesting it.
+          D: we do not have time to think about it.
+        answer: A
+      - uid: MIN251.11.2.1.TY.1
+        subobj: 11.2.1
+        type: ty
+        question: Which of the following is not an accurate use of the 80 / 20 principle?
+        choices:
+          A: 20 percent of our time produces 80 percent of our results.
+          B: 80 percent of the people make 20 percent of the decisions.
+          C: 20 percent of the workers do 80 percent of the ministry.
+          D: 20 percent of the leader’s time should be spent in counseling.
+        answer: D
+      - uid: MIN251.11.2.1.TY.2
+        subobj: 11.2.1
+        type: ty
+        question: Which of the following statements is false ?
+        choices:
+          A: Activity does not equal accomplishment.
+          B: Reacting is not leading.
+          C: Working harder will help you learn to work smarter.
+          D: A leader must organize or agonize.
+        answer: C
+      - uid: MIN251.11.2.1.TY.3
+        subobj: 11.2.1
+        type: ty
+        question: Which of the following will help the leader say no gracefully?
+        choices:
+          A: Say no to the person, but evaluate the idea at a later time.
+          B: Respond in terms of the best interests of the individual.
+          C: Do not try to come up with a creative alternative.
+          D: Take responsibility for each idea.
+        answer: B
+      - uid: MIN251.11.3.1.UPE.1
+        subobj: 11.3.1
+        type: upe
+        question: Making to-do lists, avoiding clutter, and controlling interruptions
+          are all tips for
+        choices:
+          A: a good secretary.
+          B: avoiding perfectionism.
+          C: efficient time management.
+          D: saying “no” gracefully.
+        answer: C
+      - uid: MIN251.11.3.1.UPE.2
+        subobj: 11.3.1
+        type: upe
+        question: What is NOT a principle for handling time?
+        choices:
+          A: Identify your priorities.
+          B: Play to your strengths.
+          C: Enlist an accountability partner.
+          D: Remember that time is endless.
+        answer: D
+      - uid: MIN251.11.3.1.TY.1
+        subobj: 11.3.1
+        type: ty
+        question: Which of the following will help the leader make the most of his
+          or her time?
+        choices:
+          A: Welcome tension.
+          B: Avoid perfectionism.
+          C: Make to-do lists.
+          D: Do all of the above.
+        answer: D
+      - uid: MIN251.11.3.1.TY.2
+        subobj: 11.3.1
+        type: ty
+        question: Which of the following will not help the leader make the most of
+          his or her time?
+        choices:
+          A: Use a calendar.
+          B: Question everything.
+          C: Staff your strengths.
+          D: Rely heavily on an administrative assistant.
+        answer: C
+      - uid: MIN251.11.3.1.TY.3
+        subobj: 11.3.1
+        type: ty
+        question: Which of the following statements is not true concerning time?
+        choices:
+          A: God created plenty of time.
+          B: Everyone has the same amount of time to use.
+          C: Time will run out.
+          D: Time is temporary, offering no eternal significance.
+        answer: D
+      - uid: MIN251.11.3.1.TY.4
+        subobj: 11.3.1
+        type: ty
+        question: Which of the following is an action step for making good use of
+          your time?
+        choices:
+          A: Take an inventory of how you currently use time.
+          B: Identify your priorities.
+          C: Reserve time for family relationships.
+          D: All of the above are action steps for making good use of time.
+        answer: D
+      - uid: MIN251.11.3.1.TY.5
+        subobj: 11.3.1
+        type: ty
+        question: Which question is NOT important when determining daily priorities?
+        choices:
+          A: What is expected of me?
+          B: What is required of me?
+          C: What gives the greatest return?
+          D: What gives the greatest reward?
+        answer: A
+      - uid: MIN251.12.1.1.UPE.1
+        subobj: 12.1.1
+        type: upe
+        question: How did Nehemiah use the concept of teamwork?
+        choices:
+          A: Half of the men worked while half provided security.
+          B: The men constantly rotated their jobs.
+          C: He chose only the most able men.
+          D: He became the main influencer on the ship sailing to Rome.
+        answer: A
+      - uid: MIN251.12.1.1.UPE.2
+        subobj: 12.1.1
+        type: upe
+        question: The biblical attitude toward teamwork is that
+        choices:
+          A: leaders should stand alone, with a team under them.
+          B: it is important and scriptural.
+          C: it should be used only occasionally.
+          D: teams should have no clear leader.
+        answer: B
+      - uid: MIN251.12.1.1.UPE.3
+        subobj: 12.1.1
+        type: upe
+        question: What is NOT true of Paul’s team in Acts 27?
+        choices:
+          A: Paul became the leader because he was highly respected from the voyage’s
+            outset.
+          B: Paul confronted the other leaders with their wrong decision to set sail.
+          C: Paul’s successful leadership came from his interest in each individual
+            on the team.
+          D: Paul’s success came largely because he was not selfish in his agenda.
+        answer: A
+      - uid: MIN251.12.1.1.TY.1
+        subobj: 12.1.1
+        type: ty
+        question: Which of the following is not true of Nehemiah’s team?
+        choices:
+          A: Each man had a turn in guarding the work of others.
+          B: The names of the participating families were added to the record of the
+            work.
+          C: Nehemiah took the glory of the success for himself.
+          D: The work was completed in an extraordinarily short amount of time.
+        answer: C
+      - uid: MIN251.12.1.1.TY.2
+        subobj: 12.1.1
+        type: ty
+        question: Which of the following is not true of Paul’s team in Acts 27?
+        choices:
+          A: Paul’s leadership occurred because he was highly respected from the outset
+            of the voyage.
+          B: Paul confronted the other leaders with their wrong decision to set sail.
+          C: Paul succeeded in leading because he was interested in each individual
+            on the team.
+          D: Paul’s success came largely because he was not selfish in his agenda.
+        answer: A
+      - uid: MIN251.12.2.1.UPE.1
+        subobj: 12.2.1
+        type: upe
+        question: “Leaders always touch a heart before they ask for a hand” is part
+          of the
+        choices:
+          A: second-mile principle.
+          B: connection principle.
+          C: host principle.
+          D: care principle.
+        answer: B
+      - uid: MIN251.12.2.1.UPE.2
+        subobj: 12.2.1
+        type: upe
+        question: What is NOT characteristic of an effective team?
+        choices:
+          A: People work together, even if they do not care for each other.
+          B: The team practices what is important.
+          C: The team grows together.
+          D: The team has a chemistry that fits.
+        answer: A
+      - uid: MIN251.12.2.1.TY.1
+        subobj: 12.2.1
+        type: ty
+        question: What is the second mile principle ?
+        choices:
+          A: Leaders always touch a heart before they ask for a hand.
+          B: People go the first mile because of duty, but they go the second mile
+            because of relationship.
+          C: Leaders must require people to go a second mile to establish loyalty.
+          D: 'All team efforts should have two goals: the first mile and the second
+            mile.'
+        answer: B
+      - uid: MIN251.12.2.1.TY.2
+        subobj: 12.2.1
+        type: ty
+        question: Which of the following is not one of the reasons why growth is important
+          for a team?
+        choices:
+          A: The leader’s growth determines the organization’s growth.
+          B: The team’s environment is constantly changing.
+          C: A team’s growth allows team members to pursue separate goals.
+          D: Leaders must grow in order to stay out in front.
+        answer: C
+      - uid: MIN251.12.2.1.TY.3
+        subobj: 12.2.1
+        type: ty
+        question: Which of the following is not a trait of good chemistry?
+        choices:
+          A: High morale
+          B: Individuals define their own roles.
+          C: Abilities are complimentary.
+          D: Victories are frequent.
+        answer: B
+      - uid: MIN251.12.2.1.TY.4
+        subobj: 12.2.1
+        type: ty
+        question: Which of the following is a part of the code of cooperation?
+        choices:
+          A: Respect other team members.
+          B: See the big picture.
+          C: Give up your individual rights.
+          D: All of the above are parts of the code.
+        answer: D
+      - uid: MIN251.12.3.1.UPE.1
+        subobj: 12.3.1
+        type: upe
+        question: The team bench represents
+        choices:
+          A: inferiority.
+          B: lack of necessity.
+          C: organizational structure.
+          D: unity and depth.
+        answer: D
+      - uid: MIN251.12.3.1.UPE.2
+        subobj: 12.3.1
+        type: upe
+        question: Playing a basketball game without a rim on the backboard is likened
+          to
+        choices:
+          A: paying the price.
+          B: not knowing where the team stands.
+          C: keeping a strong bench.
+          D: having a chemistry that fits.
+        answer: B
+      - uid: MIN251.12.3.1.TY.1
+        subobj: 12.3.1
+        type: ty
+        question: Which of the following reflects a wrong attitude of a player-on-the-floor
+          ?
+        choices:
+          A: “We are more important than those on the bench.”
+          B: “I do not have to be ready when called on to play.”
+          C: “I am not contributing to the team.”
+          D: “I do not have to pay attention because I am not in the game.”
+        answer: A
+      - uid: MIN251.12.3.1.TY.2
+        subobj: 12.3.1
+        type: ty
+        question: Which of the following is a benefit of the scoreboard?
+        choices:
+          A: The team knows when it is winning or losing.
+          B: The team knows how success is measured.
+          C: The team knows how much time they have to finish their efforts.
+          D: All of the above are benefits.
+        answer: D
+      - uid: MIN251.12.3.1.TY.3
+        subobj: 12.3.1
+        type: ty
+        question: Which of the following statements is / are a part of the sacrificial
+          spirit of an effective team?
+        choices:
+          A: There is no success without sacrifice.
+          B: If I sacrifice and do not succeed, others will benefit from my sacrifice.
+          C: If I succeed without sacrifice, my success is due to the sacrifice of
+            those who have come before me.
+          D: All of the above.
+        answer: D
+      - uid: MIN251.12.3.1.TY.4
+        subobj: 12.3.1
+        type: ty
+        question: Which of the following is not one of the yes questions that help
+          identify an effective team?
+        choices:
+          A: Do team members remain silent when they see concerns in a team member’s
+            performance?
+          B: Do we handle conflict successfully?
+          C: Do we like being a part of this team?
+          D: Does everyone participate?
+        answer: A
     chapters:
     - last_modified: '2026-06-12'
       title: 1 - The Foundation of Christ-Centered Leadership

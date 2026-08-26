@@ -1427,6 +1427,2386 @@ courses:
       '2.0':
         timestamp: '2026-04-01'
         PN: 02.22.01
+      '1.0':
+        timestamp: '2007-01-01'
+        precision: year
+        source: colophon
+    printings:
+    - pn: 02.22.01
+      course_code: BIB318
+      source_html: BBIB318ENE02-90_02.22.01.html
+      template: old
+      recorded: '2026-08-26'
+      note: 'Pristine print baseline built by scripts/build_html_baseline.py purely
+        from the InDesign HTML -- no DB input. Read-only: never hand-edit and never
+        feed to the janitor. UIDs are synthesized from the book''s own answer key;
+        diff pairs by content.'
+      counts:
+        ty: 130
+        upe: 96
+        final: 0
+      questions:
+      - uid: BIB318.1.1.1.TY.1
+        subobj: 1.1.1
+        type: ty
+        question: The dating of Bible events is not specified from the text before
+          the time of
+        choices:
+          A: Noah.
+          B: Joshua.
+          C: Hezekiah.
+          D: Abraham.
+        answer: D
+      - uid: BIB318.1.1.2.UPE.1
+        subobj: 1.1.2
+        type: upe
+        question: The relationship of Genesis 1 and 2
+        choices:
+          A: reveals two very different ancient stories of the creation of the animals.
+          B: relates the first week of creation and then the next week.
+          C: is not common to other styles of writing in the Ancient Near East.
+          D: reveals two views, one giving a broad, sequential overview and the other
+            a detailed, topical focus on humans.
+        answer: D
+      - uid: BIB318.1.1.2.TY.1
+        subobj: 1.1.2
+        type: ty
+        question: The major figures in the book of Genesis are
+        choices:
+          A: Adam, Noah, Abraham, Jacob, and Joseph.
+          B: Adam, Noah, Abraham, Isaac, and Judah.
+          C: God, Adam, Melchizedek, and Esau.
+          D: Satan, Eve, and the Son of God.
+        answer: A
+      - uid: BIB318.1.1.3.UPE.1
+        subobj: 1.1.3
+        type: upe
+        question: Genesis introduces the important Bible teaching that sin is
+        choices:
+          A: attitudes contrary to the character of God.
+          B: behavior contrary to the will of God.
+          C: putting self first in the relationship with God.
+          D: all of the above.
+        answer: D
+      - uid: BIB318.1.1.3.TY.1
+        subobj: 1.1.3
+        type: ty
+        question: The main focus of Genesis is to reveal
+        choices:
+          A: God’s plan for the judgment of all humanity.
+          B: how the creation story supports scientific theory.
+          C: God’s plan for our salvation through His chosen people.
+          D: the history of Egypt and its victories over Middle Eastern nations.
+        answer: C
+      - uid: BIB318.1.2.1.TY.1
+        subobj: 1.2.1
+        type: ty
+        question: A deistic view of creation is incorrect because it
+        choices:
+          A: suggests that God is not involved in the workings of the natural world.
+          B: allows for some form of evolutionary development during creation.
+          C: supports the belief that God is the ultimate Creator of the universe.
+          D: suggests that the Bible supports scientific theory and research.
+        answer: A
+      - uid: BIB318.1.2.2.UPE.1
+        subobj: 1.2.2
+        type: upe
+        question: The meanin g of the word blessing in Genesis is
+        choices:
+          A: “enabling to prosper and fulfill God’s purpose.”
+          B: “making others happy.”
+          C: “giving a spiritual experience.”
+          D: “choosing to honor family above others.”
+        answer: A
+      - uid: BIB318.1.2.2.TY.1
+        subobj: 1.2.2
+        type: ty
+        question: The meaning of blessing in Genesis is
+        choices:
+          A: “making others happy.”
+          B: “choosing to honor someone over self.”
+          C: “sharing a spiritual experience with others.”
+          D: “enabling to prosper and fulfill God’s purpose.”
+        answer: D
+      - uid: BIB318.1.2.3.TY.1
+        subobj: 1.2.3
+        type: ty
+        question: God’s resting on the seventh day of creation established
+        choices:
+          A: the Sabbath principle of rest every seventh day.
+          B: a one-time event never to be repeated.
+          C: a pattern for worshipping on Saturdays.
+          D: an end to the creation story.
+        answer: A
+      - uid: BIB318.1.3.1.TY.1
+        subobj: 1.3.1
+        type: ty
+        question: The climax of God’s creation was the creation of
+        choices:
+          A: animals.
+          B: humans.
+          C: the sun.
+          D: land.
+        answer: B
+      - uid: BIB318.1.3.2.UPE.1
+        subobj: 1.3.2
+        type: upe
+        question: The contextual understanding of the image of God in people is
+        choices:
+          A: their physical form.
+          B: their capacity to relate to God in privilege, responsibility, and accountability.
+          C: a God-shaped place in the human spirit.
+          D: the ability to be perfect.
+        answer: B
+      - uid: BIB318.1.3.2.TY.1
+        subobj: 1.3.2
+        type: ty
+        question: Being made in the image of God can be defined as
+        choices:
+          A: the marriage of the physical, emotional, and spiritual being.
+          B: a delegation of responsibility to rule the world for God.
+          C: an ability to communicate with language.
+          D: an opportunity to work toward becoming a god.
+        answer: B
+      - uid: BIB318.1.3.4.TY.1
+        subobj: 1.3.4
+        type: ty
+        question: The phrase “help meet for him” (from the KJV) refers to a
+        choices:
+          A: servant.
+          B: subordinate.
+          C: helper and partner.
+          D: person to bear children.
+        answer: C
+      - uid: BIB318.1.3.5.TY.1
+        subobj: 1.3.5
+        type: ty
+        question: Moses’s quoting God as using “us” in Genesis 1 may be understood
+          as
+        choices:
+          A: a plural of majesty.
+          B: an explanation of the Trinity.
+          C: a reference to God and Moses.
+          D: referring to the relationship between God and humans.
+        answer: A
+      - uid: BIB318.2.1.1.TY.1
+        subobj: 2.1.1
+        type: ty
+        question: Genesis begins the important Bible teaching that sin is
+        choices:
+          A: behavior and attitudes contrary to the character of God.
+          B: the result of laziness.
+          C: behavior unbecoming a believer of God.
+          D: not easily forgiven.
+        answer: A
+      - uid: BIB318.2.1.2.TY.1
+        subobj: 2.1.2
+        type: ty
+        question: What is the end result of sin?
+        choices:
+          A: Evil
+          B: Life
+          C: Hatred
+          D: Death
+        answer: D
+      - uid: BIB318.2.1.3.UPE.1
+        subobj: 2.1.3
+        type: upe
+        question: The first biblical mention of the gospel is found
+        choices:
+          A: in Genesis 3:15 that promises a conqueror over the snake and the reversal
+            of the sin problem.
+          B: in Genesis 4:26, when people began to call upon the name of the Lord.
+          C: in Genesis 12 when God calls Abraham.
+          D: when John the Baptist begins his preaching ministry.
+        answer: A
+      - uid: BIB318.2.1.3.TY.1
+        subobj: 2.1.3
+        type: ty
+        question: The beginning of the gospel is
+        choices:
+          A: the promise to Eve of a descendant to conqueror the enemy in Genesis
+            3:15.
+          B: when people began to call upon the name of the Lord in Genesis 4:26.
+          C: the rescue of Noah from the Flood in Genesis 8.
+          D: the call of Abraham to leave his homeland in Genesis 12.
+        answer: A
+      - uid: BIB318.2.2.1.TY.1
+        subobj: 2.2.1
+        type: ty
+        question: Genesis 6:1–4 may be understood as
+        choices:
+          A: giving a detailed description of who the sons of God were.
+          B: explaining the conditions leading up to the Flood.
+          C: reporting the rape of women by fallen angels.
+          D: explaining how ancient kings served God.
+        answer: B
+      - uid: BIB318.2.2.2.UPE.1
+        subobj: 2.2.2
+        type: upe
+        question: The Bible presents the flood as
+        choices:
+          A: God’s judgment on all people at that time for their rebellion against
+            Him.
+          B: not receding completely for over a year.
+          C: setting up a fresh start for humanity through Noah.
+          D: all of the above.
+        answer: D
+      - uid: BIB318.2.2.2.UPE.2
+        subobj: 2.2.2
+        type: upe
+        question: Noah was righteous because
+        choices:
+          A: he lived according to God’s standards, maintaining a right relationship
+            with Him.
+          B: he was right with God though he kept sinning.
+          C: he shunned others for not living by God’s laws.
+          D: he had godly parents and ancestors.
+        answer: A
+      - uid: BIB318.2.2.2.TY.1
+        subobj: 2.2.2
+        type: ty
+        question: What does the Flood teach us about God?
+        choices:
+          A: He does not intervene in His creation.
+          B: He will always give us a sign in our trials, like He gave the rainbow.
+          C: He deals with rebellion seriously and thoroughly.
+          D: He offers no grace to sinners, only judgment and punishment.
+        answer: C
+      - uid: BIB318.2.2.3.TY.1
+        subobj: 2.2.3
+        type: ty
+        question: What is a covenant?
+        choices:
+          A: Another word for genealogy
+          B: The requirements for salvation
+          C: A basic understanding of God’s law
+          D: A binding agreement between two parties
+        answer: D
+      - uid: BIB318.2.2.4.UPE.1
+        subobj: 2.2.4
+        type: upe
+        question: The curse on Canaan was
+        choices:
+          A: polluted water, followed by a severe drought.
+          B: God’s punishment of death on the Canaanites for their evil lifestyle.
+          C: infertility.
+          D: a demonic possession of people in Noah’s day.
+        answer: B
+      - uid: BIB318.2.2.4.TY.1
+        subobj: 2.2.4
+        type: ty
+        question: The account of Ham showing disrespect to his drunk and naked father
+          Noah helps explain God’s future
+        choices:
+          A: call to destroy Canaan.
+          B: call to Moses to lead Israel.
+          C: decision to ask Abraham to sacrifice his son.
+          D: decision to confuse the people’s language at Babel.
+        answer: A
+      - uid: BIB318.2.3.1.TY.1
+        subobj: 2.3.1
+        type: ty
+        question: God’s confusing the languages of the people at the Tower of Babel
+        choices:
+          A: is not supported by any scientific evidence.
+          B: is supported by the findings of modern linguists.
+          C: must be interpreted as a moral fable.
+          D: demonstrates that God does not want multiple nations to work together.
+        answer: B
+      - uid: BIB318.2.3.2.TY.1
+        subobj: 2.3.2
+        type: ty
+        question: The genealogies in the Pentateuch
+        choices:
+          A: have no meaning for us today.
+          B: enable us to date creation at about 4000 BC.
+          C: enable us to date creation at about 10,000 BC.
+          D: are not complete and cannot be used for dating.
+        answer: D
+      - uid: BIB318.2.3.3.TY.1
+        subobj: 2.3.3
+        type: ty
+        question: The line of Abraham can be traced back to Noah through his son
+        choices:
+          A: Ham.
+          B: Jethro.
+          C: Shem.
+          D: Japheth.
+        answer: C
+      - uid: BIB318.3.1.1.UPE.1
+        subobj: 3.1.1
+        type: upe
+        question: Abraham’s background, based on our current knowledge of the ANE,
+          was that of
+        choices:
+          A: an Egyptian nobleman.
+          B: a poor, humble shepherd.
+          C: a prosperous, knowledgeable, pastoral nomad who interacted with urban
+            people.
+          D: a tentmaker.
+        answer: C
+      - uid: BIB318.3.1.1.TY.1
+        subobj: 3.1.1
+        type: ty
+        question: Abraham’s background, based on our current knowledge of the Ancient
+          Near East, was as a
+        choices:
+          A: nobleman of Egypt.
+          B: poor, humble shepherd.
+          C: prosperous and knowledgeable nomad.
+          D: mariner who had sailed to the coast of Palestine*.
+        answer: C
+      - uid: BIB318.3.1.2.UPE.1
+        subobj: 3.1.2
+        type: upe
+        question: The three elements of the promise to Abraham are
+        choices:
+          A: kingship, wealth, and a land in Mesopotamia.
+          B: seed, land, and the blessing of the nations.
+          C: seed, land, and many peoples serving him and his descendants.
+          D: long life, protection, and making of him a great nation.
+        answer: B
+      - uid: BIB318.3.1.2.TY.1
+        subobj: 3.1.2
+        type: ty
+        question: The three elements of the promise to Abraham are
+        choices:
+          A: kingship, wealth, and a land in Mesopotamia.
+          B: seed, land, and the nations blessed.
+          C: land, wealth, and power.
+          D: seed, land, and servants.
+        answer: B
+      - uid: BIB318.3.1.3.UPE.1
+        subobj: 3.1.3
+        type: upe
+        question: The promise in Genesis 12:3 of the whole world being blessed through
+          Abraham is called “the gospel” in
+        choices:
+          A: Galatians 3:8.
+          B: 1 Peter 3:7.
+          C: Matthew 14:5.
+          D: 1 Corinthians 13:1.
+        answer: A
+      - uid: BIB318.3.1.3.UPE.2
+        subobj: 3.1.3
+        type: upe
+        question: Abraham responded to the Lord’s reiterating His promise of his descendants
+          becoming a nation by
+        choices:
+          A: gaining more wealth and physical strength to become worthy of the promise.
+          B: preparing a week-long celebration.
+          C: conquering Abimelech and other enemies.
+          D: believing the Lord and being dependent on Him.
+        answer: D
+      - uid: BIB318.3.1.3.UPE.3
+        subobj: 3.1.3
+        type: upe
+        question: The example of Abraham’s behavior in dealing with various challenges
+          of faith teaches all believers to
+        choices:
+          A: be wary of trusting anyone but the Lord.
+          B: persevere in faith-obedience.
+          C: flee from conflict to avoid hurting others.
+          D: expect God to keep them from tests and trials through their obedience.
+        answer: B
+      - uid: BIB318.3.1.3.UPE.4
+        subobj: 3.1.3
+        type: upe
+        question: Melchizedek was
+        choices:
+          A: a priest of God Most High.
+          B: the king of Salem and righteousness.
+          C: the one Abraham paid tithe to after the battle and communed with in worship.
+          D: all of the above.
+        answer: D
+      - uid: BIB318.3.1.3.TY.1
+        subobj: 3.1.3
+        type: ty
+        question: When faced with challenges Abraham always responded in
+        choices:
+          A: fear.
+          B: wisdom.
+          C: obedience.
+          D: selfishness.
+        answer: C
+      - uid: BIB318.3.1.4.UPE.1
+        subobj: 3.1.4
+        type: upe
+        question: The Lord guaranteed the promise of the land of Canaan to Abraham’s
+          descendants with
+        choices:
+          A: His presence in a pillar of fire to guide them.
+          B: a statement engraved on a stone tablet.
+          C: a covenant—a specific binding agreement establishing promises and responsibilities.
+          D: a covenant that repeated the same promise given to Noah.
+        answer: C
+      - uid: BIB318.3.1.4.TY.1
+        subobj: 3.1.4
+        type: ty
+        question: The Lord guaranteed the promise of the land of Canaan to Abraham’s
+          descendants with a
+        choices:
+          A: single, bright star in the heavens.
+          B: statement engraved on a stone tablet.
+          C: rainbow that stretched across the sky.
+          D: covenant, establishing both promises and responsibilities.
+        answer: D
+      - uid: BIB318.3.2.1.TY.1
+        subobj: 3.2.1
+        type: ty
+        question: What son was born in an attempt to help fulfill God’s promise but
+          turned out to be the ancestor of Israel’s enemies?
+        choices:
+          A: Ishmael born to Hagar
+          B: Esau born to Rebekah
+          C: Isaac born to Sarah
+          D: Nimrod born to Leah
+        answer: A
+      - uid: BIB318.3.2.2.TY.1
+        subobj: 3.2.2
+        type: ty
+        question: The angel of the Lord is presented in Genesis (and Exodus) as
+        choices:
+          A: the highest of the angels.
+          B: an angel sent to a particular situation.
+          C: the devil taking on angelic form to deceive people.
+          D: God at work through a human form to minister to people.
+        answer: D
+      - uid: BIB318.3.3.1.TY.1
+        subobj: 3.3.1
+        type: ty
+        question: Abraham’s wrong assumption with Abimelech was that
+        choices:
+          A: he (Abraham) alone feared God and heard from Him.
+          B: he (Abraham) would have to kill Abimelech.
+          C: God cared more for Abimelech.
+          D: Abimelech was a fool.
+        answer: A
+      - uid: BIB318.3.3.2.UPE.1
+        subobj: 3.3.2
+        type: upe
+        question: Abraham is the first person in the Bible to be called a “prophet,”
+          which means he was
+        choices:
+          A: able to call down fire on his enemies.
+          B: so in touch with God that he acted as a spokesperson and intercessor.
+          C: allowed to see into the distant future in detail.
+          D: able to subdue his enemies without fighting.
+        answer: B
+      - uid: BIB318.3.3.2.TY.1
+        subobj: 3.3.2
+        type: ty
+        question: Abraham is the first person in the Bible to be called a prophet,
+          which means he was
+        choices:
+          A: allowed to see into the distant future in detail.
+          B: able to call down fire on his enemies.
+          C: a spokesperson and intercessor.
+          D: without fault or sin.
+        answer: C
+      - uid: BIB318.3.3.3.UPE.1
+        subobj: 3.3.3
+        type: upe
+        question: Abraham’s ultimate test was
+        choices:
+          A: to sacrifice his son Isaac, but then God raised Isaac from the dead.
+          B: losing his wife Sarah to a foreign king.
+          C: to prepare to sacrifice Isaac, the son of promise, but God provided a
+            ram as a substitute.
+          D: leaving his family and moving to Canaan.
+        answer: C
+      - uid: BIB318.3.3.3.TY.1
+        subobj: 3.3.3
+        type: ty
+        question: Abraham’s ultimate test was
+        choices:
+          A: to go to Egypt during the famine.
+          B: to sacrifice the son God had promised.
+          C: leaving his family and moving to Canaan.
+          D: whether he would compromise his belief in the Lord.
+        answer: B
+      - uid: BIB318.3.3.4.TY.1
+        subobj: 3.3.4
+        type: ty
+        question: The example of Abraham’s dealing with various challenges of faith
+          teaches all believers
+        choices:
+          A: to flee from conflict.
+          B: not to trust strangers.
+          C: to persevere in faith-obedience.
+          D: to expect protection from tests and trials if we obey.
+        answer: C
+      - uid: BIB318.4.1.1.UPE.1
+        subobj: 4.1.1
+        type: upe
+        question: Isaac’s story in the Genesis narrative
+        choices:
+          A: is greatly emphasized and detailed.
+          B: reveals that Isaac had the greatest faith of all the people in Genesis.
+          C: is downplayed.
+          D: is brief because he was not Abraham’s son of promise.
+        answer: C
+      - uid: BIB318.4.1.1.TY.1
+        subobj: 4.1.1
+        type: ty
+        question: Isaac’s story in the overall story of Genesis is
+        choices:
+          A: greatly emphasized in the structure of Genesis.
+          B: one of the most important stories in the book of Genesis.
+          C: de-emphasized because he is not the ultimate promised son.
+          D: an example of the person who had the greatest faith of all the people
+            in Genesis.
+        answer: C
+      - uid: BIB318.4.1.2.UPE.1
+        subobj: 4.1.2
+        type: upe
+        question: The selfish acts of favoritism by Isaac and Rebekah
+        choices:
+          A: caused conflicts for generations, but did not stop the plan of God.
+          B: caused God to implement a back-up plan.
+          C: did not affect their sons because of their strong faith.
+          D: caused Jacob to be bitter, but Esau stayed faithful.
+        answer: A
+      - uid: BIB318.4.1.2.UPE.2
+        subobj: 4.1.2
+        type: upe
+        question: Polygamy in the patriarchs and throughout the Old Testament was
+        choices:
+          A: an important part of God’s plan.
+          B: never encouraged and is always presented in a negative way.
+          C: a cultural norm that did not cause problems.
+          D: forbidden after Abraham decided to trust the Lord.
+        answer: B
+      - uid: BIB318.4.1.2.TY.1
+        subobj: 4.1.2
+        type: ty
+        question: The selfish acts of favoritism by Isaac and Rebekah
+        choices:
+          A: caused problems for generations but did not stop the plan of God.
+          B: did not affect the boys because of their strong faith.
+          C: caused Jacob to be bitter but Esau stayed faithful.
+          D: caused God to go to His “plan B.”
+        answer: A
+      - uid: BIB318.4.1.2.TY.2
+        subobj: 4.1.2
+        type: ty
+        question: Polygamy in the patriarchs and throughout the Old Testament was
+        choices:
+          A: not a problem.
+          B: an important part of God’s plan.
+          C: stopped as soon as Abraham believed in the Lord.
+          D: never encouraged and always presented in a negative way.
+        answer: D
+      - uid: BIB318.4.1.3.UPE.1
+        subobj: 4.1.3
+        type: upe
+        question: Jacob’s name change revealed that
+        choices:
+          A: he repented of sin against Esau.
+          B: God was angry with him.
+          C: his character was transformed through His faith-submission to the Lord.
+          D: he had become bitter.
+        answer: C
+      - uid: BIB318.4.1.3.TY.1
+        subobj: 4.1.3
+        type: ty
+        question: Jacob’s name change was in reference to
+        choices:
+          A: God’s anger with him.
+          B: his attempt to hide from his father-in-law.
+          C: God’s disappointment with Jacob’s ways of deception.
+          D: his transformation and determination in struggling with God.
+        answer: D
+      - uid: BIB318.4.1.4.TY.1
+        subobj: 4.1.4
+        type: ty
+        question: One lesson we can learn from Jacob’s story is that God
+        choices:
+          A: expects His followers to be perfect.
+          B: chooses people for His plan at random.
+          C: uses imperfect people to fulfill His plan.
+          D: will not use a person who makes selfish choices.
+        answer: C
+      - uid: BIB318.4.2.1.UPE.1
+        subobj: 4.2.1
+        type: upe
+        question: When tempted by Potiphar’s wife, Joseph
+        choices:
+          A: gave in, but later repented.
+          B: had her imprisoned.
+          C: said, “How can I sin against God?” and ran from the room.
+          D: was arrested, found innocent, and did not go to prison.
+        answer: C
+      - uid: BIB318.4.2.1.TY.1
+        subobj: 4.2.1
+        type: ty
+        question: When tempted by Potiphar’s wife, Joseph
+        choices:
+          A: gave in but never got caught.
+          B: refused to sin against God and ran.
+          C: rebuked the woman and told her husband.
+          D: quit his job and went to work for someone else.
+        answer: B
+      - uid: BIB318.4.2.2.UPE.1
+        subobj: 4.2.2
+        type: upe
+        question: The good that God brought from Joseph’s years in Egypt was
+        choices:
+          A: the saving of his family, the ancestors of the nation of Israel.
+          B: in taking him away from his brothers so that all could dwell in peace.
+          C: that Jacob’s faith was eventually restored.
+          D: that Potiphar’s entire household became worshippers of the true God.
+        answer: A
+      - uid: BIB318.4.2.2.TY.1
+        subobj: 4.2.2
+        type: ty
+        question: The good that God worked out of Joseph being sold into Egypt was
+        choices:
+          A: making enough money from the sale to save the family from starvation.
+          B: the saving of his family, the ancestors of the nation of Israel.
+          C: getting him out of the family so they could go on with God.
+          D: his witnessing to Potiphar’s wife and her conversion.
+        answer: B
+      - uid: BIB318.4.2.2.TY.2
+        subobj: 4.2.2
+        type: ty
+        question: How did Joseph’s suffering prepare him to handle the responsibility
+          of being second in command over Egypt?
+        choices:
+          A: Through those hardships Joseph developed character and leadership skills.
+          B: The suffering showed Joseph he was part of God’s plan to save the world.
+          C: The experiences made Joseph tough so he could rule with an iron fist.
+          D: Joseph learned how to interpret dreams and visions for Pharaoh.
+        answer: A
+      - uid: BIB318.4.2.3.UPE.1
+        subobj: 4.2.3
+        type: upe
+        question: Joseph tested the hearts of his brothers
+        choices:
+          A: and found that they had turned from their earlier selfishness.
+          B: because he was bitter over their earlier treatment of him.
+          C: by sentencing them to lives of hard labor.
+          D: by announcing their crime before the Egyptian court.
+        answer: A
+      - uid: BIB318.4.2.3.TY.1
+        subobj: 4.2.3
+        type: ty
+        question: Joseph’s treatment of his brothers when they came to Egypt for food
+          was a
+        choices:
+          A: way for him to test their character.
+          B: chance to make his brothers jealous.
+          C: way for him to exact his revenge on them.
+          D: chance for Joseph to see his brother Benjamin.
+        answer: A
+      - uid: BIB318.4.2.4.UPE.1
+        subobj: 4.2.4
+        type: upe
+        question: Genesis ends
+        choices:
+          A: with all of Jacob’s family returning to Canaan.
+          B: by looking forward to the fulfillment of God’s salvation plan.
+          C: with the descendants of Joseph’s family living peacefully in Egypt until
+            Sihon’s time.
+          D: as the twelve spies are being sent into the Promised Land.
+        answer: B
+      - uid: BIB318.4.2.4.TY.1
+        subobj: 4.2.4
+        type: ty
+        question: Genesis ends
+        choices:
+          A: with Jacob’s family all back in Canaan.
+          B: by looking forward to the fulfillment of God’s salvation plan.
+          C: with Joseph and his family living peacefully until the time of Sidon.
+          D: with the Israelites enslaved through an agreement between Joseph and
+            Pharaoh.
+        answer: B
+      - uid: BIB318.5.1.1.UPE.1
+        subobj: 5.1.1
+        type: upe
+        question: Depending on how we judge the archaeological evidence and whether
+          one takes the Bible numbers as literal or figurative, the (BC) date of the
+          Exodus is around
+        choices:
+          A: 940 or 740.
+          B: 1440 or 1280.
+          C: 325 or 125.
+          D: 2040 or 1820.
+        answer: B
+      - uid: BIB318.5.1.1.TY.1
+        subobj: 5.1.1
+        type: ty
+        question: Depending on how we judge the archaeological evidence and whether
+          we take the Bible numbers as literal or figurative, the date of the Exodus
+          is either around
+        choices:
+          A: 940 BC or 740 BC.
+          B: 1440 BC or 1280 BC.
+          C: 1600 BC or 1100 BC.
+          D: 2040 BC or 1820 BC.
+        answer: B
+      - uid: BIB318.5.1.2.UPE.1
+        subobj: 5.1.2
+        type: upe
+        question: For God to “remember” the covenant meant to the Israelites that
+        choices:
+          A: He was now choosing to act on His covenant promises.
+          B: He was finally convinced by their crying to Him that He would have to
+            act.
+          C: the automatic forces put in motion by the covenant were now bringing
+            it to fruition.
+          D: God had long ago forsaken the covenant promises.
+        answer: A
+      - uid: BIB318.5.1.2.TY.1
+        subobj: 5.1.2
+        type: ty
+        question: For God to “remember” the covenant meant to the Israelites that
+        choices:
+          A: God had forgotten the covenant promises.
+          B: He was now choosing to act on His covenant promises.
+          C: He was finally convinced by their crying to Him that He would have to
+            act.
+          D: the automatic forces put in motion by the covenant were now bringing
+            it to fruition.
+        answer: B
+      - uid: BIB318.5.1.3.UPE.1
+        subobj: 5.1.3
+        type: upe
+        question: The plagues
+        choices:
+          A: showed the supremacy of the Lord over the gods the Egyptians worshipped.
+          B: showed that the Lord was present with His people to protect them.
+          C: built the faith of Israel besides motivating the Egyptians to let them
+            go.
+          D: did all of the above.
+        answer: D
+      - uid: BIB318.5.1.3.TY.1
+        subobj: 5.1.3
+        type: ty
+        question: The hardening of Pharaoh’s heart involved
+        choices:
+          A: God’s judgment on Pharaoh.
+          B: Pharaoh’s own stubbornness.
+          C: Pharaoh’s stubbornness and God’s sovereignty.
+          D: God predestining Pharaoh to hell for his choices.
+        answer: C
+      - uid: BIB318.5.1.3.TY.2
+        subobj: 5.1.3
+        type: ty
+        question: The plagues
+        choices:
+          A: showed the supremacy of the Lord over the gods the Egyptians worshipped.
+          B: served only as a way to scare the Egyptians into submission to God’s
+            will.
+          C: in no way built up Israel’s faith in God’s power and might.
+          D: had no effect on Pharaoh or the Egyptians.
+        answer: A
+      - uid: BIB318.5.1.4.TY.1
+        subobj: 5.1.4
+        type: ty
+        question: What is the exact meaning of the name Yahweh ?
+        choices:
+          A: “I am who I am”
+          B: “Sovereign Lord”
+          C: No one knows for sure what it really was.
+          D: “The God who creates what comes into existence”
+        answer: C
+      - uid: BIB318.5.2.1.UPE.1
+        subobj: 5.2.1
+        type: upe
+        question: A memorial in the Old Testament was considered
+        choices:
+          A: an engraved stone plaque that told the story of a famous event, similar
+            to a tombstone.
+          B: a point of contact with God in relation to His blessings in the event
+            memorialized.
+          C: another term for an altar.
+          D: a eulogy for someone who had died.
+        answer: B
+      - uid: BIB318.5.2.1.TY.1
+        subobj: 5.2.1
+        type: ty
+        question: A memorial in the Old Testament was considered
+        choices:
+          A: another term for an altar.
+          B: a eulogy for someone who had died.
+          C: an inscribed stone plaque telling the story of a famous event.
+          D: a point of contact with God in relation to His blessings in the event
+            memorialized.
+        answer: D
+      - uid: BIB318.5.2.2.UPE.1
+        subobj: 5.2.2
+        type: upe
+        question: The Exodus deliverance is a type , meaning that it could be understood
+          as
+        choices:
+          A: one of several perspectives on the same story.
+          B: an important category of God’s actions.
+          C: a real historical demonstration of God working His plan in the world
+            that would ultimately be fulfilled in Christ.
+          D: a guideline for raising children.
+        answer: C
+      - uid: BIB318.5.2.2.TY.1
+        subobj: 5.2.2
+        type: ty
+        question: Miriam’s song proclaims
+        choices:
+          A: Israel’s power over Egypt.
+          B: Egypt’s might and power.
+          C: God’s hatred for Egypt.
+          D: God’s power and love.
+        answer: D
+      - uid: BIB318.5.3.1.TY.1
+        subobj: 5.3.1
+        type: ty
+        question: The various places named on the route to Sinai
+        choices:
+          A: are unknown.
+          B: are clearly marked to this day.
+          C: are necessary to our understanding of the story of the Exodus properly.
+          D: are necessary to fortify our faith in God’s Word.
+        answer: A
+      - uid: BIB318.5.3.2.UPE.1
+        subobj: 5.3.2
+        type: upe
+        question: Manna , according to Exodus, was
+        choices:
+          A: the Hebrew term for “money.”
+          B: the bread supplied by God to Israel in the wilderness.
+          C: a plant residue that kept Israel alive in the desert.
+          D: a fertile valley where Israel found nourishment.
+        answer: B
+      - uid: BIB318.5.3.2.TY.1
+        subobj: 5.3.2
+        type: ty
+        question: Manna , according to Exodus, was
+        choices:
+          A: the Hebrew term for “money.”
+          B: a fertile valley where Israel found nourishment.
+          C: a plant residue that kept Israel alive in the desert.
+          D: the bread supplied by God to Israel in the wilderness.
+        answer: D
+      - uid: BIB318.5.3.3.UPE.1
+        subobj: 5.3.3
+        type: upe
+        question: Jethro was
+        choices:
+          A: An Egyptian who left with the Israelites but then tried to lead them
+            into a trap.
+          B: Moses’s assistant on the journey from Sinai to the Promised Land.
+          C: Moses’s father-in-law who gave him some good advice on delegating his
+            work.
+          D: Miriam’s husband and Moses’s strongest supporter.
+        answer: C
+      - uid: BIB318.5.3.3.TY.1
+        subobj: 5.3.3
+        type: ty
+        question: Who advised Moses to delegate work assignments to others?
+        choices:
+          A: Miriam
+          B: Aaron
+          C: Jethro
+          D: Hur
+        answer: C
+      - uid: BIB318.6.1.1.UPE.1
+        subobj: 6.1.1
+        type: upe
+        question: The main purpose of the covenant at Sinai was
+        choices:
+          A: to give Israel the means to rid the world of sinful people.
+          B: to establish Israel as God’s missionary nation.
+          C: to show that no one could earn God’s favor through works.
+          D: to establish a peace treaty between Israel and Egypt.
+        answer: B
+      - uid: BIB318.6.1.1.TY.1
+        subobj: 6.1.1
+        type: ty
+        question: The main purpose of the covenant at Sinai was
+        choices:
+          A: to provide salvation for the nation of Israel only.
+          B: to establish a peace between Israel and Egypt.
+          C: to establish Israel as God’s missionary nation.
+          D: to show that no one can be saved by works.
+        answer: C
+      - uid: BIB318.6.1.3.TY.1
+        subobj: 6.1.3
+        type: ty
+        question: The theophany at Sinai
+        choices:
+          A: was an unimpressive event.
+          B: was to announce God’s wrath on sin.
+          C: ended in a bloody battle.
+          D: was an awesome experience for the human senses of God’s presence.
+        answer: D
+      - uid: BIB318.6.1.4.UPE.1
+        subobj: 6.1.4
+        type: upe
+        question: In Exodus 24, God sealed the covenant with Israel through
+        choices:
+          A: a meal eaten by Moses and the elders on the mountain.
+          B: putting the scroll in a jar and sealing it.
+          C: striking an altar with lightening.
+          D: a solemn assembly with public confessions.
+        answer: A
+      - uid: BIB318.6.1.4.TY.1
+        subobj: 6.1.4
+        type: ty
+        question: God sealed the covenant with Israel (in Exodus 24) through
+        choices:
+          A: a consuming fire on an altar of stones.
+          B: a meal before God for the elders.
+          C: putting the scroll in a jar and sealing it.
+          D: the same sign given to Noah—a rainbow.
+        answer: B
+      - uid: BIB318.6.2.1.UPE.1
+        subobj: 6.2.1
+        type: upe
+        question: The Ten Commandments are
+        choices:
+          A: numbered differently by Jews, Catholics, and Protestants.
+          B: the core expectations and values of the covenant between God and Israel.
+          C: only obligatory for Christians in terms of principles, not as theocratic
+            law.
+          D: all of the above.
+        answer: D
+      - uid: BIB318.6.2.1.TY.1
+        subobj: 6.2.1
+        type: ty
+        question: 'The Ten Commandments can be fulfilled by following these two simple
+          principles:'
+        choices:
+          A: Love God totally and love others as yourself.
+          B: Love God and judge others.
+          C: Love God and protect the family unit.
+          D: Love no one but God.
+        answer: A
+      - uid: BIB318.6.2.2.UPE.1
+        subobj: 6.2.2
+        type: upe
+        question: The third commandment deals with
+        choices:
+          A: being proud in prayer.
+          B: being a good testimony to who the Lord is.
+          C: mispronouncing God’s name.
+          D: using swear words.
+        answer: B
+      - uid: BIB318.6.2.2.TY.1
+        subobj: 6.2.2
+        type: ty
+        question: The subject of the third commandment is
+        choices:
+          A: being a testimony to the Lord’s divine nature.
+          B: mispronouncing God’s name.
+          C: being too proud in prayer.
+          D: a warning against using swear words.
+        answer: A
+      - uid: BIB318.6.2.3.UPE.1
+        subobj: 6.2.3
+        type: upe
+        question: In relationship to the Sabbath, Christians should remember
+        choices:
+          A: what attending church services is all about.
+          B: the significance of the seventh day.
+          C: that people need a weekly rest with time for worship, fellowship, and
+            recreation.
+          D: Jesus arose on a Sunday.
+        answer: C
+      - uid: BIB318.6.2.3.TY.1
+        subobj: 6.2.3
+        type: ty
+        question: In the commandment to keep the Sabbath, the word Sabbath means
+        choices:
+          A: “a day of solemn prayer and fasting.”
+          B: “a ceasing or resting from work.”
+          C: “the fellowship of believers.”
+          D: “the study of the Scriptures.”
+        answer: B
+      - uid: BIB318.6.2.4.UPE.1
+        subobj: 6.2.4
+        type: upe
+        question: The word used in the sixth commandment for murder
+        choices:
+          A: really refers to any killing.
+          B: is only used of premeditated murder.
+          C: implies that there can be taking of human life authorized by God.
+          D: also refers to ruining a person’s reputation.
+        answer: C
+      - uid: BIB318.6.2.4.UPE.2
+        subobj: 6.2.4
+        type: upe
+        question: The essence of the last five commandments is
+        choices:
+          A: worship of the one true God.
+          B: concern for the well-being of other people.
+          C: the minimum requirements for not harming others.
+          D: public, legal, or court cases.
+        answer: B
+      - uid: BIB318.6.2.4.TY.1
+        subobj: 6.2.4
+        type: ty
+        question: The word used in the sixth commandment for murder
+        choices:
+          A: refers to any killing.
+          B: is only used of premeditated murder.
+          C: implies that there can be taking of human life authorized by God.
+          D: refers to the killing of animals out of anger.
+        answer: C
+      - uid: BIB318.6.2.4.TY.2
+        subobj: 6.2.4
+        type: ty
+        question: The essence of the last five commandments is
+        choices:
+          A: public, legal court cases.
+          B: worship of the one true God.
+          C: concern for the well-being of other people because of our love for God.
+          D: the minimum requirements for not doing harm to others.
+        answer: C
+      - uid: BIB318.6.3.1.UPE.1
+        subobj: 6.3.1
+        type: upe
+        question: The laws of Exodus 21–23
+        choices:
+          A: apply the Decalogue to Israel’s daily issues as a nation.
+          B: teach principles of God’s character and values for all believers.
+          C: make everyone accountable to God for their actions toward one another.
+          D: do all the above.
+        answer: D
+      - uid: BIB318.6.3.1.UPE.2
+        subobj: 6.3.1
+        type: upe
+        question: The relationship of the Old Testament laws to the ancient Near Eastern
+          laws, like those of Hammurabi, is that
+        choices:
+          A: there are basic formal similarities, but major differences in values
+            and the equal treatment of people.
+          B: the two sets of laws are different and without similarities.
+          C: most of the Old Testament laws were copied from Hammurabi.
+          D: Hammurabi copied from the Pentateuch.
+        answer: A
+      - uid: BIB318.6.3.1.TY.1
+        subobj: 6.3.1
+        type: ty
+        question: The casuistic laws refer to laws
+        choices:
+          A: that explain the cause of sin.
+          B: in the form of “If this . . . then this.”
+          C: in the form of “You must or must not.”
+          D: that are more like guidelines than commandments.
+        answer: B
+      - uid: BIB318.6.3.3.TY.1
+        subobj: 6.3.3
+        type: ty
+        question: At the conclusion of God’s covenant with Israel He promised
+        choices:
+          A: to give Israel an extensive land to inhabit.
+          B: to make many Israelites kings over neighboring nations.
+          C: that the angel of the Lord would fight their battles for them.
+          D: that Israel would coexist peacefully with the people of Canaan.
+        answer: A
+      - uid: BIB318.7.1.1.UPE.1
+        subobj: 7.1.1
+        type: upe
+        question: The golden calf apostasy by the Israelites is best seen as the failure
+          of what difficult spiritual test?
+        choices:
+          A: The temptation to make things to worship with our own hands
+          B: The test of simple, blind obedience
+          C: The test of delays in hearing from God and the fulfillment of His promises
+          D: The test of physical suffering
+        answer: C
+      - uid: BIB318.7.1.1.TY.1
+        subobj: 7.1.1
+        type: ty
+        question: The golden calf apostasy by the Israelites is best seen as the failure
+          of what spiritual test?
+        choices:
+          A: The test of delay in hearing from God and the fulfillment of His promises
+          B: The temptation to become wealthy
+          C: The test of following one man
+          D: The test of physical suffering
+        answer: A
+      - uid: BIB318.7.1.2.UPE.1
+        subobj: 7.1.2
+        type: upe
+        question: A key distinction between God’s people and other people (stated
+          by Moses while negotiating with God after the apostasy) is
+        choices:
+          A: the laws of the covenant.
+          B: His presence among them and leading them.
+          C: the language spoken.
+          D: the way Israel was organized.
+        answer: B
+      - uid: BIB318.7.1.2.UPE.2
+        subobj: 7.1.2
+        type: upe
+        question: Chesed is the Hebrew word for
+        choices:
+          A: romantic attraction.
+          B: emotional compassion that parents feel for their child.
+          C: truth.
+          D: covenantal love that is committed and loyal, acting in devotion and kindness.
+        answer: D
+      - uid: BIB318.7.1.2.UPE.3
+        subobj: 7.1.2
+        type: upe
+        question: Yahweh proclaiming His name to Moses involved
+        choices:
+          A: showing His glory and goodness, as compassionate, gracious, and forgiving.
+          B: a fast for forty days and nights.
+          C: preaching about all He had done in history to that time.
+          D: a long period of waiting and ceremonial cleansing.
+        answer: A
+      - uid: BIB318.7.1.2.TY.1
+        subobj: 7.1.2
+        type: ty
+        question: Chesed is the Hebrew word for
+        choices:
+          A: “truth.”
+          B: “romantic attraction.”
+          C: “emotional compassion that a parent feels for a child.”
+          D: “covenantal love that is committed and loyal, acting in devotion and
+            kindness.”
+        answer: D
+      - uid: BIB318.7.1.2.TY.2
+        subobj: 7.1.2
+        type: ty
+        question: When describing God, the term glory refers to
+        choices:
+          A: the unapproachable light of His presence.
+          B: His faithfulness and forgiveness.
+          C: the grace with which He moves.
+          D: His deity and lordship.
+        answer: A
+      - uid: BIB318.7.2.1.UPE.1
+        subobj: 7.2.1
+        type: upe
+        question: The tabernacle was
+        choices:
+          A: God’s dwelling place—His field headquarters—among the Israelites.
+          B: called the sanctuary or holy place.
+          C: called the tent of meeting.
+          D: all of the above.
+        answer: D
+      - uid: BIB318.7.2.1.UPE.2
+        subobj: 7.2.1
+        type: upe
+        question: The colors in the tabernacle
+        choices:
+          A: portrayed the gospel message in symbols.
+          B: represented royalty and honored God as Israel’s divine King.
+          C: are still unexplained.
+          D: were chosen by the Levites.
+        answer: B
+      - uid: BIB318.7.2.1.UPE.3
+        subobj: 7.2.1
+        type: upe
+        question: The altar functioned as
+        choices:
+          A: a point of contact between God and the people with implied communication
+            in the offering of the sacrifices.
+          B: a visual reminder of the evil nature of humans.
+          C: simply a platform for the burning of sacrifices.
+          D: a place where family units gathered for monthly prayer.
+        answer: A
+      - uid: BIB318.7.2.1.UPE.4
+        subobj: 7.2.1
+        type: upe
+        question: The urim and thummim were
+        choices:
+          A: secret words of power granted to God’s people.
+          B: precious stones that God used to answer the people’s questions.
+          C: magical objects that lit up when God was calling the people.
+          D: special foods eaten only by the priests.
+        answer: B
+      - uid: BIB318.7.2.1.TY.1
+        subobj: 7.2.1
+        type: ty
+        question: The tabernacle’s purpose was to be a
+        choices:
+          A: place for the people to come to be judged.
+          B: tent in which the priests could dwell.
+          C: holy place or sanctuary for God’s use.
+          D: monument to God’s holiness.
+        answer: C
+      - uid: BIB318.7.2.1.TY.2
+        subobj: 7.2.1
+        type: ty
+        question: The various ceremonies of the tabernacle were object lessons to
+          teach the people
+        choices:
+          A: the importance of being ceremonially clean.
+          B: what it was like to be in the presence of royalty.
+          C: how to avoid sin and live lives of perfect holiness.
+          D: to think of and respond to God according to His ways.
+        answer: D
+      - uid: BIB318.7.2.1.TY.3
+        subobj: 7.2.1
+        type: ty
+        question: The colors in the tabernacle
+        choices:
+          A: are still unexplained.
+          B: were really the gospel message in symbols.
+          C: represented royalty and thus honored God as Israel’s divine King.
+          D: have no significant meaning according to history and the Bible.
+        answer: C
+      - uid: BIB318.7.2.1.TY.4
+        subobj: 7.2.1
+        type: ty
+        question: The altar functioned as a
+        choices:
+          A: portal into the eternal realm of God for the worshippers’ spirits.
+          B: point of contact between God and the people.
+          C: place only for the burning of sacrifices.
+          D: place for people to tell God their problems.
+        answer: B
+      - uid: BIB318.7.2.1.TY.5
+        subobj: 7.2.1
+        type: ty
+        question: The urim and thummim were
+        choices:
+          A: an ordained means of communicating the answers requested by the people.
+          B: strange objects that lit up when God desired to talk to the people.
+          C: used in services of thanksgiving.
+          D: special foods eaten only by the priests.
+        answer: A
+      - uid: BIB318.7.2.2.UPE.1
+        subobj: 7.2.2
+        type: upe
+        question: Bezalel and Oholiab were
+        choices:
+          A: rebels who gave Moses a very difficult time.
+          B: priests who did most of the work on the tabernacle.
+          C: men filled with the Spirit to construct the tabernacle and train others.
+          D: women who did all the needlework for the tabernacle.
+        answer: C
+      - uid: BIB318.7.2.2.TY.1
+        subobj: 7.2.2
+        type: ty
+        question: One of the lessons learned from the tabernacle’s construction is
+          the importance of
+        choices:
+          A: condemning those who choose not to participate in God’s work.
+          B: giving people the opportunity to participate in God’s work.
+          C: only allowing a few people to participate in God’s work.
+          D: not allowing anyone to participate in God’s work.
+        answer: B
+      - uid: BIB318.7.2.2.TY.2
+        subobj: 7.2.2
+        type: ty
+        question: Bezalel and Oholiab were
+        choices:
+          A: rebels who gave Moses a difficult time.
+          B: priests who did most of the work on the tabernacle.
+          C: women who did all the needlework for the tabernacle.
+          D: men filled with the Spirit to construct the tabernacle and teach others.
+        answer: D
+      - uid: BIB318.8.1.1.UPE.1
+        subobj: 8.1.1
+        type: upe
+        question: The book of Leviticus is about
+        choices:
+          A: the obligations of the Levites.
+          B: holiness and life based on God’s holiness.
+          C: a lot of rules that are confusing.
+          D: worship and military training.
+        answer: B
+      - uid: BIB318.8.1.1.TY.1
+        subobj: 8.1.1
+        type: ty
+        question: The subject of the book of Leviticus is
+        choices:
+          A: repentance.
+          B: worship.
+          C: holiness.
+          D: prayer.
+        answer: C
+      - uid: BIB318.8.1.2.UPE.1
+        subobj: 8.1.2
+        type: upe
+        question: The atonement sacrifices provided
+        choices:
+          A: reconciliation with God when the covenant had been violated.
+          B: opportunities for people to air their grievances with God.
+          C: demonstrations of God’s power over natural laws.
+          D: identification with God’s glory and power.
+        answer: A
+      - uid: BIB318.8.1.2.UPE.2
+        subobj: 8.1.2
+        type: upe
+        question: 'The following are facts about the sacrifices:'
+        choices:
+          A: some cheaper substitutions were allowed for the poor.
+          B: they did not always involve atonement and they assumed repentance.
+          C: some were food for the priests.
+          D: all of the above are true.
+        answer: D
+      - uid: BIB318.8.1.2.UPE.3
+        subobj: 8.1.2
+        type: upe
+        question: The blood of the sacrifices
+        choices:
+          A: meant nothing spiritual.
+          B: had magical power.
+          C: represented the life of the victim, given in atonement.
+          D: was only intended for atonement during the years in the wilderness.
+        answer: C
+      - uid: BIB318.8.1.2.TY.1
+        subobj: 8.1.2
+        type: ty
+        question: The atonement sacrifices provided
+        choices:
+          A: reconciliation with God when the covenant had been violated.
+          B: opportunities for people to air their grievances with God.
+          C: demonstrations of God’s power over natural laws.
+          D: identification with God’s glory and power.
+        answer: A
+      - uid: BIB318.8.1.2.TY.2
+        subobj: 8.1.2
+        type: ty
+        question: The blood of the sacrifices
+        choices:
+          A: meant nothing spiritual.
+          B: had magical power.
+          C: represented the life of the victim, given in atonement.
+          D: was a physical representation of the God’s great power.
+        answer: C
+      - uid: BIB318.8.1.4.UPE.1
+        subobj: 8.1.4
+        type: upe
+        question: For blatant rebellion against the Lord’s covenant
+        choices:
+          A: there was no sacrifice.
+          B: a very expensive bull and ram were required.
+          C: three bulls and seven sheep were required.
+          D: the rebel was sold into slavery to another nation.
+        answer: A
+      - uid: BIB318.8.1.4.UPE.2
+        subobj: 8.1.4
+        type: upe
+        question: The requirements for the sins of leaders were
+        choices:
+          A: less than for everyone else.
+          B: greater than for everyone else.
+          C: equal with those for everyone else.
+          D: not specified.
+        answer: B
+      - uid: BIB318.8.1.4.UPE.3
+        subobj: 8.1.4
+        type: upe
+        question: The guilt (or trespass) offering
+        choices:
+          A: was for a specific violation of the Lord’s holiness and required restitution.
+          B: was only required of someone who usurped an appointed leader’s authority.
+          C: was offered by the patriarchs of each clan for all members of their families.
+          D: symbolized general redemption.
+        answer: A
+      - uid: BIB318.8.1.4.TY.1
+        subobj: 8.1.4
+        type: ty
+        question: The requirements for the sins of leaders were
+        choices:
+          A: equal with those for everyone else.
+          B: greater than for everyone else.
+          C: less than for everyone else.
+          D: not given.
+        answer: B
+      - uid: BIB318.8.1.4.TY.2
+        subobj: 8.1.4
+        type: ty
+        question: Sin offerings were required to atone for
+        choices:
+          A: all violations of the Lord’s commandments.
+          B: partial violations of the Lord’s commandments.
+          C: intentional violations of the Lord’s commandments.
+          D: unintentional violations of the Lord’s commandments.
+        answer: D
+      - uid: BIB318.8.1.5.UPE.1
+        subobj: 8.1.5
+        type: upe
+        question: Peace or fellowship offerings
+        choices:
+          A: had three types.
+          B: were not for atonement.
+          C: were for gratefulness and worship.
+          D: were all of the above.
+        answer: D
+      - uid: BIB318.8.1.5.TY.1
+        subobj: 8.1.5
+        type: ty
+        question: Peace offerings or fellowship offerings provided an opportunity
+          for expressions of
+        choices:
+          A: fellowship and peace among God’s people.
+          B: praise and gratefulness to God.
+          C: repentance and guilt for sin.
+          D: love and honor for others.
+        answer: B
+      - uid: BIB318.8.2.1.TY.1
+        subobj: 8.2.1
+        type: ty
+        question: During the ordination ceremony, the priests were consecrated or
+        choices:
+          A: figuratively sacrificed for the sins of the people.
+          B: privileged over the rest of Israel.
+          C: dedicated for God’s purpose.
+          D: made sinless.
+        answer: C
+      - uid: BIB318.8.2.2.UPE.1
+        subobj: 8.2.2
+        type: upe
+        question: Nadab and Abihu were
+        choices:
+          A: struck dead by the Lord for violating instructions.
+          B: struck with leprosy for violating instructions.
+          C: sons of Moses who rebelled against their father’s leadership.
+          D: skilled craftsmen who worked on the tabernacle.
+        answer: A
+      - uid: BIB318.8.2.2.TY.1
+        subobj: 8.2.2
+        type: ty
+        question: Nadab and Abihu
+        choices:
+          A: were skilled craftsmen who did important work on the tabernacle.
+          B: were struck dead by the Lord for violating their instructions.
+          C: were struck with leprosy for violating their instructions.
+          D: were sons of Moses who rebelled against him.
+        answer: B
+      - uid: BIB318.8.3.1.UPE.1
+        subobj: 8.3.1
+        type: upe
+        question: The instructions regarding clean and unclean are about
+        choices:
+          A: what disqualified a person from the presence of the Holy God.
+          B: the choices that take away from God’s holy reputation.
+          C: object lessons for God’s people regarding proper attitudes.
+          D: all of the above.
+        answer: D
+      - uid: BIB318.8.3.1.UPE.2
+        subobj: 8.3.1
+        type: upe
+        question: Holiness refers to
+        choices:
+          A: being separated from the world’s use to God’s use.
+          B: reflecting in our lives the moral values and love of the Holy God.
+          C: God granting a person to be allowed in His presence.
+          D: all of the above.
+        answer: D
+      - uid: BIB318.8.3.1.TY.1
+        subobj: 8.3.1
+        type: ty
+        question: In regards to holiness, the concept of a person being clean or unclean
+          refers to
+        choices:
+          A: physical cleanliness or hygiene.
+          B: moral preparedness versus neglect.
+          C: spiritual purity versus contamination.
+          D: proper and improper attitudes toward God.
+        answer: C
+      - uid: BIB318.8.3.4.UPE.1
+        subobj: 8.3.4
+        type: upe
+        question: The Hebrew term translated as leprosy in Leviticus
+        choices:
+          A: refers to any negative surface condition on objects as well as people.
+          B: has the same meaning as our typical meaning of leprosy (Hansen’s disease)
+            today.
+          C: means “despised and rejected one.”
+          D: refers to rebellion.
+        answer: A
+      - uid: BIB318.8.3.4.TY.1
+        subobj: 8.3.4
+        type: ty
+        question: The Hebrew term translated as “leprosy” in Leviticus
+        choices:
+          A: refers to any negative surface condition on objects as well as people.
+          B: has the same meaning as our modern term for leprosy (Hansen’s disease).
+          C: refers to any white spot on a person’s body.
+          D: indicates a spiritual uncleanness.
+        answer: A
+      - uid: BIB318.8.3.5.UPE.1
+        subobj: 8.3.5
+        type: upe
+        question: The Day of Atonement
+        choices:
+          A: was the only required fast in the year.
+          B: involved the sacrifice of a goat and the release of another.
+          C: gave the people a fresh start in forgiveness once a year.
+          D: involved all of the above.
+        answer: D
+      - uid: BIB318.9.1.1.TY.1
+        subobj: 9.1.1
+        type: ty
+        question: The Israelites were to treat blood with respect because
+        choices:
+          A: it was the symbol of God’s great power.
+          B: God used it to show people their sins.
+          C: God used it in the atonement of sins.
+          D: it was the source of all life on earth.
+        answer: C
+      - uid: BIB318.9.1.2.TY.1
+        subobj: 9.1.2
+        type: ty
+        question: The principle of idolatry in the Old Testament is about
+        choices:
+          A: being unfaithful to God and worshipping a counterfeit.
+          B: not lining up with the teaching of the priests.
+          C: joining in with heathen worship services.
+          D: making physical objects to worship.
+        answer: A
+      - uid: BIB318.9.1.3.UPE.1
+        subobj: 9.1.3
+        type: upe
+        question: The principle of idolatry in the Old Testament is about
+        choices:
+          A: being unfaithful to God and worshipping a counterfeit.
+          B: making physical objects to worship.
+          C: joining in with heathen worship services.
+          D: not lining up with the teaching of the priests.
+        answer: A
+      - uid: BIB318.9.1.3.TY.1
+        subobj: 9.1.3
+        type: ty
+        question: The death penalty was given by God for acts that
+        choices:
+          A: were clearly murder.
+          B: broke the rules of clean and unclean.
+          C: were classified as treasonous.
+          D: threatened the physical or spiritual life of an individual, family, or
+            community.
+        answer: D
+      - uid: BIB318.9.2.1.UPE.1
+        subobj: 9.2.1
+        type: upe
+        question: God’s values, as shown in the Ten Commandments and Leviticus 19,
+          can be summarized as
+        choices:
+          A: authority, life, family, truth, and an unselfish heart.
+          B: property, truth, and righteousness.
+          C: perfection, peace, promise, and punishment.
+          D: emancipation, trust, and free will.
+        answer: A
+      - uid: BIB318.9.2.1.UPE.2
+        subobj: 9.2.1
+        type: upe
+        question: Leviticus 19 refers to love as
+        choices:
+          A: expected behavior toward both fellow Israelites and foreigners.
+          B: involvement to the point of confronting sin.
+          C: concern for the well-being of others and respect for everyone.
+          D: all of the above.
+        answer: D
+      - uid: BIB318.9.2.1.UPE.3
+        subobj: 9.2.1
+        type: upe
+        question: The content of Leviticus 19
+        choices:
+          A: continues the detailed instructions regarding clean and unclean.
+          B: focuses on the feasts as intensely serious worship events.
+          C: describes what God meant by holy living for Israel and is the central
+            passage of the book of Leviticus.
+          D: was not written by the same author who wrote the rest of Leviticus.
+        answer: C
+      - uid: BIB318.9.2.1.TY.1
+        subobj: 9.2.1
+        type: ty
+        question: The term holiness can be defined as
+        choices:
+          A: being set apart and dedicated to God’s purpose.
+          B: God’s provision from His abundant goodness.
+          C: exceeding the limits of normal experience.
+          D: turning away from one’s faith.
+        answer: A
+      - uid: BIB318.9.2.1.TY.2
+        subobj: 9.2.1
+        type: ty
+        question: 'The laws of Leviticus 19 deal with the treatment of fellow covenant
+          members and can be summed up with this command:'
+        choices:
+          A: “Show kindness only to those who are kind to you.”
+          B: “Bring judgment to those who harm you.”
+          C: “Love your neighbor as yourself.”
+          D: “Love no one but God.”
+        answer: C
+      - uid: BIB318.9.3.1.UPE.1
+        subobj: 9.3.1
+        type: upe
+        question: The priesthood according to Leviticus 21 was
+        choices:
+          A: not nearly as strict as most people think.
+          B: to be respected as a model of wholeness and purity.
+          C: originally intended to be celibate until Zuar died of a broken heart.
+          D: weakened because many Levites left their tribe and responsibilities.
+        answer: B
+      - uid: BIB318.9.3.1.TY.1
+        subobj: 9.3.1
+        type: ty
+        question: The priesthood according to Leviticus 21 was
+        choices:
+          A: made up of select members of Moses’s family exclusively.
+          B: to be respected as a model of wholeness and purity.
+          C: not nearly as strict as most people think.
+          D: originally to be celibate.
+        answer: B
+      - uid: BIB318.9.3.2.UPE.1
+        subobj: 9.3.2
+        type: upe
+        question: The feasts were
+        choices:
+          A: monthly celebrations.
+          B: times of gathering to express appreciation to God for all He had done.
+          C: month-long times of eating and resting.
+          D: not observed after the Hebrews reached the Promised Land.
+        answer: B
+      - uid: BIB318.9.3.3.UPE.1
+        subobj: 9.3.3
+        type: upe
+        question: The twelve bread cakes and the seven oil lamps were
+        choices:
+          A: symbols of God’s presence with the Israelites.
+          B: not symbolic of any thing spiritual.
+          C: placed in the holy of holies, the innermost sanctuary.
+          D: maintained by laymen and not by the priests.
+        answer: A
+      - uid: BIB318.9.3.3.TY.1
+        subobj: 9.3.3
+        type: ty
+        question: The flat bread cakes and the seven oil lamps were
+        choices:
+          A: placed in the holy of holies, the innermost sanctuary.
+          B: were maintained by laymen and not by the priests.
+          C: symbols of God’s presence with the Israelites.
+          D: not symbolic of spiritual things.
+        answer: C
+      - uid: BIB318.9.3.4.UPE.1
+        subobj: 9.3.4
+        type: upe
+        question: The significance of the land was as
+        choices:
+          A: the place of living as God’s people with His presence among them.
+          B: the place of relating to the world as a nation.
+          C: the place where God met their needs and blessed them.
+          D: all of the above.
+        answer: D
+      - uid: BIB318.9.3.4.TY.1
+        subobj: 9.3.4
+        type: ty
+        question: What took place during the year of Jubilee?
+        choices:
+          A: Livestock and land were divided evenly among the people.
+          B: The people enjoyed a year-long celebration of God’s goodness.
+          C: All land was given to the Levites for a year to provide for the priests.
+          D: All land reverted to the families to whom they were originally assigned.
+        answer: D
+      - uid: BIB318.9.3.5.UPE.1
+        subobj: 9.3.5
+        type: upe
+        question: The content of Leviticus 26
+        choices:
+          A: deals with accountability as an important part of a God-ordained relationship.
+          B: lists the blessings and curses of the Sinai covenant.
+          C: gives five cycles of increasing punishment to motivate repentance.
+          D: includes all of the above.
+        answer: D
+      - uid: BIB318.9.3.5.TY.1
+        subobj: 9.3.5
+        type: ty
+        question: What was the condition for Israel to receive the blessings of prosperity,
+          peace, and God’s presence?
+        choices:
+          A: Sacrifices
+          B: Obedience
+          C: Cleanliness
+          D: Intercession
+        answer: B
+      - uid: BIB318.9.3.6.UPE.1
+        subobj: 9.3.6
+        type: upe
+        question: Cherem is a term in Leviticus 27 referring to
+        choices:
+          A: the Hebrew word for tithing.
+          B: irreversible dedication of something to the Lord, usually by burning.
+          C: blaspheming the Lord’s name.
+          D: a game the Israelites used to play.
+        answer: B
+      - uid: BIB318.9.3.6.TY.1
+        subobj: 9.3.6
+        type: ty
+        question: What does the term cherem mean?
+        choices:
+          A: An irreversible, total dedication to God usually by consuming it with
+            fire
+          B: Another term used to reference the Nazirite vow taken by God’s people
+          C: A temporary vow of poverty to God during a difficult time
+          D: A sacrifice of grain to feed the priests of the tabernacle
+        answer: A
+      - uid: BIB318.10.1.1.UPE.1
+        subobj: 10.1.1
+        type: upe
+        question: What is the main theme of the book of Numbers?
+        choices:
+          A: Faithfulness
+          B: Organization
+          C: Reconciliation
+          D: Condemnation
+        answer: B
+      - uid: BIB318.10.1.1.UPE.2
+        subobj: 10.1.1
+        type: upe
+        question: The book of Numbers is about
+        choices:
+          A: various lists and calculations.
+          B: the journey in the wilderness.
+          C: mystical symbols in the ancient Old Testament world.
+          D: numerous stories of courage and valor.
+        answer: B
+      - uid: BIB318.10.1.1.UPE.3
+        subobj: 10.1.1
+        type: upe
+        question: The position of the tabernacle in the center of the camp teaches
+          the importance of
+        choices:
+          A: taking care of God’s house.
+          B: keeping your life in proper order.
+          C: making God the center of your life.
+          D: surrounding yourself with fellow believers.
+        answer: C
+      - uid: BIB318.10.1.1.TY.1
+        subobj: 10.1.1
+        type: ty
+        question: What is the main theme of the book of Numbers?
+        choices:
+          A: Faithfulness
+          B: Organization
+          C: Reconciliation
+          D: Condemnation
+        answer: B
+      - uid: BIB318.10.1.1.TY.2
+        subobj: 10.1.1
+        type: ty
+        question: The position of the tabernacle in the center of the camp teaches
+          the importance of
+        choices:
+          A: taking care of God’s house.
+          B: keeping your life in proper order.
+          C: making God the center of your life.
+          D: surrounding yourself with fellow believers.
+        answer: C
+      - uid: BIB318.10.2.1.UPE.1
+        subobj: 10.2.1
+        type: upe
+        question: The priest’s blessing at the conclusion of Numbers 6 expressed God’s
+          desire
+        choices:
+          A: that the people take turns supplying food for the priests.
+          B: that all Israelite males take the Nazirite vow.
+          C: for a relationship with His people.
+          D: to provide a king for His people.
+        answer: C
+      - uid: BIB318.10.2.1.UPE.2
+        subobj: 10.2.1
+        type: upe
+        question: A Nazirite was a
+        choices:
+          A: layman showing the dedication of a priest to the Lord for a time.
+          B: very spiritual person who withdrew from all human contact.
+          C: Levite in charge of the Holy of Holies.
+          D: person from Nazareth.
+        answer: A
+      - uid: BIB318.10.2.1.TY.1
+        subobj: 10.2.1
+        type: ty
+        question: The priest’s blessing at the conclusion of Numbers 6 expressed God’s
+          desire
+        choices:
+          A: that the people give all their money to the priests.
+          B: that all of Israel take the Nazirite vow.
+          C: for a relationship with His people.
+          D: to find a king for His people.
+        answer: C
+      - uid: BIB318.10.2.1.TY.2
+        subobj: 10.2.1
+        type: ty
+        question: A Nazirite was a
+        choices:
+          A: layman showing the dedication of a priest to the Lord for a time.
+          B: very spiritual person who withdrew from all human contact.
+          C: certain family of Levites in charge of the Holy of Holies.
+          D: person from Nazareth.
+        answer: A
+      - uid: BIB318.10.2.2.UPE.1
+        subobj: 10.2.2
+        type: upe
+        question: Numbers teaches that the Tabernacle
+        choices:
+          A: served as a refuge for unclean people.
+          B: was to also be a residence for the priests.
+          C: was to be transported by the tribe of Judah during moves.
+          D: was to be cared for by the Levites and positioned at the center of the
+            camp.
+        answer: D
+      - uid: BIB318.10.3.1.UPE.1
+        subobj: 10.3.1
+        type: upe
+        question: The Spirit of God in the Old Testament was understood by Israel
+          as
+        choices:
+          A: a powerful wind.
+          B: the third person of the Trinity.
+          C: God’s personal presence moving powerfully in the situation.
+          D: the divine nature received at death.
+        answer: C
+      - uid: BIB318.10.3.1.UPE.2
+        subobj: 10.3.1
+        type: upe
+        question: To be a prophet in the Old Testament was to
+        choices:
+          A: know the future.
+          B: have a Spirit-directed, spoken ministry for God.
+          C: be able to move God to do what the people wanted.
+          D: live a life of poverty, celibacy, and rejection.
+        answer: B
+      - uid: BIB318.10.3.1.UPE.3
+        subobj: 10.3.1
+        type: upe
+        question: God’s ministry and mission is always accomplished by
+        choices:
+          A: our resources and abilities.
+          B: ordinary people and angels.
+          C: dedicated leaders.
+          D: the Holy Spirit.
+        answer: D
+      - uid: BIB318.10.3.1.UPE.4
+        subobj: 10.3.1
+        type: upe
+        question: How did God equip the seventy elders chosen to help Moses?
+        choices:
+          A: He gave them money.
+          B: He gave them the Holy Spirit.
+          C: He educated them in the Scriptures.
+          D: He blessed them with great wisdom.
+        answer: B
+      - uid: BIB318.10.3.1.UPE.5
+        subobj: 10.3.1
+        type: upe
+        question: The Promised Land may be seen as
+        choices:
+          A: the whole of the Middle East.
+          B: a reference to heaven.
+          C: Israel’s mission field.
+          D: the utopia that people throughout the ages have sought.
+        answer: C
+      - uid: BIB318.10.3.1.UPE.6
+        subobj: 10.3.1
+        type: upe
+        question: The lesson of Numbers 11, where Moses is stressed over providing
+          meat for the people, is
+        choices:
+          A: to do all you can to keep peace in your own family.
+          B: to keep the governing power among a few, trusted, elite leaders.
+          C: to prefer to eat a vegetarian diet.
+          D: that God wants to empower all His people to participate in His work on
+            earth.
+        answer: D
+      - uid: BIB318.10.3.1.TY.1
+        subobj: 10.3.1
+        type: ty
+        question: God’s ministry and mission is always accomplished by
+        choices:
+          A: our resources and abilities.
+          B: educated leaders.
+          C: dedicated leaders.
+          D: the Holy Spirit.
+        answer: D
+      - uid: BIB318.10.3.1.TY.2
+        subobj: 10.3.1
+        type: ty
+        question: How did God equip the seventy elders chosen to help Moses?
+        choices:
+          A: He made them wealthy.
+          B: He gave them the Holy Spirit.
+          C: He educated them in the Scripture.
+          D: He blessed them with great wisdom.
+        answer: B
+      - uid: BIB318.10.3.1.TY.3
+        subobj: 10.3.1
+        type: ty
+        question: The Promised Land may be seen as
+        choices:
+          A: the whole of the Middle East.
+          B: a reference to heaven.
+          C: Israel’s mission field.
+          D: a promise that was fulfilled with one battle.
+        answer: C
+      - uid: BIB318.10.4.1.UPE.1
+        subobj: 10.4.1
+        type: upe
+        question: What do we learn from Miriam and Aaron’s challenge to Moses’s leadership?
+        choices:
+          A: People should not try to serve God unless they are pastors.
+          B: Being a good leader requires asserting yourself and taking command.
+          C: Christians should have respect for each other’s different callings and
+            gifts.
+          D: God is pleased when Christians question the authority of His chosen leaders.
+        answer: C
+      - uid: BIB318.10.4.1.TY.1
+        subobj: 10.4.1
+        type: ty
+        question: What do we learn from Miriam and Aaron’s challenging of Moses’s
+          leadership?
+        choices:
+          A: Moses had many weaknesses.
+          B: Being a good leader requires asserting yourself and taking command.
+          C: We should have respect for each other’s different callings and gifts.
+          D: God is pleased when Christians question the authority of His chosen leaders.
+        answer: C
+      - uid: BIB318.10.4.3.UPE.1
+        subobj: 10.4.3
+        type: upe
+        question: The reason the man was put to death for picking up sticks on the
+          Sabbath was
+        choices:
+          A: he was knowingly rejecting the sign of the covenant relationship with
+            God.
+          B: he was part of a family feud with the family of the leadership.
+          C: Moses was being legalistic and missed the mercy of God.
+          D: unexplained in the text.
+        answer: A
+      - uid: BIB318.10.4.5.UPE.1
+        subobj: 10.4.5
+        type: upe
+        question: God said He punished Moses for striking the rock because his actions
+          showed
+        choices:
+          A: a lack of trust and took away from the holiness of the Lord before the
+            people.
+          B: he missed the symbolism of Christ dying only once for salvation.
+          C: he could not obey a simple command.
+          D: he had too much pride.
+        answer: A
+      - uid: BIB318.10.4.5.TY.1
+        subobj: 10.4.5
+        type: ty
+        question: The reason the man was put to death for picking up sticks on the
+          Sabbath was
+        choices:
+          A: He was knowingly disobeying the command to honor the covenant relationship
+            with God.
+          B: he was part of a feud with the family of leadership.
+          C: Moses was being legalistic and missed the mercy of God.
+          D: not clear in the text.
+        answer: A
+      - uid: BIB318.10.4.5.TY.2
+        subobj: 10.4.5
+        type: ty
+        question: God punished Moses for striking the rock (in chapter 20) because
+          it showed
+        choices:
+          A: a lack of trust and took away from the holiness of the Lord before the
+            people.
+          B: Moses missed the symbolism of Christ dying only once for salvation.
+          C: Moses wanted the people’s admiration.
+          D: Moses did not respect God’s creation.
+        answer: A
+      - uid: BIB318.11.1.1.UPE.1
+        subobj: 11.1.1
+        type: upe
+        question: The bronze snake that God had Moses put on a pole in Numbers 21
+        choices:
+          A: was never connected to Jesus’ crucifixion in Scripture.
+          B: provided healing to those who looked on it in faith.
+          C: was a symbol of sin’s power over humankind.
+          D: indicated victory over the King of Aram.
+        answer: B
+      - uid: BIB318.11.1.1.TY.1
+        subobj: 11.1.1
+        type: ty
+        question: The copper snake God had Moses put on a pole in Numbers 21
+        choices:
+          A: was never connected to Jesus’ crucifixion in Scripture.
+          B: provided healing to those who looked on it in faith.
+          C: was a symbol of sin’s power over humans.
+          D: indicated victory over the King of Aram.
+        answer: B
+      - uid: BIB318.11.1.2.TY.1
+        subobj: 11.1.2
+        type: ty
+        question: The story of Balaam shows us that we are at our most vulnerable
+          to give in to temptation
+        choices:
+          A: after much prayer and fasting.
+          B: during a time of great challenge.
+          C: when we are tired, after a victory.
+          D: when we are surrounded by supportive friends.
+        answer: C
+      - uid: BIB318.11.1.2.TY.2
+        subobj: 11.1.2
+        type: ty
+        question: The story of Balaam also illustrates that
+        choices:
+          A: magic can work against God’s people.
+          B: God never tests our commitment to Him.
+          C: God’s people must be vigilant against temptation.
+          D: God wants us to listen to His voice through animals.
+        answer: C
+      - uid: BIB318.11.1.4.UPE.1
+        subobj: 11.1.4
+        type: upe
+        question: The warfare God calls for may be considered
+        choices:
+          A: made up excuses by the ancient Israelites to kill their enemies.
+          B: His capital punishment on His enemies.
+          C: His salvation plan for all people.
+          D: an opportunity to disrespect life.
+        answer: B
+      - uid: BIB318.11.1.4.TY.1
+        subobj: 11.1.4
+        type: ty
+        question: The warfare in Numbers may be considered
+        choices:
+          A: made up excuses by the ancient Israelites to kill their enemies.
+          B: God’s capital punishment on His enemies.
+          C: God’s salvation plan for all people.
+          D: an opportunity to disrespect life.
+        answer: B
+      - uid: BIB318.11.2.1.UPE.1
+        subobj: 11.2.1
+        type: upe
+        question: The conclusion of the book of Numbers is
+        choices:
+          A: the positive hope of a new generation to fulfill God’s purpose of occupying
+            the Promised Land.
+          B: the seemingly hopeless, continued wandering of Israel in the wilderness.
+          C: just another genealogical listing of certain tribes.
+          D: Moses entering the Promised Land.
+        answer: A
+      - uid: BIB318.11.2.1.TY.1
+        subobj: 11.2.1
+        type: ty
+        question: Numbers concludes with
+        choices:
+          A: the new generation of Israelites about to enter the Promised Land to
+            fulfill God’s plan.
+          B: the death of Joshua.
+          C: another genealogical listing of certain tribes.
+          D: an account of Moses entering the Promised Land.
+        answer: A
+      - uid: BIB318.11.2.2.UPE.1
+        subobj: 11.2.2
+        type: upe
+        question: The principle taught by the various passages in Numbers that add
+          to the ceremonial instructions is that
+        choices:
+          A: God’s people need to become more conservative in their worship practices.
+          B: there are never enough details given in ceremonial instructions.
+          C: there is value in spiritual disciplines for God’s people.
+          D: actually, there is no principle taught there.
+        answer: C
+      - uid: BIB318.11.2.2.TY.1
+        subobj: 11.2.2
+        type: ty
+        question: The principle behind the various passages in Numbers that add to
+          the ceremonial instructions is that
+        choices:
+          A: God’s people should adhere to strict worship practices.
+          B: God’s people need frequent reminders.
+          C: there is value in spiritual disciplines for God’s people.
+          D: God’s people take ceremony too seriously.
+        answer: C
+      - uid: BIB318.11.2.3.UPE.1
+        subobj: 11.2.3
+        type: upe
+        question: The cities of refuge were
+        choices:
+          A: hold-outs of Canaanites from the conquest.
+          B: where criminals could escape the death penalty.
+          C: fortress cities for protection when Israel was attacked.
+          D: God’s provision for justice instead of blood vengeance.
+        answer: D
+      - uid: BIB318.11.2.3.TY.1
+        subobj: 11.2.3
+        type: ty
+        question: The cities of refuge were
+        choices:
+          A: hold-outs of Canaanites from the conquest.
+          B: places of escape for all criminals.
+          C: fortresses when Israel was attacked.
+          D: God’s provision for justice instead of blood vengeance.
+        answer: D
+      - uid: BIB318.11.2.4.UPE.1
+        subobj: 11.2.4
+        type: upe
+        question: Through the account of Zelophehad’s daughters we learn
+        choices:
+          A: that conflict over this case caused part of the tribe to leave and journey
+            in a different direction.
+          B: women should keep quiet in the worship assembly.
+          C: the inheritance God provides is very important.
+          D: the inheritance of God is not important.
+        answer: C
+      - uid: BIB318.11.2.4.UPE.2
+        subobj: 11.2.4
+        type: upe
+        question: The lesson of Joshua and Moses from Numbers is
+        choices:
+          A: to train your successor and seek a smooth transition of leadership.
+          B: that a change of leadership should not require preparation.
+          C: that it is better to bring in a successor from outside the group.
+          D: to restrain young, ambitious men.
+        answer: A
+      - uid: BIB318.11.2.4.UPE.3
+        subobj: 11.2.4
+        type: upe
+        question: One of the main themes of the book of Numbers is to respond to
+        choices:
+          A: fire with fire.
+          B: conflict with withdrawal.
+          C: all options for solving problems with a vote of the people.
+          D: hardships with faith and not fear.
+        answer: D
+      - uid: BIB318.11.2.4.TY.1
+        subobj: 11.2.4
+        type: ty
+        question: Through the account of Zelophehad’s daughters we learn that
+        choices:
+          A: women must struggle to be treated equally.
+          B: women should keep quiet in the worship assembly.
+          C: the inheritance God provides is very important.
+          D: the inheritance of God is not important.
+        answer: C
+      - uid: BIB318.11.2.4.TY.2
+        subobj: 11.2.4
+        type: ty
+        question: The lesson of Joshua and Moses from Numbers teaches us to
+        choices:
+          A: train successors and seek a smooth transition of leadership.
+          B: not prepare for a change of leadership because it will not make the transition
+            any easier.
+          C: bring in a successor from outside the group.
+          D: counsel young, ambitious men.
+        answer: A
+      - uid: BIB318.11.2.4.TY.3
+        subobj: 11.2.4
+        type: ty
+        question: One of the main themes of Numbers is to respond to
+        choices:
+          A: fire with fire.
+          B: conflict with withdrawal.
+          C: accusations with a vote of the people.
+          D: hardships with faith and not fear.
+        answer: D
+      - uid: BIB318.12.1.1.TY.1
+        subobj: 12.1.1
+        type: ty
+        question: The outline of the book of Deuteronomy follows the structure of
+        choices:
+          A: an ancient poem.
+          B: Hammurabi’s Code.
+          C: no discernible structure.
+          D: an ancient, international, suzerain-vassal treaty.
+        answer: D
+      - uid: BIB318.12.1.1.TY.2
+        subobj: 12.1.1
+        type: ty
+        question: The focus of Deuteronomy is on
+        choices:
+          A: Moses’s final days of leadership.
+          B: Israel’s journey through the wilderness.
+          C: the conquering of the Promised Land.
+          D: the covenant relationship between Israel and God.
+        answer: D
+      - uid: BIB318.12.1.2.TY.1
+        subobj: 12.1.2
+        type: ty
+        question: The nature of the Sinai Covenant, as clarified by its cultural parallel
+          in the ANE, reminds us that God
+        choices:
+          A: is our divine king who expects a commitment with trust and obedience.
+          B: has an eternal list of detailed, automatic laws that rule the universe.
+          C: placed conditions on the fulfillment of His part of the covenant.
+          D: made similar ancient covenants with other nations.
+        answer: A
+      - uid: BIB318.12.1.3.TY.1
+        subobj: 12.1.3
+        type: ty
+        question: According to Deuteronomy 4, we value our relationship with God through
+          valuing His
+        choices:
+          A: power.
+          B: people.
+          C: Word.
+          D: wealth.
+        answer: C
+      - uid: BIB318.12.1.4.TY.1
+        subobj: 12.1.4
+        type: ty
+        question: What commandments were modified between Exodus and Deuteronomy?
+        choices:
+          A: The commandments about the Sabbath and about coveting
+          B: The commandments about adultery and stealing
+          C: The commandments about stealing and murder
+          D: The commandments were not modified at all.
+        answer: A
+      - uid: BIB318.12.1.5.TY.1
+        subobj: 12.1.5
+        type: ty
+        question: The Shema in 6:4 taught Israel
+        choices:
+          A: to fear God and keep His commandments “for this is the whole duty of
+            man.”
+          B: that they owed total allegiance to the singular, personal God—Yahweh.
+          C: to recite the name of the Lord three times daily.
+          D: to forget their days as slaves in Egypt.
+        answer: B
+      - uid: BIB318.12.1.5.TY.2
+        subobj: 12.1.5
+        type: ty
+        question: Israel’s righteousness in 6:25 was
+        choices:
+          A: in acknowledging what God had done for them and in their careful obedience
+            to His Word.
+          B: to be celebrated at an annual feast.
+          C: in keeping every detail of the Law.
+          D: something God desired for them to achieve on their own.
+        answer: A
+      - uid: BIB318.12.1.6.TY.1
+        subobj: 12.1.6
+        type: ty
+        question: The call for the people to circumcise their hearts meant the people
+          were
+        choices:
+          A: to prefer a life of celibacy.
+          B: to sew a red symbol of commitment on their inner garments.
+          C: to be totally committed to God.
+          D: not to marry without the blessing of a priest.
+        answer: C
+      - uid: BIB318.12.2.2.TY.1
+        subobj: 12.2.2
+        type: ty
+        question: The principle of the third commandment is about
+        choices:
+          A: not constructing idols.
+          B: not using profanity in conversation.
+          C: showing respect for people in authority.
+          D: not misrepresenting the Lord, His will, and His values.
+        answer: D
+      - uid: BIB318.12.2.2.TY.2
+        subobj: 12.2.2
+        type: ty
+        question: Deuteronomy 15 states that
+        choices:
+          A: God’s people need not be poor if they obey Him, yet some poverty will
+            always exist.
+          B: God is sovereign and yet people have free will.
+          C: people and leaders must offer all sacrifices at the required times.
+          D: God’s people may borrow from other nations, but they should never lend
+            to them.
+        answer: A
+      - uid: BIB318.13.1.1.TY.1
+        subobj: 13.1.1
+        type: ty
+        question: A very basic truth in Deuteronomy and throughout the Bible concerning
+          leaders is
+        choices:
+          A: no leader is above the law; everyone is subject to God’s law.
+          B: when they have the Spirit on them they must not be challenged.
+          C: they became leaders in their youth and served in that capacity until
+            death.
+          D: the Old Testament civil leaders also had to be priests.
+        answer: A
+      - uid: BIB318.13.1.1.TY.2
+        subobj: 13.1.1
+        type: ty
+        question: If a court case proved to be too difficult, the people were to
+        choices:
+          A: cast lots fairly in the presence of a judge.
+          B: ask Moses to intervene.
+          C: go to the priests and ask for a verdict.
+          D: have three judges agree on a verdict.
+        answer: C
+      - uid: BIB318.13.1.2.TY.1
+        subobj: 13.1.2
+        type: ty
+        question: In regard to someone taking the life of another,
+        choices:
+          A: God judges by the attitude and intent of the heart.
+          B: witnesses of the death had to give a defense for not intervening.
+          C: the judges were to fast and pray three days before issuing a punishment.
+          D: it makes no difference to God whether or not the death was intentional.
+        answer: A
+      - uid: BIB318.13.2.1.TY.1
+        subobj: 13.2.1
+        type: ty
+        question: Deuteronomy’s law on divorce taught that
+        choices:
+          A: it was never to be permitted.
+          B: a wife could request a divorce at any time.
+          C: a divorced person could not remarry.
+          D: it was to be restricted to serious situations and required a process.
+        answer: D
+      - uid: BIB318.13.2.1.TY.2
+        subobj: 13.2.1
+        type: ty
+        question: Deuteronomy 23 instructs that runaway slaves
+        choices:
+          A: were to be returned to their masters at once.
+          B: were to be cast out of the camp.
+          C: were to be given safe dwelling because the Lord had delivered Israel
+            from slavery.
+          D: were to serve the Levites the rest of their lives.
+        answer: C
+      - uid: BIB318.13.2.2.TY.1
+        subobj: 13.2.2
+        type: ty
+        question: The idea that Deuteronomy teaches that God’s people should not even
+          possess the means to cheat in commercial dealings is
+        choices:
+          A: evident in the story about God using Israel to blot out the Amalekites.
+          B: expressed by the prohibition of unequal weights.
+          C: an unrealistic standard for people to live by.
+          D: common among all ancient cultures.
+        answer: B
+      - uid: BIB318.13.2.3.TY.1
+        subobj: 13.2.3
+        type: ty
+        question: What is the best summary of the laws in Deuteronomy?
+        choices:
+          A: Maintain a healthy attitude.
+          B: Love God totally and love others.
+          C: Identify with God through sacrifice.
+          D: Remain vulnerable to attacks because that builds faith.
+        answer: B
+      - uid: BIB318.13.3.1.TY.1
+        subobj: 13.3.1
+        type: ty
+        question: What is a true description of real love, according to the principles
+          of Deuteronomy?
+        choices:
+          A: Real love does not hold others accountable.
+          B: Real love holds others accountable for their own good.
+          C: Real love can wane and die.
+          D: Real love takes many forms—both good and bad.
+        answer: B
+      - uid: BIB318.13.3.2.TY.1
+        subobj: 13.3.2
+        type: ty
+        question: What is the best summary of Moses’s song in Deuteronomy?
+        choices:
+          A: God’s mercy is unlimited.
+          B: God allows His people to question His laws.
+          C: Life will be full and rich in the Promised Land.
+          D: God will judge His people when they turn from Him.
+        answer: D
+      - uid: BIB318.13.3.3.TY.1
+        subobj: 13.3.3
+        type: ty
+        question: God’s covenant, as expressed in Deuteronomy, is about
+        choices:
+          A: God’s love for us and our choices in life.
+          B: accepting our inadequacies in serving God.
+          C: the necessity to keep renewing the agreement at appropriate times.
+          D: the inadequacies of others.
+        answer: A
     chapters:
     - last_modified: '2026-05-22'
       title: 1 - Creation (Genesis 1–2)

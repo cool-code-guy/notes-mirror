@@ -1458,6 +1458,2725 @@ courses:
       '3.0':
         timestamp: '2026-04-01'
         PN: 03.23.01
+      '1.0':
+        timestamp: '2005-01-01'
+        precision: year
+        source: colophon
+      '2.0':
+        timestamp: '2006-01-01'
+        precision: year
+        source: copyright
+    printings:
+    - pn: 03.23.01
+      course_code: BIB121
+      source_html: BBIB121ENE03-90_03.23.01.html
+      template: old
+      recorded: '2026-08-26'
+      note: 'Pristine print baseline built by scripts/build_html_baseline.py purely
+        from the InDesign HTML -- no DB input. Read-only: never hand-edit and never
+        feed to the janitor. UIDs are synthesized from the book''s own answer key;
+        diff pairs by content.'
+      counts:
+        ty: 149
+        upe: 100
+        final: 0
+      questions:
+      - uid: BIB121.1.1.1.UPE.1
+        subobj: 1.1.1
+        type: upe
+        question: Hermeneutics is the study of principles for
+        choices:
+          A: Bible memorization.
+          B: effective preaching.
+          C: sermon preparation.
+          D: interpreting the Scripture.
+        answer: D
+      - uid: BIB121.1.1.1.UPE.2
+        subobj: 1.1.1
+        type: upe
+        question: Hermeneutics teaches us to study the
+        choices:
+          A: methods of successful pastors.
+          B: methods of public speaking.
+          C: historical setting of Scriptures.
+          D: personality types of parishioners.
+        answer: C
+      - uid: BIB121.1.1.1.TY.1
+        subobj: 1.1.1
+        type: ty
+        question: Hermeneutics is the study of principles for
+        choices:
+          A: discipling new believers.
+          B: interpreting the Bible.
+          C: governing the church.
+          D: preaching biblical sermons.
+        answer: B
+      - uid: BIB121.1.1.2.UPE.1
+        subobj: 1.1.2
+        type: upe
+        question: How can we determine what a passage in the Bible means?
+        choices:
+          A: By the thoughts that come to mind when we read the passage
+          B: By correctly applying interpretive principles
+          C: By learning the original Greek or Hebrew in which the passage was written
+          D: By consulting a commentary or Bible dictionary
+        answer: B
+      - uid: BIB121.1.1.2.TY.1
+        subobj: 1.1.2
+        type: ty
+        question: Hermeneutics affects our beliefs about
+        choices:
+          A: salvation.
+          B: speaking in tongues.
+          C: the deity of Christ.
+          D: all of the above.
+        answer: D
+      - uid: BIB121.1.1.2.TY.2
+        subobj: 1.1.2
+        type: ty
+        question: Hermeneutics teaches us to study the
+        choices:
+          A: methods of successful pastors.
+          B: methods of public speaking.
+          C: historical setting of Scriptures.
+          D: personality types of parishioners.
+        answer: C
+      - uid: BIB121.1.2.1.UPE.1
+        subobj: 1.2.1
+        type: upe
+        question: What is a qualification of a biblical interpreter?
+        choices:
+          A: Yielding to the pastor’s interpretation
+          B: Depending on the Holy Spirit
+          C: Learning Hebrew and Greek
+          D: Studying several commentaries
+        answer: B
+      - uid: BIB121.1.2.1.UPE.2
+        subobj: 1.2.1
+        type: upe
+        question: When Christians speak of revelation, they refer to
+        choices:
+          A: religious truth discovered by humans.
+          B: the ever-growing body of Christian literature.
+          C: making divine truth knowable and known.
+          D: a method of Spirit-inspired Bible study.
+        answer: C
+      - uid: BIB121.1.2.1.UPE.3
+        subobj: 1.2.1
+        type: upe
+        question: Basic qualifications necessary for effective Bible study include
+        choices:
+          A: spiritual understanding, character, and an alert mind.
+          B: zeal, maturity, and superior intelligence.
+          C: spiritual maturity and educational experience.
+          D: superior biblical knowledge and a good reputation.
+        answer: A
+      - uid: BIB121.1.2.1.UPE.4
+        subobj: 1.2.1
+        type: upe
+        question: In order to study the Bible effectively, a person must have
+        choices:
+          A: physical and spiritual maturity.
+          B: spiritual character and spiritual understanding.
+          C: a high level of academic skills.
+          D: a degree from a Bible college.
+        answer: B
+      - uid: BIB121.1.2.1.UPE.5
+        subobj: 1.2.1
+        type: upe
+        question: The Magi knew very little about Jesus, but more was revealed to
+          them because
+        choices:
+          A: they consulted the scribes and teachers of the Hebrew scriptures.
+          B: they reported first to king Herod before seeking further.
+          C: they were obedient in the small amount of knowledge that they had.
+          D: they were skilled in the arts of divination practiced in the eastern
+            countries.
+        answer: C
+      - uid: BIB121.1.2.1.TY.1
+        subobj: 1.2.1
+        type: ty
+        question: Verbal plenary inspiration refers to
+        choices:
+          A: God speaking all planets into existence.
+          B: God’s plans for humanity.
+          C: the confusion of speech at Babel.
+          D: the entire Bible being fully inspired.
+        answer: D
+      - uid: BIB121.1.2.1.TY.2
+        subobj: 1.2.1
+        type: ty
+        question: What is a qualification of a biblical interpreter?
+        choices:
+          A: Yielding to the pastor’s interpretation
+          B: Depending on the Holy Spirit
+          C: Learning Hebrew and Greek
+          D: Studying several commentaries
+        answer: B
+      - uid: BIB121.1.3.1.UPE.1
+        subobj: 1.3.1
+        type: upe
+        question: When using concordances, remember that
+        choices:
+          A: the same word can have different meanings.
+          B: they are not available for some versions.
+          C: they are not that helpful to interpretation.
+          D: they are arranged by books of the Bible.
+        answer: A
+      - uid: BIB121.1.3.1.UPE.2
+        subobj: 1.3.1
+        type: upe
+        question: Which statement best explains why the same word can have different
+          meanings in a concordance?
+        choices:
+          A: The meaning of a word depends on the way it is used in a passage.
+          B: Concordances are not divinely inspired.
+          C: The word may have a different meaning in the original language.
+          D: The author of the concordance often gives several options.
+        answer: A
+      - uid: BIB121.1.3.1.UPE.3
+        subobj: 1.3.1
+        type: upe
+        question: The Living Bible is best described by which statement?
+        choices:
+          A: An interlinear Greek translation of the New Testament
+          B: Uses paraphrasing to make the meaning more beautiful and understandable
+          C: A phrase used throughout Scripture to describe the living Word of God
+          D: A translation in modern English by J. B. Phillips
+        answer: B
+      - uid: BIB121.1.3.1.TY.1
+        subobj: 1.3.1
+        type: ty
+        question: The Life in the Spirit Study Bible is
+        choices:
+          A: Calvinistic.
+          B: a New Age paraphrase.
+          C: Pentecostal.
+          D: Catholic.
+        answer: C
+      - uid: BIB121.1.3.1.TY.2
+        subobj: 1.3.1
+        type: ty
+        question: When using concordances, remember that
+        choices:
+          A: the same word can have different meanings.
+          B: they are not available for some versions.
+          C: they are not that helpful to interpretation.
+          D: they are arranged by books of the Bible.
+        answer: A
+      - uid: BIB121.1.3.1.TY.3
+        subobj: 1.3.1
+        type: ty
+        question: A commentary gives
+        choices:
+          A: an author’s opinion on each verse in a biblical book.
+          B: the accounts of theological debates.
+          C: complete maps of biblical eras.
+          D: biographies of missionaries.
+        answer: A
+      - uid: BIB121.1.4.1.UPE.1
+        subobj: 1.4.1
+        type: upe
+        question: A biblical application is
+        choices:
+          A: an explanation, in modern language, of the intent of the original author.
+          B: a statement, based on Scripture, that is true in all cultures and historic
+            periods.
+          C: relating the content of the passage to an individual person or a local
+            situation.
+          D: determining the special meaning that may be hidden or coded in the passage.
+        answer: C
+      - uid: BIB121.1.4.1.UPE.2
+        subobj: 1.4.1
+        type: upe
+        question: The term exegesis refers to
+        choices:
+          A: attempting to find support for a position in a passage of Scripture.
+          B: the process of gaining insight through meditation.
+          C: determining what a passage says.
+          D: a sermonic form in which the text supports the topic.
+        answer: C
+      - uid: BIB121.1.4.1.UPE.3
+        subobj: 1.4.1
+        type: upe
+        question: The most effective method in determining the intent of a biblical
+          author would be to
+        choices:
+          A: determine what his readers or hearers would have understood.
+          B: obtain a word-for-word translation of the original passage.
+          C: consult a Greek-Hebrew Lexicon.
+          D: seek spiritual enlightenment through prayer and meditation.
+        answer: A
+      - uid: BIB121.1.4.1.TY.1
+        subobj: 1.4.1
+        type: ty
+        question: The first goal of hermeneutics is to
+        choices:
+          A: discover the author’s meaning.
+          B: purchase several study aids.
+          C: join a Bible study group.
+          D: establish a Bible reading plan.
+        answer: A
+      - uid: BIB121.1.4.2.TY.1
+        subobj: 1.4.2
+        type: ty
+        question: Finding what a passage says to us today is
+        choices:
+          A: the first goal of interpreting Scripture.
+          B: the only reason to study the Scripture.
+          C: easier in group study.
+          D: the second goal of interpreting Scripture.
+        answer: D
+      - uid: BIB121.2.1.1.UPE.1
+        subobj: 2.1.1
+        type: upe
+        question: An allegory is
+        choices:
+          A: an explanation of another world using the language of this world.
+          B: any story that portrays a moral or ethical principle.
+          C: a story in which the characters allude to or suggest other things.
+          D: a dramatic form in which the words are sung or spoken very quickly.
+        answer: C
+      - uid: BIB121.2.1.1.TY.1
+        subobj: 2.1.1
+        type: ty
+        question: Which rabbinical rule of interpretation is affirmed by the modern
+          teachers of hermeneutics?
+        choices:
+          A: Scripture has an allegorical as well as a literal meaning.
+          B: The God of Israel has spoken in the tongues of human beings.
+          C: One must read the whole Bible before attempting to interpret any part
+            of it.
+          D: The Pentateuch is the key to interpreting all of the Hebrew Scriptures.
+        answer: B
+      - uid: BIB121.2.1.2.UPE.1
+        subobj: 2.1.2
+        type: upe
+        question: How did the apostles interpret Scripture?
+        choices:
+          A: Allegorically
+          B: Historically
+          C: Christologically
+          D: Theologically
+        answer: C
+      - uid: BIB121.2.1.2.UPE.2
+        subobj: 2.1.2
+        type: upe
+        question: Language used the natural or normal way is known as
+        choices:
+          A: finite language.
+          B: literal language.
+          C: infinite language.
+          D: figurative language.
+        answer: B
+      - uid: BIB121.2.1.2.UPE.3
+        subobj: 2.1.2
+        type: upe
+        question: Which of the following is the best definition of a type in the Bible?
+        choices:
+          A: An individual letter in the Hebrew scripture originally written by the
+            inspired author
+          B: A word or phrase that stands for something else
+          C: A person or thing in the Old Testament that foreshadows another person
+            or thing in the New Testament
+          D: A personal characteristic of individuals described in the Bible
+        answer: C
+      - uid: BIB121.2.1.2.UPE.4
+        subobj: 2.1.2
+        type: upe
+        question: Which of the following is a feature or characteristic of a type?
+        choices:
+          A: It corresponds in every detail with the person or thing it refers to.
+          B: It is sufficiently obvious that it need not be identified specifically
+            in the New Testament.
+          C: It must resemble in some significant way the thing it refers to.
+          D: It must be directly indicated by the author.
+        answer: C
+      - uid: BIB121.2.1.2.UPE.5
+        subobj: 2.1.2
+        type: upe
+        question: A person or thing in the Old Testament that is believed to foreshadow
+          another in the New Testament is called a
+        choices:
+          A: figure of speech.
+          B: type.
+          C: sacrament.
+          D: relic.
+        answer: B
+      - uid: BIB121.2.1.2.UPE.6
+        subobj: 2.1.2
+        type: upe
+        question: When Jesus pointed out that “The Sabbath is made for people, not
+          people for the Sabbath,” what interpretive method was He using?
+        choices:
+          A: Principle and application
+          B: Typology
+          C: Literal interpretation
+          D: Fulfilled prophecy
+        answer: A
+      - uid: BIB121.2.1.2.TY.1
+        subobj: 2.1.2
+        type: ty
+        question: In what way did the apostles interpret Scripture?
+        choices:
+          A: Allegorically
+          B: Historically
+          C: Christologically
+          D: Theologically
+        answer: C
+      - uid: BIB121.2.1.2.TY.2
+        subobj: 2.1.2
+        type: ty
+        question: An Old Testament pattern or symbol of a New Testament fulfillment
+          is
+        choices:
+          A: allegory.
+          B: myth.
+          C: parable.
+          D: type.
+        answer: D
+      - uid: BIB121.2.1.2.TY.3
+        subobj: 2.1.2
+        type: ty
+        question: The historical-grammatical method of interpretation holds that
+        choices:
+          A: the Scriptures were written in strict grammatical form.
+          B: each verse has one meaning based on its words and grammar.
+          C: each verse has a different meaning in different historical periods.
+          D: Scriptures written in Hebrew or Greek are equally inspired in modern
+            translations.
+        answer: B
+      - uid: BIB121.2.1.2.TY.4
+        subobj: 2.1.2
+        type: ty
+        question: Which of the following is a feature or characteristic of a type?
+        choices:
+          A: It corresponds in every detail with the person or thing it refers to.
+          B: It is sufficiently obvious that it need not be identified specifically
+            in the New Testament.
+          C: It must resemble in some significant way the thing to which it refers.
+          D: It must be directly indicated by several authors.
+        answer: C
+      - uid: BIB121.2.3.1.UPE.1
+        subobj: 2.3.1
+        type: upe
+        question: What was a major contribution of Martin Luther to the development
+          of Bible study?
+        choices:
+          A: Rejection of the notion that each verse has a spiritual meaning
+          B: Confirmation of Rome’s insistence on the use of Latin
+          C: Translation of the Bible into the German language
+          D: Rejection of literal interpretation but acceptance of allegorical interpretation
+        answer: C
+      - uid: BIB121.2.3.1.UPE.2
+        subobj: 2.3.1
+        type: upe
+        question: John Calvin is identified with what technique of interpretation?
+        choices:
+          A: Figurative
+          B: Allegory
+          C: Typological
+          D: Contextual
+        answer: D
+      - uid: BIB121.2.3.1.UPE.3
+        subobj: 2.3.1
+        type: upe
+        question: Which would John Calvin regard as most helpful in the interpretation
+          of a verse of Scripture?
+        choices:
+          A: A study of the manners and customs of the times in which the Bible was
+            written
+          B: The traditions of the church
+          C: Careful consideration of the passage in which the verse is found
+          D: Knowledge of Greek and Hebrew
+        answer: C
+      - uid: BIB121.2.3.1.TY.1
+        subobj: 2.3.1
+        type: ty
+        question: Which goal(s) of hermeneutics did Erasmus of Rotterdam fulfill?
+        choices:
+          A: Find the original meaning and make modern applications.
+          B: Determine four meanings for every significant verse.
+          C: Decode the allegories that had been used in previous ages.
+          D: Distinguish Greek and Hebrew thought patterns.
+        answer: A
+      - uid: BIB121.2.3.1.TY.2
+        subobj: 2.3.1
+        type: ty
+        question: Identify a contribution that was made by Martin Luther in the development
+          of biblical interpretation.
+        choices:
+          A: Developed special rules for interpretation in German
+          B: Declared the right of every believer to interpret the Bible
+          C: Decreed freedom from the Catholic church and the pope
+          D: Decided that religious symbols and images should be destroyed
+        answer: B
+      - uid: BIB121.2.3.1.TY.3
+        subobj: 2.3.1
+        type: ty
+        question: Which would John Calvin regard as most helpful in the interpretation
+          of a verse of Scripture?
+        choices:
+          A: A study of the manners and customs of the times in which the Bible was
+            written
+          B: The traditions of the church
+          C: Careful consideration of the passages in which the verse is found
+          D: Knowledge of Greek and Hebrew
+        answer: C
+      - uid: BIB121.2.3.3.UPE.1
+        subobj: 2.3.3
+        type: upe
+        question: What is the meaning of the term demythologize ?
+        choices:
+          A: To identify those parts of the Bible that are written in mythic form
+          B: To ignore accounts of miracles when interpreting the Bible.
+          C: To clarify the meaning of figurative language in the Scriptures
+          D: To develop a modern understanding of the Gospels
+        answer: B
+      - uid: BIB121.2.3.3.TY.1
+        subobj: 2.3.3
+        type: ty
+        question: What is the meaning of the term demythologize ?
+        choices:
+          A: “To identify those parts of the Bible that are written in mythic form”
+          B: “To remove [what Bultmann called] the myths (miracles) of Scripture”
+          C: “To clarify the meaning of figurative language in the Scripture”
+          D: “To develop a modern understanding of the Gospels without the miracles”
+        answer: B
+      - uid: BIB121.3.1.1.UPE.1
+        subobj: 3.1.1
+        type: upe
+        question: To interpret Scripture correctly, we must be able
+        choices:
+          A: to read Hebrew or Greek.
+          B: to think holistically rather than sequentially.
+          C: to recognize the intelligence of the ancient peoples.
+          D: 'to think in two worlds: past and present.'
+        answer: D
+      - uid: BIB121.3.1.1.TY.1
+        subobj: 3.1.1
+        type: ty
+        question: Which best describes the reason that we must research the historical-cultural
+          background of Scripture?
+        choices:
+          A: Inspired Scripture is no longer being written.
+          B: We no longer observe the practices of the Hebrew nation or the Early
+            Church.
+          C: We receive the Scripture from others who lived at different places and
+            in different times.
+          D: We have substituted secular laws for the Law of God.
+        answer: C
+      - uid: BIB121.3.1.1.TY.2
+        subobj: 3.1.1
+        type: ty
+        question: To interpret Scripture correctly we must be able to
+        choices:
+          A: read Hebrew or Greek.
+          B: think holistically rather than sequentially.
+          C: recognize the intelligence of the ancient peoples.
+          D: 'think in two worlds: past and present.'
+        answer: D
+      - uid: BIB121.3.1.1.TY.3
+        subobj: 3.1.1
+        type: ty
+        question: How is it possible to think in terms of the ancient world of the
+          Bible and also in terms of the modern world?
+        choices:
+          A: There is very little difference between the ancient world and the modern
+            world.
+          B: We have to add modern scientific understandings to the message of the
+            Bible.
+          C: The enduring principles of the Bible can be applied in ways appropriate
+            to modern times.
+          D: There will always be a historical-cultural gap between the ancient and
+            modern worlds.
+        answer: C
+      - uid: BIB121.3.1.1.TY.4
+        subobj: 3.1.1
+        type: ty
+        question: What is the first consideration when we attempt to determine the
+          meaning of a passage of Scripture?
+        choices:
+          A: What does the passage mean to us today?
+          B: What did the passage mean to the original hearers or readers?
+          C: How does this passage relate to the whole Bible?
+          D: Where was the author when the passage was written?
+        answer: B
+      - uid: BIB121.3.1.2.UPE.1
+        subobj: 3.1.2
+        type: upe
+        question: Which of the following is the most important consideration regarding
+          the author of a book of the Bible?
+        choices:
+          A: What relationship did he have with those he wrote to?
+          B: What was his name or title?
+          C: Did the attributed author really write the book?
+          D: What was the time of the writing?
+        answer: A
+      - uid: BIB121.3.1.2.UPE.2
+        subobj: 3.1.2
+        type: upe
+        question: Why are the genealogies of Jesus regarded as valid?
+        choices:
+          A: They are included in all four Gospels.
+          B: Genealogies were important to Gentiles.
+          C: The genealogies include historical figures who were known to exist.
+          D: It was necessary to provide genealogies of significant religious and
+            political leaders.
+        answer: C
+      - uid: BIB121.3.1.2.TY.1
+        subobj: 3.1.2
+        type: ty
+        question: Which question is the most important consideration regarding the
+          author of a book of the Bible?
+        choices:
+          A: What relationship did he have with those he wrote to?
+          B: What was his name or title?
+          C: Did the attributed author really write the book?
+          D: What was the time of the writing?
+        answer: A
+      - uid: BIB121.3.1.2.TY.2
+        subobj: 3.1.2
+        type: ty
+        question: Which question is the most important consideration regarding those
+          who received a book of the Bible?
+        choices:
+          A: Were they young or old?
+          B: What was their social status?
+          C: Was the book an encyclical letter (also read to others)?
+          D: Did the author of the book ever visit the recipients in person?
+        answer: B
+      - uid: BIB121.3.1.2.TY.3
+        subobj: 3.1.2
+        type: ty
+        question: Why are the genealogies of Jesus regarded as valid?
+        choices:
+          A: They are included in all four Gospels.
+          B: Genealogies were important to Gentiles.
+          C: The genealogies include historical figures who were known to exist.
+          D: It was necessary to provide genealogies of religious and political leaders.
+        answer: C
+      - uid: BIB121.3.1.3.TY.1
+        subobj: 3.1.3
+        type: ty
+        question: Identify an interpretive question that requires historical-cultural
+          background.
+        choices:
+          A: Who was the author?
+          B: Is the book rightly included in the canon of Scripture?
+          C: Are there applications to the life of a modern Christian?
+          D: How does the specific passage relate to the author’s purpose?
+        answer: D
+      - uid: BIB121.3.2.1.UPE.1
+        subobj: 3.2.1
+        type: upe
+        question: The text presents a passage in Galatians (3:10–14) that deals with
+          faith, works, the law, and Christ’s sacrifice. Which statement provides
+          a valid interpretation?
+        choices:
+          A: 'Christ endured the curse of sin because of the means of His execution:
+            crucifixion.'
+          B: Christians are to trust in Christ and also keep the law.
+          C: Christ redeemed us from the curse of the law by becoming cursed for us.
+          D: The law allowed forgiveness, but not the clearing of the conscience
+        answer: C
+      - uid: BIB121.3.2.1.TY.1
+        subobj: 3.2.1
+        type: ty
+        question: Which is a biblical principle about slaves and masters (Ephesians
+          6:5–9)?
+        choices:
+          A: Slavery is acceptable, even though it is no longer in general practice.
+          B: Christ is the Lord of both slave and master.
+          C: Slave owners should release their slaves when they become Christians.
+          D: The institution of slavery should be abolished.
+        answer: B
+      - uid: BIB121.3.2.1.TY.2
+        subobj: 3.2.1
+        type: ty
+        question: Galatians 3:10–14 is a passage that deals with faith, works, the
+          law, and Christ’s sacrifice. Which statement provides a valid interpretation?
+        choices:
+          A: 'Christ endured the curse of sin because of the means of His execution:
+            crucifixion.'
+          B: Christians are to trust in Christ and also keep the Law.
+          C: Christ redeemed us from the curse of the Law by becoming cursed for us.
+          D: The Law allowed forgiveness, but not the clearing of the conscience.
+        answer: C
+      - uid: BIB121.4.1.1.UPE.1
+        subobj: 4.1.1
+        type: upe
+        question: Which of the following phrases best explains the rule “Scripture
+          interprets Scripture”?
+        choices:
+          A: The entire Bible is the ultimate context of any verse in the Bible.
+          B: A Scripture will be explained within the same book in which it is found.
+          C: Theologians should not prepare written interpretations.
+          D: The New Testament explains the Old Testament.
+        answer: A
+      - uid: BIB121.4.1.1.TY.1
+        subobj: 4.1.1
+        type: ty
+        question: Which of the following statements best states the “Law of Context”?
+        choices:
+          A: Scriptural passages are like parts of a garment.
+          B: Scriptural passages are like pearls on a string, each with its own separate
+            value.
+          C: Scriptural passages must be compared with the writings of godly authors
+            throughout the church age.
+          D: Words in a scriptural passage must be compared with the same words used
+            in other books of the Bible.
+        answer: A
+      - uid: BIB121.4.1.1.TY.2
+        subobj: 4.1.1
+        type: ty
+        question: 'Which of the following statements best explains the rule: “Scripture
+          interprets Scripture”?'
+        choices:
+          A: The entire Bible is the ultimate context of any verse in the Bible.
+          B: A Scripture will be explained within the same book in which it is found.
+          C: Theologians should not prepare written interpretations.
+          D: The New Testament explains the Old Testament.
+        answer: A
+      - uid: BIB121.4.2.1.UPE.1
+        subobj: 4.2.1
+        type: upe
+        question: How do we determine the meaning of a word in the Bible?
+        choices:
+          A: Look it up in a dictionary or lexicon.
+          B: Determine its derivation from the original language.
+          C: Determine its usage as a term in context.
+          D: Locate the word in a book of original meanings of biblical words.
+        answer: C
+      - uid: BIB121.4.2.1.UPE.2
+        subobj: 4.2.1
+        type: upe
+        question: Chapter and verse numbers in the Bible
+        choices:
+          A: help us to locate chapters and verses but may interrupt the context.
+          B: are a reliable guide to identifying biblical divisions and subdivisions.
+          C: are an integral part of the inspired text.
+          D: were originally Greek or Hebrew letters that were used as numbers.
+        answer: A
+      - uid: BIB121.4.2.1.TY.1
+        subobj: 4.2.1
+        type: ty
+        question: How do we determine the meaning of a word in the Bible?
+        choices:
+          A: Look it up in a dictionary or lexicon.
+          B: Determine its derivation from the original language.
+          C: Determine its usage as a term in context.
+          D: Locate the word in a book of original meanings of biblical words.
+        answer: C
+      - uid: BIB121.4.2.1.TY.2
+        subobj: 4.2.1
+        type: ty
+        question: Which of the following is a good rule to follow regarding chapter
+          and verse divisions?
+        choices:
+          A: Try to identify complete thoughts rather than detached verse segments.
+          B: Recognize that verse numbers are not inspired, but the chapter divisions
+            are found in the inspired text.
+          C: Use a translation that includes the original paragraph spaces and punctuation.
+          D: Ignore the chapter and verse numbers in all serious Bible study.
+        answer: A
+      - uid: BIB121.4.3.1.UPE.1
+        subobj: 4.3.1
+        type: upe
+        question: What approach is most effective in the interpretation of a difficult
+          Scripture?
+        choices:
+          A: Compare the verse with similar passages in the New Testament.
+          B: Locate other verses that include the same words in the original language.
+          C: Wait upon God for a special revelation regarding the meaning of the verse.
+          D: Interpret the difficult text in comparison to parallel passages in the
+            same book.
+        answer: D
+      - uid: BIB121.4.3.1.TY.1
+        subobj: 4.3.1
+        type: ty
+        question: Which of the following is most helpful in Bible interpretation?
+        choices:
+          A: A study of the manners and customs of the times in which the Bible was
+            written
+          B: Bible commentaries, word studies, and dictionaries
+          C: A determination of the structure of the book
+          D: Knowledge of Greek and Hebrew
+        answer: C
+      - uid: BIB121.4.3.1.TY.2
+        subobj: 4.3.1
+        type: ty
+        question: What approach is most effective in the interpretation of a difficult
+          passage?
+        choices:
+          A: Compare the verse with similar passages in the New Testament.
+          B: Locate other verses that include the same words in the original language.
+          C: Wait upon God for a special revelation regarding the meaning of the verse.
+          D: Interpret the difficult text in comparison to parallel passages in the
+            same book.
+        answer: D
+      - uid: BIB121.4.3.1.TY.3
+        subobj: 4.3.1
+        type: ty
+        question: What should a serious Bible student do when a particular Scripture
+          passage appears to contradict other Scripture?
+        choices:
+          A: Realize that many different people contributed to the Bible and they
+            have different viewpoints.
+          B: Give preference to a Scripture found in the Epistles, in contrast to
+            historical or poetical passages.
+          C: Consult the rules of evidence that pertain to the rabbinical interpretations.
+          D: Use the clear and explicit passages to interpret obscure or implicit
+            passages.
+        answer: D
+      - uid: BIB121.4.4.1.UPE.1
+        subobj: 4.4.1
+        type: upe
+        question: When we consider the entire Bible to assist us in understanding
+          a Scripture verse, we are using
+        choices:
+          A: immediate context.
+          B: total context.
+          C: progressive revelation.
+          D: instant revelation.
+        answer: B
+      - uid: BIB121.4.4.1.UPE.2
+        subobj: 4.4.1
+        type: upe
+        question: What interpretive approach should be taken if we wish to learn the
+          meaning of a passage written by Moses?
+        choices:
+          A: Compare a parallel statement made by Jesus or one of the New Testament
+            writers.
+          B: Compare Moses’ writings with those of other inspired Old Testament writers.
+          C: Compare the passage with other passages written by Moses himself.
+          D: Consult a commentary written by an evangelical, Bible-believing author.
+        answer: C
+      - uid: BIB121.4.4.1.TY.1
+        subobj: 4.4.1
+        type: ty
+        question: To understand a difficult verse in Luke, we should compare it with
+          a parallel passage in
+        choices:
+          A: the book of Acts.
+          B: Matthew or Mark.
+          C: the epistles of Paul.
+          D: the Old Testament.
+        answer: A
+      - uid: BIB121.4.4.2.UPE.1
+        subobj: 4.4.2
+        type: upe
+        question: When Jesus said “It is also written,” He was teaching us to
+        choices:
+          A: compare biblical writers in the same testament.
+          B: be prepared to cite an alternate teaching.
+          C: quote Scripture accurately.
+          D: use only Scripture in response to a temptation or test.
+        answer: A
+      - uid: BIB121.4.4.3.TY.1
+        subobj: 4.4.3
+        type: ty
+        question: When you find an Old Testament verse quoted in the New Testament,
+        choices:
+          A: turn to the Old Testament passage to find out what it means in context.
+          B: rely only upon the Old Testament context.
+          C: you can safely ignore the context of the Old Testament passage.
+          D: realize that the Old Testament passage may no longer be applicable.
+        answer: A
+      - uid: BIB121.4.4.3.TY.2
+        subobj: 4.4.3
+        type: ty
+        question: The Gospel of Matthew includes many references to the Old Testament.
+          Therefore, to interpret Matthew, we must consider
+        choices:
+          A: passages by different authors in the New Testament.
+          B: parallel passages in the New Testament.
+          C: all the Old Testament passages quoted by Matthew.
+          D: parallel meanings of Greek and Hebrew words.
+        answer: C
+      - uid: BIB121.5.1.1.UPE.1
+        subobj: 5.1.1
+        type: upe
+        question: Which of the following words is a noun?
+        choices:
+          A: Him
+          B: Happy
+          C: Happily
+          D: Home
+        answer: D
+      - uid: BIB121.5.1.1.TY.1
+        subobj: 5.1.1
+        type: ty
+        question: Which of the following words is a noun?
+        choices:
+          A: Him
+          B: Happy
+          C: Happily
+          D: Home
+        answer: D
+      - uid: BIB121.5.1.2.UPE.1
+        subobj: 5.1.2
+        type: upe
+        question: If a word has a preferred dictionary meaning, how can it mean something
+          else?
+        choices:
+          A: The meaning of a word depends on the way it is used.
+          B: The word may have a different meaning in another language.
+          C: Some people simply do not accept the dictionary definition.
+          D: Dictionaries are not divinely inspired.
+        answer: A
+      - uid: BIB121.5.1.2.UPE.2
+        subobj: 5.1.2
+        type: upe
+        question: In the verse “This is the victory that has overcome the world,”
+          what is the meaning of world?
+        choices:
+          A: The third planet from the sun
+          B: The inhabited portion of the earth under the rule of Rome
+          C: The world system
+          D: The people that inhabit the earth
+        answer: C
+      - uid: BIB121.5.1.2.TY.1
+        subobj: 5.1.2
+        type: ty
+        question: If a word has a preferred dictionary meaning, how can it mean something
+          else?
+        choices:
+          A: The meaning of a word depends on the way it is used.
+          B: The word may have a different meaning in another language.
+          C: Some people simply do not accept the dictionary definition.
+          D: Dictionaries are not divinely inspired.
+        answer: A
+      - uid: BIB121.5.1.3.UPE.1
+        subobj: 5.1.3
+        type: upe
+        question: This, that, these, and those are referred to as
+        choices:
+          A: personal pronouns.
+          B: proper nouns.
+          C: indefinite pronouns.
+          D: demonstrative pronouns.
+        answer: D
+      - uid: BIB121.5.1.3.TY.1
+        subobj: 5.1.3
+        type: ty
+        question: This , that , these , and those are referred to as
+        choices:
+          A: personal pronouns.
+          B: proper nouns.
+          C: indefinite pronouns.
+          D: demonstrative pronouns.
+        answer: D
+      - uid: BIB121.5.2.1.UPE.1
+        subobj: 5.2.1
+        type: upe
+        question: In the phrase “I have written,” what part of speech is the word
+          have?
+        choices:
+          A: Action verb
+          B: Helping verb
+          C: Intransitive verb
+          D: Adverb
+        answer: B
+      - uid: BIB121.5.2.1.TY.1
+        subobj: 5.2.1
+        type: ty
+        question: In the phrase I have written , what part of speech is the word have
+          ?
+        choices:
+          A: Action verb
+          B: Helping verb
+          C: Intransitive verb
+          D: Adverb
+        answer: B
+      - uid: BIB121.5.2.2.UPE.1
+        subobj: 5.2.2
+        type: upe
+        question: Which of the following best describes the difference in usage between
+          the definite article ( the ) and the indefinite article ( a, an )?
+        choices:
+          A: The definite article must always be included, but the indefinite article
+            may often be omitted.
+          B: The indefinite article means “one of,” but the definite article means
+            “this one.”
+          C: The definite article identifies an individual as a member of a class
+            or group.
+          D: The indefinite article is used to identify uniquely a member of a class
+            or group.
+        answer: B
+      - uid: BIB121.5.2.2.TY.1
+        subobj: 5.2.2
+        type: ty
+        question: The definite article (the) and the indefinite articles (a, an) function
+          as what part of speech?
+        choices:
+          A: Noun
+          B: Conjunction
+          C: Adjective
+          D: Pronoun
+        answer: C
+      - uid: BIB121.5.2.2.TY.2
+        subobj: 5.2.2
+        type: ty
+        question: Which of the following correctly describes the usage of the word
+          “a”?
+        choices:
+          A: The word “a” refers to one specific, unique person.
+          B: The word “a” is a general word that refers to anyone in a group.
+          C: The word “a” is interchangeable with “the.”
+          D: The word “a” is correctly called the infinited article.
+        answer: B
+      - uid: BIB121.5.2.2.TY.3
+        subobj: 5.2.2
+        type: ty
+        question: 'Identify an adjective in this sentence: A gentle south wind began
+          to blow .'
+        choices:
+          A: south
+          B: wind
+          C: began
+          D: to
+        answer: A
+      - uid: BIB121.5.2.2.TY.4
+        subobj: 5.2.2
+        type: ty
+        question: A good translation of 1 Timothy 6:10 is, “The love of money is a
+          root of all kinds of evil.” To interpret this verse correctly, we should
+          understand that the love of money is
+        choices:
+          A: the direct cause of every evil.
+          B: the indirect cause of every evil.
+          C: a cause of all evil.
+          D: a cause of various evils.
+        answer: D
+      - uid: BIB121.5.2.3.UPE.1
+        subobj: 5.2.3
+        type: upe
+        question: What part of speech tells us “how”?
+        choices:
+          A: Adjective
+          B: Adverb
+          C: Pronoun
+          D: Conjunction
+        answer: B
+      - uid: BIB121.5.2.3.TY.1
+        subobj: 5.2.3
+        type: ty
+        question: What part of speech tells us “ how” ?
+        choices:
+          A: Adjective
+          B: Adverb
+          C: Pronoun
+          D: Conjunction
+        answer: B
+      - uid: BIB121.5.2.4.UPE.1
+        subobj: 5.2.4
+        type: upe
+        question: The following word bridge that would be used to indicate a comparison
+          is
+        choices:
+          A: therefore.
+          B: either/or.
+          C: never.
+          D: if.
+        answer: B
+      - uid: BIB121.5.2.4.UPE.2
+        subobj: 5.2.4
+        type: upe
+        question: Identify a way to distinguish a widening context in Scripture from
+          a change in context.
+        choices:
+          A: The ends of chapters identify changes in context.
+          B: Biblical writers often explain that a new theme is being introduced.
+          C: Look for conjunctions such as but or therefore.
+          D: Obtain a translation that has paragraph indentations.
+        answer: C
+      - uid: BIB121.5.3.1.UPE.1
+        subobj: 5.3.1
+        type: upe
+        question: 'Identify the subject of the sentence: “Do not judge or you too
+          will be judged.”'
+        choices:
+          A: Judge (not)
+          B: You (unstated)
+          C: Do (not)
+          D: You (too)
+        answer: B
+      - uid: BIB121.5.3.1.TY.1
+        subobj: 5.3.1
+        type: ty
+        question: 'Identify the subject of the sentence: After Jesus was born, during
+          the time of Herod, Magi came from the East.'
+        choices:
+          A: Jesus
+          B: Herod
+          C: Magi
+          D: East
+        answer: C
+      - uid: BIB121.6.1.1.UPE.1
+        subobj: 6.1.1
+        type: upe
+        question: The natural or normal way a language is used is known as its
+        choices:
+          A: literal meaning.
+          B: infinite meaning.
+          C: finite meaning.
+          D: figurative meaning.
+        answer: A
+      - uid: BIB121.6.1.1.UPE.2
+        subobj: 6.1.1
+        type: upe
+        question: In the verse “Paul kept on talking until midnight,” the meaning
+          of the word midnight is
+        choices:
+          A: the whole night from sunset to sunrise the next day.
+          B: a general time between 11:00 p.m. and 1:00 a.m.
+          C: an exact time of 12:00.
+          D: a time of spiritual darkness.
+        answer: B
+      - uid: BIB121.6.1.1.TY.1
+        subobj: 6.1.1
+        type: ty
+        question: The natural or normal way a language is used is known as its
+        choices:
+          A: literal meaning.
+          B: infinite meaning.
+          C: finite meaning.
+          D: figurative meaning.
+        answer: A
+      - uid: BIB121.6.1.1.TY.2
+        subobj: 6.1.1
+        type: ty
+        question: In Paul kept on talking until midnight (Acts 20:7) , the word midnight
+          means
+        choices:
+          A: the whole night from sunset to sunrise.
+          B: a general time between 11 p.m. and 1 a.m.
+          C: an exact time of 12:00.
+          D: a time of spiritual darkness.
+        answer: B
+      - uid: BIB121.6.1.1.TY.3
+        subobj: 6.1.1
+        type: ty
+        question: The Bible relates that Peter, James, and John climbed a mountain
+          with Jesus. What does the word mountain mean?
+        choices:
+          A: Spiritual difficulties
+          B: Tribulation
+          C: A rocky hill
+          D: The pathway to heaven
+        answer: C
+      - uid: BIB121.6.1.1.TY.4
+        subobj: 6.1.1
+        type: ty
+        question: Which phrase best describes figurative language ? Figurative language
+        choices:
+          A: is direct, straight-forward speech.
+          B: is precise language, as might be used by a scientist today.
+          C: is designed to allow multiple meanings.
+          D: uses symbols which represent other things.
+        answer: D
+      - uid: BIB121.6.1.1.TY.5
+        subobj: 6.1.1
+        type: ty
+        question: Jesus referred to the Holy Spirit by using what physical substance
+          as a symbol?
+        choices:
+          A: Water
+          B: Wheat ripe for harvest
+          C: Purest gold
+          D: A pearl of great price
+        answer: A
+      - uid: BIB121.6.1.2.UPE.1
+        subobj: 6.1.2
+        type: upe
+        question: When should a passage of Scripture be taken figuratively?
+        choices:
+          A: When it speaks of a miraculous event.
+          B: When a literal interpretation would contradict Scripture or create an
+            absurdity.
+          C: When anything supernatural is mentioned.
+          D: Never or very rarely; all Scripture is literally true.
+        answer: B
+      - uid: BIB121.6.1.2.TY.1
+        subobj: 6.1.2
+        type: ty
+        question: When should a passage of Scripture be taken figuratively?
+        choices:
+          A: When it speaks of a miraculous event
+          B: When a literal interpretation would contradict Scripture or create an
+            absurdity
+          C: When anything supernatural is mentioned
+          D: Never or very rarely. All Scripture is literally true.
+        answer: B
+      - uid: BIB121.6.1.2.TY.2
+        subobj: 6.1.2
+        type: ty
+        question: Which of the following employs figurative language?
+        choices:
+          A: Jesus prayed that Jairus’s daughter would be well.
+          B: Jesus said that He would come back to earth.
+          C: John baptized Jesus in water.
+          D: Jesus said, “I am the Good Shepherd.”
+        answer: D
+      - uid: BIB121.6.1.2.TY.3
+        subobj: 6.1.2
+        type: ty
+        question: Identify a procedure to interpret figurative language in a verse
+          of Scripture.
+        choices:
+          A: Look for clues in the context.
+          B: Consult the literature on Bible manners and customs.
+          C: Compare the verse with the traditional teaching of the church.
+          D: Refer to the original Greek or Hebrew in which the verse was written.
+        answer: A
+      - uid: BIB121.6.3.2.TY.1
+        subobj: 6.3.2
+        type: ty
+        question: In understanding Jesus’s parables, one must remember that each parable
+        choices:
+          A: teaches truth in abstract allegories.
+          B: has many hidden meanings.
+          C: has central truths.
+          D: has truths about Christ and His kingdom.
+        answer: D
+      - uid: BIB121.6.4.2.UPE.1
+        subobj: 6.4.2
+        type: upe
+        question: Which word best describes the term hyperbole ?
+        choices:
+          A: Sarcasm
+          B: Contrast
+          C: Exaggeration
+          D: Relationship
+        answer: C
+      - uid: BIB121.6.4.2.TY.1
+        subobj: 6.4.2
+        type: ty
+        question: Which word best describes the term hyperbole ?
+        choices:
+          A: Sarcasm
+          B: Contrast
+          C: Exaggeration
+          D: Relationship
+        answer: C
+      - uid: BIB121.7.1.1.UPE.1
+        subobj: 7.1.1
+        type: upe
+        question: An action is said to be normative when
+        choices:
+          A: it is performed by a good character in the Bible.
+          B: other biblical passages confirm and repeat it.
+          C: it is expressed as a command to a Bible character.
+          D: it is part of the cultural pattern of a Bible character.
+        answer: B
+      - uid: BIB121.7.1.1.TY.1
+        subobj: 7.1.1
+        type: ty
+        question: Which best describes a normative action in Scripture?
+        choices:
+          A: A report of manners and customs in Bible times
+          B: An accurate report of an unacceptable course of action
+          C: A pattern for all believers
+          D: A requirement fulfilled by a character in the Bible
+        answer: C
+      - uid: BIB121.7.1.1.TY.2
+        subobj: 7.1.1
+        type: ty
+        question: When the Bible reports an evil or inappropriate act, the report
+          is said to be
+        choices:
+          A: normative.
+          B: narrative.
+          C: poetic.
+          D: descriptive.
+        answer: D
+      - uid: BIB121.7.1.1.TY.3
+        subobj: 7.1.1
+        type: ty
+        question: An action is said to be normative when
+        choices:
+          A: it is performed by a good character in the Bible.
+          B: other biblical passages confirm and repeat it.
+          C: it is expressed as a command to a Bible character.
+          D: it is part of the cultural pattern of a Bible character.
+        answer: B
+      - uid: BIB121.7.2.1.UPE.1
+        subobj: 7.2.1
+        type: upe
+        question: Regarding the meaning of a Scripture passage, we should understand
+          that
+        choices:
+          A: the passage means what it was intended to mean by the original author.
+          B: Scripture means different things to different people.
+          C: the meaning of Scripture is illuminated by what we feel when we read
+            it.
+          D: the truth of Scripture varies over time and in different locations.
+        answer: A
+      - uid: BIB121.7.2.1.UPE.2
+        subobj: 7.2.1
+        type: upe
+        question: The interpretation of a passage of Scripture
+        choices:
+          A: is singular, though it may be a source for many principles and applications.
+          B: can differ depending on the historical period in which the interpreter
+            lives.
+          C: can be as varied as the number of interpreters.
+          D: is actually the same as its application.
+        answer: A
+      - uid: BIB121.7.2.1.UPE.3
+        subobj: 7.2.1
+        type: upe
+        question: The principles drawn from a passage of Scripture are
+        choices:
+          A: changing with each historical period.
+          B: always affected by language or culture.
+          C: impossible to apply if they were written in a foreign language.
+          D: based directly on the author’s original intention.
+        answer: D
+      - uid: BIB121.7.2.1.TY.1
+        subobj: 7.2.1
+        type: ty
+        question: A basic assumption of biblical hermeneutics is that the interpretation
+          of a passage
+        choices:
+          A: reflects the culture of the interpreter.
+          B: is a summary of the author’s intent.
+          C: is revealed directly by the Holy Spirit.
+          D: is determined independently by each sincere believer.
+        answer: B
+      - uid: BIB121.7.2.1.TY.2
+        subobj: 7.2.1
+        type: ty
+        question: Allegorical interpretation is a technique for
+        choices:
+          A: interpreting figurative language.
+          B: answering biblical questions.
+          C: finding hidden meanings.
+          D: gaining spiritual insight.
+        answer: C
+      - uid: BIB121.7.2.1.TY.3
+        subobj: 7.2.1
+        type: ty
+        question: Which most clearly indicates the author’s purpose in a biblical
+          story?
+        choices:
+          A: The setting of the story
+          B: The statement of the problem
+          C: The climax of the story
+          D: The outcome or post-script
+        answer: C
+      - uid: BIB121.7.2.2.TY.1
+        subobj: 7.2.2
+        type: ty
+        question: When a Bible story does not contain a clear explanation, the interpreter
+          must determine the meaning by
+        choices:
+          A: carefully studying the way the story is told.
+          B: asking God to reveal hidden truths.
+          C: looking for any hidden reference to the church in the story.
+          D: ignoring the historical context and directly applying it to his or her
+            life.
+        answer: A
+      - uid: BIB121.7.2.2.TY.2
+        subobj: 7.2.2
+        type: ty
+        question: What is a round character in a biblical narrative?
+        choices:
+          A: round character is one
+          B: concerning whom few details are given.
+          C: who is described with many details.
+          D: whose choices produce a negative result.
+        answer: B
+      - uid: BIB121.7.3.1.TY.1
+        subobj: 7.3.1
+        type: ty
+        question: What is a historical narrative?
+        choices:
+          A: A story with a moral
+          B: A traditional or cultural story
+          C: A story, usually with a moral, that could have happened
+          D: A story that reports what actually did happen
+        answer: D
+      - uid: BIB121.7.3.2.TY.1
+        subobj: 7.3.2
+        type: ty
+        question: When we refer to the “grand story” of salvation, we mean that
+        choices:
+          A: all the stories of the Old Testament refer to Christ in some way.
+          B: salvation from sin is the only theme found in the Old Testament stories.
+          C: all the individual stories of the Old Testament contribute to the greater
+            story of God’s salvation.
+          D: we can always find a New Testament truth in an Old Testament story.
+        answer: C
+      - uid: BIB121.8.1.1.UPE.1
+        subobj: 8.1.1
+        type: upe
+        question: What is a covenant?
+        choices:
+          A: A religious retreat for a Catholic sisterhood
+          B: An agreement between nations (usually mediated by ambassadors)
+          C: An agreement between two parties, with duties that each party agrees
+            to
+          D: A will, disposing the property of an individual after his or her decease
+        answer: C
+      - uid: BIB121.8.1.1.TY.1
+        subobj: 8.1.1
+        type: ty
+        question: What is a covenant?
+        choices:
+          A: A religious retreat for a Catholic sisterhood
+          B: An agreement between nations (usually mediated by ambassadors)
+          C: An agreement between two parties, with duties that each party agrees
+            to
+          D: A will, disposing the property of an individual after his or her death
+        answer: C
+      - uid: BIB121.8.1.2.UPE.1
+        subobj: 8.1.2
+        type: upe
+        question: The new covenant and the old covenant are alike as both
+        choices:
+          A: were mediated by angels.
+          B: trace their roots back to the newly cleansed earth after Noah’s flood.
+          C: utilize an earthly, temporary priesthood.
+          D: require and are based on the faith of believers.
+        answer: D
+      - uid: BIB121.8.1.2.UPE.2
+        subobj: 8.1.2
+        type: upe
+        question: What is meant by progressive revelation ?
+        choices:
+          A: Revelations prevented spiritual regression.
+          B: Later revelations are more spiritual than earlier ones.
+          C: Revelations progressed from partial to complete.
+          D: The New Testament reveals the error in the Old Testament.
+        answer: C
+      - uid: BIB121.8.1.2.TY.1
+        subobj: 8.1.2
+        type: ty
+        question: How are the New Covenant and the Old Covenant alike? Both new and
+          old covenants
+        choices:
+          A: were mediated by angels.
+          B: trace their roots back to the newly cleansed earth after Noah’s flood.
+          C: utilize an earthly, temporary priesthood.
+          D: require and are based on the faith of believers.
+        answer: D
+      - uid: BIB121.8.1.2.TY.2
+        subobj: 8.1.2
+        type: ty
+        question: The term progressive revelation refers to the
+        choices:
+          A: gradual development of Israel’s faith from half truth to total truth.
+          B: unfolding of God’s revelation throughout the Scriptures.
+          C: evolution of the Judeo-Christian faith from Genesis to Revelation.
+          D: doctrine that new revelation is continually coming to the church.
+        answer: B
+      - uid: BIB121.8.1.2.TY.3
+        subobj: 8.1.2
+        type: ty
+        question: The balance between right belief and action which God required under
+          the Old Covenant is demonstrated most clearly by the Old Testament books
+          of
+        choices:
+          A: law (Genesis–Deuteronomy).
+          B: history (Joshua–Esther).
+          C: wisdom (Job–Song of Solomon).
+          D: prophecy (Isaiah–Malachi).
+        answer: A
+      - uid: BIB121.8.2.1.UPE.1
+        subobj: 8.2.1
+        type: upe
+        question: 'How should we interpret the verse “Show no pity: life for life,
+          eye for eye” (Deuteronomy 19:21)?'
+        choices:
+          A: Jesus’ teaching negated much of the Old Testament law.
+          B: It is permissible under some circumstances to seek personal revenge.
+          C: This provision was to be applied only to foreigners, especially the Canaanites.
+          D: This provision was to be used by judges who were in office at the time
+            of the original writing.
+        answer: D
+      - uid: BIB121.8.2.1.TY.1
+        subobj: 8.2.1
+        type: ty
+        question: 'How should we interpret the verse, “Show no pity: life for life,
+          eye for eye” (Deuteronomy 19:21)?'
+        choices:
+          A: Jesus’ teaching negated much of the Old Testament law.
+          B: It is permissible under some circumstances to seek personal revenge.
+          C: This provision was to be applied only to foreigners, especially the Canaanites.
+          D: This provision was to be used by judges who were in office at the time
+            of the original writing.
+        answer: D
+      - uid: BIB121.8.2.1.TY.2
+        subobj: 8.2.1
+        type: ty
+        question: Many Old Testament rules do not apply to New Testament Christians
+          because
+        choices:
+          A: Christians are no longer subject to the moral law.
+          B: the ceremonial laws were fulfilled in Christ, and the civil laws did
+            not apply.
+          C: Christians are no longer bound by agreements made with unbelievers.
+          D: Christians are completely separate from all requirements of Judaism.
+        answer: B
+      - uid: BIB121.8.2.1.TY.3
+        subobj: 8.2.1
+        type: ty
+        question: The Old Testament civil laws were beneficial to the people of Israel
+          principally because they
+        choices:
+          A: pointed ahead to God’s eternal kingdom of perfect righteousness.
+          B: summarized the insights of their leaders.
+          C: provided a means by which they could earn eternal life.
+          D: applied truth to their specific historical and cultural contexts.
+        answer: D
+      - uid: BIB121.8.2.2.UPE.1
+        subobj: 8.2.2
+        type: upe
+        question: Christians obey Old Testament commandments if they are
+        choices:
+          A: relevant to all cultures.
+          B: representative of the highest ethical standard known to humankind.
+          C: renewed in the New Covenant.
+          D: not specifically cancelled in the New Covenant.
+        answer: C
+      - uid: BIB121.8.2.2.TY.1
+        subobj: 8.2.2
+        type: ty
+        question: The continuity of teaching between the Old and New Testaments indicates
+          that the
+        choices:
+          A: moral laws of the Old Testament are universal expressions of righteousness.
+          B: civil laws were directed only to Israel.
+          C: Old Testament Law and its statutes apply today unless they are specifically
+            excluded by New Testament teaching.
+          D: ceremonial laws will be totally fulfilled at Christ’s second coming.
+        answer: A
+      - uid: BIB121.8.2.2.TY.2
+        subobj: 8.2.2
+        type: ty
+        question: Christians obey Old Testament commandments if they are
+        choices:
+          A: renewed in the New Testament.
+          B: representative of the highest ethical standard known to humankind.
+          C: posted in public locations.
+          D: not specifically cancelled in the New Testament.
+        answer: A
+      - uid: BIB121.8.2.2.TY.3
+        subobj: 8.2.2
+        type: ty
+        question: Why is it necessary that Christians live by the ethical principles
+          originally found in the Old Testament?
+        choices:
+          A: We should honor our Jewish heritage.
+          B: Jesus obeyed the Jewish Law.
+          C: The ethical principles reflect right and wrong in all ages.
+          D: Fallen humans cannot distinguish between right and wrong.
+        answer: C
+      - uid: BIB121.9.1.1.TY.1
+        subobj: 9.1.1
+        type: ty
+        question: The captions (superscriptions) on many psalms
+        choices:
+          A: are worthless for interpretation and should be ignored.
+          B: were added during the time of Christ.
+          C: can give valuable clues to the historical background of the psalm.
+          D: are often misleading to modern interpreters.
+        answer: C
+      - uid: BIB121.9.1.2.UPE.1
+        subobj: 9.1.2
+        type: upe
+        question: “Day after day they pour forth speech; night after night they display
+          knowledge” (Psalm 19:2) is an example of
+        choices:
+          A: synonymous parallelism.
+          B: antithetic parallelism.
+          C: synthetic parallelism.
+          D: no parallelism.
+        answer: A
+      - uid: BIB121.9.1.2.TY.1
+        subobj: 9.1.2
+        type: ty
+        question: Hebrew synonymous parallelism is best characterized by
+        choices:
+          A: a structure in which the second line contrasts or contradicts the first
+            line.
+          B: repetition of concepts in different words.
+          C: a sequence of thought patterns.
+          D: a definite rhyme scheme at the ends of lines.
+        answer: B
+      - uid: BIB121.9.1.3.UPE.1
+        subobj: 9.1.3
+        type: upe
+        question: “The righteous will flourish like a palm tree” (Psalm 92:12) is
+          an example of
+        choices:
+          A: a metaphor.
+          B: hyperbole.
+          C: anthropomorphism.
+          D: a simile.
+        answer: D
+      - uid: BIB121.9.1.3.TY.1
+        subobj: 9.1.3
+        type: ty
+        question: Which statement from Psalm 19 contains an example of personification?
+        choices:
+          A: “O Lord, my Rock and my Redeemer” (v. 14).
+          B: “In the heavens he has pitched a tent for the sun” (v. 4).
+          C: “The heavens declare the glory of God” (v. 1).
+          D: “May the words of my mouth . . . be pleasing in your sight” (v. 14).
+        answer: C
+      - uid: BIB121.9.2.1.UPE.1
+        subobj: 9.2.1
+        type: upe
+        question: An imprecatory psalm is one in which the Psalmist
+        choices:
+          A: thanks God for a particular answer to prayer.
+          B: prays a prayer of penitence.
+          C: appeals for God to take vengeance on his enemies.
+          D: exults in God as he travels to the temple.
+        answer: C
+      - uid: BIB121.9.2.1.TY.1
+        subobj: 9.2.1
+        type: ty
+        question: A psalm that begins with a cry for help is called a psalm of
+        choices:
+          A: thanksgiving.
+          B: lamentation.
+          C: celebration and affirmation.
+          D: trust.
+        answer: B
+      - uid: BIB121.9.2.1.TY.2
+        subobj: 9.2.1
+        type: ty
+        question: If we say that a certain psalm is a psalm of thanksgiving, we should
+          expect to find
+        choices:
+          A: five sections.
+          B: three sections.
+          C: six sections.
+          D: no specific organization.
+        answer: A
+      - uid: BIB121.9.2.1.TY.3
+        subobj: 9.2.1
+        type: ty
+        question: A Hallel (often containing the word hallelujah ) is what type of
+          psalm?
+        choices:
+          A: Lament
+          B: Messianic
+          C: Wisdom
+          D: Praise
+        answer: D
+      - uid: BIB121.9.2.2.TY.1
+        subobj: 9.2.2
+        type: ty
+        question: A psalm in which the psalmist calls for God to destroy his enemies
+          according to the curses contained in the Old Testament covenant belongs
+          to the category called
+        choices:
+          A: imprecatory.
+          B: salvation history.
+          C: prophetic.
+          D: wisdom.
+        answer: A
+      - uid: BIB121.9.2.2.TY.2
+        subobj: 9.2.2
+        type: ty
+        question: An imprecatory psalm is one in which the psalmist
+        choices:
+          A: thanks God for a particular answer to prayer.
+          B: prays a prayer of penitence.
+          C: appeals for God to take vengeance on his enemies.
+          D: exults in God as he travels to the temple.
+        answer: C
+      - uid: BIB121.9.2.2.TY.3
+        subobj: 9.2.2
+        type: ty
+        question: A psalm in which each verse begins with a certain letter is called
+        choices:
+          A: an acrostic.
+          B: alphabetic.
+          C: alpha-numeric.
+          D: Hebraic.
+        answer: A
+      - uid: BIB121.9.2.2.TY.4
+        subobj: 9.2.2
+        type: ty
+        question: A psalm in which the writer expresses repentance would be a psalm
+          in which form?
+        choices:
+          A: Praise and worship
+          B: Lament and sorrow
+          C: Thanksgiving
+          D: Devotion
+        answer: B
+      - uid: BIB121.10.1.1.UPE.1
+        subobj: 10.1.1
+        type: upe
+        question: A proverb that includes the same thought in parallel lines is said
+          to be
+        choices:
+          A: synonymous.
+          B: antithetical.
+          C: comparative.
+          D: chiastic.
+        answer: A
+      - uid: BIB121.10.1.1.TY.1
+        subobj: 10.1.1
+        type: ty
+        question: When you interpret Proverbs, it is best to
+        choices:
+          A: consider all of the proverbs on the given subject.
+          B: see the proverbs as unfailing promises.
+          C: look for the historical context of the writer.
+          D: deny any exception to the general rule.
+        answer: A
+      - uid: BIB121.10.1.1.TY.2
+        subobj: 10.1.1
+        type: ty
+        question: A proverb that includes the same thought in parallel lines is said
+          to be
+        choices:
+          A: synonymous.
+          B: antithetical.
+          C: comparative.
+          D: chiastic.
+        answer: A
+      - uid: BIB121.10.1.1.TY.3
+        subobj: 10.1.1
+        type: ty
+        question: The biblical proverbs are
+        choices:
+          A: complete statements of theological truths.
+          B: promises that God will always keep.
+          C: memorable guidelines for shaping wise behavior.
+          D: commands that we are to follow exactly as they are stated.
+        answer: C
+      - uid: BIB121.10.1.2.TY.1
+        subobj: 10.1.2
+        type: ty
+        question: How should we respond to apparent contradictions among proverbs?
+        choices:
+          A: Give equal importance to all proverbs.
+          B: Discern the appropriate time to apply each proverb.
+          C: Select the proverb that has been quoted or applied in the New Testament.
+          D: Contradictions expand the relevance of proverbs.
+        answer: B
+      - uid: BIB121.10.1.3.UPE.1
+        subobj: 10.1.3
+        type: upe
+        question: The statement that best describes a proverb is
+        choices:
+          A: a global statement covering all contingencies.
+          B: a general statement that does not consider exceptions.
+          C: an expression of a covenant relationship.
+          D: a vehicle for God’s promises.
+        answer: B
+      - uid: BIB121.10.1.3.TY.1
+        subobj: 10.1.3
+        type: ty
+        question: Which statement best describes a proverb?
+        choices:
+          A: A global statement covering all contingencies
+          B: A general statement that does not consider exceptions
+          C: An expression of a covenant relationship
+          D: A vehicle for God’s promises
+        answer: B
+      - uid: BIB121.10.1.3.TY.2
+        subobj: 10.1.3
+        type: ty
+        question: 'What is a wise interpretation of the proverb: “A bribe is a charm
+          to the one who gives it”?'
+        choices:
+          A: Bribes were permitted in ancient Israel.
+          B: Bribes are expected and may be given in foreign countries.
+          C: Yes, a bribe may help you gain favor, but God does not approve of this
+            method.
+          D: Everything is easier if you are wealthy.
+        answer: C
+      - uid: BIB121.10.2.1.TY.1
+        subobj: 10.2.1
+        type: ty
+        question: Which statement best describes the error that Job’s friends made
+          in their use of proverbs?
+        choices:
+          A: They used too many proverbs.
+          B: They did not understand that Job was an exception to traditional wisdom.
+          C: Their proverbs were not legitimate.
+          D: They trusted in their own human wisdom.
+        answer: B
+      - uid: BIB121.10.2.1.TY.2
+        subobj: 10.2.1
+        type: ty
+        question: What is the literary form of the book of Job?
+        choices:
+          A: Narrative
+          B: Epic
+          C: Drama
+          D: Blank verse
+        answer: C
+      - uid: BIB121.10.2.2.UPE.1
+        subobj: 10.2.2
+        type: upe
+        question: The meaning of the word vanity in the book of Ecclesiastes is
+        choices:
+          A: concern for appearances.
+          B: desire for wealth.
+          C: pride.
+          D: emptiness.
+        answer: D
+      - uid: BIB121.10.2.2.TY.1
+        subobj: 10.2.2
+        type: ty
+        question: What is the meaning of the word vanity in the book of Ecclesiastes?
+        choices:
+          A: Concern for appearances
+          B: Desire for wealth
+          C: Pride
+          D: Emptiness
+        answer: D
+      - uid: BIB121.10.2.3.TY.1
+        subobj: 10.2.3
+        type: ty
+        question: Which phrase is the best interpretation of the Song of Solomon?
+        choices:
+          A: Anticipation of the consummation of marriage
+          B: The right of ancient kings to have concubines
+          C: An allegory of God’s love for Israel
+          D: An allegory of Christ and the church
+        answer: A
+      - uid: BIB121.11.1.1.UPE.1
+        subobj: 11.1.1
+        type: upe
+        question: The inspired declaration of divine will and purpose is known as
+        choices:
+          A: prediction.
+          B: divination.
+          C: prophecy.
+          D: interpretation.
+        answer: C
+      - uid: BIB121.11.1.1.TY.1
+        subobj: 11.1.1
+        type: ty
+        question: The inspired declaration of divine will and purpose is known as
+        choices:
+          A: prediction.
+          B: divination.
+          C: prophecy.
+          D: interpretation.
+        answer: C
+      - uid: BIB121.11.1.1.TY.2
+        subobj: 11.1.1
+        type: ty
+        question: The messages of the prophets written in highly poetic verse were
+          called
+        choices:
+          A: sermons.
+          B: oracles.
+          C: predictions.
+          D: divinations.
+        answer: B
+      - uid: BIB121.11.1.1.TY.3
+        subobj: 11.1.1
+        type: ty
+        question: How can we determine the place and time of the ministry of each
+          prophet?
+        choices:
+          A: The Bible clearly states where and when each prophet ministered.
+          B: The Targum contains a list of all certified prophets of the Old Testament.
+          C: The messages of the prophets are keys to the political history of Israel.
+          D: Bible book introductions and Bible handbooks are most helpful to modern
+            readers.
+        answer: D
+      - uid: BIB121.11.1.1.TY.4
+        subobj: 11.1.1
+        type: ty
+        question: Why is it important to know the place and time of the ministry of
+          each prophet?
+        choices:
+          A: The prophetic messages are understandable if read against the backdrop
+            of history.
+          B: This helps us to defend the Bible against its critics.
+          C: Times and dates are particularly important in historical-critical interpretation.
+          D: Dating the prophetic message is necessary in order to certify a correct
+            prediction.
+        answer: A
+      - uid: BIB121.11.1.2.UPE.1
+        subobj: 11.1.2
+        type: upe
+        question: Prophecy that foretells future events is the hardest to understand
+          because
+        choices:
+          A: one cannot predict the future from past events.
+          B: the prophets wrote in figurative language.
+          C: the prophets themselves did not understand the prophecies they themselves
+            uttered.
+          D: the time element in prophecy is unclear.
+        answer: D
+      - uid: BIB121.11.1.2.TY.1
+        subobj: 11.1.2
+        type: ty
+        question: What was the primary feature of the prophet’s divine call?
+        choices:
+          A: Social reform
+          B: Righteousness among high officials
+          C: Protection of the covenant
+          D: Warnings to other nations
+        answer: C
+      - uid: BIB121.11.1.2.TY.2
+        subobj: 11.1.2
+        type: ty
+        question: Studies indicate that the Old Testament prophet
+        choices:
+          A: often had no idea of the subject he was writing about.
+          B: usually had a different idea in mind than the outcome of his prophecy.
+          C: understood what he was saying but did not understand the date, manner,
+            or dimensions of his prophecy.
+          D: acted as one who took dictation without any understanding of what he
+            wrote.
+        answer: C
+      - uid: BIB121.11.1.3.UPE.1
+        subobj: 11.1.3
+        type: upe
+        question: A prophecy that groups together future events that in reality extend
+          over millennia is called
+        choices:
+          A: typological fulfillment.
+          B: telescopic fulfillment.
+          C: immediate fulfillment.
+          D: multiple fulfillment.
+        answer: B
+      - uid: BIB121.11.1.3.TY.1
+        subobj: 11.1.3
+        type: ty
+        question: A prophecy with two fulfillments, one near the time of the prophet
+          and one that it foreshadows, is called
+        choices:
+          A: typological.
+          B: telescopic.
+          C: developmental.
+          D: multiple.
+        answer: A
+      - uid: BIB121.11.1.3.TY.2
+        subobj: 11.1.3
+        type: ty
+        question: A prophecy that groups together future events that in reality extend
+          over millennia is called ________ fulfillment.
+        choices:
+          A: typological
+          B: telescopic
+          C: immediate
+          D: multiple
+        answer: B
+      - uid: BIB121.11.2.1.UPE.1
+        subobj: 11.2.1
+        type: upe
+        question: Apocalypse comes from a Greek word meaning
+        choices:
+          A: to predict.
+          B: to unveil.
+          C: to declare.
+          D: to indicate.
+        answer: B
+      - uid: BIB121.11.2.1.TY.1
+        subobj: 11.2.1
+        type: ty
+        question: Apocalypse comes from a Greek word meaning
+        choices:
+          A: “to predict.”
+          B: “to unveil.”
+          C: “to declare.”
+          D: “to indicate.”
+        answer: B
+      - uid: BIB121.11.2.2.TY.1
+        subobj: 11.2.2
+        type: ty
+        question: What assumption should we start with when determining the meaning
+          of symbols in apocalyptic literature?
+        choices:
+          A: We should interpret them literally.
+          B: All symbols represent modern-day empires.
+          C: The prophets themselves did not understand the symbols.
+          D: The symbols had a clear meaning to the original audience.
+        answer: D
+      - uid: BIB121.12.1.1.UPE.1
+        subobj: 12.1.1
+        type: upe
+        question: The Gospels give the big picture through a series of smaller literary
+          units called
+        choices:
+          A: episodes.
+          B: paragraphs.
+          C: pericopes.
+          D: articles.
+        answer: C
+      - uid: BIB121.12.1.1.UPE.2
+        subobj: 12.1.1
+        type: upe
+        question: What is the common theme of all pericopes?
+        choices:
+          A: The King and His kingdom
+          B: Salvation through the Gospel
+          C: The Cross and the Resurrection
+          D: The Second Coming of Jesus in power
+        answer: A
+      - uid: BIB121.12.1.1.UPE.3
+        subobj: 12.1.1
+        type: upe
+        question: The most important function of the accounts of miracles in the Gospels
+          is to show the
+        choices:
+          A: breaking in of the kingdom of God through the ministry of Jesus.
+          B: necessity for people to demonstrate they have faith in God.
+          C: steps people can take to overcome fear, failure, and doubt.
+          D: kind of moral courage needed in order to be a disciple of Jesus.
+        answer: A
+      - uid: BIB121.12.1.1.TY.1
+        subobj: 12.1.1
+        type: ty
+        question: How do we locate the beginning of a pericope?
+        choices:
+          A: Through paragraph captions
+          B: By capital letters
+          C: Pericopes begin at the beginning of each chapter.
+          D: Look for changes in location, time, or speakers
+        answer: D
+      - uid: BIB121.12.1.1.TY.2
+        subobj: 12.1.1
+        type: ty
+        question: What is the common theme of all pericopes?
+        choices:
+          A: To proclaim the coming of the King and His kingdom
+          B: Salvation through the gospel
+          C: The Cross and the Resurrection
+          D: The Second Coming of Jesus in power
+        answer: A
+      - uid: BIB121.12.1.2.UPE.1
+        subobj: 12.1.2
+        type: upe
+        question: To think horizontally about the Gospels is to
+        choices:
+          A: explore the relationship between the Greek used by the evangelists and
+            the Aramaic spoken by most first-century Jews.
+          B: form distinctive pictures of the personal circumstances of each evangelist.
+          C: compare the parallel ways in which the evangelists treat the same story
+            or saying.
+          D: use the Gospel accounts to reconstruct the life of Jesus in its true,
+            chronological order.
+        answer: C
+      - uid: BIB121.12.1.2.TY.1
+        subobj: 12.1.2
+        type: ty
+        question: To think horizontally about the Gospels is to
+        choices:
+          A: explore the relationship between the Greek used by the evangelists and
+            the Aramaic spoken by most first-century Jews.
+          B: form distinctive pictures of the personal circumstances of each evangelist.
+          C: compare the parallel ways in which the evangelists treat the same story
+            or saying.
+          D: use the Gospel accounts to reconstruct the life of Jesus in its true,
+            chronological order.
+        answer: C
+      - uid: BIB121.12.2.2.TY.1
+        subobj: 12.2.2
+        type: ty
+        question: Jesus often used overstatement to emphasize a point. This use of
+          overstatement is called
+        choices:
+          A: hyperbole.
+          B: parable.
+          C: synecdoche.
+          D: irony.
+        answer: A
+      - uid: BIB121.12.2.2.TY.2
+        subobj: 12.2.2
+        type: ty
+        question: Pericopes often end with a pronouncement or event that explain their
+          meaning. This is called the Law of
+        choices:
+          A: conclusion.
+          B: strophe.
+          C: metanome.
+          D: end stress.
+        answer: D
+      - uid: BIB121.12.3.1.TY.1
+        subobj: 12.3.1
+        type: ty
+        question: The book of Acts is an example of
+        choices:
+          A: Hellenistic historiography.
+          B: an apologetic or moral history.
+          C: a detailed treatise on what happened rather than why it happened.
+          D: an interpretive history.
+        answer: D
+      - uid: BIB121.12.3.2.TY.1
+        subobj: 12.3.2
+        type: ty
+        question: How can we determine if a practice is normative or simply a description
+          of what happened?
+        choices:
+          A: All practices described in the book of Acts should be considered normative.
+          B: The consistent witness of Scripture must confirm a normative practice.
+          C: Normative practices are clearly identified in the epistles.
+          D: Normative practices are approved by the apostles and councils of the
+            church.
+        answer: B
+      - uid: BIB121.12.4.1.UPE.1
+        subobj: 12.4.1
+        type: upe
+        question: The Epistles are referred to as occasional letters because they
+          were written
+        choices:
+          A: at random intervals.
+          B: infrequently.
+          C: in response to particular situations.
+          D: on auspicious dates.
+        answer: C
+      - uid: BIB121.12.4.1.TY.1
+        subobj: 12.4.1
+        type: ty
+        question: The epistles are referred to as occasional letters because they
+          were written
+        choices:
+          A: at random intervals.
+          B: infrequently.
+          C: in response to particular situations.
+          D: on auspicious dates.
+        answer: C
+      - uid: BIB121.12.4.2.UPE.1
+        subobj: 12.4.2
+        type: upe
+        question: How should twenty-first century Christians apply instructions that
+          were given to the early church?
+        choices:
+          A: If the instruction is descriptive, we must look for the underlying truth
+            it contains.
+          B: If the instruction is descriptive, we need not follow it.
+          C: If the instruction is normative, we must follow the instruction to the
+            letter.
+          D: If the instruction is normative, it should be included in the church
+            bylaws.
+        answer: A
+      - uid: BIB121.12.4.2.TY.1
+        subobj: 12.4.2
+        type: ty
+        question: When an epistle gives instruction to readers that is culturally
+          or historically specific, this means that the instruction
+        choices:
+          A: applies to all cultures and generations.
+          B: has no value for modern believers.
+          C: may be ignored by Bible interpreters.
+          D: does not directly apply to us but does illustrate a truth.
+        answer: D
+      - uid: BIB121.12.4.2.TY.2
+        subobj: 12.4.2
+        type: ty
+        question: How should twenty-first century Christians apply instructions that
+          were given to the early church?
+        choices:
+          A: If the instruction is descriptive, we must look for the underlying truth
+            it contains.
+          B: If the instruction is descriptive, we need not follow it.
+          C: If the instruction is normative, we must follow the instruction to the
+            letter.
+          D: If the instruction is normative, it should be included in the church
+            bylaws.
+        answer: A
+      - uid: BIB121.13.1.1.UPE.1
+        subobj: 13.1.1
+        type: upe
+        question: Identify an important reason for valuing the Old Testament.
+        choices:
+          A: It contains literature that has become part of western culture.
+          B: It is about three times longer than the New Testament.
+          C: The old covenant shows us our need for the new covenant.
+          D: The old covenant is binding on us for salvation.
+        answer: C
+      - uid: BIB121.13.1.1.TY.1
+        subobj: 13.1.1
+        type: ty
+        question: Identify an important reason for valuing the Old Testament.
+        choices:
+          A: It contains literature that has become part of Western culture.
+          B: It is about three times longer than the New Testament.
+          C: The old covenant shows us our need for the new covenant.
+          D: The old covenant is still our covenant to live by.
+        answer: C
+      - uid: BIB121.13.1.1.TY.2
+        subobj: 13.1.1
+        type: ty
+        question: Which phrase accurately describes the Law of the old covenant? The
+          Law of the old covenant
+        choices:
+          A: is still binding today.
+          B: pertained only to national Israel.
+          C: could remove the fear of death and judgment.
+          D: served as a “schoolmaster” to lead us to Christ.
+        answer: D
+      - uid: BIB121.13.1.2.UPE.1
+        subobj: 13.1.2
+        type: upe
+        question: What comparison is made in Galatians 3:14 between Abraham and the
+          Gentiles?
+        choices:
+          A: Those who have faith are blessed with faithful Abraham.
+          B: Gentiles can claim all the promises of the old covenant.
+          C: The promises made to Abraham are automatically transferred to the Gentiles.
+          D: The Gentiles should seek to be more like Abraham.
+        answer: A
+      - uid: BIB121.13.1.2.TY.1
+        subobj: 13.1.2
+        type: ty
+        question: What comparison is made in Galatians 3:14 between Abraham and the
+          Gentiles?
+        choices:
+          A: Those who have faith are blessed along with faithful Abraham.
+          B: Gentiles can claim all the promises of the old covenant.
+          C: The promises made to Abraham are automatically transferred to the Gentiles.
+          D: The Gentiles should seek to be more like Abraham.
+        answer: A
+      - uid: BIB121.13.2.1.UPE.1
+        subobj: 13.2.1
+        type: upe
+        question: What is true about the kingdom of God?
+        choices:
+          A: It has begun, yet we still wait for future fulfillments.
+          B: The Kingdom is now only in heaven but will one day be in people’s hearts
+            as well.
+          C: The Kingdom in its complete fullness began at Christ’s birth.
+          D: God rules in the hearts of all humans and angels.
+        answer: A
+      - uid: BIB121.13.2.1.UPE.2
+        subobj: 13.2.1
+        type: upe
+        question: How are the kingdom of God and the kingdom of heaven related?
+        choices:
+          A: The Kingdom of heaven will be established after Christ returns to earth.
+          B: The Kingdom of God will be established on earth after Christ’s return.
+          C: The Kingdom of God and the Kingdom of heaven are the same Kingdom.
+          D: The Kingdom of God describes Jesus’ earthly reign.
+        answer: C
+      - uid: BIB121.13.2.1.TY.1
+        subobj: 13.2.1
+        type: ty
+        question: What does the kingdom of God include?
+        choices:
+          A: All of heaven and earth
+          B: Jesus the King, in heaven and on earth
+          C: Jesus the King, in heaven
+          D: The total purview of the Father, Son, and Holy Spirit
+        answer: B
+      - uid: BIB121.13.2.1.TY.2
+        subobj: 13.2.1
+        type: ty
+        question: How are the kingdom of God and the kingdom of heaven related?
+        choices:
+          A: The kingdom of heaven will be established after Christ returns to earth.
+          B: The kingdom of God will be established on earth after Christ’s return.
+          C: The kingdom of God and the kingdom of heaven are the same Kingdom.
+          D: The kingdom of God describes Jesus’ earthly reign.
+        answer: C
+      - uid: BIB121.13.2.3.UPE.1
+        subobj: 13.2.3
+        type: upe
+        question: In what way is the Kingdom of God like light?
+        choices:
+          A: The Kingdom increases as sunlight increases from dawn to midday.
+          B: Those under the old covenant walked in darkness.
+          C: Common grace provides light to all who live after Jesus’ resurrection.
+          D: Unsaved human beings live in the shadows of early morning.
+        answer: A
+      - uid: BIB121.13.2.3.TY.1
+        subobj: 13.2.3
+        type: ty
+        question: In what way is the kingdom of God like light?
+        choices:
+          A: The Kingdom increases like sunlight from dawn to midday.
+          B: Those under the old covenant walked in darkness.
+          C: Common grace provides light to all who live after Jesus’ resurrection.
+          D: Unsaved human beings live in the shadows of early morning.
+        answer: A
+      - uid: BIB121.13.3.1.UPE.1
+        subobj: 13.3.1
+        type: upe
+        question: What is meant by the phrase already but not yet ?
+        choices:
+          A: Jesus could come at any moment, but He has not yet come.
+          B: The Kingdom exists in the hearts of believers but does not yet cover
+            the earth.
+          C: We cannot now see God, but we will see Him face to face in heaven.
+          D: Believers are secure in Jesus but may be lost if they return to the darkness
+            of sin.
+        answer: B
+      - uid: BIB121.13.3.1.TY.1
+        subobj: 13.3.1
+        type: ty
+        question: What is meant by the phrase already but not yet ?
+        choices:
+          A: Jesus could come at any moment, but He has not yet come.
+          B: The Kingdom exists in the hearts of believers but does not yet cover
+            the earth.
+          C: We cannot now see God, but will see Him face to face in heaven.
+          D: Believers are secure in Jesus, but may be lost if they return to the
+            darkness of sin.
+        answer: B
+      - uid: BIB121.13.3.2.UPE.1
+        subobj: 13.3.2
+        type: upe
+        question: Which statement describes the believer’s judgment?
+        choices:
+          A: Punishment for sin awaits but is not yet.
+          B: Judgment will be based on the quality and character of works done in
+            the body.
+          C: Judgment has taken place already, and the sentence is death.
+          D: Believers will be saved if they make an effort to live righteously.
+        answer: B
+      - uid: BIB121.13.3.2.UPE.2
+        subobj: 13.3.2
+        type: upe
+        question: When is a believer saved?
+        choices:
+          A: At the moment of true conviction for sin
+          B: When the believer gains victory over sin
+          C: When the believer dies and goes to heaven
+          D: At the moment of belief, during the Christian life, and at death
+        answer: D
+      - uid: BIB121.13.3.2.UPE.3
+        subobj: 13.3.2
+        type: upe
+        question: How is the already-not-yet concept illustrated by our attitude toward
+          wealth?
+        choices:
+          A: On earth God will supply our needs; in heaven our treasure will be inexhaustible.
+          B: Believers are heirs of God and may expect to be wealthy on this earth.
+          C: Wealthy believers should thank God and enjoy their prosperity.
+          D: The prospect of heaven should be enough for any believer.
+        answer: A
+      - uid: BIB121.13.3.2.TY.1
+        subobj: 13.3.2
+        type: ty
+        question: When is a believer saved?
+        choices:
+          A: At the moment of true conviction for sin
+          B: When the believer gains victory over sin
+          C: When the believer dies and goes to heaven
+          D: At the moment of belief, during the Christian life, and at death
+        answer: D
+      - uid: BIB121.13.3.2.TY.2
+        subobj: 13.3.2
+        type: ty
+        question: How is the already-not yet concept illustrated by our attitude toward
+          wealth?
+        choices:
+          A: On earth God will supply our needs. In heaven our treasure will be inexhaustible.
+          B: Believers are heirs of God and may expect to be wealthy on this earth.
+          C: Wealthy believers should thank God and enjoy their prosperity.
+          D: The prospect of heaven should be enough for any believer.
+        answer: A
+      - uid: BIB121.13.3.2.TY.3
+        subobj: 13.3.2
+        type: ty
+        question: Which statement describes the believer’s judgment?
+        choices:
+          A: Punishment for sin awaits but is not yet.
+          B: Judgment will be based on the quality and character of works done in
+            the body.
+          C: Judgment has taken place already and the sentence is death.
+          D: Believers will be saved if they make an effort to live righteously.
+        answer: B
+      - uid: BIB121.14.1.1.UPE.1
+        subobj: 14.1.1
+        type: upe
+        question: A biblical principle is
+        choices:
+          A: the main thought in a biblical story.
+          B: the main character in a biblical story.
+          C: the fulfillment of an Old Testament type.
+          D: a broad, cross-cultural certainty.
+        answer: D
+      - uid: BIB121.14.1.1.UPE.2
+        subobj: 14.1.1
+        type: upe
+        question: “Watch out that no one deceives you” is a principle in the form
+          of a
+        choices:
+          A: command.
+          B: warning.
+          C: promise.
+          D: proverb.
+        answer: B
+      - uid: BIB121.14.1.1.TY.1
+        subobj: 14.1.1
+        type: ty
+        question: What is a biblical principle?
+        choices:
+          A: The main thought in a biblical story
+          B: The main character in a biblical story
+          C: The fulfillment of a an Old Testament type
+          D: A broad, cross-cultural certainty
+        answer: D
+      - uid: BIB121.14.1.1.TY.2
+        subobj: 14.1.1
+        type: ty
+        question: Which phrase best describes a principle?
+        choices:
+          A: A mathematical or scientific proposition
+          B: A statement that is true every time you say it
+          C: A statement that is true no matter who says it
+          D: A proverbial or traditional expression
+        answer: C
+      - uid: BIB121.14.1.1.TY.3
+        subobj: 14.1.1
+        type: ty
+        question: “Watch out that no one deceives you” is a principle in the form
+          of a
+        choices:
+          A: command.
+          B: warning.
+          C: promise.
+          D: proverb.
+        answer: B
+      - uid: BIB121.14.1.2.UPE.1
+        subobj: 14.1.2
+        type: upe
+        question: Principles should be included in evangelistic sermons because they
+        choices:
+          A: are understood by large groups of people.
+          B: do not require much explanation.
+          C: lead to a response.
+          D: can be grasped by very young children.
+        answer: C
+      - uid: BIB121.14.1.2.UPE.2
+        subobj: 14.1.2
+        type: upe
+        question: What is the advantage of using a principle as a sermon title?
+        choices:
+          A: Elegance
+          B: Accuracy
+          C: Commitment to biblical inerrancy
+          D: Interest
+        answer: D
+      - uid: BIB121.14.1.2.TY.1
+        subobj: 14.1.2
+        type: ty
+        question: Why should principles be included in evangelistic sermons? Principles
+        choices:
+          A: are shorter than topics.
+          B: do not require much thought.
+          C: lead to a response.
+          D: are accepted by all.
+        answer: C
+      - uid: BIB121.14.1.2.TY.2
+        subobj: 14.1.2
+        type: ty
+        question: Which is an advantage of stating sermon points as principles?
+        choices:
+          A: Principles do not need to be based on biblical passages.
+          B: Principles are in every verse of the Bible.
+          C: Principles change from age to age.
+          D: Principles attract attention and pique interest.
+        answer: D
+      - uid: BIB121.14.1.2.TY.3
+        subobj: 14.1.2
+        type: ty
+        question: Which is the best expression of a principle taught in Scripture?
+          Believers should
+        choices:
+          A: greet each other with a kiss.
+          B: nod and verbally identify themselves as Christians.
+          C: embrace each other.
+          D: greet each other in a socially acceptable manner.
+        answer: D
+      - uid: BIB121.14.2.1.UPE.1
+        subobj: 14.2.1
+        type: upe
+        question: What is a main rule in stating a biblical principle?
+        choices:
+          A: State principles that are true to the author’s meaning.
+          B: Be sure the principle is stated positively.
+          C: Translate the principle in the colloquial form of your language.
+          D: Old Testament principles must be reaffirmed in the New Testament.
+        answer: A
+      - uid: BIB121.14.2.2.UPE.1
+        subobj: 14.2.2
+        type: upe
+        question: What is the primary reason that the statement “The first forbidden
+          fruit was sexual intimacy” is a bad principle?
+        choices:
+          A: Sexual expression should not be discussed in a religious context.
+          B: This concept is not stated by the author or implied in the context.
+          C: It is a misquotation of Scripture.
+          D: The apostle Paul specifically refuted this concept.
+        answer: B
+      - uid: BIB121.14.2.2.UPE.2
+        subobj: 14.2.2
+        type: upe
+        question: Which is the best expression of a principle taught in Scripture?
+          Believers should
+        choices:
+          A: greet each other with a kiss.
+          B: hold hands and walk together for a few paces.
+          C: embrace each other.
+          D: greet each other in a socially acceptable manner.
+        answer: D
+      - uid: BIB121.14.2.2.UPE.3
+        subobj: 14.2.2
+        type: upe
+        question: A principle should be stated
+        choices:
+          A: in one short, sentence.
+          B: in a declarative sentence.
+          C: using an imperative verb.
+          D: as a proposition with major and minor premises.
+        answer: A
+      - uid: BIB121.14.2.2.TY.1
+        subobj: 14.2.2
+        type: ty
+        question: What is a main rule for stating a biblical principle?
+        choices:
+          A: State principles that are true to the author’s meaning.
+          B: Be sure the principle is stated positively.
+          C: Translate the principle in the colloquial form of your language.
+          D: Old Testament principles must be reaffirmed in the New Testament.
+        answer: A
+      - uid: BIB121.14.2.2.TY.2
+        subobj: 14.2.2
+        type: ty
+        question: 'What is the primary reason that this statement: “The first forbidden
+          fruit was sexual intimacy” is a bad principle?'
+        choices:
+          A: Sexual expression should not be discussed in a religious context.
+          B: This concept is not stated by the author or implied in the context.
+          C: It is a misquotation of Scripture.
+          D: The apostle Paul specifically refuted this concept.
+        answer: B
+      - uid: BIB121.14.2.2.TY.3
+        subobj: 14.2.2
+        type: ty
+        question: A principle should be stated
+        choices:
+          A: in one short sentence.
+          B: in a declarative sentence.
+          C: using an imperative verb.
+          D: as a proposition with major and minor premises.
+        answer: A
+      - uid: BIB121.14.2.2.TY.4
+        subobj: 14.2.2
+        type: ty
+        question: When we use principles in preaching, upon what should we concentrate?
+        choices:
+          A: Accuracy in quoting scriptural passages
+          B: The most significant or important principles
+          C: Those principles that our church or denomination stresses
+          D: Principles that appear in doctrinal or creedal statements
+        answer: B
+      - uid: BIB121.15.1.1.UPE.1
+        subobj: 15.1.1
+        type: upe
+        question: 'Which statement best answers the question: “Is it possible for
+          an unbeliever to understand the Bible?” An unbeliever'
+        choices:
+          A: can comprehend the basic propositions and principles of the Bible.
+          B: cannot understand the Bible because he or she does not have the Spirit
+            of God.
+          C: cannot understand even the basic truths of the Bible.
+          D: can understand the Bible as well as the Christian.
+        answer: A
+      - uid: BIB121.15.1.1.UPE.2
+        subobj: 15.1.1
+        type: upe
+        question: What does the Scripture say about spiritual illumination?
+        choices:
+          A: It is given only in answer to prayer.
+          B: It is hidden from the worldly wise and revealed to believers.
+          C: It is available primarily to the wise and learned.
+          D: It is taught as an art or skill.
+        answer: B
+      - uid: BIB121.15.1.1.UPE.3
+        subobj: 15.1.1
+        type: upe
+        question: One principle regarding the Holy Spirit’s guidance in the interpretation
+          of Scripture is that the interpretation will
+        choices:
+          A: be approved by all believers.
+          B: lead to a unique spiritual understanding.
+          C: be solidly confirmed by others in the body of Christ, rather than a completely
+            unique interpretation.
+          D: confirm what we feel led to do.
+        answer: C
+      - uid: BIB121.15.1.1.TY.1
+        subobj: 15.1.1
+        type: ty
+        question: it possible for an unbeliever to understand Scripture?” An unbeliever
+        choices:
+          A: can comprehend the basic propositions and principles of the Bible.
+          B: cannot understand the Bible because he or she does not have the Spirit
+            of God.
+          C: cannot understand even basic truths in the Bible.
+          D: can understand the Bible as well as the Christian.
+        answer: A
+      - uid: BIB121.15.1.1.TY.2
+        subobj: 15.1.1
+        type: ty
+        question: What does the Scripture say about spiritual illumination?
+        choices:
+          A: It is given immediately when the believer accepts Christ.
+          B: It is hidden from the worldly wise and revealed to spiritual children.
+          C: It is available to the wise and learned, before salvation.
+          D: It is taught as an art or skill.
+        answer: B
+      - uid: BIB121.15.1.1.TY.3
+        subobj: 15.1.1
+        type: ty
+        question: In what way does the Spirit help us to understand the Scriptures?
+          The Holy Spirit
+        choices:
+          A: reveals the meaning of Scripture directly to our minds.
+          B: helps us as we study the Scripture.
+          C: teaches us hermeneutical principles to use in interpreting the Scripture.
+          D: takes the place of human teachers.
+        answer: B
+      - uid: BIB121.15.1.1.TY.4
+        subobj: 15.1.1
+        type: ty
+        question: When the Holy Spirit is guiding our interpretation of Scripture,
+          we can expect that the interpretation will
+        choices:
+          A: be agreed on by all believers.
+          B: lead to a unique, spiritual understanding.
+          C: be confirmed by others.
+          D: confirm what we want to do.
+        answer: C
+      - uid: BIB121.15.2.2.UPE.1
+        subobj: 15.2.2
+        type: upe
+        question: We can know if a preacher or teacher is ministering in the will
+          of God if
+        choices:
+          A: he or she gives prophetic messages that come true.
+          B: miracles are accomplished that are confirmed by qualified witnesses.
+          C: the minister reveals knowledge of persons and events that could not have
+            been privately learned.
+          D: he or she ministers in a manner that is consistent with the entire body
+            of Scripture.
+        answer: D
+      - uid: BIB121.15.2.2.UPE.2
+        subobj: 15.2.2
+        type: upe
+        question: God may speak to us in dreams, visions, or prophecy. If these are
+          truly from God, they will
+        choices:
+          A: come true.
+          B: be confirmed by other believers.
+          C: be in accord with the teaching of Scripture.
+          D: continue as a lifetime calling.
+        answer: C
+      - uid: BIB121.15.2.2.UPE.3
+        subobj: 15.2.2
+        type: upe
+        question: What is the danger in selecting passages that support personal opinions?
+        choices:
+          A: Presumption
+          B: Inadequate faith
+          C: Brief success
+          D: Demon possession
+        answer: A
+      - uid: BIB121.15.2.2.UPE.4
+        subobj: 15.2.2
+        type: upe
+        question: Identify a consideration that must be made if we wish to base a
+          decision on a passage of Scripture.
+        choices:
+          A: Is the passage known to be a translation from the inspired original text?
+          B: Does the passage apply to us at this point in time?
+          C: Do we clearly understand the meaning of the passage?
+          D: Is the passage correctly translated?
+        answer: B
+      - uid: BIB121.15.2.2.UPE.5
+        subobj: 15.2.2
+        type: upe
+        question: Does the Spirit use personal prophecy to convey a divine call to
+          a believer?
+        choices:
+          A: Prophecy may give details regarding the calling, but not the calling
+            itself.
+          B: A divine call is given in the words of Scripture.
+          C: A divine call is mediated through one’s spiritual leadership, not itinerant
+            prophets.
+          D: The call to a life of service to God is confirmed in many ways, each
+            of which is consistent with the written Word of God.
+        answer: D
+      - uid: BIB121.15.2.2.TY.1
+        subobj: 15.2.2
+        type: ty
+        question: If we ask the Holy Spirit to guide us, we can be confident that
+        choices:
+          A: our speech will be without essential error.
+          B: God will work with us to accomplish His will in our lives.
+          C: what we want will be an expression of the Spirit’s will.
+          D: we will not fail in our attempts to work for God.
+        answer: B
+      - uid: BIB121.15.2.2.TY.2
+        subobj: 15.2.2
+        type: ty
+        question: How can we know if a preacher or teacher is ministering in the will
+          of God?
+        choices:
+          A: If he or she gives prophetic messages that come true
+          B: If miracles are accomplished that are conformed by qualified witnesses
+          C: If the minister reveals knowledge of persons and events that could not
+            have been privately learned
+          D: If he or she ministers in a manner that is consistent with the entire
+            body of Scripture
+        answer: D
+      - uid: BIB121.15.2.2.TY.3
+        subobj: 15.2.2
+        type: ty
+        question: God may speak to us in dreams, visions, or prophecy. If these are
+          truly from God, they will
+        choices:
+          A: come true.
+          B: be confirmed by other believers.
+          C: be in accord with the teaching of Scripture.
+          D: continue as a lifetime calling.
+        answer: C
+      - uid: BIB121.15.2.2.TY.4
+        subobj: 15.2.2
+        type: ty
+        question: What is the danger in selecting passages that support personal desires?
+        choices:
+          A: Presumption
+          B: Too little faith
+          C: Brief success
+          D: Demon possession
+        answer: A
+      - uid: BIB121.15.2.2.TY.5
+        subobj: 15.2.2
+        type: ty
+        question: Identify a consideration that must be made if we wish to base a
+          decision on a passage of Scripture.
+        choices:
+          A: Is the passage known to be a translation from the inspired original text?
+          B: Does the passage apply to us at this point in time?
+          C: Do we clearly understand the meaning of the passage?
+          D: Is the passage correctly translated?
+        answer: B
+      - uid: BIB121.15.2.2.TY.6
+        subobj: 15.2.2
+        type: ty
+        question: Does the Spirit use personal prophecy to convey a divine call to
+          a believer?
+        choices:
+          A: Prophecy may give details regarding the calling, but not the calling
+            itself.
+          B: A divine call is given in the words of Scripture itself.
+          C: A divine call is mediated through one’s spiritual leadership; not itinerant
+            prophets.
+          D: The call to a life of service to God is confirmed in many ways, each
+            of which is consistent with the written Word of God.
+        answer: D
     chapters:
     - last_modified: '2026-05-22'
       title: 1 - Introduction to Hermeneutics

@@ -397,6 +397,2401 @@ courses:
       '1.0':
         timestamp: '2026-04-01'
         PN: 01.22.01
+    printings:
+    - pn: 01.22.01
+      course_code: BIB114
+      source_html: BBIB114ENE01-90_01.22.01.html
+      template: old
+      recorded: '2026-08-26'
+      note: 'Pristine print baseline built by scripts/build_html_baseline.py purely
+        from the InDesign HTML -- no DB input. Read-only: never hand-edit and never
+        feed to the janitor. UIDs are synthesized from the book''s own answer key;
+        diff pairs by content.'
+      counts:
+        ty: 130
+        upe: 75
+        final: 0
+      questions:
+      - uid: BIB114.1.1.1.UPE.1
+        subobj: 1.1.1
+        type: upe
+        question: The word synoptic , from the Greek language, refers to what is
+        choices:
+          A: exhaustive or comprehensive.
+          B: precise and free from error.
+          C: seen with or seen together.
+          D: brief and concise.
+        answer: C
+      - uid: BIB114.1.1.1.TY.1
+        subobj: 1.1.1
+        type: ty
+        question: Synoptic Gospels refers to the accounts of the good news presented
+          by Matthew, Mark, and Luke, and means they
+        choices:
+          A: viewed the gospel similarly.
+          B: wrote with the same audience in view.
+          C: targeted their material especially for cross-cultural audiences.
+          D: agreed that each would present just one aspect of the gospel.
+        answer: A
+      - uid: BIB114.1.2.1.UPE.1
+        subobj: 1.2.1
+        type: upe
+        question: The term priority of Mark indicates that the Gospel of Mark
+        choices:
+          A: is the most accurate and thus the most significant Gospel.
+          B: was the first written account of Christ’s life.
+          C: is the most complete account of Christ’s life.
+          D: was considered the most trustworthy account of Christ’s life by first-century
+            believers because of Mark’s character.
+        answer: B
+      - uid: BIB114.1.2.1.TY.1
+        subobj: 1.2.1
+        type: ty
+        question: Many assume t he priority of Mark because Mark
+        choices:
+          A: was the only known source available to later writers.
+          B: infers this in the prologue to his narrative.
+          C: is used almost entirely by Matthew and Luke.
+          D: gave an oral account of the Gospel before any other “life of Christ”
+            was circulated.
+        answer: C
+      - uid: BIB114.1.2.1.TY.2
+        subobj: 1.2.1
+        type: ty
+        question: Because of similarities between Matthew and Luke not shared by Mark,
+          Bible scholars believe
+        choices:
+          A: Matthew and Luke researched their subject more thoroughly.
+          B: Matthew and Luke relied on another source besides Mark.
+          C: the two relied more on a common oral tradition.
+          D: Mark purposely limited his account because of his target audience.
+        answer: B
+      - uid: BIB114.1.2.1.TY.3
+        subobj: 1.2.1
+        type: ty
+        question: In the equation “Mark + Q + M = Matthew,” Q stands for
+        choices:
+          A: material that is common to Matthew and Luke.
+          B: material that is unique to Matthew.
+          C: the recognized source for all the Synoptic Gospels.
+          D: material based on oral tradition.
+        answer: A
+      - uid: BIB114.1.2.2.UPE.1
+        subobj: 1.2.2
+        type: upe
+        question: Even though the inspired Gospel accounts came through human personalities,
+          the true source is
+        choices:
+          A: named at the beginning of each Gospel.
+          B: Jesus himself.
+          C: the Holy Spirit.
+          D: the church, the custodian of divine truth.
+        answer: C
+      - uid: BIB114.1.2.2.TY.1
+        subobj: 1.2.2
+        type: ty
+        question: Regarding the true source of the Gospel accounts, we may conclude
+          that
+        choices:
+          A: the Gospels represent a combination of inspired writing supplemented
+            by an unknown human source.
+          B: the Holy Spirit influenced each Synoptic writer to record accurately
+            what God wanted written.
+          C: each Gospel was an attempt to write a biography of Jesus within the author’s
+            cultural bias.
+          D: all of the above are true.
+        answer: B
+      - uid: BIB114.1.3.1.UPE.1
+        subobj: 1.3.1
+        type: upe
+        question: Which statement is true concerning the author of Mark’s Gospel?
+        choices:
+          A: Paul and Barnabas parted company over a decision to take John Mark on
+            a second missionary journey.
+          B: Prior to his conversion, John Mark was one of the Roman soldiers who
+            arrested Jesus.
+          C: John Mark’s wife was the daughter of Barnabas.
+          D: Church councils declared that John Mark was the author of the second
+            Gospel.
+        answer: A
+      - uid: BIB114.1.3.1.TY.1
+        subobj: 1.3.1
+        type: ty
+        question: How much information does the Bible give about Mark?
+        choices:
+          A: It reveals as much about Mark as it does the other Gospel writers.
+          B: We do not find much biographical data on any of the Synoptic writers
+            in the Scriptures.
+          C: The scriptural record says nothing conclusive about Mark.
+          D: More information exists in the Bible about Mark than of the writers of
+            the other Synoptic Gospels.
+        answer: D
+      - uid: BIB114.1.3.1.TY.2
+        subobj: 1.3.1
+        type: ty
+        question: Carefully analyzing the scriptural facts about Mark leads us to
+          conclude that
+        choices:
+          A: the apostles and the early church felt Mark was unworthy of any significant
+            ministerial responsibility.
+          B: Mark’s spiritual development was gradual, but as he matured, he found
+            acceptance and respect in ministry.
+          C: Peter married Mary, Mark’s widowed mother; thus Mark became Peter’s son.
+          D: Mark was a young teenager during Jesus’ ministry and often was one of
+            His followers or disciples.
+        answer: B
+      - uid: BIB114.1.4.1.UPE.1
+        subobj: 1.4.1
+        type: upe
+        question: What is the strongest external evidence for the authorship of Mark’s
+          Gospel?
+        choices:
+          A: Historians claim that records from the first century named Mark as the
+            author.
+          B: Early church fathers claimed that the weight of oral tradition favored
+            Mark as the author.
+          C: Papias said John claimed that Mark accurately recorded Peter’s teachings
+            about Christ.
+          D: Church councils declared that Mark was the author of the second Gospel.
+        answer: C
+      - uid: BIB114.1.4.1.UPE.2
+        subobj: 1.4.1
+        type: upe
+        question: Your IST accepts that the Gospel of Mark was written in the time
+          frame of
+        choices:
+          A: AD 35–40.
+          B: AD 50–53.
+          C: AD 58–65.
+          D: AD 80–90.
+        answer: C
+      - uid: BIB114.1.4.1.TY.1
+        subobj: 1.4.1
+        type: ty
+        question: Scholars assume Mark is the author of the second Gospel based largely
+          on the
+        choices:
+          A: testimony of Papias, a disciple of John the apostle.
+          B: internal evidence of the account itself.
+          C: oral tradition of the church.
+          D: evidence presented in the Gospel of Matthew.
+        answer: A
+      - uid: BIB114.1.4.1.TY.2
+        subobj: 1.4.1
+        type: ty
+        question: The factor that most likely influenced the writing of Mark’s Gospel
+          was
+        choices:
+          A: the Neronian persecutions.
+          B: the destruction of Jerusalem.
+          C: John’s impending death.
+          D: Peter’s impending death.
+        answer: D
+      - uid: BIB114.1.4.2.UPE.1
+        subobj: 1.4.2
+        type: upe
+        question: Mark wrote his Gospel for the purpose of
+        choices:
+          A: explaining gospel concepts in their Aramaic equivalents for the benefit
+            of orthodox Jews.
+          B: overcoming atheistic Greek philosophy through Christian logic.
+          C: convincing Roman Gentiles that Jesus, the Son of God, was a Christ of
+            power and action.
+          D: compiling a permanent record since the eyewitnesses to Jesus’ words and
+            deeds would soon be gone.
+        answer: C
+      - uid: BIB114.1.4.2.TY.1
+        subobj: 1.4.2
+        type: ty
+        question: Based on Mark’s style of writing, we may conclude that his purpose
+          was to
+        choices:
+          A: provide a systematic summary of the gospel for all people.
+          B: record the highlights in the life and ministry of Christ.
+          C: stress Christ’s deity as revealed in His works of power.
+          D: compare and contrast the Christian gospel with the Law.
+        answer: C
+      - uid: BIB114.2.1.1.UPE.1
+        subobj: 2.1.1
+        type: upe
+        question: Based on biblical and historical evidence, we can conclude that
+          Matthew
+        choices:
+          A: became a martyr soon after the Ascension.
+          B: traveled with Paul on his fourth missionary journey.
+          C: was Jesus’ uncle on Joseph’s side.
+          D: and Levi were one and the same person.
+        answer: D
+      - uid: BIB114.2.1.1.TY.1
+        subobj: 2.1.1
+        type: ty
+        question: Which statement about Matthew is based on biblical and historical
+          evidence?
+        choices:
+          A: Matthew, like James, experienced a martyr’s death soon after the Ascension.
+          B: Matthew and Levi were one and the same person.
+          C: Matthew traveled with Paul on his fourth missionary journey after Paul’s
+            first trial in Rome.
+          D: Matthew was a brother of Joseph, the legal father of Jesus, and thus
+            Jesus’ uncle.
+        answer: B
+      - uid: BIB114.2.1.2.UPE.1
+        subobj: 2.1.2
+        type: upe
+        question: We determine the authorship of the Gospel of Matthew on the basis
+          of
+        choices:
+          A: the uniform, positive testimony of the early church fathers.
+          B: internal evidence in the Gospel itself.
+          C: the copy found in the Dead Sea Scrolls, which clearly identified Matthew
+            as the author.
+          D: evidence from other apostolic writers who mention Matthew’s contribution
+            to Scripture.
+        answer: A
+      - uid: BIB114.2.1.2.TY.1
+        subobj: 2.1.2
+        type: ty
+        question: Which statement about the authorship of the Gospel of Matthew is
+          true?
+        choices:
+          A: Matthew began writing his Gospel at the request of Jesus, while Jesus
+            was still alive.
+          B: Because of Matthew’s reference to Titus and the Roman destruction of
+            Jerusalem in Matthew 24, his Gospel had to be written after AD 70.
+          C: Papias stated that Matthew’s Gospel was a Greek translation and revision
+            of an earlier Gospel Matthew wrote in Hebrew.
+          D: Our Gospel of Matthew is a major revision completed about AD 400 by Jerome
+            from an earlier Gospel that Matthew wrote in Hebrew.
+        answer: C
+      - uid: BIB114.2.1.2.TY.2
+        subobj: 2.1.2
+        type: ty
+        question: The writing of the Gospel of Matthew can best be dated
+        choices:
+          A: between AD 50 and AD 55.
+          B: after the destruction of Jerusalem in AD 70.
+          C: between AD 65 and AD 80.
+          D: between AD 60 and AD 69.
+        answer: D
+      - uid: BIB114.2.1.2.TY.3
+        subobj: 2.1.2
+        type: ty
+        question: We determine the authorship of the Gospel of Matthew on the basis
+          of
+        choices:
+          A: the uniform, positive testimony of the early church fathers.
+          B: internal evidence in the Gospel itself.
+          C: the copy of Matthew’s Gospel included in the Dead Sea Scrolls, which
+            clearly identified Matthew as its author.
+          D: evidence given by other apostolic writers who mention Matthew’s contribution
+            to the canon of Scripture.
+        answer: A
+      - uid: BIB114.2.1.3.UPE.1
+        subobj: 2.1.3
+        type: upe
+        question: One characteristic of Matthew’s Gospel is that it
+        choices:
+          A: is the most chronologically accurate of all the Gospels.
+          B: emphasizes the teaching ministry of Jesus.
+          C: was originally written in Latin for a Roman audience.
+          D: has the fewest quotations from the Old Testament of any of the Gospels.
+        answer: B
+      - uid: BIB114.2.1.3.UPE.2
+        subobj: 2.1.3
+        type: upe
+        question: Matthew’s central purpose in writing his Gospel was to
+        choices:
+          A: explain to a Jewish audience why Jesus did not overthrow the Romans and
+            bring economic prosperity to the Jews.
+          B: respond to Gnosticism and defend the fact that Jesus was fully God and
+            fully man.
+          C: prove to the Romans that Jesus was the Son of Man.
+          D: prove to a Jewish audience that Jesus fulfilled the Old Testament messianic
+            promises and is truly their long-awaited Messiah.
+        answer: D
+      - uid: BIB114.2.1.3.TY.1
+        subobj: 2.1.3
+        type: ty
+        question: Matthew wrote his Gospel
+        choices:
+          A: as an apologetic explaining to a Jewish audience why Jesus did not overthrow
+            the Romans and bring economic prosperity to the Jews.
+          B: in reaction to Gnosticism, and he attempts to defend that Jesus was fully
+            God and fully man.
+          C: at the request of the Roman emperor, initially for the religious library
+            at Alexandria, Egypt.
+          D: to prove to a Jewish audience that Jesus fulfilled the Old Testament
+            messianic promises and that Jesus is truly their long-awaited Messiah.
+        answer: D
+      - uid: BIB114.2.2.2.UPE.1
+        subobj: 2.2.2
+        type: upe
+        question: What evidence exists for the date of the writing of Luke’s Gospel?
+        choices:
+          A: Luke appears to depend on Mark, who wrote his Gospel around AD 58–65,
+            so we conclude that Luke wrote his Gospel sometime later, around AD 60–69.
+          B: Because of the reference to the Roman destruction of Jerusalem in Luke
+            21, the Gospel had to be written after AD 70.
+          C: Luke’s Gospel predated Acts, which was written well after AD 75.
+          D: The dating of Luke’s Gospel is tied directly to the persecution of Christians
+            under Nero.
+        answer: A
+      - uid: BIB114.2.2.2.UPE.2
+        subobj: 2.2.2
+        type: upe
+        question: What biblical evidence supports Luke’s authorship of the third Gospel?
+        choices:
+          A: The genealogy of Jesus shows that Luke was His uncle.
+          B: Luke was imprisoned with Paul both in Caesarea and Rome.
+          C: The close link between Luke and Acts and the “we” sections in Acts point
+            to his authorship.
+          D: Luke was present at Christ’s birth.
+        answer: C
+      - uid: BIB114.2.2.2.TY.1
+        subobj: 2.2.2
+        type: ty
+        question: What biblical evidence supports Luke’s authorship of the third Gospel?
+        choices:
+          A: Luke was a biological brother of Joseph, the legal father of Jesus.
+          B: Luke was imprisoned with Paul both in Caesarea and Rome.
+          C: A close link between Luke and Acts, as well as the “we” sections in Acts,
+            point to Luke as author.
+          D: As a doctor, Luke delivered Jesus when He was born.
+        answer: C
+      - uid: BIB114.2.2.2.TY.2
+        subobj: 2.2.2
+        type: ty
+        question: The prefaces of Luke and Acts indicate that the
+        choices:
+          A: author of both books is Luke.
+          B: same person wrote the Gospel of Luke first and then Acts.
+          C: books were commissioned to be written by Theophilus as defense documents
+            for Paul’s trial in Rome.
+          D: two books were originally one work that was divided by later editors.
+        answer: B
+      - uid: BIB114.2.2.2.TY.3
+        subobj: 2.2.2
+        type: ty
+        question: Which statement concerning the date of the Gospel of Luke is true?
+        choices:
+          A: Because of the reference to the Roman destruction of Jerusalem in Luke
+            21, the Gospel would have to be written after AD 70.
+          B: The dating of Luke’s Gospel is tied directly to the Roman persecution
+            of Christians under Nero.
+          C: Because Luke does not state the outcome of Paul’s first trial in Rome
+            in the book of Acts, Luke would have written both his Gospel and Acts
+            prior to AD 55.
+          D: Luke appears to depend on Mark, who wrote his Gospel around AD 58–65,
+            which is one reason we conclude that Luke wrote his Gospel between AD
+            60–69.
+        answer: D
+      - uid: BIB114.2.2.3.UPE.1
+        subobj: 2.2.3
+        type: upe
+        question: Based on the internal evidence, we know that Luke wrote to the
+        choices:
+          A: Jewish church and attempted to prove that Jesus was the Messiah.
+          B: African church and attempted to prove that the gospel does not depend
+            on a person’s race.
+          C: Romans with an action-oriented Gospel to prove Jesus’ lordship.
+          D: Gentiles, particularly Greeks, and presented Christ as a man more completely
+            than any other Gospel.
+        answer: D
+      - uid: BIB114.2.2.3.UPE.2
+        subobj: 2.2.3
+        type: upe
+        question: Luke’s Gospel is the most comprehensive of all the Gospels in that
+          Luke
+        choices:
+          A: gives historical details on the parents and birth of John the Baptist
+            and the birth and boyhood of Jesus.
+          B: accurately dates the major events in the life of Jesus according to the
+            Roman calendar.
+          C: states in the prologue of Acts that he wrote both books as defense documents
+            for Paul’s trial in Rome.
+          D: emphasizes action and power as he appeals to the Roman military mind.
+        answer: A
+      - uid: BIB114.2.2.3.TY.1
+        subobj: 2.2.3
+        type: ty
+        question: One characteristic of the Gospel of Luke is that
+        choices:
+          A: Luke gives us more historical details than any other Gospel writer.
+          B: Luke’s history begins with the birth of Jesus and ends with the Ascension.
+          C: Luke attempts to prove that Jesus never violated the laws of the Roman
+            Empire so that Luke’s Gospel could be a defense document for Paul’s trial.
+          D: Luke emphasized the priority of the gospel for the Jews.
+        answer: A
+      - uid: BIB114.2.2.3.TY.2
+        subobj: 2.2.3
+        type: ty
+        question: Unique characteristics of Luke’s Gospel in contrast to the other
+          Synoptic Gospels are that Luke
+        choices:
+          A: gives more details on the birth and boyhood of John the Baptist and Jesus
+            than the other Gospel writers.
+          B: emphasizes Jesus’ actions rather than His teaching.
+          C: emphasizes the exclusive nature of the gospel and stresses the priority
+            of the gospel for the Jews.
+          D: focuses on a Gentile perspective in general but includes a specific emphasis
+            for a Roman audience.
+        answer: A
+      - uid: BIB114.3.1.1.UPE.1
+        subobj: 3.1.1
+        type: upe
+        question: God used the Assyrian Empire in relation to the Northern Kingdom
+          of Israel to
+        choices:
+          A: bring stability to the entire region.
+          B: help Judah overcome Israel in their ongoing struggle.
+          C: bring judgment on His wayward people.
+          D: help bring an end to the divided kingdom.
+        answer: C
+      - uid: BIB114.3.1.1.UPE.2
+        subobj: 3.1.1
+        type: upe
+        question: The Samaritans were best described as
+        choices:
+          A: a mixture of people whom the Assyrians resettled in Palestine and Israelites
+            who were not deported.
+          B: people who derived their name from the word Sumer , referring to the
+            ancient Sumerians.
+          C: Canaanites who were the original inhabitants of Palestine not slaughtered
+            by Joshua.
+          D: a split group from the Philistines who migrated inland from the coastal
+            cities.
+        answer: A
+      - uid: BIB114.3.1.1.TY.1
+        subobj: 3.1.1
+        type: ty
+        question: Even though the Samaritans lived in Palestine, the Jews considered
+          them to be social outcasts because the Samaritans were
+        choices:
+          A: descendants of the ancient Canaanites whom God had instructed Joshua
+            to destroy.
+          B: a mixture of Jews and Edomites who had migrated into Samaria during the
+            Babylonian captivity.
+          C: 'a mixed race: partly Jewish and partly pagan with a pagan religious
+            heritage from those whom the Assyrians had resettled in Samaria.'
+          D: all of the above.
+        answer: C
+      - uid: BIB114.3.1.1.TY.2
+        subobj: 3.1.1
+        type: ty
+        question: About one hundred years after the Assyrian conquest of Israel, the
+          empire that arose as the instrument of God’s judgment to conquer first Assyria
+          and then Judah was the
+        choices:
+          A: Egyptian Empire.
+          B: Babylonian Empire.
+          C: Grecian Empire.
+          D: Persian Empire.
+        answer: B
+      - uid: BIB114.3.1.2.UPE.1
+        subobj: 3.1.2
+        type: upe
+        question: One noteworthy occurrence during the Persian period was the
+        choices:
+          A: rise of idolatry among Jewish exiles.
+          B: appearance of the last Old Testament prophet.
+          C: decline of the Law among the Jewish people.
+          D: attempt of imperial rulers to destroy the Jewish religion.
+        answer: B
+      - uid: BIB114.3.1.2.TY.1
+        subobj: 3.1.2
+        type: ty
+        question: During the Persian period, the Jewish exiles in Babylon were
+        choices:
+          A: permitted to return to their homeland.
+          B: subjected to increased hardship and persecution.
+          C: mobilized to rebuild the city of Babylon that had been devastated by
+            the Persian invasion.
+          D: relocated to cities throughout the Persian Empire.
+        answer: A
+      - uid: BIB114.3.1.2.TY.2
+        subobj: 3.1.2
+        type: ty
+        question: One important occurrence during the Persian period was the
+        choices:
+          A: rise of idolatry among Jewish exiles.
+          B: appearance of the last Old Testament prophet.
+          C: decline of the Law among the Jewish people.
+          D: attempt of imperial rulers to destroy the Jewish religion.
+        answer: B
+      - uid: BIB114.3.2.1.UPE.1
+        subobj: 3.2.1
+        type: upe
+        question: Since Alexander the Great believed Greek ways were superior to those
+          of other peoples, he
+        choices:
+          A: destroyed the indigenous culture in each conquered country.
+          B: established Greek culture and influence wherever he went.
+          C: promoted the universal study of the Greek language.
+          D: required all conquered peoples to accept Greek values.
+        answer: B
+      - uid: BIB114.3.2.1.TY.1
+        subobj: 3.2.1
+        type: ty
+        question: T he Greeks want ed to “Hellenize” their subjects because they
+        choices:
+          A: wanted to increase their influence in the civilized world.
+          B: were convinced their culture was the answer to political stability.
+          C: wanted their subjects to be destroyed.
+          D: disliked the Hebrew culture.
+        answer: A
+      - uid: BIB114.3.2.2.TY.1
+        subobj: 3.2.2
+        type: ty
+        question: The intertestamental period represents the time between
+        choices:
+          A: Assyria’s conquest of Israel and Malachi’s final prophecy.
+          B: the end of Malachi’s prophetic ministry and the dawn of New Testament
+            events.
+          C: Judah’s captivity and the return of the exiles to Palestine.
+          D: the initiation of the Abrahamic covenant and the initiation of the new
+            covenant.
+        answer: B
+      - uid: BIB114.3.3.1.TY.1
+        subobj: 3.3.1
+        type: ty
+        question: Antipater was
+        choices:
+          A: one of the sons of Herod the Great who later became the governor of Syria.
+          B: the grandson of Herod the Great who presided over the trial of Paul at
+            Caesarea.
+          C: a grandson of Herod the Great, married the daughter of Caiaphas the Jewish
+            high priest, and was later appointed by the Romans to replace Caiaphas.
+          D: a scheming Idumean who through intrigue won the control of Palestine
+            and became the father of Herod the Great.
+        answer: D
+      - uid: BIB114.3.3.1.TY.2
+        subobj: 3.3.1
+        type: ty
+        question: Which Herodian family statement is correct?
+        choices:
+          A: The Herodian family descended from the Maccabees, who liberated Palestine
+            from Syrian control around 164 BC.
+          B: Palestine was awarded to Antipater, the father of Herod the Great, for
+            his help to the Roman army in the conquest of Gaul.
+          C: Herod the Great became a proselyte to Judaism, was accepted by the Jewish
+            people, and rebuilt the temple.
+          D: Jews never regarded the Herods as true Jews and made no attempt to hide
+            their feelings of hatred toward these descendants of the Edomites.
+        answer: D
+      - uid: BIB114.3.3.2.TY.1
+        subobj: 3.3.2
+        type: ty
+        question: Although the region is not mentioned by name in the New Testament,
+          the land on “the other side of the Jordan” refers specifically to
+        choices:
+          A: the Decapolis.
+          B: Perea.
+          C: Idumea.
+          D: Iturea, Gaulanitus, Trachonitis, Batanea, and Auranitis.
+        answer: B
+      - uid: BIB114.3.4.1.UPE.1
+        subobj: 3.4.1
+        type: upe
+        question: In general, the Galileans were
+        choices:
+          A: haughty and reserved.
+          B: cruel and coldhearted.
+          C: legalistic and religious.
+          D: friendly and warmhearted
+        answer: D
+      - uid: BIB114.3.4.1.TY.1
+        subobj: 3.4.1
+        type: ty
+        question: The Judeans were proud, haughty, and reserved compared to the Galileans
+          because
+        choices:
+          A: far more Gentiles lived in Galilee than in Judea.
+          B: they believed the Galileans were too friendly.
+          C: they believed they were more “pure Jewish” than the Galileans.
+          D: they valued other cultures.
+        answer: C
+      - uid: BIB114.4.1.1.TY.1
+        subobj: 4.1.1
+        type: ty
+        question: In comparing the synagogue with the temple, we see that the
+        choices:
+          A: two were equally important in maintaining the Jewish religious system.
+          B: synagogue was merely ceremonial; the temple was the main religious and
+            educational center.
+          C: temple focused on reading and studying the Law.
+          D: synagogue focused on reading and studying the Law.
+        answer: D
+      - uid: BIB114.4.1.2.UPE.1
+        subobj: 4.1.2
+        type: upe
+        question: What statement is true concerning the Pharisees?
+        choices:
+          A: One became a Pharisee through a lifestyle of strict obedience to the
+            Law and the traditions of the elders.
+          B: One became a Pharisee by attending the Essene school of the prophets
+            near the Dead Sea.
+          C: Most Jewish people resented the Pharisees because of their arrogance
+            and aloofness.
+          D: Pharisees in general came from the upper, professional class of Jewish
+            society.
+        answer: A
+      - uid: BIB114.4.1.2.TY.1
+        subobj: 4.1.2
+        type: ty
+        question: The Pharisees were characterized by their
+        choices:
+          A: acceptance of the entire Old Testament—the books of Moses, the Prophets,
+            and the Writings—as authoritative for their lives.
+          B: acceptance only of the books of Moses as authoritative for their lives;
+            they believed neither in the resurrection of the dead nor in angels.
+          C: advocacy of military action to win Jewish independence from the Romans.
+          D: advocacy of compromise with Hellenism and, later, Roman authorities to
+            achieve political goals.
+        answer: A
+      - uid: BIB114.4.1.2.TY.2
+        subobj: 4.1.2
+        type: ty
+        question: Although the record is not clear, it appears the Pharisees came
+          from
+        choices:
+          A: the Maccabbees, who were committed to military action against foreign
+            rule.
+          B: the Hasidim, who purposed to maintain the purity of the Jewish religion
+            and culture against paganism.
+          C: Ezra, the great leader, who founded a conservative group to maintain
+            God’s law.
+          D: a little-known “Teacher of Righteousness.”
+        answer: B
+      - uid: BIB114.4.1.2.TY.3
+        subobj: 4.1.2
+        type: ty
+        question: Oral tradition, which concerns scholars’ interpretation of the Law,
+          was a problem because
+        choices:
+          A: Pharisees gave it the same authority they gave to God’s law.
+          B: it was more popular with the Jewish people.
+          C: it tended to contradict the teachings of the Law.
+          D: Pharisees had not bothered to record and organize it.
+        answer: A
+      - uid: BIB114.4.1.3.TY.1
+        subobj: 4.1.3
+        type: ty
+        question: The typical Pharisee of Christ’s day may be described as one who
+        choices:
+          A: stressed inner holiness and purity of thought.
+          B: came from the Jewish upper class and was often a priest.
+          C: did not believe in angels or resurrection.
+          D: lived by the strict ceremonial requirements of the Law.
+        answer: D
+      - uid: BIB114.4.1.4.UPE.1
+        subobj: 4.1.4
+        type: upe
+        question: Sadducees were from the priestly class of Jews and were generally
+        choices:
+          A: dependent on the liberality of their fellow Jews.
+          B: middle-class merchants and tradesmen.
+          C: men of rather modest means.
+          D: men of wealth, privilege, and power.
+        answer: D
+      - uid: BIB114.4.1.4.TY.1
+        subobj: 4.1.4
+        type: ty
+        question: It is true that the Sadducees
+        choices:
+          A: accepted all of the Old Testament—the books of Moses, the Prophets, and
+            the Writings—as authoritative for their lives.
+          B: came from the Jewish middle class and recruited members.
+          C: felt that Hellenism and Roman rule were needed to maintain good business
+            conditions and their privileged position.
+          D: emphasized strict adherence to the Law and oral tradition.
+        answer: C
+      - uid: BIB114.4.2.1.UPE.1
+        subobj: 4.2.1
+        type: upe
+        question: The Essenes are best described as people who
+        choices:
+          A: appeared to forsake society, choosing to live in the wilderness where
+            they could prepare for the coming of the Messiah.
+          B: were appointed by the Sanhedrin as custodians of the Old Testament books
+            and were responsible to maintain their original accuracy.
+          C: were the military arm of Judaism who ultimately provoked the Jewish-Roman
+            war.
+          D: were also called Levites, and all were members of the high priest’s family.
+        answer: A
+      - uid: BIB114.4.2.1.TY.1
+        subobj: 4.2.1
+        type: ty
+        question: If we compare the Essenes to the Pharisees, we find that
+        choices:
+          A: while the Pharisees were fully committed to obeying the Law, the Essenes
+            were not.
+          B: both groups tended to withdraw from society.
+          C: both groups focused on obeying the Law, but the Essenes were more legalistic.
+          D: the Essenes were committed to military action against Rome to win political
+            independence.
+        answer: C
+      - uid: BIB114.4.2.2.UPE.1
+        subobj: 4.2.2
+        type: upe
+        question: The Zealots were people who
+        choices:
+          A: promoted strict obedience to the law of Moses and the traditions of the
+            elders.
+          B: sought the complete overthrow of the Roman government and the political
+            independence of the Jewish people.
+          C: made up the evangelistic wing of Judaism and promoted Gentiles’ conversion
+            throughout the Roman Empire.
+          D: were skilled in finances and promoted international banking in the Roman
+            Empire.
+        answer: B
+      - uid: BIB114.4.2.2.TY.1
+        subobj: 4.2.2
+        type: ty
+        question: Zealots differed from other Jewish religious groups in that they
+        choices:
+          A: were totally committed to direct action to reach their goals.
+          B: were drawn from the lower social classes.
+          C: held the conviction that they alone lived according to the full ceremonial
+            requirements of the Law.
+          D: began as a paramilitary group and later added religious purposes.
+        answer: A
+      - uid: BIB114.4.2.3.TY.1
+        subobj: 4.2.3
+        type: ty
+        question: Which statement correctly describes the scribes?
+        choices:
+          A: At the time of Christ, the scribes acted as secretaries or clerks.
+          B: Like the Sadducees, scribes were involved in political issues.
+          C: New Testament scribes acted as copyists, preservers, and interpreters
+            of the Law.
+          D: The scribes were employed by Rome to assist tax collectors in recording
+            transactions.
+        answer: C
+      - uid: BIB114.4.3.1.UPE.1
+        subobj: 4.3.1
+        type: upe
+        question: The Sanhedrin was the
+        choices:
+          A: elected representative of Judaism to the Roman Senate.
+          B: police force of Judaism who enforced the law of Moses.
+          C: Jewish college responsible for the translation of Jewish Scriptures into
+            foreign languages.
+          D: highest governing council and the local judicial councils of the Jewish
+            people.
+        answer: D
+      - uid: BIB114.4.3.1.TY.1
+        subobj: 4.3.1
+        type: ty
+        question: Based on our study, the term Sanhedrin suggests
+        choices:
+          A: “a body of seventy Jewish scholars assigned the task of translating the
+            Old Testament into the Greek language.”
+          B: “the Jewish governing council in Jerusalem and the local judicial system
+            that handled most religious and civil affairs.”
+          C: “a body of seventy elders elected by the Jewish people and ratified by
+            the Roman Senate as the Jewish government.”
+          D: “a body of men from antagonistic religious groups meeting as a supreme
+            court that was never able to reach agreement.”
+        answer: B
+      - uid: BIB114.5.1.1.UPE.1
+        subobj: 5.1.1
+        type: upe
+        question: What Gospel gives details about the birth and parents of John the
+          Baptist?
+        choices:
+          A: Matthew
+          B: Mark
+          C: Luke
+          D: John
+        answer: C
+      - uid: BIB114.5.1.1.TY.1
+        subobj: 5.1.1
+        type: ty
+        question: Luke’s narrative reveals that Elizabeth, John’s mother, and Mary
+          were relatives and that
+        choices:
+          A: Mary and Joseph came from the tribe of Reuben, while Zechariah and Elizabeth
+            were from the tribe of Levi.
+          B: Jesus and John the Baptist were likely about sixteen months apart in
+            age.
+          C: in the sixth month of Elizabeth’s pregnancy, Gabriel announced Christ’s
+            coming.
+          D: Zechariah was Joseph’s uncle.
+        answer: C
+      - uid: BIB114.5.1.1.TY.2
+        subobj: 5.1.1
+        type: ty
+        question: Concerning the annunciation and birth of Jesus, Luke shares that
+        choices:
+          A: the Magi visited and Herod slaughtered the baby boys in Bethlehem.
+          B: the baby Jesus performed miraculous healings in both Bethlehem and Egypt.
+          C: he was a biological brother of Joseph, Jesus’ legal father.
+          D: through a decree of Caesar Augustus, Joseph and Mary went to Bethlehem
+            where Jesus was born.
+        answer: D
+      - uid: BIB114.5.1.2.UPE.1
+        subobj: 5.1.2
+        type: upe
+        question: Which Gospel includes Adam in the genealogy of Christ?
+        choices:
+          A: Matthew
+          B: Mark
+          C: Luke
+          D: John
+        answer: C
+      - uid: BIB114.5.1.2.TY.1
+        subobj: 5.1.2
+        type: ty
+        question: One possible explanation for the difference between the genealogies
+          given by Matthew and Luke is that
+        choices:
+          A: Matthew gives the royal lineage while Luke gives the actual physical
+            descent.
+          B: Matthew was prejudiced against using women in genealogies.
+          C: Luke was a more thorough researcher and therefore gave a more complete
+            list.
+          D: Luke used levitical sources that did not always agree.
+        answer: A
+      - uid: BIB114.5.2.1.UPE.1
+        subobj: 5.2.1
+        type: upe
+        question: Joseph and Mary went to Bethlehem to
+        choices:
+          A: pay Joseph’s annual tax to Rome.
+          B: register for a Roman census.
+          C: obey the instructions of the angel Gabriel.
+          D: help fulfill the prophecy of Nahum.
+        answer: B
+      - uid: BIB114.5.2.1.UPE.2
+        subobj: 5.2.1
+        type: upe
+        question: When Mary and Joseph presented Jesus in the temple, Simeon
+        choices:
+          A: gave them a lamb to sacrifice.
+          B: prophesied Mary’s perpetual virginity.
+          C: prophesied concerning Christ’s destiny.
+          D: performed Jesus’ circumcision.
+        answer: C
+      - uid: BIB114.5.2.1.TY.1
+        subobj: 5.2.1
+        type: ty
+        question: According to the Law, presenting a child to the Lord required the
+          parents to
+        choices:
+          A: present the child when he was eight days old.
+          B: request the temple prophet or prophetess to prophesy over the child.
+          C: take him to the temple in Jerusalem and offer a sacrifice.
+          D: do all of the above.
+        answer: C
+      - uid: BIB114.5.2.2.UPE.1
+        subobj: 5.2.2
+        type: upe
+        question: The events associated with twelve-year-old Jesus’ visit to the temple
+          were significant because they
+        choices:
+          A: revealed that He was a full member of the religious community.
+          B: demonstrated His unquestioning obedience to His parents.
+          C: showed He was aware of His unique relationship to God.
+          D: showed He had reached the age of self-sufficiency.
+        answer: C
+      - uid: BIB114.5.2.2.TY.1
+        subobj: 5.2.2
+        type: ty
+        question: Regarding the birth and babyhood of Jesus, Matthew records that
+        choices:
+          A: the baby Jesus performed several miracles in Egypt.
+          B: James, Jesus’ oldest half brother, was already born when the family moved
+            from Egypt to Nazareth.
+          C: Herod ordered his soldiers to kill all the baby boys and girls four years
+            old and under in Bethlehem.
+          D: in dreams, God told the Magi not to return to Herod and told Joseph to
+            flee to Egypt.
+        answer: D
+      - uid: BIB114.5.2.2.TY.2
+        subobj: 5.2.2
+        type: ty
+        question: Jesus’ temple visit as a twelve-year-old was significant in that
+          He
+        choices:
+          A: became an official part of the religious community.
+          B: was prepared for His future role in the religious community.
+          C: demonstrated His complete acceptance of ritual Judaism.
+          D: broke out of His boyhood ties to the province of Galilee.
+        answer: B
+      - uid: BIB114.5.2.2.TY.3
+        subobj: 5.2.2
+        type: ty
+        question: The first time Luke’s record shows Jesus’ awareness of His unique
+          relationship to God the Father was at His
+        choices:
+          A: baptism in the Jordan River.
+          B: presentation to God in the temple.
+          C: temptation in the wilderness.
+          D: visit to the Jerusalem temple at twelve years old.
+        answer: D
+      - uid: BIB114.5.3.1.UPE.1
+        subobj: 5.3.1
+        type: upe
+        question: John the Baptist preached a baptism of repentance for forgiveness
+          of sin and
+        choices:
+          A: claimed to be the reincarnation of Elijah.
+          B: announced the coming of Christ to prepare His people for Him.
+          C: released a dove to symbolize the Holy Spirit as he baptized Christ.
+          D: criticized the Essenes for their hypocrisy.
+        answer: B
+      - uid: BIB114.5.3.1.TY.1
+        subobj: 5.3.1
+        type: ty
+        question: John the Baptist preached a baptism of repentance for forgiveness
+          of sin and
+        choices:
+          A: claimed to be the reincarnation of Elijah.
+          B: announced Christ’s coming to prepare people for Him.
+          C: set a dove on Christ’s shoulder to symbolize the Holy Spirit.
+          D: prophesied the Jews’ deliverance from the Roman Empire.
+        answer: B
+      - uid: BIB114.5.3.2.UPE.1
+        subobj: 5.3.2
+        type: upe
+        question: Christ submitted to the rite of baptism to
+        choices:
+          A: demonstrate His obedience to the Father’s will.
+          B: identify himself with sinful humanity and point to His death, burial,
+            and resurrection.
+          C: publicly endorse the ministry of John the Baptist.
+          D: establish a model for those who would renounce Judaism and follow Him.
+        answer: B
+      - uid: BIB114.5.3.2.TY.1
+        subobj: 5.3.2
+        type: ty
+        question: Christ felt the need to be baptized because
+        choices:
+          A: the Law required it and the people held it in high esteem.
+          B: His disciples recommended it.
+          C: it symbolized His repentance.
+          D: it identified Him with sinful humanity and pointed to His death, burial,
+            and resurrection.
+        answer: D
+      - uid: BIB114.5.3.3.UPE.1
+        subobj: 5.3.3
+        type: upe
+        question: Our Lord’s temptation is significant in that He
+        choices:
+          A: overcame the satanic attack because He fasted.
+          B: broke Satan’s power and presence for all time through it.
+          C: overcame the attacks of the devil because of His baptism.
+          D: was tempted in every way just as we are, yet was without sin.
+        answer: D
+      - uid: BIB114.5.3.3.TY.1
+        subobj: 5.3.3
+        type: ty
+        question: Our Lord’s temptation is most significant in that He
+        choices:
+          A: overcame fierce satanic temptation because He fasted.
+          B: was tempted in every way just as we are, yet was without sin.
+          C: broke Satan’s power and presence for all time through it.
+          D: overcame the attacks of the devil because of His baptism.
+        answer: B
+      - uid: BIB114.6.1.1.UPE.1
+        subobj: 6.1.1
+        type: upe
+        question: A chronological indicator that helps us to date the beginning of
+          Christ’s ministry is
+        choices:
+          A: Luke’s reference that Jesus was about twenty years of age.
+          B: the view of 2 BC as the year of Christ’s birth.
+          C: the beginning of John’s ministry in the fifteenth year of Tiberius Caesar.
+          D: His dedication at the temple.
+        answer: C
+      - uid: BIB114.6.1.1.UPE.2
+        subobj: 6.1.1
+        type: upe
+        question: The chronological indicators reveal that at the beginning of His
+          public ministry, Christ was
+        choices:
+          A: precisely thirty years of age.
+          B: no more than thirty-two years of age.
+          C: about twenty-seven years of age.
+          D: just past His thirty-third birthday.
+        answer: B
+      - uid: BIB114.6.1.1.TY.1
+        subobj: 6.1.1
+        type: ty
+        question: One historical indicator that help s us to date the beginning of
+          Christ’s ministry is
+        choices:
+          A: Luke’s reference that Jesus was about twenty years of age.
+          B: Luke’s reference to the reign of Claudius.
+          C: the beginning of John’s ministry in the fifteenth year of Tiberius Caesar.
+          D: acceptance that Jerusalem was destroyed in AD 70.
+        answer: C
+      - uid: BIB114.6.1.1.TY.2
+        subobj: 6.1.1
+        type: ty
+        question: The historical indicators reveal that at the beginning of His public
+          ministry, Christ was
+        choices:
+          A: no more than thirty-two years of age.
+          B: precisely thirty years of age.
+          C: about twenty-seven years of age.
+          D: just past His thirty-third birthday.
+        answer: A
+      - uid: BIB114.6.1.2.UPE.1
+        subobj: 6.1.2
+        type: upe
+        question: In His first year of public ministry, Christ stayed in
+        choices:
+          A: Galilee except for one brief trip to Perea.
+          B: the regions of Judea and Galilee about the same amount of time.
+          C: Judea exclusively, ministering primarily in the countryside.
+          D: Judea except for one short trip to Galilee.
+        answer: D
+      - uid: BIB114.6.1.2.TY.1
+        subobj: 6.1.2
+        type: ty
+        question: What significant event occurred during Jesus’ first year of ministry?
+        choices:
+          A: A fire destroyed part of the temple in Jerusalem.
+          B: Herod tried to capture Jesus and put Him in prison.
+          C: Herod imprisoned John the Baptist.
+          D: Jesus miraculously fed the four thousand.
+        answer: C
+      - uid: BIB114.6.2.1.UPE.1
+        subobj: 6.2.1
+        type: upe
+        question: D uring Christ’s early Galilean ministry , He
+        choices:
+          A: fed the four thousand.
+          B: raised Lazarus from the dead.
+          C: visited Decapolis and delivered the demonized man.
+          D: appointed the twelve as apostles to be with Him.
+        answer: D
+      - uid: BIB114.6.2.1.TY.1
+        subobj: 6.2.1
+        type: ty
+        question: D uring Christ’s early Galilean ministry , He
+        choices:
+          A: fed the four thousand.
+          B: raised Lazarus from the dead.
+          C: visited Decapolis and delivered the demonized man.
+          D: appointed the twelve as apostles to be with Him.
+        answer: D
+      - uid: BIB114.6.2.1.TY.2
+        subobj: 6.2.1
+        type: ty
+        question: During His early Galilean ministry, Christ
+        choices:
+          A: confined His ministry to the shores of the Sea of Galilee.
+          B: moved freely between Galilee and Judea.
+          C: ministered fairly widely through the province of Galilee.
+          D: confined His activities to Nazareth, Cana, and Capernaum.
+        answer: C
+      - uid: BIB114.6.2.1.TY.3
+        subobj: 6.2.1
+        type: ty
+        question: In his account of Christ’s early Galilean ministry, Matthew
+        choices:
+          A: describes Peter’s confession and the Transfiguration.
+          B: presents the Sermon on the Mount and describes the calling, instructing,
+            and sending out of the Twelve.
+          C: describes Christ’s ministry in Tyre and Sidon.
+          D: records Christ’s walking on water and feeding the four thousand.
+        answer: B
+      - uid: BIB114.6.3.1.UPE.1
+        subobj: 6.3.1
+        type: upe
+        question: The events that establish the framework for the middle period of
+          Christ’s Galilean ministry include
+        choices:
+          A: cleansing the temple and driving out the money changers.
+          B: receiving John’s disciples who ask if He is the Messiah and feeding the
+            five thousand.
+          C: delivering the Gerasene demoniac and performing public ministry in Decapolis.
+          D: acknowledging Peter’s confession and people’s criticism.
+        answer: B
+      - uid: BIB114.6.3.1.UPE.2
+        subobj: 6.3.1
+        type: upe
+        question: In the later period of His Galilean ministry, Jesus
+        choices:
+          A: walks on water and feeds the four thousand.
+          B: chooses His first disciples.
+          C: delivers the Sermon on the Mount.
+          D: makes His triumphal entry into Jerusalem.
+        answer: A
+      - uid: BIB114.6.3.1.TY.1
+        subobj: 6.3.1
+        type: ty
+        question: D uring Christ’s middle Galilean ministry , which event began to
+          show a shift in people’s attitude toward Jesus?
+        choices:
+          A: John the Baptist sent his disciples to ask Christ if He really was the
+            Messiah.
+          B: The Jewish leaders stoned Joseph, Jesus’ legal father.
+          C: Jesus retreated to Tyre and Sidon to escape from the people.
+          D: Jesus rebuked His mother when she asked Him to get wine for the wedding
+            at Cana.
+        answer: A
+      - uid: BIB114.6.3.2.UPE.1
+        subobj: 6.3.2
+        type: upe
+        question: The end of Christ’s greater Galilean ministry is marked by the
+        choices:
+          A: Passover Feast.
+          B: Feast of Tabernacles.
+          C: Feast of First Fruits.
+          D: Feast of Trumpets.
+        answer: B
+      - uid: BIB114.6.3.2.TY.1
+        subobj: 6.3.2
+        type: ty
+        question: The later phase of Christ’s extended Galilean ministry
+        choices:
+          A: was more public than the previous phases.
+          B: began with the feeding of the five thousand.
+          C: included the cursing of the fig tree.
+          D: included the calling of the Twelve.
+        answer: B
+      - uid: BIB114.6.3.3.TY.1
+        subobj: 6.3.3
+        type: ty
+        question: During Jesus’ entire time in Galilee, His ministry
+        choices:
+          A: continued to grow in popularity.
+          B: included extensive training of His disciples.
+          C: included the fewest number of recorded miracles.
+          D: remained hidden and private.
+        answer: B
+      - uid: BIB114.6.3.3.TY.2
+        subobj: 6.3.3
+        type: ty
+        question: In His Galilean ministry, criticism of Christ and unbelief
+        choices:
+          A: stopped altogether.
+          B: increased during the middle and late periods.
+          C: remained steady throughout each period.
+          D: was defended by His disciples.
+        answer: B
+      - uid: BIB114.7.1.1.TY.1
+        subobj: 7.1.1
+        type: ty
+        question: While the Synoptic Gospels give fair coverage of the final months
+          and the Passion Week, we rely on John’s Gospel for
+        choices:
+          A: Peter’s confession that Jesus is the Messiah.
+          B: the basic progression of events in the Judean / Perean ministry.
+          C: the impact of Jesus’ Judean / Perean ministry.
+          D: details of Jesus’ teaching content in Perea.
+        answer: B
+      - uid: BIB114.7.1.1.TY.2
+        subobj: 7.1.1
+        type: ty
+        question: We may determine the time of Jesus’ later Judean / Perean ministry
+          by
+        choices:
+          A: referring to the historical indicators in Matthew’s Gospel.
+          B: comparing the dates of the Roman calendar with the dates of the Jewish
+            feasts.
+          C: relying on Luke’s extensive chronology.
+          D: considering John’s references to the feasts in this period.
+        answer: D
+      - uid: BIB114.7.1.1.TY.3
+        subobj: 7.1.1
+        type: ty
+        question: Luke’s record of Christ’s later Judean / Perean ministry includes
+          the
+        choices:
+          A: raising of Jairus’ daughter from the dead.
+          B: healing of the woman who had endured years of bleeding.
+          C: raising of Lazarus from the dead.
+          D: healing of the crippled woman on the Sabbath.
+        answer: D
+      - uid: BIB114.7.2.1.UPE.1
+        subobj: 7.2.1
+        type: upe
+        question: The term Passion in reference to the last week of Christ’s public
+          ministry speaks of
+        choices:
+          A: a submissive victim’s endurance of the afflictions laid on him.
+          B: teaching specifically directed toward one’s disciples.
+          C: a time of great revelation and fulfilled prophecy.
+          D: zeal and great emotion.
+        answer: A
+      - uid: BIB114.7.2.1.TY.1
+        subobj: 7.2.1
+        type: ty
+        question: In the context of Christ’s last week, the word Passion refers to
+        choices:
+          A: Satan’s attempt to find sin in Christ’s life.
+          B: Christ’s descent into hell to rescue the Old Testament saints.
+          C: the Last Supper; His prayer and agony in the Garden; and His arrest,
+            trials, crucifixion, death, and burial.
+          D: Christ’s anger at the money changers in the temple.
+        answer: C
+      - uid: BIB114.7.2.1.TY.2
+        subobj: 7.2.1
+        type: ty
+        question: The term Passion , as used in reference to the last week of Christ’s
+          public ministry, speaks of
+        choices:
+          A: deep concern for the wayward people of Israel.
+          B: emotions as opposed to reason.
+          C: the afflictions laid on a submissive victim.
+          D: humiliation by the Jewish religious and civil leaders.
+        answer: C
+      - uid: BIB114.7.2.2.UPE.1
+        subobj: 7.2.2
+        type: upe
+        question: What events and places are linked with day one of Passion Week?
+        choices:
+          A: Jesus ate the Last Supper with His disciples.
+          B: Jesus changed stones into bread to feed the people.
+          C: Jesus entered the city of Jerusalem in triumph, visited the temple, and
+            then went to Bethany.
+          D: Satan offered Jesus all the kingdoms of the world if He would compromise
+            and not die on the cross.
+        answer: C
+      - uid: BIB114.7.2.2.TY.1
+        subobj: 7.2.2
+        type: ty
+        question: O n day one (Sunday) of Passion Week , Christ
+        choices:
+          A: cursed the fig tree.
+          B: drove the money changers from the temple.
+          C: taught His disciples about His second coming.
+          D: entered Jerusalem in triumph.
+        answer: D
+      - uid: BIB114.7.2.3.UPE.1
+        subobj: 7.2.3
+        type: upe
+        question: O n day two of Passion Week , Christ asserted His authority as the
+          Son of God by
+        choices:
+          A: causing Jerusalem to become totally dark from noon to 3:00 p.m. and rending
+            the temple curtain from top to bottom.
+          B: cursing the fig tree and driving the money changers from the temple.
+          C: predicting the destruction of the temple and Jerusalem as well as events
+            surrounding His second coming.
+          D: going out to the Mount of Olives and delivering the Olivet Discourse.
+        answer: B
+      - uid: BIB114.7.2.3.TY.1
+        subobj: 7.2.3
+        type: ty
+        question: During the Passion Week, Christ drove the money changers from the
+          temple on day
+        choices:
+          A: one.
+          B: two.
+          C: three.
+          D: four.
+        answer: B
+      - uid: BIB114.7.2.4.UPE.1
+        subobj: 7.2.4
+        type: upe
+        question: On d ay three of Passion Week , the disciples note the withered
+          fig tree and then
+        choices:
+          A: Jesus washes the disciples’ feet.
+          B: Christ teaches on the Mount of Olives about the future.
+          C: Christ works miracles, attesting to His authority as the Son of God.
+          D: the enemies of Christ seek to kill Him early in the day.
+        answer: B
+      - uid: BIB114.7.2.4.TY.1
+        subobj: 7.2.4
+        type: ty
+        question: On day three (Tuesday) of Passion Week, Christ
+        choices:
+          A: healed the blind and the lame who came to Him in the temple.
+          B: challenged the Pharisees by asking, “Who is Caesar?”
+          C: delivered His Olivet Discourse on future events.
+          D: cursed the fig tree.
+        answer: C
+      - uid: BIB114.7.2.5.UPE.1
+        subobj: 7.2.5
+        type: upe
+        question: Wh at event may have happened on day four of Passion Week?
+        choices:
+          A: Mary anointed the feet of Jesus with perfume.
+          B: Jesus watched the people give their offerings and commented about the
+            widow’s offering.
+          C: Jesus appealed to Pilate and Herod against the plans to kill Him.
+          D: Jesus taught Nicodemus and Joseph of Arimathea about being born again.
+        answer: A
+      - uid: BIB114.7.2.5.TY.1
+        subobj: 7.2.5
+        type: ty
+        question: In terms of the events of day four, we concluded that Christ
+        choices:
+          A: possibly had a meal at Simon the Leper’s home and that Judas went to
+            the chief priests to betray Christ.
+          B: and His disciples returned to Bethany.
+          C: visited the temple.
+          D: had the Passover meal with His disciples.
+        answer: A
+      - uid: BIB114.7.2.5.TY.2
+        subobj: 7.2.5
+        type: ty
+        question: Which event took place on day five (Thursday) of Passion Week?
+        choices:
+          A: Mary anointed Christ with costly perfume.
+          B: Judas Iscariot made his first contact with the chief priests.
+          C: Christ instituted the ordinance of the Lord’s Supper.
+          D: Christ asked the religious leaders, “Whose son is the Christ?”
+        answer: C
+      - uid: BIB114.8.1.1.TY.1
+        subobj: 8.1.1
+        type: ty
+        question: The Garden of Gethsemane events are significant because they show
+        choices:
+          A: Christ’s weakness in the face of His arresters.
+          B: the perseverance of those closest to Christ.
+          C: Christ’s dread of the physical suffering He was about to endure.
+          D: God’s love for people that caused Him to pay the penalty for their sins.
+        answer: D
+      - uid: BIB114.8.1.2.TY.1
+        subobj: 8.1.2
+        type: ty
+        question: Concerning Christ’s arrest, all of the Synoptic writers record that
+        choices:
+          A: Christ healed the ear of the high priest’s servant.
+          B: Judas kissed Christ.
+          C: the arresting crowd included Roman soldiers.
+          D: a young man fled away naked.
+        answer: B
+      - uid: BIB114.8.1.2.TY.2
+        subobj: 8.1.2
+        type: ty
+        question: From the Synoptic Gospels’ record of Jesus’ arrest, we see that
+        choices:
+          A: only Matthew says Christ could have called twelve legions of angels to
+            help Him.
+          B: only Luke records the mob’s falling down at Jesus’ feet.
+          C: only Luke records that the mob included the money changers from the temple.
+          D: only Mark mentions that Christ healed the ear of the high priest’s servant.
+        answer: A
+      - uid: BIB114.8.2.1.UPE.1
+        subobj: 8.2.1
+        type: upe
+        question: Since blasphemy was not a capital crime under Roman law, the chief
+          priests and elders accused Christ of
+        choices:
+          A: trying to mount an armed insurrection against Rome.
+          B: claiming to be a king and in conflict with the rule of Rome.
+          C: opposing the laws of Rome and teaching others to do the same.
+          D: causing problems between the various provinces in Palestine.
+        answer: B
+      - uid: BIB114.8.2.1.UPE.2
+        subobj: 8.2.1
+        type: upe
+        question: As we consider the trial of Christ, we may safely conclude that
+        choices:
+          A: it was conducted within the legal limits of the existing law.
+          B: it was highly irregular in regard to the way and time it was conducted.
+          C: Herod played a primary role in assigning guilt to Christ.
+          D: the charge of blasphemy is what originally caused Pilate to have Jesus
+            flogged.
+        answer: B
+      - uid: BIB114.8.2.1.TY.1
+        subobj: 8.2.1
+        type: ty
+        question: Since blasphemy was not a capital crime under Roman law, the religious
+          leaders accused Christ of
+        choices:
+          A: trying to mount an armed insurrection against Rome.
+          B: claiming to be a king in opposition to Caesar.
+          C: opposing Roman law and teaching others to do the same.
+          D: causing problems between the various provinces in Palestine.
+        answer: B
+      - uid: BIB114.8.3.1.TY.1
+        subobj: 8.3.1
+        type: ty
+        question: Which statement is true concerning Jesus’ crucifixion?
+        choices:
+          A: At the death of Christ, an earthquake shook the city of Rome.
+          B: According to the written charge, Christ was convicted as a political
+            revolutionary.
+          C: Christ was arrested at midnight, was crucified at 9:00 a.m., and died
+            at 3:00 p.m., a total of about fifteen hours.
+          D: At Christ’s death, the Holy Spirit left Him.
+        answer: C
+      - uid: BIB114.8.3.2.TY.1
+        subobj: 8.3.2
+        type: ty
+        question: The two people who asked Pilate for Christ’s body were
+        choices:
+          A: Roman soldiers.
+          B: two of His disciples.
+          C: members of the Jewish Council.
+          D: women who followed Christ.
+        answer: C
+      - uid: BIB114.8.4.1.UPE.1
+        subobj: 8.4.1
+        type: upe
+        question: Christ fulfilled His promise to rise from the dead on the third
+          day in that
+        choices:
+          A: He was in the tomb part of Friday, all of Saturday, and part of Sunday;
+            the custom at that time was to count parts of days as whole days.
+          B: it was meant to be an allegory of His return in the third thousand years,
+            that is, the early beginnings of the twenty-first century AD.
+          C: the crucifixion actually occurred on Thursday, not Friday.
+          D: people in those times tended to state time in generalities.
+        answer: A
+      - uid: BIB114.8.4.1.TY.1
+        subobj: 8.4.1
+        type: ty
+        question: What helps us understand how Christ fulfilled His promise to rise
+          from the dead on the third day?
+        choices:
+          A: He was in the tomb part of Friday, all of Saturday, and part of Sunday;
+            the custom in those days was to count parts of days as whole days.
+          B: An allegorical interpretation indicates Christ will return in the third
+            thousand years; that is, the early beginnings of the twenty-first century
+            AD.
+          C: The crucifixion actually occurred on Thursday, not Friday.
+          D: We can interpret the Last Supper and the Passover Feast as being two
+            separate meals.
+        answer: A
+      - uid: BIB114.8.4.2.UPE.1
+        subobj: 8.4.2
+        type: upe
+        question: Of Christ’s postresurrection appearances recorded in the Synoptic
+          Gospels, Luke gives
+        choices:
+          A: the most extensive treatment and indicates that the Eleven first saw
+            Christ in Jerusalem.
+          B: an extended treatment of His acts of power and miracles.
+          C: considerable attention to proving that the fact of the Resurrection added
+            little to what Christ did and said.
+          D: about the same details Matthew and Mark give, but he adds an extended
+            treatment of Christ’s trip to Emmaus.
+        answer: A
+      - uid: BIB114.8.4.2.UPE.2
+        subobj: 8.4.2
+        type: upe
+        question: What statement is true of Christ’s postresurrection appearances?
+        choices:
+          A: The different emphases of the Gospel writers indicate that some were
+            less reliable in reporting on this period.
+          B: The Gospels are our sole source of information on His postresurrection
+            appearances.
+          C: Of the Synoptic Gospels, Luke gives the most details and differs a bit
+            from Matthew on Christ’s first appearance after the Resurrection.
+          D: Only Luke mentions anything about women going to the tomb.
+        answer: C
+      - uid: BIB114.8.4.2.TY.1
+        subobj: 8.4.2
+        type: ty
+        question: According to Luke’s Gospel and our study textbook, which of these
+          men saw Jesus first after His resurrection?
+        choices:
+          A: The apostle John
+          B: The apostle Andrew
+          C: James, the half brother of Jesus
+          D: The two disciples on the road to Emmaus
+        answer: D
+      - uid: BIB114.8.4.2.TY.2
+        subobj: 8.4.2
+        type: ty
+        question: Where the Synoptic accounts differ, we may conclude that
+        choices:
+          A: some writers were more reliable and better reporters of what they saw
+            and heard than others.
+          B: each writer was selective in what he wrote, so variations indicate differences
+            in perspective rather than essential facts.
+          C: some writers were skilled historians while others were untrained.
+          D: some had access to more accurate information.
+        answer: B
+      - uid: BIB114.8.4.2.TY.3
+        subobj: 8.4.2
+        type: ty
+        question: Of Christ’s postresurrection appearances recorded in the Synoptic
+          Gospels, Luke gives
+        choices:
+          A: the most extensive treatment and indicates that the Eleven first saw
+            Christ in Jerusalem.
+          B: an extended treatment of Christ’s acts of power and miracles.
+          C: much attention to proving that the Resurrection added little to what
+            Christ did and said.
+          D: about the same details Matthew and Mark give.
+        answer: A
+      - uid: BIB114.9.1.1.UPE.1
+        subobj: 9.1.1
+        type: upe
+        question: Christ showed the qualities of Master Teacher by
+        choices:
+          A: making sure His students learned all of His teaching before they applied
+            the lessons in daily life.
+          B: using the trial and error method effectively.
+          C: loving and knowing His students and living what He taught.
+          D: testing the students’ knowledge occasionally.
+        answer: C
+      - uid: BIB114.9.1.1.UPE.2
+        subobj: 9.1.1
+        type: upe
+        question: A review of Christ’s pattern of using parables as His ministry progressed
+          indicates that
+        choices:
+          A: as skepticism increased, He used parables to mask truth from critics
+            and to reveal it to earnest seekers.
+          B: using parables enabled Him to use plain language His enemies could not
+            reason against.
+          C: He increasingly used parables as a foundation for doctrines concerning
+            the church.
+          D: the parables became progressively more difficult to interpret.
+        answer: A
+      - uid: BIB114.9.1.1.TY.1
+        subobj: 9.1.1
+        type: ty
+        question: Christ showed himself to be a master teacher in that He
+        choices:
+          A: made sure students learned all He had to teach before they applied their
+            lessons in daily life.
+          B: used the trial and error method effectively.
+          C: loved and knew His students.
+          D: tested His students’ knowledge from time to time.
+        answer: C
+      - uid: BIB114.9.2.1.UPE.1
+        subobj: 9.2.1
+        type: upe
+        question: Concerning His teaching methods, it is true that Christ
+        choices:
+          A: introduced the principles of teaching used by the early church catechists.
+          B: required His disciples to write down what He taught.
+          C: used the formal lecture method more than any other.
+          D: taught His disciples in a life-centered, practical, informal atmosphere.
+        answer: D
+      - uid: BIB114.9.2.1.TY.1
+        subobj: 9.2.1
+        type: ty
+        question: Christ taught by using
+        choices:
+          A: rhetorical questions, lectures, and storytelling.
+          B: audiovisual aids and object lessons.
+          C: only a one-on-one approach.
+          D: debate and argument.
+        answer: A
+      - uid: BIB114.9.2.2.UPE.1
+        subobj: 9.2.2
+        type: upe
+        question: In presenting the teachings of Christ, unlike the other Synoptic
+          writers, Matthew
+        choices:
+          A: gives the most accurate account of the Sermon on the Mount.
+          B: groups similar topics, uses summary statements, and has a Jewish tone.
+          C: focuses more on Christ’s actions than on His words and is more concerned
+            with historical sequence than with topics.
+          D: records very few of Christ’s parables.
+        answer: B
+      - uid: BIB114.9.2.2.UPE.2
+        subobj: 9.2.2
+        type: upe
+        question: Mark’s Gospel mentions Christ’s teachings less than the other Synoptic
+          accounts do because the writer focuses on
+        choices:
+          A: Christ’s actions more than on His words.
+          B: chronology more than on words.
+          C: a knowledgeable Jewish audience.
+          D: being rather than doing.
+        answer: A
+      - uid: BIB114.9.2.2.TY.1
+        subobj: 9.2.2
+        type: ty
+        question: Which Gospel writer appeals to the Jews’ respect for teachers and
+          teaching?
+        choices:
+          A: Matthew
+          B: Mark
+          C: Luke
+          D: John
+        answer: A
+      - uid: BIB114.9.2.2.TY.2
+        subobj: 9.2.2
+        type: ty
+        question: Mark mentions Christ’s teachings less than the other Synoptic accounts
+          because he
+        choices:
+          A: stresses chronology more than words or actions.
+          B: focuses on a knowledgeable Jewish audience.
+          C: is more concerned with being than doing.
+          D: emphasizes Christ’s actions more than His words.
+        answer: D
+      - uid: BIB114.9.2.2.TY.3
+        subobj: 9.2.2
+        type: ty
+        question: In Luke’s Gospel, Christ’s teachings are
+        choices:
+          A: presented topically in six groups.
+          B: given in the form of parables and scattered throughout the narrative.
+          C: all inserted early in the book.
+          D: organized as a catechism.
+        answer: B
+      - uid: BIB114.9.3.1.UPE.1
+        subobj: 9.3.1
+        type: upe
+        question: The relationship between Christ’s teaching and His ultimate redemptive
+          purpose required Him to
+        choices:
+          A: demonstrate His character by means of His words and His work.
+          B: use great authority to prove His sovereignty and divinity.
+          C: perform wonders to sway the opinions of those who were unconvinced of
+            His redemptive mission.
+          D: constantly enlarge His focus to include the multitudes so all could fully
+            understand His redemptive purpose.
+        answer: A
+      - uid: BIB114.9.3.1.TY.1
+        subobj: 9.3.1
+        type: ty
+        question: How were Christ’s teachings linked to His redemptive purpose?
+        choices:
+          A: They demonstrated His credibility as an acceptable person and thus as
+            an appropriate sacrifice.
+          B: Through initiation into Christ’s secret teaching to His disciples, one
+            can receive ultimate redemption.
+          C: The relationship was stated indirectly in parables and could be recognized
+            only by His disciples.
+          D: They indicated the comparative weakness of the Law in relation to the
+            human condition and pointed to its destruction.
+        answer: A
+      - uid: BIB114.9.4.1.TY.1
+        subobj: 9.4.1
+        type: ty
+        question: What can we conclude about the Scriptures based on Christ’s teachings?
+        choices:
+          A: While He regarded them as holy, He said they were superseded by New Testament
+            revelation.
+          B: Since He believed and used them, He regarded them as genuine.
+          C: They were tied to the Old Testament legal system and were useful as a
+            guide, but no longer binding.
+          D: It is possible to have a high view of Christ and a critical view of the
+            Old Testament.
+        answer: B
+      - uid: BIB114.9.4.1.TY.2
+        subobj: 9.4.1
+        type: ty
+        question: What did Christ teach about God, Himself, and the Holy Spirit?
+        choices:
+          A: The Godhead is mentioned but not manifested or revealed in any way in
+            human history.
+          B: God is one but distinct in substance or essence from Christ and the Holy
+            Spirit.
+          C: 'The Godhead is a Trinity or three distinct Persons, each of whom expresses
+            the qualities of personality: intellect, feeling, and will.'
+          D: Only the Father manifests the attributes of deity.
+        answer: C
+      - uid: BIB114.9.4.1.TY.3
+        subobj: 9.4.1
+        type: ty
+        question: What did Christ teach concerning the church?
+        choices:
+          A: He clearly defined the responsibilities of bishops and deacons.
+          B: The term church primarily refers to a worship building or place.
+          C: In Christ’s time, the church was future, and it would withstand the gates
+            of hell.
+          D: He used parables to describe the church and its leaders.
+        answer: C
+      - uid: BIB114.9.4.1.TY.4
+        subobj: 9.4.1
+        type: ty
+        question: Christ’s teaching on future things indicates that
+        choices:
+          A: those who do good deeds will be rewarded according to the amount they
+            have done.
+          B: He will set up His kingdom during the time of tribulation.
+          C: we should look for the exact sequence of events He describes.
+          D: His second coming is the focal point of the future and is linked with
+            the resurrection and judgment.
+        answer: D
+      - uid: BIB114.10.1.1.UPE.1
+        subobj: 10.1.1
+        type: upe
+        question: According to our study, the terms kingdom of God and kingdom of
+          heaven
+        choices:
+          A: represent two entirely different kingdoms.
+          B: indicate the beginning and the end of the same kingdom.
+          C: refer to ways of defining the idea of kingdom .
+          D: are essentially synonymous.
+        answer: D
+      - uid: BIB114.10.1.1.TY.1
+        subobj: 10.1.1
+        type: ty
+        question: According to our study, the terms kingdom of God and kingdom of
+          heaven
+        choices:
+          A: represent two entirely different kingdoms.
+          B: 'indicate two aspects of the same kingdom: its beginning and its end.'
+          C: refer to ways of defining the idea of kingdom .
+          D: are essentially synonymous.
+        answer: D
+      - uid: BIB114.10.2.1.UPE.1
+        subobj: 10.2.1
+        type: upe
+        question: The Jewish concept of the kingdom of God included God’s rule over
+          His people, a restored earthly kingdom, and
+        choices:
+          A: a Messiah who would deliver His people.
+          B: the spiritual renewal of Israel.
+          C: a spiritual kingdom where God would reign in the hearts of His people.
+          D: the salvation of all nations that would usher in universal peace.
+        answer: A
+      - uid: BIB114.10.2.1.TY.1
+        subobj: 10.2.1
+        type: ty
+        question: According to their concept of kingdom, the Jews in Christ’s day
+          expected
+        choices:
+          A: David to be reincarnated as a Messiah, leading the Israeli army in triumph
+            over all their enemies.
+          B: a suffering Servant to die on a cross and then rise again as a reigning
+            King.
+          C: the Messiah to deliver His people from foreign rule and restore Israel
+            to political greatness.
+          D: a new covenant to replace the Law.
+        answer: C
+      - uid: BIB114.10.2.1.TY.2
+        subobj: 10.2.1
+        type: ty
+        question: The Jews rejected Christ’s teaching on the Kingdom because
+        choices:
+          A: the realm was less than what God had promised.
+          B: Christ was assuming equality with God in ruling the Kingdom.
+          C: Christ said the law of Moses had no moral value in the Kingdom.
+          D: He said Gentiles would help rule the Kingdom.
+        answer: B
+      - uid: BIB114.10.2.2.UPE.1
+        subobj: 10.2.2
+        type: upe
+        question: By saying followers of Christ live between the times, we mean that
+        choices:
+          A: Christ continues to perform the signs and wonders of His earthly ministry
+            today through the Holy Spirit.
+          B: what Christ has already initiated in believers will not be fully realized
+            until His second coming.
+          C: the dark ages of church history interrupted the age of the Spirit.
+          D: the Kingdom has not yet come in any aspect.
+        answer: B
+      - uid: BIB114.10.2.2.TY.1
+        subobj: 10.2.2
+        type: ty
+        question: By saying followers of Christ live between the times, we mean that
+        choices:
+          A: Christ continues to perform the signs and wonders of His earthly ministry
+            today through the Holy Spirit.
+          B: what Christ has already initiated in believers will not be fully realized
+            until His second coming.
+          C: the dark ages of church history interrupted the age of the Spirit.
+          D: the Kingdom has not yet come in any aspect.
+        answer: B
+      - uid: BIB114.10.2.2.TY.2
+        subobj: 10.2.2
+        type: ty
+        question: Regarding the present and future aspects of the Kingdom, it is true
+          that the present aspect
+        choices:
+          A: is invisible and internal, while the future aspect will be visible and
+            physical.
+          B: represents a realm, but the future aspect represents a reign.
+          C: concerns consummation, while the future aspect concerns initiation of
+            God’s eternal plan.
+          D: is visible and physical, while the future aspect will be only invisible
+            and internal.
+        answer: A
+      - uid: BIB114.10.2.3.UPE.1
+        subobj: 10.2.3
+        type: upe
+        question: In contrast to the present aspect of the Kingdom, the future aspect
+          will be chiefly
+        choices:
+          A: spiritual as the forces of God and evil clash.
+          B: physical as Christ, angels, and all of the nations attend.
+          C: symbolic as God consummates His plan.
+          D: metaphorical since all the spiritual issues will have been decided.
+        answer: B
+      - uid: BIB114.10.2.3.TY.1
+        subobj: 10.2.3
+        type: ty
+        question: About the future aspect of the Kingdom, Christ taught that
+        choices:
+          A: the kingdom of heaven will be populated with the Jews, and the kingdom
+            of God with the Gentiles.
+          B: the visible phase of the Kingdom is limited to Israel during the Millennium.
+          C: He would destroy the Roman Empire and restore the kingdom of David.
+          D: He will come in power and glory and separate the wicked from the righteous.
+        answer: D
+      - uid: BIB114.10.2.4.UPE.1
+        subobj: 10.2.4
+        type: upe
+        question: Unlike the rules of a worldly kingdom, the rules of God’s kingdom
+          are
+        choices:
+          A: internal, not external.
+          B: ideal, not practical.
+          C: suggested guidelines, not requirements.
+          D: easy and light, not demanding and difficult.
+        answer: A
+      - uid: BIB114.10.2.4.TY.1
+        subobj: 10.2.4
+        type: ty
+        question: The moral aspect of God’s kingdom involves
+        choices:
+          A: a strong emphasis on external actions.
+          B: little attention to ethics or righteous living.
+          C: fewer requirements than a worldly kingdom.
+          D: the inner nature of a person.
+        answer: D
+      - uid: BIB114.10.2.4.TY.2
+        subobj: 10.2.4
+        type: ty
+        question: Which statement distinguishes the rules of God’s kingdom from the
+          Jewish concept of the Kingdom?
+        choices:
+          A: “Anyone who divorces his wife must give her a certificate of divorce”
+            (Matthew 5:31).
+          B: “Love your neighbor and hate your enemy” (Matthew 5:43).
+          C: “Love the Lord your God with all your heart and with all your soul and
+            with all your mind” and “Love your neighbor as yourself” (Matthew 22:37–39).
+          D: “If anyone swears by the gold of the temple, he is bound by his oath”
+            (Matthew 23:16).
+        answer: C
+      - uid: BIB114.10.3.1.TY.1
+        subobj: 10.3.1
+        type: ty
+        question: In His teachings about the kingdom of God, Christ gave importance
+          to
+        choices:
+          A: faithful attendance and tithing at the temple.
+          B: internal purity.
+          C: holiness through external actions.
+          D: unfailing participation in religious ceremonies
+        answer: B
+      - uid: BIB114.10.3.1.TY.2
+        subobj: 10.3.1
+        type: ty
+        question: Membership in the Kingdom requires a person to make Christ his or
+          her Lord, follow His teachings, and
+        choices:
+          A: undergo an inner transformation of character.
+          B: keep the moral requirements of the Law.
+          C: observe ritual cleansing required of all people.
+          D: identify with the national, political, and religious boundaries of Israel.
+        answer: A
+      - uid: BIB114.11.1.1.UPE.1
+        subobj: 11.1.1
+        type: upe
+        question: Defined correctly, a parable is a method in which the teacher
+        choices:
+          A: uses visual aids to enrich the teaching and to maintain students’ interest.
+          B: tells a heavenly story with an earthly meaning.
+          C: uses familiar concepts to illustrate unfamiliar concepts, in terms the
+            learners understand.
+          D: encourages students to act out the lessons as they are taught.
+        answer: C
+      - uid: BIB114.11.1.1.TY.1
+        subobj: 11.1.1
+        type: ty
+        question: Defined correctly, a parable is a teaching method in which the teacher
+        choices:
+          A: uses appropriate visual aids to enrich the teaching and to maintain students’
+            interest.
+          B: tells a heavenly story that has an earthly meaning.
+          C: uses familiar concepts to illustrate unfamiliar ideas in terms the learner
+            understands.
+          D: encourages students to act out the lessons as they are taught.
+        answer: C
+      - uid: BIB114.11.1.1.TY.2
+        subobj: 11.1.1
+        type: ty
+        question: Jesus’ parables were so effective because they
+        choices:
+          A: revealed His secret wisdom only to those who were spiritually inclined.
+          B: shocked, provoked, and produced a response in His hearers.
+          C: fulfilled the function of apocalyptic literature.
+          D: explained all His teaching to everyone’s satisfaction.
+        answer: B
+      - uid: BIB114.11.1.2.UPE.1
+        subobj: 11.1.2
+        type: upe
+        question: One guideline for interpreting Christ’s parables is that
+        choices:
+          A: the interpretation varies with culture and the setting of the church.
+          B: in general, a parable has only one main truth.
+          C: when using parables to establish doctrine, each detail in a parable supplies
+            an essential truth.
+          D: the context of the parable does not affect the interpretation.
+        answer: B
+      - uid: BIB114.11.1.2.TY.1
+        subobj: 11.1.2
+        type: ty
+        question: Guideline 1 for the interpretation of parables indicates that
+        choices:
+          A: the details should determine the interpretation.
+          B: in general there is only one main truth in each parable.
+          C: the individual teacher should determine what each parable means.
+          D: every detail is important to the central theme.
+        answer: B
+      - uid: BIB114.11.1.2.TY.2
+        subobj: 11.1.2
+        type: ty
+        question: According to Guideline 2, an interpreter of parables should
+        choices:
+          A: see whether Christ himself supplied the meaning.
+          B: determine whether the doctrine the parable teaches agrees with other
+            biblical teaching.
+          C: not rely on the details for help in finding the intended meaning.
+          D: determine whether the message applies to human salvation and is therefore
+            essential.
+        answer: A
+      - uid: BIB114.11.2.1.UPE.1
+        subobj: 11.2.1
+        type: upe
+        question: What is true of the forty-seven “true” parables from the Synoptic
+          Gospels?
+        choices:
+          A: Twelve parables are unique to Matthew, while only two parables are unique
+            to Mark.
+          B: Luke has the fewest unique parables.
+          C: Five parables are found in all three Synoptics.
+          D: Matthew contains the greatest number of parables.
+        answer: A
+      - uid: BIB114.11.2.1.TY.1
+        subobj: 11.2.1
+        type: ty
+        question: Of the forty-seven parables we list from the Synoptic Gospels, it
+          is true that
+        choices:
+          A: only two parables are unique to Matthew.
+          B: no parable is found in all three Synoptics.
+          C: twenty parables are found in all three Synoptics.
+          D: the largest number (eighteen parables) is unique to Luke.
+        answer: D
+      - uid: BIB114.11.2.2.TY.1
+        subobj: 11.2.2
+        type: ty
+        question: The Synoptic Gospels indicate that Christ began to use parables
+          during His
+        choices:
+          A: early Judean ministry.
+          B: early Galilean ministry.
+          C: middle Galilean ministry.
+          D: later Judean-Perean ministry.
+        answer: B
+      - uid: BIB114.11.2.2.TY.2
+        subobj: 11.2.2
+        type: ty
+        question: Jesus used the parables to
+        choices:
+          A: hide truth as well as to reveal it.
+          B: avoid communicating His message clearly to the masses.
+          C: bring the masses of people to salvation.
+          D: introduce the basic doctrines that were to become the foundation of the
+            church.
+        answer: A
+      - uid: BIB114.11.2.2.TY.3
+        subobj: 11.2.2
+        type: ty
+        question: A s Christ’s ministry progressed , we see that He
+        choices:
+          A: used parables to reveal the truth to everyone—to His critics as well
+            as to earnest seekers.
+          B: never gave the meaning of the parables He used.
+          C: decreased the number of parables in favor of direct speech.
+          D: increased the number of parables about the Kingdom and its requirements.
+        answer: D
+      - uid: BIB114.11.3.1.UPE.1
+        subobj: 11.3.1
+        type: upe
+        question: The parables which deal with kingdom living teach us that
+        choices:
+          A: the disciple’s works are never as important as the disciple’s faith.
+          B: the Kingdom has unlimited privileges for the true disciple.
+          C: some works are acceptable for salvation at the Kingdom’s consummation.
+          D: discipleship requires obedient service, sacrifice, and sharing kingdom
+            knowledge with others.
+        answer: D
+      - uid: BIB114.11.3.1.TY.1
+        subobj: 11.3.1
+        type: ty
+        question: The parables dealing with future events teach us that
+        choices:
+          A: we should look for a specific order of events that point to Christ’s
+            soon return.
+          B: citizens of the Kingdom can do whatever pleases them because their sins
+            are forgiven.
+          C: we should not expect Christ’s return for a long time.
+          D: we need to be in watchful preparation for the coming King.
+        answer: D
+      - uid: BIB114.11.3.1.TY.2
+        subobj: 11.3.1
+        type: ty
+        question: T he parables which deal with kingdom living teach us that
+        choices:
+          A: discipleship requires obedient service, sacrifice, and sharing kingdom
+            knowledge with others.
+          B: the Kingdom has unlimited privileges for the true disciple.
+          C: our external actions are the most important requirements of the Kingdom.
+          D: the Old Testament Law is our standard of living.
+        answer: A
+      - uid: BIB114.12.1.1.UPE.1
+        subobj: 12.1.1
+        type: upe
+        question: In terms of the fact of Jesus’ miracles, we see that
+        choices:
+          A: the majority of people accept the reality of these miracles.
+          B: Jesus’ enemies accepted the fact of His miracles but attributed them
+            to satanic power.
+          C: all of the miracles are recorded in at least two Gospels.
+          D: Jesus’ enemies denied the reality of His miracles.
+        answer: B
+      - uid: BIB114.12.1.1.TY.1
+        subobj: 12.1.1
+        type: ty
+        question: In terms of the fact of miracles, we have seen that
+        choices:
+          A: the majority of people accept the reality of Jesus’ miracles.
+          B: Jesus’ enemies denied the fact of His miracles.
+          C: the Gospel writers presented the miracles as metaphors, not as real events.
+          D: Jesus’ enemies acknowledged His miracles but attributed them to satanic
+            power.
+        answer: D
+      - uid: BIB114.12.1.2.UPE.1
+        subobj: 12.1.2
+        type: upe
+        question: Which statement is true concerning miracles recorded in the Gospels?
+        choices:
+          A: Miracles involve impossible situations and the intervention of an external
+            power.
+          B: Miracles always involve unexplained natural forces.
+          C: Biblical miracles are classified by the agency performing them—Holy Spirit,
+            angels, humans, Satan and demons.
+          D: There are no references to Christ’s miracles outside of the Gospels.
+        answer: A
+      - uid: BIB114.12.1.2.TY.1
+        subobj: 12.1.2
+        type: ty
+        question: In this study, we divide Christ’s miracles into the two general
+          headings of
+        choices:
+          A: divine healings and deliverances from demons.
+          B: fulfillments of prophecy and works of compassion.
+          C: those related to Christ’s ministry and those related to His birth, death,
+            and resurrection.
+          D: those that involve healing and those that involve nature.
+        answer: D
+      - uid: BIB114.12.1.2.TY.2
+        subobj: 12.1.2
+        type: ty
+        question: We may define miracle most accurately as
+        choices:
+          A: “any unusual event.”
+          B: “anything that replaces the laws of nature.”
+          C: “any event that would not normally occur without the intervention of
+            an outside force.”
+          D: “a deliverance from spiritual bondage.”
+        answer: C
+      - uid: BIB114.12.1.2.TY.3
+        subobj: 12.1.2
+        type: ty
+        question: C oncerning miracles recorded in the Gospels , it is true that they
+        choices:
+          A: involve impossible situations, the intervention of an external power,
+            and are usually associated with the spiritual realm.
+          B: always involve unexplained natural forces.
+          C: are classified by the entity performing them—Holy Spirit, angels, human
+            spirits, Satan and demons.
+          D: agree in every detail presented.
+        answer: A
+      - uid: BIB114.12.2.1.UPE.1
+        subobj: 12.2.1
+        type: upe
+        question: About Jesus’ recorded miracles, w e can say most accurately that
+          He
+        choices:
+          A: performed only thirty that meet the criteria of true miracles.
+          B: worked forty-one miracles.
+          C: worked a great number of miracles, but the writers chose to use thirty-six.
+          D: performed twenty-six actual miracles.
+        answer: C
+      - uid: BIB114.12.2.1.TY.1
+        subobj: 12.2.1
+        type: ty
+        question: A bout Jesus’ recorded miracles , we can say most accurately that
+          He
+        choices:
+          A: performed thirty that meet the criteria required of miracles.
+          B: worked forty-one miracles.
+          C: worked a great number of miracles, but the writers chose to describe
+            thirty-six.
+          D: performed only twenty-six actual miracles.
+        answer: C
+      - uid: BIB114.12.2.1.TY.2
+        subobj: 12.2.1
+        type: ty
+        question: All four Gospels present Christ’s miracle of
+        choices:
+          A: feeding the five thousand.
+          B: ascending into heaven.
+          C: raising Jairus’ daughter from the dead.
+          D: walking on water.
+        answer: A
+      - uid: BIB114.12.2.1.TY.3
+        subobj: 12.2.1
+        type: ty
+        question: According to our study, o ne inconsistency among some scholars who
+          deny Jesus’ miracles concerns their willingness to accept
+        choices:
+          A: Christ’s eternal authority.
+          B: Christ’s virgin birth and resurrection.
+          C: God’s willingness to intervene providentially in people’s lives.
+          D: Old Testament miracles God worked in behalf of His covenant people.
+        answer: B
+      - uid: BIB114.12.2.2.UPE.1
+        subobj: 12.2.2
+        type: upe
+        question: Which statement is true concerning the harmony of miracles in the
+          Gospels?
+        choices:
+          A: Harmonizing the miracles is difficult because the details in the Gospels
+            are so different.
+          B: The Gospel accounts of miracles complement and verify each other, but
+            in some cases differ in terms of specific details.
+          C: The Gospel writers often depended on hearsay for the recorded miracles
+            instead of actual historical events.
+          D: We have definite explanations for any details that seem to differ in
+            the miracle accounts.
+        answer: B
+      - uid: BIB114.12.2.2.TY.1
+        subobj: 12.2.2
+        type: ty
+        question: Which statement about the harmony of miracles in the Gospels is
+          true?
+        choices:
+          A: Harmonizing the miracles poses a serious problem because the details
+            in the Gospels differ greatly.
+          B: The Gospel accounts of miracles generally complement and verify each
+            other, but in some cases they differ in terms of specific details.
+          C: In many cases, the Gospel writers depended on legends for their recorded
+            miracles instead of actual historical events.
+          D: We have definite explanations for any details that seem to differ in
+            the miracle accounts.
+        answer: B
+      - uid: BIB114.12.3.1.UPE.1
+        subobj: 12.3.1
+        type: upe
+        question: The restraint Christ exercised in performing miracles was tied directly
+          to His
+        choices:
+          A: desire to focus on balance in His ministry.
+          B: concern about doing the will of the Father.
+          C: need to keep them from becoming too common in His ministry.
+          D: attempt to limit them to the most needy.
+        answer: B
+      - uid: BIB114.12.3.1.TY.1
+        subobj: 12.3.1
+        type: ty
+        question: Jesus used miracles in His earthly ministry primarily to
+        choices:
+          A: explain His parables.
+          B: separate himself from the scribes and Pharisees.
+          C: prove the existence of the Trinity.
+          D: show that He was Messiah and Lord.
+        answer: D
+      - uid: BIB114.12.3.1.TY.2
+        subobj: 12.3.1
+        type: ty
+        question: Christ used restraint in working miracles primarily because of His
+        choices:
+          A: desire to do the Father’s will.
+          B: desire to avoid conflict with the religious leaders.
+          C: human limitations as a result of His incarnation.
+          D: knowledge that people would focus on the miracles instead of His message.
+        answer: A
+      - uid: BIB114.13.1.1.UPE.1
+        subobj: 13.1.1
+        type: upe
+        question: This course’s focus on the world, the Man, and the message indicates
+          that
+        choices:
+          A: this is an in-depth, exhaustive review of the details and difficult passages
+            in the Synoptics.
+          B: the seemingly unrelated events of history and accidents of geography
+            were part of God’s program.
+          C: God’s predestination locked in all the events related to Christ’s life,
+            and none of the participants could have done otherwise.
+          D: the message must be studied first, in order to understand the Man.
+        answer: B
+      - uid: BIB114.13.1.1.TY.1
+        subobj: 13.1.1
+        type: ty
+        question: This course has been structured so you can clearly see the
+        choices:
+          A: unfolding of God’s redemptive plan in the life of His Son.
+          B: conflict among the Gospels in recording Jesus’ teaching and ministry.
+          C: meaning of details and difficult passages in the text.
+          D: harmonizing of each detail in the Synoptic Gospels with the Gospel of
+            John.
+        answer: A
+      - uid: BIB114.13.1.1.TY.2
+        subobj: 13.1.1
+        type: ty
+        question: The course’s focus on the world, the Man, and the message indicates
+          that
+        choices:
+          A: this is an in-depth, exhaustive review of the details and difficult passages
+            in the Synoptics.
+          B: the seemingly unrelated events of history and accidents of geography
+            were all part of God’s plan.
+          C: God’s predestination locked in all the events related to Christ’s life,
+            and none of the participants could have done otherwise.
+          D: every event in the Synoptic Gospels can be placed in a set chronological
+            order.
+        answer: B
+      - uid: BIB114.13.2.1.UPE.1
+        subobj: 13.2.1
+        type: upe
+        question: The word that embodies God’s activity in shaping events and creating
+          conditions to give the gospel the greatest impact is
+        choices:
+          A: inspiration .
+          B: revelation .
+          C: preparation .
+          D: anticipation .
+        answer: C
+      - uid: BIB114.13.2.1.TY.1
+        subobj: 13.2.1
+        type: ty
+        question: The word that best describes God’s activity in shaping events and
+          creating conditions to give the gospel the greatest impact is
+        choices:
+          A: inspiration .
+          B: revelation .
+          C: preparation .
+          D: anticipation .
+        answer: C
+      - uid: BIB114.13.2.1.TY.2
+        subobj: 13.2.1
+        type: ty
+        question: What factors in the world enabled the gospel to have the greatest
+          possible impact?
+        choices:
+          A: Greece provided the language in which the gospel was expressed; Rome
+            provided the political security that made the spread of the gospel possible.
+          B: Over half of the Roman Empire had become God-fearers through Jewish evangelism
+            and thus were ripe for the gospel.
+          C: Rome had mostly eliminated slavery and given equality to women, thus
+            making it possible for both slaves and women to respond to the gospel.
+          D: The Old Testament was widely received throughout the ancient world as
+            a divinely inspired document.
+        answer: A
+      - uid: BIB114.13.2.1.TY.3
+        subobj: 13.2.1
+        type: ty
+        question: The Jewish nation helped Christ’s message to be birthed and nurtured
+          to maturity by providing a
+        choices:
+          A: system of laws that would govern people’s behavior.
+          B: code of ceremonial statutes to foster personal holiness.
+          C: cultural vehicle through which the gospel could be spread.
+          D: religious vehicle through which Christ could operate.
+        answer: D
+      - uid: BIB114.13.3.1.UPE.1
+        subobj: 13.3.1
+        type: upe
+        question: The Synoptic Gospels give a clear view of the forces that affected
+          Christ’s ministry, the location of each phase, and
+        choices:
+          A: the events of His life that moved clearly from one location and time
+            to another.
+          B: the contrast in the people’s reactions at the beginning and at the end
+            of Christ’s ministry.
+          C: the same details and perspectives on each event the writers record in
+            common.
+          D: some vague hints to help establish a working chronology of events.
+        answer: B
+      - uid: BIB114.13.3.1.UPE.2
+        subobj: 13.3.1
+        type: upe
+        question: C oncerning Jesus’ ministry , it is true that
+        choices:
+          A: the Synoptic Gospels focus almost exclusively on the last two years of
+            Jesus’ public ministry.
+          B: Christ devoted most of His time to the people of Galilee.
+          C: the later Judean-Perean ministry covered about fifteen months.
+          D: the early Galilean period is most extensively covered in the Synoptic
+            Gospels.
+        answer: B
+      - uid: BIB114.13.3.1.TY.1
+        subobj: 13.3.1
+        type: ty
+        question: Which statement is true concerning Christ and His ministry?
+        choices:
+          A: Since the Synoptic writers did not intend to write biographies, they
+            give few facts about Christ’s first thirty years.
+          B: The Synoptic Gospels focus almost exclusively on the last year of Christ’s
+            public ministry.
+          C: Christ’s presence and energy among the people of Galilee were enough
+            to turn away their unbelief and make them into disciples.
+          D: We must substantially rely on the Gospel of John for facts about the
+            Passion Week of Christ.
+        answer: A
+      - uid: BIB114.13.3.1.TY.2
+        subobj: 13.3.1
+        type: ty
+        question: The Synoptic Gospels give a clear view of the forces that affected
+          Christ’s ministry, the location of each phase, and
+        choices:
+          A: the events of His life that moved clearly from one location and time
+            to another.
+          B: the contrast in the people’s reactions at the beginning and toward the
+            end of Christ’s ministry.
+          C: the same details and perspective on each of the events the writers record
+            in common.
+          D: some vague hints to help us establish a working chronology of events.
+        answer: B
+      - uid: BIB114.13.3.1.TY.3
+        subobj: 13.3.1
+        type: ty
+        question: Which statement is true concerning Jesus’ ministry?
+        choices:
+          A: The Synoptic Gospels focus almost exclusively on the last two years of
+            Jesus’ public ministry.
+          B: The later Judean-Perean ministry covered about fifteen months.
+          C: Christ devoted most of His time to the people of Galilee.
+          D: The early Galilean period is extensively covered in the Synoptic Gospels.
+        answer: C
+      - uid: BIB114.13.4.1.UPE.1
+        subobj: 13.4.1
+        type: upe
+        question: One of Christ’s goals in His message was to
+        choices:
+          A: prepare the world for the elimination of slavery and the equality of
+            men and women.
+          B: establish a wealthy and powerful church.
+          C: eliminate foreign rule in Palestine and reestablish the kingdom of David.
+          D: prove that He was both the promised Messiah and the Son of God.
+        answer: D
+      - uid: BIB114.13.4.1.TY.1
+        subobj: 13.4.1
+        type: ty
+        question: One of Christ’s goals in His message was to
+        choices:
+          A: prepare the world for the elimination of slavery and the equality of
+            men and women.
+          B: establish a wealthy and powerful church.
+          C: eliminate foreign rule in Palestine and reestablish the kingdom of David.
+          D: prove that He was both the promised Messiah and the Son of God.
+        answer: D
+      - uid: BIB114.13.4.1.TY.2
+        subobj: 13.4.1
+        type: ty
+        question: As Jesus’ message faced increasing resistance, He
+        choices:
+          A: withdrew from the multitudes and limited His healing ministry.
+          B: spent increasing amounts of time preparing His disciples.
+          C: focused completely on teachings regarding the end times.
+          D: focused on the political implications of His message.
+        answer: B
     chapters:
     - last_modified: '2026-05-22'
       title: 1 - The Synoptic Background and John Mark

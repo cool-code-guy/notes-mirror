@@ -64,6 +64,2660 @@ courses:
       '3.0':
         timestamp: '2026-04-01'
         PN: 03.22.01
+      '1.0':
+        timestamp: '2005-01-01'
+        precision: year
+        source: colophon
+      '2.0':
+        timestamp: '2006-01-01'
+        precision: year
+        source: copyright
+    printings:
+    - pn: 03.20.01
+      course_code: MIN227
+      source_html: BMIN123ENE03-90_03.20.01.html
+      template: old
+      recorded: '2026-08-26'
+      note: 'Pristine print baseline built by scripts/build_html_baseline.py purely
+        from the InDesign HTML -- no DB input. Read-only: never hand-edit and never
+        feed to the janitor. UIDs are synthesized from the book''s own answer key;
+        diff pairs by content.'
+      counts:
+        ty: 140
+        upe: 100
+        final: 0
+      questions:
+      - uid: MIN227.1.1.1.TY.1
+        subobj: 1.1.1
+        type: ty
+        question: Each of the four Gospels concludes with
+        choices:
+          A: the final words of Christ and His ascension to the Father.
+          B: a summary of the divine nature of Christ and an exhortation to reject
+            false messiahs.
+          C: a command or teaching concerning the mission to which Jesus committed
+            His followers.
+          D: Jesus’ final moments with His disciples.
+        answer: C
+      - uid: MIN227.1.1.2.TY.1
+        subobj: 1.1.2
+        type: ty
+        question: Mark is probably the earliest of the four Gospels. The Great Commission
+          in Mark was
+        choices:
+          A: a foundational pattern on which the Commissions in the other Gospels
+            are modeled.
+          B: written after the Gospels of Matthew, Luke, and John.
+          C: amended by the other Gospel writers when they composed their books.
+          D: rejected by Early Church readers as an immature expression of Christ’s
+            command.
+        answer: B
+      - uid: MIN227.1.1.2.TY.2
+        subobj: 1.1.2
+        type: ty
+        question: The Gospel of Mark was authored by John Mark, but his original source
+          is probably
+        choices:
+          A: Peter.
+          B: Luke.
+          C: Mary, the mother of Jesus.
+          D: Josephus.
+        answer: A
+      - uid: MIN227.1.1.3.TY.1
+        subobj: 1.1.3
+        type: ty
+        question: Matthew probably wrote his Gospel while
+        choices:
+          A: living as a recluse in the deserts of Arabia.
+          B: leading the church in Antioch.
+          C: traveling with Paul on his missionary journeys.
+          D: supporting himself as a tax collector in Jerusalem.
+        answer: B
+      - uid: MIN227.1.1.3.TY.2
+        subobj: 1.1.3
+        type: ty
+        question: Matthew’s identification of Jesus as “the son of David, the son
+          of Abraham”
+        choices:
+          A: reflects Christ’s fulfillment of the messianic promises to David and
+            to Abraham.
+          B: demonstrates an exclusionist attitude on Matthew’s part toward the Gentiles.
+          C: proves Matthew’s inability to correctly identify genealogical sequence.
+          D: calls into question whether Matthew believed Jesus to be God’s Son.
+        answer: A
+      - uid: MIN227.1.1.4.UPE.1
+        subobj: 1.1.4
+        type: upe
+        question: Three elements that are common to the Great Commission in both Mark
+          and Matthew are
+        choices:
+          A: communicating the message orally, in written form, and by example.
+          B: going, communicating the message orally, and speaking in tongues.
+          C: going, teaching, and preaching.
+          D: going, communicating the message orally, and baptizing.
+        answer: D
+      - uid: MIN227.1.1.4.UPE.2
+        subobj: 1.1.4
+        type: upe
+        question: Water baptism is
+        choices:
+          A: an optional ritual.
+          B: a sacrament whereby a person is saved.
+          C: an integral part of the Great Commission.
+          D: unnecessary.
+        answer: C
+      - uid: MIN227.1.1.4.UPE.3
+        subobj: 1.1.4
+        type: upe
+        question: An analysis of the Great Commission in Mark and Matthew reveals
+        choices:
+          A: unfortunate contradictions between them.
+          B: strong agreement in the areas of going, proclaiming, and baptizing.
+          C: that they are written concurrently.
+          D: evidence of multiple authors in each Gospel.
+        answer: B
+      - uid: MIN227.1.1.4.TY.1
+        subobj: 1.1.4
+        type: ty
+        question: An analysis of the Great Commission in Mark and Matthew reveals
+        choices:
+          A: unfortunate contradictions between them.
+          B: strong agreement in the areas of going, proclaiming, and baptizing.
+          C: that they are written concurrently.
+          D: evidence of multiple authors in each Gospel.
+        answer: B
+      - uid: MIN227.1.2.1.UPE.1
+        subobj: 1.2.1
+        type: upe
+        question: In the beginning of Acts, Jesus instructs His disciples to
+        choices:
+          A: begin the work of evangelizing the whole world immediately.
+          B: wait for the baptism of the Holy Spirit.
+          C: study the Scriptures at a Jewish synagogue.
+          D: fast and pray.
+        answer: B
+      - uid: MIN227.1.2.1.UPE.2
+        subobj: 1.2.1
+        type: upe
+        question: Luke and Acts are
+        choices:
+          A: two parts of one whole, divided into components dictated by the limits
+            of scroll length.
+          B: theoretically connected by liberal theologians to undermine the texts’
+            validity.
+          C: contrasted as examples of theology (Luke) and history (Acts).
+          D: the only two books in the Bible that are components of a larger whole.
+        answer: A
+      - uid: MIN227.1.2.1.TY.1
+        subobj: 1.2.1
+        type: ty
+        question: Luke and Acts are
+        choices:
+          A: two parts of one whole, divided into components dictated by the limits
+            of scroll length.
+          B: theoretically connected by liberal theologians to undermine the texts’
+            validity.
+          C: contrasted as examples of theology (Luke) and history (Acts).
+          D: the only two books in the Bible that are components of a larger whole.
+        answer: A
+      - uid: MIN227.1.2.2.TY.1
+        subobj: 1.2.2
+        type: ty
+        question: The salvation message can best be summarized as
+        choices:
+          A: a historical summary of Old Testament apocalyptic literature.
+          B: the embodiment of Christ’s teaching in the Sermon on the Mount.
+          C: the life, death, and resurrection of Jesus Christ to accomplish the forgiveness
+            of sins.
+          D: a divine enabling to obey the Ten Commandments.
+        answer: C
+      - uid: MIN227.1.2.3.UPE.1
+        subobj: 1.2.3
+        type: upe
+        question: Luke (in Acts) and John recorded Jesus’ instruction to His disciples
+          regarding evangelizing as dependent upon
+        choices:
+          A: the Holy Spirit’s empowerment.
+          B: tithing.
+          C: heeding end-time warnings.
+          D: rebuking the Pharisees.
+        answer: A
+      - uid: MIN227.1.2.3.TY.1
+        subobj: 1.2.3
+        type: ty
+        question: John’s Gospel, in relation to the other Gospels, is best described
+          as
+        choices:
+          A: indistinguishable from the others.
+          B: a reordering of the principal events mentioned in the others.
+          C: supplemental to the others, with much unique material.
+          D: the Pentecostal Gospel.
+        answer: C
+      - uid: MIN227.1.2.4.UPE.1
+        subobj: 1.2.4
+        type: upe
+        question: The central role of preaching in fulfilling the Great Commission
+        choices:
+          A: proves that Christ has entrusted His mandate only to the clergy.
+          B: reflects the needs of an illiterate society and no longer applies in
+            the Information Age.
+          C: is no longer in effect, since the death of the apostles.
+          D: is a call for all believers to personally share the gospel with the lost.
+        answer: D
+      - uid: MIN227.1.2.4.UPE.2
+        subobj: 1.2.4
+        type: upe
+        question: Both Mark and Luke emphasize what as the means of making disciples?
+        choices:
+          A: Baptism
+          B: Speaking in tongues
+          C: Prayer
+          D: Preaching
+        answer: D
+      - uid: MIN227.1.2.4.TY.1
+        subobj: 1.2.4
+        type: ty
+        question: The central role of preaching in fulfilling the Great Commission
+        choices:
+          A: proves that Christ has entrusted His mandate only to the clergy.
+          B: reflects the needs of an illiterate society and no longer applies in
+            the Information Age.
+          C: is no longer in effect, since the death of the apostles.
+          D: is a call for all believers to personally share the gospel with the lost.
+        answer: D
+      - uid: MIN227.2.1.1.TY.1
+        subobj: 2.1.1
+        type: ty
+        question: The Great Commission always includes the dual components of
+        choices:
+          A: evangelism and discipleship.
+          B: homiletics and exegesis.
+          C: identifying sin and calling for repentance.
+          D: the Golden Rule and turning the other cheek.
+        answer: A
+      - uid: MIN227.2.1.2.UPE.1
+        subobj: 2.1.2
+        type: upe
+        question: The believer’s role in personal evangelism is to
+        choices:
+          A: offer irrefutable logical arguments for the existence of God and the
+            deity of Jesus.
+          B: confront the lost with their sin.
+          C: clearly explain the gospel, allowing the Holy Spirit to convince the
+            lost.
+          D: assure the lost that God is love.
+        answer: C
+      - uid: MIN227.2.1.2.UPE.2
+        subobj: 2.1.2
+        type: upe
+        question: In order to see people make decisions for Christ, we should
+        choices:
+          A: push for a quick commitment.
+          B: convince them of their sinful condition.
+          C: cooperate with the Holy Spirit.
+          D: demonstrate to people the errors in their world view.
+        answer: C
+      - uid: MIN227.2.1.2.TY.1
+        subobj: 2.1.2
+        type: ty
+        question: Jesus used the Parable of the Sower to
+        choices:
+          A: illustrate four schools of thought in interpreting the Law.
+          B: promote productive farming practices in His agricultural society.
+          C: prove that God has preordained the eternal destiny of the elect and the
+            lost.
+          D: identify spiritual hindrances in people’s spiritual lives.
+        answer: D
+      - uid: MIN227.2.1.2.TY.2
+        subobj: 2.1.2
+        type: ty
+        question: The believer’s role in personal evangelism is to
+        choices:
+          A: offer irrefutable logical arguments for the existence of God and the
+            deity of Jesus.
+          B: confront the lost with their sin.
+          C: clearly explain the gospel, allowing the Holy Spirit to convince the
+            lost.
+          D: assure the lost that God is love.
+        answer: C
+      - uid: MIN227.2.1.3.UPE.1
+        subobj: 2.1.3
+        type: upe
+        question: The cycle of evangelism and discipleship is completed when
+        choices:
+          A: a person commits his or her life to Jesus.
+          B: disciples become evangelists.
+          C: a disciple is filled with the Holy Spirit.
+          D: a disciple is baptized.
+        answer: B
+      - uid: MIN227.2.1.3.TY.1
+        subobj: 2.1.3
+        type: ty
+        question: Studies have shown that most personal evangelism is carried out
+          by
+        choices:
+          A: seminary graduates.
+          B: believers who have been Christians for less than a year.
+          C: Christians who are 55 and older.
+          D: nondenominational charismatics.
+        answer: B
+      - uid: MIN227.2.1.4.UPE.1
+        subobj: 2.1.4
+        type: upe
+        question: The end objective of evangelism is
+        choices:
+          A: a salvation decision.
+          B: increased Sunday morning attendance.
+          C: a committed and faithful follower of Christ.
+          D: improved community relations.
+        answer: C
+      - uid: MIN227.2.1.4.UPE.2
+        subobj: 2.1.4
+        type: upe
+        question: The ultimate goal of fulfilling the Great Commission is to
+        choices:
+          A: eliminate poverty and illness and usher in the Millennium.
+          B: present every kind of person to God complete in Christ.
+          C: prove the inerrancy of Scripture beyond doubt.
+          D: prove the continuing validity of the Ten Commandments.
+        answer: B
+      - uid: MIN227.2.1.4.TY.1
+        subobj: 2.1.4
+        type: ty
+        question: The ultimate goal of fulfilling the Great Commission is to
+        choices:
+          A: eliminate poverty and illness and usher in the Millennium.
+          B: present every kind of person to God complete in Christ.
+          C: prove beyond doubt the inerrancy of Scripture.
+          D: prove the continuing validity of the Ten Commandments.
+        answer: B
+      - uid: MIN227.2.2.1.UPE.1
+        subobj: 2.2.1
+        type: upe
+        question: The Great Commission is an expression of
+        choices:
+          A: the totally inclusive nature of God’s love.
+          B: the exclusive nature of the gospel.
+          C: the fact that every person will eventually be accepted into God’s kingdom.
+          D: God’s anger against the Jewish people.
+        answer: A
+      - uid: MIN227.2.2.1.UPE.2
+        subobj: 2.2.1
+        type: upe
+        question: The concept of both in Acts 1:8 means that the disciples should
+        choices:
+          A: ensure that everyone believes in their own communities before expanding
+            to all the world.
+          B: prioritize one region over others.
+          C: contain their ministry to the Roman empire.
+          D: be witnesses to all of the areas mentioned without prioritizing.
+        answer: D
+      - uid: MIN227.2.2.1.TY.1
+        subobj: 2.2.1
+        type: ty
+        question: Jesus’ purpose in identifying geographical regions in the Great
+          Commission was to
+        choices:
+          A: distinguish specific callings to local pastors, evangelists, and missionaries.
+          B: parallel the spread of the gospel with the Old Testament Diaspora.
+          C: describe the equal importance of sharing the gospel in every part of
+            the world.
+          D: assign specific regions to specific disciples.
+        answer: C
+      - uid: MIN227.2.2.2.UPE.1
+        subobj: 2.2.2
+        type: upe
+        question: Targeting a homogenous group
+        choices:
+          A: is always a bad idea because it tends to be overly exclusive.
+          B: always leads to a homogenous church.
+          C: can help a church to become more heterogeneous.
+          D: is a sign of spiritual apathy in the church.
+        answer: C
+      - uid: MIN227.2.2.2.TY.1
+        subobj: 2.2.2
+        type: ty
+        question: The homogeneous principle is
+        choices:
+          A: an application of secular sociological research to church growth principles.
+          B: a subtle endorsement of same-sex marriage.
+          C: a tool for interpreting similar genres of literature identified in the
+            Bible.
+          D: proof that oil and water do not mix.
+        answer: A
+      - uid: MIN227.2.2.3.UPE.1
+        subobj: 2.2.3
+        type: upe
+        question: To say that the gospel is heterogeneous means that it
+        choices:
+          A: seeks to draw every kind of person from every part of the world into
+            fellowship with Christ.
+          B: is targeted at a specific people group.
+          C: supports the biblical understanding of marriage.
+          D: is centered around others.
+        answer: A
+      - uid: MIN227.2.2.3.TY.1
+        subobj: 2.2.3
+        type: ty
+        question: The hospital analogy of the church is used to
+        choices:
+          A: promote the central role of divine healing in applying the gospel.
+          B: prove that all sickness is a result of personal sin.
+          C: contrast the church with the pleasures of the world.
+          D: illustrate the church’s role in reaching out to all spiritually lost
+            people.
+        answer: D
+      - uid: MIN227.2.2.3.TY.2
+        subobj: 2.2.3
+        type: ty
+        question: The lawyer’s intent in asking Jesus to identify his neighbor was
+          to
+        choices:
+          A: identify those people the lawyer was not obligated to love.
+          B: more carefully define the respective classes of Jews and Gentiles.
+          C: prove that Jesus was breaking the Law.
+          D: see if Jesus was the Messiah.
+        answer: A
+      - uid: MIN227.2.2.4.TY.1
+        subobj: 2.2.4
+        type: ty
+        question: When considering the homogeneous principle in the light of personal
+          evangelism, the believer is to
+        choices:
+          A: recognize that it never applies to the Great Commission.
+          B: view it as an erroneous theory by liberal theologians.
+          C: apply it as the first step in church planting.
+          D: see it as a tool for connecting the gospel with specific types of people.
+        answer: D
+      - uid: MIN227.3.1.1.UPE.1
+        subobj: 3.1.1
+        type: upe
+        question: In the account of the Great Commission in all four Gospels, Jesus
+        choices:
+          A: told His disciples what their mission was, but did not tell them how
+            it would be accomplished.
+          B: instructed His disciples on the nature of their mission as well as how
+            and why it would be carried out.
+          C: centered on the role of the Holy Spirit in fulfilling the commission.
+          D: included discussion of end time events.
+        answer: B
+      - uid: MIN227.3.1.2.UPE.1
+        subobj: 3.1.2
+        type: upe
+        question: Jesus’ disciples were able to undertake the task of making disciples
+          of all nations because
+        choices:
+          A: their education and training in public speaking uniquely qualified them.
+          B: based on His divine authority they were extensions of Jesus’ mission
+            to this world.
+          C: of the Roman roads system which allowed for convenient travel throughout
+            the empire.
+          D: a common language was spoken throughout the region.
+        answer: B
+      - uid: MIN227.3.1.3.UPE.1
+        subobj: 3.1.3
+        type: upe
+        question: Which three truths outline the spiritual state of humanity?
+        choices:
+          A: All humanity is lost, facing eternal consequences, with Jesus Christ
+            as the only hope.
+          B: All people are created equal, invited to live good lives, and promised
+            eventual salvation.
+          C: Humans are comprised of spirit, soul, and body.
+          D: The elect are born to be saved, and the lost are born to be damned; only
+            God knows who is who.
+        answer: A
+      - uid: MIN227.3.2.1.UPE.1
+        subobj: 3.2.1
+        type: upe
+        question: Concerning His returning to the Father, Jesus told His disciples
+          that
+        choices:
+          A: He would prefer to stay with them, but His time on earth was limited.
+          B: it was to their advantage that He go away, because He would send the
+            Holy Spirit to them.
+          C: He would return periodically to assess their progress.
+          D: He would accomplish the Great Commission without their help.
+        answer: B
+      - uid: MIN227.3.2.2.UPE.1
+        subobj: 3.2.2
+        type: upe
+        question: The difference between the Spirit’s relationship to believers in
+          the Old and New Testaments is that
+        choices:
+          A: God did not speak to people by His Holy Spirit in the Old Testament.
+          B: the Holy Spirit is not mentioned until the coming of Christ.
+          C: in the Old Testament the Spirit came on select individuals, but in the
+            New Testament the Holy Spirit comes to be in God’s people.
+          D: only priests could be filled with the Holy Spirit in the Old Testament,
+            but the Spirit is available to all believers in the New Testament.
+        answer: C
+      - uid: MIN227.3.2.2.UPE.2
+        subobj: 3.2.2
+        type: upe
+        question: When describing the Holy Spirit, Jesus emphasized the
+        choices:
+          A: Spirit’s convicting activity and the danger of offending Him.
+          B: permanence and intimate nature of the Spirit’s presence in the believer’s
+            life.
+          C: Old Testament symbols of fire and wind.
+          D: need to pray in tongues.
+        answer: B
+      - uid: MIN227.3.2.3.UPE.1
+        subobj: 3.2.3
+        type: upe
+        question: The gospels of John and Luke
+        choices:
+          A: establish a direct connection between the Holy Spirit’s empowerment and
+            the mission of the disciples.
+          B: were written about the same time.
+          C: do not include a version of the Great Commission.
+          D: minimize the role of the Holy Spirit in the Great Commission.
+        answer: A
+      - uid: MIN227.3.2.4.UPE.1
+        subobj: 3.2.4
+        type: upe
+        question: The fact that the Israelites were given manna to feed them in the
+          wilderness illustrates
+        choices:
+          A: that God will give the Holy Spirit only to those who are without sin.
+          B: that God will miraculously provide the bread of His Word to all the nations
+            without the involvement of the church.
+          C: the sinfulness of the wilderness generation.
+          D: the need to continually be filled with the Holy Spirit.
+        answer: D
+      - uid: MIN227.4.1.1.TY.1
+        subobj: 4.1.1
+        type: ty
+        question: A shared theme of the parables found in the Synoptic Gospels is
+          their
+        choices:
+          A: focus on harvest analogies.
+          B: emphasis on the cost of discipleship.
+          C: use of Aramaic.
+          D: reliance on symbolic numbers.
+        answer: A
+      - uid: MIN227.4.1.4.UPE.1
+        subobj: 4.1.4
+        type: upe
+        question: During His ministry, Jesus shifted His parables from
+        choices:
+          A: agricultural symbols to monetary principles.
+          B: easily understood concepts to more obscure truths that He explained to
+            the disciples.
+          C: a Hebrew to Greek worldview.
+          D: straight-forward symbolism to numerology.
+        answer: B
+      - uid: MIN227.4.1.4.UPE.2
+        subobj: 4.1.4
+        type: upe
+        question: What two themes emerge from the parables following the Parable of
+          the Sower in the Synoptic Gospels?
+        choices:
+          A: The Jews will return to the Promised Land, and the Antichrist will be
+            revealed.
+          B: The sheep will be separated from the goats and the tares from the wheat.
+          C: Wise virgins will save their oil, and wise wedding guests will be properly
+            attired.
+          D: Every person’s choice to belong to God’s kingdom or Satan’s; and the
+            ultimate, eternal triumph of God’s kingdom.
+        answer: D
+      - uid: MIN227.4.1.4.TY.1
+        subobj: 4.1.4
+        type: ty
+        question: Jesus’ common use of two contrasting elements in His parables was
+          intended to
+        choices:
+          A: illustrate the dual nature of all reality in the universe.
+          B: challenge His hearers to apply one element.
+          C: dumb down spiritual truth for people who could not visualize additional
+            concepts.
+          D: avoid a blasphemous use of the Trinitarian number three .
+        answer: B
+      - uid: MIN227.4.2.1.UPE.1
+        subobj: 4.2.1
+        type: upe
+        question: The Parable of the Sower
+        choices:
+          A: 'presents two contrasting pairs: productive and unproductive soil.'
+          B: is impossible for modern interpreters to understand.
+          C: was the first parable that Jesus ever told.
+          D: represents Jesus’ death and resurrection.
+        answer: A
+      - uid: MIN227.4.2.1.TY.1
+        subobj: 4.2.1
+        type: ty
+        question: The contrasting pair in the Parable of the Sower is found in the
+        choices:
+          A: implied reference to the sheep and the goats of the Last Judgment.
+          B: dead and living seed.
+          C: unproductive and productive soils.
+          D: people who live by the Law and those who accept God’s grace.
+        answer: C
+      - uid: MIN227.4.2.2.UPE.1
+        subobj: 4.2.2
+        type: upe
+        question: In the Parable of the Sower, the thorny ground emphasizes the need
+          for
+        choices:
+          A: medical missions.
+          B: prayer and fasting.
+          C: sowing the right kind of seed.
+          D: the continued discipling process.
+        answer: D
+      - uid: MIN227.4.2.2.UPE.2
+        subobj: 4.2.2
+        type: upe
+        question: Today’s affluent and materialistic society is represented by what
+          in the Parable of the Sower?
+        choices:
+          A: Sand
+          B: Stony ground
+          C: Shallow ground
+          D: Thorny ground
+        answer: D
+      - uid: MIN227.4.2.2.TY.1
+        subobj: 4.2.2
+        type: ty
+        question: Both the shallow and thorny ground point to the possibility of
+        choices:
+          A: being transformed by the gospel, then later rejecting it.
+          B: only pretending to accept the truth of the gospel.
+          C: falling into pseudo-Christian heresies.
+          D: the elect being the only ones who can understand the gospel.
+        answer: A
+      - uid: MIN227.4.2.3.TY.1
+        subobj: 4.2.3
+        type: ty
+        question: Jesus’ concluding description of the abundant harvest
+        choices:
+          A: depicts results far above the ordinary, and points to the miraculous
+            result of the sowing.
+          B: has a practical application in modern farming technology and the use
+            of fertilizers.
+          C: heralded His later miracle of feeding the 5,000.
+          D: made the crowd angry and ready to stone Him for sowing on the Sabbath.
+        answer: A
+      - uid: MIN227.4.2.4.TY.1
+        subobj: 4.2.4
+        type: ty
+        question: Jesus’ private explanation of His parables to the disciples was
+          intended to
+        choices:
+          A: ensure the damnation of all who could not understand Him.
+          B: keep the Pharisees and Sadducees from arresting Him before His time.
+          C: avoid a premature declaration of His kingdom on earth.
+          D: make sure that their receptive hearts received the right interpretation.
+        answer: D
+      - uid: MIN227.4.3.1.UPE.1
+        subobj: 4.3.1
+        type: upe
+        question: Jesus told the Parable of the Sower to His disciples
+        choices:
+          A: to teach them about the inadequacy of the Old Testament law.
+          B: because He understood the hardships the disciples would face in spreading
+            the gospel.
+          C: to illustrate the hypocrisy of the Pharisees.
+          D: because He was concerned that they would be caught up with the cares
+            of the world.
+        answer: B
+      - uid: MIN227.4.3.1.UPE.2
+        subobj: 4.3.1
+        type: upe
+        question: The focus in the Parable of the Sower is the
+        choices:
+          A: sower.
+          B: abundant harvest.
+          C: unproductive soils.
+          D: proof of predestination.
+        answer: A
+      - uid: MIN227.4.3.2.TY.1
+        subobj: 4.3.2
+        type: ty
+        question: God’s Word promises that when sowing is done in obedience to God’s
+          command,
+        choices:
+          A: the obedient sower has preserved his own life by rescuing the lost.
+          B: harvest is certain.
+          C: the gifts of the Spirit come into evidence.
+          D: gleaners will be blessed with the leftovers.
+        answer: B
+      - uid: MIN227.4.3.4.TY.1
+        subobj: 4.3.4
+        type: ty
+        question: The various harvesting parables call for discipleship as well as
+          evangelism,
+        choices:
+          A: as evidenced by the crops Jesus referenced and their metaphorical meanings.
+          B: because the true harvest is one that lasts until the end, despite opposing
+            forces.
+          C: because all parables have multiple applications.
+          D: since Jesus began His ministry by calling fishers of men.
+        answer: B
+      - uid: MIN227.4.4.1.TY.1
+        subobj: 4.4.1
+        type: ty
+        question: Jesus used which three metaphors to describe His followers?
+        choices:
+          A: Body, soul, and spirit
+          B: Water, bread, and new wine
+          C: Salt, light, and branches on a vine
+          D: Passover, Pentecost, and the Feast of Trumpets
+        answer: C
+      - uid: MIN227.4.4.2.UPE.1
+        subobj: 4.4.2
+        type: upe
+        question: Jesus used salt as an example, indicating that His disciples should
+          be
+        choices:
+          A: a moral preservative and stimulate a desire for God and a hunger for
+            truth and righteousness.
+          B: an agent of change in their communities, a force for justice, and a healing
+            salve to the hurting.
+          C: crossing the seas to evangelize the nations.
+          D: valued by their communities, as salt was a valuable commodity.
+        answer: A
+      - uid: MIN227.4.4.2.UPE.2
+        subobj: 4.4.2
+        type: upe
+        question: Believers are the light of the world because
+        choices:
+          A: they reveal the true nature of things through God’s truth, and they guide
+            others.
+          B: their prayers travel to God’s throne at the speed of light.
+          C: they act as a mirror for the souls of men.
+          D: there is a natural spark of divinity within each of us.
+        answer: A
+      - uid: MIN227.4.4.3.TY.1
+        subobj: 4.4.3
+        type: ty
+        question: The key difference in the analogy of the branches and vine from
+          the salt and light metaphor is
+        choices:
+          A: its use of a living substance.
+          B: its connection to the new wine of the Spirit.
+          C: the warning of possible ineffectiveness and being cut off.
+          D: its focus on Christ’s empowering role in believers’ activities.
+        answer: D
+      - uid: MIN227.5.1.1.UPE.1
+        subobj: 5.1.1
+        type: upe
+        question: The most complete recorded account of an encounter Jesus had with
+          a nonbeliever is Jesus’ conversation with
+        choices:
+          A: Nicodemus.
+          B: the widow at Nain.
+          C: Andrew.
+          D: the Samaritan woman.
+        answer: D
+      - uid: MIN227.5.1.2.UPE.1
+        subobj: 5.1.2
+        type: upe
+        question: The circumstance by which Jesus had opportunity to speak with the
+          Samaritan woman reminds all believers to
+        choices:
+          A: strategically plan opportunities to be in the presence of non-believers.
+          B: be ready to seize the moment for witnessing, when God ordains it.
+          C: be prepared to discuss the inadequacy of false religion.
+          D: seek out the most sinful member in order to reach a community for Christ.
+        answer: B
+      - uid: MIN227.5.1.2.TY.1
+        subobj: 5.1.2
+        type: ty
+        question: Most opportunities for personal evangelism occur
+        choices:
+          A: during ordinary activities of life.
+          B: as a result of preplanned outreaches.
+          C: in the Sunday school classroom.
+          D: on Christmas and Easter Sunday.
+        answer: A
+      - uid: MIN227.5.1.2.TY.2
+        subobj: 5.1.2
+        type: ty
+        question: Believers can be confident in the effective nature of unplanned
+          witnessing opportunities,
+        choices:
+          A: as long as they are witnessing in a group environment.
+          B: if they have memorized the Roman Road.
+          C: because God has predestined certain people to be saved.
+          D: when they recognize the work of the Holy Spirit in lives and circumstances.
+        answer: D
+      - uid: MIN227.5.1.3.UPE.1
+        subobj: 5.1.3
+        type: upe
+        question: A social barrier that was not represented at the meeting between
+          Jesus and the Samaritan woman was a
+        choices:
+          A: racial barrier.
+          B: language barrier.
+          C: gender barrier.
+          D: religious barrier.
+        answer: B
+      - uid: MIN227.5.1.4.TY.1
+        subobj: 5.1.4
+        type: ty
+        question: Jesus’ offer of living water to the Samaritan woman revealed
+        choices:
+          A: His perception of her spiritual hunger, despite her seeming indifference.
+          B: that He saw through her questions and was putting her in her place.
+          C: Jesus’ commitment to speak in symbols.
+          D: the woman’s identity as an adulterer.
+        answer: A
+      - uid: MIN227.5.2.1.TY.1
+        subobj: 5.2.1
+        type: ty
+        question: It is common for people to misunderstand personal evangelism as
+          a
+        choices:
+          A: sacrament to be observed along with baptism and communion.
+          B: task to be carried out in order to earn salvation.
+          C: means of condemning the lost by exposing them to knowledge of the truth.
+          D: series of arguments to be won.
+        answer: D
+      - uid: MIN227.5.2.2.UPE.1
+        subobj: 5.2.2
+        type: upe
+        question: Usually, the most effective means of witness is
+        choices:
+          A: passing out gospel tracts.
+          B: a predetermined evangelistic routine.
+          C: condemning nonbelievers of their sinfulness.
+          D: a personalized message that responds to the interest and needs of a nonbeliever.
+        answer: D
+      - uid: MIN227.5.2.2.UPE.2
+        subobj: 5.2.2
+        type: upe
+        question: Effective communication requires
+        choices:
+          A: listening more than speaking.
+          B: speaking with appropriate facial expressions.
+          C: body language and vocal emphasis.
+          D: a thorough knowledge of current events.
+        answer: A
+      - uid: MIN227.5.2.2.TY.1
+        subobj: 5.2.2
+        type: ty
+        question: To engage a nonbeliever in meaningful conversation with evangelistic
+          potential, one must
+        choices:
+          A: be prepared to quote the relevant Scripture passages.
+          B: fast at least a week.
+          C: first find a subject that genuinely interests the other person.
+          D: wait until a relationship has been established.
+        answer: C
+      - uid: MIN227.5.2.3.TY.1
+        subobj: 5.2.3
+        type: ty
+        question: The key to connecting spiritual truths to everyday subjects
+        choices:
+          A: is to have several tracts to hand out.
+          B: involves tongues and interpretation.
+          C: depends on how clearly the witnesser reads the relevant biblical texts.
+          D: is to use vocabulary familiar to the listener.
+        answer: D
+      - uid: MIN227.5.2.4.TY.1
+        subobj: 5.2.4
+        type: ty
+        question: It is important not to neglect the subject of sin, even in relational
+          evangelism, because
+        choices:
+          A: unflinching condemnation will draw people to Christ.
+          B: the myth of sin needs to be exposed, and people need to be assured of
+            God’s love.
+          C: an understanding of sin is needed in order to pursue forgiveness and
+            salvation.
+          D: the example of the believer’s victorious spiritual life will draw the
+            lost to God.
+        answer: C
+      - uid: MIN227.5.3.1.TY.1
+        subobj: 5.3.1
+        type: ty
+        question: The subject of religion during a personal witnessing presentation
+        choices:
+          A: is the first step toward getting people to explore the gospel.
+          B: works best just before a person prays the sinner’s prayer.
+          C: most often results in divisive questions that distract from the real
+            message.
+          D: is a good idea, as long as the religion discussed is in contrast to Christianity.
+        answer: C
+      - uid: MIN227.5.3.2.UPE.1
+        subobj: 5.3.2
+        type: upe
+        question: When witnessing, the believer should
+        choices:
+          A: focus on a personal approach that emphasizes relationship with Jesus.
+          B: emphasize propositional statements about the nature of God.
+          C: persuade unbelievers about the social advantage of being a part of a
+            church.
+          D: try to avoid the subject of sin altogether.
+        answer: A
+      - uid: MIN227.5.3.2.UPE.2
+        subobj: 5.3.2
+        type: upe
+        question: To worship God in spirit is best explained as
+        choices:
+          A: speaking in tongues.
+          B: meditating during personal devotions.
+          C: worship expressions that communicate directly with God.
+          D: observing the sacrament of communion.
+        answer: C
+      - uid: MIN227.5.3.2.UPE.3
+        subobj: 5.3.2
+        type: upe
+        question: To worship God in truth is best explained as
+        choices:
+          A: memorizing and quoting the truth of God’s Word.
+          B: demonstrating one’s relationship with God through a righteous lifestyle.
+          C: exercising the gift of knowledge.
+          D: the moment of salvation when Jesus, who is Truth, is accepted as Lord.
+        answer: B
+      - uid: MIN227.5.3.3.TY.1
+        subobj: 5.3.3
+        type: ty
+        question: When considering the relationship between God and lost people,
+        choices:
+          A: God takes the initiative in making the relationship possible.
+          B: the lost person takes the initiative, because God gives free will.
+          C: remember that God only reaches out to the lost who are the elect.
+          D: one can be encouraged, because all the lost will eventually be saved.
+        answer: A
+      - uid: MIN227.5.3.4.TY.1
+        subobj: 5.3.4
+        type: ty
+        question: The central message of the gospel is the
+        choices:
+          A: lost condition of humankind.
+          B: person of Jesus Christ.
+          C: special role of the Jews in salvation history.
+          D: prophecies of Daniel.
+        answer: B
+      - uid: MIN227.6.1.1.TY.1
+        subobj: 6.1.1
+        type: ty
+        question: Jesus described His imminent departure from the disciples as
+        choices:
+          A: a blessing to them, because He would send the Holy Spirit to help them.
+          B: the sign of the end of the old covenant and the beginning of the new.
+          C: a parable involving five foolish and five wise bridesmaids.
+          D: their ultimate test of faith in the face of persecution.
+        answer: A
+      - uid: MIN227.6.1.2.UPE.1
+        subobj: 6.1.2
+        type: upe
+        question: When the disciples asked Jesus if He was about to restore His kingdom
+          in Israel, Jesus replied by
+        choices:
+          A: redirecting their attention to the Great Whore of Babylon.
+          B: rebuking them for asking for signs and wonders.
+          C: shifting their focus from the End Times to their need to be filled with
+            the Spirit.
+          D: predicting the fall of Jerusalem and warnings of earthquakes and wars.
+        answer: C
+      - uid: MIN227.6.1.3.UPE.1
+        subobj: 6.1.3
+        type: upe
+        question: Jesus used much of His final hours before the Crucifixion with the
+          disciples to
+        choices:
+          A: remind them of His parables and the meanings He had shared with them.
+          B: rebuke them for constantly seeking high positions in His kingdom.
+          C: teach in detail about the promised Holy Spirit’s empowerment.
+          D: warn them of the leaven of the Pharisees.
+        answer: C
+      - uid: MIN227.6.1.3.TY.1
+        subobj: 6.1.3
+        type: ty
+        question: The Holy Spirit is best described as
+        choices:
+          A: the third person in the Trinity whose actions are scripturally connected
+            to personhood.
+          B: an infinitely divisible flame that distributes tongues of fire among
+            believers.
+          C: a completely intangible force best described as the Holy Ghost.
+          D: a dove.
+        answer: A
+      - uid: MIN227.6.1.4.TY.1
+        subobj: 6.1.4
+        type: ty
+        question: The Holy Spirit’s ministry among believers is characterized by
+        choices:
+          A: a rushing mighty wind and tongues of fire.
+          B: His permanence with them, and His presence within them.
+          C: a still, small voice that directs the believer day to day.
+          D: signs and wonders.
+        answer: B
+      - uid: MIN227.6.2.1.UPE.1
+        subobj: 6.2.1
+        type: upe
+        question: The promise of power in Acts 1:8
+        choices:
+          A: indicates that great miracles should always accompany the presentation
+            of the gospel.
+          B: refers primarily to the gift of healing.
+          C: means that the Spirit will supply what we need to accomplish the work
+            God has assigned us.
+          D: referred to the power with which Jesus will reign during the millennium.
+        answer: C
+      - uid: MIN227.6.2.1.TY.1
+        subobj: 6.2.1
+        type: ty
+        question: The word translated “power” in Acts 1:8 ( dunamis ) is best understood
+        choices:
+          A: in the context of miracles and special revelations given to the apostles.
+          B: broadly to include whatever level of ability the believer needs to obey
+            God.
+          C: as the overwhelming urge to preach the gospel.
+          D: as the rushing mighty wind heard by the 120 in the Upper Room.
+        answer: B
+      - uid: MIN227.6.2.1.TY.2
+        subobj: 6.2.1
+        type: ty
+        question: In contrast with other world religions, Christianity deals with
+          human desires by
+        choices:
+          A: making it clear that only the power of God can positively change those
+            desires.
+          B: recognizing that all human desire is under Satan’s total control.
+          C: contrasting human desire with animal desire.
+          D: denying the reality of human desire.
+        answer: A
+      - uid: MIN227.6.2.2.UPE.1
+        subobj: 6.2.2
+        type: upe
+        question: Human desires can be changed
+        choices:
+          A: by a disciplined and focused lifestyle.
+          B: only by the power of God.
+          C: in a group of supporting believers.
+          D: only at the Second Coming.
+        answer: B
+      - uid: MIN227.6.2.3.UPE.1
+        subobj: 6.2.3
+        type: upe
+        question: In the Gospels, Jesus
+        choices:
+          A: encourages His followers to seek after signs and wonders.
+          B: warned His followers not to be deceived by signs and wonders.
+          C: did not perform signs or wonders.
+          D: taught that signs and wonders were only for a limited period of time.
+        answer: B
+      - uid: MIN227.6.2.3.TY.1
+        subobj: 6.2.3
+        type: ty
+        question: When describing the evidence of a believer’s walk of faith, Jesus
+          referred to
+        choices:
+          A: signs and wonders performed in that believer’s ministry.
+          B: the believer’s love for others in the body of Christ.
+          C: His parable of the Good Samaritan.
+          D: the seven vials of judgment in Revelation.
+        answer: B
+      - uid: MIN227.6.2.4.TY.1
+        subobj: 6.2.4
+        type: ty
+        question: The Holy Spirit baptism was given to believers for the specific
+          purpose of
+        choices:
+          A: encouraging them in their walk of faith.
+          B: convincing them of Christ’s resurrection.
+          C: empowering them to share the gospel with the lost.
+          D: empowering them to perform signs and wonders.
+        answer: C
+      - uid: MIN227.6.3.1.TY.1
+        subobj: 6.3.1
+        type: ty
+        question: The one requirement in a person’s life in order to receive the Holy
+          Spirit baptism is to
+        choices:
+          A: belong to a Pentecostal fellowship or denomination.
+          B: live by the Ten Commandments and the Sermon on the Mount.
+          C: accept Jesus Christ as personal Savior.
+          D: renounce all attachment to the world and its wealth.
+        answer: C
+      - uid: MIN227.6.3.3.UPE.1
+        subobj: 6.3.3
+        type: upe
+        question: When the believer speaks in tongues, it is a sign that
+        choices:
+          A: the Holy Spirit has taken complete control of the believer.
+          B: the Holy Spirit has enabled the believer with a gift that is being experienced.
+          C: he or she has achieved a higher plane of spiritual existence.
+          D: the Holy Spirit has endowed a lifelong infilling in that believer.
+        answer: B
+      - uid: MIN227.6.3.3.TY.1
+        subobj: 6.3.3
+        type: ty
+        question: The four purposes of speaking in tongues are
+        choices:
+          A: confirmation, adoration, edification, and intercession.
+          B: prophecy, interpretation, word of wisdom, and word of knowledge.
+          C: love, joy, peace, and longsuffering.
+          D: foreign evangelism, ethnic outreach at home, confrontation with the lost,
+            and sanctification.
+        answer: A
+      - uid: MIN227.6.3.4.UPE.1
+        subobj: 6.3.4
+        type: upe
+        question: When people are seeking Spirit baptism,
+        choices:
+          A: instruct them to beware of a false experience.
+          B: it is best not to become involved.
+          C: encourage them not to worry that they will have a false experience.
+          D: tell them they are not truly saved until they are filled with the Spirit.
+        answer: C
+      - uid: MIN227.6.3.4.UPE.2
+        subobj: 6.3.4
+        type: upe
+        question: After a person has been filled with the Holy Spirit, he or she
+        choices:
+          A: can be content with a one time experience.
+          B: should continue to seek a fresh infilling.
+          C: no longer needs to study languages for missions work.
+          D: should enter full time vocational ministry.
+        answer: B
+      - uid: MIN227.6.3.4.TY.1
+        subobj: 6.3.4
+        type: ty
+        question: When seeking the Holy Spirit baptism, believers can confidently
+          receive it because
+        choices:
+          A: it is automatically bestowed within a week of one’s salvation experience.
+          B: anything the believer claims in Jesus’ name is guaranteed.
+          C: Jesus promised it as a gift of His loving heavenly Father.
+          D: all Christians will receive the Holy Spirit baptism before Jesus returns.
+        answer: C
+      - uid: MIN227.7.1.1.TY.1
+        subobj: 7.1.1
+        type: ty
+        question: In Peter’s five proclamations in the book of Acts, the apostle focuses
+          on the two themes of
+        choices:
+          A: who Jesus is and why He gave His life.
+          B: the promise of the Holy Spirit and its fulfillment in the lives of believers.
+          C: the reward of the righteous and the punishment of the wicked.
+          D: the gospel as expressed to the Jews and as expressed to the Gentiles.
+        answer: A
+      - uid: MIN227.7.1.4.UPE.1
+        subobj: 7.1.4
+        type: upe
+        question: When witnessing to nonbelievers with no Christian background, it
+          is best to focus on
+        choices:
+          A: who Jesus was, in a historical context.
+          B: who Jesus is, the living and resurrected Christ.
+          C: separating the facts of Jesus’ life from the myths that were later attached
+            by the Gospel writers.
+          D: yourself, and the successful life you live as a result of your faith.
+        answer: A
+      - uid: MIN227.7.1.4.UPE.2
+        subobj: 7.1.4
+        type: upe
+        question: Who was/were ultimately responsible for the death of Jesus?
+        choices:
+          A: The Jews
+          B: The Romans
+          C: Jesus
+          D: Pilate
+        answer: C
+      - uid: MIN227.7.1.4.TY.1
+        subobj: 7.1.4
+        type: ty
+        question: A full proclamation of Jesus’ identity often includes
+        choices:
+          A: an explanation of who Jesus is not.
+          B: messages of tongues and interpretation to endorse the message.
+          C: quotations from the Sermon on the Mount.
+          D: the connection of the New Testament name Jesus with the Old Testament
+            name Joshua.
+        answer: A
+      - uid: MIN227.7.1.4.TY.2
+        subobj: 7.1.4
+        type: ty
+        question: The Scriptures make it clear that the believer’s faith is useless
+          unless
+        choices:
+          A: the believer also obeys the Ten Commandments.
+          B: he or she speaks in tongues.
+          C: he or she serves on the foreign mission field for at least a year.
+          D: Jesus Christ died and rose again.
+        answer: D
+      - uid: MIN227.7.1.4.TY.3
+        subobj: 7.1.4
+        type: ty
+        question: The Romans and the Jews, for their part in Jesus’ crucifixion, are
+          best understood as
+        choices:
+          A: primarily responsible for Jesus’ death but forgiven.
+          B: primarily responsible for Jesus’ death and guilty through the generations.
+          C: obedient servants of God the Father in carrying out His plan for His
+            Son.
+          D: representative of all sinful people for whom Jesus gave His life.
+        answer: D
+      - uid: MIN227.7.1.4.TY.4
+        subobj: 7.1.4
+        type: ty
+        question: John the Baptist said that Jesus came to “take away the sin of the
+          world.” Therefore,
+        choices:
+          A: everyone will eventually be saved for eternity.
+          B: no one is any longer guilty of sin.
+          C: anyone, regardless of background or sins committed, can accept God’s
+            forgiveness.
+          D: there has been an eternal, uncrossable line drawn between the elect and
+            the lost.
+        answer: C
+      - uid: MIN227.7.2.1.UPE.1
+        subobj: 7.2.1
+        type: upe
+        question: The Gospel of Mark is
+        choices:
+          A: a poor starting place for new converts because it is especially complex.
+          B: the last Gospel to be written.
+          C: an excellent starting place for new converts because of its brevity and
+            clarity.
+          D: the longest of the Gospels.
+        answer: C
+      - uid: MIN227.7.2.2.TY.1
+        subobj: 7.2.2
+        type: ty
+        question: The Gospel of Mark is distinguished from the other three in that
+          it is
+        choices:
+          A: the simplest, shortest, and most direct record of Jesus’ life.
+          B: written in Greek.
+          C: dated last in composition.
+          D: best understood by mature believers who have studied the other three
+            Gospels.
+        answer: A
+      - uid: MIN227.7.2.2.TY.2
+        subobj: 7.2.2
+        type: ty
+        question: Mark wrote his Gospel during a time when Christians
+        choices:
+          A: had become prosperous and were compromising their faith.
+          B: were following heretical teachings about Jesus.
+          C: were being severely persecuted and needed encouragement.
+          D: had split into two churches and elected two popes.
+        answer: C
+      - uid: MIN227.7.2.3.TY.1
+        subobj: 7.2.3
+        type: ty
+        question: The structure of the Gospel of Mark is best described as
+        choices:
+          A: a biography of Jesus’ life used as a model by many secular historians.
+          B: a sermon in written form ideally suited for presenting Christ to nonbelievers.
+          C: a parable that connects Jesus’ divine identity with the symbols He used
+            in His teaching.
+          D: iambic pentameter.
+        answer: B
+      - uid: MIN227.7.2.3.TY.2
+        subobj: 7.2.3
+        type: ty
+        question: The early chapters of Mark portray who Jesus is by
+        choices:
+          A: connecting Jesus’ birth with Old Testament prophecy.
+          B: recounting Jesus’ miracles and confronting the reader to make a personal
+            choice.
+          C: examining Jesus’ teaching from the Sermon on the Mount.
+          D: relating Mark’s life and interaction with Jesus as a disciple.
+        answer: B
+      - uid: MIN227.7.2.3.TY.3
+        subobj: 7.2.3
+        type: ty
+        question: When Mark considers why Jesus gave His life, he uses
+        choices:
+          A: allegory and extensive metaphor.
+          B: cross-references from Paul’s early writings.
+          C: extensive details of Jesus’ last week on earth and Jesus’ own statements.
+          D: Stephen’s promise to Mary that a sword would pierce her heart.
+        answer: C
+      - uid: MIN227.8.1.1.TY.1
+        subobj: 8.1.1
+        type: ty
+        question: Both Peter and Paul emphasized which three components of effective
+          evangelism?
+        choices:
+          A: What the believer says, how the believer says it, and whether the believer
+            lives accordingly
+          B: The speaker, the listener, and the message
+          C: God, the speaker, and the message
+          D: Pentecostal baptism, the fruit of the Spirit, and the gifts of the Spirit
+        answer: A
+      - uid: MIN227.8.1.2.TY.1
+        subobj: 8.1.2
+        type: ty
+        question: Lifestyle evangelism is
+        choices:
+          A: a subtle deviation from the Great Commission and a satanic tool to keep
+            Christians silent.
+          B: a necessary, but not exclusive, focus on developing friendships with
+            nonbelievers and living consistent Christian lives.
+          C: the outgrowth of the “What Would Jesus Do?” movement.
+          D: ministry to people addicted to immoral lifestyles.
+        answer: B
+      - uid: MIN227.8.1.3.UPE.1
+        subobj: 8.1.3
+        type: upe
+        question: What is the most important validation of our witness?
+        choices:
+          A: Membership in a credible organization
+          B: Our degree of social acceptance
+          C: The quality of the seed.
+          D: The credibility of our lives.
+        answer: D
+      - uid: MIN227.8.1.3.TY.1
+        subobj: 8.1.3
+        type: ty
+        question: What three factors communicate our message as much as our words?
+        choices:
+          A: Appearance, personal hygiene, level of alertness
+          B: Clarity of speech, knowledge of vocabulary, grammatical skill
+          C: Emotions, attitudes, actions
+          D: General knowledge, acquired education, personal experience
+        answer: C
+      - uid: MIN227.8.1.4.TY.1
+        subobj: 8.1.4
+        type: ty
+        question: The Holy Spirit is effective in the believer’s witness by
+        choices:
+          A: empowering the choice of words, the manner in which words are used, and
+            the life that backs them up.
+          B: preserving the believer from all illness and poverty.
+          C: giving the believer knowledge of every unbeliever’s need.
+          D: signs and wonders.
+        answer: A
+      - uid: MIN227.8.2.1.UPE.1
+        subobj: 8.2.1
+        type: upe
+        question: Those who intend to specialize in evangelizing a specific niche
+          group of people must remember that
+        choices:
+          A: believers are called to share the gospel far and wide.
+          B: the tactic is ineffective unless age, gender, and ethnicity are given
+            equal weight.
+          C: Jesus’ practice of ministering predominantly to Gentiles must not be
+            violated.
+          D: specialization precludes the role of the Holy Spirit.
+        answer: A
+      - uid: MIN227.8.2.1.TY.1
+        subobj: 8.2.1
+        type: ty
+        question: When cautioning the Corinthians regarding their focus on human ministers,
+          Paul
+        choices:
+          A: warned that they had left their first love.
+          B: reminded them that God is the Source of all spiritual growth.
+          C: recommended that they elect Apollos as their bishop.
+          D: condemned the practice outright.
+        answer: B
+      - uid: MIN227.8.2.2.TY.1
+        subobj: 8.2.2
+        type: ty
+        question: The believer’s central task in personal evangelism is to
+        choices:
+          A: present the arguments for Christ’s divinity in irrefutable terms.
+          B: confront unbelievers with the despicable nature of their personal sin.
+          C: quote from memory the pertinent biblical references to salvation.
+          D: obey God’s leading in sharing and nurturing the Word at every opportunity.
+        answer: D
+      - uid: MIN227.8.2.4.UPE.1
+        subobj: 8.2.4
+        type: upe
+        question: Regeneration, sanctification, transformation, and multiplication
+          are all aspects of the power of the
+        choices:
+          A: fruit of the Spirit.
+          B: Word of God.
+          C: effective evangelist.
+          D: local church.
+        answer: B
+      - uid: MIN227.8.2.4.TY.1
+        subobj: 8.2.4
+        type: ty
+        question: God’s Word exercises what four types of power?
+        choices:
+          A: Law, prophetic record, wisdom literature, the Gospels
+          B: General influence, specific guidance, special revelation, correction
+          C: Regeneration, sanctification, transformation, multiplication
+          D: Conviction, condemnation, pronouncement of judgment, damnation
+        answer: C
+      - uid: MIN227.8.3.1.UPE.1
+        subobj: 8.3.1
+        type: upe
+        question: Two aspects of the method of Paul’s preaching are
+        choices:
+          A: encouraging and persuading.
+          B: warning and teaching.
+          C: exposition and application.
+          D: condemnation and enlightenment.
+        answer: B
+      - uid: MIN227.8.3.1.TY.1
+        subobj: 8.3.1
+        type: ty
+        question: The three components of Paul’s mission were his
+        choices:
+          A: knowledge of the Law, acceptance of grace, and reliance on the Spirit.
+          B: Jewish heritage, Gentile familiarity, and Roman citizenship.
+          C: message, method, and means.
+          D: Damascus road encounter, temporary blindness, and multiple persecutions.
+        answer: C
+      - uid: MIN227.8.3.2.TY.1
+        subobj: 8.3.2
+        type: ty
+        question: What two factors are vital in personal witnessing?
+        choices:
+          A: Dependence and discipline
+          B: Salvation and sanctification
+          C: Speaking in tongues and interpreting tongues
+          D: Personal charisma and biblical education
+        answer: A
+      - uid: MIN227.8.3.3.UPE.1
+        subobj: 8.3.3
+        type: upe
+        question: Understanding what in evangelism is essential to having the faith
+          to be witnesses?
+        choices:
+          A: Our responsibility
+          B: The church’s role
+          C: The satisfaction
+          D: God’s work
+        answer: D
+      - uid: MIN227.8.3.4.TY.1
+        subobj: 8.3.4
+        type: ty
+        question: When describing his ministry to the Colossians, Paul invited them
+          to
+        choices:
+          A: sacrificially plant a financial seed of faith.
+          B: claim their own miracle by making a monthly faith pledge.
+          C: participate with him by supporting him in prayer.
+          D: be tentmakers with him.
+        answer: C
+      - uid: MIN227.9.1.1.UPE.1
+        subobj: 9.1.1
+        type: upe
+        question: Jesus’ prayer life was characterized by its
+        choices:
+          A: careful observance of ceremony and ritual.
+          B: use of rabbinical logic.
+          C: lengthy incorporation of scriptural quotation.
+          D: demonstration of an active and constant relationship with God.
+        answer: D
+      - uid: MIN227.9.1.2.TY.1
+        subobj: 9.1.2
+        type: ty
+        question: Human persuasion is an inadequate means of evangelism because
+        choices:
+          A: it relies on convincing people to do something based on existing human
+            desires.
+          B: the Holy Spirit must be at work in the listener.
+          C: the Holy Spirit must be at work in the speaker.
+          D: all of the above.
+        answer: D
+      - uid: MIN227.9.1.3.TY.1
+        subobj: 9.1.3
+        type: ty
+        question: The believer should pray which three ways for evangelistic needs?
+        choices:
+          A: Bind Satan, rebuke personal pride, claim all lost souls for Christ
+          B: Specifically and regularly for nonbelievers, for divine appointments,
+            that other believers will be effective witnesses
+          C: Prophesy, pray in tongues, proclaim the triumph of the gospel
+          D: Fast, wear sackcloth, tithe
+        answer: B
+      - uid: MIN227.9.1.4.UPE.1
+        subobj: 9.1.4
+        type: upe
+        question: The Holy Spirit is vital to evangelism because He
+        choices:
+          A: influences both the speaker and the listener during witnessing opportunities.
+          B: helps the believer identify who God has ordained to be saved and avoid
+            those predestined to hell.
+          C: supernaturally guarantees that the listener will come to Christ.
+          D: dictates the believer’s exact words.
+        answer: A
+      - uid: MIN227.9.2.2.TY.1
+        subobj: 9.2.2
+        type: ty
+        question: A person’s acceptance of the Bible as God’s inspired Word
+        choices:
+          A: is essential for salvation.
+          B: has no impact on a decision to be saved.
+          C: can be valuable but does not supplant the central truth of believing
+            in Jesus Christ.
+          D: is fully expanded the moment he or she comes to salvation.
+        answer: C
+      - uid: MIN227.9.2.3.UPE.1
+        subobj: 9.2.3
+        type: upe
+        question: When sharing the good news, the believer’s focus on Jesus should
+          be in terms of
+        choices:
+          A: His identity as a Person and as the Savior and Lord.
+          B: His teachings and His good life.
+          C: God’s plan to judge the world and condemn sinners to hell.
+          D: His return to earth to rule with a rod of iron.
+        answer: A
+      - uid: MIN227.9.2.4.UPE.1
+        subobj: 9.2.4
+        type: upe
+        question: The believer’s verbal witness must clearly connect with
+        choices:
+          A: a consistent personal relationship with Christ.
+          B: a sinless life.
+          C: daily miracles.
+          D: the liturgy of the church.
+        answer: A
+      - uid: MIN227.9.3.2.UPE.1
+        subobj: 9.3.2
+        type: upe
+        question: When witnessing to nonbelievers, believers should
+        choices:
+          A: be careful not to use terms that may not be understood by those outside
+            of the Christian faith.
+          B: introduce them to key terms such as salvation and justification.
+          C: be careful not to bring up the subject of sin.
+          D: push for an immediate decision.
+        answer: A
+      - uid: MIN227.9.3.2.TY.1
+        subobj: 9.3.2
+        type: ty
+        question: From a biblical viewpoint, Christians who call nonbelievers outsiders
+        choices:
+          A: recognize the need to communicate the gospel in terms the lost will understand.
+          B: are exclusionist hypocrites.
+          C: have fallen back into the Law’s dichotomy of separating Jews and Gentiles.
+          D: recognize that many people are predestined never to enter God’s kingdom.
+        answer: A
+      - uid: MIN227.9.3.3.TY.1
+        subobj: 9.3.3
+        type: ty
+        question: In today’s culture, the term Christian
+        choices:
+          A: is recognized as a description of someone who follows Jesus Christ.
+          B: should never be used.
+          C: has lost all specific meaning.
+          D: should be used with synonyms such as believer or follower of Christ.
+        answer: D
+      - uid: MIN227.9.3.4.UPE.1
+        subobj: 9.3.4
+        type: upe
+        question: The term missionary applies only to those who
+        choices:
+          A: go overseas.
+          B: deliver the message of the gospel to other cultures.
+          C: share the gospel to those around them in any context.
+          D: are appointed by the Assemblies of God World Missions.
+        answer: C
+      - uid: MIN227.9.3.4.UPE.2
+        subobj: 9.3.4
+        type: upe
+        question: A biblical understanding of the missionary’s ministry is that it
+          is
+        choices:
+          A: outreach by people specifically called to carry the gospel to other countries.
+          B: a fruit of the Spirit.
+          C: every believer’s responsibility to take the gospel to his or her corner
+            of the world.
+          D: no longer needed, now that mass communications takes the gospel around
+            the world.
+        answer: C
+      - uid: MIN227.9.4.1.UPE.1
+        subobj: 9.4.1
+        type: upe
+        question: When pursuing opportunities for personal evangelism, the believer
+          should
+        choices:
+          A: memorize John 3:16.
+          B: always have a supply of tracts.
+          C: first inquire about the person’s soul.
+          D: be sensitive to divine appointments to witness to the lost.
+        answer: D
+      - uid: MIN227.9.4.2.TY.1
+        subobj: 9.4.2
+        type: ty
+        question: What two tools are vital to personal evangelism?
+        choices:
+          A: Sharing a personal testimony, praying with people
+          B: Knowing Hebrew, knowing Greek
+          C: Word of knowledge, word of wisdom
+          D: A crucifix, a tract
+        answer: A
+      - uid: MIN227.9.4.3.TY.1
+        subobj: 9.4.3
+        type: ty
+        question: Opportunities for witnessing and praying with people usually come
+        choices:
+          A: during the first conversation and must be pursued.
+          B: over time as a relationship develops.
+          C: as elderly family members approach death.
+          D: when the believer publicly reads the Bible.
+        answer: B
+      - uid: MIN227.9.4.4.UPE.1
+        subobj: 9.4.4
+        type: upe
+        question: The caution in Ecclesiastes against watching the wind and the clouds
+        choices:
+          A: is a reminder that open-air crusades are a bad idea.
+          B: applies to farmers.
+          C: reminds believers that witnessing opportunities are sometimes inconvenient.
+          D: is a warning against idolatry.
+        answer: C
+      - uid: MIN227.9.5.1.UPE.1
+        subobj: 9.5.1
+        type: upe
+        question: One significant hindrance to effective personal evangelism is
+        choices:
+          A: a failure to connect with others’ cultures.
+          B: insincerity or inconsistency between the believer’s lifestyle and message.
+          C: forgetting to shower.
+          D: a lack of theological education.
+        answer: B
+      - uid: MIN227.9.5.1.TY.1
+        subobj: 9.5.1
+        type: ty
+        question: All people have a deep, personal need for
+        choices:
+          A: an uncompromising explanation of their sinful condition.
+          B: genuine love.
+          C: a personal copy of the Bible.
+          D: a tract.
+        answer: B
+      - uid: MIN227.9.5.2.UPE.1
+        subobj: 9.5.2
+        type: upe
+        question: When addressing the topic of sin with unbelievers,
+        choices:
+          A: believers should acknowledge the reality of sin in the context of Christ’s
+            offer of forgiveness and eternal life.
+          B: every sin committed by the unbelievers should be confessed.
+          C: the person considering Christ’s forgiveness must swear to never sin again.
+          D: believers must admit all past sins.
+        answer: A
+      - uid: MIN227.9.5.3.UPE.1
+        subobj: 9.5.3
+        type: upe
+        question: Believers who use acts of benevolence as tools to communicate the
+          gospel
+        choices:
+          A: have misunderstood the Great Commission’s call to preach the gospel.
+          B: are deluded by the world’s social gospel.
+          C: are obeying Christ’s command to let the world see their good works.
+          D: are too insecure to talk about their relationship with Christ.
+        answer: C
+      - uid: MIN227.9.6.1.TY.1
+        subobj: 9.6.1
+        type: ty
+        question: Jesus’ primary approach to ministry was to
+        choices:
+          A: share the gospel with the largest crowds He could gather.
+          B: travel widely proclaiming the kingdom of God.
+          C: chastise the Sadducees and Pharisees.
+          D: connect with individuals and tailor His teachings and miracles to respond
+            to their needs.
+        answer: D
+      - uid: MIN227.9.6.3.UPE.1
+        subobj: 9.6.3
+        type: upe
+        question: When Paul wrote of presenting “every man complete in Christ,” he
+          was
+        choices:
+          A: exhibiting Pharisaical prejudice against women.
+          B: referencing the need to witness to both individuals and to all groups
+            of people.
+          C: contrasting Old Testament circumcision with New Testament grace.
+          D: alluding to the marriage of Christ and the church.
+        answer: B
+      - uid: MIN227.9.6.3.TY.1
+        subobj: 9.6.3
+        type: ty
+        question: Most people come to faith in Christ in response to
+        choices:
+          A: reading a clever bumper sticker or church sign.
+          B: finding a tract on their windshield.
+          C: the personal witness of someone they know.
+          D: anointed pleas for seed-faith pledges.
+        answer: C
+      - uid: MIN227.10.1.1.UPE.1
+        subobj: 10.1.1
+        type: upe
+        question: The early church found their confidence to witness
+        choices:
+          A: within themselves.
+          B: with training and preparation.
+          C: in their knowledge and relationship with God.
+          D: from the encouragement of friends.
+        answer: C
+      - uid: MIN227.10.1.1.UPE.2
+        subobj: 10.1.1
+        type: upe
+        question: It is to our benefit that Paul had not personally visited Rome before
+          writing Romans, because
+        choices:
+          A: it allowed Peter to come to prominence in Rome.
+          B: it provided him an occasion to be especially thorough in his communication
+            of the saving work of Jesus.
+          C: he would have been angered by the practices of the Roman church.
+          D: it allowed him to travel to more important regions of the world.
+        answer: B
+      - uid: MIN227.10.1.1.TY.1
+        subobj: 10.1.1
+        type: ty
+        question: Most Christians who are reluctant to share the gospel are struggling
+          with
+        choices:
+          A: spiritual apathy.
+          B: a skewed understanding of God’s elect.
+          C: hidden sin.
+          D: lack of confidence and a belief that confidence is self-produced.
+        answer: D
+      - uid: MIN227.10.1.1.TY.2
+        subobj: 10.1.1
+        type: ty
+        question: The early church confidently shared the message of Christ because
+        choices:
+          A: of their faith in and relationship to each Person in the Trinity.
+          B: of the miracles performed by the apostles.
+          C: Jesus’ teachings were popular among the common people.
+          D: they expected Christ’s soon return.
+        answer: A
+      - uid: MIN227.10.1.2.UPE.1
+        subobj: 10.1.2
+        type: upe
+        question: Paul’s sense of obligation to spread the gospel
+        choices:
+          A: was unique to him because of his apostolic role.
+          B: was based on a false expectation of the immediate return of Christ.
+          C: applies to all believers because Christ’s love compels us to reach the
+            lost.
+          D: is inappropriate for modern believers because it conflicts with current
+            standards of tolerance.
+        answer: C
+      - uid: MIN227.10.1.2.TY.1
+        subobj: 10.1.2
+        type: ty
+        question: Paul described his obligation to share the gospel as a debt owed
+          to
+        choices:
+          A: the Gentiles, since Peter and others would minister to the Jews.
+          B: all spiritually lost people, regardless of race or class.
+          C: the Pharisees, to whom he could relate as a scholar.
+          D: those who gave faith pledges to his ministry.
+        answer: B
+      - uid: MIN227.10.1.3.TY.1
+        subobj: 10.1.3
+        type: ty
+        question: Paul’s evangelistic obligation was backed up by
+        choices:
+          A: deep theological training as a Pharisee.
+          B: ordination from the original church in Jerusalem.
+          C: his eagerness to share the gospel with the lost.
+          D: his regret for having helped stone Stephen.
+        answer: C
+      - uid: MIN227.10.1.4.UPE.1
+        subobj: 10.1.4
+        type: upe
+        question: Paul was unashamed in his ministry because
+        choices:
+          A: of his self-confidence.
+          B: of his eloquence in rhetoric.
+          C: of his confidence in the power of the gospel itself.
+          D: he was trained by a prominent Jewish Rabbi.
+        answer: C
+      - uid: MIN227.10.1.4.TY.1
+        subobj: 10.1.4
+        type: ty
+        question: A believer who unashamedly carries the gospel to the lost will
+        choices:
+          A: fast and pray until the Holy Spirit identifies an audience.
+          B: experience complete sanctification as a second work of grace.
+          C: engage mind and emotions in full commitment to the task.
+          D: always be ridiculed and persecuted.
+        answer: C
+      - uid: MIN227.10.2.1.TY.1
+        subobj: 10.2.1
+        type: ty
+        question: In general, Christians with a reputation for spiritual fervor and
+          zealous evangelistic desire
+        choices:
+          A: are new believers.
+          B: are under twenty.
+          C: are women.
+          D: have gone to Bible college.
+        answer: A
+      - uid: MIN227.10.2.3.TY.1
+        subobj: 10.2.3
+        type: ty
+        question: Paul’s spiritual zeal was fed by his focus on
+        choices:
+          A: the inadequacy of the Law and on the gifts of the Spirit.
+          B: the eternal versus the temporal and his personal devotion to Jesus Christ.
+          C: reaching the Gentiles and ministering in Rome.
+          D: miracles and the end-time.
+        answer: B
+      - uid: MIN227.10.2.3.TY.2
+        subobj: 10.2.3
+        type: ty
+        question: Paul’s view of life and death
+        choices:
+          A: gave him favor with the Sadducees.
+          B: created a fatalistic tone in his epistles.
+          C: caused many early Christians to wait in futility for Christ’s return.
+          D: saw the former as service to Christ and the latter as the opportunity
+            to be with Him.
+        answer: D
+      - uid: MIN227.10.2.3.TY.3
+        subobj: 10.2.3
+        type: ty
+        question: The love of Christ constraining a believer refers to
+        choices:
+          A: its powerful influence on the believer’s life and the outgrowth of obedient
+            witnessing.
+          B: Christ’s determination to save the elect.
+          C: the Christian’s inability to sin as long as he or she loves Christ.
+          D: the Holy Spirit’s control of the believer’s tongue during Pentecostal
+            baptism.
+        answer: A
+      - uid: MIN227.10.2.4.TY.1
+        subobj: 10.2.4
+        type: ty
+        question: What three disciplines nurture spiritual zeal?
+        choices:
+          A: Love, joy, and peace
+          B: Church membership, tithing, and lay ministry
+          C: Study in the Word, reliance on the Holy Spirit, and rejection of sin
+          D: Psalms, hymns, and spiritual songs
+        answer: C
+      - uid: MIN227.11.1.1.TY.1
+        subobj: 11.1.1
+        type: ty
+        question: Modeling, a powerful teaching tool, works by
+        choices:
+          A: demonstrating a truth to the student through the teacher’s actions before
+            theory is taught.
+          B: creating a theorem, or verbal model, of the truth to be absorbed.
+          C: pairing students in teams throughout a teaching session.
+          D: interviewing students on past life experiences and then connecting those
+            experiences with the material to be studied.
+        answer: A
+      - uid: MIN227.11.1.2.UPE.1
+        subobj: 11.1.2
+        type: upe
+        question: One of the most important ways a pastor can model evangelism in
+          his or her church is by
+        choices:
+          A: offering special incentives to church members who bring unsaved guests.
+          B: giving regular public invitations to salvation.
+          C: avoiding topics, like sin , that unbelievers may find uncomfortable.
+          D: putting catchy phrases on the church sign.
+        answer: B
+      - uid: MIN227.11.1.3.UPE.1
+        subobj: 11.1.3
+        type: upe
+        question: Building relationships with nonbelievers
+        choices:
+          A: is a waste of a pastor’s valuable time.
+          B: should be avoided by pastors because it may present “the appearance of
+            evil.”
+          C: provides opportunities for a pastor to model evangelism.
+          D: is unwise for pastors, since it sets a bad example for church members.
+        answer: C
+      - uid: MIN227.11.1.3.TY.1
+        subobj: 11.1.3
+        type: ty
+        question: One of the simplest and most effective ways to begin personally
+          sharing the gospel is to
+        choices:
+          A: begin talking about eternal damnation.
+          B: describe how fast your church is growing.
+          C: pray with someone about a personal need.
+          D: summarize the key evidences for God’s existence.
+        answer: C
+      - uid: MIN227.11.1.4.UPE.1
+        subobj: 11.1.4
+        type: upe
+        question: Evangelism is primarily
+        choices:
+          A: a means of increasing church attendance.
+          B: a work of the Spirit.
+          C: the responsibility of those called to vocational ministry.
+          D: centered around propositional statements of truth.
+        answer: B
+      - uid: MIN227.11.1.4.TY.1
+        subobj: 11.1.4
+        type: ty
+        question: Two tools for keeping a congregation motivated to share the gospel
+          are
+        choices:
+          A: Friday night visits to local bars and Saturday morning prayer walks.
+          B: naming unsaved loved ones from the pulpit and phoning church members
+            to remind them to pray for their families.
+          C: regular targeted sermons on evangelism and personal testimonies about
+            evangelism.
+          D: a churchwide point system and cash prizes for inviting people to church.
+        answer: C
+      - uid: MIN227.11.2.1.UPE.1
+        subobj: 11.2.1
+        type: upe
+        question: Most people who make decisions to follow Christ do so
+        choices:
+          A: in a local church.
+          B: as the result of personal evangelism.
+          C: in large open air meetings.
+          D: on their own accord, without anyone witnessing to them.
+        answer: B
+      - uid: MIN227.11.2.1.TY.1
+        subobj: 11.2.1
+        type: ty
+        question: Four practices that offer a solid start to personal evangelism are
+        choices:
+          A: sharing personal experience, avoiding controversy, inviting to church,
+            and praying for needs.
+          B: sharing personal experience, inviting to church, praying for needs, and
+            identifying besetting sins.
+          C: inviting to church, following up with phone calls, requiring reasons
+            for missed church services, and insisting on daily accountability.
+          D: gospel tracts on doors, Scripture yard signs, public Bible reading, and
+            gospel bumper stickers.
+        answer: A
+      - uid: MIN227.11.2.2.UPE.1
+        subobj: 11.2.2
+        type: upe
+        question: Certain seasons such as Christmas and Easter
+        choices:
+          A: provide excellent opportunities for evangelism.
+          B: demand that pastors preach seasonally appropriate messages that will
+            not offend visitors.
+          C: are unimportant because church visitors are usually insincere.
+          D: are more trouble than they are worth.
+        answer: A
+      - uid: MIN227.11.2.2.TY.1
+        subobj: 11.2.2
+        type: ty
+        question: Prayer circles, when used evangelistically, usually involve
+        choices:
+          A: groups of believers agreeing to pray regularly for a list of people needing
+            salvation.
+          B: holding hands and forming a circle around a visitor who expresses a need.
+          C: similarities to community prayer walks.
+          D: the pastor and one other church staff member.
+        answer: A
+      - uid: MIN227.11.2.3.UPE.1
+        subobj: 11.2.3
+        type: upe
+        question: Preaching a special sermon series and advertising to the community
+        choices:
+          A: is a waste of time and money.
+          B: only attracts believers.
+          C: is appropriate only for pastors who are very well known in their communities.
+          D: can be an effective means of evangelizing.
+        answer: D
+      - uid: MIN227.11.2.4.TY.1
+        subobj: 11.2.4
+        type: ty
+        question: The seed for planting the harvest is always
+        choices:
+          A: a personal testimony or anecdote.
+          B: the Word of God.
+          C: identifying personal lostness.
+          D: the Romans Road.
+        answer: B
+      - uid: MIN227.11.3.1.UPE.1
+        subobj: 11.3.1
+        type: upe
+        question: The only person who is named as an evangelist in the New Testament
+          is
+        choices:
+          A: Paul.
+          B: Philip.
+          C: Andrew.
+          D: Peter.
+        answer: B
+      - uid: MIN227.11.3.1.TY.1
+        subobj: 11.3.1
+        type: ty
+        question: The New Testament mentions evangelists
+        choices:
+          A: three times but gives a clear picture of the evangelist’s ministry.
+          B: in each of the Gospels and uses Jesus to illustrate the ministry.
+          C: in each book and uses a variety of Greek words to explain the meaning.
+          D: only once, and the passage is textually questionable.
+        answer: A
+      - uid: MIN227.11.3.2.TY.1
+        subobj: 11.3.2
+        type: ty
+        question: A good way for a pastor to view the evangelist’s role in ministry
+          partnership is
+        choices:
+          A: as a diversion from regular church activity.
+          B: as a visiting dignitary.
+          C: in the role of an associate pastor.
+          D: in the context of the worldwide Church.
+        answer: C
+      - uid: MIN227.11.3.4.UPE.1
+        subobj: 11.3.4
+        type: upe
+        question: In the Mother Church plant model,
+        choices:
+          A: a host church releases people and resources as part of the initial startup
+            for the new church.
+          B: the church plant reproduces the ministries of the central church in another
+            area.
+          C: a number of churches agree to plant a church together.
+          D: the church plant meets at different times or in a different part of the
+            host church facility.
+        answer: A
+      - uid: MIN227.11.3.4.TY.1
+        subobj: 11.3.4
+        type: ty
+        question: Which two church planting models maintain the strongest link between
+          the plant and host churches?
+        choices:
+          A: Mother, satellite
+          B: Satellite, sectional
+          C: Internal, satellite
+          D: Sectional, cathedral
+        answer: C
+      - uid: MIN227.11.3.4.TY.2
+        subobj: 11.3.4
+        type: ty
+        question: A church plant tends to
+        choices:
+          A: decrease personal evangelism, since members are preoccupied with financial
+            needs.
+          B: leave the level of personal evangelism unchanged.
+          C: increase personal evangelism, since members invite people to the new
+            church.
+          D: decrease personal evangelism, since some see the church plant as a threat.
+        answer: C
+      - uid: MIN227.12.1.1.UPE.1
+        subobj: 12.1.1
+        type: upe
+        question: According to the course author, evangelistic preaching
+        choices:
+          A: means delivering a sermon that is primarily directed to the nonbeliever.
+          B: focuses on solid biblical exposition.
+          C: is unnecessary in a Spirit-filled church.
+          D: is not an effective means of reaching the lost.
+        answer: B
+      - uid: MIN227.12.1.1.TY.1
+        subobj: 12.1.1
+        type: ty
+        question: Effective evangelistic preaching prioritizes
+        choices:
+          A: biblical exposition.
+          B: definitions of sin , grace , repentance , and salvation .
+          C: personal testimony.
+          D: careful interpretation of key words in the original languages.
+        answer: A
+      - uid: MIN227.12.1.1.TY.2
+        subobj: 12.1.1
+        type: ty
+        question: When sharing truth from God’s Word, the speaker must keep in mind
+          that
+        choices:
+          A: he or she is under the Word.
+          B: every translation of the Word has weaknesses that must be considered.
+          C: the meaning of the Word is tied to the reader’s life experience.
+          D: literary and historical criticism of the Word are integral to sermon
+            preparation.
+        answer: A
+      - uid: MIN227.12.1.2.UPE.1
+        subobj: 12.1.2
+        type: upe
+        question: In light of divine revelation, the writers of Scripture
+        choices:
+          A: were possessed by the Holy Spirit and caused to write without their own
+            understanding.
+          B: wrote down the words that were spoken to them by the Holy Spirit.
+          C: wrote, directed by the Holy Spirit, with their own thoughts, vocabulary,
+            and experiences.
+          D: often wrote only under their own authority without the guidance of the
+            Holy Spirit.
+        answer: C
+      - uid: MIN227.12.1.2.TY.1
+        subobj: 12.1.2
+        type: ty
+        question: The inspired writing of God’s Word is best explained as
+        choices:
+          A: God’s complete influence on everything written, with the writers’ thoughts
+            and experiences divinely integrated into the message.
+          B: writing done under induced trances.
+          C: the God-given creative abilities of biblical writers put to optimal use.
+          D: God’s choice of literature from an array of religious writing.
+        answer: A
+      - uid: MIN227.12.1.3.UPE.1
+        subobj: 12.1.3
+        type: upe
+        question: To seek illumination when preparing to share God’s Word, the preacher
+          should rely on
+        choices:
+          A: the time-tested resources of commentaries and lexicons.
+          B: the Holy Spirit to reveal understanding, meaning, and application of
+            a passage.
+          C: current life experience to reveal the best illustrations for the text.
+          D: personal spiritual disciplines and self-denial.
+        answer: B
+      - uid: MIN227.12.1.4.TY.1
+        subobj: 12.1.4
+        type: ty
+        question: The best evidence of divine anointing on a message is the
+        choices:
+          A: grammatical quality and logical organization of the message.
+          B: extent to which God works through the message to impact lives.
+          C: emotional response of the congregation.
+          D: length of the message.
+        answer: B
+      - uid: MIN227.12.2.1.TY.1
+        subobj: 12.2.1
+        type: ty
+        question: Biblical exposition should avoid opinion and present what from the
+          text?
+        choices:
+          A: Original languages, current linguistic analysis
+          B: Popular interpretations, widely accepted errors
+          C: Immediate application, denominational understanding
+          D: Original meaning, current application
+        answer: D
+      - uid: MIN227.12.2.2.UPE.1
+        subobj: 12.2.2
+        type: upe
+        question: In order to impact people’s lives, God’s Word must be
+        choices:
+          A: publicly read in the original languages before exposition.
+          B: paraphrased into the latest jargon by the preacher.
+          C: shared only with believers.
+          D: connected with contemporary language and experience under the Spirit’s
+            anointing.
+        answer: D
+      - uid: MIN227.12.2.3.TY.1
+        subobj: 12.2.3
+        type: ty
+        question: Structurally, a sermon should give due attention to a text’s
+        choices:
+          A: alliteration and other poetic devices.
+          B: original structure and original message.
+          C: symbolic or allegorical implications.
+          D: chronological placement in biblical history.
+        answer: B
+      - uid: MIN227.12.2.4.UPE.1
+        subobj: 12.2.4
+        type: upe
+        question: What is required to effectively preach and teach God’s Word?
+        choices:
+          A: Oratory skill and theological education
+          B: Ministerial licensing and ordination
+          C: Discipline and dependence
+          D: A growing church and community outreach
+        answer: C
+      - uid: MIN227.12.2.4.TY.1
+        subobj: 12.2.4
+        type: ty
+        question: Illustrations contribute to the impact of a sermon by
+        choices:
+          A: reminding the audience that personal experience shapes the meaning of
+            the Bible’s message.
+          B: bringing clarity to the text and making the associated lessons and truths
+            memorable.
+          C: giving the audience comic relief.
+          D: breaking the sermon into portions to avoid excessive reading of the text.
+        answer: B
+      - uid: MIN227.12.3.1.UPE.1
+        subobj: 12.3.1
+        type: upe
+        question: The roles of “pastor and teacher” mentioned in Ephesians 4:11
+        choices:
+          A: are grouped together as one.
+          B: are distinctly separate according to Paul.
+          C: are the most important roles in the church.
+          D: come from the same Greek word roots.
+        answer: A
+      - uid: MIN227.12.3.1.TY.1
+        subobj: 12.3.1
+        type: ty
+        question: Corporate worship in a church service should
+        choices:
+          A: increase awareness of God’s presence and spiritually refresh the participants.
+          B: make God feel good so that He will answer prayer.
+          C: bring conviction to nonbelievers who cannot genuinely worship.
+          D: shed light on believers’ sin and stir conviction.
+        answer: A
+      - uid: MIN227.12.3.1.TY.2
+        subobj: 12.3.1
+        type: ty
+        question: In today’s church, the altar is best described as a
+        choices:
+          A: liturgical device with no real value.
+          B: designated place where people can offer themselves to God.
+          C: symbolic vestige of the Law of Moses.
+          D: metaphor for the believer’s heart.
+        answer: B
+      - uid: MIN227.12.3.2.UPE.1
+        subobj: 12.3.2
+        type: upe
+        question: The four components of a well-structured altar invitation are
+        choices:
+          A: reading an appropriate Scripture, corporate recitation of the sinner’s
+            prayer, dismissal, allowing the Holy Spirit to lead specific people to
+            the altar.
+          B: prophecy, interpretation, word of wisdom, word of knowledge.
+          C: faith in God to act, a clear message to the audience, an environment
+            conducive to response, trained assistants ready to pray with those who
+            respond.
+          D: pronouncement of the lostness of man, announcement of the eternal duration
+            of hell, description of God’s grace, warning against accepting grace unworthily.
+        answer: C
+      - uid: MIN227.12.3.3.UPE.1
+        subobj: 12.3.3
+        type: upe
+        question: When asking an altar respondent to identify his or her need, it
+          is important that he or she identify
+        choices:
+          A: whether or not he or she has ever been a Christian.
+          B: the nature and extent of sinful habits.
+          C: whether he or she personally knows the Lord or has known the Lord.
+          D: the four spiritual laws.
+        answer: C
+      - uid: MIN227.12.3.4.TY.1
+        subobj: 12.3.4
+        type: ty
+        question: When dealing with a person at the altar, it is important to
+        choices:
+          A: identify whether the person is seeking rededication or salvation for
+            the first time.
+          B: rebuke familiar spirits or signs of demonic oppression.
+          C: refute spiritual errors the person has accepted.
+          D: be positive and encouraging, assuring the person of God’s working in
+            his or her heart.
+        answer: D
+      - uid: MIN227.13.1.1.UPE.1
+        subobj: 13.1.1
+        type: upe
+        question: The three components that work together to ground the believer in
+          God’s Word are
+        choices:
+          A: Bible reading, Scripture memorization, and Bible study.
+          B: Bible reading, Bible study, and supplemental Christian reading.
+          C: Bible study, Scripture memorization, and Bible meditation.
+          D: Bible reading, Bible study, and Bible meditation.
+        answer: D
+      - uid: MIN227.13.1.1.TY.1
+        subobj: 13.1.1
+        type: ty
+        question: A good analogy for Bible reading is
+        choices:
+          A: physical nourishment and physical exercise.
+          B: reading history and biography to learn about life.
+          C: slow reading in order to increase understanding.
+          D: spiritual nourishment being compared with physical nourishment.
+        answer: D
+      - uid: MIN227.13.1.3.UPE.1
+        subobj: 13.1.3
+        type: upe
+        question: Regarding water baptism, believers should
+        choices:
+          A: be encouraged to be baptized as soon as possible.
+          B: be baptized only after a thorough understanding of Scripture and the
+            16 Fundamental Truths.
+          C: not be baptized again if they were baptized as infants.
+          D: be baptized only after they have received the baptism of the Holy Spirit.
+        answer: A
+      - uid: MIN227.13.1.3.TY.1
+        subobj: 13.1.3
+        type: ty
+        question: The local church helps the new believer by
+        choices:
+          A: serving as a necessary channel of God’s grace.
+          B: preserving him or her from interacting with a sinful world.
+          C: giving him or her the social standing needed in order to earn community
+            respect.
+          D: offering opportunities for corporate worship, spiritual encouragement,
+            and service to others.
+        answer: D
+      - uid: MIN227.13.1.3.TY.2
+        subobj: 13.1.3
+        type: ty
+        question: New believers are to communicate the truth of the gospel through
+          their
+        choices:
+          A: church membership and public Bible reading.
+          B: actions, public testimonies, words, and one-on-one communication.
+          C: monogamous lifestyles and pro-life voting records.
+          D: regular participation in communion and obedience in water baptism.
+        answer: B
+      - uid: MIN227.13.2.2.TY.1
+        subobj: 13.2.2
+        type: ty
+        question: The believer should view the relationship between evangelism and
+          discipleship as
+        choices:
+          A: interactive, each including the other without specific sequence.
+          B: distinct, evangelism needing completion before discipleship can commence.
+          C: mutually exclusive, since some lost people require evangelism and others
+            discipleship.
+          D: gifts of the Spirit, each used exclusively by believers with that gift.
+        answer: A
+      - uid: MIN227.13.2.3.TY.1
+        subobj: 13.2.3
+        type: ty
+        question: The ultimate goal of the disciple is to
+        choices:
+          A: live a life of sinless perfection.
+          B: become like his or her master.
+          C: absorb the theological position statements of his or her church.
+          D: achieve material blessing as proof of God’s favor.
+        answer: B
+      - uid: MIN227.13.2.4.TY.1
+        subobj: 13.2.4
+        type: ty
+        question: When considering personal responsibility in relationship to discipleship,
+        choices:
+          A: each person is responsible to identify the discipler for his or her life.
+          B: each person’s soul is the responsibility of a specific believer.
+          C: each person is responsible for his or her spiritual condition, but other
+            believers are responsible to spiritually nurture him or her.
+          D: God takes full responsibility to choose disciplers for His followers.
+        answer: C
+      - uid: MIN227.13.2.4.TY.2
+        subobj: 13.2.4
+        type: ty
+        question: In the lifelong discipleship process, the moment of salvation is
+        choices:
+          A: a spiritual starting point rather than a finish line.
+          B: a partial act of regeneration that requires nurturing to inherit eternal
+            life.
+          C: symbolic, with discipleship creating the fullness of God’s work of grace.
+          D: irreversible, with discipleship following a pre-ordained path of spiritual
+            growth.
+        answer: A
+      - uid: MIN227.13.3.2.TY.1
+        subobj: 13.3.2
+        type: ty
+        question: When it comes to ministry, the new believer should
+        choices:
+          A: be prohibited from involvement, due to immaturity.
+          B: always be the target of ministry rather than the participant.
+          C: be evaluated for specific spiritual gifts and given structured training.
+          D: be given opportunities to serve others and, thus, grow spiritually.
+        answer: D
+      - uid: MIN227.13.3.3.UPE.1
+        subobj: 13.3.3
+        type: upe
+        question: Small groups
+        choices:
+          A: are unbiblical and cause divisions in the church.
+          B: should be avoided because they tend to be overly homogenous.
+          C: provide a means for discipleship in the local church.
+          D: are a new age concept that should be rejected by the church.
+        answer: C
+      - uid: MIN227.13.3.3.UPE.2
+        subobj: 13.3.3
+        type: upe
+        question: One-on-one discipling
+        choices:
+          A: was modeled by Jesus.
+          B: can only be done in small churches.
+          C: is an inefficient use of a pastor’s time.
+          D: should be done only by the pastor.
+        answer: A
+      - uid: MIN227.13.3.3.TY.1
+        subobj: 13.3.3
+        type: ty
+        question: Sunday school and small groups offer discipleship in the context
+          of
+        choices:
+          A: developing key relationships with other believers through regular interaction.
+          B: a structured curriculum that adheres to a church’s theological position.
+          C: media presentations that bring the Bible to life.
+          D: a comfortable environment that promotes seeker sensitivity.
+        answer: A
+      - uid: MIN227.13.3.4.TY.1
+        subobj: 13.3.4
+        type: ty
+        question: Regardless of the discipleship method employed, it is vital that
+        choices:
+          A: the person being discipled be baptized in the Holy Spirit.
+          B: both the discipler and disciple belong to the same denomination.
+          C: both the discipler and the disciple be close in age.
+          D: the discipler is of reputable Christian character.
+        answer: D
+      - uid: MIN227.14.1.1.TY.1
+        subobj: 14.1.1
+        type: ty
+        question: Assemblies of God founders identified what as the “chief concern
+          of the church”?
+        choices:
+          A: Speaking in tongues
+          B: Divine healing
+          C: Prosperity
+          D: World evangelization
+        answer: D
+      - uid: MIN227.14.1.2.TY.1
+        subobj: 14.1.2
+        type: ty
+        question: The relationship of the local believer to the local church and the
+          local church to other churches illustrates the
+        choices:
+          A: power of cooperation to multiply ministry effectiveness.
+          B: modern embodiment of the twelve tribes of Israel.
+          C: true interpretation of the Parable of the Ninety-Nine Sheep.
+          D: validity of irresistible grace.
+        answer: A
+      - uid: MIN227.14.1.3.TY.1
+        subobj: 14.1.3
+        type: ty
+        question: The Assemblies of God’s focus on indigenous ministry gives primary
+          attention to
+        choices:
+          A: maintaining a chain of command between the U.S. Fellowship and foreign
+            groups.
+          B: establishing self-supporting, self-governing, and self-propagating churches
+            in foreign nations.
+          C: raising funds from around the world for relief projects.
+          D: translating the Bible into every known language.
+        answer: B
+      - uid: MIN227.14.1.3.TY.2
+        subobj: 14.1.3
+        type: ty
+        question: The fourfold strategy of Assemblies of God World Missions can be
+          summarized as
+        choices:
+          A: visiting, evangelizing, building, and administrating.
+          B: loving, training, leading, and growing.
+          C: reaching, planting, training, and touching.
+          D: convicting, disciplining, guiding, and multiplying.
+        answer: C
+      - uid: MIN227.14.1.4.UPE.1
+        subobj: 14.1.4
+        type: upe
+        question: 'The Assemblies of God’s threefold method for implementing its missions
+          ministries is:'
+        choices:
+          A: all denominations reaching all the nations for all the kingdom.
+          B: all the church communicating all the gospel to all the world.
+          C: all people proclaiming all truth and meeting all needs.
+          D: all pastors teaching all the laity to evangelize all their neighbors.
+        answer: B
+      - uid: MIN227.14.1.4.TY.1
+        subobj: 14.1.4
+        type: ty
+        question: The Assemblies of God’s threefold method for implementing missions
+          ministry involves
+        choices:
+          A: all local churches giving all available finances to support all missionaries.
+          B: all Assemblies of God members tithing all their income to underwrite
+            all departments.
+          C: all adults committing to guide all children in praying for all nations.
+          D: all the church in communicating all the gospel to all the world.
+        answer: D
+      - uid: MIN227.14.2.1.TY.1
+        subobj: 14.2.1
+        type: ty
+        question: The primary source for mission support in the Assemblies of God
+          is
+        choices:
+          A: the local church.
+          B: a centralized missions fund.
+          C: a system of trusts and legacies.
+          D: district councils.
+        answer: A
+      - uid: MIN227.14.2.1.TY.2
+        subobj: 14.2.1
+        type: ty
+        question: Missions Sundays help local church congregations by
+        choices:
+          A: motivating them to compete for various plaques and prizes at the next
+            General Council.
+          B: presenting them with needs from around the world and giving them an opportunity
+            to respond.
+          C: convicting them of spiritual complacency and reminding them of their
+            material blessings.
+          D: maintaining their affiliation with the Assemblies of God.
+        answer: B
+      - uid: MIN227.14.2.2.UPE.1
+        subobj: 14.2.2
+        type: upe
+        question: The purpose of a missions convention is to
+        choices:
+          A: highlight the local ministries of the church.
+          B: show appreciation for workers within the congregation.
+          C: focus on the life and ministry of a staff member.
+          D: remind the congregation of their responsibility in fulfilling the Great
+            Commission.
+        answer: D
+      - uid: MIN227.14.2.2.TY.1
+        subobj: 14.2.2
+        type: ty
+        question: Churches find that using what tool once or twice a year can increase
+          missions support?
+        choices:
+          A: Offering a seminar on stewardship and financial planning
+          B: Calling for a church-wide week of fasting
+          C: Holding a missions convention that connects the congregation with missionaries
+            and missions needs
+          D: Sending the pastoral staff on a short-term missions trip
+        answer: C
+      - uid: MIN227.14.2.3.TY.1
+        subobj: 14.2.3
+        type: ty
+        question: A missions faith promise
+        choices:
+          A: gives the believer the opportunity to support missions regularly, trusting
+            God to enable him or her to give.
+          B: is a vow before God that carries serious repercussions if the amount
+            promised is not given.
+          C: should be honored at all costs, even if a loan is required.
+          D: is a confession of faith that becomes a seed for gaining personal wealth.
+        answer: A
+      - uid: MIN227.14.2.4.UPE.1
+        subobj: 14.2.4
+        type: upe
+        question: The best time to educate people about faith promises is
+        choices:
+          A: Faith Promise Sunday.
+          B: Easter Sunday.
+          C: the weeks prior to missions convention.
+          D: the first Sunday of the month.
+        answer: C
+      - uid: MIN227.14.2.4.TY.1
+        subobj: 14.2.4
+        type: ty
+        question: Experience has shown that it is most effective to ask for new faith
+          promises every
+        choices:
+          A: year.
+          B: six months.
+          C: Missions Sunday.
+          D: General Council.
+        answer: B
+      - uid: MIN227.15.1.1.TY.1
+        subobj: 15.1.1
+        type: ty
+        question: The fulfillment of the Great Commission requires that believers
+        choices:
+          A: are agents with Christ of the grace of God.
+          B: partner with Christ to communicate His completed mission to a lost world.
+          C: must carry out personal evangelism in order to experience salvation.
+          D: are to identify among themselves the people God has called to be witnesses.
+        answer: B
+      - uid: MIN227.15.1.2.TY.1
+        subobj: 15.1.2
+        type: ty
+        question: Which four terms or phrases summarize the mission of the church?
+        choices:
+          A: Evangelism, worship, discipleship, demonstrating compassion
+          B: Worship, tithing, spiritual gifts, demonstrating compassion
+          C: Evangelism, discipleship, communion, spiritual gifts
+          D: Water baptism, Pentecost, evangelism, prayer
+        answer: A
+      - uid: MIN227.15.1.3.TY.1
+        subobj: 15.1.3
+        type: ty
+        question: Discipleship and evangelism are
+        choices:
+          A: conditions for salvation and sanctification.
+          B: gifts of the Spirit best evidenced by Pentecostals.
+          C: represented in the New Jerusalem’s foundations.
+          D: worship, since both bring God glory.
+        answer: D
+      - uid: MIN227.15.1.4.TY.1
+        subobj: 15.1.4
+        type: ty
+        question: Evangelism is best understood as a
+        choices:
+          A: persuasive act that convinces the lost of the gospel’s truth.
+          B: God-centered work of the Holy Spirit in which the believer cooperates.
+          C: divine gift available to all believers who ask for it.
+          D: responsibility of specific church leaders who receive laity prayer support.
+        answer: B
+      - uid: MIN227.15.1.4.TY.2
+        subobj: 15.1.4
+        type: ty
+        question: Jesus spoke of the “gates of hell” as a
+        choices:
+          A: powerful enemy rampaging against the Church.
+          B: target for successful attacks by the Church.
+          C: symbol of the believer’s inner struggle with sin.
+          D: reminder of death and the Great White Throne judgment.
+        answer: B
+      - uid: MIN227.15.2.1.TY.1
+        subobj: 15.2.1
+        type: ty
+        question: The believer who understands and acts upon prayer will connect prayer
+          with
+        choices:
+          A: all areas of life, especially to defeat anxiety.
+          B: corporate worship and find a prayer partner.
+          C: with personal repentance and begin each prayer with confession.
+          D: personal prosperity and begin each prayer by claiming a blessing.
+        answer: A
+      - uid: MIN227.15.2.2.TY.1
+        subobj: 15.2.2
+        type: ty
+        question: When planning annual sermon series, pastors are wise to include
+          sermons that
+        choices:
+          A: identify the congregation’s besetting sins and spiritual gifts.
+          B: rely on alliteration.
+          C: proclaim the way of salvation, as well as sermons that promote spiritual
+            growth.
+          D: progress through books of the Bible, as well as sermons that give in-depth
+            treatment to biblical themes.
+        answer: D
+      - uid: MIN227.15.2.3.UPE.1
+        subobj: 15.2.3
+        type: upe
+        question: Money
+        choices:
+          A: is the root of all evil.
+          B: is much more important to give than time.
+          C: can be a positive factor in the believer’s life.
+          D: always leads to corruption.
+        answer: C
+      - uid: MIN227.15.2.3.TY.1
+        subobj: 15.2.3
+        type: ty
+        question: The believer who takes a biblical approach to money will
+        choices:
+          A: prioritize and appropriate the Bible’s prosperity promises.
+          B: remember that money is the root of all evil which compromises one’s faith.
+          C: give all available cash to the poor and pursue personal poverty.
+          D: trust God to meet personal needs and use all personal resources as God
+            leads.
+        answer: D
+      - uid: MIN227.15.2.4.UPE.1
+        subobj: 15.2.4
+        type: upe
+        question: The two “secrets” of spiritual success are to
+        choices:
+          A: seek the Lord and keep doing the right things.
+          B: fast daily and read at least two chapters of the Bible every day.
+          C: give regularly to missions and attend short term missions trips.
+          D: read the right books and attend conferences led by prominent pastors.
+        answer: A
+      - uid: MIN227.15.2.4.TY.1
+        subobj: 15.2.4
+        type: ty
+        question: The primary difference between King Saul and King David was that
+        choices:
+          A: Saul lacked reliance on God, and David pursued God’s guidance and help.
+          B: Saul was from the tribe of Benjamin and David the tribe of Judah.
+          C: Saul was the tallest man in Israel, and David was of unremarkable height.
+          D: Saul was symbolic of Israel’s rebellion, and David was part of God’s
+            plan of salvation.
+        answer: A
+      - uid: MIN227.15.2.4.TY.2
+        subobj: 15.2.4
+        type: ty
+        question: The key to evangelistic success in the local church is to
+        choices:
+          A: take regular offerings for missionaries who evangelize as the church’s
+            representatives.
+          B: preach sermons that highlight evangelism and connect it with Christian
+            living.
+          C: integrate evangelism into every expression of the church’s life.
+          D: conduct prayer walks through the community surrounding the church.
+        answer: C
     chapters:
     - last_modified: '2026-05-22'
       title: 1 - Defining the Great Commission

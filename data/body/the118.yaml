@@ -44,6 +44,2184 @@ courses:
       '4.0':
         timestamp: '2026-04-01'
         PN: 04.22.01
+      '1.0':
+        timestamp: '2006-01-01'
+        precision: year
+        source: colophon
+      '2.0':
+        timestamp: '2009-01-01'
+        precision: year
+        source: copyright
+      '3.0':
+        timestamp: '2010-01-01'
+        precision: year
+        source: copyright
+    printings:
+    - pn: 04.22.01
+      course_code: THE118
+      source_html: BTHE211ENE04-90_04.22.01.html
+      template: old
+      recorded: '2026-08-26'
+      note: 'Pristine print baseline built by scripts/build_html_baseline.py purely
+        from the InDesign HTML -- no DB input. Read-only: never hand-edit and never
+        feed to the janitor. UIDs are synthesized from the book''s own answer key;
+        diff pairs by content.'
+      counts:
+        ty: 130
+        upe: 75
+        final: 0
+      questions:
+      - uid: THE118.1.1.1.UPE.1
+        subobj: 1.1.1
+        type: upe
+        question: The word Scripture is used to describe
+        choices:
+          A: the Old Testament.
+          B: the New Testament.
+          C: both the Old and New Testaments.
+          D: the Old and New Testaments, and the apocrypha.
+        answer: C
+      - uid: THE118.1.1.1.TY.1
+        subobj: 1.1.1
+        type: ty
+        question: According to 2 Timothy 3:16, the Bible is
+        choices:
+          A: partially inspired by God, primarily the teaching portions of Scripture.
+          B: not inspired by God, but was written by godly men.
+          C: inspired by God, but some passages are more inspired than others.
+          D: all inspired by God.
+        answer: D
+      - uid: THE118.1.1.1.TY.2
+        subobj: 1.1.1
+        type: ty
+        question: Which view of inspiration holds that every word of Scripture is
+          inspired by God but also reflects the personality of the author?
+        choices:
+          A: Partial inspiration
+          B: Verbal inspiration
+          C: Mechanical dictation
+          D: Diverse inspiration
+        answer: B
+      - uid: THE118.1.1.2.UPE.1
+        subobj: 1.1.2
+        type: upe
+        question: The term canon literally means
+        choices:
+          A: “inspired.”
+          B: “Holy Scriptures.”
+          C: “carried along by the Holy Spirit.”
+          D: “a standard or a measuring rod.”
+        answer: D
+      - uid: THE118.1.1.2.UPE.2
+        subobj: 1.1.2
+        type: upe
+        question: Small differences between some of the original manuscripts are called
+        choices:
+          A: syntactical oversights.
+          B: variants.
+          C: scribe infractions.
+          D: incompatibilities.
+        answer: B
+      - uid: THE118.1.1.2.TY.1
+        subobj: 1.1.2
+        type: ty
+        question: In order for a book to be part of the New Testament canon, it had
+          to be written by
+        choices:
+          A: one of the original apostles, match the rest of Scripture, be known by
+            the church, and have quality that revealed superior authorship.
+          B: a respected church leader, match the rest of Scripture, be widely accepted
+            by the church, and be free of grammatical errors.
+          C: one of the apostles, match the rest of Scripture, be widely accepted
+            by the church, and be free of grammatical errors.
+          D: one of the apostles (or someone close to an apostle), match the rest
+            of Scripture, be widely accepted by the church, and have quality that
+            revealed divine inspiration.
+        answer: D
+      - uid: THE118.1.1.2.TY.2
+        subobj: 1.1.2
+        type: ty
+        question: At the time of Jesus, the word Scripture referred to the
+        choices:
+          A: Pentateuch.
+          B: thirty-nine books of the Old Testament.
+          C: Pentateuch and the prophetic literature.
+          D: Pentateuch and the Psalms.
+        answer: B
+      - uid: THE118.1.2.1.UPE.1
+        subobj: 1.2.1
+        type: upe
+        question: About how many authors wrote the Bible?
+        choices:
+          A: Twelve
+          B: Thirty-three
+          C: Forty
+          D: Sixty-six
+        answer: C
+      - uid: THE118.1.2.1.TY.1
+        subobj: 1.2.1
+        type: ty
+        question: Five reasons we believe the Scriptures are inspired are
+        choices:
+          A: claims from the Old Testament authors, the testimony of fulfilled prophecy,
+            the testimony of the Bible’s unity, the testimony of Jesus, and the confirmation
+            of changed lives.
+          B: claims from the New Testament authors, the testimony of fulfilled prophecy,
+            the testimony of the Bible’s popularity, the testimony of Jesus, and the
+            confirmation of changed lives.
+          C: historical evidence, the testimony of unfulfilled prophecy, the testimony
+            of the Bible’s popularity, the testimony of Jesus, and the confirmation
+            of changed lives.
+          D: archaeological evidence, the testimony of fulfilled prophecy, the testimony
+            of the Bible’s acceptance, the testimony of Jesus, and the confirmation
+            of changed lives.
+        answer: A
+      - uid: THE118.1.2.1.TY.2
+        subobj: 1.2.1
+        type: ty
+        question: A type is
+        choices:
+          A: a symbol in the Old Testament that appears to have New Testament application.
+          B: a ceremony in the Old Testament that was also practiced in the New Testament.
+          C: a person, event or thing in the Old Testament that corresponds to a person,
+            event, or thing in the New Testament.
+          D: an Old Testament person who displayed similar characteristics to Christ.
+        answer: C
+      - uid: THE118.1.2.1.TY.3
+        subobj: 1.2.1
+        type: ty
+        question: The Bible was written over a period of how many years?
+        choices:
+          A: '400'
+          B: '800'
+          C: '1200'
+          D: '1600'
+        answer: D
+      - uid: THE118.1.3.1.UPE.1
+        subobj: 1.3.1
+        type: upe
+        question: The Bible is infallible, meaning it
+        choices:
+          A: is unlikely to contain mistakes.
+          B: does contain minor mistakes.
+          C: is incapable of containing mistakes.
+          D: does not contain mistakes.
+        answer: C
+      - uid: THE118.1.3.1.TY.1
+        subobj: 1.3.1
+        type: ty
+        question: When the Holy Spirit helps a believer understand Scripture, this
+          is called
+        choices:
+          A: illumination .
+          B: inspiration .
+          C: revelation .
+          D: application .
+        answer: A
+      - uid: THE118.1.3.1.TY.2
+        subobj: 1.3.1
+        type: ty
+        question: The Bible is inerrant, meaning it
+        choices:
+          A: is unlikely to contain mistakes.
+          B: does contain minor mistakes.
+          C: is incapable of containing mistakes.
+          D: does not contain mistakes.
+        answer: D
+      - uid: THE118.1.3.1.TY.3
+        subobj: 1.3.1
+        type: ty
+        question: Common sources of authority concerning morality are
+        choices:
+          A: experience, religion, society, and the Bible.
+          B: human reason / conscience, religion, culture, and the Bible.
+          C: religion, experience, human reason, and a person’s conscience.
+          D: human reason / conscience, tradition, culture, and the Bible.
+        answer: B
+      - uid: THE118.2.1.1.UPE.1
+        subobj: 2.1.1
+        type: upe
+        question: Those who believe that there is no God are known as
+        choices:
+          A: atheists.
+          B: pantheists.
+          C: polytheists.
+          D: deists.
+        answer: A
+      - uid: THE118.2.1.1.TY.1
+        subobj: 2.1.1
+        type: ty
+        question: People who believe God is in everything created, including trees,
+          flowers, and living creatures, are known as
+        choices:
+          A: atheists.
+          B: pantheists.
+          C: polytheists.
+          D: deists.
+        answer: B
+      - uid: THE118.2.1.1.TY.2
+        subobj: 2.1.1
+        type: ty
+        question: People who believe that there is a god, but he is distant and detached
+          from the affairs of humankind are known as
+        choices:
+          A: atheists.
+          B: pantheists.
+          C: polytheists.
+          D: deists.
+        answer: D
+      - uid: THE118.2.1.2.UPE.1
+        subobj: 2.1.2
+        type: upe
+        question: God did not need anyone to give Him life or cause Him to be, therefore
+          He is
+        choices:
+          A: eternal.
+          B: self-sufficient.
+          C: self-existent.
+          D: unchanging.
+        answer: C
+      - uid: THE118.2.1.2.TY.1
+        subobj: 2.1.2
+        type: ty
+        question: God is spirit, therefore
+        choices:
+          A: He is unable to express emotions such as anger, joy, or love.
+          B: our relationship with God must be spiritual in nature.
+          C: He is unable to reveal himself in physical body.
+          D: the Bible does not mention God having hands, feet, or eyes.
+        answer: B
+      - uid: THE118.2.1.2.TY.2
+        subobj: 2.1.2
+        type: ty
+        question: Concerning God being self-sufficient, which statement is most correct?
+        choices:
+          A: God needs believers to serve Him.
+          B: God needs the worship and praise of believers.
+          C: God needs believers to worship and serve Him.
+          D: God does not need the worship and service of believers, but He does desire
+            it.
+        answer: D
+      - uid: THE118.2.2.1.UPE.1
+        subobj: 2.2.1
+        type: upe
+        question: Which argument for the existence of God asserts that the detailed
+          design of the universe could not have happened by chance?
+        choices:
+          A: Ontological
+          B: Cosmological
+          C: Teleological
+          D: Moral
+        answer: C
+      - uid: THE118.2.2.1.UPE.2
+        subobj: 2.2.1
+        type: upe
+        question: God is omnipotent, meaning He is
+        choices:
+          A: all-knowing.
+          B: ever-present.
+          C: eternal.
+          D: all-powerful.
+        answer: D
+      - uid: THE118.2.2.1.TY.1
+        subobj: 2.2.1
+        type: ty
+        question: Which argument for the existence of God asserts that the world could
+          not have happened by itself, thus a First Cause brought the universe into
+          existence?
+        choices:
+          A: Ontological
+          B: Cosmological
+          C: Teleological
+          D: Moral
+        answer: B
+      - uid: THE118.2.2.1.TY.2
+        subobj: 2.2.1
+        type: ty
+        question: Hebrews 7:25 states God is able to save completely those who come
+          to Him, which supports that God is
+        choices:
+          A: omnipotent.
+          B: omnipresent.
+          C: omniscient.
+          D: eternal.
+        answer: A
+      - uid: THE118.2.2.1.TY.3
+        subobj: 2.2.1
+        type: ty
+        question: God can be everywhere at the same time, meaning He is
+        choices:
+          A: omnipotent.
+          B: omnipresent.
+          C: omniscient.
+          D: eternal.
+        answer: B
+      - uid: THE118.2.2.2.UPE.1
+        subobj: 2.2.2
+        type: upe
+        question: Because God is gracious and merciful, He is known as
+        choices:
+          A: righteous.
+          B: holy.
+          C: omnipotent.
+          D: good.
+        answer: D
+      - uid: THE118.2.2.2.UPE.2
+        subobj: 2.2.2
+        type: upe
+        question: Because God is completely separated from all evil, He is known as
+        choices:
+          A: righteous.
+          B: holy.
+          C: omnipotent.
+          D: good.
+        answer: B
+      - uid: THE118.2.2.2.TY.1
+        subobj: 2.2.2
+        type: ty
+        question: Because God is completely separated from all evil, He is known as
+        choices:
+          A: righteous.
+          B: holy.
+          C: omnipotent.
+          D: good.
+        answer: B
+      - uid: THE118.2.3.1.UPE.1
+        subobj: 2.3.1
+        type: upe
+        question: The Bible teaches that
+        choices:
+          A: there are many Gods.
+          B: only one true God.
+          C: three separate Gods.
+          D: there are three different aspects of one God.
+        answer: B
+      - uid: THE118.2.3.1.UPE.2
+        subobj: 2.3.1
+        type: upe
+        question: The belief that the Father, Son, and Holy Spirit are three separate
+          Gods is known as
+        choices:
+          A: the Trinity.
+          B: tritheism.
+          C: sabellianism.
+          D: monotheism.
+        answer: B
+      - uid: THE118.2.3.1.TY.1
+        subobj: 2.3.1
+        type: ty
+        question: The belief that the Father, Son, and Holy Spirit are three separate
+          Gods is known as
+        choices:
+          A: the Trinity.
+          B: tritheism.
+          C: sabellianism.
+          D: monotheism.
+        answer: B
+      - uid: THE118.2.3.2.UPE.1
+        subobj: 2.3.2
+        type: upe
+        question: How many times is the word trinity mentioned in the Bible referring
+          to the Godhead?
+        choices:
+          A: '0'
+          B: Five
+          C: Thirty-three
+          D: Fifty-six
+        answer: A
+      - uid: THE118.2.3.2.UPE.2
+        subobj: 2.3.2
+        type: upe
+        question: The doctrine that one God exists in the three persons of the Father,
+          Son, and Holy Spirit is known as
+        choices:
+          A: tritheism.
+          B: sabellianism.
+          C: the Trinity.
+          D: polytheism.
+        answer: C
+      - uid: THE118.2.3.2.TY.1
+        subobj: 2.3.2
+        type: ty
+        question: Evidence for the doctrine of the Trinity is found in
+        choices:
+          A: the Old Testament.
+          B: the New Testament.
+          C: both the Old and New Testaments.
+          D: neither the Old or New Testaments.
+        answer: C
+      - uid: THE118.3.1.1.UPE.1
+        subobj: 3.1.1
+        type: upe
+        question: The name Jesus is evidence of His
+        choices:
+          A: omnipresence.
+          B: divinity.
+          C: omniscience.
+          D: humanity.
+        answer: D
+      - uid: THE118.3.1.1.TY.1
+        subobj: 3.1.1
+        type: ty
+        question: The sinless life of Jesus testifies to His
+        choices:
+          A: divinity.
+          B: humanity.
+          C: omnipotence.
+          D: incredible will-power.
+        answer: A
+      - uid: THE118.3.1.2.UPE.1
+        subobj: 3.1.2
+        type: upe
+        question: Five proofs that Jesus is God are His
+        choices:
+          A: human birth, sinless life, miracles, claims of deity, and acceptance
+            of worship.
+          B: virgin birth, refusal of worship, miracles, humility, and sinless life.
+          C: incarnation, claims of deity, will-power, acceptance of worship, forgiveness
+            of sin.
+          D: virgin birth, sinless life, miracles, claims of deity, and acceptance
+            of worship.
+        answer: D
+      - uid: THE118.3.1.2.TY.1
+        subobj: 3.1.2
+        type: ty
+        question: Five proofs that Jesus is God are His
+        choices:
+          A: human birth, sinless life, miracles, claims of deity, and acceptance
+            of worship.
+          B: virgin birth, refusal of worship, miracles, humility, and sinless life.
+          C: incarnation, claims of deity, will-power, acceptance of worship, forgiveness
+            of sin.
+          D: virgin birth, sinless life, miracles, claims of deity, and acceptance
+            of worship.
+        answer: D
+      - uid: THE118.3.1.2.TY.2
+        subobj: 3.1.2
+        type: ty
+        question: Evidences of Jesus’ humanity are His
+        choices:
+          A: birth, name, physical body.
+          B: limitations, virgin birth, and name.
+          C: birth, physical body, and sinless life.
+          D: virgin birth, forgiveness of sins, and physical body.
+        answer: A
+      - uid: THE118.3.1.2.TY.3
+        subobj: 3.1.2
+        type: ty
+        question: Which passage of Scripture is known as the Kenosis passage?
+        choices:
+          A: Romans 10:1–11
+          B: Philippians 2:5–8
+          C: John 3:16–18
+          D: Matthew 17:1–13
+        answer: B
+      - uid: THE118.3.1.2.TY.4
+        subobj: 3.1.2
+        type: ty
+        question: The name Jesus is evidence of His
+        choices:
+          A: omnipresence.
+          B: divinity.
+          C: omniscience.
+          D: humanity.
+        answer: D
+      - uid: THE118.3.2.1.UPE.1
+        subobj: 3.2.1
+        type: upe
+        question: The main reason Jesus came to earth was to
+        choices:
+          A: preach.
+          B: baptize.
+          C: die on the cross for the sins of mankind.
+          D: teach.
+        answer: C
+      - uid: THE118.3.2.1.TY.1
+        subobj: 3.2.1
+        type: ty
+        question: Three proofs of the resurrection of Jesus are
+        choices:
+          A: the empty tomb, multiple witnesses, and the changed lives of the disciples.
+          B: the testimony of the soldiers, empty tomb, and the acceptance of His
+            resurrection among unbelievers.
+          C: multiple witnesses, the testimony of the soldiers, and the empty tomb.
+          D: the testimony of the soldiers, the changed lives of the disciples, and
+            the acceptance of His resurrection among unbelievers.
+        answer: A
+      - uid: THE118.3.2.1.TY.2
+        subobj: 3.2.1
+        type: ty
+        question: After the resurrection, Jesus was seen by
+        choices:
+          A: Mary Magdalene and a crowd of a thousand believers.
+          B: the twelve in a secured house and a crowd of three thousand believers.
+          C: Mary, the twelve, five hundred disciples, and Paul.
+          D: Martha, the twelve, six hundred disciples, and Paul.
+        answer: C
+      - uid: THE118.3.2.1.TY.3
+        subobj: 3.2.1
+        type: ty
+        question: After the resurrection, the Bible tells us that Jesus will fulfill
+          the divine offices of
+        choices:
+          A: apostle, priest, and teacher.
+          B: prophet, priest, and king.
+          C: king, judge, and prophet.
+          D: apostle, king, and prophet.
+        answer: B
+      - uid: THE118.3.3.1.UPE.1
+        subobj: 3.3.1
+        type: upe
+        question: The term firstborn refers to Jesus’
+        choices:
+          A: birth order.
+          B: rank and resurrection.
+          C: privileges.
+          D: death.
+        answer: B
+      - uid: THE118.3.3.1.TY.1
+        subobj: 3.3.1
+        type: ty
+        question: The phrase only begotten son literally means
+        choices:
+          A: “one of a kind.”
+          B: “born of the Father.”
+          C: “only son.”
+          D: “one son.”
+        answer: A
+      - uid: THE118.3.3.1.TY.2
+        subobj: 3.3.1
+        type: ty
+        question: When believers say that Jesus is the Son of God, they mean He is
+        choices:
+          A: an adopted Son of God.
+          B: a created Son of God.
+          C: like the Son of God.
+          D: the eternal Son of God.
+        answer: D
+      - uid: THE118.4.1.1.UPE.1
+        subobj: 4.1.1
+        type: upe
+        question: The name Satan means
+        choices:
+          A: “accuser.”
+          B: “fallen.”
+          C: “shining one.”
+          D: “adversary.”
+        answer: D
+      - uid: THE118.4.1.1.TY.1
+        subobj: 4.1.1
+        type: ty
+        question: The name devil means
+        choices:
+          A: “accuser.”
+          B: “fallen.”
+          C: “shining one.”
+          D: “adversary.”
+        answer: A
+      - uid: THE118.4.1.1.TY.2
+        subobj: 4.1.1
+        type: ty
+        question: What was the ultimate source of Satan’s fall and rebellion?
+        choices:
+          A: Lust
+          B: Pride
+          C: Anger
+          D: Greed
+        answer: B
+      - uid: THE118.4.1.1.TY.3
+        subobj: 4.1.1
+        type: ty
+        question: God created Satan
+        choices:
+          A: with the ability to be omniscient and omnipotent.
+          B: as a good and holy angel.
+          C: to be an enemy of God.
+          D: in His own likeness.
+        answer: B
+      - uid: THE118.4.1.2.UPE.1
+        subobj: 4.1.2
+        type: upe
+        question: Revelation 12:11 says the saints of God overcame Satan by
+        choices:
+          A: resisting him.
+          B: putting on the full armor of God.
+          C: the blood of the Lamb and the word of their testimony.
+          D: fleeing him.
+        answer: C
+      - uid: THE118.4.1.2.TY.1
+        subobj: 4.1.2
+        type: ty
+        question: Ephesians 6:12–18 says that believers can overcome Satan by
+        choices:
+          A: resisting him.
+          B: the blood of the lamb and the word of their testimony.
+          C: fleeing him.
+          D: putting on the full armor of God.
+        answer: D
+      - uid: THE118.4.2.1.UPE.1
+        subobj: 4.2.1
+        type: upe
+        question: Mankind is created in the likeness of God, meaning that people
+        choices:
+          A: reflect the shape and image of God.
+          B: look physically like God.
+          C: are little gods.
+          D: are similar to the angels of heaven.
+        answer: A
+      - uid: THE118.4.2.1.TY.1
+        subobj: 4.2.1
+        type: ty
+        question: Humans are created like God in the areas of
+        choices:
+          A: emotions, intellect, physical likeness, self-control, and a spirit.
+          B: moral likeness, natural likeness, and the ability to live forever.
+          C: physical likeness, emotions, intellect, and a spirit.
+          D: natural likeness, moral likeness, emotions, and the same status as God.
+        answer: B
+      - uid: THE118.4.2.1.TY.2
+        subobj: 4.2.1
+        type: ty
+        question: Animals
+        choices:
+          A: are created in the image of God.
+          B: have a spirit like humans, with the ability to think and feel.
+          C: have neither moral likeness or natural likeness to God.
+          D: do not have a spirit, but do have a natural likeness to God.
+        answer: C
+      - uid: THE118.4.2.2.UPE.1
+        subobj: 4.2.2
+        type: upe
+        question: Due to the fall of humanity, God’s purposes for mankind have
+        choices:
+          A: changed.
+          B: been delayed.
+          C: not changed.
+          D: been eliminated.
+        answer: C
+      - uid: THE118.4.2.2.TY.1
+        subobj: 4.2.2
+        type: ty
+        question: What word(s) do theologians use to describe the connection of all
+          human beings with Adam?
+        choices:
+          A: Sinful nature
+          B: Likeness
+          C: Fallen
+          D: Solidarity
+        answer: D
+      - uid: THE118.4.3.1.UPE.1
+        subobj: 4.3.1
+        type: upe
+        question: Adam and Eve were not to
+        choices:
+          A: eat the fruit from the tree of knowledge of good and evil.
+          B: leave the Garden of Eden.
+          C: eat any fruit from the trees in the garden.
+          D: eat fruit from the tree of life.
+        answer: A
+      - uid: THE118.4.3.1.TY.1
+        subobj: 4.3.1
+        type: ty
+        question: The best definition of sin based upon 1 John 3:4 is
+        choices:
+          A: “rebellion.”
+          B: “lawlessness.”
+          C: “delinquent.”
+          D: “flawed.”
+        answer: B
+      - uid: THE118.4.3.1.TY.2
+        subobj: 4.3.1
+        type: ty
+        question: Satan’s lie questioned God’s
+        choices:
+          A: knowledge.
+          B: power and authority.
+          C: holiness.
+          D: trustworthiness and goodness.
+        answer: D
+      - uid: THE118.4.3.2.UPE.1
+        subobj: 4.3.2
+        type: upe
+        question: God’s solution to the sin problem is
+        choices:
+          A: greater self-control and will-power.
+          B: the death of Jesus, which atones for the sin of all who believe.
+          C: the Law.
+          D: works.
+        answer: B
+      - uid: THE118.4.3.2.TY.1
+        subobj: 4.3.2
+        type: ty
+        question: The consequence of sin is
+        choices:
+          A: a physical death.
+          B: a spiritual death.
+          C: both a physical and a spiritual death.
+          D: neither physical nor spiritual, but is merely symbolic.
+        answer: C
+      - uid: THE118.5.1.1.UPE.1
+        subobj: 5.1.1
+        type: upe
+        question: The name Immanuel means
+        choices:
+          A: “anointed one.”
+          B: “God with us.”
+          C: “the Lord our helper.”
+          D: “the Lord saves.”
+        answer: B
+      - uid: THE118.5.1.1.UPE.2
+        subobj: 5.1.1
+        type: upe
+        question: What is the primary reason Jesus came to this world and died on
+          the cross?
+        choices:
+          A: To relate to humankind
+          B: To save people from their sin
+          C: To show people how to be holy
+          D: To destroy Satan
+        answer: B
+      - uid: THE118.5.1.1.TY.1
+        subobj: 5.1.1
+        type: ty
+        question: What is the primary reason Jesus came to this world and died on
+          the cross?
+        choices:
+          A: To relate to humankind
+          B: To save people from their sin
+          C: To show people how to be holy
+          D: To destroy Satan
+        answer: B
+      - uid: THE118.5.1.1.TY.2
+        subobj: 5.1.1
+        type: ty
+        question: The name Jesus means
+        choices:
+          A: “anointed one.”
+          B: “God with us.”
+          C: “the Lord our helper.”
+          D: “the Lord saves.”
+        answer: D
+      - uid: THE118.5.1.2.UPE.1
+        subobj: 5.1.2
+        type: upe
+        question: The believers in the Old Testament were forgiven based upon the
+        choices:
+          A: guilt offerings offered daily in the temple.
+          B: blood of bulls and goats.
+          C: blood Jesus would later shed.
+          D: observance of the law.
+        answer: C
+      - uid: THE118.5.1.2.TY.1
+        subobj: 5.1.2
+        type: ty
+        question: What English word comes from the Hebrew word kippur , meaning “covering”?
+        choices:
+          A: Atonement
+          B: Justification
+          C: Sanctification
+          D: Redemption
+        answer: A
+      - uid: THE118.5.2.1.UPE.1
+        subobj: 5.2.1
+        type: upe
+        question: God is able to offer believers forgiveness because of
+        choices:
+          A: the atonement.
+          B: their dedication.
+          C: His great love.
+          D: their repentance.
+        answer: A
+      - uid: THE118.5.2.1.UPE.2
+        subobj: 5.2.1
+        type: upe
+        question: What theological term is used to describe the restoration of fellowship
+          with God when one is saved?
+        choices:
+          A: Reconciliation
+          B: Redemption
+          C: Regeneration
+          D: Justification
+        answer: A
+      - uid: THE118.5.2.1.TY.1
+        subobj: 5.2.1
+        type: ty
+        question: When God forgives believers, He removes
+        choices:
+          A: the punishment of their sin.
+          B: the punishment of their sin and sin itself.
+          C: sin itself.
+          D: the earthly consequences their sin has caused.
+        answer: B
+      - uid: THE118.5.2.1.TY.2
+        subobj: 5.2.1
+        type: ty
+        question: What theological term is used to describe the spiritual rebirth
+          that takes place at the moment of salvation?
+        choices:
+          A: Reconciliation
+          B: Redemption
+          C: Regeneration
+          D: Justification
+        answer: C
+      - uid: THE118.5.2.1.TY.3
+        subobj: 5.2.1
+        type: ty
+        question: In 2 Corinthians 5:18–19, Paul states that God had given believers
+          the ministry of
+        choices:
+          A: redemption.
+          B: reconciliation.
+          C: justification.
+          D: regeneration.
+        answer: B
+      - uid: THE118.5.3.1.UPE.1
+        subobj: 5.3.1
+        type: upe
+        question: The Bible says believers are saved by faith
+        choices:
+          A: alone.
+          B: and works.
+          C: and observance of the sacraments.
+          D: and water baptism.
+        answer: A
+      - uid: THE118.5.3.1.TY.1
+        subobj: 5.3.1
+        type: ty
+        question: What theological term is used to describe a person turning away
+          from sin and turning towards God?
+        choices:
+          A: Redemption
+          B: Repentance
+          C: Justification
+          D: Regeneration
+        answer: B
+      - uid: THE118.5.3.2.TY.1
+        subobj: 5.3.2
+        type: ty
+        question: How can one be assured he or she is saved?
+        choices:
+          A: The inner witness of the Holy Spirit
+          B: The evidence of a transformed life
+          C: The inner witness of the Holy Spirit and the evidence of a transformed
+            life
+          D: The experience of a great inner joy
+        answer: C
+      - uid: THE118.5.3.3.UPE.1
+        subobj: 5.3.3
+        type: upe
+        question: Who believed that the decision of salvation was based upon individual
+          free will and personal responsibility?
+        choices:
+          A: Arminius
+          B: Zwingli
+          C: Luther
+          D: Calvin
+        answer: A
+      - uid: THE118.5.3.3.UPE.2
+        subobj: 5.3.3
+        type: upe
+        question: The official position of the Assemblies of God is that the decision
+          of salvation is based upon
+        choices:
+          A: God’s sovereignty.
+          B: a person’s free will and responsibility.
+          C: God’s sovereignty and a person’s free will.
+          D: fate.
+        answer: C
+      - uid: THE118.5.3.3.TY.1
+        subobj: 5.3.3
+        type: ty
+        question: Who believed that the decision of salvation was based upon God’s
+          sovereignty?
+        choices:
+          A: Arminius
+          B: Calvin
+          C: Zwingli
+          D: Luther
+        answer: B
+      - uid: THE118.5.3.3.TY.2
+        subobj: 5.3.3
+        type: ty
+        question: The official position of the Assemblies of God is that the decision
+          of salvation is based upon
+        choices:
+          A: God’s sovereignty.
+          B: a person’s free will and responsibility.
+          C: God’s sovereignty and a person’s free will.
+          D: fate.
+        answer: C
+      - uid: THE118.6.1.1.UPE.1
+        subobj: 6.1.1
+        type: upe
+        question: An ordinance is a
+        choices:
+          A: “visible sign and pledge of invisible grace ordained by God.”
+          B: “symbolic practice that has no religious value.”
+          C: “symbolic practice draws one closer to God, but is optional.”
+          D: “symbolic practice ordained by God, but is not a means of salvation.”
+        answer: D
+      - uid: THE118.6.1.1.UPE.2
+        subobj: 6.1.1
+        type: upe
+        question: A sacrament is a
+        choices:
+          A: “visible sign and pledge of invisible grace ordained by Christ.”
+          B: “symbolic practice that has no religious value.”
+          C: “symbolic practice that draws one closer to God, but is optional.”
+          D: “symbolic practice ordained by God, but is not a means of salvation.”
+        answer: A
+      - uid: THE118.6.1.1.TY.1
+        subobj: 6.1.1
+        type: ty
+        question: The Assemblies of God practices two ordinances, which are
+        choices:
+          A: infant baptism and communion.
+          B: water baptism and communion.
+          C: regular worship attendance and communion.
+          D: regular worship attendance and water baptism.
+        answer: B
+      - uid: THE118.6.1.1.TY.2
+        subobj: 6.1.1
+        type: ty
+        question: A sacrament is a
+        choices:
+          A: “visible sign and pledge of invisible grace ordained by Christ.”
+          B: “symbolic practice that has no religious value.”
+          C: “symbolic practice that draws one closer to God, but is optional.”
+          D: “symbolic practice ordained by God, but is not a means of salvation.”
+        answer: A
+      - uid: THE118.6.1.1.TY.3
+        subobj: 6.1.1
+        type: ty
+        question: Water baptism is a means by which believers identify with Christ’s
+        choices:
+          A: sacrifice.
+          B: death.
+          C: life, death, and resurrection.
+          D: resurrection.
+        answer: C
+      - uid: THE118.6.1.1.TY.4
+        subobj: 6.1.1
+        type: ty
+        question: The Assemblies of God position on water baptism is that people should
+          be baptized
+        choices:
+          A: as infants.
+          B: as adults.
+          C: when they are teenagers.
+          D: after an individual has made a decision for Christ.
+        answer: D
+      - uid: THE118.6.1.1.TY.5
+        subobj: 6.1.1
+        type: ty
+        question: Water baptism for the believer is
+        choices:
+          A: optional.
+          B: commanded by God, but is not necessary to be saved.
+          C: necessary to be saved.
+          D: a means of God’s grace.
+        answer: B
+      - uid: THE118.6.1.2.UPE.1
+        subobj: 6.1.2
+        type: upe
+        question: The biblical pattern for water baptism is
+        choices:
+          A: sprinkling.
+          B: pouring.
+          C: immersion.
+          D: both sprinkling and immersion.
+        answer: C
+      - uid: THE118.6.1.2.TY.1
+        subobj: 6.1.2
+        type: ty
+        question: According to the pattern of Scripture, believers should be baptized
+          into the name of
+        choices:
+          A: the Father.
+          B: Jesus.
+          C: the Holy Spirit.
+          D: the Father, Son, and Holy Spirit.
+        answer: D
+      - uid: THE118.6.1.2.TY.2
+        subobj: 6.1.2
+        type: ty
+        question: The Greek word baptize literally means
+        choices:
+          A: “to submerge.”
+          B: “to sprinkle.”
+          C: “to pour.”
+          D: “to drench.”
+        answer: A
+      - uid: THE118.6.2.1.TY.1
+        subobj: 6.2.1
+        type: ty
+        question: When partaking of holy communion, the bread and grape juice
+        choices:
+          A: are the actual flesh and blood of Jesus.
+          B: turn into the actual flesh and blood of Jesus once they are placed in
+            the mouth of a believer.
+          C: are emblems that represent the body and blood of Jesus.
+          D: have no symbolic meaning.
+        answer: C
+      - uid: THE118.6.2.2.UPE.1
+        subobj: 6.2.2
+        type: upe
+        question: The significance of communion is
+        choices:
+          A: past, because it looks back to the death of Jesus.
+          B: present, uniting believers to each other.
+          C: future, pointing to Christ’s second coming.
+          D: past, present, and future.
+        answer: D
+      - uid: THE118.6.2.2.TY.1
+        subobj: 6.2.2
+        type: ty
+        question: The significance of communion is
+        choices:
+          A: past, because it looks back to the death of Jesus.
+          B: present, uniting believers to each other.
+          C: future, pointing to Christ’s second coming.
+          D: past, present, and future.
+        answer: D
+      - uid: THE118.6.2.3.UPE.1
+        subobj: 6.2.3
+        type: upe
+        question: Ways a believer can take communion in an unworthy manner are by
+        choices:
+          A: displaying irreverence, being self-centered, and having a divisive attitude.
+          B: casual dress and overeating.
+          C: having a divisive attitude and casual dress.
+          D: observing communion too frequently.
+        answer: A
+      - uid: THE118.6.2.3.TY.1
+        subobj: 6.2.3
+        type: ty
+        question: According to 1 Corinthians 11:30, consequences of partaking communion
+          in an unworthy manner are
+        choices:
+          A: excommunication and loss of salvation.
+          B: sickness and even death.
+          C: loss of salvation and death.
+          D: sickness and excommunication.
+        answer: B
+      - uid: THE118.7.1.1.UPE.1
+        subobj: 7.1.1
+        type: upe
+        question: Because the Holy Spirit is a person,
+        choices:
+          A: He is not omnipresent or all-knowing.
+          B: believers can have a relationship with Him.
+          C: He is not all-powerful.
+          D: He has a physical body.
+        answer: B
+      - uid: THE118.7.1.1.UPE.2
+        subobj: 7.1.1
+        type: upe
+        question: Joel 2:28 promises that God would pour His Spirit on
+        choices:
+          A: all Jews.
+          B: all people.
+          C: kings and prophets.
+          D: godly leaders and prophets.
+        answer: B
+      - uid: THE118.7.1.1.TY.1
+        subobj: 7.1.1
+        type: ty
+        question: The book of Acts uses four other phrases in referring to the baptism
+          of the Holy Spirit, which are
+        choices:
+          A: drenched, filled, came upon, and fell.
+          B: poured out, surrounded, drenched, and came on.
+          C: filled, poured out, receive, and came on.
+          D: surrounded, came on, receive, and saturated.
+        answer: C
+      - uid: THE118.7.1.1.TY.2
+        subobj: 7.1.1
+        type: ty
+        question: The English meaning of the words ruach and pneuma is
+        choices:
+          A: “flesh.”
+          B: “faith.”
+          C: “spirit.”
+          D: “holy.”
+        answer: C
+      - uid: THE118.7.1.1.TY.3
+        subobj: 7.1.1
+        type: ty
+        question: Because the Holy Spirit is a person,
+        choices:
+          A: He is not omnipresent or all-knowing.
+          B: believers can have a relationship with Him.
+          C: He is not all-powerful.
+          D: He has a physical body.
+        answer: B
+      - uid: THE118.7.1.1.TY.4
+        subobj: 7.1.1
+        type: ty
+        question: The Gospel of John describes the Holy Spirit as
+        choices:
+          A: “counselor” or “advocate.”
+          B: “friend.”
+          C: “warrior.”
+          D: “a dove” or “gentle presence.”
+        answer: A
+      - uid: THE118.7.1.1.TY.5
+        subobj: 7.1.1
+        type: ty
+        question: Acts 2:39 says that the promise of the baptism of Holy Spirit is
+          for
+        choices:
+          A: all whom the Lord will call.
+          B: those involved in ministry.
+          C: church leaders and those in a position of authority.
+          D: all Jewish believers.
+        answer: A
+      - uid: THE118.7.1.1.TY.6
+        subobj: 7.1.1
+        type: ty
+        question: Matthew 3:11 says that Jesus would baptize believers in the Holy
+          Spirit and fire. Fire here should be understood as
+        choices:
+          A: God’s presence.
+          B: God’s wrath upon believers.
+          C: future fire of judgment, as well as purification in the life of the believer.
+          D: excitement and supernatural power.
+        answer: C
+      - uid: THE118.7.1.2.UPE.1
+        subobj: 7.1.2
+        type: upe
+        question: The baptism of the Holy Spirit
+        choices:
+          A: happens at the moment of salvation.
+          B: happens when one is baptized in water.
+          C: is necessary to be saved.
+          D: is a separate experience following salvation.
+        answer: D
+      - uid: THE118.7.1.2.UPE.2
+        subobj: 7.1.2
+        type: upe
+        question: Which verse in the book of Acts affirms that the baptism of the
+          Holy Spirit is to empower believers for ministry?
+        choices:
+          A: '1:5'
+          B: '1:8'
+          C: '2:4'
+          D: '2:39'
+        answer: B
+      - uid: THE118.7.2.1.UPE.1
+        subobj: 7.2.1
+        type: upe
+        question: What evidence of the baptism of the Holy Spirit is repeated three
+          times throughout the book of Acts?
+        choices:
+          A: Prophecy
+          B: Speaking in other tongues
+          C: Fire with a sound of a mighty wind
+          D: An inward burning signifying the Spirit’s presence
+        answer: B
+      - uid: THE118.7.2.1.UPE.2
+        subobj: 7.2.1
+        type: upe
+        question: The evidence that the Gentile believers at Cornelius’ home had received
+          the baptism of the Holy Spirit was they
+        choices:
+          A: heard them prophesying.
+          B: began to weep and cry out to God.
+          C: all fell prostrate in the presence of God.
+          D: heard them speaking in other tongues.
+        answer: D
+      - uid: THE118.7.2.1.UPE.3
+        subobj: 7.2.1
+        type: upe
+        question: Speaking in tongues
+        choices:
+          A: is meant to happen once, when a believer is baptized in the Holy Spirit.
+          B: is not a manifestation of the Spirit.
+          C: serves as the initial physical evidence of the baptism of the Holy Spirit,
+            a gift of the Spirit, and is also for praying in private for spiritual
+            growth.
+          D: is for praying in public for spiritual growth.
+        answer: C
+      - uid: THE118.7.2.1.TY.1
+        subobj: 7.2.1
+        type: ty
+        question: The initial physical evidence of the baptism of the Holy Spirit,
+          according to the pattern in the book of Acts, is
+        choices:
+          A: fire and wind.
+          B: an inner witness of the presence of the Spirit.
+          C: speaking in other tongues.
+          D: prophecy.
+        answer: C
+      - uid: THE118.7.2.1.TY.2
+        subobj: 7.2.1
+        type: ty
+        question: When Paul prayed for the disciples at Ephesus (Acts 19:1–7), they
+          were baptized in the Holy Spirit and
+        choices:
+          A: prophesied and spoke in other tongues.
+          B: prophesied.
+          C: spoke in other tongues.
+          D: danced before the Lord.
+        answer: A
+      - uid: THE118.7.2.2.UPE.1
+        subobj: 7.2.2
+        type: upe
+        question: A benefit of speaking in tongues is that it edifies
+        choices:
+          A: the church.
+          B: other believers who speak in tongues.
+          C: unbelievers.
+          D: the person speaking in tongues.
+        answer: D
+      - uid: THE118.7.3.1.UPE.1
+        subobj: 7.3.1
+        type: upe
+        question: According to Ephesians 5:18 the baptism of the Holy Spirit is
+        choices:
+          A: a one time experience that is evidenced by speaking in tongues.
+          B: something needed by all believers who should always be filled with the
+            Holy Spirit.
+          C: for occasional use, when one has a message in tongues for the church.
+          D: for those who are mature in Christ.
+        answer: B
+      - uid: THE118.7.3.1.TY.1
+        subobj: 7.3.1
+        type: ty
+        question: Those seeking the baptism of the Holy Spirit should
+        choices:
+          A: learn from others who are speaking in tongues.
+          B: seek the gift of tongues.
+          C: repent of known sin and in faith receive the gift of the Holy Spirit.
+          D: seek God in prayer and wait for the Holy Spirit to take control of their
+            speech.
+        answer: C
+      - uid: THE118.7.3.2.TY.1
+        subobj: 7.3.2
+        type: ty
+        question: A benefit of speaking in tongues is that it edifies
+        choices:
+          A: the church.
+          B: other believers who speak in tongues.
+          C: unbelievers.
+          D: the person speaking in tongues.
+        answer: D
+      - uid: THE118.8.1.1.UPE.1
+        subobj: 8.1.1
+        type: upe
+        question: Another word that can be used in the place of consecrate is the
+          word
+        choices:
+          A: righteous.
+          B: pure.
+          C: sanctify.
+          D: justify.
+        answer: C
+      - uid: THE118.8.1.1.TY.1
+        subobj: 8.1.1
+        type: ty
+        question: Another word that can be used in the place of sanctify is the word
+        choices:
+          A: consecrate .
+          B: righteous .
+          C: pure .
+          D: justify .
+        answer: A
+      - uid: THE118.8.1.1.TY.2
+        subobj: 8.1.1
+        type: ty
+        question: The central idea of sanctification is separation
+        choices:
+          A: from evil.
+          B: unto God and His purposes.
+          C: from this world.
+          D: from evil or common use and devotion to God and His purposes.
+        answer: D
+      - uid: THE118.8.1.1.TY.3
+        subobj: 8.1.1
+        type: ty
+        question: Sanctification is the process of
+        choices:
+          A: being declared righteous before God.
+          B: one being made holy.
+          C: regeneration.
+          D: redemption.
+        answer: B
+      - uid: THE118.8.1.2.UPE.1
+        subobj: 8.1.2
+        type: upe
+        question: The literal meaning of saint is
+        choices:
+          A: “righteous one.”
+          B: “justified one.”
+          C: “holy one.”
+          D: “anointed one.”
+        answer: C
+      - uid: THE118.8.1.2.TY.1
+        subobj: 8.1.2
+        type: ty
+        question: The literal meaning of saint is
+        choices:
+          A: “righteous one.”
+          B: “justified one.”
+          C: “holy one.”
+          D: “anointed one.”
+        answer: C
+      - uid: THE118.8.1.2.TY.2
+        subobj: 8.1.2
+        type: ty
+        question: Holiness is conformity to the
+        choices:
+          A: divine nature.
+          B: traditions of the church.
+          C: divine law.
+          D: moral norms of a culture.
+        answer: A
+      - uid: THE118.8.2.1.TY.1
+        subobj: 8.2.1
+        type: ty
+        question: Right character before God is produced by
+        choices:
+          A: justification.
+          B: sanctification.
+          C: regeneration.
+          D: redemption.
+        answer: B
+      - uid: THE118.8.2.1.TY.2
+        subobj: 8.2.1
+        type: ty
+        question: Sanctification is
+        choices:
+          A: a process.
+          B: a choice.
+          C: an instant work at the moment of salvation.
+          D: both an instant work at the moment of salvation and a process.
+        answer: D
+      - uid: THE118.8.2.1.TY.3
+        subobj: 8.2.1
+        type: ty
+        question: What verb tense is used in the New Testament to show that sanctification
+          as an ongoing process?
+        choices:
+          A: present.
+          B: future.
+          C: aorist.
+          D: imperfect.
+        answer: A
+      - uid: THE118.8.2.2.UPE.1
+        subobj: 8.2.2
+        type: upe
+        question: Sanctification is
+        choices:
+          A: a work of God in the life of a believer.
+          B: something that believers must work out in their own lives.
+          C: cooperative effort between God and believers.
+          D: the work of the church.
+        answer: C
+      - uid: THE118.8.2.2.TY.1
+        subobj: 8.2.2
+        type: ty
+        question: Sanctification is
+        choices:
+          A: a work of God in the life of a believer.
+          B: something that believers must work out in their own lives.
+          C: cooperative effort between God and believers.
+          D: the work of the church.
+        answer: C
+      - uid: THE118.8.2.3.TY.1
+        subobj: 8.2.3
+        type: ty
+        question: Concerning progressive sanctification, believers must do their part
+          by
+        choices:
+          A: determining to become more like Christ and practicing spiritual disciplines.
+          B: sitting back and letting God do His work.
+          C: living according to the Law.
+          D: modeling the behavior of other believers.
+        answer: A
+      - uid: THE118.9.1.1.UPE.1
+        subobj: 9.1.1
+        type: upe
+        question: To be a member of the church of Jesus Christ, one must
+        choices:
+          A: tithe.
+          B: be born again.
+          C: be a member of a local church.
+          D: be baptized in water.
+        answer: B
+      - uid: THE118.9.1.1.TY.1
+        subobj: 9.1.1
+        type: ty
+        question: The Greek word kuriokosi means
+        choices:
+          A: “church building.”
+          B: “church denomination.”
+          C: “called out ones.”
+          D: “belonging to the Lord.”
+        answer: D
+      - uid: THE118.9.1.1.TY.2
+        subobj: 9.1.1
+        type: ty
+        question: Two ways the Bible uses the word church are for
+        choices:
+          A: a denomination and local church members.
+          B: the local congregation and as part of the assembly of believers throughout
+            history.
+          C: the local church building and to describe all that have been born again.
+          D: the local church members and the local church building.
+        answer: B
+      - uid: THE118.9.1.2.TY.1
+        subobj: 9.1.2
+        type: ty
+        question: When was the church established?
+        choices:
+          A: Day of Pentecost
+          B: With the birth of Isaac to Abraham
+          C: The day Jesus ascended into heaven
+          D: At the beginning of Christ’s ministry
+        answer: A
+      - uid: THE118.9.1.2.TY.2
+        subobj: 9.1.2
+        type: ty
+        question: In the New Testament, true believers are called
+        choices:
+          A: members and brothers.
+          B: saints and members.
+          C: brothers and saints.
+          D: members and servants.
+        answer: C
+      - uid: THE118.9.2.1.UPE.1
+        subobj: 9.2.1
+        type: upe
+        question: The dominate image of the church in the New Testament is the
+        choices:
+          A: bride.
+          B: temple.
+          C: body.
+          D: friend.
+        answer: C
+      - uid: THE118.9.2.1.TY.1
+        subobj: 9.2.1
+        type: ty
+        question: In Ephesians 5:25, Paul compares the church to a
+        choices:
+          A: body.
+          B: temple.
+          C: bride.
+          D: rock.
+        answer: C
+      - uid: THE118.9.2.1.TY.2
+        subobj: 9.2.1
+        type: ty
+        question: According 1 Corinthians 6:19, we are to treat our bodies as
+        choices:
+          A: a gift.
+          B: a temple.
+          C: with care.
+          D: a valuable treasure.
+        answer: B
+      - uid: THE118.9.3.1.UPE.1
+        subobj: 9.3.1
+        type: upe
+        question: Where is the Great Commission found in the Bible?
+        choices:
+          A: Luke 16:15
+          B: Matthew 28:18-20
+          C: John 14:28
+          D: Mark 13:26
+        answer: B
+      - uid: THE118.9.3.1.UPE.2
+        subobj: 9.3.1
+        type: upe
+        question: The word evangelism means to
+        choices:
+          A: “preach or announce the good news.”
+          B: “teach the Bible.”
+          C: “draw large crowds.”
+          D: “go door-to-door telling people about one’s church.”
+        answer: A
+      - uid: THE118.9.3.1.TY.1
+        subobj: 9.3.1
+        type: ty
+        question: The word evangelism means to
+        choices:
+          A: “preach or announce the good news.”
+          B: “teach the Bible.”
+          C: “draw large crowds.”
+          D: “go door-to-door telling people about one’s church.”
+        answer: A
+      - uid: THE118.9.3.1.TY.2
+        subobj: 9.3.1
+        type: ty
+        question: According to Matthew 28:18–20, the church is to produce
+        choices:
+          A: converts.
+          B: decisions for Christ.
+          C: disciples.
+          D: local church members.
+        answer: C
+      - uid: THE118.9.3.2.UPE.1
+        subobj: 9.3.2
+        type: upe
+        question: Ways believers can edify the body of Christ is through
+        choices:
+          A: the gifts of the spirit, singing, prayer, and teaching.
+          B: healing the sick, condemning sin, the fruit of the Spirit, and worshipping
+            God.
+          C: helping the poor, singing, the gifts of the spirit, and by condemning
+            sin.
+          D: condemning sin, teaching, prayer, and encouraging others.
+        answer: A
+      - uid: THE118.9.3.2.TY.1
+        subobj: 9.3.2
+        type: ty
+        question: The four principle tasks of the church are to
+        choices:
+          A: make the world a better place, worship God, edify believers, and preserve
+            the Scriptures.
+          B: worship God, love people, edify the body of Christ, and defend the weak.
+          C: edify believers, help the poor, train ministers, and love people.
+          D: fulfill the Great Commission, worship God, edify believers, and demonstrate
+            God’s love and compassion.
+        answer: D
+      - uid: THE118.9.3.2.TY.2
+        subobj: 9.3.2
+        type: ty
+        question: Believers can edify the body of Christ through
+        choices:
+          A: the gifts of the spirit, singing, prayer, and teaching.
+          B: healing the sick, condemning sin, the fruit of the Spirit, and worshipping
+            God.
+          C: helping the poor, singing, the gifts of the spirit, and by condemning
+            sin.
+          D: condemning sin, teaching, prayer, and encouraging others.
+        answer: A
+      - uid: THE118.10.1.1.UPE.1
+        subobj: 10.1.1
+        type: upe
+        question: According to 1 Peter 2:9, who should be involved in ministry within
+          the church?
+        choices:
+          A: Pastor and teachers
+          B: Apostles and pastors
+          C: Those called to full-time service
+          D: All believers
+        answer: D
+      - uid: THE118.10.1.1.TY.1
+        subobj: 10.1.1
+        type: ty
+        question: The Greek diakonos means
+        choices:
+          A: “to govern.”
+          B: “to serve.”
+          C: “to lead.”
+          D: “to preach.”
+        answer: B
+      - uid: THE118.10.1.1.TY.2
+        subobj: 10.1.1
+        type: ty
+        question: The phrase priesthood of all believers should be understood to mean
+          that
+        choices:
+          A: all believers have access to God’s presence and should minister for the
+            Lord.
+          B: ministry is reserved for those in full-time ministry.
+          C: all believers have access to the presence of God.
+          D: all believers have been cleansed and washed by the blood of Jesus.
+        answer: A
+      - uid: THE118.10.1.1.TY.3
+        subobj: 10.1.1
+        type: ty
+        question: The call to minister must come from
+        choices:
+          A: within a person.
+          B: the district leadership.
+          C: God.
+          D: the local pastor.
+        answer: C
+      - uid: THE118.10.1.2.UPE.1
+        subobj: 10.1.2
+        type: upe
+        question: What is the most important key to success in ministry?
+        choices:
+          A: Ability
+          B: Character
+          C: Charisma
+          D: People skills
+        answer: B
+      - uid: THE118.10.1.2.TY.1
+        subobj: 10.1.2
+        type: ty
+        question: What is the most important key to success in ministry?
+        choices:
+          A: Ability.
+          B: Character.
+          C: Charisma.
+          D: People skills.
+        answer: B
+      - uid: THE118.10.1.2.TY.2
+        subobj: 10.1.2
+        type: ty
+        question: God measures our success based upon
+        choices:
+          A: how large a community in which we minister.
+          B: the size of church we pastor.
+          C: our ministry accomplishments.
+          D: our investment in eternity.
+        answer: D
+      - uid: THE118.10.2.1.UPE.1
+        subobj: 10.2.1
+        type: upe
+        question: The church is best described as
+        choices:
+          A: an organism.
+          B: an organization.
+          C: a community.
+          D: an assembly.
+        answer: A
+      - uid: THE118.10.2.1.TY.1
+        subobj: 10.2.1
+        type: ty
+        question: The church is best described as
+        choices:
+          A: an organism.
+          B: an organization.
+          C: a community.
+          D: an assembly.
+        answer: A
+      - uid: THE118.10.2.1.TY.2
+        subobj: 10.2.1
+        type: ty
+        question: Whose role is it to place people for service in the body of Christ,
+          according to 1 Corinthians 12?
+        choices:
+          A: District leadership
+          B: Pastoral leadership
+          C: The Holy Spirit
+          D: Church board
+        answer: C
+      - uid: THE118.10.2.2.UPE.1
+        subobj: 10.2.2
+        type: upe
+        question: The primary ministry of a teacher is to
+        choices:
+          A: take the gospel to the lost.
+          B: shepherd a local congregation.
+          C: explain the truth of God’s Word.
+          D: strengthen and encourage the church.
+        answer: C
+      - uid: THE118.10.2.2.TY.1
+        subobj: 10.2.2
+        type: ty
+        question: The primary ministry of prophets in the New Testament is to
+        choices:
+          A: proclaim God’s judgment.
+          B: foretell future events.
+          C: identify sin in the church.
+          D: strengthen and encourage the church.
+        answer: D
+      - uid: THE118.10.3.1.TY.1
+        subobj: 10.3.1
+        type: ty
+        question: Ministers should lead in the areas of
+        choices:
+          A: time management, giving, and worship.
+          B: worship, time management, and faith.
+          C: physical fitness, time management, and worship.
+          D: evangelism, worship, and faith.
+        answer: D
+      - uid: THE118.10.3.2.TY.1
+        subobj: 10.3.2
+        type: ty
+        question: According to Ephesians 4:11–16, what is the primary work of ministers?
+        choices:
+          A: To preach and win people to Christ
+          B: To correctly interpret and teach the Word of God
+          C: To prepare God’s people for works of service
+          D: To lead and love God’s people
+        answer: C
+      - uid: THE118.11.1.1.UPE.1
+        subobj: 11.1.1
+        type: upe
+        question: The original cause of sickness is
+        choices:
+          A: Satan.
+          B: God’s will.
+          C: the sin of Adam and Eve.
+          D: personal sin.
+        answer: C
+      - uid: THE118.11.1.1.TY.1
+        subobj: 11.1.1
+        type: ty
+        question: The original cause of sickness is
+        choices:
+          A: Satan.
+          B: God’s will.
+          C: the sin of Adam and Eve.
+          D: personal sin.
+        answer: C
+      - uid: THE118.11.1.2.UPE.1
+        subobj: 11.1.2
+        type: upe
+        question: An example of sickness that was a result of demonic attack is
+        choices:
+          A: the paralytic healed at the Pool of Bethesda (John 5:14).
+          B: the woman crippled for eighteen years (Luke 13:11).
+          C: Timothy’s stomach illness (1 Timothy 5:23).
+          D: Peter’s mother-in-law (Mark 1:29-34).
+        answer: B
+      - uid: THE118.11.1.2.TY.1
+        subobj: 11.1.2
+        type: ty
+        question: The Bible indicates that sickness can result from
+        choices:
+          A: personal sin.
+          B: demonic attack.
+          C: living in a sin-cursed world.
+          D: all the above.
+        answer: D
+      - uid: THE118.11.1.2.TY.2
+        subobj: 11.1.2
+        type: ty
+        question: According to Jesus, the blindness of the man in John 9:1–9 occurred
+        choices:
+          A: because of his parents’ lack of faith for healing.
+          B: because of the blind man’s sin.
+          C: so that the glory of God might be demonstrated in his life.
+          D: in order to be used as an illustration of the Pharisees’ spiritual blindness.
+        answer: C
+      - uid: THE118.11.2.1.UPE.1
+        subobj: 11.2.1
+        type: upe
+        question: Where does it say in the Bible that God forgives all our sins and
+          heals all of our diseases?
+        choices:
+          A: Isaiah 14:27
+          B: Exodus 15:26
+          C: Psalm 103:3
+          D: James 5:14
+        answer: C
+      - uid: THE118.11.2.1.TY.1
+        subobj: 11.2.1
+        type: ty
+        question: God heals people because
+        choices:
+          A: it is part of His nature.
+          B: He has to.
+          C: of their good works.
+          D: they live a righteous life.
+        answer: A
+      - uid: THE118.11.2.1.TY.2
+        subobj: 11.2.1
+        type: ty
+        question: Where does God say “I am the Lord who heals you”?
+        choices:
+          A: Isaiah 14:27
+          B: Exodus 15:26
+          C: Psalm 103:3
+          D: James 5:14
+        answer: B
+      - uid: THE118.11.2.2.UPE.1
+        subobj: 11.2.2
+        type: upe
+        question: “Heal the sick, raise the dead, cleanse those who have leprosy,
+          drive out demons. Freely you have received, freely give” is an example of
+        choices:
+          A: Jesus commanding those commissioned by Him to heal.
+          B: healing verifying that the Gospel is true.
+          C: healing not being included with salvation.
+          D: Jesus modeling the importance of praying for the sick.
+        answer: A
+      - uid: THE118.11.2.2.TY.1
+        subobj: 11.2.2
+        type: ty
+        question: The Greek word sozo means
+        choices:
+          A: “to save.”
+          B: “to deliver.”
+          C: “to heal.”
+          D: “to save” or “to heal.”
+        answer: D
+      - uid: THE118.11.2.2.TY.2
+        subobj: 11.2.2
+        type: ty
+        question: In the New Testament church, healing should be
+        choices:
+          A: occasional.
+          B: normative.
+          C: nonexistent.
+          D: discouraged.
+        answer: B
+      - uid: THE118.11.3.1.UPE.1
+        subobj: 11.3.1
+        type: upe
+        question: “Surely he took up our infirmities and carried our sorrows…and by
+          his wounds we are healed” is taken from
+        choices:
+          A: Isaiah 53:4-5.
+          B: 1 Peter 2:24.
+          C: Romans 3:25.
+          D: Hebrews 9:11-12.
+        answer: A
+      - uid: THE118.11.3.1.TY.1
+        subobj: 11.3.1
+        type: ty
+        question: The provision of healing is made possible through
+        choices:
+          A: mankind’s sincerity and humility.
+          B: mankind’s works and faithfulness.
+          C: the atonement.
+          D: a righteous life.
+        answer: C
+      - uid: THE118.11.3.2.UPE.1
+        subobj: 11.3.2
+        type: upe
+        question: If God does not heal someone that we have prayed for, we should
+        choices:
+          A: assume it is not our spiritual gift and quit praying for others to be
+            healed.
+          B: assume we lack the faith needed to be used in the area of healing.
+          C: assume the person we are praying for lacks faith.
+          D: keep on praying for people to be healed.
+        answer: D
+      - uid: THE118.11.3.2.TY.1
+        subobj: 11.3.2
+        type: ty
+        question: If God does not heal someone that we have prayed for, we should
+        choices:
+          A: assume it is not our spiritual gift and quit praying for others to be
+            healed.
+          B: assume we lack the faith needed to be used in the area of healing.
+          C: assume the person we are praying for lacks faith.
+          D: keep on praying for people to be healed.
+        answer: D
+      - uid: THE118.11.3.2.TY.2
+        subobj: 11.3.2
+        type: ty
+        question: In seeking healing from God, people must
+        choices:
+          A: be slain in the Spirit.
+          B: seek whether it is God’s will for them to be healed.
+          C: pray in faith.
+          D: earn the right to be healed.
+        answer: C
+      - uid: THE118.12.1.1.UPE.1
+        subobj: 12.1.1
+        type: upe
+        question: Who will be taken up in the rapture?
+        choices:
+          A: Believers who are living on earth
+          B: The wicked dead in their graves
+          C: Believers who are dead
+          D: Believers that are alive, as well as those who have died
+        answer: D
+      - uid: THE118.12.1.1.UPE.2
+        subobj: 12.1.1
+        type: upe
+        question: The rapture will take place
+        choices:
+          A: over a period of seven years.
+          B: suddenly, in the twinkling of an eye.
+          C: over a period of seven days.
+          D: with advance notice.
+        answer: B
+      - uid: THE118.12.1.1.TY.1
+        subobj: 12.1.1
+        type: ty
+        question: The word rapture is taken from the Latin word meaning
+        choices:
+          A: “suddenly.”
+          B: “caught up.”
+          C: “chosen.”
+          D: “without notice.”
+        answer: B
+      - uid: THE118.12.1.1.TY.2
+        subobj: 12.1.1
+        type: ty
+        question: According to 1 Thessalonians, who will rise first in the Rapture?
+        choices:
+          A: The wicked that are alive
+          B: The wicked that are dead
+          C: Believers that have already died
+          D: Believers that are still living
+        answer: C
+      - uid: THE118.12.1.1.TY.3
+        subobj: 12.1.1
+        type: ty
+        question: “For the Lord himself will come down from heaven, with a loud command,
+          with the voice of the archangel and with the trumpet call of God” is found
+          in
+        choices:
+          A: Ephesians 2:3.
+          B: Romans 5:9.
+          C: 1 Corinthians 15:53.
+          D: 1 Thessalonians 4:16.
+        answer: D
+      - uid: THE118.12.1.1.TY.4
+        subobj: 12.1.1
+        type: ty
+        question: According to 1 Corinthians 15:51–53, at the Rapture believers will
+          receive
+        choices:
+          A: a golden crown.
+          B: a mansion.
+          C: new, immortal bodies.
+          D: a new robe.
+        answer: C
+      - uid: THE118.12.1.2.UPE.1
+        subobj: 12.1.2
+        type: upe
+        question: When Jesus returns to earth a second time, He will return as
+        choices:
+          A: Judge and Ruler.
+          B: Savior.
+          C: a Servant King.
+          D: the Lamb of God.
+        answer: A
+      - uid: THE118.12.1.2.TY.1
+        subobj: 12.1.2
+        type: ty
+        question: When Jesus returns to earth a second time, He will return as
+        choices:
+          A: Judge and Ruler.
+          B: Savior.
+          C: a Servant King.
+          D: the Lamb of God.
+        answer: A
+      - uid: THE118.12.1.2.TY.2
+        subobj: 12.1.2
+        type: ty
+        question: During the revelation of Christ, Jesus will
+        choices:
+          A: meet all believers in the sky.
+          B: come to earth along with the saints of God.
+          C: meet all believers on earth.
+          D: meet all believers in heaven.
+        answer: B
+      - uid: THE118.12.1.3.TY.1
+        subobj: 12.1.3
+        type: ty
+        question: Anticipation for the Second Coming of Christ should make believers
+          feel
+        choices:
+          A: fearful.
+          B: joyful.
+          C: sad.
+          D: worried.
+        answer: B
+      - uid: THE118.12.2.1.UPE.1
+        subobj: 12.2.1
+        type: upe
+        question: The rapture will occur
+        choices:
+          A: prior to the tribulation.
+          B: in the middle of the tribulation.
+          C: after the tribulation.
+          D: during the millennium.
+        answer: A
+      - uid: THE118.12.2.1.TY.1
+        subobj: 12.2.1
+        type: ty
+        question: What is preventing the revelation of the lawless one?
+        choices:
+          A: The church through whom the Holy Spirit works
+          B: Satan
+          C: The Antichrist
+          D: The lack of a one-world government
+        answer: A
+      - uid: THE118.12.2.2.UPE.1
+        subobj: 12.2.2
+        type: upe
+        question: Because God has not appointed believers to suffer His wrath, the
+          Assemblies of God holds to a
+        choices:
+          A: mid-tribulation rapture.
+          B: post-tribulation rapture.
+          C: pre-tribulation rapture.
+          D: post-millennium rapture.
+        answer: C
+      - uid: THE118.12.2.2.TY.1
+        subobj: 12.2.2
+        type: ty
+        question: “For God did not appoint us to suffer wrath but to receive salvation
+          through our Lord Jesus Christ” is found in
+        choices:
+          A: Ephesians 2:3.
+          B: Romans 5:9.
+          C: 1 Corinthians 15:53.
+          D: 1 Thessalonians 5:9–10.
+        answer: D
+      - uid: THE118.12.2.3.UPE.1
+        subobj: 12.2.3
+        type: upe
+        question: According Acts 1:7-8, who knows the time when Christ will return
+          a second time?
+        choices:
+          A: The Son
+          B: The Holy Spirit
+          C: The Angels
+          D: The Father
+        answer: D
+      - uid: THE118.12.2.3.TY.1
+        subobj: 12.2.3
+        type: ty
+        question: Believers should understand the imminent return of Christ to mean
+          that
+        choices:
+          A: His coming is not near.
+          B: His coming could happen at any moment without warning.
+          C: certain events must be in place before Christ will return.
+          D: Christ’s return is uncertain.
+        answer: B
+      - uid: THE118.13.1.1.UPE.1
+        subobj: 13.1.1
+        type: upe
+        question: The millennium is a
+        choices:
+          A: thousand-year period where Satan will rule and reign on earth.
+          B: thousand-year period where Jesus will rule on earth and establish peace
+            on earth.
+          C: hundred-year period of tribulation and turmoil before Christ returns.
+          D: hundred-year period where Jesus will rule on earth and establish peace
+            on earth.
+        answer: B
+      - uid: THE118.13.1.1.TY.1
+        subobj: 13.1.1
+        type: ty
+        question: What view expresses the belief that the millennium began with Christ’s
+          resurrection and will end with His second coming?
+        choices:
+          A: Amillennialist
+          B: Midmillennialist
+          C: Postmillennialist
+          D: Premillennialist
+        answer: C
+      - uid: THE118.13.1.1.TY.2
+        subobj: 13.1.1
+        type: ty
+        question: Which view expresses the belief in a literal thousand-year reign
+          by Christ that begins with the second coming of Christ to earth?
+        choices:
+          A: Amillennialist
+          B: Midmillennialist
+          C: Postmillennialist
+          D: Premillennialist
+        answer: D
+      - uid: THE118.13.1.1.TY.3
+        subobj: 13.1.1
+        type: ty
+        question: After the tribulation, Satan will be
+        choices:
+          A: captured, bound, and locked in an Abyss for one thousand years.
+          B: released to gather a final army to fight against God.
+          C: cast away into utter darkness for eternity in hell.
+          D: judged along with his demons.
+        answer: A
+      - uid: THE118.13.1.2.UPE.1
+        subobj: 13.1.2
+        type: upe
+        question: Who prophesies that a new temple will be built during the millennium?
+        choices:
+          A: Micah
+          B: Jeremiah
+          C: Ezekiel
+          D: Joel
+        answer: C
+      - uid: THE118.13.1.2.TY.1
+        subobj: 13.1.2
+        type: ty
+        question: Who prophesies that a new temple will be built during the millennium?
+        choices:
+          A: Micah
+          B: Jeremiah
+          C: Ezekiel
+          D: Joel
+        answer: C
+      - uid: THE118.13.1.2.TY.2
+        subobj: 13.1.2
+        type: ty
+        question: During the millennial reign of Christ
+        choices:
+          A: God will judge all the righteous and wicked.
+          B: the curse will be lifted from the earth, and the world will enjoy peace.
+          C: there will be no more temptation or sin, because Satan will be bound.
+          D: there will still be the opportunity to sin, because Satan will be on
+            the loose.
+        answer: B
+      - uid: THE118.13.2.1.UPE.1
+        subobj: 13.2.1
+        type: upe
+        question: Those whose names are not found in the Book of Life will
+        choices:
+          A: spend eternity in Hades.
+          B: be thrown into the lake of fire for eternity.
+          C: rule and reign with Christ.
+          D: spend eternity in paradise.
+        answer: B
+      - uid: THE118.13.2.1.TY.1
+        subobj: 13.2.1
+        type: ty
+        question: The King James Version of the Bible uses what word for both the
+          place of the dead and the eternal destiny of the lost?
+        choices:
+          A: Hell
+          B: Paradise
+          C: Purgatory
+          D: Hades
+        answer: A
+      - uid: THE118.13.2.1.TY.2
+        subobj: 13.2.1
+        type: ty
+        question: After the resurrection of the dead, the souls of the righteous go
+          to
+        choices:
+          A: paradise.
+          B: purgatory.
+          C: the presence of the Lord.
+          D: Hades.
+        answer: C
+      - uid: THE118.13.2.1.TY.3
+        subobj: 13.2.1
+        type: ty
+        question: The Great White Throne judgment is for
+        choices:
+          A: believers and unbelievers after the millennium.
+          B: believers before the millennium.
+          C: the wicked dead after the second resurrection.
+          D: believers and unbelievers before the millennium.
+        answer: C
+      - uid: THE118.13.3.1.UPE.1
+        subobj: 13.3.1
+        type: upe
+        question: What will happen to the world after the Millennium?
+        choices:
+          A: This world will be completely destroyed and be replaced with a new heavens
+            and earth.
+          B: Christ will reign upon earth for eternity.
+          C: The world will be restored to its original condition.
+          D: This world will once again prosper under the leadership of Christ.
+        answer: A
+      - uid: THE118.13.3.1.TY.1
+        subobj: 13.3.1
+        type: ty
+        question: How many miles long will each side of the New Jerusalem be?
+        choices:
+          A: '128'
+          B: '1200'
+          C: '1380'
+          D: '1540'
+        answer: C
+      - uid: THE118.13.3.1.TY.2
+        subobj: 13.3.1
+        type: ty
+        question: After the Great White Throne Judgment, God will
+        choices:
+          A: rule upon earth for a thousand years.
+          B: restore the world to its original condition.
+          C: destroy the world and spend eternity with His people in heaven.
+          D: create a new heaven and earth and dwell with His people for eternity.
+        answer: D
     chapters:
     - last_modified: '2026-03-27'
       title: 1 - The Inspiration of the Scriptures

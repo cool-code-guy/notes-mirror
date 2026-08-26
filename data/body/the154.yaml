@@ -2627,6 +2627,2499 @@ courses:
       '1.0':
         timestamp: '2026-04-01'
         PN: 01.26.06
+    printings:
+    - pn: 01.26.06
+      course_code: THE154
+      source_html: BTHE154ENE01-90_01.26.06.html
+      template: old
+      recorded: '2026-08-26'
+      note: 'Pristine print baseline built by scripts/build_html_baseline.py purely
+        from the InDesign HTML -- no DB input. Read-only: never hand-edit and never
+        feed to the janitor. UIDs are synthesized from the book''s own answer key;
+        diff pairs by content.'
+      counts:
+        ty: 138
+        upe: 95
+        final: 0
+      questions:
+      - uid: THE154.1.1.1.UPE.1
+        subobj: 1.1.1
+        type: upe
+        question: What was a major factor in the rise of the Second Great Awakening?
+        choices:
+          A: Increased immigration from Europe
+          B: Growth of industrialization in the North
+          C: Decline of religious fervor in cities
+          D: Westward expansion and lack of churches
+        answer: D
+      - uid: THE154.1.1.1.UPE.2
+        subobj: 1.1.1
+        type: upe
+        question: Which of the following was NOT a characteristic of Second Great
+          Awakening revivals?
+        choices:
+          A: Emotional and participatory services
+          B: Lay leadership in churches
+          C: Traveling preachers reaching new communities
+          D: Emphasis on predestination theology
+        answer: D
+      - uid: THE154.1.1.1.TY.1
+        subobj: 1.1.1
+        type: ty
+        question: What was one outcome of the Second Great Awakening?
+        choices:
+          A: The development of new methods for spreading the Gospel
+          B: A shift from traditional to modernistic theology
+          C: A decline in church attendance
+          D: A focus on secular philosophies
+        answer: A
+      - uid: THE154.1.1.2.TY.1
+        subobj: 1.1.2
+        type: ty
+        question: In what way did Modernism and Secularism affect society and church
+          in the mid to late 1800s?
+        choices:
+          A: Excluded diverse leadership
+          B: Led to peace throughout the nation
+          C: Raised doubts about the reliability and accuracy of the Bible
+          D: Brought about great spirituality among educated people
+        answer: C
+      - uid: THE154.1.2.1.TY.1
+        subobj: 1.2.1
+        type: ty
+        question: 'The Restorationist Movement sought to:'
+        choices:
+          A: Create new denominations
+          B: Restore early Church practices and beliefs
+          C: Challenge modern science
+          D: Overcome political divisions
+        answer: B
+      - uid: THE154.1.2.2.TY.1
+        subobj: 1.2.2
+        type: ty
+        question: Which statement reflects the teaching of the Fundamentalist Movement?
+        choices:
+          A: The Second Coming is symbolic
+          B: Modernism aligns with Christian principles
+          C: Church tradition overrides biblical doctrine
+          D: The Bible is historically accurate and inerrant
+        answer: D
+      - uid: THE154.1.2.3.TY.1
+        subobj: 1.2.3
+        type: ty
+        question: What impact did the Holiness Movement have on the Assemblies of
+          God?
+        choices:
+          A: It promoted predestination theology
+          B: It emphasized personal holiness and Spirit-filled living
+          C: It rejected free will and Arminianism
+          D: It limited lay ministry involvement
+        answer: B
+      - uid: THE154.1.2.3.TY.2
+        subobj: 1.2.3
+        type: ty
+        question: A major influence of the Holiness Movement on the Assemblies of
+          God was
+        choices:
+          A: A ritual ceremony for church membership
+          B: An emphasis on a second experience after salvation
+          C: A traditional theological debate
+          D: A replacement for water baptism
+        answer: B
+      - uid: THE154.1.2.4.UPE.1
+        subobj: 1.2.4
+        type: upe
+        question: Who was a significant influence on the Holiness Movement and later
+          Pentecostal teachings?
+        choices:
+          A: A.B. Simpson
+          B: John Alexander Dowie
+          C: William Seymour
+          D: Charles Darwin
+        answer: A
+      - uid: THE154.1.2.4.TY.1
+        subobj: 1.2.4
+        type: ty
+        question: Many of the founding ministers of the Assemblies of God attended
+          A. B. Simpson's Missionary Training Institute where they were taught which
+          Gospel model?
+        choices:
+          A: 'The Apostle''s Leadership Model: Pastor, Deacon, Lay Worker'
+          B: 'The Denominational Hierarchy: Superintendent, Presbyter, Pastor'
+          C: 'Spiritual Hierarchy: God, Angels, Demons'
+          D: 'Fourfold Gospel: Christ as Savior, Sanctifier, Healer, and Coming King'
+        answer: D
+      - uid: THE154.1.2.4.TY.2
+        subobj: 1.2.4
+        type: ty
+        question: Which theological perspective did the Assemblies of God embrace?
+        choices:
+          A: Postmodernism
+          B: Arminianism
+          C: Calvinism
+          D: Secularism
+        answer: B
+      - uid: THE154.2.1.2.UPE.1
+        subobj: 2.1.2
+        type: upe
+        question: What was the defining belief Charles Parham added to Holiness doctrine?
+        choices:
+          A: The necessity of predestination in salvation
+          B: The belief in Spirit baptism with the evidence of speaking in tongues
+          C: The rejection of traditional church practices
+          D: Emphasis on divine healing as the only evidence of faith
+        answer: B
+      - uid: THE154.2.1.2.TY.1
+        subobj: 2.1.2
+        type: ty
+        question: What unique tenet did Charles Parham add to Holiness doctrine?
+        choices:
+          A: The baptism in the Holy Spirit with the gifts of the Spirit
+          B: The doctrine of predestination
+          C: The importance of social activism
+          D: The imminent return of Christ
+        answer: A
+      - uid: THE154.2.1.2.TY.2
+        subobj: 2.1.2
+        type: ty
+        question: How did Parham influence the development of the Pentecostal Movement?
+        choices:
+          A: By rejecting racial inclusion in revival meetings
+          B: By emphasizing xenolalia over glossolalia
+          C: By organizing the Azusa Street Revival
+          D: By articulating Spirit baptism with the evidence of tongues
+        answer: D
+      - uid: THE154.2.1.3.TY.1
+        subobj: 2.1.3
+        type: ty
+        question: Why did Parham conclude that speaking in tongues is the initial
+          evidence of baptism in the Holy Spirit?
+        choices:
+          A: It was the focus of his teaching at Bethel Bible College.
+          B: He observed the pattern in the book of Acts.
+          C: It was commonly taught by other ministers.
+          D: He saw it in the ministry of William Seymour.
+        answer: B
+      - uid: THE154.2.2.1.TY.1
+        subobj: 2.2.1
+        type: ty
+        question: What personal challenges did William Seymour overcome in his early
+          life?
+        choices:
+          A: Family opposition and financial struggles
+          B: Language barriers and lack of education
+          C: Physical disabilities and criticism of his ministry
+          D: Blindness in one eye, racial hostility, and poverty
+        answer: D
+      - uid: THE154.2.2.2.TY.1
+        subobj: 2.2.2
+        type: ty
+        question: What role did prayer play in the birth of the Pentecostal Movement?
+        choices:
+          A: It unified believers and prepared them for Spirit baptism.
+          B: It replaced the need for formal Bible study.
+          C: It was secondary to preaching and teaching.
+          D: It was used only for individual guidance.
+        answer: A
+      - uid: THE154.2.2.2.TY.2
+        subobj: 2.2.2
+        type: ty
+        question: What characterized the humble beginnings of the Los Angeles revival?
+        choices:
+          A: The immediate recognition of Seymour’s teachings
+          B: Widespread financial support from local congregations
+          C: Prayer meetings in private homes that grew quickly
+          D: Large, well-attended meetings in a prominent church
+        answer: C
+      - uid: THE154.2.2.2.TY.3
+        subobj: 2.2.2
+        type: ty
+        question: What happened at the first Azusa Street meetings?
+        choices:
+          A: Parham preached alongside Seymour to large crowds.
+          B: Seymour was rejected by the local church.
+          C: Leaders focused on planning and preparation for revival.
+          D: Crowds of diverse people gathered and experienced Spirit baptism.
+        answer: D
+      - uid: THE154.2.2.3.UPE.1
+        subobj: 2.2.3
+        type: upe
+        question: What role did women play in the early Pentecostal Movement?
+        choices:
+          A: Limited to supporting roles in worship
+          B: Advocating for denominational unity
+          C: Active as preachers, evangelists, and missionaries
+          D: Excluded from formal ministry positions
+        answer: C
+      - uid: THE154.2.2.3.TY.1
+        subobj: 2.2.3
+        type: ty
+        question: Which of the following was a key strength of the Azusa Street Revival?
+        choices:
+          A: Its intercultural and inclusive nature
+          B: Its strict denominational boundaries
+          C: Its reliance on charismatic leaders
+          D: Its focus on social activism rather than prayer
+        answer: A
+      - uid: THE154.2.2.3.TY.2
+        subobj: 2.2.3
+        type: ty
+        question: What is the lasting impact of the Azusa Street Revival?
+        choices:
+          A: It launched a global movement of Spirit-filled believers.
+          B: It introduced strict denominational structures.
+          C: It ended racial tensions in American Christianity.
+          D: It created the largest church in Los Angeles.
+        answer: A
+      - uid: THE154.2.2.4.UPE.1
+        subobj: 2.2.4
+        type: upe
+        question: What were some criticisms of Pentecostals by other Christian groups?
+        choices:
+          A: They lacked emphasis on the Bible.
+          B: Speaking in tongues was seen as a sign of delusion.
+          C: They avoided organized missions work.
+          D: They focused too much on personal evangelism.
+        answer: B
+      - uid: THE154.2.2.4.TY.1
+        subobj: 2.2.4
+        type: ty
+        question: What was one lesson from Seymour’s break with Parham?
+        choices:
+          A: Racial harmony is not possible in the Church.
+          B: The Pentecostal Movement required stricter leadership.
+          C: Perseverance can lead to reconciliation.
+          D: Disunity can hinder God’s work.
+        answer: D
+      - uid: THE154.3.2.1.UPE.1
+        subobj: 3.2.1
+        type: upe
+        question: What role did publications play in the Pentecostal Movement?
+        choices:
+          A: They minimized theological disagreements.
+          B: They spread reports of revivals and organized connections.
+          C: They replaced the need for local church gatherings.
+          D: They discouraged independent missions efforts.
+        answer: B
+      - uid: THE154.3.2.1.UPE.2
+        subobj: 3.2.1
+        type: upe
+        question: What was a common method early Pentecostals used to spread their
+          message?
+        choices:
+          A: Hosting formal theological debates
+          B: Relying solely on radio broadcasts
+          C: Partnering with established denominations
+          D: Traveling in gospel bands to unchurched areas
+        answer: D
+      - uid: THE154.3.2.1.TY.1
+        subobj: 3.2.1
+        type: ty
+        question: What method was commonly used by Pentecostals to reach new communities?
+        choices:
+          A: Gospel bands and open-air meetings
+          B: Starting new Bible colleges
+          C: Organizing large charity drives
+          D: Preaching in established churches
+        answer: A
+      - uid: THE154.3.2.1.TY.2
+        subobj: 3.2.1
+        type: ty
+        question: What was a hallmark of early Pentecostal evangelism?
+        choices:
+          A: Using unconventional methods
+          B: Relying on established churches to spread their message
+          C: Avoiding persecution and public attention
+          D: Prioritizing academic theological debates
+        answer: A
+      - uid: THE154.3.2.2.UPE.1
+        subobj: 3.2.2
+        type: upe
+        question: How did Pentecostals support their missionary work?
+        choices:
+          A: Through direct contributions publicized in newsletters and magazines
+          B: By requiring churches to tithe exclusively to missions
+          C: By organizing international mission boards
+          D: By relying solely on foreign government grants
+        answer: A
+      - uid: THE154.3.2.2.TY.1
+        subobj: 3.2.2
+        type: ty
+        question: What need was often addressed in Pentecostal services?
+        choices:
+          A: Financial planning assistance
+          B: Entertainment for families
+          C: Academic religious debates
+          D: Healing and personal testimonies
+        answer: D
+      - uid: THE154.3.2.3.UPE.1
+        subobj: 3.2.3
+        type: upe
+        question: What made Pentecostal gatherings unique and inclusive?
+        choices:
+          A: They emphasized strict dress codes.
+          B: They required advanced theological training for leaders.
+          C: They welcomed people of all races, genders, and social statuses.
+          D: They excluded wealthy members.
+        answer: C
+      - uid: THE154.3.2.3.TY.1
+        subobj: 3.2.3
+        type: ty
+        question: How were Pentecostal gatherings uniquely egalitarian?
+        choices:
+          A: They included women, men, and people of all races.
+          B: They limited leadership roles to clergy.
+          C: They excluded those without formal education.
+          D: They focused only on young leaders.
+        answer: A
+      - uid: THE154.3.3.1.TY.1
+        subobj: 3.3.1
+        type: ty
+        question: What demonstrated Pentecostals’ openness to new things?
+        choices:
+          A: Their preference for traditional church structures
+          B: Their rejection of established doctrines
+          C: Their use of new technologies like radio
+          D: Their willingness to adopt new worship styles
+        answer: C
+      - uid: THE154.3.3.2.UPE.1
+        subobj: 3.3.2
+        type: upe
+        question: What was one hallmark of early Pentecostal fervency?
+        choices:
+          A: Passionate evangelism despite opposition and hardships
+          B: Avoiding controversial doctrinal issues
+          C: A commitment to structured, formal worship
+          D: A deep focus on academic theological study
+        answer: A
+      - uid: THE154.3.3.2.TY.1
+        subobj: 3.3.2
+        type: ty
+        question: What characterized the fervency of early Pentecostals?
+        choices:
+          A: A desire to isolate from society
+          B: A passion for evangelism despite opposition
+          C: A reluctance to take risks
+          D: A focus on intellectual theology
+        answer: B
+      - uid: THE154.3.4.1.TY.1
+        subobj: 3.4.1
+        type: ty
+        question: What belief about the Second Coming motivated early Pentecostals?
+        choices:
+          A: That it negated the need for missions
+          B: That it was unrelated to their daily lives
+          C: That Jesus’ return was far in the future
+          D: That Christ’s coming was imminent, creating urgency for evangelism
+        answer: D
+      - uid: THE154.3.4.1.TY.2
+        subobj: 3.4.1
+        type: ty
+        question: What did Pentecostals believe about divine healing?
+        choices:
+          A: It was only for spiritual renewal.
+          B: It required professional medical intervention.
+          C: It was primarily symbolic.
+          D: It was a promise included in Christ’s atonement.
+        answer: D
+      - uid: THE154.3.4.1.TY.3
+        subobj: 3.4.1
+        type: ty
+        question: What is one of the core tenets of the Pentecostal message?
+        choices:
+          A: Social justice as the foundation of Christianity
+          B: Salvation through faith in Christ’s atoning work
+          C: Rejection of traditional doctrines
+          D: Church hierarchy as the primary focus
+        answer: B
+      - uid: THE154.3.4.2.UPE.1
+        subobj: 3.4.2
+        type: upe
+        question: Which belief drove early Pentecostals’ passion for missions?
+        choices:
+          A: That local ministry should be prioritized over global outreach
+          B: That Jesus would return only after the gospel was preached globally
+          C: That Spirit baptism was a private experience
+          D: That missions work was a secondary church responsibility
+        answer: B
+      - uid: THE154.3.4.2.UPE.2
+        subobj: 3.4.2
+        type: upe
+        question: Which belief motivated Pentecostals to act with urgency?
+        choices:
+          A: That the Second Coming of Christ was centuries away
+          B: That they were living in the last days
+          C: That salvation was only available to a select few
+          D: That the church needed centralized leadership first
+        answer: B
+      - uid: THE154.3.4.2.TY.1
+        subobj: 3.4.2
+        type: ty
+        question: How does the baptism in the Holy Spirit complement the Holiness
+          tenet of sanctification?
+        choices:
+          A: It rejects the importance of personal holiness.
+          B: It removes the need for evangelism.
+          C: It focuses solely on external behaviors.
+          D: It emphasizes gifts of the Spirit for ministry.
+        answer: D
+      - uid: THE154.4.1.1.UPE.1
+        subobj: 4.1.1
+        type: upe
+        question: Why did some Pentecostals oppose organizing into a denomination?
+        choices:
+          A: They lacked capable leaders.
+          B: They were uncertain about the role of missions.
+          C: They wanted to avoid losing Spirit-led spontaneity.
+          D: They disagreed on the role of women in ministry.
+        answer: C
+      - uid: THE154.4.1.1.UPE.2
+        subobj: 4.1.1
+        type: upe
+        question: What was one issue with the independent nature of early Pentecostal
+          groups?
+        choices:
+          A: They depended on outside funding for survival.
+          B: They faced disunity and a lack of accountability.
+          C: They were unable to attract new believers.
+          D: They lacked autonomy in decision-making.
+        answer: B
+      - uid: THE154.4.1.1.TY.1
+        subobj: 4.1.1
+        type: ty
+        question: What was one key issue caused by the independent nature of the Pentecostal
+          Movement?
+        choices:
+          A: Immediate support for missionaries overseas
+          B: Strong theological unity across all groups
+          C: Confusion caused by similar organizational names
+          D: Universal agreement on practices and beliefs
+        answer: C
+      - uid: THE154.4.1.2.UPE.1
+        subobj: 4.1.2
+        type: upe
+        question: Why was organizing challenging for early Pentecostals?
+        choices:
+          A: They feared losing local church autonomy.
+          B: They lacked charismatic leaders.
+          C: They disagreed about Spirit baptism.
+          D: They prioritized denominational partnerships.
+        answer: A
+      - uid: THE154.4.2.1.TY.1
+        subobj: 4.2.1
+        type: ty
+        question: Who was one of the key architects of the Hot Springs meeting?
+        choices:
+          A: Charles Parham
+          B: Maria Woodworth-Etter
+          C: William Seymour
+          D: E. N. Bell
+        answer: D
+      - uid: THE154.4.2.1.TY.2
+        subobj: 4.2.1
+        type: ty
+        question: What role did E. N. Bell play in the Hot Springs gathering?
+        choices:
+          A: He published the call to organize in Word and Witness.
+          B: He led worship services during the convention.
+          C: He opposed the idea of forming an organization.
+          D: He arranged the logistics of the meeting.
+        answer: A
+      - uid: THE154.4.2.2.UPE.1
+        subobj: 4.2.2
+        type: upe
+        question: What was one goal of the Hot Springs meeting?
+        choices:
+          A: To create a cooperative fellowship without rigid structure
+          B: To merge all Holiness groups under one name
+          C: To formalize strict theological rules
+          D: To elect a single leader for the Pentecostal Movement
+        answer: A
+      - uid: THE154.4.2.2.TY.1
+        subobj: 4.2.2
+        type: ty
+        question: Why was care needed when calling Pentecostals to organize?
+        choices:
+          A: There was widespread support for rigid church structures.
+          B: Leaders were already united on doctrinal issues.
+          C: Many feared that organization would quench the Spirit’s moving.
+          D: Pentecostals had strong ties to the Holiness Movement.
+        answer: C
+      - uid: THE154.4.3.1.TY.1
+        subobj: 4.3.1
+        type: ty
+        question: Who was invited to attend the Hot Springs gathering?
+        choices:
+          A: All leaders of fundamentalist movements
+          B: Pentecostal believers who accepted Spirit baptism with tongues
+          C: Only clergy from the Pentecostal Holiness Church
+          D: All church members, regardless of beliefs
+        answer: B
+      - uid: THE154.4.3.2.UPE.1
+        subobj: 4.3.2
+        type: upe
+        question: What significant step was taken regarding missions at the Hot Springs
+          meeting?
+        choices:
+          A: Centralizing all mission work under a single leader
+          B: Establishing guidelines for supporting missionaries fairly
+          C: Redirecting missions efforts exclusively to the United States
+          D: Eliminating missionary reports in newsletters
+        answer: B
+      - uid: THE154.4.3.2.UPE.2
+        subobj: 4.3.2
+        type: upe
+        question: Which of the following was NOT one of Bell’s stated purposes for
+          organizing?
+        choices:
+          A: Overseeing missions work fairly
+          B: Ensuring doctrinal conformity to Calvinist beliefs
+          C: Promoting unity among Pentecostals
+          D: Creating a legal framework for churches
+        answer: B
+      - uid: THE154.4.3.2.TY.1
+        subobj: 4.3.2
+        type: ty
+        question: Which of the following types was NOT one of Bell's five stated purposes
+          for organizing?
+        choices:
+          A: Supporting charismatic celebrity leaders
+          B: Conservation of the work
+          C: Unity in doctrine and practice
+          D: Legal recognition for churches
+        answer: A
+      - uid: THE154.4.4.1.UPE.1
+        subobj: 4.4.1
+        type: upe
+        question: Why was no business conducted during the first few days of the Hot
+          Springs meeting?
+        choices:
+          A: Disagreements prevented starting discussions.
+          B: Participants had not yet arrived.
+          C: Leaders were unprepared for the gathering.
+          D: Time was set aside for prayer, worship, and unity-building.
+        answer: D
+      - uid: THE154.4.4.2.UPE.1
+        subobj: 4.4.2
+        type: upe
+        question: How did T. K. Leonard’s group influence the founding of the Assemblies
+          of God?
+        choices:
+          A: By drafting resolutions that balanced autonomy and cooperation
+          B: By proposing a rigid doctrinal statement
+          C: By rejecting participation in missions efforts
+          D: By opposing any form of organizational structure
+        answer: A
+      - uid: THE154.4.4.2.UPE.2
+        subobj: 4.4.2
+        type: upe
+        question: What was a key concern for Pentecostals when discussing church structure?
+        choices:
+          A: Appointing a central governing leader
+          B: Preventing bureaucracy from quenching the Spirit
+          C: Developing strict membership requirements
+          D: Ensuring financial stability
+        answer: B
+      - uid: THE154.4.4.2.TY.1
+        subobj: 4.4.2
+        type: ty
+        question: What was the purpose of the informal committee led by T. K. Leonard?
+        choices:
+          A: To replace the official committee at Hot Springs
+          B: To promote a centralized denominational structure
+          C: To block all organizational efforts
+          D: To safeguard local church sovereignty and propose resolutions
+        answer: D
+      - uid: THE154.4.4.2.TY.2
+        subobj: 4.4.2
+        type: ty
+        question: What concern did Pentecostals have about rigid organizational structures?
+        choices:
+          A: They thought it would eliminate personal freedom of worship.
+          B: They worried it would cause divisions among fundamentalists.
+          C: They believed it would lead to political corruption.
+          D: They feared it would quench the Spirit’s moving.
+        answer: D
+      - uid: THE154.4.4.2.TY.3
+        subobj: 4.4.2
+        type: ty
+        question: What was the outcome of the resolutions proposed by T. K. Leonard’s
+          committee?
+        choices:
+          A: They were rejected by the official committee.
+          B: They emphasized centralized control over churches.
+          C: They became the foundation for the Assemblies of God Constitution.
+          D: They caused significant division within the assembly.
+        answer: C
+      - uid: THE154.4.4.3.UPE.1
+        subobj: 4.4.3
+        type: upe
+        question: What foundational principle defined the Assemblies of God’s structure?
+        choices:
+          A: Mandatory adherence to a single leader’s teachings
+          B: A centralized authority governing all churches
+          C: Cooperative fellowship that respected local church autonomy
+          D: Exclusion of controversial theological doctrines
+        answer: C
+      - uid: THE154.4.4.3.UPE.2
+        subobj: 4.4.3
+        type: upe
+        question: What significant decision came out of the Hot Springs meeting?
+        choices:
+          A: The rejection of women in ministry
+          B: The agreement to separate from global missions
+          C: The establishment of clergy tithing requirements
+          D: The adoption of the name “The Assemblies of God”
+        answer: D
+      - uid: THE154.4.4.3.TY.1
+        subobj: 4.4.3
+        type: ty
+        question: How did the Assemblies of God choose to handle doctrinal disagreements?
+        choices:
+          A: By requiring uniformity across all churches
+          B: By emphasizing voluntary cooperation and discussion
+          C: By creating a rigid statement of faith
+          D: By deferring decisions to an external board
+        answer: B
+      - uid: THE154.4.4.4.UPE.1
+        subobj: 4.4.4
+        type: upe
+        question: What steps did the Assemblies of God take to ensure doctrinal accountability?
+        choices:
+          A: Mandating adherence to a strict creed
+          B: Avoiding theological discussions altogether
+          C: Recommending cooperative fellowship with scriptural oversight
+          D: Appointing a governing council to enforce beliefs
+        answer: C
+      - uid: THE154.5.1.1.TY.1
+        subobj: 5.1.1
+        type: ty
+        question: What is one of the four core doctrines of the Assemblies of God?
+        choices:
+          A: Divine Healing
+          B: Tithing
+          C: Baptism by Water
+          D: Church Governance
+        answer: A
+      - uid: THE154.5.2.1.UPE.1
+        subobj: 5.2.1
+        type: upe
+        question: How does the Assemblies of God view sanctification?
+        choices:
+          A: It is instantaneous and complete at the moment of justification.
+          B: It occurs through growth in faith after salvation.
+          C: It is achieved through baptism in the Holy Spirit.
+          D: It is a single, finished work at salvation.
+        answer: B
+      - uid: THE154.5.2.1.TY.1
+        subobj: 5.2.1
+        type: ty
+        question: What term describes the Assemblies of God’s view that holiness comes
+          through growth in faith after salvation?
+        choices:
+          A: Baptismal Regeneration
+          B: The Finished Work of Calvary
+          C: Wesleyan Sanctification
+          D: The Keswick Doctrine
+        answer: B
+      - uid: THE154.5.2.1.TY.2
+        subobj: 5.2.1
+        type: ty
+        question: How does the Assemblies of God view sanctification?
+        choices:
+          A: It is achieved through baptism in the Holy Spirit.
+          B: It is a second blessing received after justification.
+          C: It is progressive after a single, finished work at salvation.
+          D: It is instantaneous and complete after baptism.
+        answer: C
+      - uid: THE154.5.3.1.TY.1
+        subobj: 5.3.1
+        type: ty
+        question: What was one key problem with Oneness theology?
+        choices:
+          A: It rejected the doctrine of salvation.
+          B: It relied on personal revelation over Scripture.
+          C: It prioritized church governance over doctrine.
+          D: It downplayed the role of divine healing.
+        answer: B
+      - uid: THE154.5.4.1.UPE.1
+        subobj: 5.4.1
+        type: upe
+        question: What was the purpose of the Sixteen Fundamental Truths?
+        choices:
+          A: To address legal matters of the General Council
+          B: To establish independent churches in rural areas
+          C: To clarify and codify Assemblies of God doctrines
+          D: To unify Pentecostals with Wesleyans
+        answer: C
+      - uid: THE154.5.4.1.UPE.2
+        subobj: 5.4.1
+        type: upe
+        question: What does the Assemblies of God Fundamental Truth about salvation
+          emphasize?
+        choices:
+          A: Salvation is dependent on water baptism.
+          B: Salvation is by grace through faith, not by works.
+          C: Salvation occurs after baptism in the Holy Spirit.
+          D: Salvation requires strict adherence to the Law.
+        answer: B
+      - uid: THE154.5.4.1.TY.1
+        subobj: 5.4.1
+        type: ty
+        question: What is one of the Sixteen Fundamental Truths?
+        choices:
+          A: The Trinity consists of Jesus alone.
+          B: Sanctification occurs only after baptism.
+          C: Salvation is by grace alone through faith.
+          D: Water baptism is necessary for salvation.
+        answer: C
+      - uid: THE154.5.4.1.TY.2
+        subobj: 5.4.1
+        type: ty
+        question: What does the Assemblies of God Fundamental Truth about salvation
+          emphasize?
+        choices:
+          A: Salvation requires water baptism for entry into heaven.
+          B: Salvation is by grace through faith, not by works.
+          C: Salvation depends on perfect adherence to the Law.
+          D: Salvation occurs after baptism in the Holy Spirit.
+        answer: B
+      - uid: THE154.5.4.1.TY.3
+        subobj: 5.4.1
+        type: ty
+        question: What was the purpose of the Sixteen Fundamental Truths?
+        choices:
+          A: To unify Pentecostals with Wesleyans.
+          B: To address legal matters of the General Council.
+          C: To create a new denomination.
+          D: To clarify and codify Assemblies of God doctrines.
+        answer: D
+      - uid: THE154.5.4.1.TY.4
+        subobj: 5.4.1
+        type: ty
+        question: What does the Assemblies of God Fundamental Truth about the Church
+          emphasize?
+        choices:
+          A: The Church’s primary mission is to seek and save the lost.
+          B: The Church is only for those who meet strict doctrinal standards.
+          C: The Church replaces the Old Testament covenant.
+          D: The Church has no formal mission or leadership.
+        answer: A
+      - uid: THE154.5.5.1.UPE.1
+        subobj: 5.5.1
+        type: upe
+        question: What is the Assemblies of God’s distinctive doctrine?
+        choices:
+          A: Salvation by works
+          B: Post-millennial eschatology
+          C: Speaking in tongues as initial physical evidence of Spirit baptism
+          D: Oneness theology
+        answer: C
+      - uid: THE154.5.5.1.TY.1
+        subobj: 5.5.1
+        type: ty
+        question: What is the Assemblies of God’s distinctive doctrine?
+        choices:
+          A: Post-millennial eschatology
+          B: Speaking in tongues as initial physical evidence of Spirit baptism
+          C: Salvation by works and faith
+          D: Oneness theology
+        answer: B
+      - uid: THE154.5.5.1.TY.2
+        subobj: 5.5.1
+        type: ty
+        question: Who argued that speaking in tongues is the initial evidence of Spirit
+          baptism?
+        choices:
+          A: William Seymour
+          B: Charles Parham
+          C: F. F. Bosworth
+          D: D. W. Kerr
+        answer: D
+      - uid: THE154.6.1.1.UPE.1
+        subobj: 6.1.1
+        type: upe
+        question: What was the first department created by the Assemblies of God in
+          1919?
+        choices:
+          A: Ministerial Credentialing
+          B: Foreign Missions
+          C: Christian Education
+          D: Church Planting
+        answer: B
+      - uid: THE154.6.1.1.TY.1
+        subobj: 6.1.1
+        type: ty
+        question: What was the first department created by the Assemblies of God in
+          1919?
+        choices:
+          A: Ministerial Credentialing
+          B: Church Planting
+          C: Christian Education
+          D: Foreign Missions
+        answer: D
+      - uid: THE154.6.1.1.TY.2
+        subobj: 6.1.1
+        type: ty
+        question: What statement from the Second General Council in 1914 reflects
+          the Assemblies of God's early passion for missions?
+        choices:
+          A: '"Missionary work should be left to established churches, not new movements."'
+          B: '"The mission field must be self-supporting before we send missionaries."'
+          C: '"The Assemblies of God will prioritize domestic ministry before world
+            missions."'
+          D: '"We commit ourselves and the Movement to Him for the greatest evangelism
+            that the world has ever seen."'
+        answer: D
+      - uid: THE154.6.2.1.TY.1
+        subobj: 6.2.1
+        type: ty
+        question: Which of the following was one of the six missionary principles
+          adopted by the 1921 General Council?
+        choices:
+          A: Indigenous Churches
+          B: Government partnerships for missions
+          C: Focus on urban centers only
+          D: Mandatory Western oversight of all mission efforts
+        answer: A
+      - uid: THE154.6.3.1.UPE.1
+        subobj: 6.3.1
+        type: upe
+        question: What was the main goal of the Assemblies of God's Indigenous Church
+          Principle?
+        choices:
+          A: To train pastors only in Western theological methods
+          B: To establish self-supporting, self-governing, and self-propagating local
+            churches
+          C: To ensure all missionaries were from the United States
+          D: To centralize church governance under missionary leadership
+        answer: B
+      - uid: THE154.6.3.1.TY.1
+        subobj: 6.3.1
+        type: ty
+        question: What was the main goal of the Assemblies of God's Indigenous Church
+          Principle?
+        choices:
+          A: To ensure all missionaries were from the United States
+          B: To establish self-supporting, self-governing, and self-propagating local
+            churches
+          C: To centralize church governance under missionary leadership
+          D: To train pastors only in Western theological methods
+        answer: B
+      - uid: THE154.6.3.1.TY.2
+        subobj: 6.3.1
+        type: ty
+        question: Who was Alice Luce, and how did she shape AG missions?
+        choices:
+          A: The first AG missionary to China who translated the Bible into Mandarin.
+          B: A pioneer missionary to Mexico who promoted the Indigenous Church Principle.
+          C: The founder of Women's Missionary Council, which supported AG missions.
+          D: A missionary to Africa who helped build the first AG Bible school.
+        answer: B
+      - uid: THE154.6.3.3.UPE.1
+        subobj: 6.3.3
+        type: upe
+        question: Which types of resources does Light for the Lost provide to support
+          missionary efforts?
+        choices:
+          A: Sound systems
+          B: Boats and planes
+          C: Business startup assistance
+          D: Print, audio, and video materials
+        answer: D
+      - uid: THE154.6.3.3.TY.1
+        subobj: 6.3.3
+        type: ty
+        question: Which types of resources does Light for the Lost provide to support
+          missionary efforts?
+        choices:
+          A: Print, audio, and video materials
+          B: Sound systems
+          C: Business startup assistance
+          D: Boats and planes
+        answer: A
+      - uid: THE154.6.3.4.UPE.1
+        subobj: 6.3.4
+        type: upe
+        question: What are the three key components of the Assemblies of God U.S.
+          Missions (AGUSM) vision?
+        choices:
+          A: Evangelize, Mobilize, Establish
+          B: Reach, Teach, Transform
+          C: Train, Fund, Deploy
+          D: Seek, Save, Send
+        answer: D
+      - uid: THE154.6.3.4.UPE.2
+        subobj: 6.3.4
+        type: upe
+        question: Which of the following is one of the ministry areas (Windows) of
+          Assemblies of God U.S. Missions (AGUSM)?
+        choices:
+          A: Panama Canal Ministries
+          B: Adult & Teen Challenge
+          C: International Finance Department
+          D: Business Development Initiatives
+        answer: B
+      - uid: THE154.6.3.4.TY.1
+        subobj: 6.3.4
+        type: ty
+        question: What are the three key components of the Assemblies of God U.S.
+          Missions (AGUSM) vision?
+        choices:
+          A: Reach, Teach, Transform
+          B: Train, Fund, Deploy
+          C: Evangelize, Mobilize, Establish
+          D: Seek, Save, Send
+        answer: D
+      - uid: THE154.6.3.4.TY.2
+        subobj: 6.3.4
+        type: ty
+        question: Which of the following is not one of the ministry areas (Windows)
+          of Assemblies of God U.S. Missions (AGUSM)?
+        choices:
+          A: Chaplaincy Ministries
+          B: Youth Alive
+          C: Adult & Teen Challenge
+          D: Business Development Initiatives
+        answer: D
+      - uid: THE154.6.5.4.TY.1
+        subobj: 6.5.4
+        type: ty
+        question: What major change occurred in 1959 to further equip AG missionaries
+          and leaders for ministry?
+        choices:
+          A: The annual School of Missions (now Missionary Renewal) was established.
+          B: Missionaries were no longer required to raise their own funds.
+          C: The AG stopped emphasizing world missions.
+          D: AG missionaries were only sent to English-speaking countries.
+        answer: A
+      - uid: THE154.6.5.4.TY.2
+        subobj: 6.5.4
+        type: ty
+        question: What are the four primary spheres of AGWM missionary activity?
+        choices:
+          A: Church Planting, Discipleship, Missions Training, Community Outreach
+          B: Evangelizing, Supporting, Funding, Sending
+          C: Reaching, Planting, Training, Serving
+          D: Preaching, Teaching, Sending, Discipling
+        answer: C
+      - uid: THE154.7.1.1.UPE.1
+        subobj: 7.1.1
+        type: upe
+        question: What was one reason early Pentecostals were wary of higher education?
+        choices:
+          A: They believed education would distract from spiritual fervor.
+          B: They feared persecution from educated elites.
+          C: They thought it was unnecessary for evangelism.
+          D: They lacked sufficient financial resources.
+        answer: A
+      - uid: THE154.7.1.1.UPE.2
+        subobj: 7.1.1
+        type: upe
+        question: Why did early Pentecostals prioritize spending money on missions
+          over building schools?
+        choices:
+          A: They thought schools would distract from spiritual fervor.
+          B: They believed education was unnecessary for evangelism.
+          C: They lacked resources to build schools.
+          D: They wanted to send as many missionaries as possible.
+        answer: D
+      - uid: THE154.7.1.1.TY.1
+        subobj: 7.1.1
+        type: ty
+        question: What was a key factor in Sunday school’s growth in the Assemblies
+          of God during the 1930s–1950s?
+        choices:
+          A: Shift away from professional clergy.
+          B: Emphasis on training laypeople to teach and evangelize.
+          C: Support from government funding for religious education.
+          D: Reduced competition from other church programs.
+        answer: B
+      - uid: THE154.7.1.1.TY.2
+        subobj: 7.1.1
+        type: ty
+        question: What was one reason early Pentecostals were wary of higher education?
+        choices:
+          A: They feared persecution from educated elites.
+          B: They thought higher education was unnecessary for evangelism.
+          C: They believed education would distract from spiritual fervor.
+          D: They lacked resources to build schools.
+        answer: C
+      - uid: THE154.7.1.1.TY.3
+        subobj: 7.1.1
+        type: ty
+        question: Why did early Pentecostals prioritize spending money on missions
+          over building schools?
+        choices:
+          A: They wanted to increase ministers’ salaries.
+          B: They believed there was no need for formal education.
+          C: They believed education was too expensive.
+          D: They wanted to send as many missionaries as possible.
+        answer: D
+      - uid: THE154.7.1.2.UPE.1
+        subobj: 7.1.2
+        type: upe
+        question: What role did Sunday school play in the Assemblies of God’s early
+          education efforts?
+        choices:
+          A: It replaced traditional Bible study groups.
+          B: It was limited to training children for missionary work.
+          C: It focused solely on teaching reading skills.
+          D: It was a means to conserve the work and build a biblically literate fellowship.
+        answer: D
+      - uid: THE154.7.1.2.UPE.2
+        subobj: 7.1.2
+        type: upe
+        question: What was one of E. N. Bell’s reasons for organizing the Assemblies
+          of God?
+        choices:
+          A: To create a national Sunday school curriculum
+          B: To promote ecumenical efforts
+          C: To unify Pentecostals against modernism
+          D: To establish a Bible training school
+        answer: D
+      - uid: THE154.7.1.2.TY.1
+        subobj: 7.1.2
+        type: ty
+        question: What role did Sunday school play in the Assemblies of God’s early
+          education efforts?
+        choices:
+          A: It focused solely on teaching reading skills.
+          B: It was a means to conserve the work and build a biblically literate fellowship.
+          C: It was only for training children.
+          D: It replaced traditional Bible study groups.
+        answer: B
+      - uid: THE154.7.1.2.TY.2
+        subobj: 7.1.2
+        type: ty
+        question: What was one of E. N. Bell’s reasons for organizing the Assemblies
+          of God?
+        choices:
+          A: To build churches in urban areas.
+          B: To unify Pentecostals against liberal theology.
+          C: To create a national Sunday school curriculum.
+          D: To establish a Bible training school.
+        answer: D
+      - uid: THE154.7.2.1.TY.1
+        subobj: 7.2.1
+        type: ty
+        question: What was one pro of early short-term Bible schools?
+        choices:
+          A: They were accessible to laypeople in various regions.
+          B: They emphasized academic rigor over practical training.
+          C: They offered formal degrees in theology.
+          D: They provided free education to all students.
+        answer: A
+      - uid: THE154.7.2.2.TY.1
+        subobj: 7.2.2
+        type: ty
+        question: What was a characteristic of Assemblies of God Bible institutes
+          in the 1920s and ’30s?
+        choices:
+          A: The schools had large, modern campuses.
+          B: The curriculum emphasized practical ministry and spiritual development.
+          C: Students were required to have a college degree.
+          D: Faculty members were highly educated theologians.
+        answer: B
+      - uid: THE154.7.2.3.TY.1
+        subobj: 7.2.3
+        type: ty
+        question: What condition spurred the transition from Bible institutes to colleges
+          after World War II?
+        choices:
+          A: The Assemblies of God had no schools to train ministers.
+          B: Colleges were less expensive to operate.
+          C: Colleges were seen as more aligned with liberal theology.
+          D: The GI Bill required schools to offer degree programs.
+        answer: D
+      - uid: THE154.7.2.5.UPE.1
+        subobj: 7.2.5
+        type: upe
+        question: Why was it important for the Assemblies of God to have its own theological
+          seminary?
+        choices:
+          A: To establish higher tuition fees for students
+          B: To train ministers exclusively for rural areas
+          C: To compete with other denominations
+          D: To provide advanced theological training without liberal influences
+        answer: D
+      - uid: THE154.7.2.5.TY.1
+        subobj: 7.2.5
+        type: ty
+        question: Why was it important for the Assemblies of God to have its own theological
+          seminary?
+        choices:
+          A: To train ministers exclusively for urban areas.
+          B: To compete with other Pentecostal organizations.
+          C: To provide advanced theological training without liberal influences.
+          D: To establish higher tuition fees for ministerial students.
+        answer: C
+      - uid: THE154.7.3.1.UPE.1
+        subobj: 7.3.1
+        type: upe
+        question: What was the original goal of Assemblies of God higher education?
+        choices:
+          A: To train workers to evangelize and win the world for Christ
+          B: To compete with secular universities
+          C: To prepare students for careers in technology
+          D: To provide affordable education to Pentecostal families
+        answer: A
+      - uid: THE154.7.3.1.TY.1
+        subobj: 7.3.1
+        type: ty
+        question: What was the original goal of Assemblies of God higher education?
+        choices:
+          A: To compete with secular universities.
+          B: To prepare students for careers in business and technology.
+          C: To train workers to evangelize and win the world for Christ.
+          D: To provide affordable education to Pentecostal families.
+        answer: C
+      - uid: THE154.8.1.1.UPE.1
+        subobj: 8.1.1
+        type: upe
+        question: Which woman from the New Testament is known for teaching alongside
+          her husband?
+        choices:
+          A: Dorcas
+          B: Junia
+          C: Priscilla
+          D: Phoebe
+        answer: C
+      - uid: THE154.8.1.1.TY.1
+        subobj: 8.1.1
+        type: ty
+        question: Which woman from the New Testament is known for teaching alongside
+          her husband?
+        choices:
+          A: Dorcas
+          B: Junia
+          C: Priscilla
+          D: Phoebe
+        answer: C
+      - uid: THE154.8.1.1.TY.2
+        subobj: 8.1.1
+        type: ty
+        question: Who was the first person baptized in the Holy Spirit during the
+          Pentecostal revival of the 1900s?
+        choices:
+          A: Rachel Sizelove
+          B: Agnes Ozman
+          C: Maria Woodworth-Etter
+          D: Aimee Semple McPherson
+        answer: B
+      - uid: THE154.8.2.1.TY.1
+        subobj: 8.2.1
+        type: ty
+        question: What was one reason for early opportunities for women in ministry
+          in the Assemblies of God ?
+        choices:
+          A: Women were primarily assistants to male leaders
+          B: A lack of male ministers during that time
+          C: Cultural acceptance of women in leadership roles
+          D: The urgency of the Pentecostal harvest
+        answer: D
+      - uid: THE154.8.2.2.UPE.1
+        subobj: 8.2.2
+        type: upe
+        question: What cultural shift after World War II hindered women’s ministry
+          roles?
+        choices:
+          A: Rise of women’s participation in the workforce
+          B: Growth of Pentecostal denominations
+          C: Emphasis on men returning to the workforce and women staying home
+          D: Increased financial support for churches
+        answer: C
+      - uid: THE154.8.2.2.TY.1
+        subobj: 8.2.2
+        type: ty
+        question: What cultural shift after World War II hindered women’s ministry
+          roles?
+        choices:
+          A: Emphasis on men returning to the workforce and women staying home
+          B: Growth of Pentecostal denominations
+          C: Increased financial support for churches
+          D: The rise of women in the workforce
+        answer: A
+      - uid: THE154.8.3.1.TY.1
+        subobj: 8.3.1
+        type: ty
+        question: Which view holds that roles within the church should be based on
+          gifts and calling rather than gender?
+        choices:
+          A: Patriarchalism
+          B: Egalitarianism
+          C: Fundamentalism
+          D: Complementarianism
+        answer: B
+      - uid: THE154.8.3.1.TY.2
+        subobj: 8.3.1
+        type: ty
+        question: What does the complementarian view teach about men and women?
+        choices:
+          A: Men and women are equal but have distinct roles in the church and home.
+          B: Women are spiritually inferior to men.
+          C: Men and women are equal in all roles and responsibilities.
+          D: Women are responsible for leading men in spiritual matters.
+        answer: A
+      - uid: THE154.8.3.2.TY.1
+        subobj: 8.3.2
+        type: ty
+        question: How did the Jerusalem Council serve as a model for interpreting
+          Scripture through experience?
+        choices:
+          A: By affirming the testimony of the Holy Spirit’s work among Gentiles
+          B: By relying on cultural norms to resolve disputes
+          C: By rejecting all experience-based arguments
+          D: By strictly adhering to the Judaizers’ interpretations
+        answer: A
+      - uid: THE154.8.3.3.TY.1
+        subobj: 8.3.3
+        type: ty
+        question: What is the Assemblies of God’s official position on women in ministry?
+        choices:
+          A: Women are allowed to minister only if men are unavailable.
+          B: Women may teach but not lead congregations.
+          C: Women are fully included in ministry based on biblical principles.
+          D: Women’s ministry is restricted based on cultural norms.
+        answer: C
+      - uid: THE154.8.5.1.UPE.1
+        subobj: 8.5.1
+        type: upe
+        question: What is the challenge for the Assemblies of God regarding women’s
+          leadership?
+        choices:
+          A: Limiting women’s involvement to traditional roles
+          B: Avoiding discussions about gender equality
+          C: Balancing biblical principles with cultural influences
+          D: Encouraging women to focus solely on family ministries
+        answer: C
+      - uid: THE154.8.5.1.UPE.2
+        subobj: 8.5.1
+        type: upe
+        question: What trend has influenced women’s leadership roles in the Assemblies
+          of God?
+        choices:
+          A: Increased societal acceptance of women in leadership
+          B: Focus on administrative positions for women
+          C: Decline in Pentecostal church attendance
+          D: Shift to traditional roles for women
+        answer: A
+      - uid: THE154.8.5.1.TY.1
+        subobj: 8.5.1
+        type: ty
+        question: What is the challenge for the Assemblies of God regarding women’s
+          leadership?
+        choices:
+          A: Encouraging women to pursue only traditional roles
+          B: Balancing biblical principles with cultural influences
+          C: Limiting women’s involvement to administrative roles
+          D: Avoiding discussions about gender equality
+        answer: B
+      - uid: THE154.8.5.1.TY.2
+        subobj: 8.5.1
+        type: ty
+        question: What trend has influenced women’s leadership roles in the Assemblies
+          of God?
+        choices:
+          A: Increased societal acceptance of women in leadership
+          B: Decline in Pentecostal church attendance
+          C: A decrease in ministry opportunities
+          D: Emphasis on traditional roles for women
+        answer: A
+      - uid: THE154.9.1.1.UPE.1
+        subobj: 9.1.1
+        type: upe
+        question: How did many liberal churches respond to the Pentecostal movement
+          in the early 20th century?
+        choices:
+          A: By ignoring and ridiculing Pentecostals
+          B: By collaborating with Pentecostal churches
+          C: By providing financial support
+          D: By adopting Pentecostal practices
+        answer: A
+      - uid: THE154.9.1.1.TY.1
+        subobj: 9.1.1
+        type: ty
+        question: How did many liberal churches respond to the Pentecostal movement
+          in the early twentieth century?
+        choices:
+          A: By collaborating with Pentecostal churches
+          B: With enthusiastic support
+          C: By ignoring and ridiculing Pentecostals
+          D: By adopting Pentecostal practices
+        answer: C
+      - uid: THE154.9.1.3.UPE.1
+        subobj: 9.1.3
+        type: upe
+        question: Why did Fundamentalists reject Pentecostals as dangerous enemies?
+        choices:
+          A: Pentecostals advocated for a postmodern interpretation of faith.
+          B: Pentecostals lacked a formal organizational structure.
+          C: Pentecostals denied the inerrancy of Scripture.
+          D: Pentecostals emphasized emotional worship and spiritual manifestations.
+        answer: D
+      - uid: THE154.9.1.3.TY.1
+        subobj: 9.1.3
+        type: ty
+        question: Why did Fundamentalists reject Pentecostals as dangerous enemies?
+        choices:
+          A: Pentecostals denied key Christian doctrines.
+          B: Pentecostals had no interest in evangelism.
+          C: Pentecostals supported liberal theology.
+          D: Pentecostals emphasized emotional worship and spiritual manifestations.
+        answer: D
+      - uid: THE154.9.2.3.TY.1
+        subobj: 9.2.3
+        type: ty
+        question: Why did the Assemblies of God take a leadership role in the National
+          Sunday School Association?
+        choices:
+          A: They sought to align with the Federal Council of Churches.
+          B: They had developed their own Sunday school curriculum.
+          C: They prioritized adult education over children’s programs.
+          D: They wanted to promote liberal theology.
+        answer: B
+      - uid: THE154.9.2.5.UPE.1
+        subobj: 9.2.5
+        type: upe
+        question: Why was the creation of Pentecostal fellowships important for the
+          Assemblies of God?
+        choices:
+          A: To safeguard Pentecostal values and distinctives
+          B: To replace the National Association of Evangelicals
+          C: To encourage unity among all denominations
+          D: To establish a governing authority over evangelicals
+        answer: A
+      - uid: THE154.9.2.5.TY.1
+        subobj: 9.2.5
+        type: ty
+        question: Why was the creation of Pentecostal fellowships important for the
+          Assemblies of God?
+        choices:
+          A: To align Pentecostals with liberal theological movements
+          B: To replace the National Association of Evangelicals
+          C: To reduce its influence within evangelicalism
+          D: To safeguard Pentecostal values and distinctives
+        answer: D
+      - uid: THE154.9.2.6.TY.1
+        subobj: 9.2.6
+        type: ty
+        question: Why did the Pentecostal Fellowship of North America exclude certain
+          churches?
+        choices:
+          A: Disputes over Sunday school curriculum
+          B: Doctrinal disagreements
+          C: Racial segregation policies
+          D: Financial mismanagement
+        answer: C
+      - uid: THE154.9.2.8.TY.1
+        subobj: 9.2.8
+        type: ty
+        question: What was the purpose of the World Assemblies of God Fellowship?
+        choices:
+          A: To consolidate all Pentecostal fellowships into one denomination
+          B: To pursue global evangelism and church planting
+          C: To focus on theological debates
+          D: To promote the Toronto Blessing
+        answer: B
+      - uid: THE154.9.3.1.UPE.1
+        subobj: 9.3.1
+        type: upe
+        question: What led to the condemnation of the New Order of the Latter Rain
+          by the Assemblies of God?
+        choices:
+          A: Support for liberal theology
+          B: Rejection of missionary efforts
+          C: Alienation, lack of accountability, and erroneous teachings
+          D: Adoption of fringe doctrines
+        answer: C
+      - uid: THE154.9.3.1.TY.1
+        subobj: 9.3.1
+        type: ty
+        question: What led to the condemnation of the New Order of the Latter Rain
+          by the Assemblies of God?
+        choices:
+          A: Support for liberal theology
+          B: Lack of financial accountability
+          C: Alienation, lack of accountability, and erroneous teachings
+          D: Opposition to Pentecostal distinctives
+        answer: C
+      - uid: THE154.9.3.2.UPE.1
+        subobj: 9.3.2
+        type: upe
+        question: What lesson in unity is highlighted by the Charismatic Renewal?
+        choices:
+          A: That God can move among believers in all denominations
+          B: The necessity of adhering to strict Pentecostal practices
+          C: The rejection of all charismatic experiences
+          D: The importance of rejecting mainline denominations
+        answer: A
+      - uid: THE154.9.3.2.UPE.2
+        subobj: 9.3.2
+        type: upe
+        question: How did the Assemblies of God respond to the Charismatic Renewal?
+        choices:
+          A: By categorically endorsing all charismatic practices
+          B: By rejecting it outright
+          C: By requiring all charismatics to join Pentecostal churches
+          D: By cautiously supporting Spirit-led renewal within mainline churches
+        answer: D
+      - uid: THE154.9.3.2.TY.1
+        subobj: 9.3.2
+        type: ty
+        question: What lesson in unity is highlighted by the Charismatic Renewal?
+        choices:
+          A: The necessity of adhering to strict Pentecostal practices
+          B: That God can move among believers in all denominations
+          C: The rejection of all charismatic experiences
+          D: The importance of rejecting mainline denominations
+        answer: B
+      - uid: THE154.9.3.2.TY.2
+        subobj: 9.3.2
+        type: ty
+        question: How did the Assemblies of God respond to the Charismatic Renewal?
+        choices:
+          A: By rejecting it outright
+          B: By cautiously supporting Spirit-led renewal within mainline churches
+          C: By requiring all charismatics to join Pentecostal churches
+          D: By categorically endorsing all charismatic practices
+        answer: B
+      - uid: THE154.9.3.3.TY.1
+        subobj: 9.3.3
+        type: ty
+        question: What was a major challenge in responding to movements like the Toronto
+          Blessing and Pensacola Outpouring?
+        choices:
+          A: Encouraging unity with other denominations
+          B: Discrediting all new revival movements
+          C: Balancing openness to revival with adherence to Scripture
+          D: Avoiding public attention and media coverage
+        answer: C
+      - uid: THE154.10.1.1.TY.1
+        subobj: 10.1.1
+        type: ty
+        question: Who was the first African American to hold ministerial credentials
+          with the Assemblies of God?
+        choices:
+          A: Thoro Harris
+          B: Ellsworth S. Thomas
+          C: Cornelia Jones Robertson
+          D: Isaac S. Neeley
+        answer: B
+      - uid: THE154.10.2.1.UPE.1
+        subobj: 10.2.1
+        type: upe
+        question: What societal laws contributed to segregation in the early Assemblies
+          of God?
+        choices:
+          A: Immigration laws
+          B: Jim Crow laws
+          C: Civil Rights Acts
+          D: Voting Rights Acts
+        answer: B
+      - uid: THE154.10.2.1.UPE.2
+        subobj: 10.2.1
+        type: upe
+        question: What was one reason some southern Assemblies of God churches resisted
+          integration?
+        choices:
+          A: Desire to maintain worship traditions
+          B: Fear of losing church property
+          C: Pressure from denominational leadership
+          D: Concerns about violating segregation laws
+        answer: D
+      - uid: THE154.10.2.1.UPE.3
+        subobj: 10.2.1
+        type: upe
+        question: What significant policy was enacted by the General Presbytery in
+          1939 regarding African Americans?
+        choices:
+          A: They were given full ordination rights.
+          B: They were fully integrated into leadership roles.
+          C: They could only be licensed at the district level.
+          D: They were prohibited from attending Assemblies of God churches.
+        answer: C
+      - uid: THE154.10.2.1.TY.1
+        subobj: 10.2.1
+        type: ty
+        question: What significant policy was enacted by the General Presbytery in
+          1939 regarding African Americans?
+        choices:
+          A: They were given full ordination rights.
+          B: They were fully integrated into leadership roles.
+          C: They could only be licensed at the district level.
+          D: They were prohibited from attending Assemblies of God churches.
+        answer: C
+      - uid: THE154.10.2.1.TY.2
+        subobj: 10.2.1
+        type: ty
+        question: What societal laws contributed to segregation in the early Assemblies
+          of God?
+        choices:
+          A: Immigration laws
+          B: Jim Crow laws
+          C: Civil Rights Acts
+          D: Voting Rights Acts
+        answer: B
+      - uid: THE154.10.2.1.TY.3
+        subobj: 10.2.1
+        type: ty
+        question: What was one reason some southern Assemblies of God churches resisted
+          integration?
+        choices:
+          A: Opposition to interracial marriage
+          B: Fear of losing members
+          C: Concerns about violating segregation laws
+          D: Desire for cultural preservation
+        answer: C
+      - uid: THE154.10.3.1.UPE.1
+        subobj: 10.3.1
+        type: upe
+        question: Why was Bob Harrison’s ordination significant?
+        choices:
+          A: He initiated the Civil Rights Movement.
+          B: He became the General Superintendent of the Assemblies of God.
+          C: He was the first African American to attend an Assemblies of God Bible
+            college.
+          D: His ordination reversed a longstanding policy of racial exclusion.
+        answer: D
+      - uid: THE154.10.3.1.TY.1
+        subobj: 10.3.1
+        type: ty
+        question: Why was Bob Harrison’s ordination significant?
+        choices:
+          A: He initiated the Civil Rights Movement.
+          B: He became the General Superintendent of the Assemblies of God.
+          C: He was the first African American to attend an Assemblies of God Bible
+            college.
+          D: His ordination reversed a long-standing policy of racial exclusion.
+        answer: D
+      - uid: THE154.10.4.1.UPE.1
+        subobj: 10.4.1
+        type: upe
+        question: What step did Thomas F. Zimmerman take to understand the concerns
+          of African-American ministers?
+        choices:
+          A: He hosted annual diversity conferences.
+          B: He created financial aid programs for ministers.
+          C: He mandated racial integration in all churches.
+          D: He dialogued with African-American ministers.
+        answer: D
+      - uid: THE154.10.4.1.UPE.2
+        subobj: 10.4.1
+        type: upe
+        question: What was the Inner City Workers Conference renamed in 1998?
+        choices:
+          A: The Urban Faith Collective
+          B: The Multiethnic Leadership Network
+          C: The National Black Fellowship
+          D: The Racial Unity Council
+        answer: C
+      - uid: THE154.10.4.1.TY.1
+        subobj: 10.4.1
+        type: ty
+        question: What step did Thomas F. Zimmerman take to understand the concerns
+          of African-American ministers?
+        choices:
+          A: He launched the Memphis Miracle.
+          B: He abolished the General Council’s segregation policies.
+          C: He created new seminaries.
+          D: He dialogued with African-American ministers.
+        answer: D
+      - uid: THE154.10.4.1.TY.2
+        subobj: 10.4.1
+        type: ty
+        question: What was the Inner City Workers Conference renamed in 1998?
+        choices:
+          A: The Racial Reconciliation Council
+          B: The Memphis Mandate
+          C: The National Black Fellowship
+          D: The Urban Missions Fellowship
+        answer: C
+      - uid: THE154.10.4.1.TY.3
+        subobj: 10.4.1
+        type: ty
+        question: Which Assemblies of God publication highlighted outreach ministries
+          targeting African Americans in the 1970s and 1980s?
+        choices:
+          A: Evangel Herald
+          B: Missionary Times
+          C: Pentecostal Evangel
+          D: Gospel Advocate
+        answer: C
+      - uid: THE154.10.5.1.UPE.1
+        subobj: 10.5.1
+        type: upe
+        question: What was the purpose of the Memphis Miracle in 1994?
+        choices:
+          A: To establish the National Black Fellowship.
+          B: To dissolve the Pentecostal Fellowship of North America and create an
+            inclusive organization.
+          C: To ordain African-American leaders for the first time.
+          D: To create the Pentecostal Evangel.
+        answer: B
+      - uid: THE154.10.5.1.UPE.2
+        subobj: 10.5.1
+        type: upe
+        question: What symbolic act during the Memphis Miracle represented repentance
+          and reconciliation?
+        choices:
+          A: The establishment of a new diversity task force
+          B: A foot-washing ceremony between Black and White leaders
+          C: The signing of a statement of unity
+          D: A combined leadership conference
+        answer: B
+      - uid: THE154.10.5.1.TY.1
+        subobj: 10.5.1
+        type: ty
+        question: What was the purpose of the Memphis Miracle in 1994 ?
+        choices:
+          A: To establish the National Black Fellowship.
+          B: To dissolve the Pentecostal Fellowship of North America and create an
+            inclusive organization.
+          C: To ordain African-American leaders for the first time.
+          D: To create the Pentecostal Evangel.
+        answer: B
+      - uid: THE154.10.5.1.TY.2
+        subobj: 10.5.1
+        type: ty
+        question: What symbolic act during the Memphis Miracle represented repentance
+          and reconciliation?
+        choices:
+          A: A foot-washing ceremony between black and white leaders
+          B: A revival led by African-American pastors
+          C: A joint communion service with African-American bishops
+          D: The signing of a unity covenant
+        answer: A
+      - uid: THE154.10.7.1.UPE.1
+        subobj: 10.7.1
+        type: upe
+        question: In the early 1900s, which type of churches stressed the ability
+          of anyone, regardless of race, class, or gender, to experience the fullness
+          of God’s love?
+        choices:
+          A: Socialist Societies
+          B: Hindu alliances
+          C: Methodist denominations
+          D: Holiness and Pentecostal churches
+        answer: D
+      - uid: THE154.11.1.1.UPE.1
+        subobj: 11.1.1
+        type: upe
+        question: What percentage of Assemblies of God adherents were ethnic minorities
+          in 2021?
+        choices:
+          A: 30%
+          B: 44%
+          C: 60%
+          D: 52%
+        answer: B
+      - uid: THE154.11.1.1.UPE.2
+        subobj: 11.1.1
+        type: upe
+        question: Which demographic is fueling the growth and vitality of the Assemblies
+          of God?
+        choices:
+          A: Hispanic, Black, and ethnic minorities
+          B: Retired ministers
+          C: Rural populations
+          D: Young professionals
+        answer: A
+      - uid: THE154.11.1.1.TY.1
+        subobj: 11.1.1
+        type: ty
+        question: Which demographic is fueling the growth and vitality of the Assemblies
+          of God?
+        choices:
+          A: White adherents
+          B: Rural communities exclusively
+          C: Hispanic, Black, and ethnic minorities
+          D: Older generational groups
+        answer: C
+      - uid: THE154.11.1.1.TY.2
+        subobj: 11.1.1
+        type: ty
+        question: What percentage of Assemblies of God adherents were ethnic minorities
+          in 2021?
+        choices:
+          A: 44%
+          B: 35%
+          C: 58%
+          D: 25%
+        answer: A
+      - uid: THE154.11.1.2.UPE.1
+        subobj: 11.1.2
+        type: upe
+        question: What factor significantly contributed to the Assemblies of God’s
+          growth among ethnic minorities?
+        choices:
+          A: Immigration and missions
+          B: Standardized church programs
+          C: Revised financial policies
+          D: More televised services
+        answer: A
+      - uid: THE154.11.1.2.UPE.2
+        subobj: 11.1.2
+        type: upe
+        question: How did the Assemblies of God’s adoption of the indigenous church
+          principle in 1921 influence its growth?
+        choices:
+          A: It reinforced Western leadership over missions.
+          B: It slowed down international outreach.
+          C: It limited church autonomy.
+          D: It supported the development of strong national churches and leaders.
+        answer: D
+      - uid: THE154.11.1.2.UPE.3
+        subobj: 11.1.2
+        type: upe
+        question: What is one reason for the growth of English services in ethnic
+          minority churches?
+        choices:
+          A: To attract more missionaries
+          B: To discourage bilingual congregations
+          C: To transition away from cultural traditions
+          D: To accommodate multiethnic and multilingual families
+        answer: D
+      - uid: THE154.11.1.2.TY.1
+        subobj: 11.1.2
+        type: ty
+        question: What role does the Office of Hispanic Relations play in the Assemblies
+          of God?
+        choices:
+          A: Connects the national office with Hispanic ministers and churches
+          B: Organizes missionary trips to Hispanic nations
+          C: Manages Hispanic-only congregations
+          D: Handles translation of all resources into Spanish
+        answer: A
+      - uid: THE154.11.1.2.TY.2
+        subobj: 11.1.2
+        type: ty
+        question: What factor significantly contributed to the Assemblies of God’s
+          growth among ethnic minorities?
+        choices:
+          A: Reduction in church planting efforts
+          B: Aggressive advertising campaigns
+          C: Exclusive focus on urban communities
+          D: Immigration and missions
+        answer: D
+      - uid: THE154.11.1.2.TY.3
+        subobj: 11.1.2
+        type: ty
+        question: Which ethnic group has shown the fastest growth among White adherents
+          in the Assemblies of God?
+        choices:
+          A: Scandinavian
+          B: Mediterranean
+          C: Native American
+          D: Slavic immigrants
+        answer: D
+      - uid: THE154.11.1.2.TY.4
+        subobj: 11.1.2
+        type: ty
+        question: How did the Assemblies of God’s adoption of the indigenous church
+          principle in 1921 influence its growth?
+        choices:
+          A: It limited church autonomy and centralized leadership.
+          B: It supported the development of strong national churches and leaders.
+          C: It discouraged missions in Western countries.
+          D: It encouraged Western control over missions.
+        answer: B
+      - uid: THE154.11.1.2.TY.5
+        subobj: 11.1.2
+        type: ty
+        question: What is one reason for the growth of English services in ethnic
+          minority churches?
+        choices:
+          A: To encourage older generations to learn English
+          B: To accommodate multiethnic and multilingual families
+          C: To exclude second and third generations
+          D: To replace services in native languages
+        answer: B
+      - uid: THE154.11.2.1.UPE.1
+        subobj: 11.2.1
+        type: upe
+        question: What is one way Assemblies of God churches have embraced advancing
+          technology?
+        choices:
+          A: Using apps, podcasts, and webinars to expand reach
+          B: Limiting social media engagement
+          C: Reducing reliance on online platforms
+          D: Encouraging traditional-only church services
+        answer: A
+      - uid: THE154.11.2.1.TY.1
+        subobj: 11.2.1
+        type: ty
+        question: What significant technological change occurred at the Assemblies
+          of God National Office?
+        choices:
+          A: Transition to digital production of resources
+          B: Creation of more physical libraries
+          C: Expansion of printing plants
+          D: Development of handwritten curriculum
+        answer: A
+      - uid: THE154.11.2.1.TY.2
+        subobj: 11.2.1
+        type: ty
+        question: What is one way Assemblies of God churches have embraced advancing
+          technology?
+        choices:
+          A: Avoiding social media outreach
+          B: Using apps, podcasts, and webinars to expand reach
+          C: Limiting online resources
+          D: Returning to printed materials exclusively
+        answer: B
+      - uid: THE154.11.3.1.UPE.1
+        subobj: 11.3.1
+        type: upe
+        question: What is the fourth purpose added to the Assemblies of God mission
+          statement in 2009?
+        choices:
+          A: Evangelism
+          B: Compassion
+          C: Stewardship
+          D: Worship
+        answer: B
+      - uid: THE154.11.3.1.TY.1
+        subobj: 11.3.1
+        type: ty
+        question: What is the fourth purpose added to the Assemblies of God mission
+          statement in 2009?
+        choices:
+          A: Worship
+          B: Compassion
+          C: Evangelism
+          D: Discipleship
+        answer: B
+      - uid: THE154.12.1.1.UPE.1
+        subobj: 12.1.1
+        type: upe
+        question: What key initiative is part of the AGTrust’s mission?
+        choices:
+          A: Funding global missions exclusively
+          B: Strengthening existing churches
+          C: Expanding social justice programs
+          D: Encouraging interfaith partnerships
+        answer: B
+      - uid: THE154.12.1.1.TY.1
+        subobj: 12.1.1
+        type: ty
+        question: Which of the following is a key initiative of the AGTrust?
+        choices:
+          A: Developing interdenominational partnerships
+          B: Providing free theological education
+          C: Strengthening existing churches
+          D: Launching global missions
+        answer: C
+      - uid: THE154.12.2.1.UPE.1
+        subobj: 12.2.1
+        type: upe
+        question: What is the main goal of the Church Multiplication Network (CMN)?
+        choices:
+          A: To create Spirit-empowered churches in every community
+          B: To expand youth outreach programs
+          C: To increase leadership training worldwide
+          D: To establish global ministry training centers
+        answer: A
+      - uid: THE154.12.2.1.TY.1
+        subobj: 12.2.1
+        type: ty
+        question: Which AGTrust initiative directly supports planting new churches?
+        choices:
+          A: Acts 2 Journey
+          B: Church Multiplication Network
+          C: Vision Casting Network
+          D: Bible Engagement Project
+        answer: B
+      - uid: THE154.12.2.1.TY.2
+        subobj: 12.2.1
+        type: ty
+        question: What is the main goal of the Church Multiplication Network (CMN)?
+        choices:
+          A: To train ministers for international service
+          B: To establish a global missionary network
+          C: To create Spirit-empowered churches in every community
+          D: To improve pastoral education programs
+        answer: C
+      - uid: THE154.12.2.1.TY.3
+        subobj: 12.2.1
+        type: ty
+        question: How many Assemblies of God churches were launched between 2008 and
+          2019 with the help of the Church Multiplication Network?
+        choices:
+          A: 3,500
+          B: 2,000
+          C: 7,000
+          D: 5,000
+        answer: D
+      - uid: THE154.12.3.1.UPE.1
+        subobj: 12.3.1
+        type: upe
+        question: What percentage of Assemblies of God churches in America plateau
+          or experience declining attendance?
+        choices:
+          A: 30%
+          B: 90%
+          C: 80%
+          D: 50%
+        answer: C
+      - uid: THE154.12.3.1.UPE.2
+        subobj: 12.3.1
+        type: upe
+        question: What distinguishes the Acts 2 Journey from other church revitalization
+          efforts?
+        choices:
+          A: It provides financial assistance for church buildings.
+          B: It focuses exclusively on rural churches.
+          C: It emphasizes numerical growth as the primary measure of success.
+          D: It is biblically based, stylistically neutral, and scalable to location.
+        answer: D
+      - uid: THE154.12.3.1.UPE.3
+        subobj: 12.3.1
+        type: upe
+        question: What is one characteristic of a healthy church according to the
+          Acts 2 Journey?
+        choices:
+          A: Engages in loving relationships
+          B: Focuses on strict adherence to tradition
+          C: Prefers independent operation over collaboration
+          D: Prioritizes numerical growth over discipleship
+        answer: A
+      - uid: THE154.12.3.1.UPE.4
+        subobj: 12.3.1
+        type: upe
+        question: What is a primary cause of church decline according to the Acts
+          2 Journey?
+        choices:
+          A: Lack of financial support
+          B: Changes in community demographics
+          C: Inward focus of the church
+          D: Not enough social welfare events
+        answer: C
+      - uid: THE154.12.3.1.UPE.5
+        subobj: 12.3.1
+        type: upe
+        question: According to the Acts 2 Journey, which of the following should be
+          a church's goal?
+        choices:
+          A: Preserve traditions
+          B: Prioritize numerical growth above all else
+          C: Act with an outward focus
+          D: Operate independently of other churches
+        answer: C
+      - uid: THE154.12.3.1.TY.1
+        subobj: 12.3.1
+        type: ty
+        question: What percentage of Assemblies of God churches in America plateau
+          or experience declining attendance?
+        choices:
+          A: 50%
+          B: 80%
+          C: 20%
+          D: 90%
+        answer: B
+      - uid: THE154.12.3.1.TY.2
+        subobj: 12.3.1
+        type: ty
+        question: What distinguishes the Acts 2 Journey from other church revitalization
+          efforts?
+        choices:
+          A: It is exclusively for international churches.
+          B: It provides financial grants for church construction.
+          C: It focuses solely on large churches.
+          D: It is biblical-based, stylistically neutral, and scalable to location.
+        answer: D
+      - uid: THE154.12.3.1.TY.3
+        subobj: 12.3.1
+        type: ty
+        question: What is a primary cause of church decline according to the Acts
+          2 Journey?
+        choices:
+          A: Overemphasis on tradition
+          B: Inward focus of the church
+          C: Decline in community population
+          D: Lack of financial resources
+        answer: B
+      - uid: THE154.12.3.1.TY.4
+        subobj: 12.3.1
+        type: ty
+        question: According to the Acts 2 Journey, what is one characteristic of a
+          healthy church?
+        choices:
+          A: Focuses on preserving traditions
+          B: Prioritizes numerical growth above all else
+          C: Engages in loving relationships
+          D: Operates independently of other churches
+        answer: C
+      - uid: THE154.12.4.1.UPE.1
+        subobj: 12.4.1
+        type: upe
+        question: What resource does the Bible Engagement Project provide to churches
+          and individuals?
+        choices:
+          A: A yearly Bible conference
+          B: Free welcome signs
+          C: Free, age-aligned digital curriculum
+          D: Printed materials only for pastors
+        answer: C
+      - uid: THE154.12.4.1.UPE.2
+        subobj: 12.4.1
+        type: upe
+        question: What are some benefits of engaging with the Bible four or more times
+          a week?
+        choices:
+          A: Increased church attendance and fundraising
+          B: Higher rates of church leadership turnover
+          C: Greater likelihood of sharing faith, memorizing Scripture, and discipling
+            others
+          D: Reduced need for pastoral counseling
+        answer: C
+      - uid: THE154.12.4.1.TY.1
+        subobj: 12.4.1
+        type: ty
+        question: What are some benefits of engaging with the Bible four or more times
+          a week?
+        choices:
+          A: Greater likelihood of sharing faith, memorizing Scripture, and discipling
+            others
+          B: Improved church attendance and tithing
+          C: Reduced church decline rates and higher staff retention
+          D: Increased funding for missions and youth programs
+        answer: A
+      - uid: THE154.12.4.1.TY.2
+        subobj: 12.4.1
+        type: ty
+        question: What resource does the Bible Engagement Project provide to churches
+          and individuals?
+        choices:
+          A: Printed books for Bible study
+          B: Weekly church newsletters
+          C: Free, age-aligned digital curriculum
+          D: One-on-one pastoral counseling
+        answer: C
+      - uid: THE154.13.1.1.UPE.1
+        subobj: 13.1.1
+        type: upe
+        question: What is the primary reason the Assemblies of God adopted a Constitution
+          in 1927?
+        choices:
+          A: To replace the Statement of Fundamental Truths
+          B: To standardize worship practices
+          C: To comply with state and federal laws
+          D: To ensure order, accountability, and continuity as the fellowship grew
+        answer: D
+      - uid: THE154.13.1.1.UPE.2
+        subobj: 13.1.1
+        type: upe
+        question: What concern did some early Assemblies of God members have about
+          adopting a Constitution?
+        choices:
+          A: It would complicate financial matters.
+          B: It would restrict missionary activity.
+          C: It would limit the salaries of local pastors.
+          D: It might turn the Fellowship into a human-made denomination.
+        answer: D
+      - uid: THE154.13.1.1.TY.1
+        subobj: 13.1.1
+        type: ty
+        question: What concern did some early Assemblies of God members have about
+          adopting a Constitution?
+        choices:
+          A: It would require too much agreement among members.
+          B: It would hinder church growth.
+          C: It would create legal complications for local churches.
+          D: It might turn the Fellowship into a human-made denomination.
+        answer: D
+      - uid: THE154.13.1.1.TY.2
+        subobj: 13.1.1
+        type: ty
+        question: What is the primary reason the Assemblies of God adopted a Constitution
+          in 1927?
+        choices:
+          A: To comply with legal requirements
+          B: To ensure order, accountability, and continuity as the Fellowship grew
+          C: To replace the Preamble adopted in 1914
+          D: To simplify operations without guidelines
+        answer: B
+      - uid: THE154.13.1.2.TY.1
+        subobj: 13.1.2
+        type: ty
+        question: What is the role of the Sixteen Fundamental Truths in credentialing
+          Assemblies of God ministers?
+        choices:
+          A: Ministers are only required to agree with some of the truths.
+          B: Ministers must memorize the truths verbatim.
+          C: Ministers can choose alternative truths to teach.
+          D: Ministers must know, believe, and teach these truths.
+        answer: D
+      - uid: THE154.13.1.2.TY.2
+        subobj: 13.1.2
+        type: ty
+        question: Why is doctrinal agreement important for the unity of the Assemblies
+          of God?
+        choices:
+          A: It ensures all churches have identical worship practices.
+          B: It aligns the Fellowship with other denominations.
+          C: It prevents false teachings and promotes spiritual health.
+          D: It simplifies decision-making in church governance.
+        answer: C
+      - uid: THE154.13.2.1.UPE.1
+        subobj: 13.2.1
+        type: upe
+        question: What is the role of the Sixteen Fundamental Truths in credentialing
+          Assemblies of God ministers?
+        choices:
+          A: Ministers must know, believe, and teach these truths.
+          B: Ministers must pledge to add their own interpretations.
+          C: Ministers must memorize the truths verbatim.
+          D: Ministers can pick which truths to emphasize.
+        answer: A
+      - uid: THE154.13.2.1.UPE.2
+        subobj: 13.2.1
+        type: upe
+        question: Which of the following is one of the Sixteen Fundamental Truths?
+        choices:
+          A: Church governance is determined by democratic vote.
+          B: The Scriptures are inspired by God and infallible.
+          C: Tithing is necessary for salvation.
+          D: Church leadership is inherited.
+        answer: B
+      - uid: THE154.13.2.1.TY.1
+        subobj: 13.2.1
+        type: ty
+        question: Which of the following is one of the Sixteen Fundamental Truths
+          ?
+        choices:
+          A: The Scriptures are inspired by God and infallible.
+          B: Baptism by water is required for church membership.
+          C: The church is a political organization.
+          D: Tithing is essential for salvation.
+        answer: A
+      - uid: THE154.13.2.2.UPE.1
+        subobj: 13.2.2
+        type: upe
+        question: Why is doctrinal agreement important for the unity of the Assemblies
+          of God?
+        choices:
+          A: It ensures denominational exclusivity.
+          B: It standardizes all church practices.
+          C: It allows each church to operate independently.
+          D: It prevents false teachings and promotes spiritual health.
+        answer: D
+      - uid: THE154.13.3.1.UPE.1
+        subobj: 13.3.1
+        type: upe
+        question: What does the term "voluntary cooperative fellowship" emphasize?
+        choices:
+          A: Centralized governance by the General Council
+          B: Required participation in all national programs
+          C: Mutual cooperation and autonomy of local assemblies
+          D: Legal independence with no shared accountability
+        answer: C
+      - uid: THE154.13.3.1.TY.1
+        subobj: 13.3.1
+        type: ty
+        question: What does the term "voluntary cooperative fellowship" emphasize
+          ?
+        choices:
+          A: A strict hierarchy where national leaders govern local churches
+          B: A centralized organization that owns all church properties
+          C: Mutual cooperation and autonomy of local assemblies
+          D: Independence of local churches without shared accountability
+        answer: C
+      - uid: THE154.13.3.2.UPE.1
+        subobj: 13.3.2
+        type: upe
+        question: What is the highest decision-making authority in the Assemblies
+          of God?
+        choices:
+          A: The Executive Leadership Team
+          B: The National Board of Elders
+          C: The General Council
+          D: The General Presbytery
+        answer: C
+      - uid: THE154.13.3.2.UPE.2
+        subobj: 13.3.2
+        type: upe
+        question: How often does the General Council meet to make official decisions?
+        choices:
+          A: Every five years
+          B: Every year
+          C: Every two years
+          D: Twice every year
+        answer: C
+      - uid: THE154.13.3.2.TY.1
+        subobj: 13.3.2
+        type: ty
+        question: How often does the General Council meet to make official decisions?
+        choices:
+          A: Every five years
+          B: Monthly
+          C: Biennially (every two years)
+          D: Annually
+        answer: C
+      - uid: THE154.13.3.2.TY.2
+        subobj: 13.3.2
+        type: ty
+        question: What is the highest decision-making authority in the Assemblies
+          of God?
+        choices:
+          A: The Executive Leadership Team
+          B: The General Presbytery
+          C: District Councils
+          D: The General Council
+        answer: D
+      - uid: THE154.13.3.3.UPE.1
+        subobj: 13.3.3
+        type: upe
+        question: What does it mean for a local church to be "General Council affiliated"?
+        choices:
+          A: It functions without district oversight.
+          B: It receives direct funding from the General Council.
+          C: It cooperates voluntarily and meets specific Fellowship criteria.
+          D: It is required to send all financial reports to the General Superintendent.
+        answer: C
+      - uid: THE154.13.3.3.UPE.2
+        subobj: 13.3.3
+        type: upe
+        question: What is the primary responsibility of district councils?
+        choices:
+          A: Creating new theological doctrines
+          B: Managing church budgets nationally
+          C: Establishing state-wide seminaries
+          D: Overseeing the process for credentialing ministers
+        answer: D
+      - uid: THE154.13.3.3.TY.1
+        subobj: 13.3.3
+        type: ty
+        question: What does it mean for a local church to be "General Council affiliated"?
+        choices:
+          A: It is owned and managed by the General Council.
+          B: It operates independently with no accountability.
+          C: It cooperates voluntarily and meets specific Fellowship criteria.
+          D: It receives funding directly from the General Council.
+        answer: C
+      - uid: THE154.13.3.3.TY.2
+        subobj: 13.3.3
+        type: ty
+        question: What is the primary responsibility of district councils?
+        choices:
+          A: To oversee the process for credentialing ministers
+          B: Managing church budgets
+          C: Organizing national conventions
+          D: Drafting new versions of the Constitution
+        answer: A
+      - uid: THE154.14.1.1.UPE.1
+        subobj: 14.1.1
+        type: upe
+        question: Who are the corporate officers of the General Council of the Assemblies
+          of God?
+        choices:
+          A: General superintendent, general treasurer, and national board members
+          B: General presbyter, executive presbyter, and senior elders
+          C: Executive director, national missions director, and general secretary
+          D: General superintendent, assistant general superintendent, general secretary,
+            and general treasurer
+        answer: D
+      - uid: THE154.14.1.1.TY.1
+        subobj: 14.1.1
+        type: ty
+        question: Who are the corporate officers of the General Council of the Assemblies
+          of God?
+        choices:
+          A: General superintendent, assistant general superintendent, general secretary,
+            and general treasurer
+          B: General superintendent, general treasurer, and executive presbyter
+          C: General treasurer, executive presbyter, and missions director
+          D: General superintendent, general secretary, and district superintendent
+        answer: A
+      - uid: THE154.14.1.2.UPE.1
+        subobj: 14.1.2
+        type: upe
+        question: What is the primary responsibility of the general superintendent?
+        choices:
+          A: Managing financial budgets
+          B: Supervising all district councils
+          C: Overseeing all activities of the Assemblies of God
+          D: Selecting the executive leadership team
+        answer: C
+      - uid: THE154.14.1.2.TY.1
+        subobj: 14.1.2
+        type: ty
+        question: What is the primary responsibility of the general superintendent?
+        choices:
+          A: Managing church budgets
+          B: Conducting audits and financial reporting
+          C: Overseeing all activities of the Assemblies of God
+          D: Approving ministerial credentials
+        answer: C
+      - uid: THE154.14.2.1.UPE.1
+        subobj: 14.2.1
+        type: upe
+        question: What role does the district superintendent play in district councils?
+        choices:
+          A: Serving as the General Council representative
+          B: Coordinating all international missions
+          C: Managing national finance policies
+          D: Overseeing pastoral care for ministers in the district
+        answer: D
+      - uid: THE154.14.2.1.UPE.2
+        subobj: 14.2.1
+        type: upe
+        question: What is the primary purpose of district councils?
+        choices:
+          A: Organizing national conventions
+          B: Managing General Council finances
+          C: Addressing the unique needs of local churches and ministers
+          D: Approving all church building projects
+        answer: C
+      - uid: THE154.14.2.1.TY.1
+        subobj: 14.2.1
+        type: ty
+        question: What is the primary purpose of district councils?
+        choices:
+          A: Creating bylaws for the Assemblies of God
+          B: Organizing national events
+          C: Addressing the unique needs of local churches and ministers
+          D: Managing the finances of the General Council
+        answer: C
+      - uid: THE154.14.2.1.TY.2
+        subobj: 14.2.1
+        type: ty
+        question: What officer role must each district council have?
+        choices:
+          A: Assistant Superintendent
+          B: Secretary
+          C: District Superintendent
+          D: Treasurer
+        answer: C
+      - uid: THE154.14.2.2.UPE.1
+        subobj: 14.2.2
+        type: upe
+        question: How do language/ethnic districts differ from geographic districts?
+        choices:
+          A: They operate independently of the General Council.
+          B: They are formed based on shared cultural or linguistic characteristics,
+            not location.
+          C: They require separate constitutions.
+          D: They are temporary and restructured every decade.
+        answer: B
+      - uid: THE154.14.2.2.TY.1
+        subobj: 14.2.2
+        type: ty
+        question: How do language/ethnic districts differ from geographic districts?
+        choices:
+          A: They are formed based on shared cultural or linguistic characteristics,
+            not location.
+          B: They operate without any governing structure.
+          C: They are governed directly by the General Council.
+          D: They are temporary and disband after two years.
+        answer: A
+      - uid: THE154.14.2.3.UPE.1
+        subobj: 14.2.3
+        type: upe
+        question: What is required for a local church to affiliate with the General
+          Council?
+        choices:
+          A: An annual membership fee
+          B: A letter of recommendation from three district officials
+          C: A formal petition to the General Superintendent
+          D: A minimum of twenty voting members and a qualified pastor with AG credentials
+        answer: D
+      - uid: THE154.14.2.3.UPE.2
+        subobj: 14.2.3
+        type: upe
+        question: What happens when a church no longer meets the criteria for General
+          Council affiliation?
+        choices:
+          A: It reverts to district-affiliated status.
+          B: It becomes a missionary outreach center.
+          C: It is automatically dissolved.
+          D: It must submit a formal appeal to the General Council.
+        answer: A
+      - uid: THE154.14.2.3.TY.1
+        subobj: 14.2.3
+        type: ty
+        question: What is required for a local church to affiliate with the General
+          Council?
+        choices:
+          A: A location within a geographic district
+          B: A recommendation from the general superintendent
+          C: A minimum of twenty voting members and a qualified pastor with AG credentials
+          D: An annual membership fee paid to the General Council
+        answer: C
+      - uid: THE154.14.2.3.TY.2
+        subobj: 14.2.3
+        type: ty
+        question: What happens when a church no longer meets the criteria for General
+          Council affiliation?
+        choices:
+          A: It must seek approval for continued operation.
+          B: It reverts to district-affiliated status.
+          C: It is overseen directly by the general superintendent.
+          D: It is automatically dissolved.
+        answer: B
+      - uid: THE154.14.3.1.UPE.1
+        subobj: 14.3.1
+        type: upe
+        question: Why is credentialing important for Assemblies of God ministers?
+        choices:
+          A: To limit the number of new pastors
+          B: To ensure financial security for all ministers
+          C: To control theological interpretations
+          D: To verify qualifications and maintain accountability for spiritual leadership
+        answer: D
+      - uid: THE154.14.3.1.TY.1
+        subobj: 14.3.1
+        type: ty
+        question: Why is credentialing important for Assemblies of God ministers?
+        choices:
+          A: To ensure all ministers have identical educational backgrounds
+          B: To simplify the disciplinary process
+          C: To restrict the number of ministers in the Fellowship
+          D: To verify qualifications and maintain accountability for spiritual leadership
+        answer: D
+      - uid: THE154.14.3.2.UPE.1
+        subobj: 14.3.2
+        type: upe
+        question: What are the three primary levels of ministerial credentials?
+        choices:
+          A: Certified minister, licensed minister, and ordained minister
+          B: General minister, local minister, and missionary pastor
+          C: Associate minister, senior minister, and ordained minister
+          D: Licensed evangelist, senior minister, and district minister
+        answer: A
+      - uid: THE154.14.3.2.TY.1
+        subobj: 14.3.2
+        type: ty
+        question: What are the three primary levels of ministerial credentials?
+        choices:
+          A: Associate minister, senior minister, and ordained minister
+          B: Licensed minister, general minister, and district minister
+          C: Certified pastor, licensed pastor, and ordained pastor
+          D: Certified minister, licensed minister, and ordained minister
+        answer: D
+      - uid: THE154.14.3.3.UPE.1
+        subobj: 14.3.3
+        type: upe
+        question: What is one qualification all applicants for ministerial credentials
+          must meet?
+        choices:
+          A: A graduate degree in theology
+          B: A minimum of 10 years of church service
+          C: A proven call to ministry and sound biblical knowledge
+          D: A special letter from the General Superintendent
+        answer: C
+      - uid: THE154.14.3.3.TY.1
+        subobj: 14.3.3
+        type: ty
+        question: What is one qualification all applicants for ministerial credentials
+          must meet?
+        choices:
+          A: Membership in a General Council-affiliated church
+          B: A graduate degree in theology
+          C: Some form of education, resulting in sound biblical knowledge
+          D: Three years of professional experience
+        answer: C
     chapters:
     - last_modified: '2026-03-27'
       title: '1'

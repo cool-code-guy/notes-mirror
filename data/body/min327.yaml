@@ -1553,6 +1553,2644 @@ courses:
       '2.0':
         timestamp: '2026-04-01'
         PN: 02.22.01
+      '1.0':
+        timestamp: '2006-01-01'
+        precision: year
+        source: colophon
+    printings:
+    - pn: 02.22.01
+      course_code: MIN327
+      source_html: BMIN327ENE02-90_02.22.01.html
+      template: old
+      recorded: '2026-08-26'
+      note: 'Pristine print baseline built by scripts/build_html_baseline.py purely
+        from the InDesign HTML -- no DB input. Read-only: never hand-edit and never
+        feed to the janitor. UIDs are synthesized from the book''s own answer key;
+        diff pairs by content.'
+      counts:
+        ty: 140
+        upe: 100
+        final: 0
+      questions:
+      - uid: MIN327.1.1.1.TY.1
+        subobj: 1.1.1
+        type: ty
+        question: The church is a business operation in that it
+        choices:
+          A: focuses on evangelism.
+          B: promotes family values.
+          C: engages in political discussions.
+          D: manages a large amount of money.
+        answer: D
+      - uid: MIN327.1.1.2.UPE.1
+        subobj: 1.1.2
+        type: upe
+        question: The position that best illustrates administration is
+        choices:
+          A: ship captain.
+          B: computer programmer.
+          C: business manager.
+          D: carpenter.
+        answer: A
+      - uid: MIN327.1.1.2.UPE.2
+        subobj: 1.1.2
+        type: upe
+        question: The process of planning, budgeting, receiving, disbursing, accounting,
+          reporting, and auditing are items related to
+        choices:
+          A: cycles of administration.
+          B: personnel management.
+          C: financial management.
+          D: the management cycle.
+        answer: C
+      - uid: MIN327.1.1.2.UPE.3
+        subobj: 1.1.2
+        type: upe
+        question: Planning, organizing, directing, and controlling are the four items
+          included in
+        choices:
+          A: computer programming.
+          B: personnel management.
+          C: financial management.
+          D: the management cycle.
+        answer: D
+      - uid: MIN327.1.1.2.UPE.4
+        subobj: 1.1.2
+        type: upe
+        question: Managers who place a high priority on the worker rather than the
+          work define management as
+        choices:
+          A: “providing for the needs of the organization.”
+          B: “developing the work environment.”
+          C: “developing people through work.”
+          D: “establishing the enterprise for the worker.”
+        answer: C
+      - uid: MIN327.1.1.2.TY.1
+        subobj: 1.1.2
+        type: ty
+        question: In the management cycle, organizing involves
+        choices:
+          A: setting specific goals and objectives.
+          B: delegating authority to others.
+          C: motivating and communicating with staff.
+          D: measuring and correcting performance.
+        answer: B
+      - uid: MIN327.1.1.2.TY.2
+        subobj: 1.1.2
+        type: ty
+        question: The position that best illustrates the meaning of administration
+          is
+        choices:
+          A: computer programmer.
+          B: personnel manager.
+          C: ship captain.
+          D: carpenter.
+        answer: C
+      - uid: MIN327.1.1.3.TY.1
+        subobj: 1.1.3
+        type: ty
+        question: What is NOT a reason for church leaders’ rejecting good management
+          principles?
+        choices:
+          A: Spiritual arguments
+          B: Lack of knowledge
+          C: Compassion
+          D: Fear
+        answer: C
+      - uid: MIN327.1.2.1.UPE.1
+        subobj: 1.2.1
+        type: upe
+        question: Which strong leadership style can emphasize the interests of the
+          organization?
+        choices:
+          A: Authoritarian
+          B: Democratic
+          C: Republican
+          D: Lai ssez-faire
+        answer: A
+      - uid: MIN327.1.2.1.UPE.2
+        subobj: 1.2.1
+        type: upe
+        question: What style of leadership promotes group decisions based on a consensus?
+        choices:
+          A: Authoritarian
+          B: Democratic
+          C: Laissez-faire
+          D: Rep ublican
+        answer: B
+      - uid: MIN327.1.2.1.UPE.3
+        subobj: 1.2.1
+        type: upe
+        question: In Acts 6:1–7, during the selection of church deacons, the type
+          of church government exercised was a mixture of
+        choices:
+          A: episcopal and plurality of elders.
+          B: episcopal and congregational.
+          C: presbyterian and congregational.
+          D: presbyterian and independent.
+        answer: C
+      - uid: MIN327.1.2.1.UPE.4
+        subobj: 1.2.1
+        type: upe
+        question: The apostle James, during the Jerusalem Council (Acts 15), used
+          a leadership style that we describe as
+        choices:
+          A: authoritarian.
+          B: democratic.
+          C: laissez-faire.
+          D: dictatorial.
+        answer: B
+      - uid: MIN327.1.2.1.TY.1
+        subobj: 1.2.1
+        type: ty
+        question: The type of church government exercised in Acts 6:1–7 is a mixture
+          of
+        choices:
+          A: episcopal and presbyterian.
+          B: presbyterian and congregational.
+          C: episcopal and congregational.
+          D: independent and plurality of elders.
+        answer: B
+      - uid: MIN327.1.3.1.UPE.1
+        subobj: 1.3.1
+        type: upe
+        question: One excellent reference for parliamentary procedure is
+        choices:
+          A: Ord ers and Rules of Robert Foresman.
+          B: Foresman’s Rules of Order.
+          C: Robert’s Parliamentary Orders.
+          D: Robert’s Rules of Order .
+        answer: D
+      - uid: MIN327.1.3.1.UPE.2
+        subobj: 1.3.1
+        type: upe
+        question: As a rule, which item of business comes first in a church business
+          meeting?
+        choices:
+          A: Elections
+          B: New business
+          C: Reading the minutes
+          D: Unfinished business
+        answer: C
+      - uid: MIN327.1.3.1.UPE.3
+        subobj: 1.3.1
+        type: upe
+        question: Who is responsible for recording and keeping the minutes of the
+          church business meeting?
+        choices:
+          A: Secretary of the pastor
+          B: Secretary of the church
+          C: Secretary of the parliamentarian committee
+          D: Chairman of the parliamentarian committee
+        answer: B
+      - uid: MIN327.1.3.1.TY.1
+        subobj: 1.3.1
+        type: ty
+        question: Roll call is taken at a church business meeting to
+        choices:
+          A: total the votes in an election.
+          B: call the meeting to order.
+          C: present the minutes from the previous meeting.
+          D: determine whether a quorum is present.
+        answer: D
+      - uid: MIN327.1.4.1.UPE.1
+        subobj: 1.4.1
+        type: upe
+        question: All personnel on the church staff are ultimately responsible to
+          the
+        choices:
+          A: pastor.
+          B: chairman of the board.
+          C: business administrator.
+          D: people of the church through the annual business meeting.
+        answer: A
+      - uid: MIN327.1.4.1.UPE.2
+        subobj: 1.4.1
+        type: upe
+        question: Successful business management in the church requires
+        choices:
+          A: that all personnel, both paid and volunteer, will have received the baptism
+            with the Holy Spirit.
+          B: the recognition that the wisdom of the Holy Spirit is sufficient for
+            all church positions, regardless of academic qualifications.
+          C: items a) and b) to apply.
+          D: the hiring and motivating of trained, qualified people.
+        answer: D
+      - uid: MIN327.1.4.1.TY.1
+        subobj: 1.4.1
+        type: ty
+        question: A staffing process functions correctly when it
+        choices:
+          A: allows the deacon board to select personnel.
+          B: places individuals with differing experience at various positions.
+          C: matches the right person with the right position.
+          D: is delayed to prevent disruptions in spiritual leadership.
+        answer: C
+      - uid: MIN327.1.5.1.UPE.1
+        subobj: 1.5.1
+        type: upe
+        question: Which individual or group represents the church in all church-related
+          legal matters?
+        choices:
+          A: Trustees
+          B: Church council
+          C: Pastor’s secretary
+          D: Church treasurer
+        answer: A
+      - uid: MIN327.1.5.1.UPE.2
+        subobj: 1.5.1
+        type: upe
+        question: What is a function of the church administrator?
+        choices:
+          A: Manage the pastor and the church deacon board.
+          B: Determine the church’s programs and goals, and budget the church’s finances
+            accordingly.
+          C: Advise the church board and pastor of legal matters influencing the church’s
+            operation.
+          D: 'All of the above: a), b), and c)'
+        answer: C
+      - uid: MIN327.1.5.1.TY.1
+        subobj: 1.5.1
+        type: ty
+        question: A trustee is a person
+        choices:
+          A: to whom church property has been entrusted.
+          B: who is hired for a probationary period.
+          C: who maintains the church’s confidential personnel records.
+          D: whom the pastor always appoints as a spiritual confidant.
+        answer: A
+      - uid: MIN327.1.5.1.TY.2
+        subobj: 1.5.1
+        type: ty
+        question: The purpose of a church council is to
+        choices:
+          A: serve as nominating committee for the deacon board.
+          B: review and make recommendations for the church’s ministries.
+          C: evaluate the pastor’s performance and recommend pastoral change.
+          D: serve as a liaison to the denominational authorities.
+        answer: B
+      - uid: MIN327.1.5.1.TY.3
+        subobj: 1.5.1
+        type: ty
+        question: The church secretary
+        choices:
+          A: is custodian of all church records.
+          B: usually serves as receptionist and office manager.
+          C: has significant authority to guide church business.
+          D: is usually the first paid staff member hired as a church grows.
+        answer: A
+      - uid: MIN327.2.1.1.UPE.1
+        subobj: 2.1.1
+        type: upe
+        question: The cost of borrowing money is called
+        choices:
+          A: principal.
+          B: accrual.
+          C: interest.
+          D: rate of return.
+        answer: C
+      - uid: MIN327.2.1.1.UPE.2
+        subobj: 2.1.1
+        type: upe
+        question: The Scriptures declare that Christians
+        choices:
+          A: are forbidden to borrow money.
+          B: should pay what they owe.
+          C: will avoid persecution if they borrow money.
+          D: are relieved of their financial obligations if they are unable to repay
+            the full amount of a loan.
+        answer: B
+      - uid: MIN327.2.1.1.TY.1
+        subobj: 2.1.1
+        type: ty
+        question: The cost of borrowing money is called
+        choices:
+          A: a loan.
+          B: interest.
+          C: collateral.
+          D: deferred giving.
+        answer: B
+      - uid: MIN327.2.1.2.UPE.1
+        subobj: 2.1.2
+        type: upe
+        question: A primary method for obtaining initial building program funds is
+        choices:
+          A: selling existing land and buildings.
+          B: using the homes of the pastor and deacon board as collateral.
+          C: overestimating the cost of the proposed building.
+          D: projecting membership income.
+        answer: A
+      - uid: MIN327.2.1.2.TY.1
+        subobj: 2.1.2
+        type: ty
+        question: Building program funds are primarily obtained through using
+        choices:
+          A: the approximate income of all church members as collateral.
+          B: church officials’ homes as loan security.
+          C: proceeds from the sale of existing land and buildings.
+          D: inflated values of church property, existing church buildings, and neighboring
+            properties.
+        answer: C
+      - uid: MIN327.2.1.3.TY.1
+        subobj: 2.1.3
+        type: ty
+        question: Loan instruments are written agreements to
+        choices:
+          A: cover the terms of a transaction.
+          B: bind the mortgagor and mortgagee.
+          C: bind the maker to the payee.
+          D: establish fixed construction costs.
+        answer: A
+      - uid: MIN327.2.2.1.UPE.1
+        subobj: 2.2.1
+        type: upe
+        question: What is a question that should be asked when a church is considering
+          a loan?
+        choices:
+          A: What is the appraised value of the homes of the church members?
+          B: How much did the church borrow on the last building project?
+          C: What are the outstanding and total monthly payments of present loans
+            and debts of the church?
+          D: What interest rate did the church pay in the last building program?
+        answer: C
+      - uid: MIN327.2.2.2.UPE.1
+        subobj: 2.2.2
+        type: upe
+        question: Loan costs are determined by
+        choices:
+          A: risk to the lender, interest rates, and deferred charges.
+          B: amount of the loan, risk to the lender, and goodwill.
+          C: interest rates, amount of property owned, and risk for the lender.
+          D: interest rates, risk for the lender, and the length of time for which
+            the loan is desired.
+        answer: D
+      - uid: MIN327.2.2.2.UPE.2
+        subobj: 2.2.2
+        type: upe
+        question: In what type of mortgage does the interest rate increase or decrease
+          based on the financial market conditions?
+        choices:
+          A: Renegotiable rate mortgage
+          B: Fixed rate mortgage
+          C: Flexible rate mortgage
+          D: Unlimited rate mortgage
+        answer: C
+      - uid: MIN327.2.2.3.TY.1
+        subobj: 2.2.3
+        type: ty
+        question: If Church 1 borrows $10,000 for 10 years and Church 2 borrows $10,000
+          for 8 years at the same interest rate,
+        choices:
+          A: the amount of interest paid for the loans would be approximately the
+            same.
+          B: Church 2 would pay more total interest than Church 1.
+          C: Church 1 would pay higher monthly payments than Church 2.
+          D: Church 1 would pay more total interest than Church 2.
+        answer: D
+      - uid: MIN327.2.3.1.UPE.1
+        subobj: 2.3.1
+        type: upe
+        question: Which type of bond is an unsecured obligation of the church backed
+          only by its good name?
+        choices:
+          A: Registered bond
+          B: Callable bond
+          C: Coupon bond
+          D: Debenture bond
+        answer: D
+      - uid: MIN327.2.3.1.UPE.2
+        subobj: 2.3.1
+        type: upe
+        question: Which type of bond is guaranteed by existing buildings or property
+          owned by the church?
+        choices:
+          A: First mortgage bond
+          B: Second mortgage bond
+          C: Mature bond
+          D: Ratified bond
+        answer: A
+      - uid: MIN327.2.3.1.UPE.3
+        subobj: 2.3.1
+        type: upe
+        question: Two approaches offered for selling church bonds are the
+        choices:
+          A: best approach and the worst approach.
+          B: most advisable and the least advisable.
+          C: most effort and the firm effort approaches.
+          D: best effort and firm underwriting approaches.
+        answer: D
+      - uid: MIN327.2.3.1.TY.1
+        subobj: 2.3.1
+        type: ty
+        question: What are guaranteed by existing buildings or property the church
+          owns?
+        choices:
+          A: First mortgage bonds
+          B: Second mortgage bonds
+          C: Interest income
+          D: Bonds
+        answer: A
+      - uid: MIN327.2.3.1.TY.2
+        subobj: 2.3.1
+        type: ty
+        question: When an investor other than the bondholder holds the first lien
+          on church properties, it is called
+        choices:
+          A: interest income.
+          B: a first mortgage bond.
+          C: a second mortgage bond.
+          D: a capital fund drive.
+        answer: C
+      - uid: MIN327.2.4.1.TY.1
+        subobj: 2.4.1
+        type: ty
+        question: The effort to raise large sums of money for capital expenditures
+          is called a
+        choices:
+          A: second mortgage bond campaign.
+          B: capital fund drive.
+          C: loan program.
+          D: subscription list.
+        answer: B
+      - uid: MIN327.2.4.1.TY.2
+        subobj: 2.4.1
+        type: ty
+        question: A list of members’ gifts for supporting the pastor and church is
+          called
+        choices:
+          A: a bond.
+          B: interest income.
+          C: a subscription list.
+          D: a commitment card.
+        answer: C
+      - uid: MIN327.2.4.1.TY.3
+        subobj: 2.4.1
+        type: ty
+        question: An agreement to give a stated sum of money over a certain time period
+          for a specified project is a
+        choices:
+          A: capital fund drive.
+          B: pledge.
+          C: subscription list.
+          D: bond campaign.
+        answer: B
+      - uid: MIN327.2.5.3.UPE.1
+        subobj: 2.5.3
+        type: upe
+        question: A legal document providing for the inheritance of personal property
+          by a church or religious organization describes a
+        choices:
+          A: trust.
+          B: will.
+          C: gift annuity.
+          D: giving covenant.
+        answer: B
+      - uid: MIN327.2.5.3.TY.1
+        subobj: 2.5.3
+        type: ty
+        question: Funding of church ministries and projects through cooperative fund-raising
+        choices:
+          A: is a good substitute for tithing.
+          B: is primarily a business activity.
+          C: is usually sanctioned by pastors and other church leaders.
+          D: helps the community see the church as a business enterprise.
+        answer: C
+      - uid: MIN327.3.1.1.UPE.1
+        subobj: 3.1.1
+        type: upe
+        question: The systematic process of recording, classifying, and summarizing
+          the financial transactions of a business or organization describes
+        choices:
+          A: accounting.
+          B: accounting system.
+          C: bookkeeping.
+          D: financial management.
+        answer: C
+      - uid: MIN327.3.1.1.UPE.2
+        subobj: 3.1.1
+        type: upe
+        question: The process of recording, measuring, reporting and interpreting
+          financial information for decision making describes
+        choices:
+          A: accounting.
+          B: accounting system.
+          C: bookkeeping.
+          D: financial management.
+        answer: A
+      - uid: MIN327.3.1.1.TY.1
+        subobj: 3.1.1
+        type: ty
+        question: An accounting system is the
+        choices:
+          A: systematic process of recording, classifying, and summarizing financial
+            transactions.
+          B: process of tracking finances and supervising financial officers.
+          C: total activities of the corporate officer responsible for receiving and
+            disbursing money.
+          D: interaction of the financial records, reports, and procedures that form
+            the unified financial network.
+        answer: D
+      - uid: MIN327.3.1.1.TY.2
+        subobj: 3.1.1
+        type: ty
+        question: A voucher is the
+        choices:
+          A: written form that verifies a transaction.
+          B: written pledge to contribute specified sums at a future date.
+          C: total of all monies from all sources coming into the church.
+          D: security coupon attached to a bond or note.
+        answer: A
+      - uid: MIN327.3.1.2.UPE.1
+        subobj: 3.1.2
+        type: upe
+        question: A chronological record of receipt transactions of the church describes
+        choices:
+          A: cash receipts journal.
+          B: journalizing.
+          C: receipts distribution.
+          D: voucher accreditation.
+        answer: A
+      - uid: MIN327.3.1.2.TY.1
+        subobj: 3.1.2
+        type: ty
+        question: The combination of the cash receipts and cash disbursement journals
+          in one book is called the
+        choices:
+          A: disbursements.
+          B: cash disbursements journal.
+          C: ledger.
+          D: cashbook.
+        answer: D
+      - uid: MIN327.3.1.2.TY.2
+        subobj: 3.1.2
+        type: ty
+        question: Monies paid for purchases, salaries, operating expenses, and debts
+          are called
+        choices:
+          A: disbursements.
+          B: the cash receipts journal.
+          C: the cashbook.
+          D: accounts.
+        answer: A
+      - uid: MIN327.3.2.1.UPE.1
+        subobj: 3.2.1
+        type: upe
+        question: A two-column book in which the correction, adjustment, or transfer
+          of amounts of original transactions are made and recorded describes the
+        choices:
+          A: cash book.
+          B: chart of accounts.
+          C: general journal.
+          D: trial balance ledger.
+        answer: C
+      - uid: MIN327.3.2.1.TY.1
+        subobj: 3.2.1
+        type: ty
+        question: The purpose of the general journal is to
+        choices:
+          A: increase or decrease an account balance.
+          B: record corrections, adjustments, and transfers of original transaction
+            amounts.
+          C: list account names and balances in the debit and credit columns.
+          D: move figures from the journals to the trial balance and later to the
+            financial reports.
+        answer: B
+      - uid: MIN327.3.2.2.UPE.1
+        subobj: 3.2.2
+        type: upe
+        question: The three columns of an account are
+        choices:
+          A: ledger, posted amount, and balance.
+          B: debit, credit, and balance.
+          C: posted amount, ledger, and credit.
+          D: ledger, debit, and credit.
+        answer: B
+      - uid: MIN327.3.2.2.TY.1
+        subobj: 3.2.2
+        type: ty
+        question: Recording amounts and information from the journals into ledger
+          accounts is called
+        choices:
+          A: ledgering.
+          B: accounting.
+          C: posting.
+          D: charting accounts.
+        answer: C
+      - uid: MIN327.3.2.2.TY.2
+        subobj: 3.2.2
+        type: ty
+        question: Which term refers to all accounts of an accounting system?
+        choices:
+          A: Ledger
+          B: Account
+          C: Posting
+          D: Chart of accounts
+        answer: A
+      - uid: MIN327.3.2.2.TY.3
+        subobj: 3.2.2
+        type: ty
+        question: A list of the names and numbers of the accounts in an accounting
+          system is called
+        choices:
+          A: a ledger.
+          B: an account.
+          C: a posting.
+          D: a chart of accounts.
+        answer: D
+      - uid: MIN327.3.3.1.UPE.1
+        subobj: 3.3.1
+        type: upe
+        question: Time intervals of equal length spanning the life of a business describes
+        choices:
+          A: an accounting period.
+          B: the fiscal year.
+          C: time management.
+          D: trial balance.
+        answer: A
+      - uid: MIN327.3.3.1.TY.1
+        subobj: 3.3.1
+        type: ty
+        question: After obtaining a debit or credit balance for each account, the
+          bookkeeper’s next step is to
+        choices:
+          A: record transfers in the general journal.
+          B: prepare a trial balance.
+          C: fill out a worksheet.
+          D: post amounts in the ledger.
+        answer: B
+      - uid: MIN327.3.3.2.UPE.1
+        subobj: 3.3.2
+        type: upe
+        question: A work sheet
+        choices:
+          A: lists the names and numbers of the accounts in an accounting system grouped
+            according to common relationships.
+          B: records monies paid for purchases, salaries, operating expenses, and
+            debts.
+          C: views the detailed transactions of each account without the necessity
+            of referring to other accounts.
+          D: provides a convenient and orderly way to organize the accounting data
+            for use in preparing adjustments and financial reports.
+        answer: D
+      - uid: MIN327.3.3.2.TY.1
+        subobj: 3.3.2
+        type: ty
+        question: One advantage of using a worksheet is the
+        choices:
+          A: elimination of redundant information.
+          B: ability to maintain confidential entries.
+          C: ability to view all accounts at once.
+          D: option of making corrections after reports are submitted.
+        answer: C
+      - uid: MIN327.4.1.1.UPE.1
+        subobj: 4.1.1
+        type: upe
+        question: Church financial statements should include an account of all
+        choices:
+          A: receipts and expenditures of funds.
+          B: fraud and attempted fraud.
+          C: bankruptcy proceedings.
+          D: bookkeeping errors noticed during the accounting period.
+        answer: A
+      - uid: MIN327.4.1.1.TY.1
+        subobj: 4.1.1
+        type: ty
+        question: The organization’s performance is best compared with its goals using
+          the
+        choices:
+          A: statement of receipts and expenditures.
+          B: ledger audit report.
+          C: balance sheet.
+          D: statement of changes in financial position.
+        answer: A
+      - uid: MIN327.4.2.1.UPE.1
+        subobj: 4.2.1
+        type: upe
+        question: The balance sheet is a financial report that
+        choices:
+          A: reveals projected receipts, expenses, and assets of an organization.
+          B: describes the financial history of an organization.
+          C: is optional.
+          D: reveals the financial status of an organization.
+        answer: D
+      - uid: MIN327.4.2.1.UPE.2
+        subobj: 4.2.1
+        type: upe
+        question: Fixed assets are
+        choices:
+          A: not payable within the fiscal year.
+          B: not expected to be used during the fiscal year.
+          C: payable within the fiscal year.
+          D: to be used or collected during the fiscal year.
+        answer: B
+      - uid: MIN327.4.2.1.UPE.3
+        subobj: 4.2.1
+        type: upe
+        question: Current liabilities are
+        choices:
+          A: not payable within the fiscal year.
+          B: not expected to be used during the fiscal year.
+          C: payable within the fiscal year.
+          D: to be used or collected during the fiscal year
+        answer: C
+      - uid: MIN327.4.2.1.TY.1
+        subobj: 4.2.1
+        type: ty
+        question: Which report reveals the organization’s financial status?
+        choices:
+          A: Statement of receipts and expenditures
+          B: Balance sheet
+          C: Audit reconciliation statement
+          D: Statement of changes in financial position
+        answer: B
+      - uid: MIN327.4.2.1.TY.2
+        subobj: 4.2.1
+        type: ty
+        question: Funds with no external restrictions for their use are called
+        choices:
+          A: restricted funds.
+          B: unrestricted funds.
+          C: designated funds.
+          D: deferred revenue.
+        answer: B
+      - uid: MIN327.4.2.1.TY.3
+        subobj: 4.2.1
+        type: ty
+        question: Funds received but not actually earned or used are called
+        choices:
+          A: restricted funds.
+          B: unrestricted funds.
+          C: designated funds.
+          D: deferred revenue.
+        answer: D
+      - uid: MIN327.4.2.1.TY.4
+        subobj: 4.2.1
+        type: ty
+        question: Debts, claims, and financial obligations owed are known as
+        choices:
+          A: deferred revenue.
+          B: fund balances.
+          C: liabilities.
+          D: assets.
+        answer: C
+      - uid: MIN327.4.2.1.TY.5
+        subobj: 4.2.1
+        type: ty
+        question: Things of value entrusted to the organization for use in reaching
+          its goals are called
+        choices:
+          A: assets.
+          B: liabilities.
+          C: fund balances.
+          D: deferred revenue.
+        answer: A
+      - uid: MIN327.4.2.1.TY.6
+        subobj: 4.2.1
+        type: ty
+        question: The balance sheet reports
+        choices:
+          A: the summary of a church’s receipt and expense transactions.
+          B: the values of assets, liabilities, and fund balances.
+          C: a summary of available resources and their use.
+          D: the annual variance between the approved budget and actual income and
+            expense.
+        answer: B
+      - uid: MIN327.4.2.2.UPE.1
+        subobj: 4.2.2
+        type: upe
+        question: The statement of change in financial position
+        choices:
+          A: states the changes in financial direction for the accounting period.
+          B: provides a summary of available resources and their use for the accounting
+            period.
+          C: is unnecessary.
+          D: reveals the change of status of an organization for securing loans in
+            the business community.
+        answer: B
+      - uid: MIN327.4.2.2.TY.1
+        subobj: 4.2.2
+        type: ty
+        question: The source and use of funds is summarized on the
+        choices:
+          A: general ledger.
+          B: balance sheet.
+          C: statement of changes in financial position.
+          D: statement of receipts and expenditures.
+        answer: C
+      - uid: MIN327.4.3.1.TY.1
+        subobj: 4.3.1
+        type: ty
+        question: To be meaningful, a financial statement should be
+        choices:
+          A: concise.
+          B: detailed.
+          C: lengthy.
+          D: general.
+        answer: A
+      - uid: MIN327.4.3.2.UPE.1
+        subobj: 4.3.2
+        type: upe
+        question: The statement that reveals the amount of funds remaining after all
+          expenses have been paid is the
+        choices:
+          A: statement of receipts and expenses.
+          B: balance sheet.
+          C: statement of changes in financial position.
+          D: statement of liabilities and fund balances.
+        answer: A
+      - uid: MIN327.4.3.2.TY.1
+        subobj: 4.3.2
+        type: ty
+        question: The ability to meet current liabilities and restricted fund balances
+          should be considered when
+        choices:
+          A: preparing an audit report for the business meeting.
+          B: reading the statement of changes in financial position.
+          C: adopting an accounting system.
+          D: analyzing a balance sheet.
+        answer: D
+      - uid: MIN327.5.1.1.TY.1
+        subobj: 5.1.1
+        type: ty
+        question: A good record-keeping system
+        choices:
+          A: is expensive but well worth the investment.
+          B: is usually too complex for average church bookkeepers.
+          C: always includes professional accountants.
+          D: saves time, money, and trouble.
+        answer: D
+      - uid: MIN327.5.1.2.UPE.1
+        subobj: 5.1.2
+        type: upe
+        question: The suggested retention schedule for all church board minutes is
+        choices:
+          A: 1–3 years.
+          B: 4–6 years.
+          C: 7–10 years.
+          D: permanent.
+        answer: D
+      - uid: MIN327.5.1.2.UPE.2
+        subobj: 5.1.2
+        type: upe
+        question: The suggested retention schedule for all legal documents is
+        choices:
+          A: 1–3 years.
+          B: 4–6 years.
+          C: 7–10 years.
+          D: permanent.
+        answer: D
+      - uid: MIN327.5.1.3.TY.1
+        subobj: 5.1.3
+        type: ty
+        question: Vital records enable an organization to
+        choices:
+          A: generate greater charitable revenues.
+          B: modify bookkeeping systems when required.
+          C: continue its existence.
+          D: set reasonable financial goals.
+        answer: C
+      - uid: MIN327.5.2.1.UPE.1
+        subobj: 5.2.1
+        type: upe
+        question: A church audit
+        choices:
+          A: assures the reliability and authenticity of financial statements.
+          B: ensures compliance with accepted accounting principles.
+          C: detects major errors, fraud, and irregularities.
+          D: does all of the above.
+        answer: D
+      - uid: MIN327.5.2.1.UPE.2
+        subobj: 5.2.1
+        type: upe
+        question: In the church, audits are usually performed by
+        choices:
+          A: denominational headquarters, friends, and associates.
+          B: individuals, relatives, and associates.
+          C: an audit committee, denominational headquarters, and associates.
+          D: individuals, an audit committee, or an independent auditor.
+        answer: D
+      - uid: MIN327.5.2.1.TY.1
+        subobj: 5.2.1
+        type: ty
+        question: A person authorized to inspect and verify financial records is
+        choices:
+          A: usually the pastor.
+          B: an auditor.
+          C: a subtreasurer.
+          D: a certified treasurer.
+        answer: B
+      - uid: MIN327.5.2.1.TY.2
+        subobj: 5.2.1
+        type: ty
+        question: One advantage of an audit is to
+        choices:
+          A: promote confidence in the church leadership and staff.
+          B: prevent power conflicts among leadership.
+          C: perpetuate sound democratic principles in church government.
+          D: establish reasonable budgeting processes.
+        answer: A
+      - uid: MIN327.5.3.1.TY.1
+        subobj: 5.3.1
+        type: ty
+        question: A set of basic concepts, assumptions, and principles for identifying,
+          measuring, and communicating economic information is called
+        choices:
+          A: an audit.
+          B: record keeping.
+          C: accounting theory.
+          D: a bookkeeping system.
+        answer: C
+      - uid: MIN327.5.3.2.UPE.1
+        subobj: 5.3.2
+        type: upe
+        question: The accounting equation formula Assets – Liabilities = Funds means
+        choices:
+          A: the sum of the liabilities and assets must always be equal to the fund
+            balances themselves.
+          B: that debits must equal credits for all accounts.
+          C: the totals of all accounts equal the totals of the fund accounts.
+          D: the totals of the asset accounts are the same value as the totals of
+            the liabilities and fund accounts.
+        answer: D
+      - uid: MIN327.5.3.2.UPE.2
+        subobj: 5.3.2
+        type: upe
+        question: In the double entry system of bookkeeping, a debit
+        choices:
+          A: is an increase, and a credit is a decrease.
+          B: is posted on the left and a credit is posted on the right side of an
+            account.
+          C: amount always differs from the credit amount.
+          D: and a credit do not have set locations in an account.
+        answer: B
+      - uid: MIN327.5.3.3.UPE.1
+        subobj: 5.3.3
+        type: upe
+        question: “Less complicated than other bases of accounting” describes the
+        choices:
+          A: accrual basis of accounting.
+          B: cash basis of accounting.
+          C: modified basis of accounting.
+          D: simplified basis of accounting.
+        answer: B
+      - uid: MIN327.5.3.4.UPE.1
+        subobj: 5.3.4
+        type: upe
+        question: The statement, “Payments and obligations are recorded as transactions
+          take place,” describes the
+        choices:
+          A: accrual basis of accounting.
+          B: cash basis of accounting.
+          C: modified basis of accounting.
+          D: simplified basis of accounting.
+        answer: A
+      - uid: MIN327.5.3.4.TY.1
+        subobj: 5.3.4
+        type: ty
+        question: Which accounting system best reflects an organization’s financial
+          condition on the date of the financial statement?
+        choices:
+          A: Cash
+          B: Modified
+          C: Accrual
+          D: Single entry
+        answer: C
+      - uid: MIN327.5.4.1.UPE.1
+        subobj: 5.4.1
+        type: upe
+        question: Double entry bookkeeping is a system in which
+        choices:
+          A: it is necessary to wait until all the work is done for the month before
+            discovering whether statements will balance.
+          B: debit and credit accounts on the trial balance and balance sheets need
+            not balance.
+          C: the discovery and correction of errors is difficult.
+          D: a transaction is recorded twice, once as a debit and once as a credit.
+        answer: D
+      - uid: MIN327.5.4.1.TY.1
+        subobj: 5.4.1
+        type: ty
+        question: In a double entry bookkeeping system, transactions are recorded
+        choices:
+          A: in lists with their amounts.
+          B: once as a debit and once as a credit.
+          C: in separate sets of accounting books.
+          D: by both a central treasurer and several subtreasurers.
+        answer: B
+      - uid: MIN327.5.4.2.UPE.1
+        subobj: 5.4.2
+        type: upe
+        question: The single entry bookkeeping system is a process of keeping financial
+          records by
+        choices:
+          A: eliminating the necessity of recording transactions on a list.
+          B: entering the amount of a transaction only once into a journal.
+          C: entering all initial transactions directly onto a financial statement.
+          D: a complicated system of entries and transfers.
+        answer: B
+      - uid: MIN327.5.4.3.TY.1
+        subobj: 5.4.3
+        type: ty
+        question: Which fund must be separated so the principal is not spent?
+        choices:
+          A: Restricted fund
+          B: Designated fund
+          C: Building fund
+          D: Endowment fund
+        answer: D
+      - uid: MIN327.5.4.4.UPE.1
+        subobj: 5.4.4
+        type: upe
+        question: The central treasury system of accounting is characterized by
+        choices:
+          A: differences in accounting entries but similarities in accounting statements.
+          B: one person’s making all the disbursement decisions for an organization.
+          C: one person’s depositing and disbursing by check funds for all the organizational
+            accounts.
+          D: all organizational sub-treasurers’ writing their own disbursements.
+        answer: C
+      - uid: MIN327.5.4.4.UPE.2
+        subobj: 5.4.4
+        type: upe
+        question: The advantage of the central treasury system of accounting is
+        choices:
+          A: preservation of the reputation of financial workers.
+          B: one record of receipts.
+          C: multiple accounting procedures.
+          D: multiple bank accounts.
+        answer: A
+      - uid: MIN327.5.4.4.TY.1
+        subobj: 5.4.4
+        type: ty
+        question: The central treasury accounting system involves
+        choices:
+          A: using no standard accounting method.
+          B: using several different accounting methods.
+          C: allowing the congregation’s participation in record keeping.
+          D: one person making deposits and writing checks.
+        answer: D
+      - uid: MIN327.5.5.1.TY.1
+        subobj: 5.5.1
+        type: ty
+        question: For which principle are explanatory notes included on statements
+          with significant financial transactions?
+        choices:
+          A: Materiality
+          B: Historical costs
+          C: Going concern
+          D: Conservatism
+        answer: A
+      - uid: MIN327.6.1.1.UPE.1
+        subobj: 6.1.1
+        type: upe
+        question: Internal control is a system of guidelines, methods, and procedures
+          used by a church to control
+        choices:
+          A: its members.
+          B: the amount of money budgeted for operations.
+          C: the daily operations of the church.
+          D: the number of activities and missions projects.
+        answer: C
+      - uid: MIN327.6.1.1.UPE.2
+        subobj: 6.1.1
+        type: upe
+        question: A principle of internal control is that
+        choices:
+          A: accounting errors will be noted and corrected accordingly.
+          B: responsibilities of staff members who handle organizational records will
+            be reviewed periodically.
+          C: duties involved in a series of related transactions should be divided
+            between staff members.
+          D: related transactions should not be made during one sequence of posting.
+        answer: C
+      - uid: MIN327.6.1.1.TY.1
+        subobj: 6.1.1
+        type: ty
+        question: The guidelines, methods, and procedures used to regulate daily operations
+          are called
+        choices:
+          A: internal control.
+          B: cash management.
+          C: individual giving records.
+          D: cash flow.
+        answer: A
+      - uid: MIN327.6.1.1.TY.2
+        subobj: 6.1.1
+        type: ty
+        question: Who is responsible to reconcile the church’s bank statement?
+        choices:
+          A: The bookkeeper or accountant
+          B: The business administrator or treasurer
+          C: The church or pastor’s secretary
+          D: Two members of the counting committee
+        answer: B
+      - uid: MIN327.6.1.2.TY.1
+        subobj: 6.1.2
+        type: ty
+        question: Supervising the receiving, investing, using, and protecting of an
+          organization’s cash is
+        choices:
+          A: internal control.
+          B: cash management.
+          C: cash flow recording.
+          D: fidelity bonding.
+        answer: B
+      - uid: MIN327.6.1.2.TY.2
+        subobj: 6.1.2
+        type: ty
+        question: One objective of cash management is to
+        choices:
+          A: regulate the church’s daily operations.
+          B: divide offering-related duties among staff members.
+          C: place excess cash in short-term investments.
+          D: use cash from offerings to pay expenses.
+        answer: C
+      - uid: MIN327.6.2.1.UPE.1
+        subobj: 6.2.1
+        type: upe
+        question: Who takes the church offerings to the bank?
+        choices:
+          A: Business administrator or treasurer
+          B: Bookkeeper or accountant
+          C: Church or pastor’s secretary
+          D: Counting committee members
+        answer: D
+      - uid: MIN327.6.2.1.UPE.2
+        subobj: 6.2.1
+        type: upe
+        question: Fidelity bonds are
+        choices:
+          A: bonds the church purchases as short-term investments.
+          B: not to be owned by nonprofit organizations, such as churches.
+          C: a type of insurance that reimburses an employer for losses caused by
+            dishonest practices of employees.
+          D: purchased to provide insurance coverage for items not covered under the
+            major insurance policies of the church.
+        answer: C
+      - uid: MIN327.6.2.1.TY.1
+        subobj: 6.2.1
+        type: ty
+        question: The detailed list of an individual’s yearly offerings is known as
+        choices:
+          A: an idle cash list.
+          B: a cash management record.
+          C: an individual giving record.
+          D: a fidelity bond.
+        answer: C
+      - uid: MIN327.6.2.1.TY.2
+        subobj: 6.2.1
+        type: ty
+        question: Employers are reimbursed for losses from dishonest employees through
+        choices:
+          A: investment control bonds.
+          B: cash management insurance.
+          C: loss prevention insurance.
+          D: fidelity bonds.
+        answer: D
+      - uid: MIN327.6.3.1.TY.1
+        subobj: 6.3.1
+        type: ty
+        question: All monetary receipts and disbursements should be channeled through
+          the church’s
+        choices:
+          A: checking account.
+          B: cash position report.
+          C: fidelity bonds.
+          D: pastoral staff.
+        answer: A
+      - uid: MIN327.6.3.2.UPE.1
+        subobj: 6.3.2
+        type: upe
+        question: The pattern of receipts and expenditures of an organization over
+          a period of time is identified as
+        choices:
+          A: cash flow.
+          B: idle cash.
+          C: interest income chart.
+          D: investment of cash authorization.
+        answer: A
+      - uid: MIN327.6.3.2.UPE.2
+        subobj: 6.3.2
+        type: upe
+        question: When considering investment of idle cash, a church should avoid
+        choices:
+          A: investing any of the idle cash.
+          B: high-risk and long-term investments.
+          C: low interest rate and short-term investments.
+          D: investing in local and well-known companies.
+        answer: B
+      - uid: MIN327.6.3.2.UPE.3
+        subobj: 6.3.2
+        type: upe
+        question: The cash position report reveals the
+        choices:
+          A: position of the church in relation to its outstanding debts.
+          B: amounts of cash that have been invested short-term.
+          C: current church expenditures and compares them with projected expenditures.
+          D: cash balances and the funds with which they are identified.
+        answer: D
+      - uid: MIN327.6.3.2.TY.1
+        subobj: 6.3.2
+        type: ty
+        question: A pattern of receipts and expenditures of an organization is called
+          the
+        choices:
+          A: investment of cash.
+          B: interest income records.
+          C: idle cash management.
+          D: cash flow.
+        answer: D
+      - uid: MIN327.6.3.2.TY.2
+        subobj: 6.3.2
+        type: ty
+        question: Placing cash into accounts, securities, and properties in hope of
+          financial return is
+        choices:
+          A: investment of cash.
+          B: interest income management.
+          C: idle cash management.
+          D: cash flow.
+        answer: A
+      - uid: MIN327.6.3.3.TY.1
+        subobj: 6.3.3
+        type: ty
+        question: Cash balances and their respective funds are outlined on the
+        choices:
+          A: bank statement.
+          B: cash flow projection table.
+          C: cash position report.
+          D: individual giving record.
+        answer: C
+      - uid: MIN327.7.1.1.UPE.1
+        subobj: 7.1.1
+        type: upe
+        question: An authorized request stating materials or services needed is identified
+          as a
+        choices:
+          A: purchasing agent document.
+          B: decentralized purchasing memo.
+          C: purchase order.
+          D: purchase requisition.
+        answer: D
+      - uid: MIN327.7.1.1.UPE.2
+        subobj: 7.1.1
+        type: upe
+        question: Purchase orders should be imprinted with the church’s name and address
+          and a statement of conditions for payment to
+        choices:
+          A: gain respectability in the business community.
+          B: minimize forgeries.
+          C: minimize the amounts of purchases.
+          D: provide for internal control of purchases.
+        answer: B
+      - uid: MIN327.7.1.1.UPE.3
+        subobj: 7.1.1
+        type: upe
+        question: Purchase orders should be submitted to church officials for payment
+          authorization when
+        choices:
+          A: officials feel uneasy or unsettled about the finances of the church.
+          B: the purchase order clerk is replaced, there is a pastoral change, and
+            there is a change in the deacon board.
+          C: departmental budgets are more than 50 percent depleted.
+          D: items are not approved in the annual budget, exceed budget amounts, and
+            exceed authorized maximums.
+        answer: D
+      - uid: MIN327.7.1.1.TY.1
+        subobj: 7.1.1
+        type: ty
+        question: A purchase order is
+        choices:
+          A: an authorized request stating the materials and services needed.
+          B: a directive from the business administrator to buy needed equipment.
+          C: a record of goods purchased during a specified time period.
+          D: the form a purchaser uses to place an order with a supplier.
+        answer: D
+      - uid: MIN327.7.1.1.TY.2
+        subobj: 7.1.1
+        type: ty
+        question: Orders are approved at the department level when
+        choices:
+          A: a centralized purchasing system is used.
+          B: a decentralized purchasing system is used.
+          C: purchase orders are not used.
+          D: funds have not been budgeted at the organizational level.
+        answer: B
+      - uid: MIN327.7.2.1.UPE.1
+        subobj: 7.2.1
+        type: upe
+        question: Unpaid, short-term accounts that a purchaser owes to a vendor or
+          supplier are identified as
+        choices:
+          A: accounts payable.
+          B: the invoice log.
+          C: the payment voucher journal.
+          D: the voucher system statement.
+        answer: A
+      - uid: MIN327.7.2.1.UPE.2
+        subobj: 7.2.1
+        type: upe
+        question: The internal control functions of a voucher system include
+        choices:
+          A: allowing payments to be made only for properly approved obligations.
+          B: establishing procedures for verification, approval, and recording obligations.
+          C: allowing only authorized persons and departments to obligate the church.
+          D: all of the above.
+        answer: D
+      - uid: MIN327.7.2.1.TY.1
+        subobj: 7.2.1
+        type: ty
+        question: Accounts payable are unpaid, short-term accounts that
+        choices:
+          A: a purchaser owes to a vendor or supplier.
+          B: are owed to the purchaser.
+          C: have been defaulted on.
+          D: a vendor creates by returning goods delivered.
+        answer: A
+      - uid: MIN327.7.2.1.TY.2
+        subobj: 7.2.1
+        type: ty
+        question: An invoice is
+        choices:
+          A: a form used to authorized purchasing goods or services.
+          B: used in some purchasing systems to track fund expenses.
+          C: identical to an accounts payable report.
+          D: an itemized listing of goods shipped and services rendered.
+        answer: D
+      - uid: MIN327.7.2.2.UPE.1
+        subobj: 7.2.2
+        type: upe
+        question: To request an advance or reimbursement for expenses for which an
+          invoice or receipt is not yet available, a person would submit
+        choices:
+          A: an approximate receipt.
+          B: a receiving report.
+          C: a check requisition form.
+          D: a note of account.
+        answer: C
+      - uid: MIN327.7.2.2.TY.1
+        subobj: 7.2.2
+        type: ty
+        question: A payment voucher is
+        choices:
+          A: a document attesting to a transaction’s details and accuracy.
+          B: the record of all paid invoices.
+          C: a substitute for a petty cash account.
+          D: another term for a purchase order.
+        answer: A
+      - uid: MIN327.7.2.3.TY.1
+        subobj: 7.2.3
+        type: ty
+        question: A check requisition form is used to
+        choices:
+          A: purchase new checks from a bank.
+          B: request an audit for specific accounts.
+          C: request an advance or reimbursement.
+          D: substitute for a petty cash account.
+        answer: C
+      - uid: MIN327.7.3.1.UPE.1
+        subobj: 7.3.1
+        type: upe
+        question: A small sum of money kept on hand to pay minor expenses is identified
+          as a
+        choices:
+          A: bank transfer fund.
+          B: imprest fund.
+          C: petty cash fund.
+          D: underflow fund.
+        answer: C
+      - uid: MIN327.7.3.1.TY.1
+        subobj: 7.3.1
+        type: ty
+        question: A bank transfer involves moving funds from
+        choices:
+          A: one internal account to another.
+          B: the offerings to the bank.
+          C: one bank account to another.
+          D: the bank account to the transfer account.
+        answer: C
+      - uid: MIN327.7.3.1.TY.2
+        subobj: 7.3.1
+        type: ty
+        question: A petty cash fund and an imprest fund are
+        choices:
+          A: identical.
+          B: similar.
+          C: not at all similar.
+          D: impractical for churches.
+        answer: B
+      - uid: MIN327.7.3.1.TY.3
+        subobj: 7.3.1
+        type: ty
+        question: Problems associated with an imprest fund include
+        choices:
+          A: temptation to steal and loss of internal control.
+          B: potential loss of tax-exempt status.
+          C: loss of interest earned.
+          D: incompatibility with centralized disbursement.
+        answer: A
+      - uid: MIN327.7.3.2.TY.1
+        subobj: 7.3.2
+        type: ty
+        question: One guideline for ideal internal control of cash disbursements is
+          to
+        choices:
+          A: require personnel to pay for an annual audit.
+          B: monitor bank accounts of church personnel.
+          C: insist that all personnel take vacation time.
+          D: eliminate petty cash accounts.
+        answer: C
+      - uid: MIN327.8.1.1.UPE.1
+        subobj: 8.1.1
+        type: upe
+        question: A master plan for church growth should answer which three questions?
+        choices:
+          A: Where have we been; where are we going; how do we get there?
+          B: Where are we now; where are we going; how do we get there?
+          C: What has happened; what will happen; how do we make it happen?
+          D: When did we start; where are we now; where are we going?
+        answer: B
+      - uid: MIN327.8.1.1.UPE.2
+        subobj: 8.1.1
+        type: upe
+        question: Before purchasing church property, a building committee should consider
+        choices:
+          A: population and economic trends.
+          B: soil composition and topography.
+          C: municipal service and utilities.
+          D: all of the above.
+        answer: D
+      - uid: MIN327.8.1.1.TY.1
+        subobj: 8.1.1
+        type: ty
+        question: A church master plan does NOT answer which question?
+        choices:
+          A: Where are we now with our buildings and facilities?
+          B: Where are we going over the next five to ten years?
+          C: What church planning trends are important for consumer satisfaction?
+          D: How do we get where we want to go?
+        answer: C
+      - uid: MIN327.8.1.1.TY.2
+        subobj: 8.1.1
+        type: ty
+        question: Church leaders should choose a location that is
+        choices:
+          A: convenient for both personal vehicles and public transportation.
+          B: within one of the wealthiest communities.
+          C: on a back road away from heavy traffic.
+          D: far from busy shopping centers.
+        answer: A
+      - uid: MIN327.8.1.1.TY.3
+        subobj: 8.1.1
+        type: ty
+        question: Land, its rights, and its natural assets, such as trees, water,
+          and minerals, are all considered
+        choices:
+          A: real assets.
+          B: property.
+          C: liabilities.
+          D: vital assets.
+        answer: B
+      - uid: MIN327.8.1.1.TY.4
+        subobj: 8.1.1
+        type: ty
+        question: When buying property, it is generally better for a church to
+        choices:
+          A: lease rather than incur large debt.
+          B: buy too much rather than too little.
+          C: make do with the least amount possible.
+          D: consider only commercially zoned parcels.
+        answer: B
+      - uid: MIN327.8.2.1.UPE.1
+        subobj: 8.2.1
+        type: upe
+        question: For church building projects, experts suggest that churches
+        choices:
+          A: hire the best architect possible and require building contractors to
+            purchase performance bonds.
+          B: purchase land and construct buildings based on present needs and current
+            cash reserves.
+          C: build all the needed buildings at once, but consider eliminating special
+            items such as heating and cooling until a later date.
+          D: do all of the above.
+        answer: A
+      - uid: MIN327.8.2.1.TY.1
+        subobj: 8.2.1
+        type: ty
+        question: In which construction approach does the church serve as its own
+          contractor?
+        choices:
+          A: Architect only
+          B: General contractor
+          C: Design-build
+          D: Construction management
+        answer: D
+      - uid: MIN327.8.2.1.TY.2
+        subobj: 8.2.1
+        type: ty
+        question: When constructing buildings, churches should
+        choices:
+          A: consider adequate space for offices and supply areas.
+          B: complete all of the necessary buildings at once.
+          C: follow the pastor’s personal philosophy and ideas.
+          D: eliminate architects’ fees by drawing their own plans and blueprints.
+        answer: A
+      - uid: MIN327.8.2.2.UPE.1
+        subobj: 8.2.2
+        type: upe
+        question: The primary reason why a church board may choose permanent repairs
+          over stopgap repairs is to
+        choices:
+          A: solve the problem.
+          B: provide time for further study.
+          C: save money.
+          D: reduce gossip.
+        answer: A
+      - uid: MIN327.8.2.2.TY.1
+        subobj: 8.2.2
+        type: ty
+        question: A permanent repair serves to
+        choices:
+          A: reduce further deterioration.
+          B: keep expenses low.
+          C: provide time for further study.
+          D: solve the problem.
+        answer: D
+      - uid: MIN327.8.2.2.TY.2
+        subobj: 8.2.2
+        type: ty
+        question: A preliminary safeguard for equipment, vehicles, and musical instruments
+          is to
+        choices:
+          A: store them at a church member’s home.
+          B: install an electronic security system.
+          C: place a permanent identification number on each item.
+          D: keep security officers in church facilities at all times.
+        answer: C
+      - uid: MIN327.8.2.3.TY.1
+        subobj: 8.2.3
+        type: ty
+        question: Many churches use volunteers for housekeeping because of
+        choices:
+          A: the individuals’ efficiency and reliability.
+          B: financial concerns.
+          C: their experience and training.
+          D: a lack of concern for cleanliness.
+        answer: B
+      - uid: MIN327.8.3.1.TY.1
+        subobj: 8.3.1
+        type: ty
+        question: To determine the need for additional equipment, a church should
+          conduct
+        choices:
+          A: a survey of the congregation’s vision.
+          B: a survey of equipment and vehicles used by area churches.
+          C: an assessment of present utilization.
+          D: an audit of missed opportunities due to a lack of equipment.
+        answer: C
+      - uid: MIN327.9.1.1.UPE.1
+        subobj: 9.1.1
+        type: upe
+        question: A request by the insured for reimbursement describes
+        choices:
+          A: a claim.
+          B: a premium.
+          C: an insured addendum.
+          D: an insurance policy rebate.
+        answer: A
+      - uid: MIN327.9.1.1.UPE.2
+        subobj: 9.1.1
+        type: upe
+        question: How much insurance should a church buy?
+        choices:
+          A: The church should trust God for divine protection and not purchase insurance
+            unless required by law.
+          B: The insurance coverage should be the minimum amount required that would
+            restore the church to its present position, less the deductible account,
+            if the worst loss occurred.
+          C: The Better Church Insurance Association recommends total insurance premiums
+            equal to 4.75 percent of all church tithes and offerings.
+          D: The Better Church Insurance Association recommends total insurance premiums
+            equal to 8.75 percent of all church tithes and offerings.
+        answer: B
+      - uid: MIN327.9.1.1.TY.1
+        subobj: 9.1.1
+        type: ty
+        question: One basic type of insurance is
+        choices:
+          A: unemployment.
+          B: workers compensation.
+          C: flood insurance.
+          D: health insurance.
+        answer: D
+      - uid: MIN327.9.1.1.TY.2
+        subobj: 9.1.1
+        type: ty
+        question: A separate insurance policy or specific mention in other policies
+          is NOT required for
+        choices:
+          A: flood damage.
+          B: earthquakes.
+          C: pipe organs.
+          D: clergy malpractice.
+        answer: D
+      - uid: MIN327.9.1.2.TY.1
+        subobj: 9.1.2
+        type: ty
+        question: The best way to prepare for rising costs related to insurance is
+          to
+        choices:
+          A: reduce the church’s deductible amount each year.
+          B: ask the provider to increase coverage based on an inflation index.
+          C: do minimal repairs to buildings and equipment to save money.
+          D: buy an excessive amount of insurance at the beginning.
+        answer: B
+      - uid: MIN327.9.2.1.UPE.1
+        subobj: 9.2.1
+        type: upe
+        question: Why do some pastors oppose church budgeting?
+        choices:
+          A: Many in local church leadership view a budget as an unchanging mandate
+            that must be followed in every detail.
+          B: Many church constitutions and bylaws prohibit church budgeting.
+          C: Church budgeting is evidence of lack of faith in the provisions of an
+            almighty God.
+          D: All of the above
+        answer: A
+      - uid: MIN327.9.2.1.TY.1
+        subobj: 9.2.1
+        type: ty
+        question: Which statement is true concerning budgets?
+        choices:
+          A: Budgets limit spending.
+          B: Budgets are unchangeable standards.
+          C: Budgets are guidelines for spending.
+          D: We should not try to budget God’s provision.
+        answer: C
+      - uid: MIN327.9.2.2.UPE.1
+        subobj: 9.2.2
+        type: upe
+        question: The major components of budget planning are
+        choices:
+          A: estimating financial losses, budgeting for equipment, and budgeting for
+            personnel.
+          B: budgeting salaries, budgeting equipment and vehicles, and balancing the
+            budget.
+          C: budgeting expenses and income and balancing the budget.
+          D: estimating the income, budgeting expenses, and allowing for depreciation
+            and price fluctuations.
+        answer: C
+      - uid: MIN327.9.2.2.UPE.2
+        subobj: 9.2.2
+        type: upe
+        question: The three major steps involved in preparing an annual budget are
+        choices:
+          A: distributing projected budgets, planning meetings, and distributing proposed
+            budget requests.
+          B: preparing budget requests, planning meetings, and distributing proposed
+            budget requests.
+          C: preparing budget requests, planning meetings, and reviewing personnel.
+          D: distributing budget information and work sheets, planning meetings, and
+            submitting budget requests.
+        answer: D
+      - uid: MIN327.9.2.2.TY.1
+        subobj: 9.2.2
+        type: ty
+        question: The major components of budget planning are
+        choices:
+          A: budgeting income, expenses, and related costs.
+          B: comparing actual and projected incomes and expenses.
+          C: budgeting operations and administrative costs.
+          D: budgeting income, expenses, and balancing the budget.
+        answer: D
+      - uid: MIN327.9.2.2.TY.2
+        subobj: 9.2.2
+        type: ty
+        question: The final step in budgeting expenses is to
+        choices:
+          A: distribute worksheets and budget information.
+          B: conduct budget planning meetings for various groups.
+          C: submit departmental budgets to the budget committee.
+          D: request input from church members.
+        answer: C
+      - uid: MIN327.9.2.2.TY.3
+        subobj: 9.2.2
+        type: ty
+        question: In budget planning sessions, groups generally discuss the
+        choices:
+          A: things they could do with more resources.
+          B: primary rationale for last year’s budget increases.
+          C: way to justify an increased income budget to the congregation.
+          D: availability of untapped sources of revenue.
+        answer: A
+      - uid: MIN327.9.2.3.UPE.1
+        subobj: 9.2.3
+        type: upe
+        question: The church’s stewardship potential is determined by
+        choices:
+          A: multiplying the average annual family income by 10 percent, then multiplying
+            this figure by the number of families in the church.
+          B: multiplying the average annual family income by 10 percent.
+          C: dividing the average annual family income by the number of families in
+            the church.
+          D: subtracting the average annual income of those who do not tithe from
+            the average annual income of those who do tithe.
+        answer: A
+      - uid: MIN327.9.2.3.TY.1
+        subobj: 9.2.3
+        type: ty
+        question: To calculate stewardship potential, multiply the average annual
+          household income by 10 percent, then by the
+        choices:
+          A: number of individuals in the church.
+          B: number of families in the church.
+          C: average giving per member.
+          D: standard formula constant, 1.15.
+        answer: B
+      - uid: MIN327.9.2.4.UPE.1
+        subobj: 9.2.4
+        type: upe
+        question: Which budget is submitted to the pastor and church board for approval?
+        choices:
+          A: Adopted budget
+          B: Proposed budget
+          C: Requested budget
+          D: Modified revised budget
+        answer: B
+      - uid: MIN327.9.2.4.TY.1
+        subobj: 9.2.4
+        type: ty
+        question: What type of budget is prepared by departmental and group leaders?
+        choices:
+          A: Requested
+          B: Proposed
+          C: Adopted
+          D: Amended
+        answer: A
+      - uid: MIN327.9.2.5.TY.1
+        subobj: 9.2.5
+        type: ty
+        question: Budgets best help to control spending when church leaders
+        choices:
+          A: let departments track their own expenditures.
+          B: prepare and evaluate monthly financial statements.
+          C: send quarterly budget control notices.
+          D: keep budget-related matters confidential.
+        answer: B
+      - uid: MIN327.10.1.1.UPE.1
+        subobj: 10.1.1
+        type: upe
+        question: A church that selects a pastor through a democratic process is known
+          as a
+        choices:
+          A: Protestant church.
+          B: denominational church.
+          C: hierarchical church.
+          D: congregational church.
+        answer: D
+      - uid: MIN327.10.1.1.TY.1
+        subobj: 10.1.1
+        type: ty
+        question: A congregational church is likely to
+        choices:
+          A: select a pastor through a democratic process.
+          B: have a pastor appointed by a district committee.
+          C: appeal to a regional bishop for a replacement pastor.
+          D: suggest to the district overseer the qualifications for their new pastor.
+        answer: A
+      - uid: MIN327.10.1.1.TY.2
+        subobj: 10.1.1
+        type: ty
+        question: Without a constitution and bylaws, a congregational church should
+          select its pastor according to
+        choices:
+          A: the prevailing state constitution.
+          B: state laws governing nonprofit corporations.
+          C: the established practice of the church.
+          D: either b) or c).
+        answer: D
+      - uid: MIN327.10.1.2.UPE.1
+        subobj: 10.1.2
+        type: upe
+        question: The general rule of nonintervention would likely prevent a court
+          from hearing a case involving
+        choices:
+          A: gender discrimination in pastoral assignment.
+          B: racial discrimination in hiring a church janitor.
+          C: sexual harassment in a Christian school.
+          D: embezzlement of church funds.
+        answer: A
+      - uid: MIN327.10.1.2.UPE.2
+        subobj: 10.1.2
+        type: upe
+        question: If the provisions in the bylaws of a legally incorporated church
+          conflict with state laws controlling nonprofit corporations, which instrument
+          would prevail in court?
+        choices:
+          A: The one most consistent with established practice would prevail.
+          B: State law always takes precedence.
+          C: Neither would prevail; all previous activities would be nullified.
+          D: The church’s governing instrument takes precedence.
+        answer: D
+      - uid: MIN327.10.1.2.TY.1
+        subobj: 10.1.2
+        type: ty
+        question: Would a civil court intervene if a pastor was elected by a majority
+          vote when the bylaws required a “three-fourths” vote?
+        choices:
+          A: No, because of First Amendment issues
+          B: No, because the church is better equipped to resolve its own conflicts
+          C: Perhaps, but only to the extent of interpreting the bylaws
+          D: Yes, in almost every case because these issues never involve doctrine
+            or beliefs
+        answer: C
+      - uid: MIN327.10.2.1.UPE.1
+        subobj: 10.2.1
+        type: upe
+        question: According to this study, what is a good reason to avoid creating
+          an employment contract between a minister and a church?
+        choices:
+          A: Biblical principles strongly discourage an employment contract between
+            a minister and a church.
+          B: Ministerial employment contracts are invalid since no court will intervene
+            to enforce them.
+          C: Employment contracts have proven to invest too much control in the congregation
+            over the minister.
+          D: There is no good reason for a minister and a congregation to avoid entering
+            into an employment contract.
+        answer: D
+      - uid: MIN327.10.2.1.TY.1
+        subobj: 10.2.1
+        type: ty
+        question: A written contract between a pastor and a church is desirable because
+          it
+        choices:
+          A: helps eliminate misunderstanding.
+          B: can be used as a litigation tool at a later date.
+          C: is one of the few reasons a court will hear a dismissal dispute.
+          D: prevents a court from ever hearing a dismissal dispute.
+        answer: A
+      - uid: MIN327.10.3.1.UPE.1
+        subobj: 10.3.1
+        type: upe
+        question: Which is NOT a source of legal authority for a minister?
+        choices:
+          A: State law
+          B: Titus 2:15
+          C: A church’s constitution and bylaws
+          D: An employment contract authorizing certain functions
+        answer: B
+      - uid: MIN327.10.3.1.TY.1
+        subobj: 10.3.1
+        type: ty
+        question: Implicit ratification happens when
+        choices:
+          A: a church board secretly votes to accept a pastor’s action.
+          B: an unauthorized action goes unnoticed for a specific length of time.
+          C: a simple majority vote of the congregation authorizes a pastor’s action
+            after the fact.
+          D: an unauthorized action by the pastor is known but is not challenged.
+        answer: D
+      - uid: MIN327.10.3.2.UPE.1
+        subobj: 10.3.2
+        type: upe
+        question: Whether or not a minister is qualified to perform weddings in a
+          particular state is determined by the
+        choices:
+          A: congregation’s governing instrument.
+          B: credentialing religious body.
+          C: state.
+          D: minister.
+        answer: C
+      - uid: MIN327.10.3.2.TY.1
+        subobj: 10.3.2
+        type: ty
+        question: Knowing and communicating a state’s requirements for marriage is
+          the responsibility of the
+        choices:
+          A: engaged couple.
+          B: minister.
+          C: bride’s parents.
+          D: church secretary.
+        answer: B
+      - uid: MIN327.10.4.1.UPE.1
+        subobj: 10.4.1
+        type: upe
+        question: State laws provide legal privileges for clergy because
+        choices:
+          A: clergy should be rewarded for the social benefits their vocation provides.
+          B: prohibiting the practice of religion violates the First Amendment.
+          C: these privileges are necessary to recruit and retain clergy.
+          D: religion benefits society and clergy are necessary to the practice of
+            religion.
+        answer: D
+      - uid: MIN327.10.4.1.TY.1
+        subobj: 10.4.1
+        type: ty
+        question: The state’s rationale for creating legal privileges for clergy is
+          that
+        choices:
+          A: clergy should be rewarded for the social benefits their vocation provides.
+          B: the First Amendment forbids prohibition of the practice of religion.
+          C: these privileges are necessary to recruit and retain clergy.
+          D: religion benefits society and clergy are necessary to religious practice.
+        answer: D
+      - uid: MIN327.10.4.2.UPE.1
+        subobj: 10.4.2
+        type: upe
+        question: Which of the following could be protected from disclosure by the
+          clergy-penitent privilege?
+        choices:
+          A: A minister’s observation of the emotional state of a communicant
+          B: A conversation overheard at a restaurant by a minister
+          C: A letter hand delivered by a communicant during a private counseling
+            session
+          D: Conclusions a minister may form from how a counselee was dressed
+        answer: C
+      - uid: MIN327.10.4.3.UPE.1
+        subobj: 10.4.3
+        type: upe
+        question: A minister is legally obligated to report suspected child abuse
+        choices:
+          A: when the perpetrator is a member of the minister’s congregation.
+          B: when state law identifies a minister as a mandatory child abuse reporter.
+          C: only if the victim remains vulnerable to future abuse.
+          D: never; there is only a moral obligation.
+        answer: B
+      - uid: MIN327.10.4.3.TY.1
+        subobj: 10.4.3
+        type: ty
+        question: Courts have carefully restricted the application of the clergy-penitent
+          privilege because
+        choices:
+          A: they are concerned about non-entanglement principles.
+          B: defendants often conspire with ministers to avoid prosecution.
+          C: the privilege conflicts with the public’s right to all available evidence.
+          D: the general population seems to resent religious privileges.
+        answer: C
+      - uid: MIN327.10.4.3.TY.2
+        subobj: 10.4.3
+        type: ty
+        question: A communication was NOT “made in confidence” if the
+        choices:
+          A: conversation took place in a private office with the door closed.
+          B: counseling session occurred spontaneously on a commercial airline flight.
+          C: counselee asked the pastoral counselor if the conversation would remain
+            confidential.
+          D: teenage counselee asked his father to leave the room before conversing
+            with the minister.
+        answer: B
+      - uid: MIN327.10.4.4.TY.1
+        subobj: 10.4.4
+        type: ty
+        question: When is a minister legally obligated to report suspected child abuse?
+        choices:
+          A: When the perpetrator is a member of the minister’s congregation
+          B: Only if the victim remains vulnerable to future abuse
+          C: When state law identifies a minister as a mandatory child abuse reporter
+          D: There is never a legal obligation, only a moral one.
+        answer: C
+      - uid: MIN327.11.1.1.TY.1
+        subobj: 11.1.1
+        type: ty
+        question: Negligence is best thought of as
+        choices:
+          A: ignorance.
+          B: maliciousness.
+          C: carelessness.
+          D: insensitivity.
+        answer: C
+      - uid: MIN327.11.1.1.TY.2
+        subobj: 11.1.1
+        type: ty
+        question: The most common form of ministerial negligence relates to
+        choices:
+          A: motor vehicle operation.
+          B: failure to report child abuse.
+          C: snow and ice removal.
+          D: handicapped parking and building access.
+        answer: A
+      - uid: MIN327.11.1.1.TY.3
+        subobj: 11.1.1
+        type: ty
+        question: The doctrine of respondeat superior means that
+        choices:
+          A: ministers respond to lawsuits as the superior party due to First Amendment
+            privileges.
+          B: lawsuits against ministers must be based on legal theories beyond simple
+            liability.
+          C: a lawsuit is always filed against the party with the better insurance
+            policy.
+          D: an employer is ultimately responsible for an employee’s negligence.
+        answer: D
+      - uid: MIN327.11.1.2.UPE.1
+        subobj: 11.1.2
+        type: upe
+        question: When the word malice is used in the legal context of defamation,
+          it means that
+        choices:
+          A: remarks are motivated by ethnic hatred.
+          B: a victim was subjected to outrageous emotional injury.
+          C: the remarks exceeded reasonable self-defense.
+          D: remarks were published with reckless disregard as to their truth.
+        answer: D
+      - uid: MIN327.11.1.2.TY.1
+        subobj: 11.1.2
+        type: ty
+        question: Which of these is NOT a component of defamation?
+        choices:
+          A: Statements that are published
+          B: Statements causing tangible financial loss
+          C: Statements that are false
+          D: Statements about another person
+        answer: B
+      - uid: MIN327.11.1.2.TY.2
+        subobj: 11.1.2
+        type: ty
+        question: In the legal context of defamation, malice occurs when
+        choices:
+          A: remarks are motivated by ethnic hatred.
+          B: a victim is subjected to outrageous emotional injury.
+          C: remarks exceed reasonable self-defense.
+          D: remarks are published (spoken or written) with reckless disregard for
+            their truth.
+        answer: D
+      - uid: MIN327.11.2.1.TY.1
+        subobj: 11.2.1
+        type: ty
+        question: To determine undue influence, a court would consider all of these
+          EXCEPT the
+        choices:
+          A: possibility that the gift was concealed from others.
+          B: church’s official policy regarding solicitation of donations.
+          C: donor’s age, physical condition, and mental health.
+          D: possibility that the beneficiary was active in securing the gift.
+        answer: B
+      - uid: MIN327.11.2.2.TY.1
+        subobj: 11.2.2
+        type: ty
+        question: To qualify as public disclosure of private facts, what must be true?
+        choices:
+          A: The disclosed facts injured the person’s reputation.
+          B: The person who disclosed the facts disregarded their truth or falsity.
+          C: The disclosure was made available to the public at large.
+          D: A reasonable person would not be seriously upset by the disclosure.
+        answer: C
+      - uid: MIN327.11.3.1.UPE.1
+        subobj: 11.3.1
+        type: upe
+        question: Ministers who are mandatory child abuse reporters
+        choices:
+          A: may face criminal penalties for failing to report suspected child abuse.
+          B: are exempted by the First Amendment from criminal penalties for failing
+            to report suspected child abuse.
+          C: are always shielded by the clergy-penitent privilege from reporting suspected
+            child abuse.
+          D: should avoid providing family or marriage counseling.
+        answer: A
+      - uid: MIN327.11.3.1.TY.1
+        subobj: 11.3.1
+        type: ty
+        question: A minister is a mandatory reporter of known or suspected child abuse
+        choices:
+          A: because of federal legislation defining ministers as mandatory reporters.
+          B: if the minister falls into a category of mandatory reporters as defined
+            by state law.
+          C: only if the information is disclosed outside of the spiritual functions
+            of ministry.
+          D: only if the minister serves in a church school or counseling ministry.
+        answer: B
+      - uid: MIN327.11.3.1.TY.2
+        subobj: 11.3.1
+        type: ty
+        question: When deciding whether to report suspected child abuse, clergy’s
+          highest priority should be the
+        choices:
+          A: potential effect on the abuser relative to future therapy.
+          B: probability that sexual molestation is involved.
+          C: safety and security of the child.
+          D: future liability to self and to the church.
+        answer: C
+      - uid: MIN327.11.4.1.TY.1
+        subobj: 11.4.1
+        type: ty
+        question: Which liability theory for sexual misconduct centers on establishing
+          intent and recklessness?
+        choices:
+          A: Emotional distress
+          B: Fiduciary duty
+          C: Malpractice
+          D: Sexual harassment
+        answer: A
+      - uid: MIN327.12.1.1.UPE.1
+        subobj: 12.1.1
+        type: upe
+        question: What is an important legal disadvantage for churches that choose
+          not to incorporate?
+        choices:
+          A: They cannot qualify for tax-exempt status.
+          B: They are not protected by the First Amendment.
+          C: Members may be personally liable for debts and church torts.
+          D: They cannot claim exemption from Social Security withholding taxes.
+        answer: C
+      - uid: MIN327.12.1.1.TY.1
+        subobj: 12.1.1
+        type: ty
+        question: A church that incorporates under state law is subordinating the
+        choices:
+          A: freedom to hold and practice nontraditional beliefs.
+          B: spiritual identity of the church’s membership.
+          C: freedom to practice religious discrimination when hiring church employees.
+          D: artificial legal identity of the corporation.
+        answer: D
+      - uid: MIN327.12.1.2.TY.1
+        subobj: 12.1.2
+        type: ty
+        question: In the incorporation process, the next step after deciding to incorporate
+          is to
+        choices:
+          A: adopt bylaws.
+          B: complete and submit the necessary forms.
+          C: review relevant statutes.
+          D: maintain the corporation status.
+        answer: C
+      - uid: MIN327.12.2.1.UPE.1
+        subobj: 12.2.1
+        type: upe
+        question: The purpose of church bylaws is to
+        choices:
+          A: create a legal identity for the church.
+          B: provide rules and procedures for the internal government and administration
+            of church affairs.
+          C: perpetuate the legal status of the corporation under state laws.
+          D: satisfy requirements for protection from government interference according
+            to First Amendment principles.
+        answer: B
+      - uid: MIN327.12.2.1.TY.1
+        subobj: 12.2.1
+        type: ty
+        question: A church charter is best described as
+        choices:
+          A: a document tracing the denomination’s origins and history.
+          B: the section of the church’s constitution that stipulates the church’s
+            religious beliefs.
+          C: the articles of incorporation that have been approved by the secretary
+            of state.
+          D: a certificate the secretary of state issues to authorize a church to
+            practice religious worship.
+        answer: C
+      - uid: MIN327.12.2.2.TY.1
+        subobj: 12.2.2
+        type: ty
+        question: When governing documents conflict, bylaws always have authority
+          over
+        choices:
+          A: resolutions.
+          B: the charter.
+          C: the constitution.
+          D: no other document.
+        answer: A
+      - uid: MIN327.12.3.1.TY.1
+        subobj: 12.3.1
+        type: ty
+        question: What is true concerning a church member’s right to inspect church
+          records?
+        choices:
+          A: The Freedom of Information Act guarantees this right to members of all
+            churches.
+          B: Only members of congregational churches have a right to inspect church
+            records.
+          C: Such a right exists only if the denominational affiliation provides for
+            it.
+          D: Such a right exists only if a statute or church bylaw provides for it.
+        answer: D
+      - uid: MIN327.12.3.2.UPE.1
+        subobj: 12.3.2
+        type: upe
+        question: The most important federal reporting requirement for churches involves
+        choices:
+          A: unrelated business income.
+          B: employee taxes.
+          C: the application for tax-exempt status.
+          D: certification of nondiscrimination in administrative policy.
+        answer: B
+      - uid: MIN327.12.3.2.TY.1
+        subobj: 12.3.2
+        type: ty
+        question: Perhaps the most significant federal reporting requirement for churches
+          is
+        choices:
+          A: applying for tax-exempt status.
+          B: complying with regulations for employment taxes.
+          C: reporting unrelated business income.
+          D: certifying nondiscrimination in administrative policy.
+        answer: B
+      - uid: MIN327.12.4.1.TY.1
+        subobj: 12.4.1
+        type: ty
+        question: One distinction between officers and directors is that
+        choices:
+          A: officers exercise individual authority.
+          B: officers are always appointed, never elected.
+          C: directors serve a limited term, while officers serve for life.
+          D: officers always oversee spiritual affairs rather than temporal.
+        answer: A
+      - uid: MIN327.12.4.3.TY.1
+        subobj: 12.4.3
+        type: ty
+        question: Church leaders can be held personally liable for diverting church
+          funds from a designated purpose under
+        choices:
+          A: breach of the fiduciary duty of care.
+          B: breach of the fiduciary duty of loyalty.
+          C: securities law.
+          D: violation of trust terms.
+        answer: D
+      - uid: MIN327.12.4.4.TY.1
+        subobj: 12.4.4
+        type: ty
+        question: Limited immunity laws do not protect officers and directors from
+          liability when a negligent act
+        choices:
+          A: is due to ignorance.
+          B: exhibits knowing indifference.
+          C: produces both physical injury and monetary loss.
+          D: could have been avoided by a reasonable person.
+        answer: B
+      - uid: MIN327.12.5.1.UPE.1
+        subobj: 12.5.1
+        type: upe
+        question: Which term reflects the legal characterization of church membership?
+        choices:
+          A: Ecclesiastical
+          B: Corporate
+          C: Limited partnership
+          D: Contractual
+        answer: D
+      - uid: MIN327.12.5.1.TY.1
+        subobj: 12.5.1
+        type: ty
+        question: The right to determine who qualifies for church membership resides
+        choices:
+          A: exclusively with the church.
+          B: equally in state statutes and the church government.
+          C: with the courts in the case of civil disputes.
+          D: with the church but can be overruled by a civil court.
+        answer: A
+      - uid: MIN327.13.1.1.TY.1
+        subobj: 13.1.1
+        type: ty
+        question: Municipal authorities use zoning ordinances to
+        choices:
+          A: control illegal immigration.
+          B: prevent real estate fraud.
+          C: regulate the development and use of land.
+          D: guarantee voter representation.
+        answer: C
+      - uid: MIN327.13.1.2.UPE.1
+        subobj: 13.1.2
+        type: upe
+        question: When asked to resolve zoning disputes involving churches, the majority
+          of courts hold the opinion that
+        choices:
+          A: First Amendment principles take precedence over residential property
+            interests.
+          B: the burden placed on churches by excluding them from residential areas
+            is reasonable.
+          C: states have a compelling interest in preserving property values and tax
+            revenues by excluding churches from residential zones.
+          D: churches enjoy absolute immunity from zoning board authority.
+        answer: A
+      - uid: MIN327.13.1.2.TY.1
+        subobj: 13.1.2
+        type: ty
+        question: What is true concerning the authority of municipal zoning boards?
+        choices:
+          A: Zoning commissions may require churches to obtain special permits before
+            building in residential zones.
+          B: Some municipalities legally exclude churches from building anywhere within
+            city limits.
+          C: Zoning boards must give preference to citizens’ property rights over
+            churches’ First Amendment rights.
+          D: Zoning boards have little if any authority over churches.
+        answer: A
+      - uid: MIN327.13.2.1.TY.1
+        subobj: 13.2.1
+        type: ty
+        question: To determine a church’s liability when an outside group uses its
+          facilities, courts primarily consider whether
+        choices:
+          A: any similar injuries occurred before the injury in question.
+          B: the church retained control of the facility while it was being used.
+          C: the church anticipated the injury by acquiring liability insurance.
+          D: the outside group using the church took reasonable safety precautions.
+        answer: B
+      - uid: MIN327.13.2.2.TY.1
+        subobj: 13.2.2
+        type: ty
+        question: A church may be liable for an assault in its parking lot if
+        choices:
+          A: the assault occurred during a regularly scheduled worship service.
+          B: the victim is a member of the church.
+          C: a previous assault had occurred on or near the parking lot.
+          D: the victim had recently been threatened by coworkers.
+        answer: C
+      - uid: MIN327.13.3.1.UPE.1
+        subobj: 13.3.1
+        type: upe
+        question: What occurs if a church neglects to obtain workers compensation
+          insurance and a church worker is injured?
+        choices:
+          A: A church’s liability policy always provides coverage in the absence of
+            such insurance.
+          B: The injured employee cannot be compensated since the First Amendment
+            prevents courts from enforcing workers compensation claims against churches.
+          C: The church could be forced to pay substantial penalties and interest
+            to the state.
+          D: The church could be sued directly and forced to pay all expenses related
+            to the injury.
+        answer: D
+      - uid: MIN327.13.3.1.TY.1
+        subobj: 13.3.1
+        type: ty
+        question: What happens when a church fails to acquire workers compensation
+          insurance?
+        choices:
+          A: A church’s liability policy always provides the coverage.
+          B: An employee cannot be compensated because of the church’s First Amendment
+            rights.
+          C: The church could be forced to pay substantial penalties and interest
+            to the state.
+          D: The church could be sued directly and forced to pay all expenses related
+            to the injury.
+        answer: D
+      - uid: MIN327.13.4.1.TY.1
+        subobj: 13.4.1
+        type: ty
+        question: Many federal employment laws apply only to employers who have a
+          minimum number of employees and
+        choices:
+          A: manage activities in more than one state.
+          B: produce goods having a commercial value of more than $500,000.
+          C: are engaged in activities affecting interstate commerce.
+          D: are not engaged in activities related to the practice of religious beliefs.
+        answer: C
+      - uid: MIN327.13.4.3.UPE.1
+        subobj: 13.4.3
+        type: upe
+        question: Churches may discriminate in employment decisions on the basis of
+        choices:
+          A: race.
+          B: sex.
+          C: color.
+          D: religion.
+        answer: D
+      - uid: MIN327.13.4.3.TY.1
+        subobj: 13.4.3
+        type: ty
+        question: Churches are allowed to discriminate in employment decisions on
+          the grounds of
+        choices:
+          A: race.
+          B: sex.
+          C: color.
+          D: religion.
+        answer: D
+      - uid: MIN327.13.4.4.TY.1
+        subobj: 13.4.4
+        type: ty
+        question: Under the Age Discrimination in Employment Act, churches engaged
+          in commerce and having at least twenty employees
+        choices:
+          A: must give preference in hiring or promotion to applicants or employees
+            who are over fifty-five years old.
+          B: cannot make a retirement benefit plan contingent on age.
+          C: may not consider religious beliefs in employment decisions for persons
+            over forty-five years old.
+          D: cannot treat employees or job applicants over forty years of age differently
+            based on age criteria alone.
+        answer: D
+      - uid: MIN327.13.4.5.TY.1
+        subobj: 13.4.5
+        type: ty
+        question: Under the Americans with Disabilities Act, employers must
+        choices:
+          A: make reasonable accommodations for the employee or applicant’s disability.
+          B: prefer disabled applicants over more qualified nondisabled applicants.
+          C: provide training to allow the disabled employee to qualify for advancement.
+          D: replace current employees with disabled applicants if the applicants
+            are more qualified.
+        answer: A
+      - uid: MIN327.13.4.7.UPE.1
+        subobj: 13.4.7
+        type: upe
+        question: The easiest way a church can avoid the legal risks associated with
+          the Fair Labor Standards Act is to
+        choices:
+          A: restrict total receipts to less than $500,000 per year.
+          B: pay all employees the minimum wage and 1½ times the minimum for hours
+            over 40 in a week.
+          C: make sure affiliated ministries, such as schools, are incorporated separately
+            from the church.
+          D: structure all employee pay as salary so that no employee is paid by the
+            hour.
+        answer: B
+      - uid: MIN327.13.4.7.TY.1
+        subobj: 13.4.7
+        type: ty
+        question: The easiest way for a church to avoid legal risks related to the
+          Fair Labor Standards Act is to
+        choices:
+          A: restrict total receipts to less than $500,000 per year.
+          B: pay all employees the minimum wage and 1½ times the minimum for hours
+            over forty in a week.
+          C: make sure affiliated ministries, such as schools, are incorporated separately
+            from the church.
+          D: structure all employee pay as salary so no employee is paid by the hour.
+        answer: B
+      - uid: MIN327.14.1.2.UPE.1
+        subobj: 14.1.2
+        type: upe
+        question: When does an author secure copyright protection of an original work?
+        choices:
+          A: As soon as registration is filed with the Copyright Office
+          B: When the required deposit of copies is received by the Copyright Office
+          C: When the work is fixed in a tangible medium
+          D: When the work is first available for publication
+        answer: C
+      - uid: MIN327.14.1.2.TY.1
+        subobj: 14.1.2
+        type: ty
+        question: Which of these is NOT a copyright owner’s exclusive right?
+        choices:
+          A: Reproduction
+          B: Adaptation
+          C: Performance
+          D: Restoration
+        answer: D
+      - uid: MIN327.14.1.2.TY.2
+        subobj: 14.1.2
+        type: ty
+        question: An author secures copyright protection of an original work when
+          the
+        choices:
+          A: registration is filed with the Copyright Office.
+          B: Copyright Office receives the required deposit of two copies.
+          C: work is fixed in a tangible medium.
+          D: work is first available for publication.
+        answer: C
+      - uid: MIN327.14.1.2.TY.3
+        subobj: 14.1.2
+        type: ty
+        question: Works made for hire are
+        choices:
+          A: only works produced by an author under contract.
+          B: any work an employee produces during work hours using an employer’s space
+            and resources.
+          C: original works produced for the express purpose of loaning, renting,
+            or leasing copies.
+          D: any original work that an author receives a fee for producing.
+        answer: B
+      - uid: MIN327.14.1.2.TY.4
+        subobj: 14.1.2
+        type: ty
+        question: What is NOT a qualification of the religious service exemption to
+          copyright infringement?
+        choices:
+          A: It allows only for the performance or display of a copyrighted work.
+          B: Work must be of a religious nature.
+          C: Performance or display must be during a religious service at a place
+            of worship.
+          D: Performance or display cannot include music or musical works.
+        answer: D
+      - uid: MIN327.14.2.2.TY.1
+        subobj: 14.2.2
+        type: ty
+        question: Negligence in the selection of church workers may involve
+        choices:
+          A: failure to require references.
+          B: failure to select the most qualified applicant.
+          C: failure to require psychological testing.
+          D: discrimination based on gender or race.
+        answer: A
+      - uid: MIN327.14.2.2.TY.2
+        subobj: 14.2.2
+        type: ty
+        question: Regarding potential liability, churches
+        choices:
+          A: are liable for any and all injuries that occur on their premises.
+          B: cannot be sued for liability if the injury did not occur during regularly
+            scheduled activities.
+          C: can be held liable for any injury that results directly from a church
+            worker’s negligence.
+          D: are liable only for injuries to church members.
+        answer: C
+      - uid: MIN327.14.2.3.UPE.1
+        subobj: 14.2.3
+        type: upe
+        question: A lack of regard for children’s well-being may be evident in an
+          applicant who
+        choices:
+          A: does not have any children of his or her own.
+          B: resists or resents a thorough screening process.
+          C: is under the age of 21 or over the age of 50.
+          D: expects generous pay for working with children.
+        answer: B
+      - uid: MIN327.14.3.1.TY.1
+        subobj: 14.3.1
+        type: ty
+        question: Which statement best illustrates negligent retention as it relates
+          to churches?
+        choices:
+          A: A denominational agency allows a minister to resume pastoral ministry
+            after completing a rehabilitation program following an extramarital affair.
+          B: A church board ignores an anonymous warning that a youth pastor is involved
+            in purchasing child pornography.
+          C: A church asks a volunteer youth sponsor to resign after repeated complaints
+            that she flirted with male youth group members.
+          D: The director of a church day care ministry is not terminated after an
+            investigation into complaints about her views on corporal punishment.
+        answer: B
+      - uid: MIN327.14.3.2.UPE.1
+        subobj: 14.3.2
+        type: upe
+        question: Which statement best defines the theory of negligent retention as
+          it relates to churches?
+        choices:
+          A: A denominational agency allows a minister to resume pastoral ministry
+            upon completing a rehabilitation program after an extramarital affair.
+          B: A church board ignores an anonymous warning that a youth pastor is involved
+            in purchasing child pornography.
+          C: A volunteer youth sponsor is asked to resign following repeated complaints
+            that he flirted with female youth group members.
+          D: The director of a church day-care ministry is not terminated after an
+            investigation into complaints about her views related to corporal punishment.
+        answer: B
+      - uid: MIN327.14.4.1.UPE.1
+        subobj: 14.4.1
+        type: upe
+        question: Negligent supervision is supervision that
+        choices:
+          A: fails to provide reasonable oversight.
+          B: fails to prevent foreseeable injuries.
+          C: would be considered inadequate by a reasonable person.
+          D: includes all of the above.
+        answer: D
+      - uid: MIN327.14.4.1.TY.1
+        subobj: 14.4.1
+        type: ty
+        question: The majority of lawsuits brought against churches for negligence
+          involve
+        choices:
+          A: lay counselors.
+          B: criminal acts.
+          C: sexual misconduct.
+          D: adult victims.
+        answer: C
+      - uid: MIN327.14.4.2.TY.1
+        subobj: 14.4.2
+        type: ty
+        question: The majority of sexual misconduct cases against churches involving
+          adults arise from
+        choices:
+          A: consensual sex involving an unmarried staff member.
+          B: counseling relationships.
+          C: betrayed spouses seeking revenge.
+          D: same-gender sexual encounters.
+        answer: B
+      - uid: MIN327.14.5.1.UPE.1
+        subobj: 14.5.1
+        type: upe
+        question: A counseling ministry can produce legal liability for a church for
+        choices:
+          A: failure to report suspected child abuse.
+          B: disclosure of confidential information.
+          C: sexual misconduct by the counselor.
+          D: all of the above.
+        answer: D
+      - uid: MIN327.14.5.1.UPE.2
+        subobj: 14.5.1
+        type: upe
+        question: Lay counselors often create a greater legal risk to a church because
+          they
+        choices:
+          A: tend to lack dedication to helping people.
+          B: are usually less knowledgeable about legal matters.
+          C: often lack the training necessary to know when to refer a client to a
+            professional.
+          D: usually apply biblical solutions to emotional life problems.
+        answer: C
+      - uid: MIN327.14.5.1.TY.1
+        subobj: 14.5.1
+        type: ty
+        question: A counseling ministry can produce legal liability for a church because
+          of
+        choices:
+          A: failure to report suspected child abuse.
+          B: disclosure of confidential information.
+          C: sexual misconduct by the counselor.
+          D: all of the above.
+        answer: D
     chapters:
     - last_modified: '2026-05-28'
       title: 1 - Organizing the Church for Business

@@ -2277,6 +2277,2084 @@ courses:
       paragraph: BIB116.5.3.1.P.5
       status: outdated 2026-08-07
       outdated_reason: struck
+    printings:
+    - pn: 03.21.02
+      course_code: BIB116
+      source_html: BIB212.html
+      template: old
+      recorded: '2026-07-24'
+      note: 'Pristine print baseline built by scripts/build_html_baseline.py purely
+        from the InDesign HTML -- no DB input. Read-only: never hand-edit and never
+        feed to the janitor. UIDs are synthesized from the book''s own answer key;
+        diff pairs by content.'
+      counts:
+        ty: 130
+        upe: 75
+        final: 0
+      questions:
+      - uid: BIB116.1.1.1.UPE.1
+        subobj: 1.1.1
+        type: upe
+        question: The Greeks prepared the world for Christ by emphasizing one
+        choices:
+          A: army.
+          B: religion.
+          C: government.
+          D: language.
+        answer: D
+      - uid: BIB116.1.1.1.TY.1
+        subobj: 1.1.1
+        type: ty
+        question: Which group of people prepared the world for Christ by building
+          roads?
+        choices:
+          A: Greeks
+          B: Romans
+          C: Samaritans
+          D: Jews
+        answer: B
+      - uid: BIB116.1.1.1.TY.2
+        subobj: 1.1.1
+        type: ty
+        question: The Greeks prepared the world for Christ by emphasizing one
+        choices:
+          A: language.
+          B: religion.
+          C: government.
+          D: army.
+        answer: A
+      - uid: BIB116.1.1.2.UPE.1
+        subobj: 1.1.2
+        type: upe
+        question: Which group emphasized oral traditions and believed in an afterlife?
+        choices:
+          A: Romans
+          B: Sadducees
+          C: Pharisees
+          D: Zealots
+        answer: C
+      - uid: BIB116.1.1.2.TY.1
+        subobj: 1.1.2
+        type: ty
+        question: The name for the highest Jewish court was the
+        choices:
+          A: Supreme Court.
+          B: Septuagint.
+          C: Sanhedrin.
+          D: Areopagus.
+        answer: C
+      - uid: BIB116.1.1.2.TY.2
+        subobj: 1.1.2
+        type: ty
+        question: The high priest and leading officials of the Sanhedrin were
+        choices:
+          A: Pharisees.
+          B: Sadducees.
+          C: Levites.
+          D: Zealots.
+        answer: B
+      - uid: BIB116.1.2.1.UPE.1
+        subobj: 1.2.1
+        type: upe
+        question: The ultimate center of religious life for the Jews was the
+        choices:
+          A: temple.
+          B: synagogue.
+          C: Sanhedrin.
+          D: local school.
+        answer: A
+      - uid: BIB116.1.2.1.TY.1
+        subobj: 1.2.1
+        type: ty
+        question: Herod Agrippa II listened to the trial of
+        choices:
+          A: Jesus.
+          B: Stephen.
+          C: Peter.
+          D: Paul.
+        answer: D
+      - uid: BIB116.1.2.1.TY.2
+        subobj: 1.2.1
+        type: ty
+        question: The high priest when Jesus was on trial was
+        choices:
+          A: Annas.
+          B: Ananias.
+          C: Gamaliel.
+          D: Caiaphas.
+        answer: D
+      - uid: BIB116.1.2.2.UPE.1
+        subobj: 1.2.2
+        type: upe
+        question: One of the standards for a book’s inclusion in the New Testament
+          was its
+        choices:
+          A: early date of writing.
+          B: authorship by an apostle or his associate.
+          C: moral effect on society.
+          D: respected group of recipients.
+        answer: B
+      - uid: BIB116.1.2.2.TY.1
+        subobj: 1.2.2
+        type: ty
+        question: The essential criterion for accepting writings into the New Testament
+          canon was
+        choices:
+          A: the decree of the bishop in Rome.
+          B: the age of the document.
+          C: inspiration.
+          D: the length of the writing.
+        answer: C
+      - uid: BIB116.1.3.1.UPE.1
+        subobj: 1.3.1
+        type: upe
+        question: Hebrews is included in the
+        choices:
+          A: letters from Paul.
+          B: historical books.
+          C: apocalyptic books.
+          D: letters to all.
+        answer: D
+      - uid: BIB116.1.3.1.TY.1
+        subobj: 1.3.1
+        type: ty
+        question: Paul wrote how many letters?
+        choices:
+          A: Five
+          B: Eight
+          C: Thirteen
+          D: Fifteen
+        answer: C
+      - uid: BIB116.1.3.1.TY.2
+        subobj: 1.3.1
+        type: ty
+        question: Acts is included in the
+        choices:
+          A: letters from Paul.
+          B: historical books.
+          C: apocalyptic group.
+          D: letters to all.
+        answer: B
+      - uid: BIB116.1.4.1.UPE.1
+        subobj: 1.4.1
+        type: upe
+        question: Jesus is depicted as the supplier of all our needs in
+        choices:
+          A: John.
+          B: Philippians.
+          C: Colossians.
+          D: 1 Peter.
+        answer: B
+      - uid: BIB116.1.4.1.TY.1
+        subobj: 1.4.1
+        type: ty
+        question: Christ is pictured as our Righteousness in
+        choices:
+          A: Romans.
+          B: Galatians.
+          C: Hebrews.
+          D: 2 Peter.
+        answer: A
+      - uid: BIB116.2.1.1.UPE.1
+        subobj: 2.1.1
+        type: upe
+        question: Matthew primarily portrays Jesus as the
+        choices:
+          A: Alpha and Omega.
+          B: Servant of the Lord.
+          C: Messiah.
+          D: Son of Man.
+        answer: C
+      - uid: BIB116.2.1.1.TY.1
+        subobj: 2.1.1
+        type: ty
+        question: To fulfill his purpose, Matthew primarily used
+        choices:
+          A: a genealogy of Jesus Christ.
+          B: quotes from the Old Testament.
+          C: miracles that Jesus performed.
+          D: parables the Lord taught.
+        answer: B
+      - uid: BIB116.2.1.2.UPE.1
+        subobj: 2.1.2
+        type: upe
+        question: One of the teaching segments in Matthew is the
+        choices:
+          A: record of Jesus’ early life (chaps. 1–2).
+          B: ten miracles (chaps. 8–9).
+          C: eight parables (chap. 13).
+          D: conflict with Jewish leaders (chaps. 14–17).
+        answer: C
+      - uid: BIB116.2.1.2.TY.1
+        subobj: 2.1.2
+        type: ty
+        question: One of the five teaching segments in Matthew is the
+        choices:
+          A: genealogy in chapter 1.
+          B: sermon in chapters 5–7.
+          C: miracles in chapter 8.
+          D: Resurrection in chapter 28.
+        answer: B
+      - uid: BIB116.2.1.3.UPE.1
+        subobj: 2.1.3
+        type: upe
+        question: Matthew emphasized what subject twice as much as the other Gospel
+          writers?
+        choices:
+          A: The kingdom of heaven
+          B: Jesus as the Son of God
+          C: Jesus’ background
+          D: The Passion Week
+        answer: A
+      - uid: BIB116.2.1.3.TY.1
+        subobj: 2.1.3
+        type: ty
+        question: Matthew emphasized the kingdom of heaven to
+        choices:
+          A: show that Jesus often spoke of the Kingdom.
+          B: highlight the Lord’s parables and teachings.
+          C: contrast it with the kingdom of God.
+          D: link the Kingdom with Jesus, the Messiah.
+        answer: D
+      - uid: BIB116.2.2.1.UPE.1
+        subobj: 2.2.1
+        type: upe
+        question: The theme of Mark is Jesus as
+        choices:
+          A: the Messiah.
+          B: a Servant.
+          C: the Savior.
+          D: the Word of God.
+        answer: B
+      - uid: BIB116.2.2.1.TY.1
+        subobj: 2.2.1
+        type: ty
+        question: A key word related to Mark’s purpose is
+        choices:
+          A: immediately.
+          B: fulfill.
+          C: life.
+          D: kingdom.
+        answer: A
+      - uid: BIB116.2.2.2.TY.1
+        subobj: 2.2.2
+        type: ty
+        question: The main way Mark helped his readers was to
+        choices:
+          A: define the locations of Jesus’ main miracles.
+          B: explain Aramaic words and Hebrew customs.
+          C: give specific references for Old Testament quotes.
+          D: write in Hebrew so his readers would understand.
+        answer: B
+      - uid: BIB116.2.3.1.UPE.1
+        subobj: 2.3.1
+        type: upe
+        question: More than any other Gospel, Luke emphasized
+        choices:
+          A: Jesus’ teachings.
+          B: Jesus’ miracles.
+          C: Old Testament Scriptures.
+          D: Jesus’ attitude toward prayer.
+        answer: D
+      - uid: BIB116.2.3.1.TY.1
+        subobj: 2.3.1
+        type: ty
+        question: Luke emphasizes that Jesus came to be the Savior of
+        choices:
+          A: Rome.
+          B: Jews.
+          C: Greeks.
+          D: all.
+        answer: D
+      - uid: BIB116.2.3.2.UPE.1
+        subobj: 2.3.2
+        type: upe
+        question: Which of these is found only in Luke’s Gospel?
+        choices:
+          A: The Parable of the Good Samaritan
+          B: Satan’s temptation of Jesus
+          C: Jesus’ washing of the disciples’ feet
+          D: Thomas’ doubts about Jesus’ resurrection
+        answer: A
+      - uid: BIB116.2.3.2.TY.1
+        subobj: 2.3.2
+        type: ty
+        question: The parables of the lost coin and lost son are found only in
+        choices:
+          A: Matthew.
+          B: Mark.
+          C: Luke.
+          D: John.
+        answer: C
+      - uid: BIB116.2.4.1.UPE.1
+        subobj: 2.4.1
+        type: upe
+        question: Jesus taught in parables because
+        choices:
+          A: His listeners were poorly educated.
+          B: He did not have time to prepare a sermon.
+          C: it was effective in teaching about the Kingdom.
+          D: all Jewish teachers taught that way.
+        answer: C
+      - uid: BIB116.2.4.1.TY.1
+        subobj: 2.4.1
+        type: ty
+        question: What is one positive reason Jesus taught in parables?
+        choices:
+          A: He could teach about the kingdom of God.
+          B: People could interpret them in different ways.
+          C: His enemies would accept His teachings.
+          D: Those who neglected truth would get new truth.
+        answer: A
+      - uid: BIB116.2.4.2.UPE.1
+        subobj: 2.4.2
+        type: upe
+        question: The invisible phase of the Kingdom refers to the
+        choices:
+          A: secret rapture of the church.
+          B: spiritual rule of God.
+          C: millennial reign of Christ.
+          D: period of the Tribulation.
+        answer: B
+      - uid: BIB116.2.4.2.TY.1
+        subobj: 2.4.2
+        type: ty
+        question: Which phase of the kingdom of God are we in now?
+        choices:
+          A: Invisible phase
+          B: National phase
+          C: Visible phase
+          D: International phase
+        answer: A
+      - uid: BIB116.2.4.3.UPE.1
+        subobj: 2.4.3
+        type: upe
+        question: Jesus demonstrated that He was the Messiah through His
+        choices:
+          A: parentage.
+          B: miracles.
+          C: disciples.
+          D: education.
+        answer: B
+      - uid: BIB116.2.4.3.TY.1
+        subobj: 2.4.3
+        type: ty
+        question: Jesus proved He was the Messiah by
+        choices:
+          A: teaching in Jewish parables.
+          B: healing and performing miracles.
+          C: teaching in the temple at age twelve.
+          D: riding into Jerusalem as a king.
+        answer: B
+      - uid: BIB116.3.1.1.UPE.1
+        subobj: 3.1.1
+        type: upe
+        question: John did not include parables in his Gospel because
+        choices:
+          A: he did not like stories.
+          B: his readers could not understand them.
+          C: his purpose was to show Christ’s deity.
+          D: he wanted to focus on the Great Commission.
+        answer: C
+      - uid: BIB116.3.1.1.TY.1
+        subobj: 3.1.1
+        type: ty
+        question: John’s main purpose was to
+        choices:
+          A: show how Christ fulfilled the Old Testament.
+          B: discuss the contrast between grace and law.
+          C: persuade his readers to believe in Christ.
+          D: write a history of Jesus’ life and ministry.
+        answer: C
+      - uid: BIB116.3.1.1.TY.2
+        subobj: 3.1.1
+        type: ty
+        question: John emphasized Jesus as the Son of God to
+        choices:
+          A: correct the errors of false teachers.
+          B: repeat the Synoptic teachings.
+          C: contrast Him with the Son of Man.
+          D: clarify the teachings of John the Baptist.
+        answer: A
+      - uid: BIB116.3.1.2.UPE.1
+        subobj: 3.1.2
+        type: upe
+        question: John used the word signs to describe
+        choices:
+          A: belief in Christ.
+          B: events of the last days.
+          C: eternal life through Christ.
+          D: miracles that Christ performed.
+        answer: D
+      - uid: BIB116.3.1.2.TY.1
+        subobj: 3.1.2
+        type: ty
+        question: In his Gospel, John used the word believe close to
+        choices:
+          A: ten times.
+          B: thirty times.
+          C: seventy times.
+          D: one hundred times.
+        answer: D
+      - uid: BIB116.3.1.2.TY.2
+        subobj: 3.1.2
+        type: ty
+        question: In John, a word that means the same as believe is
+        choices:
+          A: confess.
+          B: repent.
+          C: obey.
+          D: worship.
+        answer: C
+      - uid: BIB116.3.1.2.TY.3
+        subobj: 3.1.2
+        type: ty
+        question: John’s word for miracles is
+        choices:
+          A: healings.
+          B: signs.
+          C: wonders.
+          D: revelations.
+        answer: B
+      - uid: BIB116.3.2.1.UPE.1
+        subobj: 3.2.1
+        type: upe
+        question: In John’s introduction, the main action is
+        choices:
+          A: conflict.
+          B: belief.
+          C: sanctification.
+          D: manifestation of the Word.
+        answer: A
+      - uid: BIB116.3.2.1.TY.1
+        subobj: 3.2.1
+        type: ty
+        question: In his introduction, John contrasts
+        choices:
+          A: the beginning and end.
+          B: weakness and power.
+          C: poverty and wealth.
+          D: light and darkness.
+        answer: D
+      - uid: BIB116.3.3.1.UPE.1
+        subobj: 3.3.1
+        type: upe
+        question: Which sign shows that Jesus is Lord over distance?
+        choices:
+          A: Walking on the water
+          B: Healing the man at the pool
+          C: Raising Lazarus from the dead
+          D: Healing the official’s son
+        answer: D
+      - uid: BIB116.3.3.1.TY.1
+        subobj: 3.3.1
+        type: ty
+        question: To show the deity of Christ, John chose seven
+        choices:
+          A: signs.
+          B: conversations.
+          C: contrasts.
+          D: parables.
+        answer: A
+      - uid: BIB116.3.3.2.UPE.1
+        subobj: 3.3.2
+        type: upe
+        question: The seven “I am” statements of Jesus in John’s Gospel
+        choices:
+          A: were intended literally, not symbolically.
+          B: provide important evidence supporting the deity of Christ.
+          C: were written to the seven churches in Asia.
+          D: were not related to God’s name in the Old Testament.
+        answer: B
+      - uid: BIB116.3.3.2.TY.1
+        subobj: 3.3.2
+        type: ty
+        question: One “I am” statement from John’s Gospel is
+        choices:
+          A: “I am the Alpha and Omega.”
+          B: “I am the Cornerstone.”
+          C: “I am the Good Shepherd.”
+          D: “I am the Son of Man.”
+        answer: C
+      - uid: BIB116.3.3.3.UPE.1
+        subobj: 3.3.3
+        type: upe
+        question: In the Gospel of John, Peter’s life shows us that Jesus
+        choices:
+          A: changes our character as we believe in Him.
+          B: expects us to drink from His cup.
+          C: satisfies all who believe in Him.
+          D: knows our inner thoughts.
+        answer: A
+      - uid: BIB116.3.3.3.TY.1
+        subobj: 3.3.3
+        type: ty
+        question: From Simon Peter, we learn that Jesus
+        choices:
+          A: changes our character as we believe in Him.
+          B: expects us to drink from His cup.
+          C: satisfies all who believe in Him.
+          D: knows our inner thoughts.
+        answer: A
+      - uid: BIB116.3.3.3.TY.2
+        subobj: 3.3.3
+        type: ty
+        question: Who teaches us to bring people to Jesus?
+        choices:
+          A: Nicodemus
+          B: Andrew
+          C: Philip
+          D: Lazarus
+        answer: B
+      - uid: BIB116.4.1.1.UPE.1
+        subobj: 4.1.1
+        type: upe
+        question: The best title for the book of Acts is The Acts of
+        choices:
+          A: the Apostle Paul.
+          B: Some of the Apostles.
+          C: All of the Apostles.
+          D: the Holy Spirit.
+        answer: D
+      - uid: BIB116.4.1.1.TY.1
+        subobj: 4.1.1
+        type: ty
+        question: The most likely author of Acts is
+        choices:
+          A: Paul.
+          B: Peter.
+          C: Luke.
+          D: Theophilus.
+        answer: C
+      - uid: BIB116.4.1.2.UPE.1
+        subobj: 4.1.2
+        type: upe
+        question: What book traces the growth and history of the early church?
+        choices:
+          A: Matthew
+          B: Mark
+          C: John
+          D: Acts
+        answer: D
+      - uid: BIB116.4.1.2.TY.1
+        subobj: 4.1.2
+        type: ty
+        question: Acts is
+        choices:
+          A: a homily.
+          B: a history.
+          C: a Gospel.
+          D: an allegory.
+        answer: B
+      - uid: BIB116.4.1.2.TY.2
+        subobj: 4.1.2
+        type: ty
+        question: Acts serves as a bridge between the
+        choices:
+          A: first and second centuries.
+          B: apostles and laypeople.
+          C: Gospels and Epistles.
+          D: ministries of Peter and Paul.
+        answer: C
+      - uid: BIB116.4.1.2.TY.3
+        subobj: 4.1.2
+        type: ty
+        question: The main purpose of Acts is to emphasize the
+        choices:
+          A: early church.
+          B: ministry of Paul.
+          C: ministry of Peter.
+          D: Holy Spirit.
+        answer: D
+      - uid: BIB116.4.1.2.TY.4
+        subobj: 4.1.2
+        type: ty
+        question: Luke emphasizes the Holy Spirit’s role of
+        choices:
+          A: service.
+          B: salvation.
+          C: sanctification.
+          D: surrender.
+        answer: A
+      - uid: BIB116.4.2.1.UPE.1
+        subobj: 4.2.1
+        type: upe
+        question: The spread of the gospel in Judea and Samaria is described in Acts
+        choices:
+          A: 1–7.
+          B: 8–12.
+          C: 13–16.
+          D: 17–28.
+        answer: B
+      - uid: BIB116.4.2.1.TY.1
+        subobj: 4.2.1
+        type: ty
+        question: Which verse gives an outline for Acts?
+        choices:
+          A: '1:1'
+          B: '1:3'
+          C: '1:8'
+          D: '1:10'
+        answer: C
+      - uid: BIB116.4.3.1.UPE.1
+        subobj: 4.3.1
+        type: upe
+        question: Persecution caused the church in Acts to
+        choices:
+          A: spread outward from Jerusalem.
+          B: hunker down and wait it out.
+          C: decrease because of fear.
+          D: stop preaching in Jesus’ name.
+        answer: A
+      - uid: BIB116.4.3.1.TY.1
+        subobj: 4.3.1
+        type: ty
+        question: The main character in Acts 1–12 is
+        choices:
+          A: Peter.
+          B: Stephen.
+          C: Paul.
+          D: Philip.
+        answer: A
+      - uid: BIB116.4.3.1.TY.2
+        subobj: 4.3.1
+        type: ty
+        question: What caused the gospel to spread outside Jerusalem?
+        choices:
+          A: Missionary zeal
+          B: A vision from God
+          C: The Jerusalem Council
+          D: Persecution from Jews
+        answer: D
+      - uid: BIB116.4.3.1.TY.3
+        subobj: 4.3.1
+        type: ty
+        question: The gospel spread first from Jerusalem to
+        choices:
+          A: Caesarea.
+          B: Samaria.
+          C: Antioch.
+          D: Rome.
+        answer: B
+      - uid: BIB116.4.3.1.TY.4
+        subobj: 4.3.1
+        type: ty
+        question: Paul’s approach when ministering to Jews usually included
+        choices:
+          A: a line or two of poetry.
+          B: extensive use of the Old Testament.
+          C: a warning against pagan idols.
+          D: the partaking of communion.
+        answer: B
+      - uid: BIB116.5.1.1.UPE.1
+        subobj: 5.1.1
+        type: upe
+        question: Paul belonged to the tribe of
+        choices:
+          A: Reuben.
+          B: Benjamin.
+          C: Simeon.
+          D: Judah.
+        answer: B
+      - uid: BIB116.5.1.1.TY.1
+        subobj: 5.1.1
+        type: ty
+        question: Paul was a member of the
+        choices:
+          A: Pharisees.
+          B: Sadducees.
+          C: Essenes.
+          D: Zealots.
+        answer: A
+      - uid: BIB116.5.1.2.UPE.1
+        subobj: 5.1.2
+        type: upe
+        question: Which of Paul’s letters focus primarily on eschatology?
+        choices:
+          A: 1 and 2 Thessalonians
+          B: 1 and 2 Timothy and Titus
+          C: Romans, Galatians, and 1 and 2 Corinthians
+          D: Ephesians, Philippians, Colossians, and Philemon
+        answer: A
+      - uid: BIB116.5.1.2.TY.1
+        subobj: 5.1.2
+        type: ty
+        question: Romans and Galatians are two of the
+        choices:
+          A: Salvation Epistles.
+          B: Prison Epistles.
+          C: Pastoral Epistles.
+          D: General Epistles.
+        answer: A
+      - uid: BIB116.5.2.1.TY.1
+        subobj: 5.2.1
+        type: ty
+        question: The Roman church needed to find common ground in Christ because
+          of their
+        choices:
+          A: pride.
+          B: idolatry.
+          C: false teachers.
+          D: cultural differences.
+        answer: D
+      - uid: BIB116.5.2.2.UPE.1
+        subobj: 5.2.2
+        type: upe
+        question: Romans 4–5 teaches that justification is the
+        choices:
+          A: expression of righteousness.
+          B: opposite of sanctification.
+          C: essence of righteousness.
+          D: provision for righteousness.
+        answer: D
+      - uid: BIB116.5.2.2.TY.1
+        subobj: 5.2.2
+        type: ty
+        question: Romans 6–8 contrasts
+        choices:
+          A: Jews and Gentiles under God’s judgment.
+          B: slaves of sin and slaves of righteousness.
+          C: the weak and the mature in Jesus Christ.
+          D: the young and the old under the Law.
+        answer: B
+      - uid: BIB116.5.2.2.TY.2
+        subobj: 5.2.2
+        type: ty
+        question: Which word emphasizes that God counts us righteous?
+        choices:
+          A: Election
+          B: Sanctification
+          C: Justification
+          D: Predestination
+        answer: C
+      - uid: BIB116.5.2.2.TY.3
+        subobj: 5.2.2
+        type: ty
+        question: Paul’s great theme in Romans is
+        choices:
+          A: righteousness.
+          B: obedience.
+          C: sovereignty.
+          D: maturity.
+        answer: A
+      - uid: BIB116.5.3.1.UPE.1
+        subobj: 5.3.1
+        type: upe
+        question: Paul wrote Galatians to
+        choices:
+          A: express his anger toward the Galatian churches.
+          B: defend justification by faith.
+          C: warn the people about Gnosticism.
+          D: explain the signs of the times.
+        answer: B
+      - uid: BIB116.5.3.1.TY.1
+        subobj: 5.3.1
+        type: ty
+        question: Judaizers taught that salvation comes by obeying
+        choices:
+          A: Moses alone.
+          B: Jesus alone.
+          C: neither Jesus nor Moses.
+          D: both Jesus and Moses.
+        answer: D
+      - uid: BIB116.5.3.1.TY.2
+        subobj: 5.3.1
+        type: ty
+        question: The Galatian churches were having problems
+        choices:
+          A: submitting to church leaders.
+          B: recognizing Jesus as Messiah.
+          C: relating to other groups of believers.
+          D: trusting in grace alone to be saved.
+        answer: D
+      - uid: BIB116.5.3.2.UPE.1
+        subobj: 5.3.2
+        type: upe
+        question: Paul told the Galatians that the gospel was true because
+        choices:
+          A: it works in personal experience.
+          B: it is the power of God unto salvation.
+          C: angels had given it to him.
+          D: the Jerusalem Council had voted to accept it.
+        answer: A
+      - uid: BIB116.5.3.2.TY.1
+        subobj: 5.3.2
+        type: ty
+        question: Paul received the gospel from
+        choices:
+          A: Peter.
+          B: Christ.
+          C: Ananias.
+          D: an angel.
+        answer: B
+      - uid: BIB116.5.3.2.TY.2
+        subobj: 5.3.2
+        type: ty
+        question: The Old Testament example of justification by faith is
+        choices:
+          A: Isaac.
+          B: Ishmael.
+          C: Abraham.
+          D: Moses.
+        answer: C
+      - uid: BIB116.6.1.1.UPE.1
+        subobj: 6.1.1
+        type: upe
+        question: To act like a Corinthian meant to
+        choices:
+          A: speak with other tongues.
+          B: seek after wisdom.
+          C: commit sexual immorality.
+          D: behave like a lunatic.
+        answer: C
+      - uid: BIB116.6.1.1.UPE.2
+        subobj: 6.1.1
+        type: upe
+        question: Paul ministered in Corinth for approximately
+        choices:
+          A: 6 months.
+          B: 12 months.
+          C: 18 months.
+          D: 24 months.
+        answer: C
+      - uid: BIB116.6.1.1.TY.1
+        subobj: 6.1.1
+        type: ty
+        question: Which city is due east of Corinth?
+        choices:
+          A: Athens
+          B: Rome
+          C: Ephesus
+          D: Thessalonica
+        answer: A
+      - uid: BIB116.6.1.1.TY.2
+        subobj: 6.1.1
+        type: ty
+        question: To act like a Corinthian meant to
+        choices:
+          A: speak in tongues.
+          B: read many books.
+          C: live immorally.
+          D: travel the world.
+        answer: C
+      - uid: BIB116.6.1.1.TY.3
+        subobj: 6.1.1
+        type: ty
+        question: On his second missionary trip, Paul stayed in Corinth
+        choices:
+          A: one month.
+          B: six months.
+          C: twelve months.
+          D: eighteen months.
+        answer: D
+      - uid: BIB116.6.1.2.UPE.1
+        subobj: 6.1.2
+        type: upe
+        question: The main question of 1 Corinthians 12–14 related to
+        choices:
+          A: head coverings.
+          B: spiritual gifts.
+          C: the resurrection of the dead.
+          D: divorce and remarriage.
+        answer: B
+      - uid: BIB116.6.1.2.TY.1
+        subobj: 6.1.2
+        type: ty
+        question: First Corinthians 1–4 is about the problem of
+        choices:
+          A: divisions.
+          B: unbelief.
+          C: persecution.
+          D: Judaizers.
+        answer: A
+      - uid: BIB116.6.1.2.TY.2
+        subobj: 6.1.2
+        type: ty
+        question: Paul warned (in 1 Corinthians) against causing others to stumble
+          in answer to questions about
+        choices:
+          A: spiritual gifts.
+          B: communion.
+          C: conscience.
+          D: marriage.
+        answer: C
+      - uid: BIB116.6.1.2.TY.3
+        subobj: 6.1.2
+        type: ty
+        question: In 1 Corinthians 12–14, Paul writes about the topic of
+        choices:
+          A: false teachers.
+          B: spiritual gifts.
+          C: good works.
+          D: the end-time.
+        answer: B
+      - uid: BIB116.6.1.2.TY.4
+        subobj: 6.1.2
+        type: ty
+        question: First Corinthians 15 answers questions about
+        choices:
+          A: resurrection.
+          B: head coverings.
+          C: conscience.
+          D: marriage.
+        answer: A
+      - uid: BIB116.6.2.1.UPE.1
+        subobj: 6.2.1
+        type: upe
+        question: Paul changed his mind about traveling to Corinth because he
+        choices:
+          A: wanted to take an offering to Jerusalem.
+          B: had urgent business in Macedonia.
+          C: became very sick while preaching in Ephesus.
+          D: did not want to hurt the believers in Corinth.
+        answer: D
+      - uid: BIB116.6.2.1.TY.1
+        subobj: 6.2.1
+        type: ty
+        question: Paul’s main purpose for writing 2 Corinthians was to
+        choices:
+          A: collect an offering.
+          B: confront false doctrine.
+          C: give comfort to believers.
+          D: defend his ministry.
+        answer: D
+      - uid: BIB116.6.2.2.UPE.1
+        subobj: 6.2.2
+        type: upe
+        question: Paul differed from the false apostles in that he
+        choices:
+          A: emphasized the seen and the temporal.
+          B: took pride in the outward appearance of ministry.
+          C: took pride in what was in the heart.
+          D: relied on humans to recommend him.
+        answer: C
+      - uid: BIB116.6.2.2.TY.1
+        subobj: 6.2.2
+        type: ty
+        question: In 2 Corinthians 10–13, Paul said that true apostles
+        choices:
+          A: have plenty of money.
+          B: expect others to serve them.
+          C: speak with powerful words.
+          D: are known for humility.
+        answer: D
+      - uid: BIB116.6.2.2.TY.2
+        subobj: 6.2.2
+        type: ty
+        question: False apostles in Corinth
+        choices:
+          A: used spiritual weapons to fight.
+          B: made up stories about miracles.
+          C: were persecuted for their faith.
+          D: made human sacrifices to idols.
+        answer: B
+      - uid: BIB116.7.1.1.UPE.1
+        subobj: 7.1.1
+        type: upe
+        question: On his third missionary journey, Paul ministered in Ephesus for
+        choices:
+          A: more than four years.
+          B: at least three years.
+          C: about two years.
+          D: about eighteen months.
+        answer: B
+      - uid: BIB116.7.1.1.TY.1
+        subobj: 7.1.1
+        type: ty
+        question: Which city was in the center of several churches Paul planted?
+        choices:
+          A: Jerusalem
+          B: Antioch
+          C: Ephesus
+          D: Corinth
+        answer: C
+      - uid: BIB116.7.1.1.TY.2
+        subobj: 7.1.1
+        type: ty
+        question: Artemis was
+        choices:
+          A: a famous poet.
+          B: an early believer.
+          C: a Greek goddess.
+          D: the pastor at Ephesus.
+        answer: C
+      - uid: BIB116.7.1.2.UPE.1
+        subobj: 7.1.2
+        type: upe
+        question: In Ephesians 2–3, Paul discusses the relationship
+        choices:
+          A: of Christians to evil spirits.
+          B: between humanity and God.
+          C: between husband and wife.
+          D: between Jews and Gentiles.
+        answer: D
+      - uid: BIB116.7.1.2.TY.1
+        subobj: 7.1.2
+        type: ty
+        question: A major theme of Ephesians is
+        choices:
+          A: relationships.
+          B: false teachers.
+          C: end-time.
+          D: suffering.
+        answer: A
+      - uid: BIB116.7.2.1.UPE.1
+        subobj: 7.2.1
+        type: upe
+        question: The city of Philippi was
+        choices:
+          A: named after Philip the evangelist.
+          B: located on the Aegean Sea.
+          C: a colony made up mostly of women.
+          D: the site of Paul’s first church.
+        answer: B
+      - uid: BIB116.7.2.1.TY.1
+        subobj: 7.2.1
+        type: ty
+        question: Philippi was in the province of
+        choices:
+          A: Galatia.
+          B: Macedonia.
+          C: Achaia.
+          D: Asia Minor.
+        answer: B
+      - uid: BIB116.7.2.2.UPE.1
+        subobj: 7.2.2
+        type: upe
+        question: Having joy in the midst of trials is the theme of
+        choices:
+          A: Ephesians.
+          B: Galatians.
+          C: Philippians.
+          D: Philemon.
+        answer: C
+      - uid: BIB116.7.2.2.TY.1
+        subobj: 7.2.2
+        type: ty
+        question: The theme of Philippians is
+        choices:
+          A: grace.
+          B: joy.
+          C: mercy.
+          D: love.
+        answer: B
+      - uid: BIB116.7.2.2.TY.2
+        subobj: 7.2.2
+        type: ty
+        question: In Philippians, having the same attitude as Christ is the key to
+        choices:
+          A: unity.
+          B: peace.
+          C: salvation.
+          D: rejoicing.
+        answer: A
+      - uid: BIB116.7.3.1.UPE.1
+        subobj: 7.3.1
+        type: upe
+        question: One characteristic of the Colossian heresy was
+        choices:
+          A: displaying drunkenness.
+          B: engaging in immorality.
+          C: lowering the status of Christ.
+          D: refusing to meet on the Sabbath.
+        answer: C
+      - uid: BIB116.7.3.1.TY.1
+        subobj: 7.3.1
+        type: ty
+        question: False teachers in Colosse claimed to have
+        choices:
+          A: power over demonic forces.
+          B: a new book of Scripture.
+          C: the ability to predict the future.
+          D: secret knowledge for salvation.
+        answer: D
+      - uid: BIB116.7.3.2.UPE.1
+        subobj: 7.3.2
+        type: upe
+        question: In Colossians, putting on new clothes meant
+        choices:
+          A: putting on robes of righteousness.
+          B: spending money on quality items.
+          C: showing concern for appearances.
+          D: showing compassion and humility.
+        answer: D
+      - uid: BIB116.7.3.2.TY.1
+        subobj: 7.3.2
+        type: ty
+        question: Paul’s reference to old clothes or the old self is to
+        choices:
+          A: baptism.
+          B: poverty.
+          C: death.
+          D: sins.
+        answer: D
+      - uid: BIB116.7.4.1.UPE.1
+        subobj: 7.4.1
+        type: upe
+        question: Which book specifically shows how the gospel works in society?
+        choices:
+          A: Ephesians
+          B: Galatians
+          C: Philippians
+          D: Philemon
+        answer: D
+      - uid: BIB116.7.4.1.TY.1
+        subobj: 7.4.1
+        type: ty
+        question: The slave whom Paul sent back to his master was
+        choices:
+          A: Philemon.
+          B: Trophimus.
+          C: Onesimus.
+          D: Epaphras.
+        answer: C
+      - uid: BIB116.7.4.1.TY.2
+        subobj: 7.4.1
+        type: ty
+        question: Philemon teaches us that the gospel
+        choices:
+          A: supports the practice of slavery.
+          B: improves our economic status.
+          C: changes the rules of society.
+          D: can make people better.
+        answer: D
+      - uid: BIB116.8.1.1.UPE.1
+        subobj: 8.1.1
+        type: upe
+        question: Timothy’s report to Paul regarding the Thessalonians included
+        choices:
+          A: sorrow for their shallow faith.
+          B: praise for their faith and love.
+          C: warnings about false teachers.
+          D: praise for their generous giving.
+        answer: B
+      - uid: BIB116.8.1.1.TY.1
+        subobj: 8.1.1
+        type: ty
+        question: Thessalonica was the capital of
+        choices:
+          A: Galatia.
+          B: Achaia.
+          C: Macedonia.
+          D: Asia Minor.
+        answer: C
+      - uid: BIB116.8.1.1.TY.2
+        subobj: 8.1.1
+        type: ty
+        question: Paul wrote both epistles to the Thessalonians from
+        choices:
+          A: Rome.
+          B: Corinth.
+          C: Athens.
+          D: Philippi.
+        answer: B
+      - uid: BIB116.8.1.1.TY.3
+        subobj: 8.1.1
+        type: ty
+        question: Who returned with a good report about the Thessalonian believers?
+        choices:
+          A: Silas
+          B: Jason
+          C: Tychicus
+          D: Timothy
+        answer: D
+      - uid: BIB116.8.1.1.TY.4
+        subobj: 8.1.1
+        type: ty
+        question: The theme of 1 and 2 Thessalonians is
+        choices:
+          A: rejoicing in persecution.
+          B: freedom from the Law.
+          C: Christ’s greatness.
+          D: the Second Coming.
+        answer: D
+      - uid: BIB116.8.1.2.UPE.1
+        subobj: 8.1.2
+        type: upe
+        question: Paul encouraged the Thessalonians by reminding them of
+        choices:
+          A: Christ’s second coming.
+          B: Paul’s release from prison.
+          C: the suffering of other believers.
+          D: a generous offering they would soon receive.
+        answer: A
+      - uid: BIB116.8.1.2.TY.1
+        subobj: 8.1.2
+        type: ty
+        question: One reason Paul wrote 1 Thessalonians was to
+        choices:
+          A: encourage suffering believers.
+          B: request financial help.
+          C: rebuke rebelling Christians.
+          D: discuss speaking in tongues.
+        answer: A
+      - uid: BIB116.8.1.2.TY.2
+        subobj: 8.1.2
+        type: ty
+        question: Eschatology is the study of
+        choices:
+          A: church history.
+          B: false teachings.
+          C: the end-time.
+          D: salvation.
+        answer: C
+      - uid: BIB116.8.1.2.TY.3
+        subobj: 8.1.2
+        type: ty
+        question: Every chapter in 1 Thessalonians ends with a
+        choices:
+          A: warning against falling away.
+          B: prayer of thanksgiving.
+          C: statement of faith.
+          D: teaching of Christ’s return.
+        answer: D
+      - uid: BIB116.8.2.1.UPE.1
+        subobj: 8.2.1
+        type: upe
+        question: We believe that the public phase of Christ’s second coming will
+          occur
+        choices:
+          A: before the Tribulation.
+          B: during the Tribulation.
+          C: after the Tribulation.
+          D: after the Millennium.
+        answer: C
+      - uid: BIB116.8.2.1.TY.1
+        subobj: 8.2.1
+        type: ty
+        question: Our being gathered to Him refers to the
+        choices:
+          A: Rapture.
+          B: Millennium.
+          C: grave.
+          D: Tribulation.
+        answer: A
+      - uid: BIB116.8.2.1.TY.2
+        subobj: 8.2.1
+        type: ty
+        question: The man of lawlessness refers to the
+        choices:
+          A: high priest.
+          B: Antichrist.
+          C: false prophet.
+          D: devil.
+        answer: B
+      - uid: BIB116.8.2.1.TY.3
+        subobj: 8.2.1
+        type: ty
+        question: The Second Coming refers to
+        choices:
+          A: Christ’s coming after the Millennium.
+          B: only Christ’s coming for His saints.
+          C: Christ’s coming for and with His saints.
+          D: only Christ’s coming to judge His enemies.
+        answer: C
+      - uid: BIB116.9.1.1.UPE.1
+        subobj: 9.1.1
+        type: upe
+        question: The term disciple may indicate that Timothy became a Christian
+        choices:
+          A: while Paul was in Rome.
+          B: while Paul was in Ephesus.
+          C: during Paul’s first missionary journey.
+          D: during Paul’s second missionary journey.
+        answer: C
+      - uid: BIB116.9.1.1.TY.1
+        subobj: 9.1.1
+        type: ty
+        question: Where did Timothy first learn the Scriptures?
+        choices:
+          A: At school
+          B: From Paul
+          C: At home
+          D: In a vision
+        answer: C
+      - uid: BIB116.9.1.1.TY.2
+        subobj: 9.1.1
+        type: ty
+        question: Paul’s relationship to Timothy was like a
+        choices:
+          A: brother to a brother.
+          B: father to a son.
+          C: teacher to a student.
+          D: pastor to a church member.
+        answer: B
+      - uid: BIB116.9.1.1.TY.3
+        subobj: 9.1.1
+        type: ty
+        question: Timothy pastored in
+        choices:
+          A: Corinth.
+          B: Philippi.
+          C: Ephesus.
+          D: Antioch.
+        answer: C
+      - uid: BIB116.9.1.2.UPE.1
+        subobj: 9.1.2
+        type: upe
+        question: One of Paul’s main topics in 1 Timothy is
+        choices:
+          A: the second coming of Christ.
+          B: the question of circumcision.
+          C: the use of spiritual gifts in the church.
+          D: instructions about public worship.
+        answer: D
+      - uid: BIB116.9.1.2.TY.1
+        subobj: 9.1.2
+        type: ty
+        question: One of Paul’s topics in 1 Timothy was
+        choices:
+          A: managing the church.
+          B: spiritual gifts.
+          C: the Resurrection.
+          D: the Second Coming.
+        answer: A
+      - uid: BIB116.9.2.1.UPE.1
+        subobj: 9.2.1
+        type: upe
+        question: In Titus, Paul taught that circumcision
+        choices:
+          A: is a sign of the new covenant.
+          B: should follow salvation.
+          C: is for Jewish believers only.
+          D: has no religious value.
+        answer: D
+      - uid: BIB116.9.2.1.TY.1
+        subobj: 9.2.1
+        type: ty
+        question: Paul teaches that a pastor must be one who
+        choices:
+          A: welcomes visitors into his home.
+          B: speaks with great authority.
+          C: has much education.
+          D: has many talents.
+        answer: A
+      - uid: BIB116.9.2.2.TY.1
+        subobj: 9.2.2
+        type: ty
+        question: According to Titus, grace helps believers by
+        choices:
+          A: giving them power to witness.
+          B: keeping them from sinning.
+          C: helping them understand the Bible.
+          D: teaching them to live godly lives.
+        answer: D
+      - uid: BIB116.9.2.2.TY.2
+        subobj: 9.2.2
+        type: ty
+        question: In Titus, Paul teaches that the actions of believers affect the
+        choices:
+          A: growth of the church.
+          B: character of believers.
+          C: church’s leadership.
+          D: reputation of the gospel.
+        answer: D
+      - uid: BIB116.9.3.1.UPE.1
+        subobj: 9.3.1
+        type: upe
+        question: In 2 Timothy, Paul compares Timothy to an athlete who must
+        choices:
+          A: fight the good fight of faith.
+          B: obey the rules of the game.
+          C: endure suffering.
+          D: finish the race.
+        answer: B
+      - uid: BIB116.9.3.1.TY.1
+        subobj: 9.3.1
+        type: ty
+        question: In 2 Timothy, Paul says a pastor is like an athlete because he must
+        choices:
+          A: train himself.
+          B: run against others.
+          C: obey the rules.
+          D: finish the race.
+        answer: C
+      - uid: BIB116.9.3.2.UPE.1
+        subobj: 9.3.2
+        type: upe
+        question: Paul tells Timothy that all Scripture
+        choices:
+          A: includes the books of the New Testament.
+          B: is profitable, because it would become a best seller.
+          C: should be used to teach, rebuke, correct, and train.
+          D: was written by the finger of God.
+        answer: C
+      - uid: BIB116.9.3.2.TY.1
+        subobj: 9.3.2
+        type: ty
+        question: In 2 Timothy, Paul compares people in the last days to
+        choices:
+          A: Euodia and Syntyche.
+          B: Jannes and Jambres.
+          C: Samson and Delilah.
+          D: Nadab and Abihu.
+        answer: B
+      - uid: BIB116.9.3.2.TY.2
+        subobj: 9.3.2
+        type: ty
+        question: Describing the Scriptures as “God-breathed” means that God
+        choices:
+          A: lives in and through the Scriptures.
+          B: gave Scripture the breath of life.
+          C: wrote the Scriptures on His own.
+          D: is the source of all Scripture.
+        answer: D
+      - uid: BIB116.10.1.1.UPE.1
+        subobj: 10.1.1
+        type: upe
+        question: Most biblical scholars do not believe Paul was the author of Hebrews
+          because
+        choices:
+          A: the author does not identify himself.
+          B: the author appears to be a second-generation Christian.
+          C: Paul often quoted from the Septuagint.
+          D: Paul was called only to the Gentiles.
+        answer: B
+      - uid: BIB116.10.1.1.TY.1
+        subobj: 10.1.1
+        type: ty
+        question: The author of Hebrews was
+        choices:
+          A: Paul.
+          B: Barnabas.
+          C: Apollos.
+          D: unknown.
+        answer: D
+      - uid: BIB116.10.1.1.TY.2
+        subobj: 10.1.1
+        type: ty
+        question: A primary theme in Hebrews, James, and 1 Peter is
+        choices:
+          A: unity.
+          B: witnessing.
+          C: suffering.
+          D: spiritual gifts.
+        answer: C
+      - uid: BIB116.10.1.2.UPE.1
+        subobj: 10.1.2
+        type: upe
+        question: The primary theme of Hebrews is that Jesus is
+        choices:
+          A: sovereign.
+          B: faithful.
+          C: righteous.
+          D: superior.
+        answer: D
+      - uid: BIB116.10.1.2.TY.1
+        subobj: 10.1.2
+        type: ty
+        question: Hebrews teaches that Jesus is a better priest because He
+        choices:
+          A: lived a sinless life on earth.
+          B: gave a complete revelation.
+          C: was faithful as God’s Son.
+          D: offers us an eternal rest.
+        answer: A
+      - uid: BIB116.10.1.3.UPE.1
+        subobj: 10.1.3
+        type: upe
+        question: According to Hebrews, if believers keep ignoring God’s warnings,
+          they
+        choices:
+          A: lose their salvation.
+          B: lose rewards in heaven.
+          C: spend time in purgatory.
+          D: miss God’s fullest blessings.
+        answer: A
+      - uid: BIB116.10.1.3.TY.1
+        subobj: 10.1.3
+        type: ty
+        question: If believers keep ignoring God’s warnings, they
+        choices:
+          A: miss God’s fullest blessings.
+          B: lose rewards in heaven.
+          C: spend time in purgatory.
+          D: turn away from their salvation.
+        answer: D
+      - uid: BIB116.10.2.1.UPE.1
+        subobj: 10.2.1
+        type: upe
+        question: Which book is one of the General Epistles?
+        choices:
+          A: Titus
+          B: Hebrews
+          C: James
+          D: Revelation
+        answer: C
+      - uid: BIB116.10.2.1.TY.1
+        subobj: 10.2.1
+        type: ty
+        question: The General Epistles were written
+        choices:
+          A: from different places.
+          B: for all churches.
+          C: about all different topics.
+          D: around the same time.
+        answer: B
+      - uid: BIB116.10.2.2.UPE.1
+        subobj: 10.2.2
+        type: upe
+        question: The author of James was most likely
+        choices:
+          A: John’s brother.
+          B: the son of Alphaeus.
+          C: a king from Britain.
+          D: the Lord’s half-brother.
+        answer: D
+      - uid: BIB116.10.2.2.TY.1
+        subobj: 10.2.2
+        type: ty
+        question: The author of James was
+        choices:
+          A: John’s brother.
+          B: Jesus’ half-brother.
+          C: the son of Alphaeus.
+          D: a church deacon.
+        answer: B
+      - uid: BIB116.10.2.3.UPE.1
+        subobj: 10.2.3
+        type: upe
+        question: Which epistle claims that temptations come from the flesh?
+        choices:
+          A: James
+          B: 2 Peter
+          C: 1 John
+          D: Jude
+        answer: A
+      - uid: BIB116.10.2.3.TY.1
+        subobj: 10.2.3
+        type: ty
+        question: What does James teach about wealth?
+        choices:
+          A: Believers should not be wealthy.
+          B: Wealthy believers are more spiritual.
+          C: The wealthy will soon pass away.
+          D: Wealth is a measure of God’s blessing.
+        answer: C
+      - uid: BIB116.10.3.1.UPE.1
+        subobj: 10.3.1
+        type: upe
+        question: Peter’s brother was
+        choices:
+          A: John.
+          B: James.
+          C: Andrew.
+          D: Silas.
+        answer: C
+      - uid: BIB116.10.3.1.TY.1
+        subobj: 10.3.1
+        type: ty
+        question: The name Peter means
+        choices:
+          A: “fisherman.”
+          B: “God is near.”
+          C: “father.”
+          D: “rock.”
+        answer: D
+      - uid: BIB116.10.3.2.UPE.1
+        subobj: 10.3.2
+        type: upe
+        question: First Peter teaches that trials
+        choices:
+          A: are caused by Satan.
+          B: are a means of grace.
+          C: are a result of sin.
+          D: purify our faith.
+        answer: D
+      - uid: BIB116.10.3.2.TY.1
+        subobj: 10.3.2
+        type: ty
+        question: First Peter teaches that trials
+        choices:
+          A: purify our faith.
+          B: reveal a lack of faith.
+          C: are the result of sin.
+          D: are caused by Satan.
+        answer: A
+      - uid: BIB116.10.3.3.UPE.1
+        subobj: 10.3.3
+        type: upe
+        question: Believers should be characterized by
+        choices:
+          A: humble obedience.
+          B: meddling.
+          C: slander.
+          D: pride.
+        answer: A
+      - uid: BIB116.10.3.3.TY.1
+        subobj: 10.3.3
+        type: ty
+        question: Believers should live a lifestyle of
+        choices:
+          A: suffering as meddlers.
+          B: proud self-indulgence.
+          C: humble obedience.
+          D: ignorance.
+        answer: C
+      - uid: BIB116.11.1.1.UPE.1
+        subobj: 11.1.1
+        type: upe
+        question: To counter the Gnostic idea that the body was evil and the spirit
+          good, John showed that
+        choices:
+          A: only what comes out of a person defiles him or her.
+          B: both the body and the spirit are evil.
+          C: Jesus came in the flesh but was sinless.
+          D: all things are pure to the pure.
+        answer: C
+      - uid: BIB116.11.1.1.TY.1
+        subobj: 11.1.1
+        type: ty
+        question: John wrote his first epistle to correct the errors of
+        choices:
+          A: Judaizers.
+          B: Herodians.
+          C: Gnostics.
+          D: Zealots.
+        answer: C
+      - uid: BIB116.11.1.1.TY.2
+        subobj: 11.1.1
+        type: ty
+        question: First John stresses that
+        choices:
+          A: believers have secret knowledge.
+          B: Jesus Christ was God in flesh.
+          C: we cannot know if we are saved.
+          D: we should ignore needs of the body.
+        answer: B
+      - uid: BIB116.11.1.1.TY.3
+        subobj: 11.1.1
+        type: ty
+        question: John’s three epistles are written
+        choices:
+          A: from prison.
+          B: to pastors.
+          C: to suffering believers.
+          D: about false teaching.
+        answer: D
+      - uid: BIB116.11.1.2.UPE.1
+        subobj: 11.1.2
+        type: upe
+        question: According to 1 John, having love for our brother indicates that
+          we
+        choices:
+          A: have a rich brother.
+          B: have acquired secret knowledge.
+          C: are eternally secure.
+          D: are God’s children.
+        answer: D
+      - uid: BIB116.11.1.2.TY.1
+        subobj: 11.1.2
+        type: ty
+        question: How does 1 John define sin?
+        choices:
+          A: Missing the mark
+          B: Imperfection
+          C: Lawlessness
+          D: Making a mistake
+        answer: C
+      - uid: BIB116.11.1.2.TY.2
+        subobj: 11.1.2
+        type: ty
+        question: John says we know we are God’s children if we
+        choices:
+          A: pay our tithes.
+          B: love one another.
+          C: do not feel guilty.
+          D: confess our sins.
+        answer: B
+      - uid: BIB116.11.2.1.UPE.1
+        subobj: 11.2.1
+        type: upe
+        question: Which concept is found in John, 1 John, and 2 John?
+        choices:
+          A: John refers to himself as “the elder.”
+          B: We show love for Jesus by obeying His commands.
+          C: The first will be last, and the last will be first.
+          D: Walking in the truth is praiseworthy.
+        answer: B
+      - uid: BIB116.11.2.1.TY.1
+        subobj: 11.2.1
+        type: ty
+        question: One evidence that the apostle John wrote the Gospel of John, 2 John,
+          and 3 John is that
+        choices:
+          A: they contain similar phrases.
+          B: all claim to be written by the apostle John.
+          C: Paul says John wrote these books.
+          D: all three books refer to the antichrist.
+        answer: A
+      - uid: BIB116.11.2.2.UPE.1
+        subobj: 11.2.2
+        type: upe
+        question: Which epistle shows that love and truth must go together?
+        choices:
+          A: Hebrews
+          B: 1 Peter
+          C: 1 John
+          D: 2 John
+        answer: D
+      - uid: BIB116.11.2.2.TY.1
+        subobj: 11.2.2
+        type: ty
+        question: According to 2 John, love is linked to
+        choices:
+          A: faith.
+          B: mercy.
+          C: truth.
+          D: justice.
+        answer: C
+      - uid: BIB116.11.3.1.UPE.1
+        subobj: 11.3.1
+        type: upe
+        question: Third John says that Demetrius
+        choices:
+          A: walked in the truth.
+          B: had a good reputation.
+          C: was a silversmith.
+          D: loved to be first.
+        answer: B
+      - uid: BIB116.11.3.1.TY.1
+        subobj: 11.3.1
+        type: ty
+        question: John says that Demetrius
+        choices:
+          A: was spoken well of.
+          B: was a proud person.
+          C: did not walk in truth.
+          D: was John’s son in the faith.
+        answer: A
+      - uid: BIB116.11.3.1.TY.2
+        subobj: 11.3.1
+        type: ty
+        question: John praised Gaius because he
+        choices:
+          A: suffered for Christ.
+          B: helped strangers.
+          C: was very intelligent.
+          D: had great faith.
+        answer: B
+      - uid: BIB116.11.3.1.TY.3
+        subobj: 11.3.1
+        type: ty
+        question: Diotrephes was a leader who
+        choices:
+          A: showed humility.
+          B: was not a believer.
+          C: walked in truth.
+          D: loved to be first.
+        answer: D
+      - uid: BIB116.12.1.1.UPE.1
+        subobj: 12.1.1
+        type: upe
+        question: According to 2 Peter, growing in grace requires
+        choices:
+          A: lots of effort.
+          B: secret knowledge.
+          C: praying in tongues.
+          D: faithful church attendance.
+        answer: A
+      - uid: BIB116.12.1.1.TY.1
+        subobj: 12.1.1
+        type: ty
+        question: Second Peter says that believers should
+        choices:
+          A: relax and let God cause them to grow.
+          B: make every effort to grow in grace.
+          C: discern that all who are born again grow.
+          D: depend on the church for growing in grace.
+        answer: B
+      - uid: BIB116.12.1.1.TY.2
+        subobj: 12.1.1
+        type: ty
+        question: Peter contrasts those who grow in grace with those who
+        choices:
+          A: remain babies in Christ.
+          B: depend on themselves.
+          C: fall from God’s grace.
+          D: use grace to cover sin.
+        answer: C
+      - uid: BIB116.12.1.2.UPE.1
+        subobj: 12.1.2
+        type: upe
+        question: According to 2 Peter, false teachers
+        choices:
+          A: respect authority.
+          B: make Christians stronger.
+          C: target weak or new believers.
+          D: compare to wells full of water.
+        answer: C
+      - uid: BIB116.12.1.2.TY.1
+        subobj: 12.1.2
+        type: ty
+        question: Second Peter 1:21 states the truth that
+        choices:
+          A: the prophets spoke God’s word through the Spirit.
+          B: all Scripture is God-breathed and useful for instruction.
+          C: Paul’s letters contain some difficult statements.
+          D: believers should make their calling sure.
+        answer: A
+      - uid: BIB116.12.1.2.TY.2
+        subobj: 12.1.2
+        type: ty
+        question: Second Peter 2:15 says that false teachers follow
+        choices:
+          A: Adam.
+          B: Balaam.
+          C: Jezebel.
+          D: Cain.
+        answer: B
+      - uid: BIB116.12.1.2.TY.3
+        subobj: 12.1.2
+        type: ty
+        question: Second Peter and Jude both warn of
+        choices:
+          A: a great famine.
+          B: persecution.
+          C: the Antichrist.
+          D: false teachers.
+        answer: D
+      - uid: BIB116.12.2.1.UPE.1
+        subobj: 12.2.1
+        type: upe
+        question: The author of Jude was most likely
+        choices:
+          A: James and John’s brother.
+          B: a deacon in the early church.
+          C: one of the twelve disciples.
+          D: Jesus’ half-brother.
+        answer: D
+      - uid: BIB116.12.2.1.TY.1
+        subobj: 12.2.1
+        type: ty
+        question: The author of Jude was most likely the
+        choices:
+          A: half brother of Jesus.
+          B: son of Alphaeus.
+          C: apostle Jude.
+          D: brother of James and John.
+        answer: A
+      - uid: BIB116.12.2.1.TY.2
+        subobj: 12.2.1
+        type: ty
+        question: Jude emphasized that believers should
+        choices:
+          A: love one another.
+          B: study the Scriptures.
+          C: rebuke the devil.
+          D: fight for the faith.
+        answer: D
+      - uid: BIB116.12.2.2.UPE.1
+        subobj: 12.2.2
+        type: upe
+        question: An official church council approved the list of New Testament books
+          around AD
+        choices:
+          A: '167.'
+          B: '267.'
+          C: '367.'
+          D: '467.'
+        answer: C
+      - uid: BIB116.12.2.2.TY.1
+        subobj: 12.2.2
+        type: ty
+        question: The book of Enoch is part of the
+        choices:
+          A: Old Testament.
+          B: New Testament.
+          C: Apocrypha.
+          D: Pseudepigrapha.
+        answer: D
+      - uid: BIB116.12.2.2.TY.2
+        subobj: 12.2.2
+        type: ty
+        question: The word canon first referred to a
+        choices:
+          A: gun.
+          B: council.
+          C: standard.
+          D: book.
+        answer: C
+      - uid: BIB116.12.2.2.TY.3
+        subobj: 12.2.2
+        type: ty
+        question: The list of New Testament books was approved about AD
+        choices:
+          A: '70.'
+          B: '267.'
+          C: '367.'
+          D: '1546.'
+        answer: C
+      - uid: BIB116.13.1.1.UPE.1
+        subobj: 13.1.1
+        type: upe
+        question: John addressed Revelation to the seven churches in
+        choices:
+          A: Macedonia.
+          B: Asia.
+          C: Judea.
+          D: Galatia.
+        answer: B
+      - uid: BIB116.13.1.1.UPE.2
+        subobj: 13.1.1
+        type: upe
+        question: Revelation unveils
+        choices:
+          A: Jesus in His glory.
+          B: all the details of the future.
+          C: the mystery of godliness.
+          D: the identity of the two witnesses.
+        answer: A
+      - uid: BIB116.13.1.1.TY.1
+        subobj: 13.1.1
+        type: ty
+        question: Revelation is apocalyptic because it
+        choices:
+          A: is a letter.
+          B: deceives sinners.
+          C: unveils future events.
+          D: hides future events.
+        answer: C
+      - uid: BIB116.13.1.1.TY.2
+        subobj: 13.1.1
+        type: ty
+        question: Revelation was probably written around AD
+        choices:
+          A: '65.'
+          B: '75.'
+          C: '85.'
+          D: '95.'
+        answer: D
+      - uid: BIB116.13.1.1.TY.3
+        subobj: 13.1.1
+        type: ty
+        question: What is the primary theme of Revelation?
+        choices:
+          A: Only overcomers will inherit the Kingdom.
+          B: God will judge people according to their deeds.
+          C: Believers should watch for the Antichrist.
+          D: Jesus will return to triumph over all evil.
+        answer: D
+      - uid: BIB116.13.2.1.UPE.1
+        subobj: 13.2.1
+        type: upe
+        question: The futurist view teaches that Revelation 4–22
+        choices:
+          A: will be fulfilled in the future.
+          B: is fulfilled through church history.
+          C: is about spiritual ideas, not real people.
+          D: was fulfilled in the first century.
+        answer: A
+      - uid: BIB116.13.2.1.TY.1
+        subobj: 13.2.1
+        type: ty
+        question: The main problem with the idealist view of Revelation is its
+        choices:
+          A: nature of subjectivity.
+          B: contradiction to other Scripture.
+          C: emphasis on the past.
+          D: emphasis on the future.
+        answer: B
+      - uid: BIB116.13.2.1.TY.2
+        subobj: 13.2.1
+        type: ty
+        question: Which view of Revelation does this course emphasize?
+        choices:
+          A: Preterist
+          B: Historist
+          C: Idealist
+          D: Futurist
+        answer: D
+      - uid: BIB116.13.2.2.UPE.1
+        subobj: 13.2.2
+        type: upe
+        question: In Revelation 1:19, the phrase what you have seen refers to
+        choices:
+          A: all that John had seen during his ministry.
+          B: the entire collective vision of Revelation.
+          C: John’s vision of Christ.
+          D: Christ’s life and ministry.
+        answer: C
+      - uid: BIB116.13.2.2.TY.1
+        subobj: 13.2.2
+        type: ty
+        question: That which “is now” is described in Revelation
+        choices:
+          A: 2–3.
+          B: 4–5.
+          C: 6–8.
+          D: 8–22.
+        answer: A
+      - uid: BIB116.13.2.3.UPE.1
+        subobj: 13.2.3
+        type: upe
+        question: In Revelation, Jesus is NOT described as
+        choices:
+          A: a lion.
+          B: a lamb.
+          C: an eagle.
+          D: a shepherd.
+        answer: C
+      - uid: BIB116.13.2.3.TY.1
+        subobj: 13.2.3
+        type: ty
+        question: In Revelation 19, what name is written on Jesus’ thigh?
+        choices:
+          A: King of kings and Lord of lords
+          B: Faithful and True
+          C: Lion of Judah
+          D: The Lamb of God
+        answer: A
+      - uid: BIB116.13.3.1.UPE.1
+        subobj: 13.3.1
+        type: upe
+        question: John used symbols in Revelation to
+        choices:
+          A: add emotion to the truth.
+          B: keep his readers’ attention.
+          C: pass the time on the Island of Patmos.
+          D: engage in a popular writing style.
+        answer: A
+      - uid: BIB116.13.3.1.TY.1
+        subobj: 13.3.1
+        type: ty
+        question: John wrote Revelation in symbols to
+        choices:
+          A: hide the revelation from some believers.
+          B: add emotion to the truth he was teaching.
+          C: make the truth plain for all to understand.
+          D: represent ideas, not real people and events.
+        answer: B
+      - uid: BIB116.13.3.1.TY.2
+        subobj: 13.3.1
+        type: ty
+        question: Who functions as part of the unholy triad?
+        choices:
+          A: The harlot
+          B: The four creatures
+          C: The false prophet
+          D: Fallen angels
+        answer: C
+      - uid: BIB116.13.3.2.UPE.1
+        subobj: 13.3.2
+        type: upe
+        question: Revelation contrasts the lost who never find rest with
+        choices:
+          A: angels.
+          B: the Prince of Peace.
+          C: believers.
+          D: elders.
+        answer: C
+      - uid: BIB116.13.3.2.TY.1
+        subobj: 13.3.2
+        type: ty
+        question: One great contrast in Revelation is between the
+        choices:
+          A: harlot and the bride of Christ.
+          B: dragon and the angel Gabriel.
+          C: cities of Babylon and Nineveh.
+          D: second and third resurrections.
+        answer: A
     chapters:
     - last_modified: '2026-05-28'
       title: 1 - An Overview of the New Testament

@@ -1756,6 +1756,2049 @@ courses:
       '3.0':
         timestamp: '2026-04-01'
         PN: 03.21.01
+      '1.0':
+        timestamp: '2007-01-01'
+        precision: year
+        source: colophon
+      '2.0':
+        timestamp: '2010-01-01'
+        precision: year
+        source: colophon
+    printings:
+    - pn: 03.22.01
+      course_code: THE311
+      source_html: BTHE311ENE03-90_03.22.01.html
+      template: old
+      recorded: '2026-08-26'
+      note: 'Pristine print baseline built by scripts/build_html_baseline.py purely
+        from the InDesign HTML -- no DB input. Read-only: never hand-edit and never
+        feed to the janitor. UIDs are synthesized from the book''s own answer key;
+        diff pairs by content.'
+      counts:
+        ty: 120
+        upe: 75
+        final: 0
+      questions:
+      - uid: THE311.1.1.1.UPE.1
+        subobj: 1.1.1
+        type: upe
+        question: God gives us an invitation to a life of communion with Him because
+        choices:
+          A: it is our right as human beings.
+          B: we matter to Him.
+          C: He needs our reassurance.
+          D: we must be forced to pray to Him.
+        answer: B
+      - uid: THE311.1.1.1.TY.1
+        subobj: 1.1.1
+        type: ty
+        question: According to the independent-study textbook (IST), prayer is the
+          primary vehicle for us to
+        choices:
+          A: give a list of our needs and wants to God.
+          B: share our complaints and disappointments with God.
+          C: express our love and grow in our relationship with God.
+          D: recognize our preoccupation with everyday responsibilities.
+        answer: C
+      - uid: THE311.1.1.1.TY.2
+        subobj: 1.1.1
+        type: ty
+        question: By inviting us to “be still” in Psalm 46:10, God is asking us to
+        choices:
+          A: remain silent until we hear God’s voice.
+          B: compare our busy lives to the tranquility of God.
+          C: take a vacation from the stress of life and get to know Him.
+          D: refrain from physical movement of any kind until we know God.
+        answer: C
+      - uid: THE311.1.1.2.UPE.1
+        subobj: 1.1.2
+        type: upe
+        question: According to the independent-study textbook (IST), all human beings
+          have a void in their lives that
+        choices:
+          A: causes them to sin.
+          B: makes them depressed.
+          C: can only be filled by God.
+          D: hinders their relationship with God.
+        answer: C
+      - uid: THE311.1.1.2.TY.1
+        subobj: 1.1.2
+        type: ty
+        question: The phrase a God-shaped vacuum refers to
+        choices:
+          A: the void found in people’s lives that only God can fill.
+          B: a need for more godly behavior among believers.
+          C: an absence of spiritual hunger in people’s lives.
+          D: the absence of God in contemporary culture.
+        answer: A
+      - uid: THE311.1.1.3.UPE.1
+        subobj: 1.1.3
+        type: upe
+        question: The Hebrew word yada refers to
+        choices:
+          A: transformation.
+          B: the privilege of prayer.
+          C: incessant talking.
+          D: knowing God in an intimate way.
+        answer: D
+      - uid: THE311.1.1.3.TY.1
+        subobj: 1.1.3
+        type: ty
+        question: What does it mean for God to want to be known by us?
+        choices:
+          A: He wants us to have an intimate relationship with Him.
+          B: He wants us to learn facts and figures about Him.
+          C: He wants us to have a general idea of who He is.
+          D: He wants people to know His name is Yahweh.
+        answer: A
+      - uid: THE311.1.2.1.UPE.1
+        subobj: 1.2.1
+        type: upe
+        question: According to the IST, prayer is practical because it is a pathway
+          to God’s
+        choices:
+          A: judgment and discipline.
+          B: presence and power.
+          C: blessing and wisdom.
+          D: signs and wonders.
+        answer: B
+      - uid: THE311.1.2.1.TY.1
+        subobj: 1.2.1
+        type: ty
+        question: A benefit of prayer is
+        choices:
+          A: an increased awareness of God’s presence.
+          B: always getting the answer you want from God.
+          C: a mastery of the methods and mechanics of prayer.
+          D: the immediate and total elimination of problems in our lives.
+        answer: A
+      - uid: THE311.1.2.1.TY.2
+        subobj: 1.2.1
+        type: ty
+        question: How does prayer deepen our relationship with God?
+        choices:
+          A: It gives us a basic knowledge about God.
+          B: It helps us learn the mind and will of God.
+          C: It teaches us just how far from God’s will we are.
+          D: It removes any and all temptation, making us holy.
+        answer: B
+      - uid: THE311.1.2.1.TY.3
+        subobj: 1.2.1
+        type: ty
+        question: Prayer is essential to effective ministry because
+        choices:
+          A: prayer accomplishes some things that nothing else can do.
+          B: without prayer, ministers would have too much free time.
+          C: it is a test of our commitment and desire to serve God.
+          D: we need to be reminded of how inadequate we are.
+        answer: A
+      - uid: THE311.1.3.1.UPE.1
+        subobj: 1.3.1
+        type: upe
+        question: By cultivating our relationship with God, prayer nurtures and replenishes
+          our
+        choices:
+          A: egos.
+          B: souls.
+          C: body.
+          D: mind.
+        answer: B
+      - uid: THE311.1.3.1.TY.1
+        subobj: 1.3.1
+        type: ty
+        question: Prayer replenishes the soul by
+        choices:
+          A: showing us how to renew our own strength.
+          B: cultivating the vital connection to the living water of Jesus.
+          C: showing us when our spiritual “tank” is running low.
+          D: lifting our spirits when we are depressed.
+        answer: B
+      - uid: THE311.1.3.2.UPE.1
+        subobj: 1.3.2
+        type: upe
+        question: What is a sign of soul neglect?
+        choices:
+          A: Low-grade depression
+          B: A tender heart toward God
+          C: Urgency and purpose in prayers
+          D: Feeling bad about personal spiritual progress
+        answer: A
+      - uid: THE311.1.3.2.TY.1
+        subobj: 1.3.2
+        type: ty
+        question: According to the IST, soul neglect is failure to do what ?
+        choices:
+          A: To attend church regularly
+          B: To worship God with songs of praise
+          C: To replenish our spirit through prayer
+          D: To learn about God through Bible study
+        answer: C
+      - uid: THE311.1.3.3.UPE.1
+        subobj: 1.3.3
+        type: upe
+        question: The first step toward spiritual renewal is
+        choices:
+          A: giving up unhealthy habits.
+          B: taking a spiritual sabbatical.
+          C: assessing the condition of our souls.
+          D: giving hope to those living in darkness.
+        answer: C
+      - uid: THE311.1.3.3.TY.1
+        subobj: 1.3.3
+        type: ty
+        question: By assessing the condition of our souls, we take the first steps
+          to
+        choices:
+          A: personal enrichment.
+          B: self-actualization.
+          C: spiritual renewal.
+          D: self-preservation.
+        answer: C
+      - uid: THE311.2.1.1.UPE.1
+        subobj: 2.1.1
+        type: upe
+        question: Under the Mosaic covenant, prayer was associated with
+        choices:
+          A: intimacy.
+          B: sacrifice.
+          C: wealth.
+          D: commitment.
+        answer: B
+      - uid: THE311.2.1.1.TY.1
+        subobj: 2.1.1
+        type: ty
+        question: God’s desire for communication with humankind is first evident in
+          the book of
+        choices:
+          A: Genesis.
+          B: Exodus.
+          C: Leviticus.
+          D: Numbers.
+        answer: A
+      - uid: THE311.2.1.2.UPE.1
+        subobj: 2.1.2
+        type: upe
+        question: King David demonstrated that prayer is
+        choices:
+          A: not necessary if you are obedient.
+          B: only used to praise and glorify God.
+          C: appropriate in all of life’s circumstances.
+          D: only necessary when you face difficulties.
+        answer: C
+      - uid: THE311.2.1.2.TY.1
+        subobj: 2.1.2
+        type: ty
+        question: Moses spent the majority of his ministry to Israel
+        choices:
+          A: delivering them from Egypt.
+          B: interceding for them in prayer.
+          C: judging their many disagreements.
+          D: navigating their journey to the Promised Land.
+        answer: B
+      - uid: THE311.2.1.2.TY.2
+        subobj: 2.1.2
+        type: ty
+        question: The time of the Judges is marked by
+        choices:
+          A: constancy of prayer.
+          B: increase of prayer.
+          C: revival of prayer.
+          D: lack of prayer.
+        answer: D
+      - uid: THE311.2.1.2.TY.3
+        subobj: 2.1.2
+        type: ty
+        question: During which historical period did the temple become central to
+          the prayer life of Israel?
+        choices:
+          A: Patriarchal
+          B: Mosaic
+          C: Monarchal
+          D: Prophets
+        answer: C
+      - uid: THE311.2.1.3.UPE.1
+        subobj: 2.1.3
+        type: upe
+        question: In the Old Testament, prayer was primarily
+        choices:
+          A: focused on the individual.
+          B: relationally driven.
+          C: believer-initiated.
+          D: leader-initiated.
+        answer: D
+      - uid: THE311.2.1.3.TY.1
+        subobj: 2.1.3
+        type: ty
+        question: Prayer in the Old Testament was primarily the task of
+        choices:
+          A: the nations surrounding Israel.
+          B: Israel’s spiritual leaders.
+          C: individual Israelites.
+          D: the women of Israel.
+        answer: B
+      - uid: THE311.2.2.1.TY.1
+        subobj: 2.2.1
+        type: ty
+        question: New Testament prayer differs from that of the Old Testament by being
+        choices:
+          A: both community and individually oriented.
+          B: primarily used for intercession and worship.
+          C: conducted primarily by leaders and monarchs.
+          D: used to ask for guidance, forgiveness, and deliverance.
+        answer: A
+      - uid: THE311.2.2.2.UPE.1
+        subobj: 2.2.2
+        type: upe
+        question: Christ modeled prayer as foundational to what two areas of His life?
+        choices:
+          A: His relationship with God and His earthly ministry
+          B: His relationship with humanity and His self-control
+          C: The transfiguration and garden of Gethsemane
+          D: His struggle with and submission to God’s will
+        answer: A
+      - uid: THE311.2.2.3.TY.1
+        subobj: 2.2.3
+        type: ty
+        question: From the teaching of Jesus we learn that to be effective in prayer
+          we must have
+        choices:
+          A: no contact with sinners.
+          B: unity within the Christian community.
+          C: the ability to speak in tongues through the Holy Spirit.
+          D: no less than three people praying together in agreement.
+        answer: B
+      - uid: THE311.2.2.5.TY.1
+        subobj: 2.2.5
+        type: ty
+        question: In the early church prayer was
+        choices:
+          A: a vehicle for judgment and persecution.
+          B: an uncommon feature of the church’s lifestyle.
+          C: a hindrance to the outpouring of the Holy Spirit.
+          D: a means of confirming and commissioning leadership.
+        answer: D
+      - uid: THE311.2.2.5.TY.2
+        subobj: 2.2.5
+        type: ty
+        question: For the church today prayer is
+        choices:
+          A: not of the highest priority.
+          B: an escape from responsibility.
+          C: essential to effective ministry.
+          D: to be focused solely on the needs of others.
+        answer: C
+      - uid: THE311.2.3.1.UPE.1
+        subobj: 2.3.1
+        type: upe
+        question: The Holy Spirit assists in our prayer lives by
+        choices:
+          A: tearing us down.
+          B: making us weak.
+          C: translating our prayers.
+          D: interceding for us.
+        answer: D
+      - uid: THE311.2.3.1.TY.1
+        subobj: 2.3.1
+        type: ty
+        question: The Holy Spirit assists us in our prayer lives by
+        choices:
+          A: baptizing us.
+          B: weakening us.
+          C: abandoning us.
+          D: condemning us.
+        answer: A
+      - uid: THE311.3.1.1.UPE.1
+        subobj: 3.1.1
+        type: upe
+        question: If our prayer life is to be an appropriate response to God, we must
+          maintain a
+        choices:
+          A: right view of God.
+          B: right view of ourselves.
+          C: hesitation to seek God wholeheartedly.
+          D: proper, impersonal relationship with God.
+        answer: A
+      - uid: THE311.3.1.1.TY.1
+        subobj: 3.1.1
+        type: ty
+        question: The inclusion of a plea for daily bread in the Lord’s Prayer proves
+          that
+        choices:
+          A: our needs are unimportant to God.
+          B: God cares about every aspect of our lives.
+          C: God cares only about our physical survival.
+          D: God forces us to beg Him for even the smallest blessing.
+        answer: B
+      - uid: THE311.3.1.1.TY.2
+        subobj: 3.1.1
+        type: ty
+        question: The danger in perceiving God as a grandfather or friend is that
+          we will
+        choices:
+          A: constantly beg Him for mercy.
+          B: hold back and not share our true needs.
+          C: express our needs but not worship Him.
+          D: worship Him but not express our needs to Him.
+        answer: C
+      - uid: THE311.3.1.3.TY.1
+        subobj: 3.1.3
+        type: ty
+        question: Why is it important that Christians remember that they serve a big
+          God?
+        choices:
+          A: It causes us to rely on our own resourcefulness.
+          B: Our perception of God affects how we pray to Him.
+          C: It keeps us from asking God for every little thing we need.
+          D: Our prayers only count when we picture God as being big.
+        answer: B
+      - uid: THE311.3.1.3.TY.2
+        subobj: 3.1.3
+        type: ty
+        question: How does stepping out in faith affect our perception of God?
+        choices:
+          A: It causes us to distrust Him a little each time.
+          B: It causes us to trust in our own abilities more.
+          C: It causes us to disqualify His omnipotence.
+          D: It causes us to appreciate His greatness.
+        answer: D
+      - uid: THE311.3.2.1.TY.1
+        subobj: 3.2.1
+        type: ty
+        question: Christians come to expect so little from God because
+        choices:
+          A: the church has become self-sufficient with little need for God.
+          B: they allow religious activities to dull their appetites for God.
+          C: God has not proven that He can do more for them.
+          D: they trust in God more than they need to.
+        answer: B
+      - uid: THE311.3.2.2.UPE.1
+        subobj: 3.2.2
+        type: upe
+        question: A danger of filling our lives with too much religious activity is
+          that it can
+        choices:
+          A: lull us into a true sense of spirituality.
+          B: bring us genuine satisfaction.
+          C: dull our appetite for God.
+          D: bring us too close to God.
+        answer: C
+      - uid: THE311.3.2.2.TY.1
+        subobj: 3.2.2
+        type: ty
+        question: We can develop mountain-moving faith by
+        choices:
+          A: placing ourselves in dangerous situations so God can save us.
+          B: trying to overcome obstacles without God’s help.
+          C: stepping out in commitment and obedience.
+          D: focusing on the obstacles in our lives.
+        answer: C
+      - uid: THE311.3.2.3.UPE.1
+        subobj: 3.2.3
+        type: upe
+        question: In Revelation 8, the apostle John described a scene in which heaven
+          was silent or interrupted by the
+        choices:
+          A: judgment of God.
+          B: presence of God.
+          C: prayers of men.
+          D: sins of men.
+        answer: C
+      - uid: THE311.3.2.3.TY.1
+        subobj: 3.2.3
+        type: ty
+        question: How are we God’s prayer partners?
+        choices:
+          A: God listens to our prayers but does not act on them.
+          B: God listens to and responds to our prayers.
+          C: Through prayer, we tell God what to do.
+          D: Our prayers give God the power to act.
+        answer: B
+      - uid: THE311.3.2.4.UPE.1
+        subobj: 3.2.4
+        type: upe
+        question: As we expect great things from God, we should
+        choices:
+          A: attempt great things for God.
+          B: forget our limitations and sins.
+          C: avoid getting involved in God’s plan.
+          D: develop more faith through religious activity.
+        answer: A
+      - uid: THE311.3.2.4.TY.1
+        subobj: 3.2.4
+        type: ty
+        question: The significance of prayer is not what we are asking, but
+        choices:
+          A: how we are asking.
+          B: when we are praying.
+          C: how often we are asking.
+          D: whom we are addressing.
+        answer: D
+      - uid: THE311.3.3.2.UPE.1
+        subobj: 3.3.2
+        type: upe
+        question: The purpose of conviction is to
+        choices:
+          A: make us feel guilt and shame.
+          B: address the symptoms of sin.
+          C: condemn us for our sin.
+          D: deliver us from sin.
+        answer: D
+      - uid: THE311.3.3.2.TY.1
+        subobj: 3.3.2
+        type: ty
+        question: The term petition refers to
+        choices:
+          A: bringing our requests before God.
+          B: praising God for His greatness.
+          C: sharing our feelings with God.
+          D: confessing our sins to God.
+        answer: A
+      - uid: THE311.3.3.2.TY.2
+        subobj: 3.3.2
+        type: ty
+        question: In the Lord’s Prayer the words “Your kingdom come, your will be
+          done” (Matthew 6:10) represent which expression of prayer?
+        choices:
+          A: Praise and adoration
+          B: Intercessory prayer
+          C: Prayer of confession
+          D: Spiritual warfare
+        answer: B
+      - uid: THE311.4.1.1.UPE.1
+        subobj: 4.1.1
+        type: upe
+        question: According to the IST, knowing that God talks to His people should
+          cause us to feel
+        choices:
+          A: honored and humble.
+          B: insignificant and small.
+          C: confused and condemned.
+          D: shameful and embarrassed.
+        answer: A
+      - uid: THE311.4.1.1.TY.1
+        subobj: 4.1.1
+        type: ty
+        question: God listens to our prayers
+        choices:
+          A: only when we live holy lives.
+          B: because He has little else to do.
+          C: because He longs for intimate relationship with us.
+          D: only on Sundays at church.
+        answer: C
+      - uid: THE311.4.1.2.UPE.1
+        subobj: 4.1.2
+        type: upe
+        question: Which stage of prayer involves a daily, ongoing conversation with
+          God?
+        choices:
+          A: Monologue
+          B: Dialogue
+          C: Introspection
+          D: Unceasing prayer
+        answer: D
+      - uid: THE311.4.1.2.TY.1
+        subobj: 4.1.2
+        type: ty
+        question: What does it mean to pray without ceasing?
+        choices:
+          A: To have a conversation with God for a predetermined amount of time
+          B: To have an ongoing dialogue with God throughout the day
+          C: To inform God of our needs at different times of the day
+          D: To forsake all other activities in favor of prayer
+        answer: B
+      - uid: THE311.4.2.1.UPE.1
+        subobj: 4.2.1
+        type: upe
+        question: Some Christians disbelieve that God still speaks because they
+        choices:
+          A: have sin in their lives.
+          B: have not experienced miracles.
+          C: feel it might be seen as a substitute for the Bible.
+          D: refuse to rid their lives of logic and well-reasoned choices.
+        answer: C
+      - uid: THE311.4.2.1.TY.1
+        subobj: 4.2.1
+        type: ty
+        question: What did Jesus say about how His people hear His voice?
+        choices:
+          A: He used the analogy of the sheep/shepherd relationship; sheep always
+            recognize thier shepherd’s voice.
+          B: He said He would speak to us like Moses spoke to Aaron.
+          C: He said He would only speak to us after we had fasted for a season.
+          D: He used the analogy of the fox, an animal that is cunningly shrewd.
+        answer: A
+      - uid: THE311.4.2.2.UPE.1
+        subobj: 4.2.2
+        type: upe
+        question: To hear God’s voice, a Christian must first
+        choices:
+          A: accept that he or she will never change.
+          B: realize the importance of seeking God’s voice.
+          C: understand that he or she probably will not hear from God.
+          D: commit to living a completely sinless life.
+        answer: B
+      - uid: THE311.4.2.2.TY.1
+        subobj: 4.2.2
+        type: ty
+        question: One prerequisite for hearing God’s voice is
+        choices:
+          A: having hope for the future of the church.
+          B: removing all sin and temptation from our lives.
+          C: being committed to obeying what He tells us to do.
+          D: realizing that it is up to us to persuade Him to speak to us.
+        answer: C
+      - uid: THE311.4.2.2.TY.2
+        subobj: 4.2.2
+        type: ty
+        question: How can a person best recognize God’s voice?
+        choices:
+          A: By talking incessantly
+          B: Through singing and shouting praise
+          C: Through selecting which commandments to obey
+          D: By spending time in His presence listening
+        answer: D
+      - uid: THE311.4.2.3.UPE.1
+        subobj: 4.2.3
+        type: upe
+        question: The primary means by which God speaks to His people is through
+        choices:
+          A: miracles.
+          B: prophecy.
+          C: visions.
+          D: the Bible.
+        answer: D
+      - uid: THE311.4.2.3.UPE.2
+        subobj: 4.2.3
+        type: upe
+        question: We can learn to recognize God’s voice by
+        choices:
+          A: meditating on our spiritual accomplishments and doing good works.
+          B: becoming aware of our strengths and spiritual shortcomings.
+          C: remaining humble and living a life of peace and tranquility.
+          D: studying God’s Word and spending time in His presence.
+        answer: D
+      - uid: THE311.4.2.3.TY.1
+        subobj: 4.2.3
+        type: ty
+        question: How does God speak to us through natural means?
+        choices:
+          A: Through creation and people
+          B: Through divine revelation
+          C: With dreams and visions
+          D: With signs and wonders
+        answer: A
+      - uid: THE311.4.2.3.TY.2
+        subobj: 4.2.3
+        type: ty
+        question: Visions differ from dreams in that visions occur
+        choices:
+          A: more frequently.
+          B: when we are awake.
+          C: in the presence of witnesses.
+          D: with great fanfare and spectacle.
+        answer: B
+      - uid: THE311.4.2.4.UPE.1
+        subobj: 4.2.4
+        type: upe
+        question: Supernatural guidance must
+        choices:
+          A: be revealed to us in a dream or vision.
+          B: not require us to seek God.
+          C: line up with God’s Word.
+          D: supplement God’s Word.
+        answer: C
+      - uid: THE311.4.2.4.TY.1
+        subobj: 4.2.4
+        type: ty
+        question: If we believe that something we deeply desire cannot be against
+          God’s will, then we
+        choices:
+          A: have a valid, scriptural basis to follow what we desire.
+          B: must act on that desire quickly.
+          C: are in error because that belief does not reflect God’s character.
+          D: must recognize our sin and confess it to a trusted, spiritual leader.
+        answer: C
+      - uid: THE311.4.2.5.UPE.1
+        subobj: 4.2.5
+        type: upe
+        question: We can know that God is speaking to us if
+        choices:
+          A: the message does not require us to do anything.
+          B: the message brings condemnation to others.
+          C: godly counsel confirms the message.
+          D: the message does not bring us peace.
+        answer: C
+      - uid: THE311.4.2.5.TY.1
+        subobj: 4.2.5
+        type: ty
+        question: We can know God is speaking to us if what is being said
+        choices:
+          A: honors and brings us glory.
+          B: is confirmed by godly counsel.
+          C: is consistent with our own desires.
+          D: gives us an uneasy feeling.
+        answer: B
+      - uid: THE311.4.2.5.TY.2
+        subobj: 4.2.5
+        type: ty
+        question: What is the litmus test for any revelation we sense we are receiving?
+        choices:
+          A: The Bible
+          B: Our pastor’s confirmation
+          C: Our emotional state
+          D: Our past experiences
+        answer: A
+      - uid: THE311.5.1.1.UPE.1
+        subobj: 5.1.1
+        type: upe
+        question: The term spiritual disciplines refers to
+        choices:
+          A: anything that hinders our walk with God.
+          B: physical exercises meant to strengthen the mind.
+          C: the punishment God uses to correct us spiritually.
+          D: anything we do for the purpose of promoting spiritual growth.
+        answer: D
+      - uid: THE311.5.1.1.TY.1
+        subobj: 5.1.1
+        type: ty
+        question: The term means of grace refers to the
+        choices:
+          A: means through which we show grace to others.
+          B: practices used to earn God’s grace for our sins.
+          C: avenues by which we avail ourselves to the grace of God.
+          D: disciplines required before God will offer His grace to us.
+        answer: C
+      - uid: THE311.5.1.2.UPE.1
+        subobj: 5.1.2
+        type: upe
+        question: According to the IST, spiritual growth is not a matter of trying
+          but a matter of
+        choices:
+          A: training.
+          B: taking.
+          C: talking.
+          D: timing.
+        answer: A
+      - uid: THE311.5.1.2.TY.1
+        subobj: 5.1.2
+        type: ty
+        question: It is important for Christians to train rather than try to be like
+          Jesus because
+        choices:
+          A: training is required for any significant challenge in life.
+          B: God wants us to suffer as Christ did so we will understand Him.
+          C: trying is too difficult, requiring too much effort from the believer.
+          D: focusing on training eliminates temptation from our lives.
+        answer: A
+      - uid: THE311.5.1.3.UPE.1
+        subobj: 5.1.3
+        type: upe
+        question: Which of the following is an example of improper motivation for
+          practicing spiritual disciplines?
+        choices:
+          A: Doing it out of love for God
+          B: Doing it out of guilt and obligation
+          C: Doing it out of a desire to serve God
+          D: Doing it out of a desire for spiritual transformation
+        answer: B
+      - uid: THE311.5.1.3.TY.1
+        subobj: 5.1.3
+        type: ty
+        question: Christians run the risk of reducing the spiritual disciplines to
+          duties or rituals performed out of obligation when they practice them out
+          of
+        choices:
+          A: love.
+          B: guilt.
+          C: faith.
+          D: kindness.
+        answer: B
+      - uid: THE311.5.1.3.TY.2
+        subobj: 5.1.3
+        type: ty
+        question: God wants us to be motivated to engage in the spiritual disciplines
+          by a sincere desire to
+        choices:
+          A: become more godly than other believers.
+          B: earn our way into an eternity with Christ.
+          C: achieve a distinguished level of spirituality.
+          D: grow in our intimate relationship with Him.
+        answer: D
+      - uid: THE311.5.1.4.UPE.1
+        subobj: 5.1.4
+        type: upe
+        question: The spiritual disciplines
+        choices:
+          A: will always seem exciting and give us a mountain top experience.
+          B: do not require time or effort on our part to develop growth.
+          C: are a means to godliness, but not an end in themselves.
+          D: can ensure instant transformation to perfect godliness.
+        answer: C
+      - uid: THE311.5.1.4.TY.1
+        subobj: 5.1.4
+        type: ty
+        question: To be effective the spiritual disciplines require
+        choices:
+          A: emotionalism and strength.
+          B: patience and commitment.
+          C: little work and little diligence.
+          D: talent and creativity.
+        answer: B
+      - uid: THE311.5.1.5.TY.1
+        subobj: 5.1.5
+        type: ty
+        question: The spiritual disciplines are a path to
+        choices:
+          A: becoming more Christ-like.
+          B: a life of drudgery and struggle.
+          C: complete oneness with God.
+          D: the ability to sin without consequence.
+        answer: A
+      - uid: THE311.5.2.1.UPE.1
+        subobj: 5.2.1
+        type: upe
+        question: From a biblical perspective prayer should be regarded as a
+        choices:
+          A: privilege.
+          B: shopping list.
+          C: duty.
+          D: ritual.
+        answer: A
+      - uid: THE311.5.2.1.TY.1
+        subobj: 5.2.1
+        type: ty
+        question: The discipline of prayer requires that people practice personal
+          communion and dialogue with God
+        choices:
+          A: rarely.
+          B: never.
+          C: regularly.
+          D: occasionally.
+        answer: C
+      - uid: THE311.5.2.2.UPE.1
+        subobj: 5.2.2
+        type: upe
+        question: Prayer is learned through
+        choices:
+          A: reading about prayer instead of praying.
+          B: repeating learned prayer phrases.
+          C: praying in a foreign language.
+          D: the help of the Holy Spirit.
+        answer: D
+      - uid: THE311.5.2.2.TY.1
+        subobj: 5.2.2
+        type: ty
+        question: Prayer is learned by
+        choices:
+          A: praying with others.
+          B: repeating learned prayer phrases.
+          C: praying only when you have need.
+          D: reading about prayer instead of praying.
+        answer: A
+      - uid: THE311.5.2.2.TY.2
+        subobj: 5.2.2
+        type: ty
+        question: Who did Jesus promise would teach us all things?
+        choices:
+          A: Parents
+          B: Teachers
+          C: Preachers
+          D: The Holy Spirit
+        answer: D
+      - uid: THE311.5.2.3.UPE.1
+        subobj: 5.2.3
+        type: upe
+        question: One practical way a person can enhance his or her practice of prayer
+          is to
+        choices:
+          A: pray only on Sundays.
+          B: maintain a solid routine of prayer without variety.
+          C: select a place that will be conducive to prayer.
+          D: keep Bible reading and prayer time separate.
+        answer: C
+      - uid: THE311.5.2.3.TY.1
+        subobj: 5.2.3
+        type: ty
+        question: To keep our prayer lives from becoming routine, we should
+        choices:
+          A: ask God to make prayer more exciting.
+          B: incorporate new venues for daily prayer.
+          C: take a break from praying for a few days.
+          D: complain to a friend about having to pray.
+        answer: B
+      - uid: THE311.6.1.1.TY.1
+        subobj: 6.1.1
+        type: ty
+        question: According to the IST, having good habits helps us function because
+          they
+        choices:
+          A: justify behaviors.
+          B: simplify decisions.
+          C: eliminate problems.
+          D: complicate decisions.
+        answer: B
+      - uid: THE311.6.1.2.UPE.1
+        subobj: 6.1.2
+        type: upe
+        question: It is important for Christians to cultivate good prayer habits because
+        choices:
+          A: good habits test our faith and teach us patience.
+          B: bad habits can keep us from achieving sainthood.
+          C: good habits free us to focus on our interaction with God.
+          D: good habits help us develop positive change without God’s help.
+        answer: C
+      - uid: THE311.6.1.2.TY.1
+        subobj: 6.1.2
+        type: ty
+        question: Habits have been likened to laying railroad tracks because once
+          we lay down those tracks we
+        choices:
+          A: become limited in what we can do.
+          B: do not have to maintain them regularly.
+          C: can run on them smoothly with less stress.
+          D: cannot change them no matter how hard we try.
+        answer: C
+      - uid: THE311.6.1.3.UPE.1
+        subobj: 6.1.3
+        type: upe
+        question: One way a person can cultivate good prayer habits is to
+        choices:
+          A: concentrate on more than one habit at a time.
+          B: expect change to happen without effort.
+          C: practice the habit in his or her free time.
+          D: recognize the need for change.
+        answer: D
+      - uid: THE311.6.1.3.TY.1
+        subobj: 6.1.3
+        type: ty
+        question: We can cultivate good prayer habits by
+        choices:
+          A: ignoring our need for spiritual growth.
+          B: putting our good intentions into action.
+          C: expecting change to happen right away.
+          D: trying to establish several new habits at once.
+        answer: B
+      - uid: THE311.6.2.1.TY.1
+        subobj: 6.2.1
+        type: ty
+        question: According to James 5:16, the prayer of the righteous person is
+        choices:
+          A: powerful and effective.
+          B: inadequate and weak.
+          C: bold and confident.
+          D: flawed but sincere.
+        answer: A
+      - uid: THE311.6.2.1.TY.2
+        subobj: 6.2.1
+        type: ty
+        question: Jesus’ story that compared the prayers of a Pharisee and a tax collector
+          illustrates God’s responsiveness to
+        choices:
+          A: spirituality.
+          B: confidence.
+          C: humility.
+          D: loyalty.
+        answer: C
+      - uid: THE311.6.2.2.UPE.1
+        subobj: 6.2.2
+        type: upe
+        question: What are two prerequisites within our relational lives that are
+          necessary for effectiveness in prayer?
+        choices:
+          A: Having no personal relationships and practicing corporate reconciliation
+          B: Maintaining healthy personal relationships and corporate unity
+          C: Struggling with unhealthy relationships and family disunity
+          D: Having only Christian relationships and avoiding conflict
+        answer: B
+      - uid: THE311.6.2.2.TY.1
+        subobj: 6.2.2
+        type: ty
+        question: What does corporate unity have to do with prayer?
+        choices:
+          A: Unity invites the presence of God and His spiritual power.
+          B: Unity allows Christians to share the responsibility for sin.
+          C: Unity instructs us on what we are supposed to pray.
+          D: Unity does not affect the effectiveness of our prayers.
+        answer: A
+      - uid: THE311.6.2.3.UPE.1
+        subobj: 6.2.3
+        type: upe
+        question: Persistence, or perseverance, in prayer can be defined as
+        choices:
+          A: annoying God until He gives in or changes His will to match our own.
+          B: demanding what we want by asking repeatedly with bold confidence.
+          C: overcoming God’s reluctance to give us the answer we want.
+          D: willingness to pray in faith until the answer comes.
+        answer: D
+      - uid: THE311.6.2.3.TY.1
+        subobj: 6.2.3
+        type: ty
+        question: Perseverance in prayer leads to a
+        choices:
+          A: shallow faith that does not trust in God’s power.
+          B: better understanding of God’s ways in the world.
+          C: focus on prayer rather than on God and His will for us.
+          D: habit of repetitious prayers like the ones Jesus warned against.
+        answer: B
+      - uid: THE311.6.2.4.UPE.1
+        subobj: 6.2.4
+        type: upe
+        question: Persistent prayer
+        choices:
+          A: leads to decreased dependence on God.
+          B: brings feelings of entitlement.
+          C: causes faith to grow.
+          D: leads only to frustration.
+        answer: C
+      - uid: THE311.6.2.4.TY.1
+        subobj: 6.2.4
+        type: ty
+        question: One of the seven benefits that persistence in prayer brings to Christians
+          is
+        choices:
+          A: gratitude.
+          B: frustration.
+          C: self-reliance.
+          D: stubbornness.
+        answer: A
+      - uid: THE311.6.2.5.UPE.1
+        subobj: 6.2.5
+        type: upe
+        question: Maintaining eternal perspective in prayer causes us to
+        choices:
+          A: ignore the sufferings of others.
+          B: see life from God’s point of view.
+          C: see life as temporal rather than eternal.
+          D: become overwhelmed with our problems.
+        answer: B
+      - uid: THE311.6.2.5.TY.1
+        subobj: 6.2.5
+        type: ty
+        question: What is spiritual myopia?
+        choices:
+          A: farsightedness that focuses on the eternal rather than the temporal
+          B: nearsightedness that focuses on the temporal rather than the eternal
+          C: selfishness that focuses on personal needs rather than the needs of others
+          D: selflessness that focuses on the needs of others rather than the personal
+            needs
+        answer: B
+      - uid: THE311.6.2.6.UPE.1
+        subobj: 6.2.6
+        type: upe
+        question: One way to ensure that we pray according to God’s will is to
+        choices:
+          A: ask for what we want in Jesus’ name.
+          B: pray in the presence of other believers.
+          C: allow our prayers to be led by the Spirit.
+          D: try to change the will of God to match our own.
+        answer: C
+      - uid: THE311.6.2.6.TY.1
+        subobj: 6.2.6
+        type: ty
+        question: To be effective in prayer, we must pray according to the
+        choices:
+          A: will of humanity.
+          B: desires of self.
+          C: will of God.
+          D: time of day.
+        answer: C
+      - uid: THE311.6.2.7.UPE.1
+        subobj: 6.2.7
+        type: upe
+        question: What is a representation of a dry season of the soul?
+        choices:
+          A: A period of time when prayer brings anticipation and blessing
+          B: A period of time when prayer seems tedious and pointless
+          C: A never-ending period of fruitless prayer and frustration
+          D: Experiencing God’s presence in an intimate way
+        answer: B
+      - uid: THE311.7.1.1.UPE.1
+        subobj: 7.1.1
+        type: upe
+        question: Most, if not all, obstacles to prayer are
+        choices:
+          A: brought on by our own doing.
+          B: caused by time mismanagement.
+          C: beyond our control.
+          D: caused by our relationships with others.
+        answer: A
+      - uid: THE311.7.1.1.TY.1
+        subobj: 7.1.1
+        type: ty
+        question: We become bored and restless in prayer because
+        choices:
+          A: prayer is not intended to be pleasant.
+          B: we do not invest the time and energy required for meaningful prayer.
+          C: of our sinful lifestyles.
+          D: there is no point in praying.
+        answer: B
+      - uid: THE311.7.1.2.TY.1
+        subobj: 7.1.2
+        type: ty
+        question: What is the impact of busyness on prayer?
+        choices:
+          A: It pushes prayer down on our list of priorities.
+          B: It discounts prayer by being more effective.
+          C: It places prayer at the top of our list of priorities.
+          D: It develops quality in prayer rather than quantity.
+        answer: A
+      - uid: THE311.7.1.3.UPE.1
+        subobj: 7.1.3
+        type: upe
+        question: One thing Christians can do to go from doing to being is to
+        choices:
+          A: remember that God loves them for what they do, not who they are.
+          B: develop a practice of wasting time to show how unimportant it is.
+          C: recognize that prayer is the most important thing they can do.
+          D: focus on getting tasks done quickly to make time for prayer.
+        answer: C
+      - uid: THE311.7.1.3.TY.1
+        subobj: 7.1.3
+        type: ty
+        question: To reduce the drive that compels us to be too busy to pray, we can
+        choices:
+          A: schedule times to pray while accomplishing tasks.
+          B: focus on doing rather than being when it comes to God.
+          C: develop a more organized system of doing things.
+          D: reduce our need to get things done right away.
+        answer: D
+      - uid: THE311.7.1.4.UPE.1
+        subobj: 7.1.4
+        type: upe
+        question: What makes up the internal noise that can distract us from prayer?
+        choices:
+          A: The thoughts and worries of others
+          B: Our own thoughts and worries
+          C: Spiritual peace and tranquility
+          D: Intercessory needs of others
+        answer: B
+      - uid: THE311.7.1.4.TY.1
+        subobj: 7.1.4
+        type: ty
+        question: According to the IST, what are the two categories of distractions
+          that cause us to lose focus in prayer?
+        choices:
+          A: Public and private sorrow
+          B: External and internal noise
+          C: Personal and social obligations
+          D: Physical and emotional desires
+        answer: B
+      - uid: THE311.7.1.5.UPE.1
+        subobj: 7.1.5
+        type: upe
+        question: One way to reduce the distractions that hinder effective prayer
+          is to
+        choices:
+          A: incorporate the distractions into the prayer.
+          B: simply trust God to reduce the distractions for you.
+          C: avoid prayer until all distractions can be eliminated.
+          D: act as though the distractions do not bother or hinder you.
+        answer: A
+      - uid: THE311.7.1.5.TY.1
+        subobj: 7.1.5
+        type: ty
+        question: Why is it important for us to spend quiet moments in prayer?
+        choices:
+          A: It helps us focus on our own needs.
+          B: The definition of prayer is silence .
+          C: It allows us to hear God’s voice better.
+          D: God greatly enjoys silence.
+        answer: C
+      - uid: THE311.7.1.6.UPE.1
+        subobj: 7.1.6
+        type: upe
+        question: What characteristic of the Laodicean church does today’s Western
+          church exhibit that affects prayer?
+        choices:
+          A: Lack of wisdom and knowledge
+          B: Complete and total trust in God
+          C: False sense of self-sufficiency
+          D: False sense of entitlement
+        answer: C
+      - uid: THE311.7.1.6.TY.1
+        subobj: 7.1.6
+        type: ty
+        question: What is the secret to victorious praying?
+        choices:
+          A: Pray only when you know your prayers will be answered.
+          B: Pray that God will change His will to match yours.
+          C: Pray only when you have no other alternative.
+          D: Pray even in the face of unanswered prayers.
+        answer: D
+      - uid: THE311.7.2.1.TY.1
+        subobj: 7.2.1
+        type: ty
+        question: A true statement about faith is that
+        choices:
+          A: faith cannot be learned or developed.
+          B: some people are just not born with faith.
+          C: faith is a myth.
+          D: faith can be exercised and developed.
+        answer: D
+      - uid: THE311.7.2.1.TY.2
+        subobj: 7.2.1
+        type: ty
+        question: Since Christians are meant to live in a community of love, some
+          prayers will not be answered until
+        choices:
+          A: we are married with families.
+          B: we make peace with ourselves.
+          C: poor relationships are restored.
+          D: poor relationships are removed.
+        answer: C
+      - uid: THE311.7.2.1.TY.3
+        subobj: 7.2.1
+        type: ty
+        question: Prayers are inappropriate when they are
+        choices:
+          A: selfless.
+          B: self-serving.
+          C: in God’s will.
+          D: intercessory.
+        answer: B
+      - uid: THE311.7.3.1.TY.1
+        subobj: 7.3.1
+        type: ty
+        question: By not answering our prayers in the manner we request, God is
+        choices:
+          A: teaching us not to ask Him for things.
+          B: proving that He is in control.
+          C: protecting us from ourselves.
+          D: being cruel and hurtful.
+        answer: C
+      - uid: THE311.8.1.1.UPE.1
+        subobj: 8.1.1
+        type: upe
+        question: According to the IST, the key to having an effective ministry is
+        choices:
+          A: talent.
+          B: prayer.
+          C: finances.
+          D: programs.
+        answer: B
+      - uid: THE311.8.1.1.TY.1
+        subobj: 8.1.1
+        type: ty
+        question: Effectiveness in spiritual ministry is mostly dependent on
+        choices:
+          A: authority.
+          B: ambition.
+          C: eloquence.
+          D: prayer.
+        answer: D
+      - uid: THE311.8.1.2.UPE.1
+        subobj: 8.1.2
+        type: upe
+        question: Spiritual leadership is different from natural leadership in that
+        choices:
+          A: spiritual leadership relies on self to achieve selfish ends.
+          B: spiritual leadership is motivated by self to gain authority.
+          C: spiritual leadership relies on the Spirit to achieve spiritual ends.
+          D: spiritual leadership relies on natural talents to achieve spiritual ends.
+        answer: C
+      - uid: THE311.8.1.2.TY.1
+        subobj: 8.1.2
+        type: ty
+        question: While a natural leader relies on his or her natural abilities, the
+          spiritual leader relies on the
+        choices:
+          A: spiritual gifts.
+          B: gifts of others.
+          C: resources of the church.
+          D: foolish things of the world.
+        answer: A
+      - uid: THE311.8.1.3.TY.1
+        subobj: 8.1.3
+        type: ty
+        question: The leaders of the early church were not distracted by the busyness
+          of ministry because they
+        choices:
+          A: healed many who were sick.
+          B: preached wherever they went.
+          C: devoted themselves to prayer and the Word.
+          D: devoted themselves to ministering to the poor.
+        answer: C
+      - uid: THE311.8.2.1.TY.1
+        subobj: 8.2.1
+        type: ty
+        question: Prayer reminds us that
+        choices:
+          A: we are the ultimate leaders in ministry.
+          B: we are not the ultimate leaders; Jesus is.
+          C: ministry is all about authority and power.
+          D: day-to-day tasks are core to effective ministry.
+        answer: B
+      - uid: THE311.8.2.1.TY.2
+        subobj: 8.2.1
+        type: ty
+        question: Leaders who pray are personally enriched by
+        choices:
+          A: living extraordinarily long lives.
+          B: being refreshed in times of discouragement.
+          C: having all their personal prayers answered.
+          D: having their weaknesses revealed to other believers.
+        answer: B
+      - uid: THE311.8.2.2.UPE.1
+        subobj: 8.2.2
+        type: upe
+        question: The praying spiritual leader helps the church by
+        choices:
+          A: talking to God so the members of the church do not have to.
+          B: convicting people of sin and causing them to turn to God.
+          C: manipulating people into doing what needs to be done.
+          D: facilitating an environment for God to work in people’s lives.
+        answer: D
+      - uid: THE311.8.2.2.TY.1
+        subobj: 8.2.2
+        type: ty
+        question: Leaders who pray enrich the church corporately by
+        choices:
+          A: leading believers in God’s will.
+          B: manipulating the hearts of the people.
+          C: avoiding spiritual opposition to the church.
+          D: ridding the church of those who might bring opposition.
+        answer: A
+      - uid: THE311.8.3.1.TY.1
+        subobj: 8.3.1
+        type: ty
+        question: According to the IST, what percentage of leaders are satisfied with
+          their prayer lives?
+        choices:
+          A: 7 percent
+          B: 16 percent
+          C: 23 percent
+          D: 31 percent
+        answer: B
+      - uid: THE311.8.3.2.UPE.1
+        subobj: 8.3.2
+        type: upe
+        question: An effective spiritual leader takes a
+        choices:
+          A: segmented approach to spirituality.
+          B: negligent approach to spirituality.
+          C: holistic approach to spirituality.
+          D: casual approach to spirituality.
+        answer: C
+      - uid: THE311.8.3.2.TY.1
+        subobj: 8.3.2
+        type: ty
+        question: Leaders who fail to pray
+        choices:
+          A: are few and far between.
+          B: tend to do just as well as those who do.
+          C: risk falling into the trap of self-reliance.
+          D: are less likely to compromise their faith.
+        answer: C
+      - uid: THE311.8.3.3.TY.1
+        subobj: 8.3.3
+        type: ty
+        question: What is the difference between abuse of prayer and misuse of prayer?
+        choices:
+          A: Misuse comes from ignorance, while abuse comes from a wrong attitude.
+          B: Abuse comes from ignorance, while misuse comes from a wrong attitude.
+          C: Abuse brings power to self, while misuse brings power to the church.
+          D: Misuse brings honor to God, while abuse brings honor to self.
+        answer: A
+      - uid: THE311.8.4.1.UPE.1
+        subobj: 8.4.1
+        type: upe
+        question: Spiritual leaders can instill a passion for prayer in others by
+        choices:
+          A: encouraging people to pray mainly for their own needs.
+          B: emphasizing its importance through sound teaching.
+          C: allowing people to teach themselves about prayer.
+          D: saving prayer for special occasions and holidays.
+        answer: B
+      - uid: THE311.8.4.1.TY.1
+        subobj: 8.4.1
+        type: ty
+        question: One of the best ways to teach prayer is by
+        choices:
+          A: demonstrating your prayer language.
+          B: holding an all-night prayer service.
+          C: teaching people prayer phrases.
+          D: teaching the doctrine of God.
+        answer: D
+      - uid: THE311.9.1.1.UPE.1
+        subobj: 9.1.1
+        type: upe
+        question: The English word worship comes from two root words meaning
+        choices:
+          A: “holy honor.”
+          B: “live sacrifice.”
+          C: “to kiss the Son.”
+          D: “to create honor.”
+        answer: D
+      - uid: THE311.9.1.1.TY.1
+        subobj: 9.1.1
+        type: ty
+        question: Christians are called to latreia, which means
+        choices:
+          A: “kissing the ground toward God.”
+          B: “serving or ministering as priests.”
+          C: “showing honor or worth to others.”
+          D: “remaining holy and pure before God.”
+        answer: B
+      - uid: THE311.9.1.2.UPE.1
+        subobj: 9.1.2
+        type: upe
+        question: The essence of worship is that
+        choices:
+          A: God reveals Himself to us and we respond to Him.
+          B: we reveal our sins to God and He responds to us.
+          C: we transform ourselves and God responds to us.
+          D: God transforms us and we respond to ourselves.
+        answer: A
+      - uid: THE311.9.1.2.TY.1
+        subobj: 9.1.2
+        type: ty
+        question: According to Romans 1:20, God reveals himself to us through
+        choices:
+          A: the cosmos.
+          B: miracles.
+          C: ministry.
+          D: revelation.
+        answer: A
+      - uid: THE311.9.1.3.UPE.1
+        subobj: 9.1.3
+        type: upe
+        question: When Christians experience transformation, spiritual renewal, and
+          living in the center of God’s will they produce a lifestyle of
+        choices:
+          A: selfishness.
+          B: pleasure.
+          C: worship.
+          D: beauty.
+        answer: C
+      - uid: THE311.9.1.3.TY.1
+        subobj: 9.1.3
+        type: ty
+        question: Lifestyle worship means that our ministry or worship to God is
+        choices:
+          A: constant or a habitual.
+          B: cultivated periodically.
+          C: dependent on our success.
+          D: a part of our accomplishments.
+        answer: A
+      - uid: THE311.9.1.3.TY.2
+        subobj: 9.1.3
+        type: ty
+        question: Romans 12:1 reminds us that worship is a
+        choices:
+          A: duty.
+          B: talent.
+          C: sacrifice.
+          D: drudgery.
+        answer: C
+      - uid: THE311.9.1.4.UPE.1
+        subobj: 9.1.4
+        type: upe
+        question: The purpose of all creation is to
+        choices:
+          A: fear God’s power.
+          B: bring God pleasure.
+          C: obey God’s commands.
+          D: glory in God’s adoration.
+        answer: B
+      - uid: THE311.9.1.4.TY.1
+        subobj: 9.1.4
+        type: ty
+        question: The purpose of all creation is to
+        choices:
+          A: live happily.
+          B: love one another.
+          C: bring God pleasure.
+          D: create beauty and love.
+        answer: C
+      - uid: THE311.9.1.4.TY.2
+        subobj: 9.1.4
+        type: ty
+        question: When we worship God, we are
+        choices:
+          A: acknowledging God’s supremacy and confessing our deficiency.
+          B: expressing our musical talents.
+          C: seeking and enjoying a spiritual high.
+          D: fulfilling all righteousness.
+        answer: A
+      - uid: THE311.9.2.1.UPE.1
+        subobj: 9.2.1
+        type: upe
+        question: What is the distinction between praise and worship?
+        choices:
+          A: Praise acknowledges what God has done; worship acknowledges what He will
+            do.
+          B: Praise is how people react to God; worship is how heavenly beings react
+            to God.
+          C: Praise is simply an outward expression; worship encompasses all of life.
+          D: There is no distinction between praise and worship.
+        answer: C
+      - uid: THE311.9.2.1.TY.1
+        subobj: 9.2.1
+        type: ty
+        question: While worship is a lifestyle, praise is
+        choices:
+          A: a mere song.
+          B: an action, an outward expression.
+          C: a gathering.
+          D: an obligation.
+        answer: B
+      - uid: THE311.9.2.1.TY.2
+        subobj: 9.2.1
+        type: ty
+        question: A distinction of praise is that it
+        choices:
+          A: acknowledges what God has done.
+          B: can only be done by human beings.
+          C: glorifies those who participate in it.
+          D: expresses both despair and happiness.
+        answer: A
+      - uid: THE311.9.2.2.TY.1
+        subobj: 9.2.2
+        type: ty
+        question: What is the danger of equating music with worship?
+        choices:
+          A: It requires too much of the worshipper.
+          B: Worship leaders may resign because of burnout.
+          C: People may refuse to participate if the music is not just right.
+          D: The worship portion of the church service might go too long.
+        answer: C
+      - uid: THE311.9.2.3.TY.1
+        subobj: 9.2.3
+        type: ty
+        question: What is “pseudo-worship”?
+        choices:
+          A: Worshipping God on a very deep level
+          B: Worshipping God for the wrong reasons
+          C: Worshipping without going through the motions
+          D: Going through the motions without really worshipping
+        answer: D
+      - uid: THE311.10.1.1.UPE.1
+        subobj: 10.1.1
+        type: upe
+        question: The first commandment in Exodus 20 instructs us to
+        choices:
+          A: worship God only.
+          B: honor God’s name.
+          C: spend a day in honor of God.
+          D: avoid creating our own gods.
+        answer: A
+      - uid: THE311.10.1.1.TY.1
+        subobj: 10.1.1
+        type: ty
+        question: How many of the Ten Commandments refer to the primacy of worshipping
+          God?
+        choices:
+          A: One
+          B: Four
+          C: Six
+          D: Eight
+        answer: B
+      - uid: THE311.10.1.2.UPE.1
+        subobj: 10.1.2
+        type: upe
+        question: The passage in Deuteronomy 6:4–5 that is known as the Shema instructs
+          us to
+        choices:
+          A: serve God in good times and bad.
+          B: teach others how to serve God.
+          C: enjoy God’s creation with our whole being.
+          D: love God with our hearts, souls, and strength.
+        answer: D
+      - uid: THE311.10.1.2.TY.1
+        subobj: 10.1.2
+        type: ty
+        question: According to Mark 12:28–30, what is the greatest commandment?
+        choices:
+          A: Love the Lord with your heart, soul, mind, and strength.
+          B: Treat others the way you want to be treated.
+          C: Do not forsake the gathering of believers.
+          D: Love your neighbor as yourself.
+        answer: A
+      - uid: THE311.10.2.1.TY.1
+        subobj: 10.2.1
+        type: ty
+        question: Tabernacle worship teaches the true meaning of worship because it
+          focused on the
+        choices:
+          A: format of worship.
+          B: sacrifice.
+          C: worshipper.
+          D: sanctuary.
+        answer: B
+      - uid: THE311.10.2.2.UPE.1
+        subobj: 10.2.2
+        type: upe
+        question: In Psalm 100:4, the gate and courts of the tabernacle represent
+          a progression of worship that includes
+        choices:
+          A: glory and majesty.
+          B: humility and sacrifice.
+          C: thanksgiving and praise.
+          D: trials and disappointment.
+        answer: C
+      - uid: THE311.10.2.2.TY.1
+        subobj: 10.2.2
+        type: ty
+        question: The Psalm 100:4 reference to entering the gates shows that the gateway
+          to worship is
+        choices:
+          A: singing.
+          B: obedience.
+          C: communion.
+          D: thanksgiving.
+        answer: D
+      - uid: THE311.10.2.3.UPE.1
+        subobj: 10.2.3
+        type: upe
+        question: God’s promise in the book of Amos to restore tabernacle worship
+          was fulfilled and affirmed in the book of
+        choices:
+          A: John.
+          B: Acts.
+          C: Romans.
+          D: Revelation.
+        answer: B
+      - uid: THE311.10.2.3.TY.1
+        subobj: 10.2.3
+        type: ty
+        question: Who restored tabernacle worship in the New Testament church?
+        choices:
+          A: John the Baptist
+          B: Jesus
+          C: Peter
+          D: Paul
+        answer: B
+      - uid: THE311.10.3.1.UPE.1
+        subobj: 10.3.1
+        type: upe
+        question: David was called “a man after God’s own heart” because David
+        choices:
+          A: had musical ability.
+          B: loved what God loved.
+          C: ruled with compassion.
+          D: was a strong and just king.
+        answer: B
+      - uid: THE311.10.3.1.TY.1
+        subobj: 10.3.1
+        type: ty
+        question: To whom does Acts 13:22 refer as being a man after God’s own heart?
+        choices:
+          A: Abraham
+          B: Moses
+          C: David
+          D: Solomon
+        answer: C
+      - uid: THE311.10.3.2.UPE.1
+        subobj: 10.3.2
+        type: upe
+        question: The common theme in all the psalms is that God is
+        choices:
+          A: worthy to be praised in all circumstances.
+          B: to be praised only when circumstances are favorable.
+          C: uninterested in the problems and troubles people face.
+          D: the source of all our trials and blessings.
+        answer: A
+      - uid: THE311.10.3.2.TY.1
+        subobj: 10.3.2
+        type: ty
+        question: The book of Psalms challenges us to
+        choices:
+          A: praise God only when He blesses us.
+          B: praise God in every situation and location.
+          C: complain to God about all of our problems.
+          D: express only positive emotions in praise.
+        answer: B
+      - uid: THE311.10.4.1.UPE.1
+        subobj: 10.4.1
+        type: upe
+        question: Jesus’ interaction with the woman at the well was revolutionary
+          because it
+        choices:
+          A: showed that God accepted worship from a select group of people.
+          B: broke down lines of communication between Israel and Samaria.
+          C: broke down gender, racial, and ethical barriers.
+          D: showed Jesus’ favoritism towards women.
+        answer: C
+      - uid: THE311.10.4.1.TY.1
+        subobj: 10.4.1
+        type: ty
+        question: The account of Jesus speaking to the woman at the well in John 4
+          shows that God
+        choices:
+          A: maintains gender barriers in worship.
+          B: requires worshippers to be sinless.
+          C: accepts worship from anyone.
+          D: judges all sin the same.
+        answer: C
+      - uid: THE311.10.4.2.TY.1
+        subobj: 10.4.2
+        type: ty
+        question: In John 4:23, Jesus states that true worshippers worship in
+        choices:
+          A: Jerusalem.
+          B: the temple.
+          C: song and dance.
+          D: spirit and in truth.
+        answer: D
+      - uid: THE311.10.5.1.UPE.1
+        subobj: 10.5.1
+        type: upe
+        question: According to the book of Revelation, the primary activity in heaven
+          is
+        choices:
+          A: worshipping God.
+          B: enjoying a banquet.
+          C: communing with angels.
+          D: reuniting with loved ones.
+        answer: A
+      - uid: THE311.10.5.1.TY.1
+        subobj: 10.5.1
+        type: ty
+        question: According to John’s vision in Revelation, the primary activity in
+          heaven is
+        choices:
+          A: judgment.
+          B: worship.
+          C: wailing.
+          D: rejoicing.
+        answer: B
+      - uid: THE311.11.1.1.UPE.1
+        subobj: 11.1.1
+        type: upe
+        question: Jesus used the word ekklesia to describe
+        choices:
+          A: the gathering of public officials to discuss politics.
+          B: a relationship between God and His people.
+          C: the gathering of Christians for worship.
+          D: one of the books of the Old Testament.
+        answer: C
+      - uid: THE311.11.1.1.TY.1
+        subobj: 11.1.1
+        type: ty
+        question: By using the word ekklesia to describe the gathering of Christians
+          for worship, Jesus
+        choices:
+          A: expected believers to participate in local government.
+          B: wanted believers to stay home and worship God in privacy.
+          C: desired believers to worship only once a week in large groups.
+          D: expected believers to go to a public place to worship God together.
+        answer: D
+      - uid: THE311.11.1.2.UPE.1
+        subobj: 11.1.2
+        type: upe
+        question: The word koinonia means to
+        choices:
+          A: “commune or fellowship with other people.”
+          B: “embrace individualistic worship ideals.”
+          C: “submit to the will of other believers.”
+          D: “commune with and worship God.”
+        answer: A
+      - uid: THE311.11.1.2.TY.1
+        subobj: 11.1.2
+        type: ty
+        question: Koinonia is rooted in the nature of the
+        choices:
+          A: cross.
+          B: Trinity.
+          C: church.
+          D: heavens.
+        answer: B
+      - uid: THE311.11.1.3.TY.1
+        subobj: 11.1.3
+        type: ty
+        question: Unity is needed in gathered worship because it
+        choices:
+          A: elevates diversity in the kingdom.
+          B: makes the church more enjoyable.
+          C: reflects the nature of God.
+          D: brings forgiveness of sin.
+        answer: C
+      - uid: THE311.11.2.1.TY.1
+        subobj: 11.2.1
+        type: ty
+        question: Worship distractions become idols to Christians because the distractions
+          cause us to
+        choices:
+          A: neglect traditionalism in favor of true worship.
+          B: focus on God as the object of our worship.
+          C: neglect God as the object of our worship.
+          D: become too efficient in daily life.
+        answer: C
+      - uid: THE311.11.2.2.UPE.1
+        subobj: 11.2.2
+        type: upe
+        question: The danger of giving in to the idol of self during gathered worship
+          is that it can cause
+        choices:
+          A: others to worship us instead of God.
+          B: God to bring judgment on those around us.
+          C: us to humble ourselves in brokenness before God.
+          D: considerable suffering when God brings judgment.
+        answer: D
+      - uid: THE311.11.3.1.TY.1
+        subobj: 11.3.1
+        type: ty
+        question: According to the IST, songs that are birthed from the Spirit are
+          called
+        choices:
+          A: hymns.
+          B: psalms.
+          C: choruses.
+          D: spiritual songs.
+        answer: D
+      - uid: THE311.11.3.2.TY.1
+        subobj: 11.3.2
+        type: ty
+        question: What two elements need most to be scrutinized when evaluating worship
+          songs?
+        choices:
+          A: Music and lyrics
+          B: Tempo and scale
+          C: Key changes and poetry
+          D: Doctrine and worldview
+        answer: A
+      - uid: THE311.11.3.4.UPE.1
+        subobj: 11.3.4
+        type: upe
+        question: The primary role of a lead worshipper is to
+        choices:
+          A: offer a variety of songs to help people enter worship.
+          B: dictate how everyone must worship.
+          C: take people into God’s presence.
+          D: share his or her testimony.
+        answer: C
+      - uid: THE311.11.3.4.TY.1
+        subobj: 11.3.4
+        type: ty
+        question: One of the responsibilities of lead worshippers is to
+        choices:
+          A: make worship happen.
+          B: develop excellent musical skills.
+          C: learn to play at least three instruments.
+          D: share an appropriate anecdote about worship.
+        answer: B
+      - uid: THE311.11.4.2.UPE.1
+        subobj: 11.4.2
+        type: upe
+        question: In water baptism, a believer acts out the
+        choices:
+          A: death and resurrection of Jesus Christ.
+          B: exodus of the Israelites from Egypt.
+          C: experience of Jonah in the big fish.
+          D: events of the Day of Pentecost.
+        answer: A
+      - uid: THE311.11.4.2.TY.1
+        subobj: 11.4.2
+        type: ty
+        question: What are the expressions of worship that are called enactments ?
+        choices:
+          A: Home prayer meetings that follow the early church’s practices
+          B: Short dramas presented by church members
+          C: Water baptism and the Lord’s Supper—the retelling of the gospel by collective
+            demonstration
+          D: Times when the congregation is invited to the altars for corporate worship
+        answer: C
+      - uid: THE311.11.5.1.TY.1
+        subobj: 11.5.1
+        type: ty
+        question: Supernatural manifestations are important elements of worship because
+          they are
+        choices:
+          A: our main source of direction and guidance.
+          B: the main way God blesses His people.
+          C: a foretaste of heaven on earth.
+          D: a display of power to the world.
+        answer: C
+      - uid: THE311.11.5.2.TY.1
+        subobj: 11.5.2
+        type: ty
+        question: How does glossolalia edify the individual?
+        choices:
+          A: It lifts the individual to leadership.
+          B: It humbles people into submission.
+          C: It promotes a feeling of superiority.
+          D: It provides a deep connection with God.
+        answer: D
+      - uid: THE311.11.6.1.UPE.1
+        subobj: 11.6.1
+        type: upe
+        question: The construction of the Ark of the Covenant and the erection of
+          Solomon’s temple are both examples of
+        choices:
+          A: artistic creations offered as worship to God.
+          B: items created by craftsmen simply to show their skill.
+          C: the lack of creativity used in worship during Old Testament times.
+          D: God’s desire for functionality in worship without artistic expression.
+        answer: A
+      - uid: THE311.12.1.1.UPE.1
+        subobj: 12.1.1
+        type: upe
+        question: In Romans 12:1, Paul uses the Greek word latreia to describe worship
+          that refers to
+        choices:
+          A: performing sacred services reminiscent of a Levitical priest.
+          B: kissing the ground at the feet of the object of worship.
+          C: bowing low to the ground in reverence to the Lord.
+          D: offering songs of worship as a sacrifice to God.
+        answer: A
+      - uid: THE311.12.1.1.TY.1
+        subobj: 12.1.1
+        type: ty
+        question: According to Romans 12:1–2, what must Christians offer in physical
+          worship?
+        choices:
+          A: Body
+          B: Mind
+          C: Spirit
+          D: Strength
+        answer: A
+      - uid: THE311.12.1.1.TY.2
+        subobj: 12.1.1
+        type: ty
+        question: In Matthew 12:34–35, Jesus explains that our actions are affected
+          by
+        choices:
+          A: our circumstances.
+          B: our thoughts and dreams.
+          C: the condition of our bodies.
+          D: the condition of our hearts.
+        answer: D
+      - uid: THE311.12.1.2.UPE.1
+        subobj: 12.1.2
+        type: upe
+        question: In Mark 12:30, Jesus gave us the framework for worshipping God holistically
+          when He shared what two commandments?
+        choices:
+          A: Obey the Scripture without fault, and bless those who persecute you.
+          B: Love the Lord with all you have, and love your neighbor as yourself.
+          C: Praise the Lord with worship songs, and give generously to the poor.
+          D: Offer your body to God, and pay your taxes without complaint.
+        answer: B
+      - uid: THE311.12.1.2.TY.1
+        subobj: 12.1.2
+        type: ty
+        question: What is meant by the term holistic worship ?
+        choices:
+          A: Worshipping God in a holy way
+          B: Worshipping God with all we are
+          C: Worshipping God with our actions
+          D: Worshipping God through our words
+        answer: B
+      - uid: THE311.12.1.2.TY.2
+        subobj: 12.1.2
+        type: ty
+        question: The word heart in the Bible refers primarily to the human
+        choices:
+          A: emotions.
+          B: mind.
+          C: will.
+          D: soul.
+        answer: C
+      - uid: THE311.12.1.3.UPE.1
+        subobj: 12.1.3
+        type: upe
+        question: According to 2 Corinthians 3:18, when we worship God and experience
+          His presence, we are
+        choices:
+          A: transformed into a reflection of God.
+          B: reminded of our spiritual shortcomings.
+          C: given a taste of what heaven will be like.
+          D: protected from all forms of spiritual harm.
+        answer: A
+      - uid: THE311.12.1.3.TY.1
+        subobj: 12.1.3
+        type: ty
+        question: What is the end result of presenting our bodies to God as a sacrifice
+          of worship?
+        choices:
+          A: Fragmented faith in God
+          B: Spiritual transformation
+          C: Spiritual conformity
+          D: A loss of identity
+        answer: B
+      - uid: THE311.12.2.1.UPE.1
+        subobj: 12.2.1
+        type: upe
+        question: According to the IST, an idol is defined as
+        choices:
+          A: a statue or created object worshipped physically and spiritually.
+          B: anything that eclipses the worthiness of God in our eyes.
+          C: anything to which a person bows down and offers prayers.
+          D: a person glorified and honored as a god or spiritual leader.
+        answer: B
+      - uid: THE311.12.2.1.UPE.2
+        subobj: 12.2.1
+        type: upe
+        question: It is important to expose the idols that compete for our affections
+          in order to
+        choices:
+          A: redirect our affection back to God.
+          B: properly discipline ourselves before God.
+          C: be aware of how we have disappointed God.
+          D: direct our full attention and devotion to those idols.
+        answer: A
+      - uid: THE311.12.2.1.UPE.3
+        subobj: 12.2.1
+        type: upe
+        question: Christians who have diverted their worship to other things
+        choices:
+          A: have no hope of forgiveness.
+          B: are doomed to be judged for their sin.
+          C: can be forgiven through the grace of God.
+          D: must pay a high price for their forgiveness.
+        answer: C
+      - uid: THE311.12.2.1.TY.1
+        subobj: 12.2.1
+        type: ty
+        question: What do New Testament writers John and Paul have to say concerning
+          idols?
+        choices:
+          A: As Christians we are immune from the dangers of idolatry.
+          B: We should give up on reaching unbelievers who have idols in their lives.
+          C: We should not allow idolatry to persist in our lives.
+          D: Only graven images are idols.
+        answer: C
+      - uid: THE311.12.2.1.TY.2
+        subobj: 12.2.1
+        type: ty
+        question: Philippians 3:19 warns that those who worship idols are
+        choices:
+          A: unaffected by those actions.
+          B: destined for destruction.
+          C: destined for greatness.
+          D: bringing honor to God.
+        answer: B
+      - uid: THE311.12.2.1.TY.3
+        subobj: 12.2.1
+        type: ty
+        question: What hope does Paul give to Christians in 1 Corinthians 6:11?
+        choices:
+          A: That they can engage in idolatry with no negative consequences
+          B: That idolatry is an unforgivable sin, punishable by death
+          C: That they were washed, sanctified, and justified in Jesus
+          D: That they will no longer be tempted to commit idolatry
+        answer: C
+      - uid: THE311.12.2.1.TY.4
+        subobj: 12.2.1
+        type: ty
+        question: To be sanctified means to be
+        choices:
+          A: judged.
+          B: made holy.
+          C: condemned.
+          D: innocent.
+        answer: B
+      - uid: THE311.12.2.1.TY.5
+        subobj: 12.2.1
+        type: ty
+        question: According to Philippians 2:10–11, who will kneel and confess Jesus
+          Christ as Lord?
+        choices:
+          A: Only Christians
+          B: Only sinners
+          C: Only Satan
+          D: All people
+        answer: D
     chapters:
     - last_modified: '2026-03-27'
       title: '1 - Soul-Shaping: An Introduction to Prayer'

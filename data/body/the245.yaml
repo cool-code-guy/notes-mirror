@@ -942,6 +942,2513 @@ courses:
       '4.0':
         timestamp: '2026-04-01'
         PN: 04.22.01
+      '1.0':
+        timestamp: '2006-01-01'
+        precision: year
+        source: colophon
+    printings:
+    - pn: 04.22.01
+      course_code: THE245
+      source_html: BTHE245ENE04-90_4.22.01.html
+      template: old
+      recorded: '2026-08-26'
+      note: 'Pristine print baseline built by scripts/build_html_baseline.py purely
+        from the InDesign HTML -- no DB input. Read-only: never hand-edit and never
+        feed to the janitor. UIDs are synthesized from the book''s own answer key;
+        diff pairs by content.'
+      counts:
+        ty: 130
+        upe: 100
+        final: 0
+      questions:
+      - uid: THE245.1.1.1.UPE.1
+        subobj: 1.1.1
+        type: upe
+        question: End-time Bible prophecy is strong evidence that
+        choices:
+          A: the future should be understood as allegory rather than literal events.
+          B: Bible prophets did not know what they were predicting.
+          C: the Bible is inspired by God.
+          D: Bible prophets were in tune with their times better than we are with
+            our times.
+        answer: C
+      - uid: THE245.1.1.1.TY.1
+        subobj: 1.1.1
+        type: ty
+        question: According to J. Barton Payne, the Bible contains at least
+        choices:
+          A: 1,800 prophetic statements.
+          B: 3,600 prophetic statements.
+          C: 400 prophetic statements.
+          D: 150 prophetic statements.
+        answer: A
+      - uid: THE245.1.1.1.TY.2
+        subobj: 1.1.1
+        type: ty
+        question: Bible prophecy is strong evidence that
+        choices:
+          A: the future should be understood as allegory rather than literal events.
+          B: Bible prophets did not always know what they were predicting.
+          C: the Bible is inspired by God.
+          D: Bible prophets were in tune with their times better than we are with
+            our times.
+        answer: C
+      - uid: THE245.1.1.2.UPE.1
+        subobj: 1.1.2
+        type: upe
+        question: An understanding of Bible prophecy demonstrates that history is
+          the
+        choices:
+          A: unfolding of God’s plan for the human race.
+          B: repetition of past events confirming what is likely to happen in the
+            future.
+          C: viewpoint of the historian recording past events.
+          D: backbone of the Bible, unlike most other books that claim divine origin.
+        answer: A
+      - uid: THE245.1.1.3.UPE.1
+        subobj: 1.1.3
+        type: upe
+        question: Believing that all Bible prophecy will eventually be fulfilled causes
+          a believer to
+        choices:
+          A: rest comfortably, knowing that nothing can be done to prepare for the
+            future.
+          B: worry about the judgments that will fall on believers in the Tribulation.
+          C: realize he or she cannot be holy as God requires (1 Peter 1:15–16).
+          D: desire and seek to live a righteous life.
+        answer: D
+      - uid: THE245.1.1.3.TY.1
+        subobj: 1.1.3
+        type: ty
+        question: The Great Commission to reach the lost for Christ ends when
+        choices:
+          A: the Rapture takes place.
+          B: and only when, the last living sinner accepts Christ as Savior.
+          C: the Holy Spirit declares that the time of harvest is over.
+          D: the wicked dead are resurrected and given a final chance to receive Christ.
+        answer: A
+      - uid: THE245.1.2.1.UPE.1
+        subobj: 1.2.1
+        type: upe
+        question: The New Testament church clearly
+        choices:
+          A: believed in a literal fulfillment of Bible prophecy.
+          B: did not believe in a coming Millennium.
+          C: believed it was already in the Millennium.
+          D: believed the Rapture would take place after the Tribulation.
+        answer: A
+      - uid: THE245.1.2.1.TY.1
+        subobj: 1.2.1
+        type: ty
+        question: According to one study, the chance of eight prophecies being fulfilled
+          in one person are
+        choices:
+          A: one in 10.
+          B: one in 5 million.
+          C: one in 100 million.
+          D: one in 100 quadrillion.
+        answer: D
+      - uid: THE245.1.2.1.TY.2
+        subobj: 1.2.1
+        type: ty
+        question: The early church was clearly
+        choices:
+          A: Amillennial.
+          B: Premillennial.
+          C: Kingdom Now.
+          D: Postmillennial.
+        answer: B
+      - uid: THE245.1.2.2.TY.1
+        subobj: 1.2.2
+        type: ty
+        question: The literal interpretation of Bible prophecy faded when
+        choices:
+          A: the Millennium did not happen as had been expected.
+          B: writers of great literature began using allegory and symbolism in their
+            works.
+          C: the Rapture did not occur as had been expected.
+          D: theologians began doubting that the Bible was divinely inspired.
+        answer: C
+      - uid: THE245.1.3.1.UPE.1
+        subobj: 1.3.1
+        type: upe
+        question: The biblical statement, “Every eye shall behold him” refers to
+        choices:
+          A: the Rapture when Christ’s coming is seen around the world.
+          B: the salvation of all living humans when they see Christ with spiritual
+            eyes.
+          C: the sudden appearance of the Antichrist on the world scene in the Tribulation.
+          D: Christ’s return to earth after the Tribulation.
+        answer: D
+      - uid: THE245.1.3.1.TY.1
+        subobj: 1.3.1
+        type: ty
+        question: The biblical statement, “Every eye shall behold him” refers to
+        choices:
+          A: the Rapture when Christ’s coming is seen around the world.
+          B: the salvation of all living humans when they see Christ with spiritual
+            eyes.
+          C: the sudden appearance of Antichrist on the world scene in the Tribulation.
+          D: Christ’s return to earth after the Tribulation.
+        answer: D
+      - uid: THE245.1.3.2.UPE.1
+        subobj: 1.3.2
+        type: upe
+        question: Postmillennialism lost much of its popularity in the early twentieth
+          century because of
+        choices:
+          A: an up-and-down economy around the world.
+          B: the Great Depression in North America.
+          C: the inhumane slaughter of people by dictators like Hitler and Stalin.
+          D: the successful American presidency of Franklin Delano Roosevelt.
+        answer: C
+      - uid: THE245.1.3.2.TY.1
+        subobj: 1.3.2
+        type: ty
+        question: Postmillennialism teaches that Christ’s literal return to earth
+          is
+        choices:
+          A: just before the Millennium.
+          B: after the Millennium in which we are now living.
+          C: in the middle of the Tribulation.
+          D: spiritual rather than something that really happens.
+        answer: B
+      - uid: THE245.1.3.3.UPE.1
+        subobj: 1.3.3
+        type: upe
+        question: Amillennialism teaches that
+        choices:
+          A: there is no end-time role for Israel.
+          B: the biblical prophecies about Israel will still be fulfilled.
+          C: since there is no Millennium, there will not be a literal Israel, only
+            a spiritual one.
+          D: Israel will exist literally in heaven, not on earth, in the Millennium.
+        answer: A
+      - uid: THE245.1.3.3.TY.1
+        subobj: 1.3.3
+        type: ty
+        question: Amillennialism teaches that
+        choices:
+          A: there is no end-time role for Israel.
+          B: the biblical prophecies about Israel will still be fulfilled.
+          C: there will be both a spiritual and a national Israel.
+          D: Israel will exist literally in heaven, not on earth, in the Millennium.
+        answer: A
+      - uid: THE245.1.3.3.TY.2
+        subobj: 1.3.3
+        type: ty
+        question: A premillennialist view of the Millennium is typically held by most
+        choices:
+          A: Catholics.
+          B: liberal theologians.
+          C: evangelicals.
+          D: nominal Christians.
+        answer: C
+      - uid: THE245.2.1.1.UPE.1
+        subobj: 2.1.1
+        type: upe
+        question: Being created in God’s image means
+        choices:
+          A: the human body is a replica of God’s spiritual form.
+          B: humans have the God-given abilities to think and to make choices.
+          C: humans, with their own judgment, can always distinguish right from wrong.
+          D: humans naturally have within them the nine fruit of the Spirit.
+        answer: B
+      - uid: THE245.2.1.1.TY.1
+        subobj: 2.1.1
+        type: ty
+        question: God created the world and the human race because
+        choices:
+          A: He wanted to have fellowship with lesser beings.
+          B: His earlier creation had fallen into a great void as described in Genesis
+            1:2.
+          C: they demonstrated and reflected His glory.
+          D: they provided subjects for His kingdom.
+        answer: C
+      - uid: THE245.2.1.2.UPE.1
+        subobj: 2.1.2
+        type: upe
+        question: If God is all-powerful, why did He not bind Satan immediately upon
+          his rebellion?
+        choices:
+          A: Satan’s opposition provided God with a competition He would not otherwise
+            have.
+          B: God chooses to limit His omnipotence so people can behold His glory.
+          C: There is no satisfactory explanation why God would let Satan disrupt
+            His creation.
+          D: True love and obedience is proved only when another option is available.
+        answer: D
+      - uid: THE245.2.1.2.TY.1
+        subobj: 2.1.2
+        type: ty
+        question: How did the sin of Adam and Eve affect God’s image in humans?
+        choices:
+          A: God’s image was destroyed.
+          B: God’s image was not affected.
+          C: God’s image was changed to an animal nature.
+          D: God’s image was altered, but not destroyed.
+        answer: D
+      - uid: THE245.2.1.3.UPE.1
+        subobj: 2.1.3
+        type: upe
+        question: The New Testament records God’s
+        choices:
+          A: provision of salvation and restored fellowship with humans.
+          B: frustration with the complete disobedience of the human race.
+          C: turning His back on disobedient Israel.
+          D: plan for destroying the entire human race and beginning a new creation.
+        answer: A
+      - uid: THE245.2.1.3.TY.1
+        subobj: 2.1.3
+        type: ty
+        question: Immediately after the Fall, God
+        choices:
+          A: placed a permanent curse on the human race.
+          B: began a plan to redeem His creation.
+          C: sent His only Son to die on the cross.
+          D: punished Adam and Eve by prompting Cain to kill Abel.
+        answer: B
+      - uid: THE245.2.1.3.TY.2
+        subobj: 2.1.3
+        type: ty
+        question: The New Testament records God’s
+        choices:
+          A: provision of salvation and restored fellowship with humans.
+          B: frustration with the complete disobedience of the human race.
+          C: turning His back on disobedient Israel.
+          D: plan for destroying the entire human race and beginning a new creation.
+        answer: A
+      - uid: THE245.2.2.1.TY.1
+        subobj: 2.2.1
+        type: ty
+        question: Israel’s original role in the kingdom of God was to
+        choices:
+          A: rule over all the other nations of the world.
+          B: stamp out all pagan and satanic influence in the world.
+          C: provide the Jewish writers who would give the world a Holy Bible.
+          D: be a holy nation bringing blessing to the world.
+        answer: D
+      - uid: THE245.2.2.2.UPE.1
+        subobj: 2.2.2
+        type: upe
+        question: When the Pharisees asked Jesus when the kingdom of God would come,
+          Jesus said,
+        choices:
+          A: “Believe the good news.”
+          B: “It is already among you.”
+          C: “Repent, you generation of vipers!”
+          D: “It is not mine to set the time of my coming.”
+        answer: B
+      - uid: THE245.2.2.2.UPE.2
+        subobj: 2.2.2
+        type: upe
+        question: “The people of God” in the Old Testament refers to
+        choices:
+          A: male individuals from Adam to David.
+          B: the families of Abraham, Isaac, and Jacob.
+          C: all living persons who lived righteous lives and honored Jehovah.
+          D: Israel as a nation.
+        answer: D
+      - uid: THE245.2.2.2.TY.1
+        subobj: 2.2.2
+        type: ty
+        question: The church is a part of the kingdom of God because
+        choices:
+          A: Israel is no longer a part of the Kingdom.
+          B: the Old Testament declares clearly that the church is the Kingdom.
+          C: Jesus began His ministry announcing the Kingdom He came to establish.
+          D: the church will never be part of the kingdom of heaven.
+        answer: C
+      - uid: THE245.2.2.3.TY.1
+        subobj: 2.2.3
+        type: ty
+        question: The full glory of the kingdom of God is revealed in
+        choices:
+          A: the panorama of end-time events.
+          B: Solomon’s temple.
+          C: the temple in the New Jerusalem.
+          D: the earthly Jerusalem during the Millennium.
+        answer: A
+      - uid: THE245.2.3.1.UPE.1
+        subobj: 2.3.1
+        type: upe
+        question: The Old Testament prophecy about the birthplace of Jesus is found
+          in the book of
+        choices:
+          A: Micah.
+          B: Zechariah.
+          C: Isaiah.
+          D: Psalms.
+        answer: A
+      - uid: THE245.2.3.1.UPE.2
+        subobj: 2.3.1
+        type: upe
+        question: The biblical statement “Jesus is the Christ” means that Jesus is
+        choices:
+          A: the Savior.
+          B: the Messiah or the Anointed One.
+          C: the Alpha and the Omega.
+          D: All of the above.
+        answer: B
+      - uid: THE245.2.3.1.TY.1
+        subobj: 2.3.1
+        type: ty
+        question: The biblical statement “Jesus is the Christ” means that Jesus is
+        choices:
+          A: the Savior.
+          B: the Messiah or the Anointed One.
+          C: the Alpha and the Omega.
+          D: All of the above.
+        answer: B
+      - uid: THE245.2.3.2.UPE.1
+        subobj: 2.3.2
+        type: upe
+        question: Describing Christ as the once-for-all Sacrifice means
+        choices:
+          A: Christ’s sacrifice brings salvation to every person in the world.
+          B: believers no longer need to offer sacrifices day after day.
+          C: sacrificial animal offerings were not necessary.
+          D: the sacrifice of a lamb was necessary for our salvation.
+        answer: B
+      - uid: THE245.2.3.2.TY.1
+        subobj: 2.3.2
+        type: ty
+        question: Christ’s rule over the kingdom of God is confirmed by His
+        choices:
+          A: end-time title, “King of kings and Lord of lords.”
+          B: not being the actual son of Joseph.
+          C: earthly ministry and sacrificial death.
+          D: sitting now at the right hand of the Father.
+        answer: C
+      - uid: THE245.2.3.3.UPE.1
+        subobj: 2.3.3
+        type: upe
+        question: In the kingdom of God and in end-time prophecy, Jesus Christ is
+          the
+        choices:
+          A: spokesperson for the nation of Israel.
+          B: central figure.
+          C: advocate for the downtrodden and disadvantaged.
+          D: suffering servant.
+        answer: B
+      - uid: THE245.2.3.3.TY.1
+        subobj: 2.3.3
+        type: ty
+        question: Christ is the central figure in
+        choices:
+          A: the Millennium, but not in the Tribulation.
+          B: a mid-Tribulation Rapture.
+          C: rescuing sinners from the fires of hell.
+          D: all end-time events.
+        answer: D
+      - uid: THE245.3.1.1.UPE.1
+        subobj: 3.1.1
+        type: upe
+        question: Refusing to think about what will happen to us when we die is as
+          serious as
+        choices:
+          A: forgetting to write a living will for the medical treatment we may need
+            when dying.
+          B: refusing to decide about Christ’s free offer of salvation.
+          C: neglecting to write a will naming family and charities to receive our
+            wealth.
+          D: being a poor steward with the resources God has given us.
+        answer: B
+      - uid: THE245.3.1.1.UPE.2
+        subobj: 3.1.1
+        type: upe
+        question: The Fall of the human race through the sin of Adam and Eve resulted
+          in
+        choices:
+          A: death spreading to the human race because of sin.
+          B: Adam and Eve being struck dead immediately upon their sinning.
+          C: a death penalty until Christ died on the cross for our sins.
+          D: spiritual death or the lake of fire for Adam’s descendants.
+        answer: A
+      - uid: THE245.3.1.1.TY.1
+        subobj: 3.1.1
+        type: ty
+        question: When a person dies, the soul or spirit
+        choices:
+          A: ceases living.
+          B: lives forever, either with Jesus or in eternal punishment.
+          C: sleeps in the grave until the Rapture.
+          D: goes to the same place where animal life goes.
+        answer: B
+      - uid: THE245.3.1.2.UPE.1
+        subobj: 3.1.2
+        type: upe
+        question: The sting of death is gone for the believer because
+        choices:
+          A: after death, there is no feeling or awareness.
+          B: in the Tribulation, God will wipe away all tears and painful memories.
+          C: death, rather than being the end, is the beginning of eternal life with
+            God.
+          D: born-again persons always view death as a promotion.
+        answer: C
+      - uid: THE245.3.1.2.UPE.2
+        subobj: 3.1.2
+        type: upe
+        question: Death is a gain or advantage for the believer because
+        choices:
+          A: all believers will receive exactly the same glorious rewards after death.
+          B: to be with Christ is far better than the best life in a sin-cursed world.
+          C: physical pain and suffering are no longer felt when one dies.
+          D: like the patriarch of the Old Testament, we will be with our righteous
+            ancestors.
+        answer: B
+      - uid: THE245.3.1.2.TY.1
+        subobj: 3.1.2
+        type: ty
+        question: When the Bible asks, “Where, O death, is your sting?” (1 Corinthians
+          15:55) it means
+        choices:
+          A: if our treasure is laid up in heaven, we simply go to be with our treasure.
+          B: Christians should not grieve over a lost loved one.
+          C: death is a scorpion with a deadly sting.
+          D: we should laugh at death rather than fear it.
+        answer: A
+      - uid: THE245.3.1.2.TY.2
+        subobj: 3.1.2
+        type: ty
+        question: In what way is death a gain, rather than a loss, for the believer?
+        choices:
+          A: Christians cannot receive rewards until they die.
+          B: Physical pain and suffering are no longer felt when one dies.
+          C: To be with Christ is better than the best physical life on earth.
+          D: After death, a person is reunited with deceased family members.
+        answer: C
+      - uid: THE245.3.1.2.TY.3
+        subobj: 3.1.2
+        type: ty
+        question: According to Scripture, what was Christ’s attitude toward His earthly
+          death?
+        choices:
+          A: He knew He would be resurrected, so death was of no concern to Him.
+          B: He humbled himself and faced death obediently.
+          C: As God in human form, He wanted to be tested in all ways as we are.
+          D: He had no fear of death because He had a multitude of angels to help
+            Him.
+        answer: B
+      - uid: THE245.3.2.1.UPE.1
+        subobj: 3.2.1
+        type: upe
+        question: According to the Old Testament, the place where the righteous dead
+          go is
+        choices:
+          A: Abraham’s bosom.
+          B: Hades.
+          C: one of the two compartments of Sheol.
+          D: into God’s presence.
+        answer: D
+      - uid: THE245.3.2.1.TY.1
+        subobj: 3.2.1
+        type: ty
+        question: The belief of reincarnation claims that at death the soul
+        choices:
+          A: passes into a new human or animal body.
+          B: sleeps until it passes into a resurrected body.
+          C: goes to purgatory until prayer and good works permit entry to heaven.
+          D: goes out of existence until it is resurrected after the Millennium.
+        answer: A
+      - uid: THE245.3.2.1.TY.2
+        subobj: 3.2.1
+        type: ty
+        question: According to the Old Testament, Sheol is the place where
+        choices:
+          A: all souls go until they are judged worthy of eternal life or eternal
+            punishment.
+          B: the beggar Lazarus went in order to have conversation with the rich man.
+          C: the dead are buried, or the grave.
+          D: the wicked dead go.
+        answer: D
+      - uid: THE245.3.2.1.TY.3
+        subobj: 3.2.1
+        type: ty
+        question: The souls of Old Testament saints at death went into
+        choices:
+          A: purgatory.
+          B: Hades.
+          C: God’s presence.
+          D: Sheol.
+        answer: C
+      - uid: THE245.3.2.2.UPE.1
+        subobj: 3.2.2
+        type: upe
+        question: According to the New Testament, the righteous dead are described
+          as being
+        choices:
+          A: redeemed from the grave.
+          B: at home with the Lord.
+          C: freed from the prison of Sheol.
+          D: content in the bliss of Hades.
+        answer: B
+      - uid: THE245.3.3.1.UPE.1
+        subobj: 3.3.1
+        type: upe
+        question: The wicked will have resurrected bodies because
+        choices:
+          A: they could not be judged without such bodies.
+          B: God will not allow them to experience pain and punishment in natural
+            bodies.
+          C: eternal punishment requires an everlasting body.
+          D: they will then recognize the reality of Christ’s resurrection body after
+            His death.
+        answer: C
+      - uid: THE245.3.3.1.TY.1
+        subobj: 3.3.1
+        type: ty
+        question: Believers who have died before the Rapture are resurrected
+        choices:
+          A: at the end of the Tribulation.
+          B: at the time of the Rapture.
+          C: just prior to the Millennium.
+          D: at the judgment seat of Christ.
+        answer: B
+      - uid: THE245.3.3.1.TY.2
+        subobj: 3.3.1
+        type: ty
+        question: The deceased wicked are resurrected
+        choices:
+          A: at the end of the Millennium for judgment at the Great White Throne.
+          B: at the end of the Tribulation to appear at the judgment seat of Christ.
+          C: at the time of the Rapture.
+          D: when Christ returns to earth to defeat Satan, Antichrist, and all the
+            wicked.
+        answer: A
+      - uid: THE245.3.3.2.UPE.1
+        subobj: 3.3.2
+        type: upe
+        question: The resurrection chapter of the New Testament is
+        choices:
+          A: Acts 2.
+          B: John 3.
+          C: 1 Corinthians 13.
+          D: 1 Corinthians 15.
+        answer: D
+      - uid: THE245.3.3.3.UPE.1
+        subobj: 3.3.3
+        type: upe
+        question: The believer’s resurrected body will be
+        choices:
+          A: exactly like the body one has during one’s life on earth.
+          B: completely different from a natural body and therefore unrecognizable.
+          C: like Christ’s resurrected body.
+          D: still subject to human limitations.
+        answer: C
+      - uid: THE245.3.3.3.TY.1
+        subobj: 3.3.3
+        type: ty
+        question: The believer’s resurrected body will
+        choices:
+          A: be exactly like the body the believer has during his or her life on earth.
+          B: be completely different from a natural body and therefore unrecognizable.
+          C: still be subject to human limitations.
+          D: be like Christ’s resurrected body.
+        answer: D
+      - uid: THE245.4.1.1.UPE.1
+        subobj: 4.1.1
+        type: upe
+        question: Along with petitions, worship, and thanksgiving, prayer should include
+          the request that
+        choices:
+          A: God’s will and plan be accomplished on earth as it is in heaven.
+          B: all Muslims will be converted.
+          C: persecuted Christians around the world will not have to die as martyrs.
+          D: the family circle will be unbroken in heaven.
+        answer: A
+      - uid: THE245.4.1.1.TY.1
+        subobj: 4.1.1
+        type: ty
+        question: The Latin root of the word covenant literally means
+        choices:
+          A: “obedience to a higher power.”
+          B: “for better or for worse.”
+          C: “until death do us part.”
+          D: “coming together.”
+        answer: D
+      - uid: THE245.4.1.1.TY.2
+        subobj: 4.1.1
+        type: ty
+        question: God’s foundational covenant in His great plan of redemption was
+          made with
+        choices:
+          A: Adam.
+          B: Moses.
+          C: Abraham.
+          D: David.
+        answer: C
+      - uid: THE245.4.1.2.UPE.1
+        subobj: 4.1.2
+        type: upe
+        question: God’s promise to Abraham was confirmed to
+        choices:
+          A: David and Solomon.
+          B: Moses and Aaron.
+          C: Isaac and Jacob.
+          D: Moses and Joshua.
+        answer: C
+      - uid: THE245.4.1.2.TY.1
+        subobj: 4.1.2
+        type: ty
+        question: The provisions of God’s covenant with Abraham included
+        choices:
+          A: a faithful wife, two male children, and a long life.
+          B: a promised people, a promised blessing, and a promised land.
+          C: wealth, happiness, and God’s protection.
+          D: a promised land, many faithful servants, and victory over his enemies.
+        answer: B
+      - uid: THE245.4.1.3.UPE.1
+        subobj: 4.1.3
+        type: upe
+        question: The Mosaic Covenant was between God and
+        choices:
+          A: Moses and Joshua.
+          B: Moses.
+          C: Moses and Aaron.
+          D: Israel.
+        answer: D
+      - uid: THE245.4.1.3.TY.1
+        subobj: 4.1.3
+        type: ty
+        question: The Mosaic Covenant was between God and
+        choices:
+          A: Israel.
+          B: Moses.
+          C: Moses and Aaron.
+          D: Moses and Abraham.
+        answer: A
+      - uid: THE245.4.1.4.UPE.1
+        subobj: 4.1.4
+        type: upe
+        question: The genealogical link between the Old Testament covenants and the
+          New Covenant was
+        choices:
+          A: David and Christ.
+          B: Solomon and Christ.
+          C: Moses and Christ.
+          D: Isaiah and Paul.
+        answer: A
+      - uid: THE245.4.1.4.TY.1
+        subobj: 4.1.4
+        type: ty
+        question: The Davidic Covenant is important because it
+        choices:
+          A: established Israel as a nation forever.
+          B: forgave David’s sin with Bathsheba.
+          C: foretold the ancestry of Christ’s earthly birth.
+          D: predicted there would be evil descendants of King David.
+        answer: C
+      - uid: THE245.4.2.1.UPE.1
+        subobj: 4.2.1
+        type: upe
+        question: How many new covenants are there?
+        choices:
+          A: One covenant for Israel (Jeremiah 31) and one covenant for the church
+            (Luke 22:20)
+          B: One covenant with promises for both Israel and the church
+          C: One covenant with the church as a replacement for Israel
+          D: One covenant with the church, including individual Jews but not the nation
+            of Israel
+        answer: B
+      - uid: THE245.4.2.1.TY.1
+        subobj: 4.2.1
+        type: ty
+        question: The promise of a New Covenant for Israel was prophesied by
+        choices:
+          A: Ezekiel.
+          B: Jeremiah.
+          C: Daniel
+          D: Isaiah.
+        answer: B
+      - uid: THE245.4.2.1.TY.2
+        subobj: 4.2.1
+        type: ty
+        question: A New Covenant is promised for
+        choices:
+          A: Israel and another new covenant for the church.
+          B: the church only, because Israel has been disqualified by its unfaithfulness.
+          C: individual Gentiles who accept Christ but not the Jewish people.
+          D: Israel and the church sharing in the same new covenant through Christ.
+        answer: D
+      - uid: THE245.4.2.2.UPE.1
+        subobj: 4.2.2
+        type: upe
+        question: Through His life, death, and resurrection, Jesus became
+        choices:
+          A: the Sacrifice that did only what the animal sacrifices of the Old Testament
+            did.
+          B: the One chosen by God to defeat Satan in personal combat.
+          C: the Judge of those who would be saved and of those who would be condemned.
+          D: the Mediator between God and humankind.
+        answer: D
+      - uid: THE245.4.2.2.TY.1
+        subobj: 4.2.2
+        type: ty
+        question: The New Covenant is founded on the
+        choices:
+          A: life, death, and resurrection of Jesus.
+          B: Abrahamic Covenant.
+          C: Davidic Covenant.
+          D: Abrahamic and Davidic Covenants.
+        answer: A
+      - uid: THE245.4.2.3.UPE.1
+        subobj: 4.2.3
+        type: upe
+        question: The baptism in the Holy Spirit is only a foretaste of
+        choices:
+          A: what will happen in the Tribulation.
+          B: promised future Kingdom blessings.
+          C: an empowerment that even Christ could not provide.
+          D: the gifts of the Spirit that are only appropriated in the Millennium.
+        answer: B
+      - uid: THE245.4.2.3.TY.1
+        subobj: 4.2.3
+        type: ty
+        question: Joel’s prophecy for the Church Age included what Pentecostal promise?
+        choices:
+          A: Spirit baptism accompanied by speaking in tongues
+          B: The Holy Spirit poured out on young and old, on men and women
+          C: The gift of divine healing
+          D: The gift of miracles
+        answer: B
+      - uid: THE245.4.2.4.UPE.1
+        subobj: 4.2.4
+        type: upe
+        question: The Old Testament covenants were
+        choices:
+          A: complete failures.
+          B: abolished so the New Covenant could take effect.
+          C: evidence that Israel’s glory days are now past.
+          D: steps in the progression of God’s plan of redeeming fallen humankind.
+        answer: D
+      - uid: THE245.4.2.4.TY.1
+        subobj: 4.2.4
+        type: ty
+        question: How do the Old Testament covenants relate to the New Covenant?
+        choices:
+          A: They all failed in their intended purpose, so there had to be a perfect
+            Covenant.
+          B: Old Testament covenants were designed by humans; the New Covenant by
+            God.
+          C: The Old Testament covenants are completed or fulfilled in the New Covenant.
+          D: The “old covenants” had to be abolished so the New Covenant could be
+            in effect.
+        answer: C
+      - uid: THE245.5.1.1.UPE.1
+        subobj: 5.1.1
+        type: upe
+        question: The Rapture should be anticipated as “a Blessed Hope” for
+        choices:
+          A: every true believer.
+          B: suffering and persecuted believers, but not for healthy and wealthy believers.
+          C: the nation of Israel.
+          D: apostates, backsliders, and those who have lost their first love for
+            Christ.
+        answer: A
+      - uid: THE245.5.1.2.UPE.1
+        subobj: 5.1.2
+        type: upe
+        question: The word Rapture in Bible prophecy means
+        choices:
+          A: “a euphoric feeling of contentment.”
+          B: “to seize or snatch away.”
+          C: “to look forward to the revelation of Jesus Christ.”
+          D: “a movement in a musical composition.”
+        answer: B
+      - uid: THE245.5.1.2.TY.1
+        subobj: 5.1.2
+        type: ty
+        question: The word Rapture means
+        choices:
+          A: “a euphoric feeling of contentment.”
+          B: “a movement in a musical composition.”
+          C: “to look forward to the revelation of Jesus Christ.”
+          D: “to seize or snatch away.”
+        answer: D
+      - uid: THE245.5.1.3.UPE.1
+        subobj: 5.1.3
+        type: upe
+        question: T he Assemblies of God position on the Rapture is identified as
+          a
+        choices:
+          A: post-Tribulation Rapture.
+          B: pre-wrath Rapture.
+          C: mid-Tribulation Rapture.
+          D: pre-Tribulation Rapture.
+        answer: D
+      - uid: THE245.5.1.3.TY.1
+        subobj: 5.1.3
+        type: ty
+        question: The Assemblies of God position on the Rapture is identified as a
+        choices:
+          A: pre-Tribulation Rapture.
+          B: pre-wrath Rapture.
+          C: mid-Tribulation Rapture.
+          D: post-Tribulation Rapture.
+        answer: A
+      - uid: THE245.5.1.4.UPE.1
+        subobj: 5.1.4
+        type: upe
+        question: We are not to announce an expected date for the Rapture because
+        choices:
+          A: we are to be ready for the Rapture at all times, not just before it happens.
+          B: the twelve disciples were told never to reveal the time of the Rapture.
+          C: if Satan knew the date, he would persecute the church more viciously.
+          D: Satan would lead more astray, knowing his time was short.
+        answer: A
+      - uid: THE245.5.1.4.TY.1
+        subobj: 5.1.4
+        type: ty
+        question: Who warned against setting a date for the Rapture?
+        choices:
+          A: Isaiah and Paul.
+          B: Jesus and Paul.
+          C: Jesus and Ezekiel.
+          D: Jesus and Timothy.
+        answer: B
+      - uid: THE245.5.2.1.UPE.1
+        subobj: 5.2.1
+        type: upe
+        question: If Jesus had remained in the grave, rather than being resurrected
+          by the Holy Spirit,
+        choices:
+          A: another miraculous work could have been performed by the Holy Spirit.
+          B: Christ’s claim to be deity would have been untrue.
+          C: a spiritual resurrection would have been sufficient proof of deity.
+          D: an open grave without a body would have proved Christ’s deity.
+        answer: B
+      - uid: THE245.5.2.1.TY.1
+        subobj: 5.2.1
+        type: ty
+        question: Because the Holy Spirit raised Christ from the dead, the Bible promises
+          that
+        choices:
+          A: He will also raise both the wicked and the righteous after the Millennium.
+          B: He will also resurrect departed believers at the Rapture.
+          C: Jesus will resurrect departed believers at the Rapture.
+          D: Jesus is empowered to raise both the wicked and the righteous at the
+            same time.
+        answer: B
+      - uid: THE245.5.2.2.UPE.1
+        subobj: 5.2.2
+        type: upe
+        question: The Holy Spirit in this life prepares believers for resurrection
+          or Rapture by
+        choices:
+          A: warning of the time when the Rapture will take place.
+          B: removing all sin from their lives (entire sanctification).
+          C: indwelling all believers and empowering Spirit-filled believers.
+          D: sending angels to keep believers from committing any sin.
+        answer: C
+      - uid: THE245.5.2.2.TY.1
+        subobj: 5.2.2
+        type: ty
+        question: The Holy Spirit in this life prepares believers for resurrection
+          or Rapture by
+        choices:
+          A: warning of the time when the Rapture will take place.
+          B: removing all sin from their lives (entire sanctification).
+          C: indwelling all believers and empowering Spirit-filled believers.
+          D: sending angels to keep believers from committing any sin.
+        answer: C
+      - uid: THE245.5.3.1.UPE.1
+        subobj: 5.3.1
+        type: upe
+        question: Is the Second Coming of Christ mentioned in the Old Testament? If
+          so, where?
+        choices:
+          A: The book of Isaiah
+          B: The book of Daniel
+          C: The book of Ezekiel
+          D: It is nowhere mentioned in the Old Testament.
+        answer: B
+      - uid: THE245.5.3.1.TY.1
+        subobj: 5.3.1
+        type: ty
+        question: The “Second Advent” is another name for
+        choices:
+          A: Christ’s return to earth after the Tribulation.
+          B: the Rapture.
+          C: the Christmas story of Jesus’ birth.
+          D: Christ’s occupying the New Jerusalem.
+        answer: A
+      - uid: THE245.5.3.1.TY.2
+        subobj: 5.3.1
+        type: ty
+        question: The last book of the New Testament is called Revelation because
+          it reveals
+        choices:
+          A: in great detail the terrible judgments of the Tribulation.
+          B: the glories of the Millennium and the Eternal Ages.
+          C: Christ as the suffering Savior coming to die for sinful humans.
+          D: Christ as the primary figure of end-time prophecy.
+        answer: D
+      - uid: THE245.5.3.1.TY.3
+        subobj: 5.3.1
+        type: ty
+        question: When Christ returns to earth for the Battle of Armageddon, He is
+          accompanied by
+        choices:
+          A: saints equipped with weapons for a battle with evil.
+          B: angels with blazing tongues of fire proceeding from their mouths.
+          C: the Holy Spirit who defeats the Antichrist so Christ is not involved.
+          D: an army of angels and raptured saints.
+        answer: D
+      - uid: THE245.5.3.2.UPE.1
+        subobj: 5.3.2
+        type: upe
+        question: The beast who is judged and cast into the fiery lake of burning
+          sulfur after Armageddon is
+        choices:
+          A: Satan.
+          B: the Antichrist.
+          C: the false prophet.
+          D: the King of the Holy Roman Empire.
+        answer: B
+      - uid: THE245.5.4.1.UPE.1
+        subobj: 5.4.1
+        type: upe
+        question: Rewards are given to believers at the judgment seat of Christ on
+          the basis of
+        choices:
+          A: faith alone, lest anyone should boast.
+          B: earthly wealth in the form of gold, silver, and costly stones.
+          C: earthly humility symbolized by wood, hay, or straw.
+          D: faithful works as opposed to works of no value.
+        answer: D
+      - uid: THE245.5.4.1.TY.1
+        subobj: 5.4.1
+        type: ty
+        question: At the judgment seat of Christ, believers are judged on the basis
+          of their
+        choices:
+          A: having accepting Christ as personal Savior.
+          B: righteous deeds that are as valuable as gold, silver, and costly stones.
+          C: length of faithful service to the Kingdom of God.
+          D: avoiding sinful acts and spiritual failure.
+        answer: B
+      - uid: THE245.5.4.2.TY.1
+        subobj: 5.4.2
+        type: ty
+        question: Christ’s words, which will be more precious to saints than monetary
+          rewards, will be
+        choices:
+          A: “You have fought a good fight and have finished the race.”
+          B: “You receive the crown of glory that will never fade away.”
+          C: “Well done, good and faithful servant.”
+          D: “Come and go with Me to My Father’s house.”
+        answer: C
+      - uid: THE245.5.4.3.UPE.1
+        subobj: 5.4.3
+        type: upe
+        question: 'The words that will be more precious than monetary rewards will
+          be Christ’s words:'
+        choices:
+          A: “You have fought a good fight and have finished the race.”
+          B: “You receive the crown of glory that will never fade away.”
+          C: “Well done, good and faithful servant.”
+          D: “Come and go with Me to My Father’s house.”
+        answer: C
+      - uid: THE245.6.1.1.UPE.1
+        subobj: 6.1.1
+        type: upe
+        question: While waiting for Christ’s coming to Rapture the saints, the bride
+        choices:
+          A: expects to be surprised when Christ calls her home.
+          B: tries to live a better life than those who do not recognize Christ as
+            Lord.
+          C: purifies herself, just as Christ is pure.
+          D: watches the heavens to see Jesus as His disciples saw Him ascend into
+            heaven.
+        answer: C
+      - uid: THE245.6.1.1.TY.1
+        subobj: 6.1.1
+        type: ty
+        question: In anticipating Christ’s return, believers must guard their thoughts
+          because
+        choices:
+          A: thoughts build character, which influences one’s eternal destiny.
+          B: mental protection is better than physical safety.
+          C: intuitive thinking would alert believers of the date of Christ’s return.
+          D: Christ’s return is dependent on our thoughts.
+        answer: A
+      - uid: THE245.6.1.1.TY.2
+        subobj: 6.1.1
+        type: ty
+        question: There is no better comparison of the final union of Christ and His
+          church than
+        choices:
+          A: a mother’s love for her children.
+          B: one’s love and sacrifice for his or her country.
+          C: one’s devotion to another who has saved his or her life.
+          D: a marriage between a loving bridegroom and his faithful bride.
+        answer: D
+      - uid: THE245.6.1.1.TY.3
+        subobj: 6.1.1
+        type: ty
+        question: How does the bride-to-be church prepare herself spiritually to meet
+          the Bridegroom?
+        choices:
+          A: By memorizing Scripture and praying without ceasing
+          B: By following the example of great men and women of God
+          C: By purifying herself, becoming more and more like her holy Bridegroom
+          D: By knowing the details of what will happen in each end-time event
+        answer: C
+      - uid: THE245.6.1.2.UPE.1
+        subobj: 6.1.2
+        type: upe
+        question: The glory of God is
+        choices:
+          A: a brilliance that would blind human eyes.
+          B: an attribute of God that only the redeemed can see.
+          C: something no human has ever seen.
+          D: the magnificent manifestation of God’s splendor.
+        answer: D
+      - uid: THE245.6.1.2.TY.1
+        subobj: 6.1.2
+        type: ty
+        question: How can we have a love relationship with such an awesome God?
+        choices:
+          A: We should see ourselves as worthy of association with divine royalty.
+          B: God invites His children to draw near to Him in loving worship and communion.
+          C: We are created in God’s image; therefore, we are spiritually His equal.
+          D: God is awesome only toward His enemies; His children are His equals.
+        answer: B
+      - uid: THE245.6.1.2.TY.2
+        subobj: 6.1.2
+        type: ty
+        question: What one word best describes the scene when we first meet Jesus
+          in heaven?
+        choices:
+          A: Glory
+          B: Beautiful
+          C: Relief
+          D: Hallelujah
+        answer: A
+      - uid: THE245.6.2.1.UPE.1
+        subobj: 6.2.1
+        type: upe
+        question: Believers fulfill the Great Commission by
+        choices:
+          A: witnessing, preaching, teaching, and making disciples.
+          B: becoming active members of a local group of believers.
+          C: every day becoming more like Christ.
+          D: simply becoming a missionary in a foreign country.
+        answer: A
+      - uid: THE245.6.2.1.UPE.2
+        subobj: 6.2.1
+        type: upe
+        question: The empowerment for effectively fulfilling the Great Commission
+          is
+        choices:
+          A: complete sanctification and holy living.
+          B: the baptism in the Holy Spirit.
+          C: water baptism.
+          D: the spiritual gift of miracles.
+        answer: B
+      - uid: THE245.6.2.1.TY.1
+        subobj: 6.2.1
+        type: ty
+        question: What is the coming night when all work for God’s Kingdom will cease?
+        choices:
+          A: The darkness that falls on the earth in the Tribulation judgments
+          B: The death of the believer who can no longer labor for the Kingdom
+          C: When believers are raptured and are no longer on earth as witnesses
+          D: When the Antichrist silences the witnesses by killing them
+        answer: C
+      - uid: THE245.6.2.1.TY.2
+        subobj: 6.2.1
+        type: ty
+        question: The Great Commission calls believers to
+        choices:
+          A: witness only in Jerusalem, Judea, Samaria, and various parts of the earth.
+          B: witness, preach, teach, and make disciples everywhere.
+          C: enlist in full-time ministry.
+          D: concentrate on the complete sanctification of all Christians.
+        answer: B
+      - uid: THE245.6.2.1.TY.3
+        subobj: 6.2.1
+        type: ty
+        question: The special equipment God gave for fulfilling the Great Commission
+          was the
+        choices:
+          A: gift of prophecy.
+          B: baptism in the name of the Father, and of the Son, and of the Holy Spirit.
+          C: gift of wisdom.
+          D: baptism in the Holy Spirit.
+        answer: D
+      - uid: THE245.6.2.2.UPE.1
+        subobj: 6.2.2
+        type: upe
+        question: When skeptics blame God for all human suffering, they overlook the
+          fact that
+        choices:
+          A: all suffering is temporary.
+          B: the righteous avoid suffering on this earth.
+          C: God will end suffering in the future, for all of His children.
+          D: the tribulation will be a temporary time of suffering.
+        answer: C
+      - uid: THE245.6.2.2.UPE.2
+        subobj: 6.2.2
+        type: upe
+        question: If God is omnipotent and loving, why does He allow evil and temptations
+          to exist?
+        choices:
+          A: God uses evil to punish disobedient people in this life.
+          B: If there were no evil or temptation, there would be no choice but to
+            obey God.
+          C: God causes Christians to suffer so they will be brought closer to Him.
+          D: God is not completely omnipotent in matters of right and wrong.
+        answer: B
+      - uid: THE245.6.2.2.TY.1
+        subobj: 6.2.2
+        type: ty
+        question: When skeptics blame God for all human suffering, they overlook the
+          fact that
+        choices:
+          A: God will end suffering in the future, for all of His children.
+          B: the righteous avoid suffering on this earth.
+          C: all suffering is temporary..
+          D: the tribulation will be a temporary time of suffering.
+        answer: A
+      - uid: THE245.6.2.3.UPE.1
+        subobj: 6.2.3
+        type: upe
+        question: “Laying up treasure in heaven” (Mark 10:21) refers to the believers’
+        choices:
+          A: working tirelessly on earth for social and political reforms.
+          B: sending up prayers to help prepare the place Jesus has gone to get ready
+            for us.
+          C: spending time daily reading about what heaven will be like.
+          D: receiving rewards at the judgment seat of Christ.
+        answer: D
+      - uid: THE245.6.2.3.TY.1
+        subobj: 6.2.3
+        type: ty
+        question: “Laying up treasure in heaven” (Mark 10:21) refers to the believer’s
+        choices:
+          A: sending up prayers to help provide the place Jesus has gone to prepare
+            for us.
+          B: receiving rewards at the judgment seat of Christ.
+          C: working tirelessly on earth for social and political reforms.
+          D: spending time daily reading about what heaven will be like.
+        answer: B
+      - uid: THE245.7.1.1.UPE.1
+        subobj: 7.1.1
+        type: upe
+        question: The “Day of the Lord,” as used throughout Scripture, refers to
+        choices:
+          A: the last 3½ years of the Great Tribulation.
+          B: God’s judgment of evil from the Rapture to the Great White Throne Judgment.
+          C: the Church Age in which we now live.
+          D: the Millennium, since with the Lord a day is like a thousand years (2
+            Peter 3:8).
+        answer: B
+      - uid: THE245.7.1.1.TY.1
+        subobj: 7.1.1
+        type: ty
+        question: Martyrdom of Christian believers
+        choices:
+          A: is no longer important as the body of Christ has matured.
+          B: resulted from the martyrs’ sin and lack of faith.
+          C: is evidence of God’s failure to protect His own.
+          D: has fueled the growth of the church.
+        answer: D
+      - uid: THE245.7.1.2.UPE.1
+        subobj: 7.1.2
+        type: upe
+        question: No matter how much a person suffers in this life, the judgments
+          of the Tribulation
+        choices:
+          A: far exceed present tribulations.
+          B: will only be temporary for believers.
+          C: represent the greatest pain and suffering Satan can inflict.
+          D: are only for a time, times, and half a time.
+        answer: A
+      - uid: THE245.7.1.2.TY.1
+        subobj: 7.1.2
+        type: ty
+        question: Martyrdom and persecution in this life are not evidence of the Great
+          Tribulation because
+        choices:
+          A: God uses such punishment to keep people from sinning.
+          B: they are not caused by God’s wrath against those who reject His Son Jesus.
+          C: Satan destroys human life now just as he will in the Tribulation.
+          D: Satan’s wrath against believers equals God’s wrath against those who
+            reject Him.
+        answer: B
+      - uid: THE245.7.1.2.TY.2
+        subobj: 7.1.2
+        type: ty
+        question: To “trust in the Lord” means
+        choices:
+          A: having confidence in the character, ability, and truthfulness of God.
+          B: God will never let us suffer a painful death.
+          C: Christians will never go hungry because God always provides.
+          D: Christians will never suffer pain because God is our Healer.
+        answer: A
+      - uid: THE245.7.2.1.UPE.1
+        subobj: 7.2.1
+        type: upe
+        question: The major Old Testament resource for studying Bible prophecy is
+          the book of
+        choices:
+          A: Joel.
+          B: Daniel.
+          C: Isaiah.
+          D: Ezekiel.
+        answer: B
+      - uid: THE245.7.2.1.TY.1
+        subobj: 7.2.1
+        type: ty
+        question: The Old Testament book that provides the most references to end-time
+          events is
+        choices:
+          A: Isaiah.
+          B: Ezekiel.
+          C: Daniel.
+          D: Jeremiah.
+        answer: C
+      - uid: THE245.7.2.2.UPE.1
+        subobj: 7.2.2
+        type: upe
+        question: The rock that strikes the statue in the feet, causing it to shatter,
+          represents
+        choices:
+          A: the Antichrist.
+          B: the Holy Roman Empire.
+          C: the European Union.
+          D: Christ.
+        answer: D
+      - uid: THE245.7.2.2.TY.1
+        subobj: 7.2.2
+        type: ty
+        question: The gold head of the statue in Nebuchadnezzar’s dream stood for
+        choices:
+          A: the Medo-Persian Empire.
+          B: Nebuchadnezzar’s Babylonian Empire.
+          C: Alexander the Great’s Greek Empire.
+          D: the Roman Empire.
+        answer: B
+      - uid: THE245.7.2.2.TY.2
+        subobj: 7.2.2
+        type: ty
+        question: The rock that strikes the statue in the feet, causing it to shatter,
+          represents
+        choices:
+          A: the Antichrist.
+          B: the United States.
+          C: the European Union.
+          D: Christ.
+        answer: D
+      - uid: THE245.7.2.3.UPE.1
+        subobj: 7.2.3
+        type: upe
+        question: The little horn on the terrifying fourth beast in Daniel’s dream
+          represents
+        choices:
+          A: the false prophet.
+          B: Lucifer.
+          C: the Antichrist.
+          D: Alexander the Great.
+        answer: C
+      - uid: THE245.7.2.3.TY.1
+        subobj: 7.2.3
+        type: ty
+        question: Many conservative Bible scholars believe that Daniel’s imagery of
+          the little horn is representative of
+        choices:
+          A: the nation of Rome.
+          B: musicians in the Lord’s army.
+          C: the Antichrist.
+          D: ancient world powers.
+        answer: C
+      - uid: THE245.7.2.4.UPE.1
+        subobj: 7.2.4
+        type: upe
+        question: The seventieth week of Daniel’s seventy weeks (of years) is
+        choices:
+          A: the Tribulation.
+          B: the Millennium.
+          C: the judgment seat of Christ in heaven.
+          D: the Great White Throne Judgment.
+        answer: A
+      - uid: THE245.7.2.4.TY.1
+        subobj: 7.2.4
+        type: ty
+        question: The seventieth week of Daniel’s seventy weeks (of years) is the
+        choices:
+          A: Tribulation.
+          B: Millennium.
+          C: judgment seat of Christ in heaven.
+          D: Great White Throne Judgment.
+        answer: A
+      - uid: THE245.7.3.1.UPE.1
+        subobj: 7.3.1
+        type: upe
+        question: The view claiming that end-time prophecy was fulfilled in the first
+          century is called the
+        choices:
+          A: futurist view.
+          B: historicist view.
+          C: idealist or spiritual view.
+          D: preterist view.
+        answer: D
+      - uid: THE245.7.3.1.TY.1
+        subobj: 7.3.1
+        type: ty
+        question: The view of prophecy that is supported by the most literal reading
+          of Scripture is the
+        choices:
+          A: preterist view.
+          B: futurist view.
+          C: historicist view.
+          D: idealist or spiritual view.
+        answer: B
+      - uid: THE245.7.3.2.UPE.1
+        subobj: 7.3.2
+        type: upe
+        question: The view of prophecy that is supported by the most literal reading
+          of Scripture is the
+        choices:
+          A: futurist view.
+          B: historicist view.
+          C: idealist or spiritual view.
+          D: preterist view.
+        answer: A
+      - uid: THE245.7.3.3.UPE.1
+        subobj: 7.3.3
+        type: upe
+        question: We believe the Bible teaches that believers
+        choices:
+          A: will go through three and one-half years of the seven Tribulation years.
+          B: will go through all the seven Tribulation years.
+          C: will go through all seven years except a short time of God’s wrath at
+            the end.
+          D: will not go through any of the seven Tribulation years.
+        answer: D
+      - uid: THE245.7.3.3.TY.1
+        subobj: 7.3.3
+        type: ty
+        question: We believe the Bible teaches that believers
+        choices:
+          A: will go through three and one-half of the seven Tribulation years.
+          B: will go through all the seven Tribulation years.
+          C: will not go through any of the seven Tribulation years.
+          D: will go through all seven years except for a short time of God’s wrath
+            at the end.
+        answer: C
+      - uid: THE245.8.1.1.UPE.1
+        subobj: 8.1.1
+        type: upe
+        question: The evil triad includes
+        choices:
+          A: Satan, the Antichrist, and the false prophet.
+          B: the Antichrist, the two witnesses, and Satan.
+          C: the Antichrist, the devil, and the flesh.
+          D: Satan, the false witness, and the world.
+        answer: A
+      - uid: THE245.8.1.1.TY.1
+        subobj: 8.1.1
+        type: ty
+        question: The ultimate goal of the evil triad is to
+        choices:
+          A: frustrate the plans of God.
+          B: accuse the believers.
+          C: deceive the world with signs and wonders.
+          D: dethrone the Holy Trinity.
+        answer: D
+      - uid: THE245.8.1.1.TY.2
+        subobj: 8.1.1
+        type: ty
+        question: The evil triad of the Tribulation that will imitate roles similar
+          to God, Jesus, and the Holy Spirit includes Satan, the Antichrist, and the
+        choices:
+          A: false prophet.
+          B: devil.
+          C: accuser of our brothers.
+          D: adversary.
+        answer: A
+      - uid: THE245.8.1.2.UPE.1
+        subobj: 8.1.2
+        type: upe
+        question: The two witnesses preach God’s message during the Tribulation for
+        choices:
+          A: 2,520 days.
+          B: half of the seven-year Tribulation period.
+          C: the entire Tribulation period.
+          D: the last year before Christ’s return at the end of the Tribulation.
+        answer: B
+      - uid: THE245.8.1.2.TY.1
+        subobj: 8.1.2
+        type: ty
+        question: For preaching God’s message in the first half of the Tribulation,
+          the two witnesses
+        choices:
+          A: are translated without dying to escape the wrath of the Antichrist.
+          B: are killed and lie in the streets of Jerusalem for three and one-half
+            days.
+          C: bring ten thousand inhabitants to know Christ through their witnessing.
+          D: are identified in Scripture as Elijah and Enoch, two saints who never
+            died.
+        answer: B
+      - uid: THE245.8.1.3.UPE.1
+        subobj: 8.1.3
+        type: upe
+        question: The 144,000 sealed in the Tribulation are identified as
+        choices:
+          A: Gentiles who missed the Rapture but are redeemed by being martyred.
+          B: souls redeemed out of the Tribulation to guard the twelve gates of New
+            Jerusalem.
+          C: souls who come to Christ through the witness of the twelve disciples.
+          D: servants of God from the twelve tribes of Israel.
+        answer: D
+      - uid: THE245.8.1.3.TY.1
+        subobj: 8.1.3
+        type: ty
+        question: The 144,000 sealed in the Tribulation are identified as
+        choices:
+          A: Gentiles who missed the Rapture but are redeemed by being martyred.
+          B: servants of God from the twelve tribes of Israel.
+          C: souls who come to Christ through the witness of the twelve disciples.
+          D: souls redeemed out of the Tribulation to guard the twelve gates of New
+            Jerusalem.
+        answer: B
+      - uid: THE245.8.1.4.UPE.1
+        subobj: 8.1.4
+        type: upe
+        question: During the Tribulation on earth, holy angels
+        choices:
+          A: protect little children from harm and danger.
+          B: carry out God’s end-time purposes.
+          C: carry messages between the members of the Trinity.
+          D: play trumpets, but never sing because of the many languages in heaven.
+        answer: B
+      - uid: THE245.8.1.4.TY.1
+        subobj: 8.1.4
+        type: ty
+        question: The holy angel who leads a host of angels into battle against Satan
+          is named
+        choices:
+          A: Abaddon.
+          B: Gabriel.
+          C: Michael.
+          D: Apollyon.
+        answer: C
+      - uid: THE245.8.2.1.TY.1
+        subobj: 8.2.1
+        type: ty
+        question: In writing to the Thessalonians, Paul describes the Antichrist as
+        choices:
+          A: the man of lawlessness or sin.
+          B: the ruler over a reprobate world.
+          C: Satan’s pawn during the Tribulation.
+          D: one who exalts and glorifies himself above every god.
+        answer: A
+      - uid: THE245.8.2.2.UPE.1
+        subobj: 8.2.2
+        type: upe
+        question: The Antichrist will mislead many during the Tribulation by
+        choices:
+          A: performing counterfeit signs and miracles.
+          B: pretending to be Christ.
+          C: promising to forgive sins.
+          D: claiming to have defeated God.
+        answer: A
+      - uid: THE245.8.2.3.UPE.1
+        subobj: 8.2.3
+        type: upe
+        question: According to Scripture, the tattooed mark of the beast (666) will
+          be required to
+        choices:
+          A: stand up for Christ during the Tribulation.
+          B: buy and sell everything, including food.
+          C: use the highways for travel from place to place.
+          D: keep work animals and pets.
+        answer: B
+      - uid: THE245.8.3.1.UPE.1
+        subobj: 8.3.1
+        type: upe
+        question: What is Satan doing in heaven when he and his angels are permanently
+          expelled?
+        choices:
+          A: Attempting to dethrone God and take His place
+          B: Seeking to enlist righteous angels to follow him in opposition to God
+          C: Spying on God’s defenses in preparation for a final battle with Christ
+          D: Accusing the believers of wrong doing before God
+        answer: D
+      - uid: THE245.8.3.1.TY.1
+        subobj: 8.3.1
+        type: ty
+        question: Replacement Theology teaches that
+        choices:
+          A: when one is saved, a stony heart is replaced by a compassionate, loving
+            heart.
+          B: the New Testament has replaced the Old Testament in God’s prophetic plan.
+          C: the resurrection body replaces the natural body at the Rapture.
+          D: the church has replaced Israel in the blessings promised to Israel.
+        answer: D
+      - uid: THE245.8.3.1.TY.2
+        subobj: 8.3.1
+        type: ty
+        question: What is Satan doing in heaven when he and his angels are permanently
+          expelled?
+        choices:
+          A: Attempting to dethrone God and take His place
+          B: Seeking to enlist righteous angels to follow him in opposition to God
+          C: Spying on God’s defenses in preparation for a final battle with Christ
+          D: Accusing the believers of wrongdoing before God
+        answer: D
+      - uid: THE245.8.3.1.TY.3
+        subobj: 8.3.1
+        type: ty
+        question: Who is the mother who gives birth to the son God snatches up to
+          His throne?
+        choices:
+          A: The virgin Mary gave birth to the Son of God.
+          B: Israel is the nation through whom Christ comes to earth.
+          C: The church that accepts Christ as the Son of God is the mother.
+          D: There is no historical significance to the vision John sees in Revelation
+            12.
+        answer: B
+      - uid: THE245.8.3.3.UPE.1
+        subobj: 8.3.3
+        type: upe
+        question: The promise that “All Israel will be saved” means that
+        choices:
+          A: Israel will receive God’s promised salvation without accepting Christ
+            as Savior.
+          B: believers, along with the godly people of Israel in ancient times, will
+            be saved through Christ.
+          C: God has a different standard of salvation for Israel than He has for
+            the church.
+          D: God loves Israel without any conditions or requirements.
+        answer: B
+      - uid: THE245.8.3.3.TY.1
+        subobj: 8.3.3
+        type: ty
+        question: What is the meaning of “all Israel will be saved” (Romans 11:26)?
+        choices:
+          A: God’s love for Israel is so great that He will accept even those who
+            reject Christ.
+          B: In God’s view, Israel consists of Jews who look for any messiah.
+          C: The believers, along with the godly people of Israel in ancient times,
+            will be saved through Christ.
+          D: God has a different standard of salvation for Israel than He has for
+            the church.
+        answer: C
+      - uid: THE245.9.1.1.UPE.1
+        subobj: 9.1.1
+        type: upe
+        question: The only One worthy to break the seals and open the scroll is
+        choices:
+          A: the Lion of the tribe of Judah.
+          B: John the Revelator.
+          C: the mighty angel.
+          D: all the above.
+        answer: A
+      - uid: THE245.9.1.1.TY.1
+        subobj: 9.1.1
+        type: ty
+        question: Who is able to break the seals and open the scroll in response to
+          the angel’s question?
+        choices:
+          A: The Antichrist will do this with the assistance of Satan.
+          B: The false prophet, who can manipulate any seemingly impossible situation,
+            will do this.
+          C: Christ alone can break the seals.
+          D: John, the inspired author of Revelation, is able.
+        answer: C
+      - uid: THE245.9.1.1.TY.2
+        subobj: 9.1.1
+        type: ty
+        question: The Tribulation judgments most likely take place in the last three
+          and one-half years because
+        choices:
+          A: the first half of the Tribulation has natural disasters rather than God’s
+            wrath.
+          B: God’s wrath builds up to Christ’s Second Coming at Armageddon.
+          C: as the Antichrist becomes more evil, the judgments begin.
+          D: in the first half, Christ is still trying to win the hearts of the Antichrist’s
+            followers.
+        answer: B
+      - uid: THE245.9.1.1.TY.3
+        subobj: 9.1.1
+        type: ty
+        question: The judgments of the first four seals have what common feature?
+        choices:
+          A: The four riders on four horses bring the judgments.
+          B: The first four seal judgments are less severe than the final three.
+          C: The first four seal judgments have no mention of color in them.
+          D: They are the only true judgments in the seven seal “judgments.”
+        answer: A
+      - uid: THE245.9.1.1.TY.4
+        subobj: 9.1.1
+        type: ty
+        question: The fifth seal, rather than a vicious judgment, describes the
+        choices:
+          A: martyrs under the altar asking God to avenge their deaths.
+          B: compassion of the Lamb for the lost.
+          C: strange silence in heaven.
+          D: 144,000 from the twelve tribes of Israel accepting Christ as their Messiah.
+        answer: A
+      - uid: THE245.9.1.1.TY.5
+        subobj: 9.1.1
+        type: ty
+        question: What likely causes a half-hour of silence in heaven at the breaking
+          of the seventh seal?
+        choices:
+          A: Silence is appropriate when a member of the Trinity is present.
+          B: There is a brief uncertainty about how humans will respond to the judgments.
+          C: The awesome magnitude of coming judgments causes silence.
+          D: Worship and singing are not appropriate when judgment is being poured
+            out.
+        answer: C
+      - uid: THE245.9.1.2.TY.1
+        subobj: 9.1.2
+        type: ty
+        question: Between the sixth and seventh seal judgments, John records a refreshing
+          image of
+        choices:
+          A: Satan’s being captured.
+          B: the judgment of universal sin.
+          C: angels breaking the seven seals and opening the scroll.
+          D: blood-washed martyrs who have been redeemed.
+        answer: D
+      - uid: THE245.9.2.1.UPE.1
+        subobj: 9.2.1
+        type: upe
+        question: Humans on earth respond to the trumpet judgments by
+        choices:
+          A: repenting.
+          B: turning against Antichrist.
+          C: trying to remove the mark of the beast from their hands and foreheads.
+          D: profaning God.
+        answer: D
+      - uid: THE245.9.2.1.TY.1
+        subobj: 9.2.1
+        type: ty
+        question: The first four trumpet judgments have what common feature?
+        choices:
+          A: Humans are killed, but animal and plant life are protected.
+          B: Heavenly bodies impact nature and human life on earth.
+          C: Satan is cast out of heaven.
+          D: Saints around the throne in heaven rejoice that judgment is meted out.
+        answer: B
+      - uid: THE245.9.2.1.TY.2
+        subobj: 9.2.1
+        type: ty
+        question: Humans on earth respond to the trumpet judgments by
+        choices:
+          A: repenting.
+          B: turning against the Antichrist.
+          C: trying to remove the mark of the beast from their hands and foreheads.
+          D: profaning God.
+        answer: D
+      - uid: THE245.9.3.1.TY.1
+        subobj: 9.3.1
+        type: ty
+        question: How does the fifth bowl judgment specifically target the Antichrist?
+        choices:
+          A: He is smitten by painful malignant sores.
+          B: His kingdom is plunged into darkness.
+          C: His drinking water turns into blood.
+          D: The sun’s heat becomes so intense that he cannot leave his throne.
+        answer: B
+      - uid: THE245.9.3.1.TY.2
+        subobj: 9.3.1
+        type: ty
+        question: What is the response of earth’s inhabitants to the judgment on the
+          Antichrist’s kingdom?
+        choices:
+          A: They refuse to assemble as commanded by the Antichrist.
+          B: They reconsider their opposition to Christ and repent of their disobedience.
+          C: They gnaw their tongues in agony.
+          D: They curse the day they were born.
+        answer: C
+      - uid: THE245.9.3.2.UPE.1
+        subobj: 9.3.2
+        type: upe
+        question: The bowl judgments
+        choices:
+          A: simply repeat the trumpet judgments.
+          B: repeat both the seal and trumpet judgments.
+          C: do not have any similarity with the earlier judgments.
+          D: though similar to some of the earlier judgments, are increasingly more
+            severe.
+        answer: D
+      - uid: THE245.10.1.1.UPE.1
+        subobj: 10.1.1
+        type: upe
+        question: The Battle of Armageddon will take place
+        choices:
+          A: between Nazareth and the Mediterranean Sea.
+          B: throughout Europe, Africa, and Asia.
+          C: over most of present-day Israel and Palestine.
+          D: just east of Jerusalem.
+        answer: C
+      - uid: THE245.10.1.1.TY.1
+        subobj: 10.1.1
+        type: ty
+        question: The Battle of Armageddon will take place
+        choices:
+          A: over most of present-day Israel and Palestine.
+          B: just east of Jerusalem.
+          C: between Nazareth and the Mediterranean Sea.
+          D: throughout Europe, Africa, and Asia.
+        answer: A
+      - uid: THE245.10.1.1.TY.2
+        subobj: 10.1.1
+        type: ty
+        question: How are the armies of the world brought together by the Antichrist
+          and Satan?
+        choices:
+          A: The Antichrist offers participating nations special positions in his
+            coming kingdom.
+          B: Three frog-like evil spirits perform signs to persuade the armies to
+            gather.
+          C: The Antichrist threatens any nation that does not join the world army.
+          D: Satan alters land forms making it convenient for nations to gather for
+            battle.
+        answer: B
+      - uid: THE245.10.1.1.TY.3
+        subobj: 10.1.1
+        type: ty
+        question: According to the Old Testament prophet Joel, who actually brings
+          the armies together?
+        choices:
+          A: The false prophet
+          B: God
+          C: Satan
+          D: Fallen angels
+        answer: B
+      - uid: THE245.10.1.2.UPE.1
+        subobj: 10.1.2
+        type: upe
+        question: In prophesying about the battle, Joel quotes God as saying,
+        choices:
+          A: “Lucifer will gather all nations . . . to the Valley of Jehoshaphat.”
+          B: “The great deceiver will gather the nations . . . to the Valley of Jehoshaphat.”
+          C: “As a magnet draws metal, the nations will be drawn to Palestine.”
+          D: “I will gather all nations . . . to the Valley of Jehoshaphat.”
+        answer: D
+      - uid: THE245.10.1.2.TY.1
+        subobj: 10.1.2
+        type: ty
+        question: Satan’s primary reason for uniting the world under the Antichrist
+          is to
+        choices:
+          A: create a one-world government.
+          B: undermine the United States of America and its allies.
+          C: fight and defeat God and destroy Jerusalem.
+          D: control the world’s economy.
+        answer: C
+      - uid: THE245.10.1.3.TY.1
+        subobj: 10.1.3
+        type: ty
+        question: Besides fighting and defeating God, Satan also seeks to
+        choices:
+          A: end the terrible judgments God has been pouring out on the earth.
+          B: destroy Christ, who has so damaged Satan’s rule.
+          C: destroy Jerusalem and God’s chosen people Israel.
+          D: show that all the prophecies about his defeat are myths.
+        answer: C
+      - uid: THE245.10.1.3.TY.2
+        subobj: 10.1.3
+        type: ty
+        question: What is the significance of Ezekiel’s prophecy about Gog invading
+          Israel?
+        choices:
+          A: The occurrence is God’s witness that Israel continues to be His chosen
+            people.
+          B: Russia is definitely the Gog who invades from the north.
+          C: Israel will always have enemies who seek its destruction.
+          D: The battle of Gog and Magog is another name for Armageddon.
+        answer: A
+      - uid: THE245.10.2.1.UPE.1
+        subobj: 10.2.1
+        type: upe
+        question: Christ destroys the armies of Satan and the Antichrist by
+        choices:
+          A: catapulting from His mouth a sharp sword that strikes down the nations.
+          B: sending the archangel Michael who instantly kills the gathered enemies
+            of God.
+          C: using a massive cache of weapons and armaments wielded by His saints
+            and angels.
+          D: a nuclear annihilation of the armies from around the world.
+        answer: A
+      - uid: THE245.10.2.1.TY.1
+        subobj: 10.2.1
+        type: ty
+        question: The gathered armies of Satan and the Antichrist at Armageddon are
+          destroyed by
+        choices:
+          A: a massive force of weapons wielded by angels and saints returning with
+            Christ.
+          B: God’s supernatural brightness shining on the armies, so there is no need
+            for weapons.
+          C: Michael, sent by God to destroy all evil opposition.
+          D: a sharp sword from the mouth of Christ to strike down the gathered nations.
+        answer: D
+      - uid: THE245.10.2.2.UPE.1
+        subobj: 10.2.2
+        type: upe
+        question: The permanent state of punishment is called
+        choices:
+          A: Hell or Hades.
+          B: the Lake of Fire (fiery lake) or Gehenna.
+          C: the Abyss or Tartarus.
+          D: Sheol or the pit.
+        answer: B
+      - uid: THE245.10.2.2.TY.1
+        subobj: 10.2.2
+        type: ty
+        question: What is Satan’s fate after he is defeated at Armageddon?
+        choices:
+          A: He is bound and cast into the fiery lake.
+          B: He is annihilated, never to be seen again by anyone.
+          C: He recognizes that he has lost and pleads for clemency.
+          D: He is bound and thrown into the Abyss for a thousand years.
+        answer: D
+      - uid: THE245.10.2.2.TY.2
+        subobj: 10.2.2
+        type: ty
+        question: The permanent state of punishment is called
+        choices:
+          A: Hell or Hades.
+          B: the Lake of Fire (fiery lake) or Gehenna.
+          C: the Abyss or Tartarus.
+          D: Sheol or the pit.
+        answer: B
+      - uid: THE245.10.2.3.UPE.1
+        subobj: 10.2.3
+        type: upe
+        question: The righteous souls resurrected at the end of the Tribulation are
+        choices:
+          A: the two witnesses killed for preaching Christ during the Tribulation.
+          B: nominal Christians who missed the Rapture and wavered during the Tribulation.
+          C: babies born during the Tribulation but killed in the seals / trumpets
+            / bowls judgments.
+          D: the martyred saints who did not bow down to the Antichrist or take his
+            mark.
+        answer: D
+      - uid: THE245.10.2.3.TY.1
+        subobj: 10.2.3
+        type: ty
+        question: Another resurrection of the righteous takes place after the Tribulation.
+          It is
+        choices:
+          A: the resurrection of babies born during the Tribulation but killed in
+            the judgments.
+          B: the two witnesses killed for preaching Christ during the Tribulation.
+          C: the resurrection of the martyred saints who did not bow down to the Antichrist.
+          D: nominal Christians who hide from the Antichrist throughout the Tribulation.
+        answer: C
+      - uid: THE245.11.1.1.UPE.1
+        subobj: 11.1.1
+        type: upe
+        question: The amillennial position on end-time prophecy maintains that
+        choices:
+          A: a golden age, or Millennium, is gradually becoming a reality; then Jesus
+            will return.
+          B: there will not be a literal thousand-year earthly reign of Christ on
+            earth.
+          C: Bible history is divided into distinct time periods, usually seven.
+          D: Christ will come back to earth after the Tribulation to begin a thousand-year
+            reign.
+        answer: B
+      - uid: THE245.11.1.1.TY.1
+        subobj: 11.1.1
+        type: ty
+        question: The belief that there will not be a literal thousand-year earthly
+          reign of Christ is
+        choices:
+          A: postmillennialism.
+          B: premillennialism.
+          C: dispensationalism.
+          D: amillennialism.
+        answer: D
+      - uid: THE245.11.1.1.TY.2
+        subobj: 11.1.1
+        type: ty
+        question: Amillennialists believe the binding and casting of Satan into the
+          Abyss takes place
+        choices:
+          A: when Satan is cast into the lake of fire after the Millennium.
+          B: just after the Tribulation.
+          C: when Christ died on the cross.
+          D: when Christ came to earth as a baby.
+        answer: C
+      - uid: THE245.11.1.2.UPE.1
+        subobj: 11.1.2
+        type: upe
+        question: The amillennial position on Israel’s role in end-time events is
+          that
+        choices:
+          A: the church has replaced Israel as the recipient of end-time prophecies
+            of a restored Israel.
+          B: the Bible prophecies about a restored Israel are still to be fulfilled
+            in the future.
+          C: all Israel will be saved and accept Christ as the Messiah.
+          D: Bible references to Israel in the end-time should be interpreted literally.
+        answer: A
+      - uid: THE245.11.2.1.UPE.1
+        subobj: 11.2.1
+        type: upe
+        question: The postmillennial position on eschatology maintains that
+        choices:
+          A: there will not be a literal Millennium.
+          B: Christ will come back to earth after the Tribulation to begin a thousand-year
+            reign.
+          C: a golden age, or Millennium, is gradually becoming a reality; then Jesus
+            will return.
+          D: Bible history is divided into seven distinct time periods.
+        answer: C
+      - uid: THE245.11.2.1.TY.1
+        subobj: 11.2.1
+        type: ty
+        question: The two beliefs that tend to view end-time prophecy as figurative
+          rather than literal are
+        choices:
+          A: amillennialism and postmillennialism.
+          B: dispensationalism and premillennialism.
+          C: amillennialism and dispensationalism.
+          D: postmillennialism and dispensationalism.
+        answer: A
+      - uid: THE245.11.2.2.UPE.1
+        subobj: 11.2.2
+        type: upe
+        question: Daniel Whitby (1638–1726) is considered the father or first significant
+          proponent of
+        choices:
+          A: dispensationalism.
+          B: amillennialism.
+          C: postmillennialism.
+          D: premillennialism.
+        answer: C
+      - uid: THE245.11.2.2.TY.1
+        subobj: 11.2.2
+        type: ty
+        question: The belief that a golden age, or Millennium, is gradually becoming
+          a reality is
+        choices:
+          A: premillennialism.
+          B: dispensationalism.
+          C: postmillennialism.
+          D: amillennialism.
+        answer: C
+      - uid: THE245.11.2.2.TY.2
+        subobj: 11.2.2
+        type: ty
+        question: Postmillennialism declined in importance in the twentieth century
+          because
+        choices:
+          A: theologians discovered passages in the Bible that refuted the belief.
+          B: wars and calamities indicated the world was getting worse rather than
+            better.
+          C: scientific advances that could have improved the world failed to materialize.
+          D: the founders of the theory were no longer around to defend the position.
+        answer: B
+      - uid: THE245.11.2.2.TY.3
+        subobj: 11.2.2
+        type: ty
+        question: Kingdom Now and Dominion Theology are new versions of
+        choices:
+          A: amillennialism.
+          B: dispensationalism.
+          C: premillennialism.
+          D: postmillennialism.
+        answer: D
+      - uid: THE245.11.3.1.UPE.1
+        subobj: 11.3.1
+        type: upe
+        question: Dispensationalism was popularized in the nineteenth and early twentieth
+          centuries by
+        choices:
+          A: John Darby and C. I. Scofield.
+          B: liberal Bible teachers and scholars.
+          C: Norman Vincent Peale and his followers.
+          D: modernistic Protestant churches.
+        answer: A
+      - uid: THE245.11.3.1.TY.1
+        subobj: 11.3.1
+        type: ty
+        question: Dispensationalism was popularized in the nineteenth and early twentieth
+          centuries by
+        choices:
+          A: John Darby and C.I. Scofield.
+          B: liberal Bible teachers and scholars.
+          C: Norman Vincent Peale and his followers.
+          D: modernistic Protestant churches.
+        answer: A
+      - uid: THE245.11.3.2.UPE.1
+        subobj: 11.3.2
+        type: upe
+        question: The seventh and final period of Dispensational teaching is
+        choices:
+          A: the present Church Age.
+          B: theocracy or divine government.
+          C: the Millennium or Kingdom dispensation.
+          D: the dispensation of promise.
+        answer: C
+      - uid: THE245.11.3.2.TY.1
+        subobj: 11.3.2
+        type: ty
+        question: The belief that Bible history is divided into distinct time periods,
+          usually seven, is
+        choices:
+          A: premillennialism.
+          B: dispensationalism.
+          C: postmillennialism.
+          D: amillennialism.
+        answer: B
+      - uid: THE245.11.3.3.UPE.1
+        subobj: 11.3.3
+        type: upe
+        question: Dispensationalism is closely related to
+        choices:
+          A: premillennialism.
+          B: amillennialism.
+          C: postmillennialism.
+          D: Kingdom Now or Dominion Theology.
+        answer: A
+      - uid: THE245.11.3.3.TY.1
+        subobj: 11.3.3
+        type: ty
+        question: Dispensationalism contributed much to the prominence of
+        choices:
+          A: amillennialism.
+          B: premillennialism.
+          C: postmillennialism.
+          D: mainline Protestant groups.
+        answer: B
+      - uid: THE245.11.4.1.UPE.1
+        subobj: 11.4.1
+        type: upe
+        question: Which one of the following is not a belief of Pentecostal premillennialism?
+        choices:
+          A: A thousand-year Millennium occurs after the Tribulation.
+          B: Resurrection of the righteous dead at the Rapture
+          C: The church replacing Israel as the beneficiary of God’s promised blessings
+          D: The Rapture can happen at any time.
+        answer: C
+      - uid: THE245.11.4.1.TY.1
+        subobj: 11.4.1
+        type: ty
+        question: Which one of the following is not a belief of Pentecostal premillennialism?
+        choices:
+          A: A literal interpretation of Bible prophecy
+          B: Resurrection of the righteous dead at the Rapture
+          C: The church replacing Israel as the beneficiary of God’s promised blessings
+          D: The Rapture happening at any moment
+        answer: C
+      - uid: THE245.11.4.2.UPE.1
+        subobj: 11.4.2
+        type: upe
+        question: Premillennialism does not teach that Satan was bound at Calvary
+          because
+        choices:
+          A: it feels obligated to oppose all the teachings of postmillennialism.
+          B: dispensationalism held the view long before premillennialism was birthed.
+          C: it is obligated to oppose all the teachings of amillennialism.
+          D: Satan is still very active, going around as a roaring lion seeking whom
+            he may devour.
+        answer: D
+      - uid: THE245.12.1.1.UPE.1
+        subobj: 12.1.1
+        type: upe
+        question: The believer’s love relationship with Christ, our Bridegroom, will
+          last
+        choices:
+          A: until either spiritual or physical death.
+          B: until the end of the Tribulation.
+          C: throughout the eternal ages.
+          D: until the trumpet sounds at the Rapture.
+        answer: C
+      - uid: THE245.12.1.1.TY.1
+        subobj: 12.1.1
+        type: ty
+        question: The best biblical parallel of the eternal relationship between Christ
+          and the church is
+        choices:
+          A: the Song of Solomon.
+          B: the benevolent King of kings and Lord of lords in the Millennium.
+          C: a loving Master and His faithful servants.
+          D: the Bridegroom and His bride.
+        answer: D
+      - uid: THE245.12.1.2.TY.1
+        subobj: 12.1.2
+        type: ty
+        question: How can the King of the universe also be a gentle personal friend
+          of believers?
+        choices:
+          A: The perfect divine ruler is both strong and gentle.
+          B: He created everything and loves it all just as it is.
+          C: As a Judge, He must punish the believer’s sins, but He still loves the
+            one who sins.
+          D: As a reluctant Advocate, He must still help believers who sin.
+        answer: A
+      - uid: THE245.12.1.2.TY.2
+        subobj: 12.1.2
+        type: ty
+        question: The Old Testament prophet who best portrays King Jesus as a suffering
+          servant is
+        choices:
+          A: Moses.
+          B: Isaiah.
+          C: Jeremiah.
+          D: Joel.
+        answer: B
+      - uid: THE245.12.1.3.UPE.1
+        subobj: 12.1.3
+        type: upe
+        question: Jesus is prophesied to be a suffering servant by the prophet
+        choices:
+          A: Isaiah.
+          B: Daniel.
+          C: Ezekiel.
+          D: Samuel.
+        answer: A
+      - uid: THE245.12.1.3.UPE.2
+        subobj: 12.1.3
+        type: upe
+        question: The central figure in the Millennium will be
+        choices:
+          A: the Church.
+          B: the Holy Spirit.
+          C: Christ.
+          D: Israel.
+        answer: C
+      - uid: THE245.12.1.3.TY.1
+        subobj: 12.1.3
+        type: ty
+        question: If Israel is given a special role in the Millennium, why would Gentile
+          believers not object?
+        choices:
+          A: As a sovereign ruler, Christ will not allow jealousy or envy.
+          B: There will be no competition in the Millennium, and each will bless the
+            other.
+          C: Believers in the church recognize that Israel has a special role in God’s
+            kingdom.
+          D: Israel’s pride about its special place in God’s kingdom will be erased.
+        answer: B
+      - uid: THE245.12.2.1.UPE.1
+        subobj: 12.2.1
+        type: upe
+        question: In the present Church Age, the kingdom of God is
+        choices:
+          A: spiritual.
+          B: what it will be throughout eternity.
+          C: an unchallenged supremacy in all of human life.
+          D: a universal rule that destroys all opposition.
+        answer: A
+      - uid: THE245.12.2.1.TY.1
+        subobj: 12.2.1
+        type: ty
+        question: When we pray as Jesus taught, “Your kingdom come,” we are praying
+          that
+        choices:
+          A: the kingdom of heaven will subdue God’s kingdom on earth.
+          B: the kingdom of God, which only begins in the Millennium, will come soon.
+          C: God will destroy evil and reign supreme on earth as He now does in heaven.
+          D: Satan might be converted and become part of the kingdom of God.
+        answer: C
+      - uid: THE245.12.2.1.TY.2
+        subobj: 12.2.1
+        type: ty
+        question: The type of government to be found in the Millennium will be
+        choices:
+          A: a republic where citizens elect individuals to represent them.
+          B: a monarchy with David as the head of state.
+          C: a dictatorship that allows no one to express personal opinions.
+          D: a theocracy marked by righteousness and justice under a benevolent Christ.
+        answer: D
+      - uid: THE245.12.2.1.TY.3
+        subobj: 12.2.1
+        type: ty
+        question: What is a key issue in regard to rewards during the Millennium?
+        choices:
+          A: the faithfulness and integrity of one’s previous service
+          B: the size of a person’s ministry in their previous life on earth
+          C: the titles that a person held
+          D: the type of church to which a person has belonged
+        answer: A
+      - uid: THE245.12.2.2.UPE.1
+        subobj: 12.2.2
+        type: upe
+        question: The government in the Millennium, under Christ, will be
+        choices:
+          A: a republic.
+          B: a monarchy.
+          C: a dictatorship.
+          D: a theocracy.
+        answer: D
+      - uid: THE245.12.2.2.UPE.2
+        subobj: 12.2.2
+        type: upe
+        question: Leadership roles under Christ in the Millennium are given to
+        choices:
+          A: those who have overcome in their earthly lives.
+          B: those who have given the most support to Kingdom ministries.
+          C: the disciples, with Paul replacing Judas.
+          D: those who were last in their service on earth (the last shall be first).
+        answer: A
+      - uid: THE245.12.2.2.TY.1
+        subobj: 12.2.2
+        type: ty
+        question: On what basis will those who rule with Christ in the Millennium
+          be chosen?
+        choices:
+          A: Those who do the most good and commit the fewest sins will rule with
+            Christ.
+          B: The eleven disciples and the apostle Paul will hold the top positions.
+          C: The last will be first, and the first last.
+          D: Those who overcome will sit with Christ on His throne.
+        answer: D
+      - uid: THE245.12.3.1.UPE.1
+        subobj: 12.3.1
+        type: upe
+        question: A significant change during the Millennium will be
+        choices:
+          A: the end of all possible rebellion against God.
+          B: that peace will reign in human relationships.
+          C: that the new Jerusalem will descend to earth.
+          D: that all temptations to sin will end.
+        answer: B
+      - uid: THE245.12.3.1.UPE.2
+        subobj: 12.3.1
+        type: upe
+        question: The feast celebrated in the Millennium, reminding of God’s protection
+          and provision, is the
+        choices:
+          A: Feast of Trumpets.
+          B: Feast of Pentecost.
+          C: Feast of Passover.
+          D: Feast of Tabernacles.
+        answer: D
+      - uid: THE245.12.3.1.UPE.3
+        subobj: 12.3.1
+        type: upe
+        question: With Satan bound during the Millennium, there will be
+        choices:
+          A: only disobedience caused by human nature, none caused by Satan.
+          B: disobedience prompted by some of Satan’s fallen angels who survive the
+            Tribulation.
+          C: only disobedience caused by neglect and forgetfulness.
+          D: no disobedience whatsoever.
+        answer: A
+      - uid: THE245.12.3.1.UPE.4
+        subobj: 12.3.1
+        type: upe
+        question: The most striking natural change in the earth’s environment during
+          the Millennium will be
+        choices:
+          A: the disappearance of mountains to accommodate easy travel from place
+            to place.
+          B: calm oceans, with no storms or hurricanes.
+          C: plentiful rainfall that produces flourishing vegetation, a sign of God’s
+            blessing.
+          D: harmless snakes that walk on four legs like the serpent that tempted
+            Adam and Eve.
+        answer: C
+      - uid: THE245.12.3.1.TY.1
+        subobj: 12.3.1
+        type: ty
+        question: A significant change during the Millennium will be
+        choices:
+          A: the end of all possible rebellion against God.
+          B: that peace will reign in human relationships.
+          C: that the new Jerusalem will descend to earth.
+          D: that all temptations to sin will end.
+        answer: B
+      - uid: THE245.12.3.1.TY.2
+        subobj: 12.3.1
+        type: ty
+        question: What Old Testament feast will be celebrated during the Millennium?
+        choices:
+          A: Feast of Passover
+          B: Feast of Pentecost
+          C: Feast of Tabernacles
+          D: Feast of Trumpets
+        answer: C
+      - uid: THE245.13.1.1.UPE.1
+        subobj: 13.1.1
+        type: upe
+        question: To make room for the new heaven and earth, the present heaven and
+          earth are
+        choices:
+          A: changed into solid ice when the sun is darkened.
+          B: destroyed by fire as the elements melt in the intense heat.
+          C: gradually cleansed and changed into a perfect heaven and earth.
+          D: sent to the outer edge of the universe never to be inhabited again.
+        answer: B
+      - uid: THE245.13.1.1.UPE.2
+        subobj: 13.1.1
+        type: upe
+        question: An omnipotent God allows Satan to work his evil on God’s creation
+          because
+        choices:
+          A: God knows that all humans will appreciate Him more when they see Satan’s
+            evil.
+          B: God created Satan (and therefore also evil) and He cannot destroy what
+            He has created.
+          C: Satan will eventually repent and change if he is treated with respect.
+          D: free will demands that humans have choices.
+        answer: D
+      - uid: THE245.13.1.1.UPE.3
+        subobj: 13.1.1
+        type: upe
+        question: At the end of the Millennium, Satan is
+        choices:
+          A: released from the Abyss to deceive and test one last time.
+          B: allowed to go briefly before God and accuse the saints of wrongdoing.
+          C: moved immediately from the Abyss into the lake of fire.
+          D: powerless because his evil powers were destroyed at Calvary.
+        answer: A
+      - uid: THE245.13.1.1.TY.1
+        subobj: 13.1.1
+        type: ty
+        question: Why are only two chapters of the entire Bible devoted to the never-ending
+          eternity?
+        choices:
+          A: Eternity will be a constant repeat of regular activity, so no more space
+            is needed.
+          B: The eternal fate of the wicked should not be given any more attention.
+          C: Greater details of New Jerusalem would be meaningless.
+          D: The purpose of Scripture is to encourage holy living now.
+        answer: D
+      - uid: THE245.13.1.1.TY.2
+        subobj: 13.1.1
+        type: ty
+        question: What happens to the present heaven and earth to make way for the
+          new heaven and earth?
+        choices:
+          A: They are gradually cleansed and changed into a perfect heaven and earth.
+          B: The earth is swallowed up in the heavens and both sent to the end of
+            the universe.
+          C: They are destroyed by fire as the elements melt in the intense heat.
+          D: When the heavenly bodies are darkened, the earth changes to solid ice.
+        answer: C
+      - uid: THE245.13.1.1.TY.3
+        subobj: 13.1.1
+        type: ty
+        question: What happens to Satan at the end of the Millennium?
+        choices:
+          A: He is immediately moved from the Abyss to the lake of fire.
+          B: He is released from the Abyss to deceive and test one last time.
+          C: He once again is allowed to go before God and accuse the saints.
+          D: He can do nothing because his evil powers were destroyed at Calvary.
+        answer: B
+      - uid: THE245.13.1.1.TY.4
+        subobj: 13.1.1
+        type: ty
+        question: What is a possible explanation for why an omnipotent God allowed
+          Satan to bring evil into God’s creation?
+        choices:
+          A: Human choice was necessary, and it allowed Satan an open door for evil.
+          B: God actually created evil when He created Satan.
+          C: God knew that humans would appreciate Him more when they saw Satan’s
+            evil.
+          D: God chose to limit His omnipotent power in respect to Satan.
+        answer: A
+      - uid: THE245.13.1.2.UPE.1
+        subobj: 13.1.2
+        type: upe
+        question: There is no temple in the New Jerusalem because
+        choices:
+          A: a temple is not needed if there are no animal sacrifices.
+          B: God and the Lamb are the temple.
+          C: Old Testament rituals related to a temple are no longer celebrated.
+          D: the residents of New Jerusalem will be able to worship God anywhere and
+            at any time.
+        answer: B
+      - uid: THE245.13.1.2.TY.1
+        subobj: 13.1.2
+        type: ty
+        question: Why is there no temple in the New Jerusalem?
+        choices:
+          A: God’s people will be able to worship Him anywhere, at any time.
+          B: Old Testament rituals related to a temple are no longer to be practiced.
+          C: God and the Lamb are the temple.
+          D: A temple is not needed if animal sacrifices do not happen.
+        answer: C
+      - uid: THE245.13.1.3.TY.1
+        subobj: 13.1.3
+        type: ty
+        question: Described as a city about 1,405 miles long, wide, and high, the
+          New Jerusalem
+        choices:
+          A: is modeled on the Old Jerusalem.
+          B: will be a place of magnificent beauty.
+          C: will be the central city of the Millennium.
+          D: is described in complete detail.
+        answer: B
+      - uid: THE245.13.2.1.UPE.1
+        subobj: 13.2.1
+        type: upe
+        question: Universalism is the belief that
+        choices:
+          A: the universe will be the eternal abode of God.
+          B: the lake of fire, where Satan is permanently bound, is not located in
+            the universe.
+          C: when Satan is eternally bound, the humans he led astray will be saved.
+          D: everyone will eventually be saved, including Satan and his fallen angels.
+        answer: D
+      - uid: THE245.13.2.1.UPE.2
+        subobj: 13.2.1
+        type: upe
+        question: The wicked are judged worthy of eternal punishment because
+        choices:
+          A: God knows the heart and declares the eternal destiny of every person.
+          B: their names are not found in the Book of Life.
+          C: they claim to have done good deeds when they actually have behaved selfishly.
+          D: taking the mark of the beast seals their destiny.
+        answer: B
+      - uid: THE245.13.2.1.TY.1
+        subobj: 13.2.1
+        type: ty
+        question: Universalism is the belief that
+        choices:
+          A: the universe will be the eternal abode of God.
+          B: the lake of fire, where Satan is eternally bound, is not located in the
+            universe.
+          C: when Satan is eternally bound, the humans he led astray will be saved.
+          D: everyone will eventually be saved, including Satan and his fallen angels.
+        answer: D
+      - uid: THE245.13.2.1.TY.2
+        subobj: 13.2.1
+        type: ty
+        question: In the end-time judgments, how will a wicked person be identified?
+        choices:
+          A: His or her name will be missing from the Book of Life.
+          B: God knows the heart and declares one righteous or wicked.
+          C: All have sinned, but those who claim to be believers are not identified
+            as wicked.
+          D: Those who have taken the mark of the beast are the only ones described
+            as wicked.
+        answer: A
+      - uid: THE245.13.2.2.TY.1
+        subobj: 13.2.2
+        type: ty
+        question: The judge from whom heaven and earth flee at the Great White Throne
+          is
+        choices:
+          A: God the Father.
+          B: Jesus Christ.
+          C: the Holy Spirit.
+          D: the entire Trinity.
+        answer: B
+      - uid: THE245.13.2.2.TY.2
+        subobj: 13.2.2
+        type: ty
+        question: Where does the Great White Throne Judgment take place?
+        choices:
+          A: On earth
+          B: In heaven
+          C: Neither on earth nor in heaven
+          D: Both on earth and in heaven
+        answer: C
     chapters:
     - last_modified: '2026-05-28'
       title: 1 - Understanding Bible Eschatology

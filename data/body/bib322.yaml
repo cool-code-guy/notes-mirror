@@ -1129,6 +1129,1592 @@ courses:
       '2.0':
         timestamp: '2026-04-01'
         PN: 02.22.01
+      '1.0':
+        timestamp: '2006-01-01'
+        precision: year
+        source: colophon
+    printings:
+    - pn: 02.22.01
+      course_code: BIB322
+      source_html: BBIB322ENE02-90_02.22.01.html
+      template: old
+      recorded: '2026-08-26'
+      note: 'Pristine print baseline built by scripts/build_html_baseline.py purely
+        from the InDesign HTML -- no DB input. Read-only: never hand-edit and never
+        feed to the janitor. UIDs are synthesized from the book''s own answer key;
+        diff pairs by content.'
+      counts:
+        ty: 80
+        upe: 75
+        final: 0
+      questions:
+      - uid: BIB322.1.1.1.UPE.1
+        subobj: 1.1.1
+        type: upe
+        question: The Bible is set apart from every other book by its
+        choices:
+          A: diversity.
+          B: finality.
+          C: poetry.
+          D: inspiration.
+        answer: D
+      - uid: BIB322.1.1.1.UPE.2
+        subobj: 1.1.1
+        type: upe
+        question: By saying the Bible is inspired, we mean
+        choices:
+          A: its significant content points believers toward greater, holier service.
+          B: the Holy Spirit guided its writing so the authors wrote as God intended.
+          C: it shows extraordinary insight into the need for human redemption.
+          D: God causes its readers to have particular thoughts or feelings about
+            Him.
+        answer: B
+      - uid: BIB322.1.1.1.TY.1
+        subobj: 1.1.1
+        type: ty
+        question: The main reason believers study the Bible is to
+        choices:
+          A: hear from God.
+          B: establish correct forms of worship.
+          C: understand the Bible’s unique qualities.
+          D: become knowledgeable of ancient manuscripts.
+        answer: A
+      - uid: BIB322.1.1.2.UPE.1
+        subobj: 1.1.2
+        type: upe
+        question: God’s gradual uncovering of His plans throughout history is called
+        choices:
+          A: biblical history.
+          B: inspiration.
+          C: progressive revelation.
+          D: Scripture interprets Scripture.
+        answer: C
+      - uid: BIB322.1.1.2.TY.1
+        subobj: 1.1.2
+        type: ty
+        question: Progression of revelation means
+        choices:
+          A: God revealed more of His plan of redemption as history unfolded.
+          B: people go through stages in understanding their need of salvation.
+          C: believers continue to reveal more and more of their inner lives to God.
+          D: scholars use advanced methods of interpretation to uncover new truths.
+        answer: A
+      - uid: BIB322.1.1.3.UPE.1
+        subobj: 1.1.3
+        type: upe
+        question: The principle of interpreting passages in light of all Scripture
+          is called
+        choices:
+          A: biblical history.
+          B: inspiration.
+          C: progressive revelation.
+          D: Scripture interprets Scripture.
+        answer: D
+      - uid: BIB322.1.1.3.TY.1
+        subobj: 1.1.3
+        type: ty
+        question: The principle of Scripture interpreting Scripture helps believers
+        choices:
+          A: emphasize themes drawn from isolated passages.
+          B: avoid creating doctrinal statements from isolated passages.
+          C: draw as many interpretations from isolated Scriptures as possible.
+          D: eliminate apparent contradictions in Scripture passages.
+        answer: B
+      - uid: BIB322.1.2.1.UPE.1
+        subobj: 1.2.1
+        type: upe
+        question: Genre is
+        choices:
+          A: a classification of words based on gender.
+          B: a category that involves, applies to, or affects parts of text.
+          C: text composed by a person of military rank or authority.
+          D: a category of literature identified by a particular style, form, or content.
+        answer: D
+      - uid: BIB322.1.2.1.TY.1
+        subobj: 1.2.1
+        type: ty
+        question: The literary genre of each book of the Bible
+        choices:
+          A: is identified by the author’s occupation.
+          B: is not a variable in accurate interpretation.
+          C: affects accurate interpretation of the book.
+          D: can be identified in literal translations.
+        answer: C
+      - uid: BIB322.1.2.2.UPE.1
+        subobj: 1.2.2
+        type: upe
+        question: Characteristics of Hebrew poetry include
+        choices:
+          A: terseness, imagery, and parallelism.
+          B: alliteration, syncopation, and rhyme.
+          C: lines of metered phrases that rhyme.
+          D: simplicity, alliteration, and syncopation.
+        answer: A
+      - uid: BIB322.1.2.2.TY.1
+        subobj: 1.2.2
+        type: ty
+        question: Characteristics of Hebrew poetry include
+        choices:
+          A: terseness, imagery, and parallelism.
+          B: alliteration, syncopation, and rhyme.
+          C: meter, rhythm, imagery, and rhyme.
+          D: simplicity, alliteration, and rhythm.
+        answer: A
+      - uid: BIB322.1.2.3.UPE.1
+        subobj: 1.2.3
+        type: upe
+        question: Prose is “ordinary” writing
+        choices:
+          A: identified by terseness and figurative speech.
+          B: similar to everyday speech.
+          C: that usually has a regular rhythm.
+          D: in contrast to everyday speech.
+        answer: B
+      - uid: BIB322.1.2.3.UPE.2
+        subobj: 1.2.3
+        type: upe
+        question: The poetry/prose continuum defines poetry as writing that
+        choices:
+          A: has a high occurrence of poetic elements.
+          B: rhymes at the end of each line.
+          C: is comprised of short lines.
+          D: evokes strong emotion.
+        answer: A
+      - uid: BIB322.1.2.3.TY.1
+        subobj: 1.2.3
+        type: ty
+        question: The term poetry/prose continuum refers to
+        choices:
+          A: cultural shifts resulting in a move from poetry to prose.
+          B: progression in the literary style of Old Testament writers.
+          C: the divergent number of poetic elements in poetry and prose.
+          D: poetic elements of biblical manuscripts, such as Job and Psalms.
+        answer: C
+      - uid: BIB322.1.3.1.UPE.1
+        subobj: 1.3.1
+        type: upe
+        question: The device that begins and ends a poem with a similar word or phrase
+          is
+        choices:
+          A: an acrostic.
+          B: inclusio.
+          C: chiasm.
+          D: meter.
+        answer: B
+      - uid: BIB322.1.3.1.TY.1
+        subobj: 1.3.1
+        type: ty
+        question: Common devices of Hebrew poetry include
+        choices:
+          A: parallelism, meter, and alliteration.
+          B: rhyme, chiasm, and parallelism.
+          C: repetition, haiku, and chiasm.
+          D: chiasm, repetition, and parallelism.
+        answer: D
+      - uid: BIB322.1.3.2.UPE.1
+        subobj: 1.3.2
+        type: upe
+        question: The Poetic Books use repetition in a manner that
+        choices:
+          A: simulates the style contemporary poets use.
+          B: was based on the style of ancient Egyptian poetry.
+          C: seems redundant and nonpoetic to contemporary readers.
+          D: ensured accurate recording of significant historical data.
+        answer: C
+      - uid: BIB322.1.3.2.TY.1
+        subobj: 1.3.2
+        type: ty
+        question: The Poetic Books use repetition in a manner that
+        choices:
+          A: simulates the style used by contemporary poets.
+          B: seems based on the style of ancient Egyptian poetry.
+          C: seems redundant and nonpoetic to contemporary readers.
+          D: ensures the accurate recording of significant historical data.
+        answer: C
+      - uid: BIB322.1.3.3.UPE.1
+        subobj: 1.3.3
+        type: upe
+        question: A metaphor is
+        choices:
+          A: the figurative use of two words of similar meaning to convey a thought.
+          B: a word or phrase used in place of another to suggest a similarity between
+            them.
+          C: a set of letters, taken in alphabetical order, to form a word or phrase.
+          D: a word or phrase created to ridicule a literary style, form, or subject.
+        answer: B
+      - uid: BIB322.1.3.3.UPE.2
+        subobj: 1.3.3
+        type: upe
+        question: Synonymous parallelism involves
+        choices:
+          A: parallel phrases in a poetic line that form a simile.
+          B: repetition of the same thought using two different yet related words
+            or phrases.
+          C: a word or clause that stands alone in the middle of a poetic line.
+          D: subsequent phrases of a poetic line that complete the thought of the
+            first phrase.
+        answer: B
+      - uid: BIB322.1.3.3.UPE.3
+        subobj: 1.3.3
+        type: upe
+        question: Synthetic parallelism involves
+        choices:
+          A: subsequent phrases of a poetic line that complete the thought of the
+            first phrase.
+          B: repetition of the same thought using two different yet related words
+            or phrases.
+          C: parallel phrases in a poetic line that form a simile.
+          D: a word or clause that stands alone in the middle of a poetic line.
+        answer: A
+      - uid: BIB322.1.3.4.TY.1
+        subobj: 1.3.4
+        type: ty
+        question: Four types of parallelism common to Hebrew poetry are
+        choices:
+          A: rhyme, meter, alliteration, and pattern.
+          B: Hebrew, Greek, Egyptian, and Aramaic.
+          C: repetition, chiasm, symbolism, and terseness.
+          D: synonymous, antithetic, synthetic, and emblematic.
+        answer: D
+      - uid: BIB322.1.3.4.TY.2
+        subobj: 1.3.4
+        type: ty
+        question: Translating chiasm can be difficult because
+        choices:
+          A: chiasm is written in a more ancient form of Hebrew.
+          B: rhyme cannot transfer accurately into English equivalents.
+          C: literal translations are offensive to contemporary readers.
+          D: word order and the expression of ideas are different.
+        answer: D
+      - uid: BIB322.2.1.1.UPE.1
+        subobj: 2.1.1
+        type: upe
+        question: Studying wisdom writings is important because
+        choices:
+          A: Old Testament priests and scribes wrote them.
+          B: New Testament writers did not refer to them.
+          C: they speak about living a full and happy life.
+          D: they teach that God wants all believers to be wealthy.
+        answer: C
+      - uid: BIB322.2.1.1.TY.1
+        subobj: 2.1.1
+        type: ty
+        question: The central focus of wisdom writing is
+        choices:
+          A: obeying the law.
+          B: gathering wealth.
+          C: promoting life.
+          D: emphasizing sacrifice.
+        answer: C
+      - uid: BIB322.2.1.1.TY.2
+        subobj: 2.1.1
+        type: ty
+        question: Wisdom helps us find happiness in our
+        choices:
+          A: prayer lives.
+          B: relationships with others.
+          C: devotion to God’s laws.
+          D: serious study of the Scriptures.
+        answer: B
+      - uid: BIB322.2.1.2.UPE.1
+        subobj: 2.1.2
+        type: upe
+        question: Wisdom writing is secular in the sense that it
+        choices:
+          A: deals with daily life.
+          B: rarely mentions God.
+          C: questions God’s justice.
+          D: avoids moral issues.
+        answer: A
+      - uid: BIB322.2.1.2.UPE.2
+        subobj: 2.1.2
+        type: upe
+        question: Biblical wisdom speaks of
+        choices:
+          A: seeking God with one’s whole mind, heart, and soul.
+          B: the natural world and of things anyone can find to be true.
+          C: how to worship God in holiness and righteousness of heart.
+          D: maintaining daily worship of God, even while living in exile.
+        answer: B
+      - uid: BIB322.2.1.2.UPE.3
+        subobj: 2.1.2
+        type: upe
+        question: An example of wisdom is
+        choices:
+          A: Solomon’s vast knowledge of science, warfare, and love.
+          B: the student who correctly interprets difficult Bible passages.
+          C: a woman who through understanding and shrewdness saved a city.
+          D: a pastor’s ability to teach as well as preach the Word with passion.
+        answer: C
+      - uid: BIB322.2.1.2.TY.1
+        subobj: 2.1.2
+        type: ty
+        question: Biblical wisdom can appear unspiritual because it
+        choices:
+          A: affirms that this present life is unjust and meaningless.
+          B: relies on common experience more than divine revelation.
+          C: maintains that the universe is a chaotic, senseless place.
+          D: refers to God only in the context of His distance from people.
+        answer: B
+      - uid: BIB322.2.2.1.UPE.1
+        subobj: 2.2.1
+        type: upe
+        question: Wisdom literature can be identified and classified by
+        choices:
+          A: form and content.
+          B: poetic devices and genre.
+          C: its immediate, practical use in life.
+          D: its author and the date of its writing.
+        answer: A
+      - uid: BIB322.2.2.1.UPE.2
+        subobj: 2.2.1
+        type: upe
+        question: Proverbial wisdom consists of
+        choices:
+          A: short, concise guidelines for a happy, prosperous life.
+          B: writings that struggle with the problem of retribution.
+          C: longer writings that present a basic teaching.
+          D: short writings on God as Creator of the world.
+        answer: A
+      - uid: BIB322.2.2.1.UPE.3
+        subobj: 2.2.1
+        type: upe
+        question: Contemplative wisdom consists of
+        choices:
+          A: short, concise guidelines for a happy, prosperous life.
+          B: writings that struggle with the problem of retribution.
+          C: longer writings that present a basic teaching.
+          D: short writings on God as Creator of the world.
+        answer: C
+      - uid: BIB322.2.2.1.TY.1
+        subobj: 2.2.1
+        type: ty
+        question: Two basic forms of wisdom writings are
+        choices:
+          A: parables and riddles.
+          B: instruction and dialogue.
+          C: law and prophets.
+          D: proverbs and contemplation.
+        answer: D
+      - uid: BIB322.2.2.2.UPE.1
+        subobj: 2.2.2
+        type: upe
+        question: The confrontation between belief and experience
+        choices:
+          A: casts doubt on the Poetic Books’ place in the canon.
+          B: is used to explore and deepen the wisdom writers’ faith.
+          C: confirms evil as the source of all poverty and illness.
+          D: must take place outside of God’s guidance.
+        answer: B
+      - uid: BIB322.2.2.2.TY.1
+        subobj: 2.2.2
+        type: ty
+        question: The principal debate within wisdom writing is between
+        choices:
+          A: belief and experience.
+          B: blessing and curses.
+          C: wealth and poverty.
+          D: faith and greed.
+        answer: A
+      - uid: BIB322.2.3.1.TY.1
+        subobj: 2.3.1
+        type: ty
+        question: God’s use of wisdom is closely associated with His act of
+        choices:
+          A: leading Israel out of Egypt.
+          B: establishing David’s throne.
+          C: exiling the Israelites from their home.
+          D: creating the world and the universe.
+        answer: D
+      - uid: BIB322.2.3.2.UPE.1
+        subobj: 2.3.2
+        type: upe
+        question: The leader most associated with promoting wisdom was
+        choices:
+          A: Moses.
+          B: Solomon.
+          C: David.
+          D: Abraham.
+        answer: B
+      - uid: BIB322.2.3.2.TY.1
+        subobj: 2.3.2
+        type: ty
+        question: Solomon’s life exemplified a
+        choices:
+          A: wise ruler.
+          B: foolish ruler.
+          C: wise and foolish ruler.
+          D: strong military leader.
+        answer: C
+      - uid: BIB322.2.3.3.TY.1
+        subobj: 2.3.3
+        type: ty
+        question: The ancient world used wisdom writing primarily for
+        choices:
+          A: revelation.
+          B: inspiration.
+          C: education.
+          D: entertainment.
+        answer: C
+      - uid: BIB322.2.3.4.UPE.1
+        subobj: 2.3.4
+        type: upe
+        question: Proverbs 8 portrays wisdom as being
+        choices:
+          A: co-creator and equal with God.
+          B: God’s first creation.
+          C: the Holy Spirit.
+          D: the prefigurement of Christ.
+        answer: B
+      - uid: BIB322.2.3.4.TY.1
+        subobj: 2.3.4
+        type: ty
+        question: The fear of the Lord is closely associated with the theme of
+        choices:
+          A: human dominion over creation.
+          B: the order of the universe.
+          C: the promotion of life.
+          D: the right to make choices.
+        answer: C
+      - uid: BIB322.2.3.5.UPE.1
+        subobj: 2.3.5
+        type: upe
+        question: Prior to the monarchy, wisdom most often took the form of
+        choices:
+          A: proverbs.
+          B: speculative discussion.
+          C: folk wisdom sayings.
+          D: the Law and the Prophets.
+        answer: C
+      - uid: BIB322.2.3.5.UPE.2
+        subobj: 2.3.5
+        type: upe
+        question: Wisdom literature took on its most important role in helping Israel
+        choices:
+          A: prior to the Exodus from Egypt.
+          B: in the time of the judges.
+          C: under the reign of Solomon.
+          D: after the return from Exile.
+        answer: D
+      - uid: BIB322.2.3.5.TY.1
+        subobj: 2.3.5
+        type: ty
+        question: Wisdom helped God’s people adapt to the post-Exile world because
+          of its
+        choices:
+          A: universality.
+          B: support of the king.
+          C: reminders of the temple.
+          D: references to the law of Moses.
+        answer: A
+      - uid: BIB322.3.1.1.TY.1
+        subobj: 3.1.1
+        type: ty
+        question: The book of Job is important to our understanding of God because
+          it
+        choices:
+          A: reaffirms God’s unfailing love.
+          B: demonstrates God’s defeat of Satan.
+          C: offers an example of patience in suffering.
+          D: questions our generalizations about God.
+        answer: D
+      - uid: BIB322.3.1.2.UPE.1
+        subobj: 3.1.2
+        type: upe
+        question: The book of Job was written
+        choices:
+          A: during the time of the judges.
+          B: during Solomon’s reign.
+          C: after the Exile.
+          D: at an uncertain date.
+        answer: D
+      - uid: BIB322.3.1.3.UPE.1
+        subobj: 3.1.3
+        type: upe
+        question: The book of Job is organized by the
+        choices:
+          A: use of inclusions.
+          B: dating of different sections.
+          C: asking of rhetorical questions.
+          D: division of smaller collections.
+        answer: A
+      - uid: BIB322.3.1.3.TY.1
+        subobj: 3.1.3
+        type: ty
+        question: Job is seen as patient and long-suffering in
+        choices:
+          A: his speeches to God.
+          B: the prose introduction.
+          C: God’s speeches to Job.
+          D: the poetic body of the book.
+        answer: B
+      - uid: BIB322.3.2.1.UPE.1
+        subobj: 3.2.1
+        type: upe
+        question: The Hebrew word satan literally means
+        choices:
+          A: Lucifer.
+          B: the devil.
+          C: the accuser.
+          D: ruler of the air.
+        answer: C
+      - uid: BIB322.3.2.1.TY.1
+        subobj: 3.2.1
+        type: ty
+        question: The fundamental question Satan raised was,
+        choices:
+          A: “Why does God protect Job?”
+          B: “Why does God prosper Job?”
+          C: “Does Job fear God for nothing?”
+          D: “Does God really love Job?”
+        answer: C
+      - uid: BIB322.3.2.2.UPE.1
+        subobj: 3.2.2
+        type: upe
+        question: The harsh attacks of Job’s friends are motivated by
+        choices:
+          A: love.
+          B: fear.
+          C: compassion.
+          D: righteous indignation.
+        answer: B
+      - uid: BIB322.3.2.2.UPE.2
+        subobj: 3.2.2
+        type: upe
+        question: Job addresses his various speeches to
+        choices:
+          A: God and the Satan.
+          B: God and the reader.
+          C: his friends and God.
+          D: his friends and Israel.
+        answer: C
+      - uid: BIB322.3.2.2.TY.1
+        subobj: 3.2.2
+        type: ty
+        question: Job desires his mediator to play the role of
+        choices:
+          A: judge.
+          B: accuser.
+          C: court recorder.
+          D: defense attorney.
+        answer: D
+      - uid: BIB322.3.2.3.TY.1
+        subobj: 3.2.3
+        type: ty
+        question: When God finally appeared, He
+        choices:
+          A: commended Job for overcoming Satan.
+          B: explained that Job was being tested.
+          C: reassured Job of His presence.
+          D: offered Job no direct answer.
+        answer: D
+      - uid: BIB322.3.3.1.UPE.1
+        subobj: 3.3.1
+        type: upe
+        question: Job should be understood as
+        choices:
+          A: suffering entirely due to the will of Satan.
+          B: sinless, avoiding evil and carefully atoning for any sin.
+          C: blameless and upright, fearing God and shunning evil.
+          D: responding more to the loss of his children than to physical pain.
+        answer: C
+      - uid: BIB322.3.3.1.TY.1
+        subobj: 3.3.1
+        type: ty
+        question: Most churches portray Job as being
+        choices:
+          A: an investigator of good and evil.
+          B: a patient sufferer.
+          C: a perfect person.
+          D: a blind sinner.
+        answer: B
+      - uid: BIB322.3.4.1.UPE.1
+        subobj: 3.4.1
+        type: upe
+        question: God commended Job because he
+        choices:
+          A: suffered patiently.
+          B: spoke to God, not about Him.
+          C: never demanded justice from God.
+          D: had a more accurate understanding of God.
+        answer: B
+      - uid: BIB322.3.4.1.TY.1
+        subobj: 3.4.1
+        type: ty
+        question: Job’s struggle with his suffering is distinguished by
+        choices:
+          A: prayer.
+          B: wisdom.
+          C: theology.
+          D: revelation.
+        answer: A
+      - uid: BIB322.3.4.2.TY.1
+        subobj: 3.4.2
+        type: ty
+        question: The Old Testament portrays Satan as
+        choices:
+          A: leader of a rebellion against God.
+          B: king of the fallen angels.
+          C: accuser and tempter.
+          D: God’s beloved servant.
+        answer: C
+      - uid: BIB322.3.4.3.UPE.1
+        subobj: 3.4.3
+        type: upe
+        question: Theodicy describes the problem of
+        choices:
+          A: Satan.
+          B: insufficient faith.
+          C: evil in God’s world.
+          D: living under law rather than grace.
+        answer: C
+      - uid: BIB322.3.4.3.UPE.2
+        subobj: 3.4.3
+        type: upe
+        question: Crenshaw understands Job’s suffering as
+        choices:
+          A: well deserved.
+          B: a type of Christ.
+          C: Satan’s fault, not God’s.
+          D: representative of human suffering.
+        answer: D
+      - uid: BIB322.3.5.2.TY.1
+        subobj: 3.5.2
+        type: ty
+        question: God reveals Himself to people through
+        choices:
+          A: direction action and creation.
+          B: Scripture and prophecy.
+          C: wisdom and folly.
+          D: blessings and curses.
+        answer: A
+      - uid: BIB322.3.5.3.UPE.1
+        subobj: 3.5.3
+        type: upe
+        question: The best understanding of God’s justice comes from the combination
+          of
+        choices:
+          A: Deuteronomy and Job.
+          B: Job, Proverbs, and Psalms.
+          C: Deuteronomy, Job, and Psalms.
+          D: Deuteronomy, Job, and Proverbs.
+        answer: D
+      - uid: BIB322.3.5.3.UPE.2
+        subobj: 3.5.3
+        type: upe
+        question: The power of God is limited by
+        choices:
+          A: His decision to love us.
+          B: Satan’s rebellion.
+          C: people’s sins.
+          D: nothing at all.
+        answer: A
+      - uid: BIB322.3.5.3.TY.1
+        subobj: 3.5.3
+        type: ty
+        question: The power of God is limited by
+        choices:
+          A: His decision to love us.
+          B: Satan’s rebellion.
+          C: people’s sins.
+          D: nothing at all.
+        answer: A
+      - uid: BIB322.4.1.1.UPE.1
+        subobj: 4.1.1
+        type: upe
+        question: To poetically analyze a psalm means to
+        choices:
+          A: look for devices such as parallelism and similes.
+          B: draw out the theology it teaches.
+          C: consider the psalm’s flow of thought.
+          D: study the form and content.
+        answer: A
+      - uid: BIB322.4.1.1.UPE.2
+        subobj: 4.1.1
+        type: upe
+        question: In the suggested order of studying a psalm, the second and third
+          steps are
+        choices:
+          A: structural analysis, then poetic analysis.
+          B: poetic analysis, then structural analysis.
+          C: determining the psalm’s biblical context, then structural analysis.
+          D: determining the psalm’s biblical context, then poetic analysis.
+        answer: A
+      - uid: BIB322.4.1.1.TY.1
+        subobj: 4.1.1
+        type: ty
+        question: The last step in studying a psalm is
+        choices:
+          A: analyzing the structure.
+          B: analyzing its poetic devices.
+          C: applying its principles.
+          D: considering the context.
+        answer: C
+      - uid: BIB322.4.2.1.UPE.1
+        subobj: 4.2.1
+        type: upe
+        question: How many psalms contain the title Of David ?
+        choices:
+          A: '5'
+          B: '116'
+          C: '73'
+          D: '150'
+        answer: C
+      - uid: BIB322.4.2.1.UPE.2
+        subobj: 4.2.1
+        type: upe
+        question: The title of a psalm may indicate its
+        choices:
+          A: theology.
+          B: historical setting.
+          C: covenantal theme.
+          D: poetic devices.
+        answer: B
+      - uid: BIB322.4.2.1.TY.1
+        subobj: 4.2.1
+        type: ty
+        question: The title of a psalm can reveal
+        choices:
+          A: whether God truly inspired the psalm.
+          B: that David authored almost all the psalms.
+          C: the authorship and historical setting of every psalm.
+          D: authorship, setting, melody, and musical instruments used.
+        answer: D
+      - uid: BIB322.4.2.2.TY.1
+        subobj: 4.2.2
+        type: ty
+        question: The phrase of David in a psalm’s title indicates that
+        choices:
+          A: according to tradition, David authored the psalm.
+          B: it was written by one of David’s descendants.
+          C: it is part of a group of psalms David collected into one book.
+          D: the title was verified by scribes when the psalms were collected.
+        answer: A
+      - uid: BIB322.4.2.3.TY.1
+        subobj: 4.2.3
+        type: ty
+        question: Technical terms found in psalm titles
+        choices:
+          A: indicate that the poems were edited after being collected.
+          B: were added by scribes to identify psalm styles to later generations.
+          C: include liturgical directions and the Hebrew literary category of the
+            psalms.
+          D: are not part of the original text and offer little value in grasping
+            a psalm’s message.
+        answer: C
+      - uid: BIB322.4.3.1.UPE.1
+        subobj: 4.3.1
+        type: upe
+        question: The developmental stages of Psalms include
+        choices:
+          A: the psalms being placed into strict chronological order.
+          B: writing assigned by scribes and then arranged by author.
+          C: individual psalms written and gathered into the book of Psalms.
+          D: individual psalms written and gathered into intermediate collections.
+        answer: D
+      - uid: BIB322.4.3.1.TY.1
+        subobj: 4.3.1
+        type: ty
+        question: The book of Psalms contains individual psalms that were
+        choices:
+          A: compiled over 215 years and used by King David in worship.
+          B: compiled by scribes in the third century BC for the exiles’ use.
+          C: placed in intermediate collections, then gathered into one book.
+          D: not placed in any intermediate collections before the book’s completion.
+        answer: C
+      - uid: BIB322.4.3.2.UPE.1
+        subobj: 4.3.2
+        type: upe
+        question: Psalms is divided into how many books?
+        choices:
+          A: Two
+          B: Three
+          C: Four
+          D: Five
+        answer: D
+      - uid: BIB322.4.3.2.UPE.2
+        subobj: 4.3.2
+        type: upe
+        question: Each book of the Psalter concludes with
+        choices:
+          A: an amen.
+          B: a hallelujah.
+          C: a doxology.
+          D: an instruction.
+        answer: C
+      - uid: BIB322.4.3.2.TY.1
+        subobj: 4.3.2
+        type: ty
+        question: The book of Psalms is divided into
+        choices:
+          A: five books.
+          B: ten books.
+          C: fifteen books.
+          D: 119 books.
+        answer: A
+      - uid: BIB322.4.4.1.UPE.1
+        subobj: 4.4.1
+        type: upe
+        question: The literal Hebrew expression for making a covenant is to
+        choices:
+          A: cut a covenant.
+          B: strike hands.
+          C: buy a covenant.
+          D: bend the knee.
+        answer: A
+      - uid: BIB322.4.4.1.UPE.2
+        subobj: 4.4.1
+        type: upe
+        question: In the Bible, a covenant is
+        choices:
+          A: signed by two parties and witnessed by a priest.
+          B: a legal, binding agreement between two parties.
+          C: defined as God’s plan for the redemption of humankind.
+          D: legal only between parties of equal standing and power.
+        answer: B
+      - uid: BIB322.4.4.1.TY.1
+        subobj: 4.4.1
+        type: ty
+        question: The concept of covenant
+        choices:
+          A: identifies agreements between David and Saul.
+          B: dates to the time Abel first offered sacrifices.
+          C: plays a minor role in theological themes.
+          D: is a cornerstone of theology in the Bible.
+        answer: D
+      - uid: BIB322.4.4.2.TY.1
+        subobj: 4.4.2
+        type: ty
+        question: God entered into covenant with His people to
+        choices:
+          A: ensure the Jewish bloodline remained pure.
+          B: demonstrate that covenants could be kept.
+          C: have a personal relationship with them.
+          D: help them remember Him when He was absent.
+        answer: C
+      - uid: BIB322.4.4.3.TY.1
+        subobj: 4.4.3
+        type: ty
+        question: Loving faithfulness, righteousness, and testimony are examples of
+        choices:
+          A: the lifestyle requirements for entering into covenant with God.
+          B: covenant language used in the book of Psalms.
+          C: the exemplary character of the psalmists.
+          D: major themes found in the Poetic Books.
+        answer: B
+      - uid: BIB322.4.4.4.TY.1
+        subobj: 4.4.4
+        type: ty
+        question: References to the Messiah in the Psalms identify the book as a source
+          of
+        choices:
+          A: comfort during exile.
+          B: longing for a deliverer.
+          C: end-time instructions.
+          D: messianic prophecy.
+        answer: D
+      - uid: BIB322.5.1.1.UPE.1
+        subobj: 5.1.1
+        type: upe
+        question: The basis for defining what constitutes a wisdom psalm is its
+        choices:
+          A: function and perspective on the world.
+          B: manner of addressing retribution.
+          C: recognition of God as Master of the universe.
+          D: emphasis on the Torah as the final authority for life.
+        answer: A
+      - uid: BIB322.5.1.1.UPE.2
+        subobj: 5.1.1
+        type: upe
+        question: The address of a teacher or father to a “son” is
+        choices:
+          A: a Hebrew style of communication.
+          B: an example of parallelism.
+          C: a wisdom form.
+          D: a poetic device.
+        answer: C
+      - uid: BIB322.5.1.1.TY.1
+        subobj: 5.1.1
+        type: ty
+        question: According to Bellinger, the function of a wisdom psalm is to
+        choices:
+          A: offer instruction.
+          B: interpret the Torah.
+          C: point the way to prosperity.
+          D: distinguish between good and evil.
+        answer: A
+      - uid: BIB322.5.1.2.TY.1
+        subobj: 5.1.2
+        type: ty
+        question: Wisdom psalms are identified by their
+        choices:
+          A: style and placement.
+          B: form and content.
+          C: age and vocabulary.
+          D: proverbs and contemplations.
+        answer: B
+      - uid: BIB322.5.1.3.UPE.1
+        subobj: 5.1.3
+        type: upe
+        question: “You reap what you sow” is
+        choices:
+          A: active retribution.
+          B: direct retribution.
+          C: hot retribution.
+          D: cool retribution.
+        answer: D
+      - uid: BIB322.5.1.3.TY.1
+        subobj: 5.1.3
+        type: ty
+        question: In the Old Testament, the problem of retribution concerns what question?
+        choices:
+          A: Does the fear of the Lord lead to wisdom?
+          B: Is it really possible to keep the Torah?
+          C: Who is the true king of Israel?
+          D: Does God really bless the righteous and judge the wicked?
+        answer: D
+      - uid: BIB322.5.1.4.TY.1
+        subobj: 5.1.4
+        type: ty
+        question: a) God’s promises and His fulfillment of them.
+        choices:
+          A: a believer’s faith and his or her doubts.
+          B: a believer’s new, righteous nature and his or her old, sinful nature.
+          C: God’s blessings for the upright and judgment of the wicked.
+        answer: A
+      - uid: BIB322.5.2.1.UPE.1
+        subobj: 5.2.1
+        type: upe
+        question: The wisdom psalms refer to hard work as
+        choices:
+          A: physical labor.
+          B: caring for the poor.
+          C: studying and keeping Torah.
+          D: attending the annual festivals.
+        answer: C
+      - uid: BIB322.5.2.1.TY.1
+        subobj: 5.2.1
+        type: ty
+        question: Wisdom psalms emphasize that blessings result from
+        choices:
+          A: working hard and diligently.
+          B: displaying wisdom and grace.
+          C: oppressing the wicked.
+          D: obeying God and His laws.
+        answer: D
+      - uid: BIB322.5.2.1.TY.2
+        subobj: 5.2.1
+        type: ty
+        question: Concerning the wicked’s prosperity, Psalm 49 reminds us that
+        choices:
+          A: we live in a fallen world.
+          B: the wicked only appear to prosper.
+          C: the wicked’s prosperity is temporary.
+          D: Satan rewards his own.
+        answer: C
+      - uid: BIB322.5.2.2.UPE.1
+        subobj: 5.2.2
+        type: upe
+        question: Wisdom psalms associate the fear of the Lord with
+        choices:
+          A: attendance at the temple.
+          B: material blessings through God’s provision and protection from enemies.
+          C: deliverance from guilt and peace of mind.
+          D: protection from Satan’s accusations.
+        answer: B
+      - uid: BIB322.5.2.2.TY.1
+        subobj: 5.2.2
+        type: ty
+        question: The fear of the Lord involves experiencing divine protection and
+          blessing and
+        choices:
+          A: honoring one’s parents.
+          B: obeying the Torah.
+          C: giving to the poor.
+          D: pursuing knowledge.
+        answer: B
+      - uid: BIB322.5.2.3.TY.1
+        subobj: 5.2.3
+        type: ty
+        question: Psalm 119 portrays keeping the Torah as a
+        choices:
+          A: means of pleasing God.
+          B: religious duty of Israelites.
+          C: joyful response to God’s deliverance.
+          D: heavy burden of strict obligation.
+        answer: C
+      - uid: BIB322.5.2.3.TY.2
+        subobj: 5.2.3
+        type: ty
+        question: Psalm 1’s concept of meditating on the Torah
+        choices:
+          A: conveys the image of quietness and solitude.
+          B: conveys the idea of actively pondering or ruminating.
+          C: reflects a practice similar to that of many Eastern religions.
+          D: is surprising since only priests could read God’s Word.
+        answer: B
+      - uid: BIB322.5.2.4.TY.1
+        subobj: 5.2.4
+        type: ty
+        question: References to God’s creation in the Psalms serve to
+        choices:
+          A: affirm God’s mastery over everything.
+          B: give an account of the world’s origin.
+          C: establish David’s kingship.
+          D: illustrate the Exodus.
+        answer: A
+      - uid: BIB322.6.1.1.UPE.1
+        subobj: 6.1.1
+        type: upe
+        question: The Hebrew word mashal literally means
+        choices:
+          A: a comparison.
+          B: the wise saying.
+          C: a godly word.
+          D: one’s enduring.
+        answer: A
+      - uid: BIB322.6.1.1.TY.1
+        subobj: 6.1.1
+        type: ty
+        question: The Hebrew word mashal , translated as “proverb,” literally means
+          to
+        choices:
+          A: “speak wisely.”
+          B: “separate.”
+          C: “call out.”
+          D: “compare.”
+        answer: D
+      - uid: BIB322.6.1.2.UPE.1
+        subobj: 6.1.2
+        type: upe
+        question: The central collections of Proverbs (10–29) consist of
+        choices:
+          A: contemplative wisdom.
+          B: proverbial wisdom.
+          C: Solomon’s writings.
+          D: a mixture of styles.
+        answer: B
+      - uid: BIB322.6.1.2.UPE.2
+        subobj: 6.1.2
+        type: upe
+        question: The introduction of Proverbs is followed by
+        choices:
+          A: four mashals.
+          B: five collections.
+          C: seven sections.
+          D: nine chapters.
+        answer: C
+      - uid: BIB322.6.1.2.TY.1
+        subobj: 6.1.2
+        type: ty
+        question: The book of Proverbs consists of
+        choices:
+          A: three collections.
+          B: five collections.
+          C: seven collections.
+          D: nine collections.
+        answer: C
+      - uid: BIB322.6.2.2.TY.1
+        subobj: 6.2.2
+        type: ty
+        question: One of the main themes of Proverbs 1–9 is
+        choices:
+          A: discipline.
+          B: laziness and industry.
+          C: the king.
+          D: the poor.
+        answer: B
+      - uid: BIB322.6.2.3.TY.1
+        subobj: 6.2.3
+        type: ty
+        question: A proverb is best described as a
+        choices:
+          A: guideline.
+          B: promise.
+          C: spiritual law.
+          D: hope.
+        answer: A
+      - uid: BIB322.6.2.4.UPE.1
+        subobj: 6.2.4
+        type: upe
+        question: Solomon’s proverbs gathered by King Hezekiah’s scribes
+        choices:
+          A: are arranged by prominent literary devices.
+          B: focus on home life and marital relationships.
+          C: make extensive use of chiasm and acrostic poems.
+          D: tend to be more organized than his other collections.
+        answer: D
+      - uid: BIB322.6.2.4.TY.1
+        subobj: 6.2.4
+        type: ty
+        question: Solomon’s proverbs collected by Hezekiah’s men emphasize
+        choices:
+          A: women.
+          B: rulers.
+          C: the lazy man.
+          D: the poor.
+        answer: B
+      - uid: BIB322.6.2.5.TY.1
+        subobj: 6.2.5
+        type: ty
+        question: The aspect of true kingship extolled in Proverbs 31 is
+        choices:
+          A: wisdom.
+          B: power.
+          C: giving justice to the weak.
+          D: keeping the covenant.
+        answer: C
+      - uid: BIB322.6.3.1.TY.1
+        subobj: 6.3.1
+        type: ty
+        question: The Torah focuses on the relationship between
+        choices:
+          A: parents and children.
+          B: king and servant.
+          C: good and wicked.
+          D: God and neighbor.
+        answer: D
+      - uid: BIB322.6.3.2.UPE.1
+        subobj: 6.3.2
+        type: upe
+        question: The principal social settings for Proverbs are the
+        choices:
+          A: home, temple, and king’s court.
+          B: king’s court, home, and marketplace.
+          C: marketplace, temple, and home of the wise.
+          D: court of the wise and the place of the foolish.
+        answer: B
+      - uid: BIB322.6.3.2.UPE.2
+        subobj: 6.3.2
+        type: upe
+        question: Women figure prominently in Proverbs because
+        choices:
+          A: the setting of later proverbs was the home.
+          B: a woman compiled and edited the book.
+          C: they were the major breadwinners in that culture.
+          D: women were primarily responsible for educating children.
+        answer: A
+      - uid: BIB322.6.3.2.TY.1
+        subobj: 6.3.2
+        type: ty
+        question: According to Davis, the primary function of Proverbs is to
+        choices:
+          A: provide stability in times of crisis.
+          B: provide instruction for youth.
+          C: act as legal guide.
+          D: establish a foundation for later prophecy.
+        answer: A
+      - uid: BIB322.6.4.1.UPE.1
+        subobj: 6.4.1
+        type: upe
+        question: Proverbs’ theology of retributional justice is advocated in
+        choices:
+          A: Genesis.
+          B: Deuteronomy.
+          C: Kings.
+          D: Esther.
+        answer: B
+      - uid: BIB322.6.4.3.UPE.1
+        subobj: 6.4.3
+        type: upe
+        question: The most destructive sin for a child is
+        choices:
+          A: the love of money.
+          B: laziness.
+          C: rebellion.
+          D: dishonesty.
+        answer: C
+      - uid: BIB322.6.4.3.UPE.2
+        subobj: 6.4.3
+        type: upe
+        question: Adultery results in
+        choices:
+          A: an enhanced relationship with one’s spouse.
+          B: damage to character development.
+          C: greater acceptance in the community.
+          D: minimal consequences in enlightened societies.
+        answer: B
+      - uid: BIB322.6.4.3.TY.1
+        subobj: 6.4.3
+        type: ty
+        question: The greatest threat to the stability of the home is
+        choices:
+          A: rebellion.
+          B: drunkenness.
+          C: infidelity.
+          D: gossip.
+        answer: C
+      - uid: BIB322.6.4.4.UPE.1
+        subobj: 6.4.4
+        type: upe
+        question: Lady Folly’s feast is enticing because of the
+        choices:
+          A: element of mystery and adventure.
+          B: unusual food being offered.
+          C: hint of sophistication.
+          D: fact that it is free.
+        answer: A
+      - uid: BIB322.6.4.4.TY.1
+        subobj: 6.4.4
+        type: ty
+        question: Lady Wisdom is
+        choices:
+          A: God’s first creation.
+          B: a goddess alongside God.
+          C: the architect designing creation.
+          D: a representation of the Holy Spirit.
+        answer: A
+      - uid: BIB322.7.1.1.TY.1
+        subobj: 7.1.1
+        type: ty
+        question: The Preacher’s basic purpose was to
+        choices:
+          A: help humanity endure extreme suffering.
+          B: explore the limits of human wisdom and experience.
+          C: explain the mystery of God.
+          D: share life-securing knowledge with all people.
+        answer: B
+      - uid: BIB322.7.1.2.TY.1
+        subobj: 7.1.2
+        type: ty
+        question: The author of Ecclesiastes is
+        choices:
+          A: several people whose work was compiled.
+          B: a king of Israel after Solomon’s time.
+          C: not known for certain.
+          D: King Solomon.
+        answer: C
+      - uid: BIB322.7.1.3.UPE.1
+        subobj: 7.1.3
+        type: upe
+        question: Ecclesiastes develops from
+        choices:
+          A: general conclusions to specific studies.
+          B: specific studies to general conclusions.
+          C: the king to the common person.
+          D: faithlessness to faith.
+        answer: B
+      - uid: BIB322.7.1.3.TY.1
+        subobj: 7.1.3
+        type: ty
+        question: The book of Ecclesiastes concludes with the
+        choices:
+          A: admonition to fear God and keep His commandments.
+          B: realization that the righteous will live forever.
+          C: recognition that all are made equal by death.
+          D: assertion that all is meaningless.
+        answer: A
+      - uid: BIB322.7.1.4.UPE.1
+        subobj: 7.1.4
+        type: upe
+        question: The Preacher concludes that
+        choices:
+          A: life is best enjoyed in the company of friends and family.
+          B: hard work brings wealth, comfort, and lasting joy.
+          C: the pursuit of wisdom is meaningful and satisfying.
+          D: we often cannot see God’s plan or understand His purposes.
+        answer: D
+      - uid: BIB322.7.2.1.TY.1
+        subobj: 7.2.1
+        type: ty
+        question: The essential contradiction of Ecclesiastes is that it
+        choices:
+          A: denies the existence of God.
+          B: denies that wealth is the result of hard work.
+          C: advocates both godliness and sensual pleasure.
+          D: argues both for and against conventional wisdom.
+        answer: D
+      - uid: BIB322.7.2.2.UPE.1
+        subobj: 7.2.2
+        type: upe
+        question: Looking for deeper meaning in Ecclesiastes is called
+        choices:
+          A: spiritualized interpretation.
+          B: a dialogue between sages.
+          C: evangelistic interpretation.
+          D: an example of human reasoning.
+        answer: A
+      - uid: BIB322.7.2.2.TY.1
+        subobj: 7.2.2
+        type: ty
+        question: Ecclesiastes is evangelistic in the sense that it
+        choices:
+          A: describes the Messiah’s coming to redeem His people.
+          B: warns sinners of coming judgment on all people.
+          C: emphasizes the meaningless of life without God.
+          D: calls sinners to humble repentance.
+        answer: C
+      - uid: BIB322.7.3.1.UPE.1
+        subobj: 7.3.1
+        type: upe
+        question: The writers of Proverbs, Job, and Ecclesiastes agree that
+        choices:
+          A: we can know God’s ways.
+          B: we cannot know God’s ways.
+          C: God is in control of all that happens.
+          D: human wisdom leads to a happy life.
+        answer: C
+      - uid: BIB322.7.3.1.TY.1
+        subobj: 7.3.1
+        type: ty
+        question: Ecclesiastes’ point of view is that
+        choices:
+          A: God’s justice is uncertain.
+          B: God is usually just.
+          C: God is always just.
+          D: God is not just.
+        answer: A
+      - uid: BIB322.7.3.2.UPE.1
+        subobj: 7.3.2
+        type: upe
+        question: The Preacher uses hebel to refer to life as a
+        choices:
+          A: continuum.
+          B: gift from God.
+          C: time of joy.
+          D: puff of air.
+        answer: D
+      - uid: BIB322.7.3.2.TY.1
+        subobj: 7.3.2
+        type: ty
+        question: The Hebrew word hebel literally means
+        choices:
+          A: “tomb” or “grave.”
+          B: “a breath” or “vapor.”
+          C: “wisdom” or “righteousness.”
+          D: “gathering” or “assembly.”
+        answer: B
+      - uid: BIB322.7.3.3.UPE.1
+        subobj: 7.3.3
+        type: upe
+        question: Teaching about the resurrection was uncommon until
+        choices:
+          A: the Preacher’s time.
+          B: New Testament revelations.
+          C: the intertestamental period.
+          D: the law of Moses was given.
+        answer: C
+      - uid: BIB322.7.3.3.TY.1
+        subobj: 7.3.3
+        type: ty
+        question: Concerning the afterlife, the Old Testament
+        choices:
+          A: promotes the same understanding as the New Testament teaches.
+          B: is limited to the concept of Sheol .
+          C: presents only partial understanding.
+          D: provides no teaching.
+        answer: C
+      - uid: BIB322.7.4.1.UPE.1
+        subobj: 7.4.1
+        type: upe
+        question: The Preacher differs from others who challenged wisdom because
+        choices:
+          A: he neither asks for nor receives a fresh revelation of God’s presence.
+          B: he is concerned more with secular teachings than with biblical.
+          C: his wisdom enabled a much more advanced degree of revelation.
+          D: he addresses issues that are more relevant to the marketplace.
+        answer: A
+      - uid: BIB322.7.4.1.TY.1
+        subobj: 7.4.1
+        type: ty
+        question: The writer of Ecclesiastes is different from others who challenge
+          wisdom because
+        choices:
+          A: he neither asks for nor receives a fresh revelation of God’s presence.
+          B: he is concerned not so much with biblical as with secular teachings.
+          C: his wisdom enabled a much more advanced degree of revelation.
+          D: he addresses issues that are more relevant to the marketplace.
+        answer: A
+      - uid: BIB322.7.4.3.UPE.1
+        subobj: 7.4.3
+        type: upe
+        question: Paul used which key term from Ecclesiastes?
+        choices:
+          A: Take joy
+          B: Under the sun
+          C: Wisdom
+          D: Meaningless
+        answer: D
+      - uid: BIB322.7.4.3.TY.1
+        subobj: 7.4.3
+        type: ty
+        question: Unlike the Preacher, Paul knew that
+        choices:
+          A: God is mysterious and unknowable.
+          B: finding pleasure in the simple gifts of life honors God.
+          C: all of humanity suffers and eventually finds life empty.
+          D: God works in suffering to bring good to His people.
+        answer: D
+      - uid: BIB322.7.4.4.UPE.1
+        subobj: 7.4.4
+        type: upe
+        question: If wisdom fails, the Preacher advises us to
+        choices:
+          A: protest God’s injustice.
+          B: return to a simpler faith.
+          C: enjoy the good things God has given.
+          D: abandon traditional religion.
+        answer: C
+      - uid: BIB322.8.1.1.UPE.1
+        subobj: 8.1.1
+        type: upe
+        question: Canonicity for the Song of Solomon was difficult because
+        choices:
+          A: Solomon could not have written it.
+          B: it deals frankly with human sexuality.
+          C: it contains many historical inaccuracies.
+          D: it is heavily influenced by Greek philosophical thought.
+        answer: B
+      - uid: BIB322.8.1.2.TY.1
+        subobj: 8.1.2
+        type: ty
+        question: The title “Song of Solomon” comes from
+        choices:
+          A: Jewish tradition.
+          B: the book’s first line.
+          C: Protestant Reformers.
+          D: the Latin translation of the Bible.
+        answer: B
+      - uid: BIB322.8.1.2.TY.2
+        subobj: 8.1.2
+        type: ty
+        question: Ancient Jewish tradition identifies Solomon as the
+        choices:
+          A: shepherd in the story.
+          B: ancestor of the author.
+          C: author of the book.
+          D: inspiration for the book.
+        answer: C
+      - uid: BIB322.8.1.3.TY.1
+        subobj: 8.1.3
+        type: ty
+        question: The interpretation that fits the book least is
+        choices:
+          A: allegorical.
+          B: analogical.
+          C: dramatic.
+          D: poetic.
+        answer: A
+      - uid: BIB322.8.1.3.TY.2
+        subobj: 8.1.3
+        type: ty
+        question: The Song of Solomon is best understood as poetry because poetry
+        choices:
+          A: rhymes.
+          B: is shorter.
+          C: uses vivid language.
+          D: need not follow a story line.
+        answer: D
+      - uid: BIB322.8.1.4.UPE.1
+        subobj: 8.1.4
+        type: upe
+        question: The basic problem with the two-character view is that it
+        choices:
+          A: does not account for references to the shepherd.
+          B: does not identify the “daughters of Jerusalem.”
+          C: denies Solomon’s authorship.
+          D: is not obvious to the casual reader.
+        answer: A
+      - uid: BIB322.8.1.4.TY.1
+        subobj: 8.1.4
+        type: ty
+        question: The book is considered a critique of immorality in the
+        choices:
+          A: anthology view.
+          B: three-character view.
+          C: two-character view.
+          D: single poem view.
+        answer: B
+      - uid: BIB322.8.2.1.TY.1
+        subobj: 8.2.1
+        type: ty
+        question: Dualism is the belief that
+        choices:
+          A: the spiritual reality is good and the physical is evil.
+          B: Scripture passages have both literal and spiritual interpretations.
+          C: marriage is spiritual because two people become one flesh.
+          D: two solutions exist for every problem we experience.
+        answer: A
+      - uid: BIB322.8.2.1.TY.2
+        subobj: 8.2.1
+        type: ty
+        question: The idea that sexual desire is evil originated in
+        choices:
+          A: Egyptian philosophy.
+          B: Roman philosophy.
+          C: Greek philosophy.
+          D: Hebrew philosophy.
+        answer: C
+      - uid: BIB322.8.2.2.UPE.1
+        subobj: 8.2.2
+        type: upe
+        question: In the sexual relationship, the woman
+        choices:
+          A: is equal to the man.
+          B: must please the man.
+          C: has dominion over the man.
+          D: must be subservient to the man.
+        answer: A
+      - uid: BIB322.8.2.2.UPE.2
+        subobj: 8.2.2
+        type: upe
+        question: Melanchthon points out that in Song of Solomon,
+        choices:
+          A: male family members try to restrain the woman.
+          B: Solomon is captivated by a single lover.
+          C: marriage is not specifically talked about.
+          D: the central character is a woman.
+        answer: D
+      - uid: BIB322.8.2.2.TY.1
+        subobj: 8.2.2
+        type: ty
+        question: Women are often more sexually restricted than men because they are
+        choices:
+          A: believed to not experience the same needs as men.
+          B: seen as belonging under men’s authority.
+          C: more likely to refuse to satisfy their spouses.
+          D: ordained by Scripture to remain pure.
+        answer: B
+      - uid: BIB322.8.2.3.UPE.1
+        subobj: 8.2.3
+        type: upe
+        question: The Song of Solomon is a return to Paradise in the sense that
+        choices:
+          A: men and women are equal in sharing love.
+          B: resurrection from the dead is promised.
+          C: the effects of sin are cancelled.
+          D: death is conquered.
+        answer: A
+      - uid: BIB322.8.2.3.UPE.2
+        subobj: 8.2.3
+        type: upe
+        question: The garden in Song of Solomon symbolizes
+        choices:
+          A: the naturalness of the sexual union.
+          B: woman and the act of lovemaking.
+          C: the creation of humankind.
+          D: the Garden of Eden.
+        answer: B
+      - uid: BIB322.8.2.3.TY.1
+        subobj: 8.2.3
+        type: ty
+        question: Both Song of Solomon and the Creation account use the image of
+        choices:
+          A: a garden.
+          B: a light.
+          C: a serpent.
+          D: an apple tree.
+        answer: A
+      - uid: BIB322.8.2.4.TY.1
+        subobj: 8.2.4
+        type: ty
+        question: In comparison to the rest of the Bible, the Song of Solomon
+        choices:
+          A: validates the view that women exist to gratify men’s desires.
+          B: critiques the cultures that allow women to enjoy sexual union.
+          C: advocates separating sex from the love relationship.
+          D: affirms that sex is God’s good creation.
+        answer: D
     chapters:
     - last_modified: '2026-03-27'
       title: 1 - Introduction to Hebrew Poetry

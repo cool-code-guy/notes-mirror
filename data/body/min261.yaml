@@ -548,6 +548,2173 @@ courses:
       '2.0':
         timestamp: '2026-04-01'
         PN: 02.22.01
+      '1.0':
+        timestamp: '2007-01-01'
+        precision: year
+        source: colophon
+    printings:
+    - pn: 02.22.01
+      course_code: MIN261
+      source_html: BMIN261ENE02-90_02.22.01.html
+      template: old
+      recorded: '2026-08-26'
+      note: 'Pristine print baseline built by scripts/build_html_baseline.py purely
+        from the InDesign HTML -- no DB input. Read-only: never hand-edit and never
+        feed to the janitor. UIDs are synthesized from the book''s own answer key;
+        diff pairs by content.'
+      counts:
+        ty: 110
+        upe: 100
+        final: 0
+      questions:
+      - uid: MIN261.1.1.1.UPE.1
+        subobj: 1.1.1
+        type: upe
+        question: Missions is defined and restricted to
+        choices:
+          A: people in other geographical areas.
+          B: unsaved people outside a local church.
+          C: representing the gospel across geographical and cultural boundaries.
+          D: winning people in gospel-destitute areas.
+        answer: C
+      - uid: MIN261.1.1.1.UPE.2
+        subobj: 1.1.1
+        type: upe
+        question: The term missionary is from a Greek word meaning
+        choices:
+          A: “to send.”
+          B: “to shepherd.”
+          C: “to teach.”
+          D: “to preach.”
+        answer: A
+      - uid: MIN261.1.1.1.TY.1
+        subobj: 1.1.1
+        type: ty
+        question: Missions involves the selecting of missionaries to
+        choices:
+          A: share Christ within the western cultural perspective.
+          B: establish diplomatic relationships between the United States church and
+            foreign church plants.
+          C: work primarily in humanitarian efforts overseas.
+          D: share Christ across geographical and cultural boundaries.
+        answer: D
+      - uid: MIN261.1.1.1.TY.2
+        subobj: 1.1.1
+        type: ty
+        question: The focus of missions is on
+        choices:
+          A: a particular person.
+          B: sending.
+          C: a geographical area.
+          D: cultural boundaries.
+        answer: B
+      - uid: MIN261.1.1.2.TY.1
+        subobj: 1.1.2
+        type: ty
+        question: The ultimate purpose of missions is to
+        choices:
+          A: save and to serve others as they grow in Christian maturity.
+          B: make the world a better place to live.
+          C: make the lives of individuals more satisfactory and fulfilling.
+          D: develop community.
+        answer: A
+      - uid: MIN261.1.2.1.UPE.1
+        subobj: 1.2.1
+        type: upe
+        question: Missions exists
+        choices:
+          A: to provide food and shelter for people living in extreme poverty.
+          B: to bring people to worship the true God.
+          C: to alleviate all forms of human suffering.
+          D: because people are worthy of being saved.
+        answer: B
+      - uid: MIN261.1.2.1.UPE.2
+        subobj: 1.2.1
+        type: upe
+        question: The principal motivation for witnessing is
+        choices:
+          A: the fact that it is commanded in the Bible.
+          B: the lostness of humankind.
+          C: an intimate knowledge of the Lord.
+          D: to attempt to alleviate suffering.
+        answer: C
+      - uid: MIN261.1.2.1.TY.1
+        subobj: 1.2.1
+        type: ty
+        question: The primary motive of missions is the
+        choices:
+          A: salvation of humankind.
+          B: worship of God.
+          C: reaching of nations.
+          D: geographical expansion of the Church.
+        answer: B
+      - uid: MIN261.1.2.2.UPE.1
+        subobj: 1.2.2
+        type: upe
+        question: The level of authenticity in our witness will depend upon
+        choices:
+          A: our level of biblical knowledge.
+          B: our knowledge of culture.
+          C: the gifts of the Spirit manifested through us.
+          D: our closeness to the Lord.
+        answer: D
+      - uid: MIN261.1.2.2.TY.1
+        subobj: 1.2.2
+        type: ty
+        question: The Holy Spirit is primarily at work in believers to
+        choices:
+          A: empower them with the gifts of the Spirit.
+          B: make them great evangelists.
+          C: enlighten them of the greatness and goodness of the Christ.
+          D: give them wisdom.
+        answer: C
+      - uid: MIN261.1.2.2.TY.2
+        subobj: 1.2.2
+        type: ty
+        question: Judging by the Pentecost account, we could say the Church and missions
+          are creations of
+        choices:
+          A: history.
+          B: the institutional church.
+          C: the Holy Spirit.
+          D: the apostles.
+        answer: C
+      - uid: MIN261.1.2.3.TY.1
+        subobj: 1.2.3
+        type: ty
+        question: God’s sovereignty primarily refers to His
+        choices:
+          A: all-sufficiency.
+          B: supreme authority.
+          C: creative powers.
+          D: knowledge of all things.
+        answer: B
+      - uid: MIN261.1.2.3.TY.2
+        subobj: 1.2.3
+        type: ty
+        question: Jesus’ primary motivation for ministry to the multitudes was
+        choices:
+          A: the glory of God.
+          B: the revelation of His own deity.
+          C: their desperate needs.
+          D: to show His power to His disciples.
+        answer: C
+      - uid: MIN261.1.3.2.TY.1
+        subobj: 1.3.2
+        type: ty
+        question: Jews understood the eons were divided into the
+        choices:
+          A: present age and the last days when the Messiah would appear.
+          B: age before the Flood and the days of the prophets.
+          C: days of the prophets and the appearing of the Messiah.
+          D: kings and the prophets.
+        answer: A
+      - uid: MIN261.1.3.3.UPE.1
+        subobj: 1.3.3
+        type: upe
+        question: The period between Christ’s first coming and second coming is the
+        choices:
+          A: age of the church.
+          B: apostolic age.
+          C: post-apostolic age.
+          D: age of the prophets.
+        answer: A
+      - uid: MIN261.1.3.3.UPE.2
+        subobj: 1.3.3
+        type: upe
+        question: Both church and missions are creations of
+        choices:
+          A: history.
+          B: the institutional church.
+          C: the Holy Spirit.
+          D: the apostles.
+        answer: C
+      - uid: MIN261.1.3.3.TY.1
+        subobj: 1.3.3
+        type: ty
+        question: When Jesus said, “This gospel . . . will be preached in the whole
+          world . . . and then the end will come,” He meant
+        choices:
+          A: the missionary enterprise would hasten His coming.
+          B: His return would be determined by the actions of the Church.
+          C: we are to continue taking the Good News to all people, knowing He may
+            return at any time.
+          D: a definite geographical expansion of the gospel would signal His return.
+        answer: C
+      - uid: MIN261.2.1.1.UPE.1
+        subobj: 2.1.1
+        type: upe
+        question: The first prophecy of the coming of a Savior is found in the story
+          of
+        choices:
+          A: Abraham.
+          B: Noah.
+          C: the offspring of Eve.
+          D: the sacrifice of Abel.
+        answer: C
+      - uid: MIN261.2.1.1.UPE.2
+        subobj: 2.1.1
+        type: upe
+        question: Most Old Testaments statements about God’s mission are in the
+        choices:
+          A: book of Proverbs.
+          B: Song of Solomon.
+          C: Psalms.
+          D: book of Nehemiah.
+        answer: C
+      - uid: MIN261.2.1.1.TY.1
+        subobj: 2.1.1
+        type: ty
+        question: The table of nations in Genesis 10 indicates
+        choices:
+          A: the languages of the earth were diversified.
+          B: all people belong to God.
+          C: unity is the strength of the nations.
+          D: the three sons of Noah were not united.
+        answer: B
+      - uid: MIN261.2.1.1.TY.2
+        subobj: 2.1.1
+        type: ty
+        question: The purpose of Abram’s call was
+        choices:
+          A: the establishing of Israel as a nation.
+          B: a reward for his righteous living in the land of Ur.
+          C: so God could give him the promised land.
+          D: intended for the welfare of all humanity.
+        answer: D
+      - uid: MIN261.2.1.1.TY.3
+        subobj: 2.1.1
+        type: ty
+        question: In the Pentateuch, the foreigner living in Israel
+        choices:
+          A: was commanded to live separately from God’s people.
+          B: was to share in the covenant of God with Israel.
+          C: was not to share in the observance of the Passover with Israel.
+          D: could not expect his offspring to be accepted by the nation.
+        answer: B
+      - uid: MIN261.2.1.2.UPE.1
+        subobj: 2.1.2
+        type: upe
+        question: The book of Habakkuk is primarily concerned with
+        choices:
+          A: the realization of God’s will for the world.
+          B: suffering in the face of the powers of evil.
+          C: the national worship of Israel alone.
+          D: Israel being subject to God’s will.
+        answer: A
+      - uid: MIN261.2.1.2.UPE.2
+        subobj: 2.1.2
+        type: upe
+        question: Joel’s prophecy in the third part of his book applies to
+        choices:
+          A: Israel.
+          B: Babylon.
+          C: Assyria.
+          D: all people.
+        answer: D
+      - uid: MIN261.2.1.2.TY.1
+        subobj: 2.1.2
+        type: ty
+        question: Most of the statements abou t God’s mission in the historical books
+          and wisdom literature are found in the
+        choices:
+          A: Psalms.
+          B: Proverbs.
+          C: book of Job.
+          D: Song of Solomon.
+        answer: A
+      - uid: MIN261.2.1.2.TY.2
+        subobj: 2.1.2
+        type: ty
+        question: The major theme of the book of Habakkuk is
+        choices:
+          A: suffering in the face of the powers of evil.
+          B: the restoration of Israel.
+          C: God’s keeping His promises to Israel, and through them, to the whole
+            world.
+          D: God’s covenant with Abraham.
+        answer: C
+      - uid: MIN261.2.1.3.UPE.1
+        subobj: 2.1.3
+        type: upe
+        question: Old Testament prophecy climaxes in the book of
+        choices:
+          A: Psalms.
+          B: Ezekiel.
+          C: Isaiah.
+          D: Jeremiah.
+        answer: C
+      - uid: MIN261.2.1.3.UPE.2
+        subobj: 2.1.3
+        type: upe
+        question: In Isaiah, God’s “servant,” was to be a
+        choices:
+          A: witness.
+          B: king.
+          C: prophet.
+          D: judge.
+        answer: A
+      - uid: MIN261.2.1.3.UPE.3
+        subobj: 2.1.3
+        type: upe
+        question: The suffering servant in Isaiah portrays
+        choices:
+          A: only Israel.
+          B: only the Messiah.
+          C: Israel and the Messiah.
+          D: the Church.
+        answer: C
+      - uid: MIN261.2.1.3.TY.1
+        subobj: 2.1.3
+        type: ty
+        question: The climax of Old Testament prophecy is found in the
+        choices:
+          A: Psalms.
+          B: first part of the book of Isaiah.
+          C: second part of the book of Isaiah.
+          D: second chapter of the book of Joel.
+        answer: C
+      - uid: MIN261.2.2.1.UPE.1
+        subobj: 2.2.1
+        type: upe
+        question: The New Testament was written by
+        choices:
+          A: apostles.
+          B: evangelists.
+          C: pastors.
+          D: missionaries.
+        answer: D
+      - uid: MIN261.2.2.1.UPE.2
+        subobj: 2.2.1
+        type: upe
+        question: Matthew closes his gospel with the
+        choices:
+          A: story of the passion.
+          B: Great Commission.
+          C: story of the resurrection.
+          D: story of the ascension.
+        answer: B
+      - uid: MIN261.2.2.1.UPE.3
+        subobj: 2.2.1
+        type: upe
+        question: The central theme of the Gospel of Mark is
+        choices:
+          A: the parables.
+          B: the supernatural nature of Christ.
+          C: Christ’s conflicts with the Jewish leaders.
+          D: the call of the disciples.
+        answer: B
+      - uid: MIN261.2.2.1.TY.1
+        subobj: 2.2.1
+        type: ty
+        question: The New Testament books were written by
+        choices:
+          A: apostles of the Lord.
+          B: writers of Jewish descent.
+          C: missionaries.
+          D: people who had walked with the Lord.
+        answer: C
+      - uid: MIN261.2.2.1.TY.2
+        subobj: 2.2.1
+        type: ty
+        question: Jesus’ ancestry is traced back to Adam in the Gospel of
+        choices:
+          A: Luke.
+          B: John.
+          C: Matthew.
+          D: Mark.
+        answer: A
+      - uid: MIN261.2.2.3.UPE.1
+        subobj: 2.2.3
+        type: upe
+        question: God called Paul to
+        choices:
+          A: take the gospel to the Jews through preaching in the synagogues.
+          B: proclaim Christ in the marketplaces.
+          C: take the gospel to the Gentiles.
+          D: abolish Jewish customs.
+        answer: C
+      - uid: MIN261.2.2.3.TY.1
+        subobj: 2.2.3
+        type: ty
+        question: According to Paul, God called him to
+        choices:
+          A: take the gospel to the Jews.
+          B: proclaim Christ in the marketplaces.
+          C: take the gospel to the Gentiles.
+          D: abolish Jewish customs.
+        answer: C
+      - uid: MIN261.2.2.4.TY.1
+        subobj: 2.2.4
+        type: ty
+        question: The world missions message of Revelation is seen in the
+        choices:
+          A: messages to the seven churches.
+          B: theme of the Church’s victory over evil and Satan.
+          C: struggle between good and evil.
+          D: fall of the Antichrist.
+        answer: B
+      - uid: MIN261.3.1.1.UPE.1
+        subobj: 3.1.1
+        type: upe
+        question: Worldview refers to assumptions that are
+        choices:
+          A: conscious and known.
+          B: explicit beliefs of a people.
+          C: unconscious and taken for granted.
+          D: the manifestation of the behavior of a culture.
+        answer: C
+      - uid: MIN261.3.1.1.UPE.2
+        subobj: 3.1.1
+        type: upe
+        question: Contextualization means that the
+        choices:
+          A: gospel is relative.
+          B: message changes from one culture to another.
+          C: gospel is communicated by means of human culture.
+          D: culture must change.
+        answer: C
+      - uid: MIN261.3.1.1.UPE.3
+        subobj: 3.1.1
+        type: upe
+        question: Languages are
+        choices:
+          A: always complex.
+          B: often primitive.
+          C: only in rare occasions simple.
+          D: essentially the same across cultures.
+        answer: A
+      - uid: MIN261.3.1.1.TY.1
+        subobj: 3.1.1
+        type: ty
+        question: Worldviews are
+        choices:
+          A: consciously held and defended.
+          B: unconscious and taken for granted.
+          C: often examined by the people of a particular culture.
+          D: sophisticated assumptions about reality.
+        answer: B
+      - uid: MIN261.3.1.1.TY.2
+        subobj: 3.1.1
+        type: ty
+        question: In the biblical case of Paul and Barnabas in Lystra, the
+        choices:
+          A: priest of Hermes wanted to put them on trial.
+          B: people wanted to prepare a feast.
+          C: people thought the miracle came from Zeus and Hermes.
+          D: city clerk called for an assembly.
+        answer: C
+      - uid: MIN261.3.1.1.TY.3
+        subobj: 3.1.1
+        type: ty
+        question: Teaching the gospel through the language, symbols, and rituals of
+          cultures is called
+        choices:
+          A: worldview.
+          B: contextualization.
+          C: synchronism.
+          D: revelation.
+        answer: B
+      - uid: MIN261.3.1.1.TY.4
+        subobj: 3.1.1
+        type: ty
+        question: At the first council of the church in Acts 15,
+        choices:
+          A: the observance of Jewish customs was approved.
+          B: it was decided that Jewish customs need not be observed for a person
+            to be saved.
+          C: observance of Jewish customs was left up to the Gentile leaders.
+          D: Jewish customs were condemned.
+        answer: B
+      - uid: MIN261.3.1.1.TY.5
+        subobj: 3.1.1
+        type: ty
+        question: Contextualization refers to
+        choices:
+          A: the distortion of the truth.
+          B: teaching that makes the truth relative.
+          C: truth that is expressed through the language, symbols, and rituals of
+            the cultures of the world.
+          D: the truth that all cultural symbols are wholesome.
+        answer: C
+      - uid: MIN261.3.1.1.TY.6
+        subobj: 3.1.1
+        type: ty
+        question: Western theology is
+        choices:
+          A: mostly preoccupied with emotional issues.
+          B: mostly rationalistic.
+          C: hostile to western philosophies.
+          D: not in conformity to a secular worldview.
+        answer: B
+      - uid: MIN261.3.1.1.TY.7
+        subobj: 3.1.1
+        type: ty
+        question: When we say the gospel must possess a culture, we mean it
+        choices:
+          A: adopts the practices of a culture.
+          B: rejects the practices of a culture.
+          C: turns a culture in a different direction.
+          D: no longer resembles the past.
+        answer: C
+      - uid: MIN261.3.1.2.UPE.1
+        subobj: 3.1.2
+        type: upe
+        question: Western theology is mostly
+        choices:
+          A: rationalistic.
+          B: emotional in nature.
+          C: concerned with faith issues.
+          D: oriented toward the miraculous.
+        answer: A
+      - uid: MIN261.3.1.2.UPE.2
+        subobj: 3.1.2
+        type: upe
+        question: Body language is interpreted differently in different cultures.
+          For example, in some places in Africa or Asia, averted eyes are a sign of
+        choices:
+          A: shyness.
+          B: belligerence.
+          C: respect.
+          D: indifference.
+        answer: C
+      - uid: MIN261.3.1.2.UPE.3
+        subobj: 3.1.2
+        type: upe
+        question: In individualistic cultures, communication is
+        choices:
+          A: indirect.
+          B: implicit.
+          C: direct.
+          D: sensitive to relationship building.
+        answer: C
+      - uid: MIN261.3.1.2.UPE.4
+        subobj: 3.1.2
+        type: upe
+        question: Tone of the voice communicates
+        choices:
+          A: contextualization.
+          B: paramessages.
+          C: body language.
+          D: primary messages.
+        answer: B
+      - uid: MIN261.3.1.2.TY.1
+        subobj: 3.1.2
+        type: ty
+        question: As one of the greatest barriers to cross-cultural communication,
+          languages are
+        choices:
+          A: always complex.
+          B: sometimes primitive or simple.
+          C: often primitive in illiterate societies.
+          D: only moderately complex.
+        answer: A
+      - uid: MIN261.3.1.2.TY.2
+        subobj: 3.1.2
+        type: ty
+        question: Luke’s account of the tax collector beating his breast is an example
+          of
+        choices:
+          A: a different structure in language.
+          B: a generally understood gesture in all cultures.
+          C: non-verbal communication as a sign of humility in a particular culture.
+          D: non-verbal communication as a sign of humility everywhere.
+        answer: C
+      - uid: MIN261.3.1.2.TY.3
+        subobj: 3.1.2
+        type: ty
+        question: Cultures where there is collective identity tend to
+        choices:
+          A: be direct.
+          B: de-emphasize the personal relationships.
+          C: be secretive.
+          D: be indirect.
+        answer: D
+      - uid: MIN261.4.1.1.UPE.1
+        subobj: 4.1.1
+        type: upe
+        question: The Bible does not record when churches were established in
+        choices:
+          A: Troas.
+          B: Pontus.
+          C: Lystra.
+          D: Iconium.
+        answer: B
+      - uid: MIN261.4.1.1.UPE.2
+        subobj: 4.1.1
+        type: upe
+        question: Gregory had a ministry of signs and wonders in
+        choices:
+          A: Cappadocia.
+          B: Armenia.
+          C: Derbe.
+          D: Lystra.
+        answer: A
+      - uid: MIN261.4.1.1.UPE.3
+        subobj: 4.1.1
+        type: upe
+        question: The most dominant force in the spread of Christianity was
+        choices:
+          A: apostles.
+          B: evangelists.
+          C: elders.
+          D: ordinary Christians.
+        answer: D
+      - uid: MIN261.4.1.1.UPE.4
+        subobj: 4.1.1
+        type: upe
+        question: In AD 410, Rome was conquered by
+        choices:
+          A: Attila the Hun.
+          B: Alaric and the Goths.
+          C: the Burgundians.
+          D: the Lombards.
+        answer: B
+      - uid: MIN261.4.1.1.UPE.5
+        subobj: 4.1.1
+        type: upe
+        question: The New Testament was translated into the Gothic language by
+        choices:
+          A: Clovis.
+          B: Boniface.
+          C: Giovanni Bernerdone.
+          D: Ulfilas.
+        answer: D
+      - uid: MIN261.4.1.1.UPE.6
+        subobj: 4.1.1
+        type: upe
+        question: The state of the Franks was first led by
+        choices:
+          A: Clovis.
+          B: Childeric.
+          C: Charlemagne.
+          D: Geovanni Bernerdone.
+        answer: B
+      - uid: MIN261.4.1.1.TY.1
+        subobj: 4.1.1
+        type: ty
+        question: Christianity penetrated the Roman Empire in the first
+        choices:
+          A: two hundred years.
+          B: three hundred years.
+          C: four hundred years.
+          D: five hundred years.
+        answer: C
+      - uid: MIN261.4.1.1.TY.2
+        subobj: 4.1.1
+        type: ty
+        question: One reason for the rapid spread of Christianity in the Roman Empire
+          was
+        choices:
+          A: its Jewish connection.
+          B: a diversified church organization developed.
+          C: the development of a professional clergy.
+          D: the Christian message was able to penetrate the cities.
+        answer: D
+      - uid: MIN261.4.1.1.TY.3
+        subobj: 4.1.1
+        type: ty
+        question: The political situation of the empire during the conversion of the
+          barbarians
+        choices:
+          A: was one of relative stability and peace.
+          B: was marked by successive waves of barbarians into the Roman Empire.
+          C: saw a temporary upsurge in Roman military conquests and might.
+          D: saw the establishment of Constantinople as the capital of the empire.
+        answer: B
+      - uid: MIN261.4.1.1.TY.4
+        subobj: 4.1.1
+        type: ty
+        question: The missionary responsible for the conversion of the Goths was
+        choices:
+          A: Gregory, the wonder-worker.
+          B: Gregory the Illuminator.
+          C: Clovis.
+          D: Ulfilas.
+        answer: D
+      - uid: MIN261.4.1.2.UPE.1
+        subobj: 4.1.2
+        type: upe
+        question: When the Saxons accepted Christianity, their faith was one of
+        choices:
+          A: profound depth.
+          B: spiritual shallowness.
+          C: spiritual commitment.
+          D: missionary zeal.
+        answer: B
+      - uid: MIN261.4.1.2.UPE.2
+        subobj: 4.1.2
+        type: upe
+        question: Immigrant missionary meant the missionary
+        choices:
+          A: became a part of the people and culture.
+          B: was sent and supported by people from his or her culture.
+          C: maintained a separate identity.
+          D: was always known as a foreigner.
+        answer: A
+      - uid: MIN261.4.1.2.TY.1
+        subobj: 4.1.2
+        type: ty
+        question: The primary method for conversion by Charles the Great was
+        choices:
+          A: to send missionaries.
+          B: by the sword.
+          C: through literature.
+          D: through translation into indigenous languages.
+        answer: B
+      - uid: MIN261.4.1.2.TY.2
+        subobj: 4.1.2
+        type: ty
+        question: The Celtic missionaries
+        choices:
+          A: were known as men of zeal but little education.
+          B: stressed church tradition.
+          C: were immigrant missionaries.
+          D: worked primarily in Asia.
+        answer: C
+      - uid: MIN261.4.2.1.UPE.1
+        subobj: 4.2.1
+        type: upe
+        question: A better approach to Islam was stimulated by
+        choices:
+          A: Giovanni Bernadone.
+          B: Dominic.
+          C: Ulfilas.
+          D: Ramon Lull.
+        answer: D
+      - uid: MIN261.4.2.2.UPE.1
+        subobj: 4.2.2
+        type: upe
+        question: The Christian Order inspired by Matthew 10:7–10 was the
+        choices:
+          A: Dominicans.
+          B: Franciscans.
+          C: Jesuits.
+          D: Templar Knights.
+        answer: B
+      - uid: MIN261.4.2.2.UPE.2
+        subobj: 4.2.2
+        type: upe
+        question: Devoted to the conversion of heretics were the
+        choices:
+          A: Franciscans.
+          B: Jesuits.
+          C: Dominicans.
+          D: Augustinians.
+        answer: C
+      - uid: MIN261.4.2.2.TY.1
+        subobj: 4.2.2
+        type: ty
+        question: The founder of the Franciscan Order was
+        choices:
+          A: William of Ockham.
+          B: Bonaventura.
+          C: Boniface.
+          D: Giovanni Bernerdone.
+        answer: D
+      - uid: MIN261.4.3.2.UPE.1
+        subobj: 4.3.2
+        type: upe
+        question: The founder of Pietism was
+        choices:
+          A: Spener.
+          B: Zinzendorf.
+          C: Ludwig.
+          D: Melancthon.
+        answer: A
+      - uid: MIN261.4.3.2.UPE.2
+        subobj: 4.3.2
+        type: upe
+        question: The Moravians were
+        choices:
+          A: people who opposed missionaries in northern Europe.
+          B: devout Catholics who taught personal holiness.
+          C: missionaries who used and taught their vocations while spreading the
+            gospel.
+          D: associates of William Carey.
+        answer: C
+      - uid: MIN261.4.3.2.TY.1
+        subobj: 4.3.2
+        type: ty
+        question: The founder of the Pietist movement in Germany was
+        choices:
+          A: Philipp Jakob Spener.
+          B: Nocolaus Ludwig.
+          C: Melancthon.
+          D: Zinzendorf.
+        answer: A
+      - uid: MIN261.4.4.1.TY.1
+        subobj: 4.4.1
+        type: ty
+        question: The year of the second wave of Protestant missions was
+        choices:
+          A: '1797.'
+          B: '1812.'
+          C: '1858.'
+          D: '1901.'
+        answer: C
+      - uid: MIN261.4.4.2.TY.1
+        subobj: 4.4.2
+        type: ty
+        question: A key motive for the establishment of the Assemblies of God was
+        choices:
+          A: to provide ministerial credentials to ministers.
+          B: the need for a central foreign missions agency.
+          C: the need to form a Pentecostal denomination.
+          D: the need to provide formal theological education.
+        answer: B
+      - uid: MIN261.5.1.1.UPE.1
+        subobj: 5.1.1
+        type: upe
+        question: Faith missions were so called because they
+        choices:
+          A: were the precursors of other missions.
+          B: had strong denominational support.
+          C: were guaranteed local support.
+          D: depended on faith for their support.
+        answer: D
+      - uid: MIN261.5.1.1.TY.1
+        subobj: 5.1.1
+        type: ty
+        question: Faith missions of the nineteenth century were so called because
+          they
+        choices:
+          A: had limited denominational backing.
+          B: were only partially guaranteed their support.
+          C: depended on faith for their support.
+          D: were poorly organized.
+        answer: C
+      - uid: MIN261.5.1.2.UPE.1
+        subobj: 5.1.2
+        type: upe
+        question: An affect of Pentecostal revival on the missionary movement was
+        choices:
+          A: the prominent role of women.
+          B: an emphasis on missions education.
+          C: a unique sense of being led by the need on the field.
+          D: denominational financial support.
+        answer: A
+      - uid: MIN261.5.1.2.TY.1
+        subobj: 5.1.2
+        type: ty
+        question: A characteristic of the missionary movement springing from Pentecostal
+          revival was
+        choices:
+          A: a new intellectual approach to missions.
+          B: the prominent role of women.
+          C: more personal choice as to mission field.
+          D: a carefully organized missions agency.
+        answer: B
+      - uid: MIN261.5.2.1.UPE.1
+        subobj: 5.2.1
+        type: upe
+        question: J. Roswell Flower
+        choices:
+          A: established broad criteria for missionary appointment.
+          B: established field leadership.
+          C: established a basic budget for individual missionaries.
+          D: gave individual initiative to the missionaries in the area of projects.
+        answer: C
+      - uid: MIN261.5.2.1.TY.1
+        subobj: 5.2.1
+        type: ty
+        question: The second General Council of the Assemblies of God emphasized
+        choices:
+          A: church organization.
+          B: doctrinal purity.
+          C: the foreign missions program.
+          D: establishing Bible schools.
+        answer: C
+      - uid: MIN261.5.2.1.TY.2
+        subobj: 5.2.1
+        type: ty
+        question: One of J. Roswell Flower’s areas of impact was
+        choices:
+          A: establishing individual budgets for missionaries.
+          B: listing qualifications for missionary selection.
+          C: establishing educational requirements for missionaries.
+          D: emphasizing prayer.
+        answer: A
+      - uid: MIN261.5.3.1.UPE.1
+        subobj: 5.3.1
+        type: upe
+        question: Noel Perkin was troubled that missions work often depended on
+        choices:
+          A: untrained men.
+          B: women missionaries.
+          C: single men.
+          D: unspiritual missionaries.
+        answer: B
+      - uid: MIN261.5.3.2.TY.1
+        subobj: 5.3.2
+        type: ty
+        question: Noel Perkin’s leadership encouraged
+        choices:
+          A: missionaries to work independently of the churches.
+          B: greater supervision of missionary personnel.
+          C: female missionaries to take the lead.
+          D: tension concerning doctrine and practice.
+        answer: B
+      - uid: MIN261.5.3.3.UPE.1
+        subobj: 5.3.3
+        type: upe
+        question: One important change after World War II was
+        choices:
+          A: a new emphasis on Europe.
+          B: that Asia became the primary focus.
+          C: that Africa became the primary focus.
+          D: strategic planning became a part of missions planning.
+        answer: D
+      - uid: MIN261.5.4.1.UPE.1
+        subobj: 5.4.1
+        type: upe
+        question: An important decision made in the 1955 General Council was the
+        choices:
+          A: establishment of Field Directors.
+          B: establishment of the Foreign Missions Board.
+          C: top leader of Foreign Missions became an Assistant General Superintendent.
+          D: Foreign Missions Board was expanded to include six pastors.
+        answer: B
+      - uid: MIN261.5.4.1.UPE.2
+        subobj: 5.4.1
+        type: upe
+        question: To bring efficiency to AGWM, J. Philip Hogan emphasized
+        choices:
+          A: the individual finances of the missionaries.
+          B: the naming of new field (or regional) directors.
+          C: an annual school of missions.
+          D: the individual vision of the missionaries.
+        answer: C
+      - uid: MIN261.5.4.1.UPE.3
+        subobj: 5.4.1
+        type: upe
+        question: Hogan believed compassion ministries were
+        choices:
+          A: equal to ministries of proclamation.
+          B: superior to evangelism.
+          C: not to be recognized.
+          D: a kind of pre-evangelism.
+        answer: D
+      - uid: MIN261.5.4.1.TY.1
+        subobj: 5.4.1
+        type: ty
+        question: To coordinate and communicate missions strategy, J. Philip Hogan
+          established
+        choices:
+          A: an elite task force.
+          B: Teen Challenge.
+          C: an annual school of missions.
+          D: a medical initiative that treated AIDS patients.
+        answer: C
+      - uid: MIN261.5.4.1.TY.2
+        subobj: 5.4.1
+        type: ty
+        question: If the church was to grow, national leaders must
+        choices:
+          A: emphasize commitment to the local church.
+          B: hire qualified staff to assist them.
+          C: be grounded in the Bible and theology.
+          D: receive continual support from founding missionaries.
+        answer: C
+      - uid: MIN261.5.4.1.TY.3
+        subobj: 5.4.1
+        type: ty
+        question: The 10 / 40 window is a phrase describing
+        choices:
+          A: the region from Western Europe through the former Soviet Union.
+          B: an area limited to Asia.
+          C: a region from West Africa through Asia.
+          D: areas limited to Muslim populations.
+        answer: C
+      - uid: MIN261.5.4.2.UPE.1
+        subobj: 5.4.2
+        type: upe
+        question: At first, the primary function of Home Missions was
+        choices:
+          A: prison ministry.
+          B: church planting and overseeing Bible schools.
+          C: ministry to college campuses.
+          D: establishing urban centers.
+        answer: B
+      - uid: MIN261.5.4.2.UPE.2
+        subobj: 5.4.2
+        type: upe
+        question: The recent attention to immigrant ministry
+        choices:
+          A: appeals to immigrants around the world.
+          B: is as narrow-minded as that of previous years.
+          C: targets immigrants in the United States who maintain their culture.
+          D: conflicts with the United States’ sense of nationalism.
+        answer: C
+      - uid: MIN261.5.4.2.UPE.3
+        subobj: 5.4.2
+        type: upe
+        question: Structurally, Teen Challenge was placed under the
+        choices:
+          A: Prison Department.
+          B: Intercultural Ministries Department.
+          C: Youth Department.
+          D: Urban Centers Department.
+        answer: A
+      - uid: MIN261.5.4.2.UPE.4
+        subobj: 5.4.2
+        type: upe
+        question: Chi Alpha is a program designed to reach
+        choices:
+          A: international students.
+          B: high school students.
+          C: Assemblies of God college students.
+          D: all college students.
+        answer: D
+      - uid: MIN261.5.4.2.TY.1
+        subobj: 5.4.2
+        type: ty
+        question: The primary function of the Home Missions department was to
+        choices:
+          A: keep missionaries closer to home.
+          B: reach the neglected areas of the United States
+          C: minister on secular college campuses.
+          D: establish urban recreational centers.
+        answer: B
+      - uid: MIN261.5.4.2.TY.2
+        subobj: 5.4.2
+        type: ty
+        question: Shortly after taking office in 1992, Charles Hackett determined
+          to establish
+        choices:
+          A: a global Teen Challenge.
+          B: the Master’s Commission.
+          C: urban Bible training centers.
+          D: Chi Alpha.
+        answer: C
+      - uid: MIN261.6.1.1.UPE.1
+        subobj: 6.1.1
+        type: upe
+        question: Jesus began His ministry by
+        choices:
+          A: calling and discipling people.
+          B: preaching.
+          C: performing miracles.
+          D: turning water into wine.
+        answer: A
+      - uid: MIN261.6.1.1.TY.1
+        subobj: 6.1.1
+        type: ty
+        question: The conviction of God’s call to mission work is important because
+        choices:
+          A: calls should come through dreams or visions.
+          B: a growing burden is not sufficient.
+          C: the Bible reveals God initiates the call, calling those He desires.
+          D: human talents are unnecessary.
+        answer: C
+      - uid: MIN261.6.1.2.UPE.1
+        subobj: 6.1.2
+        type: upe
+        question: The best predictor of a missionary candidate’s success is
+        choices:
+          A: knowing his or her level of education.
+          B: knowing his or her past success.
+          C: adequate training in cultural studies.
+          D: the evidence of spiritual gifts.
+        answer: B
+      - uid: MIN261.6.1.2.UPE.2
+        subobj: 6.1.2
+        type: upe
+        question: A missionary must first take on the role of
+        choices:
+          A: teacher.
+          B: cross-cultural communicator.
+          C: learner.
+          D: preacher.
+        answer: C
+      - uid: MIN261.6.1.2.TY.1
+        subobj: 6.1.2
+        type: ty
+        question: The basic principle for predicting successful missionary service
+          is one’s
+        choices:
+          A: level of education.
+          B: knowledge of cultural factors.
+          C: evidence of spiritual gifts.
+          D: past performance.
+        answer: D
+      - uid: MIN261.6.1.2.TY.2
+        subobj: 6.1.2
+        type: ty
+        question: The principle scriptural basis for all missionary work is found
+          in
+        choices:
+          A: Ephesians 4:11–12.
+          B: Mark 16:15.
+          C: Romans 19:9.
+          D: Philippians 4:19.
+        answer: B
+      - uid: MIN261.6.1.2.TY.3
+        subobj: 6.1.2
+        type: ty
+        question: The three primary functions of a missionary are
+        choices:
+          A: training leaders, medical missions, and administrative functions.
+          B: church planting, training leaders, and relief / development.
+          C: church planting, discipling new Christians, and training leaders.
+          D: traveling, planting new churches, and training leaders.
+        answer: C
+      - uid: MIN261.6.1.3.UPE.1
+        subobj: 6.1.3
+        type: upe
+        question: The preferred approach for raising a missionary budget is through
+        choices:
+          A: a denominational central fund.
+          B: appeals by letters.
+          C: interviews with church boards.
+          D: the deputational cycle.
+        answer: D
+      - uid: MIN261.6.1.3.UPE.2
+        subobj: 6.1.3
+        type: upe
+        question: An incarnational missionary is a missionary who
+        choices:
+          A: lives in another culture.
+          B: learns another language.
+          C: takes the posture of one among equals.
+          D: learns to teach in another culture.
+        answer: C
+      - uid: MIN261.6.1.3.TY.1
+        subobj: 6.1.3
+        type: ty
+        question: A primary factor behind someone’s sensing a call to missions is
+        choices:
+          A: reading about missions in a journal.
+          B: hearing a message by a missionary.
+          C: through family discussion.
+          D: through the influence of a friend.
+        answer: B
+      - uid: MIN261.6.1.3.TY.2
+        subobj: 6.1.3
+        type: ty
+        question: Incarnational missions refers to
+        choices:
+          A: identifying with the host culture.
+          B: teaching in another culture.
+          C: a host culture imitating a missionary.
+          D: speaking a foreign language.
+        answer: A
+      - uid: MIN261.6.2.1.UPE.1
+        subobj: 6.2.1
+        type: upe
+        question: The baptism in the Holy Spirit in Acts was to
+        choices:
+          A: manifest the fruit of the Spirit.
+          B: exercise the gifts of the Spirit.
+          C: be a witness.
+          D: receive the anointing for the office of an overseer.
+        answer: C
+      - uid: MIN261.6.2.1.TY.1
+        subobj: 6.2.1
+        type: ty
+        question: The primary purpose of the baptism in the Holy Spirit is
+        choices:
+          A: distributing the gifts of the Spirit.
+          B: developing the fruit of the Spirit.
+          C: exercising more effective pastoral ministry.
+          D: empowering disciples to be witnesses.
+        answer: D
+      - uid: MIN261.6.2.2.UPE.1
+        subobj: 6.2.2
+        type: upe
+        question: The power of prayer is demonstrated in the fact that
+        choices:
+          A: God depends on our communication to exist.
+          B: it moves us to tears.
+          C: God may know us personally.
+          D: it affects God’s actions.
+        answer: D
+      - uid: MIN261.6.2.2.TY.1
+        subobj: 6.2.2
+        type: ty
+        question: One reason for prayer is that it
+        choices:
+          A: reminds us of our selfishness.
+          B: allows us to have a significant role in missions.
+          C: provides God with insights into our character.
+          D: permits God to know us.
+        answer: B
+      - uid: MIN261.6.2.2.TY.2
+        subobj: 6.2.2
+        type: ty
+        question: Gifts of the Spirit characterized
+        choices:
+          A: the crucifixion.
+          B: the end of the apostolic age.
+          C: the new covenant age.
+          D: the end of the book of Acts.
+        answer: C
+      - uid: MIN261.6.2.2.TY.3
+        subobj: 6.2.2
+        type: ty
+        question: The term spiritual warfare is
+        choices:
+          A: found in 2 Corinthians 10:3–5.
+          B: found in Ephesians 6:10–12.
+          C: found in Matthew 12:28.
+          D: not found in the Bible.
+        answer: D
+      - uid: MIN261.7.1.1.UPE.1
+        subobj: 7.1.1
+        type: upe
+        question: Assemblies of God World Missions focus is
+        choices:
+          A: evangelism.
+          B: social and compassion ministries.
+          C: medical work.
+          D: education.
+        answer: A
+      - uid: MIN261.7.1.1.TY.1
+        subobj: 7.1.1
+        type: ty
+        question: The primary source of proclamation and witness is the
+        choices:
+          A: missionary.
+          B: pastor.
+          C: church.
+          D: evangelist.
+        answer: C
+      - uid: MIN261.7.1.1.TY.2
+        subobj: 7.1.1
+        type: ty
+        question: One principal facet of Assemblies of God missions outreach is
+        choices:
+          A: Bible schools.
+          B: education.
+          C: missionary recruiting.
+          D: the planting of indigenous churches.
+        answer: D
+      - uid: MIN261.7.1.2.UPE.1
+        subobj: 7.1.2
+        type: upe
+        question: The house church movement was successful because of the
+        choices:
+          A: global persecution of Christian missionaries.
+          B: low cost in maintaining house churches.
+          C: lack of pastoral training in the church.
+          D: intimacy of the small, virtually inconspicuous gathering.
+        answer: D
+      - uid: MIN261.7.1.2.TY.1
+        subobj: 7.1.2
+        type: ty
+        question: One of the reasons stated for the house church method was
+        choices:
+          A: freedom from an organized church.
+          B: a family-oriented and community-related place.
+          C: convenience for lay leadership.
+          D: that it is superior to the larger fellowship.
+        answer: B
+      - uid: MIN261.7.1.3.UPE.1
+        subobj: 7.1.3
+        type: upe
+        question: Tabernacle evangelism was conceived in Africa to
+        choices:
+          A: conserve the harvest of souls.
+          B: provide an entire building for a congregation.
+          C: encourage missions giving in the United States.
+          D: provide a temporary structure.
+        answer: A
+      - uid: MIN261.7.1.3.TY.1
+        subobj: 7.1.3
+        type: ty
+        question: Tabernacle evangelism
+        choices:
+          A: provides an entire building for a local congregation in Africa.
+          B: encourages the local people to provide the pillars for a building.
+          C: provides pillars and a roof of a building, and the local people complete
+            the building.
+          D: encourages missions giving in the United States.
+        answer: C
+      - uid: MIN261.7.1.3.TY.2
+        subobj: 7.1.3
+        type: ty
+        question: A reason for AGWM-related, Pentecostal church growth is emphasis
+          on
+        choices:
+          A: training national ministers.
+          B: missionaries who serve as evangelists.
+          C: holistic ministries.
+          D: church construction.
+        answer: A
+      - uid: MIN261.7.2.1.UPE.1
+        subobj: 7.2.1
+        type: upe
+        question: Assemblies of God missionaries always seek to establish
+        choices:
+          A: schools.
+          B: Bible schools.
+          C: medical clinics.
+          D: agricultural education.
+        answer: B
+      - uid: MIN261.7.2.1.UPE.2
+        subobj: 7.2.1
+        type: upe
+        question: The church planting endeavor is external in that
+        choices:
+          A: it does not involve personal relationships with converts.
+          B: it is aimed at cultures outside of one’s own.
+          C: it focuses on the missionary’s own life and culture.
+          D: the missionary’s life is not of any concern to the church.
+        answer: B
+      - uid: MIN261.7.2.1.UPE.3
+        subobj: 7.2.1
+        type: upe
+        question: The indigenous church philosophy was taken to Korea by
+        choices:
+          A: Venn.
+          B: Anderson.
+          C: Nevius.
+          D: Carey.
+        answer: C
+      - uid: MIN261.7.2.1.TY.1
+        subobj: 7.2.1
+        type: ty
+        question: Henry Venn stated that euthanasia of a mission takes place when
+        choices:
+          A: the missionary leaves the field.
+          B: the missionary shifts all pastoral work to the indigenous ministry.
+          C: involvement of outside missions ceases.
+          D: the mission field is isolated.
+        answer: B
+      - uid: MIN261.7.2.2.UPE.1
+        subobj: 7.2.2
+        type: upe
+        question: The principal growth of a local church comes from
+        choices:
+          A: itinerating evangelists.
+          B: the pulpit and the witness of members.
+          C: evangelistic mass crusades.
+          D: social service to the community.
+        answer: B
+      - uid: MIN261.7.2.2.UPE.2
+        subobj: 7.2.2
+        type: upe
+        question: The most difficult indigenous-church principle to achieve is
+        choices:
+          A: self-propagation.
+          B: self-support.
+          C: self-theologizing.
+          D: self-governance.
+        answer: D
+      - uid: MIN261.7.2.2.UPE.3
+        subobj: 7.2.2
+        type: upe
+        question: Contextualization refers to
+        choices:
+          A: teaching another gospel.
+          B: a local approach to interpreting Scripture.
+          C: expressing Christian belief in one’s own culture.
+          D: the tendency to syncretism.
+        answer: C
+      - uid: MIN261.7.2.2.TY.1
+        subobj: 7.2.2
+        type: ty
+        question: Self-theologizing refers to
+        choices:
+          A: teaching another gospel.
+          B: a church’s ability to answer questions raised by its own cultural context.
+          C: a new approach to scriptural interpretation.
+          D: the tendency to syncretistic teaching.
+        answer: B
+      - uid: MIN261.7.2.2.TY.2
+        subobj: 7.2.2
+        type: ty
+        question: A church’s practice of self-support
+        choices:
+          A: imposes unnecessary strain on its members.
+          B: demeans the pastor and congregation.
+          C: brings self-worth and confidence to that local body.
+          D: does not advance the kingdom of God.
+        answer: C
+      - uid: MIN261.7.2.3.UPE.1
+        subobj: 7.2.3
+        type: upe
+        question: Mixing biblical truth with local beliefs and practices is called
+        choices:
+          A: syncretism.
+          B: contextualization.
+          C: self-theologizing.
+          D: self-missionizing.
+        answer: A
+      - uid: MIN261.7.2.3.TY.1
+        subobj: 7.2.3
+        type: ty
+        question: The key motivation behind self-theologizing is
+        choices:
+          A: helping churches face questions that are unique to their situation.
+          B: independence from missionaries and mission societies.
+          C: embracing a syncretistic gospel.
+          D: a matter of nationalistic pride.
+        answer: A
+      - uid: MIN261.7.2.4.TY.1
+        subobj: 7.2.4
+        type: ty
+        question: Self-missionizing refers to
+        choices:
+          A: a church planted by missionaries.
+          B: self-governance of the national church.
+          C: a church planted by missionaries sending its own missionaries.
+          D: a church’s ability to be self-supporting.
+        answer: C
+      - uid: MIN261.8.1.1.UPE.1
+        subobj: 8.1.1
+        type: upe
+        question: Ekklesia , the Greek word for church,
+        choices:
+          A: had a strong religious connotation.
+          B: referred to a meeting.
+          C: was a mystery.
+          D: is used only twice in the Bible.
+        answer: B
+      - uid: MIN261.8.1.1.UPE.2
+        subobj: 8.1.1
+        type: upe
+        question: The Church exists as a result of the
+        choices:
+          A: will and activity of God.
+          B: development of the institutional church.
+          C: ministry of the apostles.
+          D: administration of the church fathers.
+        answer: A
+      - uid: MIN261.8.1.1.TY.1
+        subobj: 8.1.1
+        type: ty
+        question: The word church is used only twice in the Gospels, both times in
+        choices:
+          A: Mark.
+          B: Luke.
+          C: John.
+          D: Matthew.
+        answer: D
+      - uid: MIN261.8.1.2.UPE.1
+        subobj: 8.1.2
+        type: upe
+        question: The guiding principle in a local church’s program is
+        choices:
+          A: the manifestation of godly leadership.
+          B: the Spirit-led selection of deacons.
+          C: missions.
+          D: the pursuit of sound financial accountability.
+        answer: C
+      - uid: MIN261.8.1.2.TY.1
+        subobj: 8.1.2
+        type: ty
+        question: The guiding principle in all church programs is
+        choices:
+          A: good administration.
+          B: pastoral delegation.
+          C: missions.
+          D: financial accountability.
+        answer: C
+      - uid: MIN261.8.1.3.UPE.1
+        subobj: 8.1.3
+        type: upe
+        question: The church modeling financial support of missionaries was in
+        choices:
+          A: Ephesus
+          B: Antioch
+          C: Jerusalem
+          D: Philippi
+        answer: D
+      - uid: MIN261.8.1.3.TY.1
+        subobj: 8.1.3
+        type: ty
+        question: The church serving as springboard for evangelizing the Roman Empire
+          was
+        choices:
+          A: Jerusalem.
+          B: Antioch.
+          C: Philippi.
+          D: Corinth.
+        answer: B
+      - uid: MIN261.8.1.3.TY.2
+        subobj: 8.1.3
+        type: ty
+        question: A model for supporting missionaries was the church in
+        choices:
+          A: Philippi.
+          B: Antioch.
+          C: Jerusalem.
+          D: Corinth.
+        answer: A
+      - uid: MIN261.8.2.1.UPE.1
+        subobj: 8.2.1
+        type: upe
+        question: A reason for establishing the Africa Assemblies of God Alliance
+          was to
+        choices:
+          A: encourage a more centralized church government on the continent.
+          B: organize conferences in the different regions of the continent.
+          C: arbitrate in disputes in the various churches.
+          D: coordination and promotion of missions.
+        answer: D
+      - uid: MIN261.8.2.1.UPE.2
+        subobj: 8.2.1
+        type: upe
+        question: A national church’s establishing a missions program depends on
+        choices:
+          A: a sufficient financial base from which to send missionaries.
+          B: obedience to the Lord’s command to reach all nations.
+          C: providing enough ministers for the local churches.
+          D: first establishing of a home missions program.
+        answer: B
+      - uid: MIN261.8.3.1.TY.1
+        subobj: 8.3.1
+        type: ty
+        question: In Argentina, the “personalization of missions” means
+        choices:
+          A: the missionaries travel to churches to raise their support.
+          B: the national church finances personal missionaries from its general budget.
+          C: the national church requests an offering for missions from each church,
+            and this money is designated to particular missionaries.
+          D: it is the personal responsibility of the missionaries to raise their
+            support.
+        answer: C
+      - uid: MIN261.8.3.2.UPE.1
+        subobj: 8.3.2
+        type: upe
+        question: The term non-governmental organization came into use
+        choices:
+          A: with the establishment of social action within missions agencies.
+          B: with the founding of the Red Cross.
+          C: as an alternative to the World Trade Organization.
+          D: with the establishment of the United Nations.
+        answer: D
+      - uid: MIN261.8.3.2.TY.1
+        subobj: 8.3.2
+        type: ty
+        question: One of the first NGOs to be organized was
+        choices:
+          A: CARE International.
+          B: the International Committee of the Red Cross.
+          C: World Vision.
+          D: the World Trade Organization.
+        answer: B
+      - uid: MIN261.8.3.3.UPE.1
+        subobj: 8.3.3
+        type: upe
+        question: The purpose of the Lausanne Conference in 1974 was
+        choices:
+          A: promoting world evangelization.
+          B: bringing unity within the Pentecostal churches.
+          C: examining globalization.
+          D: discussing theological unity.
+        answer: A
+      - uid: MIN261.8.3.3.TY.1
+        subobj: 8.3.3
+        type: ty
+        question: The first major interdenominational world conference on evangelism
+          was held in
+        choices:
+          A: Rome in 1972.
+          B: Lausanne in 1974.
+          C: Manila in 1989.
+          D: Amsterdam in 1982.
+        answer: B
+      - uid: MIN261.8.3.3.TY.2
+        subobj: 8.3.3
+        type: ty
+        question: In the Lausanne Covenant, social concern and evangelism were
+        choices:
+          A: seen as mutually exclusive.
+          B: not both considered necessary expressions of doctrines.
+          C: both seen as our Christian duty.
+          D: not seen as equal Christian responsibility.
+        answer: C
+      - uid: MIN261.8.3.4.TY.1
+        subobj: 8.3.4
+        type: ty
+        question: The conference called Lausanne II was held in
+        choices:
+          A: Amsterdam 1985.
+          B: Manila 1989.
+          C: Berlin 1982.
+          D: South Africa 2004.
+        answer: B
+      - uid: MIN261.8.3.5.TY.1
+        subobj: 8.3.5
+        type: ty
+        question: The Pentecostal / Charismatic Churches of North America (PCCNA)
+          set a broader goal of
+        choices:
+          A: bringing doctrinal unity among Pentecostal and Charismatic bodies.
+          B: bringing worship styles into conformity.
+          C: reconciling racial and cultural gaps.
+          D: bringing administrative unity to member bodies.
+        answer: C
+      - uid: MIN261.9.1.1.UPE.1
+        subobj: 9.1.1
+        type: upe
+        question: Christendom’s center has shifted from
+        choices:
+          A: the Far East to the western nations.
+          B: western nations to the Majority World.
+          C: Europe to America.
+          D: North America to South America.
+        answer: B
+      - uid: MIN261.9.1.1.UPE.2
+        subobj: 9.1.1
+        type: upe
+        question: After World War II, western missions affected Majority World churches
+          by
+        choices:
+          A: stimulating fervent missionary activity.
+          B: demonstrating they no longer needed significant financial support.
+          C: slowing their growth through paternalism.
+          D: failing to give adequate guidance.
+        answer: C
+      - uid: MIN261.9.1.1.TY.1
+        subobj: 9.1.1
+        type: ty
+        question: When the twentieth century began, Christians were primarily in
+        choices:
+          A: Latin America.
+          B: Asia.
+          C: Africa.
+          D: the West.
+        answer: D
+      - uid: MIN261.9.1.1.TY.2
+        subobj: 9.1.1
+        type: ty
+        question: In the early part of the twentieth century, many evangelical and
+          Protestant missions
+        choices:
+          A: were known for establishing indigenous churches on the foreign field.
+          B: held a paternalistic attitude toward the churches they established.
+          C: emphasized the teaching of world missions in the churches they established.
+          D: encouraged independence of the churches on the mission field.
+        answer: B
+      - uid: MIN261.9.1.2.UPE.1
+        subobj: 9.1.2
+        type: upe
+        question: For the Majority World, evangelizing unreached people groups
+        choices:
+          A: was a major motivating factor for the rapid growth in missions efforts.
+          B: was discouraging due to their poor economies.
+          C: was frustrating since they had no missionary training programs.
+          D: caused them to redirect their already strong missions efforts.
+        answer: A
+      - uid: MIN261.9.1.2.UPE.2
+        subobj: 9.1.2
+        type: upe
+        question: An advantage of Majority World missionaries is
+        choices:
+          A: their ease of gaining financial support from their own churches.
+          B: not having to learn another language.
+          C: their cross-cultural experience in a pluralistic setting.
+          D: their high level of missionary training before being sent out.
+        answer: C
+      - uid: MIN261.9.1.2.UPE.3
+        subobj: 9.1.2
+        type: upe
+        question: Majority World missionaries are not always successful because of
+          their
+        choices:
+          A: tendency to want to dominate in leadership.
+          B: lack of pre-field training in mission principles and practices.
+          C: lack of resiliency in cross-cultural settings.
+          D: over dependence on western missionaries.
+        answer: B
+      - uid: MIN261.9.1.2.TY.1
+        subobj: 9.1.2
+        type: ty
+        question: The greatest problem Majority World missionaries have is
+        choices:
+          A: resilience.
+          B: language skills.
+          C: cross-cultural experience.
+          D: difficulty in leadership training.
+        answer: D
+      - uid: MIN261.9.2.1.UPE.1
+        subobj: 9.2.1
+        type: upe
+        question: An impetus to project-oriented short-term mission outreaches is
+          the
+        choices:
+          A: greater ease for short-termers to adjust to the language and culture.
+          B: desire for first-hand experience with immediate measurable results.
+          C: closing of former mission fields to career missionaries.
+          D: opposition of many national churches to full-time career missionaries.
+        answer: B
+      - uid: MIN261.9.2.1.UPE.2
+        subobj: 9.2.1
+        type: upe
+        question: Western missions accept short-term mission outreaches due in part
+          to
+        choices:
+          A: their belief that they could stop recruiting career missionaries.
+          B: the long-term benefits from the relationships built with the national
+            churches.
+          C: the reduced expectations of the national churches to receive funds from
+            short-termers.
+          D: the belief it would increase the interest and giving to missions.
+        answer: D
+      - uid: MIN261.9.2.1.UPE.3
+        subobj: 9.2.1
+        type: upe
+        question: In short-term missions, bridging is building relationships
+        choices:
+          A: between the group and the host people.
+          B: between the mission and the national church.
+          C: among the members of the short-term group.
+          D: among the host people in gratefulness to the team.
+        answer: A
+      - uid: MIN261.9.2.1.UPE.4
+        subobj: 9.2.1
+        type: upe
+        question: Benefits of short-term mission outreaches include
+        choices:
+          A: reduced need for full-time career missionaries.
+          B: reduced need for learning a language and adapting to culture.
+          C: increase in the development of national church self-support.
+          D: home congregations coming alive to their mission potential.
+        answer: D
+      - uid: MIN261.9.2.2.UPE.1
+        subobj: 9.2.2
+        type: upe
+        question: A key to success of short-term missions is
+        choices:
+          A: teaching team members the language of the host people.
+          B: avoiding the career missionaries in order to introduce new ways.
+          C: adequate pre-trip orientation and training.
+          D: avoiding the “red tape” of mission agencies to maximize efficiency.
+        answer: C
+      - uid: MIN261.9.2.2.TY.1
+        subobj: 9.2.2
+        type: ty
+        question: Short-term missionaries who spent about two weeks on the mission
+          field
+        choices:
+          A: showed that they were not greatly affected by their experience.
+          B: generally gave more to missions upon their return home.
+          C: generally prayed more for missions upon their return home.
+          D: were changed forever in their attitude toward missions.
+        answer: A
+      - uid: MIN261.9.3.1.UPE.1
+        subobj: 9.3.1
+        type: upe
+        question: Mega churches have a marked increase in
+        choices:
+          A: financial giving through the mission agency of their denomination.
+          B: entrepreneurship as missions by project.
+          C: missions as process.
+          D: all-night prayer meetings for missions.
+        answer: B
+      - uid: MIN261.9.3.1.UPE.2
+        subobj: 9.3.1
+        type: upe
+        question: A focus on missions by project may result in
+        choices:
+          A: acceleration of growth of the national church.
+          B: excessive drain on church finances.
+          C: depreciation of the need for long-term missionaries.
+          D: avoiding the problems associated with mission as process.
+        answer: C
+      - uid: MIN261.9.3.1.UPE.3
+        subobj: 9.3.1
+        type: upe
+        question: A key factor for success in a mission project is
+        choices:
+          A: making sure the project is controlled by the team itself to avoid mistakes.
+          B: close collaboration with the career missionaries and host nationals.
+          C: insuring the nationals pay their fair share of the cost.
+          D: being prepared to use western methods to insure efficiency within the
+            time.
+        answer: B
+      - uid: MIN261.9.3.1.TY.1
+        subobj: 9.3.1
+        type: ty
+        question: Missions by project
+        choices:
+          A: has the perspective of traditional missions efforts for long-term strategies.
+          B: tends to have participants with a sense of immediate gratification for
+            a job well done.
+          C: is often rather impersonal.
+          D: is usually not focused on a particular project.
+        answer: B
+      - uid: MIN261.9.3.1.TY.2
+        subobj: 9.3.1
+        type: ty
+        question: Missions by project is most effective when
+        choices:
+          A: the funds are adequate to complete the project.
+          B: a skilled team is recruited for the project.
+          C: done in close collaboration with career missionaries and national leaders.
+          D: a church is able to be self-directed.
+        answer: C
+      - uid: MIN261.9.4.1.UPE.1
+        subobj: 9.4.1
+        type: upe
+        question: A benefit of technology in missions today is
+        choices:
+          A: enhanced connectivity between the home base and the missionary.
+          B: the challenge to those in the host culture to use technology in ministry.
+          C: the low cost in obtaining the latest technology to be more efficient.
+          D: the time economy in relating to people in the host culture.
+        answer: A
+      - uid: MIN261.9.4.1.TY.1
+        subobj: 9.4.1
+        type: ty
+        question: A disadvantage of modern technology is
+        choices:
+          A: missionaries may avoid connecting with local culture.
+          B: producing an electronic gospel.
+          C: that digital images are expensive.
+          D: that it is not globally accessible.
+        answer: A
+      - uid: MIN261.9.4.1.TY.2
+        subobj: 9.4.1
+        type: ty
+        question: One drawback of increased use of advanced communication devices
+          is
+        choices:
+          A: an increase in personal anonymity.
+          B: more personal freedom.
+          C: it is virtually impossible for one’s conversations to be policed.
+          D: the compromising of one’s personal data.
+        answer: D
+      - uid: MIN261.9.5.1.UPE.1
+        subobj: 9.5.1
+        type: upe
+        question: Theological drift is most likely caused by
+        choices:
+          A: antagonism from highly visible and vocal non-Christian religions.
+          B: failure to use the King James Authorized Version of the Bible.
+          C: excessive emphasis on particular theological distinctives.
+          D: the effects of local culture and history.
+        answer: D
+      - uid: MIN261.9.5.1.UPE.2
+        subobj: 9.5.1
+        type: upe
+        question: Scripture which teaches salvation only through faith in Christ is
+        choices:
+          A: Acts 4:12.
+          B: Acts 1:8.
+          C: Romans 14:1–8.
+          D: Galatians 5:1.
+        answer: A
+      - uid: MIN261.9.5.1.TY.1
+        subobj: 9.5.1
+        type: ty
+        question: Pentecostals observing the success of other evangelicals tend to
+          de-emphasize the need for
+        choices:
+          A: salvation.
+          B: church membership.
+          C: evangelism.
+          D: the baptism in the Holy Spirit.
+        answer: D
+      - uid: MIN261.9.5.2.UPE.1
+        subobj: 9.5.2
+        type: upe
+        question: The trend in Pentecostal circles toward evangelicalism is due to
+        choices:
+          A: a preference for contemporary music instead of older songs and hymns.
+          B: the more rapid growth among evangelical churches.
+          C: misunderstanding the nature and purpose of the baptism in the Holy Spirit.
+          D: the prestige of association with evangelicals like Rick Warren.
+        answer: C
+      - uid: MIN261.9.5.2.TY.1
+        subobj: 9.5.2
+        type: ty
+        question: Postmodernism
+        choices:
+          A: trusts science.
+          B: saw scientific advances as leading to a future utopia.
+          C: provides a firm foundation of belief based upon scientific facts.
+          D: has an increasing focus on self as the determiner of truth.
+        answer: D
+      - uid: MIN261.10.1.1.UPE.1
+        subobj: 10.1.1
+        type: upe
+        question: The proper attitude toward preaching the gospel and social service
+          is
+        choices:
+          A: proclamation must be preferred, for social service can put off salvation.
+          B: proclamation and social service are both involved in sharing the gospel.
+          C: social service is to be preferred to show God’s love.
+          D: proclamation is the duty of missionaries, not social service.
+        answer: B
+      - uid: MIN261.10.1.1.TY.1
+        subobj: 10.1.1
+        type: ty
+        question: One hindrance to meeting socials needs has been a dualism that separates
+        choices:
+          A: society from the church.
+          B: government from the church.
+          C: human mind and the human spirit.
+          D: body from spirit.
+        answer: D
+      - uid: MIN261.10.1.1.TY.2
+        subobj: 10.1.1
+        type: ty
+        question: Social responsibility is
+        choices:
+          A: limited in definition to disaster relief.
+          B: limited to education.
+          C: meant to refer to activities related to human need.
+          D: limited to acts of justice.
+        answer: C
+      - uid: MIN261.10.1.1.TY.3
+        subobj: 10.1.1
+        type: ty
+        question: A majority of the poor of this world live in
+        choices:
+          A: Africa.
+          B: the 10 / 40 window.
+          C: Latin America.
+          D: Asia.
+        answer: B
+      - uid: MIN261.10.2.1.UPE.1
+        subobj: 10.2.1
+        type: upe
+        question: Cultural mandate refers to
+        choices:
+          A: the command to subdue all cultures.
+          B: God’s command to Adam to till the earth.
+          C: the application of the gospel to all cultures.
+          D: the authority given to man to govern creation.
+        answer: D
+      - uid: MIN261.10.2.1.UPE.2
+        subobj: 10.2.1
+        type: upe
+        question: Jesus illustrates the cultural mandate by the
+        choices:
+          A: parable of the sower and the soils.
+          B: parable of the talents.
+          C: emphasis on loving and caring for neighbors.
+          D: reference to himself as the Good Shepherd.
+        answer: C
+      - uid: MIN261.10.2.1.TY.1
+        subobj: 10.2.1
+        type: ty
+        question: Humans’ delegated sovereignty over the creation is called the
+        choices:
+          A: evangelistic mandate.
+          B: cultural mandate.
+          C: salvation mandate.
+          D: gospel mandate.
+        answer: B
+      - uid: MIN261.10.2.2.UPE.1
+        subobj: 10.2.2
+        type: upe
+        question: Salvation in the Bible is best defined as
+        choices:
+          A: the restoration of one’s soul.
+          B: a radical transformation of one’s thinking and relationships.
+          C: separation from the world, the flesh, and the devil.
+          D: deliverance from bondage.
+        answer: B
+      - uid: MIN261.10.2.2.TY.1
+        subobj: 10.2.2
+        type: ty
+        question: 'In the Gospel of Luke, salvation has these dimensions:'
+        choices:
+          A: economic, social, physical, psychological, and spiritual.
+          B: social, physical, and spiritual.
+          C: economic, physical, and spiritual.
+          D: social, psychological, and spiritual.
+        answer: A
+      - uid: MIN261.10.2.3.TY.1
+        subobj: 10.2.3
+        type: ty
+        question: Those believing missionaries should only proclaim the gospel are
+        choices:
+          A: the evangelicals in general.
+          B: those holding an extreme view of dispensationalism.
+          C: those who see social action as preparation for evangelism.
+          D: those who see social actions as evangelism.
+        answer: B
+      - uid: MIN261.10.2.3.TY.2
+        subobj: 10.2.3
+        type: ty
+        question: Those who hold that social action is evangelism also believe that
+        choices:
+          A: any effort toward redemption of society is a waste of time.
+          B: there is no distinction at all between the two.
+          C: social action is a bridge for evangelism.
+          D: proclamation betrays evangelism.
+        answer: B
+      - uid: MIN261.10.2.3.TY.3
+        subobj: 10.2.3
+        type: ty
+        question: Relief differs from development in that relief indicates
+        choices:
+          A: helping people obtain skills and knowledge to care for themselves.
+          B: providing self-sufficiency.
+          C: ministering to victims of disaster.
+          D: improving agricultural methods or education.
+        answer: C
+      - uid: MIN261.10.2.3.TY.4
+        subobj: 10.2.3
+        type: ty
+        question: In the context of missions, structural change
+        choices:
+          A: is limited to changes in the environment.
+          B: means the political and economic areas of life.
+          C: is restricted to political changes.
+          D: refers to changes needed within the church.
+        answer: B
+      - uid: MIN261.10.2.4.TY.1
+        subobj: 10.2.4
+        type: ty
+        question: Lillian Trasher’s ministry shows that
+        choices:
+          A: virtue and tenacity can reshape history.
+          B: women are more effective in foreign missions than in home missions.
+          C: marriage is a hindrance to every ministry.
+          D: money is the most important asset in any mission.
+        answer: A
+      - uid: MIN261.11.1.1.UPE.1
+        subobj: 11.1.1
+        type: upe
+        question: The idea that Jesus is Lord of our lives means
+        choices:
+          A: He is behind everything that happens to us, good or bad.
+          B: whatever we do is because He is sovereignly directing our steps.
+          C: the direction of our lives is ultimately up to Him as we obey.
+          D: He rules and reigns over all creation.
+        answer: C
+      - uid: MIN261.11.1.1.UPE.2
+        subobj: 11.1.1
+        type: upe
+        question: Our responsibility to be good stewards because all we have is God’s
+        choices:
+          A: is spelled out in 2 Kings 5:20-25.
+          B: was stated in Luke 11:3.
+          C: is the theme of Acts 2:36.
+          D: summarizes the meaning of Psalm 24:1.
+        answer: D
+      - uid: MIN261.11.1.1.TY.1
+        subobj: 11.1.1
+        type: ty
+        question: That Jesus is Lord of our lives primarily implies
+        choices:
+          A: we are Christians.
+          B: Jesus is to be worshipped.
+          C: we are responsible to Him in all we do.
+          D: He knows everything about us.
+        answer: A
+      - uid: MIN261.11.1.1.TY.2
+        subobj: 11.1.1
+        type: ty
+        question: The principle Old Testament passage stating God owns everything
+          is
+        choices:
+          A: Psalm 24:1.
+          B: Psalm 100.
+          C: Deuteronomy 8:16–18.
+          D: Ecclesiastes 5:19.
+        answer: A
+      - uid: MIN261.11.1.2.TY.1
+        subobj: 11.1.2
+        type: ty
+        question: Prayer for the cause of missions is vital because
+        choices:
+          A: sacrifice demands it.
+          B: praise moves the hand of God.
+          C: it gets our heart in tune with God.
+          D: we are totally dependent on God.
+        answer: D
+      - uid: MIN261.11.1.2.TY.2
+        subobj: 11.1.2
+        type: ty
+        question: Intercession is for the purpose of seeking God’s
+        choices:
+          A: forgiveness for yourself.
+          B: help for others.
+          C: help for yourself.
+          D: help in defeating the devil.
+        answer: B
+      - uid: MIN261.11.1.3.UPE.1
+        subobj: 11.1.3
+        type: upe
+        question: Paul gives the most extensive teaching on financial giving in
+        choices:
+          A: 2 Corinthians 8:1–24.
+          B: Romans 15:22–29.
+          C: Philippians 4:13–19.
+          D: 1 Corinthians 16:1–4.
+        answer: A
+      - uid: MIN261.11.1.3.TY.1
+        subobj: 11.1.3
+        type: ty
+        question: Praying, “Give us this day our daily bread” is
+        choices:
+          A: asking for all of our various needs to be met.
+          B: asking for miraculous provision by God.
+          C: asking for provisions appropriate for the need of the day.
+          D: asking the Lord to help us understand the intended meaning of Bible passages.
+        answer: C
+      - uid: MIN261.11.1.3.TY.2
+        subobj: 11.1.3
+        type: ty
+        question: One principle of giving listed in 2 Corinthians 8 is that
+        choices:
+          A: certain persons are especially called to support missions.
+          B: pastors should determine the giving amounts for both the rich and the
+            poor.
+          C: giving is to be proportional to the means of the individual.
+          D: giving to missions follows the principles of sowing and reaping.
+        answer: C
+      - uid: MIN261.11.1.4.UPE.1
+        subobj: 11.1.4
+        type: upe
+        question: Missions is the responsibility of
+        choices:
+          A: missionaries specially called by God.
+          B: pastors with a heart for missions.
+          C: missionaries, pastors, and prayer warriors.
+          D: all believers.
+        answer: D
+      - uid: MIN261.11.1.4.TY.1
+        subobj: 11.1.4
+        type: ty
+        question: The distinction between clergy and laity is
+        choices:
+          A: foreign to the Bible.
+          B: a good way of distinguishing between the experts and novices.
+          C: distinguishing between the Twelve Apostles and the other disciples.
+          D: helpful to show who qualifies to become a missionary.
+        answer: A
+      - uid: MIN261.11.1.4.TY.2
+        subobj: 11.1.4
+        type: ty
+        question: The responsibility for missions outreach is given to
+        choices:
+          A: missionaries called by God.
+          B: all members of the Church.
+          C: the missions committee of the church
+          D: the pastor, board, and missions committee.
+        answer: B
+      - uid: MIN261.11.1.4.TY.3
+        subobj: 11.1.4
+        type: ty
+        question: In fulfilling responsibilities for missions, recognize that
+        choices:
+          A: certain persons are called to serve on behalf of all members.
+          B: a missionary “call” is required to participate.
+          C: if you do not have a burden for missions you are excused.
+          D: every believer has God-given gifts and talents to help the missions cause.
+        answer: D
+      - uid: MIN261.11.1.4.TY.4
+        subobj: 11.1.4
+        type: ty
+        question: When King David said (in Samuel 30:24) that the soldiers fighting
+          on the battlefield and the people supporting the cause in other ways will
+          “share alike,” it implies that
+        choices:
+          A: individuals in both groups will experience the same sorrow.
+          B: the level of individual commitment in both groups does not matter.
+          C: no matter the role of the individual serving the Lord’s cause, each will
+            share in the rewards.
+          D: God will reward both groups with material wealth.
+        answer: C
     chapters:
     - last_modified: '2026-05-22'
       title: 1 - The Biblical Perspective
