@@ -104,7 +104,7 @@ Published sequence toward Ordained Minister credentialing.
 | [THE118](courses/THE118.md) | Introduction to Theology | 1 | 04.22.01 | 13 | 36 | 199 |
 | [THE154](courses/THE154.md) | History, Missions, and Governance | 1 | 01.26.06 | 14 | 57 | 375 |
 | [THE245](courses/THE245.md) | Eschatology | 2 | 04.22.01 | 13 | 37 | 299 |
-| [THE311](courses/THE311.md) | Prayer and Worship | 3 | 03.21.01 | 12 | 37 | 249 |
+| [THE311](courses/THE311.md) | Prayer and Worship | 3 | 03.22.01 | 12 | 37 | 249 |
 
 ## Retired and renamed courses (9)
 
