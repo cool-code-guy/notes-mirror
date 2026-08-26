@@ -3483,6 +3483,2285 @@ courses:
           C: creating a church logo, shooting a series trailer, and adding stage props.
           D: adding sermon props, brainstorming big ideas, and creating a church logo.
         answer: A
+    - pn: 03.26.01
+      course_code: MIN325
+      source_html: BMIN325ENE03-90_03.26.01.html
+      template: new
+      recorded: '2026-08-26'
+      counts:
+        ty: 120
+        upe: 100
+        final: 0
+      questions:
+      - uid: MIN325.1.1.1.UPE.1
+        subobj: 1.1.1
+        type: upe
+        question: According to modernism, truth
+        choices:
+          A: is subjective.
+          B: is scientifically proven.
+          C: does not exist.
+          D: is based on faith.
+        answer: B
+      - uid: MIN325.1.1.1.TY.1
+        subobj: 1.1.1
+        type: ty
+        question: According to modernism, truth
+        choices:
+          A: is subjective.
+          B: is scientifically proven.
+          C: does not exist.
+          D: is based on faith.
+        answer: B
+      - uid: MIN325.1.1.2.TY.1
+        subobj: 1.1.2
+        type: ty
+        question: Apologetics means
+        choices:
+          A: “beliefs that are accepted on faith.”
+          B: “moral principles.”
+          C: “personal convictions.”
+          D: “arguments that prove Christian principles.”
+        answer: D
+      - uid: MIN325.1.1.2.TY.2
+        subobj: 1.1.2
+        type: ty
+        question: Effective sermons to modernists
+        choices:
+          A: prove Jesus rationally.
+          B: ignore science.
+          C: rely on emotions.
+          D: stress faith in an invisible God.
+        answer: A
+      - uid: MIN325.1.2.1.UPE.1
+        subobj: 1.2.1
+        type: upe
+        question: Postmodernists differ from modernists because postmodernists believe
+        choices:
+          A: reason is the key for belief.
+          B: truth is subjective.
+          C: science will only improve society.
+          D: life is optimistic.
+        answer: B
+      - uid: MIN325.1.2.1.UPE.2
+        subobj: 1.2.1
+        type: upe
+        question: Postmodern truth is
+        choices:
+          A: universally accepted.
+          B: rational.
+          C: subjective.
+          D: based on evidence.
+        answer: C
+      - uid: MIN325.1.2.1.TY.1
+        subobj: 1.2.1
+        type: ty
+        question: Postmodern truth is
+        choices:
+          A: universally accepted.
+          B: rational.
+          C: subjective.
+          D: based on evidence.
+        answer: C
+      - uid: MIN325.1.2.1.TY.2
+        subobj: 1.2.1
+        type: ty
+        question: Postmodernists differ from modernists because postmodernists believe
+        choices:
+          A: reason is the key for belief.
+          B: truth is subjective.
+          C: science will only improve society.
+          D: life is optimistic.
+        answer: B
+      - uid: MIN325.1.2.1.TY.3
+        subobj: 1.2.1
+        type: ty
+        question: Postmodern morality is based on
+        choices:
+          A: the church.
+          B: science.
+          C: personal conviction.
+          D: society.
+        answer: C
+      - uid: MIN325.1.2.2.UPE.1
+        subobj: 1.2.2
+        type: upe
+        question: Sermons to modernists should begin with
+        choices:
+          A: a statement that can be proven.
+          B: a human need.
+          C: a problem in the world.
+          D: possible solutions to a question.
+        answer: A
+      - uid: MIN325.1.2.2.UPE.2
+        subobj: 1.2.2
+        type: upe
+        question: Preaching the Bible
+        choices:
+          A: makes a preacher popular.
+          B: is readily accepted.
+          C: is optional.
+          D: requires commitment.
+        answer: D
+      - uid: MIN325.1.2.2.UPE.3
+        subobj: 1.2.2
+        type: upe
+        question: Preachers rely on the Holy Spirit because the Holy Spirit
+        choices:
+          A: makes the gospel understandable and appealing.
+          B: makes the preacher look good.
+          C: can be proven scientifically.
+          D: is accepted by everyone.
+        answer: A
+      - uid: MIN325.1.2.2.UPE.4
+        subobj: 1.2.2
+        type: upe
+        question: Postmodern morality is based on
+        choices:
+          A: the church.
+          B: science.
+          C: personal conviction.
+          D: society.
+        answer: C
+      - uid: MIN325.1.2.2.TY.1
+        subobj: 1.2.2
+        type: ty
+        question: Preaching to a congregation made up of both modern and postmodern
+          thinkers can be best described as
+        choices:
+          A: difficult, because confidence in biblical authority is often questioned.
+          B: an opportunity, because many people remain deeply interested in spirituality.
+          C: challenging, because church attendance continues to decline.
+          D: ineffective, because sermons are no longer valued.
+        answer: B
+      - uid: MIN325.1.2.2.TY.2
+        subobj: 1.2.2
+        type: ty
+        question: Sermons to postmodernists should begin with
+        choices:
+          A: rational proofs.
+          B: apologetics.
+          C: scientific principles.
+          D: human needs.
+        answer: D
+      - uid: MIN325.1.2.2.TY.3
+        subobj: 1.2.2
+        type: ty
+        question: Preachers rely on the Holy Spirit because the Holy Spirit
+        choices:
+          A: makes the gospel understandable and appealing.
+          B: makes the preacher look good.
+          C: can be proven scientifically.
+          D: is accepted by everyone.
+        answer: A
+      - uid: MIN325.1.2.2.TY.4
+        subobj: 1.2.2
+        type: ty
+        question: In preaching, a preacher should
+        choices:
+          A: trust in science.
+          B: dilute the sermon so it is tolerant.
+          C: remain firmly committed to the Bible.
+          D: strive for popularity.
+        answer: C
+      - uid: MIN325.2.1.1.UPE.1
+        subobj: 2.1.1
+        type: upe
+        question: God-breathed
+        choices:
+          A: means God was not involved with the biblical authors as they wrote their
+            books.
+          B: means the authority of Scripture was grounded merely in its usefulness.
+          C: points to the divine source of Scripture.
+          D: means Scripture is inspired only in a general or emotional sense.
+        answer: C
+      - uid: MIN325.2.1.1.UPE.2
+        subobj: 2.1.1
+        type: upe
+        question: The Bible has authority because
+        choices:
+          A: it is old.
+          B: Christians say it has authority.
+          C: people believe in it.
+          D: it is God-breathed.
+        answer: D
+      - uid: MIN325.2.1.1.TY.1
+        subobj: 2.1.1
+        type: ty
+        question: The Bible has authority because
+        choices:
+          A: it is old.
+          B: Christians say it has authority.
+          C: people believe in it.
+          D: it is God-breathed.
+        answer: D
+      - uid: MIN325.2.1.1.TY.2
+        subobj: 2.1.1
+        type: ty
+        question: The Bible
+        choices:
+          A: directs people in how to live and what to believe.
+          B: should be feared.
+          C: cannot be trusted.
+          D: is a good book although not written for today.
+        answer: A
+      - uid: MIN325.2.1.2.UPE.1
+        subobj: 2.1.2
+        type: upe
+        question: Unlike other religious books, the Bible
+        choices:
+          A: explains everything.
+          B: makes sense of the world and our experiences in the world.
+          C: describes life as one of doubt and uncertainty.
+          D: is not consistent with scientific discoveries.
+        answer: B
+      - uid: MIN325.2.1.2.UPE.2
+        subobj: 2.1.2
+        type: upe
+        question: Humankind’s ability to understand the Bible is distorted by
+        choices:
+          A: science.
+          B: education.
+          C: the Holy Spirit.
+          D: sin.
+        answer: D
+      - uid: MIN325.2.1.2.UPE.3
+        subobj: 2.1.2
+        type: upe
+        question: Since the beginning of the Church, the New Testament writings have
+          been
+        choices:
+          A: changed significantly.
+          B: recently discovered.
+          C: held as sacred text.
+          D: rewritten by scholars.
+        answer: C
+      - uid: MIN325.2.1.2.UPE.4
+        subobj: 2.1.2
+        type: upe
+        question: Because of the Holy Spirit’s role, ministers
+        choices:
+          A: do not need to study for sermons.
+          B: are on their own when preaching.
+          C: have to do all the work of convincing themselves.
+          D: are partners with the Holy Spirit in presenting the truth clearly.
+        answer: D
+      - uid: MIN325.2.1.2.UPE.5
+        subobj: 2.1.2
+        type: upe
+        question: People are ultimately convinced of the Bible’s
+        choices:
+          A: authority through
+          B: scientific theories.
+          C: the Holy Spirit.
+          D: historical discoveries.
+        answer: B
+      - uid: MIN325.2.1.2.TY.1
+        subobj: 2.1.2
+        type: ty
+        question: People are ultimately convinced of the Bible’s authority through
+        choices:
+          A: scientific theories.
+          B: the Holy Spirit.
+          C: historical discoveries.
+          D: fulfilled prophecies.
+        answer: B
+      - uid: MIN325.2.1.2.TY.2
+        subobj: 2.1.2
+        type: ty
+        question: The text of the Bible has been
+        choices:
+          A: corrupted.
+          B: intentionally changed.
+          C: well preserved.
+          D: modified recently.
+        answer: C
+      - uid: MIN325.2.1.3.UPE.1
+        subobj: 2.1.3
+        type: upe
+        question: In 2 Timothy 3:16–17, Paul says the Bible is helpful with all except
+        choices:
+          A: establishing doctrine.
+          B: making right judgments.
+          C: living a godly life.
+          D: explaining all the mysteries of life.
+        answer: D
+      - uid: MIN325.2.1.3.TY.1
+        subobj: 2.1.3
+        type: ty
+        question: According to John 17:17, Jesus said the Bible is
+        choices:
+          A: good.
+          B: holy.
+          C: truth.
+          D: helpful.
+        answer: C
+      - uid: MIN325.2.1.3.TY.2
+        subobj: 2.1.3
+        type: ty
+        question: In 2 Timothy 3:16–17, Paul says the Bible is helpful with all except
+        choices:
+          A: establishing doctrine.
+          B: making right judgments.
+          C: living a godly life.
+          D: explaining all the mysteries of life.
+        answer: D
+      - uid: MIN325.2.2.1.TY.1
+        subobj: 2.2.1
+        type: ty
+        question: The Bible is helpful to Christians because it
+        choices:
+          A: gives people guiding principles for living a godly life.
+          B: tells people what to do in every circumstance.
+          C: explains all of life’s mysteries.
+          D: is a good, moral book to read.
+        answer: A
+      - uid: MIN325.2.2.1.TY.2
+        subobj: 2.2.1
+        type: ty
+        question: The Bible works in unbelievers by
+        choices:
+          A: saving them.
+          B: giving principles that will make them successful.
+          C: explaining the special revelation of Jesus necessary for salvation.
+          D: condemning them.
+        answer: C
+      - uid: MIN325.2.3.1.TY.1
+        subobj: 2.3.1
+        type: ty
+        question: Some things in the Bible are still a mystery because
+        choices:
+          A: the Bible is full of errors.
+          B: without mystery, people will have no reason for faith and trust in God.
+          C: God is indifferent.
+          D: God cannot explain everything.
+        answer: B
+      - uid: MIN325.2.3.2.UPE.1
+        subobj: 2.3.2
+        type: upe
+        question: The “inspiration” of Scripture means
+        choices:
+          A: the Bible is a well-written piece of literature.
+          B: God wrote the Bible without human involvement.
+          C: Scripture makes people feel good when they read it.
+          D: The Holy Spirit directed human writers to write Scripture.
+        answer: D
+      - uid: MIN325.2.3.2.TY.1
+        subobj: 2.3.2
+        type: ty
+        question: The “inspiration” of Scripture means
+        choices:
+          A: the Bible is a well-written piece of literature.
+          B: God wrote the Bible without human involvement.
+          C: Scripture makes people feel good when they read it.
+          D: The Holy Spirit directed humans to write the Scripture.
+        answer: D
+      - uid: MIN325.3.1.1.UPE.1
+        subobj: 3.1.1
+        type: upe
+        question: Preachers should approach the biblical text with
+        choices:
+          A: preconceived ideas.
+          B: stubbornness.
+          C: an open mind.
+          D: biblical commentaries.
+        answer: C
+      - uid: MIN325.3.1.1.UPE.2
+        subobj: 3.1.1
+        type: upe
+        question: The biblical text should determine the message because
+        choices:
+          A: the Bible is not relevant to current issues.
+          B: preaching is restrictive.
+          C: a preacher can have biases or faulty perspectives.
+          D: the Bible is the only book a Christian should read.
+        answer: C
+      - uid: MIN325.3.1.1.TY.1
+        subobj: 3.1.1
+        type: ty
+        question: The biblical text should determine the message because
+        choices:
+          A: the Bible is not relevant to current issues.
+          B: preaching is restrictive.
+          C: a preacher’s perspective can be faulty.
+          D: the Bible is the only book a Christian should read.
+        answer: C
+      - uid: MIN325.3.1.2.UPE.1
+        subobj: 3.1.2
+        type: upe
+        question: Preaching on a single verse is
+        choices:
+          A: acceptable because the Bible is God’s Word.
+          B: acceptable because context does not matter.
+          C: dangerous because a verse can easily be misunderstood without context.
+          D: dangerous because not everything in the Bible is true.
+        answer: C
+      - uid: MIN325.3.1.2.UPE.2
+        subobj: 3.1.2
+        type: upe
+        question: Context is important in that it
+        choices:
+          A: can lead a preacher into error.
+          B: helps explain the meaning of a verse.
+          C: causes a preacher to read into the text.
+          D: leads a preacher to focus on a minor point.
+        answer: B
+      - uid: MIN325.3.1.2.UPE.3
+        subobj: 3.1.2
+        type: upe
+        question: Studying the biblical text within the context of the Bible
+        choices:
+          A: shows how the text fits into God’s story.
+          B: reveals contradictions in the Bible.
+          C: is called allegory.
+          D: is a waste of time.
+        answer: A
+      - uid: MIN325.3.1.2.TY.1
+        subobj: 3.1.2
+        type: ty
+        question: Which of the following is not a good practice when preparing a biblically
+          faithful sermon?
+        choices:
+          A: Studying the passage within the context of the entire book
+          B: Selecting a manageable portion of Scripture that communicates a complete
+            thought
+          C: Interpreting the passage in light of the whole Bible
+          D: Focusing on only one verse without considering its broader context
+        answer: D
+      - uid: MIN325.3.1.2.TY.2
+        subobj: 3.1.2
+        type: ty
+        question: Studying the biblical text within the context of the Bible
+        choices:
+          A: shows how the text fits into God’s story.
+          B: reveals contradictions in the Bible.
+          C: is called allegory.
+          D: is a waste of time.
+        answer: A
+      - uid: MIN325.3.1.2.TY.3
+        subobj: 3.1.2
+        type: ty
+        question: Context is critical in that it
+        choices:
+          A: can lead a preacher into error.
+          B: helps explain the meaning of a verse.
+          C: causes a preacher to read into the text.
+          D: leads a preacher to focus on a minor point.
+        answer: B
+      - uid: MIN325.3.2.1.UPE.1
+        subobj: 3.2.1
+        type: upe
+        question: Giving wrong symbolic meaning to a text is called
+        choices:
+          A: reading into the text.
+          B: proof-texting.
+          C: allegorizing.
+          D: missing a major point.
+        answer: C
+      - uid: MIN325.3.2.1.UPE.2
+        subobj: 3.2.1
+        type: upe
+        question: Selecting a Bible passage to fit the sermon is called
+        choices:
+          A: reading into the text.
+          B: proof-texting.
+          C: allegorizing.
+          D: missing a major point.
+        answer: B
+      - uid: MIN325.3.2.1.UPE.3
+        subobj: 3.2.1
+        type: upe
+        question: Putting unintended words and thoughts into the biblical text is
+        choices:
+          A: reading into the text.
+          B: proof-texting.
+          C: allegorizing.
+          D: missing a major point.
+        answer: A
+      - uid: MIN325.3.2.1.UPE.4
+        subobj: 3.2.1
+        type: upe
+        question: To understand a word in the text correctly, one should
+        choices:
+          A: apply all possible definitions.
+          B: find the word’s meaning in an English dictionary.
+          C: assume words with similar roots have related meaning.
+          D: carefully study how a word’s meaning has changed over time.
+        answer: D
+      - uid: MIN325.3.2.1.TY.1
+        subobj: 3.2.1
+        type: ty
+        question: A preacher’s staying true to the text is determined by his or her
+        choices:
+          A: commitment to present the true intent of the text.
+          B: belief in the eternal value of the Bible.
+          C: appreciation of the congregation.
+          D: recognition of people’s physical needs.
+        answer: A
+      - uid: MIN325.3.2.1.TY.2
+        subobj: 3.2.1
+        type: ty
+        question: Giving wrong symbolic meaning to a text is called
+        choices:
+          A: reading into the text.
+          B: proof-texting.
+          C: allegorizing.
+          D: missing a major point.
+        answer: C
+      - uid: MIN325.3.2.1.TY.3
+        subobj: 3.2.1
+        type: ty
+        question: A preacher who throws out scriptural details that do not make sense
+          can be
+        choices:
+          A: proof-texting.
+          B: missing a major point.
+          C: ignoring context.
+          D: allegorizing.
+        answer: B
+      - uid: MIN325.3.2.1.TY.4
+        subobj: 3.2.1
+        type: ty
+        question: Coming up with a sermon and then selecting a passage to fit the
+          sermon is called
+        choices:
+          A: reading into the text.
+          B: proof-texting.
+          C: allegorizing.
+          D: missing a major point.
+        answer: B
+      - uid: MIN325.3.2.1.TY.5
+        subobj: 3.2.1
+        type: ty
+        question: To understand a word in the text correctly, a preacher should
+        choices:
+          A: apply all possible definitions of the word as found in a lexicon.
+          B: find the word’s meaning in an English dictionary.
+          C: assume words with similar roots have related meaning.
+          D: carefully study how a word’s meaning has changed over time.
+        answer: D
+      - uid: MIN325.3.2.2.TY.1
+        subobj: 3.2.2
+        type: ty
+        question: In their commitment to preaching biblical sermons, preachers should
+        choices:
+          A: alter the message to make it popular.
+          B: ignore the hard teachings of Scripture.
+          C: simplify the message to make it easy to accept.
+          D: speak godly truths, whether or not they will make the preacher popular.
+        answer: D
+      - uid: MIN325.4.1.1.UPE.1
+        subobj: 4.1.1
+        type: upe
+        question: When a sermon is ineffective, it is usually because
+        choices:
+          A: of poor exegesis.
+          B: they deal with too many unrelated ideas.
+          C: the preacher is boring.
+          D: of bad illustrations.
+        answer: B
+      - uid: MIN325.4.1.1.UPE.2
+        subobj: 4.1.1
+        type: upe
+        question: Focusing on a single idea in a sermon
+        choices:
+          A: can lead to misuse of Scripture.
+          B: helps listeners remember the sermon.
+          C: makes the sermon hard to understand.
+          D: should only be done with children.
+        answer: B
+      - uid: MIN325.4.1.1.TY.1
+        subobj: 4.1.1
+        type: ty
+        question: When a sermon is ineffective, it is usually because it
+        choices:
+          A: lacks careful biblical interpretation.
+          B: relies on weak or unclear illustrations.
+          C: fails to engage the listener.
+          D: attempts to communicate too many unrelated ideas.
+        answer: D
+      - uid: MIN325.4.1.1.TY.2
+        subobj: 4.1.1
+        type: ty
+        question: Focusing on a single idea in a sermon
+        choices:
+          A: can lead to misuse of Scripture.
+          B: helps listeners remember the sermon.
+          C: makes the sermon hard to understand.
+          D: should be done only with children.
+        answer: B
+      - uid: MIN325.4.1.2.UPE.1
+        subobj: 4.1.2
+        type: upe
+        question: The central proposition
+        choices:
+          A: sets boundaries for the entire sermon.
+          B: does not apply to illustrations.
+          C: is unnecessary for preaching.
+          D: should only be stated if absolutely necessary.
+        answer: A
+      - uid: MIN325.4.1.2.TY.1
+        subobj: 4.1.2
+        type: ty
+        question: The central proposition
+        choices:
+          A: sets boundaries for the entire sermon.
+          B: does not apply to illustrations.
+          C: is unnecessary for preaching.
+          D: should only be stated as absolutely necessary.
+        answer: A
+      - uid: MIN325.4.1.3.UPE.1
+        subobj: 4.1.3
+        type: upe
+        question: The exegetical outline
+        choices:
+          A: summarizes the text from the viewpoint of the original readers.
+          B: states the text in universal truths.
+          C: explains what the text means today.
+          D: is a finished sermon outline.
+        answer: A
+      - uid: MIN325.4.1.3.UPE.2
+        subobj: 4.1.3
+        type: upe
+        question: Stating the timeless truths of the text is the purpose of the
+        choices:
+          A: exegetical outline.
+          B: theological outline.
+          C: homiletical outline.
+          D: illustrations / applications.
+        answer: B
+      - uid: MIN325.4.1.3.UPE.3
+        subobj: 4.1.3
+        type: upe
+        question: The homiletical outline is important because it
+        choices:
+          A: controls the entire message.
+          B: states the timeless truths of the text.
+          C: tells what was true for the original readers.
+          D: states the theological outline in contemporary language.
+        answer: D
+      - uid: MIN325.4.1.3.TY.1
+        subobj: 4.1.3
+        type: ty
+        question: The exegetical outline
+        choices:
+          A: summarizes the text from the viewpoint of the original readers.
+          B: states the text in universal truths.
+          C: explains what the text means today.
+          D: is a finished sermon outline.
+        answer: A
+      - uid: MIN325.4.1.3.TY.2
+        subobj: 4.1.3
+        type: ty
+        question: The homiletical outline is important because it
+        choices:
+          A: controls the entire message.
+          B: tests the timeless truths of the text.
+          C: tells what was true for the original readers.
+          D: states the theological outline in contemporary language.
+        answer: D
+      - uid: MIN325.4.1.3.TY.3
+        subobj: 4.1.3
+        type: ty
+        question: Stating the timeless truths of the text is the purpose of the
+        choices:
+          A: exegetical outline.
+          B: theological outline.
+          C: homiletical outline.
+          D: illustrations / applications.
+        answer: B
+      - uid: MIN325.4.2.1.TY.1
+        subobj: 4.2.1
+        type: ty
+        question: 'Every sermon should answer the question:'
+        choices:
+          A: What does this reveal about God and our relationship with Him?
+          B: How does this make me a better person?
+          C: What does this reveal about the world?
+          D: How does this explain my life experiences?
+        answer: A
+      - uid: MIN325.4.2.1.TY.2
+        subobj: 4.2.1
+        type: ty
+        question: Sermons that do not have God in the center
+        choices:
+          A: are culturally relevant.
+          B: compromise and distort God’s truth.
+          C: are acceptable as long as the topic is political.
+          D: attract seekers.
+        answer: B
+      - uid: MIN325.4.2.1.TY.3
+        subobj: 4.2.1
+        type: ty
+        question: Centering a sermon on politics
+        choices:
+          A: is important because all Christians should have the same political view.
+          B: makes everyone feel comfortable and included in the congregation.
+          C: can polarize a congregation and create conflict.
+          D: helps a preacher present a clear gospel message.
+        answer: C
+      - uid: MIN325.4.2.2.TY.1
+        subobj: 4.2.2
+        type: ty
+        question: Preachers should not enter the pulpit without
+        choices:
+          A: memorizing the sermon.
+          B: practicing the sermon at least three times.
+          C: at least one week of study.
+          D: extensive prayer and reliance on the Holy Spirit.
+        answer: D
+      - uid: MIN325.5.1.1.UPE.1
+        subobj: 5.1.1
+        type: upe
+        question: In terms of belief, how and why are mostly asked by
+        choices:
+          A: modernists.
+          B: preachers.
+          C: postmodernists.
+          D: scientists.
+        answer: C
+      - uid: MIN325.5.1.1.TY.1
+        subobj: 5.1.1
+        type: ty
+        question: When listening to sermons, postmodernists most want to know
+        choices:
+          A: what to believe.
+          B: how and why to believe.
+          C: scientific proofs that the Bible is true.
+          D: facts.
+        answer: B
+      - uid: MIN325.5.1.2.UPE.1
+        subobj: 5.1.2
+        type: upe
+        question: Asking, “So what?” during sermon preparation
+        choices:
+          A: increases the sermon’s clarity.
+          B: is arrogant.
+          C: can muddle up a preacher’s thoughts.
+          D: should only be done when preaching to youth.
+        answer: A
+      - uid: MIN325.5.1.2.TY.1
+        subobj: 5.1.2
+        type: ty
+        question: To increase clarity, preachers should
+        choices:
+          A: focus on what Christians should believe.
+          B: never evaluate the sermon with the question, “So what?”
+          C: use a mildly offensive illustration if it perfectly explains the concept.
+          D: anticipate challenges to the sermon and answer those questions in the
+            sermon.
+        answer: D
+      - uid: MIN325.5.2.1.UPE.1
+        subobj: 5.2.1
+        type: upe
+        question: A good sermon
+        choices:
+          A: jumps right into the biblical text.
+          B: hooks the audience with a catchy introduction.
+          C: explains the Bible without the aid of illustrations.
+          D: is at least one hour long.
+        answer: B
+      - uid: MIN325.5.2.1.UPE.2
+        subobj: 5.2.1
+        type: upe
+        question: People best connect the sermon with their own life experiences through
+          the
+        choices:
+          A: applications.
+          B: illustrations.
+          C: reading of the text.
+          D: introduction.
+        answer: A
+      - uid: MIN325.5.2.1.UPE.3
+        subobj: 5.2.1
+        type: upe
+        question: The preacher should state the central proposition in the
+        choices:
+          A: main points.
+          B: illustrations or applications.
+          C: introduction or conclusion.
+          D: introduction only.
+        answer: C
+      - uid: MIN325.5.2.1.UPE.4
+        subobj: 5.2.1
+        type: upe
+        question: The conclusion should
+        choices:
+          A: be an abrupt end to the sermon.
+          B: recap the message and draw the sermon to a close.
+          C: leave people hanging.
+          D: introduce new concepts.
+        answer: B
+      - uid: MIN325.5.2.1.TY.1
+        subobj: 5.2.1
+        type: ty
+        question: People best connect the sermon with their own life experiences through
+          the
+        choices:
+          A: applications.
+          B: illustrations.
+          C: reading of the text.
+          D: introduction.
+        answer: A
+      - uid: MIN325.5.2.1.TY.2
+        subobj: 5.2.1
+        type: ty
+        question: The preacher should state the central proposition in the
+        choices:
+          A: main points.
+          B: illustrations or applications.
+          C: introduction or conclusion.
+          D: introduction only.
+        answer: C
+      - uid: MIN325.5.2.1.TY.3
+        subobj: 5.2.1
+        type: ty
+        question: What is a key characteristic of an effective sermon introduction?
+        choices:
+          A: It immediately analyzes the text in detail.
+          B: It captures the listener’s attention and interest.
+          C: It avoids the use of illustrations.
+          D: It prioritizes length over clarity.
+        answer: B
+      - uid: MIN325.5.2.1.TY.4
+        subobj: 5.2.1
+        type: ty
+        question: The conclusion should
+        choices:
+          A: be an abrupt end to the sermon.
+          B: recap the message and draw the sermon to a close.
+          C: leave people hanging.
+          D: introduce new concepts.
+        answer: B
+      - uid: MIN325.5.2.1.TY.5
+        subobj: 5.2.1
+        type: ty
+        question: The purpose of illustrations is to
+        choices:
+          A: entertain.
+          B: take up time.
+          C: make people laugh and cry.
+          D: explain the main points in memorable ways.
+        answer: D
+      - uid: MIN325.5.2.3.UPE.1
+        subobj: 5.2.3
+        type: upe
+        question: An inductive sermon
+        choices:
+          A: presents the proposition up front and supports it with evidence.
+          B: only presents biblical solutions to the problem.
+          C: relies on illustration to explain the text.
+          D: presents a need up front and then leads to a biblical conclusion.
+        answer: D
+      - uid: MIN325.5.2.3.TY.1
+        subobj: 5.2.3
+        type: ty
+        question: An inductive sermon is helpful for postmodernists because it
+        choices:
+          A: tells them what to believe.
+          B: presents proofs to support the proposition.
+          C: begins with a shocking truth that offends the hearer and makes him or
+            her interested in the rest of the sermon.
+          D: leads the hearer to a biblical conclusion.
+        answer: D
+      - uid: MIN325.5.2.3.TY.2
+        subobj: 5.2.3
+        type: ty
+        question: A deductive sermon
+        choices:
+          A: states the proposition up front and then proves it.
+          B: presents various solutions to the problem.
+          C: relies on illustrations.
+          D: begins with human need and leads to a biblical solution.
+        answer: A
+      - uid: MIN325.5.2.3.TY.3
+        subobj: 5.2.3
+        type: ty
+        question: An inductive sermon
+        choices:
+          A: presents the proposition up front and supports it with evidence.
+          B: only presents biblical solutions to the problem.
+          C: relies on illustration to explain the text.
+          D: presents a need up front and then leads to a biblical conclusion.
+        answer: D
+      - uid: MIN325.5.2.4.UPE.1
+        subobj: 5.2.4
+        type: upe
+        question: An inductive sermon is helpful for postmodernists because it
+        choices:
+          A: tells them what to believe.
+          B: presents proofs to support the proposition.
+          C: begins with a shocking truth that offends the hearer and makes him or
+            her interested in the rest of the sermon.
+          D: leads the hearer to a biblical conclusion.
+        answer: D
+      - uid: MIN325.6.1.1.TY.1
+        subobj: 6.1.1
+        type: ty
+        question: How has the shift from a modern to a postmodern culture most affected
+          preaching?
+        choices:
+          A: Preachers can assume everyone accepts the Bible as ultimate authority.
+          B: Sermons should focus more on length and depth of theological language.
+          C: Preachers must explain foundational truths and cannot assume prior biblical
+            understanding.
+          D: Listeners are more likely to immediately accept truth claims without
+            question.
+        answer: B
+      - uid: MIN325.6.1.2.UPE.1
+        subobj: 6.1.2
+        type: upe
+        question: In helping postmodernists, preachers should
+        choices:
+          A: worry when the seeker compares Christ with other religions.
+          B: avoid skeptical questions by stressing Christian truth.
+          C: answer every question the postmodernist has, even if the preacher does
+            not completely know the answer.
+          D: affirm seekers in their journey and give them space and time to investigate
+            and examine the Christian faith.
+        answer: D
+      - uid: MIN325.6.1.2.TY.1
+        subobj: 6.1.2
+        type: ty
+        question: What is an important quality of a preacher when responding to difficult
+          questions from seekers?
+        choices:
+          A: Always having a confident and immediate answer
+          B: Avoiding questions that may cause doubt
+          C: Being honest and willing to admit when they do not know something
+          D: Redirecting the conversation to avoid uncertainty
+        answer: C
+      - uid: MIN325.6.2.1.UPE.1
+        subobj: 6.2.1
+        type: upe
+        question: Christian jargon can
+        choices:
+          A: create barriers that make people feel left out.
+          B: help people better understand the sermon.
+          C: persuade seekers to become Christians.
+          D: add weight to a preacher’s words.
+        answer: A
+      - uid: MIN325.6.2.1.TY.1
+        subobj: 6.2.1
+        type: ty
+        question: Christian jargon can
+        choices:
+          A: create barriers that make people feel left out.
+          B: help people better understand the sermon.
+          C: persuade seekers to become Christians.
+          D: add weight to a preacher’s words.
+        answer: A
+      - uid: MIN325.6.2.2.UPE.1
+        subobj: 6.2.2
+        type: upe
+        question: Greek and Hebrew should
+        choices:
+          A: fill a sermon.
+          B: be ignored.
+          C: be explained in the sermon while rarely mentioning the words themselves.
+          D: be taught at the beginning of the sermon.
+        answer: C
+      - uid: MIN325.6.2.2.TY.1
+        subobj: 6.2.2
+        type: ty
+        question: A clear sermon
+        choices:
+          A: is filled with Greek and Hebrew words.
+          B: ignores Greek and Hebrew altogether.
+          C: explains the meaning of a Greek or Hebrew word without necessarily mentioning
+            the Greek or Hebrew words in the sermon.
+          D: begins with a Greek or Hebrew lesson to get people on the same page and
+            educate them in the biblical languages.
+        answer: C
+      - uid: MIN325.6.3.1.UPE.1
+        subobj: 6.3.1
+        type: upe
+        question: A preacher is most effective if he or she
+        choices:
+          A: assumes the audience has theological education and fills the sermon with
+            Greek and Hebrew.
+          B: blindly prepares a message without knowing who the audience is.
+          C: speaks about his or her own interests.
+          D: learns about a pressing issue within the church and uses the sermon to
+            speak to that topic.
+        answer: D
+      - uid: MIN325.6.3.1.TY.1
+        subobj: 6.3.1
+        type: ty
+        question: Forming a message that is specific to an audience’s background
+        choices:
+          A: causes preachers to water down the message.
+          B: helps the audience accept the preacher and his or her message.
+          C: is not necessary.
+          D: is useful for seekers but not believers.
+        answer: B
+      - uid: MIN325.6.3.1.TY.2
+        subobj: 6.3.1
+        type: ty
+        question: Which type of illustration is most likely to effectively engage
+          a congregation?
+        choices:
+          A: A detailed explanation of a niche personal hobby unfamiliar to most listeners
+          B: A story based on shared experiences or common interests within the audience
+          C: A complex theological concept without practical examples
+          D: A historical event with no connection to the listeners’ lives
+        answer: B
+      - uid: MIN325.6.3.1.TY.3
+        subobj: 6.3.1
+        type: ty
+        question: A good preacher
+        choices:
+          A: preaches a text because it is in the Bible.
+          B: tailors a sermon to personally connect with an audience.
+          C: develops standard, generalized illustrations for all his or her sermons.
+          D: preaches the same sermon the same way to both seekers and believers.
+        answer: B
+      - uid: MIN325.6.3.2.UPE.1
+        subobj: 6.3.2
+        type: upe
+        question: To increase audience connection, a preacher should avoid
+        choices:
+          A: current events.
+          B: practice.
+          C: monotony.
+          D: telling his or her personal story.
+        answer: C
+      - uid: MIN325.6.3.2.TY.1
+        subobj: 6.3.2
+        type: ty
+        question: To increase audience connection, a preacher should avoid
+        choices:
+          A: current events.
+          B: practice.
+          C: monotony.
+          D: telling his or her personal story.
+        answer: C
+      - uid: MIN325.6.4.1.TY.1
+        subobj: 6.4.1
+        type: ty
+        question: In preaching to a blended audience, preachers should
+        choices:
+          A: ignore seekers and focus on Christians.
+          B: ignore Christians and focus on seekers.
+          C: identify differences between Christians and non-Christians.
+          D: balance statements to bring seekers along in their journey and Christians
+            deeper in their faith.
+        answer: D
+      - uid: MIN325.6.4.1.TY.2
+        subobj: 6.4.1
+        type: ty
+        question: The results of a sermon
+        choices:
+          A: are instantaneous.
+          B: will never be seen.
+          C: are up to the Holy Spirit.
+          D: are dependent on the preacher.
+        answer: C
+      - uid: MIN325.7.1.1.UPE.1
+        subobj: 7.1.1
+        type: upe
+        question: A preacher who is fallible
+        choices:
+          A: should never be allowed to preach.
+          B: connects with the audience’s weaknesses and strengths.
+          C: publicly confesses his or her every sin.
+          D: will ruin his or her ability to minister.
+        answer: B
+      - uid: MIN325.7.1.1.UPE.2
+        subobj: 7.1.1
+        type: upe
+        question: A pastor who is genuine
+        choices:
+          A: is a great actor.
+          B: lives out what he or she preaches, and preaches what he or she lives
+            out.
+          C: has a “preaching” personality that is different from his or her regular
+            personality.
+          D: preaches the right thing even if he or she does not always do the right
+            thing.
+        answer: B
+      - uid: MIN325.7.1.1.UPE.3
+        subobj: 7.1.1
+        type: upe
+        question: People want a preacher who is
+        choices:
+          A: perfect.
+          B: distant.
+          C: real.
+          D: not like them.
+        answer: C
+      - uid: MIN325.7.1.1.UPE.4
+        subobj: 7.1.1
+        type: upe
+        question: A preacher’s transparency
+        choices:
+          A: reveals that the preacher has feelings and emotions just like the congregation.
+          B: should never be shown from the pulpit.
+          C: highlights a preacher’s victories and never his or her defeats.
+          D: will cause the congregation to lose confidence in him or her.
+        answer: A
+      - uid: MIN325.7.1.1.TY.1
+        subobj: 7.1.1
+        type: ty
+        question: The most appealing type of minister is one who is
+        choices:
+          A: perfect.
+          B: distant.
+          C: real.
+          D: not like the congregants.
+        answer: C
+      - uid: MIN325.7.1.1.TY.2
+        subobj: 7.1.1
+        type: ty
+        question: Pastors who have a genuine spirit
+        choices:
+          A: are great actors.
+          B: live out what they preach.
+          C: have a “preaching” personality that is different from their regular personality.
+          D: preach the right thing even if they do not always do the right thing.
+        answer: B
+      - uid: MIN325.7.1.1.TY.3
+        subobj: 7.1.1
+        type: ty
+        question: Preachers who are fallible
+        choices:
+          A: should never be allowed to preach.
+          B: connect with the audience’s weaknesses and strengths.
+          C: publicly confess their every sin.
+          D: will ruin their ability to minister.
+        answer: B
+      - uid: MIN325.7.1.1.TY.4
+        subobj: 7.1.1
+        type: ty
+        question: A preacher’s personality
+        choices:
+          A: can build God’s kingdom in unique ways.
+          B: should be hidden in the pulpit.
+          C: is a weakness.
+          D: should be altered for preaching.
+        answer: A
+      - uid: MIN325.7.1.1.TY.5
+        subobj: 7.1.1
+        type: ty
+        question: A preacher’s transparency
+        choices:
+          A: reveals that the preacher has feelings and emotions just like the congregation.
+          B: should never be shown from the pulpit.
+          C: highlights a preacher’s victories and never his or her defeats.
+          D: will cause the congregation to lose confidence in their leader.
+        answer: A
+      - uid: MIN325.7.2.1.UPE.1
+        subobj: 7.2.1
+        type: upe
+        question: The most important priority for a preacher is his or her
+        choices:
+          A: family.
+          B: preaching.
+          C: ministry.
+          D: personal relationship with God.
+        answer: D
+      - uid: MIN325.7.2.1.TY.1
+        subobj: 7.2.1
+        type: ty
+        question: A preacher’s personal relationship with God should only be put aside
+          for
+        choices:
+          A: the spiritual work of the ministry.
+          B: sermon preparation.
+          C: family.
+          D: nothing.
+        answer: D
+      - uid: MIN325.7.2.1.TY.2
+        subobj: 7.2.1
+        type: ty
+        question: The words in a sermon
+        choices:
+          A: determine a preacher’s success.
+          B: can make up for a preacher’s mistakes.
+          C: are not as important as the preacher’s actions.
+          D: will make or break a sermon.
+        answer: C
+      - uid: MIN325.7.2.2.UPE.1
+        subobj: 7.2.2
+        type: upe
+        question: When preaching, a preacher should be confident because
+        choices:
+          A: of his or her own abilities.
+          B: of his or her education.
+          C: God’s Word is powerful.
+          D: the church will believe anything.
+        answer: C
+      - uid: MIN325.7.2.2.TY.1
+        subobj: 7.2.2
+        type: ty
+        question: Developing life-changing sermons should
+        choices:
+          A: flow from an active, growing relationship with God.
+          B: be easy to prepare and deliver.
+          C: be a preacher’s first priority.
+          D: replace a preacher’s personal time of study and prayer.
+        answer: A
+      - uid: MIN325.7.2.2.TY.2
+        subobj: 7.2.2
+        type: ty
+        question: Ideally as a rule, preachers practice humility because
+        choices:
+          A: preaching is a scary responsibility.
+          B: the preacher is only a vessel through whom God works.
+          C: congregations are very judgmental.
+          D: God’s Word is not very powerful.
+        answer: B
+      - uid: MIN325.7.2.2.TY.3
+        subobj: 7.2.2
+        type: ty
+        question: A minister’s personality should be one of
+        choices:
+          A: arrogance because he or she has an important role.
+          B: timidity because preaching is a heavy responsibility.
+          C: humility, where he or she should not declare the Word boldly.
+          D: confidence because God’s Word is powerful and true.
+        answer: D
+      - uid: MIN325.8.1.1.UPE.1
+        subobj: 8.1.1
+        type: upe
+        question: The contemporary preacher is responsible for
+        choices:
+          A: exegeting the text and letting the Holy Spirit apply it to the listener’s
+            life.
+          B: creating engaging worship services that compel the audience to listen.
+          C: making people believe the message.
+          D: memorizing his or her sermons so he or she can preach without notes.
+        answer: B
+      - uid: MIN325.8.1.1.TY.1
+        subobj: 8.1.1
+        type: ty
+        question: Contemporary preachers are required to
+        choices:
+          A: water down the gospel to make it more appealing.
+          B: preach less than thirty-minute sermons.
+          C: create compelling worship services that engage the audience.
+          D: dress casually.
+        answer: C
+      - uid: MIN325.8.1.2.UPE.1
+        subobj: 8.1.2
+        type: upe
+        question: A biblical example of multisensory communication is
+        choices:
+          A: the Lord’s Prayer.
+          B: hymn singing.
+          C: infant baptism.
+          D: Holy Communion.
+        answer: D
+      - uid: MIN325.8.1.2.TY.1
+        subobj: 8.1.2
+        type: ty
+        question: 'The act of communication involves three parts: a message, a sender,
+          and a'
+        choices:
+          A: loud voice.
+          B: receiver.
+          C: computer.
+          D: microphone.
+        answer: B
+      - uid: MIN325.8.1.2.TY.2
+        subobj: 8.1.2
+        type: ty
+        question: Holy Communion is a good example of multisensory communication because
+          it
+        choices:
+          A: teaches faith through touch, taste, sight, sound, and smell.
+          B: is an old tradition.
+          C: is ordained by the church.
+          D: makes people feel good.
+        answer: A
+      - uid: MIN325.8.1.3.TY.1
+        subobj: 8.1.3
+        type: ty
+        question: The creative art form that modern-day screens in worship services
+          resemble is
+        choices:
+          A: candle lighting.
+          B: stained glass.
+          C: liturgy.
+          D: incense.
+        answer: B
+      - uid: MIN325.8.1.4.TY.1
+        subobj: 8.1.4
+        type: ty
+        question: Designing creative worship services in advance helps the pastor
+          to
+        choices:
+          A: be more creative.
+          B: experience less stress.
+          C: involve other people.
+          D: do all of the above.
+        answer: D
+      - uid: MIN325.8.2.1.UPE.1
+        subobj: 8.2.1
+        type: upe
+        question: The multimedia screen in the contemporary church is
+        choices:
+          A: the icon and stained glass of the church of the Middle Ages.
+          B: distracting and unhelpful.
+          C: too costly.
+          D: necessary for reaching baby boomers.
+        answer: A
+      - uid: MIN325.8.2.1.UPE.2
+        subobj: 8.2.1
+        type: upe
+        question: The most significant communication advancement
+        choices:
+          A: of the sixteenth century was the
+          B: invention of the printing press.
+          C: Enlightenment.
+          D: invention of the Roman road system.
+        answer: A
+      - uid: MIN325.8.2.1.UPE.3
+        subobj: 8.2.1
+        type: upe
+        question: Presentation technologies
+        choices:
+          A: allow for the projection of still and moving images onto a large screen.
+          B: should not be used in the church.
+          C: are too difficult to master and too expensive for the church to compete
+            with culture.
+          D: are unnecessary if one has the Holy Spirit.
+        answer: A
+      - uid: MIN325.8.2.1.UPE.4
+        subobj: 8.2.1
+        type: upe
+        question: A communication device helpful at explaining abstract ideas in concrete
+          form is
+        choices:
+          A: tertium comparisons.
+          B: metaphor.
+          C: conjunction.
+          D: simile.
+        answer: B
+      - uid: MIN325.8.2.1.TY.1
+        subobj: 8.2.1
+        type: ty
+        question: Communicating the gospel through multimedia is
+        choices:
+          A: capitulating to popular culture.
+          B: too expensive for the church to be involved in.
+          C: an effective tool to reach today’s audience.
+          D: unnecessary because Christians should not compete with the world.
+        answer: C
+      - uid: MIN325.8.2.1.TY.2
+        subobj: 8.2.1
+        type: ty
+        question: A metaphor is a
+        choices:
+          A: communication device.
+          B: list of propositions.
+          C: scientific approach to Scripture.
+          D: Greek word study.
+        answer: A
+      - uid: MIN325.8.3.1.UPE.1
+        subobj: 8.3.1
+        type: upe
+        question: Creativity begins with
+        choices:
+          A: a creative team.
+          B: a thought or idea.
+          C: the author of creativity—God.
+          D: technology.
+        answer: C
+      - uid: MIN325.8.3.1.UPE.2
+        subobj: 8.3.1
+        type: upe
+        question: To increase creativity in preaching, contemporary pastors should
+        choices:
+          A: practice their messages before a mirror.
+          B: learn to speak with a “preacher’s voice.”
+          C: get comfortable being themselves.
+          D: stick to the text.
+        answer: C
+      - uid: MIN325.8.3.1.UPE.3
+        subobj: 8.3.1
+        type: upe
+        question: Creative breaks help the contemporary pastor to
+        choices:
+          A: maintain longevity in the ministry.
+          B: be distracted from spiritual goals.
+          C: monopolize his or her family’s time.
+          D: decrease ministry productivity.
+        answer: A
+      - uid: MIN325.8.3.1.TY.1
+        subobj: 8.3.1
+        type: ty
+        question: All preachers are creative because they
+        choices:
+          A: are made in the image of God.
+          B: know how to use video clips.
+          C: like to use illustrations and jokes.
+          D: know how to tell stories.
+        answer: A
+      - uid: MIN325.8.3.1.TY.2
+        subobj: 8.3.1
+        type: ty
+        question: To develop creativity in preaching, the preacher should
+        choices:
+          A: imitate others.
+          B: be true to himself or herself.
+          C: always prepare sermons alone.
+          D: never take a break from his or her schedule.
+        answer: B
+      - uid: MIN325.8.3.1.TY.3
+        subobj: 8.3.1
+        type: ty
+        question: One of the two most important questions to ask when preparing a
+          sermon is
+        choices:
+          A: How long should I make the sermon?
+          B: What style should I use?
+          C: How many people are going to be in the audience?
+          D: What do I want people to do?
+        answer: D
+      - uid: MIN325.9.1.1.UPE.1
+        subobj: 9.1.1
+        type: upe
+        question: The form that most of the Bible is written in is
+        choices:
+          A: narrative.
+          B: poetry.
+          C: historical.
+          D: topical.
+        answer: A
+      - uid: MIN325.9.1.1.UPE.2
+        subobj: 9.1.1
+        type: upe
+        question: Inductive sermons
+        choices:
+          A: help the audience draw their own conclusions.
+          B: are easy to write.
+          C: begin with a principle and end with a story.
+          D: work well with propositional style sermons.
+        answer: A
+      - uid: MIN325.9.1.1.UPE.3
+        subobj: 9.1.1
+        type: upe
+        question: Deductive preaching
+        choices:
+          A: focuses on storytelling.
+          B: uses lots of illustrations.
+          C: relies on logical argument to prove a point.
+          D: begins with a life principle and ends with a scriptural application.
+        answer: C
+      - uid: MIN325.9.1.1.TY.1
+        subobj: 9.1.1
+        type: ty
+        question: Preaching in the narrative form emphasizes the use of
+        choices:
+          A: logical argumentation.
+          B: facts and figures.
+          C: storytelling.
+          D: points and subpoints.
+        answer: C
+      - uid: MIN325.9.1.1.TY.2
+        subobj: 9.1.1
+        type: ty
+        question: Narrative storytelling is built on
+        choices:
+          A: a plot or theme.
+          B: spiritual anecdotes.
+          C: personal convictions.
+          D: arguments.
+        answer: A
+      - uid: MIN325.9.1.1.TY.3
+        subobj: 9.1.1
+        type: ty
+        question: Narrative preaching is
+        choices:
+          A: inductive.
+          B: deductive.
+          C: reductive.
+          D: none of the above.
+        answer: A
+      - uid: MIN325.9.1.1.TY.4
+        subobj: 9.1.1
+        type: ty
+        question: Narrative sermons usually have
+        choices:
+          A: one point.
+          B: two points.
+          C: three points.
+          D: four points.
+        answer: A
+      - uid: MIN325.9.1.2.UPE.1
+        subobj: 9.1.2
+        type: upe
+        question: Jesus’ preferred style of preaching most resembled
+        choices:
+          A: expository.
+          B: narrative.
+          C: topical.
+          D: biographical.
+        answer: B
+      - uid: MIN325.9.1.2.TY.1
+        subobj: 9.1.2
+        type: ty
+        question: Jesus’ preaching style most resembled
+        choices:
+          A: expository.
+          B: narrative.
+          C: topical.
+          D: commentary.
+        answer: B
+      - uid: MIN325.9.1.3.UPE.1
+        subobj: 9.1.3
+        type: upe
+        question: Narrative sermons are best for connecting with a
+        choices:
+          A: modern audience.
+          B: postmodern audience.
+          C: rural audience.
+          D: post-rural audience.
+        answer: B
+      - uid: MIN325.9.1.3.UPE.2
+        subobj: 9.1.3
+        type: upe
+        question: Rex Miller’s “Millennium Matrix” researched
+        choices:
+          A: communication history and theory.
+          B: expository sermon preparation.
+          C: use of Christian jargon.
+          D: the incarnational nature of Paul’s preaching.
+        answer: A
+      - uid: MIN325.9.1.3.UPE.3
+        subobj: 9.1.3
+        type: upe
+        question: The communication mode of the twenty-first century is best described
+          as
+        choices:
+          A: broadcast.
+          B: non-linear.
+          C: digital.
+          D: linear.
+        answer: C
+      - uid: MIN325.9.1.3.UPE.4
+        subobj: 9.1.3
+        type: upe
+        question: From 4000 BC to AD 1500, the preferred communication style was
+        choices:
+          A: oral.
+          B: print.
+          C: retro.
+          D: broadcast.
+        answer: A
+      - uid: MIN325.9.1.3.TY.1
+        subobj: 9.1.3
+        type: ty
+        question: Narrative preaching works best in
+        choices:
+          A: a modern world.
+          B: a postmodern world.
+          C: an ultramodern world.
+          D: a world where sermons are no longer useful or relevant.
+        answer: B
+      - uid: MIN325.9.1.3.TY.2
+        subobj: 9.1.3
+        type: ty
+        question: Preferred communication in postmodernism is
+        choices:
+          A: digital media.
+          B: print media.
+          C: radio broadcast.
+          D: no preference.
+        answer: A
+      - uid: MIN325.9.2.2.UPE.1
+        subobj: 9.2.2
+        type: upe
+        question: The plot or theme of a narrative sermon
+        choices:
+          A: explains the main idea of the message.
+          B: does not rely on illustrations.
+          C: is often hard to follow.
+          D: should not involve too much information.
+        answer: A
+      - uid: MIN325.9.2.2.UPE.2
+        subobj: 9.2.2
+        type: upe
+        question: The narrative sermon outline includes
+        choices:
+          A: introduction, main point, conclusion.
+          B: plots and subplots.
+          C: one point.
+          D: all of the above.
+        answer: D
+      - uid: MIN325.9.2.2.UPE.3
+        subobj: 9.2.2
+        type: upe
+        question: A good introduction of the narrative sermon
+        choices:
+          A: gives a summary of the entire sermon.
+          B: creates tension and draws the listener into the message.
+          C: is very brief.
+          D: uses a video clip.
+        answer: B
+      - uid: MIN325.9.2.2.TY.1
+        subobj: 9.2.2
+        type: ty
+        question: The second sequence of a narrative sermon is the
+        choices:
+          A: introduction.
+          B: main point.
+          C: narrative motion.
+          D: conclusion.
+        answer: B
+      - uid: MIN325.9.2.3.UPE.1
+        subobj: 9.2.3
+        type: upe
+        question: One of the greatest strengths of the narrative sermon is that it
+        choices:
+          A: is an interesting form of communication.
+          B: uses lots of illustrations.
+          C: makes sermon writing easy.
+          D: lends itself to “thus saith the Lord” preaching.
+        answer: A
+      - uid: MIN325.9.2.3.TY.1
+        subobj: 9.2.3
+        type: ty
+        question: The advantage of narrative sermons is that they
+        choices:
+          A: never run out of things to say.
+          B: cultivate interest in the congregation.
+          C: teach doctrine and dogma.
+          D: do not use stories or illustrations.
+        answer: B
+      - uid: MIN325.9.2.3.TY.2
+        subobj: 9.2.3
+        type: ty
+        question: Narrative sermons are
+        choices:
+          A: more difficult to write than propositional sermons.
+          B: easier to write than propositional sermons.
+          C: the same amount of difficulty as propositional sermons.
+          D: too simplistic for evangelical preachers.
+        answer: A
+      - uid: MIN325.10.1.1.TY.1
+        subobj: 10.1.1
+        type: ty
+        question: A preaching calendar is
+        choices:
+          A: helpful for planning out your yearly preaching plan.
+          B: unspiritual.
+          C: unscriptural.
+          D: unnecessary if you pray and seek the Holy Spirit.
+        answer: A
+      - uid: MIN325.10.1.1.TY.2
+        subobj: 10.1.1
+        type: ty
+        question: A key component of an effective preaching calendar includes
+        choices:
+          A: AI-generated graphics.
+          B: intentional use of sermon titles and themes.
+          C: a series of cross-referenced exegetical notes.
+          D: minimal planning.
+        answer: B
+      - uid: MIN325.10.1.2.UPE.1
+        subobj: 10.1.2
+        type: upe
+        question: A significant advantage to developing a preaching calendar is that
+          it
+        choices:
+          A: helps bring all church ministries into alignment.
+          B: decreases the amount of work for the church.
+          C: minimizes the quality and quantity of preaching.
+          D: helps vary church attendance.
+        answer: A
+      - uid: MIN325.10.1.2.TY.1
+        subobj: 10.1.2
+        type: ty
+        question: One advantage of a preaching calendar is it
+        choices:
+          A: takes the work out of preaching.
+          B: helps the pastor avoid repetition.
+          C: creates less reliance on others.
+          D: makes the preacher wait until the last minute and operate in the Spirit.
+        answer: B
+      - uid: MIN325.10.1.2.TY.2
+        subobj: 10.1.2
+        type: ty
+        question: Effective preaching calendars
+        choices:
+          A: develop naturally without effort.
+          B: leave little room for creativity.
+          C: are a result of preparation and prayer.
+          D: change constantly.
+        answer: C
+      - uid: MIN325.10.1.3.UPE.1
+        subobj: 10.1.3
+        type: upe
+        question: In sermon preparation, the Holy Spirit works
+        choices:
+          A: more in the delivery than the preparation.
+          B: as much in the preparation as in the delivery.
+          C: more in the heart of the speaker than the hearer.
+          D: only if the pastor preaches with good intentions.
+        answer: B
+      - uid: MIN325.10.1.3.TY.1
+        subobj: 10.1.3
+        type: ty
+        question: One of the three steps to developing a preaching calendar is
+        choices:
+          A: plugging in sermon series that other preachers have preached.
+          B: organizing your calendar dates.
+          C: checking the congregation’s dislikes.
+          D: waiting until the last minute for increased creativity.
+        answer: B
+      - uid: MIN325.10.1.3.TY.2
+        subobj: 10.1.3
+        type: ty
+        question: Preaching related messages that communicate one theme is known as
+          a sermon
+        choices:
+          A: diatribe.
+          B: sequence.
+          C: series.
+          D: subplot.
+        answer: C
+      - uid: MIN325.10.1.3.TY.3
+        subobj: 10.1.3
+        type: ty
+        question: According to common preaching practice, what is generally considered
+          an effective average length for a sermon series?
+        choices:
+          A: 1–2 weeks
+          B: 2–6 weeks
+          C: 6–8 weeks
+          D: 10–12 weeks
+        answer: B
+      - uid: MIN325.10.1.4.TY.1
+        subobj: 10.1.4
+        type: ty
+        question: A pitfall a leader does not need to avoid is
+        choices:
+          A: procrastination.
+          B: preparing sermons in isolation.
+          C: constantly changing and updating the preaching calendar.
+          D: trying to be too original.
+        answer: D
+      - uid: MIN325.10.2.1.UPE.1
+        subobj: 10.2.1
+        type: upe
+        question: Creative preaching teams
+        choices:
+          A: help develop other communicators within the congregation.
+          B: only work if the church has enough fulltime paid staff.
+          C: are not necessary in the contemporary church.
+          D: require that everyone on the preaching team have the same personality
+            and preaching style.
+        answer: A
+      - uid: MIN325.10.2.1.TY.1
+        subobj: 10.2.1
+        type: ty
+        question: Which of the following best defines a preaching team?
+        choices:
+          A: A group of volunteers responsible only for leading worship music on weekends
+          B: A group of individuals who work together to plan the annual preaching
+            calendar and prepare and deliver weekend messages
+          C: A single pastor who oversees all preaching and teaching responsibilities
+            throughout the year
+          D: A committee that focuses solely on church events and outreach planning
+        answer: B
+      - uid: MIN325.10.2.1.TY.2
+        subobj: 10.2.1
+        type: ty
+        question: When putting together a preaching team, the lead communicator should
+        choices:
+          A: involve only the best communicators.
+          B: include people from diverse backgrounds and talents.
+          C: always include his or her spouse.
+          D: surrender veto power.
+        answer: B
+      - uid: MIN325.11.1.1.UPE.1
+        subobj: 11.1.1
+        type: upe
+        question: The contemporary Pentecostal movement finds its roots in a revival
+          in
+        choices:
+          A: California.
+          B: Kansas.
+          C: Europe.
+          D: South Africa.
+        answer: C
+      - uid: MIN325.11.1.1.UPE.2
+        subobj: 11.1.1
+        type: upe
+        question: The Bethel Bible College in Topeka, Kansas, was founded by
+        choices:
+          A: William Seymour.
+          B: Charles Parham.
+          C: Agnes Ozman.
+          D: Smith Wigglesworth.
+        answer: B
+      - uid: MIN325.11.1.1.UPE.3
+        subobj: 11.1.1
+        type: upe
+        question: One of the first baptized in the Holy Spirit under Parham’s ministry
+          was
+        choices:
+          A: William Seymour.
+          B: Phoebe Palmer.
+          C: Agnes Ozman.
+          D: Smith Wigglesworth.
+        answer: C
+      - uid: MIN325.11.1.1.UPE.4
+        subobj: 11.1.1
+        type: upe
+        question: The message of Holy Spirit baptism was taken to Los Angeles by
+        choices:
+          A: William Seymour.
+          B: Phoebe Palmer.
+          C: Agnes Ozman.
+          D: A. B. Simpson.
+        answer: A
+      - uid: MIN325.11.1.1.UPE.5
+        subobj: 11.1.1
+        type: upe
+        question: The Assemblies of God officially began in 1914 at
+        choices:
+          A: Chicago, Illinois.
+          B: Springfield, Missouri.
+          C: Topeka, Kansas.
+          D: Hot Springs, Arkansas.
+        answer: D
+      - uid: MIN325.11.1.1.UPE.6
+        subobj: 11.1.1
+        type: upe
+        question: The Stone Church was located in
+        choices:
+          A: New York.
+          B: Topeka, Kansas.
+          C: Chicago, Illinois.
+          D: Los Angeles, California.
+        answer: C
+      - uid: MIN325.11.1.1.UPE.7
+        subobj: 11.1.1
+        type: upe
+        question: The first Assemblies of God missionaries were
+        choices:
+          A: ill-prepared and many failed after they faced the harsh realities of
+            being overseas.
+          B: educated, well-prepared financially, and saw great results as the Holy
+            Spirit enabled them.
+          C: well-prepared and highly effective in reaching other people around the
+            world.
+          D: ill-prepared, but saw great results as the Holy Spirit enabled them to
+            speak the languages of people groups.
+        answer: A
+      - uid: MIN325.11.1.1.UPE.8
+        subobj: 11.1.1
+        type: upe
+        question: The second group of Assemblies of God missionaries were
+        choices:
+          A: ineffective because they did not depend upon the power of the Holy Spirit
+            like the missionaries before them.
+          B: far more effective than the first group because they had a strategy and
+            depended upon the Holy Spirit to equip them.
+          C: ineffective because they failed to learn from the first group of missionaries.
+          D: effective because they had better financial support.
+        answer: B
+      - uid: MIN325.11.1.1.TY.1
+        subobj: 11.1.1
+        type: ty
+        question: Many early Pentecostal missionaries
+        choices:
+          A: were widely successful at spreading the gospel.
+          B: spent a great deal of time raising money.
+          C: did not fare too well on the mission field.
+          D: failed to rely on the Holy Spirit.
+        answer: C
+      - uid: MIN325.11.1.1.TY.2
+        subobj: 11.1.1
+        type: ty
+        question: The most successful missionary efforts
+        choices:
+          A: developed a cross-cultural strategy that included language and cultural
+            studies.
+          B: viewed speaking in tongues as literal languages.
+          C: colonized Christianity.
+          D: utilized crusade preaching.
+        answer: A
+      - uid: MIN325.11.1.2.UPE.1
+        subobj: 11.1.2
+        type: upe
+        question: Colonizing Christianity is
+        choices:
+          A: transferring non-negotiable core values of Scripture and appropriately
+            applying them in context to a given culture.
+          B: establishing groups of Christians only in lands with a western culture.
+          C: reaching other cultures with the gospel and adding the beliefs of Scripture
+            to their traditional spirituality.
+          D: taking a certain style of Christianity from one culture and imposing
+            it on another completely different culture.
+        answer: D
+      - uid: MIN325.11.1.2.UPE.2
+        subobj: 11.1.2
+        type: upe
+        question: Who developed the first Assemblies of God missiology, the Indigenous
+          Church Principle?
+        choices:
+          A: Noel Perkin.
+          B: Melvin Hodges.
+          C: J. Phillip Hogan.
+          D: Robert Ashcroft.
+        answer: B
+      - uid: MIN325.11.1.2.UPE.3
+        subobj: 11.1.2
+        type: upe
+        question: A viable church in any culture must be
+        choices:
+          A: self-supporting, self-taught, and self-governing.
+          B: self-propagating, self-governing, and self-taught.
+          C: self-governing, self-sufficient, and self-taught.
+          D: self-propagating, self-governing, and self-supporting.
+        answer: D
+      - uid: MIN325.11.1.2.UPE.4
+        subobj: 11.1.2
+        type: upe
+        question: From the early missionaries we learn we must
+        choices:
+          A: build relationships with those outside our sphere of influence.
+          B: resist the cultural influence of those we are trying to reach.
+          C: seek to understand the culture we are trying to reach.
+          D: be spontaneous and depend upon the power of the Holy Spirit.
+        answer: C
+      - uid: MIN325.11.1.2.UPE.5
+        subobj: 11.1.2
+        type: upe
+        question: Becoming a student of one’s culture does not include
+        choices:
+          A: reading anything about pop culture.
+          B: watching movies and television.
+          C: seeking to understand other religions.
+          D: going to the mall and observing people.
+        answer: C
+      - uid: MIN325.11.1.2.TY.1
+        subobj: 11.1.2
+        type: ty
+        question: The colonization of Christianity refers to
+        choices:
+          A: early British missionary strategies.
+          B: franchising Christianity.
+          C: charging money for the gospel.
+          D: early Native American missionary efforts.
+        answer: B
+      - uid: MIN325.11.1.2.TY.2
+        subobj: 11.1.2
+        type: ty
+        question: The contextualization of Christianity refers to
+        choices:
+          A: applying foundational teachings of Christianity in the context of one’s
+            culture.
+          B: proof-texting.
+          C: teaching only from the New Testament.
+          D: changing the message of the Scriptures.
+        answer: A
+      - uid: MIN325.11.1.2.TY.3
+        subobj: 11.1.2
+        type: ty
+        question: Christianity not only can, but should be,
+        choices:
+          A: colonized.
+          B: contextualized.
+          C: socialized.
+          D: philosophized.
+        answer: B
+      - uid: MIN325.11.1.2.TY.4
+        subobj: 11.1.2
+        type: ty
+        question: Contemporary preachers learned from early missionaries to
+        choices:
+          A: disregard the customs of the world they are trying to reach.
+          B: focus on raising money first.
+          C: understand the world they are trying to reach.
+          D: seek first to be understood.
+        answer: C
+      - uid: MIN325.11.1.2.TY.5
+        subobj: 11.1.2
+        type: ty
+        question: An effective communicator in the twenty-first century will
+        choices:
+          A: build purposeful relationships with those in their world.
+          B: not focus on building relationships with those he or she is trying to
+            reach.
+          C: resist the temptation of learning from culture.
+          D: not take risks.
+        answer: A
+      - uid: MIN325.11.2.1.UPE.1
+        subobj: 11.2.1
+        type: upe
+        question: The goal of contemporary preaching is to
+        choices:
+          A: foster spiritual transformation.
+          B: present information.
+          C: connect with the audience.
+          D: persuade the audience.
+        answer: A
+      - uid: MIN325.11.2.1.UPE.2
+        subobj: 11.2.1
+        type: upe
+        question: Relevance is the art of presenting
+        choices:
+          A: information in a humorous manner.
+          B: biblical truths in a way that applies to everyday life.
+          C: with eloquence and confidence.
+          D: the gospel message only to address current social needs.
+        answer: B
+      - uid: MIN325.11.2.1.TY.1
+        subobj: 11.2.1
+        type: ty
+        question: In this lesson, which of the following is identified as the most
+          common reason people leave the church?
+        choices:
+          A: Lack of theological depth in sermons
+          B: Disagreement with church leadership
+          C: Church is perceived as boring and irrelevant
+          D: Too many ministry programs and activities
+        answer: C
+      - uid: MIN325.11.2.1.TY.2
+        subobj: 11.2.1
+        type: ty
+        question: “Bringing the Scriptures to bear upon one’s life and circumstances”
+          defines
+        choices:
+          A: paradox .
+          B: capitulating to culture .
+          C: relevance .
+          D: liberation theology .
+        answer: C
+      - uid: MIN325.11.2.2.UPE.1
+        subobj: 11.2.2
+        type: upe
+        question: An inherent danger of pursuing relevance is
+        choices:
+          A: changing the methods of evangelism to reach the lost.
+          B: changing the style of worship to connect with contemporary society.
+          C: the tendency for preachers to conclude that when something is hard to
+            understand, it is irrelevant.
+          D: being misunderstood by those holding to traditional values.
+        answer: C
+      - uid: MIN325.11.2.2.TY.1
+        subobj: 11.2.2
+        type: ty
+        question: A danger of pursuing relevance in ministry is
+        choices:
+          A: remaining true to biblical authority.
+          B: upholding biblical teachings regardless of cultural trends.
+          C: being perceptive of the contemporary audience.
+          D: changing the Bible to fit contemporary culture.
+        answer: D
+      - uid: MIN325.12.1.1.UPE.1
+        subobj: 12.1.1
+        type: upe
+        question: The logical part of the brain is the
+        choices:
+          A: front.
+          B: right.
+          C: left.
+          D: brain stem.
+        answer: C
+      - uid: MIN325.12.1.1.UPE.2
+        subobj: 12.1.1
+        type: upe
+        question: Creative preaching stems from the
+        choices:
+          A: right brain.
+          B: frontal lobe.
+          C: brain stem.
+          D: left brain.
+        answer: A
+      - uid: MIN325.12.1.1.UPE.3
+        subobj: 12.1.1
+        type: upe
+        question: Preaching on church history uses
+        choices:
+          A: right-brain logic.
+          B: right-brain creativity.
+          C: left-brain logic.
+          D: left-brain creativity.
+        answer: C
+      - uid: MIN325.12.1.1.UPE.4
+        subobj: 12.1.1
+        type: upe
+        question: The key to postmodern preaching is
+        choices:
+          A: preaching with right-brain logic.
+          B: combining right-brain logic with left-brain creativity.
+          C: combining right-brain creativity with left-brain logic.
+          D: preaching with left-brain creativity.
+        answer: C
+      - uid: MIN325.12.1.1.UPE.5
+        subobj: 12.1.1
+        type: upe
+        question: A great way to facilitate Berlyne’s law in a sermon is to use
+        choices:
+          A: subpoints.
+          B: footnotes.
+          C: interrogative questions.
+          D: metaphors.
+        answer: D
+      - uid: MIN325.12.1.1.TY.1
+        subobj: 12.1.1
+        type: ty
+        question: The brain is divided into
+        choices:
+          A: two hemispheres.
+          B: three hemispheres.
+          C: four hemispheres.
+          D: six hemispheres.
+        answer: A
+      - uid: MIN325.12.1.1.TY.2
+        subobj: 12.1.1
+        type: ty
+        question: The creative part of the brain is the
+        choices:
+          A: front.
+          B: right.
+          C: left.
+          D: brain stem.
+        answer: B
+      - uid: MIN325.12.1.1.TY.3
+        subobj: 12.1.1
+        type: ty
+        question: The left side of the brain is considered to be
+        choices:
+          A: creative.
+          B: emotional.
+          C: logical.
+          D: artistic.
+        answer: C
+      - uid: MIN325.12.1.1.TY.4
+        subobj: 12.1.1
+        type: ty
+        question: Looking at church history, preaching has typically focused on
+        choices:
+          A: right-brain logic.
+          B: left-brain creativity.
+          C: right-brain creativity.
+          D: left-brain logic.
+        answer: D
+      - uid: MIN325.12.1.1.TY.5
+        subobj: 12.1.1
+        type: ty
+        question: The best example of literature combining logic and creativity is
+        choices:
+          A: The Chronicles of Narnia .
+          B: The Problem of Pain .
+          C: Evidence that Demands a Verdict .
+          D: Mere Christianity .
+        answer: A
+      - uid: MIN325.12.1.1.TY.6
+        subobj: 12.1.1
+        type: ty
+        question: Which of the following best reflects God’s desire for the believer’s
+          inner life and creativity?
+        choices:
+          A: God primarily cares about outward behavior, not internal thought life.
+          B: Imagination is too unreliable to be useful in spiritual growth.
+          C: God wants to sanctify our imaginations and use them for His purposes.
+          D: Believers should avoid imagination and focus only on logic and reason.
+        answer: C
+      - uid: MIN325.12.1.1.TY.7
+        subobj: 12.1.1
+        type: ty
+        question: A preacher can implement Berlyne’s Law by using
+        choices:
+          A: subpoints.
+          B: footnotes.
+          C: interrogative questions.
+          D: metaphors.
+        answer: D
+      - uid: MIN325.12.1.1.TY.8
+        subobj: 12.1.1
+        type: ty
+        question: Which of the following best describes the concept of cross-pollination
+          in right-brain preaching?
+        choices:
+          A: Repeating the same illustrations to reinforce a single idea
+          B: Avoiding cultural or secular references in sermons
+          C: Redeeming metaphors from various disciplines to communicate spiritual
+            truth
+          D: Focusing only on historical and biblical language without modern application
+        answer: C
+      - uid: MIN325.12.1.2.UPE.1
+        subobj: 12.1.2
+        type: upe
+        question: Both preaching and incarnation are about
+        choices:
+          A: the dynamics of flesh and spirit.
+          B: an ancient dichotomy of soul and body.
+          C: internalizing spiritual truth.
+          D: truth stepping into the world.
+        answer: D
+      - uid: MIN325.12.1.2.UPE.2
+        subobj: 12.1.2
+        type: upe
+        question: Paying attention to your community’s feelings and struggles
+        choices:
+          A: distracts from ministry.
+          B: pollutes a minister’s theology.
+          C: makes a minister culturally aware.
+          D: makes a minister too much like “the world.”
+        answer: C
+      - uid: MIN325.12.1.2.UPE.3
+        subobj: 12.1.2
+        type: upe
+        question: God is omnirevelant; therefore, the gospel
+        choices:
+          A: can be translated into any culture.
+          B: should be diluted to fit any culture.
+          C: cannot be transcultural.
+          D: is irrelevant to modern cultures.
+        answer: A
+      - uid: MIN325.12.1.2.UPE.4
+        subobj: 12.1.2
+        type: upe
+        question: Ministers must have a strong understanding of both
+        choices:
+          A: form and source criticism.
+          B: the Bible and their communities.
+          C: new technology and antique hardware.
+          D: Persian and Greek philosophy.
+        answer: B
+      - uid: MIN325.12.1.2.TY.1
+        subobj: 12.1.2
+        type: ty
+        question: Cultural exegesis is understanding the
+        choices:
+          A: culture of the original audience.
+          B: context of the text in light of biblical culture.
+          C: culture of those the preacher is addressing.
+          D: various cultures in North America and how they affect each other.
+        answer: C
+      - uid: MIN325.12.1.2.TY.2
+        subobj: 12.1.2
+        type: ty
+        question: Which of the following best captures the relationship between biblical
+          exegesis and cultural exegesis in effective preaching?
+        choices:
+          A: Faithful preaching focuses only on Scripture and avoids engaging cultural
+            context.
+          B: Cultural relevance requires adapting or softening biblical truth to fit
+            modern values.
+          C: Effective preaching bridges the gap between Scripture and everyday life
+            by understanding both the text and the listener’s context.
+          D: The primary goal of preaching is to preserve church subculture rather
+            than engage the outside world.
+        answer: A
+      - uid: MIN325.12.intro.UPE.1
+        subobj: 12.intro
+        type: upe
+        question: The accomplished storytellers of the twenty-first century are
+        choices:
+          A: movie producers and playwrights.
+          B: television sitcom writers.
+          C: journalists.
+          D: all of the above.
+        answer: D
     chapters:
     - last_modified: '2026-06-16'
       title: 1 - The Search for Truth
