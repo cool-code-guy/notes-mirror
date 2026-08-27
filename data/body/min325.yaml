@@ -3491,7 +3491,7 @@ courses:
       counts:
         ty: 120
         upe: 100
-        final: 0
+        final: 50
       questions:
       - uid: MIN325.1.1.1.UPE.1
         subobj: 1.1.1
@@ -5763,6 +5763,541 @@ courses:
           C: journalists.
           D: all of the above.
         answer: D
+      - uid: MIN325.1.1.1.F.3
+        subobj: 1.1.1
+        type: final
+        question: Which period of time is also called the rebirth of the arts?
+        choices:
+          A: Renaissance
+          B: Enlightenment
+          C: Middle Ages
+          D: Dark Ages
+        answer: A
+      - uid: MIN325.1.1.1.F.4
+        subobj: 1.1.1
+        type: final
+        question: Who is the icon of the Enlightenment?
+        choices:
+          A: Isaac Newton
+          B: Carl Barth
+          C: Christopher Columbus
+          D: Martin Luther
+        answer: A
+      - uid: MIN325.1.2.2.F.1
+        subobj: 1.2.2
+        type: final
+        question: What event(s) led to the shift from modernism to postmodernism?
+        choices:
+          A: The sexual revolution
+          B: Evolution and global warming
+          C: Landing on the moon and space exploration
+          D: War, famine, disease, and poverty
+        answer: D
+      - uid: MIN325.2.1.1.F.1
+        subobj: 2.1.1
+        type: final
+        question: The Bible has authority because
+        choices:
+          A: Christians say it has authority.
+          B: people believe in it.
+          C: it is old.
+          D: it is God-breathed.
+        answer: D
+      - uid: MIN325.2.1.3.F.1
+        subobj: 2.1.3
+        type: final
+        question: During Jesus' temptation in the wilderness, what verse did Jesus
+          quote from the Old Testament?
+        choices:
+          A: Genesis 5:6
+          B: Joshua 1:8
+          C: Exodus 3:10
+          D: Deuteronomy 8:3
+        answer: D
+      - uid: MIN325.2.2.1.F.1
+        subobj: 2.2.1
+        type: final
+        question: According to Romans 10:17, faith comes from
+        choices:
+          A: scientific reasoning.
+          B: hearing God's word.
+          C: historical validity.
+          D: experience.
+        answer: B
+      - uid: MIN325.2.3.1.F.1
+        subobj: 2.3.1
+        type: final
+        question: The fact that the Bible leaves some things a mystery is
+        choices:
+          A: a source of unbelief for postmodernists.
+          B: confusing to postmodernists.
+          C: good because postmodernists do not like easy answers.
+          D: bad because it draws postmodernists away from the truth of God's Word.
+        answer: C
+      - uid: MIN325.2.3.3.F.1
+        subobj: 2.3.3
+        type: final
+        question: The goal of a sermon is to
+        choices:
+          A: Deliver erudite truths
+          B: Increase church attendance
+          C: Entertain the listeners
+          D: Take part in God's work
+        answer: D
+      - uid: MIN325.3.1.2.F.3
+        subobj: 3.1.2
+        type: final
+        question: To determine a text's purpose and meaning, one should
+        choices:
+          A: consult several commentaries.
+          B: lean upon denominational tradition.
+          C: look at the context of surrounding verses, the book, and the entire Bible.
+          D: ask the questions of what the passage is saying to me.
+        answer: C
+      - uid: MIN325.3.1.2.F.2
+        subobj: 3.1.2
+        type: final
+        question: Understanding the meaning of a passage of scripture based upon the
+          verses that surround it is called
+        choices:
+          A: perspective.
+          B: context.
+          C: proof-texting.
+          D: syntax.
+        answer: B
+      - uid: MIN325.3.2.1.F.3
+        subobj: 3.2.1
+        type: final
+        question: Adding symbolism to a text that the original author did not intend
+          is called
+        choices:
+          A: majoring on the minors.
+          B: reading into the text.
+          C: allegorizing.
+          D: proof-texting.
+        answer: C
+      - uid: MIN325.4.1.1.F.4
+        subobj: 4.1.1
+        type: final
+        question: A crucial mistake of many ineffective sermons is
+        choices:
+          A: erudite exegesis.
+          B: too many stories.
+          C: lack of proper vocabulary.
+          D: a failure to engage the listener
+        answer: D
+      - uid: MIN325.4.1.1.F.2
+        subobj: 4.1.1
+        type: final
+        question: The most challenging aspect of sermon preparation is
+        choices:
+          A: creating a homiletical outline.
+          B: finding the single focus of the text.
+          C: creating an exegetical outline.
+          D: creating a theological outline.
+        answer: B
+      - uid: MIN325.4.1.2.F.1
+        subobj: 4.1.2
+        type: final
+        question: The sermon's theme, or central proposition, should
+        choices:
+          A: not be allowed to restrict the anointing.
+          B: reflect at least one topic in the text.
+          C: guide all illustrations, explanations and applications.
+          D: lead into other topics of discussion.
+        answer: C
+      - uid: MIN325.4.1.3.F.1
+        subobj: 4.1.3
+        type: final
+        question: Which outline rewords the points and proposition of a text to state
+          universal and timeless truths?
+        choices:
+          A: Theological
+          B: Grammatical
+          C: Exegetical
+          D: Homiletical
+        answer: A
+      - uid: MIN325.5.1.1.F.1
+        subobj: 5.1.1
+        type: final
+        question: For preachers to be persuasive in the presentation they must
+        choices:
+          A: manipulate the crowd.
+          B: avoid too much preparation and speak from the heart.
+          C: prove their message.
+          D: use a manuscript.
+        answer: C
+      - uid: MIN325.5.1.2.F.1
+        subobj: 5.1.2
+        type: final
+        question: When listening to a message, today's postmodern audience wants to
+          know
+        choices:
+          A: what and where.
+          B: how and why.
+          C: when and where.
+          D: when and how.
+        answer: B
+      - uid: MIN325.5.2.1.F.2
+        subobj: 5.2.1
+        type: final
+        question: The main points of a message give explanation and support to the
+        choices:
+          A: proposition.
+          B: introduction.
+          C: illustrations.
+          D: conclusion.
+        answer: A
+      - uid: MIN325.5.2.3.F.2
+        subobj: 5.2.3
+        type: final
+        question: Which sermon structure is the most effective in connecting with
+          postmodernists?
+        choices:
+          A: Deductive
+          B: Inductive
+          C: Topical
+          D: Textual
+        answer: B
+      - uid: MIN325.6.1.1.F.1
+        subobj: 6.1.1
+        type: final
+        question: The postmodern influence requires that preachers
+        choices:
+          A: explain everything and assume nothing.
+          B: soften the message of the Gospel.
+          C: tell a lot of stories.
+          D: avoid the difficult questions of life.
+        answer: A
+      - uid: MIN325.6.1.2.F.1
+        subobj: 6.1.2
+        type: final
+        question: Requirements for reaching non-Christians are
+        choices:
+          A: honesty, boldness, and trust.
+          B: patience, boldness, and flexibility.
+          C: honesty, patience, and trust.
+          D: trust, transparency, and kindness.
+        answer: C
+      - uid: MIN325.6.2.1.F.1
+        subobj: 6.2.1
+        type: final
+        question: Which statement is a good example of using terminology that can
+          be understood by non-Christians?
+        choices:
+          A: We are justified by faith.
+          B: We must all be sanctified and redeemed by the blood of Jesus.
+          C: God wants all people to embrace Christ and follow Him.
+          D: We are all heathens that must be saved.
+        answer: C
+      - uid: MIN325.6.2.2.F.1
+        subobj: 6.2.2
+        type: final
+        question: In what way should a preacher use Greek and Hebrew in the message?
+        choices:
+          A: The preacher should list all the possible meanings of a Greek and Hebrew
+            word and go with the meaning that best captures what he or she wants to
+            say.
+          B: One should use Greek and Hebrew to get the audience's attention and give
+            validity to the message.
+          C: He or she should pronounce the words of the original language to the
+            audience to increase their vocabulary.
+          D: One should use the original languages primarily for preparation to get
+            a greater understanding of the English words being used.
+        answer: D
+      - uid: MIN325.6.3.1.F.1
+        subobj: 6.3.1
+        type: final
+        question: Performing a background check on your audience involves investigating
+          their
+        choices:
+          A: intelligence, criminal history, and interests.
+          B: criminal history, spiritual level, and interests.
+          C: spiritual level, interests, and relevant issues.
+          D: spiritual level, criminal history, and intelligence.
+        answer: C
+      - uid: MIN325.6.3.2.F.1
+        subobj: 6.3.2
+        type: final
+        question: A preacher can identify with the audience by
+        choices:
+          A: practicing the sermon and telling them about his or her successes.
+          B: studying current events and telling them about his or her successes.
+          C: listening to the audience and studying current events.
+          D: studying current events and keeping a professional distance.
+        answer: C
+      - uid: MIN325.6.4.1.F.2
+        subobj: 6.4.1
+        type: final
+        question: When speaking to a blended audience that includes both Christians
+          and unbelievers, a preacher must
+        choices:
+          A: seek to communicate to both believers and seekers.
+          B: focus the message on reaching the seeker.
+          C: focus the message toward the mature believer.
+          D: focus attention on the majority group.
+        answer: A
+      - uid: MIN325.7.1.1.F.4
+        subobj: 7.1.1
+        type: final
+        question: A part of being "real" in the pulpit is
+        choices:
+          A: perfecting the techniques of effective preachers.
+          B: letting your personality shine.
+          C: being adequately prepared.
+          D: dressing for success.
+        answer: B
+      - uid: MIN325.7.1.1.F.2
+        subobj: 7.1.1
+        type: final
+        question: When a preacher's words and actions communicate real concern and
+          compassion, he or she is being
+        choices:
+          A: impeccable.
+          B: transparent.
+          C: fallible.
+          D: genuine.
+        answer: D
+      - uid: MIN325.7.2.1.F.2
+        subobj: 7.2.1
+        type: final
+        question: Which statement best describes integrity?
+        choices:
+          A: Living a life of purity in thought and action
+          B: Acknowledging one's weaknesses
+          C: Being perceived as perfect
+          D: Living a faultless life
+        answer: A
+      - uid: MIN325.7.2.2.F.1
+        subobj: 7.2.2
+        type: final
+        question: An effective preacher needs to find balance between
+        choices:
+          A: timidity and confidence.
+          B: arrogance and timidity.
+          C: arrogance and humility.
+          D: confidence and humility.
+        answer: D
+      - uid: MIN325.8.1.1.F.2
+        subobj: 8.1.1
+        type: final
+        question: What activity is the best example of incorporating a multi-sensory
+          experience in a worship service?
+        choices:
+          A: Offering
+          B: Communion
+          C: Announcements
+          D: Scripture reading
+        answer: B
+      - uid: MIN325.8.1.1.F.1
+        subobj: 8.1.1
+        type: final
+        question: The responsibility of today's preacher is to
+        choices:
+          A: entertain the congregation and keep their attention.
+          B: bring in a variety of guest speakers.
+          C: preach the Word, ignoring the language of contemporary culture.
+          D: communicate the Gospel in a way that compels the audience to listen.
+        answer: D
+      - uid: MIN325.8.1.2.F.1
+        subobj: 8.1.2
+        type: final
+        question: Jesus often communicated timeless truth through
+        choices:
+          A: lectures.
+          B: fictional narratives.
+          C: miracles.
+          D: letters.
+        answer: B
+      - uid: MIN325.8.2.1.F.1
+        subobj: 8.2.1
+        type: final
+        question: What was the most significant invention of the sixteenth century?
+        choices:
+          A: Gunpowder
+          B: Eyeglasses
+          C: Penicillin
+          D: Guttenberg's printing press
+        answer: D
+      - uid: MIN325.8.2.2.F.1
+        subobj: 8.2.2
+        type: final
+        question: The greatest danger of using media elements in a sermon is that
+          they
+        choices:
+          A: can be considered a substitute for the work of the Holy Spirit.
+          B: water down the message.
+          C: usually do not work due to technical difficulties.
+          D: may offend more traditional members of a congregation.
+        answer: A
+      - uid: MIN325.9.1.1.F.2
+        subobj: 9.1.1
+        type: final
+        question: Which type of method does narrative preaching employ?
+        choices:
+          A: Inductive
+          B: Topical
+          C: Deductive
+          D: Keyword
+        answer: A
+      - uid: MIN325.9.1.1.F.1
+        subobj: 9.1.1
+        type: final
+        question: Which type of preaching approach tells a story supported by sub-stories
+          that are woven together to form a cohesive theme?
+        choices:
+          A: Topical
+          B: Narrative
+          C: Keyword
+          D: Problem-solving
+        answer: B
+      - uid: MIN325.9.1.2.F.1
+        subobj: 9.1.2
+        type: final
+        question: The earliest narrative preaching can be traced back to the time
+          of
+        choices:
+          A: the Reformation.
+          B: Jesus.
+          C: Adam.
+          D: Moses.
+        answer: D
+      - uid: MIN325.9.1.3.F.1
+        subobj: 9.1.3
+        type: final
+        question: What was the most common communication style during the period from
+          A.D. 1500 - 1950?
+        choices:
+          A: Oral tradition
+          B: Broadcast media
+          C: Digital media
+          D: Printed page
+        answer: D
+      - uid: MIN325.9.2.3.F.1
+        subobj: 9.2.3
+        type: final
+        question: The weaknesses of a narrative sermon include that it
+        choices:
+          A: avoids dealing with the hard questions and is superficial.
+          B: is too hard to follow and lacks the ability to teach the congregation.
+          C: is harder to prepare and results in a subtle loss of teaching in the
+            church.
+          D: does not appeal to all age groups.
+        answer: C
+      - uid: MIN325.10.1.1.F.2
+        subobj: 10.1.1
+        type: final
+        question: Thoughtful sermon titles and themes
+        choices:
+          A: Are inconsequential to the message
+          B: Often distracted from the message
+          C: Frame the message and provide depth
+          D: Should be handled by a marketing firm
+        answer: C
+      - uid: MIN325.10.1.2.F.1
+        subobj: 10.1.2
+        type: final
+        question: Which is NOT an advantage to developing an annual preaching calendar?
+        choices:
+          A: It makes preaching easier and less stressful.
+          B: It allows the pastor to avoid topics that might offend people in his
+            or her congregation.
+          C: It helps the pastor avoid repetition, ensuring a balanced approach.
+          D: It builds anticipation among the audience.
+        answer: B
+      - uid: MIN325.10.1.3.F.1
+        subobj: 10.1.3
+        type: final
+        question: A sermon series is a
+        choices:
+          A: group of ten messages or more from the same book of the Bible.
+          B: number of related messages that communicate one theme over the course
+            of several weeks.
+          C: number of related messages that communicate several different truths
+            over a period of five weeks or more.
+          D: number of unrelated messages that communicate one theme over the course
+            of several weeks.
+        answer: B
+      - uid: MIN325.10.1.4.F.2
+        subobj: 10.1.4
+        type: final
+        question: Ministers should learn to
+        choices:
+          A: Preach without any forethought
+          B: Seek and hear God's voice in community
+          C: Ignore outside voices and trust their gut
+          D: Plan sermon series alone
+        answer: B
+      - uid: MIN325.10.2.1.F.1
+        subobj: 10.2.1
+        type: final
+        question: A creative preaching team is best described as a group of
+        choices:
+          A: individuals who work together to design and develop an annual preaching
+            calendar and weekly messages.
+          B: individuals who work with the pastor to provide dissenting viewpoints.
+          C: pastors from the same geographical area who rotate preaching at one another's
+            churches.
+          D: pastors on staff at the same church who take turns preaching on a consistent
+            basis.
+        answer: A
+      - uid: MIN325.11.1.1.F.1
+        subobj: 11.1.1
+        type: final
+        question: The Holy Spirit first fell in America on New Year's Eve 1901 in
+        choices:
+          A: Topeka, Kansas.
+          B: Los Angeles, California.
+          C: Chicago, Illinois.
+          D: Hot Springs, Arkansas.
+        answer: A
+      - uid: MIN325.11.1.1.F.3
+        subobj: 11.1.1
+        type: final
+        question: The Assemblies of God officially began as a movement in
+        choices:
+          A: '1893.'
+          B: '1914.'
+          C: '1901.'
+          D: '1908.'
+        answer: B
+      - uid: MIN325.11.1.2.F.3
+        subobj: 11.1.2
+        type: final
+        question: Within the Assemblies of God, who is credited for developing the
+          Indigenous Church Principle?
+        choices:
+          A: Melvin Hodges
+          B: Robert Ashcroft
+          C: Noel Perkin
+          D: J. Phillip Hogan
+        answer: A
+      - uid: MIN325.11.2.2.F.1
+        subobj: 11.2.2
+        type: final
+        question: Which statement best captures the idea of relevance?
+        choices:
+          A: Presenting biblical truths in a way that applies to everyday life
+          B: Presenting information in a way that is humorous and entertaining
+          C: Presenting the Gospel with eloquence and confidence
+          D: Presenting the Gospel in a way that addresses the social injustice in
+            our world
+        answer: A
+      - uid: MIN325.12.1.1.F.1
+        subobj: 12.1.1
+        type: final
+        question: Creative communication is considered to stem from which part of
+          the brain?
+        choices:
+          A: Left
+          B: Brain stem
+          C: Right
+          D: Front
+        answer: C
+      final_source:
+        run: 20260619T104020_MIN325.all.f
+        form: E
+        date: '2026-06-19'
     deployed_pn: 03.26.01
     body_baseline_pn: 03.26.01
     chapters:
