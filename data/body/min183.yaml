@@ -3509,7 +3509,7 @@ courses:
       counts:
         ty: 121
         upe: 97
-        final: 0
+        final: 49
       questions:
       - uid: MIN183.1.1.1.UPE.1
         subobj: 1.1.1
@@ -5882,6 +5882,512 @@ courses:
           C: natural disasters.
           D: cyberattacks.
         answer: B
+      - uid: MIN183.1.1.1.F.1
+        subobj: 1.1.1
+        type: final
+        question: Which ethical system believes the ends justify the means?
+        choices:
+          A: Teleological
+          B: Deontological
+          C: Societal Norms
+          D: New Age
+        answer: A
+      - uid: MIN183.1.3.1.F.1
+        subobj: 1.3.1
+        type: final
+        question: Who does Paul tell Timothy will assist him in guarding the good
+          deposit of the Gospel?
+        choices:
+          A: The Holy Spirit
+          B: Paul
+          C: Other apostolic delegates
+          D: Church Elders
+        answer: A
+      - uid: MIN183.1.6.1.F.3
+        subobj: 1.6.1
+        type: final
+        question: Which qualification for ministry implies a duty to be performed?
+        choices:
+          A: Not greedy
+          B: Able to be a good singer
+          C: Able to teach
+          D: Able to drive a church van
+        answer: C
+      - uid: MIN183.2.2.1.F.4
+        subobj: 2.2.1
+        type: final
+        question: How should governmental laws be approached in decision-making?
+        choices:
+          A: Follow them unless they contradict Scripture
+          B: They override all other sources
+          C: Ignore them completely
+          D: Only follow federal laws
+        answer: A
+      - uid: MIN183.2.2.1.F.2
+        subobj: 2.2.1
+        type: final
+        question: 'In order, the steps of making an ethical decision are:'
+        choices:
+          A: Decide, ask for forgiveness.
+          B: Talk with your district leaders, Interview the people involved, Look
+            at the bylaws; Decide
+          C: Clarify the situation; Know the Rules; Decide
+          D: Clarify the situation; Understand the Values and Priorities, Know the
+            Rules; Look at the Options; Decide
+        answer: D
+      - uid: MIN183.3.1.1.F.2
+        subobj: 3.1.1
+        type: final
+        question: What is a key reason for reading the Bible beyond sermon preparation?
+        choices:
+          A: To pass ordination exams
+          B: To lead Bible study
+          C: To memorize names in the Bible
+          D: To encounter the living God
+        answer: D
+      - uid: MIN183.3.1.1.F.1
+        subobj: 3.1.1
+        type: final
+        question: Why are relationships with other ministers important?
+        choices:
+          A: For church mergers
+          B: To offer support and accountability
+          C: To swap sermons
+          D: For ministry job opportunities
+        answer: B
+      - uid: MIN183.3.3.1.F.1
+        subobj: 3.3.1
+        type: final
+        question: What was one of the benefits of observing the Sabbath according
+          to Dr. Don Lichi?
+        choices:
+          A: It sets a good example for unbelievers
+          B: It promotes financial responsibility
+          C: It helps prevent addiction
+          D: It encourages deeper sermons
+        answer: C
+      - uid: MIN183.4.2.1.F.2
+        subobj: 4.2.1
+        type: final
+        question: What is a characteristic of leaders who avoid correction?
+        choices:
+          A: Choosing the wrong role models
+          B: Rejecting feedback and isolating themselves
+          C: Practicing servant leadership
+          D: Preaching bad sermons
+        answer: B
+      - uid: MIN183.4.2.1.F.1
+        subobj: 4.2.1
+        type: final
+        question: 'According to Dr. Bradford, a godly leader:'
+        choices:
+          A: Serves and brings out the best in others
+          B: Exercises control for efficiency
+          C: Doesn’t waste time with carnal work
+          D: Has a strong teaching ministry
+        answer: A
+      - uid: MIN183.4.3.1.F.1
+        subobj: 4.3.1
+        type: final
+        question: What is a key tactic of spiritual manipulation?
+        choices:
+          A: Pursuing a God-sized vision
+          B: Claiming to speak for God to control others
+          C: Quoting Scripture accurately
+          D: Encouraging personal prayer
+        answer: B
+      - uid: MIN183.4.4.1.F.1
+        subobj: 4.4.1
+        type: final
+        question: What is one sign of dictatorial authority in a minister?
+        choices:
+          A: Following board-approved decisions
+          B: Making unilateral decisions without accountability
+          C: Holding regular leadership meetings
+          D: Being led by the Spirit
+        answer: B
+      - uid: MIN183.4.6.1.F.2
+        subobj: 4.6.1
+        type: final
+        question: 'According to Philippians 2, Jesus used His power to:'
+        choices:
+          A: Exalt Himself
+          B: Enforce obedience
+          C: Control others
+          D: Empty Himself and serve
+        answer: D
+      - uid: MIN183.5.1.2.F.1
+        subobj: 5.1.2
+        type: final
+        question: What makes clergy sexual misconduct particularly egregious?
+        choices:
+          A: It interrupts your life goals
+          B: It involves public humiliation
+          C: It happens in public spaces
+          D: It involves a power differential
+        answer: D
+      - uid: MIN183.5.2.2.F.1
+        subobj: 5.2.2
+        type: final
+        question: Why is pornography a significant danger for ministers?
+        choices:
+          A: Peer pressure
+          B: It’s rarely addictive
+          C: It is accessible and normalized in culture
+          D: It is inexpensive
+        answer: C
+      - uid: MIN183.5.3.1.F.1
+        subobj: 5.3.1
+        type: final
+        question: What standard should be followed when a minister meets with a congregant
+          of the opposite sex?
+        choices:
+          A: The congregant’s spouse should always be present.
+          B: No standard is necessary.
+          C: A minister should never be alone with a congregant.
+          D: Safeguards such as a professional environment, with other people around,
+            and windows in the office.
+        answer: D
+      - uid: MIN183.5.5.1.F.3
+        subobj: 5.5.1
+        type: final
+        question: What is the biblical view of gender and sexuality?
+        choices:
+          A: It is established at birth and part of God’s design
+          B: It is defined by personal identity
+          C: It is flexible and cultural
+          D: It depends on one’s feelings
+        answer: A
+      - uid: MIN183.6.2.1.F.2
+        subobj: 6.2.1
+        type: final
+        question: What is the suggested short-term emergency savings amount?
+        choices:
+          A: $100
+          B: $500 to $1,000
+          C: $250
+          D: $5,000
+        answer: B
+      - uid: MIN183.6.2.1.F.1
+        subobj: 6.2.1
+        type: final
+        question: 'A key reason to have a budget is to:'
+        choices:
+          A: Predict stock prices
+          B: Track offerings
+          C: Know if you are living within your means
+          D: Qualify for church loans
+        answer: C
+      - uid: MIN183.6.3.1.F.1
+        subobj: 6.3.1
+        type: final
+        question: Why is gambling more dangerous today than in the past?
+        choices:
+          A: Larger casinos
+          B: Social acceptability and availability
+          C: Cash is used more
+          D: Lower regulation
+        answer: B
+      - uid: MIN183.6.4.1.F.1
+        subobj: 6.4.1
+        type: final
+        question: What is a 403b plan?
+        choices:
+          A: A retirement plan for non-profits
+          B: A housing allowance
+          C: A tax form
+          D: A credit union savings plan
+        answer: A
+      - uid: MIN183.6.5.1.F.3
+        subobj: 6.5.1
+        type: final
+        question: How should accidental misuse of church credit cards be handled?
+        choices:
+          A: Hide it
+          B: Ignore it
+          C: Reimburse and report it
+          D: Reimburse it, but don’t call attention to it
+        answer: C
+      - uid: MIN183.7.1.1.F.1
+        subobj: 7.1.1
+        type: final
+        question: 'Paul’s discussion on marriage in Ephesians 5 highlights:'
+        choices:
+          A: Strict division of roles
+          B: Mutual submission in love
+          C: The necessity of childbearing
+          D: Ministerial authority
+        answer: B
+      - uid: MIN183.7.1.2.F.1
+        subobj: 7.1.2
+        type: final
+        question: 'One unique challenge for ministry couples mentioned in the text
+          is:'
+        choices:
+          A: Seasonal unemployment
+          B: Political expectations
+          C: Time demands of ministry
+          D: Lack of theological training
+        answer: C
+      - uid: MIN183.7.2.2.F.2
+        subobj: 7.2.2
+        type: final
+        question: What is one ethical way to protect a pastor’s child’s dignity?
+        choices:
+          A: Share stories to build sermons
+          B: Post about them online
+          C: Ask their permission before sharing personal details
+          D: Avoid talking to them at church
+        answer: C
+      - uid: MIN183.7.3.1.F.2
+        subobj: 7.3.1
+        type: final
+        question: What should not be a factor in church pay decisions?
+        choices:
+          A: Marital status
+          B: Skillset
+          C: Fair wage for job
+          D: Job description
+        answer: A
+      - uid: MIN183.8.1.1.F.3
+        subobj: 8.1.1
+        type: final
+        question: 'A major danger of only focusing on your own ministry is:'
+        choices:
+          A: Creating silos and division
+          B: Supporting the senior pastor too much
+          C: Over-attending services
+          D: Increased budgets
+        answer: A
+      - uid: MIN183.8.1.1.F.1
+        subobj: 8.1.1
+        type: final
+        question: What should be the primary loyalty of a staff pastor?
+        choices:
+          A: The team they are on
+          B: Their personal development
+          C: Their own ministry team
+          D: Congregant requests
+        answer: A
+      - uid: MIN183.8.2.1.F.3
+        subobj: 8.2.1
+        type: final
+        question: 'An important tool for ethical behavior between men and women in
+          ministry is:'
+        choices:
+          A: Mandatory separation
+          B: Gender-based job assignments
+          C: Policies and training
+          D: Silence on the issue
+        answer: C
+      - uid: MIN183.8.3.1.F.2
+        subobj: 8.3.1
+        type: final
+        question: 'If you disagree with your ministry leader, you should:'
+        choices:
+          A: Start your own church
+          B: Publicly challenge them
+          C: Share concerns respectfully
+          D: Ignore them
+        answer: C
+      - uid: MIN183.8.5.1.F.1
+        subobj: 8.5.1
+        type: final
+        question: 'According to Matthew 18, conflict resolution begins with:'
+        choices:
+          A: One-on-one
+          B: Confrontation in public
+          C: Church discipline
+          D: Group discussion
+        answer: A
+      - uid: MIN183.9.1.1.F.1
+        subobj: 9.1.1
+        type: final
+        question: What is the Assemblies of God classified as in its Constitution
+          and Bylaws?
+        choices:
+          A: A denomination
+          B: A cooperative fellowship
+          C: A spiritual organization
+          D: An ecclesiastical network
+        answer: B
+      - uid: MIN183.9.1.2.F.1
+        subobj: 9.1.2
+        type: final
+        question: What is one of the greatest benefits of belonging to the AG Fellowship?
+        choices:
+          A: Increased salary
+          B: Access to global mission trips
+          C: Free church building services
+          D: Ministry affirmation and accountability
+        answer: D
+      - uid: MIN183.9.1.3.F.1
+        subobj: 9.1.3
+        type: final
+        question: What happens once a minister chooses to join the AG Fellowship?
+        choices:
+          A: They are free to teach any doctrine
+          B: Their cooperation becomes optional
+          C: They must be re-baptized
+          D: Their cooperation becomes obligatory
+        answer: D
+      - uid: MIN183.9.3.1.F.2
+        subobj: 9.3.1
+        type: final
+        question: What does the AG prohibit regarding dismissed ministers?
+        choices:
+          A: Visiting churches
+          B: Ministry in any church
+          C: Ministry in an Assemblies of God church
+          D: Visiting Springfield, Missouri
+        answer: C
+      - uid: MIN183.10.1.1.F.1
+        subobj: 10.1.1
+        type: final
+        question: What is the ethical duty in biblical interpretation?
+        choices:
+          A: Correctly handle the word of truth
+          B: Prove denominational doctrine
+          C: Entertain the audience
+          D: Preach from personal experience
+        answer: A
+      - uid: MIN183.10.1.1.F.2
+        subobj: 10.1.1
+        type: final
+        question: Romans 13:7 instructions us to ”give honor where honor is due.”
+          The course applied this to what ethical principle?
+        choices:
+          A: Obeying traffic laws
+          B: Citing Sermon sources
+          C: Street evangelism
+          D: Deliberating between staff members
+        answer: B
+      - uid: MIN183.10.2.1.F.1
+        subobj: 10.2.1
+        type: final
+        question: What legal term protects certain ministerial conversations?
+        choices:
+          A: Pulpit privilege
+          B: Clergy-penitent privilege
+          C: Legal exemption
+          D: Ministerial immunity
+        answer: B
+      - uid: MIN183.10.4.1.F.1
+        subobj: 10.4.1
+        type: final
+        question: What is one of the best ways to prepare for a pastoral transition?
+        choices:
+          A: Build strong lay leadership
+          B: Announce resignation early
+          C: Keep plans secret
+          D: Avoid talking to the board
+        answer: A
+      - uid: MIN183.10.5.1.F.1
+        subobj: 10.5.1
+        type: final
+        question: Which relationship dynamic should ministers avoid?
+        choices:
+          A: Having friends
+          B: Showing favoritism toward friends
+          C: Talking with colleagues
+          D: Drinking coffee
+        answer: B
+      - uid: MIN183.11.1.1.F.1
+        subobj: 11.1.1
+        type: final
+        question: According to the chapter, how should ministry leaders approach technology?
+        choices:
+          A: Avoid it whenever possible
+          B: With discernment, intentionality, and wisdom
+          C: Use it freely to grow their platform
+          D: Delegate it to volunteers only
+        answer: B
+      - uid: MIN183.11.2.1.F.1
+        subobj: 11.2.1
+        type: final
+        question: Which communication method is best for delivering emotionally sensitive
+          information?
+        choices:
+          A: Group chat
+          B: Email
+          C: Phone call or face-to-face conversation
+          D: Social media post
+        answer: C
+      - uid: MIN183.11.4.1.F.1
+        subobj: 11.4.1
+        type: final
+        question: What is the primary role of a minister in politics according to
+          this chapter?
+        choices:
+          A: Represent a political party
+          B: Vote publicly
+          C: Serve people, not political parties
+          D: Lead political debates
+        answer: C
+      - uid: MIN183.11.5.1.F.1
+        subobj: 11.5.1
+        type: final
+        question: What should leaders ensure when using AI tools?
+        choices:
+          A: That AI replaces the sermon process
+          B: That AI-produced content aligns with biblical principles
+          C: That it’s always used on Sundays
+          D: That AI writes their emails
+        answer: B
+      - uid: MIN183.11.6.1.F.1
+        subobj: 11.6.1
+        type: final
+        question: Why must leaders exercise caution in digital communication?
+        choices:
+          A: To keep posts interesting
+          B: To reduce their screen time
+          C: Because digital footprints are permanent
+          D: To increase transparency
+        answer: C
+      - uid: MIN183.11.7.1.F.1
+        subobj: 11.7.1
+        type: final
+        question: What should always guide our use of technology?
+        choices:
+          A: Biblical values and intentionality
+          B: Cultural trends
+          C: Viral potential
+          D: Skill set in the specific technology
+        answer: A
+      - uid: MIN183.12.1.1.F.4
+        subobj: 12.1.1
+        type: final
+        question: What reporting stance on abuse does the General Council take?
+        choices:
+          A: Optional reporter
+          B: Report only if law mandates
+          C: Voluntary mandatory reporter
+          D: Report to board only
+        answer: C
+      - uid: MIN183.12.1.1.F.5
+        subobj: 12.1.1
+        type: final
+        question: What should happen to an offender after a substantiated abuse report?
+        choices:
+          A: Offer counseling
+          B: Never allowed to work with minors again
+          C: Transfer ministries
+          D: Suspension only
+        answer: B
+      - uid: MIN183.12.3.1.F.1
+        subobj: 12.3.1
+        type: final
+        question: What is the benefit of proper governance structures?
+        choices:
+          A: More tithing
+          B: Prevents dictatorial leadership
+          C: Less voting
+          D: Shorter board meetings
+        answer: B
+      final_source:
+        key_pdf: BMIN183E-ER-key.pdf
+        matched: 49
+        unmatched: 1
     deployed_pn: 01.26.03
     body_baseline_pn: 01.26.03
     chapters:
