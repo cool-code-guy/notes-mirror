@@ -3142,7 +3142,7 @@ courses:
       counts:
         ty: 120
         upe: 75
-        final: 0
+        final: 50
       questions:
       - uid: MIN251.1.1.1.UPE.1
         subobj: 1.1.1
@@ -5206,6 +5206,530 @@ courses:
           C: Do we like being a part of this team?
           D: Does everyone participate?
         answer: A
+      - uid: MIN251.1.1.1.F.3
+        subobj: 1.1.1
+        type: final
+        question: Jesus demonstrated that true greatness comes through
+        choices:
+          A: coercion and manipulation.
+          B: humility and service.
+          C: legislation and election.
+          D: fear and control.
+        answer: B
+      - uid: MIN251.1.1.1.F.4
+        subobj: 1.1.1
+        type: final
+        question: A proper measure of success is
+        choices:
+          A: wealth.
+          B: faithfulness.
+          C: fame.
+          D: church growth.
+        answer: B
+      - uid: MIN251.1.2.1.F.4
+        subobj: 1.2.1
+        type: final
+        question: Which of the following is an important element of good leadership?
+        choices:
+          A: Remaining teachable
+          B: Seeking popularity
+          C: Embracing tenacity
+          D: Cutting staff
+        answer: A
+      - uid: MIN251.1.2.1.F.3
+        subobj: 1.2.1
+        type: final
+        question: A leader's confidence is best derived from
+        choices:
+          A: who they are in Christ.
+          B: their education.
+          C: knowing their skills.
+          D: their congregation.
+        answer: A
+      - uid: MIN251.1.3.1.F.4
+        subobj: 1.3.1
+        type: final
+        question: Which of the following is a practical step towards maintaining intimacy
+          with God?
+        choices:
+          A: Plan ahead for both work and rest
+          B: Work part-time rather than full-time
+          C: Work as often as possible
+          D: Take time for relaxing spontaneously
+        answer: A
+      - uid: MIN251.1.3.1.F.3
+        subobj: 1.3.1
+        type: final
+        question: Which of the following statements is true regarding Jesus' leadership
+          practices?
+        choices:
+          A: He relied on traditional power dynamics to influence others.
+          B: He often operated without a clear purpose or goal.
+          C: He had the disciples disseminate stories about him to craft a public
+            image.
+          D: He withdrew from crowds to be alone with God and his closest followers.
+        answer: D
+      - uid: MIN251.2.1.1.F.2
+        subobj: 2.1.1
+        type: final
+        question: God allows hindrances in leaders' lives primarily to
+        choices:
+          A: reveal sin in our lives.
+          B: help us identify with our people.
+          C: provide realistic sermon illustrations.
+          D: help mold us into Christ's image.
+        answer: D
+      - uid: MIN251.2.1.1.F.1
+        subobj: 2.1.1
+        type: final
+        question: Which statement BEST explains the relationship between giftedness
+          and God's purpose for us?
+        choices:
+          A: Our giftedness has no bearing on our calling; we are called to find a
+            need and fill it.
+          B: God's purpose for our lives is closely aligned with our giftedness.
+          C: God generally leads us to ministry outside our giftedness so we can grow.
+          D: Our giftedness, though valuable, does not have a direct influence on
+            our calling.
+        answer: B
+      - uid: MIN251.2.2.2.F.1
+        subobj: 2.2.2
+        type: final
+        question: What is NOT an example of leading with integrity?
+        choices:
+          A: Living the truth in our own lives
+          B: Working hard on our image
+          C: Developing a servant's heart
+          D: Living by a higher standard than the followers
+        answer: B
+      - uid: MIN251.3.1.1.F.3
+        subobj: 3.1.1
+        type: final
+        question: The servant leader should be loyal to the
+        choices:
+          A: executive committee.
+          B: Lord Jesus.
+          C: team members.
+          D: constituents.
+        answer: B
+      - uid: MIN251.3.1.1.F.1
+        subobj: 3.1.1
+        type: final
+        question: Which Bible author wrote extensively about leadership?
+        choices:
+          A: John
+          B: David
+          C: Peter
+          D: Paul
+        answer: D
+      - uid: MIN251.3.2.1.F.1
+        subobj: 3.2.1
+        type: final
+        question: A person entrusted with grave responsibility or with valuable material
+          possessions describes a
+        choices:
+          A: steward.
+          B: servant.
+          C: caretaker.
+          D: watchman.
+        answer: A
+      - uid: MIN251.4.1.1.F.1
+        subobj: 4.1.1
+        type: final
+        question: Joseph's extended season of testing may have come because he
+        choices:
+          A: needed to provide a positive role model for Potiphar's wife.
+          B: already knew how to follow; he just needed to learn how to lead.
+          C: needed to learn trust and patience.
+          D: was not yet old enough to fulfill God's dream for him.
+        answer: C
+      - uid: MIN251.4.2.1.F.1
+        subobj: 4.2.1
+        type: final
+        question: When revealed by testing, immaturity, and stagnated growth indicate
+          an inward
+        choices:
+          A: plateau.
+          B: poverty.
+          C: progress.
+          D: potential.
+        answer: A
+      - uid: MIN251.4.3.1.F.2
+        subobj: 4.3.1
+        type: final
+        question: Which test proves how well we handle the resources put in our charge?
+        choices:
+          A: Authority test
+          B: Stewardship test
+          C: Credibility test
+          D: Faith test
+        answer: B
+      - uid: MIN251.5.1.1.F.5
+        subobj: 5.1.1
+        type: final
+        question: Which of the following statements is true regarding a God-given
+          vision?
+        choices:
+          A: God-given vision rarely materializes.
+          B: God-given vision makes one superior to those they lead.
+          C: God often reveals vision progressively.
+          D: Vision is only revealed by a prophet.
+        answer: C
+      - uid: MIN251.5.1.1.F.3
+        subobj: 5.1.1
+        type: final
+        question: Where should vision originate?
+        choices:
+          A: Revealed by God to the leader
+          B: Popular leadership magazines
+          C: Put forth by the congregation
+          D: A 10-year strategic plan by the board
+        answer: A
+      - uid: MIN251.5.2.1.F.3
+        subobj: 5.2.1
+        type: final
+        question: What is a good benchmark for evaluating the vision of a church or
+          ministry?
+        choices:
+          A: The 21 Indispensable Qualities of a Leader
+          B: The Five Levels of Leadership
+          C: The Great Commission
+          D: Eight Habits of Highly Effective People
+        answer: C
+      - uid: MIN251.5.3.1.F.2
+        subobj: 5.3.1
+        type: final
+        question: Which of the following is a good step in creating a memorable vision
+          statement?
+        choices:
+          A: Use technical, philosophical language.
+          B: Use slogans taken from other companies.
+          C: Use short phrases that can be easily remembered.
+          D: Use long, elaborate paragraphs.
+        answer: C
+      - uid: MIN251.5.4.1.F.1
+        subobj: 5.4.1
+        type: final
+        question: Which of the following statements is true regarding vision statements?
+        choices:
+          A: A vision statement is not important for the church's daily operations.
+          B: A vision statement ought to inspire people to act on the vision.
+          C: A vision statement should only be for the pastor and board.
+          D: A vision statement is primarily used for marketing.
+        answer: B
+      - uid: MIN251.6.1.1.F.3
+        subobj: 6.1.1
+        type: final
+        question: Wisdom that originates from God produces which of the following
+          attributes?
+        choices:
+          A: Innovation, competition, profit
+          B: Creativity, spontaneity, recognition
+          C: Popularity, influence, growth
+          D: Harmony, mercy, spiritual fruit
+        answer: D
+      - uid: MIN251.6.1.1.F.4
+        subobj: 6.1.1
+        type: final
+        question: Which of the following is true when seeking God's wisdom?
+        choices:
+          A: It is often found quickly
+          B: It comes with peace, not by urgency
+          C: You can piece it together on your own
+          D: It will only benefit you
+        answer: B
+      - uid: MIN251.6.2.1.F.2
+        subobj: 6.2.1
+        type: final
+        question: Romans 12:2 states Do not conform to the pattern of this world,
+          but be transformed by the renewing of your mind. This will lead to
+        choices:
+          A: superior intellect.
+          B: knowledge of God's perfect will.
+          C: moral perfection.
+          D: frictionless ministry.
+        answer: B
+      - uid: MIN251.6.3.1.F.4
+        subobj: 6.3.1
+        type: final
+        question: Personal motivations ought to be
+        choices:
+          A: mixed which church priorities.
+          B: prioritized over vision.
+          C: impressed upon congregants.
+          D: reevaluated on a regular basis.
+        answer: D
+      - uid: MIN251.6.4.1.F.2
+        subobj: 6.4.1
+        type: final
+        question: Input from trusted, spiritually mature believers helps leaders to
+          avoid
+        choices:
+          A: blind spots.
+          B: financial ruin.
+          C: accountability.
+          D: seeking God.
+        answer: A
+      - uid: MIN251.7.1.1.F.2
+        subobj: 7.1.1
+        type: final
+        question: Which of the following statements is true regarding stewardship?
+        choices:
+          A: Stewardship always leads to increased prosperity
+          B: Stewardship is not a part of leadership
+          C: Leaders are allowed to use resources as they see fit
+          D: Leaders are called to manage God's resources
+        answer: D
+      - uid: MIN251.7.2.1.F.3
+        subobj: 7.2.1
+        type: final
+        question: Which of the following is a sign of poor stewardship?
+        choices:
+          A: Spending time with the sick
+          B: Unproductive meetings
+          C: Frugality
+          D: Investing in the future
+        answer: B
+      - uid: MIN251.7.3.1.F.4
+        subobj: 7.3.1
+        type: final
+        question: Faithful management of finances inspires
+        choices:
+          A: greed among the congregation.
+          B: increased missions spending.
+          C: an uncomfortable relationship with money.
+          D: confidence in the leadership of the church.
+        answer: D
+      - uid: MIN251.7.4.1.F.2
+        subobj: 7.4.1
+        type: final
+        question: Which of the following is a proper measurement of good leadership?
+        choices:
+          A: The ability to afford a new church building
+          B: The ability to achieve goals no matter the cost
+          C: The growth and maturity of the people being led
+          D: An increase in cash revenue
+        answer: C
+      - uid: MIN251.8.1.1.F.5
+        subobj: 8.1.1
+        type: final
+        question: Opposition is
+        choices:
+          A: an example of poor discipline.
+          B: inevitable for leaders.
+          C: an example of poor leadership.
+          D: avoidable for leaders.
+        answer: B
+      - uid: MIN251.8.1.1.F.4
+        subobj: 8.1.1
+        type: final
+        question: Courageous leadership requires
+        choices:
+          A: a graduate degree.
+          B: deterministic worldviews.
+          C: inner strength.
+          D: an increased salary.
+        answer: C
+      - uid: MIN251.8.2.1.F.5
+        subobj: 8.2.1
+        type: final
+        question: What are some ways to navigate conflict?
+        choices:
+          A: Listen attentively, use information to crush dissent
+          B: Identify conflicting parties, choose a side, remove the other party
+          C: Identify conflict, propose a solution from the pulpit
+          D: Pursue restoration, listen actively, address conflicts quickly
+        answer: D
+      - uid: MIN251.8.3.1.F.2
+        subobj: 8.3.1
+        type: final
+        question: Which of the following is true regarding courageous leadership?
+        choices:
+          A: It can be counterproductive
+          B: It is often narcissistic
+          C: It instills confidence in others
+          D: It cannot be sustained
+        answer: C
+      - uid: MIN251.8.4.1.F.1
+        subobj: 8.4.1
+        type: final
+        question: Perseverance demonstrates
+        choices:
+          A: a leader's ruthless tenacity.
+          B: a church's ability to reinvent itself.
+          C: that God's will overcomes challenges.
+          D: that a leader can accomplish great things.
+        answer: C
+      - uid: MIN251.8.5.1.F.1
+        subobj: 8.5.1
+        type: final
+        question: What are some ways that leaders can overcome distractions?
+        choices:
+          A: Clear vision, clarify priorities, intentional rhythms
+          B: Work backwards, take on multiple tasks, keep a journal
+          C: Make a plan, align your calendar, work from home
+          D: Set goals, fire unnecessary staff, regular meetings
+        answer: A
+      - uid: MIN251.9.1.1.F.1
+        subobj: 9.1.1
+        type: final
+        question: Which statement is most accurate?
+        choices:
+          A: A healthy church should grow quickly.
+          B: A church cannot grow beyond its pastor/leadership.
+          C: A church can never grow past the capabilities of its board.
+          D: Church growth is not related to the capabilities of its leader.
+        answer: B
+      - uid: MIN251.9.2.1.F.1
+        subobj: 9.2.1
+        type: final
+        question: Only people who have spent years growing people and organizations
+          attain the leadership level of
+        choices:
+          A: personhood.
+          B: permission.
+          C: position.
+          D: production.
+        answer: A
+      - uid: MIN251.9.2.1.F.2
+        subobj: 9.2.1
+        type: final
+        question: Relationship is the basis for the leadership level of
+        choices:
+          A: position.
+          B: personhood.
+          C: permission.
+          D: production.
+        answer: C
+      - uid: MIN251.9.3.1.F.2
+        subobj: 9.3.1
+        type: final
+        question: A leader who develops leaders is described as
+        choices:
+          A: needing to be needed.
+          B: wanting to be recognized.
+          C: giving away position and power.
+          D: growing through events.
+        answer: C
+      - uid: MIN251.10.2.1.F.2
+        subobj: 10.2.1
+        type: final
+        question: Which of the following is NOT a principle of affirmation and honor
+          stated in the textbook?
+        choices:
+          A: Make your words specific.
+          B: Make your words private.
+          C: Make your words sincere.
+          D: Make your words personal.
+        answer: B
+      - uid: MIN251.10.2.1.F.3
+        subobj: 10.2.1
+        type: final
+        question: What is the 101 percent principle?
+        choices:
+          A: Find the 1 percent you have in common with someone, and give it 100 percent
+            of your attention.
+          B: Give God 100 percent and people 1 percent.
+          C: Give more than 100 percent when working with people.
+          D: Find people who are almost 100 percent like you.
+        answer: A
+      - uid: MIN251.11.1.1.F.4
+        subobj: 11.1.1
+        type: final
+        question: Godly communication from a leader provides for
+        choices:
+          A: compromises that generate peace.
+          B: healing for some parties, but not all.
+          C: unilateral guidelines for behavior.
+          D: truth that corrects and love that heals.
+        answer: D
+      - uid: MIN251.11.1.1.F.5
+        subobj: 11.1.1
+        type: final
+        question: When communicating in difficult situations, leaders should
+        choices:
+          A: Be as direct as possible
+          B: Use words that cut to the heart of the issue
+          C: Refuse to apologize
+          D: Choose words that build up and instruct
+        answer: D
+      - uid: MIN251.11.2.1.F.4
+        subobj: 11.2.1
+        type: final
+        question: Active listening requires
+        choices:
+          A: Giving others your full attention
+          B: Nothing more than passive listening
+          C: Specific and intentional training
+          D: Being in total agreement
+        answer: A
+      - uid: MIN251.11.3.1.F.6
+        subobj: 11.3.1
+        type: final
+        question: Who was known as the "Son of Encouragement"?
+        choices:
+          A: Paul
+          B: Elijah
+          C: Barnabus
+          D: Peter
+        answer: C
+      - uid: MIN251.11.4.1.F.1
+        subobj: 11.4.1
+        type: final
+        question: One reason why storytelling and testimonies are important tools
+          in leadership is that
+        choices:
+          A: they connect people to spiritual truth.
+          B: the congregation learns about public speaking.
+          C: the congregation shows pity for the speaker.
+          D: they cultivate a culture of storytelling.
+        answer: A
+      - uid: MIN251.12.1.1.F.2
+        subobj: 12.1.1
+        type: final
+        question: What is NOT true of Paul's team in Acts 27?
+        choices:
+          A: Paul became the leader because he was highly respected from the voyage's
+            outset.
+          B: Paul confronted the other leaders with their wrong decision to set sail.
+          C: Paul's successful leadership came from his interest in each individual
+            on the team.
+          D: Paul's success came largely because he was not selfish in his agenda.
+        answer: A
+      - uid: MIN251.12.1.1.F.1
+        subobj: 12.1.1
+        type: final
+        question: Acts 27 describes Paul's
+        choices:
+          A: first missionary journey.
+          B: journey to Damascus.
+          C: third missionary journey.
+          D: journey to Rome as a prisoner.
+        answer: D
+      - uid: MIN251.12.2.1.F.1
+        subobj: 12.2.1
+        type: final
+        question: Good team chemistry involves
+        choices:
+          A: occasional wins.
+          B: average morale.
+          C: polite relationships.
+          D: similar desires.
+        answer: D
+      - uid: MIN251.12.3.1.F.1
+        subobj: 12.3.1
+        type: final
+        question: The special role that everyone plays on a team is emphasized in
+        choices:
+          A: Ephesians 2.
+          B: Colossians 2.
+          C: 1 Corinthians 12.
+          D: 2 Corinthians 12.
+        answer: C
+      final_source:
+        run: 20260728T103340_MIN251.all.f
+        form: E
+        date: '2026-07-28'
     deployed_pn: 03.26.01
     chapters:
     - last_modified: '2026-06-12'

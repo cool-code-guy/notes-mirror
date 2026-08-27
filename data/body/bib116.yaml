@@ -6436,7 +6436,7 @@ courses:
       counts:
         ty: 130
         upe: 75
-        final: 0
+        final: 50
       questions:
       - uid: BIB116.1.1.1.UPE.1
         subobj: 1.1.1
@@ -8499,6 +8499,517 @@ courses:
           C: cities of Babylon and Nineveh.
           D: second and third resurrections.
         answer: A
+      - uid: BIB116.1.1.1.F.1
+        subobj: 1.1.1
+        type: final
+        question: How did the Roman Empire influence the world of New Testament?
+        choices:
+          A: The New Testament is written in Latin
+          B: The Roman Empire mandated literacy
+          C: Aqueducts play a predominant role in narrative of Acts
+          D: Paul traveled on Roman roads to share the Gospel
+        answer: D
+      - uid: BIB116.1.1.2.F.1
+        subobj: 1.1.2
+        type: final
+        question: The Septuagint is
+        choices:
+          A: the first seven books of the Old Testament.
+          B: a group of seventy Jewish religious leaders.
+          C: the Greek translation of the Old Testament.
+          D: the Aramaic name for the Pentateuch.
+        answer: C
+      - uid: BIB116.1.2.1.F.1
+        subobj: 1.2.1
+        type: final
+        question: Caiaphas was a
+        choices:
+          A: disciple
+          B: centurion
+          C: govenor
+          D: priest
+        answer: D
+      - uid: BIB116.1.2.2.F.1
+        subobj: 1.2.2
+        type: final
+        question: The most important criterion for accepting writings into the New
+          Testament canon was
+        choices:
+          A: the length of the writing.
+          B: authorship.
+          C: a church vote.
+          D: inspiration.
+        answer: D
+      - uid: BIB116.1.3.1.F.2
+        subobj: 1.3.1
+        type: final
+        question: The New Testament contains how many of Paul's letters?
+        choices:
+          A: Fifteen
+          B: Thirteen
+          C: Eight
+          D: Eleven
+        answer: B
+      - uid: BIB116.1.4.1.F.1
+        subobj: 1.4.1
+        type: final
+        question: What picture of Christ is presented in Hebrews?
+        choices:
+          A: The Head over all powers
+          B: The End of the Law
+          C: The Cornerstone of our faith
+          D: Our great High Priest
+        answer: D
+      - uid: BIB116.2.1.1.F.1
+        subobj: 2.1.1
+        type: final
+        question: Which Gospel quotes the Old Testament the most?
+        choices:
+          A: Luke
+          B: Matthew
+          C: Mark
+          D: John
+        answer: B
+      - uid: BIB116.2.2.2.F.1
+        subobj: 2.2.2
+        type: final
+        question: Mark helped Gentile readers by
+        choices:
+          A: defining Aramaic words.
+          B: describing Jesus as the Messiah.
+          C: explaining Jesus' parables.
+          D: emphasizing salvation.
+        answer: A
+      - uid: BIB116.2.3.1.F.1
+        subobj: 2.3.1
+        type: final
+        question: Which Gospel emphasizes salvation for society's outcasts?
+        choices:
+          A: Luke
+          B: Mark
+          C: John
+          D: Matthew
+        answer: A
+      - uid: BIB116.2.3.2.F.1
+        subobj: 2.3.2
+        type: final
+        question: Only Luke records the parable of the
+        choices:
+          A: sower.
+          B: lost son.
+          C: wedding banquet.
+          D: talents.
+        answer: B
+      - uid: BIB116.2.4.2.F.1
+        subobj: 2.4.2
+        type: final
+        question: We are presently in which phase of God's kingdom?
+        choices:
+          A: International
+          B: National
+          C: Invisible
+          D: Visible
+        answer: C
+      - uid: BIB116.2.4.3.F.1
+        subobj: 2.4.3
+        type: final
+        question: Jesus demonstrated he was the Messiah through His
+        choices:
+          A: family.
+          B: parables.
+          C: miracles.
+          D: disciples.
+        answer: C
+      - uid: BIB116.3.1.1.F.2
+        subobj: 3.1.1
+        type: final
+        question: The Gospel with no parables is
+        choices:
+          A: Matthew.
+          B: Mark.
+          C: Luke.
+          D: John.
+        answer: D
+      - uid: BIB116.3.1.1.F.1
+        subobj: 3.1.1
+        type: final
+        question: John omitted many things found in the Synoptics to
+        choices:
+          A: emphasize that Jesus is the Son of God.
+          B: focus on Jesus' ministry in Galilee.
+          C: record all of the miracles of Jesus.
+          D: explain the meaning of Jesus' parables.
+        answer: A
+      - uid: BIB116.3.1.2.F.1
+        subobj: 3.1.2
+        type: final
+        question: John emphasizes
+        choices:
+          A: signs.
+          B: the Kingdom.
+          C: quotations.
+          D: parables.
+        answer: A
+      - uid: BIB116.3.2.1.F.1
+        subobj: 3.2.1
+        type: final
+        question: In John's introduction, the main
+        choices:
+          A: action is conflict.
+          B: person is the Holy Spirit.
+          C: words are "sheep" and "shepherd.
+          D: idea is sanctification.
+        answer: A
+      - uid: BIB116.3.2.2.F.1
+        subobj: 3.2.2
+        type: final
+        question: In his introduction, John contrasts
+        choices:
+          A: the beginning and end.
+          B: weakness and power.
+          C: poverty and wealth.
+          D: light and darkness.
+        answer: D
+      - uid: BIB116.3.3.1.F.1
+        subobj: 3.3.1
+        type: final
+        question: Jesus' healing of the man at the pool demonstrated that
+        choices:
+          A: those who reject Him miss God's blessings.
+          B: He is equal with God in power and authority.
+          C: when He is with us, we have nothing to fear.
+          D: He is the light of the world.
+        answer: B
+      - uid: BIB116.3.3.2.F.1
+        subobj: 3.3.2
+        type: final
+        question: One I am statement from John's Gospel is
+        choices:
+          A: '"I am the Son of Man."'
+          B: '"I am the Good Shepherd."'
+          C: '"I am the Cornerstone."'
+          D: '"I am the Alpha and Omega."'
+        answer: B
+      - uid: BIB116.3.3.3.F.1
+        subobj: 3.3.3
+        type: final
+        question: In John's Gospel, who teaches us to bring people to Jesus?
+        choices:
+          A: Nicodemus
+          B: Lazarus
+          C: Andrew
+          D: Philip
+        answer: C
+      - uid: BIB116.4.1.1.F.1
+        subobj: 4.1.1
+        type: final
+        question: Both Luke and Acts were addressed to
+        choices:
+          A: Theophilus.
+          B: Tychicus.
+          C: Tyrannus.
+          D: Trophimus.
+        answer: A
+      - uid: BIB116.4.1.2.F.1
+        subobj: 4.1.2
+        type: final
+        question: Luke's greatest purpose in Acts was to
+        choices:
+          A: show how the church fulfilled prophecy.
+          B: emphasize the Holy Spirit's ministry.
+          C: trace the growth of the early church.
+          D: contrast the old and new covenants.
+        answer: B
+      - uid: BIB116.4.2.1.F.1
+        subobj: 4.2.1
+        type: final
+        question: The spread of the gospel in Jerusalem is described in Acts
+        choices:
+          A: 17-28.
+          B: 8-10.
+          C: 11-16.
+          D: 1-7.
+        answer: D
+      - uid: BIB116.4.3.1.F.2
+        subobj: 4.3.1
+        type: final
+        question: The main character in Acts 13-28 is
+        choices:
+          A: Peter.
+          B: Paul.
+          C: Stephen.
+          D: Philip.
+        answer: B
+      - uid: BIB116.5.1.2.F.2
+        subobj: 5.1.2
+        type: final
+        question: Which letter is a Prison Epistle?
+        choices:
+          A: Hebrews
+          B: 1 Thessalonians
+          C: Philemon
+          D: Galatians
+        answer: C
+      - uid: BIB116.5.1.2.F.1
+        subobj: 5.1.2
+        type: final
+        question: The group of Paul's letters containing Romans and Galatians focuses
+          on
+        choices:
+          A: soteriology.
+          B: pastoring.
+          C: history.
+          D: end-time.
+        answer: A
+      - uid: BIB116.5.2.1.F.1
+        subobj: 5.2.1
+        type: final
+        question: What was Paul's likely location when he wrote Romans?
+        choices:
+          A: Jerusalem
+          B: Tarsus
+          C: Antioch
+          D: Corinth
+        answer: D
+      - uid: BIB116.5.2.2.F.1
+        subobj: 5.2.2
+        type: final
+        question: Another word for sanctification is
+        choices:
+          A: perfection.
+          B: holiness.
+          C: sonship.
+          D: baptism.
+        answer: B
+      - uid: BIB116.5.3.1.F.1
+        subobj: 5.3.1
+        type: final
+        question: Paul's greater purpose in writing Galatians was to
+        choices:
+          A: stress that we are under grace, not the Law.
+          B: encourage us to walk in the Spirit, not the flesh.
+          C: provide qualifications for church leaders.
+          D: purge believers of immorality.
+        answer: A
+      - uid: BIB116.5.3.2.F.1
+        subobj: 5.3.2
+        type: final
+        question: One reason that Paul told the Galatians to believe the gospel was
+          because
+        choices:
+          A: it had been confirmed by angels.
+          B: he had received it by revelation from the Lord.
+          C: it was a new message.
+          D: the Jerusalem Council had voted on it.
+        answer: B
+      - uid: BIB116.6.1.1.F.3
+        subobj: 6.1.1
+        type: final
+        question: Corinth represents the pinnacle of
+        choices:
+          A: Christian life
+          B: Artemis cult
+          C: Greco-Roman culture and ideology
+          D: generosity
+        answer: C
+      - uid: BIB116.6.1.1.F.2
+        subobj: 6.1.1
+        type: final
+        question: Corinth represents the pinnacle of
+        choices:
+          A: Greco-Roman culture and ideology
+          B: generosity
+          C: Artemis cult
+          D: Christian life
+        answer: A
+      - uid: BIB116.6.1.2.F.1
+        subobj: 6.1.2
+        type: final
+        question: Paul warned in 1 Corinthians against causing others to stumble in
+          answer to questions about
+        choices:
+          A: spiritual gifts.
+          B: communion.
+          C: conscience.
+          D: marriage.
+        answer: C
+      - uid: BIB116.6.2.1.F.1
+        subobj: 6.2.1
+        type: final
+        question: Paul changed his plans for traveling to Corinth because he
+        choices:
+          A: wanted to take an offering to Jerusalem.
+          B: did not want to hurt the believers in Corinth.
+          C: became sick while preaching in Ephesus.
+          D: had urgent business in Macedonia.
+        answer: B
+      - uid: BIB116.6.2.2.F.1
+        subobj: 6.2.2
+        type: final
+        question: In contrast to false apostles, Paul
+        choices:
+          A: emphasized his willingness to suffer.
+          B: relied on human recommendations.
+          C: did not preach in the synagogues.
+          D: did not work to support himself.
+        answer: A
+      - uid: BIB116.7.1.1.F.1
+        subobj: 7.1.1
+        type: final
+        question: The Ephesians worshipped which goddess?
+        choices:
+          A: Athena
+          B: Venus
+          C: Aphrodite
+          D: Artemis
+        answer: D
+      - uid: BIB116.7.1.2.F.2
+        subobj: 7.1.2
+        type: final
+        question: The Prison Epistle that mentions God's plan of adoption is
+        choices:
+          A: Philemon.
+          B: 1 Corinthians.
+          C: Ephesians.
+          D: Philippians.
+        answer: C
+      - uid: BIB116.7.2.2.F.1
+        subobj: 7.2.2
+        type: final
+        question: A major theme of Philippians is
+        choices:
+          A: unity of Jews and Gentiles.
+          B: the supremacy of Christ.
+          C: joy in the midst of trials.
+          D: salvation by grace alone.
+        answer: C
+      - uid: BIB116.7.3.1.F.1
+        subobj: 7.3.1
+        type: final
+        question: What was NOT a part of the Colossian heresy?
+        choices:
+          A: Exalting the body
+          B: Worshipping angels
+          C: Lowering Christ
+          D: Secret knowledge
+        answer: A
+      - uid: BIB116.7.3.2.F.1
+        subobj: 7.3.2
+        type: final
+        question: In Colossians, Paul's term old clothes refers to
+        choices:
+          A: death.
+          B: baptism.
+          C: evil acts.
+          D: repentance.
+        answer: C
+      - uid: BIB116.7.4.1.F.1
+        subobj: 7.4.1
+        type: final
+        question: Onesimus' master was
+        choices:
+          A: Trophimus
+          B: Philemon
+          C: Paul
+          D: Epaphras
+        answer: B
+      - uid: BIB116.8.1.2.F.1
+        subobj: 8.1.2
+        type: final
+        question: Paul wrote 1 Thessalonians to
+        choices:
+          A: encourage suffering believers.
+          B: request financial help.
+          C: rebuke rebelling Christians.
+          D: discuss speaking in tongues.
+        answer: A
+      - uid: BIB116.8.1.2.F.2
+        subobj: 8.1.2
+        type: final
+        question: Every chapter in 1 Thessalonians ends with a
+        choices:
+          A: statement of faith.
+          B: warning against falling away.
+          C: prayer of thanksgiving.
+          D: teaching of Christ's return.
+        answer: D
+      - uid: BIB116.8.2.1.F.2
+        subobj: 8.2.1
+        type: final
+        question: In 2nd Thessalonians, Paul assured believers that the Day of the
+          Lord had not already come because
+        choices:
+          A: certain things must happen first.
+          B: Jesus promised to warn believers.
+          C: many antichrists had arisen.
+          D: not everyone had heard the gospel yet.
+        answer: A
+      - uid: BIB116.9.1.1.F.1
+        subobj: 9.1.1
+        type: final
+        question: Timothy pastored the church in
+        choices:
+          A: Crete.
+          B: Ephesus.
+          C: Lystra.
+          D: Corinth.
+        answer: B
+      - uid: BIB116.9.1.2.F.1
+        subobj: 9.1.2
+        type: final
+        question: Paul listed qualifications for church leaders when he instructed
+          Timothy about
+        choices:
+          A: identifying false teachers.
+          B: managing the church.
+          C: developing spiritual gifts.
+          D: leading public worship.
+        answer: B
+      - uid: BIB116.10.1.1.F.1
+        subobj: 10.1.1
+        type: final
+        question: The theme of Hebrews is that Jesus is
+        choices:
+          A: faithful.
+          B: sovereign.
+          C: superior.
+          D: righteous.
+        answer: C
+      - uid: BIB116.11.1.2.F.3
+        subobj: 11.1.2
+        type: final
+        question: A key word in 1 John is
+        choices:
+          A: pride
+          B: wait
+          C: sign
+          D: know
+        answer: D
+      - uid: BIB116.12.1.1.F.1
+        subobj: 12.1.1
+        type: final
+        question: According to 2 Peter, the right attitude toward growing in grace
+          is to
+        choices:
+          A: depend on the church to help you grow.
+          B: claim that you will grow.
+          C: make every effort to grow.
+          D: trust God to make you grow.
+        answer: C
+      - uid: BIB116.13.1.1.F.2
+        subobj: 13.1.1
+        type: final
+        question: The author of Revelation wrote from the island of
+        choices:
+          A: Crete.
+          B: Malta.
+          C: Cyprus.
+          D: Patmos.
+        answer: D
+      final_source:
+        run: 20260811T143012_BIB116.all.f
+        form: A
+        date: '2026-08-11'
     deployed_pn: 01.26.01
     print_history:
     - date: '2026-01-01'

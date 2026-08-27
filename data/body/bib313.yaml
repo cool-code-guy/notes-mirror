@@ -3484,7 +3484,7 @@ courses:
       counts:
         ty: 110
         upe: 100
-        final: 0
+        final: 50
       questions:
       - uid: BIB313.1.1.1.TY.1
         subobj: 1.1.1
@@ -5648,6 +5648,526 @@ courses:
           C: he desires their approval and commendation.
           D: Titus will accompany him when he visits.
         answer: B
+      - uid: BIB313.1.1.1.F.3
+        subobj: 1.1.1
+        type: final
+        question: How many months did Paul stay in Corinth?
+        choices:
+          A: Eighteen
+          B: Twelve
+          C: Two
+          D: Six
+        answer: A
+      - uid: BIB313.1.1.1.F.1
+        subobj: 1.1.1
+        type: final
+        question: Paul visited Corinth on his
+        choices:
+          A: second missionary journey.
+          B: way to Rome.
+          C: third missionary journey.
+          D: first missionary journey.
+        answer: A
+      - uid: BIB313.1.1.1.F.2
+        subobj: 1.1.1
+        type: final
+        question: Who delivered 1 Corinthians to the church in Corinth?
+        choices:
+          A: Silas
+          B: Titus
+          C: Apollos
+          D: Timothy
+        answer: D
+      - uid: BIB313.1.1.2.F.1
+        subobj: 1.1.2
+        type: final
+        question: In 1 Corinthians, Paul addressed what types of issues?
+        choices:
+          A: Practical, liturgical, and doctrinal
+          B: Moral, practical, and doctrinal
+          C: Moral, liturgical, and doctrinal
+          D: Moral, liturgical, and practical
+        answer: C
+      - uid: BIB313.1.2.3.F.1
+        subobj: 1.2.3
+        type: final
+        question: A person who builds with gold, silver, and precious stones is compared
+          to one who
+        choices:
+          A: follows worldly wisdom and knowledge.
+          B: promotes unity and displays character.
+          C: promotes disunity and strife.
+          D: is generous with financial gifts.
+        answer: B
+      - uid: BIB313.2.1.2.F.1
+        subobj: 2.1.2
+        type: final
+        question: How did the church in Corinth respond to sexual immorality in their
+          midst?
+        choices:
+          A: They expelled the man and his stepmother from the church.
+          B: They made the man publicly confess his sin and seek forgiveness.
+          C: In their pride, they failed to do anything.
+          D: They stoned the man and his stepmother.
+        answer: C
+      - uid: BIB313.2.2.1.F.1
+        subobj: 2.2.1
+        type: final
+        question: Paul advised the Corinthians to settle their civil disputes in
+        choices:
+          A: church.
+          B: the temple.
+          C: court.
+          D: their homes.
+        answer: A
+      - uid: BIB313.2.2.2.F.1
+        subobj: 2.2.2
+        type: final
+        question: As the temple of the Holy Spirit, believers are to abstain from
+        choices:
+          A: fermented drink.
+          B: polygamy.
+          C: meat offered to idols.
+          D: sexual sin.
+        answer: D
+      - uid: BIB313.3.1.1.F.2
+        subobj: 3.1.1
+        type: final
+        question: In pagan sacrifices, the portion of meat not dedicated to the god
+          was
+        choices:
+          A: discarded along with the rest of the animal.
+          B: given to the priest(s) and the worshipper.
+          C: given to the poor.
+          D: completely burned on the altar.
+        answer: B
+      - uid: BIB313.3.1.1.F.1
+        subobj: 3.1.1
+        type: final
+        question: In 1 Corinthians 8, Paul addresses the issue of
+        choices:
+          A: marriage and divorce.
+          B: meat offered to idols.
+          C: sexual immorality in the church.
+          D: resurrection.
+        answer: B
+      - uid: BIB313.3.1.1.F.3
+        subobj: 3.1.1
+        type: final
+        question: In 2 Corinthians 6:14-18, Paul addresses the issue of
+        choices:
+          A: meat offered to idols.
+          B: false teaching.
+          C: pride.
+          D: idolatry.
+        answer: D
+      - uid: BIB313.3.1.2.F.4
+        subobj: 3.1.2
+        type: final
+        question: True freedom in Christ means that
+        choices:
+          A: a person is no longer bound by past traditions.
+          B: believers can do whatever they please because of God's grace.
+          C: believers can live for Christ, at times giving up their full rights and
+            freedoms.
+          D: sin is no longer a temptation.
+        answer: C
+      - uid: BIB313.3.1.2.F.1
+        subobj: 3.1.2
+        type: final
+        question: According to Paul, eating meat offered to idols
+        choices:
+          A: united believers with demonic spirits.
+          B: was a non-issue, since the idols were false.
+          C: showed devotion to the pagan idols.
+          D: destroyed a believer's testimony.
+        answer: B
+      - uid: BIB313.3.1.2.F.2
+        subobj: 3.1.2
+        type: final
+        question: Paul says that superior knowledge leads to
+        choices:
+          A: compassion.
+          B: pride.
+          C: love.
+          D: hatred.
+        answer: B
+      - uid: BIB313.3.1.2.F.3
+        subobj: 3.1.2
+        type: final
+        question: Which verse best captures the idea of contextualization?
+        choices:
+          A: '"Everything is permissible, but not everything is beneficial."'
+          B: '"Knowledge puffs up, but love builds up."'
+          C: '"Those who preach the gospel should receive their living from the gospel."'
+          D: '"I have become all things to all men so that by all possible means I
+            might save some."'
+        answer: D
+      - uid: BIB313.4.1.1.F.1
+        subobj: 4.1.1
+        type: final
+        question: In 1 Corinthians 11, Paul deals with the issue of
+        choices:
+          A: marriage and divorce.
+          B: women and worship.
+          C: meat offered to idols.
+          D: resurrection.
+        answer: B
+      - uid: BIB313.4.1.2.F.1
+        subobj: 4.1.2
+        type: final
+        question: The word head in 1 Corinthians 11 should be understood to mean
+        choices:
+          A: superiority.
+          B: a physical head.
+          C: authority over.
+          D: source.
+        answer: C
+      - uid: BIB313.4.2.1.F.3
+        subobj: 4.2.1
+        type: final
+        question: The Lord's Supper is a
+        choices:
+          A: memorial and testimonial to Christ's death.
+          B: feast to encourage fellowship among believers.
+          C: celebration concerning Jesus' resurrection.
+          D: means of God's grace and salvation.
+        answer: A
+      - uid: BIB313.4.2.1.F.1
+        subobj: 4.2.1
+        type: final
+        question: The early church regularly observed Holy Communion during
+        choices:
+          A: the Feast of Passover.
+          B: the Feast of Pentecost.
+          C: a fellowship meal called a love feast.
+          D: the Feast of Tabernacles.
+        answer: C
+      - uid: BIB313.4.3.1.F.1
+        subobj: 4.3.1
+        type: final
+        question: The term charismata refers to
+        choices:
+          A: spiritual gifts given to the church.
+          B: speaking in tongues.
+          C: the anointing of the Holy Spirit.
+          D: the Pentecostal experience.
+        answer: A
+      - uid: BIB313.4.3.2.F.1
+        subobj: 4.3.2
+        type: final
+        question: The distribution of spiritual gifts is the role of the
+        choices:
+          A: Son.
+          B: Holy Spirit.
+          C: Father.
+          D: local pastor.
+        answer: B
+      - uid: BIB313.5.1.1.F.1
+        subobj: 5.1.1
+        type: final
+        question: Paul compares the function of the spiritual gifts within the local
+          church to
+        choices:
+          A: a race.
+          B: a human body.
+          C: a building.
+          D: an army.
+        answer: B
+      - uid: BIB313.5.1.2.F.1
+        subobj: 5.1.2
+        type: final
+        question: To be effective, spiritual gifts must be administered in
+        choices:
+          A: boldness.
+          B: meekness.
+          C: eloquence.
+          D: love.
+        answer: D
+      - uid: BIB313.5.2.1.F.1
+        subobj: 5.2.1
+        type: final
+        question: The Greek word for tongues is
+        choices:
+          A: ekklesia.
+          B: glossolalia.
+          C: apostolos.
+          D: charismata.
+        answer: B
+      - uid: BIB313.5.2.1.F.2
+        subobj: 5.2.1
+        type: final
+        question: In 1 Corinthians 14, Paul encourages believers in the gift of prophecy
+          because
+        choices:
+          A: tongues make unbelievers uncomfortable.
+          B: it is superior to tongues.
+          C: it edifies the individual believer.
+          D: tongues edify the believer, but prophecy edifies the church.
+        answer: D
+      - uid: BIB313.5.2.2.F.1
+        subobj: 5.2.2
+        type: final
+        question: Which spiritual gift is called a sign to unbelievers?
+        choices:
+          A: Discernment
+          B: Prophecy
+          C: Tongues
+          D: Faith
+        answer: C
+      - uid: BIB313.6.1.1.F.1
+        subobj: 6.1.1
+        type: final
+        question: According to 1 Corinthians 15:12, some believers in Corinth were
+        choices:
+          A: denying the bodily resurrection of believers.
+          B: questioning whether the Rapture had occurred.
+          C: overzealous about Christ's second coming.
+          D: complacent about Christ's second coming.
+        answer: A
+      - uid: BIB313.6.1.2.F.2
+        subobj: 6.1.2
+        type: final
+        question: In heaven, believers will
+        choices:
+          A: have a new body that is eternal.
+          B: have a new body that is perishable.
+          C: have their earthly bodies.
+          D: exist in spirit form only.
+        answer: A
+      - uid: BIB313.6.1.2.F.1
+        subobj: 6.1.2
+        type: final
+        question: Paul states that if Christ has not been raised from the dead,
+        choices:
+          A: the gospel is still powerful and able to save.
+          B: believers still have the hope of resurrection.
+          C: the gospel message remains unchanged.
+          D: there is no hope for believers to be saved or resurrected.
+        answer: D
+      - uid: BIB313.6.1.3.F.2
+        subobj: 6.1.3
+        type: final
+        question: Christ's victory over death will be declared by
+        choices:
+          A: the marriage supper of the Lamb.
+          B: the resurrection of the wicked dead.
+          C: the resurrection of believers.
+          D: His millennial reign.
+        answer: C
+      - uid: BIB313.6.1.3.F.1
+        subobj: 6.1.3
+        type: final
+        question: To describe the Rapture and Christ's second coming, Paul uses the
+          Greek word
+        choices:
+          A: ginosko.
+          B: glossolalia.
+          C: parousia.
+          D: charismata.
+        answer: C
+      - uid: BIB313.6.2.1.F.1
+        subobj: 6.2.1
+        type: final
+        question: Paul wanted the Corinthians to assist the believers in Jerusalem
+          and Judea by
+        choices:
+          A: praying for their protection during persecution.
+          B: sending workers to assist in the expanding work.
+          C: providing food and clothing for the poor.
+          D: giving a generous offering for the poor.
+        answer: D
+      - uid: BIB313.7.1.1.F.3
+        subobj: 7.1.1
+        type: final
+        question: According to our study, Paul wrote how many letters to the church
+          in Corinth?
+        choices:
+          A: Four
+          B: Two
+          C: Six
+          D: Three
+        answer: A
+      - uid: BIB313.7.1.2.F.1
+        subobj: 7.1.2
+        type: final
+        question: Paul's tone changed after 2 Corinthians 9 most likely because
+        choices:
+          A: he received word of sexual sin within the church leadership.
+          B: he was arrested and put in prison.
+          C: he heard that the Corinthians were being persecuted.
+          D: some of his adversaries were questioning his authority.
+        answer: D
+      - uid: BIB313.7.2.2.F.1
+        subobj: 7.2.2
+        type: final
+        question: In 2 Corinthians 1:3, Paul calls the Lord the God of all
+        choices:
+          A: peace.
+          B: justice.
+          C: comfort.
+          D: righteousness.
+        answer: C
+      - uid: BIB313.7.3.2.F.1
+        subobj: 7.3.2
+        type: final
+        question: The goal of church discipline is to
+        choices:
+          A: punish.
+          B: get even.
+          C: establish a standard of holiness.
+          D: correct and restore.
+        answer: D
+      - uid: BIB313.8.1.1.F.1
+        subobj: 8.1.1
+        type: final
+        question: It is true that fear
+        choices:
+          A: is unspiritual and must be conquered.
+          B: cannot be relieved by others' actions.
+          C: is relieved by faith and encouragement.
+          D: permanently paralyzes all who experience it.
+        answer: C
+      - uid: BIB313.8.2.1.F.3
+        subobj: 8.2.1
+        type: final
+        question: God places His glory in earthen vessels to prove that
+        choices:
+          A: believers can accomplish anything with determination.
+          B: believers are created in His image.
+          C: the power is from Him, not people.
+          D: humankind is inferior to Him.
+        answer: C
+      - uid: BIB313.8.2.1.F.1
+        subobj: 8.2.1
+        type: final
+        question: Paul compares the glory of God in believers' lives to a treasure
+          hidden in a
+        choices:
+          A: field.
+          B: clay vessel.
+          C: house.
+          D: cave.
+        answer: B
+      - uid: BIB313.8.2.1.F.2
+        subobj: 8.2.1
+        type: final
+        question: In 2 Corinthians 4, the glory of God is compared to
+        choices:
+          A: the stars.
+          B: a treasure.
+          C: the sun's brilliance.
+          D: a mighty ocean.
+        answer: B
+      - uid: BIB313.8.3.1.F.1
+        subobj: 8.3.1
+        type: final
+        question: According to 2 Corinthians 5, Paul's two motives for ministry are
+        choices:
+          A: world peace and the fear of God.
+          B: the fear of God and the love of Christ.
+          C: the love of Christ and the fear of people.
+          D: world peace and the love of Christ.
+        answer: B
+      - uid: BIB313.9.1.2.F.1
+        subobj: 9.1.2
+        type: final
+        question: Who would collect the offering for Jerusalem in Corinth?
+        choices:
+          A: Titus
+          B: Aquila
+          C: Paul
+          D: Timothy
+        answer: A
+      - uid: BIB313.9.2.2.F.1
+        subobj: 9.2.2
+        type: final
+        question: According to 2 Corinthians 9:7, God loves what kind of giver?
+        choices:
+          A: Consistent
+          B: Thoughtful
+          C: Generous
+          D: Cheerful
+        answer: D
+      - uid: BIB313.9.2.2.F.2
+        subobj: 9.2.2
+        type: final
+        question: Paul's comment that God makes all grace abound to believers means
+          that
+        choices:
+          A: generosity yields both financial and spiritual blessings.
+          B: financial giving yields only spiritual blessings.
+          C: financial giving yields only financial blessings.
+          D: generous giving produces more favor with God.
+        answer: A
+      - uid: BIB313.10.1.1.F.1
+        subobj: 10.1.1
+        type: final
+        question: Paul apparently wrote 2 Corinthians 11-12 because the Corinthians
+          were
+        choices:
+          A: embracing false teaching about Christ's second coming.
+          B: using spiritual gifts with little control or guidance.
+          C: starting to depend on the Law instead of grace.
+          D: tolerating false apostles that attacked Paul's apostolic authority.
+        answer: D
+      - uid: BIB313.10.1.2.F.1
+        subobj: 10.1.2
+        type: final
+        question: According to Paul, apostolic authority should be used primarily
+          to
+        choices:
+          A: edify the church.
+          B: influence organizational policy.
+          C: achieve personal gain.
+          D: administer discipline.
+        answer: A
+      - uid: BIB313.10.2.1.F.1
+        subobj: 10.2.1
+        type: final
+        question: Paul was successful in ministry because of
+        choices:
+          A: his boldness.
+          B: God's grace and empowerment.
+          C: his eloquence.
+          D: his determination and strong will.
+        answer: B
+      - uid: BIB313.11.1.1.F.1
+        subobj: 11.1.1
+        type: final
+        question: In defending his apostolic status, Paul boasts of his
+        choices:
+          A: Jewish heritage.
+          B: wealth of experience in planting new churches.
+          C: sufferings for Christ.
+          D: many signs and wonders.
+        answer: C
+      - uid: BIB313.11.1.2.F.1
+        subobj: 11.1.2
+        type: final
+        question: To minimize any conceit from his surpassing revelations, Paul was
+          given a
+        choices:
+          A: thorn in his flesh.
+          B: stammering tongue.
+          C: lame hip.
+          D: vow of poverty.
+        answer: A
+      - uid: BIB313.11.2.1.F.1
+        subobj: 11.2.1
+        type: final
+        question: The Bible says that a testimony must be established by how many
+          witnesses?
+        choices:
+          A: Two to three
+          B: One to two
+          C: Three to four
+          D: Five
+        answer: A
+      final_source:
+        run: 20260612T093646_bib313.all.f
+        form: E
+        date: '2026-06-12'
     deployed_pn: 03.26.01
     print_history:
     - date: '2026-08-25'

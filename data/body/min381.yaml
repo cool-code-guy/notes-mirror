@@ -3268,7 +3268,7 @@ courses:
       counts:
         ty: 150
         upe: 100
-        final: 0
+        final: 50
       questions:
       - uid: MIN381.1.1.1.UPE.1
         subobj: 1.1.1
@@ -5795,6 +5795,519 @@ courses:
           C: Peter.
           D: Paul.
         answer: B
+      - uid: MIN381.1.1.2.F.1
+        subobj: 1.1.2
+        type: final
+        question: If God has called you to be a minister,
+        choices:
+          A: start preaching at large churches.
+          B: choose a group of followers.
+          C: get married and go to Bible school.
+          D: start serving in small ways.
+        answer: D
+      - uid: MIN381.1.2.1.F.1
+        subobj: 1.2.1
+        type: final
+        question: Build good character by
+        choices:
+          A: listening to good sermons.
+          B: having elders lay hands on you.
+          C: thinking and acting right.
+          D: studying many books.
+        answer: C
+      - uid: MIN381.1.3.1.F.1
+        subobj: 1.3.1
+        type: final
+        question: A pastor can best make up for personal weaknesses by
+        choices:
+          A: mastering all ministry skills.
+          B: going for more education.
+          C: hiring an assistant like himself or herself.
+          D: building a team to help.
+        answer: D
+      - uid: MIN381.2.1.1.F.1
+        subobj: 2.1.1
+        type: final
+        question: In order to grow spiritually believers must
+        choices:
+          A: show compassion.
+          B: preach.
+          C: pray.
+          D: acquire training.
+        answer: C
+      - uid: MIN381.2.2.1.F.1
+        subobj: 2.2.1
+        type: final
+        question: In studying, a preacher should always ask, "What does this text
+          say about
+        choices:
+          A: God?"
+          B: faith?"
+          C: Israel?"
+          D: prophecy?"
+        answer: A
+      - uid: MIN381.2.2.2.F.1
+        subobj: 2.2.2
+        type: final
+        question: Instead of personal Bible study, a pastor may
+        choices:
+          A: take a Bible school class.
+          B: study for ministry.
+          C: do none of the above.
+          D: read spiritual books.
+        answer: C
+      - uid: MIN381.2.3.1.F.1
+        subobj: 2.3.1
+        type: final
+        question: Christians should fast
+        choices:
+          A: when they need healing.
+          B: regularly.
+          C: at least once a week.
+          D: when God speaks to them.
+        answer: B
+      - uid: MIN381.3.1.1.F.1
+        subobj: 3.1.1
+        type: final
+        question: A husband should love his wife by
+        choices:
+          A: loving her more than he loves himself.
+          B: loving her more than he does God.
+          C: encouraging her to preach.
+          D: meeting her needs.
+        answer: D
+      - uid: MIN381.3.2.2.F.1
+        subobj: 3.2.2
+        type: final
+        question: Which best describes the church's perspective on singleness in ministry?
+        choices:
+          A: '"Elders must be the husband of one wife."'
+          B: It is usually assumed that unmarried ministers have sexual identification
+            problems.
+          C: Evangelical churches in the U.S. are mainly marriage-and-family focused.
+          D: There are no differences as to the way single and married ministers are
+            perceived.
+        answer: C
+      - uid: MIN381.3.2.3.F.3
+        subobj: 3.2.3
+        type: final
+        question: God commanded which prophet not to marry?
+        choices:
+          A: Daniel
+          B: Jeremiah
+          C: Hosea
+          D: Zechariah
+        answer: B
+      - uid: MIN381.3.2.4.F.1
+        subobj: 3.2.4
+        type: final
+        question: A serious problem that unmarried ministers face today is they
+        choices:
+          A: are socially ostracized by believers because of not being married.
+          B: seldom have good social skills.
+          C: have no one to critique their sermons.
+          D: have no appropriate way to express their sexuality.
+        answer: A
+      - uid: MIN381.3.3.1.F.2
+        subobj: 3.3.1
+        type: final
+        question: The passages written by Paul that appear to limit women's ministry
+          should be interpreted as
+        choices:
+          A: pertaining only to the early church.
+          B: being identified by Paul as his personal opinion.
+          C: addressing specific local problems that needed correction.
+          D: not practical or applicable in the 21st century.
+        answer: C
+      - uid: MIN381.3.3.2.F.1
+        subobj: 3.3.2
+        type: final
+        question: 'The most recent version of the Assemblies of God Bylaws regarding
+          qualifications for women in ministry is best summarized as:'
+        choices:
+          A: Women may be ordained only as missionaries or evangelists.
+          B: Women are eligible for the grade of credentials their qualifications
+            warrant.
+          C: Only the wives of ordained ministers may be ordained.
+          D: Churches are encouraged to elect women pastors to correct years of discrimination
+            against women.
+        answer: B
+      - uid: MIN381.3.3.4.F.1
+        subobj: 3.3.4
+        type: final
+        question: Assemblies of God districts encourage women in ministry by
+        choices:
+          A: credentialed Women's Fellowships and special sessions at Schools of Ministry.
+          B: official encouragement of churches to appoint at least one woman to the
+            ministerial staff.
+          C: special training in ministry to minorities.
+          D: preferential treatment in the appointment of women as senior pastors.
+        answer: A
+      - uid: MIN381.3.4.1.F.1
+        subobj: 3.4.1
+        type: final
+        question: Which leader did not discipline his sons?
+        choices:
+          A: Eli
+          B: Samuel
+          C: Moses
+          D: Isaiah
+        answer: A
+      - uid: MIN381.3.4.2.F.1
+        subobj: 3.4.2
+        type: final
+        question: Children should learn about God mostly from
+        choices:
+          A: parents.
+          B: friends.
+          C: pastors.
+          D: teachers.
+        answer: A
+      - uid: MIN381.3.5.1.F.1
+        subobj: 3.5.1
+        type: final
+        question: Pastors should limit friendships with parishioners because they
+        choices:
+          A: cannot trust them to be friends.
+          B: they are pastors first and friends second.
+          C: they are more mature than the church members.
+          D: they do not have time for friendships.
+        answer: B
+      - uid: MIN381.3.5.2.F.1
+        subobj: 3.5.2
+        type: final
+        question: Which should have third place in a pastor's life?
+        choices:
+          A: God
+          B: Ministry
+          C: Family
+          D: Friends
+        answer: B
+      - uid: MIN381.4.1.1.F.2
+        subobj: 4.1.1
+        type: final
+        question: Delegate means to
+        choices:
+          A: put first things first.
+          B: do the important work oneself.
+          C: assign boring tasks to others.
+          D: empower others to do tasks.
+        answer: D
+      - uid: MIN381.4.1.1.F.1
+        subobj: 4.1.1
+        type: final
+        question: 'When setting priorities, the pastor should first ask: what'
+        choices:
+          A: do I do best?
+          B: must be done first?
+          C: has God called me to do?
+          D: is the need?
+        answer: C
+      - uid: MIN381.4.2.1.F.1
+        subobj: 4.2.1
+        type: final
+        question: The first step in preparing a message is
+        choices:
+          A: selecting a topic.
+          B: preparing one's heart.
+          C: choosing a text.
+          D: writing an introduction.
+        answer: B
+      - uid: MIN381.4.2.2.F.1
+        subobj: 4.2.2
+        type: final
+        question: The minor story in a Bible passage is about
+        choices:
+          A: children.
+          B: people.
+          C: God.
+          D: Israel.
+        answer: B
+      - uid: MIN381.4.3.1.F.1
+        subobj: 4.3.1
+        type: final
+        question: Preachers should practice sermons because
+        choices:
+          A: this is the biblical pattern.
+          B: they need to seem well educated.
+          C: their messages will improve.
+          D: they need to be better performers.
+        answer: C
+      - uid: MIN381.4.3.4.F.1
+        subobj: 4.3.4
+        type: final
+        question: To help listeners connect to one's stories,
+        choices:
+          A: share about common struggles.
+          B: use the names of your members.
+          C: tell stories in the present tense.
+          D: use stories everyone has heard.
+        answer: A
+      - uid: MIN381.5.1.1.F.1
+        subobj: 5.1.1
+        type: final
+        question: When we yield control of the service to the Holy Spirit,
+        choices:
+          A: our personalities change.
+          B: people listen to our sermons.
+          C: people pay their tithes.
+          D: our ministry is more effective.
+        answer: D
+      - uid: MIN381.5.2.2.F.1
+        subobj: 5.2.2
+        type: final
+        question: What result should pastors seek in their preaching?
+        choices:
+          A: Change
+          B: Church growth
+          C: Guilt
+          D: Excitement
+        answer: A
+      - uid: MIN381.5.3.2.F.1
+        subobj: 5.3.2
+        type: final
+        question: Altar time is important because it
+        choices:
+          A: helps people make spiritual decisions.
+          B: shows whether the sermon was anointed.
+          C: allows people to fellowship with others.
+          D: gives pastors time to greet visitors.
+        answer: B
+      - uid: MIN381.6.1.1.F.1
+        subobj: 6.1.1
+        type: final
+        question: What special gift can a pastor give those in crisis?
+        choices:
+          A: Advice
+          B: Presence
+          C: Money
+          D: Food
+        answer: B
+      - uid: MIN381.6.1.2.F.1
+        subobj: 6.1.2
+        type: final
+        question: A mistake pastors make when ministering to people in crisis is
+        choices:
+          A: avoiding the area of hurt.
+          B: visiting them in the hospital.
+          C: reading the Bible to them.
+          D: making them feel useless.
+        answer: A
+      - uid: MIN381.6.2.1.F.1
+        subobj: 6.2.1
+        type: final
+        question: Sharing another person's feelings is called
+        choices:
+          A: role-play.
+          B: grief-bearing.
+          C: association.
+          D: empathy.
+        answer: D
+      - uid: MIN381.6.2.2.F.1
+        subobj: 6.2.2
+        type: final
+        question: The last stage of the grieving process is
+        choices:
+          A: death.
+          B: acceptance.
+          C: forgiveness.
+          D: empathy.
+        answer: B
+      - uid: MIN381.6.3.1.F.1
+        subobj: 6.3.1
+        type: final
+        question: How should we begin showing care to people in crisis?
+        choices:
+          A: Teaching
+          B: Listening
+          C: Giving advice
+          D: Crying
+        answer: B
+      - uid: MIN381.6.3.2.F.1
+        subobj: 6.3.2
+        type: final
+        question: If a grieving person expresses anger,
+        choices:
+          A: explain why he or she is angry.
+          B: absorb the anger.
+          C: reflect anger back.
+          D: give a gentle rebuke.
+        answer: B
+      - uid: MIN381.7.2.1.F.1
+        subobj: 7.2.1
+        type: final
+        question: The leadership mistake Moses made was not
+        choices:
+          A: allowing people to ask questions.
+          B: obeying the wise counsel of others.
+          C: waiting for people to accept the vision.
+          D: seeking God for guidance.
+        answer: C
+      - uid: MIN381.8.1.1.F.1
+        subobj: 8.1.1
+        type: final
+        question: Ephesians 4 instructs pastors to
+        choices:
+          A: train people for ministry.
+          B: rejoice with those who rejoice.
+          C: care for widows and orphans.
+          D: discipline their children.
+        answer: A
+      - uid: MIN381.8.2.1.F.2
+        subobj: 8.2.1
+        type: final
+        question: Which is a "life lesson?"
+        choices:
+          A: How to disciple others
+          B: How to know you are a Christian
+          C: How to manage your money
+          D: How to pray for the sick
+        answer: C
+      - uid: MIN381.8.3.1.F.1
+        subobj: 8.3.1
+        type: final
+        question: Which question helps explain how to start a church training ministry?
+        choices:
+          A: How do you catch a monkey?
+          B: How do you talk to a turtle?
+          C: How do you train a tiger?
+          D: How do you eat an elephant?
+        answer: D
+      - uid: MIN381.9.1.1.F.1
+        subobj: 9.1.1
+        type: final
+        question: Small groups meet the needs of fellowship and
+        choices:
+          A: worship.
+          B: friendship.
+          C: evangelism.
+          D: personal ministry.
+        answer: D
+      - uid: MIN381.9.2.1.F.1
+        subobj: 9.2.1
+        type: final
+        question: Before planning for small groups,
+        choices:
+          A: do all of the above
+          B: plan a Sunday night service.
+          C: set goals and guidelines.
+          D: choose qualified leaders.
+        answer: C
+      - uid: MIN381.9.3.1.F.1
+        subobj: 9.3.1
+        type: final
+        question: What is the most important quality to look for in a small group
+          leader?
+        choices:
+          A: Talent
+          B: Availability
+          C: Maturity
+          D: Experience
+        answer: C
+      - uid: MIN381.10.1.2.F.1
+        subobj: 10.1.2
+        type: final
+        question: At a wedding, the Lord's Supper reminds the couple of
+        choices:
+          A: purity.
+          B: unity.
+          C: fruitfulness.
+          D: forgiveness.
+        answer: D
+      - uid: MIN381.10.2.1.F.1
+        subobj: 10.2.1
+        type: final
+        question: What are the ordinances of the Church?
+        choices:
+          A: Funerals and weddings
+          B: Ordination and the Lord's Supper
+          C: Water baptism and baby dedications
+          D: The Lord's Supper and water baptism
+        answer: D
+      - uid: MIN381.10.2.3.F.1
+        subobj: 10.2.3
+        type: final
+        question: '"Closed communion" means'
+        choices:
+          A: the service is held in secret.
+          B: people are silent during the service.
+          C: unfaithful believers are denied participation.
+          D: only church members may take part.
+        answer: D
+      - uid: MIN381.11.1.2.F.1
+        subobj: 11.1.2
+        type: final
+        question: The deacons of the Jerusalem church (Acts 6) were chosen by
+        choices:
+          A: Stephen and Philip.
+          B: members of the church.
+          C: Peter and James.
+          D: Paul and Barnabas.
+        answer: B
+      - uid: MIN381.11.1.3.F.1
+        subobj: 11.1.3
+        type: final
+        question: In the 6-step process, who has the last word?
+        choices:
+          A: Church members
+          B: A review team
+          C: The pastor
+          D: Board members
+        answer: A
+      - uid: MIN381.11.2.2.F.1
+        subobj: 11.2.2
+        type: final
+        question: Elders/deacons are best seen as
+        choices:
+          A: partners in ministry.
+          B: pastor police.
+          C: friends of the pastor.
+          D: protectors of the people.
+        answer: A
+      - uid: MIN381.12.1.1.F.1
+        subobj: 12.1.1
+        type: final
+        question: What can team ministry provide?
+        choices:
+          A: Encouragement
+          B: Spiritual strength
+          C: Effectiveness
+          D: All of the above
+        answer: D
+      - uid: MIN381.13.2.1.F.1
+        subobj: 13.2.1
+        type: final
+        question: We can honor the Sabbath principle by
+        choices:
+          A: doing all of the above.
+          B: spending time with family.
+          C: resting from work.
+          D: caring for personal needs.
+        answer: A
+      - uid: MIN381.14.1.1.F.1
+        subobj: 14.1.1
+        type: final
+        question: What provides food for our souls?
+        choices:
+          A: Communion
+          B: Fasting
+          C: Bible study
+          D: Sabbath rest
+        answer: C
+      - uid: MIN381.15.2.1.F.1
+        subobj: 15.2.1
+        type: final
+        question: If pastors admit mistakes, members will most likely
+        choices:
+          A: forgive and accept them.
+          B: ask them to resign as pastors.
+          C: lose confidence in them.
+          D: see them as weak leaders.
+        answer: A
+      final_source:
+        run: 20260811T144840_MIN381.all.f
+        form: G
+        date: '2026-08-11'
     deployed_pn: 04.26.01
     print_history:
     - date: '2026-07-06'

@@ -5016,7 +5016,7 @@ courses:
       counts:
         ty: 150
         upe: 125
-        final: 0
+        final: 33
       questions:
       - uid: BIB111.1.1.1.UPE.1
         subobj: 1.1.1
@@ -7826,6 +7826,349 @@ courses:
           C: descriptive.
           D: both prescriptive and descriptive.
         answer: D
+      - uid: BIB111.2.3.2.F.1
+        subobj: 2.3.2
+        type: final
+        question: Favoritism in Jacob's family led to
+        choices:
+          A: God's purposes being accomplished in their lives.
+          B: positive results for each family member.
+          C: spiritual maturity for each family member.
+          D: continuing problems in succeeding generations.
+        answer: D
+      - uid: BIB111.3.2.1.F.1
+        subobj: 3.2.1
+        type: final
+        question: Which offering atoned for unintentional sins and showed complete
+          surrender to God?
+        choices:
+          A: Guilt offering
+          B: Burnt offering
+          C: Sin offering
+          D: Grain offering
+        answer: B
+      - uid: BIB111.3.3.1.F.1
+        subobj: 3.3.1
+        type: final
+        question: At Moab, according to the book of Numbers,
+        choices:
+          A: God prepared a new generation to possess Canaan.
+          B: Moses received the Ten Commandments.
+          C: God prepared Israel to inherit Canaan.
+          D: the people forfeited their inheritance.
+        answer: A
+      - uid: BIB111.3.4.1.F.2
+        subobj: 3.4.1
+        type: final
+        question: Moses' second speech in the book of Deuteronomy
+        choices:
+          A: centered on the concept of covenant.
+          B: involved both blessings and curses.
+          C: commissioned Joshua to be Israel's leader.
+          D: reviewed positive and negative aspects of Israel's history.
+        answer: A
+      - uid: BIB111.3.4.1.F.1
+        subobj: 3.4.1
+        type: final
+        question: In the book of Deuteronomy, Moses' first speech
+        choices:
+          A: centered on the concept of covenant.
+          B: involved both blessings and curses.
+          C: commissioned Joshua to be Israel's leader.
+          D: reviewed positive and negative aspects of Israel's history.
+        answer: D
+      - uid: BIB111.4.1.2.F.1
+        subobj: 4.1.2
+        type: final
+        question: The miraculous defeat of Jericho was one of the
+        choices:
+          A: northern battles.
+          B: southern battles.
+          C: eastern battles.
+          D: central battles.
+        answer: D
+      - uid: BIB111.4.4.1.F.1
+        subobj: 4.4.1
+        type: final
+        question: Which book records the point at which Israel turned from judges
+          to kings?
+        choices:
+          A: 2 Samuel
+          B: 1 Kings
+          C: 1 Samuel
+          D: Judges
+        answer: C
+      - uid: BIB111.5.1.1.F.2
+        subobj: 5.1.1
+        type: final
+        question: The two books that cover the reign of David are
+        choices:
+          A: 1 Samuel and 2 Kings.
+          B: 2 Samuel and 1 Chronicles.
+          C: 2 Samuel and 2 Chronicles.
+          D: 1 Samuel and 1 Kings.
+        answer: B
+      - uid: BIB111.5.1.1.F.1
+        subobj: 5.1.1
+        type: final
+        question: The dynasty of King David lasted until
+        choices:
+          A: the Assyrians invaded the Northern Kingdom of Israel.
+          B: Jeroboam took over the Northern Kingdom of Israel.
+          C: Nebuchadnezzar, King of Babylon, conquered Judah.
+          D: David died.
+        answer: C
+      - uid: BIB111.5.2.1.F.1
+        subobj: 5.2.1
+        type: final
+        question: The first building Solomon erected was
+        choices:
+          A: his palace.
+          B: a winter palace in the South.
+          C: the temple in Jerusalem.
+          D: a temple for his wives' gods.
+        answer: C
+      - uid: BIB111.5.3.2.F.1
+        subobj: 5.3.2
+        type: final
+        question: Assyria conquered the Northern Kingdom in
+        choices:
+          A: 622 BC.
+          B: 686 BC.
+          C: 722 BC
+          D: 586 BC.
+        answer: C
+      - uid: BIB111.5.3.2.F.2
+        subobj: 5.3.2
+        type: final
+        question: Who arranged his son's marriage to Jezebel to seal a treaty?
+        choices:
+          A: Jeroboam
+          B: Jehu
+          C: Baasha
+          D: Omri
+        answer: D
+      - uid: BIB111.6.2.1.F.1
+        subobj: 6.2.1
+        type: final
+        question: According to Jewish tradition, who was responsible for the prophet
+          Isaiah's death?
+        choices:
+          A: Manasseh
+          B: Josiah
+          C: Joash
+          D: Amon
+        answer: A
+      - uid: BIB111.6.2.2.F.1
+        subobj: 6.2.2
+        type: final
+        question: The last king to rule over Judah in Jerusalem was
+        choices:
+          A: Jehoahaz.
+          B: Jehoiachin.
+          C: Zedekiah.
+          D: Josiah.
+        answer: C
+      - uid: BIB111.7.1.3.F.1
+        subobj: 7.1.3
+        type: final
+        question: Ezra 1-6 focuses on the return to Jerusalem and the rebuilding of
+          the temple while Ezra 7-10 describes
+        choices:
+          A: opposition from other nations.
+          B: Haggai and Zechariah's prophetic ministry.
+          C: Ezra's journey and work.
+          D: the dedication of the priests.
+        answer: C
+      - uid: BIB111.7.3.1.F.1
+        subobj: 7.3.1
+        type: final
+        question: The theological theme for the book of Esther is
+        choices:
+          A: restoration and renewal.
+          B: judgment for Israel's sin.
+          C: the sovereign protection of God.
+          D: a call to repentance for Israel's rebellion.
+        answer: C
+      - uid: BIB111.8.2.2.F.1
+        subobj: 8.2.2
+        type: final
+        question: '"They [the ordinances of the Lord] are more precious than gold,
+          than much pure gold" (Psalm 19:10) illustrates what kind of parallelism?'
+        choices:
+          A: Synthetic
+          B: Chiasm
+          C: Synonymous
+          D: Antithetic
+        answer: A
+      - uid: BIB111.9.3.2.F.1
+        subobj: 9.3.2
+        type: final
+        question: The earliest Jewish tradition interpreted the Song of Songs to be
+          a book about
+        choices:
+          A: God's love for Israel.
+          B: perverted and sensual sexuality.
+          C: the beauty of sexual intimacy in marriage.
+          D: Christ's love for the church.
+        answer: C
+      - uid: BIB111.11.1.1.F.1
+        subobj: 11.1.1
+        type: final
+        question: According to Joel, true repentance includes
+        choices:
+          A: observing all the Jewish feasts.
+          B: rending one's heart.
+          C: offering a sin offering to God.
+          D: tearing one's clothes.
+        answer: B
+      - uid: BIB111.11.2.2.F.2
+        subobj: 11.2.2
+        type: final
+        question: Admist the woes of Isaiah 28-39, what provides of glipse of hope?
+        choices:
+          A: The return of Northern Israel from exile
+          B: Judah's widespread repentance
+          C: Hezekiah's trust in the Lord
+          D: Zedekiah's obedience to the law
+        answer: C
+      - uid: BIB111.11.3.1.F.2
+        subobj: 11.3.1
+        type: final
+        question: In Micah 6:8, the prophet summarizes his message about
+        choices:
+          A: mercy and judgment or justice.
+          B: complete restoration for Israel.
+          C: law versus grace.
+          D: responsibilities that come with privileges.
+        answer: A
+      - uid: BIB111.11.3.1.F.1
+        subobj: 11.3.1
+        type: final
+        question: Micah prophesied during the reigns of
+        choices:
+          A: Uzziah, Ahaz, and Hezekiah.
+          B: Uzziah, Jotham, and Ahaz.
+          C: Uzziah, Jotham, and Hezekiah.
+          D: Jotham, Ahaz, and Hezekiah.
+        answer: D
+      - uid: BIB111.12.3.1.F.1
+        subobj: 12.3.1
+        type: final
+        question: Zephaniah's name means
+        choices:
+          A: '"the Lord is my salvation."'
+          B: '"the Lord is my righteousness."'
+          C: '"the Lord hides."'
+          D: '"burden-bearer."'
+        answer: C
+      - uid: BIB111.13.1.1.F.1
+        subobj: 13.1.1
+        type: final
+        question: More than any other Old Testament prophet, Ezekiel included
+        choices:
+          A: dates to document his visions.
+          B: an emphasis on God's sovereignty.
+          C: prophecies about the end times.
+          D: lines of poetry within his message.
+        answer: A
+      - uid: BIB111.13.2.2.F.1
+        subobj: 13.2.2
+        type: final
+        question: In Daniel's visions, Babylon is represented by the statue's
+        choices:
+          A: iron/clay and the terrible beast.
+          B: bronze belly and the leopard with four wings.
+          C: chest of silver and the bear.
+          D: head of gold and the lion with wings.
+        answer: D
+      - uid: BIB111.13.2.2.F.2
+        subobj: 13.2.2
+        type: final
+        question: Concerning eschatology, the Assemblies of God holds to
+        choices:
+          A: a midmillennial view.
+          B: a postmillennial view.
+          C: a premillennial view.
+          D: an amillennial view.
+        answer: C
+      - uid: BIB111.14.2.1.F.1
+        subobj: 14.2.1
+        type: final
+        question: Zechariah's vision of the two olive trees indicated that the Holy
+          Spirit flowed through
+        choices:
+          A: Joshua and Zerubbabel.
+          B: Ezra and Nehemiah.
+          C: Ezra and Joshua.
+          D: Zerubbabel and Nehemiah.
+        answer: A
+      - uid: BIB111.14.2.2.F.2
+        subobj: 14.2.2
+        type: final
+        question: '"There will be no more night" (Revelation 22:5) describes the fulfillment
+          of a prophecy by'
+        choices:
+          A: Isaiah.
+          B: Malachi.
+          C: Ezekiel.
+          D: Zechariah.
+        answer: D
+      - uid: BIB111.14.2.2.F.1
+        subobj: 14.2.2
+        type: final
+        question: Zechariah's prophecy of the Messiah that is yet to be fulfilled
+          is that He will bring
+        choices:
+          A: the New Jerusalem.
+          B: lasting peace.
+          C: the judgment of Israel.
+          D: healing to the nations.
+        answer: B
+      - uid: BIB111.14.3.1.F.1
+        subobj: 14.3.1
+        type: final
+        question: Malachi's name means
+        choices:
+          A: '"my messenger."'
+          B: '"the Lord hides."'
+          C: '"the Lord is my refuge."'
+          D: '"God is my judge."'
+        answer: A
+      - uid: BIB111.14.3.2.F.1
+        subobj: 14.3.2
+        type: final
+        question: Which Old Testament book addresses the issue of tithing?
+        choices:
+          A: Ezekiel
+          B: Malachi
+          C: Zechariah
+          D: Isaiah
+        answer: B
+      - uid: BIB111.15.2.1.F.1
+        subobj: 15.2.1
+        type: final
+        question: An area of continuity in the Old and New Testaments is the
+        choices:
+          A: political context.
+          B: provision of salvation.
+          C: historical context.
+          D: sovereignty of God.
+        answer: D
+      - uid: BIB111.15.2.1.F.2
+        subobj: 15.2.1
+        type: final
+        question: The Old and New Testaments should be read
+        choices:
+          A: together, acknowledging their unity and diversity.
+          B: independently, focusing on the unified portions.
+          C: together, ignoring the differences between the two.
+          D: independently because of their differences.
+        answer: A
+      final_source:
+        run: 20260811T095802_BIB111.all.f
+        form: A
+        date: '2026-08-11'
     deployed_pn: 01.26.01
     print_history:
     - date: '2026-01-01'

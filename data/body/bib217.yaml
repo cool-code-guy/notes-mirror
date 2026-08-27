@@ -6281,7 +6281,7 @@ courses:
       counts:
         ty: 130
         upe: 75
-        final: 0
+        final: 50
       questions:
       - uid: BIB217.1.1.1.UPE.1
         subobj: 1.1.1
@@ -8486,6 +8486,534 @@ courses:
           C: Christ, who provides security and satisfaction for the believer.
           D: ideal circumstances.
         answer: C
+      - uid: BIB217.1.1.1.F.1
+        subobj: 1.1.1
+        type: final
+        question: The books of the Bible known as the prison epistles include
+        choices:
+          A: Galatians, Ephesians, Titus, and 2 Timothy.
+          B: Ephesians, Philippians, Colossians, and 2 Timothy.
+          C: Ephesians, Philippians, Colossians, and Philemon.
+          D: Galatians, Philippians, Ephesians, and Colossians.
+        answer: C
+      - uid: BIB217.1.1.2.F.1
+        subobj: 1.1.2
+        type: final
+        question: Colosse was a small city located in the Roman province of
+        choices:
+          A: Asia.
+          B: Achaia.
+          C: Macedonia.
+          D: Iconium.
+        answer: A
+      - uid: BIB217.1.1.4.F.1
+        subobj: 1.1.4
+        type: final
+        question: Paul describes the false teaching at Colosse as
+        choices:
+          A: philosophic, demonic, and atheistic.
+          B: philosophic, ritualistic, and Christless.
+          C: syncretistic, ritualistic, and blasphemous.
+          D: legalistic, atheistic, and human-based.
+        answer: B
+      - uid: BIB217.1.1.5.F.1
+        subobj: 1.1.5
+        type: final
+        question: The major theme of Paul's letter to the Colossians is
+        choices:
+          A: the supremacy and sufficiency of Christ.
+          B: forgiveness and restoration.
+          C: the second coming of Jesus Christ.
+          D: rejoicing in the Lord, regardless of a believer's circumstances.
+        answer: A
+      - uid: BIB217.1.2.2.F.1
+        subobj: 1.2.2
+        type: final
+        question: In Paul's opening remarks to the Colossians, he is thankful for
+          their
+        choices:
+          A: patience under trial and persecution.
+          B: concern and generous financial support.
+          C: love, kindness, and humility.
+          D: faith, hope, and love.
+        answer: D
+      - uid: BIB217.1.2.3.F.1
+        subobj: 1.2.3
+        type: final
+        question: The most visible evidence of a life transformed by the gospel is
+        choices:
+          A: love.
+          B: patience.
+          C: self-control.
+          D: gentleness.
+        answer: A
+      - uid: BIB217.1.2.5.F.1
+        subobj: 1.2.5
+        type: final
+        question: Who was a native from Colosse that likely started the church in
+          Colosse?
+        choices:
+          A: Paul
+          B: Apollos
+          C: Timothy
+          D: Epaphras
+        answer: D
+      - uid: BIB217.1.3.2.F.1
+        subobj: 1.3.2
+        type: final
+        question: According to Colossians 1, Paul's prayer for the believers in Colosse
+          was that they be filled with
+        choices:
+          A: the glory and grace of God.
+          B: joy and peace during their hour of trial.
+          C: the knowledge of God's will and live a life pleasing before God.
+          D: love for each other.
+        answer: C
+      - uid: BIB217.2.1.1.F.1
+        subobj: 2.1.1
+        type: final
+        question: According to Colossians 1:15, Jesus is the image of the invisible
+          God, meaning that Jesus
+        choices:
+          A: resembles God the Father in physical appearance.
+          B: is God, bearing an exact likeness to the Father.
+          C: is not God, but contains many of the characteristics and attributes of
+            God.
+          D: is a spiritual being, like the Father.
+        answer: B
+      - uid: BIB217.2.1.2.F.1
+        subobj: 2.1.2
+        type: final
+        question: Which statement best describes the goal of creation?
+        choices:
+          A: All things were created through Him.
+          B: All things were created for Him.
+          C: In Him all things hold together.
+          D: By Him all things were created.
+        answer: B
+      - uid: BIB217.2.1.3.F.1
+        subobj: 2.1.3
+        type: final
+        question: According to Colossians 1, Jesus is the firstborn
+        choices:
+          A: from among the gods.
+          B: over creation and from among the dead.
+          C: over the Jews.
+          D: from many nations.
+        answer: B
+      - uid: BIB217.2.1.4.F.1
+        subobj: 2.1.4
+        type: final
+        question: In Colossians 1:19-23, Paul presents Jesus as the supreme
+        choices:
+          A: king.
+          B: high priest.
+          C: reconciler.
+          D: judge.
+        answer: C
+      - uid: BIB217.2.2.1.F.1
+        subobj: 2.2.1
+        type: final
+        question: According to Colossians 1:24, what was Paul's response to suffering
+          for the cause of Christ and the Colossian believers?
+        choices:
+          A: Regret
+          B: Rejoicing
+          C: Reluctance
+          D: Sorrow
+        answer: B
+      - uid: BIB217.2.2.3.F.1
+        subobj: 2.2.3
+        type: final
+        question: The goal of ministry is to
+        choices:
+          A: build a large congregation.
+          B: provide a moral compass.
+          C: achieve prosperity.
+          D: bring believers to maturity.
+        answer: D
+      - uid: BIB217.2.2.4.F.1
+        subobj: 2.2.4
+        type: final
+        question: Effective ministry is accomplished through
+        choices:
+          A: hard work and determination.
+          B: great administrative and organizational skills.
+          C: the empowerment of the Holy Spirit.
+          D: personal sacrifice.
+        answer: C
+      - uid: BIB217.2.3.4.F.1
+        subobj: 2.3.4
+        type: final
+        question: An ascetic is a person who practices
+        choices:
+          A: the pursuit of a higher or deeper religious experience.
+          B: legalism.
+          C: rigorous self-denial.
+          D: the pursuit of knowledge and academic excellence.
+        answer: C
+      - uid: BIB217.3.1.1.F.1
+        subobj: 3.1.1
+        type: final
+        question: Instead of focusing upon earthly things, Paul instructs believers
+          at Colosse to
+        choices:
+          A: submit their requests to God with thanksgiving.
+          B: flee the desires of the sinful nature.
+          C: be transformed by the renewing of their minds.
+          D: set their heart and minds upon things above.
+        answer: D
+      - uid: BIB217.3.1.2.F.2
+        subobj: 3.1.2
+        type: final
+        question: According to Colossians 3:15, what are Christians instructed to
+          let rule in their hearts?
+        choices:
+          A: Joy
+          B: Gentleness
+          C: Peace
+          D: Compassion
+        answer: C
+      - uid: BIB217.3.2.2.F.1
+        subobj: 3.2.2
+        type: final
+        question: Submission is
+        choices:
+          A: yielding voluntarily to another.
+          B: serving out of duty.
+          C: respect for those in authority over us.
+          D: forceful compliance.
+        answer: A
+      - uid: BIB217.3.2.3.F.2
+        subobj: 3.2.3
+        type: final
+        question: God's plan for marriage is
+        choices:
+          A: forced submission.
+          B: love based upon duty and tradition.
+          C: submission at any cost.
+          D: mutual love and submission.
+        answer: D
+      - uid: BIB217.3.3.4.F.1
+        subobj: 3.3.4
+        type: final
+        question: Epaphras was a person with a
+        choices:
+          A: political position in Colosse.
+          B: sinful past.
+          C: a strong commitment.
+          D: powerful prayer life.
+        answer: D
+      - uid: BIB217.4.1.1.F.1
+        subobj: 4.1.1
+        type: final
+        question: What was the politically challenging thing that Paul was asking
+          Philemon to do?
+        choices:
+          A: Paul's request put Philemon in an embarrassing position.
+          B: Paul could have been charged as an accomplice to theft.
+          C: Paul was imposing on Philemon's friendship.
+          D: Philemon was asked to give up his legal rights.
+        answer: D
+      - uid: BIB217.4.1.1.F.2
+        subobj: 4.1.1
+        type: final
+        question: Why would Paul's request to Philemon require an especially costly
+          decision?
+        choices:
+          A: Philemon and Onesimus could never bridge the class barrier.
+          B: In Roman culture, an enslaved person was a valuable piece of property.
+          C: Philemon could face retaliation from the Roman authorities.
+          D: Philemon would have to endure loss of face in a shame-honor culture.
+        answer: B
+      - uid: BIB217.4.1.2.F.1
+        subobj: 4.1.2
+        type: final
+        question: What specifically does Paul ask Philemon to do?
+        choices:
+          A: Transfer the ownership of Onesimus to Paul
+          B: Adopt Onesimus as a son
+          C: Set free all his enslaved persons
+          D: Receive Onesimus back to the household without punishment
+        answer: D
+      - uid: BIB217.4.1.3.F.1
+        subobj: 4.1.3
+        type: final
+        question: Identify a major theme in the letter to Philemon.
+        choices:
+          A: The church as a family and believers as brothers
+          B: Tolerance of diverse customs and laws
+          C: The church as the bride of Christ
+          D: Jesus' Lordship over the church
+        answer: A
+      - uid: BIB217.4.2.1.F.1
+        subobj: 4.2.1
+        type: final
+        question: What role did Philemon have in the Colossian church?
+        choices:
+          A: Philemon was a ruler, possibly the chairman of the board.
+          B: The church met in Philemon's house.
+          C: Philemon was a prominent teacher.
+          D: Philemon's son was an elder in the Colossian church.
+        answer: B
+      - uid: BIB217.4.2.2.F.1
+        subobj: 4.2.2
+        type: final
+        question: Paul thanks God for Philemon's characteristic(s) of
+        choices:
+          A: sacrifice and service.
+          B: suffering persecution for Jesus' sake.
+          C: faith in Jesus and love for the saints.
+          D: godly leadership.
+        answer: C
+      - uid: BIB217.4.2.3.F.1
+        subobj: 4.2.3
+        type: final
+        question: Identify a characteristic of true biblical forgiveness.
+        choices:
+          A: We must not overlook the wrong that was done.
+          B: We are not required to make a public expression of forgiveness.
+          C: It is legitimate to expect repayment for losses that an offender has
+            caused.
+          D: Forgiveness is an active work that demonstrates our faith.
+        answer: D
+      - uid: BIB217.4.3.1.F.1
+        subobj: 4.3.1
+        type: final
+        question: Identify a principle of forgiveness that is found in the letter
+          to Philemon.
+        choices:
+          A: Enduring an offense is an exercise of Christian discipline.
+          B: God can take an offense and make something good out of it.
+          C: Jesus said that offenses would come, but woe be to the offender.
+          D: Christians should refrain from taking legal action.
+        answer: B
+      - uid: BIB217.5.1.2.F.1
+        subobj: 5.1.2
+        type: final
+        question: The leading city in the Roman province of Asia was
+        choices:
+          A: Laodicea.
+          B: Ephesus.
+          C: Sardis.
+          D: Thyatira.
+        answer: B
+      - uid: BIB217.5.1.3.F.1
+        subobj: 5.1.3
+        type: final
+        question: The contents of Ephesians is very similar to that of
+        choices:
+          A: Philippians.
+          B: Galatians.
+          C: Colossians.
+          D: Philemon.
+        answer: C
+      - uid: BIB217.5.1.4.F.1
+        subobj: 5.1.4
+        type: final
+        question: The purpose of Ephesians was to underscore the
+        choices:
+          A: strength of the Lord in the midst of weakness.
+          B: joy of the Lord in the midst of suffering.
+          C: priesthood of believers and their standing with Christ.
+          D: centrality of Christ and the resources available to those in Him.
+        answer: D
+      - uid: BIB217.5.1.5.F.1
+        subobj: 5.1.5
+        type: final
+        question: The course author lists eight key themes in Ephesians. Two of them
+          are the
+        choices:
+          A: status of believers in Christ and spiritual warfare.
+          B: justification of believers and their exalted position.
+          C: joy of the Lord and the second coming of Christ.
+          D: justification of believers and the second coming of Christ.
+        answer: A
+      - uid: BIB217.5.2.4.F.1
+        subobj: 5.2.4
+        type: final
+        question: Forgiveness is a consequence of
+        choices:
+          A: sanctification.
+          B: indoctrination.
+          C: redemption.
+          D: illumination.
+        answer: C
+      - uid: BIB217.5.2.7.F.2
+        subobj: 5.2.7
+        type: final
+        question: In Ephesians 1, Paul says believers are sealed by the Holy Spirit,
+          which means
+        choices:
+          A: believers have been sanctified and set apart for ministry.
+          B: believers have been empowered and anointed for ministry.
+          C: the Holy Spirit is the down payment guaranteeing what is yet to come.
+          D: believers have received God's stamp of approval.
+        answer: C
+      - uid: BIB217.5.3.3.F.1
+        subobj: 5.3.3
+        type: final
+        question: In Ephesians 1, Paul prays that the Ephesians may know the
+        choices:
+          A: forgiveness of sin, the hope of their calling, and God's incomparably
+            great power for those who believe.
+          B: hope of their calling, their glorious inheritance in the saints, and
+            God's incomparably great power for those who believe.
+          C: unity of the Spirit, their inheritance in Christ, and the power of the
+            Holy Spirit.
+          D: love of Christ, their inheritance in the saints, and the power of the
+            Holy Spirit.
+        answer: B
+      - uid: BIB217.6.1.2.F.2
+        subobj: 6.1.2
+        type: final
+        question: God's unmerited favor is called
+        choices:
+          A: mercy.
+          B: grace.
+          C: forgiveness.
+          D: blessing.
+        answer: B
+      - uid: BIB217.6.1.2.F.1
+        subobj: 6.1.2
+        type: final
+        question: According to Ephesians 2:8-9, believers are saved by
+        choices:
+          A: grace through faith.
+          B: both works and faith.
+          C: faith and human determination.
+          D: grace and human works.
+        answer: A
+      - uid: BIB217.6.1.3.F.1
+        subobj: 6.1.3
+        type: final
+        question: Life, hope, position, and purpose/potential are a result of
+        choices:
+          A: salvation.
+          B: determination.
+          C: dedication.
+          D: sanctification.
+        answer: A
+      - uid: BIB217.6.2.1.F.1
+        subobj: 6.2.1
+        type: final
+        question: Bringing two parties together that are somehow divided is called
+        choices:
+          A: reconciliation.
+          B: unification.
+          C: restoration.
+          D: justification.
+        answer: A
+      - uid: BIB217.6.2.3.F.1
+        subobj: 6.2.3
+        type: final
+        question: Believers are reconciled in Christ, bringing them
+        choices:
+          A: near, peace, unity, and access to God.
+          B: access to God, hope, unity, and prosperity.
+          C: hope, peace, purpose, and prosperity.
+          D: hope, joy, purpose, and access to God.
+        answer: A
+      - uid: BIB217.6.3.2.F.1
+        subobj: 6.3.2
+        type: final
+        question: Concerning God's redemptive plan for the world, God sees the Gentiles
+        choices:
+          A: as a lost people.
+          B: as included in His plan, but the Jews are still more important.
+          C: as better than the Jew, because the Jews rejected God's promises.
+          D: with no distinction, because both Jew and Gentiles are included in His
+            plan.
+        answer: D
+      - uid: BIB217.6.4.2.F.1
+        subobj: 6.4.2
+        type: final
+        question: What motif does Paul use throughout Ephesians to explain who we
+          are and how we live out our lives in Christ?
+        choices:
+          A: The use of the Indicative-imperative moods
+          B: The use of the Optative-indicative moods
+          C: The use of the Indicative-optative moods
+          D: The use of the Subjective-imperative moods
+        answer: A
+      - uid: BIB217.7.1.1.F.1
+        subobj: 7.1.1
+        type: final
+        question: Humility, gentleness, patience, and forbearance are character qualities
+          that contribute to
+        choices:
+          A: reconciliation.
+          B: evangelism.
+          C: unity.
+          D: sanctification.
+        answer: C
+      - uid: BIB217.8.1.1.F.1
+        subobj: 8.1.1
+        type: final
+        question: According to the textbook, what should a husband and wife do to
+          hold their marriage and home together?
+        choices:
+          A: Stay culturally relevant
+          B: Pursue common goals
+          C: Practice mutual submission
+          D: Pursue financial stability
+        answer: C
+      - uid: BIB217.9.1.2.F.1
+        subobj: 9.1.2
+        type: final
+        question: According to Ephesians 6, a Christian warrior must
+        choices:
+          A: fight and not give in.
+          B: be strong and stand firm.
+          C: lay down his life.
+          D: retreat and seek refuge in God.
+        answer: B
+      - uid: BIB217.10.1.2.F.1
+        subobj: 10.1.2
+        type: final
+        question: What was the leading city in the Roman province of Macedonia?
+        choices:
+          A: Colosse
+          B: Philippi
+          C: Ephesus
+          D: Sardis
+        answer: B
+      - uid: BIB217.11.1.2.F.1
+        subobj: 11.1.2
+        type: final
+        question: According to Philippians 1, Paul responded to jealous, contentious
+          fellow preachers by
+        choices:
+          A: thanking God that Christ was exalted.
+          B: warning the Church.
+          C: praying for protection.
+          D: confronting ungodliness.
+        answer: A
+      - uid: BIB217.12.1.1.F.1
+        subobj: 12.1.1
+        type: final
+        question: What two servant-leaders did Paul mention specifically in Philippians?
+        choices:
+          A: Timothy and Epaphroditus
+          B: Luke and Timothy
+          C: Epaphras and Timothy
+          D: Tychicus and Epaphras
+        answer: A
+      - uid: BIB217.13.1.1.F.1
+        subobj: 13.1.1
+        type: final
+        question: In Philippi, who were two key church leaders that had worked along
+          side Paul, but were now is sharp disagreement?
+        choices:
+          A: Clement and Euodia
+          B: Tychicus and Euodia
+          C: Clement and Syntyche
+          D: Euodia and Syntyche
+        answer: D
+      final_source:
+        run: 20260824T150810_BIB217.all.f
+        form: A
+        date: '2026-08-24'
     deployed_pn: 01.26.01
     chapters:
     - last_modified: '2026-03-27'
