@@ -64,15 +64,15 @@
       "questions": {
         "active": {
           "final": 33,
-          "total": 297,
-          "ty": 149,
-          "upe": 115
+          "total": 309,
+          "ty": 150,
+          "upe": 126
         },
         "retired": {
           "final": 68,
-          "total": 104,
-          "ty": 17,
-          "upe": 19
+          "total": 145,
+          "ty": 40,
+          "upe": 37
         }
       },
       "status": "active",
@@ -666,16 +666,16 @@
   "questions": {
     "active": {
       "final": 1765,
-      "total": 6966,
-      "ty": 3034,
-      "upe": 2167
+      "total": 6978,
+      "ty": 3035,
+      "upe": 2178
     },
     "retired": {
       "final": 593,
-      "total": 3925,
-      "ty": 1901,
-      "upe": 1431
+      "total": 3966,
+      "ty": 1924,
+      "upe": 1449
     },
-    "total": 10891
+    "total": 10944
   }
 }
