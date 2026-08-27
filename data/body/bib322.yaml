@@ -1138,11 +1138,7 @@ courses:
       course_code: BIB322
       source_html: BBIB322ENE02-90_02.22.01.html
       template: old
-      recorded: '2026-08-26'
-      note: 'Pristine print baseline built by scripts/build_html_baseline.py purely
-        from the InDesign HTML -- no DB input. Read-only: never hand-edit and never
-        feed to the janitor. UIDs are synthesized from the book''s own answer key;
-        diff pairs by content.'
+      recorded: '2026-08-27'
       counts:
         ty: 80
         upe: 75
@@ -1196,8 +1192,8 @@ courses:
         choices:
           A: God revealed more of His plan of redemption as history unfolded.
           B: people go through stages in understanding their need of salvation.
-          C: believers continue to reveal more and more of their inner lives to God.
-          D: scholars use advanced methods of interpretation to uncover new truths.
+          D: believers continue to reveal more and more of their inner lives to God.
+          C: scholars use advanced methods of interpretation to uncover new truths.
         answer: A
       - uid: BIB322.1.1.3.UPE.1
         subobj: 1.1.3
@@ -2076,11 +2072,12 @@ courses:
       - uid: BIB322.5.1.4.TY.1
         subobj: 5.1.4
         type: ty
-        question: a) God’s promises and His fulfillment of them.
+        question: Regarding good and evil, the wisdom psalms explore the gap between
         choices:
-          A: a believer’s faith and his or her doubts.
-          B: a believer’s new, righteous nature and his or her old, sinful nature.
-          C: God’s blessings for the upright and judgment of the wicked.
+          A: God’s promises and His fulfillment of them.
+          B: a believer’s faith and his or her doubts.
+          C: a believer’s new, righteous nature and his or her old, sinful nature.
+          D: God’s blessings for the upright and judgment of the wicked.
         answer: A
       - uid: BIB322.5.2.1.UPE.1
         subobj: 5.2.1
