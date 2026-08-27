@@ -2640,7 +2640,7 @@ courses:
       counts:
         ty: 138
         upe: 95
-        final: 0
+        final: 50
       questions:
       - uid: THE154.1.1.1.UPE.1
         subobj: 1.1.1
@@ -5120,6 +5120,550 @@ courses:
           C: Some form of education, resulting in sound biblical knowledge
           D: Three years of professional experience
         answer: C
+      - uid: THE154.11.1.1.F.4
+        subobj: 11.1.1
+        type: final
+        question: Why is transformation necessary for the Assemblies of God?
+        choices:
+          A: To remain relevant and effective in an ever-changing world
+          B: To replace its original mission and identity
+          C: To compete with other religious organizations
+          D: To adopt the ideologies of mainstream culture
+        answer: A
+      - uid: THE154.11.1.1.F.3
+        subobj: 11.1.1
+        type: final
+        question: How does the Assemblies of God approach transformation and societal
+          change?
+        choices:
+          A: By resisting change and holding to past traditions
+          B: By adapting to change while remaining faithful to God’s unchanging nature
+          C: By focusing solely on theological changes
+          D: By allowing cultural shifts to determine doctrine
+        answer: B
+      - uid: THE154.1.1.1.F.2
+        subobj: 1.1.1
+        type: final
+        question: What was one effect of the Second Great Awakening on American churches?
+        choices:
+          A: A decline in religious participation
+          B: A shift toward hierarchical church structures
+          C: The rise of circuit-riding preachers and revival meetings
+          D: A rejection of personal salvation
+        answer: C
+      - uid: THE154.1.1.1.F.1
+        subobj: 1.1.1
+        type: final
+        question: What major event shaped American religious life in the early 1800s?
+        choices:
+          A: The Great Depression
+          B: The Second Great Awakening
+          C: The Civil War
+          D: The Industrial Revolution
+        answer: B
+      - uid: THE154.1.1.2.F.1
+        subobj: 1.1.2
+        type: final
+        question: How did postmillennialism influence the social gospel movement?
+        choices:
+          A: It discouraged efforts to improve society
+          B: It encouraged the belief that societal transformation would bring Christ’s
+            return
+          C: It rejected all forms of evangelism
+          D: It taught that only clergy should be involved in missions
+        answer: B
+      - uid: THE154.1.2.1.F.1
+        subobj: 1.2.1
+        type: final
+        question: What was the main purpose of Pentecostal revivals?
+        choices:
+          A: To create new denominations
+          B: To restore the power and gifts of the Holy Spirit
+          C: To replace traditional churches
+          D: To oppose all church organization
+        answer: B
+      - uid: THE154.1.2.2.F.1
+        subobj: 1.2.2
+        type: final
+        question: What was the primary goal of Christian Fundamentalism?
+        choices:
+          A: To redefine traditional doctrines
+          B: To reaffirm core Christian beliefs against modernism
+          C: To create new theological concepts
+          D: To merge Christianity with other religions
+        answer: B
+      - uid: THE154.1.2.3.F.1
+        subobj: 1.2.3
+        type: final
+        question: What was the Holiness Movement’s perspective on sanctification?
+        choices:
+          A: It was an unnecessary doctrine
+          B: It was a second work of grace following salvation
+          C: It was identical to justification
+          D: It only applied to clergy
+        answer: B
+      - uid: THE154.2.1.2.F.1
+        subobj: 2.1.2
+        type: final
+        question: What unique tenet did Charles Parham add to Holiness doctrine?
+        choices:
+          A: The requirement of spiritual gifts for church leadership
+          B: Speaking in tongues as the initial physical evidence of Spirit baptism
+          C: The necessity of water baptism for salvation
+          D: The idea that miracles were no longer for the modern church
+        answer: B
+      - uid: THE154.2.1.3.F.1
+        subobj: 2.1.3
+        type: final
+        question: What convinced Parham that speaking in tongues was the initial evidence
+          of Spirit baptism?
+        choices:
+          A: A direct message from an angel
+          B: The teaching of William J. Seymour
+          C: The biblical pattern he observed in the Book of Acts
+          D: A revelation he received in prayer
+        answer: C
+      - uid: THE154.2.2.1.F.1
+        subobj: 2.2.1
+        type: final
+        question: What significant challenge did William Seymour face early in life?
+        choices:
+          A: Blindness in one eye from smallpox
+          B: An inability to read until adulthood
+          C: A speech impediment
+          D: Severe persecution from local churches
+        answer: A
+      - uid: THE154.2.2.2.F.2
+        subobj: 2.2.2
+        type: final
+        question: How did William Seymour respond to the explosive growth of the Azusa
+          Street Revival?
+        choices:
+          A: He stepped aside and let others lead
+          B: He imposed strict rules on who could participate
+          C: He remained humble and continued to pray behind wooden boxes
+          D: He sought financial gain from the movement
+        answer: C
+      - uid: THE154.2.2.3.F.3
+        subobj: 2.2.3
+        type: final
+        question: Which phrase best describes the racial and social atmosphere of
+          the Azusa Street Revival?
+        choices:
+          A: Divided along racial and economic lines
+          B: Primarily attended by one ethnic group
+          C: A diverse and inclusive gathering
+          D: Restricted to ordained clergy members
+        answer: C
+      - uid: THE154.2.2.4.F.1
+        subobj: 2.2.4
+        type: final
+        question: What theological disagreement contributed to the split between Seymour
+          and Parham?
+        choices:
+          A: The role of water baptism in salvation
+          B: Whether the Holy Spirit baptism always resulted in xenolalia or glossolalia
+          C: The necessity of formal theological education for preachers
+          D: Whether the Sabbath should be observed on Saturday or Sunday
+        answer: B
+      - uid: THE154.3.2.1.F.3
+        subobj: 3.2.1
+        type: final
+        question: Which of the following was an important function of Pentecostal
+          newsletters and magazines?
+        choices:
+          A: They connected believers, spread revival news, and encouraged prayer
+          B: They focused on raising financial support for church buildings
+          C: They provided theological arguments against fundamentalist groups
+          D: They primarily published reports from established denominations
+        answer: A
+      - uid: THE154.3.2.1.F.1
+        subobj: 3.2.1
+        type: final
+        question: How did early Pentecostals spread their message despite opposition?
+        choices:
+          A: Holding services exclusively in their homes
+          B: Taking their message to open-air meetings, tents, and rented buildings
+          C: Avoiding major cities and staying in rural areas
+          D: Limiting their meetings to Sunday mornings only
+        answer: B
+      - uid: THE154.3.2.2.F.1
+        subobj: 3.2.2
+        type: final
+        question: What was one way Pentecostal gatherings met people’s needs?
+        choices:
+          A: They required people to attend long training programs before receiving
+            help
+          B: They emphasized physical healing over spiritual renewal
+          C: They encouraged open prayer and testimonies of God’s provision
+          D: They provided financial loans to struggling families
+        answer: C
+      - uid: THE154.3.2.3.F.1
+        subobj: 3.2.3
+        type: final
+        question: How were Pentecostal gatherings unique in their diversity?
+        choices:
+          A: They were intentionally kept small to maintain doctrinal purity
+          B: They welcomed men and women of all races and social backgrounds
+          C: They were led exclusively by seminary-trained ministers
+          D: They required members to renounce their previous church affiliations
+        answer: B
+      - uid: THE154.3.3.1.F.1
+        subobj: 3.3.1
+        type: final
+        question: What demonstrated early Pentecostals’ openness to new things?
+        choices:
+          A: Their willingness to experiment with new ministry methods and technologies
+          B: Their rejection of Holiness teachings
+          C: Their dependence on printed liturgies and structured worship
+          D: Their strict adherence to traditional church customs
+        answer: A
+      - uid: THE154.3.3.2.F.1
+        subobj: 3.3.2
+        type: final
+        question: Which belief fueled Pentecostals’ fervency in evangelism?
+        choices:
+          A: The conviction that Christ’s return was imminent
+          B: A desire to establish the largest church denominations
+          C: The belief that only pastors were responsible for spreading the gospel
+          D: A commitment to theological debates over church governance
+        answer: A
+      - uid: THE154.3.4.1.F.1
+        subobj: 3.4.1
+        type: final
+        question: Which of the following is NOT one of the four core tenets of the
+          Pentecostal message?
+        choices:
+          A: Salvation
+          B: Baptism in the Holy Spirit
+          C: Church membership requirements
+          D: Divine healing
+        answer: C
+      - uid: THE154.3.4.2.F.2
+        subobj: 3.4.2
+        type: final
+        question: What was the primary purpose of the baptism in the Holy Spirit,
+          according to Pentecostal belief?
+        choices:
+          A: To empower believers for evangelism and ministry
+          B: To grant new revelations beyond the Bible
+          C: To establish church hierarchy and leadership roles
+          D: To replace the need for salvation
+        answer: A
+      - uid: THE154.4.1.1.F.2
+        subobj: 4.1.1
+        type: final
+        question: What was a major challenge faced by independent Pentecostal churches
+          regarding leadership?
+        choices:
+          A: Pentecostal churches could not hold services in rented buildings.
+          B: Many pastors were required to be married before they could serve.
+          C: Some ministers lacked formal theological training, leading to doctrinal
+            errors.
+          D: The government refused to allow Pentecostal pastors to perform weddings.
+        answer: C
+      - uid: THE154.4.1.1.F.1
+        subobj: 4.1.1
+        type: final
+        question: Which of the following was one of the five problems caused by the
+          independent nature of the early Pentecostal Movement?
+        choices:
+          A: Pentecostals were often denied government funding for church buildings.
+          B: The movement faced potential for divisions and lack of accountability.
+          C: The movement was opposed primarily because of theological disagreements
+            over baptism.
+          D: Many Pentecostals struggled to gain access to college education.
+        answer: B
+      - uid: THE154.4.2.1.F.1
+        subobj: 4.2.1
+        type: final
+        question: Who were the three key architects of the organizational meeting
+          in Hot Springs, Arkansas?
+        choices:
+          A: John G. Lake, Smith Wigglesworth, and Thomas Ball Barratt
+          B: Howard A. Goss, D. C. O. Opperman, and E. N. Bell
+          C: A. B. Simpson, Frank Bartleman, and Maria Woodworth-Etter
+          D: William Seymour, Charles Parham, and G. B. Cashwell
+        answer: B
+      - uid: THE154.4.2.2.F.1
+        subobj: 4.2.2
+        type: final
+        question: Why was great care needed when calling Pentecostals to organize?
+        choices:
+          A: The United States government was monitoring Pentecostal activities.
+          B: A formal denomination required significant financial investments from
+            all members.
+          C: Many Pentecostals were deeply suspicious of denominations and formal
+            structures.
+          D: Pentecostal churches had to obtain permission from local officials before
+            meeting.
+        answer: C
+      - uid: THE154.4.3.1.F.1
+        subobj: 4.3.1
+        type: final
+        question: Who was invited to attend the Hot Springs gathering?
+        choices:
+          A: Pentecostal leaders, laypeople, and missionaries
+          B: Only those who had been personally invited by E. N. Bell
+          C: All members of existing Protestant denominations
+          D: Only those who had completed formal seminary training
+        answer: A
+      - uid: THE154.4.3.2.F.2
+        subobj: 4.3.2
+        type: final
+        question: What was one reason Bell emphasized the importance of legal standing
+          for Pentecostal churches?
+        choices:
+          A: It was required by the United Nations for missionary work.
+          B: It ensured that only ordained pastors could lead Pentecostal churches.
+          C: It helped Pentecostals receive funding from the U.S. government.
+          D: It would allow churches to own property and conduct business more effectively.
+        answer: D
+      - uid: THE154.4.4.1.F.1
+        subobj: 4.4.1
+        type: final
+        question: Why was no business conducted for the first few days of the Hot
+          Springs meeting?
+        choices:
+          A: The attendees were divided and refused to participate in the meetings.
+          B: Leaders wanted to establish unity through prayer, worship, and fellowship.
+          C: A fire at the meeting site delayed the start of discussions.
+          D: The delegates were waiting for an official endorsement from government
+            officials.
+        answer: B
+      - uid: THE154.4.4.3.F.1
+        subobj: 4.4.3
+        type: final
+        question: What did the founders of the Assemblies of God deliberately avoid
+          organizing?
+        choices:
+          A: A strict denominational hierarchy and a formalized doctrinal statement
+          B: A missions board and a system for ministerial training
+          C: A formal church planting initiative and a legal council
+          D: A centralized financial office and a required church name
+        answer: A
+      - uid: THE154.4.4.4.F.1
+        subobj: 4.4.4
+        type: final
+        question: Which of the following was a key decision made at the Hot Springs
+          meeting?
+        choices:
+          A: The formation of district councils to help oversee local churches
+          B: The requirement that all Assemblies of God ministers be seminary graduates
+          C: The prohibition of women serving in ministry
+          D: The establishment of a single headquarters for all churches
+        answer: A
+      - uid: THE154.5.1.1.F.1
+        subobj: 5.1.1
+        type: final
+        question: What are the four core doctrines of the Assemblies of God?
+        choices:
+          A: Baptism in the Holy Spirit, Evangelism, Church Membership, and Healing
+          B: Christ as Savior, Baptizer in the Holy Spirit, Healer, and Soon-Coming
+            King
+          C: Church Organization, Water Baptism, Speaking in Tongues, and Tithing
+          D: The Trinity, Holiness, Divine Healing, and Church Government
+        answer: B
+      - uid: THE154.5.2.1.F.1
+        subobj: 5.2.1
+        type: final
+        question: What theological issue caused the first doctrinal split in the Pentecostal
+          movement?
+        choices:
+          A: Speaking in tongues as the initial evidence of Spirit baptism
+          B: The role of women in ministry
+          C: The timing and process of sanctification
+          D: The proper method of water baptism
+        answer: C
+      - uid: THE154.5.3.1.F.1
+        subobj: 5.3.1
+        type: final
+        question: What was the ”New Issue” that threatened to divide the Assemblies
+          of God?
+        choices:
+          A: The rejection of divine healing
+          B: The belief in Oneness theology over the Trinity
+          C: The use of modern worship music
+          D: The exclusion of women from ministry
+        answer: B
+      - uid: THE154.5.4.1.F.2
+        subobj: 5.4.1
+        type: final
+        question: What was one of the key reasons that the Assemblies of God adopted
+          the Sixteen Fundamental Truths?
+        choices:
+          A: To create a comprehensive manual for worship
+          B: To ensure doctrinal unity and prevent future divisions
+          C: To align with other Pentecostal organizations
+          D: To introduce new doctrinal revelations
+        answer: B
+      - uid: THE154.5.5.1.F.2
+        subobj: 5.5.1
+        type: final
+        question: What doctrine was most strongly emphasized in the 1917 General Council?
+        choices:
+          A: The role of women in ministry
+          B: The requirement of water baptism for salvation
+          C: Speaking in tongues as the initial physical evidence of Spirit baptism
+          D: The ordination of bishops
+        answer: C
+      - uid: THE154.6.1.1.F.1
+        subobj: 6.1.1
+        type: final
+        question: Which of the following facts demonstrates the Assemblies of God’s
+          early passion for missions?
+        choices:
+          A: The first department created by the AG was the Missionary Department
+            in 1919.
+          B: The AG focused exclusively on domestic missions in its early years.
+          C: The AG restricted missionary work to trained ministers only.
+          D: The AG did not emphasize missionary outreach until the 1940s.
+        answer: A
+      - uid: THE154.6.2.1.F.1
+        subobj: 6.2.1
+        type: final
+        question: What was one of the six principles the 1921 General Council outlined
+          for missionary endeavors?
+        choices:
+          A: Only trained pastors should be sent as missionaries.
+          B: Missions should focus exclusively on English-speaking nations.
+          C: Missionaries should follow the indigenous church principle.
+          D: Missionary work should be based on a hierarchical model.
+        answer: C
+      - uid: THE154.6.3.3.F.1
+        subobj: 6.3.3
+        type: final
+        question: What is one way people on the home front have contributed to missions?
+        choices:
+          A: By discouraging new missionary efforts
+          B: Through sacrificial giving and prayer support
+          C: By limiting financial support to U.S.-based churches
+          D: By keeping missions work exclusive to ordained ministers
+        answer: B
+      - uid: THE154.6.3.4.F.1
+        subobj: 6.3.4
+        type: final
+        question: Which of the following is one of the seven ”windows” of U.S. Missions
+          ministry?
+        choices:
+          A: Private Business Expansion
+          B: Chaplaincy Ministries
+          C: Political Outreach
+          D: Academic Research
+        answer: B
+      - uid: THE154.6.4.1.F.1
+        subobj: 6.4.1
+        type: final
+        question: Which of the following is NOT one of the fourfold missions strategies
+          of the Assemblies of God?
+        choices:
+          A: Evangelism
+          B: Church Planting
+          C: Political Reform
+          D: Education
+        answer: C
+      - uid: THE154.6.4.2.F.1
+        subobj: 6.4.2
+        type: final
+        question: What is a major emphasis of AG World Missions in the twenty-first
+          century?
+        choices:
+          A: Shifting resources away from evangelism to focus on administration
+          B: Partnering with other organizations to reach unreached people groups
+          C: Limiting missionary work to regions with existing AG churches
+          D: Requiring all missionaries to return home after 10 years of service
+        answer: B
+      - uid: THE154.7.1.1.F.1
+        subobj: 7.1.1
+        type: final
+        question: Why were early Pentecostals concerned about modern theological education?
+        choices:
+          A: They believed it would corrupt their doctrine with antibiblical modernism.
+          B: They thought universities would demand financial support from churches.
+          C: They feared students would refuse to pursue pastoral ministry.
+          D: They were uncertain about how education aligned with biblical prophecy.
+        answer: A
+      - uid: THE154.8.1.1.F.1
+        subobj: 8.1.1
+        type: final
+        question: What role did women play in the early Assemblies of God?
+        choices:
+          A: They primarily served in administrative and supportive roles
+          B: They were limited to missionary work abroad
+          C: They were active as pastors, evangelists, missionaries, and church planters
+          D: They were officially excluded from ministry leadership
+        answer: C
+      - uid: THE154.9.1.1.F.1
+        subobj: 9.1.1
+        type: final
+        question: How did liberal churches generally respond to the Pentecostal movement
+          in the early 20th century?
+        choices:
+          A: They welcomed Pentecostals as a fresh move of the Holy Spirit.
+          B: They ignored or ridiculed Pentecostals as uneducated fanatics.
+          C: They sought to merge Pentecostalism with their own traditions.
+          D: They actively encouraged their members to seek Spirit baptism.
+        answer: B
+      - uid: THE154.10.2.1.F.2
+        subobj: 10.2.1
+        type: final
+        question: What policy did the Assemblies of God General Presbytery adopt in
+          1939 regarding black ministers?
+        choices:
+          A: Full and equal ordination at all levels
+          B: Licensing only at the district level, not national ordination
+          C: Immediate expulsion from the fellowship
+          D: Assignment to segregated congregations
+        answer: B
+      - uid: THE154.11.1.1.F.1
+        subobj: 11.1.1
+        type: final
+        question: Which ethnic groups have been key to the growth and vitality of
+          the Assemblies of God?
+        choices:
+          A: Hispanic, Black, and other ethnic minorities
+          B: White evangelicals
+          C: European immigrants from Catholic backgrounds
+          D: Primarily second-generation American-born citizens
+        answer: A
+      - uid: THE154.12.1.1.F.1
+        subobj: 12.1.1
+        type: final
+        question: What is the primary mission of AGTrust?
+        choices:
+          A: To provide financial aid for Bible college students
+          B: To promote social justice causes worldwide
+          C: To advance a healthy, growing Assemblies of God Fellowship and empower
+            future generations
+          D: To transition the Assemblies of God into an interfaith organization
+        answer: C
+      - uid: THE154.13.1.1.F.3
+        subobj: 13.1.1
+        type: final
+        question: How do Bylaws differ from the Constitution in an organization’s
+          governance?
+        choices:
+          A: The Bylaws outline administrative details and procedures, while the Constitution
+            defines the organization’s identity
+          B: The Bylaws are superior to the Constitution in decision-making authority
+          C: The Bylaws determine doctrinal beliefs, while the Constitution focuses
+            only on financial matters
+          D: The Bylaws remain unchanged, while the Constitution is frequently updated
+        answer: A
+      - uid: THE154.14.1.2.F.2
+        subobj: 14.1.2
+        type: final
+        question: What governing body functions as the trustees for the General Council?
+        choices:
+          A: The General Presbytery
+          B: The Executive Presbytery
+          C: The Executive Leadership Team
+          D: The General Superintendent alone
+        answer: B
+      final_source:
+        key_pdf: BTHE154E-ER-KEY (2).pdf
+        matched: 50
+        unmatched: 0
     deployed_pn: 01.26.06
     body_baseline_pn: 01.26.06
     chapters:
