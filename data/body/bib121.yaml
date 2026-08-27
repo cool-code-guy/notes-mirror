@@ -1471,11 +1471,8 @@ courses:
       course_code: BIB121
       source_html: BBIB121ENE03-90_03.23.01.html
       template: old
-      recorded: '2026-08-26'
-      note: 'Pristine print baseline built by scripts/build_html_baseline.py purely
-        from the InDesign HTML -- no DB input. Read-only: never hand-edit and never
-        feed to the janitor. UIDs are synthesized from the book''s own answer key;
-        diff pairs by content.'
+      recorded: '2026-08-27'
+      unplaced: 1
       counts:
         ty: 149
         upe: 100
@@ -2781,12 +2778,13 @@ courses:
       - uid: BIB121.7.2.2.TY.2
         subobj: 7.2.2
         type: ty
-        question: What is a round character in a biblical narrative?
+        question: What is a round character in a biblical narrative? A round character
+          is one
         choices:
-          A: round character is one
-          B: concerning whom few details are given.
-          C: who is described with many details.
-          D: whose choices produce a negative result.
+          A: concerning whom few details are given.
+          B: who is described with many details.
+          C: whose choices produce a negative result.
+          D: is the main character in an extended narrative.
         answer: B
       - uid: BIB121.7.3.1.TY.1
         subobj: 7.3.1
