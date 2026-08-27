@@ -69,7 +69,7 @@ courses:
       counts:
         ty: 130
         upe: 75
-        final: 0
+        final: 19
       questions:
       - uid: THE118.1.1.1.UPE.1
         subobj: 1.1.1
@@ -2222,6 +2222,210 @@ courses:
           C: destroy the world and spend eternity with His people in heaven.
           D: create a new heaven and earth and dwell with His people for eternity.
         answer: D
+      - uid: THE118.1.1.1.F.1
+        subobj: 1.1.1
+        type: final
+        question: The special act of the Holy Spirit by which He led writers of Scripture
+          to write the message that God gave them is called
+        choices:
+          A: inspiration.
+          B: mechanical dictation.
+          C: synergy.
+          D: revelation.
+        answer: A
+      - uid: THE118.1.2.1.F.1
+        subobj: 1.2.1
+        type: final
+        question: The Bible was written over a period of how many years?
+        choices:
+          A: '400'
+          B: '800'
+          C: '1200'
+          D: '1600'
+        answer: D
+      - uid: THE118.2.1.2.F.1
+        subobj: 2.1.2
+        type: final
+        question: God is consistent and immutable, meaning that He is
+        choices:
+          A: unchanging.
+          B: eternal.
+          C: self-sufficient.
+          D: self-existent.
+        answer: A
+      - uid: THE118.3.2.1.F.1
+        subobj: 3.2.1
+        type: final
+        question: According to Romans 8:34, Jesus is at the right hand of God
+        choices:
+          A: to judge believers.
+          B: thinking of believers.
+          C: interceding for believers.
+          D: making atonement for believers.
+        answer: C
+      - uid: THE118.4.1.2.F.1
+        subobj: 4.1.2
+        type: final
+        question: Revelation 12:11 says the saints of God overcame Satan by
+        choices:
+          A: resisting him.
+          B: putting on the full armor of God.
+          C: the blood of the Lamb and the word of their testimony.
+          D: fleeing him.
+        answer: C
+      - uid: THE118.4.2.2.F.1
+        subobj: 4.2.2
+        type: final
+        question: Due to the fall of humanity, God's purposes for mankind have
+        choices:
+          A: changed.
+          B: been delayed.
+          C: not changed.
+          D: been eliminated.
+        answer: C
+      - uid: THE118.4.3.1.F.1
+        subobj: 4.3.1
+        type: final
+        question: In the Garden of Eden, Satan’s lie questioned God’s
+        choices:
+          A: knowledge.
+          B: power and authority.
+          C: holiness.
+          D: trustworthiness and goodness.
+        answer: D
+      - uid: THE118.5.1.2.F.1
+        subobj: 5.1.2
+        type: final
+        question: Who prophesied that Jesus would be pierced for our transgressions
+          and crushed for our iniquities?
+        choices:
+          A: Jeremiah
+          B: Ezekiel
+          C: Zechariah
+          D: Isaiah
+        answer: D
+      - uid: THE118.5.2.1.F.1
+        subobj: 5.2.1
+        type: final
+        question: What theological term is used to describe the debt Jesus paid to
+          save people from the penalty of their sin?
+        choices:
+          A: Redemption
+          B: Reconciliation
+          C: Justification
+          D: Regeneration
+        answer: A
+      - uid: THE118.5.3.2.F.1
+        subobj: 5.3.2
+        type: final
+        question: True saving faith is demonstrated by
+        choices:
+          A: works and repentance.
+          B: obedience and works.
+          C: repentance and water baptism.
+          D: repentance and obedience.
+        answer: D
+      - uid: THE118.6.1.2.F.1
+        subobj: 6.1.2
+        type: final
+        question: The biblical pattern for water baptism is
+        choices:
+          A: sprinkling.
+          B: pouring.
+          C: immersion.
+          D: both sprinkling and immersion.
+        answer: C
+      - uid: THE118.7.1.2.F.1
+        subobj: 7.1.2
+        type: final
+        question: Which event helps to illustrate the difference between the coming
+          of the Holy Spirit at salvation and the baptism in the Holy Spirit?
+        choices:
+          A: Paul’s encounter with the disciples at Ephesus (Acts 19)
+          B: Stephen’s martyrdom (Acts 7)
+          C: Paul’s conversion testimony (Acts 26)
+          D: Peter’s raising of Dorcas (Acts 9)
+        answer: A
+      - uid: THE118.7.2.1.F.1
+        subobj: 7.2.1
+        type: final
+        question: Speaking in tongues
+        choices:
+          A: is meant to happen once, when a believer is baptized in the Holy Spirit.
+          B: is not a manifestation of the Spirit.
+          C: serves as the initial physical evidence of the baptism of the Holy Spirit,
+            a gift of the Spirit, and is also for
+          D: is for praying in public for spiritual growth.
+        answer: C
+      - uid: THE118.7.3.1.F.1
+        subobj: 7.3.1
+        type: final
+        question: According to Ephesians 5:18 the baptism of the Holy Spirit is
+        choices:
+          A: a one time experience that is evidenced by speaking in tongues.
+          B: something needed by all believers who should always be filled with the
+            Holy Spirit.
+          C: for occasional use, when one has a message in tongues for the church.
+          D: for those who are mature in Christ.
+        answer: B
+      - uid: THE118.8.1.1.F.1
+        subobj: 8.1.1
+        type: final
+        question: Another word that can be used in the place of consecrate is the
+          word
+        choices:
+          A: righteous.
+          B: pure.
+          C: sanctify.
+          D: justify.
+        answer: C
+      - uid: THE118.10.2.2.F.1
+        subobj: 10.2.2
+        type: final
+        question: Apostle means
+        choices:
+          A: “one who is called to lead.”
+          B: “one who is sent.”
+          C: “one appointed by God.”
+          D: “one called to serve.”
+        answer: B
+      - uid: THE118.12.2.2.F.1
+        subobj: 12.2.2
+        type: final
+        question: Because God has not appointed believers to suffer His wrath, the
+          Assemblies of God holds to a
+        choices:
+          A: mid-tribulation rapture.
+          B: post-tribulation rapture.
+          C: pre-tribulation rapture.
+          D: post-millennium rapture.
+        answer: C
+      - uid: THE118.13.2.1.F.1
+        subobj: 13.2.1
+        type: final
+        question: The judgment seat of Christ is for
+        choices:
+          A: believers and unbelievers after the millennium.
+          B: believers before the millennium.
+          C: the wicked dead after the second resurrection.
+          D: believers and unbelievers before the millennium.
+        answer: B
+      - uid: THE118.13.3.1.F.1
+        subobj: 13.3.1
+        type: final
+        question: What will happen to the world after the Millennium?
+        choices:
+          A: This world will be completely destroyed and be replaced with a new heavens
+            and earth.
+          B: Christ will reign upon earth for eternity.
+          C: The world will be restored to its original condition.
+          D: This world will once again prosper under the leadership of Christ.
+        answer: A
+      final_source:
+        exam_pdf: THE211_C exam aug16.pdf
+        key_pdf: the211_1st_form c key desi aug 09.pdf
+        matched: 19
+        objectives_agree: 19
     deployed_pn: 04.22.01
     body_baseline_pn: 04.22.01
     body_baseline_date: '2026-08-26'

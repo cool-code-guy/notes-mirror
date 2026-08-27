@@ -565,7 +565,7 @@ courses:
       counts:
         ty: 110
         upe: 100
-        final: 0
+        final: 47
       questions:
       - uid: MIN261.1.1.1.UPE.1
         subobj: 1.1.1
@@ -2715,6 +2715,524 @@ courses:
             share in the rewards.
           D: God will reward both groups with material wealth.
         answer: C
+      - uid: MIN261.1.1.1.F.1
+        subobj: 1.1.1
+        type: final
+        question: Missions involves the selecting of missionaries to
+        choices:
+          A: share Christ within their cultural setting.
+          B: share Christ across geographical and cultural boundaries.
+          C: work in humanitarian efforts overseas.
+          D: establish diplomatic relationships between the U.S. church and foreign
+            church plants.
+        answer: B
+      - uid: MIN261.1.1.2.F.1
+        subobj: 1.1.2
+        type: final
+        question: Jesus said He came not to be served but to serve. Based on His example
+          in John 13, “to serve” means to
+        choices:
+          A: wash the feet of others as Jesus did.
+          B: do whatever others may wish us to do for them no matter the cost.
+          C: become a slave to others and give up one’s possessions.
+          D: use our talents and abilities to do for others what they cannot do for
+            themselves.
+        answer: D
+      - uid: MIN261.1.2.2.F.1
+        subobj: 1.2.2
+        type: final
+        question: The empowering of the Holy Spirit is of great importance to the
+          missionary principally because it enables him or her to
+        choices:
+          A: speak in a foreign language previously unknown.
+          B: demonstrate the supernatural reality of God.
+          C: enjoy God’s presence in a real way.
+          D: love God more deeply and with more understanding.
+        answer: B
+      - uid: MIN261.1.2.3.F.1
+        subobj: 1.2.3
+        type: final
+        question: We are to follow the declarations of the Great Commission primarily
+          because
+        choices:
+          A: they are not options but rather commands to be obeyed.
+          B: it will lead to great reward.
+          C: every believer feels the need to preach the gospel.
+          D: Jesus won’t return unless we obey.
+        answer: A
+      - uid: MIN261.1.3.2.F.1
+        subobj: 1.3.2
+        type: final
+        question: Jews understood the eons were divided into the
+        choices:
+          A: days of the prophets and the appearing of the Messiah.
+          B: age before the Flood and the days of the prophets.
+          C: present age and the last days when the Messiah would appear.
+          D: kings and the prophets.
+        answer: C
+      - uid: MIN261.1.3.4.F.1
+        subobj: 1.3.4
+        type: final
+        question: Which of the following is not a part of the missionary duty of the
+          Church stated by the course author?
+        choices:
+          A: worship of the triune God.
+          B: edification of fellow believers.
+          C: assisting all believers to live prosperous lives.
+          D: evangelism of the lost
+        answer: C
+      - uid: MIN261.2.1.1.F.1
+        subobj: 2.1.1
+        type: final
+        question: God sovereignly called Abraham with the ultimate purpose of
+        choices:
+          A: bringing people from all nations to himself.
+          B: establishing the nation of Israel.
+          C: taking over the territory of Canaan to establish His people.
+          D: purging the territory of idol worship.
+        answer: A
+      - uid: MIN261.2.2.1.F.1
+        subobj: 2.2.1
+        type: final
+        question: A clear indication of the missionary focus of the Gospels is that
+          all
+        choices:
+          A: emphasize the miraculous nature of Christ’s ministry.
+          B: speak of the universality of the gospel.
+          C: include the missionary mandate.
+          D: show how the disciples were sent to the Gentiles.
+        answer: C
+      - uid: MIN261.2.2.2.F.1
+        subobj: 2.2.2
+        type: final
+        question: The book of Acts is shown to be a missionary book especially because
+          it records
+        choices:
+          A: the birth of the church.
+          B: how all the Gentiles accepted the gospel.
+          C: the journeys of Paul.
+          D: the expansion of the church from Jerusalem throughout the Gentile world.
+        answer: D
+      - uid: MIN261.2.2.3.F.1
+        subobj: 2.2.3
+        type: final
+        question: Paul declared in his writings that God had called him to
+        choices:
+          A: reach the world by preaching first in the synagogues to Jews.
+          B: demonstrate the superiority of the gospel over the law.
+          C: act like a Jew among the Jews, like a Gentile among the Gentiles.
+          D: proclaim the gospel to the Gentiles.
+        answer: D
+      - uid: MIN261.3.1.2.F.1
+        subobj: 3.1.2
+        type: final
+        question: One of the most frequent errors in conversation in another culture
+          is
+        choices:
+          A: tending to speak too loudly as if this will aid understanding.
+          B: failure to understand the non-verbal messages.
+          C: not valuing the other person’s message.
+          D: believing the other culture should learn your language.
+        answer: B
+      - uid: MIN261.4.1.1.F.1
+        subobj: 4.1.1
+        type: final
+        question: Understanding the history of missionary activity of the church is
+          vital in
+        choices:
+          A: helping us learn what to do and not to do in missions.
+          B: our becoming acquainted with the great missionaries of the past.
+          C: our seeing how Christianity spread throughout the world.
+          D: giving us great stories for gaining missionary support.
+        answer: A
+      - uid: MIN261.4.2.1.F.1
+        subobj: 4.2.1
+        type: final
+        question: Islam quite easily dominated North Africa because the church was
+          weak due to
+        choices:
+          A: lack of financial support from the major church centers.
+          B: struggles over the form of church worship.
+          C: conflicts over doctrines such as the nature of Christ.
+          D: excessive emphasis on church sacraments rather than personal piety.
+        answer: C
+      - uid: MIN261.4.2.2.F.1
+        subobj: 4.2.2
+        type: final
+        question: During the period of 1200-1300 A.D., two orders of Catholic missions
+          arose. The Franciscans were especially noted for
+        choices:
+          A: their focus on education as a way to propagate the gospel.
+          B: establishment of great monasteries as centers of mission.
+          C: sacrificial living to proclaim the gospel.
+          D: strong support for the Pope theologically and practically.
+        answer: C
+      - uid: MIN261.4.3.1.F.1
+        subobj: 4.3.1
+        type: final
+        question: Like other reformers of his day, Martin Luther
+        choices:
+          A: was greatly disturbed by the lack of the Catholic Church’s missionary
+            outreach.
+          B: had little interest in the mission outreach of the church.
+          C: thought missions should be the responsibility of the priesthood of the
+            believers.
+          D: devoted much of his writings to showing how the heathen must be won.
+        answer: B
+      - uid: MIN261.4.3.2.F.1
+        subobj: 4.3.2
+        type: final
+        question: The Moravians, in Europe, were especially known for their
+        choices:
+          A: great commitment to spreading the Christian faith.
+          B: focus on personal piety in spite of their high place in society.
+          C: emphasis on serving as witness.
+          D: establishment of training centers for missionaries.
+        answer: A
+      - uid: MIN261.4.4.1.F.1
+        subobj: 4.4.1
+        type: final
+        question: The year 1858 is a turning point in modern missions because mission
+          agencies arose due to
+        choices:
+          A: the Roman Catholic Church’s giving up its opposition to Protestant missionaries.
+          B: the indigenous churches of the Majority World seeking to send missionaries.
+          C: the second evangelical awakening that spawned lay prayer meetings for
+            missions.
+          D: mainline churches forming many independent mission boards.
+        answer: C
+      - uid: MIN261.5.1.1.F.1
+        subobj: 5.1.1
+        type: final
+        question: Faith missions arose in the nineteenth century and were so called
+          because they
+        choices:
+          A: were especially noted for their faith.
+          B: were not tied to a denomination.
+          C: focused on faith as their primary message.
+          D: depended on their faith to gain financial support.
+        answer: D
+      - uid: MIN261.5.1.2.F.1
+        subobj: 5.1.2
+        type: final
+        question: One of the especially noteworthy characteristics of the early Pentecostal
+          missionary movement was
+        choices:
+          A: the prominent role of women.
+          B: an emphasis on centralized education.
+          C: careful strategizing for the mission field.
+          D: the introduction of deputation for raising financial support.
+        answer: A
+      - uid: MIN261.5.2.1.F.1
+        subobj: 5.2.1
+        type: final
+        question: At the first General Council, missions was among the five purposes
+          for the call to form the AG because church leaders
+        choices:
+          A: wanted to stop the independent missionaries from raising funds in the
+            churches.
+          B: wanted to conserve the work at home and in foreign lands.
+          C: saw a great need for missionaries in China and India.
+          D: wanted missionaries to become more independent.
+        answer: B
+      - uid: MIN261.5.3.2.F.1
+        subobj: 5.3.2
+        type: final
+        question: Noel Perkin’s leadership encouraged
+        choices:
+          A: greater supervision of missionary personnel.
+          B: missionaries to work independently of the churches.
+          C: female missionaries to take the lead.
+          D: tension concerning doctrine and practice.
+        answer: A
+      - uid: MIN261.5.3.3.F.1
+        subobj: 5.3.3
+        type: final
+        question: The major change in approach that accompanied the 1943 missions
+          conference at Central Bible Institute in Springfield, Missouri, was
+        choices:
+          A: bringing the needs of Africa to the fore.
+          B: including humanitarian outreaches as part of the strategy.
+          C: ushering in the practice of strategic planning to the mission endeavor.
+          D: establishing the Foreign Mission Board and Lay Advisory Board.
+        answer: C
+      - uid: MIN261.5.4.1.F.1
+        subobj: 5.4.1
+        type: final
+        question: The key decision of the 1955 General Council that began the process
+          of rapid growth in Assemblies of God missions was
+        choices:
+          A: establishing centralized control of missions through a Foreign Mission
+            Board.
+          B: making the general superintendent responsible for foreign missions.
+          C: calling for the greatest evangelism the world had ever seen.
+          D: determining to aggressively evangelize Latin America.
+        answer: A
+      - uid: MIN261.5.4.2.F.1
+        subobj: 5.4.2
+        type: final
+        question: 'In 1937, home missions was finally separated from foreign missions
+          with two main responsibilities:'
+        choices:
+          A: evangelism and church growth in neglected areas.
+          B: church planting and oversight of Bible institutes.
+          C: evangelism and church planting.
+          D: church planting and substance abuse.
+        answer: B
+      - uid: MIN261.6.1.1.F.1
+        subobj: 6.1.1
+        type: final
+        question: Missionaries are needed in mission outreach because
+        choices:
+          A: God’s way to reach the people is through people.
+          B: they have the authority from God.
+          C: they have spiritual gifts others do not have.
+          D: the host people will respect them more with their title.
+        answer: A
+      - uid: MIN261.6.1.2.F.1
+        subobj: 6.1.2
+        type: final
+        question: Missionaries must have a sense of God’s special calling on their
+          lives because
+        choices:
+          A: this makes it easier to convince others to repent.
+          B: a burden for the lost can be fleeting.
+          C: the gifts and callings of God are without change.
+          D: in His sovereignty, God is ultimately responsible for placement.
+        answer: D
+      - uid: MIN261.6.2.1.F.1
+        subobj: 6.2.1
+        type: final
+        question: The primary reason for the more rapid growth of the Pentecostal
+          church abroad in contrast to most other evangelical churches is
+        choices:
+          A: superior training in cross-cultural ministry.
+          B: identification with the poor and downtrodden.
+          C: Pentecostal missionaries’ ability to identify with the people.
+          D: emphasis on the presence and power of the Holy Spirit.
+        answer: D
+      - uid: MIN261.7.1.2.F.1
+        subobj: 7.1.2
+        type: final
+        question: Establishing local congregations provides a
+        choices:
+          A: place for pastors to preach and choirs to sing.
+          B: means for corporate worship, edification, and witness.
+          C: means of networking for denominational coordination.
+          D: building where believers can gather.
+        answer: B
+      - uid: MIN261.7.2.1.F.1
+        subobj: 7.2.1
+        type: final
+        question: AGWM missionaries have helped in the rapid growth of the Majority
+          World churches most significantly by
+        choices:
+          A: serving as pastors in the early stages.
+          B: holding great crusades.
+          C: providing financial resources.
+          D: training national ministers and leaders.
+        answer: D
+      - uid: MIN261.7.2.3.F.1
+        subobj: 7.2.3
+        type: final
+        question: Contextualization means
+        choices:
+          A: interpreting the Bible in its cultural context.
+          B: using cultural illustrations to make the Bible meaningful.
+          C: communicating the gospel in ways meaningful to a given culture.
+          D: using the cultural context to find meaning in the Bible.
+        answer: C
+      - uid: MIN261.8.1.1.F.1
+        subobj: 8.1.1
+        type: final
+        question: In New Testament times, the meaning of the term ecclesia (church)
+          signified
+        choices:
+          A: a building for worship.
+          B: the number of believers in Jerusalem.
+          C: a group of people called of God to serve Him.
+          D: a denomination or fellowship of congregations.
+        answer: C
+      - uid: MIN261.8.1.3.F.1
+        subobj: 8.1.3
+        type: final
+        question: The church at Antioch is especially noted for being
+        choices:
+          A: the home church of Paul and Barnabas.
+          B: a hybrid of both Jews and Gentiles.
+          C: the place where Jewish customs were shown as unnecessary.
+          D: the springboard of the missionary thrust in the Roman empire.
+        answer: D
+      - uid: MIN261.8.2.1.F.1
+        subobj: 8.2.1
+        type: final
+        question: The Assemblies of God USA maintains a “fraternal” relationship with
+          other Pentecostal churches around the world. This type of relationship means
+          that all these churches
+        choices:
+          A: remain indigenous but work together for common causes.
+          B: are linked together in an international organization.
+          C: belong to a common international association.
+          D: commit themselves to a common understanding of doctrine and practice.
+        answer: A
+      - uid: MIN261.8.3.2.F.1
+        subobj: 8.3.2
+        type: final
+        question: An example of an NGO is
+        choices:
+          A: the Red Cross.
+          B: the Brazilian embassy.
+          C: a missionary.
+          D: the Internal Revenue Service.
+        answer: A
+      - uid: MIN261.8.3.3.F.1
+        subobj: 8.3.3
+        type: final
+        question: Sponsored by Billy Graham, the first interdenominational and evangelical
+          world conference on evangelism was held in
+        choices:
+          A: Amsterdam in 1982.
+          B: Rome in 1972.
+          C: Lausanne in 1974.
+          D: Manila in 1989.
+        answer: C
+      - uid: MIN261.9.1.1.F.1
+        subobj: 9.1.1
+        type: final
+        question: The great shift in Christendom’s center over the past century is
+          from
+        choices:
+          A: the Far East to the western nations.
+          B: Europe to America.
+          C: the western nations to America.
+          D: the western nations to the Majority World.
+        answer: D
+      - uid: MIN261.9.1.2.F.1
+        subobj: 9.1.2
+        type: final
+        question: After World War II, mission efforts by the Majority World churches
+          were slowed principally by
+        choices:
+          A: dominating paternalism by western missions.
+          B: strong resistance by the Roman Catholic church.
+          C: lack of finances.
+          D: lack of a missionary vision.
+        answer: A
+      - uid: MIN261.9.2.2.F.1
+        subobj: 9.2.2
+        type: final
+        question: Bridging relationships in short-term missions is building relationships
+          across cultural divides whereas bonding is the building of relationships
+        choices:
+          A: between missionaries and the local culture.
+          B: between the mission and the national church.
+          C: among the members of the short-term group.
+          D: among the host people in gratefulness to the team.
+        answer: C
+      - uid: MIN261.9.2.2.F.2
+        subobj: 9.2.2
+        type: final
+        question: Demonstrated benefits to short-term mission outreaches include
+        choices:
+          A: increased prayer for and commitment to missions.
+          B: reduced need for fulltime career missionaries.
+          C: reduced need for learning a language and adapting to a culture.
+          D: increase in the development of indigenous churches.
+        answer: A
+      - uid: MIN261.9.3.1.F.1
+        subobj: 9.3.1
+        type: final
+        question: One primary impetus behind the rapid growth of project-oriented,
+          short-term mission outreaches from the United States is the
+        choices:
+          A: lack of missionary candidates for fulltime service abroad.
+          B: closing of former mission fields to career missionaries.
+          C: desire for first-hand experience with immediate, measurable results.
+          D: opposition of many national churches to fulltime career missionaries.
+        answer: C
+      - uid: MIN261.9.4.1.F.1
+        subobj: 9.4.1
+        type: final
+        question: While generally a great benefit, the enhanced connectivity of technology
+          today carries the special danger of
+        choices:
+          A: loss of hearing.
+          B: jealousy of those in the host culture.
+          C: spending excessive time searching for the latest technology.
+          D: failure to invest time in relating to people in the host culture.
+        answer: D
+      - uid: MIN261.9.5.1.F.1
+        subobj: 9.5.1
+        type: final
+        question: Theological drift is most likely to be caused by
+        choices:
+          A: persecution of believers.
+          B: the influence of modern translations of the Bible.
+          C: effects of local culture and history.
+          D: excessive emphasis on a particular theological distinctive.
+        answer: C
+      - uid: MIN261.9.5.2.F.1
+        subobj: 9.5.2
+        type: final
+        question: The trend in Pentecostal circles to move away from the teachings
+          and practices related to Holy Spirit baptism is largely due to
+        choices:
+          A: excesses in the behavior of older Pentecostals.
+          B: failure to understand the nature and purpose of the baptism in the Holy
+            Spirit.
+          C: pressure from evangelical organizations to conform.
+          D: the desire to be like everyone else.
+        answer: B
+      - uid: MIN261.10.1.1.F.1
+        subobj: 10.1.1
+        type: final
+        question: The proper attitude toward proclamation of the gospel and social
+          service to others is that
+        choices:
+          A: proclamation and social service are both involved in sharing the gospel.
+          B: proclamation must be preferred even to the neglect of humanitarian activities.
+          C: social service must be done to show God’s love even if proclamation is
+            not.
+          D: proclamation is the duty of missionaries; social service should be left
+            to others.
+        answer: A
+      - uid: MIN261.10.2.2.F.1
+        subobj: 10.2.2
+        type: final
+        question: Salvation in both the Old and New Testaments is best defined as
+        choices:
+          A: the transformation of a person's soul.
+          B: a radical change in a person's whole being and relationships.
+          C: separation from the world, the flesh, and the devil.
+          D: deliverance from bondage.
+        answer: B
+      - uid: MIN261.11.1.2.F.1
+        subobj: 11.1.2
+        type: final
+        question: Among the types of prayer, the one most important to Christians
+          regarding unbelievers is
+        choices:
+          A: petition.
+          B: intercession.
+          C: praise.
+          D: repentance.
+        answer: B
+      - uid: MIN261.11.1.4.F.1
+        subobj: 11.1.4
+        type: final
+        question: The term “laity” in the church, as derived from Scripture, refers
+          to those who are
+        choices:
+          A: skilled in leadership and organization.
+          B: the people of God with distinctiveness in gifts, functions, and roles.
+          C: leaders who serve without pay.
+          D: people in general, whether believers or not.
+        answer: B
+      final_source:
+        exam_pdf: MIN261_C exam aug16.pdf
+        key_pdf: min261_1st_form c key desi aug 09.pdf
+        matched: 47
+        objectives_agree: 47
     deployed_pn: 02.22.01
     body_baseline_pn: 02.22.01
     chapters:

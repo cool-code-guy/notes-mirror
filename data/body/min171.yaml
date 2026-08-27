@@ -3072,7 +3072,7 @@ courses:
       counts:
         ty: 170
         upe: 75
-        final: 0
+        final: 50
       questions:
       - uid: MIN171.1.1.1.UPE.1
         subobj: 1.1.1
@@ -5630,6 +5630,524 @@ courses:
           C: are the fuel that empowers us to fulfill the mission.
           D: cannot be changed.
         answer: A
+      - uid: MIN171.1.1.1.F.1
+        subobj: 1.1.1
+        type: final
+        question: The overall process for building a healthy church should focus on
+        choices:
+          A: leadership and management skills.
+          B: the pastor's experience and ability to communicate the mission.
+          C: the spiritual gifts.
+          D: the five functions described in the Book of Acts, chapter 2.
+        answer: D
+      - uid: MIN171.1.1.1.F.2
+        subobj: 1.1.1
+        type: final
+        question: A complete Acts 2 church has an experience, a message,
+        choices:
+          A: a process, and a plan.
+          B: and a delivery system.
+          C: and internal and external support structures.
+          D: and community support.
+        answer: A
+      - uid: MIN171.1.2.1.F.1
+        subobj: 1.2.1
+        type: final
+        question: Which Acts 2 process focuses on helping God's people utilize their
+          gifts and abilities in ministry?
+        choices:
+          A: Serve
+          B: Worship
+          C: Connect
+          D: Grow
+        answer: A
+      - uid: MIN171.2.1.1.F.1
+        subobj: 2.1.1
+        type: final
+        question: The priesthood of all believers
+        choices:
+          A: means that the people of the church should help the pastor.
+          B: is a key paradigm shift needed to bring about change.
+          C: means that the board should assist the pastor in ministry functions.
+          D: is a concept that started with the Pentecostal Movement.
+        answer: B
+      - uid: MIN171.2.2.1.F.1
+        subobj: 2.2.1
+        type: final
+        question: The burning platform is
+        choices:
+          A: intense conflict between the pastor and board.
+          B: the passion inspired by the Spirit.
+          C: the pressing need for radical change.
+          D: the call to overseas missions.
+        answer: C
+      - uid: MIN171.2.2.1.F.2
+        subobj: 2.2.1
+        type: final
+        question: Marketplace evangelism is best facilitated by
+        choices:
+          A: structured outreaches in the inner city.
+          B: building relationships and sharing Jesus with friends and coworkers.
+          C: personal distribution of gospel literature.
+          D: media saturation that is linked to specific churches.
+        answer: B
+      - uid: MIN171.3.1.1.F.1
+        subobj: 3.1.1
+        type: final
+        question: When ordinary churchgoers come to church to minister,
+        choices:
+          A: they tend to be in competition with the pastor.
+          B: they are following the prophetic paradigm.
+          C: the church becomes healthier and more alive.
+          D: fewer paid staff will be needed.
+        answer: C
+      - uid: MIN171.3.1.1.F.2
+        subobj: 3.1.1
+        type: final
+        question: A key catalyst for all aspects of the Acts 2 model is
+        choices:
+          A: a process that will flow to the greatest areas of need.
+          B: the priesthood of all believers.
+          C: teaching people what they can receive.
+          D: the paradigm of cyclical giving.
+        answer: B
+      - uid: MIN171.3.2.1.F.1
+        subobj: 3.2.1
+        type: final
+        question: When church consumers become contributors
+        choices:
+          A: it will lead to more individualism in the church.
+          B: it will mean that new leaders should be appointed over the church.
+          C: it will strengthen the deacon's ministry rather than the pastor's ministry.
+          D: pastors can equip people to thrive in ministry.
+        answer: D
+      - uid: MIN171.4.1.1.F.1
+        subobj: 4.1.1
+        type: final
+        question: The number of people in the Assemblies of God who are worshipping
+          in churches that are plateaued or declining is roughly
+        choices:
+          A: 300,000
+          B: 500,000
+          C: 1,000,000
+          D: 2,000,000
+        answer: C
+      - uid: MIN171.4.2.1.F.1
+        subobj: 4.2.1
+        type: final
+        question: In today's society a church should
+        choices:
+          A: focus on accepting people without requiring change.
+          B: be built around the preaching ministry of the pastor.
+          C: measure effectiveness by the size and growth of the church.
+          D: have a mission field where the strengths of the church can be utilized.
+        answer: D
+      - uid: MIN171.5.1.1.F.1
+        subobj: 5.1.1
+        type: final
+        question: Spirit-empowered discipleship is primarily about
+        choices:
+          A: experiencing signs and wonders.
+          B: doing more for God.
+          C: performing at higher levels.
+          D: knowing God.
+        answer: D
+      - uid: MIN171.5.2.2.F.1
+        subobj: 5.2.2
+        type: final
+        question: Reproducing and multiplying God's mission in other places and peoples
+          describes the Acts 2 function known as
+        choices:
+          A: Go.
+          B: Serve.
+          C: Connect.
+          D: Worship.
+        answer: A
+      - uid: MIN171.5.3.1.F.1
+        subobj: 5.3.1
+        type: final
+        question: The best strategy only works when
+        choices:
+          A: we combine the mission, the tasks, and the burning platform.
+          B: the team delegates leadership and management functions.
+          C: we simultaneously embrace the power of the Holy Spirit.
+          D: relationship objectivity is the top priority.
+        answer: C
+      - uid: MIN171.6.1.1.F.1
+        subobj: 6.1.1
+        type: final
+        question: The process of effective discipleship
+        choices:
+          A: is founded on current cultural principles and strategies.
+          B: requires biblical knowledge.
+          C: is primarily based on knowledge gained from mentors.
+          D: is unrelated to Spirit-empowerment.
+        answer: B
+      - uid: MIN171.6.1.2.F.1
+        subobj: 6.1.2
+        type: final
+        question: According to the author, many people today have traded the Pentecostal
+          experience for
+        choices:
+          A: materialism.
+          B: respectability.
+          C: intellectualism.
+          D: cultural adaptation.
+        answer: B
+      - uid: MIN171.6.2.1.F.1
+        subobj: 6.2.1
+        type: final
+        question: In order to reach those outside of the church, a key strategy is
+        choices:
+          A: giving the universal teachings.
+          B: asking the right questions.
+          C: bringing in the right speakers.
+          D: opening the right doors.
+        answer: B
+      - uid: MIN171.7.1.1.F.1
+        subobj: 7.1.1
+        type: final
+        question: Strategic plans must begin with
+        choices:
+          A: future vision.
+          B: transforming your current church structures.
+          C: changing the direction of the mission.
+          D: an honest assessment of current strengths and weaknesses.
+        answer: D
+      - uid: MIN171.7.2.1.F.1
+        subobj: 7.2.1
+        type: final
+        question: Assessment questions should
+        choices:
+          A: not focus on the Acts 2 functions of the church.
+          B: focus only on areas that the leadership can solve.
+          C: include questions regarding people outside of the church.
+          D: avoid areas of weakness that may be difficult to face.
+        answer: C
+      - uid: MIN171.7.2.1.F.2
+        subobj: 7.2.1
+        type: final
+        question: A careful assessment of the church should lead to change based on
+        choices:
+          A: adjusting the mission based on the needs of the church.
+          B: how the church can better fulfill the Acts 2 functions.
+          C: how the needs of the people in the church can be met.
+          D: how the mission, the vision, and the values can be changed.
+        answer: B
+      - uid: MIN171.8.1.1.F.1
+        subobj: 8.1.1
+        type: final
+        question: The mission of the church
+        choices:
+          A: is different for each local church.
+          B: is unrelated to the vision of the church.
+          C: relates more to love than empowerment by the Spirit.
+          D: is described in the words of the Great Commission.
+        answer: D
+      - uid: MIN171.8.2.1.F.1
+        subobj: 8.2.1
+        type: final
+        question: The relational dimension of Scripture
+        choices:
+          A: is not as important as the behavioral dimension of Scripture.
+          B: should take priority over the rational meaning of Scripture.
+          C: is crucial for developing an intimate relationship with Christ.
+          D: is secondary to the mission described in Scripture.
+        answer: C
+      - uid: MIN171.8.3.1.F.1
+        subobj: 8.3.1
+        type: final
+        question: Revitalization can begin
+        choices:
+          A: when a significant number of the people align themselves with the mission.
+          B: only when a unified church accepts the vision.
+          C: with just one person who recognizes the need for Spirit empowerment to
+            accomplish God's mission.
+          D: as a process of translating the values of the church into the leadership
+            vision.
+        answer: C
+      - uid: MIN171.8.3.1.F.2
+        subobj: 8.3.1
+        type: final
+        question: God's mission for the church
+        choices:
+          A: is defined through the collective gifts of the congregation.
+          B: is supported by the united effort of the body of believers as well as
+            individual callings.
+          C: is based on the vision of the current body of Christ.
+          D: cannot be hindered by individual failings.
+        answer: B
+      - uid: MIN171.9.1.1.F.1
+        subobj: 9.1.1
+        type: final
+        question: According to the author, vision is the skill of
+        choices:
+          A: seeing what is not there.
+          B: pulling visionary material out of yourself.
+          C: connecting the mission to the growth process.
+          D: dreaming the future into the present.
+        answer: A
+      - uid: MIN171.9.2.1.F.1
+        subobj: 9.2.1
+        type: final
+        question: Looking at people
+        choices:
+          A: will always hinder your vision.
+          B: is the first step in giving them a new mission.
+          C: leads to discouragement and disillusionment.
+          D: can help you to connect with God's vision for them.
+        answer: D
+      - uid: MIN171.9.3.1.F.1
+        subobj: 9.3.1
+        type: final
+        question: A vision for the church should incorporate
+        choices:
+          A: the church's universal mission and the five functions of Acts 2.
+          B: the steps outlined in the strategic plan.
+          C: the ways that the gifts of specific people will be utilized.
+          D: alternative plans in case of unforeseen change.
+        answer: A
+      - uid: MIN171.10.1.1.F.1
+        subobj: 10.1.1
+        type: final
+        question: Core values
+        choices:
+          A: are unrelated to priorities.
+          B: provide boundaries and parameters for how a church behaves.
+          C: establish the purpose for the church's existence.
+          D: are unrelated to vision.
+        answer: B
+      - uid: MIN171.10.2.1.F.1
+        subobj: 10.2.1
+        type: final
+        question: A church's strengths are
+        choices:
+          A: a higher priority than core values.
+          B: usually unrelated to core values.
+          C: used to help identify core values.
+          D: usually related to its mission rather than core values.
+        answer: C
+      - uid: MIN171.10.3.1.F.1
+        subobj: 10.3.1
+        type: final
+        question: Solid core values can help a church to
+        choices:
+          A: avoid being led in the wrong direction by people's personal preferences.
+          B: focus on people's personal happiness.
+          C: translate biblical theology into an acceptable format.
+          D: operate more effectively based on personal convictions.
+        answer: A
+      - uid: MIN171.11.1.2.F.1
+        subobj: 11.1.2
+        type: final
+        question: A strategic plan should
+        choices:
+          A: revise the mission of the church to make it more effective.
+          B: improve the values of the church.
+          C: take passion for God and channel it in the right direction.
+          D: not be connected to the processes of the church.
+        answer: C
+      - uid: MIN171.11.2.1.F.1
+        subobj: 11.2.1
+        type: final
+        question: A strategic plan should be built around
+        choices:
+          A: the biblical functions described as Connect, Grow, Serve, Go, and Worship.
+          B: the vision and mission of the leader.
+          C: a numerical growth plan in progressive stages.
+          D: the biblical priority of spiritual gifts.
+        answer: A
+      - uid: MIN171.11.2.1.F.2
+        subobj: 11.2.1
+        type: final
+        question: If a congregation is like a car, then our strategic plan is
+        choices:
+          A: the gasoline that fuels the car.
+          B: how we are going to get to our preferred future.
+          C: what is going on inside the car.
+          D: our vision of the future.
+        answer: B
+      - uid: MIN171.12.1.1.F.1
+        subobj: 12.1.1
+        type: final
+        question: Connect refers to
+        choices:
+          A: connecting the mission with the vision.
+          B: connecting the strategic plan with the mission.
+          C: horizontal relationships with people and a vertical relationship with
+            God.
+          D: the connection between people and the values of the church.
+        answer: C
+      - uid: MIN171.12.1.1.F.2
+        subobj: 12.1.1
+        type: final
+        question: Connect focuses on the church as
+        choices:
+          A: a family.
+          B: a value-driven organization.
+          C: an apologetics-based institution.
+          D: a vehicle for inspiring truth.
+        answer: A
+      - uid: MIN171.12.2.1.F.1
+        subobj: 12.2.1
+        type: final
+        question: According to the author, giving and receiving help during times
+          of difficulty are key aspects of
+        choices:
+          A: the Acts 2 process known as connect.
+          B: strategic planning for end-times enterprises.
+          C: end-times visionary thinking.
+          D: the Acts 2 process known as worship.
+        answer: A
+      - uid: MIN171.13.1.1.F.1
+        subobj: 13.1.1
+        type: final
+        question: Systematic discipleship programs have often missed the
+        choices:
+          A: biblical studies component.
+          B: missions component.
+          C: dimension of behavioral activity.
+          D: dimension of life in the Spirit.
+        answer: D
+      - uid: MIN171.13.2.1.F.1
+        subobj: 13.2.1
+        type: final
+        question: Belonging before believing
+        choices:
+          A: is a problem that hinders conversion.
+          B: is an example of wrong priorities in the church.
+          C: is a practice that facilitates having a safe place for exploring truth.
+          D: should be the primary focus for short-term missions strategies.
+        answer: C
+      - uid: MIN171.13.3.1.F.1
+        subobj: 13.3.1
+        type: final
+        question: A key focus of Spirit-empowered discipleship processes should be
+        choices:
+          A: how the people in the church can contribute to the vision plan.
+          B: developing disciples who are able to feed themselves spiritually from
+            God's Word.
+          C: developing personal convictions and preferences that will stand the test
+            of time.
+          D: one-on-one study of God's Word rather than small group Bible study.
+        answer: B
+      - uid: MIN171.14.1.1.F.1
+        subobj: 14.1.1
+        type: final
+        question: Open communication and having common goals are basic dimensions
+          of
+        choices:
+          A: moving from Serve to Connect.
+          B: a dynamic team.
+          C: a laity-based church.
+          D: process discipleship.
+        answer: B
+      - uid: MIN171.14.2.1.F.1
+        subobj: 14.2.1
+        type: final
+        question: Discovering your purpose is directly facilitated by
+        choices:
+          A: following the vision of the church.
+          B: following the example of godly leaders.
+          C: accepting your values.
+          D: discovering your gifts and using them in service.
+        answer: D
+      - uid: MIN171.14.3.1.F.1
+        subobj: 14.3.1
+        type: final
+        question: Assessment tools to help people discover their gifts
+        choices:
+          A: should be utilized to discover the values of the church.
+          B: should be utilized in defining the mission of the church.
+          C: are useful in the process known as Serve.
+          D: form the pathway from values to secondary goals.
+        answer: C
+      - uid: MIN171.15.1.1.F.1
+        subobj: 15.1.1
+        type: final
+        question: Go is an Acts 2 process which
+        choices:
+          A: takes priority over all other processes.
+          B: focuses primarily on discipleship ministry.
+          C: helps believers to serve one another.
+          D: changes a church's inward focus to an outward focus.
+        answer: D
+      - uid: MIN171.15.2.1.F.1
+        subobj: 15.2.1
+        type: final
+        question: In the textbook, second-hand evangelism means
+        choices:
+          A: evangelizing without an ongoing relationship connection.
+          B: evangelizing through good works.
+          C: evangelizing without a clear purpose.
+          D: witnessing to people at work.
+        answer: A
+      - uid: MIN171.15.3.1.F.1
+        subobj: 15.3.1
+        type: final
+        question: The primary goal of utilizing the strengths of the church is to
+        choices:
+          A: build the financial base of support for future ministry.
+          B: build friendships and connections in order to meet needs.
+          C: use the strengths to fix weak areas in the church.
+          D: bring the church into complete unity.
+        answer: B
+      - uid: MIN171.16.1.1.F.1
+        subobj: 16.1.1
+        type: final
+        question: Worship should be
+        choices:
+          A: emphasized prior to the Serve function.
+          B: taking place prior to the Connect function.
+          C: kept in balance with the other functions of the Acts 2 process.
+          D: promoted as the primary emphasis of Connect.
+        answer: C
+      - uid: MIN171.16.2.1.F.1
+        subobj: 16.2.1
+        type: final
+        question: Worship and prayer are
+        choices:
+          A: unrelated to Connect.
+          B: unrelated to Go.
+          C: primarily corporate in nature.
+          D: relational in nature.
+        answer: D
+      - uid: MIN171.17.1.1.F.1
+        subobj: 17.1.1
+        type: final
+        question: The five functions of the Acts 2 process are
+        choices:
+          A: the complete vision that God gives to every church.
+          B: the mission that God gives to every church.
+          C: a roadmap for accomplishing the church's mission on earth.
+          D: the destination point for a personal vision.
+        answer: C
+      - uid: MIN171.17.2.1.F.1
+        subobj: 17.2.1
+        type: final
+        question: What is it that should drive priorities, shape attitudes and actions,
+          direct processes, and govern relationships?
+        choices:
+          A: Ministry preferences
+          B: The strategic plan
+          C: Core values
+          D: Ministry agreements
+        answer: C
+      - uid: MIN171.17.2.1.F.2
+        subobj: 17.2.1
+        type: final
+        question: Which of the following is not an accurate statement?
+        choices:
+          A: A team vision develops through many hours of prayer, study, and preparation.
+          B: The vision is universal, while the mission is specific to a local church.
+          C: Team members can have a great impact by supporting the vision.
+          D: The vision of the church is greatly impacted by how it is communicated.
+        answer: B
+      final_source:
+        exam_pdf: MIN171_1st_A exam sep18.pdf
+        key_pdf: min171_1st_a key desi sep17.pdf
+        matched: 50
+        objectives_agree: 50
     deployed_pn: 02.26.02
     body_baseline_pn: 02.26.02
     chapters:

@@ -1780,7 +1780,7 @@ courses:
       counts:
         ty: 120
         upe: 75
-        final: 0
+        final: 25
       questions:
       - uid: THE311.1.1.1.UPE.1
         subobj: 1.1.1
@@ -3802,6 +3802,271 @@ courses:
           C: Only Satan
           D: All people
         answer: D
+      - uid: THE311.1.2.1.F.1
+        subobj: 1.2.1
+        type: final
+        question: Prayer deepens our relationship with God by
+        choices:
+          A: giving us a basic knowledge about God.
+          B: helping us learn the mind and will of God.
+          C: teaching us just how far from God’s will we are.
+          D: removing any and all temptation, making us holy.
+        answer: B
+      - uid: THE311.1.3.1.F.1
+        subobj: 1.3.1
+        type: final
+        question: Prayer replenishes the soul by
+        choices:
+          A: showing us how to renew our own strength.
+          B: cultivating the vital connection to the living water of Jesus.
+          C: showing us when our spiritual “tank” is running low.
+          D: showing the hopelessness of our lives.
+        answer: B
+      - uid: THE311.2.2.1.F.1
+        subobj: 2.2.1
+        type: final
+        question: New Testament prayer differs from that of the Old Testament by being
+        choices:
+          A: both community and individually oriented.
+          B: primarily used for intercession and worship.
+          C: conducted primarily by leaders and monarchs.
+          D: used to ask for guidance, forgiveness, and deliverance.
+        answer: A
+      - uid: THE311.3.1.3.F.1
+        subobj: 3.1.3
+        type: final
+        question: How does stepping out in faith affect our perception of God? It
+          causes us to
+        choices:
+          A: distrust Him a little each time.
+          B: trust in our own abilities more.
+          C: disqualify His omnipotence.
+          D: appreciate His greatness.
+        answer: D
+      - uid: THE311.3.2.3.F.1
+        subobj: 3.2.3
+        type: final
+        question: In Revelation 8, the apostle John described a scene in which heaven
+          was silent or interrupted by the
+        choices:
+          A: judgment of God.
+          B: presence of God.
+          C: prayers of men.
+          D: sins of men.
+        answer: C
+      - uid: THE311.4.2.1.F.1
+        subobj: 4.2.1
+        type: final
+        question: What did Jesus say about how His people hear His voice? He
+        choices:
+          A: used the analogy of the sheep/shepherd relationship; sheep always recognize
+            their shepherd’s voice.
+          B: said He would speak to us like Moses spoke to Aaron.
+          C: said He would only speak to us after we had fasted for a season.
+          D: used the analogy of the fox, an animal that is cunningly shrewd.
+        answer: A
+      - uid: THE311.4.2.2.F.1
+        subobj: 4.2.2
+        type: final
+        question: To hear God’s voice, a Christian must first
+        choices:
+          A: accept that he or she will never change.
+          B: realize the importance of seeking God’s voice.
+          C: understand that he or she probably will not hear from God.
+          D: commit to living a completely sinless life.
+        answer: B
+      - uid: THE311.4.2.4.F.1
+        subobj: 4.2.4
+        type: final
+        question: If we believe that one’s intensity of desire for something is definite
+          assurance of God’s will, then we
+        choices:
+          A: have a valid, scriptural basis to follow what we desire.
+          B: must act on that desire quickly.
+          C: are in error because that belief does not reflect God’s character.
+          D: must recognize our sin and confess it to a trusted, spiritual leader.
+        answer: C
+      - uid: THE311.5.1.2.F.1
+        subobj: 5.1.2
+        type: final
+        question: According to the IST, spiritual growth is not a matter of trying
+          but a matter of
+        choices:
+          A: training.
+          B: taking.
+          C: talking.
+          D: timing.
+        answer: A
+      - uid: THE311.5.1.3.F.1
+        subobj: 5.1.3
+        type: final
+        question: God wants us to be motivated to engage in the spiritual disciplines
+          by a sincere desire to
+        choices:
+          A: become more godly than other believers.
+          B: earn our way into an eternity with Christ.
+          C: achieve a distinguished level of spirituality.
+          D: grow in our intimate relationship with Him.
+        answer: D
+      - uid: THE311.5.2.1.F.1
+        subobj: 5.2.1
+        type: final
+        question: The discipline of prayer requires that people practice personal
+          communion and dialogue with God
+        choices:
+          A: rarely.
+          B: never.
+          C: regularly.
+          D: occasionally.
+        answer: C
+      - uid: THE311.6.2.2.F.1
+        subobj: 6.2.2
+        type: final
+        question: What are two prerequisites within our relational lives that are
+          necessary for effectiveness in prayer?
+        choices:
+          A: Having no personal relationships and practicing corporate reconciliation
+          B: Maintaining healthy personal relationships and corporate unity
+          C: Struggling with unhealthy relationships and family disunity
+          D: Having only Christian relationships and avoiding conflict
+        answer: B
+      - uid: THE311.6.2.5.F.1
+        subobj: 6.2.5
+        type: final
+        question: Maintaining eternal perspective in prayer causes us to
+        choices:
+          A: ignore the sufferings of others.
+          B: see life from God’s point of view.
+          C: see life as temporal rather than eternal.
+          D: become overwhelmed with our problems.
+        answer: B
+      - uid: THE311.6.2.7.F.1
+        subobj: 6.2.7
+        type: final
+        question: What is a representation of a dry season of the soul?
+        choices:
+          A: A period of time when prayer brings anticipation and blessing
+          B: A period of time when prayer seems tedious and pointless
+          C: A never-ending period of fruitless prayer and frustration
+          D: Experiencing God’s presence in an intimate way
+        answer: B
+      - uid: THE311.7.1.4.F.1
+        subobj: 7.1.4
+        type: final
+        question: What makes up the internal noise that can distract us from prayer?
+        choices:
+          A: The thoughts and worries of others
+          B: Our own thoughts and worries
+          C: Spiritual peace and tranquility
+          D: Intercessory needs of others
+        answer: B
+      - uid: THE311.7.1.6.F.1
+        subobj: 7.1.6
+        type: final
+        question: The secret to victorious praying is to pray
+        choices:
+          A: only when you know your prayers will be answered.
+          B: that God will change His will to match yours.
+          C: only when you have no other alternative.
+          D: even in the face of unanswered prayers.
+        answer: D
+      - uid: THE311.8.1.1.F.1
+        subobj: 8.1.1
+        type: final
+        question: According to the IST, the key to having an effective ministry is
+        choices:
+          A: talent.
+          B: prayer.
+          C: finances.
+          D: programs.
+        answer: B
+      - uid: THE311.8.3.2.F.1
+        subobj: 8.3.2
+        type: final
+        question: Leaders who fail to pray
+        choices:
+          A: are few and far between.
+          B: tend to do just as well as those who do pray.
+          C: risk falling into the trap of self-reliance.
+          D: are less likely to compromise their faith.
+        answer: C
+      - uid: THE311.8.3.2.F.2
+        subobj: 8.3.2
+        type: final
+        question: An effective spiritual leader takes what type of approach to spirituality?
+        choices:
+          A: Segmented
+          B: Negligent
+          C: Holistic
+          D: Casual
+        answer: C
+      - uid: THE311.9.1.1.F.1
+        subobj: 9.1.1
+        type: final
+        question: Christians are called to latreia, which means
+        choices:
+          A: “kissing the ground toward God.”
+          B: “serving or ministering as priests.”
+          C: “showing honor or worth to others.”
+          D: “remaining holy and pure before God.”
+        answer: B
+      - uid: THE311.9.1.1.F.2
+        subobj: 9.1.1
+        type: final
+        question: When we worship God, we are
+        choices:
+          A: acknowledging God’s supremacy and confessing our deficiency.
+          B: expressing our musical talents.
+          C: seeking and enjoying a spiritual high.
+          D: becoming sinless.
+        answer: A
+      - uid: THE311.10.4.1.F.1
+        subobj: 10.4.1
+        type: final
+        question: Jesus’ interaction with the woman at the well was revolutionary
+          because it
+        choices:
+          A: showed that God accepted worship from a select group of people.
+          B: broke down lines of communication between Israel and Samaria.
+          C: broke down gender, racial, and ethical barriers.
+          D: showed Jesus’ favoritism towards women.
+        answer: C
+      - uid: THE311.12.1.2.F.1
+        subobj: 12.1.2
+        type: final
+        question: The term holistic worship means worshipping God
+        choices:
+          A: in a holy way.
+          B: with all we are.
+          C: with our actions.
+          D: through our words.
+        answer: B
+      - uid: THE311.12.1.3.F.1
+        subobj: 12.1.3
+        type: final
+        question: According the 2 Corinthians 3:18, when we worship God and experience
+          His presence, we are
+        choices:
+          A: transformed into a reflection of God.
+          B: reminded of our spiritual short-comings.
+          C: given a taste of what heaven will be like.
+          D: protected from all forms of spiritual harm.
+        answer: A
+      - uid: THE311.12.2.1.F.1
+        subobj: 12.2.1
+        type: final
+        question: 1 Corinthians 6:11 Paul gives Christians the hope that they
+        choices:
+          A: can engage in idolatry with no negative consequences.
+          B: might be forgiven if they prayed enough.
+          C: were washed, sanctified, and justified in Jesus.
+          D: will no longer be tempted to commit idolatry.
+        answer: C
+      final_source:
+        exam_pdf: THE311_A exam aug16.pdf
+        key_pdf: the311_1st_a_desi key.pdf
+        matched: 25
+        objectives_agree: 25
     deployed_pn: 03.22.01
     print_history:
     - date: '2022-01-01'

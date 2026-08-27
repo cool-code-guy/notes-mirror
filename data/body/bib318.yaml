@@ -1444,7 +1444,7 @@ courses:
       counts:
         ty: 130
         upe: 96
-        final: 0
+        final: 39
       questions:
       - uid: BIB318.1.1.1.TY.1
         subobj: 1.1.1
@@ -3807,6 +3807,415 @@ courses:
           C: the necessity to keep renewing the agreement at appropriate times.
           D: the inadequacies of others.
         answer: A
+      - uid: BIB318.1.1.1.F.1
+        subobj: 1.1.1
+        type: final
+        question: The authorship of the Pentateuch is credited to
+        choices:
+          A: Moses.
+          B: Joshua.
+          C: David.
+          D: Adam.
+        answer: A
+      - uid: BIB318.1.2.3.F.1
+        subobj: 1.2.3
+        type: final
+        question: God established the Sabbath principle by
+        choices:
+          A: creating humankind on the sixth day of creation.
+          B: being involved in His creation personally.
+          C: resting on the seventh day of creation.
+          D: separating light from darkness.
+        answer: C
+      - uid: BIB318.1.3.2.F.1
+        subobj: 1.3.2
+        type: final
+        question: Being "made in the image of God" can be defined as
+        choices:
+          A: a delegation of responsibility to rule the world for God.
+          B: the marriage of the physical and spiritual being.
+          C: an ability to communicate with language.
+          D: a burden to serve God against our will.
+        answer: A
+      - uid: BIB318.1.3.3.F.1
+        subobj: 1.3.3
+        type: final
+        question: The three principles of healthy relationships modeled by God are
+        choices:
+          A: emotion, communication, and compliments.
+          B: privilege, responsibility, and accountability.
+          C: servitude, lordship, and morality.
+          D: values, confession, and forgiveness.
+        answer: B
+      - uid: BIB318.1.3.5.F.1
+        subobj: 1.3.5
+        type: final
+        question: When God used the plural pronoun us in Genesis 1, He was using it
+          as
+        choices:
+          A: an ancient king would.
+          B: an explanation of the Trinity.
+          C: a way of stressing that He is one.
+          D: a reference to His relationship with people.
+        answer: A
+      - uid: BIB318.2.1.2.F.1
+        subobj: 2.1.2
+        type: final
+        question: What is the end result of sin that God declared to Adam and Eve?
+        choices:
+          A: Evil
+          B: Pain
+          C: Death
+          D: Sickness
+        answer: C
+      - uid: BIB318.2.1.3.F.1
+        subobj: 2.1.3
+        type: final
+        question: God promised Eve a male descendant who would deliver and restore
+          people to fellowship with Him in order to
+        choices:
+          A: give hope to all who are broken and facing His judgment.
+          B: remind Eve of her sinful and hopeless state.
+          C: humble Adam and Eve into submission.
+          D: test her faith.
+        answer: A
+      - uid: BIB318.2.2.1.F.1
+        subobj: 2.2.1
+        type: final
+        question: After the Fall, the sins of humanity
+        choices:
+          A: stayed the same.
+          B: increased over time.
+          C: decreased over time.
+          D: were repeated in regular cycles.
+        answer: B
+      - uid: BIB318.2.2.4.F.1
+        subobj: 2.2.4
+        type: final
+        question: Which of Noah’s sons became the father of the Canaanites?
+        choices:
+          A: Ham
+          B: Shem
+          C: Nadab
+          D: Japheth
+        answer: A
+      - uid: BIB318.2.3.2.F.1
+        subobj: 2.3.2
+        type: final
+        question: One of the purposes of the genealogies is to
+        choices:
+          A: provide historical documentation for the testing of the Bible.
+          B: remind the Israelites of their heritage and show their place in the world.
+          C: list every name in the bloodline of Jesus, all the way back to Creation.
+          D: make connections between the different people groups of the Middle East.
+        answer: B
+      - uid: BIB318.3.1.1.F.1
+        subobj: 3.1.1
+        type: final
+        question: God’s focus in history is on moving His salvation plan forward because
+        choices:
+          A: He became weary of hearing His people complain.
+          B: He cares about all people.
+          C: Satan’s plans are unpredictable.
+          D: the world will end whether or not we are ready.
+        answer: B
+      - uid: BIB318.3.1.2.F.1
+        subobj: 3.1.2
+        type: final
+        question: When God spoke a promise to Abraham saying, "All peoples of the
+          earth will be blessed through you," He was announcing
+        choices:
+          A: the gospel in advance.
+          B: Abraham’s patriarchal status.
+          C: a plan for world peace through a network of covenants with all nations.
+          D: a plan for prosperity through Abraham’s ministry.
+        answer: A
+      - uid: BIB318.3.2.1.F.1
+        subobj: 3.2.1
+        type: final
+        question: Abraham’s choice to have a son with Sarah’s servant Hagar
+        choices:
+          A: was a costly mistake.
+          B: had no lasting consequences.
+          C: was an illogical choice for the time and culture.
+          D: became the way God fulfilled His promise.
+        answer: A
+      - uid: BIB318.3.2.3.F.1
+        subobj: 3.2.3
+        type: final
+        question: Why did God require Abraham and his descendants to be circumcised?
+        choices:
+          A: For a physical sign of their commitment and covenant with God
+          B: So they would take their relationship with God seriously
+          C: To be like the neighboring nations
+          D: To spiritually transform them into God’s image
+        answer: A
+      - uid: BIB318.3.3.1.F.1
+        subobj: 3.3.1
+        type: final
+        question: Abraham’s wrong assumption with Abimelech was that
+        choices:
+          A: Abimelech was a fool.
+          B: God cared more for Abimelech.
+          C: he (Abraham) would have to kill Abimelech.
+          D: he (Abraham) alone feared God and heard from Him.
+        answer: D
+      - uid: BIB318.3.3.3.F.1
+        subobj: 3.3.3
+        type: final
+        question: The term Jehovah Jireh means
+        choices:
+          A: '"our Lord the Christ."'
+          B: '"the Lord will see to it."'
+          C: '"the Lord our protector."'
+          D: '"our Lord of the resurrection."'
+        answer: B
+      - uid: BIB318.4.1.3.F.1
+        subobj: 4.1.3
+        type: final
+        question: Jacob’s name was changed to Israel in reference to his
+        choices:
+          A: experiences while working for his father-in-law Laban.
+          B: determination in struggling with God.
+          C: past deceptions to his family.
+          D: accumulation of wealth and wives.
+        answer: B
+      - uid: BIB318.4.2.1.F.1
+        subobj: 4.2.1
+        type: final
+        question: How did Joseph respond to being falsely accused of immorality and
+          thrown into prison?
+        choices:
+          A: He became bitter toward God for several years.
+          B: He isolated himself and labored in self-pity.
+          C: He continued a life of integrity and diligence.
+          D: He took revenge on his brothers when he rose to power.
+        answer: C
+      - uid: BIB318.5.1.1.F.1
+        subobj: 5.1.1
+        type: final
+        question: The best summary of the book of Exodus is
+        choices:
+          A: a revelation of how people who violated the covenant could be reconciled
+            to God.
+          B: the revelation of how God created the universe and made it all good.
+          C: the history of Egypt and the rule of King Rameses II.
+          D: the continuation of the story of God’s people begun in Genesis.
+        answer: D
+      - uid: BIB318.5.1.3.F.1
+        subobj: 5.1.3
+        type: final
+        question: What plague did the Egyptian magicians declare was a result of the
+          “finger of God”?
+        choices:
+          A: Gnats
+          B: Frogs
+          C: Hail
+          D: Locust
+        answer: A
+      - uid: BIB318.5.2.1.F.1
+        subobj: 5.2.1
+        type: final
+        question: What event did the Feast of Unleavened Bread commemorate?
+        choices:
+          A: The Passover
+          B: The Flood
+          C: Creation
+          D: The Fall
+        answer: A
+      - uid: BIB318.5.3.2.F.1
+        subobj: 5.3.2
+        type: final
+        question: Moses’ staff symbolized
+        choices:
+          A: the judgment and punishment for disobedience.
+          B: God’s power and authority delegated to him.
+          C: his role as the chief shepherd of the people.
+          D: victory and salvation.
+        answer: B
+      - uid: BIB318.5.3.3.F.1
+        subobj: 5.3.3
+        type: final
+        question: Who advised Moses to delegate work to others?
+        choices:
+          A: Jethro
+          B: Miriam
+          C: Aaron
+          D: Hur
+        answer: A
+      - uid: BIB318.6.1.3.F.1
+        subobj: 6.1.3
+        type: final
+        question: When God appeared on Mt. Sinai, the encounter included
+        choices:
+          A: thunder, lightning, a thick cloud, intense smoke, and a trumpet blast.
+          B: dense fog, the sound of a mighty wind, and the moon turning blood red.
+          C: the sound of rushing water and the scent of myrrh.
+          D: an earthquake, a solar eclipse, and torrential rain.
+        answer: A
+      - uid: BIB318.6.2.3.F.1
+        subobj: 6.2.3
+        type: final
+        question: In the commandment to keep the Sabbath, the word Sabbath refers
+          to
+        choices:
+          A: ceasing or resting from work.
+          B: partaking of a meal with believers.
+          C: studying Scripture.
+          D: calling family members to worship.
+        answer: A
+      - uid: BIB318.6.3.3.F.1
+        subobj: 6.3.3
+        type: final
+        question: At the conclusion of God’s covenant with Israel, He promised
+        choices:
+          A: to give Israel a succession of righteous kings.
+          B: to give Israel an extensive land to inhabit.
+          C: that the angel of the Lord would fight their battles for them.
+          D: that Israel would coexist peacefully with the people of Canaan.
+        answer: B
+      - uid: BIB318.8.1.3.F.1
+        subobj: 8.1.3
+        type: final
+        question: The total burning of a sacrifice expressed
+        choices:
+          A: the fragility of life.
+          B: an attitude of holiness.
+          C: the violation of God’s law.
+          D: the complete dedication of self.
+        answer: D
+      - uid: BIB318.8.1.5.F.1
+        subobj: 8.1.5
+        type: final
+        question: Peace offerings or fellowship offerings provided an opportunity
+          for expressions of
+        choices:
+          A: fellowship and peace among God’s people.
+          B: praise and gratefulness to God.
+          C: repentance and guilt for sin.
+          D: love and honor for others.
+        answer: B
+      - uid: BIB318.8.2.2.F.1
+        subobj: 8.2.2
+        type: final
+        question: The sin of Nadab and Abihu was
+        choices:
+          A: listening to their father’s misguided instructions.
+          B: burning unauthorized fire in God’s presence.
+          C: misusing the tithes of the people.
+          D: teaching the people false doctrine.
+        answer: B
+      - uid: BIB318.8.3.2.F.1
+        subobj: 8.3.2
+        type: final
+        question: The instructions to Israel about clean and unclean foods were to
+          help the people remain separated from foods
+        choices:
+          A: associated with evil or sickness and death.
+          B: that could lead to the sin of gluttony.
+          C: during seasons of fasting.
+          D: grown in unsanitary conditions.
+        answer: A
+      - uid: BIB318.8.3.4.F.1
+        subobj: 8.3.4
+        type: final
+        question: The term leprosy refers to
+        choices:
+          A: any white spot found on the skin.
+          B: only the skin disease known as leprosy today.
+          C: birthmarks and moles that take on evil connotations.
+          D: any conditions of the skin or surface that are viewed negatively.
+        answer: D
+      - uid: BIB318.9.1.2.F.1
+        subobj: 9.1.2
+        type: final
+        question: In Leviticus 18 and 20, God’s law calls for faithfulness in marriage
+          because sexual immorality leads to
+        choices:
+          A: witchcraft.
+          B: idolatry.
+          C: stealing.
+          D: murder.
+        answer: B
+      - uid: BIB318.9.1.3.F.1
+        subobj: 9.1.3
+        type: final
+        question: The principle of idolatry in the Old Testament is about
+        choices:
+          A: doing business with neighboring nations.
+          B: behaviors that are not relevant today.
+          C: being unfaithful to God and worshipping a counterfeit.
+          D: not following the teaching of the priests.
+        answer: C
+      - uid: BIB318.9.3.2.F.1
+        subobj: 9.3.2
+        type: final
+        question: The Feast of Weeks celebrated
+        choices:
+          A: the new year with a special Sabbath.
+          B: God’s deliverance of Israel from slavery in Egypt.
+          C: God’s provision of the harvest, offering Him the firstfruits.
+          D: Israel’s journey through the wilderness, living in temporary shelters.
+        answer: C
+      - uid: BIB318.10.2.2.F.1
+        subobj: 10.2.2
+        type: final
+        question: By listing the offerings brought for the functioning of the tabernacle,
+          the writer is showing that
+        choices:
+          A: each tribe was equally committed to the Lord.
+          B: some tribes were not committed to the Lord at all.
+          C: some tribes were more committed to the Lord than others.
+          D: none of the tribes were committed to the Lord or the tabernacle.
+        answer: A
+      - uid: BIB318.10.3.1.F.1
+        subobj: 10.3.1
+        type: final
+        question: Because of Israel’s fear of the inhabitants of the Promised Land
+          and rebellion against God, they
+        choices:
+          A: were no longer God’s people.
+          B: spent forty years wandering the wilderness.
+          C: spent forty years fighting with the Canaanites.
+          D: were never allowed to take the Promised Land.
+        answer: B
+      - uid: BIB318.11.1.2.F.1
+        subobj: 11.1.2
+        type: final
+        question: The story of Balaam shows us that we are at our most vulnerable
+          to give in to temptation
+        choices:
+          A: after much prayer and fasting.
+          B: during a time of great challenge.
+          C: when we are tired, after a victory.
+          D: when we depend too much on the prayers of others.
+        answer: C
+      - uid: BIB318.12.1.6.F.1
+        subobj: 12.1.6
+        type: final
+        question: The call for the people to circumcise their hearts meant the people
+          were to
+        choices:
+          A: take an oath of fidelity to their spouses.
+          B: cease practices of polygamy.
+          C: be totally committed to God.
+          D: abstain from eating certain foods on the Sabbath.
+        answer: C
+      - uid: BIB318.13.2.2.F.1
+        subobj: 13.2.2
+        type: final
+        question: Commandments 8-10 imply that God’s people were to show
+        choices:
+          A: God’s heart toward others.
+          B: no mercy to wrong-doers.
+          C: obedience to the law.
+          D: their love for God.
+        answer: A
+      final_source:
+        exam_pdf: BIB318_ A exam aug16.pdf
+        key_pdf: bib318 form a desi answer key.pdf
+        matched: 39
+        objectives_agree: 39
     deployed_pn: 02.22.01
     body_baseline_pn: 02.22.01
     chapters:

@@ -959,7 +959,7 @@ courses:
       counts:
         ty: 130
         upe: 100
-        final: 0
+        final: 32
       questions:
       - uid: THE245.1.1.1.UPE.1
         subobj: 1.1.1
@@ -3449,6 +3449,357 @@ courses:
           C: Neither on earth nor in heaven
           D: Both on earth and in heaven
         answer: C
+      - uid: THE245.1.1.2.F.1
+        subobj: 1.1.2
+        type: final
+        question: The incentive for living a holy life is
+        choices:
+          A: a person’s fear of condemnation.
+          B: in the value of exposing other people’s sins.
+          C: Christ’s imminent return.
+          D: in gaining acceptance by church leaders.
+        answer: C
+      - uid: THE245.1.1.3.F.1
+        subobj: 1.1.3
+        type: final
+        question: Fulfilled Bible prophecy brings glory to God by
+        choices:
+          A: proving that fortune tellers are always wrong.
+          B: the use of Bible prophets who wrote things they did not themselves understand.
+          C: showing His ultimate sovereignty over the future.
+          D: making fallen nature a beautiful part of our world.
+        answer: C
+      - uid: THE245.1.2.2.F.1
+        subobj: 1.2.2
+        type: final
+        question: Amillennialists and postmillennialists agree that Bible prophecy
+          about the Millennium must be
+        choices:
+          A: interpreted literally.
+          B: interpreted allegorically.
+          C: considered as a collection of myths.
+          D: viewed as entirely pessimistic.
+        answer: B
+      - uid: THE245.2.1.1.F.1
+        subobj: 2.1.1
+        type: final
+        question: Being created in God’s image means
+        choices:
+          A: the human body is a replica of God’s spiritual form.
+          B: humans have the God-given abilities to think and to make choices.
+          C: humans, with their own judgment, can always distinguish right from wrong.
+          D: humans naturally have within them the nine fruit of the Spirit.
+        answer: B
+      - uid: THE245.2.1.2.F.1
+        subobj: 2.1.2
+        type: final
+        question: If God is all-powerful, why did He not bind Satan immediately upon
+          his rebellion?
+        choices:
+          A: Satan’s opposition provided God with a competition He would not otherwise
+            have.
+          B: God chooses to limit His omnipotence so people can behold His glory.
+          C: There is no satisfactory explanation why God would let Satan disrupt
+            His creation.
+          D: True love and obedience is proved only when another option is available.
+        answer: D
+      - uid: THE245.2.3.1.F.1
+        subobj: 2.3.1
+        type: final
+        question: Old Testament prophecies about the first coming of Jesus assure
+          us that
+        choices:
+          A: our salvation through the shed blood of Christ cannot be lost.
+          B: the Old Testament is as important to our faith as is the New Testament.
+          C: Jesus will return in the twenty-first century.
+          D: end-time prophecies still unfulfilled will yet come to pass.
+        answer: D
+      - uid: THE245.3.2.1.F.1
+        subobj: 3.2.1
+        type: final
+        question: According to the Old Testament, Sheol is the place where
+        choices:
+          A: all souls go until they are judged worthy of eternal life or eternal
+            punishment.
+          B: the wicked go at death.
+          C: the beggar Lazarus went in order to have conversation with the rich man.
+          D: the dead are buried (the grave).
+        answer: B
+      - uid: THE245.3.3.2.F.1
+        subobj: 3.3.2
+        type: final
+        question: The resurrection chapter of the New Testament is
+        choices:
+          A: Acts 2.
+          B: John 3.
+          C: First Corinthians 13.
+          D: First Corinthians 15.
+        answer: D
+      - uid: THE245.5.1.1.F.1
+        subobj: 5.1.1
+        type: final
+        question: The appropriate designation of Christ’s Second Coming is
+        choices:
+          A: the snatching away of believers at the Rapture.
+          B: the imminent return of Christ announced by the sound of a trumpet.
+          C: Christ’s coming to dwell in the believer at salvation.
+          D: the revelation of Jesus Christ when every eye will see Him.
+        answer: D
+      - uid: THE245.5.1.4.F.1
+        subobj: 5.1.4
+        type: final
+        question: Pentecostals believe the Rapture takes place before the Tribulation
+          because
+        choices:
+          A: Christ’s imminent return means the church would have to go through the
+            Tribulation.
+          B: Scripture states that the church is not appointed to suffer wrath.
+          C: Antichrist will become an apostate when he realizes he has missed the
+            Rapture.
+          D: the Rapture has already taken place--at the moment of salvation.
+        answer: B
+      - uid: THE245.5.2.2.F.1
+        subobj: 5.2.2
+        type: final
+        question: The Holy Spirit in this life prepares believers for resurrection
+          or Rapture by
+        choices:
+          A: warning of the time when the Rapture will take place.
+          B: removing all possibility of sin from their lives.
+          C: indwelling all believers and empowering Spirit-filled believers.
+          D: sending angels to keep believers from committing any sin.
+        answer: C
+      - uid: THE245.5.3.1.F.1
+        subobj: 5.3.1
+        type: final
+        question: The last book of the New Testament is called “Revelation” because
+          it reveals
+        choices:
+          A: in great detail the terrible judgments of the Tribulation.
+          B: the glories of the Millennium and the Eternal Ages.
+          C: Christ as the suffering Savior coming to die for sinful humans.
+          D: Christ as the primary figure of end-time prophecy.
+        answer: D
+      - uid: THE245.6.1.1.F.1
+        subobj: 6.1.1
+        type: final
+        question: In anticipating Christ’s return, believers must guard their thoughts
+          because
+        choices:
+          A: mental protection is better than physical safety.
+          B: thoughts build character, which influences one’s eternal destiny.
+          C: intuitive thinking would alert believers of the date of Christ’s return.
+          D: Christ’s return is dependent on our thoughts.
+        answer: B
+      - uid: THE245.7.1.2.F.1
+        subobj: 7.1.2
+        type: final
+        question: No matter how much a person suffers in this life, the judgments
+          of the Tribulation
+        choices:
+          A: far exceed present tribulations.
+          B: will only be temporary for believers.
+          C: represent the greatest pain and suffering Satan can inflict.
+          D: are only for a time, times, and half a time.
+        answer: A
+      - uid: THE245.7.1.2.F.2
+        subobj: 7.1.2
+        type: final
+        question: We are to comfort and edify fellow believers with the reminder that
+        choices:
+          A: the church will be preserved as it goes through the Tribulation.
+          B: the judgments of the Tribulation are symbolic rather than literal.
+          C: no evil has overtaken us except what is common to all humankind.
+          D: God has not appointed us to suffer the wrath, but to live together with
+            Him.
+        answer: D
+      - uid: THE245.7.2.2.F.1
+        subobj: 7.2.2
+        type: final
+        question: The bronze belly and thighs of the statue in Nebuchadnezzar’s dream
+          stand for
+        choices:
+          A: the Greek Empire under Alexander the Great.
+          B: Nebuchadnezzar’s Babylonian Empire.
+          C: the Roman Empire.
+          D: the Medo-Persian Empire.
+        answer: A
+      - uid: THE245.7.3.1.F.1
+        subobj: 7.3.1
+        type: final
+        question: Belief in miracles is essential to a literal understanding of Bible
+          prophecy because
+        choices:
+          A: all of the Tribulation judgments are actually miracles.
+          B: if miracles are impossible, then prediction of the future is impossible.
+          C: prophecy never uses figurative language.
+          D: Satan believes in miracles because he counterfeits many divine miracles.
+        answer: B
+      - uid: THE245.7.3.2.F.1
+        subobj: 7.3.2
+        type: final
+        question: Some advocates of the futurist view of eschatology hurt its reputation
+          by
+        choices:
+          A: treating Bible prophecy as an allegory of the struggle between good and
+            evil.
+          B: claiming that Bible prophecy has been fulfilled throughout all of church
+            history.
+          C: naming a current world figure as the possible Antichrist.
+          D: naming Satan as the Antichrist.
+        answer: C
+      - uid: THE245.8.2.2.F.1
+        subobj: 8.2.2
+        type: final
+        question: That which now holds back the power of lawlessness is
+        choices:
+          A: signs and wonders.
+          B: the preaching of the gospel.
+          C: the true church or believers in whom the Holy Spirit dwells.
+          D: Michael and the holy angels.
+        answer: C
+      - uid: THE245.9.1.1.F.1
+        subobj: 9.1.1
+        type: final
+        question: The seal, trumpet, and bowl judgments are
+        choices:
+          A: manifestations of Satan’s wrath.
+          B: natural disasters.
+          C: judgments of God’s wrath.
+          D: judgments of the unholy trinity.
+        answer: C
+      - uid: THE245.9.1.1.F.2
+        subobj: 9.1.1
+        type: final
+        question: The rider on the white horse of conquest (the first seal) is
+        choices:
+          A: Michael the archangel.
+          B: a symbol for evil tyrants.
+          C: a false prophet.
+          D: Satan himself.
+        answer: B
+      - uid: THE245.9.1.1.F.3
+        subobj: 9.1.1
+        type: final
+        question: The wrath of the Lamb in Revelation 6 is identified with the
+        choices:
+          A: fourth seal.
+          B: sixth seal.
+          C: horseman of famine.
+          D: horseman of conquest.
+        answer: C
+      - uid: THE245.9.2.1.F.1
+        subobj: 9.2.1
+        type: final
+        question: The last three trumpet judgments are sometimes called
+        choices:
+          A: the three “blasts of judgment.”
+          B: the three “woes.”
+          C: the three “plagues.”
+          D: the three “bowls of wrath.”
+        answer: B
+      - uid: THE245.9.3.1.F.1
+        subobj: 9.3.1
+        type: final
+        question: Antichrist is particularly targeted by the fifth bowl judgment when
+        choices:
+          A: his drinking water turns blood red.
+          B: his kingdom is plunged into darkness.
+          C: malignant sores cover his body.
+          D: he cannot leave his throne room because of the intense heat of the sun.
+        answer: B
+      - uid: THE245.10.2.2.F.1
+        subobj: 10.2.2
+        type: final
+        question: Satan’s fate after he is defeated at Armageddon is to be
+        choices:
+          A: bound and cast into the fiery lake of burning sulfur (lake of fire).
+          B: bound and thrown into the Abyss for a thousand years.
+          C: annihilated, never to be seen again on the face of the earth.
+          D: demoted and no longer recognized as the head of the demonic world.
+        answer: B
+      - uid: THE245.10.2.3.F.1
+        subobj: 10.2.3
+        type: final
+        question: The righteous souls resurrected at the end of the Tribulation are
+        choices:
+          A: the two witnesses killed for preaching Christ during the Tribulation.
+          B: nominal Christians who missed the Rapture and wavered during the Tribulation.
+          C: babies born during the Tribulation but killed in the seals/trumpets/bowls
+            judgments.
+          D: the martyred saints who did not bow down to Antichrist or take his mark.
+        answer: D
+      - uid: THE245.11.1.2.F.1
+        subobj: 11.1.2
+        type: final
+        question: The amillennial position on Israel’s role in end-time events is
+          that
+        choices:
+          A: the church has replaced Israel as the recipient of end-time prophecies
+            of a restored Israel.
+          B: the Bible prophecies about a restored Israel are still to be fulfilled
+            in the future.
+          C: all Israel will be saved and accept Christ as the Messiah.
+          D: Bible references to Israel in the end-time should be interpreted literally.
+        answer: A
+      - uid: THE245.11.3.3.F.1
+        subobj: 11.3.3
+        type: final
+        question: Ultradispensationalism is a teaching that places
+        choices:
+          A: excessive emphasis on artificial periods of God’s dealings with humans.
+          B: high value on spiritualizing or finding symbolic meanings in end-time
+            prophecy.
+          C: heavy emphasis on fulfilled Bible prophecy and less on yet unfulfilled
+            prophecies.
+          D: excessive emphasis on setting dates for the Rapture and identifying Antichrist
+            now.
+        answer: A
+      - uid: THE245.11.4.1.F.1
+        subobj: 11.4.1
+        type: final
+        question: Which one of the following is NOT a belief of Pentecostal premillennialism?
+        choices:
+          A: A literal interpretation of Bible prophecy
+          B: The church replacing Israel as the beneficiary of God’s promised blessings
+          C: Resurrection of the righteous dead at the Rapture
+          D: The Rapture can happen at any time
+        answer: B
+      - uid: THE245.12.2.2.F.1
+        subobj: 12.2.2
+        type: final
+        question: The government in the Millennium, under Christ, will be
+        choices:
+          A: a republic.
+          B: a monarchy.
+          C: a dictatorship.
+          D: a theocracy.
+        answer: D
+      - uid: THE245.12.3.1.F.1
+        subobj: 12.3.1
+        type: final
+        question: A significant change during the Millennium will be
+        choices:
+          A: the end of all possible rebellion against God.
+          B: that peace will reign in human relationships.
+          C: that the new Jerusalem will descend to earth.
+          D: that all temptations to sin will be done away with.
+        answer: B
+      - uid: THE245.13.1.1.F.1
+        subobj: 13.1.1
+        type: final
+        question: At the end of the Millennium, Satan is
+        choices:
+          A: released from the Abyss to deceive and test one last time.
+          B: allowed to go briefly before God and accuse the saints of wrongdoing.
+          C: moved immediately from the Abyss into the lake of fire.
+          D: powerless because his evil powers were destroyed at Calvary.
+        answer: A
+      final_source:
+        exam_pdf: THE245_exam E aug16.pdf
+        key_pdf: the245_2nd_c key desi jul 09.pdf
+        matched: 32
+        objectives_agree: 32
     deployed_pn: 04.22.01
     body_baseline_pn: 04.22.01
     chapters:

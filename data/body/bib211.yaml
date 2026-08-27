@@ -2545,7 +2545,7 @@ courses:
       counts:
         ty: 130
         upe: 100
-        final: 0
+        final: 41
       questions:
       - uid: BIB211.1.1.1.UPE.1
         subobj: 1.1.1
@@ -4992,6 +4992,440 @@ courses:
           D: those who agree to share the gospel will experience less suffering than
             those who refuse.
         answer: A
+      - uid: BIB211.1.2.1.F.1
+        subobj: 1.2.1
+        type: final
+        question: Acts serves as a bridge between the
+        choices:
+          A: Pauline epistles and John’s epistles.
+          B: Gospels and Paul’s letters.
+          C: Old and New testaments.
+          D: Gospels and the Pastoral Epistles.
+        answer: B
+      - uid: BIB211.1.2.2.F.1
+        subobj: 1.2.2
+        type: final
+        question: The Church grew from
+        choices:
+          A: Jerusalem to Samaria.
+          B: Antioch to Rome.
+          C: Jerusalem to Rome.
+          D: Samaria to Antioch.
+        answer: C
+      - uid: BIB211.1.3.1.F.1
+        subobj: 1.3.1
+        type: final
+        question: The Book of Acts can be divided into two major divisions based upon
+          the ministries of
+        choices:
+          A: Paul and Barnabas.
+          B: Peter and James.
+          C: James and Paul.
+          D: Peter and Paul.
+        answer: D
+      - uid: BIB211.2.1.1.F.1
+        subobj: 2.1.1
+        type: final
+        question: According to Acts, the last command given by Jesus was to
+        choices:
+          A: love one another.
+          B: go and make disciples of all nations.
+          C: wait for the gift the Father promised.
+          D: not be troubled, for God has overcome the world.
+        answer: C
+      - uid: BIB211.2.2.1.F.1
+        subobj: 2.2.1
+        type: final
+        question: The ascension of Jesus took place at
+        choices:
+          A: the Mount of Olives.
+          B: Jerusalem.
+          C: Bethany.
+          D: Sea of Galilee.
+        answer: A
+      - uid: BIB211.2.3.1.F.1
+        subobj: 2.3.1
+        type: final
+        question: Who was chosen to replace Judas?
+        choices:
+          A: Barsabbas
+          B: Mathias
+          C: Philip
+          D: Stephen
+        answer: B
+      - uid: BIB211.3.1.1.F.1
+        subobj: 3.1.1
+        type: final
+        question: Pentecost is also known as
+        choices:
+          A: Passover.
+          B: the Feast of Weeks.
+          C: Firstfruits.
+          D: the Feast of Unleavened Bread.
+        answer: B
+      - uid: BIB211.3.2.1.F.1
+        subobj: 3.2.1
+        type: final
+        question: On the Day of Pentecost, after they were baptized with the Holy
+          Spirit, the 120 believers began to
+        choices:
+          A: speak in tongues and prophesy.
+          B: shake and tremble.
+          C: prophesy.
+          D: speak in tongues.
+        answer: D
+      - uid: BIB211.3.3.1.F.1
+        subobj: 3.3.1
+        type: final
+        question: Speaking in tongues is
+        choices:
+          A: the initial physical evidence of the baptism of the Holy Spirit and a
+            regular means of personal prayer.
+          B: one of the nine gifts of the Spirit and a sign of spiritual maturity.
+          C: solely a means of personal prayer with God.
+          D: the initial physical evidence of the baptism of the Holy Spirit and a
+            sign of spiritual maturity.
+        answer: A
+      - uid: BIB211.4.1.1.F.1
+        subobj: 4.1.1
+        type: final
+        question: Through the empowering of the Holy Spirit, Peter, on the Day of
+          Pentecost, demonstrated great
+        choices:
+          A: intelligence.
+          B: charisma.
+          C: physical strength.
+          D: boldness.
+        answer: D
+      - uid: BIB211.4.2.1.F.1
+        subobj: 4.2.1
+        type: final
+        question: On the Day of Pentecost, Peter quoted from the prophet
+        choices:
+          A: Isaiah.
+          B: Jeremiah.
+          C: Amos.
+          D: Joel.
+        answer: D
+      - uid: BIB211.4.3.1.F.1
+        subobj: 4.3.1
+        type: final
+        question: According to Acts 2:42, the Early Church devoted themselves to
+        choices:
+          A: giving, fellowship, prayer, and evangelism.
+          B: doctrine, fellowship, prayer, and the breaking of bread.
+          C: teaching, witnessing, prayer, and the breaking of bread.
+          D: taking care of widows, fellowship, prayer, and.witnessing.
+        answer: B
+      - uid: BIB211.5.1.1.F.1
+        subobj: 5.1.1
+        type: final
+        question: The account of the crippled man healed at the Gate Beautiful teaches
+          the importance of
+        choices:
+          A: wealth.
+          B: faith.
+          C: physical touch.
+          D: eloquent speaking.
+        answer: C
+      - uid: BIB211.5.2.1.F.1
+        subobj: 5.2.1
+        type: final
+        question: In Acts 3, the two major themes of Peter’s message are
+        choices:
+          A: repentance and compassion.
+          B: evangelism and the second coming of Christ.
+          C: judgment and forgiveness.
+          D: exalting Jesus and extending God’s forgiveness.
+        answer: D
+      - uid: BIB211.6.2.1.F.1
+        subobj: 6.2.1
+        type: final
+        question: Signs and wonders
+        choices:
+          A: ceased after the ministry of Jesus.
+          B: ceased after the ministry of the apostles.
+          C: ceased after A.D. 150.
+          D: are still happening today.
+        answer: D
+      - uid: BIB211.6.3.1.F.1
+        subobj: 6.3.1
+        type: final
+        question: Who said, “We must obey God rather than men”?
+        choices:
+          A: Gamaliel
+          B: Mark
+          C: Stephen
+          D: Peter
+        answer: D
+      - uid: BIB211.7.1.2.F.1
+        subobj: 7.1.2
+        type: final
+        question: According to Acts 6, the seven men chosen to serve the Grecian widows
+          were to be men of
+        choices:
+          A: good reputation, full of wisdom, and full of the Holy Spirit.
+          B: popularity, full of love, and full of the Holy Spirit.
+          C: good reputation, full of love, and full of the Holy Spirit.
+          D: good reputation, gentleness, and full of love.
+        answer: A
+      - uid: BIB211.7.2.1.F.1
+        subobj: 7.2.1
+        type: final
+        question: Stephen’s speech to the Sanhedrin addressed
+        choices:
+          A: the Jewish leaders’ pattern of rejection towards men of faith.
+          B: eating meat offered to idols.
+          C: the discrimination of Grecian widows in Jerusalem.
+          D: the eventual salvation of Gentiles.
+        answer: A
+      - uid: BIB211.7.3.1.F.1
+        subobj: 7.3.1
+        type: final
+        question: As Stephen was being stoned, he
+        choices:
+          A: cursed the Jewish leaders for killing Jesus.
+          B: condemned the Jewish leaders for their sin and rebellion.
+          C: prayed that God would forgive them for their sin.
+          D: was silent, like a lamb led to the slaughter.
+        answer: C
+      - uid: BIB211.7.3.1.F.2
+        subobj: 7.3.1
+        type: final
+        question: As Stephen was being stoned, the witnesses laid their garments at
+          the feet of
+        choices:
+          A: Peter.
+          B: Caiaphas.
+          C: Saul.
+          D: Gamaliel.
+        answer: C
+      - uid: BIB211.8.1.1.F.1
+        subobj: 8.1.1
+        type: final
+        question: According to Acts 8, the Church began evangelism efforts outside
+          of Jerusalem due to
+        choices:
+          A: the preaching of Peter and John.
+          B: the Church’s desire to reach surrounding regions.
+          C: openness of the Gentiles to hear the gospel.
+          D: the persecution that followed Stephen’s death.
+        answer: D
+      - uid: BIB211.8.1.1.F.2
+        subobj: 8.1.1
+        type: final
+        question: Simon of Samaria was rebuked by Peter because he
+        choices:
+          A: had practiced sorcery.
+          B: wanted to buy the gift of God.
+          C: was causing division among the believers in Samaria.
+          D: had lied to the Holy Spirit.
+        answer: B
+      - uid: BIB211.8.2.1.F.1
+        subobj: 8.2.1
+        type: final
+        question: When Philip approached, the Ethiopian eunuch was reading from the
+          prophet
+        choices:
+          A: Jeremiah.
+          B: Ezekiel.
+          C: Isaiah.
+          D: Zechariah.
+        answer: C
+      - uid: BIB211.8.3.1.F.1
+        subobj: 8.3.1
+        type: final
+        question: Paul was uniquely fitted for missionary service because he was
+        choices:
+          A: a product of two cultures and educations.
+          B: popular and well-known in the Roman world.
+          C: a Greek.
+          D: an exceptional scholar.
+        answer: A
+      - uid: BIB211.9.1.1.F.1
+        subobj: 9.1.1
+        type: final
+        question: Luke describes Cornelius as
+        choices:
+          A: devout, generous, and God-fearing.
+          B: a generous man with a rich Jewish heritage.
+          C: a wealthy Gentile man that was despised by the Jews.
+          D: a devout and God-fearing Jew.
+        answer: A
+      - uid: BIB211.9.1.1.F.2
+        subobj: 9.1.1
+        type: final
+        question: When the Gentile believers at Cornelius’ began to speak in tongues
+          it signified that
+        choices:
+          A: they had received the baptism of the Holy Spirit.
+          B: they had been saved.
+          C: God had extended salvation to all people, including the Gentiles.
+          D: all the above are true.
+        answer: D
+      - uid: BIB211.9.3.1.F.1
+        subobj: 9.3.1
+        type: final
+        question: In Acts 12, who did Herod have put to death with the sword?
+        choices:
+          A: John
+          B: Stephen
+          C: Peter
+          D: James
+        answer: D
+      - uid: BIB211.9.3.1.F.2
+        subobj: 9.3.1
+        type: final
+        question: In Acts 12, who did not praise God and was eaten by worms?
+        choices:
+          A: Herod the Great
+          B: Caiaphas
+          C: Herod Agrippa I
+          D: Elymas
+        answer: C
+      - uid: BIB211.10.1.1.F.1
+        subobj: 10.1.1
+        type: final
+        question: Bar-Jesus, the Jewish sorcerer at Paphos, was also known as
+        choices:
+          A: Demos.
+          B: Simon.
+          C: Elymas.
+          D: Legion.
+        answer: C
+      - uid: BIB211.10.1.1.F.2
+        subobj: 10.1.1
+        type: final
+        question: Which of the following is not a principle of missions according
+          to Acts 13?
+        choices:
+          A: Work is a team effort
+          B: Be adaptable to one’s own culture
+          C: Expect opposition
+          D: Be full of the Spirit
+        answer: B
+      - uid: BIB211.10.2.1.F.1
+        subobj: 10.2.1
+        type: final
+        question: On their first missionary journey, Paul and Barnabas ministered
+          in the Roman province of
+        choices:
+          A: Macedonia.
+          B: Achaia.
+          C: Galatia.
+          D: Cappadocia.
+        answer: C
+      - uid: BIB211.11.1.1.F.1
+        subobj: 11.1.1
+        type: final
+        question: Prior to Paul’s second missionary journey, he and Barnabas had a
+          sharp disagreement over
+        choices:
+          A: the route they should take.
+          B: when they should leave.
+          C: whether they should take Mark.
+          D: whether they should take Timothy.
+        answer: C
+      - uid: BIB211.11.1.1.F.2
+        subobj: 11.1.1
+        type: final
+        question: In what city did Paul have a vision of a man from Macedonia begging
+          them to come?
+        choices:
+          A: Athens
+          B: Ephesus
+          C: Troas
+          D: Lystra
+        answer: C
+      - uid: BIB211.11.2.1.F.1
+        subobj: 11.2.1
+        type: final
+        question: In Thessalonica, because the Jews were jealous, they
+        choices:
+          A: blamed Paul for starting a riot.
+          B: found some bad characters and started a riot.
+          C: had Paul thrown into prison.
+          D: begged Paul to leave their town.
+        answer: B
+      - uid: BIB211.11.2.1.F.2
+        subobj: 11.2.1
+        type: final
+        question: In his sermon on Mars Hill, Paul addressed
+        choices:
+          A: deism.
+          B: pantheism.
+          C: polytheism.
+          D: all of the above.
+        answer: D
+      - uid: BIB211.11.3.1.F.1
+        subobj: 11.3.1
+        type: final
+        question: Like Priscilla and Aquila, Paul provided for his financial needs
+          in Corinth by
+        choices:
+          A: selling fine linen.
+          B: preaching in the synagogues.
+          C: fishing with the commercial fisherman.
+          D: making tents.
+        answer: D
+      - uid: BIB211.11.3.1.F.2
+        subobj: 11.3.1
+        type: final
+        question: In Corinth, the Lord spoke to Paul in a vision,
+        choices:
+          A: explaining the route Paul was to take back to Antioch.
+          B: explaining how he was to reach the Corinthians.
+          C: warning him about going through Ephesus.
+          D: encouraging him to remain faithful, because He would protect him.
+        answer: D
+      - uid: BIB211.12.1.1.F.1
+        subobj: 12.1.1
+        type: final
+        question: A vital lesson from Paul regarding team ministry is
+        choices:
+          A: effective communication.
+          B: the importance of group synergy.
+          C: mentoring future leaders.
+          D: encouraging the weaker member.
+        answer: C
+      - uid: BIB211.12.1.1.F.2
+        subobj: 12.1.1
+        type: final
+        question: In Ephesus, the man to whom Pricilla and Aquila taught the Scriptures
+          more adequately was
+        choices:
+          A: Apollos.
+          B: Timothy.
+          C: Alexander.
+          D: Titus.
+        answer: A
+      - uid: BIB211.12.2.1.F.1
+        subobj: 12.2.1
+        type: final
+        question: At the end of Paul’s third missionary journey, he passed by Ephesus
+          because he was in a hurry to reach Jerusalem by
+        choices:
+          A: winter.
+          B: spring.
+          C: the Day of Atonement.
+          D: Pentecost.
+        answer: D
+      - uid: BIB211.13.1.1.F.1
+        subobj: 13.1.1
+        type: final
+        question: According to the Jewish worldview,
+        choices:
+          A: Gentiles must be kept at a distance from anything considered pure and
+            holy.
+          B: Gentiles were considered compatible with the presence of God.
+          C: Parents were encouraged not to circumcise their sons.
+          D: Gentiles were allowed into the Inner Court of the temple.
+        answer: A
+      final_source:
+        exam_pdf: BIB115_C exam aug16.pdf
+        key_pdf: bib115_1st_c key rev desi feb16.pdf
+        matched: 41
+        objectives_agree: 41
     deployed_pn: 03.22.01
     body_baseline_pn: 03.22.01
     body_baseline_date: '2026-08-26'

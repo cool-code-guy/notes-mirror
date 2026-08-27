@@ -410,7 +410,7 @@ courses:
       counts:
         ty: 130
         upe: 75
-        final: 0
+        final: 33
       questions:
       - uid: BIB114.1.1.1.UPE.1
         subobj: 1.1.1
@@ -2792,6 +2792,401 @@ courses:
           C: focused completely on teachings regarding the end times.
           D: focused on the political implications of His message.
         answer: B
+      - uid: BIB114.1.1.1.F.1
+        subobj: 1.1.1
+        type: final
+        question: The term Synoptic Gospels refers to the accounts of the good news
+          presented by Matthew, Mark, and Luke, and means they
+        choices:
+          A: view the gospel similarly.
+          B: wrote with the same audience in view.
+          C: target their material especially for cross-cultural audiences.
+          D: agreed that each would present just one aspect of the gospel.
+        answer: A
+      - uid: BIB114.1.2.1.F.1
+        subobj: 1.2.1
+        type: final
+        question: Many scholars assume the priority of Mark because Mark
+        choices:
+          A: is used almost entirely by Matthew and Luke.
+          B: himself infers this in the prologue to his narrative.
+          C: was the only known source available to later writers.
+          D: gave an oral account of the Gospel before any other “life of Christ”
+            account was circulated.
+        answer: A
+      - uid: BIB114.2.1.3.F.1
+        subobj: 2.1.3
+        type: final
+        question: Matthew’s main purpose in writing his Gospel was to
+        choices:
+          A: explain to a Jewish audience why Jesus did not overthrow the Romans and
+            bring economic prosperity to the
+          B: react to Gnosticism and defend the fact that Jesus was fully God and
+            fully man.
+          C: fulfill the Roman emperor’s request for the religious library in Alexandria.
+          D: prove to a Jewish audience that Jesus fulfilled the Old Testament messianic
+            promises and is truly their long-
+        answer: D
+      - uid: BIB114.2.2.2.F.1
+        subobj: 2.2.2
+        type: final
+        question: The prefaces of Luke and Acts indicate that
+        choices:
+          A: Luke is clearly identified as the author of both books.
+          B: Theophilus commissioned the books as defense documents for Paul’s trial
+            in Rome.
+          C: the same person wrote the Gospel of Luke first and then Acts.
+          D: the two books were originally one work that was divided by later editors.
+        answer: C
+      - uid: BIB114.2.2.3.F.1
+        subobj: 2.2.3
+        type: final
+        question: What is one characteristic of Luke’s Gospel?
+        choices:
+          A: Luke gives us more historical details than any other Gospel writer.
+          B: Luke’s history begins with the birth of Jesus and ends with the Ascension.
+          C: Luke tries to prove that Jesus never violated any laws of the Roman Empire.
+          D: Luke emphasized the priority of the gospel for the Jews.
+        answer: A
+      - uid: BIB114.3.3.1.F.1
+        subobj: 3.3.1
+        type: final
+        question: Which Herodian family statement is correct?
+        choices:
+          A: The Herodian family descended from the Maccabees, who liberated Palestine
+            from Syrian control around 164
+          B: Palestine was awarded to Antipater, the father of Herod the Great, for
+            helping the Roman army in the conquest
+          C: Herod the Great became a proselyte to Judaism, was accepted by the Jewish
+            people, and rebuilt the temple.
+          D: Jews never regarded the Herods as true Jews and made no attempt to hide
+            their feelings of hatred toward these
+        answer: D
+      - uid: BIB114.3.3.2.F.1
+        subobj: 3.3.2
+        type: final
+        question: Although the region is not mentioned by name in the New Testament,
+          the “land beyond Jordan” refers specifically to
+        choices:
+          A: the Decapolis.
+          B: Perea.
+          C: Idumea.
+          D: Iturea, Gaulanitus, Trachonitis, Batanea, and Auranitis.
+        answer: B
+      - uid: BIB114.4.1.1.F.1
+        subobj: 4.1.1
+        type: final
+        question: At the beginning, the synagogue was intended to
+        choices:
+          A: replace the sacrificial system.
+          B: provide an alternative for temple worship.
+          C: furnish immediate access to the presence of God.
+          D: supply a forum for settling civil disputes.
+        answer: B
+      - uid: BIB114.4.1.2.F.1
+        subobj: 4.1.2
+        type: final
+        question: During the intertestamental period, the Hasidim were the
+        choices:
+          A: Jews who compromised with Hellenism and later became the Sadducees.
+          B: evangelistic Jews who sought to convert Gentiles to Judaism.
+          C: so-called pious ones who sought to protect the Jews from Hellenism and
+            later became the Pharisees.
+          D: military wing of Judaism who fought against the Syrians because they
+            defiled the temple.
+        answer: C
+      - uid: BIB114.4.1.3.F.1
+        subobj: 4.1.3
+        type: final
+        question: We may generally characterize Pharisees as Jews who were
+        choices:
+          A: middle-class tradesmen or businessmen and were associated with the synagogues.
+          B: descendants of the Maccabees who inherited the title of Pharisees from
+            their fathers.
+          C: descendants of the priestly families and were associated with temple
+            worship.
+          D: appointed by Rome as leaders of the synagogues.
+        answer: A
+      - uid: BIB114.4.2.1.F.1
+        subobj: 4.2.1
+        type: final
+        question: A religious party like the Pharisees and Sadducees, Essenes were
+          known for
+        choices:
+          A: withdrawing from society to develop purity and practical service.
+          B: withdrawing from society for disciplinary training to prepare for Roman
+            invasion.
+          C: fulfilling the function of the school of the prophets initially begun
+            by Samuel.
+          D: waging a war against Rome for independence.
+        answer: A
+      - uid: BIB114.5.1.1.F.1
+        subobj: 5.1.1
+        type: final
+        question: Concerning the annunciation and birth of Jesus, Luke records
+        choices:
+          A: the visit of the wise men and Herod’s slaughter of the babies in Bethlehem.
+          B: Jesus’ miraculous healing ministry as a baby in Bethlehem and later in
+            Egypt.
+          C: his relation to Jesus as His uncle, the biological brother of Joseph.
+          D: Joseph and Mary’s trip to Bethlehem in response to a decree from Caesar
+            Augustus.
+        answer: D
+      - uid: BIB114.5.2.1.F.1
+        subobj: 5.2.1
+        type: final
+        question: According to the Law, presenting a male child to the Lord required
+          the parents to
+        choices:
+          A: present the child when he was eight days old.
+          B: request the temple prophet or prophetess to prophesy over the child.
+          C: take him to the temple in Jerusalem and offer a sacrifice.
+          D: prepare a banquet and invite relatives and friends.
+        answer: C
+      - uid: BIB114.6.1.1.F.1
+        subobj: 6.1.1
+        type: final
+        question: One chronological indicator that helps us to date the beginning
+          of Christ’s ministry is
+        choices:
+          A: Luke’s reference that Jesus was about twenty years of age.
+          B: His dedication at the temple.
+          C: the beginning of John’s ministry in the fifteenth year of Tiberias Caesar.
+          D: the reference in Luke’s Gospel to the reign of Claudius.
+        answer: C
+      - uid: BIB114.7.1.1.F.1
+        subobj: 7.1.1
+        type: final
+        question: While the Synoptic Gospels cover the final months of Jesus’ ministry
+          fairly well, we rely on John’s Gospel for
+        choices:
+          A: Peter’s confession that Jesus is the Messiah and Son of God.
+          B: important details of the Judean/Perean ministry.
+          C: the impact of Jesus’ Judean/Perean ministry.
+          D: details of Jesus’ teaching content in Perea.
+        answer: B
+      - uid: BIB114.7.2.4.F.1
+        subobj: 7.2.4
+        type: final
+        question: During the Passion Week, Christ taught His disciples about Jerusalem’s
+          destruction and His second coming in the
+        choices:
+          A: Olivet Discourse on the Mount of Olives.
+          B: time following His triumphant entry into Jerusalem.
+          C: Upper Room, following the Passover meal.
+          D: home of Mary, Martha, and Lazarus.
+        answer: A
+      - uid: BIB114.8.1.2.F.1
+        subobj: 8.1.2
+        type: final
+        question: Regarding the accounts of Christ’s arrest in the Synoptic Gospels,
+          we note that
+        choices:
+          A: only Matthew mentions Christ’s healing the ear of the high priest’s servant.
+          B: only Mark mentions the young man, who only wore a linen garment, being
+            seized by the crowd.
+          C: only Luke mentions Malchus as the name of the high priest’s servant.
+          D: all three accounts are identical.
+        answer: B
+      - uid: BIB114.8.3.1.F.1
+        subobj: 8.3.1
+        type: final
+        question: Which statement is true concerning Christ’s crucifixion?
+        choices:
+          A: At the death of Christ, an earthquake shook the city of Rome.
+          B: Christ was convicted as a political revolutionary according to the written
+            charge.
+          C: Christ was arrested at midnight, was crucified at 9:00 a.m., and died
+            at 3:00 p.m.-only about fifteen hours.
+          D: At Christ’s death, the Holy Spirit left Him.
+        answer: C
+      - uid: BIB114.8.4.1.F.1
+        subobj: 8.4.1
+        type: final
+        question: The matter of Christ’s fulfilling His promise to rise from the dead
+          on the third day rests on
+        choices:
+          A: the custom in those days to count parts of days as whole days.
+          B: whether ancient people understood the need for precision in keeping time.
+          C: conflicting records of the various Gospel writers.
+          D: the tendency in earlier days to state time in generalities.
+        answer: A
+      - uid: BIB114.8.4.2.F.1
+        subobj: 8.4.2
+        type: final
+        question: According to Luke’s Gospel and our study, which of these men saw
+          Jesus first after His resurrection?
+        choices:
+          A: The apostle John
+          B: The apostle Andrew
+          C: James, Jesus’ half brother
+          D: The two disciples on the road to Emmaus
+        answer: D
+      - uid: BIB114.9.2.2.F.1
+        subobj: 9.2.2
+        type: final
+        question: Which Gospel writer appeals to people’s respect for teachers and
+          teaching?
+        choices:
+          A: Matthew
+          B: Mark
+          C: Luke
+          D: John
+        answer: A
+      - uid: BIB114.9.3.1.F.1
+        subobj: 9.3.1
+        type: final
+        question: What relationship exists between Christ’s teaching and His ultimate
+          redemptive purpose?
+        choices:
+          A: Through initiation into the secret teaching of Christ to His disciples,
+            one can receive ultimate redemption.
+          B: The teaching of Christ was tied directly to His purpose to be the sacrifice
+            for our salvation.
+          C: The relationship was stated indirectly in parabolic form and could be
+            recognized only by His disciples.
+          D: They indicated the comparative weakness of the Law in relation to the
+            human condition and pointed to its
+        answer: B
+      - uid: BIB114.10.1.1.F.1
+        subobj: 10.1.1
+        type: final
+        question: Matthew used the term kingdom of heaven more than kingdom of God
+          because he
+        choices:
+          A: wanted to avoid using the term Yahweh, or God, out of respect for the
+            feelings of devout Jews.
+          B: found it simpler to use when he dealt with spiritual matters of the future.
+          C: was referring to the kingdom of the Jews during the Millennium.
+          D: was theologically and culturally naive.
+        answer: A
+      - uid: BIB114.10.2.1.F.1
+        subobj: 10.2.1
+        type: final
+        question: The Jews in general rejected Christ’s teaching on the Kingdom because
+        choices:
+          A: the realm He described was less than what God had originally promised.
+          B: Christ was assuming equality with God in ruling the Kingdom.
+          C: Christ said the law of Moses had no moral value in the Kingdom.
+          D: Christ’s teachings on the Kingdom were impractical.
+        answer: B
+      - uid: BIB114.10.2.2.F.1
+        subobj: 10.2.2
+        type: final
+        question: By saying that followers of Christ live between the times, we mean
+          that
+        choices:
+          A: they live in self denial.
+          B: the dark ages of church history interrupted the age of the Spirit.
+          C: they are merged with God and live outside the realm of time and space.
+          D: what Christ has already initiated in them will not be fully realized
+            until His second coming.
+        answer: D
+      - uid: BIB114.10.2.2.F.2
+        subobj: 10.2.2
+        type: final
+        question: In contrast to the present aspect of the Kingdom, the future aspect
+          will
+        choices:
+          A: be visible and physical.
+          B: represent a reign, not a realm.
+          C: initiate God’s eternal plan.
+          D: be spiritual, not political.
+        answer: A
+      - uid: BIB114.10.2.4.F.1
+        subobj: 10.2.4
+        type: final
+        question: Which statement distinguishes the kingdom of God from the Jewish
+          concept of the Kingdom?
+        choices:
+          A: “Anyone who divorces his wife must give her a certificate of divorce”
+            (Matthew 5:31).
+          B: '“Love your neighbor and hate your enemy” (Matthew 5: 43).'
+          C: “Love the Lord your God with all your heart and with all your soul and
+            with all your mind” and “Love your
+          D: “If anyone swears by the gold of the temple, he is bound by his oath”
+            (Matthew 23:16).
+        answer: C
+      - uid: BIB114.11.2.1.F.1
+        subobj: 11.2.1
+        type: final
+        question: Which Gospel records the most parables of Jesus?
+        choices:
+          A: Matthew
+          B: Mark
+          C: Luke
+          D: John
+        answer: C
+      - uid: BIB114.12.2.1.F.1
+        subobj: 12.2.1
+        type: final
+        question: Which miracle of Christ is common to all four Gospels?
+        choices:
+          A: Feeding the five thousand
+          B: Christ’s ascending into heaven
+          C: Raising Jairus’s daughter from the dead
+          D: Walking on water
+        answer: A
+      - uid: BIB114.12.2.2.F.1
+        subobj: 12.2.2
+        type: final
+        question: Which statement is true about the harmony of miracles in the Gospels?
+        choices:
+          A: Harmonizing the miracles is a serious problem because the details in
+            each Gospel are so different.
+          B: The Gospel accounts of miracles complement and verify each other, but
+            may differ in terms of specific details.
+          C: The Gospel writers often depended on hearsay for the recorded miracles
+            instead of actual historical events.
+          D: Each Synoptic writer gives the same number of details in common accounts
+            of miracles.
+        answer: B
+      - uid: BIB114.13.2.1.F.1
+        subobj: 13.2.1
+        type: final
+        question: What cultural factors enabled the gospel to have the greatest possible
+          impact?
+        choices:
+          A: Greece provided the language in which the gospel was expressed, and Rome
+            provided the political security that
+          B: Over half of the Roman Empire had become God-fearers through Jewish evangelism
+            and thus were ripe for the
+          C: Rome had mostly eliminated slavery and given equality to women, making
+            it possible for both slaves and
+          D: The Old Testament was widely received throughout the ancient world as
+            a divinely inspired document.
+        answer: A
+      - uid: BIB114.13.2.1.F.2
+        subobj: 13.2.1
+        type: final
+        question: The Jewish nation helped Christ’s message to be birthed and nurtured
+          by providing a
+        choices:
+          A: religious vehicle through which Christ could be revealed.
+          B: system of laws that would be in sharp contrast to Christ’s message.
+          C: code of ceremonial statutes to foster personal holiness.
+          D: cultural vehicle through which the gospel could be spread.
+        answer: A
+      - uid: BIB114.13.3.1.F.1
+        subobj: 13.3.1
+        type: final
+        question: Which statement represents a significant fact about the Synoptic
+          Gospels?
+        choices:
+          A: Since the Synoptic writers’ goal was not to write biographies, they give
+            few facts about Christ’s first thirty
+          B: The Synoptic Gospels focus almost exclusively on the last twelve months
+            of Christ’s public ministry.
+          C: Christ’s presence and energy among the people of Galilee were enough
+            to turn away their unbelief and turn
+          D: We must substantially rely on the Gospel of John for facts about the
+            Passion Week of Christ.
+        answer: A
+      final_source:
+        exam_pdf: BIB114_C exam aug16.pdf
+        key_pdf: bib114_1st_c key rev desi oct14.pdf
+        matched: 33
+        objectives_agree: 33
     deployed_pn: 01.22.01
     body_baseline_pn: 01.22.01
     chapters:

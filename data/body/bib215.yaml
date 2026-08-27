@@ -2783,7 +2783,7 @@ courses:
       counts:
         ty: 80
         upe: 75
-        final: 0
+        final: 46
       questions:
       - uid: BIB215.1.1.1.UPE.1
         subobj: 1.1.1
@@ -4454,6 +4454,497 @@ courses:
           C: produces results.
           D: promotes goodness.
         answer: D
+      - uid: BIB215.1.2.1.F.1
+        subobj: 1.2.1
+        type: final
+        question: The main theme of Romans is
+        choices:
+          A: a righteousness from God.
+          B: weak and strong believers.
+          C: relationships of believers to one another.
+          D: Spirit versus flesh.
+        answer: A
+      - uid: BIB215.1.2.1.F.2
+        subobj: 1.2.1
+        type: final
+        question: The book of Romans contains Paul’s most
+        choices:
+          A: detailed account of his missionary journeys.
+          B: complete testimony of his conversion experience.
+          C: piercing judgment of the Judaizers’ perversion of the gospel.
+          D: systematic theological presentation of the gospel.
+        answer: D
+      - uid: BIB215.1.3.1.F.1
+        subobj: 1.3.1
+        type: final
+        question: Paul’s closing remarks in Romans reveal that
+        choices:
+          A: he did not know the leaders of the Roman church.
+          B: none of the believers in the church were Jews.
+          C: the church was multinational in its makeup.
+          D: no women were engaged in church ministries.
+        answer: C
+      - uid: BIB215.1.3.2.F.1
+        subobj: 1.3.2
+        type: final
+        question: In Romans 1:6, Paul reminds the Romans that they were called to
+        choices:
+          A: be apostles.
+          B: preach the gospel.
+          C: change their lives.
+          D: belong to Jesus Christ.
+        answer: D
+      - uid: BIB215.1.4.1.F.1
+        subobj: 1.4.1
+        type: final
+        question: Many Jews of Paul’s time stumbled over the gospel because they
+        choices:
+          A: were disobedient to the Law.
+          B: wanted Jesus to be their Messiah.
+          C: misunderstood their own Scriptures.
+          D: did not believe God’s promise of a Messiah.
+        answer: C
+      - uid: BIB215.2.1.1.F.1
+        subobj: 2.1.1
+        type: final
+        question: In Romans 1:18-32, the Law is not mentioned in relation to God’s
+          wrath, indicating that this passage describes the guilt of
+        choices:
+          A: sinners in general.
+          B: the Jews who rejected Christ.
+          C: Gentiles in particular.
+          D: Paul’s own people.
+        answer: C
+      - uid: BIB215.2.1.3.F.1
+        subobj: 2.1.3
+        type: final
+        question: In relation to God’s wrath, retribution means
+        choices:
+          A: “one sin leads to a worse sin.”
+          B: “the consequence of sin is punishment.”
+          C: “God’s wrath is like a sudden outburst of anger.”
+          D: “God rewards people according to their deeds.”
+        answer: D
+      - uid: BIB215.2.2.1.F.1
+        subobj: 2.2.1
+        type: final
+        question: According to Romans 2:1-16, the most important factor in determining
+          morality is
+        choices:
+          A: how a person lives.
+          B: the standards a person accepts.
+          C: the intentions a person has.
+          D: how a person compares to others.
+        answer: A
+      - uid: BIB215.2.2.2.F.1
+        subobj: 2.2.2
+        type: final
+        question: In Romans 2, “true circumcision” is described as
+        choices:
+          A: high standards of conduct.
+          B: a change of heart produced by God’s Spirit.
+          C: a cutting of the body in an act of obedience.
+          D: perfect understanding and observance of the Law.
+        answer: B
+      - uid: BIB215.3.1.1.F.1
+        subobj: 3.1.1
+        type: final
+        question: The words “But now” in Romans 3:21 introduce a major turning point
+          from the topic of guilt to that of
+        choices:
+          A: final judgment.
+          B: justification by faith.
+          C: walking in the Spirit.
+          D: practical Christian living.
+        answer: B
+      - uid: BIB215.3.1.2.F.1
+        subobj: 3.1.2
+        type: final
+        question: The term that describes Jesus’ turning aside God’s wrath against
+          sin by taking our punishment on himself is
+        choices:
+          A: redemption.
+          B: justification.
+          C: propitiation.
+          D: forgiveness.
+        answer: C
+      - uid: BIB215.3.1.3.F.1
+        subobj: 3.1.3
+        type: final
+        question: Paul declared that faith in Christ
+        choices:
+          A: upholds the Law.
+          B: contradicts the Law.
+          C: abolishes the Law.
+          D: replaces the Law.
+        answer: A
+      - uid: BIB215.3.2.1.F.1
+        subobj: 3.2.1
+        type: final
+        question: Abraham received the sign of circumcision as a
+        choices:
+          A: condition of his justification.
+          B: ritualistic expression of his heritage.
+          C: confirmation of God’s earlier declaration of his righteousness.
+          D: recognition that his good works made him worthy of justification.
+        answer: C
+      - uid: BIB215.3.3.1.F.1
+        subobj: 3.3.1
+        type: final
+        question: To be justified or credited as righteous, a person must
+        choices:
+          A: be free of guilt for past and present sins.
+          B: trust in Jesus Christ and His redemptive work.
+          C: add good works to personal faith in God.
+          D: set very high standards of conduct.
+        answer: B
+      - uid: BIB215.3.4.1.F.1
+        subobj: 3.4.1
+        type: final
+        question: Paul shows that “one man” (Adam) and “the one to come” (Christ)
+          are similar in the
+        choices:
+          A: perfect example they set for the human race.
+          B: universal consequences of their deeds.
+          C: innocence they shared at birth.
+          D: inheritance Christians receive from each of them.
+        answer: B
+      - uid: BIB215.4.1.1.F.1
+        subobj: 4.1.1
+        type: final
+        question: Sanctification is
+        choices:
+          A: salvation.
+          B: spiritual growth.
+          C: justification.
+          D: peace with God.
+        answer: B
+      - uid: BIB215.4.1.2.F.1
+        subobj: 4.1.2
+        type: final
+        question: Paul asked, “Shall we go on sinning so that grace may increase?”
+          (Romans 6:1) to emphasize that
+        choices:
+          A: believers need not worry about sin in their lives.
+          B: God’s abundant grace exceeds a believer's greatest sin.
+          C: those who sin greatly receive more abundant grace.
+          D: God’s grace is an insufficient restraint to sin.
+        answer: B
+      - uid: BIB215.4.1.2.F.2
+        subobj: 4.1.2
+        type: final
+        question: In Romans 5-6, the three steps to victory over sin are to know God’s
+          provision, count oneself dead to sin, and
+        choices:
+          A: do good works.
+          B: preach the gospel.
+          C: change one's attitude.
+          D: offer oneself to God.
+        answer: D
+      - uid: BIB215.4.2.1.F.1
+        subobj: 4.2.1
+        type: final
+        question: The marriage analogy in Romans 7 teaches that
+        choices:
+          A: when believers die with Christ, the Law has no more authority over them.
+          B: one can never escape the binding requirements of the Law.
+          C: sin’s control over believers can never be fully broken.
+          D: the Law reveals God’s unchangeable will for all believers.
+        answer: A
+      - uid: BIB215.4.3.1.F.1
+        subobj: 4.3.1
+        type: final
+        question: The view that the “wretched man” in Romans 7:24 refers to Paul as
+          a mature believer supports the argument that
+        choices:
+          A: a Christian cannot live in victory.
+          B: his outward actions are acceptable, but his inner attitudes are not.
+          C: he thinks he can fight the battle against sin in his own strength.
+          D: he hated sin and is disappointed by his sins.
+        answer: D
+      - uid: BIB215.5.1.1.F.1
+        subobj: 5.1.1
+        type: final
+        question: The chapter in Romans that includes the most references to the Holy
+          Spirit is
+        choices:
+          A: Romans 5.
+          B: Romans 7.
+          C: Romans 8.
+          D: Romans 15.
+        answer: C
+      - uid: BIB215.5.1.2.F.1
+        subobj: 5.1.2
+        type: final
+        question: According to Romans 8, our freedom from condemnation means
+        choices:
+          A: the Law can neither reveal sin nor condemn us.
+          B: perfect obedience frees us from condemnation.
+          C: God has determined that no one should be condemned.
+          D: God removed our guilt by sending His Son to save us.
+        answer: D
+      - uid: BIB215.5.1.3.F.1
+        subobj: 5.1.3
+        type: final
+        question: In Romans 8, Paul declared that those who live according to the
+          sinful nature will
+        choices:
+          A: have troubles.
+          B: be free.
+          C: die.
+          D: feel guilty.
+        answer: C
+      - uid: BIB215.5.1.4.F.1
+        subobj: 5.1.4
+        type: final
+        question: According to Romans 8:14, a distinguishing trait of God’s children
+          is
+        choices:
+          A: an inferior status like that of a child.
+          B: the leading of the Spirit of God.
+          C: an attitude of self-confidence.
+          D: fear of God’s wrath.
+        answer: B
+      - uid: BIB215.5.2.1.F.1
+        subobj: 5.2.1
+        type: final
+        question: The consummation of believers’ adoption into the family of God is
+        choices:
+          A: the seal of our inheritance.
+          B: an inward groaning of anticipation.
+          C: the confession of past sins.
+          D: the redemption of their bodies.
+        answer: D
+      - uid: BIB215.5.3.1.F.1
+        subobj: 5.3.1
+        type: final
+        question: God works in all things for the good of those who love Him in order
+          to
+        choices:
+          A: relieve their suffering.
+          B: prevent bad things from happening to them.
+          C: give them a testimony of God’s deliverance.
+          D: conform them to the likeness of His Son.
+        answer: D
+      - uid: BIB215.5.3.3.F.1
+        subobj: 5.3.3
+        type: final
+        question: The question, “If God be for us, who can be against us?” implies
+          that
+        choices:
+          A: those who love God will have no enemies.
+          B: believers cannot be certain that God is for them.
+          C: believers have been redeemed from the Law’s curse.
+          D: with God for believers, no one can prevail against them.
+        answer: D
+      - uid: BIB215.6.1.1.F.1
+        subobj: 6.1.1
+        type: final
+        question: The content of Romans 9-11 is best described as
+        choices:
+          A: the sinful condition of all people.
+          B: life in the Spirit.
+          C: faith versus works.
+          D: Israel’s divine purpose in history.
+        answer: D
+      - uid: BIB215.6.1.2.F.1
+        subobj: 6.1.2
+        type: final
+        question: According to Romans 2, a “true Jew” is one who
+        choices:
+          A: has experienced the Jewish rite of circumcision.
+          B: obeys the Law faithfully.
+          C: has a heart that is right with God.
+          D: was born of Jewish parents.
+        answer: C
+      - uid: BIB215.6.1.2.F.2
+        subobj: 6.1.2
+        type: final
+        question: The statement, “[God] hardens whom he wants to harden” demonstrates
+          that
+        choices:
+          A: God’s actions are sometimes arbitrary and undeserved.
+          B: God does not harden anyone who does not first harden him or herself.
+          C: Pharaoh had no control over God hardening his heart.
+          D: often God hardens those who do not resist His leading.
+        answer: B
+      - uid: BIB215.6.2.1.F.1
+        subobj: 6.2.1
+        type: final
+        question: When Paul said the Jews “stumbled over the stumbling stone,” he
+          meant that they
+        choices:
+          A: turned from God to idolatry.
+          B: did not interpret the Law correctly.
+          C: took no responsibility for their sins.
+          D: rejected Christ and trusted in works.
+        answer: D
+      - uid: BIB215.6.3.1.F.1
+        subobj: 6.3.1
+        type: final
+        question: According to Romans 10, there can be no salvation, no calling, no
+          believing, no hearing, and no preaching unless
+        choices:
+          A: people pray.
+          B: God wills it.
+          C: someone is sent.
+          D: sinners respond.
+        answer: C
+      - uid: BIB215.7.1.1.F.1
+        subobj: 7.1.1
+        type: final
+        question: According to Romans 12, to put their faith into practice, believers
+          must
+        choices:
+          A: be examples in their religious zeal.
+          B: conform to the accepted patterns of this world.
+          C: continue to earn their salvation by good works.
+          D: give their body, mind, and will to God.
+        answer: D
+      - uid: BIB215.7.1.1.F.2
+        subobj: 7.1.1
+        type: final
+        question: To “be transformed by the renewing” of their minds (Romans 12:2),
+          believers must
+        choices:
+          A: use their minds to change themselves for good.
+          B: cooperate as the Holy Spirit works to renew them.
+          C: be passive and uninvolved in the changing process.
+          D: withdraw from the world and all its influences.
+        answer: B
+      - uid: BIB215.7.1.1.F.3
+        subobj: 7.1.1
+        type: final
+        question: In Romans 12:1, the term living sacrifice refers to
+        choices:
+          A: a willingness to die for Christ.
+          B: giving up pleasurable things.
+          C: death to the old self when one accepts Christ.
+          D: what Jesus did on the cross.
+        answer: C
+      - uid: BIB215.7.1.2.F.1
+        subobj: 7.1.2
+        type: final
+        question: In relation to Romans 12, the example of the vine and the branches
+          in John 15 illustrates that a believer’s fruitfulness depends on
+        choices:
+          A: how long he or she has been a Christian.
+          B: his or her spiritual gifts.
+          C: union with Christ.
+          D: ministry to others.
+        answer: C
+      - uid: BIB215.7.1.2.F.2
+        subobj: 7.1.2
+        type: final
+        question: Which of these is distributed to each believer as the Spirit determines?
+        choices:
+          A: Power to overcome
+          B: The fruit of the Spirit
+          C: Opportunities to witness
+          D: Spiritual gifts
+        answer: D
+      - uid: BIB215.7.2.1.F.1
+        subobj: 7.2.1
+        type: final
+        question: According to Romans 13:8, the law is fulfilled when a person
+        choices:
+          A: obeys those in authority.
+          B: outwardly conforms to the Law.
+          C: tries to live at peace with others.
+          D: loves his or her fellow humanity.
+        answer: D
+      - uid: BIB215.7.3.1.F.1
+        subobj: 7.3.1
+        type: final
+        question: Paul’s warning against passing judgment on “disputable matters”
+          in Romans 14:1 refers to
+        choices:
+          A: fundamentals of salvation.
+          B: opinions of right and wrong.
+          C: clearly defined teaching.
+          D: worldly practices and customs.
+        answer: B
+      - uid: BIB215.7.3.1.F.2
+        subobj: 7.3.1
+        type: final
+        question: Among believers, doing what leads to peace and mutual edification
+          means
+        choices:
+          A: trying to control or limit the activities of weaker believers.
+          B: being passive and permissive in relations with other believers.
+          C: avoiding anything that might cause someone else to stumble.
+          D: living in harmony and building up fellow believers.
+        answer: D
+      - uid: BIB215.8.1.1.F.1
+        subobj: 8.1.1
+        type: final
+        question: When describing his ministry, Paul focused on
+        choices:
+          A: his accomplishments through preaching Christ.
+          B: others’ praise concerning his accomplishments.
+          C: his physical challenges while preaching the gospel.
+          D: what Christ had accomplished through him.
+        answer: D
+      - uid: BIB215.8.1.1.F.2
+        subobj: 8.1.1
+        type: final
+        question: Paul’s missionary strategy was to
+        choices:
+          A: stay in one place preaching for many years.
+          B: build strong churches in small villages.
+          C: minister in churches already established by others.
+          D: preach the gospel where Christ was not known.
+        answer: D
+      - uid: BIB215.8.2.1.F.1
+        subobj: 8.2.1
+        type: final
+        question: Most of the people Paul greeted in Romans 16 were
+        choices:
+          A: of the lower strata of society.
+          B: Jewish relatives of Paul.
+          C: high-ranking Gentiles living in Rome.
+          D: Greeks associated with the ruling class.
+        answer: A
+      - uid: BIB215.8.2.1.F.2
+        subobj: 8.2.1
+        type: final
+        question: From Paul’s greetings to individuals in the Roman church (Romans
+          16), we learn that
+        choices:
+          A: the members were all from the same ethnic group.
+          B: workers in the church included women.
+          C: there were no Jews in this church.
+          D: he had visited the church more than once.
+        answer: B
+      - uid: BIB215.8.2.2.F.1
+        subobj: 8.2.2
+        type: final
+        question: One argument against the Ephesus theory that Romans ends at 15:33
+          is that
+        choices:
+          A: Paul could not have had as many friends in Rome as chapter 16 suggests.
+          B: as an outsider, Paul would not have written the admonitions in 16:17-20
+            to the Roman church.
+          C: Paul’s doxology actually was written at the end of chapter 15, not 16.
+          D: it was Paul’s pattern to greet people by name solely in churches he had
+            not founded.
+        answer: D
+      - uid: BIB215.8.3.1.F.1
+        subobj: 8.3.1
+        type: final
+        question: In his final instructions, Paul advises the Roman believers to
+        choices:
+          A: be moderate in the use of spiritual gifts in the church.
+          B: be open-minded about what is taught or preached by outsiders.
+          C: watch out for those who cause division and preach false doctrines.
+          D: be suspicious of others within the church until they have proven to be
+            trustworthy.
+        answer: C
+      final_source:
+        exam_pdf: BIB215_C exam aug16.pdf
+        key_pdf: bib215_form c  key desi dec14.pdf
+        matched: 46
+        objectives_agree: 46
     deployed_pn: 03.22.01
     body_baseline_pn: 03.22.01
     chapters:

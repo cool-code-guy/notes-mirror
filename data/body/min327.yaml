@@ -1570,7 +1570,7 @@ courses:
       counts:
         ty: 140
         upe: 100
-        final: 0
+        final: 45
       questions:
       - uid: MIN327.1.1.1.TY.1
         subobj: 1.1.1
@@ -4191,6 +4191,535 @@ courses:
           C: sexual misconduct by the counselor.
           D: all of the above.
         answer: D
+      - uid: MIN327.1.1.1.F.1
+        subobj: 1.1.1
+        type: final
+        question: According to our study, the local church should conduct business
+          in a responsible way because
+        choices:
+          A: many smaller churches are rapidly becoming larger and must handle large
+            sums of money in an appropriate
+          B: it is a worldly enterprise and should operate as such.
+          C: in the parable of the talents, handling money is an aspect of salvation.
+          D: larger churches may decrease and become smaller churches.
+        answer: A
+      - uid: MIN327.1.2.1.F.1
+        subobj: 1.2.1
+        type: final
+        question: Which strong leadership style can emphasize the interests of the
+          organization?
+        choices:
+          A: Laissez-faire
+          B: Authoritarian
+          C: Democratic
+          D: Aristocratic
+        answer: B
+      - uid: MIN327.1.3.1.F.1
+        subobj: 1.3.1
+        type: final
+        question: Official minutes of business meetings are important because
+        choices:
+          A: future members may want to know why certain decisions were made.
+          B: possession of property may hinge on these written records.
+          C: unless minutes properly reflect authority, officers can be held legally
+            responsible for many legal matters.
+          D: of what is noted in both b) and c).
+        answer: D
+      - uid: MIN327.1.4.1.F.1
+        subobj: 1.4.1
+        type: final
+        question: An advantage of sound staffing procedures is that they
+        choices:
+          A: contribute to the pastor’s effectiveness as chief administrator of the
+            church.
+          B: enable the pastor to become popular with the people he/she leads.
+          C: provide employment for unemployed church members.
+          D: do all of the above.
+        answer: A
+      - uid: MIN327.1.5.1.F.1
+        subobj: 1.5.1
+        type: final
+        question: The body of appointed members of the church who are charged with
+          legal transactions relating to church properties is the
+        choices:
+          A: board of trustees.
+          B: church council.
+          C: board of deacons.
+          D: board of elders.
+        answer: A
+      - uid: MIN327.2.1.3.F.1
+        subobj: 2.1.3
+        type: final
+        question: A note is a loan instrument defined most accurately as a
+        choices:
+          A: written agreement between the borrower and the lender.
+          B: necessary form for any transaction that exceeds $1,000 in value.
+          C: paper the seller provides to indicate transfer of ownership.
+          D: paper the seller provides that describes the property involved in the
+            transaction.
+        answer: A
+      - uid: MIN327.2.2.2.F.1
+        subobj: 2.2.2
+        type: final
+        question: Interest rates increase or decrease based on financial market conditions
+          in a
+        choices:
+          A: fixed rate mortgage.
+          B: flexible rate mortgage.
+          C: renegotiable rate mortgage.
+          D: rollover rate mortgage.
+        answer: B
+      - uid: MIN327.2.3.1.F.1
+        subobj: 2.3.1
+        type: final
+        question: Which type of bond is an unsecured obligation of the church backed
+          only by its good name?
+        choices:
+          A: Debenture
+          B: Registered
+          C: Callable
+          D: Coupon
+        answer: A
+      - uid: MIN327.2.4.1.F.1
+        subobj: 2.4.1
+        type: final
+        question: A key factor in conducting a successful capital fund campaign is
+        choices:
+          A: securing outside professional help in bringing the project to completion.
+          B: indicating that all people are expected to contribute a minimal amount.
+          C: challenging members to give beyond their means.
+          D: providing follow-up on the details of the project.
+        answer: D
+      - uid: MIN327.2.5.2.F.1
+        subobj: 2.5.2
+        type: final
+        question: The faith promise plan is a highly effective method of raising funds
+          because
+        choices:
+          A: if people fail to keep their faith promises, deacons can talk with the
+            them and give appropriate counsel.
+          B: faith promises are based on the resources one has readily available.
+          C: faith promises enable the mission board to secure loans for overseas
+            building programs.
+          D: the faith promise is an agreement between an individual and God that
+            represents a personal goal of what one
+        answer: D
+      - uid: MIN327.3.1.2.F.1
+        subobj: 3.1.2
+        type: final
+        question: The total of money or other goods of value received by an organization
+          during a given period of time is called
+        choices:
+          A: receipts.
+          B: expenses.
+          C: net receipts.
+          D: transactions.
+        answer: A
+      - uid: MIN327.3.3.2.F.1
+        subobj: 3.3.2
+        type: final
+        question: What is an advantage of using a worksheet?
+        choices:
+          A: All of the accounts can be viewed in one place to determine the need
+            for adjustments.
+          B: The accounts can be separated and balanced before the financial statement
+            is completed.
+          C: Financial statements can be prepared more accurately from a worksheet
+            than from a ledger.
+          D: All of the above are advantages of using a worksheet.
+        answer: D
+      - uid: MIN327.4.1.1.F.1
+        subobj: 4.1.1
+        type: final
+        question: A statement of receipts and expenses
+        choices:
+          A: summarizes potential sources of income.
+          B: reveals the financial status of the organization.
+          C: summarizes the financial transactions of the church during an accounting
+            period.
+          D: lists the account names and respective balances under the debit and credit
+            columns.
+        answer: C
+      - uid: MIN327.4.2.1.F.1
+        subobj: 4.2.1
+        type: final
+        question: Which document reveals the financial status of a church?
+        choices:
+          A: Balance sheet
+          B: Adjusted trial balance
+          C: Statement of receipts and expenditures
+          D: Statement of changes in financial position
+        answer: A
+      - uid: MIN327.4.3.2.F.1
+        subobj: 4.3.2
+        type: final
+        question: The statement of receipts and expenses reveals
+        choices:
+          A: the church’s total assets and liabilities after all receipts and expenses
+            are closed out to zero.
+          B: the receipts and revenue that remain after deducting related expenses.
+          C: the church’s ability to meet its current and long-term liabilities and
+            endowment fund balances.
+          D: the salaries of each of the church employees.
+        answer: B
+      - uid: MIN327.5.1.2.F.1
+        subobj: 5.1.2
+        type: final
+        question: The author suggests that individual contributor’s records be retained
+          for
+        choices:
+          A: one year.
+          B: three years.
+          C: six years.
+          D: permanent.
+        answer: C
+      - uid: MIN327.5.2.1.F.1
+        subobj: 5.2.1
+        type: final
+        question: One advantage of an audit is that it
+        choices:
+          A: assigns church bookkeeping to an outside firm, enabling the pastor and
+            staff to concentrate on prayer and the
+          B: proves the competence and accounting education of the bookkeeper and
+            accountant.
+          C: protects the pastor and staff from copyright violations in their church
+            ministry.
+          D: satisfies requirements of governments, lending institutes, and denominational
+            leaders.
+        answer: D
+      - uid: MIN327.5.3.5.F.1
+        subobj: 5.3.5
+        type: final
+        question: Which is an argument against including depreciation in church financial
+          reports?
+        choices:
+          A: Church vehicles and equipment do not depreciate at the same rate as secular
+            business equipment.
+          B: Churches are nonprofit and are rarely concerned with matching income
+            and costs with the accrual basis of
+          C: Because the pastor, staff, and members use church vehicles and equipment
+            conscientiously, depreciation is not a
+          D: All of the above are valid arguments.
+        answer: B
+      - uid: MIN327.5.4.2.F.1
+        subobj: 5.4.2
+        type: final
+        question: The greatest disadvantage of the single entry bookkeeping system
+          is that
+        choices:
+          A: it is difficult to learn and use.
+          B: it does not have the self-balancing features of the double entry system.
+          C: only an accountant can use this system successfully.
+          D: it is too simple for most small and medium-size churches.
+        answer: B
+      - uid: MIN327.5.5.1.F.1
+        subobj: 5.5.1
+        type: final
+        question: A church should use accounting principles and concepts because
+        choices:
+          A: donors and lenders review the financial information as they consider
+            giving to an organization.
+          B: it assures members who are unfamiliar with accounting that the church
+            leaders are trustworthy.
+          C: accounting principles are both natural and scientific and do not change
+            with time and use.
+          D: doing so makes the members feel good about the organization.
+        answer: A
+      - uid: MIN327.6.1.1.F.1
+        subobj: 6.1.1
+        type: final
+        question: Internal control is a system of guidelines, methods, and procedures
+          used by a church to control
+        choices:
+          A: the number of activities and missions projects.
+          B: the amount of money budgeted for operations.
+          C: its daily operations.
+          D: its members.
+        answer: C
+      - uid: MIN327.6.2.1.F.1
+        subobj: 6.2.1
+        type: final
+        question: In regard to church offerings, your independent-study textbook recommends
+        choices:
+          A: that the pastor and pastoral staff give their offerings in full view
+            of the congregation.
+          B: that the church use offering plates instead of bags to encourage honesty
+            and integrity.
+          C: that the pastor and pastoral staff constantly remind the congregation
+            of the need for more money.
+          D: all of the above.
+        answer: A
+      - uid: MIN327.6.3.1.F.1
+        subobj: 6.3.1
+        type: final
+        question: A primary benefit of a church’s using a checking account in its
+          cash management is that this
+        choices:
+          A: enables the church to do away with the petty cash fund.
+          B: provides the church with a dual record-keeping system.
+          C: eliminates the need for the church to have a safe or strong box.
+          D: eliminates the possibility of any kind of theft or fraud.
+        answer: B
+      - uid: MIN327.6.3.2.F.1
+        subobj: 6.3.2
+        type: final
+        question: The cash position report reveals
+        choices:
+          A: the amounts of cash placed in new accounts, securities, and investment
+            property in the last year.
+          B: the cash balances and the funds with which they are identified.
+          C: the total summaries of all cash receipts and cash disbursements.
+          D: errors and inaccuracies in the church financial records.
+        answer: B
+      - uid: MIN327.7.2.2.F.1
+        subobj: 7.2.2
+        type: final
+        question: A payment voucher is
+        choices:
+          A: an itemized list of goods shipped or services rendered.
+          B: a written record prepared as merchandise is received.
+          C: a document that attests to the details and accuracy of a transaction.
+          D: an unpaid, short-term account that a purchaser owes a vendor.
+        answer: C
+      - uid: MIN327.7.2.3.F.1
+        subobj: 7.2.3
+        type: final
+        question: A check requisition form is
+        choices:
+          A: a request for an advance or reimbursement for expenditures.
+          B: an acknowledgement that something has been received in exchange for something
+            else of value.
+          C: a written record prepared as merchandise is received, counted, and checked.
+          D: a document attesting to the details and accuracy of a transaction.
+        answer: A
+      - uid: MIN327.7.3.1.F.1
+        subobj: 7.3.1
+        type: final
+        question: Which term describes a large amount of cash kept on hand for making
+          cash payments?
+        choices:
+          A: Bank transfer
+          B: Petty cash fund
+          C: Imprest fund
+          D: Unrestricted fund
+        answer: C
+      - uid: MIN327.7.3.2.F.1
+        subobj: 7.3.2
+        type: final
+        question: A guideline for internal control of cash disbursements is that
+        choices:
+          A: only one bank account should be used and all major payments should be
+            made by check.
+          B: personnel should keep their job assignments indefinitely to avoid diverse
+            approaches.
+          C: one person should write purchase orders, physically receive goods, and
+            write accounts payable disbursement.
+          D: one person should match vouchers with accounts and verify the presence
+            of all necessary documents for
+        answer: A
+      - uid: MIN327.8.2.2.F.1
+        subobj: 8.2.2
+        type: final
+        question: The greatest benefit of permanent repair over temporary repair is
+          that it
+        choices:
+          A: provides time for further study.
+          B: solves the problem.
+          C: is inexpensive.
+          D: temporarily deters further deterioration.
+        answer: B
+      - uid: MIN327.8.3.1.F.1
+        subobj: 8.3.1
+        type: final
+        question: Before purchasing additional equipment and vehicles, the church
+          leadership should
+        choices:
+          A: sell, trade, and discard unneeded and irreparable equipment.
+          B: consider purchasing the cheapest vehicles and equipment available.
+          C: give unused and excess equipment and vehicles to people in the church.
+          D: do all of the above.
+        answer: A
+      - uid: MIN327.9.2.2.F.1
+        subobj: 9.2.2
+        type: final
+        question: The three major steps in preparing an annual budget are
+        choices:
+          A: distributing projected budgets, planning meetings, and distributing proposed
+            budget requests.
+          B: preparing budget requests, planning meetings, and distributing proposed
+            budget requests.
+          C: preparing budget requests, planning meetings, and reviewing personnel.
+          D: distributing budget information and worksheets, planning meetings, and
+            submitting budget requests.
+        answer: D
+      - uid: MIN327.9.2.3.F.1
+        subobj: 9.2.3
+        type: final
+        question: What is a church’s stewardship potential?
+        choices:
+          A: A total of all investments owned by all the church members
+          B: The tithes and offerings of last year divided by the number of members
+            in the church
+          C: Ten percent of the average annual household income multiplied by the
+            number of families in the church
+          D: The total value of all church property less depreciation
+        answer: C
+      - uid: MIN327.10.1.1.F.1
+        subobj: 10.1.1
+        type: final
+        question: A church that retains the authority within the membership to manage
+          its own affairs and select its own pastor is called a
+        choices:
+          A: Protestant church.
+          B: denominational church.
+          C: hierarchical church.
+          D: congregational church.
+        answer: D
+      - uid: MIN327.10.3.1.F.1
+        subobj: 10.3.1
+        type: final
+        question: When a congregation is aware of a minister’s unauthorized action
+          but does not challenge it,
+        choices:
+          A: default authorization occurs.
+          B: implicit ratification occurs.
+          C: de facto authority occurs.
+          D: explicit ratification occurs.
+        answer: B
+      - uid: MIN327.10.4.4.F.1
+        subobj: 10.4.4
+        type: final
+        question: Which legal privilege provided to clergy may conflict with mandatory
+          child abuse reporting laws?
+        choices:
+          A: Exemption from jury duty
+          B: Exemption from military duty
+          C: Performance of marriage ceremonies
+          D: Clergy-penitent privilege
+        answer: D
+      - uid: MIN327.11.1.2.F.1
+        subobj: 11.1.2
+        type: final
+        question: Which of the following is NOT a component of defamation?
+        choices:
+          A: Published statements
+          B: Statements that are false
+          C: Statements causing financial injury
+          D: Statements about another person
+        answer: C
+      - uid: MIN327.11.3.1.F.1
+        subobj: 11.3.1
+        type: final
+        question: What must the priority consideration be for a permissive reporter
+          of child abuse in deciding whether or not to report suspected child abuse?
+        choices:
+          A: The potential effect on the abuser relative to future therapy
+          B: The safety and security of the child
+          C: Whether or not sexual molestation is involved
+          D: The future liability to self and to the church
+        answer: B
+      - uid: MIN327.11.4.1.F.1
+        subobj: 11.4.1
+        type: final
+        question: A counselee who consents to sexual relations with a minister
+        choices:
+          A: waives all rights to later collect civil damages.
+          B: can be sued by the minister for breach of fiduciary duty.
+          C: may still collect civil damages from the minister for sexual abuse.
+          D: shields the minister from facing criminal charges.
+        answer: C
+      - uid: MIN327.12.2.1.F.1
+        subobj: 12.2.1
+        type: final
+        question: A church charter can be defined as
+        choices:
+          A: a statement of doctrine contained in a church constitution.
+          B: the official record of the origins and development of the parent denomination.
+          C: the articles of incorporation that have been approved by the secretary
+            of state.
+          D: a certificate issued by the secretary of state authorizing a church to
+            conduct public worship services.
+        answer: C
+      - uid: MIN327.12.4.1.F.1
+        subobj: 12.4.1
+        type: final
+        question: The legal authority of church officers and directors
+        choices:
+          A: is restricted to that granted in state nonprofit corporation statutes.
+          B: is assumed from the spiritual authority granted in the Bible.
+          C: must be stipulated by resolution at each annual business meeting.
+          D: can be granted only by a legal source such as corporation law or a church
+            charter or bylaws.
+        answer: D
+      - uid: MIN327.12.5.3.F.1
+        subobj: 12.5.3
+        type: final
+        question: A frequent cause of controversy during a church election is unclear
+          language in the bylaws related to
+        choices:
+          A: notice requirements.
+          B: parliamentary procedure for discussing resolutions.
+          C: the number of votes required to approve an action.
+          D: tenure requirements.
+        answer: C
+      - uid: MIN327.13.1.2.F.1
+        subobj: 13.1.2
+        type: final
+        question: Which statement represents the opinion of the majority of courts
+          in relation to zoning disputes involving churches?
+        choices:
+          A: First amendment principles take precedence over residential property
+            interests.
+          B: The burden placed on churches by excluding them from residential areas
+            is reasonable.
+          C: States have a compelling interest in preserving property values and tax
+            revenues by excluding churches from
+          D: Churches enjoy absolute immunity from zoning board authority.
+        answer: A
+      - uid: MIN327.13.4.1.F.1
+        subobj: 13.4.1
+        type: final
+        question: Which statement best expresses whether courts will consider churches
+          to be engaged in commerce?
+        choices:
+          A: Few, if any, churches will be considered by a court to be engaged in
+            activities affecting commerce.
+          B: Churches are charitable, non-profit entities and, as such, are not eligible
+            for this designation.
+          C: Many churches will be considered by courts to be engaged in activities
+            affecting commerce.
+          D: The United States Department of Labor has specified all churches as being
+            involved in commerce.
+        answer: C
+      - uid: MIN327.13.4.5.F.1
+        subobj: 13.4.5
+        type: final
+        question: Under the provisions of the Americans with Disabilities Act, employers
+          are prohibited from discriminating against disabled employees or job applicants
+          and must
+        choices:
+          A: make reasonable accommodations for the disability.
+          B: prefer disabled applicants over more qualified nondisabled applicants.
+          C: provide training to allow the disabled employee to qualify for advancement.
+          D: replace current employees with disabled applicants if the applicant is
+            more qualified.
+        answer: A
+      - uid: MIN327.14.2.3.F.1
+        subobj: 14.2.3
+        type: final
+        question: A disregard for the well-being of children may be evident in an
+          applicant for church employment who
+        choices:
+          A: does not have any children of his or her own.
+          B: resists or resents a thorough screening process.
+          C: is under the age of 21 or over the age of 50.
+          D: expects generous pay for working with children.
+        answer: B
+      final_source:
+        exam_pdf: MIN327_C exam aug16.pdf
+        key_pdf: min327_form c key desi jul 09.pdf
+        matched: 45
+        objectives_agree: 45
     deployed_pn: 02.22.01
     body_baseline_pn: 02.22.01
     chapters:

@@ -1142,7 +1142,7 @@ courses:
       counts:
         ty: 80
         upe: 75
-        final: 0
+        final: 44
       questions:
       - uid: BIB322.1.1.1.UPE.1
         subobj: 1.1.1
@@ -2712,6 +2712,456 @@ courses:
           C: advocates separating sex from the love relationship.
           D: affirms that sex is God’s good creation.
         answer: D
+      - uid: BIB322.1.1.1.F.1
+        subobj: 1.1.1
+        type: final
+        question: Because God inspired the Bible, we read it to
+        choices:
+          A: learn of the history of the Israelites.
+          B: hear God’s voice and submit ourselves to His will.
+          C: know more about God than those who don’t read it do.
+          D: gain knowledge to debate theological issues.
+        answer: B
+      - uid: BIB322.1.1.3.F.1
+        subobj: 1.1.3
+        type: final
+        question: The principle of Scripture interpreting Scripture helps believers
+        choices:
+          A: emphasize themes drawn from isolated passages.
+          B: avoid creating doctrinal statements from isolated passages.
+          C: draw as many interpretations from isolated Scriptures as possible.
+          D: resolve confusion caused by the messages of conflicting passages.
+        answer: B
+      - uid: BIB322.1.3.1.F.1
+        subobj: 1.3.1
+        type: final
+        question: Bracketing a poetic unit with a similar word or phrase is called
+        choices:
+          A: parallelism.
+          B: inclusio.
+          C: ellipsis.
+          D: chiasm.
+        answer: B
+      - uid: BIB322.1.3.3.F.1
+        subobj: 1.3.3
+        type: final
+        question: Parallelisms in Hebrew poetry work by using
+        choices:
+          A: two lines to present and develop an image.
+          B: vivid imagery and colorful language.
+          C: rhyming words at the end of lines.
+          D: meter to create interest in the sound.
+        answer: A
+      - uid: BIB322.2.1.1.F.1
+        subobj: 2.1.1
+        type: final
+        question: The best reason for studying wisdom writings is that they
+        choices:
+          A: comprise a major part of Scripture.
+          B: address practical and important questions.
+          C: reveal Christ as Shepherd and Messiah.
+          D: are part of the old covenant.
+        answer: B
+      - uid: BIB322.2.2.1.F.1
+        subobj: 2.2.1
+        type: final
+        question: The two basic forms of wisdom writing are
+        choices:
+          A: proverbs and contemplation.
+          B: sayings and parables.
+          C: law and prophecy.
+          D: words and deeds.
+        answer: A
+      - uid: BIB322.2.3.1.F.1
+        subobj: 2.3.1
+        type: final
+        question: To emphasize the world’s importance, wisdom
+        choices:
+          A: sees suffering as inevitable and basic to human life.
+          B: finds its source in common experiences.
+          C: focuses on humanity’s powerlessness toward our own destinies.
+          D: stresses humanity’s destiny to live in a chaotic universe.
+        answer: B
+      - uid: BIB322.2.3.3.F.1
+        subobj: 2.3.3
+        type: final
+        question: Wisdom common to Israel’s neighbors includes
+        choices:
+          A: love poems collected into books.
+          B: instructions to husbands and wives.
+          C: stories of an innocent person’s suffering.
+          D: psalms and hymns placed in collections.
+        answer: C
+      - uid: BIB322.2.3.5.F.1
+        subobj: 2.3.5
+        type: final
+        question: According to Clements, wisdom helped Israel most
+        choices:
+          A: in the loosely structured time of the judges.
+          B: prior to Israel's exodus from Egypt.
+          C: under the reign of Solomon.
+          D: after the return from Exile.
+        answer: D
+      - uid: BIB322.3.1.2.F.1
+        subobj: 3.1.2
+        type: final
+        question: Suggested dates for the writing of Job range from
+        choices:
+          A: Abraham’s day to the time of Moses.
+          B: the time of the judges to after the return from Exile.
+          C: entrance to the Promised Land to the time of David.
+          D: escape from Egypt to the time of King Solomon.
+        answer: B
+      - uid: BIB322.3.2.1.F.1
+        subobj: 3.2.1
+        type: final
+        question: Satan’s question about Job’s righteousness was,
+        choices:
+          A: is Job merely one of God’s puppets?
+          B: how long will Job remain patient?
+          C: does Job fear God for nothing?
+          D: does Job deserve God’s love?
+        answer: C
+      - uid: BIB322.3.2.3.F.1
+        subobj: 3.2.3
+        type: final
+        question: Job’s attitude toward God and suffering changed
+        choices:
+          A: after God rebuked his friends for misrepresenting Him.
+          B: because his wealth and position were restored.
+          C: because he realized God was going to heal him.
+          D: when he encountered God face-to-face.
+        answer: D
+      - uid: BIB322.3.4.1.F.1
+        subobj: 3.4.1
+        type: final
+        question: According to Moore, God justifies Job because he
+        choices:
+          A: had a more accurate understanding of God.
+          B: spoke to God rather than about Him.
+          C: never demanded justice from God.
+          D: suffered patiently.
+        answer: B
+      - uid: BIB322.3.4.3.F.1
+        subobj: 3.4.3
+        type: final
+        question: The problem of evil asks, “If God is
+        choices:
+          A: all-powerful and good, why does evil exist and the innocent suffer?”
+          B: all-powerful, why does He heal some people but not others?”
+          C: good, why does He not make all believers equally wealthy?”
+          D: good, why do believers continue to face many problems?”
+        answer: A
+      - uid: BIB322.3.5.2.F.1
+        subobj: 3.5.2
+        type: final
+        question: Creation is important as revelation because it
+        choices:
+          A: demonstrates God’s loving compassion for all people.
+          B: reveals God’s plan of redemption for all people.
+          C: portrays God’s power and nature to all people.
+          D: shows the relationship of God with people.
+        answer: C
+      - uid: BIB322.4.1.1.F.1
+        subobj: 4.1.1
+        type: final
+        question: One of the five steps for studying the Psalms is to
+        choices:
+          A: read several commentaries focusing on the Psalms.
+          B: outline each psalm and list its major theme and purpose.
+          C: gather all the passages with similar themes and draw conclusions.
+          D: analyze the structure, or the flow of thought, of the material.
+        answer: D
+      - uid: BIB322.4.2.2.F.1
+        subobj: 4.2.2
+        type: final
+        question: Clues in the titles of psalms reveal
+        choices:
+          A: whether a psalm was truly inspired by God.
+          B: that David was the author of all but a few psalms.
+          C: the authorship and historical setting of every psalm.
+          D: authorship, setting, melody, and musical instruments used.
+        answer: D
+      - uid: BIB322.4.3.1.F.1
+        subobj: 4.3.1
+        type: final
+        question: Evidence of intermediate collections of the Psalter include
+        choices:
+          A: concluding lines and repetition of psalms.
+          B: references in other Scripture passages to individual collections.
+          C: ancient manuscripts that do not include the book of Psalms.
+          D: copious notes left by scribes of ancient manuscripts.
+        answer: A
+      - uid: BIB322.4.4.1.F.1
+        subobj: 4.4.1
+        type: final
+        question: The concept of covenant
+        choices:
+          A: refers to settling disputes in lawsuits.
+          B: is a cornerstone of biblical theology.
+          C: was introduced in biblical poetry.
+          D: included sacrificing animals for sin.
+        answer: B
+      - uid: BIB322.4.4.3.F.1
+        subobj: 4.4.3
+        type: final
+        question: One of the most common examples of covenant language in the Psalms
+          is God’s
+        choices:
+          A: loving faithfulness.
+          B: retribution.
+          C: sovereign judgment.
+          D: wisdom.
+        answer: A
+      - uid: BIB322.5.1.1.F.1
+        subobj: 5.1.1
+        type: final
+        question: A function of the wisdom psalms is to
+        choices:
+          A: separate the wicked from the just.
+          B: identify with the nation of Israel.
+          C: call people to repentance.
+          D: offer instruction.
+        answer: D
+      - uid: BIB322.5.1.3.F.1
+        subobj: 5.1.3
+        type: final
+        question: God’s causing a storm to destroy a city because of its sinfulness
+          is an example of
+        choices:
+          A: indirect retribution.
+          B: natural retribution.
+          C: hot retribution.
+          D: cool retribution.
+        answer: C
+      - uid: BIB322.5.2.1.F.1
+        subobj: 5.2.1
+        type: final
+        question: Hard work in the Psalms emphasizes
+        choices:
+          A: the idea that the rich work hard and deserve their wealth.
+          B: obedience to God, study of the Torah, and resulting blessings.
+          C: enjoying the blessings brought by abundance.
+          D: wealth and comfort, which are just rewards.
+        answer: B
+      - uid: BIB322.5.2.3.F.1
+        subobj: 5.2.3
+        type: final
+        question: The Torah is important to Psalms because
+        choices:
+          A: a balanced, prosperous life is centered on obeying the Torah.
+          B: the Torah uses language that is most appropriate to Hebrew poetry.
+          C: true poetic worship begins with reading and discussing the Torah.
+          D: it explains the two ways between which people can choose.
+        answer: A
+      - uid: BIB322.6.2.1.F.1
+        subobj: 6.2.1
+        type: final
+        question: More than other sections, the opening of Proverbs focuses on the
+        choices:
+          A: family.
+          B: king.
+          C: sluggard.
+          D: hard worker.
+        answer: A
+      - uid: BIB322.6.2.2.F.1
+        subobj: 6.2.2
+        type: final
+        question: The major images in Solomon’s first collection include the
+        choices:
+          A: blessings of a virtuous wife.
+          B: nature of kings, sluggards, and evil individuals.
+          C: blessing of the wise and punishment of the fool.
+          D: woman of wisdom and the woman of folly.
+        answer: D
+      - uid: BIB322.6.2.3.F.1
+        subobj: 6.2.3
+        type: final
+        question: The nature of a proverb is best described as a
+        choices:
+          A: commandment.
+          B: guideline.
+          C: promise.
+          D: law.
+        answer: B
+      - uid: BIB322.6.3.2.F.1
+        subobj: 6.3.2
+        type: final
+        question: According to Davis, Proverbs was written to
+        choices:
+          A: provide stability and safety in times of transition and crisis.
+          B: establish women as responsible for educating children.
+          C: instruct kings in wise and just rule of their subjects.
+          D: outline the virtues of a godly wife.
+        answer: A
+      - uid: BIB322.6.4.2.F.1
+        subobj: 6.4.2
+        type: final
+        question: In Proverbs, the process of learning wisdom begins
+        choices:
+          A: at the temple.
+          B: at creation.
+          C: in the home.
+          D: with discipline.
+        answer: C
+      - uid: BIB322.6.4.4.F.1
+        subobj: 6.4.4
+        type: final
+        question: Guidance of young men leaving home belongs to
+        choices:
+          A: priests and prophets.
+          B: Lady Wisdom.
+          C: magistrates.
+          D: the Torah.
+        answer: B
+      - uid: BIB322.7.1.1.F.1
+        subobj: 7.1.1
+        type: final
+        question: The writer of Ecclesiastes seeks to
+        choices:
+          A: describe how to find and maintain life-securing knowledge.
+          B: provide a resource for enduring extreme suffering.
+          C: establish human wisdom as a means of gaining success.
+          D: explore the limits of human wisdom and experience.
+        answer: D
+      - uid: BIB322.7.1.3.F.1
+        subobj: 7.1.3
+        type: final
+        question: Farmer describes Ecclesiastes as moving from
+        choices:
+          A: a focus on the king to that of a common person.
+          B: specific studies to general conclusions.
+          C: general conclusions to specific studies.
+          D: faithlessness to faith.
+        answer: B
+      - uid: BIB322.7.1.4.F.1
+        subobj: 7.1.4
+        type: final
+        question: The Preacher concludes that
+        choices:
+          A: we should enjoy what we see and are given.
+          B: the sleep of the rich man is sweet.
+          C: conventional wisdom can be trusted.
+          D: death ushers a person into God's presence.
+        answer: A
+      - uid: BIB322.7.2.1.F.1
+        subobj: 7.2.1
+        type: final
+        question: The essential contradiction of Ecclesiastes is that it
+        choices:
+          A: argues both for and against conventional wisdom.
+          B: advocates both godliness and sensual pleasure.
+          C: denies wealth as a result of hard work.
+          D: rejects the possibility of knowing God.
+        answer: A
+      - uid: BIB322.7.2.3.F.1
+        subobj: 7.2.3
+        type: final
+        question: Whybray understands the Preacher to be joyful because
+        choices:
+          A: he does not believe in an afterlife or judgment and therefore does not
+            fear death.
+          B: the book includes seven exhortations to enjoy life.
+          C: God commands us to be joyful in all circumstances.
+          D: he teaches that God's creation is the source of joy.
+        answer: B
+      - uid: BIB322.7.3.2.F.1
+        subobj: 7.3.2
+        type: final
+        question: The Preacher thinks of life as
+        choices:
+          A: secure, ruled by Yahweh.
+          B: meaningless, “a puff of air.”
+          C: orderly and predictable.
+          D: basically good.
+        answer: B
+      - uid: BIB322.7.3.3.F.1
+        subobj: 7.3.3
+        type: final
+        question: Teachings about resurrection became more common
+        choices:
+          A: during the times of the judges.
+          B: during intertestamental times.
+          C: in New Testament times.
+          D: in Old Testament times.
+        answer: B
+      - uid: BIB322.7.4.1.F.1
+        subobj: 7.4.1
+        type: final
+        question: The Preacher’s relationship with God is best described as
+        choices:
+          A: unemotional and unbelieving.
+          B: intimate and personal.
+          C: devoted and sincere.
+          D: distant and guarded.
+        answer: D
+      - uid: BIB322.7.4.3.F.1
+        subobj: 7.4.3
+        type: final
+        question: The apostle Paul and the Preacher agree that the
+        choices:
+          A: dead will rise.
+          B: innocent will suffer.
+          C: Torah can be trusted.
+          D: Messiah brings hope.
+        answer: B
+      - uid: BIB322.8.1.1.F.1
+        subobj: 8.1.1
+        type: final
+        question: Some debated canonizing the Song of Solomon because sexuality
+        choices:
+          A: is God’s good gift to marriage.
+          B: is not inherently evil.
+          C: seemed inappropriate for Scripture.
+          D: exalts the most intimate relationship.
+        answer: C
+      - uid: BIB322.8.1.3.F.1
+        subobj: 8.1.3
+        type: final
+        question: Interpreting the Song of Solomon as Christ’s love for His church
+          is
+        choices:
+          A: wedding song interpretation.
+          B: love poetry interpretation.
+          C: allegorical interpretation.
+          D: dramatic interpretation.
+        answer: C
+      - uid: BIB322.8.2.2.F.1
+        subobj: 8.2.2
+        type: final
+        question: The Song of Solomon restores woman
+        choices:
+          A: by comparing her to Lady Wisdom.
+          B: to her God-given place in creation.
+          C: to dominance of men.
+          D: and rebukes man.
+        answer: B
+      - uid: BIB322.8.2.3.F.1
+        subobj: 8.2.3
+        type: final
+        question: Both the Song of Solomon and the Creation account use the image
+          of
+        choices:
+          A: a garden.
+          B: light.
+          C: a serpent.
+          D: an apple tree.
+        answer: A
+      - uid: BIB322.8.2.4.F.1
+        subobj: 8.2.4
+        type: final
+        question: The Song of Solomon’s positive contribution includes
+        choices:
+          A: reinforcing the view that women exist to gratify men’s desires.
+          B: stressing procreation as the only acceptable reason for sexual relations.
+          C: separating sex from the love relationship.
+          D: affirming that sex is God’s good creation.
+        answer: D
+      final_source:
+        exam_pdf: BIB322_C exam aug16.pdf
+        key_pdf: bib322_1st_c key desi jun 09.pdf
+        matched: 44
+        objectives_agree: 44
     deployed_pn: 02.22.01
     body_baseline_pn: 02.22.01
     chapters:

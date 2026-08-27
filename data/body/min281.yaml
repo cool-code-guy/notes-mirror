@@ -1092,7 +1092,7 @@ courses:
       counts:
         ty: 70
         upe: 75
-        final: 0
+        final: 44
       questions:
       - uid: MIN281.1.1.1.TY.1
         subobj: 1.1.1
@@ -2714,6 +2714,484 @@ courses:
           C: Submit your resignation.
           D: React quickly according to your instincts and become aggressive.
         answer: A
+      - uid: MIN281.1.1.2.F.1
+        subobj: 1.1.2
+        type: final
+        question: In the past four decades, four main trends have occurred that influence
+          pastoral ministry. Which of the following is NOT one of these trends?
+        choices:
+          A: People have less trust in centralized authority.
+          B: People tend to be more educated.
+          C: People are more committed to denominations.
+          D: People have less respect for the position of the clergy.
+        answer: C
+      - uid: MIN281.1.1.2.F.2
+        subobj: 1.1.2
+        type: final
+        question: According to Robert Wuthnow, which of the following is a reason
+          for the decline of mainline denominationalism after the 1960’s?
+        choices:
+          A: The charismatic movement
+          B: More emphasis on religious studies at universities
+          C: The trend for people to marry within their church
+          D: Attitudes of greater tolerance by educated Americans
+        answer: D
+      - uid: MIN281.1.2.2.F.1
+        subobj: 1.2.2
+        type: final
+        question: Learning the background of the story and determining the pattern
+          of events in the situation would fall under which of Dresselhaus’s steps
+          for resolving conflict?
+        choices:
+          A: Identify the coulds
+          B: Describe the predicament
+          C: List the cans
+          D: Commit to the will
+        answer: B
+      - uid: MIN281.1.3.1.F.1
+        subobj: 1.3.1
+        type: final
+        question: Which of the following statements would be considered a biblical
+          approach to conflict?
+        choices:
+          A: Most conflict is bad.
+          B: Most conflict is good.
+          C: Conflict can bring about good if it is handled appropriately.
+          D: In a solid church, there will rarely be conflict.
+        answer: C
+      - uid: MIN281.1.3.2.F.1
+        subobj: 1.3.2
+        type: final
+        question: Phase three conflict can be described as conflict that
+        choices:
+          A: is normal and happens frequently.
+          B: has gone beyond the issue and now requires a third-party’s assistance.
+          C: now includes name-calling and raised voices.
+          D: can be solved with avoidance and obliging.
+        answer: B
+      - uid: MIN281.1.5.1.F.1
+        subobj: 1.5.1
+        type: final
+        question: In scripture, “You who are spiritual” refers to people
+        choices:
+          A: who have been saved for a long time.
+          B: in leadership.
+          C: who have spiritual maturity and discernment.
+          D: who are used in the gifts of the spirit.
+        answer: C
+      - uid: MIN281.2.1.1.F.1
+        subobj: 2.1.1
+        type: final
+        question: The economic health of a community and family issues are examples
+          of which type of conflict factor?
+        choices:
+          A: Rumor
+          B: Reduced participation
+          C: Environmental factor
+          D: Special congregational factor
+        answer: C
+      - uid: MIN281.2.1.2.F.1
+        subobj: 2.1.2
+        type: final
+        question: What behaviors would be displayed by a balanced pastor who is dealing
+          with conflict in the church?
+        choices:
+          A: Drink alcohol or take drugs
+          B: Entertain adulterous ideas
+          C: Eat right and take a day off
+          D: Project stress onto his or her family
+        answer: C
+      - uid: MIN281.2.2.1.F.1
+        subobj: 2.2.1
+        type: final
+        question: Feelings of personal rejection by the members, ignored emotions,
+          and unequal power among group members are all characteristics of which conflict
+          mindset?
+        choices:
+          A: Win-win
+          B: Inner turmoil
+          C: Intractable
+          D: Win-lose
+        answer: D
+      - uid: MIN281.2.2.2.F.1
+        subobj: 2.2.2
+        type: final
+        question: The tendency to see oneself as more benevolent than one actually
+          is and the other as more evil that he or she actually is called
+        choices:
+          A: dichotomization.
+          B: over-generalization.
+          C: assumption.
+          D: magnification.
+        answer: D
+      - uid: MIN281.2.3.1.F.1
+        subobj: 2.3.1
+        type: final
+        question: According to Lyle Schaller’s research, what was the most common
+          reason lay people left a church?
+        choices:
+          A: Dislike of the pastor
+          B: Feeling like no one cared about them
+          C: Long distance to travel to church
+          D: Doctrinal issues
+        answer: B
+      - uid: MIN281.3.1.1.F.1
+        subobj: 3.1.1
+        type: final
+        question: According to Leas, level one conflict is usually
+        choices:
+          A: person-oriented.
+          B: opinion-oriented.
+          C: power-oriented.
+          D: issue-oriented.
+        answer: B
+      - uid: MIN281.3.1.1.F.2
+        subobj: 3.1.1
+        type: final
+        question: When the conflict escalates to a disagreement, which of the following
+          should NOT be done?
+        choices:
+          A: Show caution and sensitivity.
+          B: Ask questions of those who disagree.
+          C: Listen to others’ opinions.
+          D: Assert your authority and do what you think is right.
+        answer: D
+      - uid: MIN281.3.2.1.F.1
+        subobj: 3.2.1
+        type: final
+        question: What attitude should a minister possess to serve the church effectively?
+        choices:
+          A: I am an apostle.
+          B: I am a prophet.
+          C: I am a servant.
+          D: I am a judge.
+        answer: C
+      - uid: MIN281.3.2.1.F.2
+        subobj: 3.2.1
+        type: final
+        question: Which of the following is NOT something to be remembered as we develop
+          appropriate calluses toward conflict?
+        choices:
+          A: We cannot change everyone’s mind.
+          B: We must not feel affection toward our people.
+          C: We will not have 100 percent cooperation all the time.
+          D: We are not responsible to change people’s behavior.
+        answer: B
+      - uid: MIN281.3.3.1.F.1
+        subobj: 3.3.1
+        type: final
+        question: Why is the ministry a difficult career choice?
+        choices:
+          A: There are too many churches to choose from.
+          B: It is the only occupation with “people” conflict.
+          C: It is difficult to receive appropriate education.
+          D: The job description is constantly changing with the people we minister
+            to.
+        answer: D
+      - uid: MIN281.3.3.1.F.2
+        subobj: 3.3.1
+        type: final
+        question: According to Proverbs, what three traits are very important to develop
+          as leaders?
+        choices:
+          A: Wisdom, understanding, and intensity
+          B: Wisdom, intensity, and discretion
+          C: Wisdom, discretion, and understanding
+          D: Intensity, discretion, and understanding
+        answer: C
+      - uid: MIN281.3.3.1.F.3
+        subobj: 3.3.1
+        type: final
+        question: Understanding our surrounding culture is important so that we can
+        choices:
+          A: minister more effectively within it.
+          B: dress appropriately.
+          C: choose how close we want to live to the church.
+          D: decide how long we will stay at that church.
+        answer: A
+      - uid: MIN281.3.3.2.F.1
+        subobj: 3.3.2
+        type: final
+        question: How does a congregation contribute to conflict with the pastor?
+        choices:
+          A: They provide substantial pay and benefits.
+          B: They have unrealistic expectations of the pastor and his or her family.
+          C: They have a full understanding of the pastor’s role.
+          D: They are involved in church programs and ministries.
+        answer: B
+      - uid: MIN281.4.1.1.F.1
+        subobj: 4.1.1
+        type: final
+        question: In the Bible, people who cannot make up their minds are described
+          as
+        choices:
+          A: double-minded.
+          B: ignorant.
+          C: disingenous.
+          D: deceived.
+        answer: A
+      - uid: MIN281.4.1.1.F.2
+        subobj: 4.1.1
+        type: final
+        question: In his advice to Timothy, Paul describes responding to confrontation
+          as
+        choices:
+          A: preventing rebellion.
+          B: exposing false teachers.
+          C: spiritual battle.
+          D: gentle instruction.
+        answer: D
+      - uid: MIN281.4.2.2.F.1
+        subobj: 4.2.2
+        type: final
+        question: How do congregations run from persons who create conflict?
+        choices:
+          A: They make the person leave the church.
+          B: They ignore and excuse the person’s actions.
+          C: They give the person leadership.
+          D: They take to heart what the person says.
+        answer: B
+      - uid: MIN281.4.3.1.F.1
+        subobj: 4.3.1
+        type: final
+        question: When the pastor is typically second in command to the lay leader
+          or matriarch, he or she is probably the pastor of which kind of church?
+        choices:
+          A: Family church
+          B: Pastoral church
+          C: Program church
+          D: Corporation church
+        answer: A
+      - uid: MIN281.4.3.2.F.1
+        subobj: 4.3.2
+        type: final
+        question: How does a pastor’s role change as a congregation grows?
+        choices:
+          A: The pastor’s role changes very little.
+          B: The pastor must put in more hours to stay in control of all areas of
+            church ministry.
+          C: Team leadership takes the place of pastor-dominated leadership.
+          D: The pastor’s role changes gradually until it is solely focused on pulpit
+            ministry.
+        answer: C
+      - uid: MIN281.4.3.2.F.2
+        subobj: 4.3.2
+        type: final
+        question: How much time should be given to a pastor who needs to change his
+          or her performance?
+        choices:
+          A: At least 3 months
+          B: About 1 month
+          C: About 1 year
+          D: At least 6 months
+        answer: D
+      - uid: MIN281.4.4.1.F.1
+        subobj: 4.4.1
+        type: final
+        question: Nehemiah’s story can inspire pastors to
+        choices:
+          A: read more books on conflict management.
+          B: lead by example.
+          C: take advantage of the “perks” offered to leadership.
+          D: tackle large projects.
+        answer: B
+      - uid: MIN281.5.1.1.F.1
+        subobj: 5.1.1
+        type: final
+        question: Reconciliation between two or more people is called
+        choices:
+          A: friendship.
+          B: a peace agreement.
+          C: conflict resolution.
+          D: coordination.
+        answer: C
+      - uid: MIN281.5.1.1.F.2
+        subobj: 5.1.1
+        type: final
+        question: During reconciliation, why should the leader commit to bringing
+          as much information as possible to both sides?
+        choices:
+          A: People will tend to grow in understanding and be open to new perspectives.
+          B: It increases his or her reputation as a conflict-solver.
+          C: People are more likely to voice their opinion next time.
+          D: None of the above
+        answer: A
+      - uid: MIN281.5.2.1.F.1
+        subobj: 5.2.1
+        type: final
+        question: If we avoid dealing with conflict because of time constraints or
+          insecurity, what usually happens?
+        choices:
+          A: It will go away.
+          B: The people/groups will work it out.
+          C: Deeper hurt and more damage will occur.
+          D: The groups will respect us because of our many responsibilities.
+        answer: C
+      - uid: MIN281.5.2.1.F.2
+        subobj: 5.2.1
+        type: final
+        question: What is the purpose of mediation?
+        choices:
+          A: Solve the problem
+          B: Facilitate healthy communication and growth
+          C: Find the answer through discussion
+          D: Understand the conflict
+        answer: B
+      - uid: MIN281.5.2.2.F.1
+        subobj: 5.2.2
+        type: final
+        question: It is appropriate to agree to disagree when
+        choices:
+          A: the issue is not a matter of sin, moral compromise, or legal action.
+          B: one side gives in.
+          C: it is ruled by an outside expert that one side is correct.
+          D: the pastor is not aligned with either side.
+        answer: A
+      - uid: MIN281.5.3.1.F.1
+        subobj: 5.3.1
+        type: final
+        question: How can we manage gossip in the church?
+        choices:
+          A: Forbid it.
+          B: Encourage people to openly share concerns with the pastoral staff.
+          C: Encourage people to keep their gossip to their ministry team only.
+          D: Preach often on the damage gossip causes.
+        answer: B
+      - uid: MIN281.5.3.2.F.1
+        subobj: 5.3.2
+        type: final
+        question: What is the antithesis of pride?
+        choices:
+          A: Anger
+          B: Humility
+          C: Servanthood
+          D: Love
+        answer: B
+      - uid: MIN281.5.4.1.F.1
+        subobj: 5.4.1
+        type: final
+        question: What must a church board and congregation understand about pastoral
+          transition when a new leader is hired?
+        choices:
+          A: Changes in staff alert them to significant conflict.
+          B: Significant staff change is normal and predictable.
+          C: Most staff pastors were not loyal to their previous leader.
+          D: If a staff pastor leaves, it is probably the new leader’s fault.
+        answer: B
+      - uid: MIN281.5.4.2.F.1
+        subobj: 5.4.2
+        type: final
+        question: What is the goal in establishing a well-rounded team?
+        choices:
+          A: Team members should have unique roles and gifts that complement each
+            other.
+          B: Team members should be the same personality style as the leader.
+          C: Team members should share similar life perspectives.
+          D: Team members should enjoy close friendships with each other.
+        answer: A
+      - uid: MIN281.6.1.1.F.1
+        subobj: 6.1.1
+        type: final
+        question: What is an important principle to remember when choosing your course
+          of action to deal with a conflict?
+        choices:
+          A: Decide what kind of person you want to be after the conflict.
+          B: Remember that you are the leader, and you must be assertive.
+          C: The customer is always right.
+          D: People who cause conflict are generally unsupportive of the pastor.
+        answer: A
+      - uid: MIN281.6.2.1.F.1
+        subobj: 6.2.1
+        type: final
+        question: If a pastor wants to stop conflict early, what should he or she
+          do?
+        choices:
+          A: Do not offend the staff pastors. Let them alert you to conflict situations.
+          B: Work hard to please.
+          C: Look for potential conflict situations.
+          D: Preach on conflict and its devastating effects.
+        answer: C
+      - uid: MIN281.6.2.2.F.1
+        subobj: 6.2.2
+        type: final
+        question: Will conflicts work themselves out?
+        choices:
+          A: Generally yes
+          B: Generally no
+          C: Often
+          D: Usually
+        answer: B
+      - uid: MIN281.6.3.1.F.1
+        subobj: 6.3.1
+        type: final
+        question: Which of the following statements about conflict with the pastor
+          is true?
+        choices:
+          A: If the conflict requires the board to be involved, the pastor is most
+            likely at fault.
+          B: Although the pastor may be innocent, he or she should still evaluate
+            the accusations to see if any truth is there.
+          C: Good, hard working people will support their pastor no matter what the
+            cost.
+          D: Once the pastor’s good reputation is established, he or she does not
+            need to worry about false accusations or
+        answer: B
+      - uid: MIN281.6.3.2.F.1
+        subobj: 6.3.2
+        type: final
+        question: Which of the following is a myth?
+        choices:
+          A: Many people in a church deeply love their pastor.
+          B: When people are dissatisfied, they may use the pastor as their scapegoat.
+          C: Pastors serve at the pleasure of a majority of the membership.
+          D: Pastors may struggle with power issues.
+        answer: C
+      - uid: MIN281.7.1.1.F.1
+        subobj: 7.1.1
+        type: final
+        question: Which of the following is a trait or cause of destructive conflict?
+        choices:
+          A: People understand the need to hear all sides of the conflict.
+          B: People are open to new opinions.
+          C: People value their own ideas.
+          D: People value healthy relationships.
+        answer: C
+      - uid: MIN281.7.1.2.F.1
+        subobj: 7.1.2
+        type: final
+        question: Which of the following would be a characteristic of honest criticism?
+        choices:
+          A: It is communicated directly to the person with the issue.
+          B: Its purpose is to stop progress.
+          C: The motivation is win-lose.
+          D: It is subjective.
+        answer: A
+      - uid: MIN281.7.2.1.F.1
+        subobj: 7.2.1
+        type: final
+        question: How will division in a church affect its impact on the community?
+        choices:
+          A: It will not - the community will not know what is happening inside the
+            church.
+          B: It will encourage new members to come and take leadership.
+          C: It will paralyze its witness to the community.
+          D: It will spur more small groups about conflict management.
+        answer: C
+      - uid: MIN281.7.3.2.F.1
+        subobj: 7.3.2
+        type: final
+        question: What is the best way for leaders to respond to an attack?
+        choices:
+          A: Fight
+          B: Quit
+          C: Lead and fight
+          D: Fight, then quit
+        answer: C
+      final_source:
+        exam_pdf: MIN281_E exam aug16.pdf
+        key_pdf: min281_1st_form c key desi jul 09.pdf
+        matched: 44
+        objectives_agree: 44
     deployed_pn: 02.22.01
     body_baseline_pn: 02.22.01
     chapters:
