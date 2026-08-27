@@ -14,7 +14,7 @@ Active content only — retired material is excluded from every figure.
 | --- | --- |
 | Active courses | 24 |
 | Retired courses | 9 |
-| Assessment items | 6,970 |
+| Assessment items | 6,966 |
 | Curriculum paragraphs | 111,457 |
 | Interactive study questions | 10,709 |
 | Scripture references | 41,473 |
@@ -68,7 +68,7 @@ Published sequence toward Ordained Minister credentialing.
 | --- | --- | --- | --- |
 | 1 | Advanced Ministerial Internship — *not tracked in examdb (practicum course)* | | |
 | 2 | [MIN327](courses/MIN327.md) — Church Administration, Finance, and Law · proposed renumber to `MIN329` | 3 | 335 |
-| 3 | [BIB313](courses/BIB313.md) — The Corinthian Correspondence | 3 | 290 |
+| 3 | [BIB313](courses/BIB313.md) — The Corinthian Correspondence | 3 | 286 |
 | 4 | [MIN325](courses/MIN325.md) — Preaching in the Contemporary World | 3 | 297 |
 | 5 | [BIB318](courses/BIB318.md) — The Pentateuch | 3 | 334 |
 | 6 | [BIB322](courses/BIB322.md) — The Poetic Books | 3 | 242 |
@@ -88,7 +88,7 @@ Published sequence toward Ordained Minister credentialing.
 | [BIB211](courses/BIB211.md) | ⚠️ _Acts: The Holy Spirit at Work in Believers (unconfirmed)_ | 2 | 03.22.01 | 13 | 38 | 285 |
 | [BIB215](courses/BIB215.md) | ⚠️ _Romans: Justification by Faith (unconfirmed)_ | 2 | 03.22.01 | 8 | 26 | 244 |
 | [BIB217](courses/BIB217.md) | Prison Epistles | 2 | 01.26.01 | 13 | 40 | 301 |
-| [BIB313](courses/BIB313.md) | Corinthian Correspondence | 3 | 03.26.01 | 11 | 29 | 290 |
+| [BIB313](courses/BIB313.md) | Corinthian Correspondence | 3 | 03.26.01 | 11 | 29 | 286 |
 | [BIB318](courses/BIB318.md) | Pentateuch | 3 | 02.22.01 | 13 | 36 | 334 |
 | [BIB322](courses/BIB322.md) | The Poetic Books | 3 | 02.22.01 | 8 | 27 | 242 |
 | [MIN171](courses/MIN171.md) | Spirit-Empowered Church | 1 | 02.26.02 | 17 | 43 | 327 |
