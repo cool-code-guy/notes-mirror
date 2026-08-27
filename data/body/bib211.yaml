@@ -2541,7 +2541,7 @@ courses:
       course_code: BIB211
       source_html: BBIB115ENE03-90_03.22.01.html
       template: old
-      recorded: '2026-08-26'
+      recorded: '2026-08-27'
       counts:
         ty: 130
         upe: 100
@@ -4664,11 +4664,12 @@ courses:
       - uid: BIB211.12.1.1.TY.1
         subobj: 12.1.1
         type: ty
-        question: a) mentoring future leaders.
+        question: A vital lesson from Paul regarding team ministry is
         choices:
-          A: the importance of group synergy.
-          B: effective communication.
-          C: encouraging the weaker member.
+          A: mentoring future leaders.
+          B: the importance of group synergy.
+          C: effective communication.
+          D: encouraging the weaker member.
         answer: A
       - uid: BIB211.12.1.1.TY.2
         subobj: 12.1.1
