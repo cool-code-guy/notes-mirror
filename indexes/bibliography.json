@@ -1,5 +1,5 @@
 {
-  "entry_count": 1143,
+  "entry_count": 1201,
   "index_version": 1,
   "works": [
     {
@@ -96,6 +96,28 @@
       "url": null,
       "volume": null,
       "year": "2001"
+    },
+    {
+      "authors": "Abraham, William",
+      "citation_count": 2,
+      "cited_in": [
+        "THE118.9.3.1",
+        "THE118.9.3.2"
+      ],
+      "citekey": "abraham1989",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": "Grand Rapids, MI",
+      "publisher": "William B Eerdmans Publishing Co",
+      "raw": "Abraham, William. 1989. The Logic of Evangelism . Grand Rapids, MI: William B Eerdmans Publishing Co.",
+      "title": "The Logic of Evangelism",
+      "url": null,
+      "volume": null,
+      "year": "1989"
     },
     {
       "authors": "Achtemeier, Elizabeth",
@@ -729,6 +751,28 @@
       "url": null,
       "volume": null,
       "year": "1987"
+    },
+    {
+      "authors": "Anderson, Dr. Lynn",
+      "citation_count": 2,
+      "cited_in": [
+        "THE118.10.3.1",
+        "THE118.10.3.2"
+      ],
+      "citekey": "anderson1997",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": "West Monroe, LA",
+      "publisher": "Howard Publishing Company",
+      "raw": "Anderson, Dr. Lynn. 1997. They Smell Like Sheep . West Monroe, LA: Howard Publishing Company.",
+      "title": "They Smell Like Sheep",
+      "url": null,
+      "volume": null,
+      "year": "1997"
     },
     {
       "authors": "Anthony, Michael J",
@@ -1370,6 +1414,28 @@
       "authors": "Barclay, William",
       "citation_count": 2,
       "cited_in": [
+        "THE118.2.1.1",
+        "THE118.2.1.2"
+      ],
+      "citekey": "barclay1976",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": "Rev",
+      "place": "Philadelphia",
+      "publisher": "Westminster Press",
+      "raw": "Barclay, William. 1976. The Letters to the Galatians and Ephesians . Rev. ed. Philadelphia: Westminster Press.",
+      "title": "The Letters to the Galatians and Ephesians",
+      "url": null,
+      "volume": null,
+      "year": "1976"
+    },
+    {
+      "authors": "Barclay, William",
+      "citation_count": 2,
+      "cited_in": [
         "BIB121.14.2.1",
         "BIB121.14.2.2"
       ],
@@ -1736,17 +1802,20 @@
     },
     {
       "authors": "Barrett, D",
-      "citation_count": 3,
+      "citation_count": 5,
       "cited_in": [
         "BIB115.3.2.1",
         "BIB115.6.2.1",
+        "BIB211.3.2.1",
+        "BIB211.6.2.1",
         "BIB212.4.3.1"
       ],
       "citekey": "barrett2000inter",
       "container": null,
-      "course_count": 2,
+      "course_count": 3,
       "courses": [
         "BIB115",
+        "BIB211",
         "BIB212"
       ],
       "editor": null,
@@ -2324,6 +2393,125 @@
       "year": "1998"
     },
     {
+      "authors": "Betzer, Dan",
+      "citation_count": 2,
+      "cited_in": [
+        "THE118.11.1.1",
+        "THE118.11.1.2"
+      ],
+      "citekey": "betzer1981",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Betzer, Dan. 1981. Healed ! Springfield, MO: The General Council of the Assemblies of God and Revivaltime Media Ministries.",
+      "title": "Healed",
+      "url": null,
+      "volume": null,
+      "year": "1981"
+    },
+    {
+      "authors": "Betzer, Dan——",
+      "citation_count": 9,
+      "cited_in": [
+        "THE118.1.3.1",
+        "THE118.1.3.2",
+        "THE118.11.3.1",
+        "THE118.11.3.2",
+        "THE118.5.3.1",
+        "THE118.5.3.2",
+        "THE118.5.3.3",
+        "THE118.7.2.1",
+        "THE118.7.2.2"
+      ],
+      "citekey": "betzer1983",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Betzer, Dan——. 1983. Taking a Stand . Springfield, MO: The General Council of the Assemblies of God and Revivaltime Media Ministries.",
+      "title": "Taking a Stand",
+      "url": null,
+      "volume": null,
+      "year": "1983"
+    },
+    {
+      "authors": "Betzer, Dan————",
+      "citation_count": 2,
+      "cited_in": [
+        "THE118.3.1.1",
+        "THE118.3.1.2"
+      ],
+      "citekey": "betzer1989",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Betzer, Dan————. 1989. I’m Glad You Asked That: Scriptural Answers to Thought-Provoking Questions . Springfield, MO: The General Council of the Assemblies of God and Revivaltime Media Ministries.",
+      "title": "I’m Glad You Asked That: Scriptural Answers to Thought-Provoking Questions",
+      "url": null,
+      "volume": null,
+      "year": "1989"
+    },
+    {
+      "authors": "Betzer, Dan——————",
+      "citation_count": 4,
+      "cited_in": [
+        "THE118.2.1.1",
+        "THE118.2.1.2",
+        "THE118.2.2.1",
+        "THE118.2.2.2"
+      ],
+      "citekey": "betzer1991",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Betzer, Dan——————. 1991. A Portrait of My Heavenly Father . Springfield, MO: The General Council of the Assemblies of God and Revivaltime Media Ministries.",
+      "title": "A Portrait of My Heavenly Father",
+      "url": null,
+      "volume": null,
+      "year": "1991"
+    },
+    {
+      "authors": "Betzer, Dan————————",
+      "citation_count": 2,
+      "cited_in": [
+        "THE118.7.3.1",
+        "THE118.7.3.2"
+      ],
+      "citekey": "betzer1995",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": "Springfield, MO",
+      "publisher": "The General Council of the Assemblies of God",
+      "raw": "Betzer, Dan————————. 1995. Fountainhead . Springfield, MO: The General Council of the Assemblies of God.",
+      "title": "Fountainhead",
+      "url": null,
+      "volume": null,
+      "year": "1995"
+    },
+    {
       "authors": "Bicket, Zenas J",
       "citation_count": 3,
       "cited_in": [
@@ -2488,18 +2676,23 @@
     },
     {
       "authors": "Blair, Charles E",
-      "citation_count": 4,
+      "citation_count": 8,
       "cited_in": [
         "MIN123.13.3.1",
         "MIN123.13.3.2",
         "MIN123.13.3.3",
-        "MIN123.13.3.4"
+        "MIN123.13.3.4",
+        "MIN227.13.3.1",
+        "MIN227.13.3.2",
+        "MIN227.13.3.3",
+        "MIN227.13.3.4"
       ],
       "citekey": "blair1968",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "MIN123"
+        "MIN123",
+        "MIN227"
       ],
       "editor": null,
       "place": "Grand Rapids",
@@ -2601,15 +2794,17 @@
     },
     {
       "authors": "Blum, D",
-      "citation_count": 1,
+      "citation_count": 2,
       "cited_in": [
-        "BIB115.5.1.1"
+        "BIB115.5.1.1",
+        "BIB211.5.1.1"
       ],
       "citekey": "blum2002",
       "container": "On Wisconsin magazine, Winter",
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB115"
+        "BIB115",
+        "BIB211"
       ],
       "editor": null,
       "place": null,
@@ -2898,9 +3093,10 @@
       "cited_in": [],
       "citekey": "booze1998",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB115"
+        "BIB115",
+        "BIB211"
       ],
       "editor": null,
       "place": null,
@@ -2913,15 +3109,17 @@
     },
     {
       "authors": "Booze, J. W. and C. Ketcher, eds",
-      "citation_count": 1,
+      "citation_count": 2,
       "cited_in": [
-        "BIB115.10.1.1"
+        "BIB115.10.1.1",
+        "BIB211.10.1.1"
       ],
       "citekey": "booze2003",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB115"
+        "BIB115",
+        "BIB211"
       ],
       "editor": null,
       "place": "Springfield, MO",
@@ -3063,6 +3261,28 @@
       "year": "1996"
     },
     {
+      "authors": "Boyd, Frank",
+      "citation_count": 2,
+      "cited_in": [
+        "THE118.1.3.1",
+        "THE118.1.3.2"
+      ],
+      "citekey": "boyd1933",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": "Springfield, MO",
+      "publisher": "Gospel Publishing House",
+      "raw": "Boyd, Frank. 1933. God’s Wonderful Book . Springfield, MO: Gospel Publishing House.",
+      "title": "God’s Wonderful Book",
+      "url": null,
+      "volume": null,
+      "year": "1933"
+    },
+    {
       "authors": null,
       "citation_count": 0,
       "cited_in": [],
@@ -3165,6 +3385,28 @@
       "url": null,
       "volume": null,
       "year": "1993"
+    },
+    {
+      "authors": "Brandt, R. L",
+      "citation_count": 2,
+      "cited_in": [
+        "THE118.7.2.1",
+        "THE118.7.2.2"
+      ],
+      "citekey": "brandt2001",
+      "container": "Questions and Answers about the Holy Spirit",
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": "Springfield, MO",
+      "publisher": "Gospel Publishing House",
+      "raw": "Brandt, R. L. 2001. “What Are the Functions of Speaking in Tongues?” Questions and Answers about the Holy Spirit . Springfield, MO: Gospel Publishing House.",
+      "title": "What Are the Functions of Speaking in Tongues?",
+      "url": null,
+      "volume": null,
+      "year": "2001"
     },
     {
       "authors": "Braten, Carl E",
@@ -4030,6 +4272,27 @@
       "year": "1988"
     },
     {
+      "authors": "Burgess, David",
+      "citation_count": 1,
+      "cited_in": [
+        "THE118.1.2.1"
+      ],
+      "citekey": "burgess1988encyc",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": "St Louis",
+      "publisher": "Concordia Publishing House",
+      "raw": "Burgess, David. 1988. Encyclopedia of Sermon Illustrations . St Louis: Concordia Publishing House.",
+      "title": "Encyclopedia of Sermon Illustrations",
+      "url": null,
+      "volume": null,
+      "year": "1988"
+    },
+    {
       "authors": "Bushfield, Deborah, and James Bushfield",
       "citation_count": 0,
       "cited_in": [],
@@ -4047,6 +4310,27 @@
       "url": null,
       "volume": null,
       "year": "1994"
+    },
+    {
+      "authors": "Buswell, J. Oliver",
+      "citation_count": 1,
+      "cited_in": [
+        "THE118.13.2.1"
+      ],
+      "citekey": "buswell1962",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": "Grand Rapids, MI",
+      "publisher": "Zondervan",
+      "raw": "Buswell, J. Oliver. 1962. A Systematic Theology of the Christian Religion. Grand Rapids, MI: Zondervan.",
+      "title": "A Systematic Theology of the Christian Religion",
+      "url": null,
+      "volume": null,
+      "year": "1962"
     },
     {
       "authors": "Buttrick, George A",
@@ -4126,6 +4410,28 @@
       "url": null,
       "volume": null,
       "year": "1997"
+    },
+    {
+      "authors": "Campolo, Tony",
+      "citation_count": 2,
+      "cited_in": [
+        "THE118.10.2.1",
+        "THE118.10.2.2"
+      ],
+      "citekey": "campolo1996",
+      "container": "Stories for the Heart , compiled by Alice Gray",
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": "Sisters, OR",
+      "publisher": "Multnomah Books",
+      "raw": "Campolo, Tony. 1996. “Just a Kid with Cerebral Palsy.” In Stories for the Heart , compiled by Alice Gray. Sisters, OR: Multnomah Books.",
+      "title": "Just a Kid with Cerebral Palsy",
+      "url": null,
+      "volume": null,
+      "year": "1996"
     },
     {
       "authors": "Caplow, Theodore, Louis Hicks, and Ben J. Wattenberg",
@@ -4411,9 +4717,10 @@
       "cited_in": [],
       "citekey": "chambers1992",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB115"
+        "BIB115",
+        "BIB211"
       ],
       "editor": null,
       "place": "Grand Rapids, MI",
@@ -4791,7 +5098,7 @@
     },
     {
       "authors": "Cole, Alan",
-      "citation_count": 12,
+      "citation_count": 24,
       "cited_in": [
         "MIN123.4.1.1",
         "MIN123.4.1.2",
@@ -4804,13 +5111,26 @@
         "MIN123.4.3.1",
         "MIN123.4.3.2",
         "MIN123.4.3.3",
-        "MIN123.4.3.4"
+        "MIN123.4.3.4",
+        "MIN227.4.1.1",
+        "MIN227.4.1.2",
+        "MIN227.4.1.3",
+        "MIN227.4.1.4",
+        "MIN227.4.2.1",
+        "MIN227.4.2.2",
+        "MIN227.4.2.3",
+        "MIN227.4.2.4",
+        "MIN227.4.3.1",
+        "MIN227.4.3.2",
+        "MIN227.4.3.3",
+        "MIN227.4.3.4"
       ],
       "citekey": "cole1961",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "MIN123"
+        "MIN123",
+        "MIN227"
       ],
       "editor": null,
       "place": "Leicester, England",
@@ -5358,6 +5678,28 @@
       "year": "1997"
     },
     {
+      "authors": "Crabtree, Charles",
+      "citation_count": 2,
+      "cited_in": [
+        "THE118.10.3.1",
+        "THE118.10.3.2"
+      ],
+      "citekey": "crabtree1997",
+      "container": "Enrichment (Fall):",
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Crabtree, Charles. 1997. “The Secret to Building a Soul-Winning Church.” Enrichment (Fall): 28.",
+      "title": "The Secret to Building a Soul-Winning Church",
+      "url": null,
+      "volume": null,
+      "year": "1997"
+    },
+    {
       "authors": "Craddock, Fred B",
       "citation_count": 1,
       "cited_in": [
@@ -5653,9 +5995,10 @@
       "cited_in": [],
       "citekey": "curtis2010",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "MIN123"
+        "MIN123",
+        "MIN227"
       ],
       "editor": null,
       "place": null,
@@ -6029,6 +6372,28 @@
       "year": "2019"
     },
     {
+      "authors": "Donaldson, Hal, and Kenneth Dobson, ed",
+      "citation_count": 2,
+      "cited_in": [
+        "THE118.10.1.1",
+        "THE118.10.1.2"
+      ],
+      "citekey": "donaldson1994",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": "Visalia, CA",
+      "publisher": "Onward Books",
+      "raw": "Donaldson, Hal, and Kenneth Dobson, ed. 1994. Portraits of Success: Leaders Share Principles for Winning in the Nineties . Visalia, CA: Onward Books.",
+      "title": "Portraits of Success: Leaders Share Principles for Winning in the Nineties",
+      "url": null,
+      "volume": null,
+      "year": "1994"
+    },
+    {
       "authors": "Donaldson, Hal",
       "citation_count": 1,
       "cited_in": [
@@ -6297,6 +6662,29 @@
       "url": null,
       "volume": null,
       "year": "1933"
+    },
+    {
+      "authors": "Dusing, Michael",
+      "citation_count": 3,
+      "cited_in": [
+        "THE118.9.1.1",
+        "THE118.9.1.2",
+        "THE118.9.2.1"
+      ],
+      "citekey": "dusing1994",
+      "container": "Horton 1994",
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Dusing, Michael. 1994. “The New Testament Church.” In Horton 1994, 525–566.",
+      "title": "The New Testament Church",
+      "url": null,
+      "volume": null,
+      "year": "1994"
     },
     {
       "authors": "Duvall, J. Scott and J. Daniel Hays",
@@ -6600,6 +6988,25 @@
       "url": null,
       "volume": null,
       "year": "1992"
+    },
+    {
+      "authors": "Ehrlich, Eugene, Stuart Berg Flexner, Gorton Carruth, and Joyce Hawkins",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "ehrlich1980",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": "New York",
+      "publisher": "Avon Books",
+      "raw": "Ehrlich, Eugene, Stuart Berg Flexner, Gorton Carruth, and Joyce Hawkins. 1980. Oxford American Dictionary . New York: Avon Books.",
+      "title": "Oxford American Dictionary",
+      "url": null,
+      "volume": null,
+      "year": "1980"
     },
     {
       "authors": "Ehrman, Bart D",
@@ -7149,6 +7556,32 @@
       "year": "1913"
     },
     {
+      "authors": "Evans, William",
+      "citation_count": 6,
+      "cited_in": [
+        "THE118.1.1.1",
+        "THE118.1.1.2",
+        "THE118.2.3.1",
+        "THE118.2.3.2",
+        "THE118.4.2.1",
+        "THE118.4.2.2"
+      ],
+      "citekey": "evans1939",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": "Chicago",
+      "publisher": "Moody Bible Institute",
+      "raw": "Evans, William. 1939. The Great Doctrines of the Bible . Chicago: Moody Bible Institute.",
+      "title": "The Great Doctrines of the Bible",
+      "url": null,
+      "volume": null,
+      "year": "1939"
+    },
+    {
       "authors": "Evans, Donald",
       "citation_count": 0,
       "cited_in": [],
@@ -7273,9 +7706,10 @@
       ],
       "citekey": "fee1987",
       "container": null,
-      "course_count": 2,
+      "course_count": 3,
       "courses": [
         "BIB115",
+        "BIB211",
         "BIB313"
       ],
       "editor": null,
@@ -7805,19 +8239,46 @@
       "year": "2025"
     },
     {
+      "authors": "Flokstra, Gerard",
+      "citation_count": 2,
+      "cited_in": [
+        "THE118.11.1.1",
+        "THE118.11.1.2"
+      ],
+      "citekey": "flokstra1989",
+      "container": "Power Encounter: A Pentecostal Perspective",
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": "Opal Reddin",
+      "place": "Springfield, MO",
+      "publisher": "Central Bible College",
+      "raw": "Flokstra, Gerard. 1989. “Power Encounter in Divine Healing.” In Power Encounter: A Pentecostal Perspective , ed. Opal Reddin. Springfield, MO: Central Bible College.",
+      "title": "Power Encounter in Divine Healing",
+      "url": null,
+      "volume": null,
+      "year": "1989"
+    },
+    {
       "authors": "Foote, Billy James",
-      "citation_count": 4,
+      "citation_count": 8,
       "cited_in": [
         "MIN123.15.1.1",
         "MIN123.15.1.2",
         "MIN123.15.1.3",
-        "MIN123.15.1.4"
+        "MIN123.15.1.4",
+        "MIN227.15.1.1",
+        "MIN227.15.1.2",
+        "MIN227.15.1.3",
+        "MIN227.15.1.4"
       ],
       "citekey": "foote1997",
       "container": "(compact disc)",
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "MIN123"
+        "MIN123",
+        "MIN227"
       ],
       "editor": null,
       "place": null,
@@ -8044,15 +8505,17 @@
     },
     {
       "authors": "Foxe, J",
-      "citation_count": 1,
+      "citation_count": 2,
       "cited_in": [
-        "BIB115.7.3.1"
+        "BIB115.7.3.1",
+        "BIB211.7.3.1"
       ],
       "citekey": "foxe1981",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB115"
+        "BIB115",
+        "BIB211"
       ],
       "editor": null,
       "place": "Springdale, PA",
@@ -8412,6 +8875,28 @@
       "year": "2014"
     },
     {
+      "authors": "Gee, Donald",
+      "citation_count": 2,
+      "cited_in": [
+        "THE118.10.1.1",
+        "THE118.10.1.2"
+      ],
+      "citekey": "gee1993",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": "Springfield, MO",
+      "publisher": "Gospel Publishing House",
+      "raw": "Gee, Donald. 1993. Pentecostal Experience: The Writings of Donald Gee . Compiled by David Womack. Springfield, MO: Gospel Publishing House.",
+      "title": "Pentecostal Experience: The Writings of Donald Gee",
+      "url": null,
+      "volume": null,
+      "year": "1993"
+    },
+    {
       "authors": "Geisler, Norman",
       "citation_count": 0,
       "cited_in": [],
@@ -8486,9 +8971,10 @@
       "cited_in": [],
       "citekey": "generalcounciloftheassembliesofgod1914",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "MIN123"
+        "MIN123",
+        "MIN227"
       ],
       "editor": null,
       "place": "Louis, MO",
@@ -8581,9 +9067,10 @@
       "cited_in": [],
       "citekey": "generalcounciloftheassembliesofgod2003",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "MIN123"
+        "MIN123",
+        "MIN227"
       ],
       "editor": null,
       "place": null,
@@ -10095,18 +10582,23 @@
     },
     {
       "authors": "Haenchen, E",
-      "citation_count": 4,
+      "citation_count": 8,
       "cited_in": [
         "BIB115.13.3.1",
         "BIB115.13.3.2",
         "BIB115.13.3.3",
-        "BIB115.3.2.1"
+        "BIB115.3.2.1",
+        "BIB211.13.3.1",
+        "BIB211.13.3.2",
+        "BIB211.13.3.3",
+        "BIB211.3.2.1"
       ],
       "citekey": "haenchen1971",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB115"
+        "BIB115",
+        "BIB211"
       ],
       "editor": null,
       "place": "Philadelphia",
@@ -10291,15 +10783,17 @@
     },
     {
       "authors": "Hansen, C",
-      "citation_count": 1,
+      "citation_count": 2,
       "cited_in": [
-        "BIB115.12.2.1"
+        "BIB115.12.2.1",
+        "BIB211.12.2.1"
       ],
       "citekey": "hansen2004",
       "container": "Christian History and Biography",
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB115"
+        "BIB115",
+        "BIB211"
       ],
       "editor": null,
       "place": null,
@@ -10487,15 +10981,17 @@
     },
     {
       "authors": "Harris, R. W., ed",
-      "citation_count": 1,
+      "citation_count": 2,
       "cited_in": [
-        "BIB115.3.2.1"
+        "BIB115.3.2.1",
+        "BIB211.3.2.1"
       ],
       "citekey": "harris1991",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB115"
+        "BIB115",
+        "BIB211"
       ],
       "editor": null,
       "place": "Springfield, MO",
@@ -10512,9 +11008,10 @@
       "cited_in": [],
       "citekey": "harris1995acts",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB115"
+        "BIB115",
+        "BIB211"
       ],
       "editor": null,
       "place": "Springfield, MO",
@@ -10552,9 +11049,10 @@
       "cited_in": [],
       "citekey": "harrison1975baker",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB115"
+        "BIB115",
+        "BIB211"
       ],
       "editor": null,
       "place": "Grand Rapids, MI",
@@ -11058,13 +11556,18 @@
     },
     {
       "authors": "Hewett, James S., ed",
-      "citation_count": 0,
-      "cited_in": [],
+      "citation_count": 3,
+      "cited_in": [
+        "THE118.11.2.1",
+        "THE118.11.2.2",
+        "THE118.5.2.1"
+      ],
       "citekey": "hewett1988",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB212"
+        "BIB212",
+        "THE118"
       ],
       "editor": null,
       "place": "Wheaton, IL",
@@ -11074,6 +11577,29 @@
       "url": null,
       "volume": null,
       "year": "1988"
+    },
+    {
+      "authors": "Higgins, John",
+      "citation_count": 3,
+      "cited_in": [
+        "THE118.1.1.1",
+        "THE118.1.1.2",
+        "THE118.1.2.1"
+      ],
+      "citekey": "higgins1994",
+      "container": "Horton 1994",
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Higgins, John. 1994. “God’s Inspired Word.” In Horton 1994, 61–115.",
+      "title": "God’s Inspired Word",
+      "url": null,
+      "volume": null,
+      "year": "1994"
     },
     {
       "authors": "Hill, Andrew E., and John H. Walton",
@@ -11378,15 +11904,17 @@
     },
     {
       "authors": "Holdcroft, L. T",
-      "citation_count": 1,
+      "citation_count": 2,
       "cited_in": [
-        "BIB115.3.2.1"
+        "BIB115.3.2.1",
+        "BIB211.3.2.1"
       ],
       "citekey": "holdcroft1971",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB115"
+        "BIB115",
+        "BIB211"
       ],
       "editor": null,
       "place": "Springfield, MO",
@@ -11422,9 +11950,10 @@
       "cited_in": [],
       "citekey": "horton1976",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB318"
+        "BIB318",
+        "THE118"
       ],
       "editor": null,
       "place": "Springfield, MO",
@@ -11434,6 +11963,28 @@
       "url": null,
       "volume": null,
       "year": "1976"
+    },
+    {
+      "authors": "Horton, Stanley M——",
+      "citation_count": 2,
+      "cited_in": [
+        "THE118.7.2.1",
+        "THE118.7.2.2"
+      ],
+      "citekey": "horton1981",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": "Springfield, MO",
+      "publisher": "Gospel Publishing House",
+      "raw": "Horton, Stanley M——. 1981. The Book of Acts: The Wind of the Spirit . Springfield, MO: Gospel Publishing House.",
+      "title": "The Book of Acts: The Wind of the Spirit",
+      "url": null,
+      "volume": null,
+      "year": "1981"
     },
     {
       "authors": "Horton, Stanley, ed",
@@ -11492,7 +12043,7 @@
     },
     {
       "authors": "Horton, Stanley M",
-      "citation_count": 8,
+      "citation_count": 10,
       "cited_in": [
         "BIB116.13.1.1",
         "BIB116.13.2.1",
@@ -11501,14 +12052,17 @@
         "BIB212.13.1.1",
         "BIB212.13.2.1",
         "BIB212.13.2.2",
-        "BIB212.13.2.3"
+        "BIB212.13.2.3",
+        "THE118.13.1.1",
+        "THE118.13.1.2"
       ],
       "citekey": "horton1991ultim",
       "container": null,
-      "course_count": 2,
+      "course_count": 3,
       "courses": [
         "BIB116",
-        "BIB212"
+        "BIB212",
+        "THE118"
       ],
       "editor": null,
       "place": null,
@@ -11521,7 +12075,7 @@
     },
     {
       "authors": "Horton, S. M",
-      "citation_count": 10,
+      "citation_count": 16,
       "cited_in": [
         "BIB115.13.3.1",
         "BIB115.13.3.2",
@@ -11531,15 +12085,22 @@
         "BIB115.4.2.1",
         "BIB116.4.1.1",
         "BIB116.4.1.2",
+        "BIB211.13.3.1",
+        "BIB211.13.3.2",
+        "BIB211.13.3.3",
+        "BIB211.3.2.1",
+        "BIB211.4.1.1",
+        "BIB211.4.2.1",
         "BIB212.4.1.1",
         "BIB212.4.1.2"
       ],
       "citekey": "horton1994book",
       "container": null,
-      "course_count": 3,
+      "course_count": 4,
       "courses": [
         "BIB115",
         "BIB116",
+        "BIB211",
         "BIB212"
       ],
       "editor": null,
@@ -11573,6 +12134,25 @@
       "title": "Genesis",
       "url": null,
       "volume": "1",
+      "year": "1994"
+    },
+    {
+      "authors": "Horton, Stanley M——————, ed",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "horton1994syste",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": "Rev",
+      "place": "Springfield, MO",
+      "publisher": "Logion Press",
+      "raw": "Horton, Stanley M——————, ed. 1994. Systematic Theology: A Pentecostal Perspective . Rev. ed. Springfield, MO: Logion Press.",
+      "title": "Systematic Theology: A Pentecostal Perspective",
+      "url": null,
+      "volume": null,
       "year": "1994"
     },
     {
@@ -11622,9 +12202,12 @@
       "year": "1995"
     },
     {
-      "authors": "Horton, Stanley M",
-      "citation_count": 51,
+      "authors": "Horton, Stanley M——————, ed——",
+      "citation_count": 54,
       "cited_in": [
+        "THE118.13.1.1",
+        "THE118.13.1.2",
+        "THE118.13.3.1",
         "THE245.10.1.1",
         "THE245.10.1.2",
         "THE245.10.1.3",
@@ -11679,14 +12262,15 @@
       ],
       "citekey": "horton1996",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
+        "THE118",
         "THE245"
       ],
       "editor": null,
       "place": "Springfield, MO",
       "publisher": "Logion Press",
-      "raw": "Horton, Stanley M. 1996. Our Destiny: Biblical Teachings on the Last Things. Springfield, MO: Logion Press.",
+      "raw": "Horton, Stanley M——————, ed——. 1996. Our Destiny: Biblical Teachings on the Last Things . Springfield, MO: Logion Press.",
       "title": "Our Destiny: Biblical Teachings on the Last Things",
       "url": null,
       "volume": null,
@@ -12060,18 +12644,23 @@
     },
     {
       "authors": "Hurtado, Larry W",
-      "citation_count": 4,
+      "citation_count": 8,
       "cited_in": [
         "MIN123.4.2.1",
         "MIN123.4.2.2",
         "MIN123.4.2.3",
-        "MIN123.4.2.4"
+        "MIN123.4.2.4",
+        "MIN227.4.2.1",
+        "MIN227.4.2.2",
+        "MIN227.4.2.3",
+        "MIN227.4.2.4"
       ],
       "citekey": "hurtado2001",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "MIN123"
+        "MIN123",
+        "MIN227"
       ],
       "editor": null,
       "place": "Peabody, MA",
@@ -12181,6 +12770,25 @@
       "year": "2003"
     },
     {
+      "authors": "International Bible Society",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "internationalbiblesociety2017",
+      "container": "Accessed September",
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "International Bible Society. 2017. “How Many Different Languages Has the Bible Been Translated Into?” Accessed September 21, 2020. https://www.biblica.com/resources/bible-faqs/how-many-different-languages-has-the-bible-been-translated-into/",
+      "title": "How Many Different Languages Has the Bible Been Translated Into?",
+      "url": "https://www.biblica.com/resources/bible-faqs/how-many-different-languages-has-the-bible-been-translated-into/",
+      "volume": null,
+      "year": "2017"
+    },
+    {
       "authors": "Introduction to the Apocrypha",
       "citation_count": 0,
       "cited_in": [],
@@ -12259,6 +12867,31 @@
       "url": null,
       "volume": null,
       "year": "1985"
+    },
+    {
+      "authors": "Jenney, Timothy",
+      "citation_count": 5,
+      "cited_in": [
+        "THE118.8.1.1",
+        "THE118.8.1.2",
+        "THE118.8.2.1",
+        "THE118.8.2.2",
+        "THE118.8.2.3"
+      ],
+      "citekey": "jenney1994",
+      "container": "Horton 1994",
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Jenney, Timothy. 1994. “The Holy Spirit and Sanctification.” In Horton 1994, 397–422.",
+      "title": "The Holy Spirit and Sanctification",
+      "url": null,
+      "volume": null,
+      "year": "1994"
     },
     {
       "authors": "Jensen, Irving L",
@@ -12395,6 +13028,28 @@
       "url": null,
       "volume": null,
       "year": "1995"
+    },
+    {
+      "authors": "Jones, Doyle G",
+      "citation_count": 2,
+      "cited_in": [
+        "THE118.7.3.1",
+        "THE118.7.3.2"
+      ],
+      "citekey": "jones1997",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": "Waxahachie, TX",
+      "publisher": "Doyle G",
+      "raw": "Jones, Doyle G. 1997. Be Filled with the Spirit . Waxahachie, TX: Doyle G. Jones.",
+      "title": "Be Filled with the Spirit",
+      "url": null,
+      "volume": null,
+      "year": "1997"
     },
     {
       "authors": "Kaiser, Walter C., Jr",
@@ -13056,6 +13711,28 @@
       "year": "1978"
     },
     {
+      "authors": "Ketcham, Maynard",
+      "citation_count": 2,
+      "cited_in": [
+        "THE118.9.3.1",
+        "THE118.9.3.2"
+      ],
+      "citekey": "ketcham1979",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": "Charlotte, NC",
+      "publisher": "PTL Television Network",
+      "raw": "Ketcham, Maynard. 1979. Tigers That Talk: Opening Asia for Christ . Charlotte, NC: PTL Television Network.",
+      "title": "Tigers That Talk: Opening Asia for Christ",
+      "url": null,
+      "volume": null,
+      "year": "1979"
+    },
+    {
       "authors": "Kidner, Derek",
       "citation_count": 4,
       "cited_in": [
@@ -13194,9 +13871,10 @@
       "cited_in": [],
       "citekey": "kingjamesversionkjv1987",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "MIN123"
+        "MIN123",
+        "MIN227"
       ],
       "editor": null,
       "place": null,
@@ -13341,18 +14019,23 @@
     },
     {
       "authors": "Kittel, Gerhard, ed",
-      "citation_count": 4,
+      "citation_count": 8,
       "cited_in": [
         "MIN123.13.2.1",
         "MIN123.13.2.2",
         "MIN123.13.2.3",
-        "MIN123.13.2.4"
+        "MIN123.13.2.4",
+        "MIN227.13.2.1",
+        "MIN227.13.2.2",
+        "MIN227.13.2.3",
+        "MIN227.13.2.4"
       ],
       "citekey": "kittel1967",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "MIN123"
+        "MIN123",
+        "MIN227"
       ],
       "editor": null,
       "place": "Grand Rapids",
@@ -13382,6 +14065,28 @@
       "url": null,
       "volume": null,
       "year": "1985"
+    },
+    {
+      "authors": "Klaus, Byron",
+      "citation_count": 2,
+      "cited_in": [
+        "THE118.9.3.1",
+        "THE118.9.3.2"
+      ],
+      "citekey": "klaus1994",
+      "container": "Horton 1994",
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Klaus, Byron. 1994. “The Mission of the Church.” In Horton 1994, 567–596.",
+      "title": "The Mission of the Church",
+      "url": null,
+      "volume": null,
+      "year": "1994"
     },
     {
       "authors": "Klein, William W., Craig L. Blomberg, and Robert L. Hubbard, Jr",
@@ -13941,7 +14646,7 @@
     },
     {
       "authors": "Lane, William L",
-      "citation_count": 9,
+      "citation_count": 17,
       "cited_in": [
         "BIB114.8.2.1",
         "MIN123.4.1.1",
@@ -13951,14 +14656,23 @@
         "MIN123.4.2.1",
         "MIN123.4.2.2",
         "MIN123.4.2.3",
-        "MIN123.4.2.4"
+        "MIN123.4.2.4",
+        "MIN227.4.1.1",
+        "MIN227.4.1.2",
+        "MIN227.4.1.3",
+        "MIN227.4.1.4",
+        "MIN227.4.2.1",
+        "MIN227.4.2.2",
+        "MIN227.4.2.3",
+        "MIN227.4.2.4"
       ],
       "citekey": "lane1974",
       "container": null,
-      "course_count": 2,
+      "course_count": 3,
       "courses": [
         "BIB114",
-        "MIN123"
+        "MIN123",
+        "MIN227"
       ],
       "editor": null,
       "place": "Grand Rapids, MI",
@@ -13971,18 +14685,23 @@
     },
     {
       "authors": "Lane, William L——",
-      "citation_count": 4,
+      "citation_count": 8,
       "cited_in": [
         "MIN123.1.1.1",
         "MIN123.1.1.2",
         "MIN123.1.1.3",
-        "MIN123.1.1.4"
+        "MIN123.1.1.4",
+        "MIN227.1.1.1",
+        "MIN227.1.1.2",
+        "MIN227.1.1.3",
+        "MIN227.1.1.4"
       ],
       "citekey": "lane1978",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "MIN123"
+        "MIN123",
+        "MIN227"
       ],
       "editor": null,
       "place": "Ventura, CA",
@@ -14037,15 +14756,17 @@
     },
     {
       "authors": "Larson, C. B. ed",
-      "citation_count": 1,
+      "citation_count": 2,
       "cited_in": [
-        "BIB115.9.2.1"
+        "BIB115.9.2.1",
+        "BIB211.9.2.1"
       ],
       "citekey": "larson1993",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB115"
+        "BIB115",
+        "BIB211"
       ],
       "editor": null,
       "place": "Grand Rapids, MI",
@@ -14539,6 +15260,25 @@
       "year": "1970"
     },
     {
+      "authors": "Lindsell, H",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "lindsell1970my",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB211"
+      ],
+      "editor": null,
+      "place": "Grand Rapids, MI",
+      "publisher": "Zondervan",
+      "raw": "Lindsell, H. 1970. My Daily Quiet Time . Grand Rapids, MI: Zondervan.",
+      "title": "My Daily Quiet Time",
+      "url": null,
+      "volume": null,
+      "year": "1970"
+    },
+    {
       "authors": "Lint, Gregory A",
       "citation_count": 4,
       "cited_in": [
@@ -14994,9 +15734,10 @@
       "cited_in": [],
       "citekey": "mackay1863",
       "container": "in Sing His Praises",
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "MIN123"
+        "MIN123",
+        "MIN227"
       ],
       "editor": null,
       "place": "Springfield, MO",
@@ -15146,6 +15887,28 @@
       "url": null,
       "volume": null,
       "year": "1939"
+    },
+    {
+      "authors": "Marino, Bruce",
+      "citation_count": 2,
+      "cited_in": [
+        "THE118.4.3.1",
+        "THE118.4.3.2"
+      ],
+      "citekey": "marino1994",
+      "container": "Horton 1994",
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Marino, Bruce. 1994. “The Origin, Nature, and Consequences of Sin.” In Horton 1994, 255–290.",
+      "title": "The Origin, Nature, and Consequences of Sin",
+      "url": null,
+      "volume": null,
+      "year": "1994"
     },
     {
       "authors": "Marshall, I. Howard",
@@ -15973,6 +16736,28 @@
       "year": "2000"
     },
     {
+      "authors": "McLean, Mark",
+      "citation_count": 2,
+      "cited_in": [
+        "THE118.7.1.1",
+        "THE118.7.1.2"
+      ],
+      "citekey": "mclean1994",
+      "container": "Horton 1994",
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "McLean, Mark. 1994. “The Holy Spirit.” In Horton 1994, 375–396.",
+      "title": "The Holy Spirit",
+      "url": null,
+      "volume": null,
+      "year": "1994"
+    },
+    {
       "authors": "McLuhan, Marshall",
       "citation_count": 0,
       "cited_in": [],
@@ -16201,6 +16986,68 @@
       "url": null,
       "volume": null,
       "year": "1971"
+    },
+    {
+      "authors": "Menzies, William, and Stanley M. Horton",
+      "citation_count": 42,
+      "cited_in": [
+        "THE118.1.1.1",
+        "THE118.1.1.2",
+        "THE118.1.3.1",
+        "THE118.1.3.2",
+        "THE118.10.1.1",
+        "THE118.10.1.2",
+        "THE118.10.2.1",
+        "THE118.10.2.2",
+        "THE118.10.3.1",
+        "THE118.10.3.2",
+        "THE118.11.1.1",
+        "THE118.11.1.2",
+        "THE118.12.1.1",
+        "THE118.12.1.2",
+        "THE118.12.2.1",
+        "THE118.12.2.2",
+        "THE118.12.2.3",
+        "THE118.2.2.1",
+        "THE118.2.2.2",
+        "THE118.3.1.1",
+        "THE118.3.1.2",
+        "THE118.3.2.1",
+        "THE118.4.3.1",
+        "THE118.4.3.2",
+        "THE118.5.1.1",
+        "THE118.5.1.2",
+        "THE118.6.1.1",
+        "THE118.6.1.2",
+        "THE118.6.2.1",
+        "THE118.6.2.2",
+        "THE118.6.2.3",
+        "THE118.7.3.1",
+        "THE118.7.3.2",
+        "THE118.8.1.1",
+        "THE118.8.1.2",
+        "THE118.8.2.1",
+        "THE118.8.2.2",
+        "THE118.8.2.3",
+        "THE118.9.1.1",
+        "THE118.9.1.2",
+        "THE118.9.3.1",
+        "THE118.9.3.2"
+      ],
+      "citekey": "menzies1993bible",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": "Springfield, MO",
+      "publisher": "Logion Press",
+      "raw": "Menzies, William, and Stanley M. Horton. 1993. Bible Doctrines: A Pentecostal Perspective . Springfield, MO: Logion Press.",
+      "title": "Bible Doctrines: A Pentecostal Perspective",
+      "url": null,
+      "volume": null,
+      "year": "1993"
     },
     {
       "authors": "Menzies, William, and Stanley M. Horton",
@@ -16503,6 +17350,27 @@
       "url": null,
       "volume": null,
       "year": "2000"
+    },
+    {
+      "authors": "Mickelson, A. Berkely",
+      "citation_count": 1,
+      "cited_in": [
+        "THE118.1.2.1"
+      ],
+      "citekey": "mickelson1963",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": "Grand Rapids, MI",
+      "publisher": "Eerdmans Publishing Co",
+      "raw": "Mickelson, A. Berkely. 1963. Interpreting the Bible . Grand Rapids, MI: Eerdmans Publishing Co.",
+      "title": "Interpreting the Bible",
+      "url": null,
+      "volume": null,
+      "year": "1963"
     },
     {
       "authors": "Migliore, R. Henry, Robert E. Stevens, and David L. Loudon",
@@ -16878,6 +17746,28 @@
     },
     {
       "authors": "Morgenthaler, Sally",
+      "citation_count": 2,
+      "cited_in": [
+        "THE118.9.3.1",
+        "THE118.9.3.2"
+      ],
+      "citekey": "morgenthaler1990",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": "Grand Rapids, MI",
+      "publisher": "Zondervan Publishing House",
+      "raw": "Morgenthaler, Sally. 1990. Worship Evangelism: Inviting Unbelievers into the Presence of God . Grand Rapids, MI: Zondervan Publishing House.",
+      "title": "Worship Evangelism: Inviting Unbelievers into the Presence of God",
+      "url": null,
+      "volume": null,
+      "year": "1990"
+    },
+    {
+      "authors": "Morgenthaler, Sally",
       "citation_count": 4,
       "cited_in": [
         "THE311.11.3.1",
@@ -16899,6 +17789,25 @@
       "url": null,
       "volume": null,
       "year": "1999"
+    },
+    {
+      "authors": "Morgenthaler, Sally——",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "morgenthaler2003",
+      "container": "Enrichment (Summer)",
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Morgenthaler, Sally——. 2003. “Interview: Worship—Maintaining Unity and Experiencing God’s Presence.” Enrichment (Summer), 50–57.",
+      "title": "Interview: Worship—Maintaining Unity and Experiencing God’s Presence",
+      "url": null,
+      "volume": null,
+      "year": "2003"
     },
     {
       "authors": "Morris, Leon",
@@ -17086,18 +17995,23 @@
     },
     {
       "authors": "Mounce, Robert H",
-      "citation_count": 4,
+      "citation_count": 8,
       "cited_in": [
         "MIN123.4.1.1",
         "MIN123.4.1.2",
         "MIN123.4.1.3",
-        "MIN123.4.1.4"
+        "MIN123.4.1.4",
+        "MIN227.4.1.1",
+        "MIN227.4.1.2",
+        "MIN227.4.1.3",
+        "MIN227.4.1.4"
       ],
       "citekey": "mounce2002",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "MIN123"
+        "MIN123",
+        "MIN227"
       ],
       "editor": null,
       "place": "Peabody, MA",
@@ -17188,6 +18102,28 @@
       "url": null,
       "volume": null,
       "year": "2017"
+    },
+    {
+      "authors": "Munyon, Timothy",
+      "citation_count": 2,
+      "cited_in": [
+        "THE118.4.2.1",
+        "THE118.4.2.2"
+      ],
+      "citekey": "munyon1994",
+      "container": "Horton 1994",
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Munyon, Timothy. 1994. “The Creation of the Universe and Humankind.” In Horton 1994, 215–254.",
+      "title": "The Creation of the Universe and Humankind",
+      "url": null,
+      "volume": null,
+      "year": "1994"
     },
     {
       "authors": "Murphy, Roland E",
@@ -17352,6 +18288,27 @@
       "url": null,
       "volume": null,
       "year": "1979"
+    },
+    {
+      "authors": "Nelson, P. C",
+      "citation_count": 1,
+      "cited_in": [
+        "THE118.1.2.1"
+      ],
+      "citekey": "nelson1933",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": "Springfield, MO",
+      "publisher": "Gospel Publishing House",
+      "raw": "Nelson, P. C. 1933. Bible Doctrines . Springfield, MO: Gospel Publishing House.",
+      "title": "Bible Doctrines",
+      "url": null,
+      "volume": null,
+      "year": "1933"
     },
     {
       "authors": "Neven, Tom",
@@ -17809,6 +18766,28 @@
       "year": "1983"
     },
     {
+      "authors": "Ogden, Greg",
+      "citation_count": 2,
+      "cited_in": [
+        "THE118.10.2.1",
+        "THE118.10.2.2"
+      ],
+      "citekey": "ogden1995",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": "Grand Rapids, MI",
+      "publisher": "Zondervan Publishing House",
+      "raw": "Ogden, Greg. 1995. The New Reformation: Returning the Ministry to the People of God . Grand Rapids, MI: Zondervan Publishing House.",
+      "title": "The New Reformation: Returning the Ministry to the People of God",
+      "url": null,
+      "volume": null,
+      "year": "1995"
+    },
+    {
       "authors": "Okuwobi, Oneya",
       "citation_count": 0,
       "cited_in": [],
@@ -18207,9 +19186,10 @@
       "cited_in": [],
       "citekey": "palmer1830",
       "container": "in Sing His Praises",
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "MIN123"
+        "MIN123",
+        "MIN227"
       ],
       "editor": null,
       "place": "Springfield, MO",
@@ -18449,6 +19429,30 @@
       "year": "1950"
     },
     {
+      "authors": "Pearlman, Myer",
+      "citation_count": 4,
+      "cited_in": [
+        "THE118.2.3.1",
+        "THE118.2.3.2",
+        "THE118.3.1.1",
+        "THE118.3.1.2"
+      ],
+      "citekey": "pearlman1981",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": "Springfield, MO",
+      "publisher": "Gospel Publishing House",
+      "raw": "Pearlman, Myer. 1981. Knowing the Doctrines of the Bible . Springfield, MO: Gospel Publishing House.",
+      "title": "Knowing the Doctrines of the Bible",
+      "url": null,
+      "volume": null,
+      "year": "1981"
+    },
+    {
       "authors": "Peck, Scott M",
       "citation_count": 2,
       "cited_in": [
@@ -18469,6 +19473,30 @@
       "url": null,
       "volume": null,
       "year": "1987"
+    },
+    {
+      "authors": "Pecota, Daniel",
+      "citation_count": 4,
+      "cited_in": [
+        "THE118.5.2.1",
+        "THE118.5.3.1",
+        "THE118.5.3.2",
+        "THE118.5.3.3"
+      ],
+      "citekey": "pecota1994",
+      "container": "Horton 1994",
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Pecota, Daniel. 1994. “The Saving Work of Christ.” In Horton 1994, 325–374.",
+      "title": "The Saving Work of Christ",
+      "url": null,
+      "volume": null,
+      "year": "1994"
     },
     {
       "authors": "Peeler, Amy",
@@ -18752,9 +19780,10 @@
       "cited_in": [],
       "citekey": "phillips1972",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "MIN123"
+        "MIN123",
+        "MIN227"
       ],
       "editor": null,
       "place": "London, England",
@@ -18941,6 +19970,28 @@
       "url": null,
       "volume": null,
       "year": "1999"
+    },
+    {
+      "authors": "Purdy, Vernon",
+      "citation_count": 2,
+      "cited_in": [
+        "THE118.11.1.1",
+        "THE118.11.1.2"
+      ],
+      "citekey": "purdy1994",
+      "container": "Horton 1994",
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Purdy, Vernon. 1994. “Divine Healing.” In Horton 1994, 489–524.",
+      "title": "Divine Healing",
+      "url": null,
+      "volume": null,
+      "year": "1994"
     },
     {
       "authors": "Purkiser, W. T",
@@ -19368,6 +20419,25 @@
       "year": "1971"
     },
     {
+      "authors": "Revised Standard Version (RSV)",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "revisedstandardversionrsv1971b",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "MIN227"
+      ],
+      "editor": null,
+      "place": "Washington DC",
+      "publisher": "National Council of the Churches of Christ",
+      "raw": "Revised Standard Version (RSV). 1971. Washington DC: National Council of the Churches of Christ.",
+      "title": null,
+      "url": null,
+      "volume": null,
+      "year": "1971"
+    },
+    {
       "authors": "Reyes, Krizzia Paolyn",
       "citation_count": 0,
       "cited_in": [],
@@ -19385,6 +20455,28 @@
       "url": "https://www.christianitydaily.com/articles/10501/20210113/christian-sisters-in-pakistan-killed-for-refusing-to-convert-to-islam-found-dead-by-police.htm",
       "volume": null,
       "year": "2021"
+    },
+    {
+      "authors": "Rhoden, H. Robert",
+      "citation_count": 2,
+      "cited_in": [
+        "THE118.10.3.1",
+        "THE118.10.3.2"
+      ],
+      "citekey": "rhoden2003",
+      "container": "Enrichment (Summer)",
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Rhoden, H. Robert. 2003. “The Essence of Pentecostal Worship.” Enrichment (Summer), 19–23.",
+      "title": "The Essence of Pentecostal Worship",
+      "url": null,
+      "volume": null,
+      "year": "2003"
     },
     {
       "authors": "Ricks, Chip",
@@ -20068,15 +21160,17 @@
     },
     {
       "authors": "Rumph, J",
-      "citation_count": 1,
+      "citation_count": 2,
       "cited_in": [
-        "BIB115.6.2.1"
+        "BIB115.6.2.1",
+        "BIB211.6.2.1"
       ],
       "citekey": "rumph1996",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB115"
+        "BIB115",
+        "BIB211"
       ],
       "editor": null,
       "place": "Grand Rapids, MI",
@@ -20132,6 +21226,25 @@
       "url": null,
       "volume": "11",
       "year": "1978"
+    },
+    {
+      "authors": "Rutland, Mark",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "rutland2003",
+      "container": "Enrichment (Summer):",
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Rutland, Mark. 2003. “The Power of Presence.” Enrichment (Summer): 26–33.",
+      "title": "The Power of Presence",
+      "url": null,
+      "volume": null,
+      "year": "2003"
     },
     {
       "authors": "Ryken, Leland",
@@ -21165,9 +22278,10 @@
       "cited_in": [],
       "citekey": "spencer1886",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "MIN123"
+        "MIN123",
+        "MIN227"
       ],
       "editor": null,
       "place": null,
@@ -21376,26 +22490,58 @@
     },
     {
       "authors": "Stamps, Donald C., gen. ed",
-      "citation_count": 5,
+      "citation_count": 6,
       "cited_in": [
         "BIB111.11.2.1",
         "BIB111.11.2.2",
         "BIB111.14.2.1",
         "BIB111.14.2.2",
-        "BIB115.4.2.1"
+        "BIB115.4.2.1",
+        "BIB211.4.2.1"
       ],
       "citekey": "stamps1992a",
       "container": null,
-      "course_count": 2,
+      "course_count": 3,
       "courses": [
         "BIB111",
-        "BIB115"
+        "BIB115",
+        "BIB211"
       ],
       "editor": null,
       "place": null,
       "publisher": "Zondervan Publishing House",
       "raw": "Stamps, Donald C., gen. ed. 1992. Full Life Study Bible: New International Version . Zondervan Publishing House.",
       "title": "Full Life Study Bible: New International Version",
+      "url": null,
+      "volume": null,
+      "year": "1992"
+    },
+    {
+      "authors": "Stamps, Donald, ed",
+      "citation_count": 10,
+      "cited_in": [
+        "THE118.2.3.1",
+        "THE118.2.3.2",
+        "THE118.3.2.1",
+        "THE118.4.2.1",
+        "THE118.4.2.2",
+        "THE118.6.2.1",
+        "THE118.6.2.2",
+        "THE118.6.2.3",
+        "THE118.7.1.1",
+        "THE118.7.1.2"
+      ],
+      "citekey": "stamps1992b",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": "Grand Rapids, MI",
+      "publisher": "Zondervan Publishing House",
+      "raw": "Stamps, Donald, ed. 1992. The Full Life Study Bible . Grand Rapids, MI: Zondervan Publishing House.",
+      "title": "The Full Life Study Bible",
       "url": null,
       "volume": null,
       "year": "1992"
@@ -21580,6 +22726,29 @@
       "year": "1983"
     },
     {
+      "authors": "Stott, John",
+      "citation_count": 3,
+      "cited_in": [
+        "THE118.3.1.1",
+        "THE118.3.1.2",
+        "THE118.3.2.1"
+      ],
+      "citekey": "stott1958",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": "Downers Grove, IL",
+      "publisher": "InterVarsity Press",
+      "raw": "Stott, John. 1958. Basic Christianity. Downers Grove, IL: InterVarsity Press.",
+      "title": "Basic Christianity",
+      "url": null,
+      "volume": null,
+      "year": "1958"
+    },
+    {
       "authors": "Stott, John R.W",
       "citation_count": 4,
       "cited_in": [
@@ -21686,6 +22855,28 @@
       "year": "1994"
     },
     {
+      "authors": "Stowell, Joseph",
+      "citation_count": 2,
+      "cited_in": [
+        "THE118.10.1.1",
+        "THE118.10.1.2"
+      ],
+      "citekey": "stowell1997",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": "Chicago",
+      "publisher": "Moody Press",
+      "raw": "Stowell, Joseph. 1997. Shepherding the Church: Effective Spiritual Leadership in a Changing Culture . Chicago: Moody Press.",
+      "title": "Shepherding the Church: Effective Spiritual Leadership in a Changing Culture",
+      "url": null,
+      "volume": null,
+      "year": "1997"
+    },
+    {
       "authors": "Strobel, Lee",
       "citation_count": 0,
       "cited_in": [],
@@ -21774,7 +22965,7 @@
     },
     {
       "authors": "Stronstad, R",
-      "citation_count": 8,
+      "citation_count": 12,
       "cited_in": [
         "BIB115.1.2.1",
         "BIB115.1.2.2",
@@ -21782,15 +22973,20 @@
         "BIB115.1.2.4",
         "BIB116.4.1.1",
         "BIB116.4.1.2",
+        "BIB211.1.2.1",
+        "BIB211.1.2.2",
+        "BIB211.1.2.3",
+        "BIB211.1.2.4",
         "BIB212.4.1.1",
         "BIB212.4.1.2"
       ],
       "citekey": "stronstad1995",
       "container": null,
-      "course_count": 3,
+      "course_count": 4,
       "courses": [
         "BIB115",
         "BIB116",
+        "BIB211",
         "BIB212"
       ],
       "editor": null,
@@ -22040,19 +23236,49 @@
       "year": "1997"
     },
     {
+      "authors": "Tan, Paul",
+      "citation_count": 5,
+      "cited_in": [
+        "THE118.12.2.1",
+        "THE118.12.2.2",
+        "THE118.12.2.3",
+        "THE118.2.2.1",
+        "THE118.2.2.2"
+      ],
+      "citekey": "tan1998",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": "Dallas",
+      "publisher": "Bible Communications Inc",
+      "raw": "Tan, Paul. 1998. Encyclopedia of 15,000 Illustrations . Dallas: Bible Communications Inc.",
+      "title": "Encyclopedia of 15,000 Illustrations",
+      "url": null,
+      "volume": null,
+      "year": "1998"
+    },
+    {
       "authors": "Tasker, R. V. G",
-      "citation_count": 4,
+      "citation_count": 8,
       "cited_in": [
         "MIN123.4.1.1",
         "MIN123.4.1.2",
         "MIN123.4.1.3",
-        "MIN123.4.1.4"
+        "MIN123.4.1.4",
+        "MIN227.4.1.1",
+        "MIN227.4.1.2",
+        "MIN227.4.1.3",
+        "MIN227.4.1.4"
       ],
       "citekey": "tasker1961",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "MIN123"
+        "MIN123",
+        "MIN227"
       ],
       "editor": null,
       "place": "Leicester, England",
@@ -22197,6 +23423,28 @@
       "url": null,
       "volume": null,
       "year": "1961"
+    },
+    {
+      "authors": "Tenney, Merrill",
+      "citation_count": 2,
+      "cited_in": [
+        "THE118.1.1.1",
+        "THE118.1.1.2"
+      ],
+      "citekey": "tenney1985",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": "Grand Rapids, MI",
+      "publisher": "Eerdmans Publishing Co",
+      "raw": "Tenney, Merrill. 1985. New Testament Survey . Grand Rapids, MI: Eerdmans Publishing Co.",
+      "title": "New Testament Survey",
+      "url": null,
+      "volume": null,
+      "year": "1985"
     },
     {
       "authors": "Tenny, Merrill C",
@@ -22571,6 +23819,39 @@
       "year": "2015"
     },
     {
+      "authors": "Thiessen, Henry",
+      "citation_count": 13,
+      "cited_in": [
+        "THE118.1.1.1",
+        "THE118.1.1.2",
+        "THE118.1.2.1",
+        "THE118.1.3.1",
+        "THE118.1.3.2",
+        "THE118.13.1.1",
+        "THE118.13.1.2",
+        "THE118.2.1.1",
+        "THE118.2.1.2",
+        "THE118.2.2.1",
+        "THE118.2.2.2",
+        "THE118.4.3.1",
+        "THE118.4.3.2"
+      ],
+      "citekey": "thiessen1949",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": "Grand Rapids, MI",
+      "publisher": "W",
+      "raw": "Thiessen, Henry. 1949. Introductory Lectures in Systematic Theology . Grand Rapids, MI: W.B. Eerdmans.",
+      "title": "Introductory Lectures in Systematic Theology",
+      "url": null,
+      "volume": null,
+      "year": "1949"
+    },
+    {
       "authors": "Thiselton, Anthony",
       "citation_count": 1,
       "cited_in": [
@@ -22814,6 +24095,27 @@
       "url": null,
       "volume": null,
       "year": "1952"
+    },
+    {
+      "authors": "Trask, Thomas, and Wayde Goodall",
+      "citation_count": 1,
+      "cited_in": [
+        "THE118.1.2.1"
+      ],
+      "citekey": "trask1996",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": "Springfield, MO",
+      "publisher": "Gospel Publishing House",
+      "raw": "Trask, Thomas, and Wayde Goodall. 1996. Back to the Word: A Call to Biblical Authority . Springfield, MO: Gospel Publishing House.",
+      "title": "Back to the Word: A Call to Biblical Authority",
+      "url": null,
+      "volume": null,
+      "year": "1996"
     },
     {
       "authors": "Trask, Thomas E., Wayde I. Goodall, and Zenas J. Bicket., eds. and comps",
@@ -23072,6 +24374,25 @@
       "year": "1995"
     },
     {
+      "authors": "Van Engen, Charles",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "vanengen1991",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": "Grand Rapids, MI",
+      "publisher": "Baker Book House",
+      "raw": "Van Engen, Charles. 1991. God’s Missionary People: Rethinking the Purpose of the Local Church . Grand Rapids, MI: Baker Book House.",
+      "title": "God’s Missionary People: Rethinking the Purpose of the Local Church",
+      "url": null,
+      "volume": null,
+      "year": "1991"
+    },
+    {
       "authors": "VanGemeren, Willem A., ed",
       "citation_count": 0,
       "cited_in": [],
@@ -23217,6 +24538,27 @@
       "url": null,
       "volume": null,
       "year": "2000"
+    },
+    {
+      "authors": "Vine, W.E",
+      "citation_count": 1,
+      "cited_in": [
+        "THE118.5.2.1"
+      ],
+      "citekey": "vine1989",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": "McLean, VA",
+      "publisher": "Macdonald Publishing Company",
+      "raw": "Vine, W.E. 1989. Vine’s Expository Dictionary of New Testament Words . McLean, VA: Macdonald Publishing Company.",
+      "title": "Vine’s Expository Dictionary of New Testament Words",
+      "url": null,
+      "volume": null,
+      "year": "1989"
     },
     {
       "authors": "Vine, W. E., Merrill F. Unger, and William White, Jr",
@@ -23388,18 +24730,41 @@
       "year": "2025"
     },
     {
-      "authors": "Wagner, C. P",
-      "citation_count": 3,
-      "cited_in": [
-        "BIB115.13.3.1",
-        "BIB115.13.3.2",
-        "BIB115.13.3.3"
-      ],
-      "citekey": "wagner1995",
+      "authors": "Wagner, Peter",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "wagner1986",
       "container": null,
       "course_count": 1,
       "courses": [
-        "BIB115"
+        "THE118"
+      ],
+      "editor": null,
+      "place": "Altamonte Springs, FL",
+      "publisher": "Creation House",
+      "raw": "Wagner, Peter. 1986. Spiritual Power and Church Growth . Altamonte Springs, FL: Creation House.",
+      "title": "Spiritual Power and Church Growth",
+      "url": null,
+      "volume": null,
+      "year": "1986"
+    },
+    {
+      "authors": "Wagner, C. P",
+      "citation_count": 6,
+      "cited_in": [
+        "BIB115.13.3.1",
+        "BIB115.13.3.2",
+        "BIB115.13.3.3",
+        "BIB211.13.3.1",
+        "BIB211.13.3.2",
+        "BIB211.13.3.3"
+      ],
+      "citekey": "wagner1995",
+      "container": null,
+      "course_count": 2,
+      "courses": [
+        "BIB115",
+        "BIB211"
       ],
       "editor": null,
       "place": "Ventura, CA",
@@ -23574,7 +24939,7 @@
     },
     {
       "authors": "Walvoord, J. F., and R. B. Zuck, eds",
-      "citation_count": 12,
+      "citation_count": 24,
       "cited_in": [
         "MIN123.1.1.1",
         "MIN123.1.1.2",
@@ -23587,13 +24952,26 @@
         "MIN123.5.1.1",
         "MIN123.5.1.2",
         "MIN123.5.1.3",
-        "MIN123.5.1.4"
+        "MIN123.5.1.4",
+        "MIN227.1.1.1",
+        "MIN227.1.1.2",
+        "MIN227.1.1.3",
+        "MIN227.1.1.4",
+        "MIN227.13.3.1",
+        "MIN227.13.3.2",
+        "MIN227.13.3.3",
+        "MIN227.13.3.4",
+        "MIN227.5.1.1",
+        "MIN227.5.1.2",
+        "MIN227.5.1.3",
+        "MIN227.5.1.4"
       ],
       "citekey": "walvoord1983",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "MIN123"
+        "MIN123",
+        "MIN227"
       ],
       "editor": null,
       "place": "Colorado Springs, CO",
@@ -23936,6 +25314,28 @@
       "year": "2002"
     },
     {
+      "authors": "Wedel, Theodore",
+      "citation_count": 2,
+      "cited_in": [
+        "THE118.9.3.1",
+        "THE118.9.3.2"
+      ],
+      "citekey": "wedel1953",
+      "container": "The Ecumenical Review (October):",
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Wedel, Theodore. 1953. “Evangelism: The Mission of the Church to Those outside Her Life.” The Ecumenical Review (October): 24. Quoted in Howard Clinebell, Basic Types of Pastoral Care and Counseling (Nashville: Abingdon Press, 1984), 13–14.",
+      "title": "Evangelism: The Mission of the Church to Those outside Her Life",
+      "url": null,
+      "volume": null,
+      "year": "1953"
+    },
+    {
       "authors": "Welch, J. W",
       "citation_count": 1,
       "cited_in": [
@@ -24044,14 +25444,19 @@
     },
     {
       "authors": "Wesley, John",
-      "citation_count": 0,
-      "cited_in": [],
+      "citation_count": 3,
+      "cited_in": [
+        "THE118.11.2.1",
+        "THE118.11.2.2",
+        "THE118.3.3.1"
+      ],
       "citekey": "wesley1983",
       "container": null,
-      "course_count": 2,
+      "course_count": 3,
       "courses": [
         "BIB116",
-        "BIB212"
+        "BIB212",
+        "THE118"
       ],
       "editor": null,
       "place": null,
@@ -24240,6 +25645,29 @@
       "url": null,
       "volume": null,
       "year": "1977"
+    },
+    {
+      "authors": "Wiersbe, Warren, comp",
+      "citation_count": 3,
+      "cited_in": [
+        "THE118.8.2.1",
+        "THE118.8.2.2",
+        "THE118.8.2.3"
+      ],
+      "citekey": "wiersbe1978",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": "Grand Rapids, MI",
+      "publisher": "Baker Book House",
+      "raw": "Wiersbe, Warren, comp. 1978. The Best of A.W. Tozer . Grand Rapids, MI: Baker Book House.",
+      "title": "The Best of A.W. Tozer",
+      "url": null,
+      "volume": null,
+      "year": "1978"
     },
     {
       "authors": "Wiersbe, Warren",
@@ -24532,15 +25960,17 @@
     },
     {
       "authors": "Wimber, J. and K. Springer",
-      "citation_count": 1,
+      "citation_count": 2,
       "cited_in": [
-        "BIB115.6.2.1"
+        "BIB115.6.2.1",
+        "BIB211.6.2.1"
       ],
       "citekey": "wimber1986",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB115"
+        "BIB115",
+        "BIB211"
       ],
       "editor": null,
       "place": "San Francisco",
@@ -25214,6 +26644,31 @@
       "year": "2024"
     },
     {
+      "authors": "Woodworth, Floyd",
+      "citation_count": 5,
+      "cited_in": [
+        "THE118.2.3.1",
+        "THE118.2.3.2",
+        "THE118.3.1.1",
+        "THE118.3.1.2",
+        "THE118.3.2.1"
+      ],
+      "citekey": "woodworth1986",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": "Irving, TX",
+      "publisher": "ICI University Press",
+      "raw": "Woodworth, Floyd. 1986. Cornerstones of Truth . Irving, TX: ICI University Press.",
+      "title": "Cornerstones of Truth",
+      "url": null,
+      "volume": null,
+      "year": "1986"
+    },
+    {
       "authors": "Woolfe, Lorin",
       "citation_count": 2,
       "cited_in": [
@@ -25504,6 +26959,28 @@
       "url": null,
       "volume": null,
       "year": "1997"
+    },
+    {
+      "authors": "Yancey, Phillip",
+      "citation_count": 2,
+      "cited_in": [
+        "THE118.12.1.1",
+        "THE118.12.1.2"
+      ],
+      "citekey": "yancey2003",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "THE118"
+      ],
+      "editor": null,
+      "place": "Grand Rapids, MI",
+      "publisher": "Zondervan",
+      "raw": "Yancey, Phillip. 2003. Rumors of Another World: What on Earth Are We Missing? Grand Rapids, MI: Zondervan.",
+      "title": "Rumors of Another World: What on Earth Are We Missing?",
+      "url": null,
+      "volume": null,
+      "year": "2003"
     },
     {
       "authors": "Yancey, Philip",

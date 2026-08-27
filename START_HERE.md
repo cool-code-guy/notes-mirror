@@ -385,68 +385,68 @@ Level 2 · 13 chapters · 38 lessons · 46 subobjectives
 - 12. Trace Paul’s travels from Antioch to Rome.
 
 **1 - Understanding Acts**
-- 1.1 (1.1.1)
-- 1.2 (1.2.1, 1.2.2, 1.2.3, 1.2.4)
-- 1.3 (1.3.1)
+- Approaching Acts (1.1.1)
+- Appreciating Acts (1.2.1, 1.2.2, 1.2.3, 1.2.4)
+- Analyzing Acts (1.3.1)
 
 **2 - From the Resurrection to Pentecost**
-- 2.1 (2.1.1)
-- 2.2 (2.2.1)
-- 2.3 (2.3.1)
+- The Gift Our Father Promised (2.1.1)
+- The Work of the Church (2.2.1)
+- Steps to the Baptism in the Holy Spirit (2.3.1)
 
 **3 - The Holy Spirit Is Poured Out**
-- 3.1 (3.1.1)
-- 3.2 (3.2.1)
-- 3.3 (3.3.1)
+- Pentecost Fulfilled (3.1.1)
+- Signs of Spirit Baptism (3.2.1)
+- Four Purposes of Speaking in Tongues (3.3.1)
 
 **4 - The Birth of the Church**
-- 4.1 (4.1.1)
-- 4.2 (4.2.1)
-- 4.3 (4.3.1)
+- Responses to Pentecost (4.1.1)
+- The Pattern of Peter’s Preaching (4.2.1)
+- The Biblical Pattern of a Dynamic Church (4.3.1)
 
 **5 - Peter and John Heal a Lame Man**
-- 5.1 (5.1.1)
-- 5.2 (5.2.1)
-- 5.3 (5.3.1)
+- Embracing the Needs Around Us (5.1.1)
+- Explaining the Gospel (5.2.1)
+- Enduring Hardship and Testing (5.3.1)
 
 **6 - The Growth of the Church**
-- 6.1 (6.1.1, 6.1.2)
-- 6.2 (6.2.1)
-- 6.3 (6.3.1)
+- The Purifying of the Church (6.1.1, 6.1.2)
+- The Powerful Church (6.2.1)
+- The Persistent Church (6.3.1)
 
 **7 - Stephen: What Good Can Come of Trouble?**
-- 7.1 (7.1.1, 7.1.2)
-- 7.2 (7.2.1)
-- 7.3 (7.3.1)
+- Conflict in the Church (7.1.1, 7.1.2)
+- Stephen’s Arrest and Trial (7.2.1)
+- The First Martyr (7.3.1)
 
 **8 - Scattered Seed: The Church Expands**
-- 8.1 (8.1.1)
-- 8.2 (8.2.1)
-- 8.3 (8.3.1)
+- Mass Evangelism (8.1.1)
+- Personal Evangelism (8.2.1)
+- Seed for Future Harvests (8.3.1)
 
 **9 - The Acts of the Apostles**
-- 9.1 (9.1.1)
-- 9.2 (9.2.1)
-- 9.3 (9.3.1)
+- Peter’s Expanding Ministry (9.1.1)
+- Antioch: The Changing Shape of the Church (9.2.1)
+- Jerusalem: The Difficult Will of God (9.3.1)
 
 **10 - The First Missionary Journey**
-- 10.1 (10.1.1)
-- 10.2 (10.2.1)
-- 10.3 (10.3.1)
+- To Galatia: On the Cutting Edge of Spiritual Growth (10.1.1)
+- The Galatian Ministry: How to Minister Successfully (10.2.1)
+- The Jerusalem Council: A Biblical Pattern of Conflict Resolution (10.3.1)
 
 **11 - The Second Missionary Journey**
-- 11.1 (11.1.1)
-- 11.2 (11.2.1)
-- 11.3 (11.3.1)
+- The Second Missionary Journey Begins (11.1.1)
+- A Tale of Three Cities (11.2.1)
+- Corinth: The Final Leg of the Journey (11.3.1)
 
 **12 - Paul’s Third Missionary Journey**
-- 12.1 (12.1.1)
-- 12.2 (12.2.1)
+- Ephesus: Battle for a City (12.1.1)
+- From Ephesus to Jerusalem: The Rest of the Journey (12.2.1)
 
 **13 - Paul’s Journey to Rome**
-- 13.1 (13.1.1, 13.1.2)
-- 13.2 (13.2.1)
-- 13.3 (13.3.1, 13.3.2, 13.3.3)
+- Paul’s Imprisonment in Jerusalem (13.1.1, 13.1.2)
+- Paul’s Imprisonment in Caesarea (13.2.1)
+- Paul’s Imprisonment in Rome (13.3.1, 13.3.2, 13.3.3)
 
 ---
 
@@ -1094,76 +1094,76 @@ Level 2 · 15 chapters · 42 lessons · 167 subobjectives
 - 8. Identify key aspects and characteristics of evangelism. 14 The Local Church in Evangelism.
 
 **1 - Defining the Great Commission**
-- 1.1 (1.1.1, 1.1.2, 1.1.3, 1.1.4)
-- 1.2 (1.2.1, 1.2.2, 1.2.3, 1.2.4)
+- The Great Commission in Mark and Matthew (1.1.1, 1.1.2, 1.1.3, 1.1.4)
+- The Great Commission in Luke/Acts and John (1.2.1, 1.2.2, 1.2.3, 1.2.4)
 
 **2 - Analyzing the Great Commission**
-- 2.1 (2.1.1, 2.1.2, 2.1.3, 2.1.4)
-- 2.2 (2.2.1, 2.2.2, 2.2.3, 2.2.4)
+- The Comprehensive Nature of the Mission (2.1.1, 2.1.2, 2.1.3, 2.1.4)
+- The Inclusive Nature of the Mission (2.2.1, 2.2.2, 2.2.3, 2.2.4)
 
 **3 - The Great Omissions**
-- 3.1 (3.1.1, 3.1.2, 3.1.3, 3.1.4)
-- 3.2 (3.2.1, 3.2.2, 3.2.3, 3.2.4)
+- Why?—Divine Authority and Human Condition (3.1.1, 3.1.2, 3.1.3, 3.1.4)
+- How?—The Promised Empowerment (3.2.1, 3.2.2, 3.2.3, 3.2.4)
 
 **4 - Jesus’ Teaching**
-- 4.1 (4.1.1, 4.1.2, 4.1.3, 4.1.4)
-- 4.2 (4.2.1, 4.2.2, 4.2.3, 4.2.4)
-- 4.3 (4.3.1, 4.3.2, 4.3.3, 4.3.4)
-- 4.4 (4.4.1, 4.4.2, 4.4.3, 4.4.4)
+- The Parables (4.1.1, 4.1.2, 4.1.3, 4.1.4)
+- The Soils (4.2.1, 4.2.2, 4.2.3, 4.2.4)
+- The Sower (4.3.1, 4.3.2, 4.3.3, 4.3.4)
+- The Character of the Believer (4.4.1, 4.4.2, 4.4.3, 4.4.4)
 
 **5 - Jesus’ Example**
-- 5.1 (5.1.1, 5.1.2, 5.1.3, 5.1.4)
-- 5.2 (5.2.1, 5.2.2, 5.2.3, 5.2.4)
-- 5.3 (5.3.1, 5.3.2, 5.3.3, 5.3.4)
+- The Opportunity (5.1.1, 5.1.2, 5.1.3, 5.1.4)
+- The Focus (5.2.1, 5.2.2, 5.2.3, 5.2.4)
+- The Message (5.3.1, 5.3.2, 5.3.3, 5.3.4)
 
 **6 - Jesus’ Promise**
-- 6.1 (6.1.1, 6.1.2, 6.1.3, 6.1.4)
-- 6.2 (6.2.1, 6.2.2, 6.2.3, 6.2.4)
-- 6.3 (6.3.1, 6.3.2, 6.3.3, 6.3.4)
+- The Promise of Power (6.1.1, 6.1.2, 6.1.3, 6.1.4)
+- The Nature and Purpose of the Spirit’s Power (6.2.1, 6.2.2, 6.2.3, 6.2.4)
+- Seeking the Spirit (6.3.1, 6.3.2, 6.3.3, 6.3.4)
 
 **7 - Evangelism in Peter’s Preaching**
-- 7.1 (7.1.1, 7.1.2, 7.1.3, 7.1.4)
-- 7.2 (7.2.1, 7.2.2, 7.2.3, 7.2.4)
+- Peter’s Message in Acts (7.1.1, 7.1.2, 7.1.3, 7.1.4)
+- Peter’s Message in Mark (7.2.1, 7.2.2, 7.2.3, 7.2.4)
 
 **8 - Evangelism in Paul’s Teaching**
-- 8.1 (8.1.1, 8.1.2, 8.1.3, 8.1.4)
-- 8.2 (8.2.1, 8.2.2, 8.2.3, 8.2.4)
-- 8.3 (8.3.1, 8.3.2, 8.3.3, 8.3.4)
+- Comprehensive Witness (8.1.1, 8.1.2, 8.1.3, 8.1.4)
+- The Spiritual Harvest Process (8.2.1, 8.2.2, 8.2.3, 8.2.4)
+- Paul’s Principles (8.3.1, 8.3.2, 8.3.3, 8.3.4)
 
 **9 - Paul’s Evangelism Practices**
-- 9.1 (9.1.1, 9.1.2, 9.1.3, 9.1.4)
-- 9.2 (9.2.1, 9.2.2, 9.2.3, 9.2.4)
-- 9.3 (9.3.1, 9.3.2, 9.3.3, 9.3.4)
-- 9.4 (9.4.1, 9.4.2, 9.4.3, 9.4.4)
-- 9.5 (9.5.1, 9.5.2, 9.5.3)
-- 9.6 (9.6.1, 9.6.2, 9.6.3, 9.6.4)
+- Pray for Open Doors (9.1.1, 9.1.2, 9.1.3, 9.1.4)
+- Share Christ Clearly (9.2.1, 9.2.2, 9.2.3, 9.2.4)
+- Be Wise with Outsiders (9.3.1, 9.3.2, 9.3.3, 9.3.4)
+- Make the Most of Opportunities (9.4.1, 9.4.2, 9.4.3, 9.4.4)
+- Speak with Grace (9.5.1, 9.5.2, 9.5.3)
+- Respond Individually (9.6.1, 9.6.2, 9.6.3, 9.6.4)
 
 **10 - Motivation for Evangelism**
-- 10.1 (10.1.1, 10.1.2, 10.1.3, 10.1.4)
-- 10.2 (10.2.1, 10.2.2, 10.2.3, 10.2.4)
+- Motivation Levels (10.1.1, 10.1.2, 10.1.3, 10.1.4)
+- Maintaining Motivation (10.2.1, 10.2.2, 10.2.3, 10.2.4)
 
 **11 - The Pastor’s Role in Evangelism**
-- 11.1 (11.1.1, 11.1.2, 11.1.3, 11.1.4)
-- 11.2 (11.2.1, 11.2.2, 11.2.3, 11.2.4)
-- 11.3 (11.3.1, 11.3.2, 11.3.3, 11.3.4)
+- Modeling and Motivating Evangelism (11.1.1, 11.1.2, 11.1.3, 11.1.4)
+- Mobilizing and Maintaining Evangelism (11.2.1, 11.2.2, 11.2.3, 11.2.4)
+- Partnering and Planting in Evangelism (11.3.1, 11.3.2, 11.3.3, 11.3.4)
 
 **12 - Evangelism in the Pulpit**
-- 12.1 (12.1.1, 12.1.2, 12.1.3, 12.1.4)
-- 12.2 (12.2.1, 12.2.2, 12.2.3, 12.2.4)
-- 12.3 (12.3.1, 12.3.2, 12.3.3, 12.3.4)
+- The Power of the Preached Word (12.1.1, 12.1.2, 12.1.3, 12.1.4)
+- Preparation for Proclamation (12.2.1, 12.2.2, 12.2.3, 12.2.4)
+- Call to Decision (12.3.1, 12.3.2, 12.3.3, 12.3.4)
 
 **13 - From Decision to Disciple**
-- 13.1 (13.1.1, 13.1.2, 13.1.3, 13.1.4)
-- 13.2 (13.2.1, 13.2.2, 13.2.3, 13.2.4)
-- 13.3 (13.3.1, 13.3.2, 13.3.3, 13.3.4)
+- Initial Follow-Up (13.1.1, 13.1.2, 13.1.3, 13.1.4)
+- Discipling (13.2.1, 13.2.2, 13.2.3, 13.2.4)
+- Components and Means of Discipling (13.3.1, 13.3.2, 13.3.3, 13.3.4)
 
 **14 - World Missions**
-- 14.1 (14.1.1, 14.1.2, 14.1.3, 14.1.4)
-- 14.2 (14.2.1, 14.2.2, 14.2.3, 14.2.4)
+- Our Worldwide Mission (14.1.1, 14.1.2, 14.1.3, 14.1.4)
+- World Missions in the Local Church (14.2.1, 14.2.2, 14.2.3, 14.2.4)
 
 **15 - The Church in Mission**
-- 15.1 (15.1.1, 15.1.2, 15.1.3, 15.1.4)
-- 15.2 (15.2.1, 15.2.2, 15.2.3, 15.2.4)
+- The Redemptive Mission of the Church (15.1.1, 15.1.2, 15.1.3, 15.1.4)
+- Fulfilling the Mission (15.2.1, 15.2.2, 15.2.3, 15.2.4)
 
 ---
 
@@ -1666,66 +1666,66 @@ Level 1 · 13 chapters · 36 lessons · 70 subobjectives
 - 11. List the major end-time events in order.
 
 **1 - The Inspiration of the Scriptures**
-- 1.1 (1.1.1, 1.1.2)
-- 1.2 (1.2.1)
-- 1.3 (1.3.1, 1.3.2)
+- How We Got the Scriptures (1.1.1, 1.1.2)
+- Reasons We Believe the Scriptures Are Inspired (1.2.1)
+- Three Applications of the Truth that the Scriptures Are Inspired (1.3.1, 1.3.2)
 
 **2 - The One True God**
-- 2.1 (2.1.1, 2.1.2)
-- 2.2 (2.2.1, 2.2.2)
-- 2.3 (2.3.1, 2.3.2)
+- Characteristics of God, Part 1 (2.1.1, 2.1.2)
+- Characteristics of God, Part 2 (2.2.1, 2.2.2)
+- Characteristics of God, Part 3 (2.3.1, 2.3.2)
 
 **3 - The Deity of Christ**
-- 3.1 (3.1.1, 3.1.2)
-- 3.2 (3.2.1)
-- 3.3 (3.3.1)
+- The Person of Jesus (3.1.1, 3.1.2)
+- The Work of Jesus (3.2.1)
+- Misunderstood Phrases about Jesus (3.3.1)
 
 **4 - The Fall of Humankind**
-- 4.1 (4.1.1, 4.1.2)
-- 4.2 (4.2.1, 4.2.2)
-- 4.3 (4.3.1, 4.3.2)
+- Evil Has a Source (4.1.1, 4.1.2)
+- God Created Humankind in His Image (4.2.1, 4.2.2)
+- Sin Blocks God’s Purpose for All People (4.3.1, 4.3.2)
 
 **5 - The Salvation of Humankind**
-- 5.1 (5.1.1, 5.1.2)
-- 5.2 (5.2.1)
-- 5.3 (5.3.1, 5.3.2, 5.3.3)
+- Salvation through the Atonement (5.1.1, 5.1.2)
+- The Benefits of the Atonement (5.2.1)
+- The Road to Salvation (5.3.1, 5.3.2, 5.3.3)
 
 **6 - The Ordinances of the Church**
-- 6.1 (6.1.1, 6.1.2)
-- 6.2 (6.2.1, 6.2.2, 6.2.3)
+- Water Baptism (6.1.1, 6.1.2)
+- Holy Communion (6.2.1, 6.2.2, 6.2.3)
 
 **7 - The Baptism in the Holy Spirit**
-- 7.1 (7.1.1, 7.1.2)
-- 7.2 (7.2.1, 7.2.2)
-- 7.3 (7.3.1, 7.3.2)
+- Basic Truths about the Baptism in the Holy Spirit (7.1.1, 7.1.2)
+- The Evidence of the Baptism in the Holy Spirit (7.2.1, 7.2.2)
+- Receiving the Baptism in the Holy Spirit (7.3.1, 7.3.2)
 
 **8 - Sanctification**
-- 8.1 (8.1.1, 8.1.2)
-- 8.2 (8.2.1, 8.2.2, 8.2.3)
+- The Meaning of Sanctification (8.1.1, 8.1.2)
+- The Process of Sanctification (8.2.1, 8.2.2, 8.2.3)
 
 **9 - The Church and Its Mission**
-- 9.1 (9.1.1, 9.1.2)
-- 9.2 (9.2.1)
-- 9.3 (9.3.1, 9.3.2)
+- The Meaning of Church (9.1.1, 9.1.2)
+- The New Testament Church (9.2.1)
+- The Mission of the Church (9.3.1, 9.3.2)
 
 **10 - The Ministry**
-- 10.1 (10.1.1, 10.1.2)
-- 10.2 (10.2.1, 10.2.2)
-- 10.3 (10.3.1, 10.3.2)
+- The Call to Ministry (10.1.1, 10.1.2)
+- Ministry and the Church (10.2.1, 10.2.2)
+- The Objective of the Ministry (10.3.1, 10.3.2)
 
 **11 - Divine Healing**
-- 11.1 (11.1.1, 11.1.2)
-- 11.2 (11.2.1, 11.2.2)
-- 11.3 (11.3.1, 11.3.2)
+- The Problem of Sickness (11.1.1, 11.1.2)
+- God’s Provision for Sickness, Part 1 (11.2.1, 11.2.2)
+- God’s Provision for Sickness, Part 2 (11.3.1, 11.3.2)
 
 **12 - The Blessed Hope**
-- 12.1 (12.1.1, 12.1.2, 12.1.3)
-- 12.2 (12.2.1, 12.2.2, 12.2.3)
+- Two Phases of Jesus’ Second Coming (12.1.1, 12.1.2, 12.1.3)
+- The Time of the Rapture (12.2.1, 12.2.2, 12.2.3)
 
 **13 - The Last Things**
-- 13.1 (13.1.1, 13.1.2)
-- 13.2 (13.2.1)
-- 13.3 (13.3.1)
+- The Millennial Reign of Christ (13.1.1, 13.1.2)
+- The Final Judgment (13.2.1)
+- The New Heavens and New Earth (13.3.1)
 
 ---
 
