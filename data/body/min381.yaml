@@ -704,7 +704,7 @@ courses:
     - title: Request for Printed Final Examination
       page: 301
     revision_cycle_progress: 4.0
-    revision_cycle_timestamp: '2026-01-01'
+    revision_cycle_timestamp: '2026-07-06'
     revision_cycle_history:
       '3.0':
         timestamp: '2026-04-01'
@@ -718,7 +718,7 @@ courses:
         precision: year
         source: copyright
       '4.0':
-        timestamp: '2026-01-01'
+        timestamp: '2026-07-06'
         PN: 04.26.01
     printings:
     - pn: 03.22.01
@@ -5797,7 +5797,7 @@ courses:
         answer: B
     deployed_pn: 04.26.01
     print_history:
-    - date: '2026-01-01'
+    - date: '2026-07-06'
       PN: 04.26.01
       note: backfilled from MIN381_UMD.html on file; date is year precision from the
         PN, not a recorded press date

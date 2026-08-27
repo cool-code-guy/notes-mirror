@@ -1318,7 +1318,7 @@ courses:
     - title: Request for Printed Final Examination
       page: 15
     revision_cycle_progress: 3.0
-    revision_cycle_timestamp: '2026-01-01'
+    revision_cycle_timestamp: '2026-08-25'
     revision_cycle_history:
       '2.0':
         timestamp: '2026-04-01'
@@ -1328,7 +1328,7 @@ courses:
         precision: year
         source: colophon
       '3.0':
-        timestamp: '2026-01-01'
+        timestamp: '2026-08-25'
         PN: 03.26.01
     printings:
     - pn: 02.22.01
@@ -5650,7 +5650,7 @@ courses:
         answer: B
     deployed_pn: 03.26.01
     print_history:
-    - date: '2026-01-01'
+    - date: '2026-08-25'
       PN: 03.26.01
       note: backfilled from BBIB313ENE03-90_03.26.01.html on file; date is year precision
         from the PN, not a recorded press date
