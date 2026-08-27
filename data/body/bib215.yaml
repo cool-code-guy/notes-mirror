@@ -2779,11 +2779,7 @@ courses:
       course_code: BIB215
       source_html: BBIB215ENE03-90_03.22.01.html
       template: old
-      recorded: '2026-08-26'
-      note: 'Pristine print baseline built by scripts/build_html_baseline.py purely
-        from the InDesign HTML -- no DB input. Read-only: never hand-edit and never
-        feed to the janitor. UIDs are synthesized from the book''s own answer key;
-        diff pairs by content.'
+      recorded: '2026-08-27'
       counts:
         ty: 80
         upe: 75
@@ -3024,6 +3020,7 @@ courses:
           B: God’s wrath.
           C: God’s invisible qualities.
           D: God’s end-time judgment.
+          E: all of the above.
         answer: E
       - uid: BIB215.2.1.1.TY.2
         subobj: 2.1.1
