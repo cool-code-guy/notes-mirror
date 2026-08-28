@@ -58,8 +58,8 @@ courses:
       - 14
       - 15
       title: Pastoral Leadership in Evangelism
-    revision_cycle_progress: 3.0
-    revision_cycle_timestamp: '2026-04-01'
+    revision_cycle_progress: 3.25
+    revision_cycle_timestamp: '2026-08-28'
     revision_cycle_history:
       '3.0':
         timestamp: '2026-04-01'
@@ -72,6 +72,9 @@ courses:
         timestamp: '2006-01-01'
         precision: year
         source: copyright
+      '3.25':
+        timestamp: '2026-08-28'
+        PN: 03.22.01
     printings:
     - pn: 03.20.01
       course_code: MIN227
