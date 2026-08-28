@@ -10605,8 +10605,7 @@ courses:
         subobjectives:
           6.2.1:
             body:
-            - &id001
-              p: 1
+            - p: 1
               text: "Earlier, we discussed the importance of the transformative work
                 of the Holy Spirit. We will revisit this again in the context of the
                 Spirit-empowered disciple—specifically, one of a generation hungry
@@ -10634,8 +10633,7 @@ courses:
               UID: MIN171.6.2.1.P.1
               status: outdated 2026-08-27
               outdated_reason: superseded by the HTML parse of the same lesson
-            - &id002
-              p: 2
+            - p: 2
               text: 'underscore a discipleship problem in today’s Church? The goal
                 is for each believer to continually grow and mature, going from glory
                 to glory. The classic example of this process is the life of Peter—the
@@ -10667,8 +10665,7 @@ courses:
               UID: MIN171.6.2.1.P.2
               status: outdated 2026-08-27
               outdated_reason: superseded by the HTML parse of the same lesson
-            - &id003
-              p: 3
+            - p: 3
               text: This surely is the testimony of a man whose life as a believer
                 was not a one-time event but a transformation process over time. He
                 was never the same after Pentecost, nor was he a finished product—this
@@ -10679,8 +10676,7 @@ courses:
               UID: MIN171.6.2.1.P.3
               status: outdated 2026-08-27
               outdated_reason: superseded by the HTML parse of the same lesson
-            - &id004
-              p: 4
+            - p: 4
               text: 'We Have What They Want This generation is hungry for experiences;
                 today’s people are fascinated with the paranormal, superhuman, and
                 mystical. They are hungry for heroes and powers greater than themselves,
@@ -10708,8 +10704,7 @@ courses:
               UID: MIN171.6.2.1.P.4
               status: outdated 2026-08-27
               outdated_reason: superseded by the HTML parse of the same lesson
-            - &id005
-              p: 5
+            - p: 5
               text: What this generation desires, we possess—and can experience on
                 a daily basis. And even more, through Spirit-empowered discipleship,
                 we can impart this same transformative experience to a hungry generation!
@@ -10733,11 +10728,129 @@ courses:
               UID: MIN171.6.2.1.P.5
               status: outdated 2026-08-27
               outdated_reason: superseded by the HTML parse of the same lesson
-            - *id001
-            - *id002
-            - *id003
-            - *id004
-            - *id005
+            - p: 1
+              text: "Earlier, we discussed the importance of the transformative work
+                of the Holy Spirit. We will revisit this again in the context of the
+                Spirit-empowered disciple—specifically, one of a generation hungry
+                for experience. Spirit-empowered disciples do not experience an isolated
+                event but a process of complete transformation. Paul describes this
+                in his words, “And we all, with unveiled face, beholding the glory
+                of the Lord, are being transformed into the same image from one degree
+                of glory to another. For this comes from the Lord who is the Spirit”
+                (2 Corinthians 3:18, ESV). We each progress through a spiritual journey.
+                On this journey, we have a biblical directive to keep growing. To
+                illustrate this pattern of growth, we have defined five classes of
+                people who attend our churches each week: •\tUnbelievers—People who
+                have not received Christ as Lord and Savior of their lives. •\tBelievers—People
+                who have received Christ as Lord (belief system) but have not yet
+                become learners who obey God’s Word (behavior). •\tDisciples—People
+                who adhere to the teachings and practices of growing in Christ and
+                demonstrate a lifestyle corresponding to God’s Word. •\tServant-Leaders—People
+                who have grown in the direction, ways, and timing of the Lord and
+                share their knowledge of Christ with others so they, too, can learn
+                His direction, ways, and timing. They are involved in different aspects
+                of church life (bus drivers, altar workers, greeters, deacons, Sunday
+                school teachers, and so forth). •\tReproducers—People who mentor others
+                through relationship to the point where they become servant-leaders."
+              kind: prose
+              UID: MIN171.6.2.1.P.1
+              status: outdated 2026-08-27
+              outdated_reason: superseded by the HTML parse of the same lesson
+            - p: 2
+              text: 'underscore a discipleship problem in today’s Church? The goal
+                is for each believer to continually grow and mature, going from glory
+                to glory. The classic example of this process is the life of Peter—the
+                disciple who had such incredible highs and lows. Peter recognized
+                Jesus as the Messiah, but moments later Jesus rebuked him for speaking
+                for Satan. Peter is infamous as the disciple who stepped out of the
+                boat and then sank when he took his eyes off Jesus and as the one
+                who spoke so bravely about never leaving Jesus’ side but then ran
+                off and later denied Jesus three times. This same man, who could not
+                find his voice in front of a servant girl, found apophthengomai—Spirit-inspired
+                speech that empowered him to speak to thousands after Pentecost. He
+                is also the same man who hypocritically associated with Judaizers,
+                neglecting the Gentile believers after being the one who saw the vision
+                of a sheet let down from heaven. This paved the way for the gospel
+                to go to Gentiles. He is the same man who wrote 1 Peter and 2 Peter
+                and who, according to tradition, is the first head of the church on
+                earth. Peter knew the source of true spiritual life: the gospel of
+                grace. In his second letter, he described a process of spiritual growth
+                from virtuous choices to authentic love and then explained: For if
+                these things are yours and abound, you will be neither barren nor
+                unfruitful in the knowledge of our Lord Jesus Christ. For he who lacks
+                these things is shortsighted, even to blindness, and has forgotten
+                that he was cleansed from his old sins. Therefore, brethren, be even
+                more diligent to make your call and election sure, for if you do these
+                things you will never stumble; for so an entrance will be supplied
+                to you abundantly into the everlasting kingdom of our Lord and Savior
+                Jesus Christ. (2 Peter 1:8–11, NKJV)'
+              kind: prose
+              UID: MIN171.6.2.1.P.2
+              status: outdated 2026-08-27
+              outdated_reason: superseded by the HTML parse of the same lesson
+            - p: 3
+              text: This surely is the testimony of a man whose life as a believer
+                was not a one-time event but a transformation process over time. He
+                was never the same after Pentecost, nor was he a finished product—this
+                fact should give all of us hope. Like the process of spiritual growth
+                Peter described, we are all in a state of becoming—none of us has
+                arrived. We are discipleship works in progress.
+              kind: prose
+              UID: MIN171.6.2.1.P.3
+              status: outdated 2026-08-27
+              outdated_reason: superseded by the HTML parse of the same lesson
+            - p: 4
+              text: 'We Have What They Want This generation is hungry for experiences;
+                today’s people are fascinated with the paranormal, superhuman, and
+                mystical. They are hungry for heroes and powers greater than themselves,
+                flocking to movies like Spider-Man, Superman, The Lord of the Rings,
+                The Avengers, Twilight Saga, and even Star Wars and Star Trek. A generation
+                craving for experiences beyond the natural is looking for power and
+                is preoccupied with the paranormal. From the brooding teen vampires
+                of the Twilight Saga to the curious adolescent wizards in Harry Potter,
+                stories of characters with extraordinary powers abound. Audiences
+                may recognize the mythical nature of the stories, but they are entertained
+                and inspired by heroes who rise above the masses and the challenges
+                of a shifting, uncertain world. All of the myths point to a fantastic
+                story that is absolutely true: A great King has come to rescue His
+                people. A great conflict threatens us all, but the King is the ultimate
+                hero who sacrificed himself for us. Thankfully, our story is not a
+                made-up myth. It is completely, absolutely, and wonderfully true!
+                I believe this generation understands an underlying life truth—we
+                know a reality beyond the material world and a greater power is at
+                work in this universe. They are ripe for a transformative experience.
+                We should see ourselves as privileged to live in this time. Beyond
+                gleaning symbolic truth from mythical characters, as followers of
+                Christ we can experience a real presence and power beyond human capacity.
+                We can be Spirit empowered.'
+              kind: prose
+              UID: MIN171.6.2.1.P.4
+              status: outdated 2026-08-27
+              outdated_reason: superseded by the HTML parse of the same lesson
+            - p: 5
+              text: What this generation desires, we possess—and can experience on
+                a daily basis. And even more, through Spirit-empowered discipleship,
+                we can impart this same transformative experience to a hungry generation!
+                Church leaders talk about how to reach Millennials (those born after
+                1980) and many are making church experiences seeker-friendly. I believe
+                the key to staying relevant is not just changing up our worship services
+                but also creating an environment where they can experience the power
+                of the Holy Spirit. We are all looking for better answers; however,
+                it is not better answers we need but better questions. Our questions
+                have focused on us—the people inside the church. The better questions
+                are about them—the people outside our churches with whom we should
+                be building relationships. The right questions will focus on them,
+                and those better questions will give us the answers we need. We must
+                ask ourselves how well we are demonstrating this experience and how
+                well we are participating in it. We have what this generation is hungry
+                for, but do they even know we have it? Are we so busy being seeker-friendly
+                that we are afraid to talk about the Holy Spirit when He should be
+                our calling card with a generation that is hungry to experience His
+                power?
+              kind: prose
+              UID: MIN171.6.2.1.P.5
+              status: outdated 2026-08-27
+              outdated_reason: superseded by the HTML parse of the same lesson
             - p: 1
               text: Transformed Disciples
               kind: prose
