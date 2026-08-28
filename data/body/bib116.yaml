@@ -1891,13 +1891,13 @@ courses:
       page: 291
     - title: Request for Printed Final Examination
       page: 293
-    revision_cycle_progress: 1.0
-    revision_cycle_timestamp: '2026-08-28'
+    revision_cycle_progress: 3.0
+    revision_cycle_timestamp: '2026-04-01'
     revision_cycle_history:
-      '1.0':
-        timestamp: '2026-08-28'
-        PN: 01.26.01
-      '0.25':
+      '3.0':
+        timestamp: '2026-04-01'
+        PN: 03.21.02
+      '2.25':
         timestamp: '2026-03-06'
     body_baseline_pn: 03.21.02
     body_baseline_date: '2026-08-18'
