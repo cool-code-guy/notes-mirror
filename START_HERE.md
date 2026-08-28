@@ -1382,7 +1382,7 @@ Level 2 · 7 chapters · 25 lessons · 50 subobjectives
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/MIN325.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/MIN325.html)
 
-Level 3 · 12 chapters · 27 lessons · 61 subobjectives
+Level 3 · 12 chapters · 27 lessons · 60 subobjectives
 
 - 1. Distinguish between modernism and postmodernism and explain how these movements influenced the church’s presentation of the gospel.
 - 2. Defend the reliability of the Bible as the preacher’s foundation.
@@ -1427,7 +1427,7 @@ Level 3 · 12 chapters · 27 lessons · 61 subobjectives
 - The Preacher’s Life Presentation (7.2.1, 7.2.2)
 
 **8 - Creating Engaging Worship Experiences**
-- Preaching in Light of the Worship Experience (8.1.1, 8.1.2, 8.1.3, 8.1.4)
+- Preaching in Light of the Worship Experience (8.1.1, 8.1.2, 8.1.3)
 - Digital Age Worship (8.2.1, 8.2.2)
 - Cultivating Creativity in Communication (8.3.1)
 
