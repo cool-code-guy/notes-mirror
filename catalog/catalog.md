@@ -14,7 +14,7 @@ Active content only — retired material is excluded from every figure.
 | --- | --- |
 | Active courses | 24 |
 | Retired courses | 9 |
-| Assessment items | 7,004 |
+| Assessment items | 7,017 |
 | Curriculum paragraphs | 111,428 |
 | Interactive study questions | 10,709 |
 | Scripture references | 41,473 |
@@ -34,7 +34,7 @@ Published sequence toward Certified Minister credentialing.
 | --- | --- | --- | --- |
 | 1 | Beginning Ministerial Internship — *not tracked in examdb (practicum course)* | | |
 | 2 | [BIB111](courses/BIB111.md) — Old Testament Survey | 1 | 309 |
-| 3 | [BIB116](courses/BIB116.md) — New Testament Survey | 1 | 316 |
+| 3 | [BIB116](courses/BIB116.md) — New Testament Survey | 1 | 329 |
 | 4 | [BIB121](courses/BIB121.md) — Introduction to Hermeneutics: How to Interpret the Bible · proposed renumber to `BIB123` | 1 | 281 |
 | 5 | [BIB114](courses/BIB114.md) — Christ in the Synoptic Gospels | 1 | 255 |
 | 6 | [THE154](courses/THE154.md) — The Assemblies of God: History, Missions, and Governance | 1 | 375 |
@@ -83,7 +83,7 @@ Published sequence toward Ordained Minister credentialing.
 | --- | --- | --- | --- | --- | --- | --- |
 | [BIB111](courses/BIB111.md) | Old Testament Survey | 1 | 01.26.01 | 15 | 47 | 309 |
 | [BIB114](courses/BIB114.md) | Christ in the Synoptic Gospels | 1 | 01.22.01 | 13 | 43 | 255 |
-| [BIB116](courses/BIB116.md) | New Testament Survey | 1 | 01.26.01 | 13 | 39 | 316 |
+| [BIB116](courses/BIB116.md) | New Testament Survey | 1 | 01.26.01 | 13 | 39 | 329 |
 | [BIB121](courses/BIB121.md) | Introduction to Hermeneutics | 1 | 03.23.01 | 15 | 42 | 281 |
 | [BIB211](courses/BIB211.md) | ⚠️ _Acts: The Holy Spirit at Work in Believers (unconfirmed)_ | 2 | 03.22.01 | 13 | 38 | 285 |
 | [BIB215](courses/BIB215.md) | ⚠️ _Romans: Justification by Faith (unconfirmed)_ | 2 | 03.22.01 | 8 | 26 | 244 |
