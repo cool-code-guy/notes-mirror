@@ -1082,7 +1082,7 @@ Level 2 · 14 chapters · 45 lessons · 75 subobjectives
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/MIN227.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/MIN227.html)
 
-Level 2 · 15 chapters · 42 lessons · 167 subobjectives
+Level 2 · 15 chapters · 43 lessons · 168 subobjectives
 
 - 1. Identify the central message and primary purpose of evangelism.
 - 2. Identify the source of evangelism’s power and the believer’s ability to evangelize.
@@ -1124,6 +1124,7 @@ Level 2 · 15 chapters · 42 lessons · 167 subobjectives
 **7 - Evangelism in Peter’s Preaching**
 - Peter’s Message in Acts (7.1.1, 7.1.2, 7.1.3, 7.1.4)
 - Peter’s Message in Mark (7.2.1, 7.2.2, 7.2.3, 7.2.4)
+- PLACEHOLDER — flag for revision: lesson 7.3 title (7.3.1)
 
 **8 - Evangelism in Paul’s Teaching**
 - Comprehensive Witness (8.1.1, 8.1.2, 8.1.3, 8.1.4)

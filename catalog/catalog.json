@@ -12925,6 +12925,15 @@
                 }
               ],
               "title": "Peter’s Message in Mark"
+            },
+            {
+              "subobjectives": [
+                {
+                  "id": "7.3.1",
+                  "text": "PLACEHOLDER — flag for revision: lesson 7.3 learning objective not yet written"
+                }
+              ],
+              "title": "PLACEHOLDER — flag for revision: lesson 7.3 title"
             }
           ],
           "print_page": 1,
@@ -13483,12 +13492,12 @@
       "counts": {
         "bibliography_entries": 20,
         "chapters": 15,
-        "lessons": 42,
-        "questions_active": 349,
+        "lessons": 43,
+        "questions_active": 473,
         "questions_final": 70,
-        "questions_ty": 179,
+        "questions_ty": 303,
         "questions_upe": 100,
-        "subobjectives": 167
+        "subobjectives": 168
       },
       "course_objectives": [
         "1. Identify the central message and primary purpose of evangelism.",
@@ -13501,7 +13510,7 @@
         "8. Identify key aspects and characteristics of evangelism. 14 The Local Church in Evangelism."
       ],
       "edition_pn": "03.22.01",
-      "last_modified": "2026-09-01",
+      "last_modified": "2026-09-02",
       "level": 2,
       "pending_renumber": null,
       "print_history_count": 0,
@@ -21729,8 +21738,8 @@
     "questions": {
       "active": {
         "final": 1774,
-        "total": 7046,
-        "ty": 3085,
+        "total": 7170,
+        "ty": 3209,
         "upe": 2187
       },
       "retired": {
@@ -21739,7 +21748,7 @@
         "ty": 1924,
         "upe": 1449
       },
-      "total": 11012
+      "total": 11136
     }
   },
   "tracks": [
