@@ -2652,6 +2652,8 @@ courses:
           C: Decline of religious fervor in cities
           D: Westward expansion and lack of churches
         answer: D
+        print_position: 1
+        unit: 1
       - uid: THE154.1.1.1.UPE.2
         subobj: 1.1.1
         type: upe
@@ -2663,6 +2665,8 @@ courses:
           C: Traveling preachers reaching new communities
           D: Emphasis on predestination theology
         answer: D
+        print_position: 2
+        unit: 1
       - uid: THE154.1.1.1.TY.1
         subobj: 1.1.1
         type: ty
@@ -2673,6 +2677,7 @@ courses:
           C: A decline in church attendance
           D: A focus on secular philosophies
         answer: A
+        print_position: 3
       - uid: THE154.1.1.2.TY.1
         subobj: 1.1.2
         type: ty
@@ -2684,6 +2689,7 @@ courses:
           C: Raised doubts about the reliability and accuracy of the Bible
           D: Brought about great spirituality among educated people
         answer: C
+        print_position: 4
       - uid: THE154.1.2.1.TY.1
         subobj: 1.2.1
         type: ty
@@ -2694,6 +2700,7 @@ courses:
           C: Challenge modern science
           D: Overcome political divisions
         answer: B
+        print_position: 5
       - uid: THE154.1.2.2.TY.1
         subobj: 1.2.2
         type: ty
@@ -2704,6 +2711,7 @@ courses:
           C: Church tradition overrides biblical doctrine
           D: The Bible is historically accurate and inerrant
         answer: D
+        print_position: 6
       - uid: THE154.1.2.3.TY.1
         subobj: 1.2.3
         type: ty
@@ -2715,6 +2723,7 @@ courses:
           C: It rejected free will and Arminianism
           D: It limited lay ministry involvement
         answer: B
+        print_position: 7
       - uid: THE154.1.2.3.TY.2
         subobj: 1.2.3
         type: ty
@@ -2726,6 +2735,7 @@ courses:
           C: A traditional theological debate
           D: A replacement for water baptism
         answer: B
+        print_position: 8
       - uid: THE154.1.2.4.UPE.1
         subobj: 1.2.4
         type: upe
@@ -2737,6 +2747,8 @@ courses:
           C: William Seymour
           D: Charles Darwin
         answer: A
+        print_position: 3
+        unit: 1
       - uid: THE154.1.2.4.TY.1
         subobj: 1.2.4
         type: ty
@@ -2749,6 +2761,7 @@ courses:
           C: 'Spiritual Hierarchy: God, Angels, Demons'
           D: 'Fourfold Gospel: Christ as Savior, Sanctifier, Healer, and Coming King'
         answer: D
+        print_position: 9
       - uid: THE154.1.2.4.TY.2
         subobj: 1.2.4
         type: ty
@@ -2759,6 +2772,7 @@ courses:
           C: Calvinism
           D: Secularism
         answer: B
+        print_position: 10
       - uid: THE154.2.1.2.UPE.1
         subobj: 2.1.2
         type: upe
@@ -2769,6 +2783,8 @@ courses:
           C: The rejection of traditional church practices
           D: Emphasis on divine healing as the only evidence of faith
         answer: B
+        print_position: 4
+        unit: 1
       - uid: THE154.2.1.2.TY.1
         subobj: 2.1.2
         type: ty
@@ -2779,6 +2795,7 @@ courses:
           C: The importance of social activism
           D: The imminent return of Christ
         answer: A
+        print_position: 1
       - uid: THE154.2.1.2.TY.2
         subobj: 2.1.2
         type: ty
@@ -2789,6 +2806,7 @@ courses:
           C: By organizing the Azusa Street Revival
           D: By articulating Spirit baptism with the evidence of tongues
         answer: D
+        print_position: 2
       - uid: THE154.2.1.3.TY.1
         subobj: 2.1.3
         type: ty
@@ -2800,6 +2818,7 @@ courses:
           C: It was commonly taught by other ministers.
           D: He saw it in the ministry of William Seymour.
         answer: B
+        print_position: 3
       - uid: THE154.2.2.1.TY.1
         subobj: 2.2.1
         type: ty
@@ -2811,6 +2830,7 @@ courses:
           C: Physical disabilities and criticism of his ministry
           D: Blindness in one eye, racial hostility, and poverty
         answer: D
+        print_position: 4
       - uid: THE154.2.2.2.TY.1
         subobj: 2.2.2
         type: ty
@@ -2821,6 +2841,7 @@ courses:
           C: It was secondary to preaching and teaching.
           D: It was used only for individual guidance.
         answer: A
+        print_position: 5
       - uid: THE154.2.2.2.TY.2
         subobj: 2.2.2
         type: ty
@@ -2831,6 +2852,7 @@ courses:
           C: Prayer meetings in private homes that grew quickly
           D: Large, well-attended meetings in a prominent church
         answer: C
+        print_position: 6
       - uid: THE154.2.2.2.TY.3
         subobj: 2.2.2
         type: ty
@@ -2841,6 +2863,7 @@ courses:
           C: Leaders focused on planning and preparation for revival.
           D: Crowds of diverse people gathered and experienced Spirit baptism.
         answer: D
+        print_position: 7
       - uid: THE154.2.2.3.UPE.1
         subobj: 2.2.3
         type: upe
@@ -2851,6 +2874,8 @@ courses:
           C: Active as preachers, evangelists, and missionaries
           D: Excluded from formal ministry positions
         answer: C
+        print_position: 5
+        unit: 1
       - uid: THE154.2.2.3.TY.1
         subobj: 2.2.3
         type: ty
@@ -2861,6 +2886,7 @@ courses:
           C: Its reliance on charismatic leaders
           D: Its focus on social activism rather than prayer
         answer: A
+        print_position: 8
       - uid: THE154.2.2.3.TY.2
         subobj: 2.2.3
         type: ty
@@ -2871,6 +2897,7 @@ courses:
           C: It ended racial tensions in American Christianity.
           D: It created the largest church in Los Angeles.
         answer: A
+        print_position: 9
       - uid: THE154.2.2.4.UPE.1
         subobj: 2.2.4
         type: upe
@@ -2881,6 +2908,8 @@ courses:
           C: They avoided organized missions work.
           D: They focused too much on personal evangelism.
         answer: B
+        print_position: 6
+        unit: 1
       - uid: THE154.2.2.4.TY.1
         subobj: 2.2.4
         type: ty
@@ -2891,6 +2920,7 @@ courses:
           C: Perseverance can lead to reconciliation.
           D: Disunity can hinder God’s work.
         answer: D
+        print_position: 10
       - uid: THE154.3.2.1.UPE.1
         subobj: 3.2.1
         type: upe
@@ -2901,6 +2931,8 @@ courses:
           C: They replaced the need for local church gatherings.
           D: They discouraged independent missions efforts.
         answer: B
+        print_position: 7
+        unit: 1
       - uid: THE154.3.2.1.UPE.2
         subobj: 3.2.1
         type: upe
@@ -2912,6 +2944,8 @@ courses:
           C: Partnering with established denominations
           D: Traveling in gospel bands to unchurched areas
         answer: D
+        print_position: 8
+        unit: 1
       - uid: THE154.3.2.1.TY.1
         subobj: 3.2.1
         type: ty
@@ -2922,6 +2956,7 @@ courses:
           C: Organizing large charity drives
           D: Preaching in established churches
         answer: A
+        print_position: 1
       - uid: THE154.3.2.1.TY.2
         subobj: 3.2.1
         type: ty
@@ -2932,6 +2967,7 @@ courses:
           C: Avoiding persecution and public attention
           D: Prioritizing academic theological debates
         answer: A
+        print_position: 2
       - uid: THE154.3.2.2.UPE.1
         subobj: 3.2.2
         type: upe
@@ -2942,6 +2978,8 @@ courses:
           C: By organizing international mission boards
           D: By relying solely on foreign government grants
         answer: A
+        print_position: 9
+        unit: 1
       - uid: THE154.3.2.2.TY.1
         subobj: 3.2.2
         type: ty
@@ -2952,6 +2990,7 @@ courses:
           C: Academic religious debates
           D: Healing and personal testimonies
         answer: D
+        print_position: 3
       - uid: THE154.3.2.3.UPE.1
         subobj: 3.2.3
         type: upe
@@ -2962,6 +3001,8 @@ courses:
           C: They welcomed people of all races, genders, and social statuses.
           D: They excluded wealthy members.
         answer: C
+        print_position: 10
+        unit: 1
       - uid: THE154.3.2.3.TY.1
         subobj: 3.2.3
         type: ty
@@ -2972,6 +3013,7 @@ courses:
           C: They excluded those without formal education.
           D: They focused only on young leaders.
         answer: A
+        print_position: 4
       - uid: THE154.3.3.1.TY.1
         subobj: 3.3.1
         type: ty
@@ -2982,6 +3024,7 @@ courses:
           C: Their use of new technologies like radio
           D: Their willingness to adopt new worship styles
         answer: C
+        print_position: 5
       - uid: THE154.3.3.2.UPE.1
         subobj: 3.3.2
         type: upe
@@ -2992,6 +3035,8 @@ courses:
           C: A commitment to structured, formal worship
           D: A deep focus on academic theological study
         answer: A
+        print_position: 11
+        unit: 1
       - uid: THE154.3.3.2.TY.1
         subobj: 3.3.2
         type: ty
@@ -3002,6 +3047,7 @@ courses:
           C: A reluctance to take risks
           D: A focus on intellectual theology
         answer: B
+        print_position: 6
       - uid: THE154.3.4.1.TY.1
         subobj: 3.4.1
         type: ty
@@ -3012,6 +3058,7 @@ courses:
           C: That Jesus’ return was far in the future
           D: That Christ’s coming was imminent, creating urgency for evangelism
         answer: D
+        print_position: 7
       - uid: THE154.3.4.1.TY.2
         subobj: 3.4.1
         type: ty
@@ -3022,6 +3069,7 @@ courses:
           C: It was primarily symbolic.
           D: It was a promise included in Christ’s atonement.
         answer: D
+        print_position: 8
       - uid: THE154.3.4.1.TY.3
         subobj: 3.4.1
         type: ty
@@ -3032,6 +3080,7 @@ courses:
           C: Rejection of traditional doctrines
           D: Church hierarchy as the primary focus
         answer: B
+        print_position: 9
       - uid: THE154.3.4.2.UPE.1
         subobj: 3.4.2
         type: upe
@@ -3042,6 +3091,8 @@ courses:
           C: That Spirit baptism was a private experience
           D: That missions work was a secondary church responsibility
         answer: B
+        print_position: 12
+        unit: 1
       - uid: THE154.3.4.2.UPE.2
         subobj: 3.4.2
         type: upe
@@ -3052,6 +3103,8 @@ courses:
           C: That salvation was only available to a select few
           D: That the church needed centralized leadership first
         answer: B
+        print_position: 13
+        unit: 1
       - uid: THE154.3.4.2.TY.1
         subobj: 3.4.2
         type: ty
@@ -3063,6 +3116,7 @@ courses:
           C: It focuses solely on external behaviors.
           D: It emphasizes gifts of the Spirit for ministry.
         answer: D
+        print_position: 10
       - uid: THE154.4.1.1.UPE.1
         subobj: 4.1.1
         type: upe
@@ -3073,6 +3127,8 @@ courses:
           C: They wanted to avoid losing Spirit-led spontaneity.
           D: They disagreed on the role of women in ministry.
         answer: C
+        print_position: 14
+        unit: 1
       - uid: THE154.4.1.1.UPE.2
         subobj: 4.1.1
         type: upe
@@ -3084,6 +3140,8 @@ courses:
           C: They were unable to attract new believers.
           D: They lacked autonomy in decision-making.
         answer: B
+        print_position: 15
+        unit: 1
       - uid: THE154.4.1.1.TY.1
         subobj: 4.1.1
         type: ty
@@ -3095,6 +3153,7 @@ courses:
           C: Confusion caused by similar organizational names
           D: Universal agreement on practices and beliefs
         answer: C
+        print_position: 1
       - uid: THE154.4.1.2.UPE.1
         subobj: 4.1.2
         type: upe
@@ -3105,6 +3164,8 @@ courses:
           C: They disagreed about Spirit baptism.
           D: They prioritized denominational partnerships.
         answer: A
+        print_position: 16
+        unit: 1
       - uid: THE154.4.2.1.TY.1
         subobj: 4.2.1
         type: ty
@@ -3115,6 +3176,7 @@ courses:
           C: William Seymour
           D: E. N. Bell
         answer: D
+        print_position: 2
       - uid: THE154.4.2.1.TY.2
         subobj: 4.2.1
         type: ty
@@ -3125,6 +3187,7 @@ courses:
           C: He opposed the idea of forming an organization.
           D: He arranged the logistics of the meeting.
         answer: A
+        print_position: 3
       - uid: THE154.4.2.2.UPE.1
         subobj: 4.2.2
         type: upe
@@ -3135,6 +3198,8 @@ courses:
           C: To formalize strict theological rules
           D: To elect a single leader for the Pentecostal Movement
         answer: A
+        print_position: 17
+        unit: 1
       - uid: THE154.4.2.2.TY.1
         subobj: 4.2.2
         type: ty
@@ -3145,6 +3210,7 @@ courses:
           C: Many feared that organization would quench the Spirit’s moving.
           D: Pentecostals had strong ties to the Holiness Movement.
         answer: C
+        print_position: 4
       - uid: THE154.4.3.1.TY.1
         subobj: 4.3.1
         type: ty
@@ -3155,6 +3221,7 @@ courses:
           C: Only clergy from the Pentecostal Holiness Church
           D: All church members, regardless of beliefs
         answer: B
+        print_position: 5
       - uid: THE154.4.3.2.UPE.1
         subobj: 4.3.2
         type: upe
@@ -3166,6 +3233,8 @@ courses:
           C: Redirecting missions efforts exclusively to the United States
           D: Eliminating missionary reports in newsletters
         answer: B
+        print_position: 18
+        unit: 1
       - uid: THE154.4.3.2.UPE.2
         subobj: 4.3.2
         type: upe
@@ -3177,6 +3246,8 @@ courses:
           C: Promoting unity among Pentecostals
           D: Creating a legal framework for churches
         answer: B
+        print_position: 19
+        unit: 1
       - uid: THE154.4.3.2.TY.1
         subobj: 4.3.2
         type: ty
@@ -3188,6 +3259,7 @@ courses:
           C: Unity in doctrine and practice
           D: Legal recognition for churches
         answer: A
+        print_position: 6
       - uid: THE154.4.4.1.UPE.1
         subobj: 4.4.1
         type: upe
@@ -3199,6 +3271,8 @@ courses:
           C: Leaders were unprepared for the gathering.
           D: Time was set aside for prayer, worship, and unity-building.
         answer: D
+        print_position: 20
+        unit: 1
       - uid: THE154.4.4.2.UPE.1
         subobj: 4.4.2
         type: upe
@@ -3210,6 +3284,8 @@ courses:
           C: By rejecting participation in missions efforts
           D: By opposing any form of organizational structure
         answer: A
+        print_position: 21
+        unit: 1
       - uid: THE154.4.4.2.UPE.2
         subobj: 4.4.2
         type: upe
@@ -3220,6 +3296,8 @@ courses:
           C: Developing strict membership requirements
           D: Ensuring financial stability
         answer: B
+        print_position: 22
+        unit: 1
       - uid: THE154.4.4.2.TY.1
         subobj: 4.4.2
         type: ty
@@ -3230,6 +3308,7 @@ courses:
           C: To block all organizational efforts
           D: To safeguard local church sovereignty and propose resolutions
         answer: D
+        print_position: 7
       - uid: THE154.4.4.2.TY.2
         subobj: 4.4.2
         type: ty
@@ -3240,6 +3319,7 @@ courses:
           C: They believed it would lead to political corruption.
           D: They feared it would quench the Spirit’s moving.
         answer: D
+        print_position: 8
       - uid: THE154.4.4.2.TY.3
         subobj: 4.4.2
         type: ty
@@ -3251,6 +3331,7 @@ courses:
           C: They became the foundation for the Assemblies of God Constitution.
           D: They caused significant division within the assembly.
         answer: C
+        print_position: 9
       - uid: THE154.4.4.3.UPE.1
         subobj: 4.4.3
         type: upe
@@ -3261,6 +3342,8 @@ courses:
           C: Cooperative fellowship that respected local church autonomy
           D: Exclusion of controversial theological doctrines
         answer: C
+        print_position: 23
+        unit: 1
       - uid: THE154.4.4.3.UPE.2
         subobj: 4.4.3
         type: upe
@@ -3271,6 +3354,8 @@ courses:
           C: The establishment of clergy tithing requirements
           D: The adoption of the name “The Assemblies of God”
         answer: D
+        print_position: 24
+        unit: 1
       - uid: THE154.4.4.3.TY.1
         subobj: 4.4.3
         type: ty
@@ -3281,6 +3366,7 @@ courses:
           C: By creating a rigid statement of faith
           D: By deferring decisions to an external board
         answer: B
+        print_position: 10
       - uid: THE154.4.4.4.UPE.1
         subobj: 4.4.4
         type: upe
@@ -3291,6 +3377,8 @@ courses:
           C: Recommending cooperative fellowship with scriptural oversight
           D: Appointing a governing council to enforce beliefs
         answer: C
+        print_position: 25
+        unit: 1
       - uid: THE154.5.1.1.TY.1
         subobj: 5.1.1
         type: ty
@@ -3301,6 +3389,7 @@ courses:
           C: Baptism by Water
           D: Church Governance
         answer: A
+        print_position: 1
       - uid: THE154.5.2.1.UPE.1
         subobj: 5.2.1
         type: upe
@@ -3311,6 +3400,8 @@ courses:
           C: It is achieved through baptism in the Holy Spirit.
           D: It is a single, finished work at salvation.
         answer: B
+        print_position: 1
+        unit: 2
       - uid: THE154.5.2.1.TY.1
         subobj: 5.2.1
         type: ty
@@ -3322,6 +3413,7 @@ courses:
           C: Wesleyan Sanctification
           D: The Keswick Doctrine
         answer: B
+        print_position: 2
       - uid: THE154.5.2.1.TY.2
         subobj: 5.2.1
         type: ty
@@ -3332,6 +3424,7 @@ courses:
           C: It is progressive after a single, finished work at salvation.
           D: It is instantaneous and complete after baptism.
         answer: C
+        print_position: 3
       - uid: THE154.5.3.1.TY.1
         subobj: 5.3.1
         type: ty
@@ -3342,6 +3435,7 @@ courses:
           C: It prioritized church governance over doctrine.
           D: It downplayed the role of divine healing.
         answer: B
+        print_position: 4
       - uid: THE154.5.4.1.UPE.1
         subobj: 5.4.1
         type: upe
@@ -3352,6 +3446,8 @@ courses:
           C: To clarify and codify Assemblies of God doctrines
           D: To unify Pentecostals with Wesleyans
         answer: C
+        print_position: 2
+        unit: 2
       - uid: THE154.5.4.1.UPE.2
         subobj: 5.4.1
         type: upe
@@ -3363,6 +3459,8 @@ courses:
           C: Salvation occurs after baptism in the Holy Spirit.
           D: Salvation requires strict adherence to the Law.
         answer: B
+        print_position: 3
+        unit: 2
       - uid: THE154.5.4.1.TY.1
         subobj: 5.4.1
         type: ty
@@ -3373,6 +3471,7 @@ courses:
           C: Salvation is by grace alone through faith.
           D: Water baptism is necessary for salvation.
         answer: C
+        print_position: 5
       - uid: THE154.5.4.1.TY.2
         subobj: 5.4.1
         type: ty
@@ -3384,6 +3483,7 @@ courses:
           C: Salvation depends on perfect adherence to the Law.
           D: Salvation occurs after baptism in the Holy Spirit.
         answer: B
+        print_position: 6
       - uid: THE154.5.4.1.TY.3
         subobj: 5.4.1
         type: ty
@@ -3394,6 +3494,7 @@ courses:
           C: To create a new denomination.
           D: To clarify and codify Assemblies of God doctrines.
         answer: D
+        print_position: 7
       - uid: THE154.5.4.1.TY.4
         subobj: 5.4.1
         type: ty
@@ -3405,6 +3506,7 @@ courses:
           C: The Church replaces the Old Testament covenant.
           D: The Church has no formal mission or leadership.
         answer: A
+        print_position: 8
       - uid: THE154.5.5.1.UPE.1
         subobj: 5.5.1
         type: upe
@@ -3415,6 +3517,8 @@ courses:
           C: Speaking in tongues as initial physical evidence of Spirit baptism
           D: Oneness theology
         answer: C
+        print_position: 4
+        unit: 2
       - uid: THE154.5.5.1.TY.1
         subobj: 5.5.1
         type: ty
@@ -3425,6 +3529,7 @@ courses:
           C: Salvation by works and faith
           D: Oneness theology
         answer: B
+        print_position: 9
       - uid: THE154.5.5.1.TY.2
         subobj: 5.5.1
         type: ty
@@ -3436,6 +3541,7 @@ courses:
           C: F. F. Bosworth
           D: D. W. Kerr
         answer: D
+        print_position: 10
       - uid: THE154.6.1.1.UPE.1
         subobj: 6.1.1
         type: upe
@@ -3447,6 +3553,8 @@ courses:
           C: Christian Education
           D: Church Planting
         answer: B
+        print_position: 5
+        unit: 2
       - uid: THE154.6.1.1.TY.1
         subobj: 6.1.1
         type: ty
@@ -3458,6 +3566,7 @@ courses:
           C: Christian Education
           D: Foreign Missions
         answer: D
+        print_position: 1
       - uid: THE154.6.1.1.TY.2
         subobj: 6.1.1
         type: ty
@@ -3471,6 +3580,7 @@ courses:
           D: '"We commit ourselves and the Movement to Him for the greatest evangelism
             that the world has ever seen."'
         answer: D
+        print_position: 2
       - uid: THE154.6.2.1.TY.1
         subobj: 6.2.1
         type: ty
@@ -3482,6 +3592,7 @@ courses:
           C: Focus on urban centers only
           D: Mandatory Western oversight of all mission efforts
         answer: A
+        print_position: 3
       - uid: THE154.6.3.1.UPE.1
         subobj: 6.3.1
         type: upe
@@ -3494,6 +3605,8 @@ courses:
           C: To ensure all missionaries were from the United States
           D: To centralize church governance under missionary leadership
         answer: B
+        print_position: 6
+        unit: 2
       - uid: THE154.6.3.1.TY.1
         subobj: 6.3.1
         type: ty
@@ -3506,6 +3619,7 @@ courses:
           C: To centralize church governance under missionary leadership
           D: To train pastors only in Western theological methods
         answer: B
+        print_position: 4
       - uid: THE154.6.3.1.TY.2
         subobj: 6.3.1
         type: ty
@@ -3516,6 +3630,7 @@ courses:
           C: The founder of Women's Missionary Council, which supported AG missions.
           D: A missionary to Africa who helped build the first AG Bible school.
         answer: B
+        print_position: 5
       - uid: THE154.6.3.3.UPE.1
         subobj: 6.3.3
         type: upe
@@ -3527,6 +3642,8 @@ courses:
           C: Business startup assistance
           D: Print, audio, and video materials
         answer: D
+        print_position: 7
+        unit: 2
       - uid: THE154.6.3.3.TY.1
         subobj: 6.3.3
         type: ty
@@ -3538,6 +3655,7 @@ courses:
           C: Business startup assistance
           D: Boats and planes
         answer: A
+        print_position: 6
       - uid: THE154.6.3.4.UPE.1
         subobj: 6.3.4
         type: upe
@@ -3549,6 +3667,8 @@ courses:
           C: Train, Fund, Deploy
           D: Seek, Save, Send
         answer: D
+        print_position: 8
+        unit: 2
       - uid: THE154.6.3.4.UPE.2
         subobj: 6.3.4
         type: upe
@@ -3560,6 +3680,8 @@ courses:
           C: International Finance Department
           D: Business Development Initiatives
         answer: B
+        print_position: 9
+        unit: 2
       - uid: THE154.6.3.4.TY.1
         subobj: 6.3.4
         type: ty
@@ -3571,6 +3693,7 @@ courses:
           C: Evangelize, Mobilize, Establish
           D: Seek, Save, Send
         answer: D
+        print_position: 7
       - uid: THE154.6.3.4.TY.2
         subobj: 6.3.4
         type: ty
@@ -3582,6 +3705,7 @@ courses:
           C: Adult & Teen Challenge
           D: Business Development Initiatives
         answer: D
+        print_position: 8
       - uid: THE154.6.5.4.TY.1
         subobj: 6.5.4
         type: ty
@@ -3593,6 +3717,7 @@ courses:
           C: The AG stopped emphasizing world missions.
           D: AG missionaries were only sent to English-speaking countries.
         answer: A
+        print_position: 9
       - uid: THE154.6.5.4.TY.2
         subobj: 6.5.4
         type: ty
@@ -3603,6 +3728,7 @@ courses:
           C: Reaching, Planting, Training, Serving
           D: Preaching, Teaching, Sending, Discipling
         answer: C
+        print_position: 10
       - uid: THE154.7.1.1.UPE.1
         subobj: 7.1.1
         type: upe
@@ -3613,6 +3739,8 @@ courses:
           C: They thought it was unnecessary for evangelism.
           D: They lacked sufficient financial resources.
         answer: A
+        print_position: 10
+        unit: 2
       - uid: THE154.7.1.1.UPE.2
         subobj: 7.1.1
         type: upe
@@ -3624,6 +3752,8 @@ courses:
           C: They lacked resources to build schools.
           D: They wanted to send as many missionaries as possible.
         answer: D
+        print_position: 11
+        unit: 2
       - uid: THE154.7.1.1.TY.1
         subobj: 7.1.1
         type: ty
@@ -3635,6 +3765,7 @@ courses:
           C: Support from government funding for religious education.
           D: Reduced competition from other church programs.
         answer: B
+        print_position: 1
       - uid: THE154.7.1.1.TY.2
         subobj: 7.1.1
         type: ty
@@ -3645,6 +3776,7 @@ courses:
           C: They believed education would distract from spiritual fervor.
           D: They lacked resources to build schools.
         answer: C
+        print_position: 2
       - uid: THE154.7.1.1.TY.3
         subobj: 7.1.1
         type: ty
@@ -3656,6 +3788,7 @@ courses:
           C: They believed education was too expensive.
           D: They wanted to send as many missionaries as possible.
         answer: D
+        print_position: 3
       - uid: THE154.7.1.2.UPE.1
         subobj: 7.1.2
         type: upe
@@ -3667,6 +3800,8 @@ courses:
           C: It focused solely on teaching reading skills.
           D: It was a means to conserve the work and build a biblically literate fellowship.
         answer: D
+        print_position: 12
+        unit: 2
       - uid: THE154.7.1.2.UPE.2
         subobj: 7.1.2
         type: upe
@@ -3678,6 +3813,8 @@ courses:
           C: To unify Pentecostals against modernism
           D: To establish a Bible training school
         answer: D
+        print_position: 13
+        unit: 2
       - uid: THE154.7.1.2.TY.1
         subobj: 7.1.2
         type: ty
@@ -3689,6 +3826,7 @@ courses:
           C: It was only for training children.
           D: It replaced traditional Bible study groups.
         answer: B
+        print_position: 4
       - uid: THE154.7.1.2.TY.2
         subobj: 7.1.2
         type: ty
@@ -3700,6 +3838,7 @@ courses:
           C: To create a national Sunday school curriculum.
           D: To establish a Bible training school.
         answer: D
+        print_position: 5
       - uid: THE154.7.2.1.TY.1
         subobj: 7.2.1
         type: ty
@@ -3710,6 +3849,7 @@ courses:
           C: They offered formal degrees in theology.
           D: They provided free education to all students.
         answer: A
+        print_position: 6
       - uid: THE154.7.2.2.TY.1
         subobj: 7.2.2
         type: ty
@@ -3721,6 +3861,7 @@ courses:
           C: Students were required to have a college degree.
           D: Faculty members were highly educated theologians.
         answer: B
+        print_position: 7
       - uid: THE154.7.2.3.TY.1
         subobj: 7.2.3
         type: ty
@@ -3732,6 +3873,7 @@ courses:
           C: Colleges were seen as more aligned with liberal theology.
           D: The GI Bill required schools to offer degree programs.
         answer: D
+        print_position: 8
       - uid: THE154.7.2.5.UPE.1
         subobj: 7.2.5
         type: upe
@@ -3743,6 +3885,8 @@ courses:
           C: To compete with other denominations
           D: To provide advanced theological training without liberal influences
         answer: D
+        print_position: 14
+        unit: 2
       - uid: THE154.7.2.5.TY.1
         subobj: 7.2.5
         type: ty
@@ -3754,6 +3898,7 @@ courses:
           C: To provide advanced theological training without liberal influences.
           D: To establish higher tuition fees for ministerial students.
         answer: C
+        print_position: 9
       - uid: THE154.7.3.1.UPE.1
         subobj: 7.3.1
         type: upe
@@ -3764,6 +3909,8 @@ courses:
           C: To prepare students for careers in technology
           D: To provide affordable education to Pentecostal families
         answer: A
+        print_position: 15
+        unit: 2
       - uid: THE154.7.3.1.TY.1
         subobj: 7.3.1
         type: ty
@@ -3774,6 +3921,7 @@ courses:
           C: To train workers to evangelize and win the world for Christ.
           D: To provide affordable education to Pentecostal families.
         answer: C
+        print_position: 10
       - uid: THE154.8.1.1.UPE.1
         subobj: 8.1.1
         type: upe
@@ -3785,6 +3933,8 @@ courses:
           C: Priscilla
           D: Phoebe
         answer: C
+        print_position: 16
+        unit: 2
       - uid: THE154.8.1.1.TY.1
         subobj: 8.1.1
         type: ty
@@ -3796,6 +3946,7 @@ courses:
           C: Priscilla
           D: Phoebe
         answer: C
+        print_position: 1
       - uid: THE154.8.1.1.TY.2
         subobj: 8.1.1
         type: ty
@@ -3807,6 +3958,7 @@ courses:
           C: Maria Woodworth-Etter
           D: Aimee Semple McPherson
         answer: B
+        print_position: 2
       - uid: THE154.8.2.1.TY.1
         subobj: 8.2.1
         type: ty
@@ -3818,6 +3970,7 @@ courses:
           C: Cultural acceptance of women in leadership roles
           D: The urgency of the Pentecostal harvest
         answer: D
+        print_position: 3
       - uid: THE154.8.2.2.UPE.1
         subobj: 8.2.2
         type: upe
@@ -3829,6 +3982,8 @@ courses:
           C: Emphasis on men returning to the workforce and women staying home
           D: Increased financial support for churches
         answer: C
+        print_position: 17
+        unit: 2
       - uid: THE154.8.2.2.TY.1
         subobj: 8.2.2
         type: ty
@@ -3840,6 +3995,7 @@ courses:
           C: Increased financial support for churches
           D: The rise of women in the workforce
         answer: A
+        print_position: 4
       - uid: THE154.8.3.1.TY.1
         subobj: 8.3.1
         type: ty
@@ -3851,6 +4007,7 @@ courses:
           C: Fundamentalism
           D: Complementarianism
         answer: B
+        print_position: 5
       - uid: THE154.8.3.1.TY.2
         subobj: 8.3.1
         type: ty
@@ -3861,6 +4018,7 @@ courses:
           C: Men and women are equal in all roles and responsibilities.
           D: Women are responsible for leading men in spiritual matters.
         answer: A
+        print_position: 6
       - uid: THE154.8.3.2.TY.1
         subobj: 8.3.2
         type: ty
@@ -3872,6 +4030,7 @@ courses:
           C: By rejecting all experience-based arguments
           D: By strictly adhering to the Judaizers’ interpretations
         answer: A
+        print_position: 7
       - uid: THE154.8.3.3.TY.1
         subobj: 8.3.3
         type: ty
@@ -3882,6 +4041,7 @@ courses:
           C: Women are fully included in ministry based on biblical principles.
           D: Women’s ministry is restricted based on cultural norms.
         answer: C
+        print_position: 8
       - uid: THE154.8.5.1.UPE.1
         subobj: 8.5.1
         type: upe
@@ -3893,6 +4053,8 @@ courses:
           C: Balancing biblical principles with cultural influences
           D: Encouraging women to focus solely on family ministries
         answer: C
+        print_position: 18
+        unit: 2
       - uid: THE154.8.5.1.UPE.2
         subobj: 8.5.1
         type: upe
@@ -3904,6 +4066,8 @@ courses:
           C: Decline in Pentecostal church attendance
           D: Shift to traditional roles for women
         answer: A
+        print_position: 19
+        unit: 2
       - uid: THE154.8.5.1.TY.1
         subobj: 8.5.1
         type: ty
@@ -3915,6 +4079,7 @@ courses:
           C: Limiting women’s involvement to administrative roles
           D: Avoiding discussions about gender equality
         answer: B
+        print_position: 9
       - uid: THE154.8.5.1.TY.2
         subobj: 8.5.1
         type: ty
@@ -3926,6 +4091,7 @@ courses:
           C: A decrease in ministry opportunities
           D: Emphasis on traditional roles for women
         answer: A
+        print_position: 10
       - uid: THE154.9.1.1.UPE.1
         subobj: 9.1.1
         type: upe
@@ -3937,6 +4103,8 @@ courses:
           C: By providing financial support
           D: By adopting Pentecostal practices
         answer: A
+        print_position: 20
+        unit: 2
       - uid: THE154.9.1.1.TY.1
         subobj: 9.1.1
         type: ty
@@ -3948,6 +4116,7 @@ courses:
           C: By ignoring and ridiculing Pentecostals
           D: By adopting Pentecostal practices
         answer: C
+        print_position: 1
       - uid: THE154.9.1.3.UPE.1
         subobj: 9.1.3
         type: upe
@@ -3958,6 +4127,8 @@ courses:
           C: Pentecostals denied the inerrancy of Scripture.
           D: Pentecostals emphasized emotional worship and spiritual manifestations.
         answer: D
+        print_position: 21
+        unit: 2
       - uid: THE154.9.1.3.TY.1
         subobj: 9.1.3
         type: ty
@@ -3968,6 +4139,7 @@ courses:
           C: Pentecostals supported liberal theology.
           D: Pentecostals emphasized emotional worship and spiritual manifestations.
         answer: D
+        print_position: 2
       - uid: THE154.9.2.3.TY.1
         subobj: 9.2.3
         type: ty
@@ -3979,6 +4151,7 @@ courses:
           C: They prioritized adult education over children’s programs.
           D: They wanted to promote liberal theology.
         answer: B
+        print_position: 3
       - uid: THE154.9.2.5.UPE.1
         subobj: 9.2.5
         type: upe
@@ -3990,6 +4163,8 @@ courses:
           C: To encourage unity among all denominations
           D: To establish a governing authority over evangelicals
         answer: A
+        print_position: 22
+        unit: 2
       - uid: THE154.9.2.5.TY.1
         subobj: 9.2.5
         type: ty
@@ -4001,6 +4176,7 @@ courses:
           C: To reduce its influence within evangelicalism
           D: To safeguard Pentecostal values and distinctives
         answer: D
+        print_position: 4
       - uid: THE154.9.2.6.TY.1
         subobj: 9.2.6
         type: ty
@@ -4012,6 +4188,7 @@ courses:
           C: Racial segregation policies
           D: Financial mismanagement
         answer: C
+        print_position: 5
       - uid: THE154.9.2.8.TY.1
         subobj: 9.2.8
         type: ty
@@ -4022,6 +4199,7 @@ courses:
           C: To focus on theological debates
           D: To promote the Toronto Blessing
         answer: B
+        print_position: 6
       - uid: THE154.9.3.1.UPE.1
         subobj: 9.3.1
         type: upe
@@ -4033,6 +4211,8 @@ courses:
           C: Alienation, lack of accountability, and erroneous teachings
           D: Adoption of fringe doctrines
         answer: C
+        print_position: 23
+        unit: 2
       - uid: THE154.9.3.1.TY.1
         subobj: 9.3.1
         type: ty
@@ -4044,6 +4224,7 @@ courses:
           C: Alienation, lack of accountability, and erroneous teachings
           D: Opposition to Pentecostal distinctives
         answer: C
+        print_position: 7
       - uid: THE154.9.3.2.UPE.1
         subobj: 9.3.2
         type: upe
@@ -4054,6 +4235,8 @@ courses:
           C: The rejection of all charismatic experiences
           D: The importance of rejecting mainline denominations
         answer: A
+        print_position: 24
+        unit: 2
       - uid: THE154.9.3.2.UPE.2
         subobj: 9.3.2
         type: upe
@@ -4064,6 +4247,8 @@ courses:
           C: By requiring all charismatics to join Pentecostal churches
           D: By cautiously supporting Spirit-led renewal within mainline churches
         answer: D
+        print_position: 25
+        unit: 2
       - uid: THE154.9.3.2.TY.1
         subobj: 9.3.2
         type: ty
@@ -4074,6 +4259,7 @@ courses:
           C: The rejection of all charismatic experiences
           D: The importance of rejecting mainline denominations
         answer: B
+        print_position: 8
       - uid: THE154.9.3.2.TY.2
         subobj: 9.3.2
         type: ty
@@ -4084,6 +4270,7 @@ courses:
           C: By requiring all charismatics to join Pentecostal churches
           D: By categorically endorsing all charismatic practices
         answer: B
+        print_position: 9
       - uid: THE154.9.3.3.TY.1
         subobj: 9.3.3
         type: ty
@@ -4095,6 +4282,7 @@ courses:
           C: Balancing openness to revival with adherence to Scripture
           D: Avoiding public attention and media coverage
         answer: C
+        print_position: 10
       - uid: THE154.10.1.1.TY.1
         subobj: 10.1.1
         type: ty
@@ -4106,6 +4294,7 @@ courses:
           C: Cornelia Jones Robertson
           D: Isaac S. Neeley
         answer: B
+        print_position: 1
       - uid: THE154.10.2.1.UPE.1
         subobj: 10.2.1
         type: upe
@@ -4117,6 +4306,8 @@ courses:
           C: Civil Rights Acts
           D: Voting Rights Acts
         answer: B
+        print_position: 1
+        unit: 3
       - uid: THE154.10.2.1.UPE.2
         subobj: 10.2.1
         type: upe
@@ -4128,6 +4319,8 @@ courses:
           C: Pressure from denominational leadership
           D: Concerns about violating segregation laws
         answer: D
+        print_position: 2
+        unit: 3
       - uid: THE154.10.2.1.UPE.3
         subobj: 10.2.1
         type: upe
@@ -4139,6 +4332,8 @@ courses:
           C: They could only be licensed at the district level.
           D: They were prohibited from attending Assemblies of God churches.
         answer: C
+        print_position: 3
+        unit: 3
       - uid: THE154.10.2.1.TY.1
         subobj: 10.2.1
         type: ty
@@ -4150,6 +4345,7 @@ courses:
           C: They could only be licensed at the district level.
           D: They were prohibited from attending Assemblies of God churches.
         answer: C
+        print_position: 2
       - uid: THE154.10.2.1.TY.2
         subobj: 10.2.1
         type: ty
@@ -4161,6 +4357,7 @@ courses:
           C: Civil Rights Acts
           D: Voting Rights Acts
         answer: B
+        print_position: 3
       - uid: THE154.10.2.1.TY.3
         subobj: 10.2.1
         type: ty
@@ -4172,6 +4369,7 @@ courses:
           C: Concerns about violating segregation laws
           D: Desire for cultural preservation
         answer: C
+        print_position: 4
       - uid: THE154.10.3.1.UPE.1
         subobj: 10.3.1
         type: upe
@@ -4183,6 +4381,8 @@ courses:
             college.
           D: His ordination reversed a longstanding policy of racial exclusion.
         answer: D
+        print_position: 4
+        unit: 3
       - uid: THE154.10.3.1.TY.1
         subobj: 10.3.1
         type: ty
@@ -4194,6 +4394,7 @@ courses:
             college.
           D: His ordination reversed a long-standing policy of racial exclusion.
         answer: D
+        print_position: 5
       - uid: THE154.10.4.1.UPE.1
         subobj: 10.4.1
         type: upe
@@ -4205,6 +4406,8 @@ courses:
           C: He mandated racial integration in all churches.
           D: He dialogued with African-American ministers.
         answer: D
+        print_position: 5
+        unit: 3
       - uid: THE154.10.4.1.UPE.2
         subobj: 10.4.1
         type: upe
@@ -4215,6 +4418,8 @@ courses:
           C: The National Black Fellowship
           D: The Racial Unity Council
         answer: C
+        print_position: 6
+        unit: 3
       - uid: THE154.10.4.1.TY.1
         subobj: 10.4.1
         type: ty
@@ -4226,6 +4431,7 @@ courses:
           C: He created new seminaries.
           D: He dialogued with African-American ministers.
         answer: D
+        print_position: 6
       - uid: THE154.10.4.1.TY.2
         subobj: 10.4.1
         type: ty
@@ -4236,6 +4442,7 @@ courses:
           C: The National Black Fellowship
           D: The Urban Missions Fellowship
         answer: C
+        print_position: 7
       - uid: THE154.10.4.1.TY.3
         subobj: 10.4.1
         type: ty
@@ -4247,6 +4454,7 @@ courses:
           C: Pentecostal Evangel
           D: Gospel Advocate
         answer: C
+        print_position: 8
       - uid: THE154.10.5.1.UPE.1
         subobj: 10.5.1
         type: upe
@@ -4258,6 +4466,8 @@ courses:
           C: To ordain African-American leaders for the first time.
           D: To create the Pentecostal Evangel.
         answer: B
+        print_position: 7
+        unit: 3
       - uid: THE154.10.5.1.UPE.2
         subobj: 10.5.1
         type: upe
@@ -4269,6 +4479,8 @@ courses:
           C: The signing of a statement of unity
           D: A combined leadership conference
         answer: B
+        print_position: 8
+        unit: 3
       - uid: THE154.10.5.1.TY.1
         subobj: 10.5.1
         type: ty
@@ -4280,6 +4492,7 @@ courses:
           C: To ordain African-American leaders for the first time.
           D: To create the Pentecostal Evangel.
         answer: B
+        print_position: 9
       - uid: THE154.10.5.1.TY.2
         subobj: 10.5.1
         type: ty
@@ -4291,6 +4504,7 @@ courses:
           C: A joint communion service with African-American bishops
           D: The signing of a unity covenant
         answer: A
+        print_position: 10
       - uid: THE154.10.7.1.UPE.1
         subobj: 10.7.1
         type: upe
@@ -4303,6 +4517,8 @@ courses:
           C: Methodist denominations
           D: Holiness and Pentecostal churches
         answer: D
+        print_position: 9
+        unit: 3
       - uid: THE154.11.1.1.UPE.1
         subobj: 11.1.1
         type: upe
@@ -4314,6 +4530,8 @@ courses:
           C: 60%
           D: 52%
         answer: B
+        print_position: 10
+        unit: 3
       - uid: THE154.11.1.1.UPE.2
         subobj: 11.1.1
         type: upe
@@ -4325,6 +4543,8 @@ courses:
           C: Rural populations
           D: Young professionals
         answer: A
+        print_position: 11
+        unit: 3
       - uid: THE154.11.1.1.TY.1
         subobj: 11.1.1
         type: ty
@@ -4336,6 +4556,7 @@ courses:
           C: Hispanic, Black, and ethnic minorities
           D: Older generational groups
         answer: C
+        print_position: 1
       - uid: THE154.11.1.1.TY.2
         subobj: 11.1.1
         type: ty
@@ -4347,6 +4568,7 @@ courses:
           C: 58%
           D: 25%
         answer: A
+        print_position: 2
       - uid: THE154.11.1.2.UPE.1
         subobj: 11.1.2
         type: upe
@@ -4358,6 +4580,8 @@ courses:
           C: Revised financial policies
           D: More televised services
         answer: A
+        print_position: 12
+        unit: 3
       - uid: THE154.11.1.2.UPE.2
         subobj: 11.1.2
         type: upe
@@ -4369,6 +4593,8 @@ courses:
           C: It limited church autonomy.
           D: It supported the development of strong national churches and leaders.
         answer: D
+        print_position: 13
+        unit: 3
       - uid: THE154.11.1.2.UPE.3
         subobj: 11.1.2
         type: upe
@@ -4380,6 +4606,8 @@ courses:
           C: To transition away from cultural traditions
           D: To accommodate multiethnic and multilingual families
         answer: D
+        print_position: 14
+        unit: 3
       - uid: THE154.11.1.2.TY.1
         subobj: 11.1.2
         type: ty
@@ -4391,6 +4619,7 @@ courses:
           C: Manages Hispanic-only congregations
           D: Handles translation of all resources into Spanish
         answer: A
+        print_position: 3
       - uid: THE154.11.1.2.TY.2
         subobj: 11.1.2
         type: ty
@@ -4402,6 +4631,7 @@ courses:
           C: Exclusive focus on urban communities
           D: Immigration and missions
         answer: D
+        print_position: 4
       - uid: THE154.11.1.2.TY.3
         subobj: 11.1.2
         type: ty
@@ -4413,6 +4643,7 @@ courses:
           C: Native American
           D: Slavic immigrants
         answer: D
+        print_position: 5
       - uid: THE154.11.1.2.TY.4
         subobj: 11.1.2
         type: ty
@@ -4424,6 +4655,7 @@ courses:
           C: It discouraged missions in Western countries.
           D: It encouraged Western control over missions.
         answer: B
+        print_position: 6
       - uid: THE154.11.1.2.TY.5
         subobj: 11.1.2
         type: ty
@@ -4435,6 +4667,7 @@ courses:
           C: To exclude second and third generations
           D: To replace services in native languages
         answer: B
+        print_position: 7
       - uid: THE154.11.2.1.UPE.1
         subobj: 11.2.1
         type: upe
@@ -4446,6 +4679,8 @@ courses:
           C: Reducing reliance on online platforms
           D: Encouraging traditional-only church services
         answer: A
+        print_position: 15
+        unit: 3
       - uid: THE154.11.2.1.TY.1
         subobj: 11.2.1
         type: ty
@@ -4457,6 +4692,7 @@ courses:
           C: Expansion of printing plants
           D: Development of handwritten curriculum
         answer: A
+        print_position: 8
       - uid: THE154.11.2.1.TY.2
         subobj: 11.2.1
         type: ty
@@ -4468,6 +4704,7 @@ courses:
           C: Limiting online resources
           D: Returning to printed materials exclusively
         answer: B
+        print_position: 9
       - uid: THE154.11.3.1.UPE.1
         subobj: 11.3.1
         type: upe
@@ -4479,6 +4716,8 @@ courses:
           C: Stewardship
           D: Worship
         answer: B
+        print_position: 16
+        unit: 3
       - uid: THE154.11.3.1.TY.1
         subobj: 11.3.1
         type: ty
@@ -4490,6 +4729,7 @@ courses:
           C: Evangelism
           D: Discipleship
         answer: B
+        print_position: 10
       - uid: THE154.12.1.1.UPE.1
         subobj: 12.1.1
         type: upe
@@ -4500,6 +4740,8 @@ courses:
           C: Expanding social justice programs
           D: Encouraging interfaith partnerships
         answer: B
+        print_position: 17
+        unit: 3
       - uid: THE154.12.1.1.TY.1
         subobj: 12.1.1
         type: ty
@@ -4510,6 +4752,7 @@ courses:
           C: Strengthening existing churches
           D: Launching global missions
         answer: C
+        print_position: 1
       - uid: THE154.12.2.1.UPE.1
         subobj: 12.2.1
         type: upe
@@ -4520,6 +4763,8 @@ courses:
           C: To increase leadership training worldwide
           D: To establish global ministry training centers
         answer: A
+        print_position: 18
+        unit: 3
       - uid: THE154.12.2.1.TY.1
         subobj: 12.2.1
         type: ty
@@ -4530,6 +4775,7 @@ courses:
           C: Vision Casting Network
           D: Bible Engagement Project
         answer: B
+        print_position: 2
       - uid: THE154.12.2.1.TY.2
         subobj: 12.2.1
         type: ty
@@ -4540,6 +4786,7 @@ courses:
           C: To create Spirit-empowered churches in every community
           D: To improve pastoral education programs
         answer: C
+        print_position: 3
       - uid: THE154.12.2.1.TY.3
         subobj: 12.2.1
         type: ty
@@ -4551,6 +4798,7 @@ courses:
           C: 7,000
           D: 5,000
         answer: D
+        print_position: 4
       - uid: THE154.12.3.1.UPE.1
         subobj: 12.3.1
         type: upe
@@ -4562,6 +4810,8 @@ courses:
           C: 80%
           D: 50%
         answer: C
+        print_position: 19
+        unit: 3
       - uid: THE154.12.3.1.UPE.2
         subobj: 12.3.1
         type: upe
@@ -4573,6 +4823,8 @@ courses:
           C: It emphasizes numerical growth as the primary measure of success.
           D: It is biblically based, stylistically neutral, and scalable to location.
         answer: D
+        print_position: 20
+        unit: 3
       - uid: THE154.12.3.1.UPE.3
         subobj: 12.3.1
         type: upe
@@ -4584,6 +4836,8 @@ courses:
           C: Prefers independent operation over collaboration
           D: Prioritizes numerical growth over discipleship
         answer: A
+        print_position: 21
+        unit: 3
       - uid: THE154.12.3.1.UPE.4
         subobj: 12.3.1
         type: upe
@@ -4595,6 +4849,8 @@ courses:
           C: Inward focus of the church
           D: Not enough social welfare events
         answer: C
+        print_position: 22
+        unit: 3
       - uid: THE154.12.3.1.UPE.5
         subobj: 12.3.1
         type: upe
@@ -4606,6 +4862,8 @@ courses:
           C: Act with an outward focus
           D: Operate independently of other churches
         answer: C
+        print_position: 23
+        unit: 3
       - uid: THE154.12.3.1.TY.1
         subobj: 12.3.1
         type: ty
@@ -4617,6 +4875,7 @@ courses:
           C: 20%
           D: 90%
         answer: B
+        print_position: 5
       - uid: THE154.12.3.1.TY.2
         subobj: 12.3.1
         type: ty
@@ -4628,6 +4887,7 @@ courses:
           C: It focuses solely on large churches.
           D: It is biblical-based, stylistically neutral, and scalable to location.
         answer: D
+        print_position: 6
       - uid: THE154.12.3.1.TY.3
         subobj: 12.3.1
         type: ty
@@ -4639,6 +4899,7 @@ courses:
           C: Decline in community population
           D: Lack of financial resources
         answer: B
+        print_position: 7
       - uid: THE154.12.3.1.TY.4
         subobj: 12.3.1
         type: ty
@@ -4650,6 +4911,7 @@ courses:
           C: Engages in loving relationships
           D: Operates independently of other churches
         answer: C
+        print_position: 8
       - uid: THE154.12.4.1.UPE.1
         subobj: 12.4.1
         type: upe
@@ -4661,6 +4923,8 @@ courses:
           C: Free, age-aligned digital curriculum
           D: Printed materials only for pastors
         answer: C
+        print_position: 24
+        unit: 3
       - uid: THE154.12.4.1.UPE.2
         subobj: 12.4.1
         type: upe
@@ -4673,6 +4937,8 @@ courses:
             others
           D: Reduced need for pastoral counseling
         answer: C
+        print_position: 25
+        unit: 3
       - uid: THE154.12.4.1.TY.1
         subobj: 12.4.1
         type: ty
@@ -4685,6 +4951,7 @@ courses:
           C: Reduced church decline rates and higher staff retention
           D: Increased funding for missions and youth programs
         answer: A
+        print_position: 9
       - uid: THE154.12.4.1.TY.2
         subobj: 12.4.1
         type: ty
@@ -4696,6 +4963,7 @@ courses:
           C: Free, age-aligned digital curriculum
           D: One-on-one pastoral counseling
         answer: C
+        print_position: 10
       - uid: THE154.13.1.1.UPE.1
         subobj: 13.1.1
         type: upe
@@ -4707,6 +4975,8 @@ courses:
           C: To comply with state and federal laws
           D: To ensure order, accountability, and continuity as the fellowship grew
         answer: D
+        print_position: 1
+        unit: 4
       - uid: THE154.13.1.1.UPE.2
         subobj: 13.1.1
         type: upe
@@ -4718,6 +4988,8 @@ courses:
           C: It would limit the salaries of local pastors.
           D: It might turn the Fellowship into a human-made denomination.
         answer: D
+        print_position: 2
+        unit: 4
       - uid: THE154.13.1.1.TY.1
         subobj: 13.1.1
         type: ty
@@ -4729,6 +5001,7 @@ courses:
           C: It would create legal complications for local churches.
           D: It might turn the Fellowship into a human-made denomination.
         answer: D
+        print_position: 1
       - uid: THE154.13.1.1.TY.2
         subobj: 13.1.1
         type: ty
@@ -4740,6 +5013,7 @@ courses:
           C: To replace the Preamble adopted in 1914
           D: To simplify operations without guidelines
         answer: B
+        print_position: 2
       - uid: THE154.13.1.2.TY.1
         subobj: 13.1.2
         type: ty
@@ -4751,6 +5025,7 @@ courses:
           C: Ministers can choose alternative truths to teach.
           D: Ministers must know, believe, and teach these truths.
         answer: D
+        print_position: 3
       - uid: THE154.13.1.2.TY.2
         subobj: 13.1.2
         type: ty
@@ -4762,6 +5037,7 @@ courses:
           C: It prevents false teachings and promotes spiritual health.
           D: It simplifies decision-making in church governance.
         answer: C
+        print_position: 4
       - uid: THE154.13.2.1.UPE.1
         subobj: 13.2.1
         type: upe
@@ -4773,6 +5049,8 @@ courses:
           C: Ministers must memorize the truths verbatim.
           D: Ministers can pick which truths to emphasize.
         answer: A
+        print_position: 3
+        unit: 4
       - uid: THE154.13.2.1.UPE.2
         subobj: 13.2.1
         type: upe
@@ -4783,6 +5061,8 @@ courses:
           C: Tithing is necessary for salvation.
           D: Church leadership is inherited.
         answer: B
+        print_position: 4
+        unit: 4
       - uid: THE154.13.2.1.TY.1
         subobj: 13.2.1
         type: ty
@@ -4794,6 +5074,7 @@ courses:
           C: The church is a political organization.
           D: Tithing is essential for salvation.
         answer: A
+        print_position: 5
       - uid: THE154.13.2.2.UPE.1
         subobj: 13.2.2
         type: upe
@@ -4805,6 +5086,8 @@ courses:
           C: It allows each church to operate independently.
           D: It prevents false teachings and promotes spiritual health.
         answer: D
+        print_position: 5
+        unit: 4
       - uid: THE154.13.3.1.UPE.1
         subobj: 13.3.1
         type: upe
@@ -4815,6 +5098,8 @@ courses:
           C: Mutual cooperation and autonomy of local assemblies
           D: Legal independence with no shared accountability
         answer: C
+        print_position: 6
+        unit: 4
       - uid: THE154.13.3.1.TY.1
         subobj: 13.3.1
         type: ty
@@ -4826,6 +5111,7 @@ courses:
           C: Mutual cooperation and autonomy of local assemblies
           D: Independence of local churches without shared accountability
         answer: C
+        print_position: 6
       - uid: THE154.13.3.2.UPE.1
         subobj: 13.3.2
         type: upe
@@ -4837,6 +5123,8 @@ courses:
           C: The General Council
           D: The General Presbytery
         answer: C
+        print_position: 7
+        unit: 4
       - uid: THE154.13.3.2.UPE.2
         subobj: 13.3.2
         type: upe
@@ -4847,6 +5135,8 @@ courses:
           C: Every two years
           D: Twice every year
         answer: C
+        print_position: 8
+        unit: 4
       - uid: THE154.13.3.2.TY.1
         subobj: 13.3.2
         type: ty
@@ -4857,6 +5147,7 @@ courses:
           C: Biennially (every two years)
           D: Annually
         answer: C
+        print_position: 7
       - uid: THE154.13.3.2.TY.2
         subobj: 13.3.2
         type: ty
@@ -4868,6 +5159,7 @@ courses:
           C: District Councils
           D: The General Council
         answer: D
+        print_position: 8
       - uid: THE154.13.3.3.UPE.1
         subobj: 13.3.3
         type: upe
@@ -4878,6 +5170,8 @@ courses:
           C: It cooperates voluntarily and meets specific Fellowship criteria.
           D: It is required to send all financial reports to the General Superintendent.
         answer: C
+        print_position: 9
+        unit: 4
       - uid: THE154.13.3.3.UPE.2
         subobj: 13.3.3
         type: upe
@@ -4888,6 +5182,8 @@ courses:
           C: Establishing state-wide seminaries
           D: Overseeing the process for credentialing ministers
         answer: D
+        print_position: 10
+        unit: 4
       - uid: THE154.13.3.3.TY.1
         subobj: 13.3.3
         type: ty
@@ -4898,6 +5194,7 @@ courses:
           C: It cooperates voluntarily and meets specific Fellowship criteria.
           D: It receives funding directly from the General Council.
         answer: C
+        print_position: 9
       - uid: THE154.13.3.3.TY.2
         subobj: 13.3.3
         type: ty
@@ -4908,6 +5205,7 @@ courses:
           C: Organizing national conventions
           D: Drafting new versions of the Constitution
         answer: A
+        print_position: 10
       - uid: THE154.14.1.1.UPE.1
         subobj: 14.1.1
         type: upe
@@ -4920,6 +5218,8 @@ courses:
           D: General superintendent, assistant general superintendent, general secretary,
             and general treasurer
         answer: D
+        print_position: 11
+        unit: 4
       - uid: THE154.14.1.1.TY.1
         subobj: 14.1.1
         type: ty
@@ -4932,6 +5232,7 @@ courses:
           C: General treasurer, executive presbyter, and missions director
           D: General superintendent, general secretary, and district superintendent
         answer: A
+        print_position: 1
       - uid: THE154.14.1.2.UPE.1
         subobj: 14.1.2
         type: upe
@@ -4942,6 +5243,8 @@ courses:
           C: Overseeing all activities of the Assemblies of God
           D: Selecting the executive leadership team
         answer: C
+        print_position: 12
+        unit: 4
       - uid: THE154.14.1.2.TY.1
         subobj: 14.1.2
         type: ty
@@ -4952,6 +5255,7 @@ courses:
           C: Overseeing all activities of the Assemblies of God
           D: Approving ministerial credentials
         answer: C
+        print_position: 2
       - uid: THE154.14.2.1.UPE.1
         subobj: 14.2.1
         type: upe
@@ -4962,6 +5266,8 @@ courses:
           C: Managing national finance policies
           D: Overseeing pastoral care for ministers in the district
         answer: D
+        print_position: 13
+        unit: 4
       - uid: THE154.14.2.1.UPE.2
         subobj: 14.2.1
         type: upe
@@ -4972,6 +5278,8 @@ courses:
           C: Addressing the unique needs of local churches and ministers
           D: Approving all church building projects
         answer: C
+        print_position: 14
+        unit: 4
       - uid: THE154.14.2.1.TY.1
         subobj: 14.2.1
         type: ty
@@ -4982,6 +5290,7 @@ courses:
           C: Addressing the unique needs of local churches and ministers
           D: Managing the finances of the General Council
         answer: C
+        print_position: 3
       - uid: THE154.14.2.1.TY.2
         subobj: 14.2.1
         type: ty
@@ -4992,6 +5301,7 @@ courses:
           C: District Superintendent
           D: Treasurer
         answer: C
+        print_position: 4
       - uid: THE154.14.2.2.UPE.1
         subobj: 14.2.2
         type: upe
@@ -5003,6 +5313,8 @@ courses:
           C: They require separate constitutions.
           D: They are temporary and restructured every decade.
         answer: B
+        print_position: 15
+        unit: 4
       - uid: THE154.14.2.2.TY.1
         subobj: 14.2.2
         type: ty
@@ -5014,6 +5326,7 @@ courses:
           C: They are governed directly by the General Council.
           D: They are temporary and disband after two years.
         answer: A
+        print_position: 5
       - uid: THE154.14.2.3.UPE.1
         subobj: 14.2.3
         type: upe
@@ -5025,6 +5338,8 @@ courses:
           C: A formal petition to the General Superintendent
           D: A minimum of twenty voting members and a qualified pastor with AG credentials
         answer: D
+        print_position: 16
+        unit: 4
       - uid: THE154.14.2.3.UPE.2
         subobj: 14.2.3
         type: upe
@@ -5036,6 +5351,8 @@ courses:
           C: It is automatically dissolved.
           D: It must submit a formal appeal to the General Council.
         answer: A
+        print_position: 17
+        unit: 4
       - uid: THE154.14.2.3.TY.1
         subobj: 14.2.3
         type: ty
@@ -5047,6 +5364,7 @@ courses:
           C: A minimum of twenty voting members and a qualified pastor with AG credentials
           D: An annual membership fee paid to the General Council
         answer: C
+        print_position: 6
       - uid: THE154.14.2.3.TY.2
         subobj: 14.2.3
         type: ty
@@ -5058,6 +5376,7 @@ courses:
           C: It is overseen directly by the general superintendent.
           D: It is automatically dissolved.
         answer: B
+        print_position: 7
       - uid: THE154.14.3.1.UPE.1
         subobj: 14.3.1
         type: upe
@@ -5068,6 +5387,8 @@ courses:
           C: To control theological interpretations
           D: To verify qualifications and maintain accountability for spiritual leadership
         answer: D
+        print_position: 18
+        unit: 4
       - uid: THE154.14.3.1.TY.1
         subobj: 14.3.1
         type: ty
@@ -5078,6 +5399,7 @@ courses:
           C: To restrict the number of ministers in the Fellowship
           D: To verify qualifications and maintain accountability for spiritual leadership
         answer: D
+        print_position: 8
       - uid: THE154.14.3.2.UPE.1
         subobj: 14.3.2
         type: upe
@@ -5088,6 +5410,8 @@ courses:
           C: Associate minister, senior minister, and ordained minister
           D: Licensed evangelist, senior minister, and district minister
         answer: A
+        print_position: 19
+        unit: 4
       - uid: THE154.14.3.2.TY.1
         subobj: 14.3.2
         type: ty
@@ -5098,6 +5422,7 @@ courses:
           C: Certified pastor, licensed pastor, and ordained pastor
           D: Certified minister, licensed minister, and ordained minister
         answer: D
+        print_position: 9
       - uid: THE154.14.3.3.UPE.1
         subobj: 14.3.3
         type: upe
@@ -5109,6 +5434,8 @@ courses:
           C: A proven call to ministry and sound biblical knowledge
           D: A special letter from the General Superintendent
         answer: C
+        print_position: 20
+        unit: 4
       - uid: THE154.14.3.3.TY.1
         subobj: 14.3.3
         type: ty
@@ -5120,6 +5447,7 @@ courses:
           C: Some form of education, resulting in sound biblical knowledge
           D: Three years of professional experience
         answer: C
+        print_position: 10
       - uid: THE154.11.1.1.F.4
         subobj: 11.1.1
         type: final
@@ -5664,6 +5992,7 @@ courses:
         key_pdf: BTHE154E-ER-KEY (2).pdf
         matched: 50
         unmatched: 0
+      captured: reparse
     deployed_pn: 01.26.06
     body_baseline_pn: 01.26.06
     chapters:

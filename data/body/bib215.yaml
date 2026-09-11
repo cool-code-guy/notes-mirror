@@ -1117,6 +1117,8 @@ courses:
           C: of the tribe of Judah.
           D: zealous for the Jewish law.
         answer: D
+        print_position: 1
+        unit: 1
       - uid: BIB215.1.1.1.TY.1
         subobj: 1.1.1
         type: ty
@@ -1127,6 +1129,7 @@ courses:
           C: of the tribe of Judah.
           D: an apostle to the Gentiles.
         answer: C
+        print_position: 1
       - uid: BIB215.1.1.2.UPE.1
         subobj: 1.1.2
         type: upe
@@ -1138,6 +1141,8 @@ courses:
           C: encouragement to break from his Jewish past.
           D: an introduction to Jesus’ disciples.
         answer: B
+        print_position: 2
+        unit: 1
       - uid: BIB215.1.1.2.TY.1
         subobj: 1.1.2
         type: ty
@@ -1149,6 +1154,7 @@ courses:
           C: he was trained under Gamaliel, the leading Pharisee of his day.
           D: he zealously persecuted the church.
         answer: B
+        print_position: 4
       - uid: BIB215.1.1.3.UPE.1
         subobj: 1.1.3
         type: upe
@@ -1160,6 +1166,8 @@ courses:
           C: Second missionary journey
           D: Third missionary journey
         answer: D
+        print_position: 3
+        unit: 1
       - uid: BIB215.1.2.1.UPE.1
         subobj: 1.2.1
         type: upe
@@ -1170,6 +1178,8 @@ courses:
           C: relationships of believers to one another.
           D: Spirit versus flesh.
         answer: A
+        print_position: 4
+        unit: 1
       - uid: BIB215.1.2.1.UPE.2
         subobj: 1.2.1
         type: upe
@@ -1182,6 +1192,8 @@ courses:
             Him.
           D: shape believers into the image of His Son.
         answer: D
+        print_position: 5
+        unit: 1
       - uid: BIB215.1.2.1.TY.1
         subobj: 1.2.1
         type: ty
@@ -1193,6 +1205,7 @@ courses:
           C: the early stages of his missionary journey in Asia Minor.
           D: a short stay in Corinth near the end of his third missionary journey.
         answer: D
+        print_position: 3
       - uid: BIB215.1.2.1.TY.2
         subobj: 1.2.1
         type: ty
@@ -1203,6 +1216,7 @@ courses:
           C: God’s total rejection of Israel.
           D: a righteousness from God.
         answer: D
+        print_position: 7
       - uid: BIB215.1.3.1.UPE.1
         subobj: 1.3.1
         type: upe
@@ -1213,6 +1227,8 @@ courses:
           C: the church was multinational in its makeup.
           D: no women were engaged in ministry there.
         answer: C
+        print_position: 6
+        unit: 1
       - uid: BIB215.1.3.1.TY.1
         subobj: 1.3.1
         type: ty
@@ -1223,6 +1239,7 @@ courses:
           C: Gentile believers equaled Jewish in number.
           D: we have no idea how the numbers of Gentile and Jewish believers compared.
         answer: A
+        print_position: 9
       - uid: BIB215.1.3.2.UPE.1
         subobj: 1.3.2
         type: upe
@@ -1233,6 +1250,8 @@ courses:
           C: realm of glory, is highly exalted above all others.
           D: capacity of Lawgiver, will someday judge all people for their sins.
         answer: A
+        print_position: 7
+        unit: 1
       - uid: BIB215.1.3.2.TY.1
         subobj: 1.3.2
         type: ty
@@ -1244,6 +1263,7 @@ courses:
           C: servant nature.
           D: personal weaknesses.
         answer: C
+        print_position: 2
       - uid: BIB215.1.3.2.TY.2
         subobj: 1.3.2
         type: ty
@@ -1257,6 +1277,7 @@ courses:
           C: was referring specifically to the Father’s affirmation at Jesus’ baptism.
           D: meant that Jesus was the Son of God only because of His miracles.
         answer: B
+        print_position: 6
       - uid: BIB215.1.3.2.TY.3
         subobj: 1.3.2
         type: ty
@@ -1268,6 +1289,7 @@ courses:
           C: was not familiar with Paul’s teaching.
           D: was correcting a misinterpretation of Paul’s teaching.
         answer: D
+        print_position: 10
       - uid: BIB215.1.4.1.UPE.1
         subobj: 1.4.1
         type: upe
@@ -1279,6 +1301,8 @@ courses:
           C: be free from sin.
           D: live by faith.
         answer: D
+        print_position: 8
+        unit: 1
       - uid: BIB215.1.4.1.UPE.2
         subobj: 1.4.1
         type: upe
@@ -1290,6 +1314,8 @@ courses:
           C: misunderstood their own Scriptures.
           D: did not believe God’s promise of a Messiah.
         answer: C
+        print_position: 9
+        unit: 1
       - uid: BIB215.1.4.1.TY.1
         subobj: 1.4.1
         type: ty
@@ -1301,6 +1327,7 @@ courses:
           C: judgment.
           D: all of the above.
         answer: D
+        print_position: 5
       - uid: BIB215.1.4.1.TY.2
         subobj: 1.4.1
         type: ty
@@ -1311,6 +1338,7 @@ courses:
           C: observing the Law.
           D: hearing the gospel.
         answer: A
+        print_position: 8
       - uid: BIB215.2.1.1.UPE.1
         subobj: 2.1.1
         type: upe
@@ -1322,6 +1350,8 @@ courses:
           C: Gentiles in particular.
           D: his own people.
         answer: C
+        print_position: 10
+        unit: 1
       - uid: BIB215.2.1.1.UPE.2
         subobj: 2.1.1
         type: upe
@@ -1333,6 +1363,8 @@ courses:
           C: first revelation.
           D: general revelation.
         answer: D
+        print_position: 11
+        unit: 1
       - uid: BIB215.2.1.1.TY.1
         subobj: 2.1.1
         type: ty
@@ -1343,6 +1375,7 @@ courses:
           C: God’s invisible qualities.
           D: God’s end-time judgment.
         answer: E
+        print_position: 1
       - uid: BIB215.2.1.1.TY.2
         subobj: 2.1.1
         type: ty
@@ -1353,6 +1386,7 @@ courses:
           C: the Law and the prophets.
           D: a person’s consciousness of right and wrong.
         answer: C
+        print_position: 2
       - uid: BIB215.2.1.1.TY.3
         subobj: 2.1.1
         type: ty
@@ -1363,6 +1397,7 @@ courses:
           C: intuition and imagination.
           D: religion and nature.
         answer: A
+        print_position: 9
       - uid: BIB215.2.1.2.UPE.1
         subobj: 2.1.2
         type: upe
@@ -1374,6 +1409,8 @@ courses:
           C: recognized God only through their inner consciousness.
           D: tried in their own strength to be righteous.
         answer: A
+        print_position: 12
+        unit: 1
       - uid: BIB215.2.1.2.TY.1
         subobj: 2.1.2
         type: ty
@@ -1384,6 +1421,7 @@ courses:
           C: Paul received these truths from early church leaders.
           D: Bible scholars have established and documented them.
         answer: B
+        print_position: 4
       - uid: BIB215.2.1.2.TY.2
         subobj: 2.1.2
         type: ty
@@ -1394,6 +1432,7 @@ courses:
           C: want to see a demonstration of His divine power.
           D: reject what He has clearly made plain to them.
         answer: C
+        print_position: 5
       - uid: BIB215.2.1.2.TY.3
         subobj: 2.1.2
         type: ty
@@ -1404,6 +1443,7 @@ courses:
           C: quick and immediate punishment when people sin.
           D: gradual storing up that leads to future judgment.
         answer: D
+        print_position: 7
       - uid: BIB215.2.1.3.UPE.1
         subobj: 2.1.3
         type: upe
@@ -1415,6 +1455,8 @@ courses:
           C: God’s wrath is like a sudden outburst of anger.
           D: God rewards people according to their deeds.
         answer: D
+        print_position: 13
+        unit: 1
       - uid: BIB215.2.1.3.TY.1
         subobj: 2.1.3
         type: ty
@@ -1425,6 +1467,7 @@ courses:
           C: moral strength.
           D: destruction.
         answer: D
+        print_position: 10
       - uid: BIB215.2.2.1.UPE.1
         subobj: 2.2.1
         type: upe
@@ -1436,6 +1479,8 @@ courses:
           C: whether or not a person is morally superior to his or her acquaintances.
           D: how well one adapts to the requirements of the Law.
         answer: B
+        print_position: 14
+        unit: 1
       - uid: BIB215.2.2.1.TY.1
         subobj: 2.2.1
         type: ty
@@ -1447,6 +1492,7 @@ courses:
           C: good person according to human standards.
           D: Jew and a Gentile combined.
         answer: A
+        print_position: 3
       - uid: BIB215.2.2.1.TY.2
         subobj: 2.2.1
         type: ty
@@ -1458,6 +1504,7 @@ courses:
           C: their assessment of how others live.
           D: how they themselves live.
         answer: D
+        print_position: 8
       - uid: BIB215.2.2.2.UPE.1
         subobj: 2.2.2
         type: upe
@@ -1468,6 +1515,8 @@ courses:
           C: a cutting of the body in an act of obedience.
           D: perfect understanding of the Law.
         answer: B
+        print_position: 15
+        unit: 1
       - uid: BIB215.2.2.3.UPE.1
         subobj: 2.2.3
         type: upe
@@ -1479,6 +1528,8 @@ courses:
           C: God is unjust in bringing His wrath on us.
           D: God will judge everyone fairly.
         answer: C
+        print_position: 16
+        unit: 1
       - uid: BIB215.2.3.1.UPE.1
         subobj: 2.3.1
         type: upe
@@ -1489,6 +1540,8 @@ courses:
           C: freed from sin’s control.
           D: given the means for cleansing from sin.
         answer: A
+        print_position: 17
+        unit: 1
       - uid: BIB215.2.3.1.TY.1
         subobj: 2.3.1
         type: ty
@@ -1500,6 +1553,7 @@ courses:
           C: universality of sin.
           D: limitations of God’s wrath.
         answer: C
+        print_position: 6
       - uid: BIB215.3.1.1.UPE.1
         subobj: 3.1.1
         type: upe
@@ -1511,6 +1565,8 @@ courses:
           C: the purpose of the Law.
           D: God’s provision of a Savior.
         answer: D
+        print_position: 18
+        unit: 1
       - uid: BIB215.3.1.1.UPE.2
         subobj: 3.1.1
         type: upe
@@ -1521,6 +1577,8 @@ courses:
           C: a righteousness from God through Christ.
           D: legalistic righteousness based on self-effort.
         answer: C
+        print_position: 19
+        unit: 1
       - uid: BIB215.3.1.1.TY.1
         subobj: 3.1.1
         type: ty
@@ -1532,6 +1590,7 @@ courses:
           C: logical change in Paul’s argument.
           D: transition from one source of righteousness to another.
         answer: C
+        print_position: 1
       - uid: BIB215.3.1.1.TY.2
         subobj: 3.1.1
         type: ty
@@ -1543,6 +1602,7 @@ courses:
           D: the gospel is not introduced as an afterthought but was always in God’s
             plan.
         answer: D
+        print_position: 2
       - uid: BIB215.3.1.1.TY.3
         subobj: 3.1.1
         type: ty
@@ -1553,6 +1613,7 @@ courses:
           C: in an unlawful manner.
           D: distinct from the Ten Commandments.
         answer: A
+        print_position: 3
       - uid: BIB215.3.1.1.TY.4
         subobj: 3.1.1
         type: ty
@@ -1563,6 +1624,7 @@ courses:
           C: rejecting the Law.
           D: deserving it.
         answer: A
+        print_position: 8
       - uid: BIB215.3.1.1.TY.5
         subobj: 3.1.1
         type: ty
@@ -1573,6 +1635,7 @@ courses:
           C: a prophetic curse.
           D: justification.
         answer: B
+        print_position: 9
       - uid: BIB215.3.1.2.UPE.1
         subobj: 3.1.2
         type: upe
@@ -1583,6 +1646,8 @@ courses:
           C: redemption, propitiation, and justification.
           D: hearing, believing, and trusting.
         answer: C
+        print_position: 20
+        unit: 1
       - uid: BIB215.3.1.2.TY.1
         subobj: 3.1.2
         type: ty
@@ -1593,6 +1658,7 @@ courses:
           C: a turning away from sin.
           D: being born again.
         answer: B
+        print_position: 4
       - uid: BIB215.3.1.3.UPE.1
         subobj: 3.1.3
         type: upe
@@ -1604,6 +1670,8 @@ courses:
           C: abolishes the Law.
           D: is added to the Law.
         answer: A
+        print_position: 21
+        unit: 1
       - uid: BIB215.3.1.3.TY.1
         subobj: 3.1.3
         type: ty
@@ -1615,6 +1683,7 @@ courses:
           C: demonstrating a weakness in the Law.
           D: sustaining the Law.
         answer: D
+        print_position: 5
       - uid: BIB215.3.2.1.UPE.1
         subobj: 3.2.1
         type: upe
@@ -1626,6 +1695,8 @@ courses:
           C: Abraham was justified by faith, not works.
           D: Obedience flowed out of Abraham’s trust in God.
         answer: B
+        print_position: 22
+        unit: 1
       - uid: BIB215.3.2.1.UPE.2
         subobj: 3.2.1
         type: upe
@@ -1638,6 +1709,8 @@ courses:
           C: David’s obedience to the Law was credited to him as righteousness.
           D: David earned the forgiveness of God by his great works.
         answer: A
+        print_position: 23
+        unit: 1
       - uid: BIB215.3.2.1.TY.1
         subobj: 3.2.1
         type: ty
@@ -1658,6 +1731,7 @@ courses:
           C: Jesus Christ.
           D: the Law.
         answer: C
+        print_position: 7
       - uid: BIB215.3.3.1.UPE.1
         subobj: 3.3.1
         type: upe
@@ -1669,6 +1743,8 @@ courses:
           C: complete victory over sin.
           D: peace with God.
         answer: D
+        print_position: 24
+        unit: 1
       - uid: BIB215.3.3.1.TY.1
         subobj: 3.3.1
         type: ty
@@ -1681,6 +1757,7 @@ courses:
           D: two of the benefits of justification that believers experience in this
             life.
         answer: D
+        print_position: 10
       - uid: BIB215.3.4.1.UPE.1
         subobj: 3.4.1
         type: upe
@@ -1692,6 +1769,8 @@ courses:
           C: innocence they shared at birth.
           D: inheritance we receive from each of them.
         answer: B
+        print_position: 25
+        unit: 1
       - uid: BIB215.4.1.1.UPE.1
         subobj: 4.1.1
         type: upe
@@ -1703,6 +1782,8 @@ courses:
           C: sanctification.
           D: reconciliation.
         answer: C
+        print_position: 1
+        unit: 2
       - uid: BIB215.4.1.1.TY.1
         subobj: 4.1.1
         type: ty
@@ -1714,6 +1795,7 @@ courses:
           C: Jews, Gentiles, and Christians.
           D: condemnation, justification, and sanctification.
         answer: D
+        print_position: 1
       - uid: BIB215.4.1.2.UPE.1
         subobj: 4.1.2
         type: upe
@@ -1725,6 +1807,8 @@ courses:
           C: those with the greatest sin receive more abundant grace.
           D: God’s grace is insufficient as a restraint to sin.
         answer: B
+        print_position: 2
+        unit: 2
       - uid: BIB215.4.1.2.UPE.2
         subobj: 4.1.2
         type: upe
@@ -1735,6 +1819,8 @@ courses:
           C: no longer tempted to gratify the desires of the sinful nature.
           D: no longer bound by the requirements of the Law.
         answer: A
+        print_position: 3
+        unit: 2
       - uid: BIB215.4.1.2.UPE.3
         subobj: 4.1.2
         type: upe
@@ -1745,6 +1831,8 @@ courses:
           C: death as one deserving justice.
           D: suffering as one who “completes the sufferings of Christ. ”
         answer: A
+        print_position: 4
+        unit: 2
       - uid: BIB215.4.1.2.UPE.4
         subobj: 4.1.2
         type: upe
@@ -1756,6 +1844,8 @@ courses:
           C: know, count, and offer.
           D: believe, count, and repent.
         answer: C
+        print_position: 5
+        unit: 2
       - uid: BIB215.4.1.2.UPE.5
         subobj: 4.1.2
         type: upe
@@ -1766,6 +1856,8 @@ courses:
           C: circumcision.
           D: hearing.
         answer: A
+        print_position: 6
+        unit: 2
       - uid: BIB215.4.1.2.TY.1
         subobj: 4.1.2
         type: ty
@@ -1777,6 +1869,7 @@ courses:
           C: expected of former idolaters who come to Christ.
           D: an immature understanding that should be corrected.
         answer: B
+        print_position: 2
       - uid: BIB215.4.1.2.TY.2
         subobj: 4.1.2
         type: ty
@@ -1788,6 +1881,7 @@ courses:
           C: know , count , and offer .
           D: believe , count , and repent .
         answer: C
+        print_position: 3
       - uid: BIB215.4.1.2.TY.3
         subobj: 4.1.2
         type: ty
@@ -1798,6 +1892,7 @@ courses:
           C: circumcision.
           D: hearing.
         answer: A
+        print_position: 4
       - uid: BIB215.4.1.2.TY.4
         subobj: 4.1.2
         type: ty
@@ -1808,6 +1903,7 @@ courses:
           C: a branch grafted to a tree.
           D: Abraham’s union with Isaac.
         answer: C
+        print_position: 5
       - uid: BIB215.4.1.2.TY.5
         subobj: 4.1.2
         type: ty
@@ -1829,6 +1925,7 @@ courses:
           C: by association with John’s baptism of Jesus.
           D: through the symbolism of the tabernacle laver.
         answer: A
+        print_position: 7
       - uid: BIB215.4.1.2.TY.7
         subobj: 4.1.2
         type: ty
@@ -1839,6 +1936,7 @@ courses:
           C: live as a true son of Abraham.
           D: offer oneself to God as an instrument of righteousness.
         answer: D
+        print_position: 9
       - uid: BIB215.4.2.1.UPE.1
         subobj: 4.2.1
         type: upe
@@ -1849,6 +1947,8 @@ courses:
           C: enabled to fulfill the Law.
           D: free to control their own lives.
         answer: C
+        print_position: 7
+        unit: 2
       - uid: BIB215.4.2.1.UPE.2
         subobj: 4.2.1
         type: upe
@@ -1860,6 +1960,8 @@ courses:
           C: greater usefulness to God.
           D: eternal life.
         answer: D
+        print_position: 8
+        unit: 2
       - uid: BIB215.4.2.1.UPE.3
         subobj: 4.2.1
         type: upe
@@ -1870,6 +1972,8 @@ courses:
           C: It makes us conscious of sin.
           D: It reveals the magnitude of sin.
         answer: B
+        print_position: 9
+        unit: 2
       - uid: BIB215.4.2.1.TY.1
         subobj: 4.2.1
         type: ty
@@ -1881,6 +1985,7 @@ courses:
           C: knowledge of God’s will.
           D: status in the church.
         answer: B
+        print_position: 8
       - uid: BIB215.4.3.1.UPE.1
         subobj: 4.3.1
         type: upe
@@ -1892,6 +1997,8 @@ courses:
           C: He thinks he can fight the battle against sin in his own strength.
           D: He hates sin and is disappointed by his sins.
         answer: D
+        print_position: 10
+        unit: 2
       - uid: BIB215.4.3.1.UPE.2
         subobj: 4.3.1
         type: upe
@@ -1903,6 +2010,8 @@ courses:
           C: the sinful nature and the Spirit of God within.
           D: being controlled by sin or by self.
         answer: C
+        print_position: 11
+        unit: 2
       - uid: BIB215.4.3.1.UPE.3
         subobj: 4.3.1
         type: upe
@@ -1914,6 +2023,8 @@ courses:
           C: can provide a fulfilling union if practiced wisely.
           D: exemplifies God’s grace, much like a forgiving husband.
         answer: B
+        print_position: 12
+        unit: 2
       - uid: BIB215.4.3.1.TY.1
         subobj: 4.3.1
         type: ty
@@ -1924,6 +2035,7 @@ courses:
           C: the Living Word within us.
           D: love, in and through the church.
         answer: A
+        print_position: 10
       - uid: BIB215.5.1.1.UPE.1
         subobj: 5.1.1
         type: upe
@@ -1935,6 +2047,8 @@ courses:
           C: Romans 8
           D: Romans 15
         answer: C
+        print_position: 13
+        unit: 2
       - uid: BIB215.5.1.1.TY.1
         subobj: 5.1.1
         type: ty
@@ -1945,6 +2059,7 @@ courses:
           C: reminds believers of Jesus’ words.
           D: imparts gifts to the church.
         answer: B
+        print_position: 1
       - uid: BIB215.5.1.2.UPE.1
         subobj: 5.1.2
         type: upe
@@ -1956,6 +2071,8 @@ courses:
           C: God has decided that no one deserves to be condemned.
           D: God removed our guilt by sending His Son to save us.
         answer: D
+        print_position: 14
+        unit: 2
       - uid: BIB215.5.1.2.UPE.2
         subobj: 5.1.2
         type: upe
@@ -1967,6 +2084,8 @@ courses:
           C: determination they have to avoid sin and follow God.
           D: decree of God that pronounces them sinless.
         answer: B
+        print_position: 15
+        unit: 2
       - uid: BIB215.5.1.2.UPE.3
         subobj: 5.1.2
         type: upe
@@ -1977,6 +2096,8 @@ courses:
           C: was fully human and only pretended to be God’s Son.
           D: only seemed to do miracles.
         answer: A
+        print_position: 16
+        unit: 2
       - uid: BIB215.5.1.2.UPE.4
         subobj: 5.1.2
         type: upe
@@ -1987,6 +2108,8 @@ courses:
           C: the agent of peace and harmony.
           D: an advocate for us to the Father.
         answer: B
+        print_position: 17
+        unit: 2
       - uid: BIB215.5.1.2.TY.1
         subobj: 5.1.2
         type: ty
@@ -2001,6 +2124,7 @@ courses:
           D: the condemnation that entered through Adam’s sin is cancelled through
             Christ’s work.
         answer: D
+        print_position: 2
       - uid: BIB215.5.1.2.TY.2
         subobj: 5.1.2
         type: ty
@@ -2011,6 +2135,7 @@ courses:
           C: was fully human and only pretended to be God’s Son.
           D: only seemed to do miracles.
         answer: A
+        print_position: 3
       - uid: BIB215.5.1.2.TY.3
         subobj: 5.1.2
         type: ty
@@ -2021,6 +2146,7 @@ courses:
           C: the agent of peace and harmony.
           D: an advocate for us to the Father.
         answer: B
+        print_position: 8
       - uid: BIB215.5.1.3.UPE.1
         subobj: 5.1.3
         type: upe
@@ -2031,6 +2157,8 @@ courses:
           C: lives according to the sinful nature.
           D: walks the narrow road that leads to life.
         answer: C
+        print_position: 18
+        unit: 2
       - uid: BIB215.5.1.3.TY.1
         subobj: 5.1.3
         type: ty
@@ -2041,6 +2169,7 @@ courses:
           C: hostile to Satan’s attempts to destroy us.
           D: hostile to God and not at peace with Him.
         answer: D
+        print_position: 4
       - uid: BIB215.5.1.4.UPE.1
         subobj: 5.1.4
         type: upe
@@ -2052,6 +2181,8 @@ courses:
           C: try to avoid sinful practices.
           D: look upon God as their Father.
         answer: B
+        print_position: 19
+        unit: 2
       - uid: BIB215.5.1.4.TY.1
         subobj: 5.1.4
         type: ty
@@ -2062,6 +2193,7 @@ courses:
           C: share in Christ’s sufferings as well as in His treasures.
           D: share in Christ’s sufferings in order to inherit heaven’s treasures.
         answer: C
+        print_position: 5
       - uid: BIB215.5.2.1.UPE.1
         subobj: 5.2.1
         type: upe
@@ -2073,6 +2205,8 @@ courses:
           C: temptations.
           D: judgment.
         answer: A
+        print_position: 20
+        unit: 2
       - uid: BIB215.5.2.1.TY.1
         subobj: 5.2.1
         type: ty
@@ -2095,6 +2229,7 @@ courses:
           C: directly related to his or her disobedience and sin.
           D: earning adoption as sons.
         answer: A
+        print_position: 7
       - uid: BIB215.5.3.1.UPE.1
         subobj: 5.3.1
         type: upe
@@ -2106,6 +2241,8 @@ courses:
           C: give them a testimony of how He delivered them.
           D: conform them to the likeness of His Son.
         answer: D
+        print_position: 21
+        unit: 2
       - uid: BIB215.5.3.1.UPE.2
         subobj: 5.3.1
         type: upe
@@ -2117,6 +2254,8 @@ courses:
           C: We have been redeemed from the Law’s curse.
           D: With God for us, no one can prevail against us.
         answer: D
+        print_position: 22
+        unit: 2
       - uid: BIB215.5.3.2.UPE.1
         subobj: 5.3.2
         type: upe
@@ -2127,6 +2266,8 @@ courses:
           C: “a daily process of conquering the sinful nature.”
           D: “being conformed to the image of Christ.”
         answer: D
+        print_position: 23
+        unit: 2
       - uid: BIB215.5.3.2.UPE.2
         subobj: 5.3.2
         type: upe
@@ -2138,6 +2279,8 @@ courses:
           C: Paul states that nothing can separate us from God’s love.
           D: Ignorance of grace separates us from God’s love.
         answer: C
+        print_position: 24
+        unit: 2
       - uid: BIB215.5.3.2.UPE.3
         subobj: 5.3.2
         type: upe
@@ -2148,6 +2291,8 @@ courses:
           C: God planning what He would do for those who would become His children.
           D: God’s inability to change His mind and alter His plans.
         answer: C
+        print_position: 25
+        unit: 2
       - uid: BIB215.5.3.2.TY.1
         subobj: 5.3.2
         type: ty
@@ -2158,6 +2303,7 @@ courses:
           C: God planning what He would do for those who would become His children.
           D: God’s inability to change His mind and alter His plans.
         answer: C
+        print_position: 9
       - uid: BIB215.5.3.2.TY.2
         subobj: 5.3.2
         type: ty
@@ -2168,6 +2314,7 @@ courses:
           C: effect of God’s love in the lives of those who suffer.
           D: completion in a believer of the conforming process into Christ’s likeness.
         answer: D
+        print_position: 10
       - uid: BIB215.6.1.1.UPE.1
         subobj: 6.1.1
         type: upe
@@ -2178,6 +2325,8 @@ courses:
           C: The sinful condition of all people
           D: Israel’s divine purpose in history
         answer: D
+        print_position: 1
+        unit: 3
       - uid: BIB215.6.1.1.UPE.2
         subobj: 6.1.1
         type: upe
@@ -2188,6 +2337,8 @@ courses:
           C: give important instruction specifically for the Gentile church.
           D: serve as a practical application of what he has already written.
         answer: A
+        print_position: 2
+        unit: 3
       - uid: BIB215.6.1.1.TY.1
         subobj: 6.1.1
         type: ty
@@ -2202,6 +2353,7 @@ courses:
           D: Chapters 9–11 flow out of Paul’s teaching in 1–8 and further develop
             it.
         answer: D
+        print_position: 1
       - uid: BIB215.6.1.1.TY.2
         subobj: 6.1.1
         type: ty
@@ -2213,6 +2365,7 @@ courses:
           C: The distinction between ethnic Israel and spiritual Israel
           D: The distinction between legalistic and libertine Israel
         answer: C
+        print_position: 6
       - uid: BIB215.6.1.2.UPE.1
         subobj: 6.1.2
         type: upe
@@ -2223,6 +2376,8 @@ courses:
           C: has a heart that is right with God.
           D: obeys the Law faithfully.
         answer: C
+        print_position: 3
+        unit: 3
       - uid: BIB215.6.1.2.UPE.2
         subobj: 6.1.2
         type: upe
@@ -2234,6 +2389,8 @@ courses:
           C: an absolute expression of God’s foreordination.
           D: nations rather than individuals.
         answer: D
+        print_position: 4
+        unit: 3
       - uid: BIB215.6.1.2.UPE.3
         subobj: 6.1.2
         type: upe
@@ -2245,6 +2402,8 @@ courses:
           C: Pharaoh had no control over God’s hardening his heart.
           D: often God hardens those who do not resist Him.
         answer: B
+        print_position: 5
+        unit: 3
       - uid: BIB215.6.1.2.TY.1
         subobj: 6.1.2
         type: ty
@@ -2259,6 +2418,7 @@ courses:
           D: tried to combine the gospel message with the rules and regulations of
             Jewish law.
         answer: B
+        print_position: 2
       - uid: BIB215.6.1.2.TY.2
         subobj: 6.1.2
         type: ty
@@ -2269,6 +2429,7 @@ courses:
           C: trusting in God’s promises and being changed by His Spirit.
           D: practicing careful observance of all the Jewish laws.
         answer: C
+        print_position: 3
       - uid: BIB215.6.1.2.TY.3
         subobj: 6.1.2
         type: ty
@@ -2280,6 +2441,7 @@ courses:
           C: the judgment of God on those for whom He has no compassion.
           D: the nations of Israel (Jacob) and Edom (Esau).
         answer: D
+        print_position: 4
       - uid: BIB215.6.1.2.TY.4
         subobj: 6.1.2
         type: ty
@@ -2290,6 +2452,7 @@ courses:
           C: unanimous in their rejection of Christ.
           D: guaranteed salvation through the covenants.
         answer: B
+        print_position: 7
       - uid: BIB215.6.1.2.TY.5
         subobj: 6.1.2
         type: ty
@@ -2300,6 +2463,7 @@ courses:
           C: all humans are given multiple opportunities to believe.
           D: God cannot be judged by human standards.
         answer: A
+        print_position: 8
       - uid: BIB215.6.2.1.UPE.1
         subobj: 6.2.1
         type: upe
@@ -2311,6 +2475,8 @@ courses:
           C: refusal to accept Gentiles into the church.
           D: failure to obey the Law at all times.
         answer: B
+        print_position: 6
+        unit: 3
       - uid: BIB215.6.2.1.TY.1
         subobj: 6.2.1
         type: ty
@@ -2321,6 +2487,7 @@ courses:
           C: attempt to earn salvation through works.
           D: reject the covenants with Israel.
         answer: B
+        print_position: 9
       - uid: BIB215.6.3.1.UPE.1
         subobj: 6.3.1
         type: upe
@@ -2332,6 +2499,8 @@ courses:
           C: Messenger proclaims the gospel.
           D: Believer calls on the Lord.
         answer: B
+        print_position: 7
+        unit: 3
       - uid: BIB215.6.3.1.UPE.2
         subobj: 6.3.1
         type: upe
@@ -2343,6 +2512,8 @@ courses:
           C: someone is sent.
           D: sinners respond.
         answer: C
+        print_position: 8
+        unit: 3
       - uid: BIB215.6.3.1.UPE.3
         subobj: 6.3.1
         type: upe
@@ -2354,6 +2525,8 @@ courses:
           C: nourishing sap from the root.
           D: a wild olive shoot.
         answer: D
+        print_position: 9
+        unit: 3
       - uid: BIB215.6.3.1.TY.1
         subobj: 6.3.1
         type: ty
@@ -2367,6 +2540,7 @@ courses:
           D: because He foreknew they would reject His promised Messiah, He made a
             special provision for their salvation.
         answer: A
+        print_position: 5
       - uid: BIB215.6.3.1.TY.2
         subobj: 6.3.1
         type: ty
@@ -2377,6 +2551,7 @@ courses:
           C: 'discussing the end result: those who are saved.'
           D: pleading for unity between Jews and Gentiles.
         answer: C
+        print_position: 10
       - uid: BIB215.7.1.1.UPE.1
         subobj: 7.1.1
         type: upe
@@ -2388,6 +2563,8 @@ courses:
           C: be passive and uninvolved in the changing process.
           D: withdraw from the world and all its influences.
         answer: B
+        print_position: 10
+        unit: 3
       - uid: BIB215.7.1.1.UPE.2
         subobj: 7.1.1
         type: upe
@@ -2398,6 +2575,8 @@ courses:
           C: be conformed to the likeness of God’s Son, Jesus Christ.
           D: put to death whatever belongs to one’s earthly nature.
         answer: C
+        print_position: 11
+        unit: 3
       - uid: BIB215.7.1.1.TY.1
         subobj: 7.1.1
         type: ty
@@ -2408,6 +2587,7 @@ courses:
           C: work to resolve the religious, mental, and emotional conflicts.
           D: develop techniques to master the flesh.
         answer: A
+        print_position: 6
       - uid: BIB215.7.1.1.TY.2
         subobj: 7.1.1
         type: ty
@@ -2418,6 +2598,7 @@ courses:
           C: “consider,” or “reckon.”
           D: “yield,” “give,” and “present.”
         answer: D
+        print_position: 8
       - uid: BIB215.7.1.2.UPE.1
         subobj: 7.1.2
         type: upe
@@ -2429,6 +2610,8 @@ courses:
           C: Duty to self and duty to others
           D: Preaching and teaching
         answer: B
+        print_position: 12
+        unit: 3
       - uid: BIB215.7.1.2.UPE.2
         subobj: 7.1.2
         type: upe
@@ -2441,6 +2624,8 @@ courses:
             are wrong.
           D: defend himself / herself no matter what it requires.
         answer: A
+        print_position: 13
+        unit: 3
       - uid: BIB215.7.1.2.TY.1
         subobj: 7.1.2
         type: ty
@@ -2452,6 +2637,7 @@ courses:
           C: limitations of faith that are experienced by most believers.
           D: evaluation of one’s faith according to the works one has done.
         answer: A
+        print_position: 1
       - uid: BIB215.7.1.2.TY.2
         subobj: 7.1.2
         type: ty
@@ -2463,6 +2649,7 @@ courses:
           C: punish anyone who causes an offense against the people of God.
           D: bestow kindness on an offender in order to lead him or her to repentance.
         answer: D
+        print_position: 2
       - uid: BIB215.7.1.2.TY.3
         subobj: 7.1.2
         type: ty
@@ -2473,6 +2660,7 @@ courses:
           C: working in relation to others and relying on Christ.
           D: able to perform all the works of ministry in the church.
         answer: C
+        print_position: 3
       - uid: BIB215.7.1.2.TY.4
         subobj: 7.1.2
         type: ty
@@ -2487,6 +2675,7 @@ courses:
           D: the functioning of spiritual gifts is not based on the quality of one’s
             character.
         answer: B
+        print_position: 4
       - uid: BIB215.7.1.2.TY.5
         subobj: 7.1.2
         type: ty
@@ -2498,6 +2687,7 @@ courses:
           C: is expendable to some degree.
           D: cannot be counted on to function indefinitely.
         answer: B
+        print_position: 7
       - uid: BIB215.7.2.1.UPE.1
         subobj: 7.2.1
         type: upe
@@ -2508,6 +2698,8 @@ courses:
           C: treat all citizens fairly, without prejudice.
           D: derive their authority from God.
         answer: D
+        print_position: 14
+        unit: 3
       - uid: BIB215.7.2.1.TY.1
         subobj: 7.2.1
         type: ty
@@ -2522,6 +2714,7 @@ courses:
           D: at the time of salvation, we are changed so that the Law becomes secondary
             to the work of Christ in us.
         answer: C
+        print_position: 5
       - uid: BIB215.7.2.1.TY.2
         subobj: 7.2.1
         type: ty
@@ -2533,6 +2726,7 @@ courses:
           C: when God’s kingdom will directly benefit.
           D: publicly but privately plan for their replacement.
         answer: A
+        print_position: 9
       - uid: BIB215.7.2.1.TY.3
         subobj: 7.2.1
         type: ty
@@ -2544,6 +2738,7 @@ courses:
           C: refuse when they require one to violate God-given commands.
           D: refuse when they may be cooperating with end-times prophetic developments.
         answer: C
+        print_position: 10
       - uid: BIB215.7.3.1.UPE.1
         subobj: 7.3.1
         type: upe
@@ -2555,6 +2750,8 @@ courses:
           C: clearly defined teaching.
           D: worldly practices and customs.
         answer: B
+        print_position: 15
+        unit: 3
       - uid: BIB215.7.3.1.UPE.2
         subobj: 7.3.1
         type: upe
@@ -2565,6 +2762,8 @@ courses:
           C: believing that no food, in itself, is unclean.
           D: having confidence in God’s acceptance.
         answer: A
+        print_position: 16
+        unit: 3
       - uid: BIB215.8.1.1.UPE.1
         subobj: 8.1.1
         type: upe
@@ -2576,6 +2775,8 @@ courses:
           C: extend to all people everywhere.
           D: be confined to our own people.
         answer: C
+        print_position: 17
+        unit: 3
       - uid: BIB215.8.1.1.UPE.2
         subobj: 8.1.1
         type: upe
@@ -2586,6 +2787,8 @@ courses:
           C: he had endured physically to preach the gospel.
           D: Christ had accomplished through him.
         answer: D
+        print_position: 18
+        unit: 3
       - uid: BIB215.8.1.1.UPE.3
         subobj: 8.1.1
         type: upe
@@ -2597,6 +2800,8 @@ courses:
           C: opening new areas to the gospel.
           D: building up the body of Christ.
         answer: A
+        print_position: 19
+        unit: 3
       - uid: BIB215.8.1.1.TY.1
         subobj: 8.1.1
         type: ty
@@ -2608,6 +2813,7 @@ courses:
           C: bear with weaker Christians and tolerate their sin.
           D: impose their own standards on their weaker brothers.
         answer: B
+        print_position: 1
       - uid: BIB215.8.1.1.TY.2
         subobj: 8.1.1
         type: ty
@@ -2619,6 +2825,7 @@ courses:
           C: Take the message of salvation to the Gentiles first.
           D: Take the message of salvation to the Jews first.
         answer: D
+        print_position: 2
       - uid: BIB215.8.1.1.TY.3
         subobj: 8.1.1
         type: ty
@@ -2630,6 +2837,7 @@ courses:
           C: Proud
           D: Powerful
         answer: C
+        print_position: 3
       - uid: BIB215.8.1.1.TY.4
         subobj: 8.1.1
         type: ty
@@ -2640,6 +2848,7 @@ courses:
           C: signs, wonders, and miracles.
           D: preaching and winning the lost.
         answer: C
+        print_position: 4
       - uid: BIB215.8.1.1.TY.5
         subobj: 8.1.1
         type: ty
@@ -2651,6 +2860,7 @@ courses:
           C: power.
           D: nature.
         answer: A
+        print_position: 5
       - uid: BIB215.8.1.1.TY.6
         subobj: 8.1.1
         type: ty
@@ -2661,6 +2871,7 @@ courses:
           C: in the places where Jesus taught.
           D: where Christ was not known.
         answer: D
+        print_position: 6
       - uid: BIB215.8.1.1.TY.7
         subobj: 8.1.1
         type: ty
@@ -2673,6 +2884,7 @@ courses:
           D: an excellent example for the Roman church’s involvement with the universal
             church.
         answer: B
+        print_position: 9
       - uid: BIB215.8.2.1.UPE.1
         subobj: 8.2.1
         type: upe
@@ -2684,6 +2896,8 @@ courses:
           C: high-ranking Gentiles living in Rome.
           D: Greeks associated with the ruling class.
         answer: A
+        print_position: 20
+        unit: 3
       - uid: BIB215.8.2.1.UPE.2
         subobj: 8.2.1
         type: upe
@@ -2695,6 +2909,8 @@ courses:
           C: Phoebe
           D: Tryphena
         answer: C
+        print_position: 21
+        unit: 3
       - uid: BIB215.8.2.1.UPE.3
         subobj: 8.2.1
         type: upe
@@ -2706,6 +2922,8 @@ courses:
           C: his relatives Andronicus and Junias.
           D: the household of Aristobulus.
         answer: C
+        print_position: 22
+        unit: 3
       - uid: BIB215.8.2.1.TY.1
         subobj: 8.2.1
         type: ty
@@ -2717,6 +2935,7 @@ courses:
           C: Epenetus.
           D: Junias.
         answer: B
+        print_position: 7
       - uid: BIB215.8.2.2.UPE.1
         subobj: 8.2.2
         type: upe
@@ -2730,6 +2949,8 @@ courses:
           D: It was Paul’s pattern to greet people by name solely in churches he had
             not founded.
         answer: D
+        print_position: 23
+        unit: 3
       - uid: BIB215.8.3.1.UPE.1
         subobj: 8.3.1
         type: upe
@@ -2742,6 +2963,8 @@ courses:
           D: be suspicious of others within the church until they have proven themselves
             trustworthy.
         answer: C
+        print_position: 24
+        unit: 3
       - uid: BIB215.8.3.1.UPE.2
         subobj: 8.3.1
         type: upe
@@ -2753,6 +2976,8 @@ courses:
           C: God’s eventual judgment of the world.
           D: the doctrine of predestination.
         answer: A
+        print_position: 25
+        unit: 3
       - uid: BIB215.8.3.1.TY.1
         subobj: 8.3.1
         type: ty
@@ -2764,6 +2989,7 @@ courses:
           C: stay away from those who cause divisions and obstruct truth.
           D: use smooth talk and flattery to convince people of their need for Christ.
         answer: C
+        print_position: 8
       - uid: BIB215.8.3.1.TY.2
         subobj: 8.3.1
         type: ty
@@ -2775,6 +3001,8 @@ courses:
           C: produces results.
           D: promotes goodness.
         answer: D
+        print_position: 10
+      captured: reparse
     - pn: 03.22.01
       course_code: BIB215
       source_html: BBIB215ENE03-90_03.22.01.html
@@ -2795,6 +3023,8 @@ courses:
           C: of the tribe of Judah.
           D: zealous for the Jewish law.
         answer: D
+        print_position: 1
+        unit: 1
       - uid: BIB215.1.1.1.TY.1
         subobj: 1.1.1
         type: ty
@@ -2805,6 +3035,7 @@ courses:
           C: of the tribe of Judah.
           D: an apostle to the Gentiles.
         answer: C
+        print_position: 1
       - uid: BIB215.1.1.2.UPE.1
         subobj: 1.1.2
         type: upe
@@ -2816,6 +3047,8 @@ courses:
           C: encouragement to break from his Jewish past.
           D: an introduction to Jesus’ disciples.
         answer: B
+        print_position: 2
+        unit: 1
       - uid: BIB215.1.1.2.TY.1
         subobj: 1.1.2
         type: ty
@@ -2827,6 +3060,7 @@ courses:
           C: he was trained under Gamaliel, the leading Pharisee of his day.
           D: he zealously persecuted the church.
         answer: B
+        print_position: 4
       - uid: BIB215.1.1.3.UPE.1
         subobj: 1.1.3
         type: upe
@@ -2838,6 +3072,8 @@ courses:
           C: Second missionary journey
           D: Third missionary journey
         answer: D
+        print_position: 3
+        unit: 1
       - uid: BIB215.1.2.1.UPE.1
         subobj: 1.2.1
         type: upe
@@ -2848,6 +3084,8 @@ courses:
           C: relationships of believers to one another.
           D: Spirit versus flesh.
         answer: A
+        print_position: 4
+        unit: 1
       - uid: BIB215.1.2.1.UPE.2
         subobj: 1.2.1
         type: upe
@@ -2860,6 +3098,8 @@ courses:
             Him.
           D: shape believers into the image of His Son.
         answer: D
+        print_position: 5
+        unit: 1
       - uid: BIB215.1.2.1.TY.1
         subobj: 1.2.1
         type: ty
@@ -2871,6 +3111,7 @@ courses:
           C: the early stages of his missionary journey in Asia Minor.
           D: a short stay in Corinth near the end of his third missionary journey.
         answer: D
+        print_position: 3
       - uid: BIB215.1.2.1.TY.2
         subobj: 1.2.1
         type: ty
@@ -2881,6 +3122,7 @@ courses:
           C: God’s total rejection of Israel.
           D: a righteousness from God.
         answer: D
+        print_position: 7
       - uid: BIB215.1.3.1.UPE.1
         subobj: 1.3.1
         type: upe
@@ -2891,6 +3133,8 @@ courses:
           C: the church was multinational in its makeup.
           D: no women were engaged in ministry there.
         answer: C
+        print_position: 6
+        unit: 1
       - uid: BIB215.1.3.1.TY.1
         subobj: 1.3.1
         type: ty
@@ -2901,6 +3145,7 @@ courses:
           C: Gentile believers equaled Jewish in number.
           D: we have no idea how the numbers of Gentile and Jewish believers compared.
         answer: A
+        print_position: 9
       - uid: BIB215.1.3.2.UPE.1
         subobj: 1.3.2
         type: upe
@@ -2911,6 +3156,8 @@ courses:
           C: realm of glory, is highly exalted above all others.
           D: capacity of Lawgiver, will someday judge all people for their sins.
         answer: A
+        print_position: 7
+        unit: 1
       - uid: BIB215.1.3.2.TY.1
         subobj: 1.3.2
         type: ty
@@ -2922,6 +3169,7 @@ courses:
           C: servant nature.
           D: personal weaknesses.
         answer: C
+        print_position: 2
       - uid: BIB215.1.3.2.TY.2
         subobj: 1.3.2
         type: ty
@@ -2935,6 +3183,7 @@ courses:
           C: was referring specifically to the Father’s affirmation at Jesus’ baptism.
           D: meant that Jesus was the Son of God only because of His miracles.
         answer: B
+        print_position: 6
       - uid: BIB215.1.3.2.TY.3
         subobj: 1.3.2
         type: ty
@@ -2946,6 +3195,7 @@ courses:
           C: was not familiar with Paul’s teaching.
           D: was correcting a misinterpretation of Paul’s teaching.
         answer: D
+        print_position: 10
       - uid: BIB215.1.4.1.UPE.1
         subobj: 1.4.1
         type: upe
@@ -2957,6 +3207,8 @@ courses:
           C: be free from sin.
           D: live by faith.
         answer: D
+        print_position: 8
+        unit: 1
       - uid: BIB215.1.4.1.UPE.2
         subobj: 1.4.1
         type: upe
@@ -2968,6 +3220,8 @@ courses:
           C: misunderstood their own Scriptures.
           D: did not believe God’s promise of a Messiah.
         answer: C
+        print_position: 9
+        unit: 1
       - uid: BIB215.1.4.1.TY.1
         subobj: 1.4.1
         type: ty
@@ -2979,6 +3233,7 @@ courses:
           C: judgment.
           D: all of the above.
         answer: D
+        print_position: 5
       - uid: BIB215.1.4.1.TY.2
         subobj: 1.4.1
         type: ty
@@ -2989,6 +3244,7 @@ courses:
           C: observing the Law.
           D: hearing the gospel.
         answer: A
+        print_position: 8
       - uid: BIB215.2.1.1.UPE.1
         subobj: 2.1.1
         type: upe
@@ -3000,6 +3256,8 @@ courses:
           C: Gentiles in particular.
           D: his own people.
         answer: C
+        print_position: 10
+        unit: 1
       - uid: BIB215.2.1.1.UPE.2
         subobj: 2.1.1
         type: upe
@@ -3011,6 +3269,8 @@ courses:
           C: first revelation.
           D: general revelation.
         answer: D
+        print_position: 11
+        unit: 1
       - uid: BIB215.2.1.1.TY.1
         subobj: 2.1.1
         type: ty
@@ -3022,6 +3282,7 @@ courses:
           D: God’s end-time judgment.
           E: all of the above.
         answer: E
+        print_position: 1
       - uid: BIB215.2.1.1.TY.2
         subobj: 2.1.1
         type: ty
@@ -3032,6 +3293,7 @@ courses:
           C: the Law and the prophets.
           D: a person’s consciousness of right and wrong.
         answer: C
+        print_position: 2
       - uid: BIB215.2.1.1.TY.3
         subobj: 2.1.1
         type: ty
@@ -3042,6 +3304,7 @@ courses:
           C: intuition and imagination.
           D: religion and nature.
         answer: A
+        print_position: 9
       - uid: BIB215.2.1.2.UPE.1
         subobj: 2.1.2
         type: upe
@@ -3053,6 +3316,8 @@ courses:
           C: recognized God only through their inner consciousness.
           D: tried in their own strength to be righteous.
         answer: A
+        print_position: 12
+        unit: 1
       - uid: BIB215.2.1.2.TY.1
         subobj: 2.1.2
         type: ty
@@ -3063,6 +3328,7 @@ courses:
           C: Paul received these truths from early church leaders.
           D: Bible scholars have established and documented them.
         answer: B
+        print_position: 4
       - uid: BIB215.2.1.2.TY.2
         subobj: 2.1.2
         type: ty
@@ -3073,6 +3339,7 @@ courses:
           C: want to see a demonstration of His divine power.
           D: reject what He has clearly made plain to them.
         answer: C
+        print_position: 5
       - uid: BIB215.2.1.2.TY.3
         subobj: 2.1.2
         type: ty
@@ -3083,6 +3350,7 @@ courses:
           C: quick and immediate punishment when people sin.
           D: gradual storing up that leads to future judgment.
         answer: D
+        print_position: 7
       - uid: BIB215.2.1.3.UPE.1
         subobj: 2.1.3
         type: upe
@@ -3094,6 +3362,8 @@ courses:
           C: God’s wrath is like a sudden outburst of anger.
           D: God rewards people according to their deeds.
         answer: D
+        print_position: 13
+        unit: 1
       - uid: BIB215.2.1.3.TY.1
         subobj: 2.1.3
         type: ty
@@ -3104,6 +3374,7 @@ courses:
           C: moral strength.
           D: destruction.
         answer: D
+        print_position: 10
       - uid: BIB215.2.2.1.UPE.1
         subobj: 2.2.1
         type: upe
@@ -3115,6 +3386,8 @@ courses:
           C: whether or not a person is morally superior to his or her acquaintances.
           D: how well one adapts to the requirements of the Law.
         answer: B
+        print_position: 14
+        unit: 1
       - uid: BIB215.2.2.1.TY.1
         subobj: 2.2.1
         type: ty
@@ -3126,6 +3399,7 @@ courses:
           C: good person according to human standards.
           D: Jew and a Gentile combined.
         answer: A
+        print_position: 3
       - uid: BIB215.2.2.1.TY.2
         subobj: 2.2.1
         type: ty
@@ -3137,6 +3411,7 @@ courses:
           C: their assessment of how others live.
           D: how they themselves live.
         answer: D
+        print_position: 8
       - uid: BIB215.2.2.2.UPE.1
         subobj: 2.2.2
         type: upe
@@ -3147,6 +3422,8 @@ courses:
           C: a cutting of the body in an act of obedience.
           D: perfect understanding of the Law.
         answer: B
+        print_position: 15
+        unit: 1
       - uid: BIB215.2.2.3.UPE.1
         subobj: 2.2.3
         type: upe
@@ -3158,6 +3435,8 @@ courses:
           C: God is unjust in bringing His wrath on us.
           D: God will judge everyone fairly.
         answer: C
+        print_position: 16
+        unit: 1
       - uid: BIB215.2.3.1.UPE.1
         subobj: 2.3.1
         type: upe
@@ -3168,6 +3447,8 @@ courses:
           C: freed from sin’s control.
           D: given the means for cleansing from sin.
         answer: A
+        print_position: 17
+        unit: 1
       - uid: BIB215.2.3.1.TY.1
         subobj: 2.3.1
         type: ty
@@ -3179,6 +3460,7 @@ courses:
           C: universality of sin.
           D: limitations of God’s wrath.
         answer: C
+        print_position: 6
       - uid: BIB215.3.1.1.UPE.1
         subobj: 3.1.1
         type: upe
@@ -3190,6 +3472,8 @@ courses:
           C: the purpose of the Law.
           D: God’s provision of a Savior.
         answer: D
+        print_position: 18
+        unit: 1
       - uid: BIB215.3.1.1.UPE.2
         subobj: 3.1.1
         type: upe
@@ -3200,6 +3484,8 @@ courses:
           C: a righteousness from God through Christ.
           D: legalistic righteousness based on self-effort.
         answer: C
+        print_position: 19
+        unit: 1
       - uid: BIB215.3.1.1.TY.1
         subobj: 3.1.1
         type: ty
@@ -3211,6 +3497,7 @@ courses:
           C: logical change in Paul’s argument.
           D: transition from one source of righteousness to another.
         answer: C
+        print_position: 1
       - uid: BIB215.3.1.1.TY.2
         subobj: 3.1.1
         type: ty
@@ -3222,6 +3509,7 @@ courses:
           D: the gospel is not introduced as an afterthought but was always in God’s
             plan.
         answer: D
+        print_position: 2
       - uid: BIB215.3.1.1.TY.3
         subobj: 3.1.1
         type: ty
@@ -3232,6 +3520,7 @@ courses:
           C: in an unlawful manner.
           D: distinct from the Ten Commandments.
         answer: A
+        print_position: 3
       - uid: BIB215.3.1.1.TY.4
         subobj: 3.1.1
         type: ty
@@ -3242,6 +3531,7 @@ courses:
           C: rejecting the Law.
           D: deserving it.
         answer: A
+        print_position: 8
       - uid: BIB215.3.1.1.TY.5
         subobj: 3.1.1
         type: ty
@@ -3252,6 +3542,7 @@ courses:
           C: a prophetic curse.
           D: justification.
         answer: B
+        print_position: 9
       - uid: BIB215.3.1.2.UPE.1
         subobj: 3.1.2
         type: upe
@@ -3262,6 +3553,8 @@ courses:
           C: redemption, propitiation, and justification.
           D: hearing, believing, and trusting.
         answer: C
+        print_position: 20
+        unit: 1
       - uid: BIB215.3.1.2.TY.1
         subobj: 3.1.2
         type: ty
@@ -3272,6 +3565,7 @@ courses:
           C: a turning away from sin.
           D: being born again.
         answer: B
+        print_position: 4
       - uid: BIB215.3.1.3.UPE.1
         subobj: 3.1.3
         type: upe
@@ -3283,6 +3577,8 @@ courses:
           C: abolishes the Law.
           D: is added to the Law.
         answer: A
+        print_position: 21
+        unit: 1
       - uid: BIB215.3.1.3.TY.1
         subobj: 3.1.3
         type: ty
@@ -3294,6 +3590,7 @@ courses:
           C: demonstrating a weakness in the Law.
           D: sustaining the Law.
         answer: D
+        print_position: 5
       - uid: BIB215.3.2.1.UPE.1
         subobj: 3.2.1
         type: upe
@@ -3305,6 +3602,8 @@ courses:
           C: Abraham was justified by faith, not works.
           D: Obedience flowed out of Abraham’s trust in God.
         answer: B
+        print_position: 22
+        unit: 1
       - uid: BIB215.3.2.1.UPE.2
         subobj: 3.2.1
         type: upe
@@ -3317,6 +3616,8 @@ courses:
           C: David’s obedience to the Law was credited to him as righteousness.
           D: David earned the forgiveness of God by his great works.
         answer: A
+        print_position: 23
+        unit: 1
       - uid: BIB215.3.2.1.TY.1
         subobj: 3.2.1
         type: ty
@@ -3337,6 +3638,7 @@ courses:
           C: Jesus Christ.
           D: the Law.
         answer: C
+        print_position: 7
       - uid: BIB215.3.3.1.UPE.1
         subobj: 3.3.1
         type: upe
@@ -3348,6 +3650,8 @@ courses:
           C: complete victory over sin.
           D: peace with God.
         answer: D
+        print_position: 24
+        unit: 1
       - uid: BIB215.3.3.1.TY.1
         subobj: 3.3.1
         type: ty
@@ -3360,6 +3664,7 @@ courses:
           D: two of the benefits of justification that believers experience in this
             life.
         answer: D
+        print_position: 10
       - uid: BIB215.3.4.1.UPE.1
         subobj: 3.4.1
         type: upe
@@ -3371,6 +3676,8 @@ courses:
           C: innocence they shared at birth.
           D: inheritance we receive from each of them.
         answer: B
+        print_position: 25
+        unit: 1
       - uid: BIB215.4.1.1.UPE.1
         subobj: 4.1.1
         type: upe
@@ -3382,6 +3689,8 @@ courses:
           C: sanctification.
           D: reconciliation.
         answer: C
+        print_position: 1
+        unit: 2
       - uid: BIB215.4.1.1.TY.1
         subobj: 4.1.1
         type: ty
@@ -3393,6 +3702,7 @@ courses:
           C: Jews, Gentiles, and Christians.
           D: condemnation, justification, and sanctification.
         answer: D
+        print_position: 1
       - uid: BIB215.4.1.2.UPE.1
         subobj: 4.1.2
         type: upe
@@ -3404,6 +3714,8 @@ courses:
           C: those with the greatest sin receive more abundant grace.
           D: God’s grace is insufficient as a restraint to sin.
         answer: B
+        print_position: 2
+        unit: 2
       - uid: BIB215.4.1.2.UPE.2
         subobj: 4.1.2
         type: upe
@@ -3414,6 +3726,8 @@ courses:
           C: no longer tempted to gratify the desires of the sinful nature.
           D: no longer bound by the requirements of the Law.
         answer: A
+        print_position: 3
+        unit: 2
       - uid: BIB215.4.1.2.UPE.3
         subobj: 4.1.2
         type: upe
@@ -3424,6 +3738,8 @@ courses:
           C: death as one deserving justice.
           D: suffering as one who “completes the sufferings of Christ. ”
         answer: A
+        print_position: 4
+        unit: 2
       - uid: BIB215.4.1.2.UPE.4
         subobj: 4.1.2
         type: upe
@@ -3435,6 +3751,8 @@ courses:
           C: know, count, and offer.
           D: believe, count, and repent.
         answer: C
+        print_position: 5
+        unit: 2
       - uid: BIB215.4.1.2.UPE.5
         subobj: 4.1.2
         type: upe
@@ -3445,6 +3763,8 @@ courses:
           C: circumcision.
           D: hearing.
         answer: A
+        print_position: 6
+        unit: 2
       - uid: BIB215.4.1.2.TY.1
         subobj: 4.1.2
         type: ty
@@ -3456,6 +3776,7 @@ courses:
           C: expected of former idolaters who come to Christ.
           D: an immature understanding that should be corrected.
         answer: B
+        print_position: 2
       - uid: BIB215.4.1.2.TY.2
         subobj: 4.1.2
         type: ty
@@ -3467,6 +3788,7 @@ courses:
           C: know , count , and offer .
           D: believe , count , and repent .
         answer: C
+        print_position: 3
       - uid: BIB215.4.1.2.TY.3
         subobj: 4.1.2
         type: ty
@@ -3477,6 +3799,7 @@ courses:
           C: circumcision.
           D: hearing.
         answer: A
+        print_position: 4
       - uid: BIB215.4.1.2.TY.4
         subobj: 4.1.2
         type: ty
@@ -3487,6 +3810,7 @@ courses:
           C: a branch grafted to a tree.
           D: Abraham’s union with Isaac.
         answer: C
+        print_position: 5
       - uid: BIB215.4.1.2.TY.5
         subobj: 4.1.2
         type: ty
@@ -3508,6 +3832,7 @@ courses:
           C: by association with John’s baptism of Jesus.
           D: through the symbolism of the tabernacle laver.
         answer: A
+        print_position: 7
       - uid: BIB215.4.1.2.TY.7
         subobj: 4.1.2
         type: ty
@@ -3518,6 +3843,7 @@ courses:
           C: live as a true son of Abraham.
           D: offer oneself to God as an instrument of righteousness.
         answer: D
+        print_position: 9
       - uid: BIB215.4.2.1.UPE.1
         subobj: 4.2.1
         type: upe
@@ -3528,6 +3854,8 @@ courses:
           C: enabled to fulfill the Law.
           D: free to control their own lives.
         answer: C
+        print_position: 7
+        unit: 2
       - uid: BIB215.4.2.1.UPE.2
         subobj: 4.2.1
         type: upe
@@ -3539,6 +3867,8 @@ courses:
           C: greater usefulness to God.
           D: eternal life.
         answer: D
+        print_position: 8
+        unit: 2
       - uid: BIB215.4.2.1.UPE.3
         subobj: 4.2.1
         type: upe
@@ -3549,6 +3879,8 @@ courses:
           C: It makes us conscious of sin.
           D: It reveals the magnitude of sin.
         answer: B
+        print_position: 9
+        unit: 2
       - uid: BIB215.4.2.1.TY.1
         subobj: 4.2.1
         type: ty
@@ -3560,6 +3892,7 @@ courses:
           C: knowledge of God’s will.
           D: status in the church.
         answer: B
+        print_position: 8
       - uid: BIB215.4.3.1.UPE.1
         subobj: 4.3.1
         type: upe
@@ -3571,6 +3904,8 @@ courses:
           C: He thinks he can fight the battle against sin in his own strength.
           D: He hates sin and is disappointed by his sins.
         answer: D
+        print_position: 10
+        unit: 2
       - uid: BIB215.4.3.1.UPE.2
         subobj: 4.3.1
         type: upe
@@ -3582,6 +3917,8 @@ courses:
           C: the sinful nature and the Spirit of God within.
           D: being controlled by sin or by self.
         answer: C
+        print_position: 11
+        unit: 2
       - uid: BIB215.4.3.1.UPE.3
         subobj: 4.3.1
         type: upe
@@ -3593,6 +3930,8 @@ courses:
           C: can provide a fulfilling union if practiced wisely.
           D: exemplifies God’s grace, much like a forgiving husband.
         answer: B
+        print_position: 12
+        unit: 2
       - uid: BIB215.4.3.1.TY.1
         subobj: 4.3.1
         type: ty
@@ -3603,6 +3942,7 @@ courses:
           C: the Living Word within us.
           D: love, in and through the church.
         answer: A
+        print_position: 10
       - uid: BIB215.5.1.1.UPE.1
         subobj: 5.1.1
         type: upe
@@ -3614,6 +3954,8 @@ courses:
           C: Romans 8
           D: Romans 15
         answer: C
+        print_position: 13
+        unit: 2
       - uid: BIB215.5.1.1.TY.1
         subobj: 5.1.1
         type: ty
@@ -3624,6 +3966,7 @@ courses:
           C: reminds believers of Jesus’ words.
           D: imparts gifts to the church.
         answer: B
+        print_position: 1
       - uid: BIB215.5.1.2.UPE.1
         subobj: 5.1.2
         type: upe
@@ -3635,6 +3978,8 @@ courses:
           C: God has decided that no one deserves to be condemned.
           D: God removed our guilt by sending His Son to save us.
         answer: D
+        print_position: 14
+        unit: 2
       - uid: BIB215.5.1.2.UPE.2
         subobj: 5.1.2
         type: upe
@@ -3646,6 +3991,8 @@ courses:
           C: determination they have to avoid sin and follow God.
           D: decree of God that pronounces them sinless.
         answer: B
+        print_position: 15
+        unit: 2
       - uid: BIB215.5.1.2.UPE.3
         subobj: 5.1.2
         type: upe
@@ -3656,6 +4003,8 @@ courses:
           C: was fully human and only pretended to be God’s Son.
           D: only seemed to do miracles.
         answer: A
+        print_position: 16
+        unit: 2
       - uid: BIB215.5.1.2.UPE.4
         subobj: 5.1.2
         type: upe
@@ -3666,6 +4015,8 @@ courses:
           C: the agent of peace and harmony.
           D: an advocate for us to the Father.
         answer: B
+        print_position: 17
+        unit: 2
       - uid: BIB215.5.1.2.TY.1
         subobj: 5.1.2
         type: ty
@@ -3680,6 +4031,7 @@ courses:
           D: the condemnation that entered through Adam’s sin is cancelled through
             Christ’s work.
         answer: D
+        print_position: 2
       - uid: BIB215.5.1.2.TY.2
         subobj: 5.1.2
         type: ty
@@ -3690,6 +4042,7 @@ courses:
           C: was fully human and only pretended to be God’s Son.
           D: only seemed to do miracles.
         answer: A
+        print_position: 3
       - uid: BIB215.5.1.2.TY.3
         subobj: 5.1.2
         type: ty
@@ -3700,6 +4053,7 @@ courses:
           C: the agent of peace and harmony.
           D: an advocate for us to the Father.
         answer: B
+        print_position: 8
       - uid: BIB215.5.1.3.UPE.1
         subobj: 5.1.3
         type: upe
@@ -3710,6 +4064,8 @@ courses:
           C: lives according to the sinful nature.
           D: walks the narrow road that leads to life.
         answer: C
+        print_position: 18
+        unit: 2
       - uid: BIB215.5.1.3.TY.1
         subobj: 5.1.3
         type: ty
@@ -3720,6 +4076,7 @@ courses:
           C: hostile to Satan’s attempts to destroy us.
           D: hostile to God and not at peace with Him.
         answer: D
+        print_position: 4
       - uid: BIB215.5.1.4.UPE.1
         subobj: 5.1.4
         type: upe
@@ -3731,6 +4088,8 @@ courses:
           C: try to avoid sinful practices.
           D: look upon God as their Father.
         answer: B
+        print_position: 19
+        unit: 2
       - uid: BIB215.5.1.4.TY.1
         subobj: 5.1.4
         type: ty
@@ -3741,6 +4100,7 @@ courses:
           C: share in Christ’s sufferings as well as in His treasures.
           D: share in Christ’s sufferings in order to inherit heaven’s treasures.
         answer: C
+        print_position: 5
       - uid: BIB215.5.2.1.UPE.1
         subobj: 5.2.1
         type: upe
@@ -3752,6 +4112,8 @@ courses:
           C: temptations.
           D: judgment.
         answer: A
+        print_position: 20
+        unit: 2
       - uid: BIB215.5.2.1.TY.1
         subobj: 5.2.1
         type: ty
@@ -3774,6 +4136,7 @@ courses:
           C: directly related to his or her disobedience and sin.
           D: earning adoption as sons.
         answer: A
+        print_position: 7
       - uid: BIB215.5.3.1.UPE.1
         subobj: 5.3.1
         type: upe
@@ -3785,6 +4148,8 @@ courses:
           C: give them a testimony of how He delivered them.
           D: conform them to the likeness of His Son.
         answer: D
+        print_position: 21
+        unit: 2
       - uid: BIB215.5.3.1.UPE.2
         subobj: 5.3.1
         type: upe
@@ -3796,6 +4161,8 @@ courses:
           C: We have been redeemed from the Law’s curse.
           D: With God for us, no one can prevail against us.
         answer: D
+        print_position: 22
+        unit: 2
       - uid: BIB215.5.3.2.UPE.1
         subobj: 5.3.2
         type: upe
@@ -3806,6 +4173,8 @@ courses:
           C: “a daily process of conquering the sinful nature.”
           D: “being conformed to the image of Christ.”
         answer: D
+        print_position: 23
+        unit: 2
       - uid: BIB215.5.3.2.UPE.2
         subobj: 5.3.2
         type: upe
@@ -3817,6 +4186,8 @@ courses:
           C: Paul states that nothing can separate us from God’s love.
           D: Ignorance of grace separates us from God’s love.
         answer: C
+        print_position: 24
+        unit: 2
       - uid: BIB215.5.3.2.UPE.3
         subobj: 5.3.2
         type: upe
@@ -3827,6 +4198,8 @@ courses:
           C: God planning what He would do for those who would become His children.
           D: God’s inability to change His mind and alter His plans.
         answer: C
+        print_position: 25
+        unit: 2
       - uid: BIB215.5.3.2.TY.1
         subobj: 5.3.2
         type: ty
@@ -3837,6 +4210,7 @@ courses:
           C: God planning what He would do for those who would become His children.
           D: God’s inability to change His mind and alter His plans.
         answer: C
+        print_position: 9
       - uid: BIB215.5.3.2.TY.2
         subobj: 5.3.2
         type: ty
@@ -3847,6 +4221,7 @@ courses:
           C: effect of God’s love in the lives of those who suffer.
           D: completion in a believer of the conforming process into Christ’s likeness.
         answer: D
+        print_position: 10
       - uid: BIB215.6.1.1.UPE.1
         subobj: 6.1.1
         type: upe
@@ -3857,6 +4232,8 @@ courses:
           C: The sinful condition of all people
           D: Israel’s divine purpose in history
         answer: D
+        print_position: 1
+        unit: 3
       - uid: BIB215.6.1.1.UPE.2
         subobj: 6.1.1
         type: upe
@@ -3867,6 +4244,8 @@ courses:
           C: give important instruction specifically for the Gentile church.
           D: serve as a practical application of what he has already written.
         answer: A
+        print_position: 2
+        unit: 3
       - uid: BIB215.6.1.1.TY.1
         subobj: 6.1.1
         type: ty
@@ -3881,6 +4260,7 @@ courses:
           D: Chapters 9–11 flow out of Paul’s teaching in 1–8 and further develop
             it.
         answer: D
+        print_position: 1
       - uid: BIB215.6.1.1.TY.2
         subobj: 6.1.1
         type: ty
@@ -3892,6 +4272,7 @@ courses:
           C: The distinction between ethnic Israel and spiritual Israel
           D: The distinction between legalistic and libertine Israel
         answer: C
+        print_position: 6
       - uid: BIB215.6.1.2.UPE.1
         subobj: 6.1.2
         type: upe
@@ -3902,6 +4283,8 @@ courses:
           C: has a heart that is right with God.
           D: obeys the Law faithfully.
         answer: C
+        print_position: 3
+        unit: 3
       - uid: BIB215.6.1.2.UPE.2
         subobj: 6.1.2
         type: upe
@@ -3913,6 +4296,8 @@ courses:
           C: an absolute expression of God’s foreordination.
           D: nations rather than individuals.
         answer: D
+        print_position: 4
+        unit: 3
       - uid: BIB215.6.1.2.UPE.3
         subobj: 6.1.2
         type: upe
@@ -3924,6 +4309,8 @@ courses:
           C: Pharaoh had no control over God’s hardening his heart.
           D: often God hardens those who do not resist Him.
         answer: B
+        print_position: 5
+        unit: 3
       - uid: BIB215.6.1.2.TY.1
         subobj: 6.1.2
         type: ty
@@ -3938,6 +4325,7 @@ courses:
           D: tried to combine the gospel message with the rules and regulations of
             Jewish law.
         answer: B
+        print_position: 2
       - uid: BIB215.6.1.2.TY.2
         subobj: 6.1.2
         type: ty
@@ -3948,6 +4336,7 @@ courses:
           C: trusting in God’s promises and being changed by His Spirit.
           D: practicing careful observance of all the Jewish laws.
         answer: C
+        print_position: 3
       - uid: BIB215.6.1.2.TY.3
         subobj: 6.1.2
         type: ty
@@ -3959,6 +4348,7 @@ courses:
           C: the judgment of God on those for whom He has no compassion.
           D: the nations of Israel (Jacob) and Edom (Esau).
         answer: D
+        print_position: 4
       - uid: BIB215.6.1.2.TY.4
         subobj: 6.1.2
         type: ty
@@ -3969,6 +4359,7 @@ courses:
           C: unanimous in their rejection of Christ.
           D: guaranteed salvation through the covenants.
         answer: B
+        print_position: 7
       - uid: BIB215.6.1.2.TY.5
         subobj: 6.1.2
         type: ty
@@ -3979,6 +4370,7 @@ courses:
           C: all humans are given multiple opportunities to believe.
           D: God cannot be judged by human standards.
         answer: A
+        print_position: 8
       - uid: BIB215.6.2.1.UPE.1
         subobj: 6.2.1
         type: upe
@@ -3990,6 +4382,8 @@ courses:
           C: refusal to accept Gentiles into the church.
           D: failure to obey the Law at all times.
         answer: B
+        print_position: 6
+        unit: 3
       - uid: BIB215.6.2.1.TY.1
         subobj: 6.2.1
         type: ty
@@ -4000,6 +4394,7 @@ courses:
           C: attempt to earn salvation through works.
           D: reject the covenants with Israel.
         answer: B
+        print_position: 9
       - uid: BIB215.6.3.1.UPE.1
         subobj: 6.3.1
         type: upe
@@ -4011,6 +4406,8 @@ courses:
           C: Messenger proclaims the gospel.
           D: Believer calls on the Lord.
         answer: B
+        print_position: 7
+        unit: 3
       - uid: BIB215.6.3.1.UPE.2
         subobj: 6.3.1
         type: upe
@@ -4022,6 +4419,8 @@ courses:
           C: someone is sent.
           D: sinners respond.
         answer: C
+        print_position: 8
+        unit: 3
       - uid: BIB215.6.3.1.UPE.3
         subobj: 6.3.1
         type: upe
@@ -4033,6 +4432,8 @@ courses:
           C: nourishing sap from the root.
           D: a wild olive shoot.
         answer: D
+        print_position: 9
+        unit: 3
       - uid: BIB215.6.3.1.TY.1
         subobj: 6.3.1
         type: ty
@@ -4046,6 +4447,7 @@ courses:
           D: because He foreknew they would reject His promised Messiah, He made a
             special provision for their salvation.
         answer: A
+        print_position: 5
       - uid: BIB215.6.3.1.TY.2
         subobj: 6.3.1
         type: ty
@@ -4056,6 +4458,7 @@ courses:
           C: 'discussing the end result: those who are saved.'
           D: pleading for unity between Jews and Gentiles.
         answer: C
+        print_position: 10
       - uid: BIB215.7.1.1.UPE.1
         subobj: 7.1.1
         type: upe
@@ -4067,6 +4470,8 @@ courses:
           C: be passive and uninvolved in the changing process.
           D: withdraw from the world and all its influences.
         answer: B
+        print_position: 10
+        unit: 3
       - uid: BIB215.7.1.1.UPE.2
         subobj: 7.1.1
         type: upe
@@ -4077,6 +4482,8 @@ courses:
           C: be conformed to the likeness of God’s Son, Jesus Christ.
           D: put to death whatever belongs to one’s earthly nature.
         answer: C
+        print_position: 11
+        unit: 3
       - uid: BIB215.7.1.1.TY.1
         subobj: 7.1.1
         type: ty
@@ -4087,6 +4494,7 @@ courses:
           C: work to resolve the religious, mental, and emotional conflicts.
           D: develop techniques to master the flesh.
         answer: A
+        print_position: 6
       - uid: BIB215.7.1.1.TY.2
         subobj: 7.1.1
         type: ty
@@ -4097,6 +4505,7 @@ courses:
           C: “consider,” or “reckon.”
           D: “yield,” “give,” and “present.”
         answer: D
+        print_position: 8
       - uid: BIB215.7.1.2.UPE.1
         subobj: 7.1.2
         type: upe
@@ -4108,6 +4517,8 @@ courses:
           C: Duty to self and duty to others
           D: Preaching and teaching
         answer: B
+        print_position: 12
+        unit: 3
       - uid: BIB215.7.1.2.UPE.2
         subobj: 7.1.2
         type: upe
@@ -4120,6 +4531,8 @@ courses:
             are wrong.
           D: defend himself / herself no matter what it requires.
         answer: A
+        print_position: 13
+        unit: 3
       - uid: BIB215.7.1.2.TY.1
         subobj: 7.1.2
         type: ty
@@ -4131,6 +4544,7 @@ courses:
           C: limitations of faith that are experienced by most believers.
           D: evaluation of one’s faith according to the works one has done.
         answer: A
+        print_position: 1
       - uid: BIB215.7.1.2.TY.2
         subobj: 7.1.2
         type: ty
@@ -4142,6 +4556,7 @@ courses:
           C: punish anyone who causes an offense against the people of God.
           D: bestow kindness on an offender in order to lead him or her to repentance.
         answer: D
+        print_position: 2
       - uid: BIB215.7.1.2.TY.3
         subobj: 7.1.2
         type: ty
@@ -4152,6 +4567,7 @@ courses:
           C: working in relation to others and relying on Christ.
           D: able to perform all the works of ministry in the church.
         answer: C
+        print_position: 3
       - uid: BIB215.7.1.2.TY.4
         subobj: 7.1.2
         type: ty
@@ -4166,6 +4582,7 @@ courses:
           D: the functioning of spiritual gifts is not based on the quality of one’s
             character.
         answer: B
+        print_position: 4
       - uid: BIB215.7.1.2.TY.5
         subobj: 7.1.2
         type: ty
@@ -4177,6 +4594,7 @@ courses:
           C: is expendable to some degree.
           D: cannot be counted on to function indefinitely.
         answer: B
+        print_position: 7
       - uid: BIB215.7.2.1.UPE.1
         subobj: 7.2.1
         type: upe
@@ -4187,6 +4605,8 @@ courses:
           C: treat all citizens fairly, without prejudice.
           D: derive their authority from God.
         answer: D
+        print_position: 14
+        unit: 3
       - uid: BIB215.7.2.1.TY.1
         subobj: 7.2.1
         type: ty
@@ -4201,6 +4621,7 @@ courses:
           D: at the time of salvation, we are changed so that the Law becomes secondary
             to the work of Christ in us.
         answer: C
+        print_position: 5
       - uid: BIB215.7.2.1.TY.2
         subobj: 7.2.1
         type: ty
@@ -4212,6 +4633,7 @@ courses:
           C: when God’s kingdom will directly benefit.
           D: publicly but privately plan for their replacement.
         answer: A
+        print_position: 9
       - uid: BIB215.7.2.1.TY.3
         subobj: 7.2.1
         type: ty
@@ -4223,6 +4645,7 @@ courses:
           C: refuse when they require one to violate God-given commands.
           D: refuse when they may be cooperating with end-times prophetic developments.
         answer: C
+        print_position: 10
       - uid: BIB215.7.3.1.UPE.1
         subobj: 7.3.1
         type: upe
@@ -4234,6 +4657,8 @@ courses:
           C: clearly defined teaching.
           D: worldly practices and customs.
         answer: B
+        print_position: 15
+        unit: 3
       - uid: BIB215.7.3.1.UPE.2
         subobj: 7.3.1
         type: upe
@@ -4244,6 +4669,8 @@ courses:
           C: believing that no food, in itself, is unclean.
           D: having confidence in God’s acceptance.
         answer: A
+        print_position: 16
+        unit: 3
       - uid: BIB215.8.1.1.UPE.1
         subobj: 8.1.1
         type: upe
@@ -4255,6 +4682,8 @@ courses:
           C: extend to all people everywhere.
           D: be confined to our own people.
         answer: C
+        print_position: 17
+        unit: 3
       - uid: BIB215.8.1.1.UPE.2
         subobj: 8.1.1
         type: upe
@@ -4265,6 +4694,8 @@ courses:
           C: he had endured physically to preach the gospel.
           D: Christ had accomplished through him.
         answer: D
+        print_position: 18
+        unit: 3
       - uid: BIB215.8.1.1.UPE.3
         subobj: 8.1.1
         type: upe
@@ -4276,6 +4707,8 @@ courses:
           C: opening new areas to the gospel.
           D: building up the body of Christ.
         answer: A
+        print_position: 19
+        unit: 3
       - uid: BIB215.8.1.1.TY.1
         subobj: 8.1.1
         type: ty
@@ -4287,6 +4720,7 @@ courses:
           C: bear with weaker Christians and tolerate their sin.
           D: impose their own standards on their weaker brothers.
         answer: B
+        print_position: 1
       - uid: BIB215.8.1.1.TY.2
         subobj: 8.1.1
         type: ty
@@ -4298,6 +4732,7 @@ courses:
           C: Take the message of salvation to the Gentiles first.
           D: Take the message of salvation to the Jews first.
         answer: D
+        print_position: 2
       - uid: BIB215.8.1.1.TY.3
         subobj: 8.1.1
         type: ty
@@ -4309,6 +4744,7 @@ courses:
           C: Proud
           D: Powerful
         answer: C
+        print_position: 3
       - uid: BIB215.8.1.1.TY.4
         subobj: 8.1.1
         type: ty
@@ -4319,6 +4755,7 @@ courses:
           C: signs, wonders, and miracles.
           D: preaching and winning the lost.
         answer: C
+        print_position: 4
       - uid: BIB215.8.1.1.TY.5
         subobj: 8.1.1
         type: ty
@@ -4330,6 +4767,7 @@ courses:
           C: power.
           D: nature.
         answer: A
+        print_position: 5
       - uid: BIB215.8.1.1.TY.6
         subobj: 8.1.1
         type: ty
@@ -4340,6 +4778,7 @@ courses:
           C: in the places where Jesus taught.
           D: where Christ was not known.
         answer: D
+        print_position: 6
       - uid: BIB215.8.1.1.TY.7
         subobj: 8.1.1
         type: ty
@@ -4352,6 +4791,7 @@ courses:
           D: an excellent example for the Roman church’s involvement with the universal
             church.
         answer: B
+        print_position: 9
       - uid: BIB215.8.2.1.UPE.1
         subobj: 8.2.1
         type: upe
@@ -4363,6 +4803,8 @@ courses:
           C: high-ranking Gentiles living in Rome.
           D: Greeks associated with the ruling class.
         answer: A
+        print_position: 20
+        unit: 3
       - uid: BIB215.8.2.1.UPE.2
         subobj: 8.2.1
         type: upe
@@ -4374,6 +4816,8 @@ courses:
           C: Phoebe
           D: Tryphena
         answer: C
+        print_position: 21
+        unit: 3
       - uid: BIB215.8.2.1.UPE.3
         subobj: 8.2.1
         type: upe
@@ -4385,6 +4829,8 @@ courses:
           C: his relatives Andronicus and Junias.
           D: the household of Aristobulus.
         answer: C
+        print_position: 22
+        unit: 3
       - uid: BIB215.8.2.1.TY.1
         subobj: 8.2.1
         type: ty
@@ -4396,6 +4842,7 @@ courses:
           C: Epenetus.
           D: Junias.
         answer: B
+        print_position: 7
       - uid: BIB215.8.2.2.UPE.1
         subobj: 8.2.2
         type: upe
@@ -4409,6 +4856,8 @@ courses:
           D: It was Paul’s pattern to greet people by name solely in churches he had
             not founded.
         answer: D
+        print_position: 23
+        unit: 3
       - uid: BIB215.8.3.1.UPE.1
         subobj: 8.3.1
         type: upe
@@ -4421,6 +4870,8 @@ courses:
           D: be suspicious of others within the church until they have proven themselves
             trustworthy.
         answer: C
+        print_position: 24
+        unit: 3
       - uid: BIB215.8.3.1.UPE.2
         subobj: 8.3.1
         type: upe
@@ -4432,6 +4883,8 @@ courses:
           C: God’s eventual judgment of the world.
           D: the doctrine of predestination.
         answer: A
+        print_position: 25
+        unit: 3
       - uid: BIB215.8.3.1.TY.1
         subobj: 8.3.1
         type: ty
@@ -4443,6 +4896,7 @@ courses:
           C: stay away from those who cause divisions and obstruct truth.
           D: use smooth talk and flattery to convince people of their need for Christ.
         answer: C
+        print_position: 8
       - uid: BIB215.8.3.1.TY.2
         subobj: 8.3.1
         type: ty
@@ -4454,6 +4908,7 @@ courses:
           C: produces results.
           D: promotes goodness.
         answer: D
+        print_position: 10
       - uid: BIB215.1.2.1.F.1
         subobj: 1.2.1
         type: final
@@ -4945,6 +5400,7 @@ courses:
         key_pdf: bib215_form c  key desi dec14.pdf
         matched: 46
         objectives_agree: 46
+      captured: reparse
     deployed_pn: 03.22.01
     body_baseline_pn: 03.22.01
     chapters:

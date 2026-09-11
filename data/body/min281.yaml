@@ -1105,6 +1105,7 @@ courses:
           C: Decline in the amount of training modern ministers receive
           D: Loss of trust due to high profile scandals
         answer: C
+        print_position: 1
       - uid: MIN281.1.1.2.UPE.1
         subobj: 1.1.2
         type: upe
@@ -1116,6 +1117,8 @@ courses:
           C: People are more committed to denominations.
           D: People have less respect for the position of the clergy.
         answer: C
+        print_position: 1
+        unit: 1
       - uid: MIN281.1.1.2.UPE.2
         subobj: 1.1.2
         type: upe
@@ -1127,6 +1130,8 @@ courses:
           C: the same today as 40 years ago.
           D: dependent upon the amount of education the minister has.
         answer: B
+        print_position: 2
+        unit: 1
       - uid: MIN281.1.1.2.UPE.3
         subobj: 1.1.2
         type: upe
@@ -1138,6 +1143,8 @@ courses:
           C: The trend for people to marry within their church
           D: Attitudes of greater tolerance by educated Americans
         answer: D
+        print_position: 3
+        unit: 1
       - uid: MIN281.1.1.2.TY.1
         subobj: 1.1.2
         type: ty
@@ -1149,6 +1156,7 @@ courses:
           C: Less trust in centralized authority
           D: All of the above
         answer: D
+        print_position: 9
       - uid: MIN281.1.2.1.TY.1
         subobj: 1.2.1
         type: ty
@@ -1160,6 +1168,7 @@ courses:
           C: Conflict with church leaders
           D: Lack of support from denominational leadership
         answer: A
+        print_position: 2
       - uid: MIN281.1.2.1.TY.2
         subobj: 1.2.1
         type: ty
@@ -1171,6 +1180,7 @@ courses:
           C: Prayer
           D: Denominational involvement
         answer: C
+        print_position: 7
       - uid: MIN281.1.2.2.UPE.1
         subobj: 1.2.2
         type: upe
@@ -1182,6 +1192,8 @@ courses:
           C: List the cans
           D: Comment to the will
         answer: A
+        print_position: 5
+        unit: 1
       - uid: MIN281.1.2.2.TY.1
         subobj: 1.2.2
         type: ty
@@ -1197,6 +1209,7 @@ courses:
           D: List the cans ; identify the coulds ; evaluate the shoulds ; and commit
             to the wills .
         answer: B
+        print_position: 3
       - uid: MIN281.1.3.1.UPE.1
         subobj: 1.3.1
         type: upe
@@ -1208,6 +1221,8 @@ courses:
           C: sexual misconduct.
           D: family needs.
         answer: A
+        print_position: 4
+        unit: 1
       - uid: MIN281.1.3.1.UPE.2
         subobj: 1.3.1
         type: upe
@@ -1220,6 +1235,8 @@ courses:
           C: conflict.
           D: professionalism.
         answer: C
+        print_position: 6
+        unit: 1
       - uid: MIN281.1.3.1.UPE.3
         subobj: 1.3.1
         type: upe
@@ -1230,6 +1247,8 @@ courses:
           C: Paul and Timothy
           D: Paul and Titus
         answer: B
+        print_position: 7
+        unit: 1
       - uid: MIN281.1.3.2.UPE.1
         subobj: 1.3.2
         type: upe
@@ -1240,6 +1259,8 @@ courses:
           C: Several times a month
           D: Rarely
         answer: A
+        print_position: 8
+        unit: 1
       - uid: MIN281.1.3.2.UPE.2
         subobj: 1.3.2
         type: upe
@@ -1251,6 +1272,8 @@ courses:
           C: A church classroom
           D: A restaurant
         answer: D
+        print_position: 9
+        unit: 1
       - uid: MIN281.1.3.2.UPE.3
         subobj: 1.3.2
         type: upe
@@ -1262,6 +1285,8 @@ courses:
             cause more problems.
           D: try to settle the issue within a week.
         answer: A
+        print_position: 10
+        unit: 1
       - uid: MIN281.1.3.2.TY.1
         subobj: 1.3.2
         type: ty
@@ -1273,6 +1298,7 @@ courses:
           C: Conflict that now includes name-calling and raised voices
           D: Conflict that can be solved with avoidance and obliging
         answer: B
+        print_position: 4
       - uid: MIN281.1.4.1.UPE.1
         subobj: 1.4.1
         type: upe
@@ -1284,6 +1310,8 @@ courses:
           C: protagonist.
           D: antagonist.
         answer: D
+        print_position: 11
+        unit: 1
       - uid: MIN281.1.4.1.TY.1
         subobj: 1.4.1
         type: ty
@@ -1295,6 +1323,7 @@ courses:
           C: Individuals who bring unjust criticism on church leadership
           D: Individuals whose opinion on an issue differs from the pastor’s opinion
         answer: D
+        print_position: 5
       - uid: MIN281.1.4.2.UPE.1
         subobj: 1.4.2
         type: upe
@@ -1307,6 +1336,8 @@ courses:
             as possible.
           D: Keep your focus on yourself and your family.
         answer: B
+        print_position: 12
+        unit: 1
       - uid: MIN281.1.4.2.TY.1
         subobj: 1.4.2
         type: ty
@@ -1320,6 +1351,7 @@ courses:
             motives.
           D: All the above
         answer: D
+        print_position: 6
       - uid: MIN281.1.5.1.UPE.1
         subobj: 1.5.1
         type: upe
@@ -1331,6 +1363,8 @@ courses:
           C: The root of conflict is sinful thoughts.
           D: Most conflict is sin.
         answer: A
+        print_position: 13
+        unit: 1
       - uid: MIN281.1.5.1.TY.1
         subobj: 1.5.1
         type: ty
@@ -1342,6 +1376,7 @@ courses:
           C: A person should be in control of what he or she says.
           D: A person should always seek to live in a manner that pleases God.
         answer: A
+        print_position: 8
       - uid: MIN281.1.5.1.TY.2
         subobj: 1.5.1
         type: ty
@@ -1353,6 +1388,7 @@ courses:
           C: He was testing believers to see who would claim to be spiritual.
           D: He was hoping believers would realize that they were not spiritual.
         answer: B
+        print_position: 10
       - uid: MIN281.2.1.1.UPE.1
         subobj: 2.1.1
         type: upe
@@ -1364,6 +1400,8 @@ courses:
           C: When the conflict becomes a level 2 conflict
           D: When at least 10 people are involved
         answer: A
+        print_position: 14
+        unit: 1
       - uid: MIN281.2.1.1.UPE.2
         subobj: 2.1.1
         type: upe
@@ -1376,6 +1414,8 @@ courses:
           C: Rumor
           D: Change in lay leadership
         answer: B
+        print_position: 15
+        unit: 1
       - uid: MIN281.2.1.1.UPE.3
         subobj: 2.1.1
         type: upe
@@ -1386,6 +1426,8 @@ courses:
           C: Call a church meeting.
           D: Quickly identify and address the problem.
         answer: D
+        print_position: 16
+        unit: 1
       - uid: MIN281.2.1.1.UPE.4
         subobj: 2.1.1
         type: upe
@@ -1398,6 +1440,8 @@ courses:
           C: Change in lay leadership
           D: Rumor
         answer: B
+        print_position: 17
+        unit: 1
       - uid: MIN281.2.1.1.TY.1
         subobj: 2.1.1
         type: ty
@@ -1409,6 +1453,7 @@ courses:
           C: Unseasonably cold weather
           D: Changes in lay leadership
         answer: C
+        print_position: 1
       - uid: MIN281.2.1.1.TY.2
         subobj: 2.1.1
         type: ty
@@ -1422,6 +1467,7 @@ courses:
           D: If the district office has a successful record of managing conflict in
             other churches
         answer: A
+        print_position: 2
       - uid: MIN281.2.1.1.TY.3
         subobj: 2.1.1
         type: ty
@@ -1433,6 +1479,7 @@ courses:
           C: Job losses and economic downturn
           D: All the above
         answer: D
+        print_position: 3
       - uid: MIN281.2.1.2.UPE.1
         subobj: 2.1.2
         type: upe
@@ -1444,6 +1491,8 @@ courses:
           C: Hiring of a new children’s pastor
           D: None of the above
         answer: B
+        print_position: 18
+        unit: 1
       - uid: MIN281.2.1.2.UPE.2
         subobj: 2.1.2
         type: upe
@@ -1455,6 +1504,8 @@ courses:
           C: relevant.
           D: hardliners.
         answer: D
+        print_position: 19
+        unit: 1
       - uid: MIN281.2.1.2.TY.1
         subobj: 2.1.2
         type: ty
@@ -1466,6 +1517,7 @@ courses:
           C: Both of the above
           D: Neither of the above
         answer: C
+        print_position: 4
       - uid: MIN281.2.1.2.TY.2
         subobj: 2.1.2
         type: ty
@@ -1477,6 +1529,7 @@ courses:
           C: Developing addictive habits
           D: Viewing pornography
         answer: B
+        print_position: 5
       - uid: MIN281.2.2.1.UPE.1
         subobj: 2.2.1
         type: upe
@@ -1488,6 +1541,8 @@ courses:
           C: Win-lose and lose-lose
           D: Personal and business
         answer: B
+        print_position: 20
+        unit: 1
       - uid: MIN281.2.2.1.TY.1
         subobj: 2.2.1
         type: ty
@@ -1502,6 +1557,7 @@ courses:
           D: He or she will allow tensions to escalate during meetings so that true
             opinions will emerge.
         answer: C
+        print_position: 6
       - uid: MIN281.2.2.2.UPE.1
         subobj: 2.2.2
         type: upe
@@ -1517,6 +1573,8 @@ courses:
           D: Problems to solve; disagreements; contests; intractable solutions; fight
             / flight
         answer: A
+        print_position: 21
+        unit: 1
       - uid: MIN281.2.2.2.UPE.2
         subobj: 2.2.2
         type: upe
@@ -1527,6 +1585,8 @@ courses:
           C: Contests
           D: Intractable solutions
         answer: B
+        print_position: 22
+        unit: 1
       - uid: MIN281.2.2.2.UPE.3
         subobj: 2.2.2
         type: upe
@@ -1537,6 +1597,8 @@ courses:
           C: Contests
           D: Fight / flight
         answer: C
+        print_position: 23
+        unit: 1
       - uid: MIN281.2.2.2.UPE.4
         subobj: 2.2.2
         type: upe
@@ -1548,6 +1610,8 @@ courses:
           C: Fight / flight
           D: Intractable solutions
         answer: D
+        print_position: 24
+        unit: 1
       - uid: MIN281.2.2.2.TY.1
         subobj: 2.2.2
         type: ty
@@ -1563,6 +1627,7 @@ courses:
           D: Problems to Solve; Disagreements; Contests; Intractable Solutions; Fight
             / Flight
         answer: A
+        print_position: 7
       - uid: MIN281.2.3.1.UPE.1
         subobj: 2.3.1
         type: upe
@@ -1573,6 +1638,8 @@ courses:
           C: interpersonal conflict.
           D: social conflict.
         answer: C
+        print_position: 25
+        unit: 1
       - uid: MIN281.2.3.1.TY.1
         subobj: 2.3.1
         type: ty
@@ -1584,6 +1651,7 @@ courses:
           C: Substantive conflicts
           D: All of the above
         answer: D
+        print_position: 8
       - uid: MIN281.2.3.2.TY.1
         subobj: 2.3.2
         type: ty
@@ -1597,6 +1665,7 @@ courses:
             it will disappear?
           D: Am I energized, or do I feel drained when changes need to happen?
         answer: B
+        print_position: 9
       - uid: MIN281.2.3.2.TY.2
         subobj: 2.3.2
         type: ty
@@ -1608,6 +1677,7 @@ courses:
           C: Get cooperation from all parties
           D: Let others solve the problem
         answer: A
+        print_position: 10
       - uid: MIN281.3.1.1.UPE.1
         subobj: 3.1.1
         type: upe
@@ -1618,6 +1688,8 @@ courses:
           C: It lets us know if we are out of God’s will.
           D: It is NOT helpful.
         answer: A
+        print_position: 1
+        unit: 2
       - uid: MIN281.3.1.1.UPE.2
         subobj: 3.1.1
         type: upe
@@ -1633,6 +1705,8 @@ courses:
           D: alert them to conflict makers, set a time limit, and provide them with
             needed information.
         answer: B
+        print_position: 2
+        unit: 2
       - uid: MIN281.3.1.1.UPE.3
         subobj: 3.1.1
         type: upe
@@ -1644,6 +1718,8 @@ courses:
           C: Absorb all the tension so that he or she can fully understand it.
           D: Convince one side to give up and lose.
         answer: A
+        print_position: 3
+        unit: 2
       - uid: MIN281.3.1.1.TY.1
         subobj: 3.1.1
         type: ty
@@ -1656,6 +1732,7 @@ courses:
           D: the two opposing parties have splintered and reformed into four or more
             alliances.
         answer: C
+        print_position: 1
       - uid: MIN281.3.1.1.TY.2
         subobj: 3.1.1
         type: ty
@@ -1668,6 +1745,7 @@ courses:
             by the denominational leadership.
           D: At level 3, the conflict is not yet taken personally.
         answer: A
+        print_position: 2
       - uid: MIN281.3.1.2.UPE.1
         subobj: 3.1.2
         type: upe
@@ -1680,6 +1758,8 @@ courses:
             it.
           D: Always involve your district superintendent.
         answer: B
+        print_position: 4
+        unit: 2
       - uid: MIN281.3.1.2.TY.1
         subobj: 3.1.2
         type: ty
@@ -1692,6 +1772,7 @@ courses:
           D: The pastor must always get his or her way in order to maintain the role
             as leader.
         answer: D
+        print_position: 3
       - uid: MIN281.3.1.2.TY.2
         subobj: 3.1.2
         type: ty
@@ -1702,6 +1783,7 @@ courses:
           C: their job is to help immature people of all ages grow into mature saints.
           D: most people who attend church are senior citizens.
         answer: C
+        print_position: 4
       - uid: MIN281.3.2.1.UPE.1
         subobj: 3.2.1
         type: upe
@@ -1713,6 +1795,8 @@ courses:
           C: Timothy
           D: Demas
         answer: D
+        print_position: 5
+        unit: 2
       - uid: MIN281.3.2.1.UPE.2
         subobj: 3.2.1
         type: upe
@@ -1723,6 +1807,8 @@ courses:
           C: Constructive criticism is my friend.
           D: I should adjust to all criticism I receive.
         answer: C
+        print_position: 6
+        unit: 2
       - uid: MIN281.3.2.2.TY.1
         subobj: 3.2.2
         type: ty
@@ -1733,6 +1819,7 @@ courses:
           C: All critics desire to help us.
           D: Critics are almost always right.
         answer: B
+        print_position: 5
       - uid: MIN281.3.2.2.TY.2
         subobj: 3.2.2
         type: ty
@@ -1745,6 +1832,7 @@ courses:
           C: When a pastoral staff member resigns
           D: When the church reaches its twenty-fifth year of existence
         answer: C
+        print_position: 6
       - uid: MIN281.3.2.2.TY.3
         subobj: 3.2.2
         type: ty
@@ -1756,6 +1844,7 @@ courses:
             other area churches.
           D: The membership process creates a lot of extra work for the pastor.
         answer: A
+        print_position: 7
       - uid: MIN281.3.2.2.TY.4
         subobj: 3.2.2
         type: ty
@@ -1770,6 +1859,7 @@ courses:
           D: The pastor may be burnt out after depleting his or her energy and neglect
             other responsibilities.
         answer: D
+        print_position: 8
       - uid: MIN281.3.3.1.UPE.1
         subobj: 3.3.1
         type: upe
@@ -1780,6 +1870,8 @@ courses:
           C: Galatians
           D: Proverbs
         answer: D
+        print_position: 7
+        unit: 2
       - uid: MIN281.3.3.1.UPE.2
         subobj: 3.3.1
         type: upe
@@ -1791,6 +1883,8 @@ courses:
           D: The job description is constantly changing with the people we minister
             to.
         answer: D
+        print_position: 8
+        unit: 2
       - uid: MIN281.3.3.1.UPE.3
         subobj: 3.3.1
         type: upe
@@ -1801,6 +1895,8 @@ courses:
           C: Does our personality fit with the culture and congregation?
           D: All of the above
         answer: D
+        print_position: 9
+        unit: 2
       - uid: MIN281.3.3.1.UPE.4
         subobj: 3.3.1
         type: upe
@@ -1811,6 +1907,8 @@ courses:
           C: choose how close we want to live to the church.
           D: decide how long we will stay at that church.
         answer: A
+        print_position: 10
+        unit: 2
       - uid: MIN281.3.3.1.TY.1
         subobj: 3.3.1
         type: ty
@@ -1823,6 +1921,7 @@ courses:
           C: A consumer mentality is often very self-centered.
           D: All of the above
         answer: D
+        print_position: 9
       - uid: MIN281.3.3.2.UPE.1
         subobj: 3.3.2
         type: upe
@@ -1833,6 +1932,8 @@ courses:
           C: He is unable to adapt to the specific congregation.
           D: He puts in a full work week.
         answer: C
+        print_position: 11
+        unit: 2
       - uid: MIN281.3.3.2.TY.1
         subobj: 3.3.2
         type: ty
@@ -1845,6 +1946,7 @@ courses:
           C: Those opportunities that represent an increase in salary
           D: Those settings where the former pastor is no longer living
         answer: A
+        print_position: 10
       - uid: MIN281.4.1.1.UPE.1
         subobj: 4.1.1
         type: upe
@@ -1856,6 +1958,8 @@ courses:
           C: wise.
           D: genuine.
         answer: A
+        print_position: 12
+        unit: 2
       - uid: MIN281.4.1.1.TY.1
         subobj: 4.1.1
         type: ty
@@ -1866,6 +1970,7 @@ courses:
           C: Exhorting—to come alongside
           D: Presenting wrongs committed
         answer: C
+        print_position: 1
       - uid: MIN281.4.1.1.TY.2
         subobj: 4.1.1
         type: ty
@@ -1877,6 +1982,7 @@ courses:
           C: Polling the entire congregation
           D: Calling denominational leaders for a decision
         answer: A
+        print_position: 2
       - uid: MIN281.4.1.1.TY.3
         subobj: 4.1.1
         type: ty
@@ -1887,6 +1993,7 @@ courses:
           C: can help you discern the will of God.
           D: are unstable.
         answer: D
+        print_position: 3
       - uid: MIN281.4.1.2.UPE.1
         subobj: 4.1.2
         type: upe
@@ -1898,6 +2005,8 @@ courses:
           C: Speak gently
           D: Speak loudly to show confidence
         answer: C
+        print_position: 13
+        unit: 2
       - uid: MIN281.4.2.2.UPE.1
         subobj: 4.2.2
         type: upe
@@ -1909,6 +2018,8 @@ courses:
           D: reminding members and leaders of their needs for each other and encouraging
             healthy resolution.
         answer: D
+        print_position: 14
+        unit: 2
       - uid: MIN281.4.2.2.UPE.2
         subobj: 4.2.2
         type: upe
@@ -1920,6 +2031,8 @@ courses:
           C: The other people need to think that they have had input.
           D: If they want to keep their jobs, they must listen.
         answer: A
+        print_position: 15
+        unit: 2
       - uid: MIN281.4.2.2.UPE.3
         subobj: 4.2.2
         type: upe
@@ -1931,6 +2044,8 @@ courses:
           C: Preventing conflict
           D: Adding new members
         answer: A
+        print_position: 16
+        unit: 2
       - uid: MIN281.4.2.2.TY.1
         subobj: 4.2.2
         type: ty
@@ -1944,6 +2059,7 @@ courses:
           D: Call a private meeting with the leaders of both sides of the conflict
             and ask them to present their positions.
         answer: C
+        print_position: 4
       - uid: MIN281.4.2.2.TY.2
         subobj: 4.2.2
         type: ty
@@ -1957,6 +2073,7 @@ courses:
           D: Issues are inter-related, so it is impossible to focus on only one at
             a time.
         answer: B
+        print_position: 5
       - uid: MIN281.4.3.1.UPE.1
         subobj: 4.3.1
         type: upe
@@ -1967,6 +2084,8 @@ courses:
           C: The pastor will need to deal with issues long-term.
           D: Problems tend to be high-level problems.
         answer: B
+        print_position: 17
+        unit: 2
       - uid: MIN281.4.3.1.UPE.2
         subobj: 4.3.1
         type: upe
@@ -1978,6 +2097,8 @@ courses:
           C: Corporation church
           D: Pastoral church
         answer: D
+        print_position: 18
+        unit: 2
       - uid: MIN281.4.3.1.TY.1
         subobj: 4.3.1
         type: ty
@@ -1989,6 +2110,7 @@ courses:
           C: Family church
           D: Corporation church
         answer: C
+        print_position: 6
       - uid: MIN281.4.3.1.TY.2
         subobj: 4.3.1
         type: ty
@@ -2000,6 +2122,7 @@ courses:
           C: Corporation and family church
           D: Family and pastoral church
         answer: A
+        print_position: 7
       - uid: MIN281.4.3.2.UPE.1
         subobj: 4.3.2
         type: upe
@@ -2010,6 +2133,8 @@ courses:
           C: Long-time members
           D: Youth groups
         answer: B
+        print_position: 19
+        unit: 2
       - uid: MIN281.4.3.2.UPE.2
         subobj: 4.3.2
         type: upe
@@ -2020,6 +2145,8 @@ courses:
           C: On the finances
           D: On the board members
         answer: A
+        print_position: 20
+        unit: 2
       - uid: MIN281.4.3.2.UPE.3
         subobj: 4.3.2
         type: upe
@@ -2032,6 +2159,8 @@ courses:
           D: The pastor’s role changes gradually until it is solely focused on pulpit
             ministry.
         answer: A
+        print_position: 21
+        unit: 2
       - uid: MIN281.4.3.2.TY.1
         subobj: 4.3.2
         type: ty
@@ -2045,6 +2174,7 @@ courses:
           D: Consider the length of service and other needs when establishing a severance
             plan.
         answer: D
+        print_position: 8
       - uid: MIN281.4.3.2.TY.2
         subobj: 4.3.2
         type: ty
@@ -2057,6 +2187,7 @@ courses:
           D: The pastor’s role changes gradually until it is solely focused on pulpit
             ministry.
         answer: A
+        print_position: 10
       - uid: MIN281.4.4.1.TY.1
         subobj: 4.4.1
         type: ty
@@ -2068,6 +2199,7 @@ courses:
           C: Unwavering support from his people
           D: The death of his son, poverty, and the loss of his right hand
         answer: A
+        print_position: 9
       - uid: MIN281.5.1.1.UPE.1
         subobj: 5.1.1
         type: upe
@@ -2080,6 +2212,8 @@ courses:
           D: Recognize that the conflict has little to do with the vision statement
             of the church.
         answer: B
+        print_position: 22
+        unit: 2
       - uid: MIN281.5.1.1.TY.1
         subobj: 5.1.1
         type: ty
@@ -2091,6 +2225,7 @@ courses:
           C: Raise their voices
           D: Any or all the above
         answer: D
+        print_position: 1
       - uid: MIN281.5.1.1.TY.2
         subobj: 5.1.1
         type: ty
@@ -2101,6 +2236,7 @@ courses:
           C: the agitator’s complaining.
           D: any pressure to decide in favor of the minority opinion.
         answer: A
+        print_position: 2
       - uid: MIN281.5.1.2.TY.1
         subobj: 5.1.2
         type: ty
@@ -2111,6 +2247,7 @@ courses:
           C: Write out an agenda with a time limit.
           D: Let the parties work out a location for the discussion.
         answer: C
+        print_position: 3
       - uid: MIN281.5.1.2.TY.2
         subobj: 5.1.2
         type: ty
@@ -2122,6 +2259,7 @@ courses:
           C: No sarcasm or ridicule
           D: All of the above
         answer: D
+        print_position: 4
       - uid: MIN281.5.2.2.UPE.1
         subobj: 5.2.2
         type: upe
@@ -2133,6 +2271,8 @@ courses:
           C: Where would we like to be in the next five years?
           D: Are we overlooking any needs in our congregation?
         answer: A
+        print_position: 23
+        unit: 2
       - uid: MIN281.5.2.2.TY.1
         subobj: 5.2.2
         type: ty
@@ -2144,6 +2284,7 @@ courses:
           C: When it is ruled by an outside expert that one side is correct
           D: When the pastor is not aligned with either side
         answer: A
+        print_position: 5
       - uid: MIN281.5.3.1.UPE.1
         subobj: 5.3.1
         type: upe
@@ -2154,6 +2295,8 @@ courses:
           C: They know their people well.
           D: They do not see the problem.
         answer: A
+        print_position: 24
+        unit: 2
       - uid: MIN281.5.3.1.TY.1
         subobj: 5.3.1
         type: ty
@@ -2165,6 +2308,7 @@ courses:
             can be dealt with correctly.
           D: the senior pastor matures and develops more backbone.
         answer: C
+        print_position: 6
       - uid: MIN281.5.3.1.TY.2
         subobj: 5.3.1
         type: ty
@@ -2180,6 +2324,7 @@ courses:
           D: People must be instructed that they are not to share their feelings and
             concerns with others.
         answer: A
+        print_position: 7
       - uid: MIN281.5.3.1.TY.3
         subobj: 5.3.1
         type: ty
@@ -2191,6 +2336,7 @@ courses:
           C: Do I fear the consequences of what the other party will do?
           D: Can I get my own way and thus prove my authority is secure?
         answer: D
+        print_position: 8
       - uid: MIN281.5.3.1.TY.4
         subobj: 5.3.1
         type: ty
@@ -2201,6 +2347,7 @@ courses:
           C: spend uninterrupted time with the candidate and pray about the match.
           D: not expect the candidate’s references to give truthful reports.
         answer: C
+        print_position: 9
       - uid: MIN281.5.3.2.UPE.1
         subobj: 5.3.2
         type: upe
@@ -2212,6 +2359,8 @@ courses:
           C: pride.
           D: ego.
         answer: C
+        print_position: 25
+        unit: 2
       - uid: MIN281.5.4.2.TY.1
         subobj: 5.4.2
         type: ty
@@ -2223,6 +2372,7 @@ courses:
           C: voice opposition to the senior pastor’s ideas.
           D: begin ministry projects without the approval of every staff member.
         answer: A
+        print_position: 10
       - uid: MIN281.6.1.1.UPE.1
         subobj: 6.1.1
         type: upe
@@ -2233,6 +2383,8 @@ courses:
           C: Destructive
           D: Opinion-oriented
         answer: C
+        print_position: 1
+        unit: 3
       - uid: MIN281.6.1.1.UPE.2
         subobj: 6.1.1
         type: upe
@@ -2243,6 +2395,8 @@ courses:
           C: Help all sides clearly voice their opinion
           D: Confront the conflict
         answer: B
+        print_position: 2
+        unit: 3
       - uid: MIN281.6.1.1.UPE.3
         subobj: 6.1.1
         type: upe
@@ -2254,6 +2408,8 @@ courses:
           C: Unresolved tension, promotion, sense of resolution, new vision
           D: New vision, sense of resolution, promotion, unresolved tension
         answer: D
+        print_position: 3
+        unit: 3
       - uid: MIN281.6.1.1.TY.1
         subobj: 6.1.1
         type: ty
@@ -2265,6 +2421,7 @@ courses:
           C: Step back
           D: Step off
         answer: D
+        print_position: 1
       - uid: MIN281.6.1.1.TY.2
         subobj: 6.1.1
         type: ty
@@ -2276,6 +2433,7 @@ courses:
           C: new vision, greater opportunity, conflict, and sense of resolution
           D: sense of resolution, greater opportunity, new vision, and conflict
         answer: A
+        print_position: 2
       - uid: MIN281.6.1.1.TY.3
         subobj: 6.1.1
         type: ty
@@ -2286,6 +2444,7 @@ courses:
           C: the people
           D: all of the above
         answer: D
+        print_position: 3
       - uid: MIN281.6.1.1.TY.4
         subobj: 6.1.1
         type: ty
@@ -2297,6 +2456,7 @@ courses:
           C: differences in hairstyles
           D: differences in marital experiences
         answer: C
+        print_position: 4
       - uid: MIN281.6.1.2.UPE.1
         subobj: 6.1.2
         type: upe
@@ -2307,6 +2467,8 @@ courses:
           C: Keep a clear perspective
           D: Avoid persecution
         answer: C
+        print_position: 4
+        unit: 3
       - uid: MIN281.6.1.2.UPE.2
         subobj: 6.1.2
         type: upe
@@ -2318,6 +2480,8 @@ courses:
           C: Think long and often about the conflict
           D: None of the above
         answer: A
+        print_position: 5
+        unit: 3
       - uid: MIN281.6.1.2.TY.1
         subobj: 6.1.2
         type: ty
@@ -2328,6 +2492,7 @@ courses:
           C: Dwell on the conflict until the solution comes to you.
           D: Consult a district official before doing anything else.
         answer: B
+        print_position: 5
       - uid: MIN281.6.2.1.UPE.1
         subobj: 6.2.1
         type: upe
@@ -2341,6 +2506,8 @@ courses:
           D: The rule identifies levels of conflict based on the number of people
             involved.
         answer: B
+        print_position: 6
+        unit: 3
       - uid: MIN281.6.2.1.TY.1
         subobj: 6.2.1
         type: ty
@@ -2354,6 +2521,7 @@ courses:
           D: The rule identifies the decrease in priority a conflict can become. What
             may start as your top priority can slide to number ten if you ignore it.
         answer: A
+        print_position: 7
       - uid: MIN281.6.2.2.UPE.1
         subobj: 6.2.2
         type: upe
@@ -2364,6 +2532,8 @@ courses:
           C: Deacons were chosen.
           D: All of the above
         answer: C
+        print_position: 7
+        unit: 3
       - uid: MIN281.6.2.2.UPE.2
         subobj: 6.2.2
         type: upe
@@ -2375,6 +2545,8 @@ courses:
           C: Staff and leadership
           D: Family
         answer: C
+        print_position: 8
+        unit: 3
       - uid: MIN281.6.2.2.UPE.3
         subobj: 6.2.2
         type: upe
@@ -2385,6 +2557,8 @@ courses:
           C: Differing opinions
           D: Lack of communication
         answer: D
+        print_position: 9
+        unit: 3
       - uid: MIN281.6.2.2.TY.1
         subobj: 6.2.2
         type: ty
@@ -2396,6 +2570,7 @@ courses:
           C: conflict issues.
           D: the depressed economy.
         answer: C
+        print_position: 6
       - uid: MIN281.6.2.2.TY.2
         subobj: 6.2.2
         type: ty
@@ -2408,6 +2583,7 @@ courses:
           D: The possible neglect of certain individuals in the daily distribution
             of food
         answer: D
+        print_position: 8
       - uid: MIN281.6.3.1.UPE.1
         subobj: 6.3.1
         type: upe
@@ -2418,6 +2594,8 @@ courses:
           C: The pastor tries to prevent conflict by being alert.
           D: The pastor encourages people to “talk it out.”
         answer: A
+        print_position: 10
+        unit: 3
       - uid: MIN281.6.3.1.UPE.2
         subobj: 6.3.1
         type: upe
@@ -2431,6 +2609,8 @@ courses:
           D: The Christian church generally reflects the culture far more than it
             resists or transforms it.
         answer: D
+        print_position: 11
+        unit: 3
       - uid: MIN281.6.3.1.TY.1
         subobj: 6.3.1
         type: ty
@@ -2445,6 +2625,7 @@ courses:
           D: The makeup of the church differs from the community, thus affecting the
             desire of the congregation to reach others.
         answer: C
+        print_position: 9
       - uid: MIN281.6.3.2.UPE.1
         subobj: 6.3.2
         type: upe
@@ -2460,6 +2641,8 @@ courses:
           D: Hire an attorney immediately, and when you have done all you can to bring
             peace, do nothing.
         answer: A
+        print_position: 12
+        unit: 3
       - uid: MIN281.6.3.2.TY.1
         subobj: 6.3.2
         type: ty
@@ -2475,6 +2658,7 @@ courses:
           D: Hire an attorney immediately, and when you have done all you can to bring
             peace, do nothing.
         answer: A
+        print_position: 10
       - uid: MIN281.7.1.1.UPE.1
         subobj: 7.1.1
         type: upe
@@ -2485,6 +2669,8 @@ courses:
           C: He is not at all involved in conflict.
           D: He is more involved in conflict today than a generation ago.
         answer: B
+        print_position: 13
+        unit: 3
       - uid: MIN281.7.1.1.UPE.2
         subobj: 7.1.1
         type: upe
@@ -2495,6 +2681,8 @@ courses:
           C: Relationships, reason, and responsibility
           D: Reason, recognition, and responsibility
         answer: A
+        print_position: 14
+        unit: 3
       - uid: MIN281.7.1.1.UPE.3
         subobj: 7.1.1
         type: upe
@@ -2505,6 +2693,8 @@ courses:
           C: People think conflict is abnormal.
           D: People are defensive.
         answer: A
+        print_position: 15
+        unit: 3
       - uid: MIN281.7.1.1.UPE.4
         subobj: 7.1.1
         type: upe
@@ -2516,6 +2706,8 @@ courses:
           C: He will challenge authority.
           D: He will lead from a position of fear, constantly being on the defensive.
         answer: D
+        print_position: 16
+        unit: 3
       - uid: MIN281.7.1.1.TY.1
         subobj: 7.1.1
         type: ty
@@ -2526,6 +2718,7 @@ courses:
           C: People see disagreements as the normal result of differing opinions.
           D: People value their ideas ahead of what is healthy for the church body.
         answer: D
+        print_position: 1
       - uid: MIN281.7.1.1.TY.2
         subobj: 7.1.1
         type: ty
@@ -2537,6 +2730,7 @@ courses:
           D: People choose to attack others personally rather than remain focused
             on the issue.
         answer: A
+        print_position: 2
       - uid: MIN281.7.1.2.UPE.1
         subobj: 7.1.2
         type: upe
@@ -2548,6 +2742,8 @@ courses:
           C: labeling.
           D: cueing.
         answer: B
+        print_position: 17
+        unit: 3
       - uid: MIN281.7.1.2.UPE.2
         subobj: 7.1.2
         type: upe
@@ -2559,6 +2755,8 @@ courses:
           C: Proverbs
           D: Hebrews
         answer: C
+        print_position: 18
+        unit: 3
       - uid: MIN281.7.1.2.TY.1
         subobj: 7.1.2
         type: ty
@@ -2570,6 +2768,7 @@ courses:
           C: asking two or more deacons to speak to him or her.
           D: privately asking the gossiper questions based on passages from Proverbs.
         answer: D
+        print_position: 3
       - uid: MIN281.7.1.2.TY.2
         subobj: 7.1.2
         type: ty
@@ -2580,6 +2779,7 @@ courses:
           C: Is secretive and hidden
           D: Seeks to improve the health of the body
         answer: C
+        print_position: 4
       - uid: MIN281.7.1.2.TY.3
         subobj: 7.1.2
         type: ty
@@ -2590,6 +2790,7 @@ courses:
           C: Seeks to escalate problems
           D: Is self-serving and seeks to win at all costs
         answer: B
+        print_position: 5
       - uid: MIN281.7.2.1.UPE.1
         subobj: 7.2.1
         type: upe
@@ -2600,6 +2801,8 @@ courses:
           C: Ruin a church
           D: Cause division
         answer: B
+        print_position: 19
+        unit: 3
       - uid: MIN281.7.2.1.UPE.2
         subobj: 7.2.1
         type: upe
@@ -2611,6 +2814,8 @@ courses:
           C: Sexual immorality
           D: Members suing each other
         answer: B
+        print_position: 20
+        unit: 3
       - uid: MIN281.7.2.1.UPE.3
         subobj: 7.2.1
         type: upe
@@ -2621,6 +2826,8 @@ courses:
           C: Hairesis
           D: Schismata
         answer: A
+        print_position: 21
+        unit: 3
       - uid: MIN281.7.2.1.UPE.4
         subobj: 7.2.1
         type: upe
@@ -2631,6 +2838,8 @@ courses:
           C: intellectuals.
           D: self-righteous.
         answer: A
+        print_position: 22
+        unit: 3
       - uid: MIN281.7.2.1.TY.1
         subobj: 7.2.1
         type: ty
@@ -2641,6 +2850,7 @@ courses:
           C: it was full of division.
           D: the members obeyed only their pastor’s teachings.
         answer: C
+        print_position: 6
       - uid: MIN281.7.2.2.TY.1
         subobj: 7.2.2
         type: ty
@@ -2651,6 +2861,7 @@ courses:
           C: that legalism should cease.
           D: they were the only true Christians.
         answer: A
+        print_position: 7
       - uid: MIN281.7.2.2.TY.2
         subobj: 7.2.2
         type: ty
@@ -2663,6 +2874,7 @@ courses:
             squelch the rumors.
           D: The pastor should not allow the rumors and the resistance to continue.
         answer: D
+        print_position: 8
       - uid: MIN281.7.3.1.UPE.1
         subobj: 7.3.1
         type: upe
@@ -2673,6 +2885,8 @@ courses:
           C: A pastor will not experience attacks on his or her faith.
           D: Some leaders think they can do a better job than the pastor.
         answer: C
+        print_position: 23
+        unit: 3
       - uid: MIN281.7.3.1.TY.1
         subobj: 7.3.1
         type: ty
@@ -2683,6 +2897,7 @@ courses:
           C: weariness, feeling overwhelmed, feelings of failure, fear
           D: negative deacons, unmotivated people, power plays, lack of resources
         answer: C
+        print_position: 9
       - uid: MIN281.7.3.2.UPE.1
         subobj: 7.3.2
         type: upe
@@ -2693,6 +2908,8 @@ courses:
           C: Staff support
           D: Prayer
         answer: D
+        print_position: 24
+        unit: 3
       - uid: MIN281.7.3.2.UPE.2
         subobj: 7.3.2
         type: upe
@@ -2704,6 +2921,8 @@ courses:
           C: Nathan
           D: Naaman
         answer: A
+        print_position: 25
+        unit: 3
       - uid: MIN281.7.3.2.TY.1
         subobj: 7.3.2
         type: ty
@@ -2714,6 +2933,7 @@ courses:
           C: Submit your resignation.
           D: React quickly according to your instincts and become aggressive.
         answer: A
+        print_position: 10
       - uid: MIN281.1.1.2.F.1
         subobj: 1.1.2
         type: final
@@ -3192,6 +3412,7 @@ courses:
         key_pdf: min281_1st_form c key desi jul 09.pdf
         matched: 44
         objectives_agree: 44
+      captured: reparse
     deployed_pn: 02.22.01
     body_baseline_pn: 02.22.01
     chapters:

@@ -1792,6 +1792,8 @@ courses:
           C: He needs our reassurance.
           D: we must be forced to pray to Him.
         answer: B
+        print_position: 1
+        unit: 1
       - uid: THE311.1.1.1.TY.1
         subobj: 1.1.1
         type: ty
@@ -1803,6 +1805,7 @@ courses:
           C: express our love and grow in our relationship with God.
           D: recognize our preoccupation with everyday responsibilities.
         answer: C
+        print_position: 1
       - uid: THE311.1.1.1.TY.2
         subobj: 1.1.1
         type: ty
@@ -1813,6 +1816,7 @@ courses:
           C: take a vacation from the stress of life and get to know Him.
           D: refrain from physical movement of any kind until we know God.
         answer: C
+        print_position: 3
       - uid: THE311.1.1.2.UPE.1
         subobj: 1.1.2
         type: upe
@@ -1824,6 +1828,8 @@ courses:
           C: can only be filled by God.
           D: hinders their relationship with God.
         answer: C
+        print_position: 2
+        unit: 1
       - uid: THE311.1.1.2.TY.1
         subobj: 1.1.2
         type: ty
@@ -1834,6 +1840,7 @@ courses:
           C: an absence of spiritual hunger in people’s lives.
           D: the absence of God in contemporary culture.
         answer: A
+        print_position: 2
       - uid: THE311.1.1.3.UPE.1
         subobj: 1.1.3
         type: upe
@@ -1844,6 +1851,8 @@ courses:
           C: incessant talking.
           D: knowing God in an intimate way.
         answer: D
+        print_position: 3
+        unit: 1
       - uid: THE311.1.1.3.TY.1
         subobj: 1.1.3
         type: ty
@@ -1854,6 +1863,7 @@ courses:
           C: He wants us to have a general idea of who He is.
           D: He wants people to know His name is Yahweh.
         answer: A
+        print_position: 4
       - uid: THE311.1.2.1.UPE.1
         subobj: 1.2.1
         type: upe
@@ -1865,6 +1875,8 @@ courses:
           C: blessing and wisdom.
           D: signs and wonders.
         answer: B
+        print_position: 4
+        unit: 1
       - uid: THE311.1.2.1.TY.1
         subobj: 1.2.1
         type: ty
@@ -1875,6 +1887,7 @@ courses:
           C: a mastery of the methods and mechanics of prayer.
           D: the immediate and total elimination of problems in our lives.
         answer: A
+        print_position: 5
       - uid: THE311.1.2.1.TY.2
         subobj: 1.2.1
         type: ty
@@ -1885,6 +1898,7 @@ courses:
           C: It teaches us just how far from God’s will we are.
           D: It removes any and all temptation, making us holy.
         answer: B
+        print_position: 6
       - uid: THE311.1.2.1.TY.3
         subobj: 1.2.1
         type: ty
@@ -1895,6 +1909,7 @@ courses:
           C: it is a test of our commitment and desire to serve God.
           D: we need to be reminded of how inadequate we are.
         answer: A
+        print_position: 7
       - uid: THE311.1.3.1.UPE.1
         subobj: 1.3.1
         type: upe
@@ -1906,6 +1921,8 @@ courses:
           C: body.
           D: mind.
         answer: B
+        print_position: 5
+        unit: 1
       - uid: THE311.1.3.1.TY.1
         subobj: 1.3.1
         type: ty
@@ -1916,6 +1933,7 @@ courses:
           C: showing us when our spiritual “tank” is running low.
           D: lifting our spirits when we are depressed.
         answer: B
+        print_position: 8
       - uid: THE311.1.3.2.UPE.1
         subobj: 1.3.2
         type: upe
@@ -1926,6 +1944,8 @@ courses:
           C: Urgency and purpose in prayers
           D: Feeling bad about personal spiritual progress
         answer: A
+        print_position: 6
+        unit: 1
       - uid: THE311.1.3.2.TY.1
         subobj: 1.3.2
         type: ty
@@ -1936,6 +1956,7 @@ courses:
           C: To replenish our spirit through prayer
           D: To learn about God through Bible study
         answer: C
+        print_position: 9
       - uid: THE311.1.3.3.UPE.1
         subobj: 1.3.3
         type: upe
@@ -1946,6 +1967,8 @@ courses:
           C: assessing the condition of our souls.
           D: giving hope to those living in darkness.
         answer: C
+        print_position: 7
+        unit: 1
       - uid: THE311.1.3.3.TY.1
         subobj: 1.3.3
         type: ty
@@ -1957,6 +1980,7 @@ courses:
           C: spiritual renewal.
           D: self-preservation.
         answer: C
+        print_position: 10
       - uid: THE311.2.1.1.UPE.1
         subobj: 2.1.1
         type: upe
@@ -1967,6 +1991,8 @@ courses:
           C: wealth.
           D: commitment.
         answer: B
+        print_position: 8
+        unit: 1
       - uid: THE311.2.1.1.TY.1
         subobj: 2.1.1
         type: ty
@@ -1978,6 +2004,7 @@ courses:
           C: Leviticus.
           D: Numbers.
         answer: A
+        print_position: 1
       - uid: THE311.2.1.2.UPE.1
         subobj: 2.1.2
         type: upe
@@ -1988,6 +2015,8 @@ courses:
           C: appropriate in all of life’s circumstances.
           D: only necessary when you face difficulties.
         answer: C
+        print_position: 9
+        unit: 1
       - uid: THE311.2.1.2.TY.1
         subobj: 2.1.2
         type: ty
@@ -1998,6 +2027,7 @@ courses:
           C: judging their many disagreements.
           D: navigating their journey to the Promised Land.
         answer: B
+        print_position: 2
       - uid: THE311.2.1.2.TY.2
         subobj: 2.1.2
         type: ty
@@ -2008,6 +2038,7 @@ courses:
           C: revival of prayer.
           D: lack of prayer.
         answer: D
+        print_position: 3
       - uid: THE311.2.1.2.TY.3
         subobj: 2.1.2
         type: ty
@@ -2019,6 +2050,7 @@ courses:
           C: Monarchal
           D: Prophets
         answer: C
+        print_position: 4
       - uid: THE311.2.1.3.UPE.1
         subobj: 2.1.3
         type: upe
@@ -2029,6 +2061,8 @@ courses:
           C: believer-initiated.
           D: leader-initiated.
         answer: D
+        print_position: 10
+        unit: 1
       - uid: THE311.2.1.3.TY.1
         subobj: 2.1.3
         type: ty
@@ -2039,6 +2073,7 @@ courses:
           C: individual Israelites.
           D: the women of Israel.
         answer: B
+        print_position: 5
       - uid: THE311.2.2.1.TY.1
         subobj: 2.2.1
         type: ty
@@ -2049,6 +2084,7 @@ courses:
           C: conducted primarily by leaders and monarchs.
           D: used to ask for guidance, forgiveness, and deliverance.
         answer: A
+        print_position: 6
       - uid: THE311.2.2.2.UPE.1
         subobj: 2.2.2
         type: upe
@@ -2059,6 +2095,8 @@ courses:
           C: The transfiguration and garden of Gethsemane
           D: His struggle with and submission to God’s will
         answer: A
+        print_position: 11
+        unit: 1
       - uid: THE311.2.2.3.TY.1
         subobj: 2.2.3
         type: ty
@@ -2070,6 +2108,7 @@ courses:
           C: the ability to speak in tongues through the Holy Spirit.
           D: no less than three people praying together in agreement.
         answer: B
+        print_position: 7
       - uid: THE311.2.2.5.TY.1
         subobj: 2.2.5
         type: ty
@@ -2080,6 +2119,7 @@ courses:
           C: a hindrance to the outpouring of the Holy Spirit.
           D: a means of confirming and commissioning leadership.
         answer: D
+        print_position: 8
       - uid: THE311.2.2.5.TY.2
         subobj: 2.2.5
         type: ty
@@ -2090,6 +2130,7 @@ courses:
           C: essential to effective ministry.
           D: to be focused solely on the needs of others.
         answer: C
+        print_position: 9
       - uid: THE311.2.3.1.UPE.1
         subobj: 2.3.1
         type: upe
@@ -2100,6 +2141,8 @@ courses:
           C: translating our prayers.
           D: interceding for us.
         answer: D
+        print_position: 12
+        unit: 1
       - uid: THE311.2.3.1.TY.1
         subobj: 2.3.1
         type: ty
@@ -2110,6 +2153,7 @@ courses:
           C: abandoning us.
           D: condemning us.
         answer: A
+        print_position: 10
       - uid: THE311.3.1.1.UPE.1
         subobj: 3.1.1
         type: upe
@@ -2121,6 +2165,8 @@ courses:
           C: hesitation to seek God wholeheartedly.
           D: proper, impersonal relationship with God.
         answer: A
+        print_position: 13
+        unit: 1
       - uid: THE311.3.1.1.TY.1
         subobj: 3.1.1
         type: ty
@@ -2132,6 +2178,7 @@ courses:
           C: God cares only about our physical survival.
           D: God forces us to beg Him for even the smallest blessing.
         answer: B
+        print_position: 1
       - uid: THE311.3.1.1.TY.2
         subobj: 3.1.1
         type: ty
@@ -2143,6 +2190,7 @@ courses:
           C: express our needs but not worship Him.
           D: worship Him but not express our needs to Him.
         answer: C
+        print_position: 2
       - uid: THE311.3.1.3.TY.1
         subobj: 3.1.3
         type: ty
@@ -2154,6 +2202,7 @@ courses:
           C: It keeps us from asking God for every little thing we need.
           D: Our prayers only count when we picture God as being big.
         answer: B
+        print_position: 3
       - uid: THE311.3.1.3.TY.2
         subobj: 3.1.3
         type: ty
@@ -2164,6 +2213,7 @@ courses:
           C: It causes us to disqualify His omnipotence.
           D: It causes us to appreciate His greatness.
         answer: D
+        print_position: 4
       - uid: THE311.3.2.1.TY.1
         subobj: 3.2.1
         type: ty
@@ -2174,6 +2224,7 @@ courses:
           C: God has not proven that He can do more for them.
           D: they trust in God more than they need to.
         answer: B
+        print_position: 5
       - uid: THE311.3.2.2.UPE.1
         subobj: 3.2.2
         type: upe
@@ -2185,6 +2236,8 @@ courses:
           C: dull our appetite for God.
           D: bring us too close to God.
         answer: C
+        print_position: 14
+        unit: 1
       - uid: THE311.3.2.2.TY.1
         subobj: 3.2.2
         type: ty
@@ -2195,6 +2248,7 @@ courses:
           C: stepping out in commitment and obedience.
           D: focusing on the obstacles in our lives.
         answer: C
+        print_position: 6
       - uid: THE311.3.2.3.UPE.1
         subobj: 3.2.3
         type: upe
@@ -2206,6 +2260,8 @@ courses:
           C: prayers of men.
           D: sins of men.
         answer: C
+        print_position: 15
+        unit: 1
       - uid: THE311.3.2.3.TY.1
         subobj: 3.2.3
         type: ty
@@ -2216,6 +2272,7 @@ courses:
           C: Through prayer, we tell God what to do.
           D: Our prayers give God the power to act.
         answer: B
+        print_position: 7
       - uid: THE311.3.2.4.UPE.1
         subobj: 3.2.4
         type: upe
@@ -2226,6 +2283,8 @@ courses:
           C: avoid getting involved in God’s plan.
           D: develop more faith through religious activity.
         answer: A
+        print_position: 16
+        unit: 1
       - uid: THE311.3.2.4.TY.1
         subobj: 3.2.4
         type: ty
@@ -2236,6 +2295,7 @@ courses:
           C: how often we are asking.
           D: whom we are addressing.
         answer: D
+        print_position: 8
       - uid: THE311.3.3.2.UPE.1
         subobj: 3.3.2
         type: upe
@@ -2246,6 +2306,8 @@ courses:
           C: condemn us for our sin.
           D: deliver us from sin.
         answer: D
+        print_position: 17
+        unit: 1
       - uid: THE311.3.3.2.TY.1
         subobj: 3.3.2
         type: ty
@@ -2256,6 +2318,7 @@ courses:
           C: sharing our feelings with God.
           D: confessing our sins to God.
         answer: A
+        print_position: 9
       - uid: THE311.3.3.2.TY.2
         subobj: 3.3.2
         type: ty
@@ -2267,6 +2330,7 @@ courses:
           C: Prayer of confession
           D: Spiritual warfare
         answer: B
+        print_position: 10
       - uid: THE311.4.1.1.UPE.1
         subobj: 4.1.1
         type: upe
@@ -2278,6 +2342,8 @@ courses:
           C: confused and condemned.
           D: shameful and embarrassed.
         answer: A
+        print_position: 18
+        unit: 1
       - uid: THE311.4.1.1.TY.1
         subobj: 4.1.1
         type: ty
@@ -2288,6 +2354,7 @@ courses:
           C: because He longs for intimate relationship with us.
           D: only on Sundays at church.
         answer: C
+        print_position: 1
       - uid: THE311.4.1.2.UPE.1
         subobj: 4.1.2
         type: upe
@@ -2299,6 +2366,8 @@ courses:
           C: Introspection
           D: Unceasing prayer
         answer: D
+        print_position: 19
+        unit: 1
       - uid: THE311.4.1.2.TY.1
         subobj: 4.1.2
         type: ty
@@ -2309,6 +2378,7 @@ courses:
           C: To inform God of our needs at different times of the day
           D: To forsake all other activities in favor of prayer
         answer: B
+        print_position: 2
       - uid: THE311.4.2.1.UPE.1
         subobj: 4.2.1
         type: upe
@@ -2319,6 +2389,8 @@ courses:
           C: feel it might be seen as a substitute for the Bible.
           D: refuse to rid their lives of logic and well-reasoned choices.
         answer: C
+        print_position: 20
+        unit: 1
       - uid: THE311.4.2.1.TY.1
         subobj: 4.2.1
         type: ty
@@ -2330,6 +2402,7 @@ courses:
           C: He said He would only speak to us after we had fasted for a season.
           D: He used the analogy of the fox, an animal that is cunningly shrewd.
         answer: A
+        print_position: 3
       - uid: THE311.4.2.2.UPE.1
         subobj: 4.2.2
         type: upe
@@ -2340,6 +2413,8 @@ courses:
           C: understand that he or she probably will not hear from God.
           D: commit to living a completely sinless life.
         answer: B
+        print_position: 21
+        unit: 1
       - uid: THE311.4.2.2.TY.1
         subobj: 4.2.2
         type: ty
@@ -2350,6 +2425,7 @@ courses:
           C: being committed to obeying what He tells us to do.
           D: realizing that it is up to us to persuade Him to speak to us.
         answer: C
+        print_position: 4
       - uid: THE311.4.2.2.TY.2
         subobj: 4.2.2
         type: ty
@@ -2360,6 +2436,7 @@ courses:
           C: Through selecting which commandments to obey
           D: By spending time in His presence listening
         answer: D
+        print_position: 5
       - uid: THE311.4.2.3.UPE.1
         subobj: 4.2.3
         type: upe
@@ -2370,6 +2447,8 @@ courses:
           C: visions.
           D: the Bible.
         answer: D
+        print_position: 22
+        unit: 1
       - uid: THE311.4.2.3.UPE.2
         subobj: 4.2.3
         type: upe
@@ -2380,6 +2459,8 @@ courses:
           C: remaining humble and living a life of peace and tranquility.
           D: studying God’s Word and spending time in His presence.
         answer: D
+        print_position: 23
+        unit: 1
       - uid: THE311.4.2.3.TY.1
         subobj: 4.2.3
         type: ty
@@ -2390,6 +2471,7 @@ courses:
           C: With dreams and visions
           D: With signs and wonders
         answer: A
+        print_position: 6
       - uid: THE311.4.2.3.TY.2
         subobj: 4.2.3
         type: ty
@@ -2400,6 +2482,7 @@ courses:
           C: in the presence of witnesses.
           D: with great fanfare and spectacle.
         answer: B
+        print_position: 7
       - uid: THE311.4.2.4.UPE.1
         subobj: 4.2.4
         type: upe
@@ -2410,6 +2493,8 @@ courses:
           C: line up with God’s Word.
           D: supplement God’s Word.
         answer: C
+        print_position: 24
+        unit: 1
       - uid: THE311.4.2.4.TY.1
         subobj: 4.2.4
         type: ty
@@ -2421,6 +2506,7 @@ courses:
           C: are in error because that belief does not reflect God’s character.
           D: must recognize our sin and confess it to a trusted, spiritual leader.
         answer: C
+        print_position: 8
       - uid: THE311.4.2.5.UPE.1
         subobj: 4.2.5
         type: upe
@@ -2431,6 +2517,8 @@ courses:
           C: godly counsel confirms the message.
           D: the message does not bring us peace.
         answer: C
+        print_position: 25
+        unit: 1
       - uid: THE311.4.2.5.TY.1
         subobj: 4.2.5
         type: ty
@@ -2441,6 +2529,7 @@ courses:
           C: is consistent with our own desires.
           D: gives us an uneasy feeling.
         answer: B
+        print_position: 9
       - uid: THE311.4.2.5.TY.2
         subobj: 4.2.5
         type: ty
@@ -2451,6 +2540,7 @@ courses:
           C: Our emotional state
           D: Our past experiences
         answer: A
+        print_position: 10
       - uid: THE311.5.1.1.UPE.1
         subobj: 5.1.1
         type: upe
@@ -2461,6 +2551,8 @@ courses:
           C: the punishment God uses to correct us spiritually.
           D: anything we do for the purpose of promoting spiritual growth.
         answer: D
+        print_position: 1
+        unit: 2
       - uid: THE311.5.1.1.TY.1
         subobj: 5.1.1
         type: ty
@@ -2471,6 +2563,7 @@ courses:
           C: avenues by which we avail ourselves to the grace of God.
           D: disciplines required before God will offer His grace to us.
         answer: C
+        print_position: 1
       - uid: THE311.5.1.2.UPE.1
         subobj: 5.1.2
         type: upe
@@ -2482,6 +2575,8 @@ courses:
           C: talking.
           D: timing.
         answer: A
+        print_position: 2
+        unit: 2
       - uid: THE311.5.1.2.TY.1
         subobj: 5.1.2
         type: ty
@@ -2493,6 +2588,7 @@ courses:
           C: trying is too difficult, requiring too much effort from the believer.
           D: focusing on training eliminates temptation from our lives.
         answer: A
+        print_position: 2
       - uid: THE311.5.1.3.UPE.1
         subobj: 5.1.3
         type: upe
@@ -2504,6 +2600,8 @@ courses:
           C: Doing it out of a desire to serve God
           D: Doing it out of a desire for spiritual transformation
         answer: B
+        print_position: 3
+        unit: 2
       - uid: THE311.5.1.3.TY.1
         subobj: 5.1.3
         type: ty
@@ -2516,6 +2614,7 @@ courses:
           C: faith.
           D: kindness.
         answer: B
+        print_position: 3
       - uid: THE311.5.1.3.TY.2
         subobj: 5.1.3
         type: ty
@@ -2527,6 +2626,7 @@ courses:
           C: achieve a distinguished level of spirituality.
           D: grow in our intimate relationship with Him.
         answer: D
+        print_position: 4
       - uid: THE311.5.1.4.UPE.1
         subobj: 5.1.4
         type: upe
@@ -2537,6 +2637,8 @@ courses:
           C: are a means to godliness, but not an end in themselves.
           D: can ensure instant transformation to perfect godliness.
         answer: C
+        print_position: 4
+        unit: 2
       - uid: THE311.5.1.4.TY.1
         subobj: 5.1.4
         type: ty
@@ -2547,6 +2649,7 @@ courses:
           C: little work and little diligence.
           D: talent and creativity.
         answer: B
+        print_position: 5
       - uid: THE311.5.1.5.TY.1
         subobj: 5.1.5
         type: ty
@@ -2557,6 +2660,7 @@ courses:
           C: complete oneness with God.
           D: the ability to sin without consequence.
         answer: A
+        print_position: 6
       - uid: THE311.5.2.1.UPE.1
         subobj: 5.2.1
         type: upe
@@ -2567,6 +2671,8 @@ courses:
           C: duty.
           D: ritual.
         answer: A
+        print_position: 5
+        unit: 2
       - uid: THE311.5.2.1.TY.1
         subobj: 5.2.1
         type: ty
@@ -2578,6 +2684,7 @@ courses:
           C: regularly.
           D: occasionally.
         answer: C
+        print_position: 7
       - uid: THE311.5.2.2.UPE.1
         subobj: 5.2.2
         type: upe
@@ -2588,6 +2695,8 @@ courses:
           C: praying in a foreign language.
           D: the help of the Holy Spirit.
         answer: D
+        print_position: 6
+        unit: 2
       - uid: THE311.5.2.2.TY.1
         subobj: 5.2.2
         type: ty
@@ -2598,6 +2707,7 @@ courses:
           C: praying only when you have need.
           D: reading about prayer instead of praying.
         answer: A
+        print_position: 8
       - uid: THE311.5.2.2.TY.2
         subobj: 5.2.2
         type: ty
@@ -2608,6 +2718,7 @@ courses:
           C: Preachers
           D: The Holy Spirit
         answer: D
+        print_position: 10
       - uid: THE311.5.2.3.UPE.1
         subobj: 5.2.3
         type: upe
@@ -2619,6 +2730,8 @@ courses:
           C: select a place that will be conducive to prayer.
           D: keep Bible reading and prayer time separate.
         answer: C
+        print_position: 7
+        unit: 2
       - uid: THE311.5.2.3.TY.1
         subobj: 5.2.3
         type: ty
@@ -2629,6 +2742,7 @@ courses:
           C: take a break from praying for a few days.
           D: complain to a friend about having to pray.
         answer: B
+        print_position: 9
       - uid: THE311.6.1.1.TY.1
         subobj: 6.1.1
         type: ty
@@ -2640,6 +2754,7 @@ courses:
           C: eliminate problems.
           D: complicate decisions.
         answer: B
+        print_position: 1
       - uid: THE311.6.1.2.UPE.1
         subobj: 6.1.2
         type: upe
@@ -2650,6 +2765,8 @@ courses:
           C: good habits free us to focus on our interaction with God.
           D: good habits help us develop positive change without God’s help.
         answer: C
+        print_position: 8
+        unit: 2
       - uid: THE311.6.1.2.TY.1
         subobj: 6.1.2
         type: ty
@@ -2661,6 +2778,7 @@ courses:
           C: can run on them smoothly with less stress.
           D: cannot change them no matter how hard we try.
         answer: C
+        print_position: 2
       - uid: THE311.6.1.3.UPE.1
         subobj: 6.1.3
         type: upe
@@ -2671,6 +2789,8 @@ courses:
           C: practice the habit in his or her free time.
           D: recognize the need for change.
         answer: D
+        print_position: 9
+        unit: 2
       - uid: THE311.6.1.3.TY.1
         subobj: 6.1.3
         type: ty
@@ -2681,6 +2801,7 @@ courses:
           C: expecting change to happen right away.
           D: trying to establish several new habits at once.
         answer: B
+        print_position: 3
       - uid: THE311.6.2.1.TY.1
         subobj: 6.2.1
         type: ty
@@ -2691,6 +2812,7 @@ courses:
           C: bold and confident.
           D: flawed but sincere.
         answer: A
+        print_position: 4
       - uid: THE311.6.2.1.TY.2
         subobj: 6.2.1
         type: ty
@@ -2702,6 +2824,7 @@ courses:
           C: humility.
           D: loyalty.
         answer: C
+        print_position: 5
       - uid: THE311.6.2.2.UPE.1
         subobj: 6.2.2
         type: upe
@@ -2713,6 +2836,8 @@ courses:
           C: Struggling with unhealthy relationships and family disunity
           D: Having only Christian relationships and avoiding conflict
         answer: B
+        print_position: 10
+        unit: 2
       - uid: THE311.6.2.2.TY.1
         subobj: 6.2.2
         type: ty
@@ -2723,6 +2848,7 @@ courses:
           C: Unity instructs us on what we are supposed to pray.
           D: Unity does not affect the effectiveness of our prayers.
         answer: A
+        print_position: 6
       - uid: THE311.6.2.3.UPE.1
         subobj: 6.2.3
         type: upe
@@ -2733,6 +2859,8 @@ courses:
           C: overcoming God’s reluctance to give us the answer we want.
           D: willingness to pray in faith until the answer comes.
         answer: D
+        print_position: 11
+        unit: 2
       - uid: THE311.6.2.3.TY.1
         subobj: 6.2.3
         type: ty
@@ -2743,6 +2871,7 @@ courses:
           C: focus on prayer rather than on God and His will for us.
           D: habit of repetitious prayers like the ones Jesus warned against.
         answer: B
+        print_position: 7
       - uid: THE311.6.2.4.UPE.1
         subobj: 6.2.4
         type: upe
@@ -2753,6 +2882,8 @@ courses:
           C: causes faith to grow.
           D: leads only to frustration.
         answer: C
+        print_position: 12
+        unit: 2
       - uid: THE311.6.2.4.TY.1
         subobj: 6.2.4
         type: ty
@@ -2764,6 +2895,7 @@ courses:
           C: self-reliance.
           D: stubbornness.
         answer: A
+        print_position: 8
       - uid: THE311.6.2.5.UPE.1
         subobj: 6.2.5
         type: upe
@@ -2774,6 +2906,8 @@ courses:
           C: see life as temporal rather than eternal.
           D: become overwhelmed with our problems.
         answer: B
+        print_position: 13
+        unit: 2
       - uid: THE311.6.2.5.TY.1
         subobj: 6.2.5
         type: ty
@@ -2785,6 +2919,7 @@ courses:
           D: selflessness that focuses on the needs of others rather than the personal
             needs
         answer: B
+        print_position: 9
       - uid: THE311.6.2.6.UPE.1
         subobj: 6.2.6
         type: upe
@@ -2795,6 +2930,8 @@ courses:
           C: allow our prayers to be led by the Spirit.
           D: try to change the will of God to match our own.
         answer: C
+        print_position: 14
+        unit: 2
       - uid: THE311.6.2.6.TY.1
         subobj: 6.2.6
         type: ty
@@ -2805,6 +2942,7 @@ courses:
           C: will of God.
           D: time of day.
         answer: C
+        print_position: 10
       - uid: THE311.6.2.7.UPE.1
         subobj: 6.2.7
         type: upe
@@ -2815,6 +2953,8 @@ courses:
           C: A never-ending period of fruitless prayer and frustration
           D: Experiencing God’s presence in an intimate way
         answer: B
+        print_position: 15
+        unit: 2
       - uid: THE311.7.1.1.UPE.1
         subobj: 7.1.1
         type: upe
@@ -2825,6 +2965,8 @@ courses:
           C: beyond our control.
           D: caused by our relationships with others.
         answer: A
+        print_position: 16
+        unit: 2
       - uid: THE311.7.1.1.TY.1
         subobj: 7.1.1
         type: ty
@@ -2835,6 +2977,7 @@ courses:
           C: of our sinful lifestyles.
           D: there is no point in praying.
         answer: B
+        print_position: 1
       - uid: THE311.7.1.2.TY.1
         subobj: 7.1.2
         type: ty
@@ -2845,6 +2988,7 @@ courses:
           C: It places prayer at the top of our list of priorities.
           D: It develops quality in prayer rather than quantity.
         answer: A
+        print_position: 2
       - uid: THE311.7.1.3.UPE.1
         subobj: 7.1.3
         type: upe
@@ -2855,6 +2999,8 @@ courses:
           C: recognize that prayer is the most important thing they can do.
           D: focus on getting tasks done quickly to make time for prayer.
         answer: C
+        print_position: 17
+        unit: 2
       - uid: THE311.7.1.3.TY.1
         subobj: 7.1.3
         type: ty
@@ -2865,6 +3011,7 @@ courses:
           C: develop a more organized system of doing things.
           D: reduce our need to get things done right away.
         answer: D
+        print_position: 3
       - uid: THE311.7.1.4.UPE.1
         subobj: 7.1.4
         type: upe
@@ -2875,6 +3022,8 @@ courses:
           C: Spiritual peace and tranquility
           D: Intercessory needs of others
         answer: B
+        print_position: 18
+        unit: 2
       - uid: THE311.7.1.4.TY.1
         subobj: 7.1.4
         type: ty
@@ -2886,6 +3035,7 @@ courses:
           C: Personal and social obligations
           D: Physical and emotional desires
         answer: B
+        print_position: 4
       - uid: THE311.7.1.5.UPE.1
         subobj: 7.1.5
         type: upe
@@ -2897,6 +3047,8 @@ courses:
           C: avoid prayer until all distractions can be eliminated.
           D: act as though the distractions do not bother or hinder you.
         answer: A
+        print_position: 19
+        unit: 2
       - uid: THE311.7.1.5.TY.1
         subobj: 7.1.5
         type: ty
@@ -2907,6 +3059,7 @@ courses:
           C: It allows us to hear God’s voice better.
           D: God greatly enjoys silence.
         answer: C
+        print_position: 5
       - uid: THE311.7.1.6.UPE.1
         subobj: 7.1.6
         type: upe
@@ -2918,6 +3071,8 @@ courses:
           C: False sense of self-sufficiency
           D: False sense of entitlement
         answer: C
+        print_position: 20
+        unit: 2
       - uid: THE311.7.1.6.TY.1
         subobj: 7.1.6
         type: ty
@@ -2928,6 +3083,7 @@ courses:
           C: Pray only when you have no other alternative.
           D: Pray even in the face of unanswered prayers.
         answer: D
+        print_position: 6
       - uid: THE311.7.2.1.TY.1
         subobj: 7.2.1
         type: ty
@@ -2938,6 +3094,7 @@ courses:
           C: faith is a myth.
           D: faith can be exercised and developed.
         answer: D
+        print_position: 7
       - uid: THE311.7.2.1.TY.2
         subobj: 7.2.1
         type: ty
@@ -2949,6 +3106,7 @@ courses:
           C: poor relationships are restored.
           D: poor relationships are removed.
         answer: C
+        print_position: 8
       - uid: THE311.7.2.1.TY.3
         subobj: 7.2.1
         type: ty
@@ -2959,6 +3117,7 @@ courses:
           C: in God’s will.
           D: intercessory.
         answer: B
+        print_position: 9
       - uid: THE311.7.3.1.TY.1
         subobj: 7.3.1
         type: ty
@@ -2969,6 +3128,7 @@ courses:
           C: protecting us from ourselves.
           D: being cruel and hurtful.
         answer: C
+        print_position: 10
       - uid: THE311.8.1.1.UPE.1
         subobj: 8.1.1
         type: upe
@@ -2979,6 +3139,8 @@ courses:
           C: finances.
           D: programs.
         answer: B
+        print_position: 21
+        unit: 2
       - uid: THE311.8.1.1.TY.1
         subobj: 8.1.1
         type: ty
@@ -2989,6 +3151,7 @@ courses:
           C: eloquence.
           D: prayer.
         answer: D
+        print_position: 2
       - uid: THE311.8.1.2.UPE.1
         subobj: 8.1.2
         type: upe
@@ -2999,6 +3162,8 @@ courses:
           C: spiritual leadership relies on the Spirit to achieve spiritual ends.
           D: spiritual leadership relies on natural talents to achieve spiritual ends.
         answer: C
+        print_position: 22
+        unit: 2
       - uid: THE311.8.1.2.TY.1
         subobj: 8.1.2
         type: ty
@@ -3010,6 +3175,7 @@ courses:
           C: resources of the church.
           D: foolish things of the world.
         answer: A
+        print_position: 1
       - uid: THE311.8.1.3.TY.1
         subobj: 8.1.3
         type: ty
@@ -3021,6 +3187,7 @@ courses:
           C: devoted themselves to prayer and the Word.
           D: devoted themselves to ministering to the poor.
         answer: C
+        print_position: 3
       - uid: THE311.8.2.1.TY.1
         subobj: 8.2.1
         type: ty
@@ -3031,6 +3198,7 @@ courses:
           C: ministry is all about authority and power.
           D: day-to-day tasks are core to effective ministry.
         answer: B
+        print_position: 4
       - uid: THE311.8.2.1.TY.2
         subobj: 8.2.1
         type: ty
@@ -3041,6 +3209,7 @@ courses:
           C: having all their personal prayers answered.
           D: having their weaknesses revealed to other believers.
         answer: B
+        print_position: 5
       - uid: THE311.8.2.2.UPE.1
         subobj: 8.2.2
         type: upe
@@ -3051,6 +3220,8 @@ courses:
           C: manipulating people into doing what needs to be done.
           D: facilitating an environment for God to work in people’s lives.
         answer: D
+        print_position: 23
+        unit: 2
       - uid: THE311.8.2.2.TY.1
         subobj: 8.2.2
         type: ty
@@ -3061,6 +3232,7 @@ courses:
           C: avoiding spiritual opposition to the church.
           D: ridding the church of those who might bring opposition.
         answer: A
+        print_position: 6
       - uid: THE311.8.3.1.TY.1
         subobj: 8.3.1
         type: ty
@@ -3072,6 +3244,7 @@ courses:
           C: 23 percent
           D: 31 percent
         answer: B
+        print_position: 7
       - uid: THE311.8.3.2.UPE.1
         subobj: 8.3.2
         type: upe
@@ -3082,6 +3255,8 @@ courses:
           C: holistic approach to spirituality.
           D: casual approach to spirituality.
         answer: C
+        print_position: 24
+        unit: 2
       - uid: THE311.8.3.2.TY.1
         subobj: 8.3.2
         type: ty
@@ -3092,6 +3267,7 @@ courses:
           C: risk falling into the trap of self-reliance.
           D: are less likely to compromise their faith.
         answer: C
+        print_position: 8
       - uid: THE311.8.3.3.TY.1
         subobj: 8.3.3
         type: ty
@@ -3102,6 +3278,7 @@ courses:
           C: Abuse brings power to self, while misuse brings power to the church.
           D: Misuse brings honor to God, while abuse brings honor to self.
         answer: A
+        print_position: 9
       - uid: THE311.8.4.1.UPE.1
         subobj: 8.4.1
         type: upe
@@ -3112,6 +3289,8 @@ courses:
           C: allowing people to teach themselves about prayer.
           D: saving prayer for special occasions and holidays.
         answer: B
+        print_position: 25
+        unit: 2
       - uid: THE311.8.4.1.TY.1
         subobj: 8.4.1
         type: ty
@@ -3122,6 +3301,7 @@ courses:
           C: teaching people prayer phrases.
           D: teaching the doctrine of God.
         answer: D
+        print_position: 10
       - uid: THE311.9.1.1.UPE.1
         subobj: 9.1.1
         type: upe
@@ -3132,6 +3312,8 @@ courses:
           C: “to kiss the Son.”
           D: “to create honor.”
         answer: D
+        print_position: 1
+        unit: 3
       - uid: THE311.9.1.1.TY.1
         subobj: 9.1.1
         type: ty
@@ -3142,6 +3324,7 @@ courses:
           C: “showing honor or worth to others.”
           D: “remaining holy and pure before God.”
         answer: B
+        print_position: 1
       - uid: THE311.9.1.2.UPE.1
         subobj: 9.1.2
         type: upe
@@ -3152,6 +3335,8 @@ courses:
           C: we transform ourselves and God responds to us.
           D: God transforms us and we respond to ourselves.
         answer: A
+        print_position: 2
+        unit: 3
       - uid: THE311.9.1.2.TY.1
         subobj: 9.1.2
         type: ty
@@ -3162,6 +3347,7 @@ courses:
           C: ministry.
           D: revelation.
         answer: A
+        print_position: 2
       - uid: THE311.9.1.3.UPE.1
         subobj: 9.1.3
         type: upe
@@ -3173,6 +3359,8 @@ courses:
           C: worship.
           D: beauty.
         answer: C
+        print_position: 3
+        unit: 3
       - uid: THE311.9.1.3.TY.1
         subobj: 9.1.3
         type: ty
@@ -3183,6 +3371,7 @@ courses:
           C: dependent on our success.
           D: a part of our accomplishments.
         answer: A
+        print_position: 3
       - uid: THE311.9.1.3.TY.2
         subobj: 9.1.3
         type: ty
@@ -3193,6 +3382,7 @@ courses:
           C: sacrifice.
           D: drudgery.
         answer: C
+        print_position: 10
       - uid: THE311.9.1.4.UPE.1
         subobj: 9.1.4
         type: upe
@@ -3203,6 +3393,8 @@ courses:
           C: obey God’s commands.
           D: glory in God’s adoration.
         answer: B
+        print_position: 4
+        unit: 3
       - uid: THE311.9.1.4.TY.1
         subobj: 9.1.4
         type: ty
@@ -3213,6 +3405,7 @@ courses:
           C: bring God pleasure.
           D: create beauty and love.
         answer: C
+        print_position: 4
       - uid: THE311.9.1.4.TY.2
         subobj: 9.1.4
         type: ty
@@ -3223,6 +3416,7 @@ courses:
           C: seeking and enjoying a spiritual high.
           D: fulfilling all righteousness.
         answer: A
+        print_position: 5
       - uid: THE311.9.2.1.UPE.1
         subobj: 9.2.1
         type: upe
@@ -3235,6 +3429,8 @@ courses:
           C: Praise is simply an outward expression; worship encompasses all of life.
           D: There is no distinction between praise and worship.
         answer: C
+        print_position: 5
+        unit: 3
       - uid: THE311.9.2.1.TY.1
         subobj: 9.2.1
         type: ty
@@ -3245,6 +3441,7 @@ courses:
           C: a gathering.
           D: an obligation.
         answer: B
+        print_position: 6
       - uid: THE311.9.2.1.TY.2
         subobj: 9.2.1
         type: ty
@@ -3255,6 +3452,7 @@ courses:
           C: glorifies those who participate in it.
           D: expresses both despair and happiness.
         answer: A
+        print_position: 9
       - uid: THE311.9.2.2.TY.1
         subobj: 9.2.2
         type: ty
@@ -3265,6 +3463,7 @@ courses:
           C: People may refuse to participate if the music is not just right.
           D: The worship portion of the church service might go too long.
         answer: C
+        print_position: 7
       - uid: THE311.9.2.3.TY.1
         subobj: 9.2.3
         type: ty
@@ -3275,6 +3474,7 @@ courses:
           C: Worshipping without going through the motions
           D: Going through the motions without really worshipping
         answer: D
+        print_position: 8
       - uid: THE311.10.1.1.UPE.1
         subobj: 10.1.1
         type: upe
@@ -3285,6 +3485,8 @@ courses:
           C: spend a day in honor of God.
           D: avoid creating our own gods.
         answer: A
+        print_position: 6
+        unit: 3
       - uid: THE311.10.1.1.TY.1
         subobj: 10.1.1
         type: ty
@@ -3296,6 +3498,7 @@ courses:
           C: Six
           D: Eight
         answer: B
+        print_position: 1
       - uid: THE311.10.1.2.UPE.1
         subobj: 10.1.2
         type: upe
@@ -3307,6 +3510,8 @@ courses:
           C: enjoy God’s creation with our whole being.
           D: love God with our hearts, souls, and strength.
         answer: D
+        print_position: 7
+        unit: 3
       - uid: THE311.10.1.2.TY.1
         subobj: 10.1.2
         type: ty
@@ -3317,6 +3522,7 @@ courses:
           C: Do not forsake the gathering of believers.
           D: Love your neighbor as yourself.
         answer: A
+        print_position: 2
       - uid: THE311.10.2.1.TY.1
         subobj: 10.2.1
         type: ty
@@ -3328,6 +3534,7 @@ courses:
           C: worshipper.
           D: sanctuary.
         answer: B
+        print_position: 3
       - uid: THE311.10.2.2.UPE.1
         subobj: 10.2.2
         type: upe
@@ -3339,6 +3546,8 @@ courses:
           C: thanksgiving and praise.
           D: trials and disappointment.
         answer: C
+        print_position: 8
+        unit: 3
       - uid: THE311.10.2.2.TY.1
         subobj: 10.2.2
         type: ty
@@ -3350,6 +3559,7 @@ courses:
           C: communion.
           D: thanksgiving.
         answer: D
+        print_position: 4
       - uid: THE311.10.2.3.UPE.1
         subobj: 10.2.3
         type: upe
@@ -3361,6 +3571,8 @@ courses:
           C: Romans.
           D: Revelation.
         answer: B
+        print_position: 9
+        unit: 3
       - uid: THE311.10.2.3.TY.1
         subobj: 10.2.3
         type: ty
@@ -3371,6 +3583,7 @@ courses:
           C: Peter
           D: Paul
         answer: B
+        print_position: 5
       - uid: THE311.10.3.1.UPE.1
         subobj: 10.3.1
         type: upe
@@ -3381,6 +3594,8 @@ courses:
           C: ruled with compassion.
           D: was a strong and just king.
         answer: B
+        print_position: 10
+        unit: 3
       - uid: THE311.10.3.1.TY.1
         subobj: 10.3.1
         type: ty
@@ -3391,6 +3606,7 @@ courses:
           C: David
           D: Solomon
         answer: C
+        print_position: 6
       - uid: THE311.10.3.2.UPE.1
         subobj: 10.3.2
         type: upe
@@ -3401,6 +3617,8 @@ courses:
           C: uninterested in the problems and troubles people face.
           D: the source of all our trials and blessings.
         answer: A
+        print_position: 11
+        unit: 3
       - uid: THE311.10.3.2.TY.1
         subobj: 10.3.2
         type: ty
@@ -3411,6 +3629,7 @@ courses:
           C: complain to God about all of our problems.
           D: express only positive emotions in praise.
         answer: B
+        print_position: 7
       - uid: THE311.10.4.1.UPE.1
         subobj: 10.4.1
         type: upe
@@ -3422,6 +3641,8 @@ courses:
           C: broke down gender, racial, and ethical barriers.
           D: showed Jesus’ favoritism towards women.
         answer: C
+        print_position: 12
+        unit: 3
       - uid: THE311.10.4.1.TY.1
         subobj: 10.4.1
         type: ty
@@ -3433,6 +3654,7 @@ courses:
           C: accepts worship from anyone.
           D: judges all sin the same.
         answer: C
+        print_position: 8
       - uid: THE311.10.4.2.TY.1
         subobj: 10.4.2
         type: ty
@@ -3443,6 +3665,7 @@ courses:
           C: song and dance.
           D: spirit and in truth.
         answer: D
+        print_position: 9
       - uid: THE311.10.5.1.UPE.1
         subobj: 10.5.1
         type: upe
@@ -3454,6 +3677,8 @@ courses:
           C: communing with angels.
           D: reuniting with loved ones.
         answer: A
+        print_position: 13
+        unit: 3
       - uid: THE311.10.5.1.TY.1
         subobj: 10.5.1
         type: ty
@@ -3465,6 +3690,7 @@ courses:
           C: wailing.
           D: rejoicing.
         answer: B
+        print_position: 10
       - uid: THE311.11.1.1.UPE.1
         subobj: 11.1.1
         type: upe
@@ -3475,6 +3701,8 @@ courses:
           C: the gathering of Christians for worship.
           D: one of the books of the Old Testament.
         answer: C
+        print_position: 14
+        unit: 3
       - uid: THE311.11.1.1.TY.1
         subobj: 11.1.1
         type: ty
@@ -3486,6 +3714,7 @@ courses:
           C: desired believers to worship only once a week in large groups.
           D: expected believers to go to a public place to worship God together.
         answer: D
+        print_position: 1
       - uid: THE311.11.1.2.UPE.1
         subobj: 11.1.2
         type: upe
@@ -3496,6 +3725,8 @@ courses:
           C: “submit to the will of other believers.”
           D: “commune with and worship God.”
         answer: A
+        print_position: 15
+        unit: 3
       - uid: THE311.11.1.2.TY.1
         subobj: 11.1.2
         type: ty
@@ -3506,6 +3737,7 @@ courses:
           C: church.
           D: heavens.
         answer: B
+        print_position: 2
       - uid: THE311.11.1.3.TY.1
         subobj: 11.1.3
         type: ty
@@ -3516,6 +3748,7 @@ courses:
           C: reflects the nature of God.
           D: brings forgiveness of sin.
         answer: C
+        print_position: 3
       - uid: THE311.11.2.1.TY.1
         subobj: 11.2.1
         type: ty
@@ -3527,6 +3760,7 @@ courses:
           C: neglect God as the object of our worship.
           D: become too efficient in daily life.
         answer: C
+        print_position: 4
       - uid: THE311.11.2.2.UPE.1
         subobj: 11.2.2
         type: upe
@@ -3538,6 +3772,8 @@ courses:
           C: us to humble ourselves in brokenness before God.
           D: considerable suffering when God brings judgment.
         answer: D
+        print_position: 16
+        unit: 3
       - uid: THE311.11.3.1.TY.1
         subobj: 11.3.1
         type: ty
@@ -3549,6 +3785,7 @@ courses:
           C: choruses.
           D: spiritual songs.
         answer: D
+        print_position: 5
       - uid: THE311.11.3.2.TY.1
         subobj: 11.3.2
         type: ty
@@ -3560,6 +3797,7 @@ courses:
           C: Key changes and poetry
           D: Doctrine and worldview
         answer: A
+        print_position: 6
       - uid: THE311.11.3.4.UPE.1
         subobj: 11.3.4
         type: upe
@@ -3570,6 +3808,8 @@ courses:
           C: take people into God’s presence.
           D: share his or her testimony.
         answer: C
+        print_position: 17
+        unit: 3
       - uid: THE311.11.3.4.TY.1
         subobj: 11.3.4
         type: ty
@@ -3580,6 +3820,7 @@ courses:
           C: learn to play at least three instruments.
           D: share an appropriate anecdote about worship.
         answer: B
+        print_position: 7
       - uid: THE311.11.4.2.UPE.1
         subobj: 11.4.2
         type: upe
@@ -3590,6 +3831,8 @@ courses:
           C: experience of Jonah in the big fish.
           D: events of the Day of Pentecost.
         answer: A
+        print_position: 18
+        unit: 3
       - uid: THE311.11.4.2.TY.1
         subobj: 11.4.2
         type: ty
@@ -3601,6 +3844,7 @@ courses:
             demonstration
           D: Times when the congregation is invited to the altars for corporate worship
         answer: C
+        print_position: 8
       - uid: THE311.11.5.1.TY.1
         subobj: 11.5.1
         type: ty
@@ -3612,6 +3856,7 @@ courses:
           C: a foretaste of heaven on earth.
           D: a display of power to the world.
         answer: C
+        print_position: 9
       - uid: THE311.11.5.2.TY.1
         subobj: 11.5.2
         type: ty
@@ -3622,6 +3867,7 @@ courses:
           C: It promotes a feeling of superiority.
           D: It provides a deep connection with God.
         answer: D
+        print_position: 10
       - uid: THE311.11.6.1.UPE.1
         subobj: 11.6.1
         type: upe
@@ -3633,6 +3879,8 @@ courses:
           C: the lack of creativity used in worship during Old Testament times.
           D: God’s desire for functionality in worship without artistic expression.
         answer: A
+        print_position: 19
+        unit: 3
       - uid: THE311.12.1.1.UPE.1
         subobj: 12.1.1
         type: upe
@@ -3644,6 +3892,8 @@ courses:
           C: bowing low to the ground in reverence to the Lord.
           D: offering songs of worship as a sacrifice to God.
         answer: A
+        print_position: 20
+        unit: 3
       - uid: THE311.12.1.1.TY.1
         subobj: 12.1.1
         type: ty
@@ -3655,6 +3905,7 @@ courses:
           C: Spirit
           D: Strength
         answer: A
+        print_position: 1
       - uid: THE311.12.1.1.TY.2
         subobj: 12.1.1
         type: ty
@@ -3666,6 +3917,7 @@ courses:
           C: the condition of our bodies.
           D: the condition of our hearts.
         answer: D
+        print_position: 2
       - uid: THE311.12.1.2.UPE.1
         subobj: 12.1.2
         type: upe
@@ -3677,6 +3929,8 @@ courses:
           C: Praise the Lord with worship songs, and give generously to the poor.
           D: Offer your body to God, and pay your taxes without complaint.
         answer: B
+        print_position: 21
+        unit: 3
       - uid: THE311.12.1.2.TY.1
         subobj: 12.1.2
         type: ty
@@ -3687,6 +3941,7 @@ courses:
           C: Worshipping God with our actions
           D: Worshipping God through our words
         answer: B
+        print_position: 3
       - uid: THE311.12.1.2.TY.2
         subobj: 12.1.2
         type: ty
@@ -3697,6 +3952,7 @@ courses:
           C: will.
           D: soul.
         answer: C
+        print_position: 4
       - uid: THE311.12.1.3.UPE.1
         subobj: 12.1.3
         type: upe
@@ -3708,6 +3964,8 @@ courses:
           C: given a taste of what heaven will be like.
           D: protected from all forms of spiritual harm.
         answer: A
+        print_position: 22
+        unit: 3
       - uid: THE311.12.1.3.TY.1
         subobj: 12.1.3
         type: ty
@@ -3719,6 +3977,7 @@ courses:
           C: Spiritual conformity
           D: A loss of identity
         answer: B
+        print_position: 5
       - uid: THE311.12.2.1.UPE.1
         subobj: 12.2.1
         type: upe
@@ -3729,6 +3988,8 @@ courses:
           C: anything to which a person bows down and offers prayers.
           D: a person glorified and honored as a god or spiritual leader.
         answer: B
+        print_position: 23
+        unit: 3
       - uid: THE311.12.2.1.UPE.2
         subobj: 12.2.1
         type: upe
@@ -3740,6 +4001,8 @@ courses:
           C: be aware of how we have disappointed God.
           D: direct our full attention and devotion to those idols.
         answer: A
+        print_position: 24
+        unit: 3
       - uid: THE311.12.2.1.UPE.3
         subobj: 12.2.1
         type: upe
@@ -3750,6 +4013,8 @@ courses:
           C: can be forgiven through the grace of God.
           D: must pay a high price for their forgiveness.
         answer: C
+        print_position: 25
+        unit: 3
       - uid: THE311.12.2.1.TY.1
         subobj: 12.2.1
         type: ty
@@ -3761,6 +4026,7 @@ courses:
           C: We should not allow idolatry to persist in our lives.
           D: Only graven images are idols.
         answer: C
+        print_position: 6
       - uid: THE311.12.2.1.TY.2
         subobj: 12.2.1
         type: ty
@@ -3771,6 +4037,7 @@ courses:
           C: destined for greatness.
           D: bringing honor to God.
         answer: B
+        print_position: 7
       - uid: THE311.12.2.1.TY.3
         subobj: 12.2.1
         type: ty
@@ -3781,6 +4048,7 @@ courses:
           C: That they were washed, sanctified, and justified in Jesus
           D: That they will no longer be tempted to commit idolatry
         answer: C
+        print_position: 8
       - uid: THE311.12.2.1.TY.4
         subobj: 12.2.1
         type: ty
@@ -3791,6 +4059,7 @@ courses:
           C: condemned.
           D: innocent.
         answer: B
+        print_position: 9
       - uid: THE311.12.2.1.TY.5
         subobj: 12.2.1
         type: ty
@@ -3802,6 +4071,7 @@ courses:
           C: Only Satan
           D: All people
         answer: D
+        print_position: 10
       - uid: THE311.1.2.1.F.1
         subobj: 1.2.1
         type: final
@@ -4067,6 +4337,7 @@ courses:
         key_pdf: the311_1st_a_desi key.pdf
         matched: 25
         objectives_agree: 25
+      captured: reparse
     deployed_pn: 03.22.01
     print_history:
     - date: '2022-01-01'

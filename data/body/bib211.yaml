@@ -103,6 +103,8 @@ courses:
           C: The Acts of the Holy Spirit.
           D: The Acts of Peter and Paul.
         answer: C
+        print_position: 1
+        unit: 1
       - uid: BIB211.1.1.1.UPE.2
         subobj: 1.1.1
         type: upe
@@ -113,6 +115,8 @@ courses:
           C: Barnabas.
           D: Mark.
         answer: B
+        print_position: 2
+        unit: 1
       - uid: BIB211.1.1.1.UPE.3
         subobj: 1.1.1
         type: upe
@@ -126,6 +130,8 @@ courses:
           D: Paul’s Roman imprisonment, the Jerusalem Council, and the burning of
             Rome.
         answer: B
+        print_position: 3
+        unit: 1
       - uid: BIB211.1.1.1.UPE.4
         subobj: 1.1.1
         type: upe
@@ -136,6 +142,8 @@ courses:
           C: AD 63.
           D: AD 75.
         answer: C
+        print_position: 4
+        unit: 1
       - uid: BIB211.1.1.1.UPE.5
         subobj: 1.1.1
         type: upe
@@ -146,6 +154,8 @@ courses:
           C: one who loves God.
           D: esteemed by God.
         answer: C
+        print_position: 5
+        unit: 1
       - uid: BIB211.1.1.1.UPE.6
         subobj: 1.1.1
         type: upe
@@ -156,6 +166,8 @@ courses:
           C: were both written from prison cells.
           D: are organized alike.
         answer: D
+        print_position: 6
+        unit: 1
       - uid: BIB211.1.1.1.UPE.7
         subobj: 1.1.1
         type: upe
@@ -166,6 +178,8 @@ courses:
           C: set apart.
           D: sent out.
         answer: D
+        print_position: 23
+        unit: 1
       - uid: BIB211.1.1.1.TY.1
         subobj: 1.1.1
         type: ty
@@ -176,6 +190,7 @@ courses:
           C: AD 250.
           D: AD 500.
         answer: B
+        print_position: 1
       - uid: BIB211.1.1.1.TY.2
         subobj: 1.1.1
         type: ty
@@ -186,6 +201,7 @@ courses:
           C: AD 75.
           D: AD 83.
         answer: A
+        print_position: 2
       - uid: BIB211.1.2.1.UPE.1
         subobj: 1.2.1
         type: upe
@@ -196,6 +212,8 @@ courses:
           C: popularity, geography, theology, and mission.
           D: acceptance, numbers, mission, and influence.
         answer: A
+        print_position: 7
+        unit: 1
       - uid: BIB211.1.2.1.TY.1
         subobj: 1.2.1
         type: ty
@@ -206,6 +224,7 @@ courses:
           C: Gospels and Paul’s letters.
           D: Gospels and the pastoral epistles.
         answer: C
+        print_position: 3
       - uid: BIB211.1.2.2.TY.1
         subobj: 1.2.2
         type: ty
@@ -216,6 +235,7 @@ courses:
           C: Samaria to Antioch.
           D: Jerusalem to Rome.
         answer: D
+        print_position: 4
       - uid: BIB211.1.2.2.TY.2
         subobj: 1.2.2
         type: ty
@@ -226,6 +246,7 @@ courses:
           C: Peter preaching to Cornelius and his household.
           D: doing all of the above.
         answer: D
+        print_position: 5
       - uid: BIB211.1.2.3.UPE.1
         subobj: 1.2.3
         type: upe
@@ -236,6 +257,8 @@ courses:
           C: emphasizes that the Holy Spirit is key to be a witness for Christ.
           D: all the above.
         answer: D
+        print_position: 8
+        unit: 1
       - uid: BIB211.1.2.4.TY.1
         subobj: 1.2.4
         type: ty
@@ -246,6 +269,7 @@ courses:
           C: emphasize the ministry of the Holy Spirit through believers.
           D: do all the above.
         answer: C
+        print_position: 6
       - uid: BIB211.1.2.4.TY.2
         subobj: 1.2.4
         type: ty
@@ -256,6 +280,7 @@ courses:
           C: 63 times.
           D: 75 times.
         answer: B
+        print_position: 7
       - uid: BIB211.1.3.1.UPE.1
         subobj: 1.3.1
         type: upe
@@ -267,6 +292,8 @@ courses:
           C: Judea, Samaria, and Rome.
           D: Jerusalem, Samaria and Judea, and the whole world.
         answer: D
+        print_position: 9
+        unit: 1
       - uid: BIB211.1.3.1.UPE.2
         subobj: 1.3.1
         type: upe
@@ -278,6 +305,8 @@ courses:
           C: geography, the ministry of Peter and Paul, and its great messages.
           D: Acts 1:8, the ministry of Paul and the early church, and its great messages.
         answer: C
+        print_position: 10
+        unit: 1
       - uid: BIB211.1.3.1.TY.1
         subobj: 1.3.1
         type: ty
@@ -288,6 +317,7 @@ courses:
           C: '2:4.'
           D: '2:38.'
         answer: B
+        print_position: 8
       - uid: BIB211.1.3.1.TY.2
         subobj: 1.3.1
         type: ty
@@ -299,6 +329,7 @@ courses:
           C: Peter and the apostles.
           D: the early church and Peter.
         answer: A
+        print_position: 9
       - uid: BIB211.1.3.1.TY.3
         subobj: 1.3.1
         type: ty
@@ -310,6 +341,7 @@ courses:
           C: Peter, Paul, and King Agrippa.
           D: Stephen, Paul, and Luke.
         answer: B
+        print_position: 10
       - uid: BIB211.2.1.1.UPE.1
         subobj: 2.1.1
         type: upe
@@ -320,6 +352,8 @@ courses:
           C: Deliverance from political oppression
           D: A great revival
         answer: A
+        print_position: 11
+        unit: 1
       - uid: BIB211.2.1.1.UPE.2
         subobj: 2.1.1
         type: upe
@@ -331,6 +365,8 @@ courses:
           C: 50 days.
           D: 75 days.
         answer: B
+        print_position: 12
+        unit: 1
       - uid: BIB211.2.1.1.UPE.3
         subobj: 2.1.1
         type: upe
@@ -341,6 +377,8 @@ courses:
           C: Theophilus.
           D: Tychicus.
         answer: C
+        print_position: 13
+        unit: 1
       - uid: BIB211.2.1.1.UPE.4
         subobj: 2.1.1
         type: upe
@@ -351,6 +389,8 @@ courses:
           C: judgment.
           D: the Holy Spirit.
         answer: D
+        print_position: 14
+        unit: 1
       - uid: BIB211.2.1.1.UPE.5
         subobj: 2.1.1
         type: upe
@@ -362,6 +402,8 @@ courses:
           C: an experience.
           D: tongues.
         answer: A
+        print_position: 15
+        unit: 1
       - uid: BIB211.2.1.1.UPE.6
         subobj: 2.1.1
         type: upe
@@ -372,6 +414,8 @@ courses:
           C: at water baptism.
           D: after conversion.
         answer: D
+        print_position: 16
+        unit: 1
       - uid: BIB211.2.1.1.UPE.7
         subobj: 2.1.1
         type: upe
@@ -383,6 +427,8 @@ courses:
           C: the task is not finished.
           D: all the above are true.
         answer: D
+        print_position: 17
+        unit: 1
       - uid: BIB211.2.1.1.TY.1
         subobj: 2.1.1
         type: ty
@@ -393,6 +439,7 @@ courses:
           C: 50 days
           D: Until they received
         answer: D
+        print_position: 1
       - uid: BIB211.2.1.1.TY.2
         subobj: 2.1.1
         type: ty
@@ -403,6 +450,7 @@ courses:
           C: submit and receive.
           D: fast and pray.
         answer: C
+        print_position: 2
       - uid: BIB211.2.2.1.UPE.1
         subobj: 2.2.1
         type: upe
@@ -414,6 +462,8 @@ courses:
           C: salvation and sanctification.
           D: salvation.
         answer: A
+        print_position: 18
+        unit: 1
       - uid: BIB211.2.2.1.UPE.2
         subobj: 2.2.1
         type: upe
@@ -424,6 +474,8 @@ courses:
           C: speak the right words at the right times.
           D: do all of the above.
         answer: C
+        print_position: 19
+        unit: 1
       - uid: BIB211.2.2.1.UPE.3
         subobj: 2.2.1
         type: upe
@@ -434,6 +486,8 @@ courses:
           C: the city in which they live.
           D: people of their own race.
         answer: C
+        print_position: 20
+        unit: 1
       - uid: BIB211.2.2.1.UPE.4
         subobj: 2.2.1
         type: upe
@@ -445,6 +499,8 @@ courses:
           C: '7'
           D: '10'
         answer: B
+        print_position: 21
+        unit: 1
       - uid: BIB211.2.2.1.UPE.5
         subobj: 2.2.1
         type: upe
@@ -455,6 +511,8 @@ courses:
           C: pasture.
           D: olive orchard.
         answer: A
+        print_position: 22
+        unit: 1
       - uid: BIB211.2.2.1.TY.1
         subobj: 2.2.1
         type: ty
@@ -466,6 +524,7 @@ courses:
           C: sanctification.
           D: all of the above.
         answer: B
+        print_position: 3
       - uid: BIB211.2.2.1.TY.2
         subobj: 2.2.1
         type: ty
@@ -476,6 +535,7 @@ courses:
           C: comfort the church.
           D: empower the church.
         answer: D
+        print_position: 4
       - uid: BIB211.2.2.1.TY.3
         subobj: 2.2.1
         type: ty
@@ -486,6 +546,7 @@ courses:
           C: political power and influence.
           D: power to speak in tongues.
         answer: B
+        print_position: 5
       - uid: BIB211.2.2.1.TY.4
         subobj: 2.2.1
         type: ty
@@ -496,6 +557,7 @@ courses:
           C: “time.”
           D: all of the above.
         answer: A
+        print_position: 6
       - uid: BIB211.2.2.1.TY.5
         subobj: 2.2.1
         type: ty
@@ -507,6 +569,7 @@ courses:
           C: popularity.
           D: judgment.
         answer: B
+        print_position: 7
       - uid: BIB211.2.2.1.TY.6
         subobj: 2.2.1
         type: ty
@@ -517,6 +580,7 @@ courses:
           C: increase the power and influence of the kingdom of God.
           D: do all of the above.
         answer: B
+        print_position: 8
       - uid: BIB211.2.3.1.UPE.1
         subobj: 2.3.1
         type: upe
@@ -527,6 +591,8 @@ courses:
           C: a follower of Jesus, witnessing his baptism, resurrection, and ascension.
           D: all of the above.
         answer: C
+        print_position: 24
+        unit: 1
       - uid: BIB211.2.3.1.UPE.2
         subobj: 2.3.1
         type: upe
@@ -538,6 +604,8 @@ courses:
           C: unity, prayer, patience, and obedience.
           D: obedience, unity, diligence, and the study and application of God’s Word.
         answer: B
+        print_position: 25
+        unit: 1
       - uid: BIB211.2.3.1.TY.1
         subobj: 2.3.1
         type: ty
@@ -549,6 +617,7 @@ courses:
           C: Jewish law.
           D: each other.
         answer: A
+        print_position: 9
       - uid: BIB211.2.3.1.TY.2
         subobj: 2.3.1
         type: ty
@@ -560,6 +629,7 @@ courses:
           C: prayer, obedience, patience, and unity.
           D: obedience, unity, prayer, and the study and application of God’s Word.
         answer: D
+        print_position: 10
       - uid: BIB211.3.1.1.UPE.1
         subobj: 3.1.1
         type: upe
@@ -570,6 +640,8 @@ courses:
           C: grape harvest.
           D: wheat harvest.
         answer: D
+        print_position: 1
+        unit: 2
       - uid: BIB211.3.1.1.UPE.2
         subobj: 3.1.1
         type: upe
@@ -580,6 +652,8 @@ courses:
           C: mourning.
           D: joy.
         answer: A
+        print_position: 2
+        unit: 2
       - uid: BIB211.3.1.1.TY.1
         subobj: 3.1.1
         type: ty
@@ -590,6 +664,7 @@ courses:
           C: “the fiftieth.”
           D: “the hundredth.”
         answer: C
+        print_position: 1
       - uid: BIB211.3.1.1.TY.2
         subobj: 3.1.1
         type: ty
@@ -600,6 +675,7 @@ courses:
           C: duty and obedience.
           D: obedience and sacrifice.
         answer: B
+        print_position: 2
       - uid: BIB211.3.1.1.TY.3
         subobj: 3.1.1
         type: ty
@@ -611,6 +687,7 @@ courses:
           C: unity.
           D: tolerance.
         answer: C
+        print_position: 3
       - uid: BIB211.3.2.1.UPE.1
         subobj: 3.2.1
         type: upe
@@ -622,6 +699,8 @@ courses:
           C: a violent earthquake.
           D: a mighty rushing wind.
         answer: D
+        print_position: 3
+        unit: 2
       - uid: BIB211.3.2.1.UPE.2
         subobj: 3.2.1
         type: upe
@@ -633,6 +712,8 @@ courses:
           C: '7'
           D: '10'
         answer: B
+        print_position: 4
+        unit: 2
       - uid: BIB211.3.2.1.TY.1
         subobj: 3.2.1
         type: ty
@@ -644,6 +725,7 @@ courses:
           C: the tongues of fire.
           D: a violent earthquake.
         answer: C
+        print_position: 4
       - uid: BIB211.3.2.1.TY.2
         subobj: 3.2.1
         type: ty
@@ -655,6 +737,7 @@ courses:
           C: speaking in tongues.
           D: being slain in the Spirit.
         answer: C
+        print_position: 5
       - uid: BIB211.3.2.1.TY.3
         subobj: 3.2.1
         type: ty
@@ -666,6 +749,7 @@ courses:
           C: prophesy.
           D: speak in tongues and prophesy.
         answer: D
+        print_position: 6
       - uid: BIB211.3.2.1.TY.4
         subobj: 3.2.1
         type: ty
@@ -677,6 +761,7 @@ courses:
           C: 2, 10, 19
           D: 2, 7, 8, 11, 19
         answer: A
+        print_position: 7
       - uid: BIB211.3.3.1.UPE.1
         subobj: 3.3.1
         type: upe
@@ -688,6 +773,8 @@ courses:
             to God.
           D: is forbidden in a corporate setting.
         answer: C
+        print_position: 5
+        unit: 2
       - uid: BIB211.3.3.1.TY.1
         subobj: 3.3.1
         type: ty
@@ -699,6 +786,7 @@ courses:
           C: 2, 10, 19
           D: 2, 9, 10, 19
         answer: C
+        print_position: 8
       - uid: BIB211.3.3.1.TY.2
         subobj: 3.3.1
         type: ty
@@ -709,6 +797,7 @@ courses:
           C: is something believers do on their own.
           D: is all of the above.
         answer: B
+        print_position: 9
       - uid: BIB211.3.3.1.TY.3
         subobj: 3.3.1
         type: ty
@@ -719,6 +808,7 @@ courses:
           C: those in leadership.
           D: all believers.
         answer: D
+        print_position: 10
       - uid: BIB211.4.1.1.UPE.1
         subobj: 4.1.1
         type: upe
@@ -729,6 +819,8 @@ courses:
           C: gladness, utter amazement, and bewilderment.
           D: hostility, bewilderment, and gladness.
         answer: B
+        print_position: 6
+        unit: 2
       - uid: BIB211.4.1.1.TY.1
         subobj: 4.1.1
         type: ty
@@ -740,6 +832,7 @@ courses:
           C: '15'
           D: '23'
         answer: C
+        print_position: 1
       - uid: BIB211.4.1.1.TY.2
         subobj: 4.1.1
         type: ty
@@ -751,6 +844,7 @@ courses:
           C: debating with them.
           D: sending them away.
         answer: A
+        print_position: 2
       - uid: BIB211.4.1.1.TY.3
         subobj: 4.1.1
         type: ty
@@ -762,6 +856,7 @@ courses:
           C: sitting quietly nearby while Peter preached.
           D: protecting Peter from the angry crowd.
         answer: B
+        print_position: 3
       - uid: BIB211.4.2.1.UPE.1
         subobj: 4.2.1
         type: upe
@@ -774,6 +869,8 @@ courses:
           D: treating listeners with respect, meeting them where they are, speaking
             with authority, and being prepared.
         answer: D
+        print_position: 7
+        unit: 2
       - uid: BIB211.4.2.1.UPE.2
         subobj: 4.2.1
         type: upe
@@ -784,6 +881,8 @@ courses:
           C: how Pentecost could come to each person.
           D: all of the above.
         answer: D
+        print_position: 8
+        unit: 2
       - uid: BIB211.4.2.1.UPE.3
         subobj: 4.2.1
         type: upe
@@ -795,6 +894,8 @@ courses:
           C: “These men are not drunk, as you suppose.”
           D: “I saw the Lord always before me.”
         answer: C
+        print_position: 9
+        unit: 2
       - uid: BIB211.4.2.1.TY.1
         subobj: 4.2.1
         type: ty
@@ -806,6 +907,7 @@ courses:
           C: 3,000
           D: 5,000
         answer: C
+        print_position: 4
       - uid: BIB211.4.2.1.TY.2
         subobj: 4.2.1
         type: ty
@@ -817,6 +919,7 @@ courses:
           C: being compassionate and loving.
           D: doing all the above.
         answer: B
+        print_position: 5
       - uid: BIB211.4.2.1.TY.3
         subobj: 4.2.1
         type: ty
@@ -828,6 +931,7 @@ courses:
           C: practicing extemporary speaking.
           D: doing all of the above.
         answer: B
+        print_position: 6
       - uid: BIB211.4.2.1.TY.4
         subobj: 4.2.1
         type: ty
@@ -839,6 +943,7 @@ courses:
           C: repent and cry out to God.
           D: be baptized and join the church.
         answer: B
+        print_position: 7
       - uid: BIB211.4.2.1.TY.5
         subobj: 4.2.1
         type: ty
@@ -849,6 +954,7 @@ courses:
           C: a required ritual for church membership.
           D: a ritual securing a believer’s salvation.
         answer: A
+        print_position: 8
       - uid: BIB211.4.3.1.UPE.1
         subobj: 4.3.1
         type: upe
@@ -859,6 +965,8 @@ courses:
           C: repentance, baptism, and receiving the gift of the Holy Spirit.
           D: repentance, love, and joy in the Holy Spirit.
         answer: C
+        print_position: 10
+        unit: 2
       - uid: BIB211.4.3.1.TY.1
         subobj: 4.3.1
         type: ty
@@ -869,6 +977,7 @@ courses:
           C: prayer.
           D: all of the above.
         answer: D
+        print_position: 9
       - uid: BIB211.4.3.1.TY.2
         subobj: 4.3.1
         type: ty
@@ -879,6 +988,7 @@ courses:
           C: generosity and growth.
           D: all of the above.
         answer: D
+        print_position: 10
       - uid: BIB211.5.1.1.UPE.1
         subobj: 5.1.1
         type: upe
@@ -889,6 +999,8 @@ courses:
           C: Beautiful Gate.
           D: pool of Bethesda.
         answer: C
+        print_position: 11
+        unit: 2
       - uid: BIB211.5.1.1.UPE.2
         subobj: 5.1.1
         type: upe
@@ -899,6 +1011,8 @@ courses:
           C: preached to the surrounding crowd.
           D: reached to him and took him by the hand.
         answer: D
+        print_position: 12
+        unit: 2
       - uid: BIB211.5.1.1.TY.1
         subobj: 5.1.1
         type: ty
@@ -909,6 +1023,7 @@ courses:
           C: going to the temple to be cleansed.
           D: falling at the apostles’ feet in gratitude.
         answer: B
+        print_position: 1
       - uid: BIB211.5.1.1.TY.2
         subobj: 5.1.1
         type: ty
@@ -920,6 +1035,7 @@ courses:
           C: thanksgiving.
           D: eloquent speaking.
         answer: A
+        print_position: 2
       - uid: BIB211.5.1.1.TY.3
         subobj: 5.1.1
         type: ty
@@ -931,6 +1047,7 @@ courses:
           C: the man being healed.
           D: all of the above.
         answer: D
+        print_position: 3
       - uid: BIB211.5.1.1.TY.4
         subobj: 5.1.1
         type: ty
@@ -944,6 +1061,7 @@ courses:
             the unexpected.
           D: give generously, meet people’s physical needs, and expect the unexpected.
         answer: A
+        print_position: 4
       - uid: BIB211.5.2.1.UPE.1
         subobj: 5.2.1
         type: upe
@@ -956,6 +1074,8 @@ courses:
           C: death.
           D: hatred.
         answer: B
+        print_position: 13
+        unit: 2
       - uid: BIB211.5.2.1.TY.1
         subobj: 5.2.1
         type: ty
@@ -967,6 +1087,7 @@ courses:
           C: compassion and forgiveness.
           D: evangelism and the second coming of Christ.
         answer: B
+        print_position: 5
       - uid: BIB211.5.2.1.TY.2
         subobj: 5.2.1
         type: ty
@@ -977,6 +1098,7 @@ courses:
           C: point people to Christ.
           D: serve our own needs.
         answer: C
+        print_position: 6
       - uid: BIB211.5.2.1.TY.3
         subobj: 5.2.1
         type: ty
@@ -989,6 +1111,7 @@ courses:
           C: death.
           D: hatred.
         answer: B
+        print_position: 7
       - uid: BIB211.5.3.1.UPE.1
         subobj: 5.3.1
         type: upe
@@ -1000,6 +1123,8 @@ courses:
           C: two thousand more believers being added to the church.
           D: all of the above.
         answer: D
+        print_position: 14
+        unit: 2
       - uid: BIB211.5.3.1.UPE.2
         subobj: 5.3.1
         type: upe
@@ -1011,6 +1136,8 @@ courses:
           C: pet beliefs and pre-conceived notions.
           D: pride and pet beliefs.
         answer: C
+        print_position: 15
+        unit: 2
       - uid: BIB211.5.3.1.TY.1
         subobj: 5.3.1
         type: ty
@@ -1022,6 +1149,7 @@ courses:
           C: Roman soldiers
           D: Greeks
         answer: B
+        print_position: 8
       - uid: BIB211.5.3.1.TY.2
         subobj: 5.3.1
         type: ty
@@ -1032,6 +1160,7 @@ courses:
           C: of God’s sovereignty.
           D: all the above can be true.
         answer: D
+        print_position: 9
       - uid: BIB211.5.3.1.TY.3
         subobj: 5.3.1
         type: ty
@@ -1042,6 +1171,7 @@ courses:
           C: “God can do what He wants.”
           D: “God is all-knowing.”
         answer: A
+        print_position: 10
       - uid: BIB211.6.1.1.UPE.1
         subobj: 6.1.1
         type: upe
@@ -1052,6 +1182,8 @@ courses:
           C: were preaching false doctrine.
           D: lied and secretly kept some money for themselves.
         answer: D
+        print_position: 16
+        unit: 2
       - uid: BIB211.6.1.1.UPE.2
         subobj: 6.1.1
         type: upe
@@ -1062,6 +1194,8 @@ courses:
           C: generosity.
           D: all of the above.
         answer: D
+        print_position: 17
+        unit: 2
       - uid: BIB211.6.1.1.TY.1
         subobj: 6.1.1
         type: ty
@@ -1073,6 +1207,7 @@ courses:
           C: fellowshipping together.
           D: keeping their possessions to themselves.
         answer: B
+        print_position: 1
       - uid: BIB211.6.1.1.TY.2
         subobj: 6.1.1
         type: ty
@@ -1083,6 +1218,7 @@ courses:
           C: the second coming of Christ.
           D: judgment of God.
         answer: A
+        print_position: 2
       - uid: BIB211.6.1.1.TY.3
         subobj: 6.1.1
         type: ty
@@ -1093,6 +1229,7 @@ courses:
           C: was a Jew from the island of Cyprus.
           D: was all of the above.
         answer: D
+        print_position: 3
       - uid: BIB211.6.1.2.TY.1
         subobj: 6.1.2
         type: ty
@@ -1104,6 +1241,7 @@ courses:
           C: all believers are to sell their possessions and give them to the church.
           D: all believers are to live in poverty.
         answer: B
+        print_position: 4
       - uid: BIB211.6.2.1.UPE.1
         subobj: 6.2.1
         type: upe
@@ -1114,6 +1252,8 @@ courses:
           C: honesty and trust.
           D: signs and wonders and peace.
         answer: A
+        print_position: 18
+        unit: 2
       - uid: BIB211.6.2.1.TY.1
         subobj: 6.2.1
         type: ty
@@ -1124,6 +1264,7 @@ courses:
           C: honesty.
           D: strong attendance.
         answer: A
+        print_position: 5
       - uid: BIB211.6.2.1.TY.2
         subobj: 6.2.1
         type: ty
@@ -1134,6 +1275,7 @@ courses:
           C: continued to meet publicly.
           D: did all of the above.
         answer: C
+        print_position: 6
       - uid: BIB211.6.3.1.UPE.1
         subobj: 6.3.1
         type: upe
@@ -1144,6 +1286,8 @@ courses:
           C: seduction, peace, and success.
           D: seduction, apathy, and sickness.
         answer: B
+        print_position: 19
+        unit: 2
       - uid: BIB211.6.3.1.UPE.2
         subobj: 6.3.1
         type: upe
@@ -1155,6 +1299,8 @@ courses:
           C: were found teaching in the temple courts.
           D: gathered for prayer in the upper room.
         answer: C
+        print_position: 20
+        unit: 2
       - uid: BIB211.6.3.1.TY.1
         subobj: 6.3.1
         type: ty
@@ -1165,6 +1311,7 @@ courses:
           C: the Sanhedrin.
           D: all of the above.
         answer: D
+        print_position: 7
       - uid: BIB211.6.3.1.TY.2
         subobj: 6.3.1
         type: ty
@@ -1175,6 +1322,7 @@ courses:
           C: scattered to different parts of the region.
           D: no longer publicly proclaimed Christ.
         answer: A
+        print_position: 8
       - uid: BIB211.6.3.1.TY.3
         subobj: 6.3.1
         type: ty
@@ -1185,6 +1333,7 @@ courses:
           C: killed.
           D: stoned.
         answer: B
+        print_position: 9
       - uid: BIB211.6.3.1.TY.4
         subobj: 6.3.1
         type: ty
@@ -1195,6 +1344,7 @@ courses:
           C: will destroy the church.
           D: are a result of sin.
         answer: B
+        print_position: 10
       - uid: BIB211.7.1.1.TY.1
         subobj: 7.1.1
         type: ty
@@ -1205,6 +1355,7 @@ courses:
           C: never learned to speak, read, or write Hebrew.
           D: done all of the above.
         answer: D
+        print_position: 1
       - uid: BIB211.7.1.1.TY.2
         subobj: 7.1.1
         type: ty
@@ -1215,6 +1366,7 @@ courses:
           C: Acts 7:1–5.
           D: Philippians 4:6–10.
         answer: A
+        print_position: 2
       - uid: BIB211.7.1.2.UPE.1
         subobj: 7.1.2
         type: upe
@@ -1226,6 +1378,8 @@ courses:
           C: Grecian and Hebraic Jewish believers.
           D: Jewish and Samaritan believers.
         answer: C
+        print_position: 21
+        unit: 2
       - uid: BIB211.7.1.2.UPE.2
         subobj: 7.1.2
         type: upe
@@ -1236,6 +1390,8 @@ courses:
           C: delegating authority to others that were qualified and capable.
           D: all the above.
         answer: D
+        print_position: 22
+        unit: 2
       - uid: BIB211.7.1.2.TY.1
         subobj: 7.1.2
         type: ty
@@ -1247,6 +1403,7 @@ courses:
           C: of good reputation, full of wisdom, and full of the Holy Spirit.
           D: of popularity, full of wisdom and of the Holy Spirit.
         answer: C
+        print_position: 3
       - uid: BIB211.7.1.2.TY.2
         subobj: 7.1.2
         type: ty
@@ -1257,6 +1414,7 @@ courses:
           C: Roman names.
           D: Aramaic names.
         answer: A
+        print_position: 4
       - uid: BIB211.7.2.1.UPE.1
         subobj: 7.2.1
         type: upe
@@ -1267,6 +1425,8 @@ courses:
           C: “persecution.”
           D: “overcomer.”
         answer: A
+        print_position: 23
+        unit: 2
       - uid: BIB211.7.2.1.UPE.2
         subobj: 7.2.1
         type: upe
@@ -1277,6 +1437,8 @@ courses:
           C: the Jewish leaders pattern of rejection towards men of faith.
           D: all of the above.
         answer: D
+        print_position: 24
+        unit: 2
       - uid: BIB211.7.2.1.TY.1
         subobj: 7.2.1
         type: ty
@@ -1287,6 +1449,7 @@ courses:
           C: “crown.”
           D: “victorious.”
         answer: C
+        print_position: 5
       - uid: BIB211.7.2.1.TY.2
         subobj: 7.2.1
         type: ty
@@ -1297,6 +1460,7 @@ courses:
           C: “the place of God’s presence.”
           D: “temple.”
         answer: B
+        print_position: 6
       - uid: BIB211.7.2.1.TY.3
         subobj: 7.2.1
         type: ty
@@ -1307,6 +1471,7 @@ courses:
           C: social interchange.
           D: all of the above.
         answer: D
+        print_position: 7
       - uid: BIB211.7.2.1.TY.4
         subobj: 7.2.1
         type: ty
@@ -1317,6 +1482,7 @@ courses:
           C: “apology.”
           D: “homily.”
         answer: C
+        print_position: 8
       - uid: BIB211.7.3.1.UPE.1
         subobj: 7.3.1
         type: upe
@@ -1328,6 +1494,8 @@ courses:
           C: bowing before God.
           D: interceding for the him.
         answer: B
+        print_position: 25
+        unit: 2
       - uid: BIB211.7.3.1.TY.1
         subobj: 7.3.1
         type: ty
@@ -1338,6 +1506,7 @@ courses:
           C: painful.
           D: a doorway into the presence of God.
         answer: D
+        print_position: 9
       - uid: BIB211.7.3.1.TY.2
         subobj: 7.3.1
         type: ty
@@ -1348,6 +1517,7 @@ courses:
           C: at Golgotha.
           D: near the Mount of Olives.
         answer: B
+        print_position: 10
       - uid: BIB211.8.1.1.UPE.1
         subobj: 8.1.1
         type: upe
@@ -1359,6 +1529,8 @@ courses:
           C: openness of the Gentiles to hear the Gospel.
           D: the preaching of Peter and John.
         answer: B
+        print_position: 1
+        unit: 3
       - uid: BIB211.8.1.1.UPE.2
         subobj: 8.1.1
         type: upe
@@ -1369,6 +1541,8 @@ courses:
           C: Mount Gerazim.
           D: Mount Moriah.
         answer: C
+        print_position: 2
+        unit: 3
       - uid: BIB211.8.1.1.UPE.3
         subobj: 8.1.1
         type: upe
@@ -1380,6 +1554,8 @@ courses:
           C: laid hands on them.
           D: anointed them.
         answer: C
+        print_position: 3
+        unit: 3
       - uid: BIB211.8.1.1.UPE.4
         subobj: 8.1.1
         type: upe
@@ -1390,6 +1566,8 @@ courses:
           C: mixed their culture and religion with Assyrian people.
           D: all of the above.
         answer: D
+        print_position: 4
+        unit: 3
       - uid: BIB211.8.1.1.UPE.5
         subobj: 8.1.1
         type: upe
@@ -1401,6 +1579,8 @@ courses:
           C: Elymas
           D: Bar-Jesus
         answer: B
+        print_position: 5
+        unit: 3
       - uid: BIB211.8.1.1.UPE.6
         subobj: 8.1.1
         type: upe
@@ -1411,6 +1591,8 @@ courses:
           C: show favoritism.”
           D: practice sorcery.”
         answer: B
+        print_position: 6
+        unit: 3
       - uid: BIB211.8.1.1.UPE.7
         subobj: 8.1.1
         type: upe
@@ -1421,6 +1603,8 @@ courses:
           C: many people believing in Jesus and following the Lord in water baptism.
           D: all of the above.
         answer: D
+        print_position: 7
+        unit: 3
       - uid: BIB211.8.1.1.TY.1
         subobj: 8.1.1
         type: ty
@@ -1432,6 +1616,7 @@ courses:
           C: Only the Jewish believers
           D: Only the Greek believers
         answer: A
+        print_position: 1
       - uid: BIB211.8.1.1.TY.2
         subobj: 8.1.1
         type: ty
@@ -1443,6 +1628,7 @@ courses:
           C: Gamaliel.
           D: Saul.
         answer: D
+        print_position: 2
       - uid: BIB211.8.1.1.TY.3
         subobj: 8.1.1
         type: ty
@@ -1454,6 +1640,7 @@ courses:
           C: Tarsus.
           D: Ethiopia.
         answer: B
+        print_position: 3
       - uid: BIB211.8.1.1.TY.4
         subobj: 8.1.1
         type: ty
@@ -1464,6 +1651,7 @@ courses:
           C: partook of the Lord’s Supper with the Samaritan believers.
           D: did all of the above.
         answer: A
+        print_position: 4
       - uid: BIB211.8.2.1.UPE.1
         subobj: 8.2.1
         type: upe
@@ -1474,6 +1662,8 @@ courses:
           C: Psalms 22.
           D: Isaiah 52:13–53:12.
         answer: D
+        print_position: 8
+        unit: 3
       - uid: BIB211.8.2.1.UPE.2
         subobj: 8.2.1
         type: upe
@@ -1484,6 +1674,8 @@ courses:
           C: tearing his clothes and repenting of his sins to God.
           D: being baptized in water.
         answer: D
+        print_position: 9
+        unit: 3
       - uid: BIB211.8.2.1.TY.1
         subobj: 8.2.1
         type: ty
@@ -1495,6 +1687,7 @@ courses:
           C: on his way to Antioch.
           D: returning home from Samaria.
         answer: B
+        print_position: 5
       - uid: BIB211.8.2.1.TY.2
         subobj: 8.2.1
         type: ty
@@ -1505,6 +1698,7 @@ courses:
           C: believes in many gods.
           D: adopts the culture and customs of another culture.
         answer: A
+        print_position: 6
       - uid: BIB211.8.2.1.TY.3
         subobj: 8.2.1
         type: ty
@@ -1515,6 +1709,7 @@ courses:
           C: rode with the eunuch to the nearest town.
           D: tucked in his cloak and ran to Jerusalem.
         answer: B
+        print_position: 7
       - uid: BIB211.8.3.1.UPE.1
         subobj: 8.3.1
         type: upe
@@ -1525,6 +1720,8 @@ courses:
           C: Greek name.
           D: Aramaic name.
         answer: A
+        print_position: 10
+        unit: 3
       - uid: BIB211.8.3.1.UPE.2
         subobj: 8.3.1
         type: upe
@@ -1535,6 +1732,8 @@ courses:
           C: heard a voice.
           D: experienced all of the above.
         answer: D
+        print_position: 11
+        unit: 3
       - uid: BIB211.8.3.1.UPE.3
         subobj: 8.3.1
         type: upe
@@ -1546,6 +1745,8 @@ courses:
           C: the Gentiles, the sons of Israel, and kings.
           D: princes, kings, and governors.
         answer: C
+        print_position: 12
+        unit: 3
       - uid: BIB211.8.3.1.UPE.4
         subobj: 8.3.1
         type: upe
@@ -1556,6 +1757,8 @@ courses:
           C: reported his conversion experience to the Jewish leaders.
           D: started on his first missionary journey.
         answer: B
+        print_position: 13
+        unit: 3
       - uid: BIB211.8.3.1.UPE.5
         subobj: 8.3.1
         type: upe
@@ -1566,6 +1769,8 @@ courses:
           C: Luke
           D: Peter
         answer: A
+        print_position: 14
+        unit: 3
       - uid: BIB211.8.3.1.TY.1
         subobj: 8.3.1
         type: ty
@@ -1577,6 +1782,7 @@ courses:
           C: tentmaking skills.
           D: background in all of the above.
         answer: D
+        print_position: 8
       - uid: BIB211.8.3.1.TY.2
         subobj: 8.3.1
         type: ty
@@ -1587,6 +1793,7 @@ courses:
           C: Christian name.
           D: Aramaic name.
         answer: B
+        print_position: 9
       - uid: BIB211.8.3.1.TY.3
         subobj: 8.3.1
         type: ty
@@ -1597,6 +1804,7 @@ courses:
           C: '8.'
           D: '9.'
         answer: D
+        print_position: 10
       - uid: BIB211.9.1.1.UPE.1
         subobj: 9.1.1
         type: upe
@@ -1607,6 +1815,8 @@ courses:
           C: purple garments she sold.
           D: good cooking.
         answer: B
+        print_position: 15
+        unit: 3
       - uid: BIB211.9.1.1.UPE.2
         subobj: 9.1.1
         type: upe
@@ -1617,6 +1827,8 @@ courses:
           C: God-fearer.
           D: all of the above.
         answer: D
+        print_position: 16
+        unit: 3
       - uid: BIB211.9.1.1.UPE.3
         subobj: 9.1.1
         type: upe
@@ -1627,6 +1839,8 @@ courses:
           C: giving Peter a dream at night.
           D: sending Barnabas to talk to him.
         answer: B
+        print_position: 17
+        unit: 3
       - uid: BIB211.9.1.1.UPE.4
         subobj: 9.1.1
         type: upe
@@ -1638,6 +1852,8 @@ courses:
           C: God had extended salvation to all people, even Gentiles.
           D: all of the above.
         answer: D
+        print_position: 18
+        unit: 3
       - uid: BIB211.9.1.1.TY.1
         subobj: 9.1.1
         type: ty
@@ -1648,6 +1864,7 @@ courses:
           C: Lydda and Sharon.
           D: Samaria.
         answer: C
+        print_position: 1
       - uid: BIB211.9.1.1.TY.2
         subobj: 9.1.1
         type: ty
@@ -1658,6 +1875,7 @@ courses:
           C: angel.
           D: word of prophecy.
         answer: B
+        print_position: 2
       - uid: BIB211.9.1.1.TY.3
         subobj: 9.1.1
         type: ty
@@ -1668,6 +1886,7 @@ courses:
           C: abstaining from wine.
           D: all of the above.
         answer: A
+        print_position: 3
       - uid: BIB211.9.1.1.TY.4
         subobj: 9.1.1
         type: ty
@@ -1678,6 +1897,7 @@ courses:
           C: healed of leprosy.
           D: able to walk again.
         answer: A
+        print_position: 4
       - uid: BIB211.9.2.1.UPE.1
         subobj: 9.2.1
         type: upe
@@ -1689,6 +1909,8 @@ courses:
           C: methods, building, and doctrine.
           D: methods, leaders, and doctrine.
         answer: B
+        print_position: 19
+        unit: 3
       - uid: BIB211.9.2.1.UPE.2
         subobj: 9.2.1
         type: upe
@@ -1700,6 +1922,8 @@ courses:
           C: Barnabas and Luke.
           D: Paul and Barnabas.
         answer: D
+        print_position: 20
+        unit: 3
       - uid: BIB211.9.2.1.UPE.3
         subobj: 9.2.1
         type: upe
@@ -1711,6 +1935,8 @@ courses:
           C: Jerusalem
           D: Ephesus
         answer: B
+        print_position: 21
+        unit: 3
       - uid: BIB211.9.2.1.UPE.4
         subobj: 9.2.1
         type: upe
@@ -1722,6 +1948,8 @@ courses:
           C: speaking to the Greeks in their own tongue.
           D: all of the above.
         answer: C
+        print_position: 22
+        unit: 3
       - uid: BIB211.9.2.1.TY.1
         subobj: 9.2.1
         type: ty
@@ -1732,6 +1960,7 @@ courses:
           C: possessed the ancient world’s best water supply.
           D: was all of the above.
         answer: D
+        print_position: 5
       - uid: BIB211.9.2.1.TY.2
         subobj: 9.2.1
         type: ty
@@ -1743,6 +1972,7 @@ courses:
           C: its new mission.
           D: all of the above.
         answer: D
+        print_position: 6
       - uid: BIB211.9.2.1.TY.3
         subobj: 9.2.1
         type: ty
@@ -1753,6 +1983,7 @@ courses:
           C: holding all night prayer meetings.
           D: doing all of the above.
         answer: B
+        print_position: 7
       - uid: BIB211.9.3.1.UPE.1
         subobj: 9.3.1
         type: upe
@@ -1763,6 +1994,8 @@ courses:
           C: for reasons unknown to believers.
           D: all of the above.
         answer: D
+        print_position: 23
+        unit: 3
       - uid: BIB211.9.3.1.UPE.2
         subobj: 9.3.1
         type: upe
@@ -1773,6 +2006,8 @@ courses:
           C: John
           D: Peter
         answer: B
+        print_position: 24
+        unit: 3
       - uid: BIB211.9.3.1.UPE.3
         subobj: 9.3.1
         type: upe
@@ -1783,6 +2018,8 @@ courses:
           C: the Jewish leaders change of heart.
           D: an angel.
         answer: D
+        print_position: 25
+        unit: 3
       - uid: BIB211.9.3.1.TY.1
         subobj: 9.3.1
         type: ty
@@ -1793,6 +2030,7 @@ courses:
           C: can make sweeter the victory to follow.
           D: can do all of the above.
         answer: D
+        print_position: 8
       - uid: BIB211.9.3.1.TY.2
         subobj: 9.3.1
         type: ty
@@ -1804,6 +2042,7 @@ courses:
           C: Barnabas.
           D: Agabus, the prophet.
         answer: A
+        print_position: 9
       - uid: BIB211.9.3.1.TY.3
         subobj: 9.3.1
         type: ty
@@ -1814,6 +2053,7 @@ courses:
           C: Herod the Great
           D: Herod Agrippa I
         answer: D
+        print_position: 10
       - uid: BIB211.10.1.1.UPE.1
         subobj: 10.1.1
         type: upe
@@ -1825,6 +2065,8 @@ courses:
           C: Peter and Paul.
           D: Paul and Silas.
         answer: B
+        print_position: 1
+        unit: 4
       - uid: BIB211.10.1.1.UPE.2
         subobj: 10.1.1
         type: upe
@@ -1839,6 +2081,8 @@ courses:
           D: the examples from Acts 13:4–12 that describe the activities of Paul and
             Barnabas on their first missionary journey.
         answer: D
+        print_position: 2
+        unit: 4
       - uid: BIB211.10.1.1.TY.1
         subobj: 10.1.1
         type: ty
@@ -1849,6 +2093,7 @@ courses:
           C: Mark, Lucuis of Cyrene, Niger, Paul, and Barnabas.
           D: Barnabas, Paul, Lucuis of Cyrene, Manaen, and Niger.
         answer: D
+        print_position: 1
       - uid: BIB211.10.1.1.TY.2
         subobj: 10.1.1
         type: ty
@@ -1859,6 +2104,7 @@ courses:
           C: Legion.
           D: Demos.
         answer: B
+        print_position: 2
       - uid: BIB211.10.1.1.TY.3
         subobj: 10.1.1
         type: ty
@@ -1870,6 +2116,7 @@ courses:
           C: Be a solo missionary.
           D: Be full of the Spirit.
         answer: C
+        print_position: 3
       - uid: BIB211.10.1.1.TY.4
         subobj: 10.1.1
         type: ty
@@ -1881,6 +2128,7 @@ courses:
           C: refers to poetic literature within the Old Testament.
           D: is all of the above.
         answer: B
+        print_position: 4
       - uid: BIB211.10.2.1.UPE.1
         subobj: 10.2.1
         type: upe
@@ -1893,6 +2141,8 @@ courses:
             at all times.
           D: keep a good attitude, be adaptable, and glory in your accomplishments.
         answer: B
+        print_position: 3
+        unit: 4
       - uid: BIB211.10.2.1.UPE.2
         subobj: 10.2.1
         type: upe
@@ -1904,6 +2154,8 @@ courses:
           C: Prepare for the worst and expect the best.
           D: Fight the good fight.
         answer: C
+        print_position: 4
+        unit: 4
       - uid: BIB211.10.2.1.TY.1
         subobj: 10.2.1
         type: ty
@@ -1914,6 +2166,7 @@ courses:
           C: believed and followed Christ.
           D: asked Paul and Barnabas to leave.
         answer: B
+        print_position: 5
       - uid: BIB211.10.2.1.TY.2
         subobj: 10.2.1
         type: ty
@@ -1924,6 +2177,7 @@ courses:
           C: to not give up when you meet resistance.
           D: all of the above.
         answer: D
+        print_position: 6
       - uid: BIB211.10.2.1.TY.3
         subobj: 10.2.1
         type: ty
@@ -1935,6 +2189,7 @@ courses:
           C: Macedonia
           D: Cappadocia
         answer: B
+        print_position: 7
       - uid: BIB211.10.3.1.UPE.1
         subobj: 10.3.1
         type: upe
@@ -1946,6 +2201,8 @@ courses:
           C: idols, blood, unclean animals, and sexual immorality.
           D: food offered to idols, blood, unclean animals, and sexual immorality.
         answer: B
+        print_position: 5
+        unit: 4
       - uid: BIB211.10.3.1.UPE.2
         subobj: 10.3.1
         type: upe
@@ -1956,6 +2213,8 @@ courses:
           C: of a dispute between the church of Antioch and brothers from Jerusalem.
           D: of all of the events listed above.
         answer: D
+        print_position: 6
+        unit: 4
       - uid: BIB211.10.3.1.TY.1
         subobj: 10.3.1
         type: ty
@@ -1966,6 +2225,7 @@ courses:
           C: '19.'
           D: '23.'
         answer: B
+        print_position: 8
       - uid: BIB211.10.3.1.TY.2
         subobj: 10.3.1
         type: ty
@@ -1977,6 +2237,7 @@ courses:
           C: separate the major issues from the minor issues.
           D: avoid major confrontations.
         answer: C
+        print_position: 9
       - uid: BIB211.10.3.1.TY.3
         subobj: 10.3.1
         type: ty
@@ -1987,6 +2248,7 @@ courses:
           C: consuming blood.
           D: all of the above.
         answer: D
+        print_position: 10
       - uid: BIB211.11.1.1.UPE.1
         subobj: 11.1.1
         type: upe
@@ -1998,6 +2260,8 @@ courses:
           C: how much money and provisions to take on their journey.
           D: whether they should take Mark.
         answer: D
+        print_position: 7
+        unit: 4
       - uid: BIB211.11.1.1.UPE.2
         subobj: 11.1.1
         type: upe
@@ -2009,6 +2273,8 @@ courses:
           C: Athens
           D: Troas
         answer: D
+        print_position: 8
+        unit: 4
       - uid: BIB211.11.1.1.UPE.3
         subobj: 11.1.1
         type: upe
@@ -2019,6 +2285,8 @@ courses:
           C: Philippi.
           D: Berea.
         answer: C
+        print_position: 9
+        unit: 4
       - uid: BIB211.11.1.1.TY.1
         subobj: 11.1.1
         type: ty
@@ -2030,6 +2298,7 @@ courses:
           C: John Mark
           D: Apollos
         answer: B
+        print_position: 1
       - uid: BIB211.11.1.1.TY.2
         subobj: 11.1.1
         type: ty
@@ -2041,6 +2310,7 @@ courses:
           C: Anna
           D: Lydia
         answer: D
+        print_position: 2
       - uid: BIB211.11.1.1.TY.3
         subobj: 11.1.1
         type: ty
@@ -2051,6 +2321,7 @@ courses:
           C: Paul delivered a slave girl of an evil spirit.
           D: Paul healed a crippled man on the Sabbath.
         answer: C
+        print_position: 3
       - uid: BIB211.11.2.1.UPE.1
         subobj: 11.2.1
         type: upe
@@ -2061,6 +2332,8 @@ courses:
           C: that there is no God.
           D: that God can only be known through secret knowledge.
         answer: A
+        print_position: 10
+        unit: 4
       - uid: BIB211.11.2.1.UPE.2
         subobj: 11.2.1
         type: upe
@@ -2072,6 +2345,8 @@ courses:
           C: provided for Paul’s physical needs while he was there.
           D: were more intelligent and reasonable.
         answer: B
+        print_position: 11
+        unit: 4
       - uid: BIB211.11.2.1.UPE.3
         subobj: 11.2.1
         type: upe
@@ -2082,6 +2357,8 @@ courses:
           C: God can only be known through secret knowledge.
           D: that there are many gods.
         answer: B
+        print_position: 12
+        unit: 4
       - uid: BIB211.11.2.1.TY.1
         subobj: 11.2.1
         type: ty
@@ -2092,6 +2369,7 @@ courses:
           C: that Christ fulfilled the law.
           D: that Jesus had to suffer and be raised from the dead.
         answer: D
+        print_position: 4
       - uid: BIB211.11.2.1.TY.2
         subobj: 11.2.1
         type: ty
@@ -2102,6 +2380,7 @@ courses:
           C: a few Jews.
           D: all of the above.
         answer: D
+        print_position: 5
       - uid: BIB211.11.2.1.TY.3
         subobj: 11.2.1
         type: ty
@@ -2112,6 +2391,7 @@ courses:
           C: hedonism.
           D: all of the above.
         answer: D
+        print_position: 6
       - uid: BIB211.11.2.1.TY.4
         subobj: 11.2.1
         type: ty
@@ -2122,6 +2402,7 @@ courses:
           C: Artemis.
           D: Zeus.
         answer: A
+        print_position: 7
       - uid: BIB211.11.3.1.UPE.1
         subobj: 11.3.1
         type: upe
@@ -2132,6 +2413,8 @@ courses:
           C: Priscilla and Aquila.
           D: Lydia.
         answer: C
+        print_position: 13
+        unit: 4
       - uid: BIB211.11.3.1.UPE.2
         subobj: 11.3.1
         type: upe
@@ -2142,6 +2425,8 @@ courses:
           C: flee by night to Athens.
           D: sail to Ephesus.
         answer: B
+        print_position: 14
+        unit: 4
       - uid: BIB211.11.3.1.TY.1
         subobj: 11.3.1
         type: ty
@@ -2152,6 +2437,7 @@ courses:
           C: for the goddess of sex, Aphrodite.
           D: all of the above.
         answer: D
+        print_position: 8
       - uid: BIB211.11.3.1.TY.2
         subobj: 11.3.1
         type: ty
@@ -2163,6 +2449,7 @@ courses:
           C: '3'
           D: '5'
         answer: B
+        print_position: 9
       - uid: BIB211.11.3.1.TY.3
         subobj: 11.3.1
         type: ty
@@ -2174,6 +2461,7 @@ courses:
           C: the high judgment seat ( bema ).
           D: Sanhedrin.
         answer: C
+        print_position: 10
       - uid: BIB211.12.1.1.UPE.1
         subobj: 12.1.1
         type: upe
@@ -2185,6 +2473,8 @@ courses:
           C: Thessalonica.
           D: Ephesus.
         answer: D
+        print_position: 15
+        unit: 4
       - uid: BIB211.12.1.1.UPE.2
         subobj: 12.1.1
         type: upe
@@ -2196,6 +2486,8 @@ courses:
           C: Political unrest
           D: The nudge of the Holy Spirit
         answer: D
+        print_position: 16
+        unit: 4
       - uid: BIB211.12.1.1.UPE.3
         subobj: 12.1.1
         type: upe
@@ -2207,6 +2499,8 @@ courses:
           C: the healing of a man crippled from birth.
           D: the conversion of Lydia.
         answer: A
+        print_position: 17
+        unit: 4
       - uid: BIB211.12.1.1.TY.1
         subobj: 12.1.1
         type: ty
@@ -2226,6 +2520,7 @@ courses:
           C: Macedonia.
           D: Achaia.
         answer: B
+        print_position: 2
       - uid: BIB211.12.1.1.TY.3
         subobj: 12.1.1
         type: ty
@@ -2237,6 +2532,7 @@ courses:
           C: Apollos
           D: Demas
         answer: C
+        print_position: 3
       - uid: BIB211.12.1.1.TY.4
         subobj: 12.1.1
         type: ty
@@ -2248,6 +2544,7 @@ courses:
           C: fell to the ground.
           D: spoke in tongues and prophesied.
         answer: D
+        print_position: 4
       - uid: BIB211.12.1.1.TY.5
         subobj: 12.1.1
         type: ty
@@ -2258,6 +2555,7 @@ courses:
           C: from house to house.
           D: in all of the above locations.
         answer: D
+        print_position: 5
       - uid: BIB211.12.1.1.TY.6
         subobj: 12.1.1
         type: ty
@@ -2269,6 +2567,7 @@ courses:
             sick and demon possessed.
           D: Paul’s shadow fell upon them.
         answer: C
+        print_position: 6
       - uid: BIB211.12.1.1.TY.7
         subobj: 12.1.1
         type: ty
@@ -2280,6 +2579,7 @@ courses:
           C: Thessalonians
           D: 1 Corinthians
         answer: D
+        print_position: 7
       - uid: BIB211.12.1.1.TY.8
         subobj: 12.1.1
         type: ty
@@ -2290,6 +2590,7 @@ courses:
           C: the Jews were jealous of all the people following Paul’s ministry.
           D: of the seven sons of Sceva.
         answer: B
+        print_position: 8
       - uid: BIB211.12.2.1.UPE.1
         subobj: 12.2.1
         type: upe
@@ -2301,6 +2602,8 @@ courses:
           C: Tychicus
           D: Artistarchus
         answer: B
+        print_position: 18
+        unit: 4
       - uid: BIB211.12.2.1.UPE.2
         subobj: 12.2.1
         type: upe
@@ -2312,6 +2615,8 @@ courses:
           C: the Day of Atonement.
           D: spring.
         answer: A
+        print_position: 19
+        unit: 4
       - uid: BIB211.12.2.1.TY.1
         subobj: 12.2.1
         type: ty
@@ -2322,6 +2627,7 @@ courses:
           C: warn them to guard against false teachers within the church.
           D: do all of the above.
         answer: D
+        print_position: 9
       - uid: BIB211.12.2.1.TY.2
         subobj: 12.2.1
         type: ty
@@ -2332,6 +2638,7 @@ courses:
           C: “priest.”
           D: “deacon.”
         answer: B
+        print_position: 10
       - uid: BIB211.13.1.1.UPE.1
         subobj: 13.1.1
         type: upe
@@ -2346,6 +2653,8 @@ courses:
           D: persecuting Jews who rejected Jesus and of failing to observe the feasts
             in Jerusalem.
         answer: A
+        print_position: 20
+        unit: 4
       - uid: BIB211.13.1.2.UPE.1
         subobj: 13.1.2
         type: upe
@@ -2360,6 +2669,8 @@ courses:
           D: Paul was promised happiness, prosperity, and success if he would first
             go to Jerusalem and suffer temporarily.
         answer: C
+        print_position: 21
+        unit: 4
       - uid: BIB211.13.1.2.TY.1
         subobj: 13.1.2
         type: ty
@@ -2373,6 +2684,7 @@ courses:
             imprisonment.
           D: Paul expected God to shield him from any inconvenience or suffering.
         answer: C
+        print_position: 2
       - uid: BIB211.13.2.1.UPE.1
         subobj: 13.2.1
         type: upe
@@ -2386,6 +2698,8 @@ courses:
           D: had no intention of honoring either Jewish or Roman law because it conflicted
             with his faith in Jesus.
         answer: A
+        print_position: 22
+        unit: 4
       - uid: BIB211.13.2.1.TY.1
         subobj: 13.2.1
         type: ty
@@ -2400,6 +2714,7 @@ courses:
           D: persecuting Jews who rejected Jesus and of failing to observe the traditional
             feasts in Jerusalem.
         answer: A
+        print_position: 1
       - uid: BIB211.13.2.1.TY.2
         subobj: 13.2.1
         type: ty
@@ -2411,6 +2726,7 @@ courses:
           C: Parents were encouraged not to circumcise their sons.
           D: Gentiles were allowed into the Inner Court of the temple.
         answer: A
+        print_position: 3
       - uid: BIB211.13.2.1.TY.3
         subobj: 13.2.1
         type: ty
@@ -2422,6 +2738,7 @@ courses:
           C: was guilty of violating Jewish temple law but not Roman law.
           D: was absolutely innocent of violating any law, Jewish or Roman.
         answer: D
+        print_position: 4
       - uid: BIB211.13.2.1.TY.4
         subobj: 13.2.1
         type: ty
@@ -2433,6 +2750,7 @@ courses:
           C: violated Roman Law while in Jerusalem.
           D: praised the king for his kindness and wisdom.
         answer: B
+        print_position: 5
       - uid: BIB211.13.3.1.UPE.1
         subobj: 13.3.1
         type: upe
@@ -2446,6 +2764,8 @@ courses:
           C: Paul wanted to witness to the crew as his last act of obedience to God.
           D: Paul was angry with the crew for insisting on sailing during the winter.
         answer: B
+        print_position: 23
+        unit: 4
       - uid: BIB211.13.3.1.TY.1
         subobj: 13.3.1
         type: ty
@@ -2456,6 +2776,7 @@ courses:
           C: Ephesus.
           D: Rome.
         answer: D
+        print_position: 7
       - uid: BIB211.13.3.1.TY.2
         subobj: 13.3.1
         type: ty
@@ -2470,6 +2791,7 @@ courses:
           D: Paul had remained loyal to Jewish customs and traditions following his
             conversion to faith in Jesus Christ.
         answer: B
+        print_position: 9
       - uid: BIB211.13.3.2.UPE.1
         subobj: 13.3.2
         type: upe
@@ -2484,6 +2806,8 @@ courses:
           D: had remained loyal to Jewish customs and traditions following his conversion
             to faith in Jesus Christ.
         answer: B
+        print_position: 24
+        unit: 4
       - uid: BIB211.13.3.2.TY.1
         subobj: 13.3.2
         type: ty
@@ -2495,6 +2819,7 @@ courses:
           C: Malta.
           D: Sardinia.
         answer: C
+        print_position: 6
       - uid: BIB211.13.3.2.TY.2
         subobj: 13.3.2
         type: ty
@@ -2508,6 +2833,7 @@ courses:
           C: Paul wanted to witness to the crew as his last act of obedience to God.
           D: Paul was angry with the crew for insisting on sailing during the winter.
         answer: B
+        print_position: 8
       - uid: BIB211.13.3.3.UPE.1
         subobj: 13.3.3
         type: upe
@@ -2522,6 +2848,8 @@ courses:
           D: those who are willing to share the gospel will experience less suffering
             than those who refuse.
         answer: A
+        print_position: 25
+        unit: 4
       - uid: BIB211.13.3.3.TY.1
         subobj: 13.3.3
         type: ty
@@ -2537,6 +2865,8 @@ courses:
           D: those who agree to share the gospel will experience less suffering than
             those who refuse.
         answer: A
+        print_position: 10
+      captured: reparse
     - pn: 03.22.01
       course_code: BIB211
       source_html: BBIB115ENE03-90_03.22.01.html
@@ -2557,6 +2887,8 @@ courses:
           C: The Acts of the Holy Spirit.
           D: The Acts of Peter and Paul.
         answer: C
+        print_position: 1
+        unit: 1
       - uid: BIB211.1.1.1.UPE.2
         subobj: 1.1.1
         type: upe
@@ -2567,6 +2899,8 @@ courses:
           C: Barnabas.
           D: Mark.
         answer: B
+        print_position: 2
+        unit: 1
       - uid: BIB211.1.1.1.UPE.3
         subobj: 1.1.1
         type: upe
@@ -2580,6 +2914,8 @@ courses:
           D: Paul’s Roman imprisonment, the Jerusalem Council, and the burning of
             Rome.
         answer: B
+        print_position: 3
+        unit: 1
       - uid: BIB211.1.1.1.UPE.4
         subobj: 1.1.1
         type: upe
@@ -2590,6 +2926,8 @@ courses:
           C: AD 63.
           D: AD 75.
         answer: C
+        print_position: 4
+        unit: 1
       - uid: BIB211.1.1.1.UPE.5
         subobj: 1.1.1
         type: upe
@@ -2600,6 +2938,8 @@ courses:
           C: one who loves God.
           D: esteemed by God.
         answer: C
+        print_position: 5
+        unit: 1
       - uid: BIB211.1.1.1.UPE.6
         subobj: 1.1.1
         type: upe
@@ -2610,6 +2950,8 @@ courses:
           C: were both written from prison cells.
           D: are organized alike.
         answer: D
+        print_position: 6
+        unit: 1
       - uid: BIB211.1.1.1.UPE.7
         subobj: 1.1.1
         type: upe
@@ -2620,6 +2962,8 @@ courses:
           C: set apart.
           D: sent out.
         answer: D
+        print_position: 23
+        unit: 1
       - uid: BIB211.1.1.1.TY.1
         subobj: 1.1.1
         type: ty
@@ -2630,6 +2974,7 @@ courses:
           C: AD 250.
           D: AD 500.
         answer: B
+        print_position: 1
       - uid: BIB211.1.1.1.TY.2
         subobj: 1.1.1
         type: ty
@@ -2640,6 +2985,7 @@ courses:
           C: AD 75.
           D: AD 83.
         answer: A
+        print_position: 2
       - uid: BIB211.1.2.1.UPE.1
         subobj: 1.2.1
         type: upe
@@ -2650,6 +2996,8 @@ courses:
           C: popularity, geography, theology, and mission.
           D: acceptance, numbers, mission, and influence.
         answer: A
+        print_position: 7
+        unit: 1
       - uid: BIB211.1.2.1.TY.1
         subobj: 1.2.1
         type: ty
@@ -2660,6 +3008,7 @@ courses:
           C: Gospels and Paul’s letters.
           D: Gospels and the pastoral epistles.
         answer: C
+        print_position: 3
       - uid: BIB211.1.2.2.TY.1
         subobj: 1.2.2
         type: ty
@@ -2670,6 +3019,7 @@ courses:
           C: Samaria to Antioch.
           D: Jerusalem to Rome.
         answer: D
+        print_position: 4
       - uid: BIB211.1.2.2.TY.2
         subobj: 1.2.2
         type: ty
@@ -2680,6 +3030,7 @@ courses:
           C: Peter preaching to Cornelius and his household.
           D: doing all of the above.
         answer: D
+        print_position: 5
       - uid: BIB211.1.2.3.UPE.1
         subobj: 1.2.3
         type: upe
@@ -2690,6 +3041,8 @@ courses:
           C: emphasizes that the Holy Spirit is key to be a witness for Christ.
           D: all the above.
         answer: D
+        print_position: 8
+        unit: 1
       - uid: BIB211.1.2.4.TY.1
         subobj: 1.2.4
         type: ty
@@ -2700,6 +3053,7 @@ courses:
           C: emphasize the ministry of the Holy Spirit through believers.
           D: do all the above.
         answer: C
+        print_position: 6
       - uid: BIB211.1.2.4.TY.2
         subobj: 1.2.4
         type: ty
@@ -2710,6 +3064,7 @@ courses:
           C: 63 times.
           D: 75 times.
         answer: B
+        print_position: 7
       - uid: BIB211.1.3.1.UPE.1
         subobj: 1.3.1
         type: upe
@@ -2721,6 +3076,8 @@ courses:
           C: Judea, Samaria, and Rome.
           D: Jerusalem, Samaria and Judea, and the whole world.
         answer: D
+        print_position: 9
+        unit: 1
       - uid: BIB211.1.3.1.UPE.2
         subobj: 1.3.1
         type: upe
@@ -2732,6 +3089,8 @@ courses:
           C: geography, the ministry of Peter and Paul, and its great messages.
           D: Acts 1:8, the ministry of Paul and the early church, and its great messages.
         answer: C
+        print_position: 10
+        unit: 1
       - uid: BIB211.1.3.1.TY.1
         subobj: 1.3.1
         type: ty
@@ -2742,6 +3101,7 @@ courses:
           C: '2:4.'
           D: '2:38.'
         answer: B
+        print_position: 8
       - uid: BIB211.1.3.1.TY.2
         subobj: 1.3.1
         type: ty
@@ -2753,6 +3113,7 @@ courses:
           C: Peter and the apostles.
           D: the early church and Peter.
         answer: A
+        print_position: 9
       - uid: BIB211.1.3.1.TY.3
         subobj: 1.3.1
         type: ty
@@ -2764,6 +3125,7 @@ courses:
           C: Peter, Paul, and King Agrippa.
           D: Stephen, Paul, and Luke.
         answer: B
+        print_position: 10
       - uid: BIB211.2.1.1.UPE.1
         subobj: 2.1.1
         type: upe
@@ -2774,6 +3136,8 @@ courses:
           C: Deliverance from political oppression
           D: A great revival
         answer: A
+        print_position: 11
+        unit: 1
       - uid: BIB211.2.1.1.UPE.2
         subobj: 2.1.1
         type: upe
@@ -2785,6 +3149,8 @@ courses:
           C: 50 days.
           D: 75 days.
         answer: B
+        print_position: 12
+        unit: 1
       - uid: BIB211.2.1.1.UPE.3
         subobj: 2.1.1
         type: upe
@@ -2795,6 +3161,8 @@ courses:
           C: Theophilus.
           D: Tychicus.
         answer: C
+        print_position: 13
+        unit: 1
       - uid: BIB211.2.1.1.UPE.4
         subobj: 2.1.1
         type: upe
@@ -2805,6 +3173,8 @@ courses:
           C: judgment.
           D: the Holy Spirit.
         answer: D
+        print_position: 14
+        unit: 1
       - uid: BIB211.2.1.1.UPE.5
         subobj: 2.1.1
         type: upe
@@ -2816,6 +3186,8 @@ courses:
           C: an experience.
           D: tongues.
         answer: A
+        print_position: 15
+        unit: 1
       - uid: BIB211.2.1.1.UPE.6
         subobj: 2.1.1
         type: upe
@@ -2826,6 +3198,8 @@ courses:
           C: at water baptism.
           D: after conversion.
         answer: D
+        print_position: 16
+        unit: 1
       - uid: BIB211.2.1.1.UPE.7
         subobj: 2.1.1
         type: upe
@@ -2837,6 +3211,8 @@ courses:
           C: the task is not finished.
           D: all the above are true.
         answer: D
+        print_position: 17
+        unit: 1
       - uid: BIB211.2.1.1.TY.1
         subobj: 2.1.1
         type: ty
@@ -2847,6 +3223,7 @@ courses:
           C: 50 days
           D: Until they received
         answer: D
+        print_position: 1
       - uid: BIB211.2.1.1.TY.2
         subobj: 2.1.1
         type: ty
@@ -2857,6 +3234,7 @@ courses:
           C: submit and receive.
           D: fast and pray.
         answer: C
+        print_position: 2
       - uid: BIB211.2.2.1.UPE.1
         subobj: 2.2.1
         type: upe
@@ -2868,6 +3246,8 @@ courses:
           C: salvation and sanctification.
           D: salvation.
         answer: A
+        print_position: 18
+        unit: 1
       - uid: BIB211.2.2.1.UPE.2
         subobj: 2.2.1
         type: upe
@@ -2878,6 +3258,8 @@ courses:
           C: speak the right words at the right times.
           D: do all of the above.
         answer: C
+        print_position: 19
+        unit: 1
       - uid: BIB211.2.2.1.UPE.3
         subobj: 2.2.1
         type: upe
@@ -2888,6 +3270,8 @@ courses:
           C: the city in which they live.
           D: people of their own race.
         answer: C
+        print_position: 20
+        unit: 1
       - uid: BIB211.2.2.1.UPE.4
         subobj: 2.2.1
         type: upe
@@ -2899,6 +3283,8 @@ courses:
           C: '7'
           D: '10'
         answer: B
+        print_position: 21
+        unit: 1
       - uid: BIB211.2.2.1.UPE.5
         subobj: 2.2.1
         type: upe
@@ -2909,6 +3295,8 @@ courses:
           C: pasture.
           D: olive orchard.
         answer: A
+        print_position: 22
+        unit: 1
       - uid: BIB211.2.2.1.TY.1
         subobj: 2.2.1
         type: ty
@@ -2920,6 +3308,7 @@ courses:
           C: sanctification.
           D: all of the above.
         answer: B
+        print_position: 3
       - uid: BIB211.2.2.1.TY.2
         subobj: 2.2.1
         type: ty
@@ -2930,6 +3319,7 @@ courses:
           C: comfort the church.
           D: empower the church.
         answer: D
+        print_position: 4
       - uid: BIB211.2.2.1.TY.3
         subobj: 2.2.1
         type: ty
@@ -2940,6 +3330,7 @@ courses:
           C: political power and influence.
           D: power to speak in tongues.
         answer: B
+        print_position: 5
       - uid: BIB211.2.2.1.TY.4
         subobj: 2.2.1
         type: ty
@@ -2950,6 +3341,7 @@ courses:
           C: “time.”
           D: all of the above.
         answer: A
+        print_position: 6
       - uid: BIB211.2.2.1.TY.5
         subobj: 2.2.1
         type: ty
@@ -2961,6 +3353,7 @@ courses:
           C: popularity.
           D: judgment.
         answer: B
+        print_position: 7
       - uid: BIB211.2.2.1.TY.6
         subobj: 2.2.1
         type: ty
@@ -2971,6 +3364,7 @@ courses:
           C: increase the power and influence of the kingdom of God.
           D: do all of the above.
         answer: B
+        print_position: 8
       - uid: BIB211.2.3.1.UPE.1
         subobj: 2.3.1
         type: upe
@@ -2981,6 +3375,8 @@ courses:
           C: a follower of Jesus, witnessing his baptism, resurrection, and ascension.
           D: all of the above.
         answer: C
+        print_position: 24
+        unit: 1
       - uid: BIB211.2.3.1.UPE.2
         subobj: 2.3.1
         type: upe
@@ -2992,6 +3388,8 @@ courses:
           C: unity, prayer, patience, and obedience.
           D: obedience, unity, diligence, and the study and application of God’s Word.
         answer: B
+        print_position: 25
+        unit: 1
       - uid: BIB211.2.3.1.TY.1
         subobj: 2.3.1
         type: ty
@@ -3003,6 +3401,7 @@ courses:
           C: Jewish law.
           D: each other.
         answer: A
+        print_position: 9
       - uid: BIB211.2.3.1.TY.2
         subobj: 2.3.1
         type: ty
@@ -3014,6 +3413,7 @@ courses:
           C: prayer, obedience, patience, and unity.
           D: obedience, unity, prayer, and the study and application of God’s Word.
         answer: D
+        print_position: 10
       - uid: BIB211.3.1.1.UPE.1
         subobj: 3.1.1
         type: upe
@@ -3024,6 +3424,8 @@ courses:
           C: grape harvest.
           D: wheat harvest.
         answer: D
+        print_position: 1
+        unit: 2
       - uid: BIB211.3.1.1.UPE.2
         subobj: 3.1.1
         type: upe
@@ -3034,6 +3436,8 @@ courses:
           C: mourning.
           D: joy.
         answer: A
+        print_position: 2
+        unit: 2
       - uid: BIB211.3.1.1.TY.1
         subobj: 3.1.1
         type: ty
@@ -3044,6 +3448,7 @@ courses:
           C: “the fiftieth.”
           D: “the hundredth.”
         answer: C
+        print_position: 1
       - uid: BIB211.3.1.1.TY.2
         subobj: 3.1.1
         type: ty
@@ -3054,6 +3459,7 @@ courses:
           C: duty and obedience.
           D: obedience and sacrifice.
         answer: B
+        print_position: 2
       - uid: BIB211.3.1.1.TY.3
         subobj: 3.1.1
         type: ty
@@ -3065,6 +3471,7 @@ courses:
           C: unity.
           D: tolerance.
         answer: C
+        print_position: 3
       - uid: BIB211.3.2.1.UPE.1
         subobj: 3.2.1
         type: upe
@@ -3076,6 +3483,8 @@ courses:
           C: a violent earthquake.
           D: a mighty rushing wind.
         answer: D
+        print_position: 3
+        unit: 2
       - uid: BIB211.3.2.1.UPE.2
         subobj: 3.2.1
         type: upe
@@ -3087,6 +3496,8 @@ courses:
           C: '7'
           D: '10'
         answer: B
+        print_position: 4
+        unit: 2
       - uid: BIB211.3.2.1.TY.1
         subobj: 3.2.1
         type: ty
@@ -3098,6 +3509,7 @@ courses:
           C: the tongues of fire.
           D: a violent earthquake.
         answer: C
+        print_position: 4
       - uid: BIB211.3.2.1.TY.2
         subobj: 3.2.1
         type: ty
@@ -3109,6 +3521,7 @@ courses:
           C: speaking in tongues.
           D: being slain in the Spirit.
         answer: C
+        print_position: 5
       - uid: BIB211.3.2.1.TY.3
         subobj: 3.2.1
         type: ty
@@ -3120,6 +3533,7 @@ courses:
           C: prophesy.
           D: speak in tongues and prophesy.
         answer: D
+        print_position: 6
       - uid: BIB211.3.2.1.TY.4
         subobj: 3.2.1
         type: ty
@@ -3131,6 +3545,7 @@ courses:
           C: 2, 10, 19
           D: 2, 7, 8, 11, 19
         answer: A
+        print_position: 7
       - uid: BIB211.3.3.1.UPE.1
         subobj: 3.3.1
         type: upe
@@ -3142,6 +3557,8 @@ courses:
             to God.
           D: is forbidden in a corporate setting.
         answer: C
+        print_position: 5
+        unit: 2
       - uid: BIB211.3.3.1.TY.1
         subobj: 3.3.1
         type: ty
@@ -3153,6 +3570,7 @@ courses:
           C: 2, 10, 19
           D: 2, 9, 10, 19
         answer: C
+        print_position: 8
       - uid: BIB211.3.3.1.TY.2
         subobj: 3.3.1
         type: ty
@@ -3163,6 +3581,7 @@ courses:
           C: is something believers do on their own.
           D: is all of the above.
         answer: B
+        print_position: 9
       - uid: BIB211.3.3.1.TY.3
         subobj: 3.3.1
         type: ty
@@ -3173,6 +3592,7 @@ courses:
           C: those in leadership.
           D: all believers.
         answer: D
+        print_position: 10
       - uid: BIB211.4.1.1.UPE.1
         subobj: 4.1.1
         type: upe
@@ -3183,6 +3603,8 @@ courses:
           C: gladness, utter amazement, and bewilderment.
           D: hostility, bewilderment, and gladness.
         answer: B
+        print_position: 6
+        unit: 2
       - uid: BIB211.4.1.1.TY.1
         subobj: 4.1.1
         type: ty
@@ -3194,6 +3616,7 @@ courses:
           C: '15'
           D: '23'
         answer: C
+        print_position: 1
       - uid: BIB211.4.1.1.TY.2
         subobj: 4.1.1
         type: ty
@@ -3205,6 +3628,7 @@ courses:
           C: debating with them.
           D: sending them away.
         answer: A
+        print_position: 2
       - uid: BIB211.4.1.1.TY.3
         subobj: 4.1.1
         type: ty
@@ -3216,6 +3640,7 @@ courses:
           C: sitting quietly nearby while Peter preached.
           D: protecting Peter from the angry crowd.
         answer: B
+        print_position: 3
       - uid: BIB211.4.2.1.UPE.1
         subobj: 4.2.1
         type: upe
@@ -3228,6 +3653,8 @@ courses:
           D: treating listeners with respect, meeting them where they are, speaking
             with authority, and being prepared.
         answer: D
+        print_position: 7
+        unit: 2
       - uid: BIB211.4.2.1.UPE.2
         subobj: 4.2.1
         type: upe
@@ -3238,6 +3665,8 @@ courses:
           C: how Pentecost could come to each person.
           D: all of the above.
         answer: D
+        print_position: 8
+        unit: 2
       - uid: BIB211.4.2.1.UPE.3
         subobj: 4.2.1
         type: upe
@@ -3249,6 +3678,8 @@ courses:
           C: “These men are not drunk, as you suppose.”
           D: “I saw the Lord always before me.”
         answer: C
+        print_position: 9
+        unit: 2
       - uid: BIB211.4.2.1.TY.1
         subobj: 4.2.1
         type: ty
@@ -3260,6 +3691,7 @@ courses:
           C: 3,000
           D: 5,000
         answer: C
+        print_position: 4
       - uid: BIB211.4.2.1.TY.2
         subobj: 4.2.1
         type: ty
@@ -3271,6 +3703,7 @@ courses:
           C: being compassionate and loving.
           D: doing all the above.
         answer: B
+        print_position: 5
       - uid: BIB211.4.2.1.TY.3
         subobj: 4.2.1
         type: ty
@@ -3282,6 +3715,7 @@ courses:
           C: practicing extemporary speaking.
           D: doing all of the above.
         answer: B
+        print_position: 6
       - uid: BIB211.4.2.1.TY.4
         subobj: 4.2.1
         type: ty
@@ -3293,6 +3727,7 @@ courses:
           C: repent and cry out to God.
           D: be baptized and join the church.
         answer: B
+        print_position: 7
       - uid: BIB211.4.2.1.TY.5
         subobj: 4.2.1
         type: ty
@@ -3303,6 +3738,7 @@ courses:
           C: a required ritual for church membership.
           D: a ritual securing a believer’s salvation.
         answer: A
+        print_position: 8
       - uid: BIB211.4.3.1.UPE.1
         subobj: 4.3.1
         type: upe
@@ -3313,6 +3749,8 @@ courses:
           C: repentance, baptism, and receiving the gift of the Holy Spirit.
           D: repentance, love, and joy in the Holy Spirit.
         answer: C
+        print_position: 10
+        unit: 2
       - uid: BIB211.4.3.1.TY.1
         subobj: 4.3.1
         type: ty
@@ -3323,6 +3761,7 @@ courses:
           C: prayer.
           D: all of the above.
         answer: D
+        print_position: 9
       - uid: BIB211.4.3.1.TY.2
         subobj: 4.3.1
         type: ty
@@ -3333,6 +3772,7 @@ courses:
           C: generosity and growth.
           D: all of the above.
         answer: D
+        print_position: 10
       - uid: BIB211.5.1.1.UPE.1
         subobj: 5.1.1
         type: upe
@@ -3343,6 +3783,8 @@ courses:
           C: Beautiful Gate.
           D: pool of Bethesda.
         answer: C
+        print_position: 11
+        unit: 2
       - uid: BIB211.5.1.1.UPE.2
         subobj: 5.1.1
         type: upe
@@ -3353,6 +3795,8 @@ courses:
           C: preached to the surrounding crowd.
           D: reached to him and took him by the hand.
         answer: D
+        print_position: 12
+        unit: 2
       - uid: BIB211.5.1.1.TY.1
         subobj: 5.1.1
         type: ty
@@ -3363,6 +3807,7 @@ courses:
           C: going to the temple to be cleansed.
           D: falling at the apostles’ feet in gratitude.
         answer: B
+        print_position: 1
       - uid: BIB211.5.1.1.TY.2
         subobj: 5.1.1
         type: ty
@@ -3374,6 +3819,7 @@ courses:
           C: thanksgiving.
           D: eloquent speaking.
         answer: A
+        print_position: 2
       - uid: BIB211.5.1.1.TY.3
         subobj: 5.1.1
         type: ty
@@ -3385,6 +3831,7 @@ courses:
           C: the man being healed.
           D: all of the above.
         answer: D
+        print_position: 3
       - uid: BIB211.5.1.1.TY.4
         subobj: 5.1.1
         type: ty
@@ -3398,6 +3845,7 @@ courses:
             the unexpected.
           D: give generously, meet people’s physical needs, and expect the unexpected.
         answer: A
+        print_position: 4
       - uid: BIB211.5.2.1.UPE.1
         subobj: 5.2.1
         type: upe
@@ -3410,6 +3858,8 @@ courses:
           C: death.
           D: hatred.
         answer: B
+        print_position: 13
+        unit: 2
       - uid: BIB211.5.2.1.TY.1
         subobj: 5.2.1
         type: ty
@@ -3421,6 +3871,7 @@ courses:
           C: compassion and forgiveness.
           D: evangelism and the second coming of Christ.
         answer: B
+        print_position: 5
       - uid: BIB211.5.2.1.TY.2
         subobj: 5.2.1
         type: ty
@@ -3431,6 +3882,7 @@ courses:
           C: point people to Christ.
           D: serve our own needs.
         answer: C
+        print_position: 6
       - uid: BIB211.5.2.1.TY.3
         subobj: 5.2.1
         type: ty
@@ -3443,6 +3895,7 @@ courses:
           C: death.
           D: hatred.
         answer: B
+        print_position: 7
       - uid: BIB211.5.3.1.UPE.1
         subobj: 5.3.1
         type: upe
@@ -3454,6 +3907,8 @@ courses:
           C: two thousand more believers being added to the church.
           D: all of the above.
         answer: D
+        print_position: 14
+        unit: 2
       - uid: BIB211.5.3.1.UPE.2
         subobj: 5.3.1
         type: upe
@@ -3465,6 +3920,8 @@ courses:
           C: pet beliefs and pre-conceived notions.
           D: pride and pet beliefs.
         answer: C
+        print_position: 15
+        unit: 2
       - uid: BIB211.5.3.1.TY.1
         subobj: 5.3.1
         type: ty
@@ -3476,6 +3933,7 @@ courses:
           C: Roman soldiers
           D: Greeks
         answer: B
+        print_position: 8
       - uid: BIB211.5.3.1.TY.2
         subobj: 5.3.1
         type: ty
@@ -3486,6 +3944,7 @@ courses:
           C: of God’s sovereignty.
           D: all the above can be true.
         answer: D
+        print_position: 9
       - uid: BIB211.5.3.1.TY.3
         subobj: 5.3.1
         type: ty
@@ -3496,6 +3955,7 @@ courses:
           C: “God can do what He wants.”
           D: “God is all-knowing.”
         answer: A
+        print_position: 10
       - uid: BIB211.6.1.1.UPE.1
         subobj: 6.1.1
         type: upe
@@ -3506,6 +3966,8 @@ courses:
           C: were preaching false doctrine.
           D: lied and secretly kept some money for themselves.
         answer: D
+        print_position: 16
+        unit: 2
       - uid: BIB211.6.1.1.UPE.2
         subobj: 6.1.1
         type: upe
@@ -3516,6 +3978,8 @@ courses:
           C: generosity.
           D: all of the above.
         answer: D
+        print_position: 17
+        unit: 2
       - uid: BIB211.6.1.1.TY.1
         subobj: 6.1.1
         type: ty
@@ -3527,6 +3991,7 @@ courses:
           C: fellowshipping together.
           D: keeping their possessions to themselves.
         answer: B
+        print_position: 1
       - uid: BIB211.6.1.1.TY.2
         subobj: 6.1.1
         type: ty
@@ -3537,6 +4002,7 @@ courses:
           C: the second coming of Christ.
           D: judgment of God.
         answer: A
+        print_position: 2
       - uid: BIB211.6.1.1.TY.3
         subobj: 6.1.1
         type: ty
@@ -3547,6 +4013,7 @@ courses:
           C: was a Jew from the island of Cyprus.
           D: was all of the above.
         answer: D
+        print_position: 3
       - uid: BIB211.6.1.2.TY.1
         subobj: 6.1.2
         type: ty
@@ -3558,6 +4025,7 @@ courses:
           C: all believers are to sell their possessions and give them to the church.
           D: all believers are to live in poverty.
         answer: B
+        print_position: 4
       - uid: BIB211.6.2.1.UPE.1
         subobj: 6.2.1
         type: upe
@@ -3568,6 +4036,8 @@ courses:
           C: honesty and trust.
           D: signs and wonders and peace.
         answer: A
+        print_position: 18
+        unit: 2
       - uid: BIB211.6.2.1.TY.1
         subobj: 6.2.1
         type: ty
@@ -3578,6 +4048,7 @@ courses:
           C: honesty.
           D: strong attendance.
         answer: A
+        print_position: 5
       - uid: BIB211.6.2.1.TY.2
         subobj: 6.2.1
         type: ty
@@ -3588,6 +4059,7 @@ courses:
           C: continued to meet publicly.
           D: did all of the above.
         answer: C
+        print_position: 6
       - uid: BIB211.6.3.1.UPE.1
         subobj: 6.3.1
         type: upe
@@ -3598,6 +4070,8 @@ courses:
           C: seduction, peace, and success.
           D: seduction, apathy, and sickness.
         answer: B
+        print_position: 19
+        unit: 2
       - uid: BIB211.6.3.1.UPE.2
         subobj: 6.3.1
         type: upe
@@ -3609,6 +4083,8 @@ courses:
           C: were found teaching in the temple courts.
           D: gathered for prayer in the upper room.
         answer: C
+        print_position: 20
+        unit: 2
       - uid: BIB211.6.3.1.TY.1
         subobj: 6.3.1
         type: ty
@@ -3619,6 +4095,7 @@ courses:
           C: the Sanhedrin.
           D: all of the above.
         answer: D
+        print_position: 7
       - uid: BIB211.6.3.1.TY.2
         subobj: 6.3.1
         type: ty
@@ -3629,6 +4106,7 @@ courses:
           C: scattered to different parts of the region.
           D: no longer publicly proclaimed Christ.
         answer: A
+        print_position: 8
       - uid: BIB211.6.3.1.TY.3
         subobj: 6.3.1
         type: ty
@@ -3639,6 +4117,7 @@ courses:
           C: killed.
           D: stoned.
         answer: B
+        print_position: 9
       - uid: BIB211.6.3.1.TY.4
         subobj: 6.3.1
         type: ty
@@ -3649,6 +4128,7 @@ courses:
           C: will destroy the church.
           D: are a result of sin.
         answer: B
+        print_position: 10
       - uid: BIB211.7.1.1.TY.1
         subobj: 7.1.1
         type: ty
@@ -3659,6 +4139,7 @@ courses:
           C: never learned to speak, read, or write Hebrew.
           D: done all of the above.
         answer: D
+        print_position: 1
       - uid: BIB211.7.1.1.TY.2
         subobj: 7.1.1
         type: ty
@@ -3669,6 +4150,7 @@ courses:
           C: Acts 7:1–5.
           D: Philippians 4:6–10.
         answer: A
+        print_position: 2
       - uid: BIB211.7.1.2.UPE.1
         subobj: 7.1.2
         type: upe
@@ -3680,6 +4162,8 @@ courses:
           C: Grecian and Hebraic Jewish believers.
           D: Jewish and Samaritan believers.
         answer: C
+        print_position: 21
+        unit: 2
       - uid: BIB211.7.1.2.UPE.2
         subobj: 7.1.2
         type: upe
@@ -3690,6 +4174,8 @@ courses:
           C: delegating authority to others that were qualified and capable.
           D: all the above.
         answer: D
+        print_position: 22
+        unit: 2
       - uid: BIB211.7.1.2.TY.1
         subobj: 7.1.2
         type: ty
@@ -3701,6 +4187,7 @@ courses:
           C: of good reputation, full of wisdom, and full of the Holy Spirit.
           D: of popularity, full of wisdom and of the Holy Spirit.
         answer: C
+        print_position: 3
       - uid: BIB211.7.1.2.TY.2
         subobj: 7.1.2
         type: ty
@@ -3711,6 +4198,7 @@ courses:
           C: Roman names.
           D: Aramaic names.
         answer: A
+        print_position: 4
       - uid: BIB211.7.2.1.UPE.1
         subobj: 7.2.1
         type: upe
@@ -3721,6 +4209,8 @@ courses:
           C: “persecution.”
           D: “overcomer.”
         answer: A
+        print_position: 23
+        unit: 2
       - uid: BIB211.7.2.1.UPE.2
         subobj: 7.2.1
         type: upe
@@ -3731,6 +4221,8 @@ courses:
           C: the Jewish leaders pattern of rejection towards men of faith.
           D: all of the above.
         answer: D
+        print_position: 24
+        unit: 2
       - uid: BIB211.7.2.1.TY.1
         subobj: 7.2.1
         type: ty
@@ -3741,6 +4233,7 @@ courses:
           C: “crown.”
           D: “victorious.”
         answer: C
+        print_position: 5
       - uid: BIB211.7.2.1.TY.2
         subobj: 7.2.1
         type: ty
@@ -3751,6 +4244,7 @@ courses:
           C: “the place of God’s presence.”
           D: “temple.”
         answer: B
+        print_position: 6
       - uid: BIB211.7.2.1.TY.3
         subobj: 7.2.1
         type: ty
@@ -3761,6 +4255,7 @@ courses:
           C: social interchange.
           D: all of the above.
         answer: D
+        print_position: 7
       - uid: BIB211.7.2.1.TY.4
         subobj: 7.2.1
         type: ty
@@ -3771,6 +4266,7 @@ courses:
           C: “apology.”
           D: “homily.”
         answer: C
+        print_position: 8
       - uid: BIB211.7.3.1.UPE.1
         subobj: 7.3.1
         type: upe
@@ -3782,6 +4278,8 @@ courses:
           C: bowing before God.
           D: interceding for the him.
         answer: B
+        print_position: 25
+        unit: 2
       - uid: BIB211.7.3.1.TY.1
         subobj: 7.3.1
         type: ty
@@ -3792,6 +4290,7 @@ courses:
           C: painful.
           D: a doorway into the presence of God.
         answer: D
+        print_position: 9
       - uid: BIB211.7.3.1.TY.2
         subobj: 7.3.1
         type: ty
@@ -3802,6 +4301,7 @@ courses:
           C: at Golgotha.
           D: near the Mount of Olives.
         answer: B
+        print_position: 10
       - uid: BIB211.8.1.1.UPE.1
         subobj: 8.1.1
         type: upe
@@ -3813,6 +4313,8 @@ courses:
           C: openness of the Gentiles to hear the Gospel.
           D: the preaching of Peter and John.
         answer: B
+        print_position: 1
+        unit: 3
       - uid: BIB211.8.1.1.UPE.2
         subobj: 8.1.1
         type: upe
@@ -3823,6 +4325,8 @@ courses:
           C: Mount Gerazim.
           D: Mount Moriah.
         answer: C
+        print_position: 2
+        unit: 3
       - uid: BIB211.8.1.1.UPE.3
         subobj: 8.1.1
         type: upe
@@ -3834,6 +4338,8 @@ courses:
           C: laid hands on them.
           D: anointed them.
         answer: C
+        print_position: 3
+        unit: 3
       - uid: BIB211.8.1.1.UPE.4
         subobj: 8.1.1
         type: upe
@@ -3844,6 +4350,8 @@ courses:
           C: mixed their culture and religion with Assyrian people.
           D: all of the above.
         answer: D
+        print_position: 4
+        unit: 3
       - uid: BIB211.8.1.1.UPE.5
         subobj: 8.1.1
         type: upe
@@ -3855,6 +4363,8 @@ courses:
           C: Elymas
           D: Bar-Jesus
         answer: B
+        print_position: 5
+        unit: 3
       - uid: BIB211.8.1.1.UPE.6
         subobj: 8.1.1
         type: upe
@@ -3865,6 +4375,8 @@ courses:
           C: show favoritism.”
           D: practice sorcery.”
         answer: B
+        print_position: 6
+        unit: 3
       - uid: BIB211.8.1.1.UPE.7
         subobj: 8.1.1
         type: upe
@@ -3875,6 +4387,8 @@ courses:
           C: many people believing in Jesus and following the Lord in water baptism.
           D: all of the above.
         answer: D
+        print_position: 7
+        unit: 3
       - uid: BIB211.8.1.1.TY.1
         subobj: 8.1.1
         type: ty
@@ -3886,6 +4400,7 @@ courses:
           C: Only the Jewish believers
           D: Only the Greek believers
         answer: A
+        print_position: 1
       - uid: BIB211.8.1.1.TY.2
         subobj: 8.1.1
         type: ty
@@ -3897,6 +4412,7 @@ courses:
           C: Gamaliel.
           D: Saul.
         answer: D
+        print_position: 2
       - uid: BIB211.8.1.1.TY.3
         subobj: 8.1.1
         type: ty
@@ -3908,6 +4424,7 @@ courses:
           C: Tarsus.
           D: Ethiopia.
         answer: B
+        print_position: 3
       - uid: BIB211.8.1.1.TY.4
         subobj: 8.1.1
         type: ty
@@ -3918,6 +4435,7 @@ courses:
           C: partook of the Lord’s Supper with the Samaritan believers.
           D: did all of the above.
         answer: A
+        print_position: 4
       - uid: BIB211.8.2.1.UPE.1
         subobj: 8.2.1
         type: upe
@@ -3928,6 +4446,8 @@ courses:
           C: Psalms 22.
           D: Isaiah 52:13–53:12.
         answer: D
+        print_position: 8
+        unit: 3
       - uid: BIB211.8.2.1.UPE.2
         subobj: 8.2.1
         type: upe
@@ -3938,6 +4458,8 @@ courses:
           C: tearing his clothes and repenting of his sins to God.
           D: being baptized in water.
         answer: D
+        print_position: 9
+        unit: 3
       - uid: BIB211.8.2.1.TY.1
         subobj: 8.2.1
         type: ty
@@ -3949,6 +4471,7 @@ courses:
           C: on his way to Antioch.
           D: returning home from Samaria.
         answer: B
+        print_position: 5
       - uid: BIB211.8.2.1.TY.2
         subobj: 8.2.1
         type: ty
@@ -3959,6 +4482,7 @@ courses:
           C: believes in many gods.
           D: adopts the culture and customs of another culture.
         answer: A
+        print_position: 6
       - uid: BIB211.8.2.1.TY.3
         subobj: 8.2.1
         type: ty
@@ -3969,6 +4493,7 @@ courses:
           C: rode with the eunuch to the nearest town.
           D: tucked in his cloak and ran to Jerusalem.
         answer: B
+        print_position: 7
       - uid: BIB211.8.3.1.UPE.1
         subobj: 8.3.1
         type: upe
@@ -3979,6 +4504,8 @@ courses:
           C: Greek name.
           D: Aramaic name.
         answer: A
+        print_position: 10
+        unit: 3
       - uid: BIB211.8.3.1.UPE.2
         subobj: 8.3.1
         type: upe
@@ -3989,6 +4516,8 @@ courses:
           C: heard a voice.
           D: experienced all of the above.
         answer: D
+        print_position: 11
+        unit: 3
       - uid: BIB211.8.3.1.UPE.3
         subobj: 8.3.1
         type: upe
@@ -4000,6 +4529,8 @@ courses:
           C: the Gentiles, the sons of Israel, and kings.
           D: princes, kings, and governors.
         answer: C
+        print_position: 12
+        unit: 3
       - uid: BIB211.8.3.1.UPE.4
         subobj: 8.3.1
         type: upe
@@ -4010,6 +4541,8 @@ courses:
           C: reported his conversion experience to the Jewish leaders.
           D: started on his first missionary journey.
         answer: B
+        print_position: 13
+        unit: 3
       - uid: BIB211.8.3.1.UPE.5
         subobj: 8.3.1
         type: upe
@@ -4020,6 +4553,8 @@ courses:
           C: Luke
           D: Peter
         answer: A
+        print_position: 14
+        unit: 3
       - uid: BIB211.8.3.1.TY.1
         subobj: 8.3.1
         type: ty
@@ -4031,6 +4566,7 @@ courses:
           C: tentmaking skills.
           D: background in all of the above.
         answer: D
+        print_position: 8
       - uid: BIB211.8.3.1.TY.2
         subobj: 8.3.1
         type: ty
@@ -4041,6 +4577,7 @@ courses:
           C: Christian name.
           D: Aramaic name.
         answer: B
+        print_position: 9
       - uid: BIB211.8.3.1.TY.3
         subobj: 8.3.1
         type: ty
@@ -4051,6 +4588,7 @@ courses:
           C: '8.'
           D: '9.'
         answer: D
+        print_position: 10
       - uid: BIB211.9.1.1.UPE.1
         subobj: 9.1.1
         type: upe
@@ -4061,6 +4599,8 @@ courses:
           C: purple garments she sold.
           D: good cooking.
         answer: B
+        print_position: 15
+        unit: 3
       - uid: BIB211.9.1.1.UPE.2
         subobj: 9.1.1
         type: upe
@@ -4071,6 +4611,8 @@ courses:
           C: God-fearer.
           D: all of the above.
         answer: D
+        print_position: 16
+        unit: 3
       - uid: BIB211.9.1.1.UPE.3
         subobj: 9.1.1
         type: upe
@@ -4081,6 +4623,8 @@ courses:
           C: giving Peter a dream at night.
           D: sending Barnabas to talk to him.
         answer: B
+        print_position: 17
+        unit: 3
       - uid: BIB211.9.1.1.UPE.4
         subobj: 9.1.1
         type: upe
@@ -4092,6 +4636,8 @@ courses:
           C: God had extended salvation to all people, even Gentiles.
           D: all of the above.
         answer: D
+        print_position: 18
+        unit: 3
       - uid: BIB211.9.1.1.TY.1
         subobj: 9.1.1
         type: ty
@@ -4102,6 +4648,7 @@ courses:
           C: Lydda and Sharon.
           D: Samaria.
         answer: C
+        print_position: 1
       - uid: BIB211.9.1.1.TY.2
         subobj: 9.1.1
         type: ty
@@ -4112,6 +4659,7 @@ courses:
           C: angel.
           D: word of prophecy.
         answer: B
+        print_position: 2
       - uid: BIB211.9.1.1.TY.3
         subobj: 9.1.1
         type: ty
@@ -4122,6 +4670,7 @@ courses:
           C: abstaining from wine.
           D: all of the above.
         answer: A
+        print_position: 3
       - uid: BIB211.9.1.1.TY.4
         subobj: 9.1.1
         type: ty
@@ -4132,6 +4681,7 @@ courses:
           C: healed of leprosy.
           D: able to walk again.
         answer: A
+        print_position: 4
       - uid: BIB211.9.2.1.UPE.1
         subobj: 9.2.1
         type: upe
@@ -4143,6 +4693,8 @@ courses:
           C: methods, building, and doctrine.
           D: methods, leaders, and doctrine.
         answer: B
+        print_position: 19
+        unit: 3
       - uid: BIB211.9.2.1.UPE.2
         subobj: 9.2.1
         type: upe
@@ -4154,6 +4706,8 @@ courses:
           C: Barnabas and Luke.
           D: Paul and Barnabas.
         answer: D
+        print_position: 20
+        unit: 3
       - uid: BIB211.9.2.1.UPE.3
         subobj: 9.2.1
         type: upe
@@ -4165,6 +4719,8 @@ courses:
           C: Jerusalem
           D: Ephesus
         answer: B
+        print_position: 21
+        unit: 3
       - uid: BIB211.9.2.1.UPE.4
         subobj: 9.2.1
         type: upe
@@ -4176,6 +4732,8 @@ courses:
           C: speaking to the Greeks in their own tongue.
           D: all of the above.
         answer: C
+        print_position: 22
+        unit: 3
       - uid: BIB211.9.2.1.TY.1
         subobj: 9.2.1
         type: ty
@@ -4186,6 +4744,7 @@ courses:
           C: possessed the ancient world’s best water supply.
           D: was all of the above.
         answer: D
+        print_position: 5
       - uid: BIB211.9.2.1.TY.2
         subobj: 9.2.1
         type: ty
@@ -4197,6 +4756,7 @@ courses:
           C: its new mission.
           D: all of the above.
         answer: D
+        print_position: 6
       - uid: BIB211.9.2.1.TY.3
         subobj: 9.2.1
         type: ty
@@ -4207,6 +4767,7 @@ courses:
           C: holding all night prayer meetings.
           D: doing all of the above.
         answer: B
+        print_position: 7
       - uid: BIB211.9.3.1.UPE.1
         subobj: 9.3.1
         type: upe
@@ -4217,6 +4778,8 @@ courses:
           C: for reasons unknown to believers.
           D: all of the above.
         answer: D
+        print_position: 23
+        unit: 3
       - uid: BIB211.9.3.1.UPE.2
         subobj: 9.3.1
         type: upe
@@ -4227,6 +4790,8 @@ courses:
           C: John
           D: Peter
         answer: B
+        print_position: 24
+        unit: 3
       - uid: BIB211.9.3.1.UPE.3
         subobj: 9.3.1
         type: upe
@@ -4237,6 +4802,8 @@ courses:
           C: the Jewish leaders change of heart.
           D: an angel.
         answer: D
+        print_position: 25
+        unit: 3
       - uid: BIB211.9.3.1.TY.1
         subobj: 9.3.1
         type: ty
@@ -4247,6 +4814,7 @@ courses:
           C: can make sweeter the victory to follow.
           D: can do all of the above.
         answer: D
+        print_position: 8
       - uid: BIB211.9.3.1.TY.2
         subobj: 9.3.1
         type: ty
@@ -4258,6 +4826,7 @@ courses:
           C: Barnabas.
           D: Agabus, the prophet.
         answer: A
+        print_position: 9
       - uid: BIB211.9.3.1.TY.3
         subobj: 9.3.1
         type: ty
@@ -4268,6 +4837,7 @@ courses:
           C: Herod the Great
           D: Herod Agrippa I
         answer: D
+        print_position: 10
       - uid: BIB211.10.1.1.UPE.1
         subobj: 10.1.1
         type: upe
@@ -4279,6 +4849,8 @@ courses:
           C: Peter and Paul.
           D: Paul and Silas.
         answer: B
+        print_position: 1
+        unit: 4
       - uid: BIB211.10.1.1.UPE.2
         subobj: 10.1.1
         type: upe
@@ -4293,6 +4865,8 @@ courses:
           D: the examples from Acts 13:4–12 that describe the activities of Paul and
             Barnabas on their first missionary journey.
         answer: D
+        print_position: 2
+        unit: 4
       - uid: BIB211.10.1.1.TY.1
         subobj: 10.1.1
         type: ty
@@ -4303,6 +4877,7 @@ courses:
           C: Mark, Lucuis of Cyrene, Niger, Paul, and Barnabas.
           D: Barnabas, Paul, Lucuis of Cyrene, Manaen, and Niger.
         answer: D
+        print_position: 1
       - uid: BIB211.10.1.1.TY.2
         subobj: 10.1.1
         type: ty
@@ -4313,6 +4888,7 @@ courses:
           C: Legion.
           D: Demos.
         answer: B
+        print_position: 2
       - uid: BIB211.10.1.1.TY.3
         subobj: 10.1.1
         type: ty
@@ -4324,6 +4900,7 @@ courses:
           C: Be a solo missionary.
           D: Be full of the Spirit.
         answer: C
+        print_position: 3
       - uid: BIB211.10.1.1.TY.4
         subobj: 10.1.1
         type: ty
@@ -4335,6 +4912,7 @@ courses:
           C: refers to poetic literature within the Old Testament.
           D: is all of the above.
         answer: B
+        print_position: 4
       - uid: BIB211.10.2.1.UPE.1
         subobj: 10.2.1
         type: upe
@@ -4347,6 +4925,8 @@ courses:
             at all times.
           D: keep a good attitude, be adaptable, and glory in your accomplishments.
         answer: B
+        print_position: 3
+        unit: 4
       - uid: BIB211.10.2.1.UPE.2
         subobj: 10.2.1
         type: upe
@@ -4358,6 +4938,8 @@ courses:
           C: Prepare for the worst and expect the best.
           D: Fight the good fight.
         answer: C
+        print_position: 4
+        unit: 4
       - uid: BIB211.10.2.1.TY.1
         subobj: 10.2.1
         type: ty
@@ -4368,6 +4950,7 @@ courses:
           C: believed and followed Christ.
           D: asked Paul and Barnabas to leave.
         answer: B
+        print_position: 5
       - uid: BIB211.10.2.1.TY.2
         subobj: 10.2.1
         type: ty
@@ -4378,6 +4961,7 @@ courses:
           C: to not give up when you meet resistance.
           D: all of the above.
         answer: D
+        print_position: 6
       - uid: BIB211.10.2.1.TY.3
         subobj: 10.2.1
         type: ty
@@ -4389,6 +4973,7 @@ courses:
           C: Macedonia
           D: Cappadocia
         answer: B
+        print_position: 7
       - uid: BIB211.10.3.1.UPE.1
         subobj: 10.3.1
         type: upe
@@ -4400,6 +4985,8 @@ courses:
           C: idols, blood, unclean animals, and sexual immorality.
           D: food offered to idols, blood, unclean animals, and sexual immorality.
         answer: B
+        print_position: 5
+        unit: 4
       - uid: BIB211.10.3.1.UPE.2
         subobj: 10.3.1
         type: upe
@@ -4410,6 +4997,8 @@ courses:
           C: of a dispute between the church of Antioch and brothers from Jerusalem.
           D: of all of the events listed above.
         answer: D
+        print_position: 6
+        unit: 4
       - uid: BIB211.10.3.1.TY.1
         subobj: 10.3.1
         type: ty
@@ -4420,6 +5009,7 @@ courses:
           C: '19.'
           D: '23.'
         answer: B
+        print_position: 8
       - uid: BIB211.10.3.1.TY.2
         subobj: 10.3.1
         type: ty
@@ -4431,6 +5021,7 @@ courses:
           C: separate the major issues from the minor issues.
           D: avoid major confrontations.
         answer: C
+        print_position: 9
       - uid: BIB211.10.3.1.TY.3
         subobj: 10.3.1
         type: ty
@@ -4441,6 +5032,7 @@ courses:
           C: consuming blood.
           D: all of the above.
         answer: D
+        print_position: 10
       - uid: BIB211.11.1.1.UPE.1
         subobj: 11.1.1
         type: upe
@@ -4452,6 +5044,8 @@ courses:
           C: how much money and provisions to take on their journey.
           D: whether they should take Mark.
         answer: D
+        print_position: 7
+        unit: 4
       - uid: BIB211.11.1.1.UPE.2
         subobj: 11.1.1
         type: upe
@@ -4463,6 +5057,8 @@ courses:
           C: Athens
           D: Troas
         answer: D
+        print_position: 8
+        unit: 4
       - uid: BIB211.11.1.1.UPE.3
         subobj: 11.1.1
         type: upe
@@ -4473,6 +5069,8 @@ courses:
           C: Philippi.
           D: Berea.
         answer: C
+        print_position: 9
+        unit: 4
       - uid: BIB211.11.1.1.TY.1
         subobj: 11.1.1
         type: ty
@@ -4484,6 +5082,7 @@ courses:
           C: John Mark
           D: Apollos
         answer: B
+        print_position: 1
       - uid: BIB211.11.1.1.TY.2
         subobj: 11.1.1
         type: ty
@@ -4495,6 +5094,7 @@ courses:
           C: Anna
           D: Lydia
         answer: D
+        print_position: 2
       - uid: BIB211.11.1.1.TY.3
         subobj: 11.1.1
         type: ty
@@ -4505,6 +5105,7 @@ courses:
           C: Paul delivered a slave girl of an evil spirit.
           D: Paul healed a crippled man on the Sabbath.
         answer: C
+        print_position: 3
       - uid: BIB211.11.2.1.UPE.1
         subobj: 11.2.1
         type: upe
@@ -4515,6 +5116,8 @@ courses:
           C: that there is no God.
           D: that God can only be known through secret knowledge.
         answer: A
+        print_position: 10
+        unit: 4
       - uid: BIB211.11.2.1.UPE.2
         subobj: 11.2.1
         type: upe
@@ -4526,6 +5129,8 @@ courses:
           C: provided for Paul’s physical needs while he was there.
           D: were more intelligent and reasonable.
         answer: B
+        print_position: 11
+        unit: 4
       - uid: BIB211.11.2.1.UPE.3
         subobj: 11.2.1
         type: upe
@@ -4536,6 +5141,8 @@ courses:
           C: God can only be known through secret knowledge.
           D: that there are many gods.
         answer: B
+        print_position: 12
+        unit: 4
       - uid: BIB211.11.2.1.TY.1
         subobj: 11.2.1
         type: ty
@@ -4546,6 +5153,7 @@ courses:
           C: that Christ fulfilled the law.
           D: that Jesus had to suffer and be raised from the dead.
         answer: D
+        print_position: 4
       - uid: BIB211.11.2.1.TY.2
         subobj: 11.2.1
         type: ty
@@ -4556,6 +5164,7 @@ courses:
           C: a few Jews.
           D: all of the above.
         answer: D
+        print_position: 5
       - uid: BIB211.11.2.1.TY.3
         subobj: 11.2.1
         type: ty
@@ -4566,6 +5175,7 @@ courses:
           C: hedonism.
           D: all of the above.
         answer: D
+        print_position: 6
       - uid: BIB211.11.2.1.TY.4
         subobj: 11.2.1
         type: ty
@@ -4576,6 +5186,7 @@ courses:
           C: Artemis.
           D: Zeus.
         answer: A
+        print_position: 7
       - uid: BIB211.11.3.1.UPE.1
         subobj: 11.3.1
         type: upe
@@ -4586,6 +5197,8 @@ courses:
           C: Priscilla and Aquila.
           D: Lydia.
         answer: C
+        print_position: 13
+        unit: 4
       - uid: BIB211.11.3.1.UPE.2
         subobj: 11.3.1
         type: upe
@@ -4596,6 +5209,8 @@ courses:
           C: flee by night to Athens.
           D: sail to Ephesus.
         answer: B
+        print_position: 14
+        unit: 4
       - uid: BIB211.11.3.1.TY.1
         subobj: 11.3.1
         type: ty
@@ -4606,6 +5221,7 @@ courses:
           C: for the goddess of sex, Aphrodite.
           D: all of the above.
         answer: D
+        print_position: 8
       - uid: BIB211.11.3.1.TY.2
         subobj: 11.3.1
         type: ty
@@ -4617,6 +5233,7 @@ courses:
           C: '3'
           D: '5'
         answer: B
+        print_position: 9
       - uid: BIB211.11.3.1.TY.3
         subobj: 11.3.1
         type: ty
@@ -4628,6 +5245,7 @@ courses:
           C: the high judgment seat ( bema ).
           D: Sanhedrin.
         answer: C
+        print_position: 10
       - uid: BIB211.12.1.1.UPE.1
         subobj: 12.1.1
         type: upe
@@ -4639,6 +5257,8 @@ courses:
           C: Thessalonica.
           D: Ephesus.
         answer: D
+        print_position: 15
+        unit: 4
       - uid: BIB211.12.1.1.UPE.2
         subobj: 12.1.1
         type: upe
@@ -4650,6 +5270,8 @@ courses:
           C: Political unrest
           D: The nudge of the Holy Spirit
         answer: D
+        print_position: 16
+        unit: 4
       - uid: BIB211.12.1.1.UPE.3
         subobj: 12.1.1
         type: upe
@@ -4661,6 +5283,8 @@ courses:
           C: the healing of a man crippled from birth.
           D: the conversion of Lydia.
         answer: A
+        print_position: 17
+        unit: 4
       - uid: BIB211.12.1.1.TY.1
         subobj: 12.1.1
         type: ty
@@ -4671,6 +5295,7 @@ courses:
           C: effective communication.
           D: encouraging the weaker member.
         answer: A
+        print_position: 1
       - uid: BIB211.12.1.1.TY.2
         subobj: 12.1.1
         type: ty
@@ -4681,6 +5306,7 @@ courses:
           C: Macedonia.
           D: Achaia.
         answer: B
+        print_position: 2
       - uid: BIB211.12.1.1.TY.3
         subobj: 12.1.1
         type: ty
@@ -4692,6 +5318,7 @@ courses:
           C: Apollos
           D: Demas
         answer: C
+        print_position: 3
       - uid: BIB211.12.1.1.TY.4
         subobj: 12.1.1
         type: ty
@@ -4703,6 +5330,7 @@ courses:
           C: fell to the ground.
           D: spoke in tongues and prophesied.
         answer: D
+        print_position: 4
       - uid: BIB211.12.1.1.TY.5
         subobj: 12.1.1
         type: ty
@@ -4713,6 +5341,7 @@ courses:
           C: from house to house.
           D: in all of the above locations.
         answer: D
+        print_position: 5
       - uid: BIB211.12.1.1.TY.6
         subobj: 12.1.1
         type: ty
@@ -4724,6 +5353,7 @@ courses:
             sick and demon possessed.
           D: Paul’s shadow fell upon them.
         answer: C
+        print_position: 6
       - uid: BIB211.12.1.1.TY.7
         subobj: 12.1.1
         type: ty
@@ -4735,6 +5365,7 @@ courses:
           C: Thessalonians
           D: 1 Corinthians
         answer: D
+        print_position: 7
       - uid: BIB211.12.1.1.TY.8
         subobj: 12.1.1
         type: ty
@@ -4745,6 +5376,7 @@ courses:
           C: the Jews were jealous of all the people following Paul’s ministry.
           D: of the seven sons of Sceva.
         answer: B
+        print_position: 8
       - uid: BIB211.12.2.1.UPE.1
         subobj: 12.2.1
         type: upe
@@ -4756,6 +5388,8 @@ courses:
           C: Tychicus
           D: Artistarchus
         answer: B
+        print_position: 18
+        unit: 4
       - uid: BIB211.12.2.1.UPE.2
         subobj: 12.2.1
         type: upe
@@ -4767,6 +5401,8 @@ courses:
           C: the Day of Atonement.
           D: spring.
         answer: A
+        print_position: 19
+        unit: 4
       - uid: BIB211.12.2.1.TY.1
         subobj: 12.2.1
         type: ty
@@ -4777,6 +5413,7 @@ courses:
           C: warn them to guard against false teachers within the church.
           D: do all of the above.
         answer: D
+        print_position: 9
       - uid: BIB211.12.2.1.TY.2
         subobj: 12.2.1
         type: ty
@@ -4787,6 +5424,7 @@ courses:
           C: “priest.”
           D: “deacon.”
         answer: B
+        print_position: 10
       - uid: BIB211.13.1.1.UPE.1
         subobj: 13.1.1
         type: upe
@@ -4801,6 +5439,8 @@ courses:
           D: persecuting Jews who rejected Jesus and of failing to observe the feasts
             in Jerusalem.
         answer: A
+        print_position: 20
+        unit: 4
       - uid: BIB211.13.1.2.UPE.1
         subobj: 13.1.2
         type: upe
@@ -4815,6 +5455,8 @@ courses:
           D: Paul was promised happiness, prosperity, and success if he would first
             go to Jerusalem and suffer temporarily.
         answer: C
+        print_position: 21
+        unit: 4
       - uid: BIB211.13.1.2.TY.1
         subobj: 13.1.2
         type: ty
@@ -4828,6 +5470,7 @@ courses:
             imprisonment.
           D: Paul expected God to shield him from any inconvenience or suffering.
         answer: C
+        print_position: 2
       - uid: BIB211.13.2.1.UPE.1
         subobj: 13.2.1
         type: upe
@@ -4841,6 +5484,8 @@ courses:
           D: had no intention of honoring either Jewish or Roman law because it conflicted
             with his faith in Jesus.
         answer: A
+        print_position: 22
+        unit: 4
       - uid: BIB211.13.2.1.TY.1
         subobj: 13.2.1
         type: ty
@@ -4855,6 +5500,7 @@ courses:
           D: persecuting Jews who rejected Jesus and of failing to observe the traditional
             feasts in Jerusalem.
         answer: A
+        print_position: 1
       - uid: BIB211.13.2.1.TY.2
         subobj: 13.2.1
         type: ty
@@ -4866,6 +5512,7 @@ courses:
           C: Parents were encouraged not to circumcise their sons.
           D: Gentiles were allowed into the Inner Court of the temple.
         answer: A
+        print_position: 3
       - uid: BIB211.13.2.1.TY.3
         subobj: 13.2.1
         type: ty
@@ -4877,6 +5524,7 @@ courses:
           C: was guilty of violating Jewish temple law but not Roman law.
           D: was absolutely innocent of violating any law, Jewish or Roman.
         answer: D
+        print_position: 4
       - uid: BIB211.13.2.1.TY.4
         subobj: 13.2.1
         type: ty
@@ -4888,6 +5536,7 @@ courses:
           C: violated Roman Law while in Jerusalem.
           D: praised the king for his kindness and wisdom.
         answer: B
+        print_position: 5
       - uid: BIB211.13.3.1.UPE.1
         subobj: 13.3.1
         type: upe
@@ -4901,6 +5550,8 @@ courses:
           C: Paul wanted to witness to the crew as his last act of obedience to God.
           D: Paul was angry with the crew for insisting on sailing during the winter.
         answer: B
+        print_position: 23
+        unit: 4
       - uid: BIB211.13.3.1.TY.1
         subobj: 13.3.1
         type: ty
@@ -4911,6 +5562,7 @@ courses:
           C: Ephesus.
           D: Rome.
         answer: D
+        print_position: 7
       - uid: BIB211.13.3.1.TY.2
         subobj: 13.3.1
         type: ty
@@ -4925,6 +5577,7 @@ courses:
           D: Paul had remained loyal to Jewish customs and traditions following his
             conversion to faith in Jesus Christ.
         answer: B
+        print_position: 9
       - uid: BIB211.13.3.2.UPE.1
         subobj: 13.3.2
         type: upe
@@ -4939,6 +5592,8 @@ courses:
           D: had remained loyal to Jewish customs and traditions following his conversion
             to faith in Jesus Christ.
         answer: B
+        print_position: 24
+        unit: 4
       - uid: BIB211.13.3.2.TY.1
         subobj: 13.3.2
         type: ty
@@ -4950,6 +5605,7 @@ courses:
           C: Malta.
           D: Sardinia.
         answer: C
+        print_position: 6
       - uid: BIB211.13.3.2.TY.2
         subobj: 13.3.2
         type: ty
@@ -4963,6 +5619,7 @@ courses:
           C: Paul wanted to witness to the crew as his last act of obedience to God.
           D: Paul was angry with the crew for insisting on sailing during the winter.
         answer: B
+        print_position: 8
       - uid: BIB211.13.3.3.UPE.1
         subobj: 13.3.3
         type: upe
@@ -4977,6 +5634,8 @@ courses:
           D: those who are willing to share the gospel will experience less suffering
             than those who refuse.
         answer: A
+        print_position: 25
+        unit: 4
       - uid: BIB211.13.3.3.TY.1
         subobj: 13.3.3
         type: ty
@@ -4992,6 +5651,7 @@ courses:
           D: those who agree to share the gospel will experience less suffering than
             those who refuse.
         answer: A
+        print_position: 10
       - uid: BIB211.1.2.1.F.1
         subobj: 1.2.1
         type: final
@@ -5426,6 +6086,7 @@ courses:
         key_pdf: bib115_1st_c key rev desi feb16.pdf
         matched: 41
         objectives_agree: 41
+      captured: reparse
     deployed_pn: 03.22.01
     body_baseline_pn: 03.22.01
     body_baseline_date: '2026-08-26'

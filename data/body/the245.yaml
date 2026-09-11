@@ -972,6 +972,8 @@ courses:
           D: Bible prophets were in tune with their times better than we are with
             our times.
         answer: C
+        print_position: 1
+        unit: 1
       - uid: THE245.1.1.1.TY.1
         subobj: 1.1.1
         type: ty
@@ -982,6 +984,7 @@ courses:
           C: 400 prophetic statements.
           D: 150 prophetic statements.
         answer: A
+        print_position: 1
       - uid: THE245.1.1.1.TY.2
         subobj: 1.1.1
         type: ty
@@ -993,6 +996,7 @@ courses:
           D: Bible prophets were in tune with their times better than we are with
             our times.
         answer: C
+        print_position: 2
       - uid: THE245.1.1.2.UPE.1
         subobj: 1.1.2
         type: upe
@@ -1005,6 +1009,8 @@ courses:
           C: viewpoint of the historian recording past events.
           D: backbone of the Bible, unlike most other books that claim divine origin.
         answer: A
+        print_position: 2
+        unit: 1
       - uid: THE245.1.1.3.UPE.1
         subobj: 1.1.3
         type: upe
@@ -1017,6 +1023,8 @@ courses:
           C: realize he or she cannot be holy as God requires (1 Peter 1:15–16).
           D: desire and seek to live a righteous life.
         answer: D
+        print_position: 3
+        unit: 1
       - uid: THE245.1.1.3.TY.1
         subobj: 1.1.3
         type: ty
@@ -1027,6 +1035,7 @@ courses:
           C: the Holy Spirit declares that the time of harvest is over.
           D: the wicked dead are resurrected and given a final chance to receive Christ.
         answer: A
+        print_position: 3
       - uid: THE245.1.2.1.UPE.1
         subobj: 1.2.1
         type: upe
@@ -1037,6 +1046,8 @@ courses:
           C: believed it was already in the Millennium.
           D: believed the Rapture would take place after the Tribulation.
         answer: A
+        print_position: 4
+        unit: 1
       - uid: THE245.1.2.1.TY.1
         subobj: 1.2.1
         type: ty
@@ -1048,6 +1059,7 @@ courses:
           C: one in 100 million.
           D: one in 100 quadrillion.
         answer: D
+        print_position: 4
       - uid: THE245.1.2.1.TY.2
         subobj: 1.2.1
         type: ty
@@ -1058,6 +1070,7 @@ courses:
           C: Kingdom Now.
           D: Postmillennial.
         answer: B
+        print_position: 5
       - uid: THE245.1.2.2.TY.1
         subobj: 1.2.2
         type: ty
@@ -1069,6 +1082,7 @@ courses:
           C: the Rapture did not occur as had been expected.
           D: theologians began doubting that the Bible was divinely inspired.
         answer: C
+        print_position: 6
       - uid: THE245.1.3.1.UPE.1
         subobj: 1.3.1
         type: upe
@@ -1080,6 +1094,8 @@ courses:
           C: the sudden appearance of the Antichrist on the world scene in the Tribulation.
           D: Christ’s return to earth after the Tribulation.
         answer: D
+        print_position: 5
+        unit: 1
       - uid: THE245.1.3.1.TY.1
         subobj: 1.3.1
         type: ty
@@ -1091,6 +1107,7 @@ courses:
           C: the sudden appearance of Antichrist on the world scene in the Tribulation.
           D: Christ’s return to earth after the Tribulation.
         answer: D
+        print_position: 7
       - uid: THE245.1.3.2.UPE.1
         subobj: 1.3.2
         type: upe
@@ -1102,6 +1119,8 @@ courses:
           C: the inhumane slaughter of people by dictators like Hitler and Stalin.
           D: the successful American presidency of Franklin Delano Roosevelt.
         answer: C
+        print_position: 6
+        unit: 1
       - uid: THE245.1.3.2.TY.1
         subobj: 1.3.2
         type: ty
@@ -1113,6 +1132,7 @@ courses:
           C: in the middle of the Tribulation.
           D: spiritual rather than something that really happens.
         answer: B
+        print_position: 8
       - uid: THE245.1.3.3.UPE.1
         subobj: 1.3.3
         type: upe
@@ -1124,6 +1144,8 @@ courses:
             a spiritual one.
           D: Israel will exist literally in heaven, not on earth, in the Millennium.
         answer: A
+        print_position: 7
+        unit: 1
       - uid: THE245.1.3.3.TY.1
         subobj: 1.3.3
         type: ty
@@ -1134,6 +1156,7 @@ courses:
           C: there will be both a spiritual and a national Israel.
           D: Israel will exist literally in heaven, not on earth, in the Millennium.
         answer: A
+        print_position: 9
       - uid: THE245.1.3.3.TY.2
         subobj: 1.3.3
         type: ty
@@ -1144,6 +1167,7 @@ courses:
           C: evangelicals.
           D: nominal Christians.
         answer: C
+        print_position: 10
       - uid: THE245.2.1.1.UPE.1
         subobj: 2.1.1
         type: upe
@@ -1154,6 +1178,8 @@ courses:
           C: humans, with their own judgment, can always distinguish right from wrong.
           D: humans naturally have within them the nine fruit of the Spirit.
         answer: B
+        print_position: 8
+        unit: 1
       - uid: THE245.2.1.1.TY.1
         subobj: 2.1.1
         type: ty
@@ -1165,6 +1191,7 @@ courses:
           C: they demonstrated and reflected His glory.
           D: they provided subjects for His kingdom.
         answer: C
+        print_position: 1
       - uid: THE245.2.1.2.UPE.1
         subobj: 2.1.2
         type: upe
@@ -1178,6 +1205,8 @@ courses:
             His creation.
           D: True love and obedience is proved only when another option is available.
         answer: D
+        print_position: 9
+        unit: 1
       - uid: THE245.2.1.2.TY.1
         subobj: 2.1.2
         type: ty
@@ -1188,6 +1217,7 @@ courses:
           C: God’s image was changed to an animal nature.
           D: God’s image was altered, but not destroyed.
         answer: D
+        print_position: 2
       - uid: THE245.2.1.3.UPE.1
         subobj: 2.1.3
         type: upe
@@ -1198,6 +1228,8 @@ courses:
           C: turning His back on disobedient Israel.
           D: plan for destroying the entire human race and beginning a new creation.
         answer: A
+        print_position: 10
+        unit: 1
       - uid: THE245.2.1.3.TY.1
         subobj: 2.1.3
         type: ty
@@ -1208,6 +1240,7 @@ courses:
           C: sent His only Son to die on the cross.
           D: punished Adam and Eve by prompting Cain to kill Abel.
         answer: B
+        print_position: 3
       - uid: THE245.2.1.3.TY.2
         subobj: 2.1.3
         type: ty
@@ -1218,6 +1251,7 @@ courses:
           C: turning His back on disobedient Israel.
           D: plan for destroying the entire human race and beginning a new creation.
         answer: A
+        print_position: 4
       - uid: THE245.2.2.1.TY.1
         subobj: 2.2.1
         type: ty
@@ -1228,6 +1262,7 @@ courses:
           C: provide the Jewish writers who would give the world a Holy Bible.
           D: be a holy nation bringing blessing to the world.
         answer: D
+        print_position: 5
       - uid: THE245.2.2.2.UPE.1
         subobj: 2.2.2
         type: upe
@@ -1239,6 +1274,8 @@ courses:
           C: “Repent, you generation of vipers!”
           D: “It is not mine to set the time of my coming.”
         answer: B
+        print_position: 11
+        unit: 1
       - uid: THE245.2.2.2.UPE.2
         subobj: 2.2.2
         type: upe
@@ -1249,6 +1286,8 @@ courses:
           C: all living persons who lived righteous lives and honored Jehovah.
           D: Israel as a nation.
         answer: D
+        print_position: 12
+        unit: 1
       - uid: THE245.2.2.2.TY.1
         subobj: 2.2.2
         type: ty
@@ -1259,6 +1298,7 @@ courses:
           C: Jesus began His ministry announcing the Kingdom He came to establish.
           D: the church will never be part of the kingdom of heaven.
         answer: C
+        print_position: 6
       - uid: THE245.2.2.3.TY.1
         subobj: 2.2.3
         type: ty
@@ -1269,6 +1309,7 @@ courses:
           C: the temple in the New Jerusalem.
           D: the earthly Jerusalem during the Millennium.
         answer: A
+        print_position: 7
       - uid: THE245.2.3.1.UPE.1
         subobj: 2.3.1
         type: upe
@@ -1280,6 +1321,8 @@ courses:
           C: Isaiah.
           D: Psalms.
         answer: A
+        print_position: 13
+        unit: 1
       - uid: THE245.2.3.1.UPE.2
         subobj: 2.3.1
         type: upe
@@ -1290,6 +1333,8 @@ courses:
           C: the Alpha and the Omega.
           D: All of the above.
         answer: B
+        print_position: 14
+        unit: 1
       - uid: THE245.2.3.1.TY.1
         subobj: 2.3.1
         type: ty
@@ -1300,6 +1345,7 @@ courses:
           C: the Alpha and the Omega.
           D: All of the above.
         answer: B
+        print_position: 8
       - uid: THE245.2.3.2.UPE.1
         subobj: 2.3.2
         type: upe
@@ -1310,6 +1356,8 @@ courses:
           C: sacrificial animal offerings were not necessary.
           D: the sacrifice of a lamb was necessary for our salvation.
         answer: B
+        print_position: 15
+        unit: 1
       - uid: THE245.2.3.2.TY.1
         subobj: 2.3.2
         type: ty
@@ -1320,6 +1368,7 @@ courses:
           C: earthly ministry and sacrificial death.
           D: sitting now at the right hand of the Father.
         answer: C
+        print_position: 9
       - uid: THE245.2.3.3.UPE.1
         subobj: 2.3.3
         type: upe
@@ -1331,6 +1380,8 @@ courses:
           C: advocate for the downtrodden and disadvantaged.
           D: suffering servant.
         answer: B
+        print_position: 16
+        unit: 1
       - uid: THE245.2.3.3.TY.1
         subobj: 2.3.3
         type: ty
@@ -1341,6 +1392,7 @@ courses:
           C: rescuing sinners from the fires of hell.
           D: all end-time events.
         answer: D
+        print_position: 10
       - uid: THE245.3.1.1.UPE.1
         subobj: 3.1.1
         type: upe
@@ -1354,6 +1406,8 @@ courses:
             wealth.
           D: being a poor steward with the resources God has given us.
         answer: B
+        print_position: 17
+        unit: 1
       - uid: THE245.3.1.1.UPE.2
         subobj: 3.1.1
         type: upe
@@ -1365,6 +1419,8 @@ courses:
           C: a death penalty until Christ died on the cross for our sins.
           D: spiritual death or the lake of fire for Adam’s descendants.
         answer: A
+        print_position: 18
+        unit: 1
       - uid: THE245.3.1.1.TY.1
         subobj: 3.1.1
         type: ty
@@ -1375,6 +1431,7 @@ courses:
           C: sleeps in the grave until the Rapture.
           D: goes to the same place where animal life goes.
         answer: B
+        print_position: 1
       - uid: THE245.3.1.2.UPE.1
         subobj: 3.1.2
         type: upe
@@ -1386,6 +1443,8 @@ courses:
             God.
           D: born-again persons always view death as a promotion.
         answer: C
+        print_position: 19
+        unit: 1
       - uid: THE245.3.1.2.UPE.2
         subobj: 3.1.2
         type: upe
@@ -1397,6 +1456,8 @@ courses:
           D: like the patriarch of the Old Testament, we will be with our righteous
             ancestors.
         answer: B
+        print_position: 20
+        unit: 1
       - uid: THE245.3.1.2.TY.1
         subobj: 3.1.2
         type: ty
@@ -1408,6 +1469,7 @@ courses:
           C: death is a scorpion with a deadly sting.
           D: we should laugh at death rather than fear it.
         answer: A
+        print_position: 2
       - uid: THE245.3.1.2.TY.2
         subobj: 3.1.2
         type: ty
@@ -1418,6 +1480,7 @@ courses:
           C: To be with Christ is better than the best physical life on earth.
           D: After death, a person is reunited with deceased family members.
         answer: C
+        print_position: 3
       - uid: THE245.3.1.2.TY.3
         subobj: 3.1.2
         type: ty
@@ -1430,6 +1493,7 @@ courses:
           D: He had no fear of death because He had a multitude of angels to help
             Him.
         answer: B
+        print_position: 4
       - uid: THE245.3.2.1.UPE.1
         subobj: 3.2.1
         type: upe
@@ -1441,6 +1505,8 @@ courses:
           C: one of the two compartments of Sheol.
           D: into God’s presence.
         answer: D
+        print_position: 21
+        unit: 1
       - uid: THE245.3.2.1.TY.1
         subobj: 3.2.1
         type: ty
@@ -1451,6 +1517,7 @@ courses:
           C: goes to purgatory until prayer and good works permit entry to heaven.
           D: goes out of existence until it is resurrected after the Millennium.
         answer: A
+        print_position: 5
       - uid: THE245.3.2.1.TY.2
         subobj: 3.2.1
         type: ty
@@ -1462,6 +1529,7 @@ courses:
           C: the dead are buried, or the grave.
           D: the wicked dead go.
         answer: D
+        print_position: 6
       - uid: THE245.3.2.1.TY.3
         subobj: 3.2.1
         type: ty
@@ -1472,6 +1540,7 @@ courses:
           C: God’s presence.
           D: Sheol.
         answer: C
+        print_position: 7
       - uid: THE245.3.2.2.UPE.1
         subobj: 3.2.2
         type: upe
@@ -1483,6 +1552,8 @@ courses:
           C: freed from the prison of Sheol.
           D: content in the bliss of Hades.
         answer: B
+        print_position: 22
+        unit: 1
       - uid: THE245.3.3.1.UPE.1
         subobj: 3.3.1
         type: upe
@@ -1495,6 +1566,8 @@ courses:
           D: they will then recognize the reality of Christ’s resurrection body after
             His death.
         answer: C
+        print_position: 23
+        unit: 1
       - uid: THE245.3.3.1.TY.1
         subobj: 3.3.1
         type: ty
@@ -1505,6 +1578,7 @@ courses:
           C: just prior to the Millennium.
           D: at the judgment seat of Christ.
         answer: B
+        print_position: 8
       - uid: THE245.3.3.1.TY.2
         subobj: 3.3.1
         type: ty
@@ -1516,6 +1590,7 @@ courses:
           D: when Christ returns to earth to defeat Satan, Antichrist, and all the
             wicked.
         answer: A
+        print_position: 9
       - uid: THE245.3.3.2.UPE.1
         subobj: 3.3.2
         type: upe
@@ -1526,6 +1601,8 @@ courses:
           C: 1 Corinthians 13.
           D: 1 Corinthians 15.
         answer: D
+        print_position: 24
+        unit: 1
       - uid: THE245.3.3.3.UPE.1
         subobj: 3.3.3
         type: upe
@@ -1536,6 +1613,8 @@ courses:
           C: like Christ’s resurrected body.
           D: still subject to human limitations.
         answer: C
+        print_position: 25
+        unit: 1
       - uid: THE245.3.3.3.TY.1
         subobj: 3.3.3
         type: ty
@@ -1546,6 +1625,7 @@ courses:
           C: still be subject to human limitations.
           D: be like Christ’s resurrected body.
         answer: D
+        print_position: 10
       - uid: THE245.4.1.1.UPE.1
         subobj: 4.1.1
         type: upe
@@ -1557,6 +1637,8 @@ courses:
           C: persecuted Christians around the world will not have to die as martyrs.
           D: the family circle will be unbroken in heaven.
         answer: A
+        print_position: 1
+        unit: 2
       - uid: THE245.4.1.1.TY.1
         subobj: 4.1.1
         type: ty
@@ -1567,6 +1649,7 @@ courses:
           C: “until death do us part.”
           D: “coming together.”
         answer: D
+        print_position: 1
       - uid: THE245.4.1.1.TY.2
         subobj: 4.1.1
         type: ty
@@ -1578,6 +1661,7 @@ courses:
           C: Abraham.
           D: David.
         answer: C
+        print_position: 2
       - uid: THE245.4.1.2.UPE.1
         subobj: 4.1.2
         type: upe
@@ -1588,6 +1672,8 @@ courses:
           C: Isaac and Jacob.
           D: Moses and Joshua.
         answer: C
+        print_position: 2
+        unit: 2
       - uid: THE245.4.1.2.TY.1
         subobj: 4.1.2
         type: ty
@@ -1598,6 +1684,7 @@ courses:
           C: wealth, happiness, and God’s protection.
           D: a promised land, many faithful servants, and victory over his enemies.
         answer: B
+        print_position: 3
       - uid: THE245.4.1.3.UPE.1
         subobj: 4.1.3
         type: upe
@@ -1608,6 +1695,8 @@ courses:
           C: Moses and Aaron.
           D: Israel.
         answer: D
+        print_position: 3
+        unit: 2
       - uid: THE245.4.1.3.TY.1
         subobj: 4.1.3
         type: ty
@@ -1618,6 +1707,7 @@ courses:
           C: Moses and Aaron.
           D: Moses and Abraham.
         answer: A
+        print_position: 4
       - uid: THE245.4.1.4.UPE.1
         subobj: 4.1.4
         type: upe
@@ -1629,6 +1719,8 @@ courses:
           C: Moses and Christ.
           D: Isaiah and Paul.
         answer: A
+        print_position: 4
+        unit: 2
       - uid: THE245.4.1.4.TY.1
         subobj: 4.1.4
         type: ty
@@ -1639,6 +1731,7 @@ courses:
           C: foretold the ancestry of Christ’s earthly birth.
           D: predicted there would be evil descendants of King David.
         answer: C
+        print_position: 5
       - uid: THE245.4.2.1.UPE.1
         subobj: 4.2.1
         type: upe
@@ -1651,6 +1744,8 @@ courses:
           D: One covenant with the church, including individual Jews but not the nation
             of Israel
         answer: B
+        print_position: 5
+        unit: 2
       - uid: THE245.4.2.1.TY.1
         subobj: 4.2.1
         type: ty
@@ -1661,6 +1756,7 @@ courses:
           C: Daniel
           D: Isaiah.
         answer: B
+        print_position: 6
       - uid: THE245.4.2.1.TY.2
         subobj: 4.2.1
         type: ty
@@ -1671,6 +1767,7 @@ courses:
           C: individual Gentiles who accept Christ but not the Jewish people.
           D: Israel and the church sharing in the same new covenant through Christ.
         answer: D
+        print_position: 7
       - uid: THE245.4.2.2.UPE.1
         subobj: 4.2.2
         type: upe
@@ -1682,6 +1779,8 @@ courses:
           C: the Judge of those who would be saved and of those who would be condemned.
           D: the Mediator between God and humankind.
         answer: D
+        print_position: 6
+        unit: 2
       - uid: THE245.4.2.2.TY.1
         subobj: 4.2.2
         type: ty
@@ -1692,6 +1791,7 @@ courses:
           C: Davidic Covenant.
           D: Abrahamic and Davidic Covenants.
         answer: A
+        print_position: 8
       - uid: THE245.4.2.3.UPE.1
         subobj: 4.2.3
         type: upe
@@ -1702,6 +1802,8 @@ courses:
           C: an empowerment that even Christ could not provide.
           D: the gifts of the Spirit that are only appropriated in the Millennium.
         answer: B
+        print_position: 7
+        unit: 2
       - uid: THE245.4.2.3.TY.1
         subobj: 4.2.3
         type: ty
@@ -1712,6 +1814,7 @@ courses:
           C: The gift of divine healing
           D: The gift of miracles
         answer: B
+        print_position: 9
       - uid: THE245.4.2.4.UPE.1
         subobj: 4.2.4
         type: upe
@@ -1722,6 +1825,8 @@ courses:
           C: evidence that Israel’s glory days are now past.
           D: steps in the progression of God’s plan of redeeming fallen humankind.
         answer: D
+        print_position: 8
+        unit: 2
       - uid: THE245.4.2.4.TY.1
         subobj: 4.2.4
         type: ty
@@ -1735,6 +1840,7 @@ courses:
           D: The “old covenants” had to be abolished so the New Covenant could be
             in effect.
         answer: C
+        print_position: 10
       - uid: THE245.5.1.1.UPE.1
         subobj: 5.1.1
         type: upe
@@ -1746,6 +1852,8 @@ courses:
           D: apostates, backsliders, and those who have lost their first love for
             Christ.
         answer: A
+        print_position: 9
+        unit: 2
       - uid: THE245.5.1.2.UPE.1
         subobj: 5.1.2
         type: upe
@@ -1756,6 +1864,8 @@ courses:
           C: “to look forward to the revelation of Jesus Christ.”
           D: “a movement in a musical composition.”
         answer: B
+        print_position: 10
+        unit: 2
       - uid: THE245.5.1.2.TY.1
         subobj: 5.1.2
         type: ty
@@ -1766,6 +1876,7 @@ courses:
           C: “to look forward to the revelation of Jesus Christ.”
           D: “to seize or snatch away.”
         answer: D
+        print_position: 1
       - uid: THE245.5.1.3.UPE.1
         subobj: 5.1.3
         type: upe
@@ -1777,6 +1888,8 @@ courses:
           C: mid-Tribulation Rapture.
           D: pre-Tribulation Rapture.
         answer: D
+        print_position: 11
+        unit: 2
       - uid: THE245.5.1.3.TY.1
         subobj: 5.1.3
         type: ty
@@ -1787,6 +1900,7 @@ courses:
           C: mid-Tribulation Rapture.
           D: post-Tribulation Rapture.
         answer: A
+        print_position: 2
       - uid: THE245.5.1.4.UPE.1
         subobj: 5.1.4
         type: upe
@@ -1797,6 +1911,8 @@ courses:
           C: if Satan knew the date, he would persecute the church more viciously.
           D: Satan would lead more astray, knowing his time was short.
         answer: A
+        print_position: 12
+        unit: 2
       - uid: THE245.5.1.4.TY.1
         subobj: 5.1.4
         type: ty
@@ -1807,6 +1923,7 @@ courses:
           C: Jesus and Ezekiel.
           D: Jesus and Timothy.
         answer: B
+        print_position: 3
       - uid: THE245.5.2.1.UPE.1
         subobj: 5.2.1
         type: upe
@@ -1818,6 +1935,8 @@ courses:
           C: a spiritual resurrection would have been sufficient proof of deity.
           D: an open grave without a body would have proved Christ’s deity.
         answer: B
+        print_position: 13
+        unit: 2
       - uid: THE245.5.2.1.TY.1
         subobj: 5.2.1
         type: ty
@@ -1830,6 +1949,7 @@ courses:
           D: Jesus is empowered to raise both the wicked and the righteous at the
             same time.
         answer: B
+        print_position: 4
       - uid: THE245.5.2.2.UPE.1
         subobj: 5.2.2
         type: upe
@@ -1841,6 +1961,8 @@ courses:
           C: indwelling all believers and empowering Spirit-filled believers.
           D: sending angels to keep believers from committing any sin.
         answer: C
+        print_position: 14
+        unit: 2
       - uid: THE245.5.2.2.TY.1
         subobj: 5.2.2
         type: ty
@@ -1852,6 +1974,7 @@ courses:
           C: indwelling all believers and empowering Spirit-filled believers.
           D: sending angels to keep believers from committing any sin.
         answer: C
+        print_position: 5
       - uid: THE245.5.3.1.UPE.1
         subobj: 5.3.1
         type: upe
@@ -1863,6 +1986,8 @@ courses:
           C: The book of Ezekiel
           D: It is nowhere mentioned in the Old Testament.
         answer: B
+        print_position: 15
+        unit: 2
       - uid: THE245.5.3.1.TY.1
         subobj: 5.3.1
         type: ty
@@ -1873,6 +1998,7 @@ courses:
           C: the Christmas story of Jesus’ birth.
           D: Christ’s occupying the New Jerusalem.
         answer: A
+        print_position: 6
       - uid: THE245.5.3.1.TY.2
         subobj: 5.3.1
         type: ty
@@ -1884,6 +2010,7 @@ courses:
           C: Christ as the suffering Savior coming to die for sinful humans.
           D: Christ as the primary figure of end-time prophecy.
         answer: D
+        print_position: 7
       - uid: THE245.5.3.1.TY.3
         subobj: 5.3.1
         type: ty
@@ -1895,6 +2022,7 @@ courses:
           C: the Holy Spirit who defeats the Antichrist so Christ is not involved.
           D: an army of angels and raptured saints.
         answer: D
+        print_position: 8
       - uid: THE245.5.3.2.UPE.1
         subobj: 5.3.2
         type: upe
@@ -1906,6 +2034,8 @@ courses:
           C: the false prophet.
           D: the King of the Holy Roman Empire.
         answer: B
+        print_position: 16
+        unit: 2
       - uid: THE245.5.4.1.UPE.1
         subobj: 5.4.1
         type: upe
@@ -1917,6 +2047,8 @@ courses:
           C: earthly humility symbolized by wood, hay, or straw.
           D: faithful works as opposed to works of no value.
         answer: D
+        print_position: 17
+        unit: 2
       - uid: THE245.5.4.1.TY.1
         subobj: 5.4.1
         type: ty
@@ -1928,6 +2060,7 @@ courses:
           C: length of faithful service to the Kingdom of God.
           D: avoiding sinful acts and spiritual failure.
         answer: B
+        print_position: 9
       - uid: THE245.5.4.2.TY.1
         subobj: 5.4.2
         type: ty
@@ -1939,6 +2072,7 @@ courses:
           C: “Well done, good and faithful servant.”
           D: “Come and go with Me to My Father’s house.”
         answer: C
+        print_position: 10
       - uid: THE245.5.4.3.UPE.1
         subobj: 5.4.3
         type: upe
@@ -1950,6 +2084,8 @@ courses:
           C: “Well done, good and faithful servant.”
           D: “Come and go with Me to My Father’s house.”
         answer: C
+        print_position: 18
+        unit: 2
       - uid: THE245.6.1.1.UPE.1
         subobj: 6.1.1
         type: upe
@@ -1962,6 +2098,8 @@ courses:
           D: watches the heavens to see Jesus as His disciples saw Him ascend into
             heaven.
         answer: C
+        print_position: 19
+        unit: 2
       - uid: THE245.6.1.1.TY.1
         subobj: 6.1.1
         type: ty
@@ -1973,6 +2111,7 @@ courses:
           C: intuitive thinking would alert believers of the date of Christ’s return.
           D: Christ’s return is dependent on our thoughts.
         answer: A
+        print_position: 1
       - uid: THE245.6.1.1.TY.2
         subobj: 6.1.1
         type: ty
@@ -1984,6 +2123,7 @@ courses:
           C: one’s devotion to another who has saved his or her life.
           D: a marriage between a loving bridegroom and his faithful bride.
         answer: D
+        print_position: 2
       - uid: THE245.6.1.1.TY.3
         subobj: 6.1.1
         type: ty
@@ -1995,6 +2135,7 @@ courses:
           C: By purifying herself, becoming more and more like her holy Bridegroom
           D: By knowing the details of what will happen in each end-time event
         answer: C
+        print_position: 3
       - uid: THE245.6.1.2.UPE.1
         subobj: 6.1.2
         type: upe
@@ -2005,6 +2146,8 @@ courses:
           C: something no human has ever seen.
           D: the magnificent manifestation of God’s splendor.
         answer: D
+        print_position: 20
+        unit: 2
       - uid: THE245.6.1.2.TY.1
         subobj: 6.1.2
         type: ty
@@ -2015,6 +2158,7 @@ courses:
           C: We are created in God’s image; therefore, we are spiritually His equal.
           D: God is awesome only toward His enemies; His children are His equals.
         answer: B
+        print_position: 4
       - uid: THE245.6.1.2.TY.2
         subobj: 6.1.2
         type: ty
@@ -2026,6 +2170,7 @@ courses:
           C: Relief
           D: Hallelujah
         answer: A
+        print_position: 5
       - uid: THE245.6.2.1.UPE.1
         subobj: 6.2.1
         type: upe
@@ -2036,6 +2181,8 @@ courses:
           C: every day becoming more like Christ.
           D: simply becoming a missionary in a foreign country.
         answer: A
+        print_position: 21
+        unit: 2
       - uid: THE245.6.2.1.UPE.2
         subobj: 6.2.1
         type: upe
@@ -2047,6 +2194,8 @@ courses:
           C: water baptism.
           D: the spiritual gift of miracles.
         answer: B
+        print_position: 22
+        unit: 2
       - uid: THE245.6.2.1.TY.1
         subobj: 6.2.1
         type: ty
@@ -2057,6 +2206,7 @@ courses:
           C: When believers are raptured and are no longer on earth as witnesses
           D: When the Antichrist silences the witnesses by killing them
         answer: C
+        print_position: 6
       - uid: THE245.6.2.1.TY.2
         subobj: 6.2.1
         type: ty
@@ -2067,6 +2217,7 @@ courses:
           C: enlist in full-time ministry.
           D: concentrate on the complete sanctification of all Christians.
         answer: B
+        print_position: 7
       - uid: THE245.6.2.1.TY.3
         subobj: 6.2.1
         type: ty
@@ -2078,6 +2229,7 @@ courses:
           C: gift of wisdom.
           D: baptism in the Holy Spirit.
         answer: D
+        print_position: 8
       - uid: THE245.6.2.2.UPE.1
         subobj: 6.2.2
         type: upe
@@ -2089,6 +2241,8 @@ courses:
           C: God will end suffering in the future, for all of His children.
           D: the tribulation will be a temporary time of suffering.
         answer: C
+        print_position: 23
+        unit: 2
       - uid: THE245.6.2.2.UPE.2
         subobj: 6.2.2
         type: upe
@@ -2101,6 +2255,8 @@ courses:
           C: God causes Christians to suffer so they will be brought closer to Him.
           D: God is not completely omnipotent in matters of right and wrong.
         answer: B
+        print_position: 24
+        unit: 2
       - uid: THE245.6.2.2.TY.1
         subobj: 6.2.2
         type: ty
@@ -2112,6 +2268,7 @@ courses:
           C: all suffering is temporary..
           D: the tribulation will be a temporary time of suffering.
         answer: A
+        print_position: 9
       - uid: THE245.6.2.3.UPE.1
         subobj: 6.2.3
         type: upe
@@ -2123,6 +2280,8 @@ courses:
           C: spending time daily reading about what heaven will be like.
           D: receiving rewards at the judgment seat of Christ.
         answer: D
+        print_position: 25
+        unit: 2
       - uid: THE245.6.2.3.TY.1
         subobj: 6.2.3
         type: ty
@@ -2134,6 +2293,7 @@ courses:
           C: working tirelessly on earth for social and political reforms.
           D: spending time daily reading about what heaven will be like.
         answer: B
+        print_position: 10
       - uid: THE245.7.1.1.UPE.1
         subobj: 7.1.1
         type: upe
@@ -2145,6 +2305,8 @@ courses:
           D: the Millennium, since with the Lord a day is like a thousand years (2
             Peter 3:8).
         answer: B
+        print_position: 1
+        unit: 3
       - uid: THE245.7.1.1.TY.1
         subobj: 7.1.1
         type: ty
@@ -2155,6 +2317,7 @@ courses:
           C: is evidence of God’s failure to protect His own.
           D: has fueled the growth of the church.
         answer: D
+        print_position: 1
       - uid: THE245.7.1.2.UPE.1
         subobj: 7.1.2
         type: upe
@@ -2166,6 +2329,8 @@ courses:
           C: represent the greatest pain and suffering Satan can inflict.
           D: are only for a time, times, and half a time.
         answer: A
+        print_position: 2
+        unit: 3
       - uid: THE245.7.1.2.TY.1
         subobj: 7.1.2
         type: ty
@@ -2178,6 +2343,7 @@ courses:
           D: Satan’s wrath against believers equals God’s wrath against those who
             reject Him.
         answer: B
+        print_position: 3
       - uid: THE245.7.1.2.TY.2
         subobj: 7.1.2
         type: ty
@@ -2188,6 +2354,7 @@ courses:
           C: Christians will never go hungry because God always provides.
           D: Christians will never suffer pain because God is our Healer.
         answer: A
+        print_position: 4
       - uid: THE245.7.2.1.UPE.1
         subobj: 7.2.1
         type: upe
@@ -2199,6 +2366,8 @@ courses:
           C: Isaiah.
           D: Ezekiel.
         answer: B
+        print_position: 3
+        unit: 3
       - uid: THE245.7.2.1.TY.1
         subobj: 7.2.1
         type: ty
@@ -2210,6 +2379,7 @@ courses:
           C: Daniel.
           D: Jeremiah.
         answer: C
+        print_position: 5
       - uid: THE245.7.2.2.UPE.1
         subobj: 7.2.2
         type: upe
@@ -2221,6 +2391,8 @@ courses:
           C: the European Union.
           D: Christ.
         answer: D
+        print_position: 4
+        unit: 3
       - uid: THE245.7.2.2.TY.1
         subobj: 7.2.2
         type: ty
@@ -2231,6 +2403,7 @@ courses:
           C: Alexander the Great’s Greek Empire.
           D: the Roman Empire.
         answer: B
+        print_position: 6
       - uid: THE245.7.2.2.TY.2
         subobj: 7.2.2
         type: ty
@@ -2242,6 +2415,7 @@ courses:
           C: the European Union.
           D: Christ.
         answer: D
+        print_position: 7
       - uid: THE245.7.2.3.UPE.1
         subobj: 7.2.3
         type: upe
@@ -2253,6 +2427,8 @@ courses:
           C: the Antichrist.
           D: Alexander the Great.
         answer: C
+        print_position: 5
+        unit: 3
       - uid: THE245.7.2.3.TY.1
         subobj: 7.2.3
         type: ty
@@ -2264,6 +2440,7 @@ courses:
           C: the Antichrist.
           D: ancient world powers.
         answer: C
+        print_position: 2
       - uid: THE245.7.2.4.UPE.1
         subobj: 7.2.4
         type: upe
@@ -2274,6 +2451,8 @@ courses:
           C: the judgment seat of Christ in heaven.
           D: the Great White Throne Judgment.
         answer: A
+        print_position: 6
+        unit: 3
       - uid: THE245.7.2.4.TY.1
         subobj: 7.2.4
         type: ty
@@ -2284,6 +2463,7 @@ courses:
           C: judgment seat of Christ in heaven.
           D: Great White Throne Judgment.
         answer: A
+        print_position: 8
       - uid: THE245.7.3.1.UPE.1
         subobj: 7.3.1
         type: upe
@@ -2295,6 +2475,8 @@ courses:
           C: idealist or spiritual view.
           D: preterist view.
         answer: D
+        print_position: 7
+        unit: 3
       - uid: THE245.7.3.1.TY.1
         subobj: 7.3.1
         type: ty
@@ -2306,6 +2488,7 @@ courses:
           C: historicist view.
           D: idealist or spiritual view.
         answer: B
+        print_position: 9
       - uid: THE245.7.3.2.UPE.1
         subobj: 7.3.2
         type: upe
@@ -2317,6 +2500,8 @@ courses:
           C: idealist or spiritual view.
           D: preterist view.
         answer: A
+        print_position: 8
+        unit: 3
       - uid: THE245.7.3.3.UPE.1
         subobj: 7.3.3
         type: upe
@@ -2328,6 +2513,8 @@ courses:
             the end.
           D: will not go through any of the seven Tribulation years.
         answer: D
+        print_position: 9
+        unit: 3
       - uid: THE245.7.3.3.TY.1
         subobj: 7.3.3
         type: ty
@@ -2339,6 +2526,7 @@ courses:
           D: will go through all seven years except for a short time of God’s wrath
             at the end.
         answer: C
+        print_position: 10
       - uid: THE245.8.1.1.UPE.1
         subobj: 8.1.1
         type: upe
@@ -2349,6 +2537,8 @@ courses:
           C: the Antichrist, the devil, and the flesh.
           D: Satan, the false witness, and the world.
         answer: A
+        print_position: 10
+        unit: 3
       - uid: THE245.8.1.1.TY.1
         subobj: 8.1.1
         type: ty
@@ -2359,6 +2549,7 @@ courses:
           C: deceive the world with signs and wonders.
           D: dethrone the Holy Trinity.
         answer: D
+        print_position: 1
       - uid: THE245.8.1.1.TY.2
         subobj: 8.1.1
         type: ty
@@ -2370,6 +2561,7 @@ courses:
           C: accuser of our brothers.
           D: adversary.
         answer: A
+        print_position: 2
       - uid: THE245.8.1.2.UPE.1
         subobj: 8.1.2
         type: upe
@@ -2380,6 +2572,8 @@ courses:
           C: the entire Tribulation period.
           D: the last year before Christ’s return at the end of the Tribulation.
         answer: B
+        print_position: 11
+        unit: 3
       - uid: THE245.8.1.2.TY.1
         subobj: 8.1.2
         type: ty
@@ -2393,6 +2587,7 @@ courses:
           D: are identified in Scripture as Elijah and Enoch, two saints who never
             died.
         answer: B
+        print_position: 3
       - uid: THE245.8.1.3.UPE.1
         subobj: 8.1.3
         type: upe
@@ -2404,6 +2599,8 @@ courses:
           C: souls who come to Christ through the witness of the twelve disciples.
           D: servants of God from the twelve tribes of Israel.
         answer: D
+        print_position: 12
+        unit: 3
       - uid: THE245.8.1.3.TY.1
         subobj: 8.1.3
         type: ty
@@ -2415,6 +2612,7 @@ courses:
           D: souls redeemed out of the Tribulation to guard the twelve gates of New
             Jerusalem.
         answer: B
+        print_position: 4
       - uid: THE245.8.1.4.UPE.1
         subobj: 8.1.4
         type: upe
@@ -2425,6 +2623,8 @@ courses:
           C: carry messages between the members of the Trinity.
           D: play trumpets, but never sing because of the many languages in heaven.
         answer: B
+        print_position: 13
+        unit: 3
       - uid: THE245.8.1.4.TY.1
         subobj: 8.1.4
         type: ty
@@ -2436,6 +2636,7 @@ courses:
           C: Michael.
           D: Apollyon.
         answer: C
+        print_position: 5
       - uid: THE245.8.2.1.TY.1
         subobj: 8.2.1
         type: ty
@@ -2446,6 +2647,7 @@ courses:
           C: Satan’s pawn during the Tribulation.
           D: one who exalts and glorifies himself above every god.
         answer: A
+        print_position: 6
       - uid: THE245.8.2.2.UPE.1
         subobj: 8.2.2
         type: upe
@@ -2456,6 +2658,8 @@ courses:
           C: promising to forgive sins.
           D: claiming to have defeated God.
         answer: A
+        print_position: 14
+        unit: 3
       - uid: THE245.8.2.3.UPE.1
         subobj: 8.2.3
         type: upe
@@ -2467,6 +2671,8 @@ courses:
           C: use the highways for travel from place to place.
           D: keep work animals and pets.
         answer: B
+        print_position: 15
+        unit: 3
       - uid: THE245.8.3.1.UPE.1
         subobj: 8.3.1
         type: upe
@@ -2478,6 +2684,8 @@ courses:
           C: Spying on God’s defenses in preparation for a final battle with Christ
           D: Accusing the believers of wrong doing before God
         answer: D
+        print_position: 16
+        unit: 3
       - uid: THE245.8.3.1.TY.1
         subobj: 8.3.1
         type: ty
@@ -2489,6 +2697,7 @@ courses:
           C: the resurrection body replaces the natural body at the Rapture.
           D: the church has replaced Israel in the blessings promised to Israel.
         answer: D
+        print_position: 7
       - uid: THE245.8.3.1.TY.2
         subobj: 8.3.1
         type: ty
@@ -2500,6 +2709,7 @@ courses:
           C: Spying on God’s defenses in preparation for a final battle with Christ
           D: Accusing the believers of wrongdoing before God
         answer: D
+        print_position: 8
       - uid: THE245.8.3.1.TY.3
         subobj: 8.3.1
         type: ty
@@ -2512,6 +2722,7 @@ courses:
           D: There is no historical significance to the vision John sees in Revelation
             12.
         answer: B
+        print_position: 9
       - uid: THE245.8.3.3.UPE.1
         subobj: 8.3.3
         type: upe
@@ -2525,6 +2736,8 @@ courses:
             the church.
           D: God loves Israel without any conditions or requirements.
         answer: B
+        print_position: 17
+        unit: 3
       - uid: THE245.8.3.3.TY.1
         subobj: 8.3.3
         type: ty
@@ -2538,6 +2751,7 @@ courses:
           D: God has a different standard of salvation for Israel than He has for
             the church.
         answer: C
+        print_position: 10
       - uid: THE245.9.1.1.UPE.1
         subobj: 9.1.1
         type: upe
@@ -2548,6 +2762,8 @@ courses:
           C: the mighty angel.
           D: all the above.
         answer: A
+        print_position: 18
+        unit: 3
       - uid: THE245.9.1.1.TY.1
         subobj: 9.1.1
         type: ty
@@ -2560,6 +2776,7 @@ courses:
           C: Christ alone can break the seals.
           D: John, the inspired author of Revelation, is able.
         answer: C
+        print_position: 2
       - uid: THE245.9.1.1.TY.2
         subobj: 9.1.1
         type: ty
@@ -2573,6 +2790,7 @@ courses:
           D: in the first half, Christ is still trying to win the hearts of the Antichrist’s
             followers.
         answer: B
+        print_position: 3
       - uid: THE245.9.1.1.TY.3
         subobj: 9.1.1
         type: ty
@@ -2583,6 +2801,7 @@ courses:
           C: The first four seal judgments have no mention of color in them.
           D: They are the only true judgments in the seven seal “judgments.”
         answer: A
+        print_position: 4
       - uid: THE245.9.1.1.TY.4
         subobj: 9.1.1
         type: ty
@@ -2593,6 +2812,7 @@ courses:
           C: strange silence in heaven.
           D: 144,000 from the twelve tribes of Israel accepting Christ as their Messiah.
         answer: A
+        print_position: 5
       - uid: THE245.9.1.1.TY.5
         subobj: 9.1.1
         type: ty
@@ -2605,6 +2825,7 @@ courses:
           D: Worship and singing are not appropriate when judgment is being poured
             out.
         answer: C
+        print_position: 6
       - uid: THE245.9.1.2.TY.1
         subobj: 9.1.2
         type: ty
@@ -2616,6 +2837,7 @@ courses:
           C: angels breaking the seven seals and opening the scroll.
           D: blood-washed martyrs who have been redeemed.
         answer: D
+        print_position: 1
       - uid: THE245.9.2.1.UPE.1
         subobj: 9.2.1
         type: upe
@@ -2626,6 +2848,8 @@ courses:
           C: trying to remove the mark of the beast from their hands and foreheads.
           D: profaning God.
         answer: D
+        print_position: 19
+        unit: 3
       - uid: THE245.9.2.1.TY.1
         subobj: 9.2.1
         type: ty
@@ -2636,6 +2860,7 @@ courses:
           C: Satan is cast out of heaven.
           D: Saints around the throne in heaven rejoice that judgment is meted out.
         answer: B
+        print_position: 7
       - uid: THE245.9.2.1.TY.2
         subobj: 9.2.1
         type: ty
@@ -2646,6 +2871,7 @@ courses:
           C: trying to remove the mark of the beast from their hands and foreheads.
           D: profaning God.
         answer: D
+        print_position: 8
       - uid: THE245.9.3.1.TY.1
         subobj: 9.3.1
         type: ty
@@ -2656,6 +2882,7 @@ courses:
           C: His drinking water turns into blood.
           D: The sun’s heat becomes so intense that he cannot leave his throne.
         answer: B
+        print_position: 9
       - uid: THE245.9.3.1.TY.2
         subobj: 9.3.1
         type: ty
@@ -2667,6 +2894,7 @@ courses:
           C: They gnaw their tongues in agony.
           D: They curse the day they were born.
         answer: C
+        print_position: 10
       - uid: THE245.9.3.2.UPE.1
         subobj: 9.3.2
         type: upe
@@ -2678,6 +2906,8 @@ courses:
           D: though similar to some of the earlier judgments, are increasingly more
             severe.
         answer: D
+        print_position: 20
+        unit: 3
       - uid: THE245.10.1.1.UPE.1
         subobj: 10.1.1
         type: upe
@@ -2688,6 +2918,8 @@ courses:
           C: over most of present-day Israel and Palestine.
           D: just east of Jerusalem.
         answer: C
+        print_position: 21
+        unit: 3
       - uid: THE245.10.1.1.TY.1
         subobj: 10.1.1
         type: ty
@@ -2698,6 +2930,7 @@ courses:
           C: between Nazareth and the Mediterranean Sea.
           D: throughout Europe, Africa, and Asia.
         answer: A
+        print_position: 2
       - uid: THE245.10.1.1.TY.2
         subobj: 10.1.1
         type: ty
@@ -2712,6 +2945,7 @@ courses:
           D: Satan alters land forms making it convenient for nations to gather for
             battle.
         answer: B
+        print_position: 3
       - uid: THE245.10.1.1.TY.3
         subobj: 10.1.1
         type: ty
@@ -2723,6 +2957,7 @@ courses:
           C: Satan
           D: Fallen angels
         answer: B
+        print_position: 4
       - uid: THE245.10.1.2.UPE.1
         subobj: 10.1.2
         type: upe
@@ -2733,6 +2968,8 @@ courses:
           C: “As a magnet draws metal, the nations will be drawn to Palestine.”
           D: “I will gather all nations . . . to the Valley of Jehoshaphat.”
         answer: D
+        print_position: 22
+        unit: 3
       - uid: THE245.10.1.2.TY.1
         subobj: 10.1.2
         type: ty
@@ -2744,6 +2981,7 @@ courses:
           C: fight and defeat God and destroy Jerusalem.
           D: control the world’s economy.
         answer: C
+        print_position: 1
       - uid: THE245.10.1.3.TY.1
         subobj: 10.1.3
         type: ty
@@ -2754,6 +2992,7 @@ courses:
           C: destroy Jerusalem and God’s chosen people Israel.
           D: show that all the prophecies about his defeat are myths.
         answer: C
+        print_position: 5
       - uid: THE245.10.1.3.TY.2
         subobj: 10.1.3
         type: ty
@@ -2766,6 +3005,7 @@ courses:
           C: Israel will always have enemies who seek its destruction.
           D: The battle of Gog and Magog is another name for Armageddon.
         answer: A
+        print_position: 6
       - uid: THE245.10.2.1.UPE.1
         subobj: 10.2.1
         type: upe
@@ -2778,6 +3018,8 @@ courses:
             and angels.
           D: a nuclear annihilation of the armies from around the world.
         answer: A
+        print_position: 23
+        unit: 3
       - uid: THE245.10.2.1.TY.1
         subobj: 10.2.1
         type: ty
@@ -2791,6 +3033,7 @@ courses:
           C: Michael, sent by God to destroy all evil opposition.
           D: a sharp sword from the mouth of Christ to strike down the gathered nations.
         answer: D
+        print_position: 7
       - uid: THE245.10.2.2.UPE.1
         subobj: 10.2.2
         type: upe
@@ -2801,6 +3044,8 @@ courses:
           C: the Abyss or Tartarus.
           D: Sheol or the pit.
         answer: B
+        print_position: 24
+        unit: 3
       - uid: THE245.10.2.2.TY.1
         subobj: 10.2.2
         type: ty
@@ -2811,6 +3056,7 @@ courses:
           C: He recognizes that he has lost and pleads for clemency.
           D: He is bound and thrown into the Abyss for a thousand years.
         answer: D
+        print_position: 8
       - uid: THE245.10.2.2.TY.2
         subobj: 10.2.2
         type: ty
@@ -2821,6 +3067,7 @@ courses:
           C: the Abyss or Tartarus.
           D: Sheol or the pit.
         answer: B
+        print_position: 9
       - uid: THE245.10.2.3.UPE.1
         subobj: 10.2.3
         type: upe
@@ -2833,6 +3080,8 @@ courses:
           D: the martyred saints who did not bow down to the Antichrist or take his
             mark.
         answer: D
+        print_position: 25
+        unit: 3
       - uid: THE245.10.2.3.TY.1
         subobj: 10.2.3
         type: ty
@@ -2845,6 +3094,7 @@ courses:
           C: the resurrection of the martyred saints who did not bow down to the Antichrist.
           D: nominal Christians who hide from the Antichrist throughout the Tribulation.
         answer: C
+        print_position: 10
       - uid: THE245.11.1.1.UPE.1
         subobj: 11.1.1
         type: upe
@@ -2858,6 +3108,8 @@ courses:
           D: Christ will come back to earth after the Tribulation to begin a thousand-year
             reign.
         answer: B
+        print_position: 1
+        unit: 4
       - uid: THE245.11.1.1.TY.1
         subobj: 11.1.1
         type: ty
@@ -2869,6 +3121,7 @@ courses:
           C: dispensationalism.
           D: amillennialism.
         answer: D
+        print_position: 1
       - uid: THE245.11.1.1.TY.2
         subobj: 11.1.1
         type: ty
@@ -2880,6 +3133,7 @@ courses:
           C: when Christ died on the cross.
           D: when Christ came to earth as a baby.
         answer: C
+        print_position: 5
       - uid: THE245.11.1.2.UPE.1
         subobj: 11.1.2
         type: upe
@@ -2893,6 +3147,8 @@ courses:
           C: all Israel will be saved and accept Christ as the Messiah.
           D: Bible references to Israel in the end-time should be interpreted literally.
         answer: A
+        print_position: 2
+        unit: 4
       - uid: THE245.11.2.1.UPE.1
         subobj: 11.2.1
         type: upe
@@ -2905,6 +3161,8 @@ courses:
             will return.
           D: Bible history is divided into seven distinct time periods.
         answer: C
+        print_position: 3
+        unit: 4
       - uid: THE245.11.2.1.TY.1
         subobj: 11.2.1
         type: ty
@@ -2916,6 +3174,7 @@ courses:
           C: amillennialism and dispensationalism.
           D: postmillennialism and dispensationalism.
         answer: A
+        print_position: 4
       - uid: THE245.11.2.2.UPE.1
         subobj: 11.2.2
         type: upe
@@ -2927,6 +3186,8 @@ courses:
           C: postmillennialism.
           D: premillennialism.
         answer: C
+        print_position: 4
+        unit: 4
       - uid: THE245.11.2.2.TY.1
         subobj: 11.2.2
         type: ty
@@ -2938,6 +3199,7 @@ courses:
           C: postmillennialism.
           D: amillennialism.
         answer: C
+        print_position: 2
       - uid: THE245.11.2.2.TY.2
         subobj: 11.2.2
         type: ty
@@ -2950,6 +3212,7 @@ courses:
           C: scientific advances that could have improved the world failed to materialize.
           D: the founders of the theory were no longer around to defend the position.
         answer: B
+        print_position: 6
       - uid: THE245.11.2.2.TY.3
         subobj: 11.2.2
         type: ty
@@ -2960,6 +3223,7 @@ courses:
           C: premillennialism.
           D: postmillennialism.
         answer: D
+        print_position: 7
       - uid: THE245.11.3.1.UPE.1
         subobj: 11.3.1
         type: upe
@@ -2971,6 +3235,8 @@ courses:
           C: Norman Vincent Peale and his followers.
           D: modernistic Protestant churches.
         answer: A
+        print_position: 5
+        unit: 4
       - uid: THE245.11.3.1.TY.1
         subobj: 11.3.1
         type: ty
@@ -2982,6 +3248,7 @@ courses:
           C: Norman Vincent Peale and his followers.
           D: modernistic Protestant churches.
         answer: A
+        print_position: 8
       - uid: THE245.11.3.2.UPE.1
         subobj: 11.3.2
         type: upe
@@ -2992,6 +3259,8 @@ courses:
           C: the Millennium or Kingdom dispensation.
           D: the dispensation of promise.
         answer: C
+        print_position: 6
+        unit: 4
       - uid: THE245.11.3.2.TY.1
         subobj: 11.3.2
         type: ty
@@ -3003,6 +3272,7 @@ courses:
           C: postmillennialism.
           D: amillennialism.
         answer: B
+        print_position: 3
       - uid: THE245.11.3.3.UPE.1
         subobj: 11.3.3
         type: upe
@@ -3013,6 +3283,8 @@ courses:
           C: postmillennialism.
           D: Kingdom Now or Dominion Theology.
         answer: A
+        print_position: 7
+        unit: 4
       - uid: THE245.11.3.3.TY.1
         subobj: 11.3.3
         type: ty
@@ -3023,6 +3295,7 @@ courses:
           C: postmillennialism.
           D: mainline Protestant groups.
         answer: B
+        print_position: 9
       - uid: THE245.11.4.1.UPE.1
         subobj: 11.4.1
         type: upe
@@ -3033,6 +3306,8 @@ courses:
           C: The church replacing Israel as the beneficiary of God’s promised blessings
           D: The Rapture can happen at any time.
         answer: C
+        print_position: 8
+        unit: 4
       - uid: THE245.11.4.1.TY.1
         subobj: 11.4.1
         type: ty
@@ -3043,6 +3318,7 @@ courses:
           C: The church replacing Israel as the beneficiary of God’s promised blessings
           D: The Rapture happening at any moment
         answer: C
+        print_position: 10
       - uid: THE245.11.4.2.UPE.1
         subobj: 11.4.2
         type: upe
@@ -3055,6 +3331,8 @@ courses:
           D: Satan is still very active, going around as a roaring lion seeking whom
             he may devour.
         answer: D
+        print_position: 9
+        unit: 4
       - uid: THE245.12.1.1.UPE.1
         subobj: 12.1.1
         type: upe
@@ -3066,6 +3344,8 @@ courses:
           C: throughout the eternal ages.
           D: until the trumpet sounds at the Rapture.
         answer: C
+        print_position: 10
+        unit: 4
       - uid: THE245.12.1.1.TY.1
         subobj: 12.1.1
         type: ty
@@ -3077,6 +3357,7 @@ courses:
           C: a loving Master and His faithful servants.
           D: the Bridegroom and His bride.
         answer: D
+        print_position: 1
       - uid: THE245.12.1.2.TY.1
         subobj: 12.1.2
         type: ty
@@ -3089,6 +3370,7 @@ courses:
             one who sins.
           D: As a reluctant Advocate, He must still help believers who sin.
         answer: A
+        print_position: 2
       - uid: THE245.12.1.2.TY.2
         subobj: 12.1.2
         type: ty
@@ -3100,6 +3382,7 @@ courses:
           C: Jeremiah.
           D: Joel.
         answer: B
+        print_position: 3
       - uid: THE245.12.1.3.UPE.1
         subobj: 12.1.3
         type: upe
@@ -3110,6 +3393,8 @@ courses:
           C: Ezekiel.
           D: Samuel.
         answer: A
+        print_position: 11
+        unit: 4
       - uid: THE245.12.1.3.UPE.2
         subobj: 12.1.3
         type: upe
@@ -3120,6 +3405,8 @@ courses:
           C: Christ.
           D: Israel.
         answer: C
+        print_position: 12
+        unit: 4
       - uid: THE245.12.1.3.TY.1
         subobj: 12.1.3
         type: ty
@@ -3133,6 +3420,7 @@ courses:
             kingdom.
           D: Israel’s pride about its special place in God’s kingdom will be erased.
         answer: B
+        print_position: 4
       - uid: THE245.12.2.1.UPE.1
         subobj: 12.2.1
         type: upe
@@ -3143,6 +3431,8 @@ courses:
           C: an unchallenged supremacy in all of human life.
           D: a universal rule that destroys all opposition.
         answer: A
+        print_position: 13
+        unit: 4
       - uid: THE245.12.2.1.TY.1
         subobj: 12.2.1
         type: ty
@@ -3154,6 +3444,7 @@ courses:
           C: God will destroy evil and reign supreme on earth as He now does in heaven.
           D: Satan might be converted and become part of the kingdom of God.
         answer: C
+        print_position: 5
       - uid: THE245.12.2.1.TY.2
         subobj: 12.2.1
         type: ty
@@ -3164,6 +3455,7 @@ courses:
           C: a dictatorship that allows no one to express personal opinions.
           D: a theocracy marked by righteousness and justice under a benevolent Christ.
         answer: D
+        print_position: 6
       - uid: THE245.12.2.1.TY.3
         subobj: 12.2.1
         type: ty
@@ -3174,6 +3466,7 @@ courses:
           C: the titles that a person held
           D: the type of church to which a person has belonged
         answer: A
+        print_position: 7
       - uid: THE245.12.2.2.UPE.1
         subobj: 12.2.2
         type: upe
@@ -3184,6 +3477,8 @@ courses:
           C: a dictatorship.
           D: a theocracy.
         answer: D
+        print_position: 14
+        unit: 4
       - uid: THE245.12.2.2.UPE.2
         subobj: 12.2.2
         type: upe
@@ -3194,6 +3489,8 @@ courses:
           C: the disciples, with Paul replacing Judas.
           D: those who were last in their service on earth (the last shall be first).
         answer: A
+        print_position: 15
+        unit: 4
       - uid: THE245.12.2.2.TY.1
         subobj: 12.2.2
         type: ty
@@ -3206,6 +3503,7 @@ courses:
           C: The last will be first, and the first last.
           D: Those who overcome will sit with Christ on His throne.
         answer: D
+        print_position: 8
       - uid: THE245.12.3.1.UPE.1
         subobj: 12.3.1
         type: upe
@@ -3216,6 +3514,8 @@ courses:
           C: that the new Jerusalem will descend to earth.
           D: that all temptations to sin will end.
         answer: B
+        print_position: 16
+        unit: 4
       - uid: THE245.12.3.1.UPE.2
         subobj: 12.3.1
         type: upe
@@ -3227,6 +3527,8 @@ courses:
           C: Feast of Passover.
           D: Feast of Tabernacles.
         answer: D
+        print_position: 17
+        unit: 4
       - uid: THE245.12.3.1.UPE.3
         subobj: 12.3.1
         type: upe
@@ -3238,6 +3540,8 @@ courses:
           C: only disobedience caused by neglect and forgetfulness.
           D: no disobedience whatsoever.
         answer: A
+        print_position: 18
+        unit: 4
       - uid: THE245.12.3.1.UPE.4
         subobj: 12.3.1
         type: upe
@@ -3252,6 +3556,8 @@ courses:
           D: harmless snakes that walk on four legs like the serpent that tempted
             Adam and Eve.
         answer: C
+        print_position: 19
+        unit: 4
       - uid: THE245.12.3.1.TY.1
         subobj: 12.3.1
         type: ty
@@ -3262,6 +3568,7 @@ courses:
           C: that the new Jerusalem will descend to earth.
           D: that all temptations to sin will end.
         answer: B
+        print_position: 9
       - uid: THE245.12.3.1.TY.2
         subobj: 12.3.1
         type: ty
@@ -3272,6 +3579,7 @@ courses:
           C: Feast of Tabernacles
           D: Feast of Trumpets
         answer: C
+        print_position: 10
       - uid: THE245.13.1.1.UPE.1
         subobj: 13.1.1
         type: upe
@@ -3283,6 +3591,8 @@ courses:
           C: gradually cleansed and changed into a perfect heaven and earth.
           D: sent to the outer edge of the universe never to be inhabited again.
         answer: B
+        print_position: 20
+        unit: 4
       - uid: THE245.13.1.1.UPE.2
         subobj: 13.1.1
         type: upe
@@ -3296,6 +3606,8 @@ courses:
           C: Satan will eventually repent and change if he is treated with respect.
           D: free will demands that humans have choices.
         answer: D
+        print_position: 21
+        unit: 4
       - uid: THE245.13.1.1.UPE.3
         subobj: 13.1.1
         type: upe
@@ -3306,6 +3618,8 @@ courses:
           C: moved immediately from the Abyss into the lake of fire.
           D: powerless because his evil powers were destroyed at Calvary.
         answer: A
+        print_position: 22
+        unit: 4
       - uid: THE245.13.1.1.TY.1
         subobj: 13.1.1
         type: ty
@@ -3318,6 +3632,7 @@ courses:
           C: Greater details of New Jerusalem would be meaningless.
           D: The purpose of Scripture is to encourage holy living now.
         answer: D
+        print_position: 1
       - uid: THE245.13.1.1.TY.2
         subobj: 13.1.1
         type: ty
@@ -3330,6 +3645,7 @@ courses:
           C: They are destroyed by fire as the elements melt in the intense heat.
           D: When the heavenly bodies are darkened, the earth changes to solid ice.
         answer: C
+        print_position: 2
       - uid: THE245.13.1.1.TY.3
         subobj: 13.1.1
         type: ty
@@ -3340,6 +3656,7 @@ courses:
           C: He once again is allowed to go before God and accuse the saints.
           D: He can do nothing because his evil powers were destroyed at Calvary.
         answer: B
+        print_position: 3
       - uid: THE245.13.1.1.TY.4
         subobj: 13.1.1
         type: ty
@@ -3352,6 +3669,7 @@ courses:
             evil.
           D: God chose to limit His omnipotent power in respect to Satan.
         answer: A
+        print_position: 4
       - uid: THE245.13.1.2.UPE.1
         subobj: 13.1.2
         type: upe
@@ -3363,6 +3681,8 @@ courses:
           D: the residents of New Jerusalem will be able to worship God anywhere and
             at any time.
         answer: B
+        print_position: 23
+        unit: 4
       - uid: THE245.13.1.2.TY.1
         subobj: 13.1.2
         type: ty
@@ -3373,6 +3693,7 @@ courses:
           C: God and the Lamb are the temple.
           D: A temple is not needed if animal sacrifices do not happen.
         answer: C
+        print_position: 5
       - uid: THE245.13.1.3.TY.1
         subobj: 13.1.3
         type: ty
@@ -3384,6 +3705,7 @@ courses:
           C: will be the central city of the Millennium.
           D: is described in complete detail.
         answer: B
+        print_position: 6
       - uid: THE245.13.2.1.UPE.1
         subobj: 13.2.1
         type: upe
@@ -3395,6 +3717,8 @@ courses:
           C: when Satan is eternally bound, the humans he led astray will be saved.
           D: everyone will eventually be saved, including Satan and his fallen angels.
         answer: D
+        print_position: 24
+        unit: 4
       - uid: THE245.13.2.1.UPE.2
         subobj: 13.2.1
         type: upe
@@ -3405,6 +3729,8 @@ courses:
           C: they claim to have done good deeds when they actually have behaved selfishly.
           D: taking the mark of the beast seals their destiny.
         answer: B
+        print_position: 25
+        unit: 4
       - uid: THE245.13.2.1.TY.1
         subobj: 13.2.1
         type: ty
@@ -3416,6 +3742,7 @@ courses:
           C: when Satan is eternally bound, the humans he led astray will be saved.
           D: everyone will eventually be saved, including Satan and his fallen angels.
         answer: D
+        print_position: 7
       - uid: THE245.13.2.1.TY.2
         subobj: 13.2.1
         type: ty
@@ -3428,6 +3755,7 @@ courses:
           D: Those who have taken the mark of the beast are the only ones described
             as wicked.
         answer: A
+        print_position: 8
       - uid: THE245.13.2.2.TY.1
         subobj: 13.2.2
         type: ty
@@ -3439,6 +3767,7 @@ courses:
           C: the Holy Spirit.
           D: the entire Trinity.
         answer: B
+        print_position: 9
       - uid: THE245.13.2.2.TY.2
         subobj: 13.2.2
         type: ty
@@ -3449,6 +3778,7 @@ courses:
           C: Neither on earth nor in heaven
           D: Both on earth and in heaven
         answer: C
+        print_position: 10
       - uid: THE245.1.1.2.F.1
         subobj: 1.1.2
         type: final
@@ -3800,6 +4130,7 @@ courses:
         key_pdf: the245_2nd_c key desi jul 09.pdf
         matched: 32
         objectives_agree: 32
+      captured: reparse
     deployed_pn: 04.22.01
     body_baseline_pn: 04.22.01
     chapters:

@@ -781,7 +781,7 @@ courses:
         exam_file: BIB322_D retake exam aug16.pdf
         form: D
         key_file: bib322_1st_d key desi jun 09.pdf
-    last_modified: '2026-09-08'
+    last_modified: '2026-06-02'
     level: 3
     status: active
     title: The Poetic Books
@@ -1154,6 +1154,8 @@ courses:
           C: poetry.
           D: inspiration.
         answer: D
+        print_position: 1
+        unit: 1
       - uid: BIB322.1.1.1.UPE.2
         subobj: 1.1.1
         type: upe
@@ -1165,6 +1167,8 @@ courses:
           D: God causes its readers to have particular thoughts or feelings about
             Him.
         answer: B
+        print_position: 2
+        unit: 1
       - uid: BIB322.1.1.1.TY.1
         subobj: 1.1.1
         type: ty
@@ -1175,6 +1179,7 @@ courses:
           C: understand the Bible’s unique qualities.
           D: become knowledgeable of ancient manuscripts.
         answer: A
+        print_position: 1
       - uid: BIB322.1.1.2.UPE.1
         subobj: 1.1.2
         type: upe
@@ -1185,6 +1190,8 @@ courses:
           C: progressive revelation.
           D: Scripture interprets Scripture.
         answer: C
+        print_position: 3
+        unit: 1
       - uid: BIB322.1.1.2.TY.1
         subobj: 1.1.2
         type: ty
@@ -1195,6 +1202,7 @@ courses:
           D: believers continue to reveal more and more of their inner lives to God.
           C: scholars use advanced methods of interpretation to uncover new truths.
         answer: A
+        print_position: 2
       - uid: BIB322.1.1.3.UPE.1
         subobj: 1.1.3
         type: upe
@@ -1206,6 +1214,8 @@ courses:
           C: progressive revelation.
           D: Scripture interprets Scripture.
         answer: D
+        print_position: 4
+        unit: 1
       - uid: BIB322.1.1.3.TY.1
         subobj: 1.1.3
         type: ty
@@ -1216,6 +1226,7 @@ courses:
           C: draw as many interpretations from isolated Scriptures as possible.
           D: eliminate apparent contradictions in Scripture passages.
         answer: B
+        print_position: 3
       - uid: BIB322.1.2.1.UPE.1
         subobj: 1.2.1
         type: upe
@@ -1226,6 +1237,8 @@ courses:
           C: text composed by a person of military rank or authority.
           D: a category of literature identified by a particular style, form, or content.
         answer: D
+        print_position: 5
+        unit: 1
       - uid: BIB322.1.2.1.TY.1
         subobj: 1.2.1
         type: ty
@@ -1236,6 +1249,7 @@ courses:
           C: affects accurate interpretation of the book.
           D: can be identified in literal translations.
         answer: C
+        print_position: 4
       - uid: BIB322.1.2.2.UPE.1
         subobj: 1.2.2
         type: upe
@@ -1246,6 +1260,8 @@ courses:
           C: lines of metered phrases that rhyme.
           D: simplicity, alliteration, and syncopation.
         answer: A
+        print_position: 6
+        unit: 1
       - uid: BIB322.1.2.2.TY.1
         subobj: 1.2.2
         type: ty
@@ -1256,6 +1272,7 @@ courses:
           C: meter, rhythm, imagery, and rhyme.
           D: simplicity, alliteration, and rhythm.
         answer: A
+        print_position: 5
       - uid: BIB322.1.2.3.UPE.1
         subobj: 1.2.3
         type: upe
@@ -1266,6 +1283,8 @@ courses:
           C: that usually has a regular rhythm.
           D: in contrast to everyday speech.
         answer: B
+        print_position: 7
+        unit: 1
       - uid: BIB322.1.2.3.UPE.2
         subobj: 1.2.3
         type: upe
@@ -1276,6 +1295,8 @@ courses:
           C: is comprised of short lines.
           D: evokes strong emotion.
         answer: A
+        print_position: 8
+        unit: 1
       - uid: BIB322.1.2.3.TY.1
         subobj: 1.2.3
         type: ty
@@ -1286,6 +1307,7 @@ courses:
           C: the divergent number of poetic elements in poetry and prose.
           D: poetic elements of biblical manuscripts, such as Job and Psalms.
         answer: C
+        print_position: 6
       - uid: BIB322.1.3.1.UPE.1
         subobj: 1.3.1
         type: upe
@@ -1297,6 +1319,8 @@ courses:
           C: chiasm.
           D: meter.
         answer: B
+        print_position: 9
+        unit: 1
       - uid: BIB322.1.3.1.TY.1
         subobj: 1.3.1
         type: ty
@@ -1307,6 +1331,7 @@ courses:
           C: repetition, haiku, and chiasm.
           D: chiasm, repetition, and parallelism.
         answer: D
+        print_position: 7
       - uid: BIB322.1.3.2.UPE.1
         subobj: 1.3.2
         type: upe
@@ -1317,6 +1342,8 @@ courses:
           C: seems redundant and nonpoetic to contemporary readers.
           D: ensured accurate recording of significant historical data.
         answer: C
+        print_position: 10
+        unit: 1
       - uid: BIB322.1.3.2.TY.1
         subobj: 1.3.2
         type: ty
@@ -1327,6 +1354,7 @@ courses:
           C: seems redundant and nonpoetic to contemporary readers.
           D: ensures the accurate recording of significant historical data.
         answer: C
+        print_position: 8
       - uid: BIB322.1.3.3.UPE.1
         subobj: 1.3.3
         type: upe
@@ -1338,6 +1366,8 @@ courses:
           C: a set of letters, taken in alphabetical order, to form a word or phrase.
           D: a word or phrase created to ridicule a literary style, form, or subject.
         answer: B
+        print_position: 11
+        unit: 1
       - uid: BIB322.1.3.3.UPE.2
         subobj: 1.3.3
         type: upe
@@ -1350,6 +1380,8 @@ courses:
           D: subsequent phrases of a poetic line that complete the thought of the
             first phrase.
         answer: B
+        print_position: 12
+        unit: 1
       - uid: BIB322.1.3.3.UPE.3
         subobj: 1.3.3
         type: upe
@@ -1362,6 +1394,8 @@ courses:
           C: parallel phrases in a poetic line that form a simile.
           D: a word or clause that stands alone in the middle of a poetic line.
         answer: A
+        print_position: 13
+        unit: 1
       - uid: BIB322.1.3.4.TY.1
         subobj: 1.3.4
         type: ty
@@ -1372,6 +1406,7 @@ courses:
           C: repetition, chiasm, symbolism, and terseness.
           D: synonymous, antithetic, synthetic, and emblematic.
         answer: D
+        print_position: 9
       - uid: BIB322.1.3.4.TY.2
         subobj: 1.3.4
         type: ty
@@ -1382,6 +1417,7 @@ courses:
           C: literal translations are offensive to contemporary readers.
           D: word order and the expression of ideas are different.
         answer: D
+        print_position: 10
       - uid: BIB322.2.1.1.UPE.1
         subobj: 2.1.1
         type: upe
@@ -1392,6 +1428,8 @@ courses:
           C: they speak about living a full and happy life.
           D: they teach that God wants all believers to be wealthy.
         answer: C
+        print_position: 14
+        unit: 1
       - uid: BIB322.2.1.1.TY.1
         subobj: 2.1.1
         type: ty
@@ -1402,6 +1440,7 @@ courses:
           C: promoting life.
           D: emphasizing sacrifice.
         answer: C
+        print_position: 1
       - uid: BIB322.2.1.1.TY.2
         subobj: 2.1.1
         type: ty
@@ -1412,6 +1451,7 @@ courses:
           C: devotion to God’s laws.
           D: serious study of the Scriptures.
         answer: B
+        print_position: 2
       - uid: BIB322.2.1.2.UPE.1
         subobj: 2.1.2
         type: upe
@@ -1422,6 +1462,8 @@ courses:
           C: questions God’s justice.
           D: avoids moral issues.
         answer: A
+        print_position: 15
+        unit: 1
       - uid: BIB322.2.1.2.UPE.2
         subobj: 2.1.2
         type: upe
@@ -1432,6 +1474,8 @@ courses:
           C: how to worship God in holiness and righteousness of heart.
           D: maintaining daily worship of God, even while living in exile.
         answer: B
+        print_position: 16
+        unit: 1
       - uid: BIB322.2.1.2.UPE.3
         subobj: 2.1.2
         type: upe
@@ -1442,6 +1486,8 @@ courses:
           C: a woman who through understanding and shrewdness saved a city.
           D: a pastor’s ability to teach as well as preach the Word with passion.
         answer: C
+        print_position: 17
+        unit: 1
       - uid: BIB322.2.1.2.TY.1
         subobj: 2.1.2
         type: ty
@@ -1452,6 +1498,7 @@ courses:
           C: maintains that the universe is a chaotic, senseless place.
           D: refers to God only in the context of His distance from people.
         answer: B
+        print_position: 3
       - uid: BIB322.2.2.1.UPE.1
         subobj: 2.2.1
         type: upe
@@ -1462,6 +1509,8 @@ courses:
           C: its immediate, practical use in life.
           D: its author and the date of its writing.
         answer: A
+        print_position: 18
+        unit: 1
       - uid: BIB322.2.2.1.UPE.2
         subobj: 2.2.1
         type: upe
@@ -1472,6 +1521,8 @@ courses:
           C: longer writings that present a basic teaching.
           D: short writings on God as Creator of the world.
         answer: A
+        print_position: 19
+        unit: 1
       - uid: BIB322.2.2.1.UPE.3
         subobj: 2.2.1
         type: upe
@@ -1482,6 +1533,8 @@ courses:
           C: longer writings that present a basic teaching.
           D: short writings on God as Creator of the world.
         answer: C
+        print_position: 20
+        unit: 1
       - uid: BIB322.2.2.1.TY.1
         subobj: 2.2.1
         type: ty
@@ -1492,6 +1545,7 @@ courses:
           C: law and prophets.
           D: proverbs and contemplation.
         answer: D
+        print_position: 4
       - uid: BIB322.2.2.2.UPE.1
         subobj: 2.2.2
         type: upe
@@ -1502,6 +1556,8 @@ courses:
           C: confirms evil as the source of all poverty and illness.
           D: must take place outside of God’s guidance.
         answer: B
+        print_position: 21
+        unit: 1
       - uid: BIB322.2.2.2.TY.1
         subobj: 2.2.2
         type: ty
@@ -1512,6 +1568,7 @@ courses:
           C: wealth and poverty.
           D: faith and greed.
         answer: A
+        print_position: 5
       - uid: BIB322.2.3.1.TY.1
         subobj: 2.3.1
         type: ty
@@ -1522,6 +1579,7 @@ courses:
           C: exiling the Israelites from their home.
           D: creating the world and the universe.
         answer: D
+        print_position: 6
       - uid: BIB322.2.3.2.UPE.1
         subobj: 2.3.2
         type: upe
@@ -1532,6 +1590,8 @@ courses:
           C: David.
           D: Abraham.
         answer: B
+        print_position: 22
+        unit: 1
       - uid: BIB322.2.3.2.TY.1
         subobj: 2.3.2
         type: ty
@@ -1542,6 +1602,7 @@ courses:
           C: wise and foolish ruler.
           D: strong military leader.
         answer: C
+        print_position: 7
       - uid: BIB322.2.3.3.TY.1
         subobj: 2.3.3
         type: ty
@@ -1552,6 +1613,7 @@ courses:
           C: education.
           D: entertainment.
         answer: C
+        print_position: 8
       - uid: BIB322.2.3.4.UPE.1
         subobj: 2.3.4
         type: upe
@@ -1562,6 +1624,8 @@ courses:
           C: the Holy Spirit.
           D: the prefigurement of Christ.
         answer: B
+        print_position: 23
+        unit: 1
       - uid: BIB322.2.3.4.TY.1
         subobj: 2.3.4
         type: ty
@@ -1572,6 +1636,7 @@ courses:
           C: the promotion of life.
           D: the right to make choices.
         answer: C
+        print_position: 9
       - uid: BIB322.2.3.5.UPE.1
         subobj: 2.3.5
         type: upe
@@ -1582,6 +1647,8 @@ courses:
           C: folk wisdom sayings.
           D: the Law and the Prophets.
         answer: C
+        print_position: 24
+        unit: 1
       - uid: BIB322.2.3.5.UPE.2
         subobj: 2.3.5
         type: upe
@@ -1592,6 +1659,8 @@ courses:
           C: under the reign of Solomon.
           D: after the return from Exile.
         answer: D
+        print_position: 25
+        unit: 1
       - uid: BIB322.2.3.5.TY.1
         subobj: 2.3.5
         type: ty
@@ -1603,6 +1672,7 @@ courses:
           C: reminders of the temple.
           D: references to the law of Moses.
         answer: A
+        print_position: 10
       - uid: BIB322.3.1.1.TY.1
         subobj: 3.1.1
         type: ty
@@ -1614,6 +1684,7 @@ courses:
           C: offers an example of patience in suffering.
           D: questions our generalizations about God.
         answer: D
+        print_position: 1
       - uid: BIB322.3.1.2.UPE.1
         subobj: 3.1.2
         type: upe
@@ -1624,6 +1695,8 @@ courses:
           C: after the Exile.
           D: at an uncertain date.
         answer: D
+        print_position: 1
+        unit: 2
       - uid: BIB322.3.1.3.UPE.1
         subobj: 3.1.3
         type: upe
@@ -1634,6 +1707,8 @@ courses:
           C: asking of rhetorical questions.
           D: division of smaller collections.
         answer: A
+        print_position: 2
+        unit: 2
       - uid: BIB322.3.1.3.TY.1
         subobj: 3.1.3
         type: ty
@@ -1644,6 +1719,7 @@ courses:
           C: God’s speeches to Job.
           D: the poetic body of the book.
         answer: B
+        print_position: 2
       - uid: BIB322.3.2.1.UPE.1
         subobj: 3.2.1
         type: upe
@@ -1654,6 +1730,8 @@ courses:
           C: the accuser.
           D: ruler of the air.
         answer: C
+        print_position: 3
+        unit: 2
       - uid: BIB322.3.2.1.TY.1
         subobj: 3.2.1
         type: ty
@@ -1664,6 +1742,7 @@ courses:
           C: “Does Job fear God for nothing?”
           D: “Does God really love Job?”
         answer: C
+        print_position: 3
       - uid: BIB322.3.2.2.UPE.1
         subobj: 3.2.2
         type: upe
@@ -1674,6 +1753,8 @@ courses:
           C: compassion.
           D: righteous indignation.
         answer: B
+        print_position: 4
+        unit: 2
       - uid: BIB322.3.2.2.UPE.2
         subobj: 3.2.2
         type: upe
@@ -1684,6 +1765,8 @@ courses:
           C: his friends and God.
           D: his friends and Israel.
         answer: C
+        print_position: 5
+        unit: 2
       - uid: BIB322.3.2.2.TY.1
         subobj: 3.2.2
         type: ty
@@ -1694,6 +1777,7 @@ courses:
           C: court recorder.
           D: defense attorney.
         answer: D
+        print_position: 4
       - uid: BIB322.3.2.3.TY.1
         subobj: 3.2.3
         type: ty
@@ -1704,6 +1788,7 @@ courses:
           C: reassured Job of His presence.
           D: offered Job no direct answer.
         answer: D
+        print_position: 5
       - uid: BIB322.3.3.1.UPE.1
         subobj: 3.3.1
         type: upe
@@ -1714,6 +1799,8 @@ courses:
           C: blameless and upright, fearing God and shunning evil.
           D: responding more to the loss of his children than to physical pain.
         answer: C
+        print_position: 6
+        unit: 2
       - uid: BIB322.3.3.1.TY.1
         subobj: 3.3.1
         type: ty
@@ -1724,6 +1811,7 @@ courses:
           C: a perfect person.
           D: a blind sinner.
         answer: B
+        print_position: 6
       - uid: BIB322.3.4.1.UPE.1
         subobj: 3.4.1
         type: upe
@@ -1734,6 +1822,8 @@ courses:
           C: never demanded justice from God.
           D: had a more accurate understanding of God.
         answer: B
+        print_position: 7
+        unit: 2
       - uid: BIB322.3.4.1.TY.1
         subobj: 3.4.1
         type: ty
@@ -1744,6 +1834,7 @@ courses:
           C: theology.
           D: revelation.
         answer: A
+        print_position: 7
       - uid: BIB322.3.4.2.TY.1
         subobj: 3.4.2
         type: ty
@@ -1754,6 +1845,7 @@ courses:
           C: accuser and tempter.
           D: God’s beloved servant.
         answer: C
+        print_position: 8
       - uid: BIB322.3.4.3.UPE.1
         subobj: 3.4.3
         type: upe
@@ -1764,6 +1856,8 @@ courses:
           C: evil in God’s world.
           D: living under law rather than grace.
         answer: C
+        print_position: 8
+        unit: 2
       - uid: BIB322.3.4.3.UPE.2
         subobj: 3.4.3
         type: upe
@@ -1774,6 +1868,8 @@ courses:
           C: Satan’s fault, not God’s.
           D: representative of human suffering.
         answer: D
+        print_position: 9
+        unit: 2
       - uid: BIB322.3.5.2.TY.1
         subobj: 3.5.2
         type: ty
@@ -1784,6 +1880,7 @@ courses:
           C: wisdom and folly.
           D: blessings and curses.
         answer: A
+        print_position: 9
       - uid: BIB322.3.5.3.UPE.1
         subobj: 3.5.3
         type: upe
@@ -1795,6 +1892,8 @@ courses:
           C: Deuteronomy, Job, and Psalms.
           D: Deuteronomy, Job, and Proverbs.
         answer: D
+        print_position: 10
+        unit: 2
       - uid: BIB322.3.5.3.UPE.2
         subobj: 3.5.3
         type: upe
@@ -1805,6 +1904,8 @@ courses:
           C: people’s sins.
           D: nothing at all.
         answer: A
+        print_position: 11
+        unit: 2
       - uid: BIB322.3.5.3.TY.1
         subobj: 3.5.3
         type: ty
@@ -1815,6 +1916,7 @@ courses:
           C: people’s sins.
           D: nothing at all.
         answer: A
+        print_position: 10
       - uid: BIB322.4.1.1.UPE.1
         subobj: 4.1.1
         type: upe
@@ -1825,6 +1927,8 @@ courses:
           C: consider the psalm’s flow of thought.
           D: study the form and content.
         answer: A
+        print_position: 12
+        unit: 2
       - uid: BIB322.4.1.1.UPE.2
         subobj: 4.1.1
         type: upe
@@ -1836,6 +1940,8 @@ courses:
           C: determining the psalm’s biblical context, then structural analysis.
           D: determining the psalm’s biblical context, then poetic analysis.
         answer: A
+        print_position: 13
+        unit: 2
       - uid: BIB322.4.1.1.TY.1
         subobj: 4.1.1
         type: ty
@@ -1846,6 +1952,7 @@ courses:
           C: applying its principles.
           D: considering the context.
         answer: C
+        print_position: 1
       - uid: BIB322.4.2.1.UPE.1
         subobj: 4.2.1
         type: upe
@@ -1856,6 +1963,8 @@ courses:
           C: '73'
           D: '150'
         answer: C
+        print_position: 14
+        unit: 2
       - uid: BIB322.4.2.1.UPE.2
         subobj: 4.2.1
         type: upe
@@ -1866,6 +1975,8 @@ courses:
           C: covenantal theme.
           D: poetic devices.
         answer: B
+        print_position: 15
+        unit: 2
       - uid: BIB322.4.2.1.TY.1
         subobj: 4.2.1
         type: ty
@@ -1876,6 +1987,7 @@ courses:
           C: the authorship and historical setting of every psalm.
           D: authorship, setting, melody, and musical instruments used.
         answer: D
+        print_position: 2
       - uid: BIB322.4.2.2.TY.1
         subobj: 4.2.2
         type: ty
@@ -1886,6 +1998,7 @@ courses:
           C: it is part of a group of psalms David collected into one book.
           D: the title was verified by scribes when the psalms were collected.
         answer: A
+        print_position: 3
       - uid: BIB322.4.2.3.TY.1
         subobj: 4.2.3
         type: ty
@@ -1898,6 +2011,7 @@ courses:
           D: are not part of the original text and offer little value in grasping
             a psalm’s message.
         answer: C
+        print_position: 4
       - uid: BIB322.4.3.1.UPE.1
         subobj: 4.3.1
         type: upe
@@ -1908,6 +2022,8 @@ courses:
           C: individual psalms written and gathered into the book of Psalms.
           D: individual psalms written and gathered into intermediate collections.
         answer: D
+        print_position: 16
+        unit: 2
       - uid: BIB322.4.3.1.TY.1
         subobj: 4.3.1
         type: ty
@@ -1918,6 +2034,7 @@ courses:
           C: placed in intermediate collections, then gathered into one book.
           D: not placed in any intermediate collections before the book’s completion.
         answer: C
+        print_position: 5
       - uid: BIB322.4.3.2.UPE.1
         subobj: 4.3.2
         type: upe
@@ -1928,6 +2045,8 @@ courses:
           C: Four
           D: Five
         answer: D
+        print_position: 17
+        unit: 2
       - uid: BIB322.4.3.2.UPE.2
         subobj: 4.3.2
         type: upe
@@ -1938,6 +2057,8 @@ courses:
           C: a doxology.
           D: an instruction.
         answer: C
+        print_position: 18
+        unit: 2
       - uid: BIB322.4.3.2.TY.1
         subobj: 4.3.2
         type: ty
@@ -1948,6 +2069,7 @@ courses:
           C: fifteen books.
           D: 119 books.
         answer: A
+        print_position: 6
       - uid: BIB322.4.4.1.UPE.1
         subobj: 4.4.1
         type: upe
@@ -1958,6 +2080,8 @@ courses:
           C: buy a covenant.
           D: bend the knee.
         answer: A
+        print_position: 19
+        unit: 2
       - uid: BIB322.4.4.1.UPE.2
         subobj: 4.4.1
         type: upe
@@ -1968,6 +2092,8 @@ courses:
           C: defined as God’s plan for the redemption of humankind.
           D: legal only between parties of equal standing and power.
         answer: B
+        print_position: 20
+        unit: 2
       - uid: BIB322.4.4.1.TY.1
         subobj: 4.4.1
         type: ty
@@ -1978,6 +2104,7 @@ courses:
           C: plays a minor role in theological themes.
           D: is a cornerstone of theology in the Bible.
         answer: D
+        print_position: 7
       - uid: BIB322.4.4.2.TY.1
         subobj: 4.4.2
         type: ty
@@ -1988,6 +2115,7 @@ courses:
           C: have a personal relationship with them.
           D: help them remember Him when He was absent.
         answer: C
+        print_position: 8
       - uid: BIB322.4.4.3.TY.1
         subobj: 4.4.3
         type: ty
@@ -1998,6 +2126,7 @@ courses:
           C: the exemplary character of the psalmists.
           D: major themes found in the Poetic Books.
         answer: B
+        print_position: 9
       - uid: BIB322.4.4.4.TY.1
         subobj: 4.4.4
         type: ty
@@ -2009,6 +2138,7 @@ courses:
           C: end-time instructions.
           D: messianic prophecy.
         answer: D
+        print_position: 10
       - uid: BIB322.5.1.1.UPE.1
         subobj: 5.1.1
         type: upe
@@ -2019,6 +2149,8 @@ courses:
           C: recognition of God as Master of the universe.
           D: emphasis on the Torah as the final authority for life.
         answer: A
+        print_position: 21
+        unit: 2
       - uid: BIB322.5.1.1.UPE.2
         subobj: 5.1.1
         type: upe
@@ -2029,6 +2161,8 @@ courses:
           C: a wisdom form.
           D: a poetic device.
         answer: C
+        print_position: 22
+        unit: 2
       - uid: BIB322.5.1.1.TY.1
         subobj: 5.1.1
         type: ty
@@ -2039,6 +2173,7 @@ courses:
           C: point the way to prosperity.
           D: distinguish between good and evil.
         answer: A
+        print_position: 1
       - uid: BIB322.5.1.2.TY.1
         subobj: 5.1.2
         type: ty
@@ -2049,6 +2184,7 @@ courses:
           C: age and vocabulary.
           D: proverbs and contemplations.
         answer: B
+        print_position: 2
       - uid: BIB322.5.1.3.UPE.1
         subobj: 5.1.3
         type: upe
@@ -2059,6 +2195,8 @@ courses:
           C: hot retribution.
           D: cool retribution.
         answer: D
+        print_position: 23
+        unit: 2
       - uid: BIB322.5.1.3.TY.1
         subobj: 5.1.3
         type: ty
@@ -2069,6 +2207,7 @@ courses:
           C: Who is the true king of Israel?
           D: Does God really bless the righteous and judge the wicked?
         answer: D
+        print_position: 3
       - uid: BIB322.5.1.4.TY.1
         subobj: 5.1.4
         type: ty
@@ -2079,6 +2218,7 @@ courses:
           C: a believer’s new, righteous nature and his or her old, sinful nature.
           D: God’s blessings for the upright and judgment of the wicked.
         answer: A
+        print_position: 4
       - uid: BIB322.5.2.1.UPE.1
         subobj: 5.2.1
         type: upe
@@ -2089,6 +2229,8 @@ courses:
           C: studying and keeping Torah.
           D: attending the annual festivals.
         answer: C
+        print_position: 24
+        unit: 2
       - uid: BIB322.5.2.1.TY.1
         subobj: 5.2.1
         type: ty
@@ -2099,6 +2241,7 @@ courses:
           C: oppressing the wicked.
           D: obeying God and His laws.
         answer: D
+        print_position: 5
       - uid: BIB322.5.2.1.TY.2
         subobj: 5.2.1
         type: ty
@@ -2109,6 +2252,7 @@ courses:
           C: the wicked’s prosperity is temporary.
           D: Satan rewards his own.
         answer: C
+        print_position: 6
       - uid: BIB322.5.2.2.UPE.1
         subobj: 5.2.2
         type: upe
@@ -2119,6 +2263,8 @@ courses:
           C: deliverance from guilt and peace of mind.
           D: protection from Satan’s accusations.
         answer: B
+        print_position: 25
+        unit: 2
       - uid: BIB322.5.2.2.TY.1
         subobj: 5.2.2
         type: ty
@@ -2130,6 +2276,7 @@ courses:
           C: giving to the poor.
           D: pursuing knowledge.
         answer: B
+        print_position: 7
       - uid: BIB322.5.2.3.TY.1
         subobj: 5.2.3
         type: ty
@@ -2140,6 +2287,7 @@ courses:
           C: joyful response to God’s deliverance.
           D: heavy burden of strict obligation.
         answer: C
+        print_position: 8
       - uid: BIB322.5.2.3.TY.2
         subobj: 5.2.3
         type: ty
@@ -2150,6 +2298,7 @@ courses:
           C: reflects a practice similar to that of many Eastern religions.
           D: is surprising since only priests could read God’s Word.
         answer: B
+        print_position: 9
       - uid: BIB322.5.2.4.TY.1
         subobj: 5.2.4
         type: ty
@@ -2160,6 +2309,7 @@ courses:
           C: establish David’s kingship.
           D: illustrate the Exodus.
         answer: A
+        print_position: 10
       - uid: BIB322.6.1.1.UPE.1
         subobj: 6.1.1
         type: upe
@@ -2170,6 +2320,8 @@ courses:
           C: a godly word.
           D: one’s enduring.
         answer: A
+        print_position: 1
+        unit: 3
       - uid: BIB322.6.1.1.TY.1
         subobj: 6.1.1
         type: ty
@@ -2181,6 +2333,7 @@ courses:
           C: “call out.”
           D: “compare.”
         answer: D
+        print_position: 1
       - uid: BIB322.6.1.2.UPE.1
         subobj: 6.1.2
         type: upe
@@ -2191,6 +2344,8 @@ courses:
           C: Solomon’s writings.
           D: a mixture of styles.
         answer: B
+        print_position: 2
+        unit: 3
       - uid: BIB322.6.1.2.UPE.2
         subobj: 6.1.2
         type: upe
@@ -2201,6 +2356,8 @@ courses:
           C: seven sections.
           D: nine chapters.
         answer: C
+        print_position: 3
+        unit: 3
       - uid: BIB322.6.1.2.TY.1
         subobj: 6.1.2
         type: ty
@@ -2211,6 +2368,7 @@ courses:
           C: seven collections.
           D: nine collections.
         answer: C
+        print_position: 2
       - uid: BIB322.6.2.2.TY.1
         subobj: 6.2.2
         type: ty
@@ -2221,6 +2379,7 @@ courses:
           C: the king.
           D: the poor.
         answer: B
+        print_position: 3
       - uid: BIB322.6.2.3.TY.1
         subobj: 6.2.3
         type: ty
@@ -2231,6 +2390,7 @@ courses:
           C: spiritual law.
           D: hope.
         answer: A
+        print_position: 4
       - uid: BIB322.6.2.4.UPE.1
         subobj: 6.2.4
         type: upe
@@ -2241,6 +2401,8 @@ courses:
           C: make extensive use of chiasm and acrostic poems.
           D: tend to be more organized than his other collections.
         answer: D
+        print_position: 4
+        unit: 3
       - uid: BIB322.6.2.4.TY.1
         subobj: 6.2.4
         type: ty
@@ -2251,6 +2413,7 @@ courses:
           C: the lazy man.
           D: the poor.
         answer: B
+        print_position: 5
       - uid: BIB322.6.2.5.TY.1
         subobj: 6.2.5
         type: ty
@@ -2261,6 +2424,7 @@ courses:
           C: giving justice to the weak.
           D: keeping the covenant.
         answer: C
+        print_position: 6
       - uid: BIB322.6.3.1.TY.1
         subobj: 6.3.1
         type: ty
@@ -2271,6 +2435,7 @@ courses:
           C: good and wicked.
           D: God and neighbor.
         answer: D
+        print_position: 7
       - uid: BIB322.6.3.2.UPE.1
         subobj: 6.3.2
         type: upe
@@ -2281,6 +2446,8 @@ courses:
           C: marketplace, temple, and home of the wise.
           D: court of the wise and the place of the foolish.
         answer: B
+        print_position: 5
+        unit: 3
       - uid: BIB322.6.3.2.UPE.2
         subobj: 6.3.2
         type: upe
@@ -2291,6 +2458,8 @@ courses:
           C: they were the major breadwinners in that culture.
           D: women were primarily responsible for educating children.
         answer: A
+        print_position: 6
+        unit: 3
       - uid: BIB322.6.3.2.TY.1
         subobj: 6.3.2
         type: ty
@@ -2301,6 +2470,7 @@ courses:
           C: act as legal guide.
           D: establish a foundation for later prophecy.
         answer: A
+        print_position: 8
       - uid: BIB322.6.4.1.UPE.1
         subobj: 6.4.1
         type: upe
@@ -2311,6 +2481,8 @@ courses:
           C: Kings.
           D: Esther.
         answer: B
+        print_position: 7
+        unit: 3
       - uid: BIB322.6.4.3.UPE.1
         subobj: 6.4.3
         type: upe
@@ -2321,6 +2493,8 @@ courses:
           C: rebellion.
           D: dishonesty.
         answer: C
+        print_position: 8
+        unit: 3
       - uid: BIB322.6.4.3.UPE.2
         subobj: 6.4.3
         type: upe
@@ -2331,6 +2505,8 @@ courses:
           C: greater acceptance in the community.
           D: minimal consequences in enlightened societies.
         answer: B
+        print_position: 9
+        unit: 3
       - uid: BIB322.6.4.3.TY.1
         subobj: 6.4.3
         type: ty
@@ -2341,6 +2517,7 @@ courses:
           C: infidelity.
           D: gossip.
         answer: C
+        print_position: 9
       - uid: BIB322.6.4.4.UPE.1
         subobj: 6.4.4
         type: upe
@@ -2351,6 +2528,8 @@ courses:
           C: hint of sophistication.
           D: fact that it is free.
         answer: A
+        print_position: 10
+        unit: 3
       - uid: BIB322.6.4.4.TY.1
         subobj: 6.4.4
         type: ty
@@ -2361,6 +2540,7 @@ courses:
           C: the architect designing creation.
           D: a representation of the Holy Spirit.
         answer: A
+        print_position: 10
       - uid: BIB322.7.1.1.TY.1
         subobj: 7.1.1
         type: ty
@@ -2371,6 +2551,7 @@ courses:
           C: explain the mystery of God.
           D: share life-securing knowledge with all people.
         answer: B
+        print_position: 1
       - uid: BIB322.7.1.2.TY.1
         subobj: 7.1.2
         type: ty
@@ -2381,6 +2562,7 @@ courses:
           C: not known for certain.
           D: King Solomon.
         answer: C
+        print_position: 2
       - uid: BIB322.7.1.3.UPE.1
         subobj: 7.1.3
         type: upe
@@ -2391,6 +2573,8 @@ courses:
           C: the king to the common person.
           D: faithlessness to faith.
         answer: B
+        print_position: 11
+        unit: 3
       - uid: BIB322.7.1.3.TY.1
         subobj: 7.1.3
         type: ty
@@ -2401,6 +2585,7 @@ courses:
           C: recognition that all are made equal by death.
           D: assertion that all is meaningless.
         answer: A
+        print_position: 3
       - uid: BIB322.7.1.4.UPE.1
         subobj: 7.1.4
         type: upe
@@ -2411,6 +2596,8 @@ courses:
           C: the pursuit of wisdom is meaningful and satisfying.
           D: we often cannot see God’s plan or understand His purposes.
         answer: D
+        print_position: 12
+        unit: 3
       - uid: BIB322.7.2.1.TY.1
         subobj: 7.2.1
         type: ty
@@ -2421,6 +2608,7 @@ courses:
           C: advocates both godliness and sensual pleasure.
           D: argues both for and against conventional wisdom.
         answer: D
+        print_position: 4
       - uid: BIB322.7.2.2.UPE.1
         subobj: 7.2.2
         type: upe
@@ -2431,6 +2619,8 @@ courses:
           C: evangelistic interpretation.
           D: an example of human reasoning.
         answer: A
+        print_position: 13
+        unit: 3
       - uid: BIB322.7.2.2.TY.1
         subobj: 7.2.2
         type: ty
@@ -2441,6 +2631,7 @@ courses:
           C: emphasizes the meaningless of life without God.
           D: calls sinners to humble repentance.
         answer: C
+        print_position: 5
       - uid: BIB322.7.3.1.UPE.1
         subobj: 7.3.1
         type: upe
@@ -2451,6 +2642,8 @@ courses:
           C: God is in control of all that happens.
           D: human wisdom leads to a happy life.
         answer: C
+        print_position: 14
+        unit: 3
       - uid: BIB322.7.3.1.TY.1
         subobj: 7.3.1
         type: ty
@@ -2461,6 +2654,7 @@ courses:
           C: God is always just.
           D: God is not just.
         answer: A
+        print_position: 6
       - uid: BIB322.7.3.2.UPE.1
         subobj: 7.3.2
         type: upe
@@ -2471,6 +2665,8 @@ courses:
           C: time of joy.
           D: puff of air.
         answer: D
+        print_position: 15
+        unit: 3
       - uid: BIB322.7.3.2.TY.1
         subobj: 7.3.2
         type: ty
@@ -2481,6 +2677,7 @@ courses:
           C: “wisdom” or “righteousness.”
           D: “gathering” or “assembly.”
         answer: B
+        print_position: 7
       - uid: BIB322.7.3.3.UPE.1
         subobj: 7.3.3
         type: upe
@@ -2491,6 +2688,8 @@ courses:
           C: the intertestamental period.
           D: the law of Moses was given.
         answer: C
+        print_position: 16
+        unit: 3
       - uid: BIB322.7.3.3.TY.1
         subobj: 7.3.3
         type: ty
@@ -2501,6 +2700,7 @@ courses:
           C: presents only partial understanding.
           D: provides no teaching.
         answer: C
+        print_position: 8
       - uid: BIB322.7.4.1.UPE.1
         subobj: 7.4.1
         type: upe
@@ -2511,6 +2711,8 @@ courses:
           C: his wisdom enabled a much more advanced degree of revelation.
           D: he addresses issues that are more relevant to the marketplace.
         answer: A
+        print_position: 17
+        unit: 3
       - uid: BIB322.7.4.1.TY.1
         subobj: 7.4.1
         type: ty
@@ -2522,6 +2724,7 @@ courses:
           C: his wisdom enabled a much more advanced degree of revelation.
           D: he addresses issues that are more relevant to the marketplace.
         answer: A
+        print_position: 9
       - uid: BIB322.7.4.3.UPE.1
         subobj: 7.4.3
         type: upe
@@ -2532,6 +2735,8 @@ courses:
           C: Wisdom
           D: Meaningless
         answer: D
+        print_position: 18
+        unit: 3
       - uid: BIB322.7.4.3.TY.1
         subobj: 7.4.3
         type: ty
@@ -2542,6 +2747,7 @@ courses:
           C: all of humanity suffers and eventually finds life empty.
           D: God works in suffering to bring good to His people.
         answer: D
+        print_position: 10
       - uid: BIB322.7.4.4.UPE.1
         subobj: 7.4.4
         type: upe
@@ -2552,6 +2758,8 @@ courses:
           C: enjoy the good things God has given.
           D: abandon traditional religion.
         answer: C
+        print_position: 19
+        unit: 3
       - uid: BIB322.8.1.1.UPE.1
         subobj: 8.1.1
         type: upe
@@ -2562,6 +2770,8 @@ courses:
           C: it contains many historical inaccuracies.
           D: it is heavily influenced by Greek philosophical thought.
         answer: B
+        print_position: 20
+        unit: 3
       - uid: BIB322.8.1.2.TY.1
         subobj: 8.1.2
         type: ty
@@ -2572,6 +2782,7 @@ courses:
           C: Protestant Reformers.
           D: the Latin translation of the Bible.
         answer: B
+        print_position: 1
       - uid: BIB322.8.1.2.TY.2
         subobj: 8.1.2
         type: ty
@@ -2582,6 +2793,7 @@ courses:
           C: author of the book.
           D: inspiration for the book.
         answer: C
+        print_position: 2
       - uid: BIB322.8.1.3.TY.1
         subobj: 8.1.3
         type: ty
@@ -2592,6 +2804,7 @@ courses:
           C: dramatic.
           D: poetic.
         answer: A
+        print_position: 3
       - uid: BIB322.8.1.3.TY.2
         subobj: 8.1.3
         type: ty
@@ -2602,6 +2815,7 @@ courses:
           C: uses vivid language.
           D: need not follow a story line.
         answer: D
+        print_position: 4
       - uid: BIB322.8.1.4.UPE.1
         subobj: 8.1.4
         type: upe
@@ -2612,6 +2826,8 @@ courses:
           C: denies Solomon’s authorship.
           D: is not obvious to the casual reader.
         answer: A
+        print_position: 21
+        unit: 3
       - uid: BIB322.8.1.4.TY.1
         subobj: 8.1.4
         type: ty
@@ -2622,6 +2838,7 @@ courses:
           C: two-character view.
           D: single poem view.
         answer: B
+        print_position: 5
       - uid: BIB322.8.2.1.TY.1
         subobj: 8.2.1
         type: ty
@@ -2632,6 +2849,7 @@ courses:
           C: marriage is spiritual because two people become one flesh.
           D: two solutions exist for every problem we experience.
         answer: A
+        print_position: 6
       - uid: BIB322.8.2.1.TY.2
         subobj: 8.2.1
         type: ty
@@ -2642,6 +2860,7 @@ courses:
           C: Greek philosophy.
           D: Hebrew philosophy.
         answer: C
+        print_position: 7
       - uid: BIB322.8.2.2.UPE.1
         subobj: 8.2.2
         type: upe
@@ -2652,6 +2871,8 @@ courses:
           C: has dominion over the man.
           D: must be subservient to the man.
         answer: A
+        print_position: 22
+        unit: 3
       - uid: BIB322.8.2.2.UPE.2
         subobj: 8.2.2
         type: upe
@@ -2662,6 +2883,8 @@ courses:
           C: marriage is not specifically talked about.
           D: the central character is a woman.
         answer: D
+        print_position: 23
+        unit: 3
       - uid: BIB322.8.2.2.TY.1
         subobj: 8.2.2
         type: ty
@@ -2672,6 +2895,7 @@ courses:
           C: more likely to refuse to satisfy their spouses.
           D: ordained by Scripture to remain pure.
         answer: B
+        print_position: 8
       - uid: BIB322.8.2.3.UPE.1
         subobj: 8.2.3
         type: upe
@@ -2682,6 +2906,8 @@ courses:
           C: the effects of sin are cancelled.
           D: death is conquered.
         answer: A
+        print_position: 24
+        unit: 3
       - uid: BIB322.8.2.3.UPE.2
         subobj: 8.2.3
         type: upe
@@ -2692,6 +2918,8 @@ courses:
           C: the creation of humankind.
           D: the Garden of Eden.
         answer: B
+        print_position: 25
+        unit: 3
       - uid: BIB322.8.2.3.TY.1
         subobj: 8.2.3
         type: ty
@@ -2702,6 +2930,7 @@ courses:
           C: a serpent.
           D: an apple tree.
         answer: A
+        print_position: 9
       - uid: BIB322.8.2.4.TY.1
         subobj: 8.2.4
         type: ty
@@ -2712,6 +2941,7 @@ courses:
           C: advocates separating sex from the love relationship.
           D: affirms that sex is God’s good creation.
         answer: D
+        print_position: 10
       - uid: BIB322.1.1.1.F.1
         subobj: 1.1.1
         type: final
@@ -3162,6 +3392,7 @@ courses:
         key_pdf: bib322_1st_c key desi jun 09.pdf
         matched: 44
         objectives_agree: 44
+      captured: reparse
     deployed_pn: 02.22.01
     body_baseline_pn: 02.22.01
     chapters:
@@ -12193,7 +12424,7 @@ courses:
                 belief. He expressed this by saying, “My ears had heard of you but
                 now my eyes have seen you.”
               UID: BIB322.3.2.3.IQ.5
-            last_modified: '2026-09-08'
+            last_modified: '2026-03-27'
             scripture:
             - intext: Psalm 13:1
               version: NIV
@@ -15444,7 +15675,7 @@ courses:
                 the Hebrew literary category of psalms, such as a song that was accompanied
                 by musical instruments, a prayer, or a praise.
               UID: BIB322.4.2.3.IQ.3
-            last_modified: '2026-09-08'
+            last_modified: '2026-03-27'
             scripture:
             - intext: Psalm 90
               version: NIV
@@ -30069,7 +30300,7 @@ courses:
                 maintains that although we cannot see beyond death, God’s creation
                 is still full of good things to enjoy.
               UID: BIB322.7.2.2.IQ.3
-            last_modified: '2026-09-08'
+            last_modified: '2026-03-27'
             scripture:
             - intext: Ecclesiastes 9:7
               version: NIV
@@ -31172,7 +31403,7 @@ courses:
               response: When Jesus came, He brought with Him the promise of both resurrection
                 and eternal life, either in or out of God’s presence.
               UID: BIB322.7.3.3.IQ.3
-            last_modified: '2026-09-08'
+            last_modified: '2026-03-27'
             scripture:
             - intext: Proverbs 31:30
               version: NIV

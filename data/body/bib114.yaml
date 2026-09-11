@@ -422,6 +422,8 @@ courses:
           C: seen with or seen together.
           D: brief and concise.
         answer: C
+        print_position: 1
+        unit: 1
       - uid: BIB114.1.1.1.TY.1
         subobj: 1.1.1
         type: ty
@@ -433,6 +435,7 @@ courses:
           C: targeted their material especially for cross-cultural audiences.
           D: agreed that each would present just one aspect of the gospel.
         answer: A
+        print_position: 1
       - uid: BIB114.1.2.1.UPE.1
         subobj: 1.2.1
         type: upe
@@ -444,6 +447,8 @@ courses:
           D: was considered the most trustworthy account of Christ’s life by first-century
             believers because of Mark’s character.
         answer: B
+        print_position: 2
+        unit: 1
       - uid: BIB114.1.2.1.TY.1
         subobj: 1.2.1
         type: ty
@@ -455,6 +460,7 @@ courses:
           D: gave an oral account of the Gospel before any other “life of Christ”
             was circulated.
         answer: C
+        print_position: 2
       - uid: BIB114.1.2.1.TY.2
         subobj: 1.2.1
         type: ty
@@ -466,6 +472,7 @@ courses:
           C: the two relied more on a common oral tradition.
           D: Mark purposely limited his account because of his target audience.
         answer: B
+        print_position: 3
       - uid: BIB114.1.2.1.TY.3
         subobj: 1.2.1
         type: ty
@@ -476,6 +483,7 @@ courses:
           C: the recognized source for all the Synoptic Gospels.
           D: material based on oral tradition.
         answer: A
+        print_position: 4
       - uid: BIB114.1.2.2.UPE.1
         subobj: 1.2.2
         type: upe
@@ -487,6 +495,8 @@ courses:
           C: the Holy Spirit.
           D: the church, the custodian of divine truth.
         answer: C
+        print_position: 3
+        unit: 1
       - uid: BIB114.1.2.2.TY.1
         subobj: 1.2.2
         type: ty
@@ -501,6 +511,7 @@ courses:
             cultural bias.
           D: all of the above are true.
         answer: B
+        print_position: 5
       - uid: BIB114.1.3.1.UPE.1
         subobj: 1.3.1
         type: upe
@@ -514,6 +525,8 @@ courses:
           D: Church councils declared that John Mark was the author of the second
             Gospel.
         answer: A
+        print_position: 4
+        unit: 1
       - uid: BIB114.1.3.1.TY.1
         subobj: 1.3.1
         type: ty
@@ -526,6 +539,7 @@ courses:
           D: More information exists in the Bible about Mark than of the writers of
             the other Synoptic Gospels.
         answer: D
+        print_position: 6
       - uid: BIB114.1.3.1.TY.2
         subobj: 1.3.1
         type: ty
@@ -540,6 +554,7 @@ courses:
           D: Mark was a young teenager during Jesus’ ministry and often was one of
             His followers or disciples.
         answer: B
+        print_position: 7
       - uid: BIB114.1.4.1.UPE.1
         subobj: 1.4.1
         type: upe
@@ -554,6 +569,8 @@ courses:
             about Christ.
           D: Church councils declared that Mark was the author of the second Gospel.
         answer: C
+        print_position: 5
+        unit: 1
       - uid: BIB114.1.4.1.UPE.2
         subobj: 1.4.1
         type: upe
@@ -565,6 +582,8 @@ courses:
           C: AD 58–65.
           D: AD 80–90.
         answer: C
+        print_position: 6
+        unit: 1
       - uid: BIB114.1.4.1.TY.1
         subobj: 1.4.1
         type: ty
@@ -576,6 +595,7 @@ courses:
           C: oral tradition of the church.
           D: evidence presented in the Gospel of Matthew.
         answer: A
+        print_position: 8
       - uid: BIB114.1.4.1.TY.2
         subobj: 1.4.1
         type: ty
@@ -587,6 +607,7 @@ courses:
           C: John’s impending death.
           D: Peter’s impending death.
         answer: D
+        print_position: 9
       - uid: BIB114.1.4.2.UPE.1
         subobj: 1.4.2
         type: upe
@@ -600,6 +621,8 @@ courses:
           D: compiling a permanent record since the eyewitnesses to Jesus’ words and
             deeds would soon be gone.
         answer: C
+        print_position: 7
+        unit: 1
       - uid: BIB114.1.4.2.TY.1
         subobj: 1.4.2
         type: ty
@@ -611,6 +634,7 @@ courses:
           C: stress Christ’s deity as revealed in His works of power.
           D: compare and contrast the Christian gospel with the Law.
         answer: C
+        print_position: 10
       - uid: BIB114.2.1.1.UPE.1
         subobj: 2.1.1
         type: upe
@@ -622,6 +646,8 @@ courses:
           C: was Jesus’ uncle on Joseph’s side.
           D: and Levi were one and the same person.
         answer: D
+        print_position: 8
+        unit: 1
       - uid: BIB114.2.1.1.TY.1
         subobj: 2.1.1
         type: ty
@@ -635,6 +661,7 @@ courses:
           D: Matthew was a brother of Joseph, the legal father of Jesus, and thus
             Jesus’ uncle.
         answer: B
+        print_position: 1
       - uid: BIB114.2.1.2.UPE.1
         subobj: 2.1.2
         type: upe
@@ -648,6 +675,8 @@ courses:
           D: evidence from other apostolic writers who mention Matthew’s contribution
             to Scripture.
         answer: A
+        print_position: 9
+        unit: 1
       - uid: BIB114.2.1.2.TY.1
         subobj: 2.1.2
         type: ty
@@ -663,6 +692,7 @@ courses:
           D: Our Gospel of Matthew is a major revision completed about AD 400 by Jerome
             from an earlier Gospel that Matthew wrote in Hebrew.
         answer: C
+        print_position: 2
       - uid: BIB114.2.1.2.TY.2
         subobj: 2.1.2
         type: ty
@@ -673,6 +703,7 @@ courses:
           C: between AD 65 and AD 80.
           D: between AD 60 and AD 69.
         answer: D
+        print_position: 3
       - uid: BIB114.2.1.2.TY.3
         subobj: 2.1.2
         type: ty
@@ -686,6 +717,7 @@ courses:
           D: evidence given by other apostolic writers who mention Matthew’s contribution
             to the canon of Scripture.
         answer: A
+        print_position: 4
       - uid: BIB114.2.1.3.UPE.1
         subobj: 2.1.3
         type: upe
@@ -696,6 +728,8 @@ courses:
           C: was originally written in Latin for a Roman audience.
           D: has the fewest quotations from the Old Testament of any of the Gospels.
         answer: B
+        print_position: 10
+        unit: 1
       - uid: BIB114.2.1.3.UPE.2
         subobj: 2.1.3
         type: upe
@@ -709,6 +743,8 @@ courses:
           D: prove to a Jewish audience that Jesus fulfilled the Old Testament messianic
             promises and is truly their long-awaited Messiah.
         answer: D
+        print_position: 11
+        unit: 1
       - uid: BIB114.2.1.3.TY.1
         subobj: 2.1.3
         type: ty
@@ -723,6 +759,7 @@ courses:
           D: to prove to a Jewish audience that Jesus fulfilled the Old Testament
             messianic promises and that Jesus is truly their long-awaited Messiah.
         answer: D
+        print_position: 5
       - uid: BIB114.2.2.2.UPE.1
         subobj: 2.2.2
         type: upe
@@ -736,6 +773,8 @@ courses:
           D: The dating of Luke’s Gospel is tied directly to the persecution of Christians
             under Nero.
         answer: A
+        print_position: 12
+        unit: 1
       - uid: BIB114.2.2.2.UPE.2
         subobj: 2.2.2
         type: upe
@@ -747,6 +786,8 @@ courses:
             to his authorship.
           D: Luke was present at Christ’s birth.
         answer: C
+        print_position: 13
+        unit: 1
       - uid: BIB114.2.2.2.TY.1
         subobj: 2.2.2
         type: ty
@@ -758,6 +799,7 @@ courses:
             point to Luke as author.
           D: As a doctor, Luke delivered Jesus when He was born.
         answer: C
+        print_position: 6
       - uid: BIB114.2.2.2.TY.2
         subobj: 2.2.2
         type: ty
@@ -769,6 +811,7 @@ courses:
             for Paul’s trial in Rome.
           D: two books were originally one work that was divided by later editors.
         answer: B
+        print_position: 7
       - uid: BIB114.2.2.2.TY.3
         subobj: 2.2.2
         type: ty
@@ -785,6 +828,7 @@ courses:
             which is one reason we conclude that Luke wrote his Gospel between AD
             60–69.
         answer: D
+        print_position: 8
       - uid: BIB114.2.2.3.UPE.1
         subobj: 2.2.3
         type: upe
@@ -797,6 +841,8 @@ courses:
           D: Gentiles, particularly Greeks, and presented Christ as a man more completely
             than any other Gospel.
         answer: D
+        print_position: 14
+        unit: 1
       - uid: BIB114.2.2.3.UPE.2
         subobj: 2.2.3
         type: upe
@@ -811,6 +857,8 @@ courses:
             for Paul’s trial in Rome.
           D: emphasizes action and power as he appeals to the Roman military mind.
         answer: A
+        print_position: 15
+        unit: 1
       - uid: BIB114.2.2.3.TY.1
         subobj: 2.2.3
         type: ty
@@ -822,6 +870,7 @@ courses:
             Empire so that Luke’s Gospel could be a defense document for Paul’s trial.
           D: Luke emphasized the priority of the gospel for the Jews.
         answer: A
+        print_position: 9
       - uid: BIB114.2.2.3.TY.2
         subobj: 2.2.3
         type: ty
@@ -836,6 +885,7 @@ courses:
           D: focuses on a Gentile perspective in general but includes a specific emphasis
             for a Roman audience.
         answer: A
+        print_position: 10
       - uid: BIB114.3.1.1.UPE.1
         subobj: 3.1.1
         type: upe
@@ -847,6 +897,8 @@ courses:
           C: bring judgment on His wayward people.
           D: help bring an end to the divided kingdom.
         answer: C
+        print_position: 16
+        unit: 1
       - uid: BIB114.3.1.1.UPE.2
         subobj: 3.1.1
         type: upe
@@ -861,6 +913,8 @@ courses:
           D: a split group from the Philistines who migrated inland from the coastal
             cities.
         answer: A
+        print_position: 17
+        unit: 1
       - uid: BIB114.3.1.1.TY.1
         subobj: 3.1.1
         type: ty
@@ -875,6 +929,7 @@ courses:
             heritage from those whom the Assyrians had resettled in Samaria.'
           D: all of the above.
         answer: C
+        print_position: 1
       - uid: BIB114.3.1.1.TY.2
         subobj: 3.1.1
         type: ty
@@ -887,6 +942,7 @@ courses:
           C: Grecian Empire.
           D: Persian Empire.
         answer: B
+        print_position: 2
       - uid: BIB114.3.1.2.UPE.1
         subobj: 3.1.2
         type: upe
@@ -897,6 +953,8 @@ courses:
           C: decline of the Law among the Jewish people.
           D: attempt of imperial rulers to destroy the Jewish religion.
         answer: B
+        print_position: 18
+        unit: 1
       - uid: BIB114.3.1.2.TY.1
         subobj: 3.1.2
         type: ty
@@ -908,6 +966,7 @@ courses:
             the Persian invasion.
           D: relocated to cities throughout the Persian Empire.
         answer: A
+        print_position: 3
       - uid: BIB114.3.1.2.TY.2
         subobj: 3.1.2
         type: ty
@@ -918,6 +977,7 @@ courses:
           C: decline of the Law among the Jewish people.
           D: attempt of imperial rulers to destroy the Jewish religion.
         answer: B
+        print_position: 4
       - uid: BIB114.3.2.1.UPE.1
         subobj: 3.2.1
         type: upe
@@ -929,6 +989,8 @@ courses:
           C: promoted the universal study of the Greek language.
           D: required all conquered peoples to accept Greek values.
         answer: B
+        print_position: 19
+        unit: 1
       - uid: BIB114.3.2.1.TY.1
         subobj: 3.2.1
         type: ty
@@ -939,6 +1001,7 @@ courses:
           C: wanted their subjects to be destroyed.
           D: disliked the Hebrew culture.
         answer: A
+        print_position: 5
       - uid: BIB114.3.2.2.TY.1
         subobj: 3.2.2
         type: ty
@@ -951,6 +1014,7 @@ courses:
           D: the initiation of the Abrahamic covenant and the initiation of the new
             covenant.
         answer: B
+        print_position: 6
       - uid: BIB114.3.3.1.TY.1
         subobj: 3.3.1
         type: ty
@@ -964,6 +1028,7 @@ courses:
           D: a scheming Idumean who through intrigue won the control of Palestine
             and became the father of Herod the Great.
         answer: D
+        print_position: 7
       - uid: BIB114.3.3.1.TY.2
         subobj: 3.3.1
         type: ty
@@ -978,6 +1043,7 @@ courses:
           D: Jews never regarded the Herods as true Jews and made no attempt to hide
             their feelings of hatred toward these descendants of the Edomites.
         answer: D
+        print_position: 8
       - uid: BIB114.3.3.2.TY.1
         subobj: 3.3.2
         type: ty
@@ -989,6 +1055,7 @@ courses:
           C: Idumea.
           D: Iturea, Gaulanitus, Trachonitis, Batanea, and Auranitis.
         answer: B
+        print_position: 9
       - uid: BIB114.3.4.1.UPE.1
         subobj: 3.4.1
         type: upe
@@ -999,6 +1066,8 @@ courses:
           C: legalistic and religious.
           D: friendly and warmhearted
         answer: D
+        print_position: 20
+        unit: 1
       - uid: BIB114.3.4.1.TY.1
         subobj: 3.4.1
         type: ty
@@ -1010,6 +1079,7 @@ courses:
           C: they believed they were more “pure Jewish” than the Galileans.
           D: they valued other cultures.
         answer: C
+        print_position: 10
       - uid: BIB114.4.1.1.TY.1
         subobj: 4.1.1
         type: ty
@@ -1021,6 +1091,7 @@ courses:
           C: temple focused on reading and studying the Law.
           D: synagogue focused on reading and studying the Law.
         answer: D
+        print_position: 1
       - uid: BIB114.4.1.2.UPE.1
         subobj: 4.1.2
         type: upe
@@ -1035,6 +1106,8 @@ courses:
           D: Pharisees in general came from the upper, professional class of Jewish
             society.
         answer: A
+        print_position: 21
+        unit: 1
       - uid: BIB114.4.1.2.TY.1
         subobj: 4.1.2
         type: ty
@@ -1048,6 +1121,7 @@ courses:
           D: advocacy of compromise with Hellenism and, later, Roman authorities to
             achieve political goals.
         answer: A
+        print_position: 2
       - uid: BIB114.4.1.2.TY.2
         subobj: 4.1.2
         type: ty
@@ -1062,6 +1136,7 @@ courses:
             God’s law.
           D: a little-known “Teacher of Righteousness.”
         answer: B
+        print_position: 3
       - uid: BIB114.4.1.2.TY.3
         subobj: 4.1.2
         type: ty
@@ -1073,6 +1148,7 @@ courses:
           C: it tended to contradict the teachings of the Law.
           D: Pharisees had not bothered to record and organize it.
         answer: A
+        print_position: 4
       - uid: BIB114.4.1.3.TY.1
         subobj: 4.1.3
         type: ty
@@ -1083,6 +1159,7 @@ courses:
           C: did not believe in angels or resurrection.
           D: lived by the strict ceremonial requirements of the Law.
         answer: D
+        print_position: 5
       - uid: BIB114.4.1.4.UPE.1
         subobj: 4.1.4
         type: upe
@@ -1093,6 +1170,8 @@ courses:
           C: men of rather modest means.
           D: men of wealth, privilege, and power.
         answer: D
+        print_position: 22
+        unit: 1
       - uid: BIB114.4.1.4.TY.1
         subobj: 4.1.4
         type: ty
@@ -1105,6 +1184,7 @@ courses:
             conditions and their privileged position.
           D: emphasized strict adherence to the Law and oral tradition.
         answer: C
+        print_position: 6
       - uid: BIB114.4.2.1.UPE.1
         subobj: 4.2.1
         type: upe
@@ -1118,6 +1198,8 @@ courses:
             war.
           D: were also called Levites, and all were members of the high priest’s family.
         answer: A
+        print_position: 23
+        unit: 1
       - uid: BIB114.4.2.1.TY.1
         subobj: 4.2.1
         type: ty
@@ -1130,6 +1212,7 @@ courses:
           D: the Essenes were committed to military action against Rome to win political
             independence.
         answer: C
+        print_position: 7
       - uid: BIB114.4.2.2.UPE.1
         subobj: 4.2.2
         type: upe
@@ -1144,6 +1227,8 @@ courses:
           D: were skilled in finances and promoted international banking in the Roman
             Empire.
         answer: B
+        print_position: 24
+        unit: 1
       - uid: BIB114.4.2.2.TY.1
         subobj: 4.2.2
         type: ty
@@ -1155,6 +1240,7 @@ courses:
             requirements of the Law.
           D: began as a paramilitary group and later added religious purposes.
         answer: A
+        print_position: 8
       - uid: BIB114.4.2.3.TY.1
         subobj: 4.2.3
         type: ty
@@ -1167,6 +1253,7 @@ courses:
           D: The scribes were employed by Rome to assist tax collectors in recording
             transactions.
         answer: C
+        print_position: 9
       - uid: BIB114.4.3.1.UPE.1
         subobj: 4.3.1
         type: upe
@@ -1179,6 +1266,8 @@ courses:
           D: highest governing council and the local judicial councils of the Jewish
             people.
         answer: D
+        print_position: 25
+        unit: 1
       - uid: BIB114.4.3.1.TY.1
         subobj: 4.3.1
         type: ty
@@ -1193,6 +1282,7 @@ courses:
           D: “a body of men from antagonistic religious groups meeting as a supreme
             court that was never able to reach agreement.”
         answer: B
+        print_position: 10
       - uid: BIB114.5.1.1.UPE.1
         subobj: 5.1.1
         type: upe
@@ -1204,6 +1294,8 @@ courses:
           C: Luke
           D: John
         answer: C
+        print_position: 1
+        unit: 2
       - uid: BIB114.5.1.1.TY.1
         subobj: 5.1.1
         type: ty
@@ -1218,6 +1310,7 @@ courses:
             coming.
           D: Zechariah was Joseph’s uncle.
         answer: C
+        print_position: 1
       - uid: BIB114.5.1.1.TY.2
         subobj: 5.1.1
         type: ty
@@ -1229,6 +1322,7 @@ courses:
           D: through a decree of Caesar Augustus, Joseph and Mary went to Bethlehem
             where Jesus was born.
         answer: D
+        print_position: 2
       - uid: BIB114.5.1.2.UPE.1
         subobj: 5.1.2
         type: upe
@@ -1239,6 +1333,8 @@ courses:
           C: Luke
           D: John
         answer: C
+        print_position: 2
+        unit: 2
       - uid: BIB114.5.1.2.TY.1
         subobj: 5.1.2
         type: ty
@@ -1252,6 +1348,7 @@ courses:
             list.
           D: Luke used levitical sources that did not always agree.
         answer: A
+        print_position: 3
       - uid: BIB114.5.2.1.UPE.1
         subobj: 5.2.1
         type: upe
@@ -1262,6 +1359,8 @@ courses:
           C: obey the instructions of the angel Gabriel.
           D: help fulfill the prophecy of Nahum.
         answer: B
+        print_position: 3
+        unit: 2
       - uid: BIB114.5.2.1.UPE.2
         subobj: 5.2.1
         type: upe
@@ -1272,6 +1371,8 @@ courses:
           C: prophesied concerning Christ’s destiny.
           D: performed Jesus’ circumcision.
         answer: C
+        print_position: 4
+        unit: 2
       - uid: BIB114.5.2.1.TY.1
         subobj: 5.2.1
         type: ty
@@ -1283,6 +1384,7 @@ courses:
           C: take him to the temple in Jerusalem and offer a sacrifice.
           D: do all of the above.
         answer: C
+        print_position: 4
       - uid: BIB114.5.2.2.UPE.1
         subobj: 5.2.2
         type: upe
@@ -1294,6 +1396,8 @@ courses:
           C: showed He was aware of His unique relationship to God.
           D: showed He had reached the age of self-sufficiency.
         answer: C
+        print_position: 5
+        unit: 2
       - uid: BIB114.5.2.2.TY.1
         subobj: 5.2.2
         type: ty
@@ -1307,6 +1411,7 @@ courses:
           D: in dreams, God told the Magi not to return to Herod and told Joseph to
             flee to Egypt.
         answer: D
+        print_position: 5
       - uid: BIB114.5.2.2.TY.2
         subobj: 5.2.2
         type: ty
@@ -1318,6 +1423,7 @@ courses:
           C: demonstrated His complete acceptance of ritual Judaism.
           D: broke out of His boyhood ties to the province of Galilee.
         answer: B
+        print_position: 6
       - uid: BIB114.5.2.2.TY.3
         subobj: 5.2.2
         type: ty
@@ -1329,6 +1435,7 @@ courses:
           C: temptation in the wilderness.
           D: visit to the Jerusalem temple at twelve years old.
         answer: D
+        print_position: 7
       - uid: BIB114.5.3.1.UPE.1
         subobj: 5.3.1
         type: upe
@@ -1340,6 +1447,8 @@ courses:
           C: released a dove to symbolize the Holy Spirit as he baptized Christ.
           D: criticized the Essenes for their hypocrisy.
         answer: B
+        print_position: 6
+        unit: 2
       - uid: BIB114.5.3.1.TY.1
         subobj: 5.3.1
         type: ty
@@ -1351,6 +1460,7 @@ courses:
           C: set a dove on Christ’s shoulder to symbolize the Holy Spirit.
           D: prophesied the Jews’ deliverance from the Roman Empire.
         answer: B
+        print_position: 8
       - uid: BIB114.5.3.2.UPE.1
         subobj: 5.3.2
         type: upe
@@ -1362,6 +1472,8 @@ courses:
           C: publicly endorse the ministry of John the Baptist.
           D: establish a model for those who would renounce Judaism and follow Him.
         answer: B
+        print_position: 7
+        unit: 2
       - uid: BIB114.5.3.2.TY.1
         subobj: 5.3.2
         type: ty
@@ -1373,6 +1485,7 @@ courses:
           D: it identified Him with sinful humanity and pointed to His death, burial,
             and resurrection.
         answer: D
+        print_position: 9
       - uid: BIB114.5.3.3.UPE.1
         subobj: 5.3.3
         type: upe
@@ -1383,6 +1496,8 @@ courses:
           C: overcame the attacks of the devil because of His baptism.
           D: was tempted in every way just as we are, yet was without sin.
         answer: D
+        print_position: 8
+        unit: 2
       - uid: BIB114.5.3.3.TY.1
         subobj: 5.3.3
         type: ty
@@ -1393,6 +1508,7 @@ courses:
           C: broke Satan’s power and presence for all time through it.
           D: overcame the attacks of the devil because of His baptism.
         answer: B
+        print_position: 10
       - uid: BIB114.6.1.1.UPE.1
         subobj: 6.1.1
         type: upe
@@ -1404,6 +1520,8 @@ courses:
           C: the beginning of John’s ministry in the fifteenth year of Tiberius Caesar.
           D: His dedication at the temple.
         answer: C
+        print_position: 9
+        unit: 2
       - uid: BIB114.6.1.1.UPE.2
         subobj: 6.1.1
         type: upe
@@ -1415,6 +1533,8 @@ courses:
           C: about twenty-seven years of age.
           D: just past His thirty-third birthday.
         answer: B
+        print_position: 10
+        unit: 2
       - uid: BIB114.6.1.1.TY.1
         subobj: 6.1.1
         type: ty
@@ -1426,6 +1546,7 @@ courses:
           C: the beginning of John’s ministry in the fifteenth year of Tiberius Caesar.
           D: acceptance that Jerusalem was destroyed in AD 70.
         answer: C
+        print_position: 1
       - uid: BIB114.6.1.1.TY.2
         subobj: 6.1.1
         type: ty
@@ -1437,6 +1558,7 @@ courses:
           C: about twenty-seven years of age.
           D: just past His thirty-third birthday.
         answer: A
+        print_position: 2
       - uid: BIB114.6.1.2.UPE.1
         subobj: 6.1.2
         type: upe
@@ -1447,6 +1569,8 @@ courses:
           C: Judea exclusively, ministering primarily in the countryside.
           D: Judea except for one short trip to Galilee.
         answer: D
+        print_position: 11
+        unit: 2
       - uid: BIB114.6.1.2.TY.1
         subobj: 6.1.2
         type: ty
@@ -1457,6 +1581,7 @@ courses:
           C: Herod imprisoned John the Baptist.
           D: Jesus miraculously fed the four thousand.
         answer: C
+        print_position: 3
       - uid: BIB114.6.2.1.UPE.1
         subobj: 6.2.1
         type: upe
@@ -1467,6 +1592,8 @@ courses:
           C: visited Decapolis and delivered the demonized man.
           D: appointed the twelve as apostles to be with Him.
         answer: D
+        print_position: 12
+        unit: 2
       - uid: BIB114.6.2.1.TY.1
         subobj: 6.2.1
         type: ty
@@ -1477,6 +1604,7 @@ courses:
           C: visited Decapolis and delivered the demonized man.
           D: appointed the twelve as apostles to be with Him.
         answer: D
+        print_position: 4
       - uid: BIB114.6.2.1.TY.2
         subobj: 6.2.1
         type: ty
@@ -1487,6 +1615,7 @@ courses:
           C: ministered fairly widely through the province of Galilee.
           D: confined His activities to Nazareth, Cana, and Capernaum.
         answer: C
+        print_position: 5
       - uid: BIB114.6.2.1.TY.3
         subobj: 6.2.1
         type: ty
@@ -1498,6 +1627,7 @@ courses:
           C: describes Christ’s ministry in Tyre and Sidon.
           D: records Christ’s walking on water and feeding the four thousand.
         answer: B
+        print_position: 6
       - uid: BIB114.6.3.1.UPE.1
         subobj: 6.3.1
         type: upe
@@ -1510,6 +1640,8 @@ courses:
           C: delivering the Gerasene demoniac and performing public ministry in Decapolis.
           D: acknowledging Peter’s confession and people’s criticism.
         answer: B
+        print_position: 13
+        unit: 2
       - uid: BIB114.6.3.1.UPE.2
         subobj: 6.3.1
         type: upe
@@ -1520,6 +1652,8 @@ courses:
           C: delivers the Sermon on the Mount.
           D: makes His triumphal entry into Jerusalem.
         answer: A
+        print_position: 14
+        unit: 2
       - uid: BIB114.6.3.1.TY.1
         subobj: 6.3.1
         type: ty
@@ -1533,6 +1667,7 @@ courses:
           D: Jesus rebuked His mother when she asked Him to get wine for the wedding
             at Cana.
         answer: A
+        print_position: 7
       - uid: BIB114.6.3.2.UPE.1
         subobj: 6.3.2
         type: upe
@@ -1543,6 +1678,8 @@ courses:
           C: Feast of First Fruits.
           D: Feast of Trumpets.
         answer: B
+        print_position: 15
+        unit: 2
       - uid: BIB114.6.3.2.TY.1
         subobj: 6.3.2
         type: ty
@@ -1553,6 +1690,7 @@ courses:
           C: included the cursing of the fig tree.
           D: included the calling of the Twelve.
         answer: B
+        print_position: 8
       - uid: BIB114.6.3.3.TY.1
         subobj: 6.3.3
         type: ty
@@ -1563,6 +1701,7 @@ courses:
           C: included the fewest number of recorded miracles.
           D: remained hidden and private.
         answer: B
+        print_position: 9
       - uid: BIB114.6.3.3.TY.2
         subobj: 6.3.3
         type: ty
@@ -1573,6 +1712,7 @@ courses:
           C: remained steady throughout each period.
           D: was defended by His disciples.
         answer: B
+        print_position: 10
       - uid: BIB114.7.1.1.TY.1
         subobj: 7.1.1
         type: ty
@@ -1584,6 +1724,7 @@ courses:
           C: the impact of Jesus’ Judean / Perean ministry.
           D: details of Jesus’ teaching content in Perea.
         answer: B
+        print_position: 1
       - uid: BIB114.7.1.1.TY.2
         subobj: 7.1.1
         type: ty
@@ -1596,6 +1737,7 @@ courses:
           C: relying on Luke’s extensive chronology.
           D: considering John’s references to the feasts in this period.
         answer: D
+        print_position: 2
       - uid: BIB114.7.1.1.TY.3
         subobj: 7.1.1
         type: ty
@@ -1607,6 +1749,7 @@ courses:
           C: raising of Lazarus from the dead.
           D: healing of the crippled woman on the Sabbath.
         answer: D
+        print_position: 3
       - uid: BIB114.7.2.1.UPE.1
         subobj: 7.2.1
         type: upe
@@ -1618,6 +1761,8 @@ courses:
           C: a time of great revelation and fulfilled prophecy.
           D: zeal and great emotion.
         answer: A
+        print_position: 16
+        unit: 2
       - uid: BIB114.7.2.1.TY.1
         subobj: 7.2.1
         type: ty
@@ -1629,6 +1774,7 @@ courses:
             trials, crucifixion, death, and burial.
           D: Christ’s anger at the money changers in the temple.
         answer: C
+        print_position: 4
       - uid: BIB114.7.2.1.TY.2
         subobj: 7.2.1
         type: ty
@@ -1640,6 +1786,7 @@ courses:
           C: the afflictions laid on a submissive victim.
           D: humiliation by the Jewish religious and civil leaders.
         answer: C
+        print_position: 5
       - uid: BIB114.7.2.2.UPE.1
         subobj: 7.2.2
         type: upe
@@ -1652,6 +1799,8 @@ courses:
           D: Satan offered Jesus all the kingdoms of the world if He would compromise
             and not die on the cross.
         answer: C
+        print_position: 17
+        unit: 2
       - uid: BIB114.7.2.2.TY.1
         subobj: 7.2.2
         type: ty
@@ -1662,6 +1811,7 @@ courses:
           C: taught His disciples about His second coming.
           D: entered Jerusalem in triumph.
         answer: D
+        print_position: 6
       - uid: BIB114.7.2.3.UPE.1
         subobj: 7.2.3
         type: upe
@@ -1675,6 +1825,8 @@ courses:
             surrounding His second coming.
           D: going out to the Mount of Olives and delivering the Olivet Discourse.
         answer: B
+        print_position: 18
+        unit: 2
       - uid: BIB114.7.2.3.TY.1
         subobj: 7.2.3
         type: ty
@@ -1686,6 +1838,7 @@ courses:
           C: three.
           D: four.
         answer: B
+        print_position: 7
       - uid: BIB114.7.2.4.UPE.1
         subobj: 7.2.4
         type: upe
@@ -1697,6 +1850,8 @@ courses:
           C: Christ works miracles, attesting to His authority as the Son of God.
           D: the enemies of Christ seek to kill Him early in the day.
         answer: B
+        print_position: 19
+        unit: 2
       - uid: BIB114.7.2.4.TY.1
         subobj: 7.2.4
         type: ty
@@ -1707,6 +1862,7 @@ courses:
           C: delivered His Olivet Discourse on future events.
           D: cursed the fig tree.
         answer: C
+        print_position: 8
       - uid: BIB114.7.2.5.UPE.1
         subobj: 7.2.5
         type: upe
@@ -1718,6 +1874,8 @@ courses:
           C: Jesus appealed to Pilate and Herod against the plans to kill Him.
           D: Jesus taught Nicodemus and Joseph of Arimathea about being born again.
         answer: A
+        print_position: 20
+        unit: 2
       - uid: BIB114.7.2.5.TY.1
         subobj: 7.2.5
         type: ty
@@ -1729,6 +1887,7 @@ courses:
           C: visited the temple.
           D: had the Passover meal with His disciples.
         answer: A
+        print_position: 9
       - uid: BIB114.7.2.5.TY.2
         subobj: 7.2.5
         type: ty
@@ -1739,6 +1898,7 @@ courses:
           C: Christ instituted the ordinance of the Lord’s Supper.
           D: Christ asked the religious leaders, “Whose son is the Christ?”
         answer: C
+        print_position: 10
       - uid: BIB114.8.1.1.TY.1
         subobj: 8.1.1
         type: ty
@@ -1749,6 +1909,7 @@ courses:
           C: Christ’s dread of the physical suffering He was about to endure.
           D: God’s love for people that caused Him to pay the penalty for their sins.
         answer: D
+        print_position: 1
       - uid: BIB114.8.1.2.TY.1
         subobj: 8.1.2
         type: ty
@@ -1759,6 +1920,7 @@ courses:
           C: the arresting crowd included Roman soldiers.
           D: a young man fled away naked.
         answer: B
+        print_position: 2
       - uid: BIB114.8.1.2.TY.2
         subobj: 8.1.2
         type: ty
@@ -1770,6 +1932,7 @@ courses:
           C: only Luke records that the mob included the money changers from the temple.
           D: only Mark mentions that Christ healed the ear of the high priest’s servant.
         answer: A
+        print_position: 3
       - uid: BIB114.8.2.1.UPE.1
         subobj: 8.2.1
         type: upe
@@ -1781,6 +1944,8 @@ courses:
           C: opposing the laws of Rome and teaching others to do the same.
           D: causing problems between the various provinces in Palestine.
         answer: B
+        print_position: 21
+        unit: 2
       - uid: BIB114.8.2.1.UPE.2
         subobj: 8.2.1
         type: upe
@@ -1792,6 +1957,8 @@ courses:
           D: the charge of blasphemy is what originally caused Pilate to have Jesus
             flogged.
         answer: B
+        print_position: 22
+        unit: 2
       - uid: BIB114.8.2.1.TY.1
         subobj: 8.2.1
         type: ty
@@ -1803,6 +1970,7 @@ courses:
           C: opposing Roman law and teaching others to do the same.
           D: causing problems between the various provinces in Palestine.
         answer: B
+        print_position: 4
       - uid: BIB114.8.3.1.TY.1
         subobj: 8.3.1
         type: ty
@@ -1815,6 +1983,7 @@ courses:
             at 3:00 p.m., a total of about fifteen hours.
           D: At Christ’s death, the Holy Spirit left Him.
         answer: C
+        print_position: 5
       - uid: BIB114.8.3.2.TY.1
         subobj: 8.3.2
         type: ty
@@ -1825,6 +1994,7 @@ courses:
           C: members of the Jewish Council.
           D: women who followed Christ.
         answer: C
+        print_position: 6
       - uid: BIB114.8.4.1.UPE.1
         subobj: 8.4.1
         type: upe
@@ -1838,6 +2008,8 @@ courses:
           C: the crucifixion actually occurred on Thursday, not Friday.
           D: people in those times tended to state time in generalities.
         answer: A
+        print_position: 23
+        unit: 2
       - uid: BIB114.8.4.1.TY.1
         subobj: 8.4.1
         type: ty
@@ -1853,6 +2025,7 @@ courses:
           D: We can interpret the Last Supper and the Passover Feast as being two
             separate meals.
         answer: A
+        print_position: 7
       - uid: BIB114.8.4.2.UPE.1
         subobj: 8.4.2
         type: upe
@@ -1867,6 +2040,8 @@ courses:
           D: about the same details Matthew and Mark give, but he adds an extended
             treatment of Christ’s trip to Emmaus.
         answer: A
+        print_position: 24
+        unit: 2
       - uid: BIB114.8.4.2.UPE.2
         subobj: 8.4.2
         type: upe
@@ -1880,6 +2055,8 @@ courses:
             from Matthew on Christ’s first appearance after the Resurrection.
           D: Only Luke mentions anything about women going to the tomb.
         answer: C
+        print_position: 25
+        unit: 2
       - uid: BIB114.8.4.2.TY.1
         subobj: 8.4.2
         type: ty
@@ -1891,6 +2068,7 @@ courses:
           C: James, the half brother of Jesus
           D: The two disciples on the road to Emmaus
         answer: D
+        print_position: 8
       - uid: BIB114.8.4.2.TY.2
         subobj: 8.4.2
         type: ty
@@ -1903,6 +2081,7 @@ courses:
           C: some writers were skilled historians while others were untrained.
           D: some had access to more accurate information.
         answer: B
+        print_position: 9
       - uid: BIB114.8.4.2.TY.3
         subobj: 8.4.2
         type: ty
@@ -1916,6 +2095,7 @@ courses:
             Christ did and said.
           D: about the same details Matthew and Mark give.
         answer: A
+        print_position: 10
       - uid: BIB114.9.1.1.UPE.1
         subobj: 9.1.1
         type: upe
@@ -1927,6 +2107,8 @@ courses:
           C: loving and knowing His students and living what He taught.
           D: testing the students’ knowledge occasionally.
         answer: C
+        print_position: 1
+        unit: 3
       - uid: BIB114.9.1.1.UPE.2
         subobj: 9.1.1
         type: upe
@@ -1941,6 +2123,8 @@ courses:
             the church.
           D: the parables became progressively more difficult to interpret.
         answer: A
+        print_position: 14
+        unit: 3
       - uid: BIB114.9.1.1.TY.1
         subobj: 9.1.1
         type: ty
@@ -1952,6 +2136,7 @@ courses:
           C: loved and knew His students.
           D: tested His students’ knowledge from time to time.
         answer: C
+        print_position: 1
       - uid: BIB114.9.2.1.UPE.1
         subobj: 9.2.1
         type: upe
@@ -1962,6 +2147,8 @@ courses:
           C: used the formal lecture method more than any other.
           D: taught His disciples in a life-centered, practical, informal atmosphere.
         answer: D
+        print_position: 2
+        unit: 3
       - uid: BIB114.9.2.1.TY.1
         subobj: 9.2.1
         type: ty
@@ -1972,6 +2159,7 @@ courses:
           C: only a one-on-one approach.
           D: debate and argument.
         answer: A
+        print_position: 2
       - uid: BIB114.9.2.2.UPE.1
         subobj: 9.2.2
         type: upe
@@ -1984,6 +2172,8 @@ courses:
             with historical sequence than with topics.
           D: records very few of Christ’s parables.
         answer: B
+        print_position: 3
+        unit: 3
       - uid: BIB114.9.2.2.UPE.2
         subobj: 9.2.2
         type: upe
@@ -1995,6 +2185,8 @@ courses:
           C: a knowledgeable Jewish audience.
           D: being rather than doing.
         answer: A
+        print_position: 4
+        unit: 3
       - uid: BIB114.9.2.2.TY.1
         subobj: 9.2.2
         type: ty
@@ -2006,6 +2198,7 @@ courses:
           C: Luke
           D: John
         answer: A
+        print_position: 3
       - uid: BIB114.9.2.2.TY.2
         subobj: 9.2.2
         type: ty
@@ -2017,6 +2210,7 @@ courses:
           C: is more concerned with being than doing.
           D: emphasizes Christ’s actions more than His words.
         answer: D
+        print_position: 4
       - uid: BIB114.9.2.2.TY.3
         subobj: 9.2.2
         type: ty
@@ -2027,6 +2221,7 @@ courses:
           C: all inserted early in the book.
           D: organized as a catechism.
         answer: B
+        print_position: 5
       - uid: BIB114.9.3.1.UPE.1
         subobj: 9.3.1
         type: upe
@@ -2040,6 +2235,8 @@ courses:
           D: constantly enlarge His focus to include the multitudes so all could fully
             understand His redemptive purpose.
         answer: A
+        print_position: 5
+        unit: 3
       - uid: BIB114.9.3.1.TY.1
         subobj: 9.3.1
         type: ty
@@ -2054,6 +2251,7 @@ courses:
           D: They indicated the comparative weakness of the Law in relation to the
             human condition and pointed to its destruction.
         answer: A
+        print_position: 6
       - uid: BIB114.9.4.1.TY.1
         subobj: 9.4.1
         type: ty
@@ -2067,6 +2265,7 @@ courses:
           D: It is possible to have a high view of Christ and a critical view of the
             Old Testament.
         answer: B
+        print_position: 7
       - uid: BIB114.9.4.1.TY.2
         subobj: 9.4.1
         type: ty
@@ -2080,6 +2279,7 @@ courses:
             the qualities of personality: intellect, feeling, and will.'
           D: Only the Father manifests the attributes of deity.
         answer: C
+        print_position: 8
       - uid: BIB114.9.4.1.TY.3
         subobj: 9.4.1
         type: ty
@@ -2091,6 +2291,7 @@ courses:
             of hell.
           D: He used parables to describe the church and its leaders.
         answer: C
+        print_position: 9
       - uid: BIB114.9.4.1.TY.4
         subobj: 9.4.1
         type: ty
@@ -2103,6 +2304,7 @@ courses:
           D: His second coming is the focal point of the future and is linked with
             the resurrection and judgment.
         answer: D
+        print_position: 10
       - uid: BIB114.10.1.1.UPE.1
         subobj: 10.1.1
         type: upe
@@ -2114,6 +2316,8 @@ courses:
           C: refer to ways of defining the idea of kingdom .
           D: are essentially synonymous.
         answer: D
+        print_position: 6
+        unit: 3
       - uid: BIB114.10.1.1.TY.1
         subobj: 10.1.1
         type: ty
@@ -2125,6 +2329,7 @@ courses:
           C: refer to ways of defining the idea of kingdom .
           D: are essentially synonymous.
         answer: D
+        print_position: 1
       - uid: BIB114.10.2.1.UPE.1
         subobj: 10.2.1
         type: upe
@@ -2136,6 +2341,8 @@ courses:
           C: a spiritual kingdom where God would reign in the hearts of His people.
           D: the salvation of all nations that would usher in universal peace.
         answer: A
+        print_position: 7
+        unit: 3
       - uid: BIB114.10.2.1.TY.1
         subobj: 10.2.1
         type: ty
@@ -2150,6 +2357,7 @@ courses:
             to political greatness.
           D: a new covenant to replace the Law.
         answer: C
+        print_position: 2
       - uid: BIB114.10.2.1.TY.2
         subobj: 10.2.1
         type: ty
@@ -2160,6 +2368,7 @@ courses:
           C: Christ said the law of Moses had no moral value in the Kingdom.
           D: He said Gentiles would help rule the Kingdom.
         answer: B
+        print_position: 3
       - uid: BIB114.10.2.2.UPE.1
         subobj: 10.2.2
         type: upe
@@ -2172,6 +2381,8 @@ courses:
           C: the dark ages of church history interrupted the age of the Spirit.
           D: the Kingdom has not yet come in any aspect.
         answer: B
+        print_position: 8
+        unit: 3
       - uid: BIB114.10.2.2.TY.1
         subobj: 10.2.2
         type: ty
@@ -2184,6 +2395,7 @@ courses:
           C: the dark ages of church history interrupted the age of the Spirit.
           D: the Kingdom has not yet come in any aspect.
         answer: B
+        print_position: 4
       - uid: BIB114.10.2.2.TY.2
         subobj: 10.2.2
         type: ty
@@ -2198,6 +2410,7 @@ courses:
           D: is visible and physical, while the future aspect will be only invisible
             and internal.
         answer: A
+        print_position: 5
       - uid: BIB114.10.2.3.UPE.1
         subobj: 10.2.3
         type: upe
@@ -2209,6 +2422,8 @@ courses:
           C: symbolic as God consummates His plan.
           D: metaphorical since all the spiritual issues will have been decided.
         answer: B
+        print_position: 9
+        unit: 3
       - uid: BIB114.10.2.3.TY.1
         subobj: 10.2.3
         type: ty
@@ -2220,6 +2435,7 @@ courses:
           C: He would destroy the Roman Empire and restore the kingdom of David.
           D: He will come in power and glory and separate the wicked from the righteous.
         answer: D
+        print_position: 6
       - uid: BIB114.10.2.4.UPE.1
         subobj: 10.2.4
         type: upe
@@ -2231,6 +2447,8 @@ courses:
           C: suggested guidelines, not requirements.
           D: easy and light, not demanding and difficult.
         answer: A
+        print_position: 10
+        unit: 3
       - uid: BIB114.10.2.4.TY.1
         subobj: 10.2.4
         type: ty
@@ -2241,6 +2459,7 @@ courses:
           C: fewer requirements than a worldly kingdom.
           D: the inner nature of a person.
         answer: D
+        print_position: 7
       - uid: BIB114.10.2.4.TY.2
         subobj: 10.2.4
         type: ty
@@ -2255,6 +2474,7 @@ courses:
           D: “If anyone swears by the gold of the temple, he is bound by his oath”
             (Matthew 23:16).
         answer: C
+        print_position: 8
       - uid: BIB114.10.3.1.TY.1
         subobj: 10.3.1
         type: ty
@@ -2266,6 +2486,7 @@ courses:
           C: holiness through external actions.
           D: unfailing participation in religious ceremonies
         answer: B
+        print_position: 9
       - uid: BIB114.10.3.1.TY.2
         subobj: 10.3.1
         type: ty
@@ -2277,6 +2498,7 @@ courses:
           C: observe ritual cleansing required of all people.
           D: identify with the national, political, and religious boundaries of Israel.
         answer: A
+        print_position: 10
       - uid: BIB114.11.1.1.UPE.1
         subobj: 11.1.1
         type: upe
@@ -2288,6 +2510,8 @@ courses:
             learners understand.
           D: encourages students to act out the lessons as they are taught.
         answer: C
+        print_position: 11
+        unit: 3
       - uid: BIB114.11.1.1.TY.1
         subobj: 11.1.1
         type: ty
@@ -2300,6 +2524,7 @@ courses:
             understands.
           D: encourages students to act out the lessons as they are taught.
         answer: C
+        print_position: 1
       - uid: BIB114.11.1.1.TY.2
         subobj: 11.1.1
         type: ty
@@ -2310,6 +2535,7 @@ courses:
           C: fulfilled the function of apocalyptic literature.
           D: explained all His teaching to everyone’s satisfaction.
         answer: B
+        print_position: 2
       - uid: BIB114.11.1.2.UPE.1
         subobj: 11.1.2
         type: upe
@@ -2321,6 +2547,8 @@ courses:
             an essential truth.
           D: the context of the parable does not affect the interpretation.
         answer: B
+        print_position: 12
+        unit: 3
       - uid: BIB114.11.1.2.TY.1
         subobj: 11.1.2
         type: ty
@@ -2331,6 +2559,7 @@ courses:
           C: the individual teacher should determine what each parable means.
           D: every detail is important to the central theme.
         answer: B
+        print_position: 3
       - uid: BIB114.11.1.2.TY.2
         subobj: 11.1.2
         type: ty
@@ -2343,6 +2572,7 @@ courses:
           D: determine whether the message applies to human salvation and is therefore
             essential.
         answer: A
+        print_position: 4
       - uid: BIB114.11.2.1.UPE.1
         subobj: 11.2.1
         type: upe
@@ -2355,6 +2585,8 @@ courses:
           C: Five parables are found in all three Synoptics.
           D: Matthew contains the greatest number of parables.
         answer: A
+        print_position: 13
+        unit: 3
       - uid: BIB114.11.2.1.TY.1
         subobj: 11.2.1
         type: ty
@@ -2366,6 +2598,7 @@ courses:
           C: twenty parables are found in all three Synoptics.
           D: the largest number (eighteen parables) is unique to Luke.
         answer: D
+        print_position: 5
       - uid: BIB114.11.2.2.TY.1
         subobj: 11.2.2
         type: ty
@@ -2377,6 +2610,7 @@ courses:
           C: middle Galilean ministry.
           D: later Judean-Perean ministry.
         answer: B
+        print_position: 6
       - uid: BIB114.11.2.2.TY.2
         subobj: 11.2.2
         type: ty
@@ -2388,6 +2622,7 @@ courses:
           D: introduce the basic doctrines that were to become the foundation of the
             church.
         answer: A
+        print_position: 7
       - uid: BIB114.11.2.2.TY.3
         subobj: 11.2.2
         type: ty
@@ -2399,6 +2634,7 @@ courses:
           C: decreased the number of parables in favor of direct speech.
           D: increased the number of parables about the Kingdom and its requirements.
         answer: D
+        print_position: 8
       - uid: BIB114.11.3.1.UPE.1
         subobj: 11.3.1
         type: upe
@@ -2410,6 +2646,8 @@ courses:
           D: discipleship requires obedient service, sacrifice, and sharing kingdom
             knowledge with others.
         answer: D
+        print_position: 15
+        unit: 3
       - uid: BIB114.11.3.1.TY.1
         subobj: 11.3.1
         type: ty
@@ -2422,6 +2660,7 @@ courses:
           C: we should not expect Christ’s return for a long time.
           D: we need to be in watchful preparation for the coming King.
         answer: D
+        print_position: 9
       - uid: BIB114.11.3.1.TY.2
         subobj: 11.3.1
         type: ty
@@ -2433,6 +2672,7 @@ courses:
           C: our external actions are the most important requirements of the Kingdom.
           D: the Old Testament Law is our standard of living.
         answer: A
+        print_position: 10
       - uid: BIB114.12.1.1.UPE.1
         subobj: 12.1.1
         type: upe
@@ -2444,6 +2684,8 @@ courses:
           C: all of the miracles are recorded in at least two Gospels.
           D: Jesus’ enemies denied the reality of His miracles.
         answer: B
+        print_position: 16
+        unit: 3
       - uid: BIB114.12.1.1.TY.1
         subobj: 12.1.1
         type: ty
@@ -2455,6 +2697,7 @@ courses:
           D: Jesus’ enemies acknowledged His miracles but attributed them to satanic
             power.
         answer: D
+        print_position: 1
       - uid: BIB114.12.1.2.UPE.1
         subobj: 12.1.2
         type: upe
@@ -2467,6 +2710,8 @@ courses:
             angels, humans, Satan and demons.
           D: There are no references to Christ’s miracles outside of the Gospels.
         answer: A
+        print_position: 17
+        unit: 3
       - uid: BIB114.12.1.2.TY.1
         subobj: 12.1.2
         type: ty
@@ -2479,6 +2724,7 @@ courses:
             and resurrection.
           D: those that involve healing and those that involve nature.
         answer: D
+        print_position: 2
       - uid: BIB114.12.1.2.TY.2
         subobj: 12.1.2
         type: ty
@@ -2490,6 +2736,7 @@ courses:
             an outside force.”
           D: “a deliverance from spiritual bondage.”
         answer: C
+        print_position: 3
       - uid: BIB114.12.1.2.TY.3
         subobj: 12.1.2
         type: ty
@@ -2502,6 +2749,7 @@ courses:
             spirits, Satan and demons.
           D: agree in every detail presented.
         answer: A
+        print_position: 4
       - uid: BIB114.12.2.1.UPE.1
         subobj: 12.2.1
         type: upe
@@ -2513,6 +2761,8 @@ courses:
           C: worked a great number of miracles, but the writers chose to use thirty-six.
           D: performed twenty-six actual miracles.
         answer: C
+        print_position: 18
+        unit: 3
       - uid: BIB114.12.2.1.TY.1
         subobj: 12.2.1
         type: ty
@@ -2525,6 +2775,7 @@ courses:
             thirty-six.
           D: performed only twenty-six actual miracles.
         answer: C
+        print_position: 5
       - uid: BIB114.12.2.1.TY.2
         subobj: 12.2.1
         type: ty
@@ -2535,6 +2786,7 @@ courses:
           C: raising Jairus’ daughter from the dead.
           D: walking on water.
         answer: A
+        print_position: 6
       - uid: BIB114.12.2.1.TY.3
         subobj: 12.2.1
         type: ty
@@ -2546,6 +2798,7 @@ courses:
           C: God’s willingness to intervene providentially in people’s lives.
           D: Old Testament miracles God worked in behalf of His covenant people.
         answer: B
+        print_position: 7
       - uid: BIB114.12.2.2.UPE.1
         subobj: 12.2.2
         type: upe
@@ -2561,6 +2814,8 @@ courses:
           D: We have definite explanations for any details that seem to differ in
             the miracle accounts.
         answer: B
+        print_position: 19
+        unit: 3
       - uid: BIB114.12.2.2.TY.1
         subobj: 12.2.2
         type: ty
@@ -2576,6 +2831,7 @@ courses:
           D: We have definite explanations for any details that seem to differ in
             the miracle accounts.
         answer: B
+        print_position: 8
       - uid: BIB114.12.3.1.UPE.1
         subobj: 12.3.1
         type: upe
@@ -2587,6 +2843,8 @@ courses:
           C: need to keep them from becoming too common in His ministry.
           D: attempt to limit them to the most needy.
         answer: B
+        print_position: 20
+        unit: 3
       - uid: BIB114.12.3.1.TY.1
         subobj: 12.3.1
         type: ty
@@ -2597,6 +2855,7 @@ courses:
           C: prove the existence of the Trinity.
           D: show that He was Messiah and Lord.
         answer: D
+        print_position: 9
       - uid: BIB114.12.3.1.TY.2
         subobj: 12.3.1
         type: ty
@@ -2607,6 +2866,7 @@ courses:
           C: human limitations as a result of His incarnation.
           D: knowledge that people would focus on the miracles instead of His message.
         answer: A
+        print_position: 10
       - uid: BIB114.13.1.1.UPE.1
         subobj: 13.1.1
         type: upe
@@ -2621,6 +2881,8 @@ courses:
             and none of the participants could have done otherwise.
           D: the message must be studied first, in order to understand the Man.
         answer: B
+        print_position: 21
+        unit: 3
       - uid: BIB114.13.1.1.TY.1
         subobj: 13.1.1
         type: ty
@@ -2632,6 +2894,7 @@ courses:
           D: harmonizing of each detail in the Synoptic Gospels with the Gospel of
             John.
         answer: A
+        print_position: 1
       - uid: BIB114.13.1.1.TY.2
         subobj: 13.1.1
         type: ty
@@ -2647,6 +2910,7 @@ courses:
           D: every event in the Synoptic Gospels can be placed in a set chronological
             order.
         answer: B
+        print_position: 2
       - uid: BIB114.13.2.1.UPE.1
         subobj: 13.2.1
         type: upe
@@ -2658,6 +2922,8 @@ courses:
           C: preparation .
           D: anticipation .
         answer: C
+        print_position: 22
+        unit: 3
       - uid: BIB114.13.2.1.TY.1
         subobj: 13.2.1
         type: ty
@@ -2669,6 +2935,7 @@ courses:
           C: preparation .
           D: anticipation .
         answer: C
+        print_position: 3
       - uid: BIB114.13.2.1.TY.2
         subobj: 13.2.1
         type: ty
@@ -2684,6 +2951,7 @@ courses:
           D: The Old Testament was widely received throughout the ancient world as
             a divinely inspired document.
         answer: A
+        print_position: 4
       - uid: BIB114.13.2.1.TY.3
         subobj: 13.2.1
         type: ty
@@ -2695,6 +2963,7 @@ courses:
           C: cultural vehicle through which the gospel could be spread.
           D: religious vehicle through which Christ could operate.
         answer: D
+        print_position: 5
       - uid: BIB114.13.3.1.UPE.1
         subobj: 13.3.1
         type: upe
@@ -2709,6 +2978,8 @@ courses:
             common.
           D: some vague hints to help establish a working chronology of events.
         answer: B
+        print_position: 23
+        unit: 3
       - uid: BIB114.13.3.1.UPE.2
         subobj: 13.3.1
         type: upe
@@ -2721,6 +2992,8 @@ courses:
           D: the early Galilean period is most extensively covered in the Synoptic
             Gospels.
         answer: B
+        print_position: 24
+        unit: 3
       - uid: BIB114.13.3.1.TY.1
         subobj: 13.3.1
         type: ty
@@ -2735,6 +3008,7 @@ courses:
           D: We must substantially rely on the Gospel of John for facts about the
             Passion Week of Christ.
         answer: A
+        print_position: 6
       - uid: BIB114.13.3.1.TY.2
         subobj: 13.3.1
         type: ty
@@ -2749,6 +3023,7 @@ courses:
             in common.
           D: some vague hints to help us establish a working chronology of events.
         answer: B
+        print_position: 7
       - uid: BIB114.13.3.1.TY.3
         subobj: 13.3.1
         type: ty
@@ -2760,6 +3035,7 @@ courses:
           C: Christ devoted most of His time to the people of Galilee.
           D: The early Galilean period is extensively covered in the Synoptic Gospels.
         answer: C
+        print_position: 8
       - uid: BIB114.13.4.1.UPE.1
         subobj: 13.4.1
         type: upe
@@ -2771,6 +3047,8 @@ courses:
           C: eliminate foreign rule in Palestine and reestablish the kingdom of David.
           D: prove that He was both the promised Messiah and the Son of God.
         answer: D
+        print_position: 25
+        unit: 3
       - uid: BIB114.13.4.1.TY.1
         subobj: 13.4.1
         type: ty
@@ -2782,6 +3060,7 @@ courses:
           C: eliminate foreign rule in Palestine and reestablish the kingdom of David.
           D: prove that He was both the promised Messiah and the Son of God.
         answer: D
+        print_position: 9
       - uid: BIB114.13.4.1.TY.2
         subobj: 13.4.1
         type: ty
@@ -2792,6 +3071,7 @@ courses:
           C: focused completely on teachings regarding the end times.
           D: focused on the political implications of His message.
         answer: B
+        print_position: 10
       - uid: BIB114.1.1.1.F.1
         subobj: 1.1.1
         type: final
@@ -3187,6 +3467,7 @@ courses:
         key_pdf: bib114_1st_c key rev desi oct14.pdf
         matched: 33
         objectives_agree: 33
+      captured: reparse
     deployed_pn: 01.22.01
     body_baseline_pn: 01.22.01
     chapters:

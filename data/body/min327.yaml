@@ -1582,6 +1582,7 @@ courses:
           C: engages in political discussions.
           D: manages a large amount of money.
         answer: D
+        print_position: 1
       - uid: MIN327.1.1.2.UPE.1
         subobj: 1.1.2
         type: upe
@@ -1592,6 +1593,8 @@ courses:
           C: business manager.
           D: carpenter.
         answer: A
+        print_position: 1
+        unit: 1
       - uid: MIN327.1.1.2.UPE.2
         subobj: 1.1.2
         type: upe
@@ -1603,6 +1606,8 @@ courses:
           C: financial management.
           D: the management cycle.
         answer: C
+        print_position: 2
+        unit: 1
       - uid: MIN327.1.1.2.UPE.3
         subobj: 1.1.2
         type: upe
@@ -1614,6 +1619,8 @@ courses:
           C: financial management.
           D: the management cycle.
         answer: D
+        print_position: 3
+        unit: 1
       - uid: MIN327.1.1.2.UPE.4
         subobj: 1.1.2
         type: upe
@@ -1625,6 +1632,8 @@ courses:
           C: “developing people through work.”
           D: “establishing the enterprise for the worker.”
         answer: C
+        print_position: 4
+        unit: 1
       - uid: MIN327.1.1.2.TY.1
         subobj: 1.1.2
         type: ty
@@ -1635,6 +1644,7 @@ courses:
           C: motivating and communicating with staff.
           D: measuring and correcting performance.
         answer: B
+        print_position: 2
       - uid: MIN327.1.1.2.TY.2
         subobj: 1.1.2
         type: ty
@@ -1646,6 +1656,7 @@ courses:
           C: ship captain.
           D: carpenter.
         answer: C
+        print_position: 3
       - uid: MIN327.1.1.3.TY.1
         subobj: 1.1.3
         type: ty
@@ -1657,6 +1668,7 @@ courses:
           C: Compassion
           D: Fear
         answer: C
+        print_position: 4
       - uid: MIN327.1.2.1.UPE.1
         subobj: 1.2.1
         type: upe
@@ -1668,6 +1680,8 @@ courses:
           C: Republican
           D: Lai ssez-faire
         answer: A
+        print_position: 5
+        unit: 1
       - uid: MIN327.1.2.1.UPE.2
         subobj: 1.2.1
         type: upe
@@ -1678,6 +1692,8 @@ courses:
           C: Laissez-faire
           D: Rep ublican
         answer: B
+        print_position: 6
+        unit: 1
       - uid: MIN327.1.2.1.UPE.3
         subobj: 1.2.1
         type: upe
@@ -1689,6 +1705,8 @@ courses:
           C: presbyterian and congregational.
           D: presbyterian and independent.
         answer: C
+        print_position: 7
+        unit: 1
       - uid: MIN327.1.2.1.UPE.4
         subobj: 1.2.1
         type: upe
@@ -1700,6 +1718,8 @@ courses:
           C: laissez-faire.
           D: dictatorial.
         answer: B
+        print_position: 8
+        unit: 1
       - uid: MIN327.1.2.1.TY.1
         subobj: 1.2.1
         type: ty
@@ -1711,6 +1731,7 @@ courses:
           C: episcopal and congregational.
           D: independent and plurality of elders.
         answer: B
+        print_position: 5
       - uid: MIN327.1.3.1.UPE.1
         subobj: 1.3.1
         type: upe
@@ -1721,6 +1742,8 @@ courses:
           C: Robert’s Parliamentary Orders.
           D: Robert’s Rules of Order .
         answer: D
+        print_position: 9
+        unit: 1
       - uid: MIN327.1.3.1.UPE.2
         subobj: 1.3.1
         type: upe
@@ -1732,6 +1755,8 @@ courses:
           C: Reading the minutes
           D: Unfinished business
         answer: C
+        print_position: 10
+        unit: 1
       - uid: MIN327.1.3.1.UPE.3
         subobj: 1.3.1
         type: upe
@@ -1743,6 +1768,8 @@ courses:
           C: Secretary of the parliamentarian committee
           D: Chairman of the parliamentarian committee
         answer: B
+        print_position: 11
+        unit: 1
       - uid: MIN327.1.3.1.TY.1
         subobj: 1.3.1
         type: ty
@@ -1753,6 +1780,7 @@ courses:
           C: present the minutes from the previous meeting.
           D: determine whether a quorum is present.
         answer: D
+        print_position: 6
       - uid: MIN327.1.4.1.UPE.1
         subobj: 1.4.1
         type: upe
@@ -1764,6 +1792,8 @@ courses:
           C: business administrator.
           D: people of the church through the annual business meeting.
         answer: A
+        print_position: 12
+        unit: 1
       - uid: MIN327.1.4.1.UPE.2
         subobj: 1.4.1
         type: upe
@@ -1776,6 +1806,8 @@ courses:
           C: items a) and b) to apply.
           D: the hiring and motivating of trained, qualified people.
         answer: D
+        print_position: 13
+        unit: 1
       - uid: MIN327.1.4.1.TY.1
         subobj: 1.4.1
         type: ty
@@ -1786,6 +1818,7 @@ courses:
           C: matches the right person with the right position.
           D: is delayed to prevent disruptions in spiritual leadership.
         answer: C
+        print_position: 7
       - uid: MIN327.1.5.1.UPE.1
         subobj: 1.5.1
         type: upe
@@ -1797,6 +1830,8 @@ courses:
           C: Pastor’s secretary
           D: Church treasurer
         answer: A
+        print_position: 14
+        unit: 1
       - uid: MIN327.1.5.1.UPE.2
         subobj: 1.5.1
         type: upe
@@ -1809,6 +1844,8 @@ courses:
             operation.
           D: 'All of the above: a), b), and c)'
         answer: C
+        print_position: 15
+        unit: 1
       - uid: MIN327.1.5.1.TY.1
         subobj: 1.5.1
         type: ty
@@ -1819,6 +1856,7 @@ courses:
           C: who maintains the church’s confidential personnel records.
           D: whom the pastor always appoints as a spiritual confidant.
         answer: A
+        print_position: 8
       - uid: MIN327.1.5.1.TY.2
         subobj: 1.5.1
         type: ty
@@ -1829,6 +1867,7 @@ courses:
           C: evaluate the pastor’s performance and recommend pastoral change.
           D: serve as a liaison to the denominational authorities.
         answer: B
+        print_position: 9
       - uid: MIN327.1.5.1.TY.3
         subobj: 1.5.1
         type: ty
@@ -1839,6 +1878,7 @@ courses:
           C: has significant authority to guide church business.
           D: is usually the first paid staff member hired as a church grows.
         answer: A
+        print_position: 10
       - uid: MIN327.2.1.1.UPE.1
         subobj: 2.1.1
         type: upe
@@ -1849,6 +1889,8 @@ courses:
           C: interest.
           D: rate of return.
         answer: C
+        print_position: 16
+        unit: 1
       - uid: MIN327.2.1.1.UPE.2
         subobj: 2.1.1
         type: upe
@@ -1860,6 +1902,8 @@ courses:
           D: are relieved of their financial obligations if they are unable to repay
             the full amount of a loan.
         answer: B
+        print_position: 17
+        unit: 1
       - uid: MIN327.2.1.1.TY.1
         subobj: 2.1.1
         type: ty
@@ -1870,6 +1914,7 @@ courses:
           C: collateral.
           D: deferred giving.
         answer: B
+        print_position: 1
       - uid: MIN327.2.1.2.UPE.1
         subobj: 2.1.2
         type: upe
@@ -1880,6 +1925,8 @@ courses:
           C: overestimating the cost of the proposed building.
           D: projecting membership income.
         answer: A
+        print_position: 18
+        unit: 1
       - uid: MIN327.2.1.2.TY.1
         subobj: 2.1.2
         type: ty
@@ -1891,6 +1938,7 @@ courses:
           D: inflated values of church property, existing church buildings, and neighboring
             properties.
         answer: C
+        print_position: 2
       - uid: MIN327.2.1.3.TY.1
         subobj: 2.1.3
         type: ty
@@ -1901,6 +1949,7 @@ courses:
           C: bind the maker to the payee.
           D: establish fixed construction costs.
         answer: A
+        print_position: 3
       - uid: MIN327.2.2.1.UPE.1
         subobj: 2.2.1
         type: upe
@@ -1913,6 +1962,8 @@ courses:
             and debts of the church?
           D: What interest rate did the church pay in the last building program?
         answer: C
+        print_position: 19
+        unit: 1
       - uid: MIN327.2.2.2.UPE.1
         subobj: 2.2.2
         type: upe
@@ -1924,6 +1975,8 @@ courses:
           D: interest rates, risk for the lender, and the length of time for which
             the loan is desired.
         answer: D
+        print_position: 20
+        unit: 1
       - uid: MIN327.2.2.2.UPE.2
         subobj: 2.2.2
         type: upe
@@ -1935,6 +1988,8 @@ courses:
           C: Flexible rate mortgage
           D: Unlimited rate mortgage
         answer: C
+        print_position: 21
+        unit: 1
       - uid: MIN327.2.2.3.TY.1
         subobj: 2.2.3
         type: ty
@@ -1947,6 +2002,7 @@ courses:
           C: Church 1 would pay higher monthly payments than Church 2.
           D: Church 1 would pay more total interest than Church 2.
         answer: D
+        print_position: 4
       - uid: MIN327.2.3.1.UPE.1
         subobj: 2.3.1
         type: upe
@@ -1958,6 +2014,8 @@ courses:
           C: Coupon bond
           D: Debenture bond
         answer: D
+        print_position: 22
+        unit: 1
       - uid: MIN327.2.3.1.UPE.2
         subobj: 2.3.1
         type: upe
@@ -1969,6 +2027,8 @@ courses:
           C: Mature bond
           D: Ratified bond
         answer: A
+        print_position: 23
+        unit: 1
       - uid: MIN327.2.3.1.UPE.3
         subobj: 2.3.1
         type: upe
@@ -1979,6 +2039,8 @@ courses:
           C: most effort and the firm effort approaches.
           D: best effort and firm underwriting approaches.
         answer: D
+        print_position: 24
+        unit: 1
       - uid: MIN327.2.3.1.TY.1
         subobj: 2.3.1
         type: ty
@@ -1990,6 +2052,7 @@ courses:
           C: Interest income
           D: Bonds
         answer: A
+        print_position: 5
       - uid: MIN327.2.3.1.TY.2
         subobj: 2.3.1
         type: ty
@@ -2001,6 +2064,7 @@ courses:
           C: a second mortgage bond.
           D: a capital fund drive.
         answer: C
+        print_position: 6
       - uid: MIN327.2.4.1.TY.1
         subobj: 2.4.1
         type: ty
@@ -2012,6 +2076,7 @@ courses:
           C: loan program.
           D: subscription list.
         answer: B
+        print_position: 7
       - uid: MIN327.2.4.1.TY.2
         subobj: 2.4.1
         type: ty
@@ -2023,6 +2088,7 @@ courses:
           C: a subscription list.
           D: a commitment card.
         answer: C
+        print_position: 8
       - uid: MIN327.2.4.1.TY.3
         subobj: 2.4.1
         type: ty
@@ -2034,6 +2100,7 @@ courses:
           C: subscription list.
           D: bond campaign.
         answer: B
+        print_position: 9
       - uid: MIN327.2.5.3.UPE.1
         subobj: 2.5.3
         type: upe
@@ -2045,6 +2112,8 @@ courses:
           C: gift annuity.
           D: giving covenant.
         answer: B
+        print_position: 25
+        unit: 1
       - uid: MIN327.2.5.3.TY.1
         subobj: 2.5.3
         type: ty
@@ -2055,6 +2124,7 @@ courses:
           C: is usually sanctioned by pastors and other church leaders.
           D: helps the community see the church as a business enterprise.
         answer: C
+        print_position: 10
       - uid: MIN327.3.1.1.UPE.1
         subobj: 3.1.1
         type: upe
@@ -2066,6 +2136,8 @@ courses:
           C: bookkeeping.
           D: financial management.
         answer: C
+        print_position: 1
+        unit: 2
       - uid: MIN327.3.1.1.UPE.2
         subobj: 3.1.1
         type: upe
@@ -2077,6 +2149,8 @@ courses:
           C: bookkeeping.
           D: financial management.
         answer: A
+        print_position: 2
+        unit: 2
       - uid: MIN327.3.1.1.TY.1
         subobj: 3.1.1
         type: ty
@@ -2090,6 +2164,7 @@ courses:
           D: interaction of the financial records, reports, and procedures that form
             the unified financial network.
         answer: D
+        print_position: 1
       - uid: MIN327.3.1.1.TY.2
         subobj: 3.1.1
         type: ty
@@ -2100,6 +2175,7 @@ courses:
           C: total of all monies from all sources coming into the church.
           D: security coupon attached to a bond or note.
         answer: A
+        print_position: 2
       - uid: MIN327.3.1.2.UPE.1
         subobj: 3.1.2
         type: upe
@@ -2110,6 +2186,8 @@ courses:
           C: receipts distribution.
           D: voucher accreditation.
         answer: A
+        print_position: 3
+        unit: 2
       - uid: MIN327.3.1.2.TY.1
         subobj: 3.1.2
         type: ty
@@ -2121,6 +2199,7 @@ courses:
           C: ledger.
           D: cashbook.
         answer: D
+        print_position: 3
       - uid: MIN327.3.1.2.TY.2
         subobj: 3.1.2
         type: ty
@@ -2132,6 +2211,7 @@ courses:
           C: the cashbook.
           D: accounts.
         answer: A
+        print_position: 4
       - uid: MIN327.3.2.1.UPE.1
         subobj: 3.2.1
         type: upe
@@ -2143,6 +2223,8 @@ courses:
           C: general journal.
           D: trial balance ledger.
         answer: C
+        print_position: 4
+        unit: 2
       - uid: MIN327.3.2.1.TY.1
         subobj: 3.2.1
         type: ty
@@ -2155,6 +2237,7 @@ courses:
           D: move figures from the journals to the trial balance and later to the
             financial reports.
         answer: B
+        print_position: 5
       - uid: MIN327.3.2.2.UPE.1
         subobj: 3.2.2
         type: upe
@@ -2165,6 +2248,8 @@ courses:
           C: posted amount, ledger, and credit.
           D: ledger, debit, and credit.
         answer: B
+        print_position: 5
+        unit: 2
       - uid: MIN327.3.2.2.TY.1
         subobj: 3.2.2
         type: ty
@@ -2176,6 +2261,7 @@ courses:
           C: posting.
           D: charting accounts.
         answer: C
+        print_position: 6
       - uid: MIN327.3.2.2.TY.2
         subobj: 3.2.2
         type: ty
@@ -2186,6 +2272,7 @@ courses:
           C: Posting
           D: Chart of accounts
         answer: A
+        print_position: 7
       - uid: MIN327.3.2.2.TY.3
         subobj: 3.2.2
         type: ty
@@ -2197,6 +2284,7 @@ courses:
           C: a posting.
           D: a chart of accounts.
         answer: D
+        print_position: 8
       - uid: MIN327.3.3.1.UPE.1
         subobj: 3.3.1
         type: upe
@@ -2207,6 +2295,8 @@ courses:
           C: time management.
           D: trial balance.
         answer: A
+        print_position: 6
+        unit: 2
       - uid: MIN327.3.3.1.TY.1
         subobj: 3.3.1
         type: ty
@@ -2218,6 +2308,7 @@ courses:
           C: fill out a worksheet.
           D: post amounts in the ledger.
         answer: B
+        print_position: 9
       - uid: MIN327.3.3.2.UPE.1
         subobj: 3.3.2
         type: upe
@@ -2232,6 +2323,8 @@ courses:
           D: provides a convenient and orderly way to organize the accounting data
             for use in preparing adjustments and financial reports.
         answer: D
+        print_position: 7
+        unit: 2
       - uid: MIN327.3.3.2.TY.1
         subobj: 3.3.2
         type: ty
@@ -2242,6 +2335,7 @@ courses:
           C: ability to view all accounts at once.
           D: option of making corrections after reports are submitted.
         answer: C
+        print_position: 10
       - uid: MIN327.4.1.1.UPE.1
         subobj: 4.1.1
         type: upe
@@ -2252,6 +2346,8 @@ courses:
           C: bankruptcy proceedings.
           D: bookkeeping errors noticed during the accounting period.
         answer: A
+        print_position: 8
+        unit: 2
       - uid: MIN327.4.1.1.TY.1
         subobj: 4.1.1
         type: ty
@@ -2263,6 +2359,7 @@ courses:
           C: balance sheet.
           D: statement of changes in financial position.
         answer: A
+        print_position: 1
       - uid: MIN327.4.2.1.UPE.1
         subobj: 4.2.1
         type: upe
@@ -2273,6 +2370,8 @@ courses:
           C: is optional.
           D: reveals the financial status of an organization.
         answer: D
+        print_position: 9
+        unit: 2
       - uid: MIN327.4.2.1.UPE.2
         subobj: 4.2.1
         type: upe
@@ -2283,6 +2382,8 @@ courses:
           C: payable within the fiscal year.
           D: to be used or collected during the fiscal year.
         answer: B
+        print_position: 10
+        unit: 2
       - uid: MIN327.4.2.1.UPE.3
         subobj: 4.2.1
         type: upe
@@ -2293,6 +2394,8 @@ courses:
           C: payable within the fiscal year.
           D: to be used or collected during the fiscal year
         answer: C
+        print_position: 11
+        unit: 2
       - uid: MIN327.4.2.1.TY.1
         subobj: 4.2.1
         type: ty
@@ -2303,6 +2406,7 @@ courses:
           C: Audit reconciliation statement
           D: Statement of changes in financial position
         answer: B
+        print_position: 2
       - uid: MIN327.4.2.1.TY.2
         subobj: 4.2.1
         type: ty
@@ -2313,6 +2417,7 @@ courses:
           C: designated funds.
           D: deferred revenue.
         answer: B
+        print_position: 3
       - uid: MIN327.4.2.1.TY.3
         subobj: 4.2.1
         type: ty
@@ -2323,6 +2428,7 @@ courses:
           C: designated funds.
           D: deferred revenue.
         answer: D
+        print_position: 4
       - uid: MIN327.4.2.1.TY.4
         subobj: 4.2.1
         type: ty
@@ -2333,6 +2439,7 @@ courses:
           C: liabilities.
           D: assets.
         answer: C
+        print_position: 5
       - uid: MIN327.4.2.1.TY.5
         subobj: 4.2.1
         type: ty
@@ -2344,6 +2451,7 @@ courses:
           C: fund balances.
           D: deferred revenue.
         answer: A
+        print_position: 6
       - uid: MIN327.4.2.1.TY.6
         subobj: 4.2.1
         type: ty
@@ -2355,6 +2463,7 @@ courses:
           D: the annual variance between the approved budget and actual income and
             expense.
         answer: B
+        print_position: 7
       - uid: MIN327.4.2.2.UPE.1
         subobj: 4.2.2
         type: upe
@@ -2367,6 +2476,8 @@ courses:
           D: reveals the change of status of an organization for securing loans in
             the business community.
         answer: B
+        print_position: 12
+        unit: 2
       - uid: MIN327.4.2.2.TY.1
         subobj: 4.2.2
         type: ty
@@ -2377,6 +2488,7 @@ courses:
           C: statement of changes in financial position.
           D: statement of receipts and expenditures.
         answer: C
+        print_position: 8
       - uid: MIN327.4.3.1.TY.1
         subobj: 4.3.1
         type: ty
@@ -2387,6 +2499,7 @@ courses:
           C: lengthy.
           D: general.
         answer: A
+        print_position: 9
       - uid: MIN327.4.3.2.UPE.1
         subobj: 4.3.2
         type: upe
@@ -2398,6 +2511,8 @@ courses:
           C: statement of changes in financial position.
           D: statement of liabilities and fund balances.
         answer: A
+        print_position: 13
+        unit: 2
       - uid: MIN327.4.3.2.TY.1
         subobj: 4.3.2
         type: ty
@@ -2409,6 +2524,7 @@ courses:
           C: adopting an accounting system.
           D: analyzing a balance sheet.
         answer: D
+        print_position: 10
       - uid: MIN327.5.1.1.TY.1
         subobj: 5.1.1
         type: ty
@@ -2419,6 +2535,7 @@ courses:
           C: always includes professional accountants.
           D: saves time, money, and trouble.
         answer: D
+        print_position: 1
       - uid: MIN327.5.1.2.UPE.1
         subobj: 5.1.2
         type: upe
@@ -2429,6 +2546,8 @@ courses:
           C: 7–10 years.
           D: permanent.
         answer: D
+        print_position: 14
+        unit: 2
       - uid: MIN327.5.1.2.UPE.2
         subobj: 5.1.2
         type: upe
@@ -2439,6 +2558,8 @@ courses:
           C: 7–10 years.
           D: permanent.
         answer: D
+        print_position: 15
+        unit: 2
       - uid: MIN327.5.1.3.TY.1
         subobj: 5.1.3
         type: ty
@@ -2449,6 +2570,7 @@ courses:
           C: continue its existence.
           D: set reasonable financial goals.
         answer: C
+        print_position: 2
       - uid: MIN327.5.2.1.UPE.1
         subobj: 5.2.1
         type: upe
@@ -2459,6 +2581,8 @@ courses:
           C: detects major errors, fraud, and irregularities.
           D: does all of the above.
         answer: D
+        print_position: 16
+        unit: 2
       - uid: MIN327.5.2.1.UPE.2
         subobj: 5.2.1
         type: upe
@@ -2469,6 +2593,8 @@ courses:
           C: an audit committee, denominational headquarters, and associates.
           D: individuals, an audit committee, or an independent auditor.
         answer: D
+        print_position: 17
+        unit: 2
       - uid: MIN327.5.2.1.TY.1
         subobj: 5.2.1
         type: ty
@@ -2479,6 +2605,7 @@ courses:
           C: a subtreasurer.
           D: a certified treasurer.
         answer: B
+        print_position: 3
       - uid: MIN327.5.2.1.TY.2
         subobj: 5.2.1
         type: ty
@@ -2489,6 +2616,7 @@ courses:
           C: perpetuate sound democratic principles in church government.
           D: establish reasonable budgeting processes.
         answer: A
+        print_position: 4
       - uid: MIN327.5.3.1.TY.1
         subobj: 5.3.1
         type: ty
@@ -2500,6 +2628,7 @@ courses:
           C: accounting theory.
           D: a bookkeeping system.
         answer: C
+        print_position: 5
       - uid: MIN327.5.3.2.UPE.1
         subobj: 5.3.2
         type: upe
@@ -2512,6 +2641,8 @@ courses:
           D: the totals of the asset accounts are the same value as the totals of
             the liabilities and fund accounts.
         answer: D
+        print_position: 18
+        unit: 2
       - uid: MIN327.5.3.2.UPE.2
         subobj: 5.3.2
         type: upe
@@ -2523,6 +2654,8 @@ courses:
           C: amount always differs from the credit amount.
           D: and a credit do not have set locations in an account.
         answer: B
+        print_position: 19
+        unit: 2
       - uid: MIN327.5.3.3.UPE.1
         subobj: 5.3.3
         type: upe
@@ -2533,6 +2666,8 @@ courses:
           C: modified basis of accounting.
           D: simplified basis of accounting.
         answer: B
+        print_position: 21
+        unit: 2
       - uid: MIN327.5.3.4.UPE.1
         subobj: 5.3.4
         type: upe
@@ -2544,6 +2679,8 @@ courses:
           C: modified basis of accounting.
           D: simplified basis of accounting.
         answer: A
+        print_position: 20
+        unit: 2
       - uid: MIN327.5.3.4.TY.1
         subobj: 5.3.4
         type: ty
@@ -2555,6 +2692,7 @@ courses:
           C: Accrual
           D: Single entry
         answer: C
+        print_position: 6
       - uid: MIN327.5.4.1.UPE.1
         subobj: 5.4.1
         type: upe
@@ -2567,6 +2705,8 @@ courses:
           C: the discovery and correction of errors is difficult.
           D: a transaction is recorded twice, once as a debit and once as a credit.
         answer: D
+        print_position: 22
+        unit: 2
       - uid: MIN327.5.4.1.TY.1
         subobj: 5.4.1
         type: ty
@@ -2577,6 +2717,7 @@ courses:
           C: in separate sets of accounting books.
           D: by both a central treasurer and several subtreasurers.
         answer: B
+        print_position: 7
       - uid: MIN327.5.4.2.UPE.1
         subobj: 5.4.2
         type: upe
@@ -2588,6 +2729,8 @@ courses:
           C: entering all initial transactions directly onto a financial statement.
           D: a complicated system of entries and transfers.
         answer: B
+        print_position: 23
+        unit: 2
       - uid: MIN327.5.4.3.TY.1
         subobj: 5.4.3
         type: ty
@@ -2598,6 +2741,7 @@ courses:
           C: Building fund
           D: Endowment fund
         answer: D
+        print_position: 8
       - uid: MIN327.5.4.4.UPE.1
         subobj: 5.4.4
         type: upe
@@ -2609,6 +2753,8 @@ courses:
             accounts.
           D: all organizational sub-treasurers’ writing their own disbursements.
         answer: C
+        print_position: 24
+        unit: 2
       - uid: MIN327.5.4.4.UPE.2
         subobj: 5.4.4
         type: upe
@@ -2619,6 +2765,8 @@ courses:
           C: multiple accounting procedures.
           D: multiple bank accounts.
         answer: A
+        print_position: 25
+        unit: 2
       - uid: MIN327.5.4.4.TY.1
         subobj: 5.4.4
         type: ty
@@ -2629,6 +2777,7 @@ courses:
           C: allowing the congregation’s participation in record keeping.
           D: one person making deposits and writing checks.
         answer: D
+        print_position: 9
       - uid: MIN327.5.5.1.TY.1
         subobj: 5.5.1
         type: ty
@@ -2640,6 +2789,7 @@ courses:
           C: Going concern
           D: Conservatism
         answer: A
+        print_position: 10
       - uid: MIN327.6.1.1.UPE.1
         subobj: 6.1.1
         type: upe
@@ -2651,6 +2801,8 @@ courses:
           C: the daily operations of the church.
           D: the number of activities and missions projects.
         answer: C
+        print_position: 1
+        unit: 3
       - uid: MIN327.6.1.1.UPE.2
         subobj: 6.1.1
         type: upe
@@ -2663,6 +2815,8 @@ courses:
             between staff members.
           D: related transactions should not be made during one sequence of posting.
         answer: C
+        print_position: 2
+        unit: 3
       - uid: MIN327.6.1.1.TY.1
         subobj: 6.1.1
         type: ty
@@ -2674,6 +2828,7 @@ courses:
           C: individual giving records.
           D: cash flow.
         answer: A
+        print_position: 1
       - uid: MIN327.6.1.1.TY.2
         subobj: 6.1.1
         type: ty
@@ -2684,6 +2839,7 @@ courses:
           C: The church or pastor’s secretary
           D: Two members of the counting committee
         answer: B
+        print_position: 2
       - uid: MIN327.6.1.2.TY.1
         subobj: 6.1.2
         type: ty
@@ -2695,6 +2851,7 @@ courses:
           C: cash flow recording.
           D: fidelity bonding.
         answer: B
+        print_position: 3
       - uid: MIN327.6.1.2.TY.2
         subobj: 6.1.2
         type: ty
@@ -2705,6 +2862,7 @@ courses:
           C: place excess cash in short-term investments.
           D: use cash from offerings to pay expenses.
         answer: C
+        print_position: 4
       - uid: MIN327.6.2.1.UPE.1
         subobj: 6.2.1
         type: upe
@@ -2715,6 +2873,8 @@ courses:
           C: Church or pastor’s secretary
           D: Counting committee members
         answer: D
+        print_position: 3
+        unit: 3
       - uid: MIN327.6.2.1.UPE.2
         subobj: 6.2.1
         type: upe
@@ -2727,6 +2887,8 @@ courses:
           D: purchased to provide insurance coverage for items not covered under the
             major insurance policies of the church.
         answer: C
+        print_position: 4
+        unit: 3
       - uid: MIN327.6.2.1.TY.1
         subobj: 6.2.1
         type: ty
@@ -2737,6 +2899,7 @@ courses:
           C: an individual giving record.
           D: a fidelity bond.
         answer: C
+        print_position: 5
       - uid: MIN327.6.2.1.TY.2
         subobj: 6.2.1
         type: ty
@@ -2747,6 +2910,7 @@ courses:
           C: loss prevention insurance.
           D: fidelity bonds.
         answer: D
+        print_position: 6
       - uid: MIN327.6.3.1.TY.1
         subobj: 6.3.1
         type: ty
@@ -2758,6 +2922,7 @@ courses:
           C: fidelity bonds.
           D: pastoral staff.
         answer: A
+        print_position: 7
       - uid: MIN327.6.3.2.UPE.1
         subobj: 6.3.2
         type: upe
@@ -2769,6 +2934,8 @@ courses:
           C: interest income chart.
           D: investment of cash authorization.
         answer: A
+        print_position: 5
+        unit: 3
       - uid: MIN327.6.3.2.UPE.2
         subobj: 6.3.2
         type: upe
@@ -2779,6 +2946,8 @@ courses:
           C: low interest rate and short-term investments.
           D: investing in local and well-known companies.
         answer: B
+        print_position: 6
+        unit: 3
       - uid: MIN327.6.3.2.UPE.3
         subobj: 6.3.2
         type: upe
@@ -2789,6 +2958,8 @@ courses:
           C: current church expenditures and compares them with projected expenditures.
           D: cash balances and the funds with which they are identified.
         answer: D
+        print_position: 7
+        unit: 3
       - uid: MIN327.6.3.2.TY.1
         subobj: 6.3.2
         type: ty
@@ -2800,6 +2971,7 @@ courses:
           C: idle cash management.
           D: cash flow.
         answer: D
+        print_position: 8
       - uid: MIN327.6.3.2.TY.2
         subobj: 6.3.2
         type: ty
@@ -2811,6 +2983,7 @@ courses:
           C: idle cash management.
           D: cash flow.
         answer: A
+        print_position: 9
       - uid: MIN327.6.3.3.TY.1
         subobj: 6.3.3
         type: ty
@@ -2821,6 +2994,7 @@ courses:
           C: cash position report.
           D: individual giving record.
         answer: C
+        print_position: 10
       - uid: MIN327.7.1.1.UPE.1
         subobj: 7.1.1
         type: upe
@@ -2832,6 +3006,8 @@ courses:
           C: purchase order.
           D: purchase requisition.
         answer: D
+        print_position: 8
+        unit: 3
       - uid: MIN327.7.1.1.UPE.2
         subobj: 7.1.1
         type: upe
@@ -2843,6 +3019,8 @@ courses:
           C: minimize the amounts of purchases.
           D: provide for internal control of purchases.
         answer: B
+        print_position: 9
+        unit: 3
       - uid: MIN327.7.1.1.UPE.3
         subobj: 7.1.1
         type: upe
@@ -2856,6 +3034,8 @@ courses:
           D: items are not approved in the annual budget, exceed budget amounts, and
             exceed authorized maximums.
         answer: D
+        print_position: 10
+        unit: 3
       - uid: MIN327.7.1.1.TY.1
         subobj: 7.1.1
         type: ty
@@ -2866,6 +3046,7 @@ courses:
           C: a record of goods purchased during a specified time period.
           D: the form a purchaser uses to place an order with a supplier.
         answer: D
+        print_position: 1
       - uid: MIN327.7.1.1.TY.2
         subobj: 7.1.1
         type: ty
@@ -2876,6 +3057,7 @@ courses:
           C: purchase orders are not used.
           D: funds have not been budgeted at the organizational level.
         answer: B
+        print_position: 2
       - uid: MIN327.7.2.1.UPE.1
         subobj: 7.2.1
         type: upe
@@ -2887,6 +3069,8 @@ courses:
           C: the payment voucher journal.
           D: the voucher system statement.
         answer: A
+        print_position: 11
+        unit: 3
       - uid: MIN327.7.2.1.UPE.2
         subobj: 7.2.1
         type: upe
@@ -2897,6 +3081,8 @@ courses:
           C: allowing only authorized persons and departments to obligate the church.
           D: all of the above.
         answer: D
+        print_position: 12
+        unit: 3
       - uid: MIN327.7.2.1.TY.1
         subobj: 7.2.1
         type: ty
@@ -2907,6 +3093,7 @@ courses:
           C: have been defaulted on.
           D: a vendor creates by returning goods delivered.
         answer: A
+        print_position: 3
       - uid: MIN327.7.2.1.TY.2
         subobj: 7.2.1
         type: ty
@@ -2917,6 +3104,7 @@ courses:
           C: identical to an accounts payable report.
           D: an itemized listing of goods shipped and services rendered.
         answer: D
+        print_position: 4
       - uid: MIN327.7.2.2.UPE.1
         subobj: 7.2.2
         type: upe
@@ -2928,6 +3116,8 @@ courses:
           C: a check requisition form.
           D: a note of account.
         answer: C
+        print_position: 13
+        unit: 3
       - uid: MIN327.7.2.2.TY.1
         subobj: 7.2.2
         type: ty
@@ -2938,6 +3128,7 @@ courses:
           C: a substitute for a petty cash account.
           D: another term for a purchase order.
         answer: A
+        print_position: 5
       - uid: MIN327.7.2.3.TY.1
         subobj: 7.2.3
         type: ty
@@ -2948,6 +3139,7 @@ courses:
           C: request an advance or reimbursement.
           D: substitute for a petty cash account.
         answer: C
+        print_position: 6
       - uid: MIN327.7.3.1.UPE.1
         subobj: 7.3.1
         type: upe
@@ -2959,6 +3151,8 @@ courses:
           C: petty cash fund.
           D: underflow fund.
         answer: C
+        print_position: 14
+        unit: 3
       - uid: MIN327.7.3.1.TY.1
         subobj: 7.3.1
         type: ty
@@ -2969,6 +3163,7 @@ courses:
           C: one bank account to another.
           D: the bank account to the transfer account.
         answer: C
+        print_position: 7
       - uid: MIN327.7.3.1.TY.2
         subobj: 7.3.1
         type: ty
@@ -2979,6 +3174,7 @@ courses:
           C: not at all similar.
           D: impractical for churches.
         answer: B
+        print_position: 8
       - uid: MIN327.7.3.1.TY.3
         subobj: 7.3.1
         type: ty
@@ -2989,6 +3185,7 @@ courses:
           C: loss of interest earned.
           D: incompatibility with centralized disbursement.
         answer: A
+        print_position: 9
       - uid: MIN327.7.3.2.TY.1
         subobj: 7.3.2
         type: ty
@@ -3000,6 +3197,7 @@ courses:
           C: insist that all personnel take vacation time.
           D: eliminate petty cash accounts.
         answer: C
+        print_position: 10
       - uid: MIN327.8.1.1.UPE.1
         subobj: 8.1.1
         type: upe
@@ -3010,6 +3208,8 @@ courses:
           C: What has happened; what will happen; how do we make it happen?
           D: When did we start; where are we now; where are we going?
         answer: B
+        print_position: 15
+        unit: 3
       - uid: MIN327.8.1.1.UPE.2
         subobj: 8.1.1
         type: upe
@@ -3020,6 +3220,8 @@ courses:
           C: municipal service and utilities.
           D: all of the above.
         answer: D
+        print_position: 16
+        unit: 3
       - uid: MIN327.8.1.1.TY.1
         subobj: 8.1.1
         type: ty
@@ -3030,6 +3232,7 @@ courses:
           C: What church planning trends are important for consumer satisfaction?
           D: How do we get where we want to go?
         answer: C
+        print_position: 1
       - uid: MIN327.8.1.1.TY.2
         subobj: 8.1.1
         type: ty
@@ -3040,6 +3243,7 @@ courses:
           C: on a back road away from heavy traffic.
           D: far from busy shopping centers.
         answer: A
+        print_position: 2
       - uid: MIN327.8.1.1.TY.3
         subobj: 8.1.1
         type: ty
@@ -3051,6 +3255,7 @@ courses:
           C: liabilities.
           D: vital assets.
         answer: B
+        print_position: 3
       - uid: MIN327.8.1.1.TY.4
         subobj: 8.1.1
         type: ty
@@ -3061,6 +3266,7 @@ courses:
           C: make do with the least amount possible.
           D: consider only commercially zoned parcels.
         answer: B
+        print_position: 4
       - uid: MIN327.8.2.1.UPE.1
         subobj: 8.2.1
         type: upe
@@ -3074,6 +3280,8 @@ courses:
             items such as heating and cooling until a later date.
           D: do all of the above.
         answer: A
+        print_position: 17
+        unit: 3
       - uid: MIN327.8.2.1.TY.1
         subobj: 8.2.1
         type: ty
@@ -3085,6 +3293,7 @@ courses:
           C: Design-build
           D: Construction management
         answer: D
+        print_position: 5
       - uid: MIN327.8.2.1.TY.2
         subobj: 8.2.1
         type: ty
@@ -3095,6 +3304,7 @@ courses:
           C: follow the pastor’s personal philosophy and ideas.
           D: eliminate architects’ fees by drawing their own plans and blueprints.
         answer: A
+        print_position: 6
       - uid: MIN327.8.2.2.UPE.1
         subobj: 8.2.2
         type: upe
@@ -3106,6 +3316,8 @@ courses:
           C: save money.
           D: reduce gossip.
         answer: A
+        print_position: 18
+        unit: 3
       - uid: MIN327.8.2.2.TY.1
         subobj: 8.2.2
         type: ty
@@ -3116,6 +3328,7 @@ courses:
           C: provide time for further study.
           D: solve the problem.
         answer: D
+        print_position: 7
       - uid: MIN327.8.2.2.TY.2
         subobj: 8.2.2
         type: ty
@@ -3127,6 +3340,7 @@ courses:
           C: place a permanent identification number on each item.
           D: keep security officers in church facilities at all times.
         answer: C
+        print_position: 8
       - uid: MIN327.8.2.3.TY.1
         subobj: 8.2.3
         type: ty
@@ -3137,6 +3351,7 @@ courses:
           C: their experience and training.
           D: a lack of concern for cleanliness.
         answer: B
+        print_position: 9
       - uid: MIN327.8.3.1.TY.1
         subobj: 8.3.1
         type: ty
@@ -3148,6 +3363,7 @@ courses:
           C: an assessment of present utilization.
           D: an audit of missed opportunities due to a lack of equipment.
         answer: C
+        print_position: 10
       - uid: MIN327.9.1.1.UPE.1
         subobj: 9.1.1
         type: upe
@@ -3158,6 +3374,8 @@ courses:
           C: an insured addendum.
           D: an insurance policy rebate.
         answer: A
+        print_position: 19
+        unit: 3
       - uid: MIN327.9.1.1.UPE.2
         subobj: 9.1.1
         type: upe
@@ -3173,6 +3391,8 @@ courses:
           D: The Better Church Insurance Association recommends total insurance premiums
             equal to 8.75 percent of all church tithes and offerings.
         answer: B
+        print_position: 20
+        unit: 3
       - uid: MIN327.9.1.1.TY.1
         subobj: 9.1.1
         type: ty
@@ -3183,6 +3403,7 @@ courses:
           C: flood insurance.
           D: health insurance.
         answer: D
+        print_position: 1
       - uid: MIN327.9.1.1.TY.2
         subobj: 9.1.1
         type: ty
@@ -3194,6 +3415,7 @@ courses:
           C: pipe organs.
           D: clergy malpractice.
         answer: D
+        print_position: 2
       - uid: MIN327.9.1.2.TY.1
         subobj: 9.1.2
         type: ty
@@ -3205,6 +3427,7 @@ courses:
           C: do minimal repairs to buildings and equipment to save money.
           D: buy an excessive amount of insurance at the beginning.
         answer: B
+        print_position: 3
       - uid: MIN327.9.2.1.UPE.1
         subobj: 9.2.1
         type: upe
@@ -3217,6 +3440,8 @@ courses:
             almighty God.
           D: All of the above
         answer: A
+        print_position: 21
+        unit: 3
       - uid: MIN327.9.2.1.TY.1
         subobj: 9.2.1
         type: ty
@@ -3227,6 +3452,7 @@ courses:
           C: Budgets are guidelines for spending.
           D: We should not try to budget God’s provision.
         answer: C
+        print_position: 4
       - uid: MIN327.9.2.2.UPE.1
         subobj: 9.2.2
         type: upe
@@ -3240,6 +3466,8 @@ courses:
           D: estimating the income, budgeting expenses, and allowing for depreciation
             and price fluctuations.
         answer: C
+        print_position: 22
+        unit: 3
       - uid: MIN327.9.2.2.UPE.2
         subobj: 9.2.2
         type: upe
@@ -3253,6 +3481,8 @@ courses:
           D: distributing budget information and work sheets, planning meetings, and
             submitting budget requests.
         answer: D
+        print_position: 23
+        unit: 3
       - uid: MIN327.9.2.2.TY.1
         subobj: 9.2.2
         type: ty
@@ -3263,6 +3493,7 @@ courses:
           C: budgeting operations and administrative costs.
           D: budgeting income, expenses, and balancing the budget.
         answer: D
+        print_position: 5
       - uid: MIN327.9.2.2.TY.2
         subobj: 9.2.2
         type: ty
@@ -3273,6 +3504,7 @@ courses:
           C: submit departmental budgets to the budget committee.
           D: request input from church members.
         answer: C
+        print_position: 6
       - uid: MIN327.9.2.2.TY.3
         subobj: 9.2.2
         type: ty
@@ -3283,6 +3515,7 @@ courses:
           C: way to justify an increased income budget to the congregation.
           D: availability of untapped sources of revenue.
         answer: A
+        print_position: 7
       - uid: MIN327.9.2.3.UPE.1
         subobj: 9.2.3
         type: upe
@@ -3296,6 +3529,8 @@ courses:
           D: subtracting the average annual income of those who do not tithe from
             the average annual income of those who do tithe.
         answer: A
+        print_position: 24
+        unit: 3
       - uid: MIN327.9.2.3.TY.1
         subobj: 9.2.3
         type: ty
@@ -3307,6 +3542,7 @@ courses:
           C: average giving per member.
           D: standard formula constant, 1.15.
         answer: B
+        print_position: 8
       - uid: MIN327.9.2.4.UPE.1
         subobj: 9.2.4
         type: upe
@@ -3317,6 +3553,8 @@ courses:
           C: Requested budget
           D: Modified revised budget
         answer: B
+        print_position: 25
+        unit: 3
       - uid: MIN327.9.2.4.TY.1
         subobj: 9.2.4
         type: ty
@@ -3327,6 +3565,7 @@ courses:
           C: Adopted
           D: Amended
         answer: A
+        print_position: 9
       - uid: MIN327.9.2.5.TY.1
         subobj: 9.2.5
         type: ty
@@ -3337,6 +3576,7 @@ courses:
           C: send quarterly budget control notices.
           D: keep budget-related matters confidential.
         answer: B
+        print_position: 10
       - uid: MIN327.10.1.1.UPE.1
         subobj: 10.1.1
         type: upe
@@ -3348,6 +3588,8 @@ courses:
           C: hierarchical church.
           D: congregational church.
         answer: D
+        print_position: 1
+        unit: 4
       - uid: MIN327.10.1.1.TY.1
         subobj: 10.1.1
         type: ty
@@ -3358,6 +3600,7 @@ courses:
           C: appeal to a regional bishop for a replacement pastor.
           D: suggest to the district overseer the qualifications for their new pastor.
         answer: A
+        print_position: 1
       - uid: MIN327.10.1.1.TY.2
         subobj: 10.1.1
         type: ty
@@ -3369,6 +3612,7 @@ courses:
           C: the established practice of the church.
           D: either b) or c).
         answer: D
+        print_position: 2
       - uid: MIN327.10.1.2.UPE.1
         subobj: 10.1.2
         type: upe
@@ -3380,6 +3624,8 @@ courses:
           C: sexual harassment in a Christian school.
           D: embezzlement of church funds.
         answer: A
+        print_position: 2
+        unit: 4
       - uid: MIN327.10.1.2.UPE.2
         subobj: 10.1.2
         type: upe
@@ -3392,6 +3638,8 @@ courses:
           C: Neither would prevail; all previous activities would be nullified.
           D: The church’s governing instrument takes precedence.
         answer: D
+        print_position: 3
+        unit: 4
       - uid: MIN327.10.1.2.TY.1
         subobj: 10.1.2
         type: ty
@@ -3404,6 +3652,7 @@ courses:
           D: Yes, in almost every case because these issues never involve doctrine
             or beliefs
         answer: C
+        print_position: 3
       - uid: MIN327.10.2.1.UPE.1
         subobj: 10.2.1
         type: upe
@@ -3419,6 +3668,8 @@ courses:
           D: There is no good reason for a minister and a congregation to avoid entering
             into an employment contract.
         answer: D
+        print_position: 4
+        unit: 4
       - uid: MIN327.10.2.1.TY.1
         subobj: 10.2.1
         type: ty
@@ -3430,6 +3681,7 @@ courses:
           C: is one of the few reasons a court will hear a dismissal dispute.
           D: prevents a court from ever hearing a dismissal dispute.
         answer: A
+        print_position: 4
       - uid: MIN327.10.3.1.UPE.1
         subobj: 10.3.1
         type: upe
@@ -3440,6 +3692,8 @@ courses:
           C: A church’s constitution and bylaws
           D: An employment contract authorizing certain functions
         answer: B
+        print_position: 5
+        unit: 4
       - uid: MIN327.10.3.1.TY.1
         subobj: 10.3.1
         type: ty
@@ -3451,6 +3705,7 @@ courses:
             after the fact.
           D: an unauthorized action by the pastor is known but is not challenged.
         answer: D
+        print_position: 5
       - uid: MIN327.10.3.2.UPE.1
         subobj: 10.3.2
         type: upe
@@ -3462,6 +3717,8 @@ courses:
           C: state.
           D: minister.
         answer: C
+        print_position: 6
+        unit: 4
       - uid: MIN327.10.3.2.TY.1
         subobj: 10.3.2
         type: ty
@@ -3473,6 +3730,7 @@ courses:
           C: bride’s parents.
           D: church secretary.
         answer: B
+        print_position: 6
       - uid: MIN327.10.4.1.UPE.1
         subobj: 10.4.1
         type: upe
@@ -3484,6 +3742,8 @@ courses:
           D: religion benefits society and clergy are necessary to the practice of
             religion.
         answer: D
+        print_position: 7
+        unit: 4
       - uid: MIN327.10.4.1.TY.1
         subobj: 10.4.1
         type: ty
@@ -3495,6 +3755,7 @@ courses:
           C: these privileges are necessary to recruit and retain clergy.
           D: religion benefits society and clergy are necessary to religious practice.
         answer: D
+        print_position: 7
       - uid: MIN327.10.4.2.UPE.1
         subobj: 10.4.2
         type: upe
@@ -3507,6 +3768,8 @@ courses:
             session
           D: Conclusions a minister may form from how a counselee was dressed
         answer: C
+        print_position: 8
+        unit: 4
       - uid: MIN327.10.4.3.UPE.1
         subobj: 10.4.3
         type: upe
@@ -3517,6 +3780,8 @@ courses:
           C: only if the victim remains vulnerable to future abuse.
           D: never; there is only a moral obligation.
         answer: B
+        print_position: 9
+        unit: 4
       - uid: MIN327.10.4.3.TY.1
         subobj: 10.4.3
         type: ty
@@ -3528,6 +3793,7 @@ courses:
           C: the privilege conflicts with the public’s right to all available evidence.
           D: the general population seems to resent religious privileges.
         answer: C
+        print_position: 8
       - uid: MIN327.10.4.3.TY.2
         subobj: 10.4.3
         type: ty
@@ -3540,6 +3806,7 @@ courses:
           D: teenage counselee asked his father to leave the room before conversing
             with the minister.
         answer: B
+        print_position: 9
       - uid: MIN327.10.4.4.TY.1
         subobj: 10.4.4
         type: ty
@@ -3550,6 +3817,7 @@ courses:
           C: When state law identifies a minister as a mandatory child abuse reporter
           D: There is never a legal obligation, only a moral one.
         answer: C
+        print_position: 10
       - uid: MIN327.11.1.1.TY.1
         subobj: 11.1.1
         type: ty
@@ -3560,6 +3828,7 @@ courses:
           C: carelessness.
           D: insensitivity.
         answer: C
+        print_position: 1
       - uid: MIN327.11.1.1.TY.2
         subobj: 11.1.1
         type: ty
@@ -3570,6 +3839,7 @@ courses:
           C: snow and ice removal.
           D: handicapped parking and building access.
         answer: A
+        print_position: 2
       - uid: MIN327.11.1.1.TY.3
         subobj: 11.1.1
         type: ty
@@ -3583,6 +3853,7 @@ courses:
             policy.
           D: an employer is ultimately responsible for an employee’s negligence.
         answer: D
+        print_position: 3
       - uid: MIN327.11.1.2.UPE.1
         subobj: 11.1.2
         type: upe
@@ -3594,6 +3865,8 @@ courses:
           C: the remarks exceeded reasonable self-defense.
           D: remarks were published with reckless disregard as to their truth.
         answer: D
+        print_position: 10
+        unit: 4
       - uid: MIN327.11.1.2.TY.1
         subobj: 11.1.2
         type: ty
@@ -3604,6 +3877,7 @@ courses:
           C: Statements that are false
           D: Statements about another person
         answer: B
+        print_position: 4
       - uid: MIN327.11.1.2.TY.2
         subobj: 11.1.2
         type: ty
@@ -3615,6 +3889,7 @@ courses:
           D: remarks are published (spoken or written) with reckless disregard for
             their truth.
         answer: D
+        print_position: 5
       - uid: MIN327.11.2.1.TY.1
         subobj: 11.2.1
         type: ty
@@ -3626,6 +3901,7 @@ courses:
           C: donor’s age, physical condition, and mental health.
           D: possibility that the beneficiary was active in securing the gift.
         answer: B
+        print_position: 6
       - uid: MIN327.11.2.2.TY.1
         subobj: 11.2.2
         type: ty
@@ -3636,6 +3912,7 @@ courses:
           C: The disclosure was made available to the public at large.
           D: A reasonable person would not be seriously upset by the disclosure.
         answer: C
+        print_position: 7
       - uid: MIN327.11.3.1.UPE.1
         subobj: 11.3.1
         type: upe
@@ -3648,6 +3925,8 @@ courses:
             child abuse.
           D: should avoid providing family or marriage counseling.
         answer: A
+        print_position: 11
+        unit: 4
       - uid: MIN327.11.3.1.TY.1
         subobj: 11.3.1
         type: ty
@@ -3660,6 +3939,7 @@ courses:
             of ministry.
           D: only if the minister serves in a church school or counseling ministry.
         answer: B
+        print_position: 8
       - uid: MIN327.11.3.1.TY.2
         subobj: 11.3.1
         type: ty
@@ -3671,6 +3951,7 @@ courses:
           C: safety and security of the child.
           D: future liability to self and to the church.
         answer: C
+        print_position: 9
       - uid: MIN327.11.4.1.TY.1
         subobj: 11.4.1
         type: ty
@@ -3682,6 +3963,7 @@ courses:
           C: Malpractice
           D: Sexual harassment
         answer: A
+        print_position: 10
       - uid: MIN327.12.1.1.UPE.1
         subobj: 12.1.1
         type: upe
@@ -3693,6 +3975,8 @@ courses:
           C: Members may be personally liable for debts and church torts.
           D: They cannot claim exemption from Social Security withholding taxes.
         answer: C
+        print_position: 12
+        unit: 4
       - uid: MIN327.12.1.1.TY.1
         subobj: 12.1.1
         type: ty
@@ -3703,6 +3987,7 @@ courses:
           C: freedom to practice religious discrimination when hiring church employees.
           D: artificial legal identity of the corporation.
         answer: D
+        print_position: 1
       - uid: MIN327.12.1.2.TY.1
         subobj: 12.1.2
         type: ty
@@ -3714,6 +3999,7 @@ courses:
           C: review relevant statutes.
           D: maintain the corporation status.
         answer: C
+        print_position: 2
       - uid: MIN327.12.2.1.UPE.1
         subobj: 12.2.1
         type: upe
@@ -3726,6 +4012,8 @@ courses:
           D: satisfy requirements for protection from government interference according
             to First Amendment principles.
         answer: B
+        print_position: 13
+        unit: 4
       - uid: MIN327.12.2.1.TY.1
         subobj: 12.2.1
         type: ty
@@ -3739,6 +4027,7 @@ courses:
           D: a certificate the secretary of state issues to authorize a church to
             practice religious worship.
         answer: C
+        print_position: 3
       - uid: MIN327.12.2.2.TY.1
         subobj: 12.2.2
         type: ty
@@ -3750,6 +4039,7 @@ courses:
           C: the constitution.
           D: no other document.
         answer: A
+        print_position: 4
       - uid: MIN327.12.3.1.TY.1
         subobj: 12.3.1
         type: ty
@@ -3764,6 +4054,7 @@ courses:
             it.
           D: Such a right exists only if a statute or church bylaw provides for it.
         answer: D
+        print_position: 5
       - uid: MIN327.12.3.2.UPE.1
         subobj: 12.3.2
         type: upe
@@ -3774,6 +4065,8 @@ courses:
           C: the application for tax-exempt status.
           D: certification of nondiscrimination in administrative policy.
         answer: B
+        print_position: 14
+        unit: 4
       - uid: MIN327.12.3.2.TY.1
         subobj: 12.3.2
         type: ty
@@ -3785,6 +4078,7 @@ courses:
           C: reporting unrelated business income.
           D: certifying nondiscrimination in administrative policy.
         answer: B
+        print_position: 6
       - uid: MIN327.12.4.1.TY.1
         subobj: 12.4.1
         type: ty
@@ -3795,6 +4089,7 @@ courses:
           C: directors serve a limited term, while officers serve for life.
           D: officers always oversee spiritual affairs rather than temporal.
         answer: A
+        print_position: 7
       - uid: MIN327.12.4.3.TY.1
         subobj: 12.4.3
         type: ty
@@ -3806,6 +4101,7 @@ courses:
           C: securities law.
           D: violation of trust terms.
         answer: D
+        print_position: 8
       - uid: MIN327.12.4.4.TY.1
         subobj: 12.4.4
         type: ty
@@ -3817,6 +4113,7 @@ courses:
           C: produces both physical injury and monetary loss.
           D: could have been avoided by a reasonable person.
         answer: B
+        print_position: 9
       - uid: MIN327.12.5.1.UPE.1
         subobj: 12.5.1
         type: upe
@@ -3827,6 +4124,8 @@ courses:
           C: Limited partnership
           D: Contractual
         answer: D
+        print_position: 15
+        unit: 4
       - uid: MIN327.12.5.1.TY.1
         subobj: 12.5.1
         type: ty
@@ -3837,6 +4136,7 @@ courses:
           C: with the courts in the case of civil disputes.
           D: with the church but can be overruled by a civil court.
         answer: A
+        print_position: 10
       - uid: MIN327.13.1.1.TY.1
         subobj: 13.1.1
         type: ty
@@ -3847,6 +4147,7 @@ courses:
           C: regulate the development and use of land.
           D: guarantee voter representation.
         answer: C
+        print_position: 1
       - uid: MIN327.13.1.2.UPE.1
         subobj: 13.1.2
         type: upe
@@ -3861,6 +4162,8 @@ courses:
             revenues by excluding churches from residential zones.
           D: churches enjoy absolute immunity from zoning board authority.
         answer: A
+        print_position: 16
+        unit: 4
       - uid: MIN327.13.1.2.TY.1
         subobj: 13.1.2
         type: ty
@@ -3874,6 +4177,7 @@ courses:
             churches’ First Amendment rights.
           D: Zoning boards have little if any authority over churches.
         answer: A
+        print_position: 2
       - uid: MIN327.13.2.1.TY.1
         subobj: 13.2.1
         type: ty
@@ -3885,6 +4189,7 @@ courses:
           C: the church anticipated the injury by acquiring liability insurance.
           D: the outside group using the church took reasonable safety precautions.
         answer: B
+        print_position: 3
       - uid: MIN327.13.2.2.TY.1
         subobj: 13.2.2
         type: ty
@@ -3895,6 +4200,7 @@ courses:
           C: a previous assault had occurred on or near the parking lot.
           D: the victim had recently been threatened by coworkers.
         answer: C
+        print_position: 4
       - uid: MIN327.13.3.1.UPE.1
         subobj: 13.3.1
         type: upe
@@ -3910,6 +4216,8 @@ courses:
           D: The church could be sued directly and forced to pay all expenses related
             to the injury.
         answer: D
+        print_position: 17
+        unit: 4
       - uid: MIN327.13.3.1.TY.1
         subobj: 13.3.1
         type: ty
@@ -3924,6 +4232,7 @@ courses:
           D: The church could be sued directly and forced to pay all expenses related
             to the injury.
         answer: D
+        print_position: 5
       - uid: MIN327.13.4.1.TY.1
         subobj: 13.4.1
         type: ty
@@ -3935,6 +4244,7 @@ courses:
           C: are engaged in activities affecting interstate commerce.
           D: are not engaged in activities related to the practice of religious beliefs.
         answer: C
+        print_position: 6
       - uid: MIN327.13.4.3.UPE.1
         subobj: 13.4.3
         type: upe
@@ -3945,6 +4255,8 @@ courses:
           C: color.
           D: religion.
         answer: D
+        print_position: 18
+        unit: 4
       - uid: MIN327.13.4.3.TY.1
         subobj: 13.4.3
         type: ty
@@ -3956,6 +4268,7 @@ courses:
           C: color.
           D: religion.
         answer: D
+        print_position: 7
       - uid: MIN327.13.4.4.TY.1
         subobj: 13.4.4
         type: ty
@@ -3970,6 +4283,7 @@ courses:
           D: cannot treat employees or job applicants over forty years of age differently
             based on age criteria alone.
         answer: D
+        print_position: 8
       - uid: MIN327.13.4.5.TY.1
         subobj: 13.4.5
         type: ty
@@ -3981,6 +4295,7 @@ courses:
           D: replace current employees with disabled applicants if the applicants
             are more qualified.
         answer: A
+        print_position: 9
       - uid: MIN327.13.4.7.UPE.1
         subobj: 13.4.7
         type: upe
@@ -3995,6 +4310,8 @@ courses:
           D: structure all employee pay as salary so that no employee is paid by the
             hour.
         answer: B
+        print_position: 19
+        unit: 4
       - uid: MIN327.13.4.7.TY.1
         subobj: 13.4.7
         type: ty
@@ -4008,6 +4325,7 @@ courses:
             from the church.
           D: structure all employee pay as salary so no employee is paid by the hour.
         answer: B
+        print_position: 10
       - uid: MIN327.14.1.2.UPE.1
         subobj: 14.1.2
         type: upe
@@ -4018,6 +4336,8 @@ courses:
           C: When the work is fixed in a tangible medium
           D: When the work is first available for publication
         answer: C
+        print_position: 20
+        unit: 4
       - uid: MIN327.14.1.2.TY.1
         subobj: 14.1.2
         type: ty
@@ -4028,6 +4348,7 @@ courses:
           C: Performance
           D: Restoration
         answer: D
+        print_position: 1
       - uid: MIN327.14.1.2.TY.2
         subobj: 14.1.2
         type: ty
@@ -4039,6 +4360,7 @@ courses:
           C: work is fixed in a tangible medium.
           D: work is first available for publication.
         answer: C
+        print_position: 2
       - uid: MIN327.14.1.2.TY.3
         subobj: 14.1.2
         type: ty
@@ -4051,6 +4373,7 @@ courses:
             or leasing copies.
           D: any original work that an author receives a fee for producing.
         answer: B
+        print_position: 3
       - uid: MIN327.14.1.2.TY.4
         subobj: 14.1.2
         type: ty
@@ -4063,6 +4386,7 @@ courses:
             of worship.
           D: Performance or display cannot include music or musical works.
         answer: D
+        print_position: 4
       - uid: MIN327.14.2.2.TY.1
         subobj: 14.2.2
         type: ty
@@ -4073,6 +4397,7 @@ courses:
           C: failure to require psychological testing.
           D: discrimination based on gender or race.
         answer: A
+        print_position: 5
       - uid: MIN327.14.2.2.TY.2
         subobj: 14.2.2
         type: ty
@@ -4085,6 +4410,7 @@ courses:
             worker’s negligence.
           D: are liable only for injuries to church members.
         answer: C
+        print_position: 6
       - uid: MIN327.14.2.3.UPE.1
         subobj: 14.2.3
         type: upe
@@ -4096,6 +4422,8 @@ courses:
           C: is under the age of 21 or over the age of 50.
           D: expects generous pay for working with children.
         answer: B
+        print_position: 21
+        unit: 4
       - uid: MIN327.14.3.1.TY.1
         subobj: 14.3.1
         type: ty
@@ -4111,6 +4439,7 @@ courses:
           D: The director of a church day care ministry is not terminated after an
             investigation into complaints about her views on corporal punishment.
         answer: B
+        print_position: 7
       - uid: MIN327.14.3.2.UPE.1
         subobj: 14.3.2
         type: upe
@@ -4126,6 +4455,8 @@ courses:
           D: The director of a church day-care ministry is not terminated after an
             investigation into complaints about her views related to corporal punishment.
         answer: B
+        print_position: 22
+        unit: 4
       - uid: MIN327.14.4.1.UPE.1
         subobj: 14.4.1
         type: upe
@@ -4136,6 +4467,8 @@ courses:
           C: would be considered inadequate by a reasonable person.
           D: includes all of the above.
         answer: D
+        print_position: 23
+        unit: 4
       - uid: MIN327.14.4.1.TY.1
         subobj: 14.4.1
         type: ty
@@ -4147,6 +4480,7 @@ courses:
           C: sexual misconduct.
           D: adult victims.
         answer: C
+        print_position: 8
       - uid: MIN327.14.4.2.TY.1
         subobj: 14.4.2
         type: ty
@@ -4158,6 +4492,7 @@ courses:
           C: betrayed spouses seeking revenge.
           D: same-gender sexual encounters.
         answer: B
+        print_position: 9
       - uid: MIN327.14.5.1.UPE.1
         subobj: 14.5.1
         type: upe
@@ -4168,6 +4503,8 @@ courses:
           C: sexual misconduct by the counselor.
           D: all of the above.
         answer: D
+        print_position: 24
+        unit: 4
       - uid: MIN327.14.5.1.UPE.2
         subobj: 14.5.1
         type: upe
@@ -4180,6 +4517,8 @@ courses:
             professional.
           D: usually apply biblical solutions to emotional life problems.
         answer: C
+        print_position: 25
+        unit: 4
       - uid: MIN327.14.5.1.TY.1
         subobj: 14.5.1
         type: ty
@@ -4191,6 +4530,7 @@ courses:
           C: sexual misconduct by the counselor.
           D: all of the above.
         answer: D
+        print_position: 10
       - uid: MIN327.1.1.1.F.1
         subobj: 1.1.1
         type: final
@@ -4720,6 +5060,7 @@ courses:
         key_pdf: min327_form c key desi jul 09.pdf
         matched: 45
         objectives_agree: 45
+      captured: reparse
     deployed_pn: 02.22.01
     body_baseline_pn: 02.22.01
     chapters:

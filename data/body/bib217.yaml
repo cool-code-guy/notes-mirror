@@ -1877,6 +1877,8 @@ courses:
           C: Galatians, Ephesians, Titus, and 2 Timothy
           D: Ephesians, Philippians, Colossians, and 2 Timothy
         answer: B
+        print_position: 1
+        unit: 1
       - uid: BIB217.1.1.1.TY.1
         subobj: 1.1.1
         type: ty
@@ -1887,6 +1889,7 @@ courses:
           C: Ephesus.
           D: Rome.
         answer: D
+        print_position: 1
       - uid: BIB217.1.1.2.TY.1
         subobj: 1.1.2
         type: ty
@@ -1897,6 +1900,7 @@ courses:
           C: Danube River.
           D: Moeander River.
         answer: A
+        print_position: 2
       - uid: BIB217.1.1.2.TY.2
         subobj: 1.1.2
         type: ty
@@ -1907,6 +1911,7 @@ courses:
           C: Cilicia
           D: Macedonia
         answer: B
+        print_position: 3
       - uid: BIB217.1.1.2.TY.3
         subobj: 1.1.2
         type: ty
@@ -1917,6 +1922,7 @@ courses:
           C: Syria.
           D: Bulgaria.
         answer: B
+        print_position: 4
       - uid: BIB217.1.1.3.UPE.1
         subobj: 1.1.3
         type: upe
@@ -1927,6 +1933,8 @@ courses:
           C: Galatians.
           D: 2 Timothy.
         answer: B
+        print_position: 2
+        unit: 1
       - uid: BIB217.1.1.4.UPE.1
         subobj: 1.1.4
         type: upe
@@ -1937,6 +1945,8 @@ courses:
           C: the undermining influence of the Judaizers.
           D: Greek mythology.
         answer: A
+        print_position: 3
+        unit: 1
       - uid: BIB217.1.1.4.TY.1
         subobj: 1.1.4
         type: ty
@@ -1947,6 +1957,7 @@ courses:
           C: mystical, atheistic, and syncretistic.
           D: demonic, blasphemous, and human-based.
         answer: B
+        print_position: 5
       - uid: BIB217.1.1.5.UPE.1
         subobj: 1.1.5
         type: upe
@@ -1958,6 +1969,8 @@ courses:
           C: the supremacy and sufficiency of Christ.
           D: to rejoice in the Lord at all times.
         answer: C
+        print_position: 4
+        unit: 1
       - uid: BIB217.1.2.2.TY.1
         subobj: 1.2.2
         type: ty
@@ -1969,6 +1982,7 @@ courses:
           C: patience that has endured under severe persecution.
           D: generous financial support.
         answer: A
+        print_position: 6
       - uid: BIB217.1.2.3.TY.1
         subobj: 1.2.3
         type: ty
@@ -1980,6 +1994,7 @@ courses:
           C: peace.
           D: self-control.
         answer: A
+        print_position: 7
       - uid: BIB217.1.2.5.TY.1
         subobj: 1.2.5
         type: ty
@@ -1991,6 +2006,7 @@ courses:
           C: Timothy.
           D: Epaphras.
         answer: D
+        print_position: 8
       - uid: BIB217.1.3.1.UPE.1
         subobj: 1.3.1
         type: upe
@@ -2002,6 +2018,8 @@ courses:
           C: private, serious, and filled with concern for others.
           D: corporate, continual, and filled with concern for others.
         answer: D
+        print_position: 5
+        unit: 1
       - uid: BIB217.1.3.1.TY.1
         subobj: 1.3.1
         type: ty
@@ -2012,6 +2030,7 @@ courses:
           C: private, intense, and continual.
           D: continual, intense, and filled with concern for others.
         answer: B
+        print_position: 9
       - uid: BIB217.1.3.2.UPE.1
         subobj: 1.3.2
         type: upe
@@ -2023,6 +2042,8 @@ courses:
           C: love for each other.
           D: knowledge, wisdom, and joy in the Holy Spirit.
         answer: A
+        print_position: 6
+        unit: 1
       - uid: BIB217.1.3.3.TY.1
         subobj: 1.3.3
         type: ty
@@ -2033,6 +2054,7 @@ courses:
           C: Ephesians 3:1–6.
           D: Colossians 1:9–14.
         answer: D
+        print_position: 10
       - uid: BIB217.2.1.2.UPE.1
         subobj: 2.1.2
         type: upe
@@ -2043,6 +2065,8 @@ courses:
           C: soon coming King.
           D: firstborn over all creation.
         answer: D
+        print_position: 7
+        unit: 1
       - uid: BIB217.2.1.2.TY.1
         subobj: 2.1.2
         type: ty
@@ -2054,6 +2078,7 @@ courses:
           C: All things were created for Him.
           D: All of the above are true.
         answer: D
+        print_position: 1
       - uid: BIB217.2.1.2.TY.2
         subobj: 2.1.2
         type: ty
@@ -2064,6 +2089,7 @@ courses:
           C: All things were created for Him.
           D: In Him all things hold together.
         answer: C
+        print_position: 2
       - uid: BIB217.2.1.3.UPE.1
         subobj: 2.1.3
         type: upe
@@ -2074,6 +2100,8 @@ courses:
           C: humanity of Christ.
           D: divinity of Christ.
         answer: B
+        print_position: 8
+        unit: 1
       - uid: BIB217.2.1.4.TY.1
         subobj: 2.1.4
         type: ty
@@ -2084,6 +2112,7 @@ courses:
           C: glorify God.
           D: destroy the works of the devil.
         answer: B
+        print_position: 3
       - uid: BIB217.2.2.1.TY.1
         subobj: 2.2.1
         type: ty
@@ -2094,6 +2123,7 @@ courses:
           C: to be expected.
           D: a sign of pride.
         answer: C
+        print_position: 4
       - uid: BIB217.2.2.2.UPE.1
         subobj: 2.2.2
         type: upe
@@ -2104,6 +2134,8 @@ courses:
           C: Believers are justified by faith alone
           D: That Christ was returning soon
         answer: B
+        print_position: 9
+        unit: 1
       - uid: BIB217.2.2.2.TY.1
         subobj: 2.2.2
         type: ty
@@ -2115,6 +2147,7 @@ courses:
           C: Gentiles and all people
           D: Romans
         answer: C
+        print_position: 5
       - uid: BIB217.2.2.3.UPE.1
         subobj: 2.2.3
         type: upe
@@ -2127,6 +2160,8 @@ courses:
             of Christ.
           D: having good programs and fellowship.
         answer: A
+        print_position: 10
+        unit: 1
       - uid: BIB217.2.2.3.TY.1
         subobj: 2.2.3
         type: ty
@@ -2138,6 +2173,7 @@ courses:
           C: programs and good organization.
           D: personal sacrifice.
         answer: B
+        print_position: 6
       - uid: BIB217.2.3.1.TY.1
         subobj: 2.3.1
         type: ty
@@ -2148,6 +2184,7 @@ courses:
           C: legal terminology.
           D: business terminology.
         answer: A
+        print_position: 7
       - uid: BIB217.2.3.2.TY.1
         subobj: 2.3.2
         type: ty
@@ -2159,6 +2196,7 @@ courses:
           C: hollow or deceptive philosophy.
           D: complacency.
         answer: C
+        print_position: 8
       - uid: BIB217.2.3.3.UPE.1
         subobj: 2.3.3
         type: upe
@@ -2169,6 +2207,8 @@ courses:
           C: Communion
           D: Confirmation
         answer: B
+        print_position: 11
+        unit: 1
       - uid: BIB217.2.3.3.UPE.2
         subobj: 2.3.3
         type: upe
@@ -2180,6 +2220,8 @@ courses:
           C: compassion of Christ.
           D: sufficiency of Christ.
         answer: D
+        print_position: 12
+        unit: 1
       - uid: BIB217.2.3.3.TY.1
         subobj: 2.3.3
         type: ty
@@ -2190,6 +2232,7 @@ courses:
           C: sanctification.
           D: isolation.
         answer: C
+        print_position: 9
       - uid: BIB217.2.3.4.UPE.1
         subobj: 2.3.4
         type: upe
@@ -2200,6 +2243,8 @@ courses:
           C: a higher and deeper religious experience through subjective means.
           D: self-denial in attempt to reach a higher religious experience.
         answer: C
+        print_position: 13
+        unit: 1
       - uid: BIB217.2.3.4.TY.1
         subobj: 2.3.4
         type: ty
@@ -2210,6 +2255,7 @@ courses:
           C: rigorous self-denial in attempt to reach a higher religious experience.
           D: the pursuit of secret knowledge and wisdom.
         answer: A
+        print_position: 10
       - uid: BIB217.3.1.1.TY.1
         subobj: 3.1.1
         type: ty
@@ -2221,6 +2267,7 @@ courses:
           C: set their hearts and minds upon things above.
           D: pray in the Spirit at all times.
         answer: C
+        print_position: 1
       - uid: BIB217.3.1.2.UPE.1
         subobj: 3.1.2
         type: upe
@@ -2231,6 +2278,8 @@ courses:
           C: running a race.
           D: darkness and light.
         answer: B
+        print_position: 14
+        unit: 1
       - uid: BIB217.3.1.2.UPE.2
         subobj: 3.1.2
         type: upe
@@ -2242,6 +2291,8 @@ courses:
           C: Put them to death
           D: Triumph over them
         answer: C
+        print_position: 15
+        unit: 1
       - uid: BIB217.3.1.2.TY.1
         subobj: 3.1.2
         type: ty
@@ -2253,6 +2304,7 @@ courses:
           C: a Christ-like sensitivity and heartfelt sympathy for the welfare of others.
           D: an attitude that recognizes our own weaknesses.
         answer: C
+        print_position: 2
       - uid: BIB217.3.1.2.TY.2
         subobj: 3.1.2
         type: ty
@@ -2264,6 +2316,7 @@ courses:
           C: The word of Christ
           D: Gentleness
         answer: C
+        print_position: 3
       - uid: BIB217.3.1.3.TY.1
         subobj: 3.1.3
         type: ty
@@ -2275,6 +2328,7 @@ courses:
           C: for the glory of God.
           D: for the sake of winning a crown.
         answer: A
+        print_position: 4
       - uid: BIB217.3.2.1.TY.1
         subobj: 3.2.1
         type: ty
@@ -2286,6 +2340,7 @@ courses:
           C: listed in sequential order and different in motivation.
           D: different in motivation and exclusive only to Christianity.
         answer: B
+        print_position: 5
       - uid: BIB217.3.2.2.TY.1
         subobj: 3.2.2
         type: ty
@@ -2296,6 +2351,7 @@ courses:
           C: cultural upbringing.
           D: personality.
         answer: B
+        print_position: 6
       - uid: BIB217.3.2.2.TY.2
         subobj: 3.2.2
         type: ty
@@ -2306,6 +2362,7 @@ courses:
           C: serve their husbands for peace’s sake.
           D: submit to their husbands in the love of Christ.
         answer: D
+        print_position: 7
       - uid: BIB217.3.2.4.UPE.1
         subobj: 3.2.4
         type: upe
@@ -2316,6 +2373,8 @@ courses:
           C: submit to their parents.
           D: serve their parents.
         answer: A
+        print_position: 16
+        unit: 1
       - uid: BIB217.3.2.5.UPE.1
         subobj: 3.2.5
         type: upe
@@ -2326,6 +2385,8 @@ courses:
           C: not embitter or discourage their children.
           D: love their children.
         answer: C
+        print_position: 17
+        unit: 1
       - uid: BIB217.3.2.6.TY.1
         subobj: 3.2.6
         type: ty
@@ -2336,6 +2397,7 @@ courses:
           C: rejoice in their freedom in Christ.
           D: peacefully fight for their freedom and deliverance.
         answer: B
+        print_position: 8
       - uid: BIB217.3.3.1.UPE.1
         subobj: 3.3.1
         type: upe
@@ -2346,6 +2408,8 @@ courses:
           C: serving one another.
           D: loving one another.
         answer: A
+        print_position: 18
+        unit: 1
       - uid: BIB217.3.3.4.UPE.1
         subobj: 3.3.4
         type: upe
@@ -2356,6 +2420,8 @@ courses:
           C: strong commitment.
           D: servant’s heart.
         answer: D
+        print_position: 19
+        unit: 1
       - uid: BIB217.3.3.4.TY.1
         subobj: 3.3.4
         type: ty
@@ -2366,6 +2432,7 @@ courses:
           C: second chance.
           D: servant’s heart.
         answer: C
+        print_position: 9
       - uid: BIB217.3.3.4.TY.2
         subobj: 3.3.4
         type: ty
@@ -2377,6 +2444,7 @@ courses:
           C: Justus
           D: Archippus
         answer: B
+        print_position: 10
       - uid: BIB217.4.1.1.UPE.1
         subobj: 4.1.1
         type: upe
@@ -2387,6 +2455,8 @@ courses:
           C: a slave owner.
           D: a proselyte (convert) to Judaism.
         answer: C
+        print_position: 20
+        unit: 1
       - uid: BIB217.4.1.1.UPE.2
         subobj: 4.1.1
         type: upe
@@ -2397,6 +2467,8 @@ courses:
           C: One of the seven deacons appointed by the church at Jerusalem
           D: A member of the church at Laodicea
         answer: B
+        print_position: 21
+        unit: 1
       - uid: BIB217.4.1.1.TY.1
         subobj: 4.1.1
         type: ty
@@ -2407,6 +2479,7 @@ courses:
           C: He encouraged Gentiles to observe the Law.
           D: He preached to all types of people.
         answer: D
+        print_position: 1
       - uid: BIB217.4.1.2.TY.1
         subobj: 4.1.2
         type: ty
@@ -2417,6 +2490,7 @@ courses:
           C: A letter of recommendation
           D: An expression of thanks
         answer: C
+        print_position: 2
       - uid: BIB217.4.1.2.TY.2
         subobj: 4.1.2
         type: ty
@@ -2427,6 +2501,7 @@ courses:
           C: Paul reminded Philemon of his obligation as a friend.
           D: Paul told Philemon to obey as a son
         answer: A
+        print_position: 3
       - uid: BIB217.4.1.3.UPE.1
         subobj: 4.1.3
         type: upe
@@ -2437,6 +2512,8 @@ courses:
           C: Forgiveness and restoration
           D: Citizenship in heaven
         answer: C
+        print_position: 22
+        unit: 1
       - uid: BIB217.4.1.3.TY.1
         subobj: 4.1.3
         type: ty
@@ -2447,6 +2524,7 @@ courses:
           C: The request would be seen as a direct attack on the institution of slavery.
           D: Onesimus was guilty of a crime under Roman law.
         answer: B
+        print_position: 4
       - uid: BIB217.4.2.1.UPE.1
         subobj: 4.2.1
         type: upe
@@ -2458,6 +2536,8 @@ courses:
           C: The rich and powerful should serve the poor and powerless.
           D: Paul was asserting his apostolic authority.
         answer: B
+        print_position: 23
+        unit: 1
       - uid: BIB217.4.2.1.TY.1
         subobj: 4.2.1
         type: ty
@@ -2468,6 +2548,7 @@ courses:
           C: Philemon’s son was an elder.
           D: Philemon was a prominent teacher.
         answer: A
+        print_position: 5
       - uid: BIB217.4.2.2.TY.1
         subobj: 4.2.2
         type: ty
@@ -2478,6 +2559,7 @@ courses:
           C: For the absence of conflict in our church relationships
           D: For the opportunities to meet new people
         answer: A
+        print_position: 6
       - uid: BIB217.4.2.3.UPE.1
         subobj: 4.2.3
         type: upe
@@ -2490,6 +2572,8 @@ courses:
           C: Paul is referring to doctrines taught in the Epistle of James.
           D: Paul wanted Philemon to express his faith in true fellowship (koinonia).
         answer: D
+        print_position: 24
+        unit: 1
       - uid: BIB217.4.2.3.TY.1
         subobj: 4.2.3
         type: ty
@@ -2502,6 +2586,7 @@ courses:
           C: We should not have special favorites in the church.
           D: Leaders in the church should be accorded special respect and honor.
         answer: A
+        print_position: 7
       - uid: BIB217.4.3.1.UPE.1
         subobj: 4.3.1
         type: upe
@@ -2513,6 +2598,8 @@ courses:
           C: We should forgive, but serious offenses should be reported to the authorities.
           D: We should take the initiative in extending forgiveness.
         answer: D
+        print_position: 25
+        unit: 1
       - uid: BIB217.4.3.1.TY.1
         subobj: 4.3.1
         type: ty
@@ -2524,6 +2611,7 @@ courses:
           C: The American Civil Liberties Union opposes religiously-oriented decisions.
           D: Americans are intensely individualistic.
         answer: B
+        print_position: 8
       - uid: BIB217.4.3.1.TY.2
         subobj: 4.3.1
         type: ty
@@ -2535,6 +2623,7 @@ courses:
           C: God will judge us more severely if we do not forgive.
           D: Real forgiveness releases the offender from all obligations.
         answer: D
+        print_position: 9
       - uid: BIB217.4.3.1.TY.3
         subobj: 4.3.1
         type: ty
@@ -2547,6 +2636,7 @@ courses:
           C: Forgiveness should be gently encouraged, but not demanded or forced.
           D: Serious problems should be handled with legal counsel.
         answer: C
+        print_position: 10
       - uid: BIB217.5.1.1.UPE.1
         subobj: 5.1.1
         type: upe
@@ -2557,6 +2647,8 @@ courses:
           C: the power of the Holy Spirit.
           D: the priesthood of the believer.
         answer: B
+        print_position: 1
+        unit: 2
       - uid: BIB217.5.1.1.TY.1
         subobj: 5.1.1
         type: ty
@@ -2567,6 +2659,7 @@ courses:
           C: The humanity of Christ
           D: God’s complete provision for effective Christian life
         answer: D
+        print_position: 1
       - uid: BIB217.5.1.1.TY.2
         subobj: 5.1.1
         type: ty
@@ -2577,6 +2670,7 @@ courses:
           C: '2:1'
           D: '3:6'
         answer: A
+        print_position: 2
       - uid: BIB217.5.1.2.UPE.1
         subobj: 5.1.2
         type: upe
@@ -2588,6 +2682,8 @@ courses:
           C: Athens.
           D: Ephesus.
         answer: D
+        print_position: 2
+        unit: 2
       - uid: BIB217.5.1.2.TY.1
         subobj: 5.1.2
         type: ty
@@ -2598,6 +2694,7 @@ courses:
           C: Macedonia.
           D: Bithynia.
         answer: A
+        print_position: 3
       - uid: BIB217.5.1.2.TY.2
         subobj: 5.1.2
         type: ty
@@ -2608,6 +2705,7 @@ courses:
           C: Athena.
           D: Demeter.
         answer: B
+        print_position: 4
       - uid: BIB217.5.1.5.UPE.1
         subobj: 5.1.5
         type: upe
@@ -2619,6 +2717,8 @@ courses:
           C: justification of believers and the second coming of Christ.
           D: justification of believers and their exalted position.
         answer: A
+        print_position: 3
+        unit: 2
       - uid: BIB217.5.1.5.TY.1
         subobj: 5.1.5
         type: ty
@@ -2629,6 +2729,7 @@ courses:
           C: Subjective and imperative
           D: Imperative and indicative
         answer: D
+        print_position: 5
       - uid: BIB217.5.2.1.UPE.1
         subobj: 5.2.1
         type: upe
@@ -2639,6 +2740,8 @@ courses:
           C: '9'
           D: '12'
         answer: B
+        print_position: 4
+        unit: 2
       - uid: BIB217.5.2.2.TY.1
         subobj: 5.2.2
         type: ty
@@ -2651,6 +2754,7 @@ courses:
           C: In Christ, believers are chosen and sealed by the Holy Spirit.
           D: In Christ, believers are adopted and anointed for ministry.
         answer: C
+        print_position: 6
       - uid: BIB217.5.2.3.TY.1
         subobj: 5.2.3
         type: ty
@@ -2661,6 +2765,7 @@ courses:
           C: accept.”
           D: be chosen.”
         answer: B
+        print_position: 7
       - uid: BIB217.5.2.7.TY.1
         subobj: 5.2.7
         type: ty
@@ -2673,6 +2778,7 @@ courses:
           C: Believers have received God’s stamp of approval.
           D: Believers have been sanctified and set apart for ministry.
         answer: B
+        print_position: 8
       - uid: BIB217.5.3.2.TY.1
         subobj: 5.3.2
         type: ty
@@ -2684,6 +2790,7 @@ courses:
           C: the Holy Spirit.
           D: revelation.
         answer: C
+        print_position: 9
       - uid: BIB217.5.3.3.UPE.1
         subobj: 5.3.3
         type: upe
@@ -2695,6 +2802,8 @@ courses:
           C: their glorious inheritance in the saints.
           D: God’s incomparably great power to those who believe.
         answer: A
+        print_position: 5
+        unit: 2
       - uid: BIB217.5.3.3.TY.1
         subobj: 5.3.3
         type: ty
@@ -2705,6 +2814,7 @@ courses:
           C: “majestic.”
           D: “holy and set apart.”
         answer: B
+        print_position: 10
       - uid: BIB217.6.1.1.UPE.1
         subobj: 6.1.1
         type: upe
@@ -2715,6 +2825,8 @@ courses:
           C: tormented, out of control, lost, and dead in their own sin.
           D: dead in their sin, lost, out of control, and headed for God’s judgment.
         answer: D
+        print_position: 6
+        unit: 2
       - uid: BIB217.6.1.1.TY.1
         subobj: 6.1.1
         type: ty
@@ -2725,6 +2837,7 @@ courses:
           C: tormented, lost, dead in their sin, and out of control.
           D: poor, dead in their sin, lost, and headed for God’s judgment.
         answer: B
+        print_position: 1
       - uid: BIB217.6.1.2.UPE.1
         subobj: 6.1.2
         type: upe
@@ -2736,6 +2849,8 @@ courses:
           C: is unnecessary because believers are saved by faith alone.
           D: is helpful, but is not necessary to live a consistent Christian life.
         answer: B
+        print_position: 7
+        unit: 2
       - uid: BIB217.6.1.3.TY.1
         subobj: 6.1.3
         type: ty
@@ -2747,6 +2862,7 @@ courses:
           C: persecution, life, hope, and purpose/potential.
           D: position, prosperity, hope, and life.
         answer: A
+        print_position: 2
       - uid: BIB217.6.2.1.UPE.1
         subobj: 6.2.1
         type: upe
@@ -2758,6 +2874,8 @@ courses:
           C: restoration.
           D: reconciliation.
         answer: D
+        print_position: 8
+        unit: 2
       - uid: BIB217.6.2.2.UPE.1
         subobj: 6.2.2
         type: upe
@@ -2768,6 +2886,8 @@ courses:
           C: Christ, citizenship, hope, covenants, and God.
           D: hope, God, purpose, Christ and a future.
         answer: C
+        print_position: 9
+        unit: 2
       - uid: BIB217.6.2.2.TY.1
         subobj: 6.2.2
         type: ty
@@ -2778,6 +2898,7 @@ courses:
           C: purpose, destiny, citizenship, hope, and God.
           D: Christ, citizenship, covenants, purpose, and significance.
         answer: B
+        print_position: 3
       - uid: BIB217.6.2.3.TY.1
         subobj: 6.2.3
         type: ty
@@ -2788,6 +2909,7 @@ courses:
           C: hope, peace, purpose, and prosperity.
           D: near to God, peace, unity, and access to God.
         answer: D
+        print_position: 4
       - uid: BIB217.6.2.4.TY.1
         subobj: 6.2.4
         type: ty
@@ -2798,6 +2920,7 @@ courses:
           C: built together into a temple, a dwelling place for God’s Spirit.
           D: all of the above.
         answer: D
+        print_position: 5
       - uid: BIB217.6.3.1.UPE.1
         subobj: 6.3.1
         type: upe
@@ -2808,6 +2931,8 @@ courses:
           C: was hidden for a time, but is now made known to all.
           D: was never hidden; it was just a concept that was hard to grasp.
         answer: C
+        print_position: 10
+        unit: 2
       - uid: BIB217.6.3.1.TY.1
         subobj: 6.3.1
         type: ty
@@ -2818,6 +2943,7 @@ courses:
           C: Jews.
           D: mystics.
         answer: C
+        print_position: 6
       - uid: BIB217.6.3.2.TY.1
         subobj: 6.3.2
         type: ty
@@ -2829,6 +2955,7 @@ courses:
           C: uncircumcised.”
           D: outsiders.”
         answer: B
+        print_position: 7
       - uid: BIB217.6.3.3.TY.1
         subobj: 6.3.3
         type: ty
@@ -2841,6 +2968,7 @@ courses:
           C: be hospitable, be a servant, proclaim Christ, and teach clearly.
           D: give generously, be a servant, proclaim Christ, and be hospitable.
         answer: A
+        print_position: 8
       - uid: BIB217.6.3.3.TY.2
         subobj: 6.3.3
         type: ty
@@ -2852,6 +2980,7 @@ courses:
           C: “a table waiter.”
           D: “humbled one.”
         answer: C
+        print_position: 9
       - uid: BIB217.6.4.2.TY.1
         subobj: 6.4.2
         type: ty
@@ -2864,6 +2993,7 @@ courses:
           C: be rooted and built up, and have the joy of the Lord.
           D: be filled with the fullness of God and have a peace that passes all understanding.
         answer: B
+        print_position: 10
       - uid: BIB217.7.1.1.UPE.1
         subobj: 7.1.1
         type: upe
@@ -2874,6 +3004,8 @@ courses:
           C: abstain from meat offered to idols.
           D: be ready for Christ’s soon return.
         answer: B
+        print_position: 11
+        unit: 2
       - uid: BIB217.7.1.1.TY.1
         subobj: 7.1.1
         type: ty
@@ -2885,6 +3017,7 @@ courses:
           C: Humility, gentleness, patience, and forbearance
           D: Patience, competence, gentleness, and humility
         answer: C
+        print_position: 1
       - uid: BIB217.7.1.3.UPE.1
         subobj: 7.1.3
         type: upe
@@ -2896,6 +3029,8 @@ courses:
           C: do the professional aspects of ministry.
           D: lead the church.
         answer: B
+        print_position: 12
+        unit: 2
       - uid: BIB217.7.1.3.TY.1
         subobj: 7.1.3
         type: ty
@@ -2906,6 +3041,7 @@ courses:
           C: evangelists, presbyters, prophets, and apostles.
           D: apostles, prophets, evangelists, and pastors/teachers.
         answer: D
+        print_position: 2
       - uid: BIB217.7.1.4.TY.1
         subobj: 7.1.4
         type: ty
@@ -2916,6 +3052,7 @@ courses:
           C: modern culture.
           D: television evangelism.
         answer: A
+        print_position: 3
       - uid: BIB217.7.2.1.TY.1
         subobj: 7.2.1
         type: ty
@@ -2927,6 +3064,7 @@ courses:
           C: Bribery, malice, negative attitudes, stealing, and unwholesome speech
           D: Lying, sinful anger, stealing, unwholesome speech, and negative attitudes
         answer: D
+        print_position: 4
       - uid: BIB217.7.2.2.UPE.1
         subobj: 7.2.2
         type: upe
@@ -2942,6 +3080,8 @@ courses:
           D: Modesty, truthfulness, wholesome speech, a good work ethic, and a positive
             attitude.
         answer: C
+        print_position: 13
+        unit: 2
       - uid: BIB217.7.3.1.UPE.1
         subobj: 7.3.1
         type: upe
@@ -2952,6 +3092,8 @@ courses:
           C: God
           D: The apostles
         answer: C
+        print_position: 14
+        unit: 2
       - uid: BIB217.7.3.2.TY.1
         subobj: 7.3.2
         type: ty
@@ -2963,6 +3105,7 @@ courses:
           C: malice, sexual immorality, or bitterness.
           D: pride, greed, or sexual immorality.
         answer: A
+        print_position: 5
       - uid: BIB217.7.3.3.TY.1
         subobj: 7.3.3
         type: ty
@@ -2974,6 +3117,7 @@ courses:
           C: love.
           D: devotion.
         answer: C
+        print_position: 6
       - uid: BIB217.7.4.1.TY.1
         subobj: 7.4.1
         type: ty
@@ -2985,6 +3129,7 @@ courses:
           C: gold and stubble.
           D: light and darkness.
         answer: D
+        print_position: 7
       - uid: BIB217.7.4.2.UPE.1
         subobj: 7.4.2
         type: upe
@@ -2996,6 +3141,8 @@ courses:
           C: fruitless, unwise, and foolish.
           D: fruitless, despairing, and evil.
         answer: C
+        print_position: 15
+        unit: 2
       - uid: BIB217.7.4.2.TY.1
         subobj: 7.4.2
         type: ty
@@ -3007,6 +3154,7 @@ courses:
           C: judgment.
           D: a desert place.
         answer: B
+        print_position: 8
       - uid: BIB217.7.4.3.TY.1
         subobj: 7.4.3
         type: ty
@@ -3017,6 +3165,7 @@ courses:
           C: salvation, goodness, and truth.
           D: goodness, righteousness, and truth.
         answer: D
+        print_position: 9
       - uid: BIB217.7.4.3.TY.2
         subobj: 7.4.3
         type: ty
@@ -3030,6 +3179,7 @@ courses:
           D: be filled with the Spirit, rejoice in the Lord always, and press on in
             the strength of the Lord.
         answer: A
+        print_position: 10
       - uid: BIB217.8.1.1.UPE.1
         subobj: 8.1.1
         type: upe
@@ -3041,6 +3191,8 @@ courses:
           C: loving submission to their husbands.
           D: serving their husbands.
         answer: C
+        print_position: 16
+        unit: 2
       - uid: BIB217.8.1.1.TY.1
         subobj: 8.1.1
         type: ty
@@ -3051,6 +3203,7 @@ courses:
           C: obligatory act.
           D: sacrificial act.
         answer: A
+        print_position: 1
       - uid: BIB217.8.1.1.TY.2
         subobj: 8.1.1
         type: ty
@@ -3061,6 +3214,7 @@ courses:
           C: loving, respecting, and yielding in support of her husband.
           D: playing a servant’s role in her marriage.
         answer: C
+        print_position: 2
       - uid: BIB217.8.1.2.UPE.1
         subobj: 8.1.2
         type: upe
@@ -3071,6 +3225,8 @@ courses:
           C: obligation.
           D: reverence.
         answer: D
+        print_position: 17
+        unit: 2
       - uid: BIB217.8.1.2.TY.1
         subobj: 8.1.2
         type: ty
@@ -3081,6 +3237,7 @@ courses:
           C: obedience.
           D: obligation.
         answer: B
+        print_position: 3
       - uid: BIB217.8.1.3.TY.1
         subobj: 8.1.3
         type: ty
@@ -3091,6 +3248,7 @@ courses:
           C: demonstrating sacrificial, caring, and indissoluble love.
           D: seeing that she maintains a submissive attitude at all times.
         answer: C
+        print_position: 4
       - uid: BIB217.8.1.3.TY.2
         subobj: 8.1.3
         type: ty
@@ -3102,6 +3260,7 @@ courses:
           C: His vows are dissolvable.
           D: His vows are important.
         answer: A
+        print_position: 5
       - uid: BIB217.8.1.4.UPE.1
         subobj: 8.1.4
         type: upe
@@ -3113,6 +3272,8 @@ courses:
           C: lavish, eternal, and out of obligation.
           D: indissoluble, selfless, and out of obligation.
         answer: B
+        print_position: 18
+        unit: 2
       - uid: BIB217.8.1.4.TY.1
         subobj: 8.1.4
         type: ty
@@ -3124,6 +3285,7 @@ courses:
           C: cherish their husbands.
           D: respect their husbands.
         answer: D
+        print_position: 6
       - uid: BIB217.8.2.2.TY.1
         subobj: 8.2.2
         type: ty
@@ -3134,6 +3296,7 @@ courses:
           C: fear and obey their parents.
           D: obey and honor their parents.
         answer: D
+        print_position: 7
       - uid: BIB217.8.2.3.UPE.1
         subobj: 8.2.3
         type: upe
@@ -3145,6 +3308,8 @@ courses:
           C: love them and overlook their shortcomings.
           D: respect them and love them for who they are in Christ.
         answer: B
+        print_position: 19
+        unit: 2
       - uid: BIB217.8.2.3.TY.1
         subobj: 8.2.3
         type: ty
@@ -3156,6 +3321,7 @@ courses:
           C: love them and overlook their shortcomings.
           D: train them and instruct them in the Lord.
         answer: D
+        print_position: 8
       - uid: BIB217.8.3.2.TY.1
         subobj: 8.3.2
         type: ty
@@ -3167,6 +3333,7 @@ courses:
           C: grateful heart.
           D: generous heart.
         answer: A
+        print_position: 9
       - uid: BIB217.8.3.3.UPE.1
         subobj: 8.3.3
         type: upe
@@ -3178,6 +3345,8 @@ courses:
           C: joyful heart.
           D: grateful heart.
         answer: A
+        print_position: 20
+        unit: 2
       - uid: BIB217.8.3.3.TY.1
         subobj: 8.3.3
         type: ty
@@ -3189,6 +3358,7 @@ courses:
           C: right heart.
           D: grateful heart.
         answer: C
+        print_position: 10
       - uid: BIB217.9.1.1.TY.1
         subobj: 9.1.1
         type: ty
@@ -3199,6 +3369,7 @@ courses:
           C: evil spiritual forces and authorities in the heavenly realms.
           D: governments and politicians.
         answer: C
+        print_position: 1
       - uid: BIB217.9.1.2.UPE.1
         subobj: 9.1.2
         type: upe
@@ -3209,6 +3380,8 @@ courses:
           C: lay down his life.
           D: retreat and seek refuge in God.
         answer: B
+        print_position: 21
+        unit: 2
       - uid: BIB217.9.1.2.TY.1
         subobj: 9.1.2
         type: ty
@@ -3220,6 +3393,7 @@ courses:
           C: retreat and take refuge in God.
           D: declare his or her fear to others.
         answer: A
+        print_position: 2
       - uid: BIB217.9.1.2.TY.2
         subobj: 9.1.2
         type: ty
@@ -3230,6 +3404,7 @@ courses:
           C: hold one’s position.”
           D: harden one’s resolve.”
         answer: C
+        print_position: 3
       - uid: BIB217.9.1.3.UPE.1
         subobj: 9.1.3
         type: upe
@@ -3241,6 +3416,8 @@ courses:
           C: The sword of the Spirit
           D: The belt of truth
         answer: B
+        print_position: 22
+        unit: 2
       - uid: BIB217.9.1.3.UPE.2
         subobj: 9.1.3
         type: upe
@@ -3252,6 +3429,8 @@ courses:
           C: The shield of faith
           D: The breastplate of righteousness
         answer: C
+        print_position: 23
+        unit: 2
       - uid: BIB217.9.1.3.UPE.3
         subobj: 9.1.3
         type: upe
@@ -3262,6 +3441,8 @@ courses:
           C: Shoes
           D: Helmet
         answer: C
+        print_position: 24
+        unit: 2
       - uid: BIB217.9.1.3.TY.1
         subobj: 9.1.3
         type: ty
@@ -3273,6 +3454,7 @@ courses:
           C: shield of faith.
           D: helmet of salvation.
         answer: D
+        print_position: 4
       - uid: BIB217.9.1.3.TY.2
         subobj: 9.1.3
         type: ty
@@ -3283,6 +3465,7 @@ courses:
           C: The breastplate of righteousness
           D: The shield of faith
         answer: A
+        print_position: 5
       - uid: BIB217.9.1.3.TY.3
         subobj: 9.1.3
         type: ty
@@ -3294,6 +3477,7 @@ courses:
           C: sword of the Spirit.
           D: breastplate of righteousness.
         answer: A
+        print_position: 6
       - uid: BIB217.9.1.3.TY.4
         subobj: 9.1.3
         type: ty
@@ -3304,6 +3488,7 @@ courses:
           C: The breastplate of righteousness
           D: The sword of the Spirit
         answer: D
+        print_position: 7
       - uid: BIB217.9.1.3.TY.5
         subobj: 9.1.3
         type: ty
@@ -3315,6 +3500,7 @@ courses:
           C: Reading the Word of God
           D: Thanksgiving
         answer: B
+        print_position: 8
       - uid: BIB217.9.1.3.TY.6
         subobj: 9.1.3
         type: ty
@@ -3325,6 +3511,7 @@ courses:
           C: a pair of shoes.
           D: a helmet.
         answer: C
+        print_position: 9
       - uid: BIB217.9.2.1.UPE.1
         subobj: 9.2.1
         type: upe
@@ -3335,6 +3522,8 @@ courses:
           C: for all the saints.
           D: doing all of the above.
         answer: D
+        print_position: 25
+        unit: 2
       - uid: BIB217.9.2.1.TY.1
         subobj: 9.2.1
         type: ty
@@ -3346,6 +3535,7 @@ courses:
           C: To pray with groans that words cannot express
           D: It can include all of the above.
         answer: D
+        print_position: 10
       - uid: BIB217.10.1.1.TY.1
         subobj: 10.1.1
         type: ty
@@ -3357,6 +3547,7 @@ courses:
           C: '3:1'
           D: '4:3'
         answer: C
+        print_position: 1
       - uid: BIB217.10.1.2.TY.1
         subobj: 10.1.2
         type: ty
@@ -3367,6 +3558,7 @@ courses:
           C: Galatia.
           D: Thracia.
         answer: B
+        print_position: 2
       - uid: BIB217.10.1.2.TY.2
         subobj: 10.1.2
         type: ty
@@ -3377,6 +3569,7 @@ courses:
           C: Jews were not welcome in Philippi.
           D: Paul mentions this in his opening comment to the Philippians.
         answer: B
+        print_position: 3
       - uid: BIB217.10.1.3.UPE.1
         subobj: 10.1.3
         type: upe
@@ -3390,6 +3583,8 @@ courses:
           D: To express appreciation, restore perspective, emphasize unity, impart
             wisdom, and correct
         answer: C
+        print_position: 2
+        unit: 3
       - uid: BIB217.10.1.3.TY.1
         subobj: 10.1.3
         type: ty
@@ -3401,6 +3596,7 @@ courses:
           C: To express appreciation
           D: To restore perspective.
         answer: A
+        print_position: 4
       - uid: BIB217.10.1.4.UPE.1
         subobj: 10.1.4
         type: upe
@@ -3411,6 +3607,8 @@ courses:
           C: The supremacy of Christ and the advancement of the gospel
           D: The second coming of Christ and the joy of the Lord
         answer: A
+        print_position: 3
+        unit: 3
       - uid: BIB217.10.1.4.TY.1
         subobj: 10.1.4
         type: ty
@@ -3422,6 +3620,7 @@ courses:
           C: second coming of Christ and the joy of the Lord.
           D: joy of the Lord and the advancement of the gospel.
         answer: D
+        print_position: 5
       - uid: BIB217.10.2.1.UPE.1
         subobj: 10.2.1
         type: upe
@@ -3433,6 +3632,8 @@ courses:
           C: a servant and apostle of Jesus Christ.
           D: a servant of Jesus Christ.
         answer: D
+        print_position: 1
+        unit: 3
       - uid: BIB217.10.2.2.TY.1
         subobj: 10.2.2
         type: ty
@@ -3443,6 +3644,7 @@ courses:
           C: faith in Christ.
           D: effectiveness in spreading the gospel.
         answer: B
+        print_position: 6
       - uid: BIB217.10.2.2.TY.2
         subobj: 10.2.2
         type: ty
@@ -3453,6 +3655,7 @@ courses:
           C: “Partnership”
           D: “Thankfulness”
         answer: C
+        print_position: 7
       - uid: BIB217.10.2.3.UPE.1
         subobj: 10.2.3
         type: upe
@@ -3464,6 +3667,8 @@ courses:
           C: '1:12.'
           D: '1:21.'
         answer: A
+        print_position: 6
+        unit: 3
       - uid: BIB217.10.2.4.UPE.1
         subobj: 10.2.4
         type: upe
@@ -3474,6 +3679,8 @@ courses:
           C: affection.
           D: thanksgiving.
         answer: C
+        print_position: 4
+        unit: 3
       - uid: BIB217.10.2.4.TY.1
         subobj: 10.2.4
         type: ty
@@ -3484,6 +3691,7 @@ courses:
           C: “kindred spirit.”
           D: “a longing of heart.”
         answer: A
+        print_position: 9
       - uid: BIB217.10.2.5.UPE.1
         subobj: 10.2.5
         type: upe
@@ -3495,6 +3703,8 @@ courses:
           C: Everything for God’s glory and praise
           D: Prepare for Christ’s coming
         answer: A
+        print_position: 5
+        unit: 3
       - uid: BIB217.10.2.5.TY.1
         subobj: 10.2.5
         type: ty
@@ -3505,6 +3715,7 @@ courses:
           C: “a deep, personal knowledge of Christ.”
           D: “moral and spiritual perception.”
         answer: C
+        print_position: 8
       - uid: BIB217.10.2.5.TY.2
         subobj: 10.2.5
         type: ty
@@ -3524,6 +3735,7 @@ courses:
             and spiritually ready for Christ’s return, and be filled with fruit of
             righteousness
         answer: A
+        print_position: 10
       - uid: BIB217.11.1.1.TY.1
         subobj: 11.1.1
         type: ty
@@ -3534,6 +3746,7 @@ courses:
           C: his or her relationship with Christ.
           D: his or her relationships with other people.
         answer: C
+        print_position: 1
       - uid: BIB217.11.1.2.UPE.1
         subobj: 11.1.2
         type: upe
@@ -3544,6 +3757,8 @@ courses:
           C: He saw it as an opportunity to get sympathy from his enemies.
           D: He was resentful towards God and the church.
         answer: B
+        print_position: 7
+        unit: 3
       - uid: BIB217.11.1.2.TY.1
         subobj: 11.1.2
         type: ty
@@ -3555,6 +3770,7 @@ courses:
           C: warning the church.
           D: thanking God that Christ was exalted.
         answer: D
+        print_position: 3
       - uid: BIB217.11.1.3.UPE.1
         subobj: 11.1.3
         type: upe
@@ -3572,6 +3788,8 @@ courses:
             and purposes, the goodness of the Caesar, and that he would not be put
             to shame.
         answer: C
+        print_position: 8
+        unit: 3
       - uid: BIB217.11.1.3.TY.1
         subobj: 11.1.3
         type: ty
@@ -3591,6 +3809,7 @@ courses:
             the prayers of God’s people, the help of the Holy Spirit, and God’s plans
             and purposes
         answer: A
+        print_position: 2
       - uid: BIB217.11.2.1.TY.1
         subobj: 11.2.1
         type: ty
@@ -3602,6 +3821,7 @@ courses:
           C: “live in harmony with others.”
           D: “take responsibility for one’s actions.”
         answer: B
+        print_position: 4
       - uid: BIB217.11.2.2.UPE.1
         subobj: 11.2.2
         type: upe
@@ -3613,6 +3833,8 @@ courses:
           C: take responsibility for their actions.
           D: to live their lives in a manner worthy of the gospel.
         answer: D
+        print_position: 9
+        unit: 3
       - uid: BIB217.11.2.2.TY.1
         subobj: 11.2.2
         type: ty
@@ -3624,6 +3846,7 @@ courses:
           C: lay down their lives for the cause of Christ.
           D: pray daily for each other.
         answer: B
+        print_position: 5
       - uid: BIB217.11.2.3.UPE.1
         subobj: 11.2.3
         type: upe
@@ -3635,6 +3858,8 @@ courses:
           C: harmony, peace, and resolve.
           D: honesty, resolve, and hospitality.
         answer: A
+        print_position: 10
+        unit: 3
       - uid: BIB217.11.2.4.UPE.1
         subobj: 11.2.4
         type: upe
@@ -3645,6 +3870,8 @@ courses:
           C: a sign of sin.
           D: difficulty to be overcome.
         answer: B
+        print_position: 11
+        unit: 3
       - uid: BIB217.11.3.1.TY.1
         subobj: 11.3.1
         type: ty
@@ -3656,6 +3883,7 @@ courses:
           C: Having fellowship in the Spirit and encouragement from other believers
           D: Receiving encouragement from Christ and comfort from His love
         answer: D
+        print_position: 6
       - uid: BIB217.11.3.2.TY.1
         subobj: 11.3.2
         type: ty
@@ -3667,6 +3895,7 @@ courses:
           C: Being self-controlled, unselfish, and generous
           D: Being like-minded, generous, and self-controlled
         answer: A
+        print_position: 7
       - uid: BIB217.11.3.3.TY.1
         subobj: 11.3.3
         type: ty
@@ -3678,6 +3907,7 @@ courses:
           C: fight to the end, hold on to God’s promises, and never give up.
           D: give up and rest in God’s promise of future reward and glory.
         answer: A
+        print_position: 8
       - uid: BIB217.11.4.1.TY.1
         subobj: 11.4.1
         type: ty
@@ -3689,6 +3919,7 @@ courses:
           C: guidance from the Holy Spirit.
           D: love and patience.
         answer: B
+        print_position: 9
       - uid: BIB217.11.4.2.UPE.1
         subobj: 11.4.2
         type: upe
@@ -3700,6 +3931,8 @@ courses:
           C: without murmuring or complaining.
           D: without envy or deceit.
         answer: C
+        print_position: 12
+        unit: 3
       - uid: BIB217.11.4.3.TY.1
         subobj: 11.4.3
         type: ty
@@ -3711,6 +3944,7 @@ courses:
           C: rejoicing and sorrow.
           D: self-sacrifice and rejoicing.
         answer: D
+        print_position: 10
       - uid: BIB217.12.1.1.UPE.1
         subobj: 12.1.1
         type: upe
@@ -3722,6 +3956,8 @@ courses:
           C: Tychicus
           D: Epaphroditus
         answer: A
+        print_position: 13
+        unit: 3
       - uid: BIB217.12.1.1.TY.1
         subobj: 12.1.1
         type: ty
@@ -3733,6 +3969,7 @@ courses:
           C: Epaphras and Timothy.
           D: Timothy and Epaphroditus.
         answer: D
+        print_position: 1
       - uid: BIB217.12.1.1.TY.2
         subobj: 12.1.1
         type: ty
@@ -3743,6 +3980,7 @@ courses:
           C: Timothy
           D: Epaphroditus
         answer: C
+        print_position: 2
       - uid: BIB217.12.1.1.TY.3
         subobj: 12.1.1
         type: ty
@@ -3754,6 +3992,7 @@ courses:
           C: determination to complete a project that has been started.
           D: passion to work hard.
         answer: B
+        print_position: 3
       - uid: BIB217.12.1.2.UPE.1
         subobj: 12.1.2
         type: upe
@@ -3765,6 +4004,8 @@ courses:
           C: Tychicus
           D: Timothy
         answer: A
+        print_position: 14
+        unit: 3
       - uid: BIB217.12.1.2.UPE.2
         subobj: 12.1.2
         type: upe
@@ -3776,6 +4017,8 @@ courses:
           C: Timothy
           D: Epaphroditus
         answer: D
+        print_position: 15
+        unit: 3
       - uid: BIB217.12.1.2.TY.1
         subobj: 12.1.2
         type: ty
@@ -3786,6 +4029,7 @@ courses:
           C: Epaphroditus
           D: Timothy
         answer: C
+        print_position: 4
       - uid: BIB217.12.2.1.TY.1
         subobj: 12.2.1
         type: ty
@@ -3797,6 +4041,7 @@ courses:
           C: '20'
           D: '23'
         answer: B
+        print_position: 5
       - uid: BIB217.12.2.2.UPE.1
         subobj: 12.2.2
         type: upe
@@ -3807,6 +4052,8 @@ courses:
           C: encourages people to seek out other religions.
           D: destroys a believer’s joy in the Lord.
         answer: B
+        print_position: 16
+        unit: 3
       - uid: BIB217.12.2.2.TY.1
         subobj: 12.2.2
         type: ty
@@ -3817,6 +4064,7 @@ courses:
           C: False teachers, rats, and scoundrels
           D: False teachers, scoundrels, and dogs
         answer: A
+        print_position: 6
       - uid: BIB217.12.2.3.UPE.1
         subobj: 12.2.3
         type: upe
@@ -3831,6 +4079,8 @@ courses:
           D: destiny is destruction, their god is their sinful desires, their glory
             is their fame, and their mind is on earthly things.
         answer: B
+        print_position: 17
+        unit: 3
       - uid: BIB217.12.2.3.TY.1
         subobj: 12.2.3
         type: ty
@@ -3841,6 +4091,7 @@ courses:
           C: antinomianism.
           D: atheism.
         answer: C
+        print_position: 7
       - uid: BIB217.12.3.1.UPE.1
         subobj: 12.3.1
         type: upe
@@ -3851,6 +4102,8 @@ courses:
           C: Knowing Christ
           D: Knowledge and prestige
         answer: C
+        print_position: 18
+        unit: 3
       - uid: BIB217.12.3.1.TY.1
         subobj: 12.3.1
         type: ty
@@ -3861,6 +4114,7 @@ courses:
           C: Manasseh.
           D: Ephraim.
         answer: B
+        print_position: 8
       - uid: BIB217.12.3.2.UPE.1
         subobj: 12.3.2
         type: upe
@@ -3873,6 +4127,8 @@ courses:
           C: enemies.
           D: fears.
         answer: B
+        print_position: 19
+        unit: 3
       - uid: BIB217.12.3.2.TY.1
         subobj: 12.3.2
         type: ty
@@ -3888,6 +4144,7 @@ courses:
           D: face their fears, focus on the prize, forget the past, be comfortable,
             and forgo comparisons.
         answer: C
+        print_position: 9
       - uid: BIB217.12.3.3.TY.1
         subobj: 12.3.3
         type: ty
@@ -3898,6 +4155,7 @@ courses:
           C: Jewish
           D: Earthly
         answer: A
+        print_position: 10
       - uid: BIB217.13.1.1.UPE.1
         subobj: 13.1.1
         type: upe
@@ -3909,6 +4167,8 @@ courses:
           C: Aristarchus
           D: Epaphroditus
         answer: B
+        print_position: 20
+        unit: 3
       - uid: BIB217.13.1.1.TY.1
         subobj: 13.1.1
         type: ty
@@ -3920,6 +4180,7 @@ courses:
           C: Tychicus and Euodia
           D: Clement and Syntyche
         answer: B
+        print_position: 1
       - uid: BIB217.13.1.2.TY.1
         subobj: 13.1.2
         type: ty
@@ -3931,6 +4192,7 @@ courses:
           C: Always
           D: When the need arises
         answer: C
+        print_position: 2
       - uid: BIB217.13.1.2.TY.2
         subobj: 13.1.2
         type: ty
@@ -3941,6 +4203,7 @@ courses:
           C: in fighting, outward attacks, and petty disagreements.
           D: false teaching concerning the second coming of Christ.
         answer: C
+        print_position: 3
       - uid: BIB217.13.1.3.UPE.1
         subobj: 13.1.3
         type: upe
@@ -3952,6 +4215,8 @@ courses:
           C: Zeal
           D: Peacefulness
         answer: B
+        print_position: 21
+        unit: 3
       - uid: BIB217.13.1.3.TY.1
         subobj: 13.1.3
         type: ty
@@ -3962,6 +4227,7 @@ courses:
           C: “Loving”
           D: “Self-controlled”
         answer: A
+        print_position: 4
       - uid: BIB217.13.2.1.UPE.1
         subobj: 13.2.1
         type: upe
@@ -3972,6 +4238,8 @@ courses:
           C: thanksgiving.
           D: patience.
         answer: C
+        print_position: 22
+        unit: 3
       - uid: BIB217.13.2.1.UPE.2
         subobj: 13.2.1
         type: upe
@@ -3982,6 +4250,8 @@ courses:
           C: patience.
           D: grace.
         answer: A
+        print_position: 23
+        unit: 3
       - uid: BIB217.13.2.1.TY.1
         subobj: 13.2.1
         type: ty
@@ -4001,6 +4271,7 @@ courses:
           C: Practice positive thinking techniques.
           D: Pray to God with thanksgiving.
         answer: D
+        print_position: 6
       - uid: BIB217.13.2.1.TY.3
         subobj: 13.2.1
         type: ty
@@ -4011,6 +4282,7 @@ courses:
           C: Mind
           D: Heart and mind
         answer: D
+        print_position: 7
       - uid: BIB217.13.2.2.UPE.1
         subobj: 13.2.2
         type: upe
@@ -4022,6 +4294,8 @@ courses:
           C: true, admirable, noble, pleasant, honest, lovely, right, and praiseworthy.
           D: true, noble, right, pure, lovely, admirable, excellent, and praiseworthy.
         answer: D
+        print_position: 24
+        unit: 3
       - uid: BIB217.13.2.2.TY.1
         subobj: 13.2.2
         type: ty
@@ -4033,6 +4307,7 @@ courses:
           C: admirable, excellent, praiseworthy, honest, pleasant, right, and lovely.
           D: true, admirable, noble, pleasant, honest, lovely, right, and praiseworthy.
         answer: B
+        print_position: 8
       - uid: BIB217.13.3.1.TY.1
         subobj: 13.3.1
         type: ty
@@ -4043,6 +4318,7 @@ courses:
           C: that the church in Philippi renewed concern for him.
           D: in his trials and imprisonment.
         answer: C
+        print_position: 9
       - uid: BIB217.13.3.2.UPE.1
         subobj: 13.3.2
         type: upe
@@ -4053,6 +4329,8 @@ courses:
           C: Christ
           D: Finances
         answer: C
+        print_position: 25
+        unit: 3
       - uid: BIB217.13.3.2.TY.1
         subobj: 13.3.2
         type: ty
@@ -4063,6 +4341,8 @@ courses:
           C: Christ, who provides security and satisfaction for the believer.
           D: ideal circumstances.
         answer: C
+        print_position: 10
+      captured: reparse
     - pn: 03.24.01
       course_code: BIB217
       source_html: BIB117.html
@@ -4087,6 +4367,8 @@ courses:
           C: Galatians, Ephesians, Titus, and 2 Timothy
           D: Ephesians, Philippians, Colossians, and 2 Timothy
         answer: B
+        print_position: 1
+        unit: 1
       - uid: BIB217.1.1.1.TY.1
         subobj: 1.1.1
         type: ty
@@ -4097,6 +4379,7 @@ courses:
           C: Ephesus.
           D: Rome.
         answer: D
+        print_position: 1
       - uid: BIB217.1.1.2.TY.1
         subobj: 1.1.2
         type: ty
@@ -4107,6 +4390,7 @@ courses:
           C: Danube River.
           D: Moeander River.
         answer: A
+        print_position: 2
       - uid: BIB217.1.1.2.TY.2
         subobj: 1.1.2
         type: ty
@@ -4117,6 +4401,7 @@ courses:
           C: Cilicia
           D: Macedonia
         answer: B
+        print_position: 3
       - uid: BIB217.1.1.2.TY.3
         subobj: 1.1.2
         type: ty
@@ -4127,6 +4412,7 @@ courses:
           C: Syria.
           D: Bulgaria.
         answer: B
+        print_position: 4
       - uid: BIB217.1.1.3.UPE.1
         subobj: 1.1.3
         type: upe
@@ -4137,6 +4423,8 @@ courses:
           C: Galatians.
           D: 2 Timothy.
         answer: B
+        print_position: 2
+        unit: 1
       - uid: BIB217.1.1.4.UPE.1
         subobj: 1.1.4
         type: upe
@@ -4147,6 +4435,8 @@ courses:
           C: the undermining influence of the Judaizers.
           D: Greek mythology.
         answer: A
+        print_position: 3
+        unit: 1
       - uid: BIB217.1.1.4.TY.1
         subobj: 1.1.4
         type: ty
@@ -4157,6 +4447,7 @@ courses:
           C: Mystical, atheistic, and syncretistic.
           D: Demonic, blasphemous, and human-based.
         answer: B
+        print_position: 5
       - uid: BIB217.1.1.5.UPE.1
         subobj: 1.1.5
         type: upe
@@ -4168,6 +4459,8 @@ courses:
           C: the supremacy and sufficiency of Christ.
           D: to rejoice in the Lord at all times.
         answer: C
+        print_position: 4
+        unit: 1
       - uid: BIB217.1.2.2.TY.1
         subobj: 1.2.2
         type: ty
@@ -4179,6 +4472,7 @@ courses:
           C: Patience that has endured under severe persecution.
           D: Generous financial support.
         answer: A
+        print_position: 6
       - uid: BIB217.1.2.3.TY.1
         subobj: 1.2.3
         type: ty
@@ -4190,6 +4484,7 @@ courses:
           C: peace.
           D: self-control.
         answer: A
+        print_position: 7
       - uid: BIB217.1.2.5.TY.1
         subobj: 1.2.5
         type: ty
@@ -4201,6 +4496,7 @@ courses:
           C: Timothy.
           D: Epaphras.
         answer: D
+        print_position: 8
       - uid: BIB217.1.3.1.UPE.1
         subobj: 1.3.1
         type: upe
@@ -4212,6 +4508,8 @@ courses:
           C: private, serious, and filled with concern for others.
           D: corporate, continual, and filled with concern for others.
         answer: D
+        print_position: 5
+        unit: 1
       - uid: BIB217.1.3.1.TY.1
         subobj: 1.3.1
         type: ty
@@ -4222,6 +4520,7 @@ courses:
           C: private, intense, and continual.
           D: continual, intense, and filled with concern for others.
         answer: B
+        print_position: 9
       - uid: BIB217.1.3.2.UPE.1
         subobj: 1.3.2
         type: upe
@@ -4233,6 +4532,8 @@ courses:
           C: love for each other.
           D: knowledge, wisdom, and joy in the Holy Spirit.
         answer: A
+        print_position: 6
+        unit: 1
       - uid: BIB217.1.3.3.TY.1
         subobj: 1.3.3
         type: ty
@@ -4243,6 +4544,7 @@ courses:
           C: Ephesians 3:1–6.
           D: Colossians 1:9–14.
         answer: D
+        print_position: 10
       - uid: BIB217.2.1.2.UPE.1
         subobj: 2.1.2
         type: upe
@@ -4253,6 +4555,8 @@ courses:
           C: soon coming King.
           D: firstborn over all creation.
         answer: D
+        print_position: 7
+        unit: 1
       - uid: BIB217.2.1.2.TY.1
         subobj: 2.1.2
         type: ty
@@ -4264,6 +4568,7 @@ courses:
           C: All things were created for Him.
           D: All of the above are true.
         answer: D
+        print_position: 1
       - uid: BIB217.2.1.2.TY.2
         subobj: 2.1.2
         type: ty
@@ -4274,6 +4579,7 @@ courses:
           C: All things were created for Him.
           D: In Him all things hold together.
         answer: C
+        print_position: 2
       - uid: BIB217.2.1.3.UPE.1
         subobj: 2.1.3
         type: upe
@@ -4284,6 +4590,8 @@ courses:
           C: humanity of Christ.
           D: divinity of Christ.
         answer: B
+        print_position: 8
+        unit: 1
       - uid: BIB217.2.1.4.TY.1
         subobj: 2.1.4
         type: ty
@@ -4294,6 +4602,7 @@ courses:
           C: Glorify God.
           D: Destroy the works of the devil.
         answer: B
+        print_position: 3
       - uid: BIB217.2.2.1.TY.1
         subobj: 2.2.1
         type: ty
@@ -4304,6 +4613,7 @@ courses:
           C: To be expected.
           D: A sign of pride.
         answer: C
+        print_position: 4
       - uid: BIB217.2.2.2.UPE.1
         subobj: 2.2.2
         type: upe
@@ -4314,6 +4624,8 @@ courses:
           C: Believers are justified by faith alone
           D: That Christ was returning soon
         answer: B
+        print_position: 9
+        unit: 1
       - uid: BIB217.2.2.2.TY.1
         subobj: 2.2.2
         type: ty
@@ -4325,6 +4637,7 @@ courses:
           C: Gentiles and all people
           D: Romans
         answer: C
+        print_position: 5
       - uid: BIB217.2.2.3.UPE.1
         subobj: 2.2.3
         type: upe
@@ -4337,6 +4650,8 @@ courses:
             of Christ.
           D: having good programs and fellowship.
         answer: A
+        print_position: 10
+        unit: 1
       - uid: BIB217.2.2.3.TY.1
         subobj: 2.2.3
         type: ty
@@ -4348,6 +4663,7 @@ courses:
           C: programs and good organization.
           D: personal sacrifice.
         answer: B
+        print_position: 6
       - uid: BIB217.2.3.1.TY.1
         subobj: 2.3.1
         type: ty
@@ -4358,6 +4674,7 @@ courses:
           C: legal terminology.
           D: business terminology.
         answer: A
+        print_position: 7
       - uid: BIB217.2.3.2.TY.1
         subobj: 2.3.2
         type: ty
@@ -4369,6 +4686,7 @@ courses:
           C: hollow or deceptive philosophy.
           D: complacency.
         answer: C
+        print_position: 8
       - uid: BIB217.2.3.3.UPE.1
         subobj: 2.3.3
         type: upe
@@ -4379,6 +4697,8 @@ courses:
           C: Communion
           D: Confirmation
         answer: B
+        print_position: 11
+        unit: 1
       - uid: BIB217.2.3.3.UPE.2
         subobj: 2.3.3
         type: upe
@@ -4390,6 +4710,8 @@ courses:
           C: compassion of Christ.
           D: sufficiency of Christ.
         answer: D
+        print_position: 12
+        unit: 1
       - uid: BIB217.2.3.3.TY.1
         subobj: 2.3.3
         type: ty
@@ -4400,6 +4722,7 @@ courses:
           C: sanctification.
           D: isolation.
         answer: C
+        print_position: 9
       - uid: BIB217.2.3.4.UPE.1
         subobj: 2.3.4
         type: upe
@@ -4410,6 +4733,8 @@ courses:
           C: a higher and deeper religious experience through subjective means.
           D: self-denial in attempt to reach a higher religious experience.
         answer: C
+        print_position: 13
+        unit: 1
       - uid: BIB217.2.3.4.TY.1
         subobj: 2.3.4
         type: ty
@@ -4420,6 +4745,7 @@ courses:
           C: rigorous self-denial in attempt to reach a higher religious experience.
           D: the pursuit of secret knowledge and wisdom.
         answer: A
+        print_position: 10
       - uid: BIB217.3.1.1.TY.1
         subobj: 3.1.1
         type: ty
@@ -4431,6 +4757,7 @@ courses:
           C: set their hearts and minds upon things above.
           D: pray in the Spirit at all times.
         answer: C
+        print_position: 1
       - uid: BIB217.3.1.2.UPE.1
         subobj: 3.1.2
         type: upe
@@ -4441,6 +4768,8 @@ courses:
           C: running a race.
           D: darkness and light.
         answer: B
+        print_position: 14
+        unit: 1
       - uid: BIB217.3.1.2.UPE.2
         subobj: 3.1.2
         type: upe
@@ -4452,6 +4781,8 @@ courses:
           C: Put them to death
           D: Triumph over them
         answer: C
+        print_position: 15
+        unit: 1
       - uid: BIB217.3.1.2.TY.1
         subobj: 3.1.2
         type: ty
@@ -4463,6 +4794,7 @@ courses:
           C: a Christ-like sensitivity and heartfelt sympathy for the welfare of others.
           D: an attitude that recognizes our own weaknesses.
         answer: C
+        print_position: 2
       - uid: BIB217.3.1.2.TY.2
         subobj: 3.1.2
         type: ty
@@ -4474,6 +4806,7 @@ courses:
           C: The word of Christ
           D: Gentleness
         answer: C
+        print_position: 3
       - uid: BIB217.3.1.3.TY.1
         subobj: 3.1.3
         type: ty
@@ -4485,6 +4818,7 @@ courses:
           C: for the glory of God.
           D: for the sake of winning a crown.
         answer: A
+        print_position: 4
       - uid: BIB217.3.2.1.TY.1
         subobj: 3.2.1
         type: ty
@@ -4496,6 +4830,7 @@ courses:
           C: listed in sequential order and different in motivation.
           D: different in motivation and exclusive only to Christianity.
         answer: B
+        print_position: 5
       - uid: BIB217.3.2.2.TY.1
         subobj: 3.2.2
         type: ty
@@ -4506,6 +4841,7 @@ courses:
           C: cultural upbringing.
           D: personality.
         answer: B
+        print_position: 6
       - uid: BIB217.3.2.2.TY.2
         subobj: 3.2.2
         type: ty
@@ -4516,6 +4852,7 @@ courses:
           C: serve their husbands for peace’s sake.
           D: submit to their husbands in the love of Christ.
         answer: D
+        print_position: 7
       - uid: BIB217.3.2.4.UPE.1
         subobj: 3.2.4
         type: upe
@@ -4526,6 +4863,8 @@ courses:
           C: submit to their parents.
           D: serve their parents.
         answer: A
+        print_position: 16
+        unit: 1
       - uid: BIB217.3.2.5.UPE.1
         subobj: 3.2.5
         type: upe
@@ -4536,6 +4875,8 @@ courses:
           C: not embitter or discourage their children.
           D: love their children.
         answer: C
+        print_position: 17
+        unit: 1
       - uid: BIB217.3.2.6.TY.1
         subobj: 3.2.6
         type: ty
@@ -4546,6 +4887,7 @@ courses:
           C: rejoice in their freedom in Christ.
           D: peacefully fight for their freedom and deliverance.
         answer: B
+        print_position: 8
       - uid: BIB217.3.3.1.UPE.1
         subobj: 3.3.1
         type: upe
@@ -4556,6 +4898,8 @@ courses:
           C: serving one another.
           D: loving one another.
         answer: A
+        print_position: 18
+        unit: 1
       - uid: BIB217.3.3.4.UPE.1
         subobj: 3.3.4
         type: upe
@@ -4566,6 +4910,8 @@ courses:
           C: strong commitment.
           D: servant’s heart.
         answer: D
+        print_position: 19
+        unit: 1
       - uid: BIB217.3.3.4.TY.1
         subobj: 3.3.4
         type: ty
@@ -4576,6 +4922,7 @@ courses:
           C: second chance.
           D: servant’s heart.
         answer: C
+        print_position: 9
       - uid: BIB217.3.3.4.TY.2
         subobj: 3.3.4
         type: ty
@@ -4587,6 +4934,7 @@ courses:
           C: Justus
           D: Archippus
         answer: B
+        print_position: 10
       - uid: BIB217.4.1.1.UPE.1
         subobj: 4.1.1
         type: upe
@@ -4597,6 +4945,8 @@ courses:
           C: a slave owner.
           D: a proselyte (convert) to Judaism.
         answer: C
+        print_position: 20
+        unit: 1
       - uid: BIB217.4.1.1.UPE.2
         subobj: 4.1.1
         type: upe
@@ -4607,6 +4957,8 @@ courses:
           C: One of the seven deacons appointed by the church at Jerusalem
           D: A member of the church at Laodicea
         answer: B
+        print_position: 21
+        unit: 1
       - uid: BIB217.4.1.1.TY.1
         subobj: 4.1.1
         type: ty
@@ -4617,6 +4969,7 @@ courses:
           C: He encouraged Gentiles to observe the Law.
           D: He preached to all types of people.
         answer: D
+        print_position: 1
       - uid: BIB217.4.1.2.TY.1
         subobj: 4.1.2
         type: ty
@@ -4627,6 +4980,7 @@ courses:
           C: A letter of recommendation
           D: An expression of thanks
         answer: C
+        print_position: 2
       - uid: BIB217.4.1.2.TY.2
         subobj: 4.1.2
         type: ty
@@ -4637,6 +4991,7 @@ courses:
           C: Paul reminded Philemon of his obligation as a friend.
           D: Paul told Philemon to obey as a son
         answer: A
+        print_position: 3
       - uid: BIB217.4.1.3.UPE.1
         subobj: 4.1.3
         type: upe
@@ -4647,6 +5002,8 @@ courses:
           C: Forgiveness and restoration
           D: Citizenship in heaven
         answer: C
+        print_position: 22
+        unit: 1
       - uid: BIB217.4.1.3.TY.1
         subobj: 4.1.3
         type: ty
@@ -4657,6 +5014,7 @@ courses:
           C: The request would be seen as a direct attack on the institution of slavery.
           D: Onesimus was guilty of a crime under Roman law.
         answer: B
+        print_position: 4
       - uid: BIB217.4.2.1.UPE.1
         subobj: 4.2.1
         type: upe
@@ -4668,6 +5026,8 @@ courses:
           C: The rich and powerful should serve the poor and powerless.
           D: Paul was asserting his apostolic authority.
         answer: B
+        print_position: 23
+        unit: 1
       - uid: BIB217.4.2.1.TY.1
         subobj: 4.2.1
         type: ty
@@ -4678,6 +5038,7 @@ courses:
           C: Philemon’s son was an elder.
           D: Philemon was a prominent teacher.
         answer: A
+        print_position: 5
       - uid: BIB217.4.2.2.TY.1
         subobj: 4.2.2
         type: ty
@@ -4688,6 +5049,7 @@ courses:
           C: For the absence of conflict in our church relationships
           D: For the opportunities to meet new people
         answer: A
+        print_position: 6
       - uid: BIB217.4.2.3.UPE.1
         subobj: 4.2.3
         type: upe
@@ -4700,6 +5062,8 @@ courses:
           C: Paul is referring to doctrines taught in the Epistle of James.
           D: Paul wanted Philemon to express his faith in true fellowship (koinonia).
         answer: D
+        print_position: 24
+        unit: 1
       - uid: BIB217.4.2.3.TY.1
         subobj: 4.2.3
         type: ty
@@ -4712,6 +5076,7 @@ courses:
           C: We should not have special favorites in the church.
           D: Leaders in the church should be accorded special respect and honor.
         answer: A
+        print_position: 7
       - uid: BIB217.4.3.1.UPE.1
         subobj: 4.3.1
         type: upe
@@ -4723,6 +5088,8 @@ courses:
           C: We should forgive, but serious offenses should be reported to the authorities.
           D: We should take the initiative in extending forgiveness.
         answer: D
+        print_position: 25
+        unit: 1
       - uid: BIB217.4.3.1.TY.1
         subobj: 4.3.1
         type: ty
@@ -4734,6 +5101,7 @@ courses:
           C: The American Civil Liberties Union opposes religiously-oriented decisions.
           D: Americans are intensely individualistic.
         answer: B
+        print_position: 8
       - uid: BIB217.4.3.1.TY.2
         subobj: 4.3.1
         type: ty
@@ -4745,6 +5113,7 @@ courses:
           C: God will judge us more severely if we do not forgive.
           D: Real forgiveness releases the offender from all obligations.
         answer: D
+        print_position: 9
       - uid: BIB217.4.3.1.TY.3
         subobj: 4.3.1
         type: ty
@@ -4757,6 +5126,7 @@ courses:
           C: Forgiveness should be gently encouraged, but not demanded or forced.
           D: Serious problems should be handled with legal counsel.
         answer: C
+        print_position: 10
       - uid: BIB217.5.1.1.UPE.1
         subobj: 5.1.1
         type: upe
@@ -4767,6 +5137,8 @@ courses:
           C: the power of the Holy Spirit.
           D: the priesthood of the believer.
         answer: B
+        print_position: 1
+        unit: 2
       - uid: BIB217.5.1.1.TY.1
         subobj: 5.1.1
         type: ty
@@ -4777,6 +5149,7 @@ courses:
           C: The humanity of Christ
           D: God’s complete provision for effective Christian life
         answer: D
+        print_position: 1
       - uid: BIB217.5.1.1.TY.2
         subobj: 5.1.1
         type: ty
@@ -4787,6 +5160,7 @@ courses:
           C: '2:1'
           D: '3:6'
         answer: A
+        print_position: 2
       - uid: BIB217.5.1.2.UPE.1
         subobj: 5.1.2
         type: upe
@@ -4798,6 +5172,8 @@ courses:
           C: Athens.
           D: Ephesus.
         answer: D
+        print_position: 2
+        unit: 2
       - uid: BIB217.5.1.2.TY.1
         subobj: 5.1.2
         type: ty
@@ -4808,6 +5184,7 @@ courses:
           C: Macedonia.
           D: Bithynia.
         answer: A
+        print_position: 3
       - uid: BIB217.5.1.2.TY.2
         subobj: 5.1.2
         type: ty
@@ -4818,6 +5195,7 @@ courses:
           C: Athena.
           D: Demeter.
         answer: B
+        print_position: 4
       - uid: BIB217.5.1.5.UPE.1
         subobj: 5.1.5
         type: upe
@@ -4829,6 +5207,8 @@ courses:
           C: justification of believers and the second coming of Christ.
           D: justification of believers and their exalted position.
         answer: A
+        print_position: 3
+        unit: 2
       - uid: BIB217.5.1.5.TY.1
         subobj: 5.1.5
         type: ty
@@ -4839,6 +5219,7 @@ courses:
           C: Subjective and imperative
           D: Imperative and indicative
         answer: D
+        print_position: 5
       - uid: BIB217.5.2.1.UPE.1
         subobj: 5.2.1
         type: upe
@@ -4849,6 +5230,8 @@ courses:
           C: '9'
           D: '12'
         answer: B
+        print_position: 4
+        unit: 2
       - uid: BIB217.5.2.2.TY.1
         subobj: 5.2.2
         type: ty
@@ -4861,6 +5244,7 @@ courses:
           C: In Christ, believers are chosen and sealed by the Holy Spirit.
           D: In Christ, believers are adopted and anointed for ministry.
         answer: C
+        print_position: 6
       - uid: BIB217.5.2.3.TY.1
         subobj: 5.2.3
         type: ty
@@ -4871,6 +5255,7 @@ courses:
           C: accept.”
           D: be chosen.”
         answer: B
+        print_position: 7
       - uid: BIB217.5.2.7.TY.1
         subobj: 5.2.7
         type: ty
@@ -4883,6 +5268,7 @@ courses:
           C: Believers have received God’s stamp of approval.
           D: Believers have been sanctified and set apart for ministry.
         answer: B
+        print_position: 8
       - uid: BIB217.5.3.2.TY.1
         subobj: 5.3.2
         type: ty
@@ -4894,6 +5280,7 @@ courses:
           C: the Holy Spirit.
           D: revelation.
         answer: C
+        print_position: 9
       - uid: BIB217.5.3.3.UPE.1
         subobj: 5.3.3
         type: upe
@@ -4905,6 +5292,8 @@ courses:
           C: their glorious inheritance in the saints.
           D: God’s incomparably great power to those who believe.
         answer: A
+        print_position: 5
+        unit: 2
       - uid: BIB217.5.3.3.TY.1
         subobj: 5.3.3
         type: ty
@@ -4915,6 +5304,7 @@ courses:
           C: “majestic.”
           D: “holy and set apart.”
         answer: B
+        print_position: 10
       - uid: BIB217.6.1.1.UPE.1
         subobj: 6.1.1
         type: upe
@@ -4925,6 +5315,8 @@ courses:
           C: tormented, out of control, lost, and dead in their own sin.
           D: dead in their sin, lost, out of control, and headed for God’s judgment.
         answer: D
+        print_position: 6
+        unit: 2
       - uid: BIB217.6.1.1.TY.1
         subobj: 6.1.1
         type: ty
@@ -4935,6 +5327,7 @@ courses:
           C: tormented, lost, dead in their sin, and out of control.
           D: poor, dead in their sin, lost, and headed for God’s judgment.
         answer: B
+        print_position: 1
       - uid: BIB217.6.1.2.UPE.1
         subobj: 6.1.2
         type: upe
@@ -4946,6 +5339,8 @@ courses:
           C: is unnecessary because believers are saved by faith alone.
           D: is helpful, but is not necessary to live a consistent Christian life.
         answer: B
+        print_position: 7
+        unit: 2
       - uid: BIB217.6.1.3.TY.1
         subobj: 6.1.3
         type: ty
@@ -4957,6 +5352,7 @@ courses:
           C: persecution, life, hope, and purpose/potential.
           D: position, prosperity, hope, and life.
         answer: A
+        print_position: 2
       - uid: BIB217.6.2.1.UPE.1
         subobj: 6.2.1
         type: upe
@@ -4968,6 +5364,8 @@ courses:
           C: restoration.
           D: reconciliation.
         answer: D
+        print_position: 8
+        unit: 2
       - uid: BIB217.6.2.2.UPE.1
         subobj: 6.2.2
         type: upe
@@ -4978,6 +5376,8 @@ courses:
           C: Christ, citizenship, hope, covenants, and God.
           D: hope, God, purpose, Christ and a future.
         answer: C
+        print_position: 9
+        unit: 2
       - uid: BIB217.6.2.2.TY.1
         subobj: 6.2.2
         type: ty
@@ -4988,6 +5388,7 @@ courses:
           C: purpose, destiny, citizenship, hope, and God.
           D: Christ, citizenship, covenants, purpose, and significance.
         answer: B
+        print_position: 3
       - uid: BIB217.6.2.3.TY.1
         subobj: 6.2.3
         type: ty
@@ -4998,6 +5399,7 @@ courses:
           C: hope, peace, purpose, and prosperity.
           D: near to God, peace, unity, and access to God.
         answer: D
+        print_position: 4
       - uid: BIB217.6.2.4.TY.1
         subobj: 6.2.4
         type: ty
@@ -5008,6 +5410,7 @@ courses:
           C: built together into a temple, a dwelling place for God’s Spirit.
           D: all of the above.
         answer: D
+        print_position: 5
       - uid: BIB217.6.3.1.UPE.1
         subobj: 6.3.1
         type: upe
@@ -5018,6 +5421,8 @@ courses:
           C: was hidden for a time, but is now made known to all.
           D: was never hidden; it was just a concept that was hard to grasp.
         answer: C
+        print_position: 10
+        unit: 2
       - uid: BIB217.6.3.1.TY.1
         subobj: 6.3.1
         type: ty
@@ -5028,6 +5433,7 @@ courses:
           C: Jews.
           D: mystics.
         answer: C
+        print_position: 6
       - uid: BIB217.6.3.2.TY.1
         subobj: 6.3.2
         type: ty
@@ -5039,6 +5445,7 @@ courses:
           C: uncircumcised.”
           D: outsiders.”
         answer: B
+        print_position: 7
       - uid: BIB217.6.3.3.TY.1
         subobj: 6.3.3
         type: ty
@@ -5051,6 +5458,7 @@ courses:
           C: be hospitable, be a servant, proclaim Christ, and teach clearly.
           D: give generously, be a servant, proclaim Christ, and be hospitable.
         answer: A
+        print_position: 8
       - uid: BIB217.6.3.3.TY.2
         subobj: 6.3.3
         type: ty
@@ -5062,6 +5470,7 @@ courses:
           C: “a table waiter.”
           D: “humbled one.”
         answer: C
+        print_position: 9
       - uid: BIB217.6.4.2.TY.1
         subobj: 6.4.2
         type: ty
@@ -5074,6 +5483,7 @@ courses:
           C: be rooted and built up, and have the joy of the Lord.
           D: be filled with the fullness of God and have a peace that passes all understanding.
         answer: B
+        print_position: 10
       - uid: BIB217.7.1.1.UPE.1
         subobj: 7.1.1
         type: upe
@@ -5084,6 +5494,8 @@ courses:
           C: abstain from meat offered to idols.
           D: be ready for Christ’s soon return.
         answer: B
+        print_position: 11
+        unit: 2
       - uid: BIB217.7.1.1.TY.1
         subobj: 7.1.1
         type: ty
@@ -5095,6 +5507,7 @@ courses:
           C: Humility, gentleness, patience, and forbearance
           D: Patience, competence, gentleness, and humility
         answer: C
+        print_position: 1
       - uid: BIB217.7.1.3.UPE.1
         subobj: 7.1.3
         type: upe
@@ -5106,6 +5519,8 @@ courses:
           C: do the professional aspects of ministry.
           D: lead the church.
         answer: B
+        print_position: 12
+        unit: 2
       - uid: BIB217.7.1.3.TY.1
         subobj: 7.1.3
         type: ty
@@ -5116,6 +5531,7 @@ courses:
           C: evangelists, presbyters, prophets, and apostles.
           D: apostles, prophets, evangelists, and pastors/teachers.
         answer: D
+        print_position: 2
       - uid: BIB217.7.1.4.TY.1
         subobj: 7.1.4
         type: ty
@@ -5126,6 +5542,7 @@ courses:
           C: modern culture.
           D: television evangelism.
         answer: A
+        print_position: 3
       - uid: BIB217.7.2.1.TY.1
         subobj: 7.2.1
         type: ty
@@ -5137,6 +5554,7 @@ courses:
           C: Bribery, malice, negative attitudes, stealing, and unwholesome speech
           D: Lying, sinful anger, stealing, unwholesome speech, and negative attitudes
         answer: D
+        print_position: 4
       - uid: BIB217.7.2.2.UPE.1
         subobj: 7.2.2
         type: upe
@@ -5152,6 +5570,8 @@ courses:
           D: Modesty, truthfulness, wholesome speech, a good work ethic, and a positive
             attitude.
         answer: C
+        print_position: 13
+        unit: 2
       - uid: BIB217.7.3.1.UPE.1
         subobj: 7.3.1
         type: upe
@@ -5162,6 +5582,8 @@ courses:
           C: God
           D: The apostles
         answer: C
+        print_position: 14
+        unit: 2
       - uid: BIB217.7.3.2.TY.1
         subobj: 7.3.2
         type: ty
@@ -5173,6 +5595,7 @@ courses:
           C: malice, sexual immorality, or bitterness.
           D: pride, greed, or sexual immorality.
         answer: A
+        print_position: 5
       - uid: BIB217.7.3.3.TY.1
         subobj: 7.3.3
         type: ty
@@ -5184,6 +5607,7 @@ courses:
           C: love.
           D: devotion.
         answer: C
+        print_position: 6
       - uid: BIB217.7.4.1.TY.1
         subobj: 7.4.1
         type: ty
@@ -5195,6 +5619,7 @@ courses:
           C: gold and stubble.
           D: light and darkness.
         answer: D
+        print_position: 7
       - uid: BIB217.7.4.2.UPE.1
         subobj: 7.4.2
         type: upe
@@ -5206,6 +5631,8 @@ courses:
           C: fruitless, unwise, and foolish.
           D: fruitless, despairing, and evil.
         answer: C
+        print_position: 15
+        unit: 2
       - uid: BIB217.7.4.2.TY.1
         subobj: 7.4.2
         type: ty
@@ -5217,6 +5644,7 @@ courses:
           C: judgment.
           D: a desert place.
         answer: B
+        print_position: 8
       - uid: BIB217.7.4.3.TY.1
         subobj: 7.4.3
         type: ty
@@ -5227,6 +5655,7 @@ courses:
           C: salvation, goodness, and truth.
           D: goodness, righteousness, and truth.
         answer: D
+        print_position: 9
       - uid: BIB217.7.4.3.TY.2
         subobj: 7.4.3
         type: ty
@@ -5240,6 +5669,7 @@ courses:
           D: be filled with the Spirit, rejoice in the Lord always, and press on in
             the strength of the Lord.
         answer: A
+        print_position: 10
       - uid: BIB217.8.1.1.UPE.1
         subobj: 8.1.1
         type: upe
@@ -5251,6 +5681,8 @@ courses:
           C: loving submission to their husbands.
           D: serving their husbands.
         answer: C
+        print_position: 16
+        unit: 2
       - uid: BIB217.8.1.1.TY.1
         subobj: 8.1.1
         type: ty
@@ -5261,6 +5693,7 @@ courses:
           C: obligatory act.
           D: sacrificial act.
         answer: A
+        print_position: 1
       - uid: BIB217.8.1.1.TY.2
         subobj: 8.1.1
         type: ty
@@ -5271,6 +5704,7 @@ courses:
           C: loving, respecting, and yielding in support of her husband.
           D: playing a servant’s role in her marriage.
         answer: C
+        print_position: 2
       - uid: BIB217.8.1.2.UPE.1
         subobj: 8.1.2
         type: upe
@@ -5281,6 +5715,8 @@ courses:
           C: obligation.
           D: reverence.
         answer: D
+        print_position: 17
+        unit: 2
       - uid: BIB217.8.1.2.TY.1
         subobj: 8.1.2
         type: ty
@@ -5291,6 +5727,7 @@ courses:
           C: obedience.
           D: obligation.
         answer: B
+        print_position: 3
       - uid: BIB217.8.1.3.TY.1
         subobj: 8.1.3
         type: ty
@@ -5301,6 +5738,7 @@ courses:
           C: demonstrating sacrificial, caring, and indissoluble love.
           D: seeing that she maintains a submissive attitude at all times.
         answer: C
+        print_position: 4
       - uid: BIB217.8.1.3.TY.2
         subobj: 8.1.3
         type: ty
@@ -5312,6 +5750,7 @@ courses:
           C: His vows are dissolvable.
           D: His vows are important.
         answer: A
+        print_position: 5
       - uid: BIB217.8.1.4.UPE.1
         subobj: 8.1.4
         type: upe
@@ -5323,6 +5762,8 @@ courses:
           C: lavish, eternal, and out of obligation.
           D: indissoluble, selfless, and out of obligation.
         answer: B
+        print_position: 18
+        unit: 2
       - uid: BIB217.8.1.4.TY.1
         subobj: 8.1.4
         type: ty
@@ -5334,6 +5775,7 @@ courses:
           C: cherish their husbands.
           D: respect their husbands.
         answer: D
+        print_position: 6
       - uid: BIB217.8.2.2.TY.1
         subobj: 8.2.2
         type: ty
@@ -5344,6 +5786,7 @@ courses:
           C: fear and obey their parents.
           D: obey and honor their parents.
         answer: D
+        print_position: 7
       - uid: BIB217.8.2.3.UPE.1
         subobj: 8.2.3
         type: upe
@@ -5355,6 +5798,8 @@ courses:
           C: love them and overlook their shortcomings.
           D: respect them and love them for who they are in Christ.
         answer: B
+        print_position: 19
+        unit: 2
       - uid: BIB217.8.2.3.TY.1
         subobj: 8.2.3
         type: ty
@@ -5366,6 +5811,7 @@ courses:
           C: love them and overlook their shortcomings.
           D: train them and instruct them in the Lord.
         answer: D
+        print_position: 8
       - uid: BIB217.8.3.2.TY.1
         subobj: 8.3.2
         type: ty
@@ -5377,6 +5823,7 @@ courses:
           C: grateful heart.
           D: generous heart.
         answer: A
+        print_position: 9
       - uid: BIB217.8.3.3.UPE.1
         subobj: 8.3.3
         type: upe
@@ -5388,6 +5835,8 @@ courses:
           C: joyful heart.
           D: grateful heart.
         answer: A
+        print_position: 20
+        unit: 2
       - uid: BIB217.8.3.3.TY.1
         subobj: 8.3.3
         type: ty
@@ -5399,6 +5848,7 @@ courses:
           C: right heart.
           D: grateful heart.
         answer: C
+        print_position: 10
       - uid: BIB217.9.1.1.TY.1
         subobj: 9.1.1
         type: ty
@@ -5409,6 +5859,7 @@ courses:
           C: evil spiritual forces and authorities in the heavenly realms.
           D: governments and politicians.
         answer: C
+        print_position: 1
       - uid: BIB217.9.1.2.UPE.1
         subobj: 9.1.2
         type: upe
@@ -5419,6 +5870,8 @@ courses:
           C: lay down his life.
           D: retreat and seek refuge in God.
         answer: B
+        print_position: 21
+        unit: 2
       - uid: BIB217.9.1.2.TY.1
         subobj: 9.1.2
         type: ty
@@ -5430,6 +5883,7 @@ courses:
           C: retreat and take refuge in God.
           D: declare his or her fear to others.
         answer: A
+        print_position: 2
       - uid: BIB217.9.1.2.TY.2
         subobj: 9.1.2
         type: ty
@@ -5440,6 +5894,7 @@ courses:
           C: hold one’s position.”
           D: harden one’s resolve.”
         answer: C
+        print_position: 3
       - uid: BIB217.9.1.3.UPE.1
         subobj: 9.1.3
         type: upe
@@ -5451,6 +5906,8 @@ courses:
           C: The sword of the Spirit
           D: The belt of truth
         answer: B
+        print_position: 22
+        unit: 2
       - uid: BIB217.9.1.3.UPE.2
         subobj: 9.1.3
         type: upe
@@ -5462,6 +5919,8 @@ courses:
           C: The shield of faith
           D: The breastplate of righteousness
         answer: C
+        print_position: 23
+        unit: 2
       - uid: BIB217.9.1.3.UPE.3
         subobj: 9.1.3
         type: upe
@@ -5472,6 +5931,8 @@ courses:
           C: Shoes
           D: Helmet
         answer: C
+        print_position: 24
+        unit: 2
       - uid: BIB217.9.1.3.TY.1
         subobj: 9.1.3
         type: ty
@@ -5483,6 +5944,7 @@ courses:
           C: shield of faith.
           D: helmet of salvation.
         answer: D
+        print_position: 4
       - uid: BIB217.9.1.3.TY.2
         subobj: 9.1.3
         type: ty
@@ -5493,6 +5955,7 @@ courses:
           C: The breastplate of righteousness
           D: The shield of faith
         answer: A
+        print_position: 5
       - uid: BIB217.9.1.3.TY.3
         subobj: 9.1.3
         type: ty
@@ -5504,6 +5967,7 @@ courses:
           C: sword of the Spirit.
           D: breastplate of righteousness.
         answer: A
+        print_position: 6
       - uid: BIB217.9.1.3.TY.4
         subobj: 9.1.3
         type: ty
@@ -5514,6 +5978,7 @@ courses:
           C: The breastplate of righteousness
           D: The sword of the Spirit
         answer: D
+        print_position: 7
       - uid: BIB217.9.1.3.TY.5
         subobj: 9.1.3
         type: ty
@@ -5525,6 +5990,7 @@ courses:
           C: Reading the Word of God
           D: Thanksgiving
         answer: B
+        print_position: 8
       - uid: BIB217.9.1.3.TY.6
         subobj: 9.1.3
         type: ty
@@ -5535,6 +6001,7 @@ courses:
           C: a pair of shoes.
           D: a helmet.
         answer: C
+        print_position: 9
       - uid: BIB217.9.2.1.UPE.1
         subobj: 9.2.1
         type: upe
@@ -5545,6 +6012,8 @@ courses:
           C: for all the saints.
           D: doing all of the above.
         answer: D
+        print_position: 25
+        unit: 2
       - uid: BIB217.9.2.1.TY.1
         subobj: 9.2.1
         type: ty
@@ -5556,6 +6025,7 @@ courses:
           C: To pray with groans that words cannot express
           D: It can include all of the above.
         answer: D
+        print_position: 10
       - uid: BIB217.10.1.1.TY.1
         subobj: 10.1.1
         type: ty
@@ -5567,6 +6037,7 @@ courses:
           C: '3:1'
           D: '4:3'
         answer: C
+        print_position: 1
       - uid: BIB217.10.1.2.TY.1
         subobj: 10.1.2
         type: ty
@@ -5577,6 +6048,7 @@ courses:
           C: Galatia.
           D: Thracia.
         answer: B
+        print_position: 2
       - uid: BIB217.10.1.2.TY.2
         subobj: 10.1.2
         type: ty
@@ -5587,6 +6059,7 @@ courses:
           C: Jews were not welcome in Philippi.
           D: Paul mentions this in his opening comment to the Philippians.
         answer: B
+        print_position: 3
       - uid: BIB217.10.1.3.UPE.1
         subobj: 10.1.3
         type: upe
@@ -5600,6 +6073,8 @@ courses:
           D: To express appreciation, restore perspective, emphasize unity, impart
             wisdom, and correct
         answer: C
+        print_position: 2
+        unit: 3
       - uid: BIB217.10.1.3.TY.1
         subobj: 10.1.3
         type: ty
@@ -5611,6 +6086,7 @@ courses:
           C: To express appreciation
           D: To restore perspective
         answer: A
+        print_position: 4
       - uid: BIB217.10.1.4.UPE.1
         subobj: 10.1.4
         type: upe
@@ -5621,6 +6097,8 @@ courses:
           C: The supremacy of Christ and the advancement of the gospel
           D: The second coming of Christ and the joy of the Lord
         answer: A
+        print_position: 3
+        unit: 3
       - uid: BIB217.10.1.4.TY.1
         subobj: 10.1.4
         type: ty
@@ -5632,6 +6110,7 @@ courses:
           C: second coming of Christ and the joy of the Lord.
           D: joy of the Lord and the advancement of the gospel.
         answer: D
+        print_position: 5
       - uid: BIB217.10.2.1.UPE.1
         subobj: 10.2.1
         type: upe
@@ -5643,6 +6122,8 @@ courses:
           C: a servant and apostle of Jesus Christ.
           D: a servant of Jesus Christ.
         answer: D
+        print_position: 1
+        unit: 3
       - uid: BIB217.10.2.2.TY.1
         subobj: 10.2.2
         type: ty
@@ -5653,6 +6134,7 @@ courses:
           C: faith in Christ.
           D: effectiveness in spreading the gospel.
         answer: B
+        print_position: 6
       - uid: BIB217.10.2.2.TY.2
         subobj: 10.2.2
         type: ty
@@ -5663,6 +6145,7 @@ courses:
           C: “Partnership”
           D: “Thankfulness”
         answer: C
+        print_position: 7
       - uid: BIB217.10.2.3.UPE.1
         subobj: 10.2.3
         type: upe
@@ -5674,6 +6157,8 @@ courses:
           C: '1:12.'
           D: '1:21.'
         answer: A
+        print_position: 6
+        unit: 3
       - uid: BIB217.10.2.4.UPE.1
         subobj: 10.2.4
         type: upe
@@ -5684,6 +6169,8 @@ courses:
           C: affection.
           D: thanksgiving.
         answer: C
+        print_position: 4
+        unit: 3
       - uid: BIB217.10.2.4.TY.1
         subobj: 10.2.4
         type: ty
@@ -5694,6 +6181,7 @@ courses:
           C: “kindred spirit.”
           D: “a longing of heart.”
         answer: A
+        print_position: 9
       - uid: BIB217.10.2.5.UPE.1
         subobj: 10.2.5
         type: upe
@@ -5705,6 +6193,8 @@ courses:
           C: Everything for God’s glory and praise
           D: Prepare for Christ’s coming
         answer: A
+        print_position: 5
+        unit: 3
       - uid: BIB217.10.2.5.TY.1
         subobj: 10.2.5
         type: ty
@@ -5715,6 +6205,7 @@ courses:
           C: “a deep, personal knowledge of Christ.”
           D: “moral and spiritual perception.”
         answer: C
+        print_position: 8
       - uid: BIB217.10.2.5.TY.2
         subobj: 10.2.5
         type: ty
@@ -5734,6 +6225,7 @@ courses:
             and spiritually ready for Christ’s return, and be filled with fruit of
             righteousness
         answer: A
+        print_position: 10
       - uid: BIB217.11.1.1.TY.1
         subobj: 11.1.1
         type: ty
@@ -5744,6 +6236,7 @@ courses:
           C: his or her relationship with Christ.
           D: his or her relationships with other people.
         answer: C
+        print_position: 1
       - uid: BIB217.11.1.2.UPE.1
         subobj: 11.1.2
         type: upe
@@ -5754,6 +6247,8 @@ courses:
           C: He saw it as an opportunity to get sympathy from his enemies.
           D: He was resentful towards God and the church.
         answer: B
+        print_position: 7
+        unit: 3
       - uid: BIB217.11.1.2.TY.1
         subobj: 11.1.2
         type: ty
@@ -5765,6 +6260,7 @@ courses:
           C: warning the church.
           D: thanking God that Christ was exalted.
         answer: D
+        print_position: 3
       - uid: BIB217.11.1.3.UPE.1
         subobj: 11.1.3
         type: upe
@@ -5782,6 +6278,8 @@ courses:
             and purposes, the goodness of the Caesar, and that he would not be put
             to shame.
         answer: C
+        print_position: 8
+        unit: 3
       - uid: BIB217.11.1.3.TY.1
         subobj: 11.1.3
         type: ty
@@ -5801,6 +6299,7 @@ courses:
             the prayers of God’s people, the help of the Holy Spirit, and God’s plans
             and purposes
         answer: A
+        print_position: 2
       - uid: BIB217.11.2.1.TY.1
         subobj: 11.2.1
         type: ty
@@ -5812,6 +6311,7 @@ courses:
           C: “live in harmony with others.”
           D: “take responsibility for one’s actions.”
         answer: B
+        print_position: 4
       - uid: BIB217.11.2.2.UPE.1
         subobj: 11.2.2
         type: upe
@@ -5823,6 +6323,8 @@ courses:
           C: take responsibility for their actions.
           D: to live their lives in a manner worthy of the gospel.
         answer: D
+        print_position: 9
+        unit: 3
       - uid: BIB217.11.2.2.TY.1
         subobj: 11.2.2
         type: ty
@@ -5834,6 +6336,7 @@ courses:
           C: lay down their lives for the cause of Christ.
           D: pray daily for each other.
         answer: B
+        print_position: 5
       - uid: BIB217.11.2.3.UPE.1
         subobj: 11.2.3
         type: upe
@@ -5845,6 +6348,8 @@ courses:
           C: harmony, peace, and resolve.
           D: honesty, resolve, and hospitality.
         answer: A
+        print_position: 10
+        unit: 3
       - uid: BIB217.11.2.4.UPE.1
         subobj: 11.2.4
         type: upe
@@ -5855,6 +6360,8 @@ courses:
           C: a sign of sin.
           D: difficulty to be overcome.
         answer: B
+        print_position: 11
+        unit: 3
       - uid: BIB217.11.3.1.TY.1
         subobj: 11.3.1
         type: ty
@@ -5866,6 +6373,7 @@ courses:
           C: Having fellowship in the Spirit and encouragement from other believers
           D: Receiving encouragement from Christ and comfort from His love
         answer: D
+        print_position: 6
       - uid: BIB217.11.3.2.TY.1
         subobj: 11.3.2
         type: ty
@@ -5877,6 +6385,7 @@ courses:
           C: Being self-controlled, unselfish, and generous
           D: Being like-minded, generous, and self-controlled
         answer: A
+        print_position: 7
       - uid: BIB217.11.3.3.TY.1
         subobj: 11.3.3
         type: ty
@@ -5888,6 +6397,7 @@ courses:
           C: fight to the end, hold on to God’s promises, and never give up.
           D: give up and rest in God’s promise of future reward and glory.
         answer: A
+        print_position: 8
       - uid: BIB217.11.4.1.TY.1
         subobj: 11.4.1
         type: ty
@@ -5899,6 +6409,7 @@ courses:
           C: guidance from the Holy Spirit.
           D: love and patience.
         answer: B
+        print_position: 9
       - uid: BIB217.11.4.2.UPE.1
         subobj: 11.4.2
         type: upe
@@ -5910,6 +6421,8 @@ courses:
           C: without murmuring or complaining.
           D: without envy or deceit.
         answer: C
+        print_position: 12
+        unit: 3
       - uid: BIB217.11.4.3.TY.1
         subobj: 11.4.3
         type: ty
@@ -5921,6 +6434,7 @@ courses:
           C: rejoicing and sorrow.
           D: self-sacrifice and rejoicing.
         answer: D
+        print_position: 10
       - uid: BIB217.12.1.1.UPE.1
         subobj: 12.1.1
         type: upe
@@ -5932,6 +6446,8 @@ courses:
           C: Tychicus
           D: Epaphroditus
         answer: A
+        print_position: 13
+        unit: 3
       - uid: BIB217.12.1.1.TY.1
         subobj: 12.1.1
         type: ty
@@ -5943,6 +6459,7 @@ courses:
           C: Epaphras and Timothy.
           D: Timothy and Epaphroditus.
         answer: D
+        print_position: 1
       - uid: BIB217.12.1.1.TY.2
         subobj: 12.1.1
         type: ty
@@ -5953,6 +6470,7 @@ courses:
           C: Timothy
           D: Epaphroditus
         answer: C
+        print_position: 2
       - uid: BIB217.12.1.1.TY.3
         subobj: 12.1.1
         type: ty
@@ -5964,6 +6482,7 @@ courses:
           C: determination to complete a project that has been started.
           D: passion to work hard.
         answer: B
+        print_position: 3
       - uid: BIB217.12.1.2.UPE.1
         subobj: 12.1.2
         type: upe
@@ -5975,6 +6494,8 @@ courses:
           C: Tychicus
           D: Timothy
         answer: A
+        print_position: 14
+        unit: 3
       - uid: BIB217.12.1.2.UPE.2
         subobj: 12.1.2
         type: upe
@@ -5986,6 +6507,8 @@ courses:
           C: Timothy
           D: Epaphroditus
         answer: D
+        print_position: 15
+        unit: 3
       - uid: BIB217.12.1.2.TY.1
         subobj: 12.1.2
         type: ty
@@ -5996,6 +6519,7 @@ courses:
           C: Epaphroditus
           D: Timothy
         answer: C
+        print_position: 4
       - uid: BIB217.12.2.1.TY.1
         subobj: 12.2.1
         type: ty
@@ -6007,6 +6531,7 @@ courses:
           C: '20'
           D: '23'
         answer: B
+        print_position: 5
       - uid: BIB217.12.2.2.UPE.1
         subobj: 12.2.2
         type: upe
@@ -6017,6 +6542,8 @@ courses:
           C: encourages people to seek out other religions.
           D: destroys a believer’s joy in the Lord.
         answer: B
+        print_position: 16
+        unit: 3
       - uid: BIB217.12.2.2.TY.1
         subobj: 12.2.2
         type: ty
@@ -6027,6 +6554,7 @@ courses:
           C: False teachers, rats, and scoundrels
           D: False teachers, scoundrels, and dogs
         answer: A
+        print_position: 6
       - uid: BIB217.12.2.3.UPE.1
         subobj: 12.2.3
         type: upe
@@ -6041,6 +6569,8 @@ courses:
           D: destiny is destruction, their god is their sinful desires, their glory
             is their fame, and their mind is on earthly things.
         answer: B
+        print_position: 17
+        unit: 3
       - uid: BIB217.12.2.3.TY.1
         subobj: 12.2.3
         type: ty
@@ -6051,6 +6581,7 @@ courses:
           C: antinomianism.
           D: atheism.
         answer: C
+        print_position: 7
       - uid: BIB217.12.3.1.UPE.1
         subobj: 12.3.1
         type: upe
@@ -6061,6 +6592,8 @@ courses:
           C: Knowing Christ
           D: Knowledge and prestige
         answer: C
+        print_position: 18
+        unit: 3
       - uid: BIB217.12.3.1.TY.1
         subobj: 12.3.1
         type: ty
@@ -6071,6 +6604,7 @@ courses:
           C: Manasseh.
           D: Ephraim.
         answer: B
+        print_position: 8
       - uid: BIB217.12.3.2.UPE.1
         subobj: 12.3.2
         type: upe
@@ -6083,6 +6617,8 @@ courses:
           C: enemies.
           D: fears.
         answer: B
+        print_position: 19
+        unit: 3
       - uid: BIB217.12.3.2.TY.1
         subobj: 12.3.2
         type: ty
@@ -6098,6 +6634,7 @@ courses:
           D: face their fears, focus on the prize, forget the past, be comfortable,
             and forgo comparisons.
         answer: C
+        print_position: 9
       - uid: BIB217.12.3.3.TY.1
         subobj: 12.3.3
         type: ty
@@ -6108,6 +6645,7 @@ courses:
           C: Jewish
           D: Earthly
         answer: A
+        print_position: 10
       - uid: BIB217.13.1.1.UPE.1
         subobj: 13.1.1
         type: upe
@@ -6119,6 +6657,8 @@ courses:
           C: Aristarchus
           D: Epaphroditus
         answer: B
+        print_position: 20
+        unit: 3
       - uid: BIB217.13.1.1.TY.1
         subobj: 13.1.1
         type: ty
@@ -6130,6 +6670,7 @@ courses:
           C: Tychicus and Euodia
           D: Clement and Syntyche
         answer: B
+        print_position: 1
       - uid: BIB217.13.1.2.TY.1
         subobj: 13.1.2
         type: ty
@@ -6141,6 +6682,7 @@ courses:
           C: Always
           D: When the need arises
         answer: C
+        print_position: 2
       - uid: BIB217.13.1.2.TY.2
         subobj: 13.1.2
         type: ty
@@ -6151,6 +6693,7 @@ courses:
           C: in fighting, outward attacks, and petty disagreements.
           D: false teaching concerning the second coming of Christ.
         answer: C
+        print_position: 3
       - uid: BIB217.13.1.3.UPE.1
         subobj: 13.1.3
         type: upe
@@ -6162,6 +6705,8 @@ courses:
           C: Zeal
           D: Peacefulness
         answer: B
+        print_position: 21
+        unit: 3
       - uid: BIB217.13.1.3.TY.1
         subobj: 13.1.3
         type: ty
@@ -6172,6 +6717,7 @@ courses:
           C: “Loving”
           D: “Self-controlled”
         answer: A
+        print_position: 4
       - uid: BIB217.13.2.1.UPE.1
         subobj: 13.2.1
         type: upe
@@ -6182,6 +6728,8 @@ courses:
           C: thanksgiving.
           D: patience.
         answer: C
+        print_position: 22
+        unit: 3
       - uid: BIB217.13.2.1.UPE.2
         subobj: 13.2.1
         type: upe
@@ -6192,6 +6740,8 @@ courses:
           C: patience.
           D: grace.
         answer: A
+        print_position: 23
+        unit: 3
       - uid: BIB217.13.2.1.TY.1
         subobj: 13.2.1
         type: ty
@@ -6211,6 +6761,7 @@ courses:
           C: Practice positive thinking techniques.
           D: Pray to God with thanksgiving.
         answer: D
+        print_position: 6
       - uid: BIB217.13.2.1.TY.3
         subobj: 13.2.1
         type: ty
@@ -6221,6 +6772,7 @@ courses:
           C: Mind
           D: Heart and mind
         answer: D
+        print_position: 7
       - uid: BIB217.13.2.2.UPE.1
         subobj: 13.2.2
         type: upe
@@ -6232,6 +6784,8 @@ courses:
           C: true, admirable, noble, pleasant, honest, lovely, right, and praiseworthy.
           D: true, noble, right, pure, lovely, admirable, excellent, and praiseworthy.
         answer: D
+        print_position: 24
+        unit: 3
       - uid: BIB217.13.2.2.TY.1
         subobj: 13.2.2
         type: ty
@@ -6243,6 +6797,7 @@ courses:
           C: admirable, excellent, praiseworthy, honest, pleasant, right, and lovely.
           D: true, admirable, noble, pleasant, honest, lovely, right, and praiseworthy.
         answer: B
+        print_position: 8
       - uid: BIB217.13.3.1.TY.1
         subobj: 13.3.1
         type: ty
@@ -6253,6 +6808,7 @@ courses:
           C: that the church in Philippi renewed concern for him.
           D: in his trials and imprisonment.
         answer: C
+        print_position: 9
       - uid: BIB217.13.3.2.UPE.1
         subobj: 13.3.2
         type: upe
@@ -6263,6 +6819,8 @@ courses:
           C: Christ
           D: Finances
         answer: C
+        print_position: 25
+        unit: 3
       - uid: BIB217.13.3.2.TY.1
         subobj: 13.3.2
         type: ty
@@ -6273,6 +6831,9 @@ courses:
           C: Christ, who provides security and satisfaction for the believer.
           D: ideal circumstances.
         answer: C
+        print_position: 10
+      product_id: BBIB117ENE03-90_03.24.01
+      captured: reparse
     - pn: 01.26.01
       course_code: BIB217
       source_html: BBIB217ENE01.26.01-90.html
@@ -6293,6 +6854,8 @@ courses:
           C: Galatians, Ephesians, Titus, and 2 Timothy
           D: Ephesians, Philippians, Colossians, and 2 Timothy
         answer: B
+        print_position: 1
+        unit: 1
       - uid: BIB217.1.1.1.TY.1
         subobj: 1.1.1
         type: ty
@@ -6303,6 +6866,7 @@ courses:
           C: Ephesus.
           D: Rome.
         answer: D
+        print_position: 1
       - uid: BIB217.1.1.2.TY.1
         subobj: 1.1.2
         type: ty
@@ -6313,6 +6877,7 @@ courses:
           C: Danube River.
           D: Moeander River.
         answer: A
+        print_position: 2
       - uid: BIB217.1.1.2.TY.2
         subobj: 1.1.2
         type: ty
@@ -6323,6 +6888,7 @@ courses:
           C: Cilicia
           D: Macedonia
         answer: B
+        print_position: 3
       - uid: BIB217.1.1.2.TY.3
         subobj: 1.1.2
         type: ty
@@ -6333,6 +6899,7 @@ courses:
           C: Syria.
           D: Bulgaria.
         answer: B
+        print_position: 4
       - uid: BIB217.1.1.3.UPE.1
         subobj: 1.1.3
         type: upe
@@ -6343,6 +6910,8 @@ courses:
           C: Galatians.
           D: 2 Timothy.
         answer: B
+        print_position: 2
+        unit: 1
       - uid: BIB217.1.1.4.UPE.1
         subobj: 1.1.4
         type: upe
@@ -6353,6 +6922,8 @@ courses:
           C: the undermining influence of some of the Jewish teachers.
           D: Greek mythology.
         answer: A
+        print_position: 3
+        unit: 1
       - uid: BIB217.1.1.4.TY.1
         subobj: 1.1.4
         type: ty
@@ -6363,6 +6934,7 @@ courses:
           C: mystical, atheistic, and syncretistic.
           D: demonic, blasphemous, and human-based.
         answer: B
+        print_position: 5
       - uid: BIB217.1.1.5.UPE.1
         subobj: 1.1.5
         type: upe
@@ -6374,6 +6946,8 @@ courses:
           C: the supremacy and sufficiency of Christ.
           D: to rejoice in the Lord at all times.
         answer: C
+        print_position: 4
+        unit: 1
       - uid: BIB217.1.2.2.TY.1
         subobj: 1.2.2
         type: ty
@@ -6385,6 +6959,7 @@ courses:
           C: patience that has endured under severe persecution.
           D: generous financial support.
         answer: A
+        print_position: 6
       - uid: BIB217.1.2.3.TY.1
         subobj: 1.2.3
         type: ty
@@ -6396,6 +6971,7 @@ courses:
           C: peace.
           D: self-control.
         answer: A
+        print_position: 7
       - uid: BIB217.1.2.5.TY.1
         subobj: 1.2.5
         type: ty
@@ -6407,6 +6983,7 @@ courses:
           C: Timothy.
           D: Epaphras.
         answer: D
+        print_position: 8
       - uid: BIB217.1.3.1.UPE.1
         subobj: 1.3.1
         type: upe
@@ -6418,6 +6995,8 @@ courses:
           C: private, serious, and filled with concern for others.
           D: corporate, continual, and filled with concern for others.
         answer: D
+        print_position: 5
+        unit: 1
       - uid: BIB217.1.3.1.TY.1
         subobj: 1.3.1
         type: ty
@@ -6428,6 +7007,7 @@ courses:
           C: private, intense, and continual.
           D: continual, intense, and filled with concern for others.
         answer: B
+        print_position: 9
       - uid: BIB217.1.3.2.UPE.1
         subobj: 1.3.2
         type: upe
@@ -6439,6 +7019,8 @@ courses:
           C: love for each other.
           D: knowledge, wisdom, and joy in the Holy Spirit.
         answer: A
+        print_position: 6
+        unit: 1
       - uid: BIB217.1.3.3.TY.1
         subobj: 1.3.3
         type: ty
@@ -6449,6 +7031,7 @@ courses:
           C: Ephesians 3:1–6.
           D: Colossians 1:9–14.
         answer: D
+        print_position: 10
       - uid: BIB217.2.1.2.UPE.1
         subobj: 2.1.2
         type: upe
@@ -6459,6 +7042,8 @@ courses:
           C: soon coming King.
           D: firstborn over all creation.
         answer: D
+        print_position: 7
+        unit: 1
       - uid: BIB217.2.1.2.TY.1
         subobj: 2.1.2
         type: ty
@@ -6470,6 +7055,7 @@ courses:
           C: All things were created for Him.
           D: All of the above are true.
         answer: D
+        print_position: 1
       - uid: BIB217.2.1.2.TY.2
         subobj: 2.1.2
         type: ty
@@ -6480,6 +7066,7 @@ courses:
           C: All things were created for Him.
           D: In Him all things hold together.
         answer: C
+        print_position: 2
       - uid: BIB217.2.1.3.UPE.1
         subobj: 2.1.3
         type: upe
@@ -6490,6 +7077,8 @@ courses:
           C: humanity of Christ.
           D: divinity of Christ.
         answer: B
+        print_position: 8
+        unit: 1
       - uid: BIB217.2.1.4.TY.1
         subobj: 2.1.4
         type: ty
@@ -6500,6 +7089,7 @@ courses:
           C: glorify God.
           D: destroy the works of the devil.
         answer: B
+        print_position: 3
       - uid: BIB217.2.2.1.TY.1
         subobj: 2.2.1
         type: ty
@@ -6510,6 +7100,7 @@ courses:
           C: to be expected.
           D: a sign of pride.
         answer: C
+        print_position: 4
       - uid: BIB217.2.2.2.UPE.1
         subobj: 2.2.2
         type: upe
@@ -6520,6 +7111,8 @@ courses:
           C: Believers are justified by faith alone
           D: That Christ was returning soon
         answer: B
+        print_position: 9
+        unit: 1
       - uid: BIB217.2.2.2.TY.1
         subobj: 2.2.2
         type: ty
@@ -6531,6 +7124,7 @@ courses:
           C: Gentiles and all people
           D: Romans
         answer: C
+        print_position: 5
       - uid: BIB217.2.2.3.UPE.1
         subobj: 2.2.3
         type: upe
@@ -6543,6 +7137,8 @@ courses:
             of Christ.
           D: having good programs and fellowship.
         answer: A
+        print_position: 10
+        unit: 1
       - uid: BIB217.2.2.3.TY.1
         subobj: 2.2.3
         type: ty
@@ -6554,6 +7150,7 @@ courses:
           C: programs and good organization.
           D: personal sacrifice.
         answer: B
+        print_position: 6
       - uid: BIB217.2.3.1.TY.1
         subobj: 2.3.1
         type: ty
@@ -6565,6 +7162,7 @@ courses:
           C: “to enjoy.”
           D: “to suffer for Christ.”
         answer: A
+        print_position: 7
       - uid: BIB217.2.3.2.TY.1
         subobj: 2.3.2
         type: ty
@@ -6576,6 +7174,7 @@ courses:
           C: hollow or deceptive philosophy.
           D: complacency.
         answer: C
+        print_position: 8
       - uid: BIB217.2.3.3.UPE.1
         subobj: 2.3.3
         type: upe
@@ -6586,6 +7185,8 @@ courses:
           C: Communion
           D: Confirmation
         answer: B
+        print_position: 11
+        unit: 1
       - uid: BIB217.2.3.3.UPE.2
         subobj: 2.3.3
         type: upe
@@ -6597,6 +7198,8 @@ courses:
           C: compassion of Christ.
           D: sufficiency of Christ.
         answer: D
+        print_position: 12
+        unit: 1
       - uid: BIB217.2.3.3.TY.1
         subobj: 2.3.3
         type: ty
@@ -6607,6 +7210,7 @@ courses:
           C: sanctification.
           D: isolation.
         answer: C
+        print_position: 9
       - uid: BIB217.2.3.4.UPE.1
         subobj: 2.3.4
         type: upe
@@ -6617,6 +7221,8 @@ courses:
           C: a higher and deeper religious experience through subjective means.
           D: self-denial in an attempt to reach a higher religious experience.
         answer: C
+        print_position: 13
+        unit: 1
       - uid: BIB217.2.3.4.TY.1
         subobj: 2.3.4
         type: ty
@@ -6627,6 +7233,7 @@ courses:
           C: rigorous self-denial in an attempt to reach a higher religious experience.
           D: the pursuit of secret knowledge and wisdom.
         answer: A
+        print_position: 10
       - uid: BIB217.3.1.1.UPE.1
         subobj: 3.1.1
         type: upe
@@ -6638,6 +7245,8 @@ courses:
           C: Put them to death
           D: Triumph over them
         answer: C
+        print_position: 15
+        unit: 1
       - uid: BIB217.3.1.1.TY.1
         subobj: 3.1.1
         type: ty
@@ -6649,6 +7258,7 @@ courses:
           C: set their hearts and minds upon things above.
           D: pray in the Spirit at all times.
         answer: C
+        print_position: 1
       - uid: BIB217.3.1.2.UPE.1
         subobj: 3.1.2
         type: upe
@@ -6659,6 +7269,8 @@ courses:
           C: running a race.
           D: darkness and light.
         answer: B
+        print_position: 14
+        unit: 1
       - uid: BIB217.3.1.2.TY.1
         subobj: 3.1.2
         type: ty
@@ -6670,6 +7282,7 @@ courses:
           C: a Christlike sensitivity and heartfelt sympathy for the welfare of others.
           D: an attitude that recognizes our own weaknesses.
         answer: C
+        print_position: 2
       - uid: BIB217.3.1.2.TY.2
         subobj: 3.1.2
         type: ty
@@ -6681,6 +7294,7 @@ courses:
           C: The word of Christ
           D: Gentleness
         answer: C
+        print_position: 3
       - uid: BIB217.3.1.3.TY.1
         subobj: 3.1.3
         type: ty
@@ -6692,6 +7306,7 @@ courses:
           C: for the glory of God.
           D: for the sake of winning a crown.
         answer: A
+        print_position: 4
       - uid: BIB217.3.2.1.TY.1
         subobj: 3.2.1
         type: ty
@@ -6703,6 +7318,7 @@ courses:
           C: listed in sequential order and different in motivation.
           D: different in motivation and exclusive only to Christianity.
         answer: B
+        print_position: 5
       - uid: BIB217.3.2.2.TY.1
         subobj: 3.2.2
         type: ty
@@ -6713,6 +7329,7 @@ courses:
           C: cultural upbringing.
           D: personality.
         answer: B
+        print_position: 6
       - uid: BIB217.3.2.2.TY.2
         subobj: 3.2.2
         type: ty
@@ -6723,6 +7340,7 @@ courses:
           C: serve their husbands for peace’s sake.
           D: submit to their husbands in the love of Christ.
         answer: D
+        print_position: 7
       - uid: BIB217.3.2.4.UPE.1
         subobj: 3.2.4
         type: upe
@@ -6733,6 +7351,8 @@ courses:
           C: submit to their parents.
           D: serve their parents.
         answer: A
+        print_position: 16
+        unit: 1
       - uid: BIB217.3.2.5.UPE.1
         subobj: 3.2.5
         type: upe
@@ -6743,6 +7363,8 @@ courses:
           C: not embitter or discourage their children.
           D: love their children.
         answer: C
+        print_position: 17
+        unit: 1
       - uid: BIB217.3.2.6.TY.1
         subobj: 3.2.6
         type: ty
@@ -6753,6 +7375,7 @@ courses:
           C: rejoice in their freedom in Christ.
           D: peacefully fight for their freedom and deliverance.
         answer: B
+        print_position: 8
       - uid: BIB217.3.3.1.UPE.1
         subobj: 3.3.1
         type: upe
@@ -6764,6 +7387,8 @@ courses:
           C: serving one another.
           D: loving one another.
         answer: A
+        print_position: 18
+        unit: 1
       - uid: BIB217.3.3.4.UPE.1
         subobj: 3.3.4
         type: upe
@@ -6774,6 +7399,8 @@ courses:
           C: strong commitment.
           D: servant’s heart.
         answer: D
+        print_position: 19
+        unit: 1
       - uid: BIB217.3.3.4.TY.1
         subobj: 3.3.4
         type: ty
@@ -6784,6 +7411,7 @@ courses:
           C: second chance.
           D: servant’s heart.
         answer: C
+        print_position: 9
       - uid: BIB217.3.3.4.TY.2
         subobj: 3.3.4
         type: ty
@@ -6795,6 +7423,7 @@ courses:
           C: Justus
           D: Archippus
         answer: B
+        print_position: 10
       - uid: BIB217.4.1.1.UPE.1
         subobj: 4.1.1
         type: upe
@@ -6805,6 +7434,8 @@ courses:
           C: a slave owner.
           D: a proselyte (convert) to Judaism.
         answer: C
+        print_position: 20
+        unit: 1
       - uid: BIB217.4.1.1.UPE.2
         subobj: 4.1.1
         type: upe
@@ -6815,6 +7446,8 @@ courses:
           C: One of the seven deacons appointed by the church at Jerusalem
           D: A member of the church at Laodicea
         answer: B
+        print_position: 21
+        unit: 1
       - uid: BIB217.4.1.1.TY.1
         subobj: 4.1.1
         type: ty
@@ -6825,6 +7458,7 @@ courses:
           C: He encouraged Gentiles to observe the Law.
           D: He preached to all types of people.
         answer: D
+        print_position: 1
       - uid: BIB217.4.1.1.TY.2
         subobj: 4.1.1
         type: ty
@@ -6835,6 +7469,7 @@ courses:
           C: Philemon’s son was an elder.
           D: Philemon was a prominent teacher.
         answer: A
+        print_position: 5
       - uid: BIB217.4.1.2.TY.1
         subobj: 4.1.2
         type: ty
@@ -6845,6 +7480,7 @@ courses:
           C: A letter of recommendation
           D: An expression of thanks
         answer: C
+        print_position: 2
       - uid: BIB217.4.1.2.TY.2
         subobj: 4.1.2
         type: ty
@@ -6855,6 +7491,7 @@ courses:
           C: Paul reminded Philemon of his obligation as a friend.
           D: Paul told Philemon to obey as a son.
         answer: A
+        print_position: 3
       - uid: BIB217.4.1.3.UPE.1
         subobj: 4.1.3
         type: upe
@@ -6865,6 +7502,8 @@ courses:
           C: Forgiveness and restoration
           D: Citizenship in heaven
         answer: C
+        print_position: 22
+        unit: 1
       - uid: BIB217.4.1.3.TY.1
         subobj: 4.1.3
         type: ty
@@ -6875,6 +7514,7 @@ courses:
           C: The request would be seen as a direct attack on the institution of slavery.
           D: Onesimus was guilty of a crime under Roman law.
         answer: B
+        print_position: 4
       - uid: BIB217.4.2.1.UPE.1
         subobj: 4.2.1
         type: upe
@@ -6886,6 +7526,8 @@ courses:
           C: The rich and powerful should serve the poor and powerless.
           D: Paul was asserting his apostolic authority.
         answer: B
+        print_position: 23
+        unit: 1
       - uid: BIB217.4.2.2.TY.1
         subobj: 4.2.2
         type: ty
@@ -6896,6 +7538,7 @@ courses:
           C: For the absence of conflict in our church relationships
           D: For the opportunities to meet new people
         answer: A
+        print_position: 6
       - uid: BIB217.4.2.3.UPE.1
         subobj: 4.2.3
         type: upe
@@ -6909,6 +7552,8 @@ courses:
           D: Paul wanted Philemon to express his faith in true fellowship ( koinonia
             ).
         answer: D
+        print_position: 24
+        unit: 1
       - uid: BIB217.4.2.3.TY.1
         subobj: 4.2.3
         type: ty
@@ -6920,6 +7565,7 @@ courses:
           C: We should not have special favorites in the church.
           D: Leaders in the church should be accorded special respect and honor.
         answer: A
+        print_position: 7
       - uid: BIB217.4.3.1.UPE.1
         subobj: 4.3.1
         type: upe
@@ -6931,6 +7577,8 @@ courses:
           C: We should forgive, but serious offenses should be reported to the authorities.
           D: We should take the initiative in extending forgiveness.
         answer: D
+        print_position: 25
+        unit: 1
       - uid: BIB217.4.3.1.TY.1
         subobj: 4.3.1
         type: ty
@@ -6942,6 +7590,7 @@ courses:
           C: The American Civil Liberties Union opposes religiously oriented decisions.
           D: Americans are intensely individualistic.
         answer: B
+        print_position: 8
       - uid: BIB217.4.3.1.TY.2
         subobj: 4.3.1
         type: ty
@@ -6953,6 +7602,7 @@ courses:
           C: God will judge us more severely if we do not forgive.
           D: Real forgiveness releases the offender from all obligations.
         answer: D
+        print_position: 9
       - uid: BIB217.4.3.1.TY.3
         subobj: 4.3.1
         type: ty
@@ -6965,6 +7615,7 @@ courses:
           C: Forgiveness should be gently encouraged, but not demanded or forced.
           D: Serious problems should be handled with legal counsel.
         answer: C
+        print_position: 10
       - uid: BIB217.5.1.1.UPE.1
         subobj: 5.1.1
         type: upe
@@ -6975,6 +7626,8 @@ courses:
           C: the power of the Holy Spirit.
           D: the priesthood of the believer.
         answer: B
+        print_position: 1
+        unit: 2
       - uid: BIB217.5.1.1.TY.1
         subobj: 5.1.1
         type: ty
@@ -6985,6 +7638,7 @@ courses:
           C: The humanity of Christ
           D: God’s complete provision for effective Christian life
         answer: D
+        print_position: 1
       - uid: BIB217.5.1.1.TY.2
         subobj: 5.1.1
         type: ty
@@ -6995,6 +7649,7 @@ courses:
           C: '2:1'
           D: '3:6'
         answer: A
+        print_position: 2
       - uid: BIB217.5.1.2.UPE.1
         subobj: 5.1.2
         type: upe
@@ -7006,6 +7661,8 @@ courses:
           C: Athens.
           D: Ephesus.
         answer: D
+        print_position: 2
+        unit: 2
       - uid: BIB217.5.1.2.TY.1
         subobj: 5.1.2
         type: ty
@@ -7016,6 +7673,7 @@ courses:
           C: Macedonia.
           D: Bithynia.
         answer: A
+        print_position: 3
       - uid: BIB217.5.1.2.TY.2
         subobj: 5.1.2
         type: ty
@@ -7026,6 +7684,7 @@ courses:
           C: Athena.
           D: Demeter.
         answer: B
+        print_position: 4
       - uid: BIB217.5.1.5.UPE.1
         subobj: 5.1.5
         type: upe
@@ -7037,6 +7696,8 @@ courses:
           C: justification of believers and the second coming of Christ.
           D: justification of believers and their exalted position.
         answer: A
+        print_position: 3
+        unit: 2
       - uid: BIB217.5.1.5.TY.1
         subobj: 5.1.5
         type: ty
@@ -7047,6 +7708,7 @@ courses:
           C: Subjective and imperative
           D: Imperative and indicative
         answer: D
+        print_position: 5
       - uid: BIB217.5.2.1.UPE.1
         subobj: 5.2.1
         type: upe
@@ -7057,6 +7719,8 @@ courses:
           C: '9'
           D: '12'
         answer: B
+        print_position: 4
+        unit: 2
       - uid: BIB217.5.2.2.TY.1
         subobj: 5.2.2
         type: ty
@@ -7069,6 +7733,7 @@ courses:
           C: In Christ, believers are chosen and sealed by the Holy Spirit.
           D: In Christ, believers are adopted and anointed for ministry.
         answer: C
+        print_position: 6
       - uid: BIB217.5.2.3.TY.1
         subobj: 5.2.3
         type: ty
@@ -7079,6 +7744,7 @@ courses:
           C: “to accept.”
           D: “to be chosen.”
         answer: B
+        print_position: 7
       - uid: BIB217.5.2.7.TY.1
         subobj: 5.2.7
         type: ty
@@ -7090,6 +7756,7 @@ courses:
           C: Believers have received God’s stamp of approval.
           D: Believers have been sanctified and set apart for ministry.
         answer: B
+        print_position: 8
       - uid: BIB217.5.3.2.TY.1
         subobj: 5.3.2
         type: ty
@@ -7101,6 +7768,7 @@ courses:
           C: the Holy Spirit.
           D: revelation.
         answer: C
+        print_position: 9
       - uid: BIB217.5.3.3.UPE.1
         subobj: 5.3.3
         type: upe
@@ -7112,6 +7780,8 @@ courses:
           C: their glorious inheritance in the saints.
           D: God’s incomparably great power to those who believe.
         answer: A
+        print_position: 5
+        unit: 2
       - uid: BIB217.5.3.3.TY.1
         subobj: 5.3.3
         type: ty
@@ -7122,6 +7792,7 @@ courses:
           C: “majestic.”
           D: “holy and set apart.”
         answer: B
+        print_position: 10
       - uid: BIB217.6.1.1.UPE.1
         subobj: 6.1.1
         type: upe
@@ -7132,6 +7803,8 @@ courses:
           C: tormented, out of control, lost, and dead in their own sin.
           D: dead in their sin, lost, out of control, and headed for God’s judgment.
         answer: D
+        print_position: 6
+        unit: 2
       - uid: BIB217.6.1.1.TY.1
         subobj: 6.1.1
         type: ty
@@ -7142,6 +7815,7 @@ courses:
           C: tormented, lost, dead in their sin, and out of control.
           D: poor, dead in their sin, lost, and headed for God’s judgment.
         answer: B
+        print_position: 1
       - uid: BIB217.6.1.2.UPE.1
         subobj: 6.1.2
         type: upe
@@ -7153,6 +7827,8 @@ courses:
           C: is unnecessary because believers are saved by faith alone.
           D: is helpful, but is not necessary to live a consistent Christian life.
         answer: B
+        print_position: 7
+        unit: 2
       - uid: BIB217.6.1.3.TY.1
         subobj: 6.1.3
         type: ty
@@ -7164,6 +7840,7 @@ courses:
           C: persecution, life, hope, and purpose / potential.
           D: position, prosperity, hope, and life.
         answer: A
+        print_position: 2
       - uid: BIB217.6.2.1.UPE.1
         subobj: 6.2.1
         type: upe
@@ -7175,6 +7852,8 @@ courses:
           C: restoration.
           D: reconciliation.
         answer: D
+        print_position: 8
+        unit: 2
       - uid: BIB217.6.2.2.UPE.1
         subobj: 6.2.2
         type: upe
@@ -7185,6 +7864,8 @@ courses:
           C: Christ, citizenship, hope, covenants, and God.
           D: hope, God, purpose, Christ, and a future.
         answer: C
+        print_position: 9
+        unit: 2
       - uid: BIB217.6.2.2.TY.1
         subobj: 6.2.2
         type: ty
@@ -7195,6 +7876,7 @@ courses:
           C: purpose, destiny, citizenship, hope, and God.
           D: Christ, citizenship, covenants, purpose, and significance.
         answer: B
+        print_position: 3
       - uid: BIB217.6.2.3.TY.1
         subobj: 6.2.3
         type: ty
@@ -7205,6 +7887,7 @@ courses:
           C: hope, peace, purpose, and prosperity.
           D: near to God, peace, unity, and access to God.
         answer: D
+        print_position: 4
       - uid: BIB217.6.2.4.TY.1
         subobj: 6.2.4
         type: ty
@@ -7215,6 +7898,7 @@ courses:
           C: built together into a temple, a dwelling place for God’s Spirit.
           D: all of the above.
         answer: D
+        print_position: 5
       - uid: BIB217.6.3.1.UPE.1
         subobj: 6.3.1
         type: upe
@@ -7225,6 +7909,8 @@ courses:
           C: was hidden for a time, but is now made known to all.
           D: was never hidden; it was just a concept that was hard to grasp.
         answer: C
+        print_position: 10
+        unit: 2
       - uid: BIB217.6.3.1.TY.1
         subobj: 6.3.1
         type: ty
@@ -7235,6 +7921,7 @@ courses:
           C: Jews.
           D: mystics.
         answer: C
+        print_position: 6
       - uid: BIB217.6.3.2.TY.1
         subobj: 6.3.2
         type: ty
@@ -7246,6 +7933,7 @@ courses:
           C: “the uncircumcised.”
           D: “the outsiders.”
         answer: B
+        print_position: 7
       - uid: BIB217.6.3.3.TY.1
         subobj: 6.3.3
         type: ty
@@ -7258,6 +7946,7 @@ courses:
           C: be hospitable, be a servant, proclaim Christ, and teach clearly.
           D: give generously, be a servant, proclaim Christ, and be hospitable.
         answer: A
+        print_position: 8
       - uid: BIB217.6.3.3.TY.2
         subobj: 6.3.3
         type: ty
@@ -7269,6 +7958,7 @@ courses:
           C: “a table waiter.”
           D: “humbled one.”
         answer: C
+        print_position: 9
       - uid: BIB217.6.4.2.TY.1
         subobj: 6.4.2
         type: ty
@@ -7281,6 +7971,7 @@ courses:
           C: be rooted and built up, and have the joy of the Lord.
           D: be filled with the fullness of God and have a peace that passes all understanding.
         answer: B
+        print_position: 10
       - uid: BIB217.7.1.1.UPE.1
         subobj: 7.1.1
         type: upe
@@ -7291,6 +7982,8 @@ courses:
           C: abstain from meat offered to idols.
           D: be ready for Christ’s soon return.
         answer: B
+        print_position: 11
+        unit: 2
       - uid: BIB217.7.1.1.TY.1
         subobj: 7.1.1
         type: ty
@@ -7302,6 +7995,7 @@ courses:
           C: Humility, gentleness, patience, and forbearance
           D: Patience, competence, gentleness, and humility
         answer: C
+        print_position: 1
       - uid: BIB217.7.1.3.UPE.1
         subobj: 7.1.3
         type: upe
@@ -7313,6 +8007,8 @@ courses:
           C: do the professional aspects of ministry.
           D: lead the church.
         answer: B
+        print_position: 12
+        unit: 2
       - uid: BIB217.7.1.3.TY.1
         subobj: 7.1.3
         type: ty
@@ -7323,6 +8019,7 @@ courses:
           C: evangelists, presbyters, prophets, and apostles.
           D: apostles, prophets, evangelists, and pastors / teachers.
         answer: D
+        print_position: 2
       - uid: BIB217.7.1.4.TY.1
         subobj: 7.1.4
         type: ty
@@ -7333,6 +8030,7 @@ courses:
           C: modern culture.
           D: television evangelism.
         answer: A
+        print_position: 3
       - uid: BIB217.7.2.1.TY.1
         subobj: 7.2.1
         type: ty
@@ -7344,6 +8042,7 @@ courses:
           C: Bribery, malice, negative attitudes, stealing, and unwholesome speech
           D: Lying, sinful anger, stealing, unwholesome speech, and negative attitudes
         answer: D
+        print_position: 4
       - uid: BIB217.7.2.2.UPE.1
         subobj: 7.2.2
         type: upe
@@ -7359,6 +8058,8 @@ courses:
           D: Modesty, truthfulness, wholesome speech, a good work ethic, and a positive
             attitude.
         answer: C
+        print_position: 13
+        unit: 2
       - uid: BIB217.7.3.1.UPE.1
         subobj: 7.3.1
         type: upe
@@ -7369,6 +8070,8 @@ courses:
           C: God
           D: The apostles
         answer: C
+        print_position: 14
+        unit: 2
       - uid: BIB217.7.3.2.TY.1
         subobj: 7.3.2
         type: ty
@@ -7380,6 +8083,7 @@ courses:
           C: malice, sexual immorality, or bitterness.
           D: pride, greed, or sexual immorality.
         answer: A
+        print_position: 5
       - uid: BIB217.7.3.3.TY.1
         subobj: 7.3.3
         type: ty
@@ -7391,6 +8095,7 @@ courses:
           C: love.
           D: devotion.
         answer: C
+        print_position: 6
       - uid: BIB217.7.4.1.TY.1
         subobj: 7.4.1
         type: ty
@@ -7402,6 +8107,7 @@ courses:
           C: gold and stubble.
           D: light and darkness.
         answer: D
+        print_position: 7
       - uid: BIB217.7.4.2.UPE.1
         subobj: 7.4.2
         type: upe
@@ -7413,6 +8119,8 @@ courses:
           C: fruitless, unwise, and foolish.
           D: fruitless, despairing, and evil.
         answer: C
+        print_position: 15
+        unit: 2
       - uid: BIB217.7.4.2.TY.1
         subobj: 7.4.2
         type: ty
@@ -7424,6 +8132,7 @@ courses:
           C: judgment.
           D: a desert place.
         answer: B
+        print_position: 8
       - uid: BIB217.7.4.3.TY.1
         subobj: 7.4.3
         type: ty
@@ -7434,6 +8143,7 @@ courses:
           C: salvation, goodness, and truth.
           D: goodness, righteousness, and truth.
         answer: D
+        print_position: 9
       - uid: BIB217.7.4.3.TY.2
         subobj: 7.4.3
         type: ty
@@ -7447,6 +8157,7 @@ courses:
           D: be filled with the Spirit, rejoice in the Lord always, and press on in
             the strength of the Lord.
         answer: A
+        print_position: 10
       - uid: BIB217.8.1.1.UPE.1
         subobj: 8.1.1
         type: upe
@@ -7458,6 +8169,8 @@ courses:
           C: loving submission to their husbands.
           D: serving their husbands.
         answer: C
+        print_position: 16
+        unit: 2
       - uid: BIB217.8.1.1.TY.1
         subobj: 8.1.1
         type: ty
@@ -7468,6 +8181,7 @@ courses:
           C: loving, respecting, and yielding in support of her husband.
           D: playing a servant’s role in her marriage.
         answer: C
+        print_position: 2
       - uid: BIB217.8.1.2.UPE.1
         subobj: 8.1.2
         type: upe
@@ -7478,6 +8192,8 @@ courses:
           C: obligation.
           D: reverence.
         answer: D
+        print_position: 17
+        unit: 2
       - uid: BIB217.8.1.2.TY.1
         subobj: 8.1.2
         type: ty
@@ -7488,6 +8204,7 @@ courses:
           C: obedience.
           D: obligation.
         answer: B
+        print_position: 3
       - uid: BIB217.8.1.3.TY.1
         subobj: 8.1.3
         type: ty
@@ -7498,6 +8215,7 @@ courses:
           C: demonstrating sacrificial, caring, and indissoluble love.
           D: seeing that she maintains a submissive attitude at all times.
         answer: C
+        print_position: 4
       - uid: BIB217.8.1.3.TY.2
         subobj: 8.1.3
         type: ty
@@ -7509,6 +8227,7 @@ courses:
           C: His vows are dissolvable.
           D: His vows are important.
         answer: A
+        print_position: 5
       - uid: BIB217.8.1.4.UPE.1
         subobj: 8.1.4
         type: upe
@@ -7520,6 +8239,8 @@ courses:
           C: lavish, eternal, and out of obligation.
           D: indissoluble, selfless, and out of obligation.
         answer: B
+        print_position: 18
+        unit: 2
       - uid: BIB217.8.1.4.TY.1
         subobj: 8.1.4
         type: ty
@@ -7531,6 +8252,7 @@ courses:
           C: cherish their husbands.
           D: respect their husbands.
         answer: D
+        print_position: 6
       - uid: BIB217.8.2.2.TY.1
         subobj: 8.2.2
         type: ty
@@ -7541,6 +8263,7 @@ courses:
           C: fear and obey their parents.
           D: obey and honor their parents.
         answer: D
+        print_position: 7
       - uid: BIB217.8.2.3.UPE.1
         subobj: 8.2.3
         type: upe
@@ -7552,6 +8275,8 @@ courses:
           C: love them and overlook their shortcomings.
           D: respect them and love them for who they are in Christ.
         answer: B
+        print_position: 19
+        unit: 2
       - uid: BIB217.8.2.3.TY.1
         subobj: 8.2.3
         type: ty
@@ -7563,6 +8288,7 @@ courses:
           C: love them and overlook their shortcomings.
           D: train them and instruct them in the Lord.
         answer: D
+        print_position: 8
       - uid: BIB217.8.3.2.UPE.1
         subobj: 8.3.2
         type: upe
@@ -7574,6 +8300,8 @@ courses:
           C: joyful heart.
           D: grateful heart.
         answer: A
+        print_position: 20
+        unit: 2
       - uid: BIB217.8.3.2.TY.1
         subobj: 8.3.2
         type: ty
@@ -7585,6 +8313,7 @@ courses:
           C: grateful heart.
           D: generous heart.
         answer: A
+        print_position: 9
       - uid: BIB217.8.3.3.TY.1
         subobj: 8.3.3
         type: ty
@@ -7596,6 +8325,7 @@ courses:
           C: right heart.
           D: grateful heart.
         answer: C
+        print_position: 10
       - uid: BIB217.8.intro.TY.1
         subobj: 8.intro
         type: ty
@@ -7606,6 +8336,7 @@ courses:
           C: obligatory act.
           D: sacrificial act.
         answer: A
+        print_position: 1
       - uid: BIB217.9.1.1.TY.1
         subobj: 9.1.1
         type: ty
@@ -7616,6 +8347,7 @@ courses:
           C: evil spiritual forces and authorities in the heavenly realms.
           D: governments and politicians.
         answer: C
+        print_position: 1
       - uid: BIB217.9.1.2.UPE.1
         subobj: 9.1.2
         type: upe
@@ -7626,6 +8358,8 @@ courses:
           C: lay down his life.
           D: retreat and seek refuge in God.
         answer: B
+        print_position: 21
+        unit: 2
       - uid: BIB217.9.1.2.TY.1
         subobj: 9.1.2
         type: ty
@@ -7637,6 +8371,7 @@ courses:
           C: retreat and take refuge in God.
           D: declare his or her fear to others.
         answer: A
+        print_position: 2
       - uid: BIB217.9.1.2.TY.2
         subobj: 9.1.2
         type: ty
@@ -7647,6 +8382,7 @@ courses:
           C: “to hold one’s position.”
           D: “to harden one’s resolve.”
         answer: C
+        print_position: 3
       - uid: BIB217.9.1.3.UPE.1
         subobj: 9.1.3
         type: upe
@@ -7658,6 +8394,8 @@ courses:
           C: The sword of the Spirit
           D: The belt of truth
         answer: B
+        print_position: 22
+        unit: 2
       - uid: BIB217.9.1.3.UPE.2
         subobj: 9.1.3
         type: upe
@@ -7669,6 +8407,8 @@ courses:
           C: The shield of faith
           D: The breastplate of righteousness
         answer: C
+        print_position: 23
+        unit: 2
       - uid: BIB217.9.1.3.UPE.3
         subobj: 9.1.3
         type: upe
@@ -7679,6 +8419,8 @@ courses:
           C: Shoes
           D: Helmet
         answer: C
+        print_position: 24
+        unit: 2
       - uid: BIB217.9.1.3.TY.1
         subobj: 9.1.3
         type: ty
@@ -7690,6 +8432,7 @@ courses:
           C: shield of faith.
           D: helmet of salvation.
         answer: D
+        print_position: 4
       - uid: BIB217.9.1.3.TY.2
         subobj: 9.1.3
         type: ty
@@ -7700,6 +8443,7 @@ courses:
           C: The breastplate of righteousness
           D: The shield of faith
         answer: A
+        print_position: 5
       - uid: BIB217.9.1.3.TY.3
         subobj: 9.1.3
         type: ty
@@ -7711,6 +8455,7 @@ courses:
           C: sword of the Spirit.
           D: breastplate of righteousness.
         answer: A
+        print_position: 6
       - uid: BIB217.9.1.3.TY.4
         subobj: 9.1.3
         type: ty
@@ -7721,6 +8466,7 @@ courses:
           C: The breastplate of righteousness
           D: The sword of the Spirit
         answer: D
+        print_position: 7
       - uid: BIB217.9.1.3.TY.5
         subobj: 9.1.3
         type: ty
@@ -7732,6 +8478,7 @@ courses:
           C: Reading the Word of God
           D: Thanksgiving
         answer: B
+        print_position: 8
       - uid: BIB217.9.1.3.TY.6
         subobj: 9.1.3
         type: ty
@@ -7742,6 +8489,7 @@ courses:
           C: pair of shoes.
           D: helmet.
         answer: C
+        print_position: 9
       - uid: BIB217.9.2.1.UPE.1
         subobj: 9.2.1
         type: upe
@@ -7752,6 +8500,8 @@ courses:
           C: for all the saints.
           D: doing all of the above.
         answer: D
+        print_position: 25
+        unit: 2
       - uid: BIB217.9.2.1.TY.1
         subobj: 9.2.1
         type: ty
@@ -7762,6 +8512,7 @@ courses:
           C: To pray with groans that words cannot express
           D: It can include all of the above.
         answer: D
+        print_position: 10
       - uid: BIB217.10.1.1.TY.1
         subobj: 10.1.1
         type: ty
@@ -7777,6 +8528,7 @@ courses:
             scholars now agree that it is a genuine letter from Paul.
           D: Philippians is one of the indisputably authentic letters of Paul.
         answer: D
+        print_position: 1
       - uid: BIB217.10.1.2.TY.1
         subobj: 10.1.2
         type: ty
@@ -7787,6 +8539,7 @@ courses:
           C: Galatia.
           D: Thracia.
         answer: B
+        print_position: 2
       - uid: BIB217.10.1.2.TY.2
         subobj: 10.1.2
         type: ty
@@ -7797,6 +8550,7 @@ courses:
           C: Jews were not welcome in Philippi.
           D: Paul mentions this in his opening comment to the Philippians.
         answer: B
+        print_position: 3
       - uid: BIB217.10.1.3.UPE.1
         subobj: 10.1.3
         type: upe
@@ -7810,6 +8564,8 @@ courses:
           D: To express appreciation, restore perspective, emphasize unity, impart
             wisdom, and correct
         answer: C
+        print_position: 2
+        unit: 3
       - uid: BIB217.10.1.3.TY.1
         subobj: 10.1.3
         type: ty
@@ -7821,6 +8577,7 @@ courses:
           C: To express appreciation
           D: To restore perspective
         answer: A
+        print_position: 4
       - uid: BIB217.10.1.4.UPE.1
         subobj: 10.1.4
         type: upe
@@ -7831,6 +8588,8 @@ courses:
           C: The supremacy of Christ and the advancement of the gospel
           D: The second coming of Christ and the joy of the Lord
         answer: A
+        print_position: 3
+        unit: 3
       - uid: BIB217.10.1.4.TY.1
         subobj: 10.1.4
         type: ty
@@ -7842,6 +8601,7 @@ courses:
           C: second coming of Christ and the joy of the Lord.
           D: joy of the Lord and the advancement of the gospel.
         answer: D
+        print_position: 5
       - uid: BIB217.10.2.1.UPE.1
         subobj: 10.2.1
         type: upe
@@ -7853,6 +8613,8 @@ courses:
           C: a servant and apostle of Jesus Christ.
           D: a servant of Jesus Christ.
         answer: D
+        print_position: 1
+        unit: 3
       - uid: BIB217.10.2.2.TY.1
         subobj: 10.2.2
         type: ty
@@ -7863,6 +8625,7 @@ courses:
           C: faith in Christ.
           D: effectiveness in spreading the gospel.
         answer: B
+        print_position: 6
       - uid: BIB217.10.2.2.TY.2
         subobj: 10.2.2
         type: ty
@@ -7873,6 +8636,7 @@ courses:
           C: “Partnership”
           D: “Thankfulness”
         answer: C
+        print_position: 7
       - uid: BIB217.10.2.3.UPE.1
         subobj: 10.2.3
         type: upe
@@ -7884,6 +8648,8 @@ courses:
           C: '1:12.'
           D: '1:21.'
         answer: A
+        print_position: 6
+        unit: 3
       - uid: BIB217.10.2.4.UPE.1
         subobj: 10.2.4
         type: upe
@@ -7894,6 +8660,8 @@ courses:
           C: affection.
           D: thanksgiving.
         answer: C
+        print_position: 4
+        unit: 3
       - uid: BIB217.10.2.4.TY.1
         subobj: 10.2.4
         type: ty
@@ -7904,6 +8672,7 @@ courses:
           C: “kindred spirit.”
           D: “a longing of heart.”
         answer: A
+        print_position: 9
       - uid: BIB217.10.2.5.UPE.1
         subobj: 10.2.5
         type: upe
@@ -7915,6 +8684,8 @@ courses:
           C: Everything for God’s glory and praise
           D: Prepare for Christ’s coming
         answer: A
+        print_position: 5
+        unit: 3
       - uid: BIB217.10.2.5.TY.1
         subobj: 10.2.5
         type: ty
@@ -7925,6 +8696,7 @@ courses:
           C: “a deep, personal knowledge of Christ.”
           D: “moral and spiritual perception.”
         answer: C
+        print_position: 8
       - uid: BIB217.10.2.5.TY.2
         subobj: 10.2.5
         type: ty
@@ -7944,6 +8716,7 @@ courses:
             and spiritually ready for Christ’s return, and be filled with fruit of
             righteousness
         answer: A
+        print_position: 10
       - uid: BIB217.11.1.1.TY.1
         subobj: 11.1.1
         type: ty
@@ -7954,6 +8727,7 @@ courses:
           C: his or her relationship with Christ.
           D: his or her relationships with other people.
         answer: C
+        print_position: 1
       - uid: BIB217.11.1.2.UPE.1
         subobj: 11.1.2
         type: upe
@@ -7964,6 +8738,8 @@ courses:
           C: He saw it as an opportunity to get sympathy from his enemies.
           D: He was resentful toward God and the church.
         answer: B
+        print_position: 7
+        unit: 3
       - uid: BIB217.11.1.2.TY.1
         subobj: 11.1.2
         type: ty
@@ -7975,6 +8751,7 @@ courses:
           C: warning the church.
           D: thanking God that Christ was exalted.
         answer: D
+        print_position: 3
       - uid: BIB217.11.1.3.UPE.1
         subobj: 11.1.3
         type: upe
@@ -7992,6 +8769,8 @@ courses:
             and purposes, the goodness of the Caesar, and that he would not be put
             to shame.
         answer: C
+        print_position: 8
+        unit: 3
       - uid: BIB217.11.1.3.TY.1
         subobj: 11.1.3
         type: ty
@@ -8011,6 +8790,7 @@ courses:
             the prayers of God’s people, the help of the Holy Spirit, and God’s plans
             and purposes
         answer: A
+        print_position: 2
       - uid: BIB217.11.2.1.TY.1
         subobj: 11.2.1
         type: ty
@@ -8022,6 +8802,7 @@ courses:
           C: “live in harmony with others.”
           D: “take responsibility for one’s actions.”
         answer: B
+        print_position: 4
       - uid: BIB217.11.2.2.UPE.1
         subobj: 11.2.2
         type: upe
@@ -8033,6 +8814,8 @@ courses:
           C: take responsibility for their actions.
           D: live their lives in a manner worthy of the gospel.
         answer: D
+        print_position: 9
+        unit: 3
       - uid: BIB217.11.2.2.TY.1
         subobj: 11.2.2
         type: ty
@@ -8044,6 +8827,7 @@ courses:
           C: lay down their lives for the cause of Christ.
           D: pray daily for each other.
         answer: B
+        print_position: 5
       - uid: BIB217.11.2.3.UPE.1
         subobj: 11.2.3
         type: upe
@@ -8055,6 +8839,8 @@ courses:
           C: harmony, peace, and resolve.
           D: honesty, resolve, and hospitality.
         answer: A
+        print_position: 10
+        unit: 3
       - uid: BIB217.11.2.4.UPE.1
         subobj: 11.2.4
         type: upe
@@ -8065,6 +8851,8 @@ courses:
           C: sign of sin.
           D: difficulty to be overcome.
         answer: B
+        print_position: 11
+        unit: 3
       - uid: BIB217.11.3.1.TY.1
         subobj: 11.3.1
         type: ty
@@ -8076,6 +8864,7 @@ courses:
           C: Having fellowship in the Spirit and encouragement from other believers
           D: Receiving encouragement from Christ and comfort from His love
         answer: D
+        print_position: 6
       - uid: BIB217.11.3.2.TY.1
         subobj: 11.3.2
         type: ty
@@ -8087,6 +8876,7 @@ courses:
           C: Being self-controlled, unselfish, and generous
           D: Being like-minded, generous, and self-controlled
         answer: A
+        print_position: 7
       - uid: BIB217.11.3.3.TY.1
         subobj: 11.3.3
         type: ty
@@ -8098,6 +8888,7 @@ courses:
           C: fight to the end, hold on to God’s promises, and never give up.
           D: give up and rest in God’s promise of future reward and glory.
         answer: A
+        print_position: 8
       - uid: BIB217.11.4.1.TY.1
         subobj: 11.4.1
         type: ty
@@ -8109,6 +8900,7 @@ courses:
           C: guidance from the Holy Spirit.
           D: love and patience.
         answer: B
+        print_position: 9
       - uid: BIB217.11.4.2.UPE.1
         subobj: 11.4.2
         type: upe
@@ -8120,6 +8912,8 @@ courses:
           C: without murmuring or complaining.
           D: without envy or deceit.
         answer: C
+        print_position: 12
+        unit: 3
       - uid: BIB217.11.4.3.TY.1
         subobj: 11.4.3
         type: ty
@@ -8131,6 +8925,7 @@ courses:
           C: rejoicing and sorrow.
           D: self-sacrifice and rejoicing.
         answer: D
+        print_position: 10
       - uid: BIB217.12.1.1.UPE.1
         subobj: 12.1.1
         type: upe
@@ -8142,6 +8937,8 @@ courses:
           C: Tychicus
           D: Epaphroditus
         answer: A
+        print_position: 13
+        unit: 3
       - uid: BIB217.12.1.1.TY.1
         subobj: 12.1.1
         type: ty
@@ -8153,6 +8950,7 @@ courses:
           C: Epaphras and Timothy.
           D: Timothy and Epaphroditus.
         answer: D
+        print_position: 1
       - uid: BIB217.12.1.1.TY.2
         subobj: 12.1.1
         type: ty
@@ -8163,6 +8961,7 @@ courses:
           C: Timothy
           D: Epaphroditus
         answer: C
+        print_position: 2
       - uid: BIB217.12.1.1.TY.3
         subobj: 12.1.1
         type: ty
@@ -8174,6 +8973,7 @@ courses:
           C: determination to complete a project that has been started.
           D: passion to work hard.
         answer: B
+        print_position: 3
       - uid: BIB217.12.1.2.UPE.1
         subobj: 12.1.2
         type: upe
@@ -8185,6 +8985,8 @@ courses:
           C: Tychicus
           D: Timothy
         answer: A
+        print_position: 14
+        unit: 3
       - uid: BIB217.12.1.2.UPE.2
         subobj: 12.1.2
         type: upe
@@ -8196,6 +8998,8 @@ courses:
           C: Timothy
           D: Epaphroditus
         answer: D
+        print_position: 15
+        unit: 3
       - uid: BIB217.12.1.2.TY.1
         subobj: 12.1.2
         type: ty
@@ -8206,6 +9010,7 @@ courses:
           C: Epaphroditus
           D: Timothy
         answer: C
+        print_position: 4
       - uid: BIB217.12.2.1.TY.1
         subobj: 12.2.1
         type: ty
@@ -8217,6 +9022,7 @@ courses:
           C: '20'
           D: '23'
         answer: B
+        print_position: 5
       - uid: BIB217.12.2.2.UPE.1
         subobj: 12.2.2
         type: upe
@@ -8227,6 +9033,8 @@ courses:
           C: encourages people to seek out other religions.
           D: destroys a believer’s joy in the Lord.
         answer: B
+        print_position: 16
+        unit: 3
       - uid: BIB217.12.2.2.TY.1
         subobj: 12.2.2
         type: ty
@@ -8237,6 +9045,7 @@ courses:
           C: False teachers, rats, and scoundrels
           D: False teachers, scoundrels, and dogs
         answer: A
+        print_position: 6
       - uid: BIB217.12.2.3.UPE.1
         subobj: 12.2.3
         type: upe
@@ -8251,6 +9060,8 @@ courses:
           D: destiny is destruction, their god is their sinful desires, their glory
             is their fame, and their mind is on earthly things.
         answer: B
+        print_position: 17
+        unit: 3
       - uid: BIB217.12.2.3.TY.1
         subobj: 12.2.3
         type: ty
@@ -8261,6 +9072,7 @@ courses:
           C: antinomianism.
           D: atheism.
         answer: C
+        print_position: 7
       - uid: BIB217.12.3.1.TY.1
         subobj: 12.3.1
         type: ty
@@ -8271,6 +9083,7 @@ courses:
           C: Manasseh.
           D: Ephraim.
         answer: B
+        print_position: 8
       - uid: BIB217.12.3.2.UPE.1
         subobj: 12.3.2
         type: upe
@@ -8281,6 +9094,8 @@ courses:
           C: Knowing Christ
           D: Knowledge and prestige
         answer: C
+        print_position: 18
+        unit: 3
       - uid: BIB217.12.3.2.UPE.2
         subobj: 12.3.2
         type: upe
@@ -8293,6 +9108,8 @@ courses:
           C: enemies.
           D: fears.
         answer: B
+        print_position: 19
+        unit: 3
       - uid: BIB217.12.3.2.TY.1
         subobj: 12.3.2
         type: ty
@@ -8308,6 +9125,7 @@ courses:
           D: face their fears, focus on the prize, forget the past, be comfortable,
             and forgo comparisons.
         answer: C
+        print_position: 9
       - uid: BIB217.12.3.3.TY.1
         subobj: 12.3.3
         type: ty
@@ -8318,6 +9136,7 @@ courses:
           C: Jewish
           D: Earthly
         answer: A
+        print_position: 10
       - uid: BIB217.13.1.1.UPE.1
         subobj: 13.1.1
         type: upe
@@ -8329,6 +9148,8 @@ courses:
           C: Aristarchus
           D: Epaphroditus
         answer: B
+        print_position: 20
+        unit: 3
       - uid: BIB217.13.1.1.TY.1
         subobj: 13.1.1
         type: ty
@@ -8340,6 +9161,7 @@ courses:
           C: Tychicus and Euodia
           D: Clement and Syntyche
         answer: B
+        print_position: 1
       - uid: BIB217.13.1.2.TY.1
         subobj: 13.1.2
         type: ty
@@ -8351,6 +9173,7 @@ courses:
           C: Always
           D: When the need arises
         answer: C
+        print_position: 2
       - uid: BIB217.13.1.2.TY.2
         subobj: 13.1.2
         type: ty
@@ -8361,6 +9184,7 @@ courses:
           C: the Lord.
           D: ourselves.
         answer: C
+        print_position: 3
       - uid: BIB217.13.1.3.UPE.1
         subobj: 13.1.3
         type: upe
@@ -8372,6 +9196,8 @@ courses:
           C: Zeal
           D: Peacefulness
         answer: B
+        print_position: 21
+        unit: 3
       - uid: BIB217.13.1.3.TY.1
         subobj: 13.1.3
         type: ty
@@ -8382,6 +9208,7 @@ courses:
           C: “Loving”
           D: “Self-controlled”
         answer: A
+        print_position: 4
       - uid: BIB217.13.2.1.UPE.1
         subobj: 13.2.1
         type: upe
@@ -8392,6 +9219,8 @@ courses:
           C: thanksgiving.
           D: patience.
         answer: C
+        print_position: 22
+        unit: 3
       - uid: BIB217.13.2.1.UPE.2
         subobj: 13.2.1
         type: upe
@@ -8402,6 +9231,8 @@ courses:
           C: patience.
           D: grace.
         answer: A
+        print_position: 23
+        unit: 3
       - uid: BIB217.13.2.1.TY.1
         subobj: 13.2.1
         type: ty
@@ -8413,6 +9244,7 @@ courses:
           C: requests.
           D: thanksgiving.
         answer: B
+        print_position: 5
       - uid: BIB217.13.2.1.TY.2
         subobj: 13.2.1
         type: ty
@@ -8423,6 +9255,7 @@ courses:
           C: Practice positive thinking techniques.
           D: Pray to God with thanksgiving.
         answer: D
+        print_position: 6
       - uid: BIB217.13.2.1.TY.3
         subobj: 13.2.1
         type: ty
@@ -8433,6 +9266,7 @@ courses:
           C: Mind
           D: Heart and mind
         answer: D
+        print_position: 7
       - uid: BIB217.13.2.2.UPE.1
         subobj: 13.2.2
         type: upe
@@ -8445,6 +9279,8 @@ courses:
           C: true, admirable, noble, pleasant, honest, lovely, right, and praiseworthy.
           D: true, noble, right, pure, lovely, admirable, excellent, and praiseworthy.
         answer: D
+        print_position: 24
+        unit: 3
       - uid: BIB217.13.2.2.TY.1
         subobj: 13.2.2
         type: ty
@@ -8456,6 +9292,7 @@ courses:
           C: admirable, excellent, praiseworthy, honest, pleasant, right, and lovely.
           D: true, admirable, noble, pleasant, honest, lovely, right, and praiseworthy.
         answer: B
+        print_position: 8
       - uid: BIB217.13.3.1.TY.1
         subobj: 13.3.1
         type: ty
@@ -8466,6 +9303,7 @@ courses:
           C: that the church in Philippi renewed concern for him.
           D: in his trials and imprisonment.
         answer: C
+        print_position: 9
       - uid: BIB217.13.3.2.UPE.1
         subobj: 13.3.2
         type: upe
@@ -8476,6 +9314,8 @@ courses:
           C: Christ
           D: Finances
         answer: C
+        print_position: 25
+        unit: 3
       - uid: BIB217.13.3.2.TY.1
         subobj: 13.3.2
         type: ty
@@ -8486,6 +9326,7 @@ courses:
           C: Christ, who provides security and satisfaction for the believer.
           D: ideal circumstances.
         answer: C
+        print_position: 10
       - uid: BIB217.1.1.1.F.1
         subobj: 1.1.1
         type: final
@@ -9014,6 +9855,8 @@ courses:
         run: 20260824T150810_BIB217.all.f
         form: A
         date: '2026-08-24'
+      product_id: BBIB217ENE01-90_01.26.01
+      captured: reparse
     deployed_pn: 01.26.01
     chapters:
     - last_modified: '2026-03-27'

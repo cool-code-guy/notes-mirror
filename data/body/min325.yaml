@@ -1237,6 +1237,8 @@ courses:
           C: does not exist.
           D: is based on faith.
         answer: B
+        print_position: 15
+        unit: 1
       - uid: MIN325.1.1.1.TY.1
         subobj: 1.1.1
         type: ty
@@ -1247,6 +1249,7 @@ courses:
           C: does not exist.
           D: is based on faith.
         answer: B
+        print_position: 1
       - uid: MIN325.1.1.2.TY.1
         subobj: 1.1.2
         type: ty
@@ -1257,6 +1260,7 @@ courses:
           C: “personal convictions.”
           D: “arguments that prove Christian principles.”
         answer: D
+        print_position: 2
       - uid: MIN325.1.1.2.TY.2
         subobj: 1.1.2
         type: ty
@@ -1267,6 +1271,7 @@ courses:
           C: rely on emotions.
           D: stress faith in an invisible God.
         answer: A
+        print_position: 3
       - uid: MIN325.1.2.1.UPE.1
         subobj: 1.2.1
         type: upe
@@ -1277,6 +1282,8 @@ courses:
           C: science will only improve society.
           D: life is optimistic.
         answer: B
+        print_position: 10
+        unit: 1
       - uid: MIN325.1.2.1.UPE.2
         subobj: 1.2.1
         type: upe
@@ -1287,6 +1294,8 @@ courses:
           C: subjective.
           D: based on evidence.
         answer: C
+        print_position: 21
+        unit: 1
       - uid: MIN325.1.2.1.TY.1
         subobj: 1.2.1
         type: ty
@@ -1297,6 +1306,7 @@ courses:
           C: subjective.
           D: based on evidence.
         answer: C
+        print_position: 4
       - uid: MIN325.1.2.1.TY.2
         subobj: 1.2.1
         type: ty
@@ -1307,6 +1317,7 @@ courses:
           C: science will only improve society.
           D: life is optimistic.
         answer: B
+        print_position: 6
       - uid: MIN325.1.2.1.TY.3
         subobj: 1.2.1
         type: ty
@@ -1317,6 +1328,7 @@ courses:
           C: personal conviction.
           D: society.
         answer: C
+        print_position: 8
       - uid: MIN325.1.2.2.UPE.1
         subobj: 1.2.2
         type: upe
@@ -1327,6 +1339,8 @@ courses:
           C: a problem in the world.
           D: possible solutions to a question.
         answer: A
+        print_position: 1
+        unit: 1
       - uid: MIN325.1.2.2.UPE.2
         subobj: 1.2.2
         type: upe
@@ -1337,6 +1351,8 @@ courses:
           C: is optional.
           D: requires commitment.
         answer: D
+        print_position: 4
+        unit: 1
       - uid: MIN325.1.2.2.UPE.3
         subobj: 1.2.2
         type: upe
@@ -1347,6 +1363,8 @@ courses:
           C: can be proven scientifically.
           D: is accepted by everyone.
         answer: A
+        print_position: 7
+        unit: 1
       - uid: MIN325.1.2.2.UPE.4
         subobj: 1.2.2
         type: upe
@@ -1357,6 +1375,8 @@ courses:
           C: personal conviction.
           D: society.
         answer: C
+        print_position: 8
+        unit: 1
       - uid: MIN325.1.2.2.TY.1
         subobj: 1.2.2
         type: ty
@@ -1368,6 +1388,7 @@ courses:
           C: frustrating because no one is going to church.
           D: pointless because sermons are a thing of the past.
         answer: B
+        print_position: 5
       - uid: MIN325.1.2.2.TY.2
         subobj: 1.2.2
         type: ty
@@ -1378,6 +1399,7 @@ courses:
           C: scientific principles.
           D: human needs.
         answer: D
+        print_position: 7
       - uid: MIN325.1.2.2.TY.3
         subobj: 1.2.2
         type: ty
@@ -1388,6 +1410,7 @@ courses:
           C: can be proven scientifically.
           D: is accepted by everyone.
         answer: A
+        print_position: 9
       - uid: MIN325.1.2.2.TY.4
         subobj: 1.2.2
         type: ty
@@ -1398,6 +1421,7 @@ courses:
           C: remain firmly committed to the Bible.
           D: strive for popularity.
         answer: C
+        print_position: 10
       - uid: MIN325.2.1.1.UPE.1
         subobj: 2.1.1
         type: upe
@@ -1408,6 +1432,8 @@ courses:
           C: “error free.”
           D: “God-breathed.”
         answer: C
+        print_position: 13
+        unit: 1
       - uid: MIN325.2.1.1.UPE.2
         subobj: 2.1.1
         type: upe
@@ -1418,6 +1444,8 @@ courses:
           C: people believe in it.
           D: it is God-breathed.
         answer: D
+        print_position: 24
+        unit: 1
       - uid: MIN325.2.1.1.TY.1
         subobj: 2.1.1
         type: ty
@@ -1428,6 +1456,7 @@ courses:
           C: people believe in it.
           D: it is God-breathed.
         answer: D
+        print_position: 1
       - uid: MIN325.2.1.1.TY.2
         subobj: 2.1.1
         type: ty
@@ -1438,6 +1467,7 @@ courses:
           C: cannot be trusted.
           D: is a good book although not written for today.
         answer: A
+        print_position: 2
       - uid: MIN325.2.1.2.UPE.1
         subobj: 2.1.2
         type: upe
@@ -1448,6 +1478,8 @@ courses:
           C: describes life as one of doubt and uncertainty.
           D: is not consistent with scientific discoveries.
         answer: B
+        print_position: 9
+        unit: 1
       - uid: MIN325.2.1.2.UPE.2
         subobj: 2.1.2
         type: upe
@@ -1458,6 +1490,8 @@ courses:
           C: the Holy Spirit.
           D: sin.
         answer: D
+        print_position: 16
+        unit: 1
       - uid: MIN325.2.1.2.UPE.3
         subobj: 2.1.2
         type: upe
@@ -1468,6 +1502,8 @@ courses:
           C: has no outside authority that can prove it.
           D: is weaker than science.
         answer: C
+        print_position: 18
+        unit: 1
       - uid: MIN325.2.1.2.UPE.4
         subobj: 2.1.2
         type: upe
@@ -1478,6 +1514,8 @@ courses:
           C: have to do all the work of convincing themselves.
           D: are partners with the Holy Spirit in presenting the truth clearly.
         answer: D
+        print_position: 23
+        unit: 1
       - uid: MIN325.2.1.2.UPE.5
         subobj: 2.1.2
         type: upe
@@ -1488,6 +1526,8 @@ courses:
           C: historical discoveries.
           D: fulfilled prophecies.
         answer: B
+        print_position: 25
+        unit: 1
       - uid: MIN325.2.1.2.TY.1
         subobj: 2.1.2
         type: ty
@@ -1498,6 +1538,7 @@ courses:
           C: historical discoveries.
           D: fulfilled prophecies.
         answer: B
+        print_position: 3
       - uid: MIN325.2.1.2.TY.2
         subobj: 2.1.2
         type: ty
@@ -1508,6 +1549,7 @@ courses:
           C: has no outside authority that can prove it.
           D: is weaker than science.
         answer: C
+        print_position: 4
       - uid: MIN325.2.1.3.UPE.1
         subobj: 2.1.3
         type: upe
@@ -1518,6 +1560,8 @@ courses:
           C: living a godly life.
           D: explaining all the mysteries of life.
         answer: D
+        print_position: 6
+        unit: 1
       - uid: MIN325.2.1.3.TY.1
         subobj: 2.1.3
         type: ty
@@ -1528,6 +1572,7 @@ courses:
           C: truth.
           D: helpful.
         answer: C
+        print_position: 5
       - uid: MIN325.2.1.3.TY.2
         subobj: 2.1.3
         type: ty
@@ -1538,6 +1583,7 @@ courses:
           C: living a godly life.
           D: explaining all the mysteries of life.
         answer: D
+        print_position: 6
       - uid: MIN325.2.2.1.TY.1
         subobj: 2.2.1
         type: ty
@@ -1548,6 +1594,7 @@ courses:
           C: Scripture makes people feel good when they read it.
           D: The Holy Spirit directed humans to write the Scripture.
         answer: D
+        print_position: 8
       - uid: MIN325.2.2.1.TY.2
         subobj: 2.2.1
         type: ty
@@ -1558,6 +1605,7 @@ courses:
           C: explains all of life’s mysteries.
           D: is a good, moral book to read.
         answer: A
+        print_position: 9
       - uid: MIN325.2.2.1.TY.3
         subobj: 2.2.1
         type: ty
@@ -1568,6 +1616,7 @@ courses:
           C: explaining the special revelation of Jesus necessary for salvation.
           D: condemning them.
         answer: C
+        print_position: 10
       - uid: MIN325.2.3.1.TY.1
         subobj: 2.3.1
         type: ty
@@ -1578,6 +1627,7 @@ courses:
           C: God is indifferent.
           D: God cannot explain everything.
         answer: B
+        print_position: 7
       - uid: MIN325.2.3.2.UPE.1
         subobj: 2.3.2
         type: upe
@@ -1588,6 +1638,8 @@ courses:
           C: Scripture makes people feel good when they read it.
           D: The Holy Spirit directed human writers to write Scripture.
         answer: D
+        print_position: 2
+        unit: 1
       - uid: MIN325.3.1.1.UPE.1
         subobj: 3.1.1
         type: upe
@@ -1598,6 +1650,8 @@ courses:
           C: an open mind.
           D: biblical commentaries.
         answer: C
+        print_position: 12
+        unit: 1
       - uid: MIN325.3.1.1.UPE.2
         subobj: 3.1.1
         type: upe
@@ -1608,6 +1662,8 @@ courses:
           C: a preacher’s perspective can be faulty.
           D: the Bible is the only book a Christian should read.
         answer: C
+        print_position: 14
+        unit: 1
       - uid: MIN325.3.1.1.TY.1
         subobj: 3.1.1
         type: ty
@@ -1618,6 +1674,7 @@ courses:
           C: a preacher’s perspective can be faulty.
           D: the Bible is the only book a Christian should read.
         answer: C
+        print_position: 1
       - uid: MIN325.3.1.2.UPE.1
         subobj: 3.1.2
         type: upe
@@ -1628,6 +1685,8 @@ courses:
           C: dangerous because a verse can easily be misunderstood without context.
           D: dangerous because not everything in the Bible is true.
         answer: C
+        print_position: 3
+        unit: 1
       - uid: MIN325.3.1.2.UPE.2
         subobj: 3.1.2
         type: upe
@@ -1638,6 +1697,8 @@ courses:
           C: causes a preacher to read into the text.
           D: leads a preacher to focus on a minor point.
         answer: B
+        print_position: 17
+        unit: 1
       - uid: MIN325.3.1.2.UPE.3
         subobj: 3.1.2
         type: upe
@@ -1648,6 +1709,8 @@ courses:
           C: is called allegory.
           D: is a waste of time.
         answer: A
+        print_position: 20
+        unit: 1
       - uid: MIN325.3.1.2.TY.1
         subobj: 3.1.2
         type: ty
@@ -1659,6 +1722,7 @@ courses:
           C: study the biblical text within the context of the entire Bible.
           D: study only one verse.
         answer: D
+        print_position: 6
       - uid: MIN325.3.1.2.TY.2
         subobj: 3.1.2
         type: ty
@@ -1669,6 +1733,7 @@ courses:
           C: is called allegory.
           D: is a waste of time.
         answer: A
+        print_position: 8
       - uid: MIN325.3.1.2.TY.3
         subobj: 3.1.2
         type: ty
@@ -1679,6 +1744,7 @@ courses:
           C: causes a preacher to read into the text.
           D: leads a preacher to focus on a minor point.
         answer: B
+        print_position: 10
       - uid: MIN325.3.2.1.UPE.1
         subobj: 3.2.1
         type: upe
@@ -1689,6 +1755,8 @@ courses:
           C: allegorizing.
           D: missing a major point.
         answer: C
+        print_position: 5
+        unit: 1
       - uid: MIN325.3.2.1.UPE.2
         subobj: 3.2.1
         type: upe
@@ -1699,6 +1767,8 @@ courses:
           C: allegorizing.
           D: missing a major point.
         answer: B
+        print_position: 11
+        unit: 1
       - uid: MIN325.3.2.1.UPE.3
         subobj: 3.2.1
         type: upe
@@ -1709,6 +1779,8 @@ courses:
           C: allegorizing.
           D: missing a major point.
         answer: A
+        print_position: 19
+        unit: 1
       - uid: MIN325.3.2.1.UPE.4
         subobj: 3.2.1
         type: upe
@@ -1719,6 +1791,8 @@ courses:
           C: assume words with similar roots have related meaning.
           D: carefully study how a word’s meaning has changed over time.
         answer: D
+        print_position: 22
+        unit: 1
       - uid: MIN325.3.2.1.TY.1
         subobj: 3.2.1
         type: ty
@@ -1729,6 +1803,7 @@ courses:
           C: appreciation of the congregation.
           D: recognition of people’s physical needs.
         answer: A
+        print_position: 2
       - uid: MIN325.3.2.1.TY.2
         subobj: 3.2.1
         type: ty
@@ -1739,6 +1814,7 @@ courses:
           C: allegorizing.
           D: missing a major point.
         answer: C
+        print_position: 4
       - uid: MIN325.3.2.1.TY.3
         subobj: 3.2.1
         type: ty
@@ -1750,6 +1826,7 @@ courses:
           C: ignoring context.
           D: allegorizing.
         answer: B
+        print_position: 5
       - uid: MIN325.3.2.1.TY.4
         subobj: 3.2.1
         type: ty
@@ -1761,6 +1838,7 @@ courses:
           C: allegorizing.
           D: missing a major point.
         answer: B
+        print_position: 7
       - uid: MIN325.3.2.1.TY.5
         subobj: 3.2.1
         type: ty
@@ -1771,6 +1849,7 @@ courses:
           C: assume words with similar roots have related meaning.
           D: carefully study how a word’s meaning has changed over time.
         answer: D
+        print_position: 9
       - uid: MIN325.3.2.2.TY.1
         subobj: 3.2.2
         type: ty
@@ -1781,6 +1860,7 @@ courses:
           C: simplify the message to make it easy to accept.
           D: speak godly truths, whether or not they will make the preacher popular.
         answer: D
+        print_position: 3
       - uid: MIN325.4.1.1.UPE.1
         subobj: 4.1.1
         type: upe
@@ -1791,6 +1871,8 @@ courses:
           C: the preacher is boring.
           D: of bad illustrations.
         answer: B
+        print_position: 1
+        unit: 2
       - uid: MIN325.4.1.1.UPE.2
         subobj: 4.1.1
         type: upe
@@ -1801,6 +1883,8 @@ courses:
           C: makes the sermon hard to understand.
           D: should only be done with children.
         answer: B
+        print_position: 11
+        unit: 2
       - uid: MIN325.4.1.1.TY.1
         subobj: 4.1.1
         type: ty
@@ -1811,6 +1895,7 @@ courses:
           C: the preacher’s being boring.
           D: their addressing too many unrelated ideas.
         answer: D
+        print_position: 3
       - uid: MIN325.4.1.1.TY.2
         subobj: 4.1.1
         type: ty
@@ -1821,6 +1906,7 @@ courses:
           C: makes the sermon hard to understand.
           D: should be done only with children.
         answer: B
+        print_position: 6
       - uid: MIN325.4.1.2.UPE.1
         subobj: 4.1.2
         type: upe
@@ -1831,6 +1917,8 @@ courses:
           C: is unnecessary for preaching.
           D: should only be stated if absolutely necessary.
         answer: A
+        print_position: 4
+        unit: 2
       - uid: MIN325.4.1.2.TY.1
         subobj: 4.1.2
         type: ty
@@ -1841,6 +1929,7 @@ courses:
           C: is unnecessary for preaching.
           D: should only be stated as absolutely necessary.
         answer: A
+        print_position: 4
       - uid: MIN325.4.1.3.UPE.1
         subobj: 4.1.3
         type: upe
@@ -1851,6 +1940,8 @@ courses:
           C: explains what the text means today.
           D: is a finished sermon outline.
         answer: A
+        print_position: 5
+        unit: 2
       - uid: MIN325.4.1.3.UPE.2
         subobj: 4.1.3
         type: upe
@@ -1861,6 +1952,8 @@ courses:
           C: homiletical outline.
           D: illustrations/applications.
         answer: B
+        print_position: 10
+        unit: 2
       - uid: MIN325.4.1.3.UPE.3
         subobj: 4.1.3
         type: upe
@@ -1871,6 +1964,8 @@ courses:
           C: tells what was true for the original readers.
           D: states the theological outline in contemporary language.
         answer: D
+        print_position: 15
+        unit: 2
       - uid: MIN325.4.1.3.TY.1
         subobj: 4.1.3
         type: ty
@@ -1881,6 +1976,7 @@ courses:
           C: explains what the text means today.
           D: is a finished sermon outline.
         answer: A
+        print_position: 5
       - uid: MIN325.4.1.3.TY.2
         subobj: 4.1.3
         type: ty
@@ -1891,6 +1987,7 @@ courses:
           C: tells what was true for the original readers.
           D: states the theological outline in contemporary language.
         answer: D
+        print_position: 9
       - uid: MIN325.4.1.3.TY.3
         subobj: 4.1.3
         type: ty
@@ -1901,6 +1998,7 @@ courses:
           C: homiletical outline.
           D: illustrations/applications.
         answer: B
+        print_position: 10
       - uid: MIN325.4.2.1.TY.1
         subobj: 4.2.1
         type: ty
@@ -1911,6 +2009,7 @@ courses:
           C: What does this reveal about the world?
           D: How does this explain my life experiences?
         answer: A
+        print_position: 1
       - uid: MIN325.4.2.1.TY.2
         subobj: 4.2.1
         type: ty
@@ -1921,6 +2020,7 @@ courses:
           C: are acceptable as long as the topic is political.
           D: attract seekers.
         answer: B
+        print_position: 2
       - uid: MIN325.4.2.1.TY.3
         subobj: 4.2.1
         type: ty
@@ -1931,6 +2031,7 @@ courses:
           C: can polarize a congregation and create conflict.
           D: helps a preacher present a clear gospel message.
         answer: C
+        print_position: 8
       - uid: MIN325.4.2.2.TY.1
         subobj: 4.2.2
         type: ty
@@ -1941,6 +2042,7 @@ courses:
           C: at least one week of study.
           D: extensive prayer and reliance on the Holy Spirit.
         answer: D
+        print_position: 7
       - uid: MIN325.5.1.1.UPE.1
         subobj: 5.1.1
         type: upe
@@ -1951,6 +2053,8 @@ courses:
           C: postmodernists.
           D: scientists.
         answer: C
+        print_position: 3
+        unit: 2
       - uid: MIN325.5.1.1.TY.1
         subobj: 5.1.1
         type: ty
@@ -1961,6 +2065,7 @@ courses:
           C: scientific proofs that the Bible is true.
           D: facts.
         answer: B
+        print_position: 1
       - uid: MIN325.5.1.2.UPE.1
         subobj: 5.1.2
         type: upe
@@ -1971,6 +2076,8 @@ courses:
           C: can muddle up a preacher’s thoughts.
           D: should only be done when preaching to youth.
         answer: A
+        print_position: 21
+        unit: 2
       - uid: MIN325.5.1.2.TY.1
         subobj: 5.1.2
         type: ty
@@ -1982,6 +2089,7 @@ courses:
           D: anticipate challenges to the sermon and answer those questions in the
             sermon.
         answer: D
+        print_position: 2
       - uid: MIN325.5.2.1.UPE.1
         subobj: 5.2.1
         type: upe
@@ -1992,6 +2100,8 @@ courses:
           C: explains the Bible without the aid of illustrations.
           D: is a least one hour long.
         answer: B
+        print_position: 6
+        unit: 2
       - uid: MIN325.5.2.1.UPE.2
         subobj: 5.2.1
         type: upe
@@ -2003,6 +2113,8 @@ courses:
           C: reading of the text.
           D: the introduction.
         answer: A
+        print_position: 19
+        unit: 2
       - uid: MIN325.5.2.1.UPE.3
         subobj: 5.2.1
         type: upe
@@ -2013,6 +2125,8 @@ courses:
           C: in the introduction or conclusion.
           D: in the introduction only.
         answer: C
+        print_position: 20
+        unit: 2
       - uid: MIN325.5.2.1.UPE.4
         subobj: 5.2.1
         type: upe
@@ -2023,6 +2137,8 @@ courses:
           C: leave people hanging.
           D: introduce new concepts.
         answer: B
+        print_position: 23
+        unit: 2
       - uid: MIN325.5.2.1.TY.1
         subobj: 5.2.1
         type: ty
@@ -2034,6 +2150,7 @@ courses:
           C: reading of the text.
           D: introduction.
         answer: A
+        print_position: 4
       - uid: MIN325.5.2.1.TY.2
         subobj: 5.2.1
         type: ty
@@ -2044,6 +2161,7 @@ courses:
           C: introduction or conclusion.
           D: introduction only.
         answer: C
+        print_position: 5
       - uid: MIN325.5.2.1.TY.3
         subobj: 5.2.1
         type: ty
@@ -2054,6 +2172,7 @@ courses:
           C: explains the Bible without the aid of illustrations.
           D: is a least one hour long.
         answer: B
+        print_position: 6
       - uid: MIN325.5.2.1.TY.4
         subobj: 5.2.1
         type: ty
@@ -2064,6 +2183,7 @@ courses:
           C: leave people hanging.
           D: introduce new concepts.
         answer: B
+        print_position: 8
       - uid: MIN325.5.2.1.TY.5
         subobj: 5.2.1
         type: ty
@@ -2074,6 +2194,7 @@ courses:
           C: make people laugh and cry.
           D: explain the main points in memorable ways.
         answer: D
+        print_position: 10
       - uid: MIN325.5.2.3.UPE.1
         subobj: 5.2.3
         type: upe
@@ -2084,6 +2205,8 @@ courses:
           C: relies on illustration to explain the text.
           D: presents a need up front and then leads to a biblical conclusion.
         answer: D
+        print_position: 24
+        unit: 2
       - uid: MIN325.5.2.3.TY.1
         subobj: 5.2.3
         type: ty
@@ -2095,6 +2218,7 @@ courses:
             interested in the rest of the sermon.
           D: leads the hearer to a biblical conclusion.
         answer: D
+        print_position: 3
       - uid: MIN325.5.2.3.TY.2
         subobj: 5.2.3
         type: ty
@@ -2105,6 +2229,7 @@ courses:
           C: relies on illustrations.
           D: begins with human need and leads to a biblical solution.
         answer: A
+        print_position: 7
       - uid: MIN325.5.2.3.TY.3
         subobj: 5.2.3
         type: ty
@@ -2115,6 +2240,7 @@ courses:
           C: relies on illustration to explain the text.
           D: presents a need up front and then leads to a biblical conclusion.
         answer: D
+        print_position: 9
       - uid: MIN325.5.2.4.UPE.1
         subobj: 5.2.4
         type: upe
@@ -2126,6 +2252,8 @@ courses:
             her interested in the rest of the sermon.
           D: leads the hearer to a biblical conclusion.
         answer: D
+        print_position: 17
+        unit: 2
       - uid: MIN325.6.1.1.TY.1
         subobj: 6.1.1
         type: ty
@@ -2136,6 +2264,7 @@ courses:
           C: quick to believe.
           D: convinced the Bible is a sacred, religious authority.
         answer: B
+        print_position: 1
       - uid: MIN325.6.1.2.UPE.1
         subobj: 6.1.2
         type: upe
@@ -2148,6 +2277,8 @@ courses:
           D: affirm seekers in their journey and give them space and time to investigate
             and examine the Christian faith.
         answer: D
+        print_position: 2
+        unit: 2
       - uid: MIN325.6.1.2.TY.1
         subobj: 6.1.2
         type: ty
@@ -2160,6 +2291,7 @@ courses:
           D: affirm seekers in their journey and give them space and time to examine
             the Christian faith.
         answer: D
+        print_position: 3
       - uid: MIN325.6.2.1.UPE.1
         subobj: 6.2.1
         type: upe
@@ -2170,6 +2302,8 @@ courses:
           C: persuade seekers to become Christians.
           D: add weight to a preacher’s words.
         answer: A
+        print_position: 16
+        unit: 2
       - uid: MIN325.6.2.1.TY.1
         subobj: 6.2.1
         type: ty
@@ -2180,6 +2314,7 @@ courses:
           C: persuade seekers to become Christians.
           D: add weight to a preacher’s words.
         answer: A
+        print_position: 2
       - uid: MIN325.6.2.2.UPE.1
         subobj: 6.2.2
         type: upe
@@ -2190,6 +2325,8 @@ courses:
           C: be explained in the sermon while rarely mentioning the words themselves.
           D: be taught at the beginning of the sermon.
         answer: C
+        print_position: 14
+        unit: 2
       - uid: MIN325.6.2.2.TY.1
         subobj: 6.2.2
         type: ty
@@ -2202,6 +2339,7 @@ courses:
           D: begins with a Greek or Hebrew lesson to get people on the same page and
             educate them in the biblical languages.
         answer: C
+        print_position: 7
       - uid: MIN325.6.3.1.UPE.1
         subobj: 6.3.1
         type: upe
@@ -2214,6 +2352,8 @@ courses:
           D: learns about a pressing issue within the church and uses the sermon to
             speak to that topic.
         answer: D
+        print_position: 9
+        unit: 2
       - uid: MIN325.6.3.1.TY.1
         subobj: 6.3.1
         type: ty
@@ -2224,6 +2364,7 @@ courses:
           C: is not necessary.
           D: is useful for seekers but not believers.
         answer: B
+        print_position: 4
       - uid: MIN325.6.3.1.TY.2
         subobj: 6.3.1
         type: ty
@@ -2235,6 +2376,7 @@ courses:
           C: a summer-long African safari.
           D: the preacher’s spider collection.
         answer: A
+        print_position: 5
       - uid: MIN325.6.3.1.TY.3
         subobj: 6.3.1
         type: ty
@@ -2245,6 +2387,7 @@ courses:
           C: develops standard, generalized illustrations for all his or her sermons.
           D: preaches the same sermon the same way to both seekers and believers.
         answer: B
+        print_position: 9
       - uid: MIN325.6.3.2.UPE.1
         subobj: 6.3.2
         type: upe
@@ -2255,6 +2398,8 @@ courses:
           C: monotony.
           D: telling his or her personal story.
         answer: C
+        print_position: 12
+        unit: 2
       - uid: MIN325.6.3.2.TY.1
         subobj: 6.3.2
         type: ty
@@ -2265,6 +2410,7 @@ courses:
           C: monotony.
           D: telling his or her personal story.
         answer: C
+        print_position: 6
       - uid: MIN325.6.4.1.TY.1
         subobj: 6.4.1
         type: ty
@@ -2276,6 +2422,7 @@ courses:
           D: balance statements to bring seekers along in their journey and Christians
             deeper in their faith.
         answer: D
+        print_position: 8
       - uid: MIN325.6.4.1.TY.2
         subobj: 6.4.1
         type: ty
@@ -2286,6 +2433,7 @@ courses:
           C: are up to the Holy Spirit.
           D: are dependent on the preacher.
         answer: C
+        print_position: 10
       - uid: MIN325.7.1.1.UPE.1
         subobj: 7.1.1
         type: upe
@@ -2296,6 +2444,8 @@ courses:
           C: publicly confesses his or her every sin.
           D: will ruin his or her ability to minister.
         answer: B
+        print_position: 7
+        unit: 2
       - uid: MIN325.7.1.1.UPE.2
         subobj: 7.1.1
         type: upe
@@ -2308,6 +2458,8 @@ courses:
           D: preaches the right thing even if he or she does not always do the right
             thing.
         answer: B
+        print_position: 13
+        unit: 2
       - uid: MIN325.7.1.1.UPE.3
         subobj: 7.1.1
         type: upe
@@ -2318,6 +2470,8 @@ courses:
           C: real.
           D: not like them.
         answer: C
+        print_position: 22
+        unit: 2
       - uid: MIN325.7.1.1.UPE.4
         subobj: 7.1.1
         type: upe
@@ -2328,6 +2482,8 @@ courses:
           C: highlights a preacher’s victories and never his or her defeats.
           D: will cause the congregation to lose confidence in him or her.
         answer: A
+        print_position: 25
+        unit: 2
       - uid: MIN325.7.1.1.TY.1
         subobj: 7.1.1
         type: ty
@@ -2338,6 +2494,7 @@ courses:
           C: real.
           D: not like them.
         answer: C
+        print_position: 1
       - uid: MIN325.7.1.1.TY.2
         subobj: 7.1.1
         type: ty
@@ -2348,6 +2505,7 @@ courses:
           C: have a “preaching” personality that is different from their regular personality.
           D: preach the right thing even if they do not always do the right thing.
         answer: B
+        print_position: 2
       - uid: MIN325.7.1.1.TY.3
         subobj: 7.1.1
         type: ty
@@ -2358,6 +2516,7 @@ courses:
           C: publicly confess their every sin.
           D: will ruin their ability to minister.
         answer: B
+        print_position: 3
       - uid: MIN325.7.1.1.TY.4
         subobj: 7.1.1
         type: ty
@@ -2368,6 +2527,7 @@ courses:
           C: is a weakness.
           D: should be altered for preaching.
         answer: A
+        print_position: 6
       - uid: MIN325.7.1.1.TY.5
         subobj: 7.1.1
         type: ty
@@ -2378,6 +2538,7 @@ courses:
           C: highlights a preacher’s victories and never his or her defeats.
           D: will cause the congregation to lose confidence in their leader.
         answer: A
+        print_position: 10
       - uid: MIN325.7.2.1.UPE.1
         subobj: 7.2.1
         type: upe
@@ -2388,6 +2549,8 @@ courses:
           C: ministry.
           D: personal relationship with God.
         answer: D
+        print_position: 8
+        unit: 2
       - uid: MIN325.7.2.1.TY.1
         subobj: 7.2.1
         type: ty
@@ -2398,6 +2561,7 @@ courses:
           C: are not as important as the preacher’s actions.
           D: will make or break a sermon.
         answer: C
+        print_position: 5
       - uid: MIN325.7.2.2.UPE.1
         subobj: 7.2.2
         type: upe
@@ -2408,6 +2572,8 @@ courses:
           C: God’s Word is powerful.
           D: the church will believe anything.
         answer: C
+        print_position: 18
+        unit: 2
       - uid: MIN325.7.2.2.TY.1
         subobj: 7.2.2
         type: ty
@@ -2419,6 +2585,7 @@ courses:
           C: family.
           D: nothing.
         answer: D
+        print_position: 4
       - uid: MIN325.7.2.2.TY.2
         subobj: 7.2.2
         type: ty
@@ -2429,6 +2596,7 @@ courses:
           C: be a preacher’s first priority.
           D: replace a preacher’s personal time of study and prayer.
         answer: A
+        print_position: 7
       - uid: MIN325.7.2.2.TY.3
         subobj: 7.2.2
         type: ty
@@ -2439,6 +2607,7 @@ courses:
           C: congregations are very judgmental.
           D: God’s Word is not very powerful.
         answer: B
+        print_position: 8
       - uid: MIN325.7.2.2.TY.4
         subobj: 7.2.2
         type: ty
@@ -2449,6 +2618,7 @@ courses:
           C: humility, where he or she should not declare the Word boldly.
           D: confidence because God’s Word is powerful and true.
         answer: D
+        print_position: 9
       - uid: MIN325.8.1.1.UPE.1
         subobj: 8.1.1
         type: upe
@@ -2460,6 +2630,8 @@ courses:
           C: making people believe the message.
           D: memorizing his or her sermons so he or she can preach without notes.
         answer: B
+        print_position: 1
+        unit: 3
       - uid: MIN325.8.1.1.UPE.2
         subobj: 8.1.1
         type: upe
@@ -2470,6 +2642,8 @@ courses:
           C: infant baptism.
           D: Holy Communion.
         answer: D
+        print_position: 2
+        unit: 3
       - uid: MIN325.8.1.1.TY.1
         subobj: 8.1.1
         type: ty
@@ -2480,6 +2654,7 @@ courses:
           C: create compelling worship services that engage the audience.
           D: dress casually.
         answer: C
+        print_position: 1
       - uid: MIN325.8.1.1.TY.2
         subobj: 8.1.1
         type: ty
@@ -2491,6 +2666,7 @@ courses:
           C: computer.
           D: microphone.
         answer: B
+        print_position: 4
       - uid: MIN325.8.1.1.TY.3
         subobj: 8.1.1
         type: ty
@@ -2502,6 +2678,7 @@ courses:
           C: is ordained by the church.
           D: makes people feel good.
         answer: A
+        print_position: 6
       - uid: MIN325.8.1.2.TY.1
         subobj: 8.1.2
         type: ty
@@ -2513,6 +2690,7 @@ courses:
           C: liturgy.
           D: incense.
         answer: B
+        print_position: 2
       - uid: MIN325.8.1.3.TY.1
         subobj: 8.1.3
         type: ty
@@ -2524,6 +2702,7 @@ courses:
           C: involve other people.
           D: do all of the above.
         answer: D
+        print_position: 3
       - uid: MIN325.8.2.1.UPE.1
         subobj: 8.2.1
         type: upe
@@ -2534,6 +2713,8 @@ courses:
           C: too costly.
           D: necessary for reaching baby boomers.
         answer: A
+        print_position: 7
+        unit: 3
       - uid: MIN325.8.2.1.UPE.2
         subobj: 8.2.1
         type: upe
@@ -2545,6 +2726,8 @@ courses:
           C: invention of the Roman road system.
           D: invention of narrative preaching.
         answer: A
+        print_position: 9
+        unit: 3
       - uid: MIN325.8.2.1.UPE.3
         subobj: 8.2.1
         type: upe
@@ -2556,6 +2739,8 @@ courses:
             with culture.
           D: are unnecessary if one has the Holy Spirit.
         answer: A
+        print_position: 10
+        unit: 3
       - uid: MIN325.8.2.1.UPE.4
         subobj: 8.2.1
         type: upe
@@ -2567,6 +2752,8 @@ courses:
           C: conjunction.
           D: simile.
         answer: B
+        print_position: 11
+        unit: 3
       - uid: MIN325.8.2.1.TY.1
         subobj: 8.2.1
         type: ty
@@ -2577,6 +2764,7 @@ courses:
           C: an effective tool to reach today’s audience.
           D: unnecessary because Christians should not compete with the world.
         answer: C
+        print_position: 5
       - uid: MIN325.8.2.1.TY.2
         subobj: 8.2.1
         type: ty
@@ -2587,6 +2775,7 @@ courses:
           C: scientific approach to Scripture.
           D: Greek word study.
         answer: A
+        print_position: 7
       - uid: MIN325.8.2.2.TY.1
         subobj: 8.2.2
         type: ty
@@ -2597,6 +2786,7 @@ courses:
           C: like to use illustrations and jokes.
           D: know how to tell stories.
         answer: A
+        print_position: 8
       - uid: MIN325.8.3.1.UPE.1
         subobj: 8.3.1
         type: upe
@@ -2607,6 +2797,8 @@ courses:
           C: the author of creativity—God.
           D: technology.
         answer: C
+        print_position: 8
+        unit: 3
       - uid: MIN325.8.3.1.UPE.2
         subobj: 8.3.1
         type: upe
@@ -2617,6 +2809,8 @@ courses:
           C: get comfortable being themselves.
           D: stick to the text.
         answer: C
+        print_position: 12
+        unit: 3
       - uid: MIN325.8.3.1.UPE.3
         subobj: 8.3.1
         type: upe
@@ -2627,6 +2821,8 @@ courses:
           C: monopolize his or her family’s time.
           D: decrease ministry productivity.
         answer: A
+        print_position: 19
+        unit: 3
       - uid: MIN325.8.3.1.TY.1
         subobj: 8.3.1
         type: ty
@@ -2637,6 +2833,7 @@ courses:
           C: always prepare sermons alone.
           D: never take a break from his or her schedule.
         answer: B
+        print_position: 9
       - uid: MIN325.8.3.1.TY.2
         subobj: 8.3.1
         type: ty
@@ -2648,6 +2845,7 @@ courses:
           C: How many people are going to be in the audience?
           D: What do I want people to do?
         answer: D
+        print_position: 10
       - uid: MIN325.9.1.1.UPE.1
         subobj: 9.1.1
         type: upe
@@ -2658,6 +2856,8 @@ courses:
           C: historical.
           D: topical.
         answer: A
+        print_position: 13
+        unit: 3
       - uid: MIN325.9.1.1.UPE.2
         subobj: 9.1.1
         type: upe
@@ -2668,6 +2868,8 @@ courses:
           C: begin with a principle and end with a story.
           D: work well with propositional style sermons.
         answer: A
+        print_position: 14
+        unit: 3
       - uid: MIN325.9.1.1.UPE.3
         subobj: 9.1.1
         type: upe
@@ -2678,6 +2880,8 @@ courses:
           C: makes sermon writing easy.
           D: lends itself to “thus saith the Lord” preaching.
         answer: A
+        print_position: 18
+        unit: 3
       - uid: MIN325.9.1.1.UPE.4
         subobj: 9.1.1
         type: upe
@@ -2688,6 +2892,8 @@ courses:
           C: journalists.
           D: all of the above.
         answer: D
+        print_position: 20
+        unit: 3
       - uid: MIN325.9.1.1.UPE.5
         subobj: 9.1.1
         type: upe
@@ -2698,6 +2904,8 @@ courses:
           C: relies on logical argument to prove a point.
           D: begins with a life principle and ends with a scriptural application.
         answer: C
+        print_position: 21
+        unit: 3
       - uid: MIN325.9.1.1.TY.1
         subobj: 9.1.1
         type: ty
@@ -2708,6 +2916,7 @@ courses:
           C: storytelling.
           D: points and subpoints.
         answer: C
+        print_position: 1
       - uid: MIN325.9.1.1.TY.2
         subobj: 9.1.1
         type: ty
@@ -2718,6 +2927,7 @@ courses:
           C: reductive.
           D: none of the above.
         answer: A
+        print_position: 4
       - uid: MIN325.9.1.1.TY.3
         subobj: 9.1.1
         type: ty
@@ -2728,6 +2938,7 @@ courses:
           C: three points.
           D: four points.
         answer: A
+        print_position: 10
       - uid: MIN325.9.1.2.UPE.1
         subobj: 9.1.2
         type: upe
@@ -2738,6 +2949,8 @@ courses:
           C: topical.
           D: biographical.
         answer: B
+        print_position: 3
+        unit: 3
       - uid: MIN325.9.1.2.TY.1
         subobj: 9.1.2
         type: ty
@@ -2748,6 +2961,7 @@ courses:
           C: personal convictions.
           D: arguments.
         answer: A
+        print_position: 2
       - uid: MIN325.9.1.2.TY.2
         subobj: 9.1.2
         type: ty
@@ -2758,6 +2972,7 @@ courses:
           C: topical.
           D: commentary.
         answer: B
+        print_position: 3
       - uid: MIN325.9.1.3.UPE.1
         subobj: 9.1.3
         type: upe
@@ -2768,6 +2983,8 @@ courses:
           C: rural audience.
           D: post-rural audience.
         answer: B
+        print_position: 15
+        unit: 3
       - uid: MIN325.9.1.3.UPE.2
         subobj: 9.1.3
         type: upe
@@ -2778,6 +2995,8 @@ courses:
           C: use of Christian jargon.
           D: the incarnational nature of Paul’s preaching.
         answer: A
+        print_position: 16
+        unit: 3
       - uid: MIN325.9.1.3.UPE.3
         subobj: 9.1.3
         type: upe
@@ -2789,6 +3008,8 @@ courses:
           C: digital.
           D: linear.
         answer: C
+        print_position: 17
+        unit: 3
       - uid: MIN325.9.1.3.UPE.4
         subobj: 9.1.3
         type: upe
@@ -2799,6 +3020,8 @@ courses:
           C: retro.
           D: broadcast.
         answer: A
+        print_position: 22
+        unit: 3
       - uid: MIN325.9.1.3.TY.1
         subobj: 9.1.3
         type: ty
@@ -2809,6 +3032,7 @@ courses:
           C: an ultramodern world.
           D: a world where sermons are no longer useful or relevant.
         answer: B
+        print_position: 5
       - uid: MIN325.9.1.3.TY.2
         subobj: 9.1.3
         type: ty
@@ -2819,6 +3043,7 @@ courses:
           C: radio broadcast.
           D: no preference.
         answer: A
+        print_position: 6
       - uid: MIN325.9.2.2.UPE.1
         subobj: 9.2.2
         type: upe
@@ -2829,6 +3054,8 @@ courses:
           C: is often hard to follow.
           D: should not involve too much information.
         answer: A
+        print_position: 4
+        unit: 3
       - uid: MIN325.9.2.2.UPE.2
         subobj: 9.2.2
         type: upe
@@ -2839,6 +3066,8 @@ courses:
           C: one point.
           D: all of the above.
         answer: D
+        print_position: 5
+        unit: 3
       - uid: MIN325.9.2.2.UPE.3
         subobj: 9.2.2
         type: upe
@@ -2849,6 +3078,8 @@ courses:
           C: is very brief.
           D: uses a video clip.
         answer: B
+        print_position: 6
+        unit: 3
       - uid: MIN325.9.2.2.TY.1
         subobj: 9.2.2
         type: ty
@@ -2859,6 +3090,7 @@ courses:
           C: narrative motion.
           D: conclusion.
         answer: B
+        print_position: 7
       - uid: MIN325.9.2.3.TY.1
         subobj: 9.2.3
         type: ty
@@ -2869,6 +3101,7 @@ courses:
           C: teach doctrine and dogma.
           D: do not use stories or illustrations.
         answer: B
+        print_position: 8
       - uid: MIN325.9.2.3.TY.2
         subobj: 9.2.3
         type: ty
@@ -2879,6 +3112,7 @@ courses:
           C: the same amount of difficulty as propositional sermons.
           D: too simplistic for evangelical preachers.
         answer: A
+        print_position: 9
       - uid: MIN325.10.1.1.TY.1
         subobj: 10.1.1
         type: ty
@@ -2889,6 +3123,7 @@ courses:
           C: unscriptural.
           D: unnecessary if you pray and seek the Holy Spirit.
         answer: A
+        print_position: 1
       - uid: MIN325.10.1.2.TY.1
         subobj: 10.1.2
         type: ty
@@ -2899,6 +3134,7 @@ courses:
           C: creates less reliance on others.
           D: makes the preacher wait to the last minute and operate in the Spirit.
         answer: B
+        print_position: 2
       - uid: MIN325.10.1.2.TY.2
         subobj: 10.1.2
         type: ty
@@ -2909,6 +3145,7 @@ courses:
           C: are a result of much hard work and prayer.
           D: change constantly.
         answer: C
+        print_position: 3
       - uid: MIN325.10.1.3.UPE.1
         subobj: 10.1.3
         type: upe
@@ -2919,6 +3156,8 @@ courses:
           C: more in the heart of the speaker than the hearer.
           D: only if the pastor preaches with good intentions.
         answer: B
+        print_position: 23
+        unit: 3
       - uid: MIN325.10.1.3.UPE.2
         subobj: 10.1.3
         type: upe
@@ -2930,6 +3169,8 @@ courses:
           C: minimizes the quality and quantity of preaching.
           D: helps vary church attendance.
         answer: A
+        print_position: 25
+        unit: 3
       - uid: MIN325.10.1.3.TY.1
         subobj: 10.1.3
         type: ty
@@ -2940,6 +3181,7 @@ courses:
           C: checking the congregation’s dislikes.
           D: waiting to the last minute for increased creativity.
         answer: B
+        print_position: 4
       - uid: MIN325.10.1.3.TY.2
         subobj: 10.1.3
         type: ty
@@ -2951,6 +3193,7 @@ courses:
           C: series.
           D: subplot.
         answer: C
+        print_position: 5
       - uid: MIN325.10.1.3.TY.3
         subobj: 10.1.3
         type: ty
@@ -2961,6 +3204,7 @@ courses:
           C: Biographical
           D: Historical
         answer: D
+        print_position: 6
       - uid: MIN325.10.1.4.TY.1
         subobj: 10.1.4
         type: ty
@@ -2971,6 +3215,7 @@ courses:
           C: constantly changing and updating the preaching calendar.
           D: trying to be too original.
         answer: D
+        print_position: 7
       - uid: MIN325.10.2.1.UPE.1
         subobj: 10.2.1
         type: upe
@@ -2982,6 +3227,8 @@ courses:
           D: require that everyone on the preaching team have the same personality
             and preaching style.
         answer: A
+        print_position: 24
+        unit: 3
       - uid: MIN325.10.2.1.TY.1
         subobj: 10.2.1
         type: ty
@@ -2992,6 +3239,7 @@ courses:
           C: reduce the stress levels of the lead communicator.
           D: do all of the above.
         answer: D
+        print_position: 8
       - uid: MIN325.10.2.1.TY.2
         subobj: 10.2.1
         type: ty
@@ -3002,6 +3250,7 @@ courses:
           C: always include his or her spouse.
           D: surrender veto power.
         answer: B
+        print_position: 9
       - uid: MIN325.10.2.1.TY.3
         subobj: 10.2.1
         type: ty
@@ -3012,6 +3261,7 @@ courses:
           C: struggle to work together for a common good.
           D: distract the listener.
         answer: A
+        print_position: 10
       - uid: MIN325.11.1.1.UPE.1
         subobj: 11.1.1
         type: upe
@@ -3023,6 +3273,8 @@ courses:
           C: Europe.
           D: South Africa.
         answer: C
+        print_position: 1
+        unit: 4
       - uid: MIN325.11.1.1.UPE.2
         subobj: 11.1.1
         type: upe
@@ -3033,6 +3285,8 @@ courses:
           C: Agnes Ozman.
           D: Smith Wigglesworth.
         answer: B
+        print_position: 2
+        unit: 4
       - uid: MIN325.11.1.1.UPE.3
         subobj: 11.1.1
         type: upe
@@ -3044,6 +3298,8 @@ courses:
           C: Agnes Ozman.
           D: Smith Wigglesworth.
         answer: C
+        print_position: 3
+        unit: 4
       - uid: MIN325.11.1.1.UPE.4
         subobj: 11.1.1
         type: upe
@@ -3054,6 +3310,8 @@ courses:
           C: Agnes Ozman.
           D: A. B. Simpson.
         answer: A
+        print_position: 4
+        unit: 4
       - uid: MIN325.11.1.1.UPE.5
         subobj: 11.1.1
         type: upe
@@ -3064,6 +3322,8 @@ courses:
           C: Topeka, Kansas.
           D: Hot Springs, Arkansas.
         answer: D
+        print_position: 5
+        unit: 4
       - uid: MIN325.11.1.1.UPE.6
         subobj: 11.1.1
         type: upe
@@ -3074,6 +3334,8 @@ courses:
           C: Chicago, Illinois.
           D: Los Angeles, California.
         answer: C
+        print_position: 6
+        unit: 4
       - uid: MIN325.11.1.1.UPE.7
         subobj: 11.1.1
         type: upe
@@ -3088,6 +3350,8 @@ courses:
           D: ill-prepared, but saw great results as the Holy Spirit enabled them to
             speak the languages of people groups.
         answer: A
+        print_position: 7
+        unit: 4
       - uid: MIN325.11.1.1.UPE.8
         subobj: 11.1.1
         type: upe
@@ -3100,6 +3364,8 @@ courses:
           C: ineffective because they failed to learn from the first group of missionaries.
           D: effective because they had better financial support.
         answer: B
+        print_position: 8
+        unit: 4
       - uid: MIN325.11.1.1.TY.1
         subobj: 11.1.1
         type: ty
@@ -3110,6 +3376,7 @@ courses:
           C: did not fare too well on the mission field.
           D: failed to rely on the Holy Spirit.
         answer: C
+        print_position: 1
       - uid: MIN325.11.1.1.TY.2
         subobj: 11.1.1
         type: ty
@@ -3121,6 +3388,7 @@ courses:
           C: colonized Christianity.
           D: utilized crusade preaching.
         answer: A
+        print_position: 2
       - uid: MIN325.11.1.2.UPE.1
         subobj: 11.1.2
         type: upe
@@ -3134,6 +3402,8 @@ courses:
           D: taking a certain style of Christianity from one culture and imposing
             it on another completely different culture.
         answer: D
+        print_position: 9
+        unit: 4
       - uid: MIN325.11.1.2.UPE.2
         subobj: 11.1.2
         type: upe
@@ -3144,6 +3414,8 @@ courses:
           C: J. Phillip Hogan.
           D: Robert Ashcroft.
         answer: B
+        print_position: 10
+        unit: 4
       - uid: MIN325.11.1.2.UPE.3
         subobj: 11.1.2
         type: upe
@@ -3154,6 +3426,8 @@ courses:
           C: self-governing, self-sufficient, and self-taught.
           D: self-propagating, self-governing, and self-supporting.
         answer: D
+        print_position: 11
+        unit: 4
       - uid: MIN325.11.1.2.UPE.4
         subobj: 11.1.2
         type: upe
@@ -3164,6 +3438,8 @@ courses:
           C: seek to understand the culture we are trying to reach.
           D: be spontaneous and depend upon the power of the Holy Spirit.
         answer: C
+        print_position: 12
+        unit: 4
       - uid: MIN325.11.1.2.UPE.5
         subobj: 11.1.2
         type: upe
@@ -3174,6 +3450,8 @@ courses:
           C: seeking to understand other religions.
           D: going to the mall and observing people.
         answer: C
+        print_position: 13
+        unit: 4
       - uid: MIN325.11.1.2.TY.1
         subobj: 11.1.2
         type: ty
@@ -3184,6 +3462,7 @@ courses:
           C: charging money for the gospel.
           D: early Native American missionary efforts.
         answer: B
+        print_position: 3
       - uid: MIN325.11.1.2.TY.2
         subobj: 11.1.2
         type: ty
@@ -3195,6 +3474,7 @@ courses:
           C: teaching only from the New Testament.
           D: changing the message of the Scriptures.
         answer: A
+        print_position: 4
       - uid: MIN325.11.1.2.TY.3
         subobj: 11.1.2
         type: ty
@@ -3205,6 +3485,7 @@ courses:
           C: socialized.
           D: philosophized.
         answer: B
+        print_position: 5
       - uid: MIN325.11.1.2.TY.4
         subobj: 11.1.2
         type: ty
@@ -3215,6 +3496,7 @@ courses:
           C: understand the world they are trying to reach.
           D: seek first to be understood.
         answer: C
+        print_position: 6
       - uid: MIN325.11.1.2.TY.5
         subobj: 11.1.2
         type: ty
@@ -3226,6 +3508,7 @@ courses:
           C: resist the temptation of learning from culture.
           D: not take risks.
         answer: A
+        print_position: 7
       - uid: MIN325.11.2.1.UPE.1
         subobj: 11.2.1
         type: upe
@@ -3237,6 +3520,8 @@ courses:
           C: half.
           D: three quarters.
         answer: B
+        print_position: 14
+        unit: 4
       - uid: MIN325.11.2.1.UPE.2
         subobj: 11.2.1
         type: upe
@@ -3248,6 +3533,8 @@ courses:
           C: sixty percent.
           D: eighty percent.
         answer: D
+        print_position: 15
+        unit: 4
       - uid: MIN325.11.2.1.UPE.3
         subobj: 11.2.1
         type: upe
@@ -3258,6 +3545,8 @@ courses:
           C: forty percent.
           D: sixty percent.
         answer: C
+        print_position: 16
+        unit: 4
       - uid: MIN325.11.2.1.UPE.4
         subobj: 11.2.1
         type: upe
@@ -3268,6 +3557,8 @@ courses:
           C: connect with the audience.
           D: persuade the audience.
         answer: A
+        print_position: 17
+        unit: 4
       - uid: MIN325.11.2.1.UPE.5
         subobj: 11.2.1
         type: upe
@@ -3278,6 +3569,8 @@ courses:
           C: with eloquence and confidence.
           D: the gospel message only to address current social needs.
         answer: B
+        print_position: 18
+        unit: 4
       - uid: MIN325.11.2.1.TY.1
         subobj: 11.2.1
         type: ty
@@ -3289,6 +3582,7 @@ courses:
           C: seeker-driven.
           D: non-sectarian.
         answer: B
+        print_position: 8
       - uid: MIN325.11.2.2.UPE.1
         subobj: 11.2.2
         type: upe
@@ -3299,6 +3593,8 @@ courses:
           C: oversensitivity to the audience.
           D: being misunderstood by those holding to tradition values.
         answer: C
+        print_position: 19
+        unit: 4
       - uid: MIN325.11.2.2.TY.1
         subobj: 11.2.2
         type: ty
@@ -3310,6 +3606,7 @@ courses:
           C: relevance .
           D: liberation theology .
         answer: C
+        print_position: 9
       - uid: MIN325.11.2.2.TY.2
         subobj: 11.2.2
         type: ty
@@ -3320,6 +3617,7 @@ courses:
           C: being perceptive of the contemporary audience.
           D: changing the Bible to fit contemporary culture.
         answer: D
+        print_position: 10
       - uid: MIN325.12.1.1.UPE.1
         subobj: 12.1.1
         type: upe
@@ -3330,6 +3628,8 @@ courses:
           C: left.
           D: brain stem.
         answer: C
+        print_position: 20
+        unit: 4
       - uid: MIN325.12.1.1.UPE.2
         subobj: 12.1.1
         type: upe
@@ -3340,6 +3640,8 @@ courses:
           C: brain stem.
           D: left brain.
         answer: A
+        print_position: 21
+        unit: 4
       - uid: MIN325.12.1.1.UPE.3
         subobj: 12.1.1
         type: upe
@@ -3350,6 +3652,8 @@ courses:
           C: left-brain logic.
           D: left-brain creativity.
         answer: C
+        print_position: 22
+        unit: 4
       - uid: MIN325.12.1.1.UPE.4
         subobj: 12.1.1
         type: upe
@@ -3360,6 +3664,8 @@ courses:
           C: combining right-brain creativity with left-brain logic.
           D: preaching with left-brain creativity.
         answer: C
+        print_position: 23
+        unit: 4
       - uid: MIN325.12.1.1.UPE.5
         subobj: 12.1.1
         type: upe
@@ -3370,6 +3676,8 @@ courses:
           C: interrogative questions.
           D: metaphors.
         answer: D
+        print_position: 24
+        unit: 4
       - uid: MIN325.12.1.1.TY.1
         subobj: 12.1.1
         type: ty
@@ -3380,6 +3688,7 @@ courses:
           C: four hemispheres.
           D: six hemispheres.
         answer: A
+        print_position: 1
       - uid: MIN325.12.1.1.TY.2
         subobj: 12.1.1
         type: ty
@@ -3390,6 +3699,7 @@ courses:
           C: left.
           D: brain stem.
         answer: B
+        print_position: 2
       - uid: MIN325.12.1.1.TY.3
         subobj: 12.1.1
         type: ty
@@ -3400,6 +3710,7 @@ courses:
           C: logical.
           D: artistic.
         answer: C
+        print_position: 3
       - uid: MIN325.12.1.1.TY.4
         subobj: 12.1.1
         type: ty
@@ -3411,6 +3722,7 @@ courses:
           C: Evidence that Demands a Verdict .
           D: Mere Christianity .
         answer: A
+        print_position: 5
       - uid: MIN325.12.1.1.TY.5
         subobj: 12.1.1
         type: ty
@@ -3421,6 +3733,7 @@ courses:
           C: is an extreme deviation from the status quo.
           D: communicates new ideas in new ways.
         answer: B
+        print_position: 6
       - uid: MIN325.12.1.1.TY.6
         subobj: 12.1.1
         type: ty
@@ -3431,6 +3744,7 @@ courses:
           C: interrogative questions.
           D: metaphors.
         answer: D
+        print_position: 7
       - uid: MIN325.12.1.2.TY.1
         subobj: 12.1.2
         type: ty
@@ -3441,6 +3755,7 @@ courses:
           C: right-brain creativity.
           D: left-brain logic.
         answer: D
+        print_position: 4
       - uid: MIN325.12.1.2.TY.2
         subobj: 12.1.2
         type: ty
@@ -3451,6 +3766,7 @@ courses:
           C: Naphtali.
           D: Ephraim.
         answer: B
+        print_position: 8
       - uid: MIN325.12.1.2.TY.3
         subobj: 12.1.2
         type: ty
@@ -3461,6 +3777,7 @@ courses:
           C: culture of those the preacher is addressing.
           D: various cultures in North America and how they affect each other.
         answer: C
+        print_position: 9
       - uid: MIN325.12.1.3.UPE.1
         subobj: 12.1.3
         type: upe
@@ -3484,6 +3801,8 @@ courses:
           C: creating a church logo, shooting a series trailer, and adding stage props.
           D: adding sermon props, brainstorming big ideas, and creating a church logo.
         answer: A
+        print_position: 10
+      captured: reparse
     - pn: 03.26.01
       course_code: MIN325
       source_html: BMIN325ENE03-90_03.26.01.html
@@ -3504,6 +3823,8 @@ courses:
           C: does not exist.
           D: is based on faith.
         answer: B
+        print_position: 15
+        unit: 1
       - uid: MIN325.1.1.1.TY.1
         subobj: 1.1.1
         type: ty
@@ -3514,6 +3835,7 @@ courses:
           C: does not exist.
           D: is based on faith.
         answer: B
+        print_position: 1
       - uid: MIN325.1.1.2.TY.1
         subobj: 1.1.2
         type: ty
@@ -3524,6 +3846,7 @@ courses:
           C: “personal convictions.”
           D: “arguments that prove Christian principles.”
         answer: D
+        print_position: 2
       - uid: MIN325.1.1.2.TY.2
         subobj: 1.1.2
         type: ty
@@ -3534,6 +3857,7 @@ courses:
           C: rely on emotions.
           D: stress faith in an invisible God.
         answer: A
+        print_position: 3
       - uid: MIN325.1.2.1.UPE.1
         subobj: 1.2.1
         type: upe
@@ -3544,6 +3868,8 @@ courses:
           C: science will only improve society.
           D: life is optimistic.
         answer: B
+        print_position: 10
+        unit: 1
       - uid: MIN325.1.2.1.UPE.2
         subobj: 1.2.1
         type: upe
@@ -3554,6 +3880,8 @@ courses:
           C: subjective.
           D: based on evidence.
         answer: C
+        print_position: 21
+        unit: 1
       - uid: MIN325.1.2.1.TY.1
         subobj: 1.2.1
         type: ty
@@ -3564,6 +3892,7 @@ courses:
           C: subjective.
           D: based on evidence.
         answer: C
+        print_position: 4
       - uid: MIN325.1.2.1.TY.2
         subobj: 1.2.1
         type: ty
@@ -3574,6 +3903,7 @@ courses:
           C: science will only improve society.
           D: life is optimistic.
         answer: B
+        print_position: 6
       - uid: MIN325.1.2.1.TY.3
         subobj: 1.2.1
         type: ty
@@ -3584,6 +3914,7 @@ courses:
           C: personal conviction.
           D: society.
         answer: C
+        print_position: 8
       - uid: MIN325.1.2.2.UPE.1
         subobj: 1.2.2
         type: upe
@@ -3594,6 +3925,8 @@ courses:
           C: a problem in the world.
           D: possible solutions to a question.
         answer: A
+        print_position: 1
+        unit: 1
       - uid: MIN325.1.2.2.UPE.2
         subobj: 1.2.2
         type: upe
@@ -3604,6 +3937,8 @@ courses:
           C: is optional.
           D: requires commitment.
         answer: D
+        print_position: 4
+        unit: 1
       - uid: MIN325.1.2.2.UPE.3
         subobj: 1.2.2
         type: upe
@@ -3614,6 +3949,8 @@ courses:
           C: can be proven scientifically.
           D: is accepted by everyone.
         answer: A
+        print_position: 7
+        unit: 1
       - uid: MIN325.1.2.2.UPE.4
         subobj: 1.2.2
         type: upe
@@ -3624,6 +3961,8 @@ courses:
           C: personal conviction.
           D: society.
         answer: C
+        print_position: 8
+        unit: 1
       - uid: MIN325.1.2.2.TY.1
         subobj: 1.2.2
         type: ty
@@ -3635,6 +3974,7 @@ courses:
           C: challenging, because church attendance continues to decline.
           D: ineffective, because sermons are no longer valued.
         answer: B
+        print_position: 5
       - uid: MIN325.1.2.2.TY.2
         subobj: 1.2.2
         type: ty
@@ -3645,6 +3985,7 @@ courses:
           C: scientific principles.
           D: human needs.
         answer: D
+        print_position: 7
       - uid: MIN325.1.2.2.TY.3
         subobj: 1.2.2
         type: ty
@@ -3655,6 +3996,7 @@ courses:
           C: can be proven scientifically.
           D: is accepted by everyone.
         answer: A
+        print_position: 9
       - uid: MIN325.1.2.2.TY.4
         subobj: 1.2.2
         type: ty
@@ -3665,6 +4007,7 @@ courses:
           C: remain firmly committed to the Bible.
           D: strive for popularity.
         answer: C
+        print_position: 10
       - uid: MIN325.2.1.1.UPE.1
         subobj: 2.1.1
         type: upe
@@ -3676,6 +4019,8 @@ courses:
           C: points to the divine source of Scripture.
           D: means Scripture is inspired only in a general or emotional sense.
         answer: C
+        print_position: 13
+        unit: 1
       - uid: MIN325.2.1.1.UPE.2
         subobj: 2.1.1
         type: upe
@@ -3686,6 +4031,8 @@ courses:
           C: people believe in it.
           D: it is God-breathed.
         answer: D
+        print_position: 24
+        unit: 1
       - uid: MIN325.2.1.1.TY.1
         subobj: 2.1.1
         type: ty
@@ -3696,6 +4043,7 @@ courses:
           C: people believe in it.
           D: it is God-breathed.
         answer: D
+        print_position: 1
       - uid: MIN325.2.1.1.TY.2
         subobj: 2.1.1
         type: ty
@@ -3706,6 +4054,7 @@ courses:
           C: cannot be trusted.
           D: is a good book although not written for today.
         answer: A
+        print_position: 2
       - uid: MIN325.2.1.2.UPE.1
         subobj: 2.1.2
         type: upe
@@ -3716,6 +4065,8 @@ courses:
           C: describes life as one of doubt and uncertainty.
           D: is not consistent with scientific discoveries.
         answer: B
+        print_position: 9
+        unit: 1
       - uid: MIN325.2.1.2.UPE.2
         subobj: 2.1.2
         type: upe
@@ -3726,6 +4077,8 @@ courses:
           C: the Holy Spirit.
           D: sin.
         answer: D
+        print_position: 16
+        unit: 1
       - uid: MIN325.2.1.2.UPE.3
         subobj: 2.1.2
         type: upe
@@ -3737,6 +4090,8 @@ courses:
           C: held as sacred text.
           D: rewritten by scholars.
         answer: C
+        print_position: 18
+        unit: 1
       - uid: MIN325.2.1.2.UPE.4
         subobj: 2.1.2
         type: upe
@@ -3747,6 +4102,8 @@ courses:
           C: have to do all the work of convincing themselves.
           D: are partners with the Holy Spirit in presenting the truth clearly.
         answer: D
+        print_position: 23
+        unit: 1
       - uid: MIN325.2.1.2.UPE.5
         subobj: 2.1.2
         type: upe
@@ -3767,6 +4124,7 @@ courses:
           C: historical discoveries.
           D: fulfilled prophecies.
         answer: B
+        print_position: 3
       - uid: MIN325.2.1.2.TY.2
         subobj: 2.1.2
         type: ty
@@ -3777,6 +4135,7 @@ courses:
           C: well preserved.
           D: modified recently.
         answer: C
+        print_position: 4
       - uid: MIN325.2.1.3.UPE.1
         subobj: 2.1.3
         type: upe
@@ -3787,6 +4146,8 @@ courses:
           C: living a godly life.
           D: explaining all the mysteries of life.
         answer: D
+        print_position: 6
+        unit: 1
       - uid: MIN325.2.1.3.TY.1
         subobj: 2.1.3
         type: ty
@@ -3797,6 +4158,7 @@ courses:
           C: truth.
           D: helpful.
         answer: C
+        print_position: 5
       - uid: MIN325.2.1.3.TY.2
         subobj: 2.1.3
         type: ty
@@ -3807,6 +4169,7 @@ courses:
           C: living a godly life.
           D: explaining all the mysteries of life.
         answer: D
+        print_position: 6
       - uid: MIN325.2.2.1.TY.1
         subobj: 2.2.1
         type: ty
@@ -3817,6 +4180,7 @@ courses:
           C: explains all of life’s mysteries.
           D: is a good, moral book to read.
         answer: A
+        print_position: 9
       - uid: MIN325.2.2.1.TY.2
         subobj: 2.2.1
         type: ty
@@ -3827,6 +4191,7 @@ courses:
           C: explaining the special revelation of Jesus necessary for salvation.
           D: condemning them.
         answer: C
+        print_position: 10
       - uid: MIN325.2.3.1.TY.1
         subobj: 2.3.1
         type: ty
@@ -3837,6 +4202,7 @@ courses:
           C: God is indifferent.
           D: God cannot explain everything.
         answer: B
+        print_position: 7
       - uid: MIN325.2.3.2.UPE.1
         subobj: 2.3.2
         type: upe
@@ -3847,6 +4213,8 @@ courses:
           C: Scripture makes people feel good when they read it.
           D: The Holy Spirit directed human writers to write Scripture.
         answer: D
+        print_position: 2
+        unit: 1
       - uid: MIN325.2.3.2.TY.1
         subobj: 2.3.2
         type: ty
@@ -3857,6 +4225,7 @@ courses:
           C: Scripture makes people feel good when they read it.
           D: The Holy Spirit directed humans to write the Scripture.
         answer: D
+        print_position: 8
       - uid: MIN325.3.1.1.UPE.1
         subobj: 3.1.1
         type: upe
@@ -3867,6 +4236,8 @@ courses:
           C: an open mind.
           D: biblical commentaries.
         answer: C
+        print_position: 12
+        unit: 1
       - uid: MIN325.3.1.1.UPE.2
         subobj: 3.1.1
         type: upe
@@ -3877,6 +4248,8 @@ courses:
           C: a preacher can have biases or faulty perspectives.
           D: the Bible is the only book a Christian should read.
         answer: C
+        print_position: 14
+        unit: 1
       - uid: MIN325.3.1.1.TY.1
         subobj: 3.1.1
         type: ty
@@ -3887,6 +4260,7 @@ courses:
           C: a preacher’s perspective can be faulty.
           D: the Bible is the only book a Christian should read.
         answer: C
+        print_position: 1
       - uid: MIN325.3.1.2.UPE.1
         subobj: 3.1.2
         type: upe
@@ -3897,6 +4271,8 @@ courses:
           C: dangerous because a verse can easily be misunderstood without context.
           D: dangerous because not everything in the Bible is true.
         answer: C
+        print_position: 3
+        unit: 1
       - uid: MIN325.3.1.2.UPE.2
         subobj: 3.1.2
         type: upe
@@ -3907,6 +4283,8 @@ courses:
           C: causes a preacher to read into the text.
           D: leads a preacher to focus on a minor point.
         answer: B
+        print_position: 17
+        unit: 1
       - uid: MIN325.3.1.2.UPE.3
         subobj: 3.1.2
         type: upe
@@ -3929,6 +4307,7 @@ courses:
           C: Interpreting the passage in light of the whole Bible
           D: Focusing on only one verse without considering its broader context
         answer: D
+        print_position: 6
       - uid: MIN325.3.1.2.TY.2
         subobj: 3.1.2
         type: ty
@@ -3939,6 +4318,7 @@ courses:
           C: is called allegory.
           D: is a waste of time.
         answer: A
+        print_position: 8
       - uid: MIN325.3.1.2.TY.3
         subobj: 3.1.2
         type: ty
@@ -3949,6 +4329,7 @@ courses:
           C: causes a preacher to read into the text.
           D: leads a preacher to focus on a minor point.
         answer: B
+        print_position: 10
       - uid: MIN325.3.2.1.UPE.1
         subobj: 3.2.1
         type: upe
@@ -3959,6 +4340,8 @@ courses:
           C: allegorizing.
           D: missing a major point.
         answer: C
+        print_position: 5
+        unit: 1
       - uid: MIN325.3.2.1.UPE.2
         subobj: 3.2.1
         type: upe
@@ -3969,6 +4352,8 @@ courses:
           C: allegorizing.
           D: missing a major point.
         answer: B
+        print_position: 11
+        unit: 1
       - uid: MIN325.3.2.1.UPE.3
         subobj: 3.2.1
         type: upe
@@ -3979,6 +4364,8 @@ courses:
           C: allegorizing.
           D: missing a major point.
         answer: A
+        print_position: 19
+        unit: 1
       - uid: MIN325.3.2.1.UPE.4
         subobj: 3.2.1
         type: upe
@@ -3989,6 +4376,8 @@ courses:
           C: assume words with similar roots have related meaning.
           D: carefully study how a word’s meaning has changed over time.
         answer: D
+        print_position: 22
+        unit: 1
       - uid: MIN325.3.2.1.TY.1
         subobj: 3.2.1
         type: ty
@@ -3999,6 +4388,7 @@ courses:
           C: appreciation of the congregation.
           D: recognition of people’s physical needs.
         answer: A
+        print_position: 2
       - uid: MIN325.3.2.1.TY.2
         subobj: 3.2.1
         type: ty
@@ -4009,6 +4399,7 @@ courses:
           C: allegorizing.
           D: missing a major point.
         answer: C
+        print_position: 4
       - uid: MIN325.3.2.1.TY.3
         subobj: 3.2.1
         type: ty
@@ -4020,6 +4411,7 @@ courses:
           C: ignoring context.
           D: allegorizing.
         answer: B
+        print_position: 5
       - uid: MIN325.3.2.1.TY.4
         subobj: 3.2.1
         type: ty
@@ -4031,6 +4423,7 @@ courses:
           C: allegorizing.
           D: missing a major point.
         answer: B
+        print_position: 7
       - uid: MIN325.3.2.1.TY.5
         subobj: 3.2.1
         type: ty
@@ -4041,6 +4434,7 @@ courses:
           C: assume words with similar roots have related meaning.
           D: carefully study how a word’s meaning has changed over time.
         answer: D
+        print_position: 9
       - uid: MIN325.3.2.2.TY.1
         subobj: 3.2.2
         type: ty
@@ -4051,6 +4445,7 @@ courses:
           C: simplify the message to make it easy to accept.
           D: speak godly truths, whether or not they will make the preacher popular.
         answer: D
+        print_position: 3
       - uid: MIN325.4.1.1.UPE.1
         subobj: 4.1.1
         type: upe
@@ -4061,6 +4456,8 @@ courses:
           C: the preacher is boring.
           D: of bad illustrations.
         answer: B
+        print_position: 1
+        unit: 2
       - uid: MIN325.4.1.1.UPE.2
         subobj: 4.1.1
         type: upe
@@ -4071,6 +4468,8 @@ courses:
           C: makes the sermon hard to understand.
           D: should only be done with children.
         answer: B
+        print_position: 11
+        unit: 2
       - uid: MIN325.4.1.1.TY.1
         subobj: 4.1.1
         type: ty
@@ -4081,6 +4480,7 @@ courses:
           C: fails to engage the listener.
           D: attempts to communicate too many unrelated ideas.
         answer: D
+        print_position: 3
       - uid: MIN325.4.1.1.TY.2
         subobj: 4.1.1
         type: ty
@@ -4091,6 +4491,7 @@ courses:
           C: makes the sermon hard to understand.
           D: should be done only with children.
         answer: B
+        print_position: 6
       - uid: MIN325.4.1.2.UPE.1
         subobj: 4.1.2
         type: upe
@@ -4101,6 +4502,8 @@ courses:
           C: is unnecessary for preaching.
           D: should only be stated if absolutely necessary.
         answer: A
+        print_position: 4
+        unit: 2
       - uid: MIN325.4.1.2.TY.1
         subobj: 4.1.2
         type: ty
@@ -4111,6 +4514,7 @@ courses:
           C: is unnecessary for preaching.
           D: should only be stated as absolutely necessary.
         answer: A
+        print_position: 4
       - uid: MIN325.4.1.3.UPE.1
         subobj: 4.1.3
         type: upe
@@ -4121,6 +4525,8 @@ courses:
           C: explains what the text means today.
           D: is a finished sermon outline.
         answer: A
+        print_position: 5
+        unit: 2
       - uid: MIN325.4.1.3.UPE.2
         subobj: 4.1.3
         type: upe
@@ -4131,6 +4537,8 @@ courses:
           C: homiletical outline.
           D: illustrations / applications.
         answer: B
+        print_position: 10
+        unit: 2
       - uid: MIN325.4.1.3.UPE.3
         subobj: 4.1.3
         type: upe
@@ -4141,6 +4549,8 @@ courses:
           C: tells what was true for the original readers.
           D: states the theological outline in contemporary language.
         answer: D
+        print_position: 15
+        unit: 2
       - uid: MIN325.4.1.3.TY.1
         subobj: 4.1.3
         type: ty
@@ -4151,6 +4561,7 @@ courses:
           C: explains what the text means today.
           D: is a finished sermon outline.
         answer: A
+        print_position: 5
       - uid: MIN325.4.1.3.TY.2
         subobj: 4.1.3
         type: ty
@@ -4161,6 +4572,7 @@ courses:
           C: tells what was true for the original readers.
           D: states the theological outline in contemporary language.
         answer: D
+        print_position: 9
       - uid: MIN325.4.1.3.TY.3
         subobj: 4.1.3
         type: ty
@@ -4171,6 +4583,7 @@ courses:
           C: homiletical outline.
           D: illustrations / applications.
         answer: B
+        print_position: 10
       - uid: MIN325.4.2.1.TY.1
         subobj: 4.2.1
         type: ty
@@ -4181,6 +4594,7 @@ courses:
           C: What does this reveal about the world?
           D: How does this explain my life experiences?
         answer: A
+        print_position: 1
       - uid: MIN325.4.2.1.TY.2
         subobj: 4.2.1
         type: ty
@@ -4191,6 +4605,7 @@ courses:
           C: are acceptable as long as the topic is political.
           D: attract seekers.
         answer: B
+        print_position: 2
       - uid: MIN325.4.2.1.TY.3
         subobj: 4.2.1
         type: ty
@@ -4201,6 +4616,7 @@ courses:
           C: can polarize a congregation and create conflict.
           D: helps a preacher present a clear gospel message.
         answer: C
+        print_position: 8
       - uid: MIN325.4.2.2.TY.1
         subobj: 4.2.2
         type: ty
@@ -4211,6 +4627,7 @@ courses:
           C: at least one week of study.
           D: extensive prayer and reliance on the Holy Spirit.
         answer: D
+        print_position: 7
       - uid: MIN325.5.1.1.UPE.1
         subobj: 5.1.1
         type: upe
@@ -4221,6 +4638,8 @@ courses:
           C: postmodernists.
           D: scientists.
         answer: C
+        print_position: 3
+        unit: 2
       - uid: MIN325.5.1.1.TY.1
         subobj: 5.1.1
         type: ty
@@ -4231,6 +4650,7 @@ courses:
           C: scientific proofs that the Bible is true.
           D: facts.
         answer: B
+        print_position: 1
       - uid: MIN325.5.1.2.UPE.1
         subobj: 5.1.2
         type: upe
@@ -4241,6 +4661,8 @@ courses:
           C: can muddle up a preacher’s thoughts.
           D: should only be done when preaching to youth.
         answer: A
+        print_position: 21
+        unit: 2
       - uid: MIN325.5.1.2.TY.1
         subobj: 5.1.2
         type: ty
@@ -4252,6 +4674,7 @@ courses:
           D: anticipate challenges to the sermon and answer those questions in the
             sermon.
         answer: D
+        print_position: 2
       - uid: MIN325.5.2.1.UPE.1
         subobj: 5.2.1
         type: upe
@@ -4262,6 +4685,8 @@ courses:
           C: explains the Bible without the aid of illustrations.
           D: is at least one hour long.
         answer: B
+        print_position: 6
+        unit: 2
       - uid: MIN325.5.2.1.UPE.2
         subobj: 5.2.1
         type: upe
@@ -4273,6 +4698,8 @@ courses:
           C: reading of the text.
           D: introduction.
         answer: A
+        print_position: 19
+        unit: 2
       - uid: MIN325.5.2.1.UPE.3
         subobj: 5.2.1
         type: upe
@@ -4283,6 +4710,8 @@ courses:
           C: introduction or conclusion.
           D: introduction only.
         answer: C
+        print_position: 20
+        unit: 2
       - uid: MIN325.5.2.1.UPE.4
         subobj: 5.2.1
         type: upe
@@ -4293,6 +4722,8 @@ courses:
           C: leave people hanging.
           D: introduce new concepts.
         answer: B
+        print_position: 23
+        unit: 2
       - uid: MIN325.5.2.1.TY.1
         subobj: 5.2.1
         type: ty
@@ -4304,6 +4735,7 @@ courses:
           C: reading of the text.
           D: introduction.
         answer: A
+        print_position: 4
       - uid: MIN325.5.2.1.TY.2
         subobj: 5.2.1
         type: ty
@@ -4314,6 +4746,7 @@ courses:
           C: introduction or conclusion.
           D: introduction only.
         answer: C
+        print_position: 5
       - uid: MIN325.5.2.1.TY.3
         subobj: 5.2.1
         type: ty
@@ -4324,6 +4757,7 @@ courses:
           C: It avoids the use of illustrations.
           D: It prioritizes length over clarity.
         answer: B
+        print_position: 6
       - uid: MIN325.5.2.1.TY.4
         subobj: 5.2.1
         type: ty
@@ -4334,6 +4768,7 @@ courses:
           C: leave people hanging.
           D: introduce new concepts.
         answer: B
+        print_position: 8
       - uid: MIN325.5.2.1.TY.5
         subobj: 5.2.1
         type: ty
@@ -4344,6 +4779,7 @@ courses:
           C: make people laugh and cry.
           D: explain the main points in memorable ways.
         answer: D
+        print_position: 10
       - uid: MIN325.5.2.3.UPE.1
         subobj: 5.2.3
         type: upe
@@ -4354,6 +4790,8 @@ courses:
           C: relies on illustration to explain the text.
           D: presents a need up front and then leads to a biblical conclusion.
         answer: D
+        print_position: 24
+        unit: 2
       - uid: MIN325.5.2.3.TY.1
         subobj: 5.2.3
         type: ty
@@ -4365,6 +4803,7 @@ courses:
             her interested in the rest of the sermon.
           D: leads the hearer to a biblical conclusion.
         answer: D
+        print_position: 3
       - uid: MIN325.5.2.3.TY.2
         subobj: 5.2.3
         type: ty
@@ -4375,6 +4814,7 @@ courses:
           C: relies on illustrations.
           D: begins with human need and leads to a biblical solution.
         answer: A
+        print_position: 7
       - uid: MIN325.5.2.3.TY.3
         subobj: 5.2.3
         type: ty
@@ -4385,6 +4825,7 @@ courses:
           C: relies on illustration to explain the text.
           D: presents a need up front and then leads to a biblical conclusion.
         answer: D
+        print_position: 9
       - uid: MIN325.5.2.4.UPE.1
         subobj: 5.2.4
         type: upe
@@ -4396,6 +4837,8 @@ courses:
             her interested in the rest of the sermon.
           D: leads the hearer to a biblical conclusion.
         answer: D
+        print_position: 17
+        unit: 2
       - uid: MIN325.6.1.1.TY.1
         subobj: 6.1.1
         type: ty
@@ -4409,6 +4852,7 @@ courses:
           D: Listeners are more likely to immediately accept truth claims without
             question.
         answer: B
+        print_position: 1
       - uid: MIN325.6.1.2.UPE.1
         subobj: 6.1.2
         type: upe
@@ -4421,6 +4865,8 @@ courses:
           D: affirm seekers in their journey and give them space and time to investigate
             and examine the Christian faith.
         answer: D
+        print_position: 2
+        unit: 2
       - uid: MIN325.6.1.2.TY.1
         subobj: 6.1.2
         type: ty
@@ -4432,6 +4878,7 @@ courses:
           C: Being honest and willing to admit when they do not know something
           D: Redirecting the conversation to avoid uncertainty
         answer: C
+        print_position: 3
       - uid: MIN325.6.2.1.UPE.1
         subobj: 6.2.1
         type: upe
@@ -4442,6 +4889,8 @@ courses:
           C: persuade seekers to become Christians.
           D: add weight to a preacher’s words.
         answer: A
+        print_position: 16
+        unit: 2
       - uid: MIN325.6.2.1.TY.1
         subobj: 6.2.1
         type: ty
@@ -4452,6 +4901,7 @@ courses:
           C: persuade seekers to become Christians.
           D: add weight to a preacher’s words.
         answer: A
+        print_position: 2
       - uid: MIN325.6.2.2.UPE.1
         subobj: 6.2.2
         type: upe
@@ -4462,6 +4912,8 @@ courses:
           C: be explained in the sermon while rarely mentioning the words themselves.
           D: be taught at the beginning of the sermon.
         answer: C
+        print_position: 14
+        unit: 2
       - uid: MIN325.6.2.2.TY.1
         subobj: 6.2.2
         type: ty
@@ -4474,6 +4926,7 @@ courses:
           D: begins with a Greek or Hebrew lesson to get people on the same page and
             educate them in the biblical languages.
         answer: C
+        print_position: 7
       - uid: MIN325.6.3.1.UPE.1
         subobj: 6.3.1
         type: upe
@@ -4486,6 +4939,8 @@ courses:
           D: learns about a pressing issue within the church and uses the sermon to
             speak to that topic.
         answer: D
+        print_position: 9
+        unit: 2
       - uid: MIN325.6.3.1.TY.1
         subobj: 6.3.1
         type: ty
@@ -4496,6 +4951,7 @@ courses:
           C: is not necessary.
           D: is useful for seekers but not believers.
         answer: B
+        print_position: 4
       - uid: MIN325.6.3.1.TY.2
         subobj: 6.3.1
         type: ty
@@ -4507,6 +4963,7 @@ courses:
           C: A complex theological concept without practical examples
           D: A historical event with no connection to the listeners’ lives
         answer: B
+        print_position: 5
       - uid: MIN325.6.3.1.TY.3
         subobj: 6.3.1
         type: ty
@@ -4517,6 +4974,7 @@ courses:
           C: develops standard, generalized illustrations for all his or her sermons.
           D: preaches the same sermon the same way to both seekers and believers.
         answer: B
+        print_position: 9
       - uid: MIN325.6.3.2.UPE.1
         subobj: 6.3.2
         type: upe
@@ -4527,6 +4985,8 @@ courses:
           C: monotony.
           D: telling his or her personal story.
         answer: C
+        print_position: 12
+        unit: 2
       - uid: MIN325.6.3.2.TY.1
         subobj: 6.3.2
         type: ty
@@ -4537,6 +4997,7 @@ courses:
           C: monotony.
           D: telling his or her personal story.
         answer: C
+        print_position: 6
       - uid: MIN325.6.4.1.TY.1
         subobj: 6.4.1
         type: ty
@@ -4548,6 +5009,7 @@ courses:
           D: balance statements to bring seekers along in their journey and Christians
             deeper in their faith.
         answer: D
+        print_position: 8
       - uid: MIN325.6.4.1.TY.2
         subobj: 6.4.1
         type: ty
@@ -4558,6 +5020,7 @@ courses:
           C: are up to the Holy Spirit.
           D: are dependent on the preacher.
         answer: C
+        print_position: 10
       - uid: MIN325.7.1.1.UPE.1
         subobj: 7.1.1
         type: upe
@@ -4568,6 +5031,8 @@ courses:
           C: publicly confesses his or her every sin.
           D: will ruin his or her ability to minister.
         answer: B
+        print_position: 7
+        unit: 2
       - uid: MIN325.7.1.1.UPE.2
         subobj: 7.1.1
         type: upe
@@ -4581,6 +5046,8 @@ courses:
           D: preaches the right thing even if he or she does not always do the right
             thing.
         answer: B
+        print_position: 13
+        unit: 2
       - uid: MIN325.7.1.1.UPE.3
         subobj: 7.1.1
         type: upe
@@ -4591,6 +5058,8 @@ courses:
           C: real.
           D: not like them.
         answer: C
+        print_position: 22
+        unit: 2
       - uid: MIN325.7.1.1.UPE.4
         subobj: 7.1.1
         type: upe
@@ -4601,6 +5070,8 @@ courses:
           C: highlights a preacher’s victories and never his or her defeats.
           D: will cause the congregation to lose confidence in him or her.
         answer: A
+        print_position: 25
+        unit: 2
       - uid: MIN325.7.1.1.TY.1
         subobj: 7.1.1
         type: ty
@@ -4611,6 +5082,7 @@ courses:
           C: real.
           D: not like the congregants.
         answer: C
+        print_position: 1
       - uid: MIN325.7.1.1.TY.2
         subobj: 7.1.1
         type: ty
@@ -4621,6 +5093,7 @@ courses:
           C: have a “preaching” personality that is different from their regular personality.
           D: preach the right thing even if they do not always do the right thing.
         answer: B
+        print_position: 2
       - uid: MIN325.7.1.1.TY.3
         subobj: 7.1.1
         type: ty
@@ -4631,6 +5104,7 @@ courses:
           C: publicly confess their every sin.
           D: will ruin their ability to minister.
         answer: B
+        print_position: 3
       - uid: MIN325.7.1.1.TY.4
         subobj: 7.1.1
         type: ty
@@ -4641,6 +5115,7 @@ courses:
           C: is a weakness.
           D: should be altered for preaching.
         answer: A
+        print_position: 6
       - uid: MIN325.7.1.1.TY.5
         subobj: 7.1.1
         type: ty
@@ -4651,6 +5126,7 @@ courses:
           C: highlights a preacher’s victories and never his or her defeats.
           D: will cause the congregation to lose confidence in their leader.
         answer: A
+        print_position: 10
       - uid: MIN325.7.2.1.UPE.1
         subobj: 7.2.1
         type: upe
@@ -4661,6 +5137,8 @@ courses:
           C: ministry.
           D: personal relationship with God.
         answer: D
+        print_position: 8
+        unit: 2
       - uid: MIN325.7.2.1.TY.1
         subobj: 7.2.1
         type: ty
@@ -4672,6 +5150,7 @@ courses:
           C: family.
           D: nothing.
         answer: D
+        print_position: 4
       - uid: MIN325.7.2.1.TY.2
         subobj: 7.2.1
         type: ty
@@ -4682,6 +5161,7 @@ courses:
           C: are not as important as the preacher’s actions.
           D: will make or break a sermon.
         answer: C
+        print_position: 5
       - uid: MIN325.7.2.2.UPE.1
         subobj: 7.2.2
         type: upe
@@ -4692,6 +5172,8 @@ courses:
           C: God’s Word is powerful.
           D: the church will believe anything.
         answer: C
+        print_position: 18
+        unit: 2
       - uid: MIN325.7.2.2.TY.1
         subobj: 7.2.2
         type: ty
@@ -4702,6 +5184,7 @@ courses:
           C: be a preacher’s first priority.
           D: replace a preacher’s personal time of study and prayer.
         answer: A
+        print_position: 7
       - uid: MIN325.7.2.2.TY.2
         subobj: 7.2.2
         type: ty
@@ -4712,6 +5195,7 @@ courses:
           C: congregations are very judgmental.
           D: God’s Word is not very powerful.
         answer: B
+        print_position: 8
       - uid: MIN325.7.2.2.TY.3
         subobj: 7.2.2
         type: ty
@@ -4722,6 +5206,7 @@ courses:
           C: humility, where he or she should not declare the Word boldly.
           D: confidence because God’s Word is powerful and true.
         answer: D
+        print_position: 9
       - uid: MIN325.8.1.1.UPE.1
         subobj: 8.1.1
         type: upe
@@ -4733,6 +5218,8 @@ courses:
           C: making people believe the message.
           D: memorizing his or her sermons so he or she can preach without notes.
         answer: B
+        print_position: 1
+        unit: 3
       - uid: MIN325.8.1.1.TY.1
         subobj: 8.1.1
         type: ty
@@ -4743,6 +5230,7 @@ courses:
           C: create compelling worship services that engage the audience.
           D: dress casually.
         answer: C
+        print_position: 1
       - uid: MIN325.8.1.2.UPE.1
         subobj: 8.1.2
         type: upe
@@ -4753,6 +5241,8 @@ courses:
           C: infant baptism.
           D: Holy Communion.
         answer: D
+        print_position: 2
+        unit: 3
       - uid: MIN325.8.1.2.TY.1
         subobj: 8.1.2
         type: ty
@@ -4764,6 +5254,7 @@ courses:
           C: computer.
           D: microphone.
         answer: B
+        print_position: 4
       - uid: MIN325.8.1.2.TY.2
         subobj: 8.1.2
         type: ty
@@ -4775,6 +5266,7 @@ courses:
           C: is ordained by the church.
           D: makes people feel good.
         answer: A
+        print_position: 6
       - uid: MIN325.8.1.3.TY.1
         subobj: 8.1.3
         type: ty
@@ -4786,6 +5278,7 @@ courses:
           C: liturgy.
           D: incense.
         answer: B
+        print_position: 2
       - uid: MIN325.8.1.4.TY.1
         subobj: 8.1.4
         type: ty
@@ -4797,6 +5290,7 @@ courses:
           C: involve other people.
           D: do all of the above.
         answer: D
+        print_position: 3
       - uid: MIN325.8.2.1.UPE.1
         subobj: 8.2.1
         type: upe
@@ -4807,6 +5301,8 @@ courses:
           C: too costly.
           D: necessary for reaching baby boomers.
         answer: A
+        print_position: 7
+        unit: 3
       - uid: MIN325.8.2.1.UPE.2
         subobj: 8.2.1
         type: upe
@@ -4829,6 +5325,8 @@ courses:
             with culture.
           D: are unnecessary if one has the Holy Spirit.
         answer: A
+        print_position: 10
+        unit: 3
       - uid: MIN325.8.2.1.UPE.4
         subobj: 8.2.1
         type: upe
@@ -4840,6 +5338,8 @@ courses:
           C: conjunction.
           D: simile.
         answer: B
+        print_position: 11
+        unit: 3
       - uid: MIN325.8.2.1.TY.1
         subobj: 8.2.1
         type: ty
@@ -4850,6 +5350,7 @@ courses:
           C: an effective tool to reach today’s audience.
           D: unnecessary because Christians should not compete with the world.
         answer: C
+        print_position: 5
       - uid: MIN325.8.2.1.TY.2
         subobj: 8.2.1
         type: ty
@@ -4860,6 +5361,7 @@ courses:
           C: scientific approach to Scripture.
           D: Greek word study.
         answer: A
+        print_position: 7
       - uid: MIN325.8.3.1.UPE.1
         subobj: 8.3.1
         type: upe
@@ -4870,6 +5372,8 @@ courses:
           C: the author of creativity—God.
           D: technology.
         answer: C
+        print_position: 8
+        unit: 3
       - uid: MIN325.8.3.1.UPE.2
         subobj: 8.3.1
         type: upe
@@ -4880,6 +5384,8 @@ courses:
           C: get comfortable being themselves.
           D: stick to the text.
         answer: C
+        print_position: 12
+        unit: 3
       - uid: MIN325.8.3.1.UPE.3
         subobj: 8.3.1
         type: upe
@@ -4890,6 +5396,8 @@ courses:
           C: monopolize his or her family’s time.
           D: decrease ministry productivity.
         answer: A
+        print_position: 19
+        unit: 3
       - uid: MIN325.8.3.1.TY.1
         subobj: 8.3.1
         type: ty
@@ -4900,6 +5408,7 @@ courses:
           C: like to use illustrations and jokes.
           D: know how to tell stories.
         answer: A
+        print_position: 8
       - uid: MIN325.8.3.1.TY.2
         subobj: 8.3.1
         type: ty
@@ -4910,6 +5419,7 @@ courses:
           C: always prepare sermons alone.
           D: never take a break from his or her schedule.
         answer: B
+        print_position: 9
       - uid: MIN325.8.3.1.TY.3
         subobj: 8.3.1
         type: ty
@@ -4921,6 +5431,7 @@ courses:
           C: How many people are going to be in the audience?
           D: What do I want people to do?
         answer: D
+        print_position: 10
       - uid: MIN325.9.1.1.UPE.1
         subobj: 9.1.1
         type: upe
@@ -4931,6 +5442,8 @@ courses:
           C: historical.
           D: topical.
         answer: A
+        print_position: 13
+        unit: 3
       - uid: MIN325.9.1.1.UPE.2
         subobj: 9.1.1
         type: upe
@@ -4941,6 +5454,8 @@ courses:
           C: begin with a principle and end with a story.
           D: work well with propositional style sermons.
         answer: A
+        print_position: 14
+        unit: 3
       - uid: MIN325.9.1.1.UPE.3
         subobj: 9.1.1
         type: upe
@@ -4951,6 +5466,8 @@ courses:
           C: relies on logical argument to prove a point.
           D: begins with a life principle and ends with a scriptural application.
         answer: C
+        print_position: 21
+        unit: 3
       - uid: MIN325.9.1.1.TY.1
         subobj: 9.1.1
         type: ty
@@ -4961,6 +5478,7 @@ courses:
           C: storytelling.
           D: points and subpoints.
         answer: C
+        print_position: 1
       - uid: MIN325.9.1.1.TY.2
         subobj: 9.1.1
         type: ty
@@ -4971,6 +5489,7 @@ courses:
           C: personal convictions.
           D: arguments.
         answer: A
+        print_position: 2
       - uid: MIN325.9.1.1.TY.3
         subobj: 9.1.1
         type: ty
@@ -4981,6 +5500,7 @@ courses:
           C: reductive.
           D: none of the above.
         answer: A
+        print_position: 4
       - uid: MIN325.9.1.1.TY.4
         subobj: 9.1.1
         type: ty
@@ -4991,6 +5511,7 @@ courses:
           C: three points.
           D: four points.
         answer: A
+        print_position: 10
       - uid: MIN325.9.1.2.UPE.1
         subobj: 9.1.2
         type: upe
@@ -5001,6 +5522,8 @@ courses:
           C: topical.
           D: biographical.
         answer: B
+        print_position: 3
+        unit: 3
       - uid: MIN325.9.1.2.TY.1
         subobj: 9.1.2
         type: ty
@@ -5011,6 +5534,7 @@ courses:
           C: topical.
           D: commentary.
         answer: B
+        print_position: 3
       - uid: MIN325.9.1.3.UPE.1
         subobj: 9.1.3
         type: upe
@@ -5021,6 +5545,8 @@ courses:
           C: rural audience.
           D: post-rural audience.
         answer: B
+        print_position: 15
+        unit: 3
       - uid: MIN325.9.1.3.UPE.2
         subobj: 9.1.3
         type: upe
@@ -5031,6 +5557,8 @@ courses:
           C: use of Christian jargon.
           D: the incarnational nature of Paul’s preaching.
         answer: A
+        print_position: 16
+        unit: 3
       - uid: MIN325.9.1.3.UPE.3
         subobj: 9.1.3
         type: upe
@@ -5042,6 +5570,8 @@ courses:
           C: digital.
           D: linear.
         answer: C
+        print_position: 17
+        unit: 3
       - uid: MIN325.9.1.3.UPE.4
         subobj: 9.1.3
         type: upe
@@ -5052,6 +5582,8 @@ courses:
           C: retro.
           D: broadcast.
         answer: A
+        print_position: 22
+        unit: 3
       - uid: MIN325.9.1.3.TY.1
         subobj: 9.1.3
         type: ty
@@ -5062,6 +5594,7 @@ courses:
           C: an ultramodern world.
           D: a world where sermons are no longer useful or relevant.
         answer: B
+        print_position: 5
       - uid: MIN325.9.1.3.TY.2
         subobj: 9.1.3
         type: ty
@@ -5072,6 +5605,7 @@ courses:
           C: radio broadcast.
           D: no preference.
         answer: A
+        print_position: 6
       - uid: MIN325.9.2.2.UPE.1
         subobj: 9.2.2
         type: upe
@@ -5082,6 +5616,8 @@ courses:
           C: is often hard to follow.
           D: should not involve too much information.
         answer: A
+        print_position: 4
+        unit: 3
       - uid: MIN325.9.2.2.UPE.2
         subobj: 9.2.2
         type: upe
@@ -5092,6 +5628,8 @@ courses:
           C: one point.
           D: all of the above.
         answer: D
+        print_position: 5
+        unit: 3
       - uid: MIN325.9.2.2.UPE.3
         subobj: 9.2.2
         type: upe
@@ -5102,6 +5640,8 @@ courses:
           C: is very brief.
           D: uses a video clip.
         answer: B
+        print_position: 6
+        unit: 3
       - uid: MIN325.9.2.2.TY.1
         subobj: 9.2.2
         type: ty
@@ -5112,6 +5652,7 @@ courses:
           C: narrative motion.
           D: conclusion.
         answer: B
+        print_position: 7
       - uid: MIN325.9.2.3.UPE.1
         subobj: 9.2.3
         type: upe
@@ -5122,6 +5663,8 @@ courses:
           C: makes sermon writing easy.
           D: lends itself to “thus saith the Lord” preaching.
         answer: A
+        print_position: 18
+        unit: 3
       - uid: MIN325.9.2.3.TY.1
         subobj: 9.2.3
         type: ty
@@ -5132,6 +5675,7 @@ courses:
           C: teach doctrine and dogma.
           D: do not use stories or illustrations.
         answer: B
+        print_position: 8
       - uid: MIN325.9.2.3.TY.2
         subobj: 9.2.3
         type: ty
@@ -5142,6 +5686,7 @@ courses:
           C: the same amount of difficulty as propositional sermons.
           D: too simplistic for evangelical preachers.
         answer: A
+        print_position: 9
       - uid: MIN325.10.1.1.TY.1
         subobj: 10.1.1
         type: ty
@@ -5152,6 +5697,7 @@ courses:
           C: unscriptural.
           D: unnecessary if you pray and seek the Holy Spirit.
         answer: A
+        print_position: 1
       - uid: MIN325.10.1.1.TY.2
         subobj: 10.1.1
         type: ty
@@ -5162,6 +5708,7 @@ courses:
           C: a series of cross-referenced exegetical notes.
           D: minimal planning.
         answer: B
+        print_position: 10
       - uid: MIN325.10.1.2.UPE.1
         subobj: 10.1.2
         type: upe
@@ -5173,6 +5720,8 @@ courses:
           C: minimizes the quality and quantity of preaching.
           D: helps vary church attendance.
         answer: A
+        print_position: 25
+        unit: 3
       - uid: MIN325.10.1.2.TY.1
         subobj: 10.1.2
         type: ty
@@ -5183,6 +5732,7 @@ courses:
           C: creates less reliance on others.
           D: makes the preacher wait until the last minute and operate in the Spirit.
         answer: B
+        print_position: 2
       - uid: MIN325.10.1.2.TY.2
         subobj: 10.1.2
         type: ty
@@ -5193,6 +5743,7 @@ courses:
           C: are a result of preparation and prayer.
           D: change constantly.
         answer: C
+        print_position: 3
       - uid: MIN325.10.1.3.UPE.1
         subobj: 10.1.3
         type: upe
@@ -5203,6 +5754,8 @@ courses:
           C: more in the heart of the speaker than the hearer.
           D: only if the pastor preaches with good intentions.
         answer: B
+        print_position: 23
+        unit: 3
       - uid: MIN325.10.1.3.TY.1
         subobj: 10.1.3
         type: ty
@@ -5213,6 +5766,7 @@ courses:
           C: checking the congregation’s dislikes.
           D: waiting until the last minute for increased creativity.
         answer: B
+        print_position: 4
       - uid: MIN325.10.1.3.TY.2
         subobj: 10.1.3
         type: ty
@@ -5224,6 +5778,7 @@ courses:
           C: series.
           D: subplot.
         answer: C
+        print_position: 5
       - uid: MIN325.10.1.3.TY.3
         subobj: 10.1.3
         type: ty
@@ -5235,6 +5790,7 @@ courses:
           C: 6–8 weeks
           D: 10–12 weeks
         answer: B
+        print_position: 6
       - uid: MIN325.10.1.4.TY.1
         subobj: 10.1.4
         type: ty
@@ -5245,6 +5801,7 @@ courses:
           C: constantly changing and updating the preaching calendar.
           D: trying to be too original.
         answer: D
+        print_position: 7
       - uid: MIN325.10.2.1.UPE.1
         subobj: 10.2.1
         type: upe
@@ -5256,6 +5813,8 @@ courses:
           D: require that everyone on the preaching team have the same personality
             and preaching style.
         answer: A
+        print_position: 24
+        unit: 3
       - uid: MIN325.10.2.1.TY.1
         subobj: 10.2.1
         type: ty
@@ -5268,6 +5827,7 @@ courses:
             throughout the year
           D: A committee that focuses solely on church events and outreach planning
         answer: B
+        print_position: 8
       - uid: MIN325.10.2.1.TY.2
         subobj: 10.2.1
         type: ty
@@ -5278,6 +5838,7 @@ courses:
           C: always include his or her spouse.
           D: surrender veto power.
         answer: B
+        print_position: 9
       - uid: MIN325.11.1.1.UPE.1
         subobj: 11.1.1
         type: upe
@@ -5289,6 +5850,8 @@ courses:
           C: Europe.
           D: South Africa.
         answer: C
+        print_position: 1
+        unit: 4
       - uid: MIN325.11.1.1.UPE.2
         subobj: 11.1.1
         type: upe
@@ -5299,6 +5862,8 @@ courses:
           C: Agnes Ozman.
           D: Smith Wigglesworth.
         answer: B
+        print_position: 2
+        unit: 4
       - uid: MIN325.11.1.1.UPE.3
         subobj: 11.1.1
         type: upe
@@ -5310,6 +5875,8 @@ courses:
           C: Agnes Ozman.
           D: Smith Wigglesworth.
         answer: C
+        print_position: 3
+        unit: 4
       - uid: MIN325.11.1.1.UPE.4
         subobj: 11.1.1
         type: upe
@@ -5320,6 +5887,8 @@ courses:
           C: Agnes Ozman.
           D: A. B. Simpson.
         answer: A
+        print_position: 4
+        unit: 4
       - uid: MIN325.11.1.1.UPE.5
         subobj: 11.1.1
         type: upe
@@ -5330,6 +5899,8 @@ courses:
           C: Topeka, Kansas.
           D: Hot Springs, Arkansas.
         answer: D
+        print_position: 5
+        unit: 4
       - uid: MIN325.11.1.1.UPE.6
         subobj: 11.1.1
         type: upe
@@ -5340,6 +5911,8 @@ courses:
           C: Chicago, Illinois.
           D: Los Angeles, California.
         answer: C
+        print_position: 6
+        unit: 4
       - uid: MIN325.11.1.1.UPE.7
         subobj: 11.1.1
         type: upe
@@ -5354,6 +5927,8 @@ courses:
           D: ill-prepared, but saw great results as the Holy Spirit enabled them to
             speak the languages of people groups.
         answer: A
+        print_position: 7
+        unit: 4
       - uid: MIN325.11.1.1.UPE.8
         subobj: 11.1.1
         type: upe
@@ -5366,6 +5941,8 @@ courses:
           C: ineffective because they failed to learn from the first group of missionaries.
           D: effective because they had better financial support.
         answer: B
+        print_position: 8
+        unit: 4
       - uid: MIN325.11.1.1.TY.1
         subobj: 11.1.1
         type: ty
@@ -5376,6 +5953,7 @@ courses:
           C: did not fare too well on the mission field.
           D: failed to rely on the Holy Spirit.
         answer: C
+        print_position: 1
       - uid: MIN325.11.1.1.TY.2
         subobj: 11.1.1
         type: ty
@@ -5387,6 +5965,7 @@ courses:
           C: colonized Christianity.
           D: utilized crusade preaching.
         answer: A
+        print_position: 2
       - uid: MIN325.11.1.2.UPE.1
         subobj: 11.1.2
         type: upe
@@ -5400,6 +5979,8 @@ courses:
           D: taking a certain style of Christianity from one culture and imposing
             it on another completely different culture.
         answer: D
+        print_position: 9
+        unit: 4
       - uid: MIN325.11.1.2.UPE.2
         subobj: 11.1.2
         type: upe
@@ -5411,6 +5992,8 @@ courses:
           C: J. Phillip Hogan.
           D: Robert Ashcroft.
         answer: B
+        print_position: 10
+        unit: 4
       - uid: MIN325.11.1.2.UPE.3
         subobj: 11.1.2
         type: upe
@@ -5421,6 +6004,8 @@ courses:
           C: self-governing, self-sufficient, and self-taught.
           D: self-propagating, self-governing, and self-supporting.
         answer: D
+        print_position: 11
+        unit: 4
       - uid: MIN325.11.1.2.UPE.4
         subobj: 11.1.2
         type: upe
@@ -5431,6 +6016,8 @@ courses:
           C: seek to understand the culture we are trying to reach.
           D: be spontaneous and depend upon the power of the Holy Spirit.
         answer: C
+        print_position: 12
+        unit: 4
       - uid: MIN325.11.1.2.UPE.5
         subobj: 11.1.2
         type: upe
@@ -5441,6 +6028,8 @@ courses:
           C: seeking to understand other religions.
           D: going to the mall and observing people.
         answer: C
+        print_position: 13
+        unit: 4
       - uid: MIN325.11.1.2.TY.1
         subobj: 11.1.2
         type: ty
@@ -5451,6 +6040,7 @@ courses:
           C: charging money for the gospel.
           D: early Native American missionary efforts.
         answer: B
+        print_position: 3
       - uid: MIN325.11.1.2.TY.2
         subobj: 11.1.2
         type: ty
@@ -5462,6 +6052,7 @@ courses:
           C: teaching only from the New Testament.
           D: changing the message of the Scriptures.
         answer: A
+        print_position: 4
       - uid: MIN325.11.1.2.TY.3
         subobj: 11.1.2
         type: ty
@@ -5472,6 +6063,7 @@ courses:
           C: socialized.
           D: philosophized.
         answer: B
+        print_position: 5
       - uid: MIN325.11.1.2.TY.4
         subobj: 11.1.2
         type: ty
@@ -5482,6 +6074,7 @@ courses:
           C: understand the world they are trying to reach.
           D: seek first to be understood.
         answer: C
+        print_position: 6
       - uid: MIN325.11.1.2.TY.5
         subobj: 11.1.2
         type: ty
@@ -5493,6 +6086,7 @@ courses:
           C: resist the temptation of learning from culture.
           D: not take risks.
         answer: A
+        print_position: 7
       - uid: MIN325.11.2.1.UPE.1
         subobj: 11.2.1
         type: upe
@@ -5503,6 +6097,8 @@ courses:
           C: connect with the audience.
           D: persuade the audience.
         answer: A
+        print_position: 17
+        unit: 4
       - uid: MIN325.11.2.1.UPE.2
         subobj: 11.2.1
         type: upe
@@ -5513,6 +6109,8 @@ courses:
           C: with eloquence and confidence.
           D: the gospel message only to address current social needs.
         answer: B
+        print_position: 18
+        unit: 4
       - uid: MIN325.11.2.1.TY.1
         subobj: 11.2.1
         type: ty
@@ -5524,6 +6122,7 @@ courses:
           C: Church is perceived as boring and irrelevant
           D: Too many ministry programs and activities
         answer: C
+        print_position: 8
       - uid: MIN325.11.2.1.TY.2
         subobj: 11.2.1
         type: ty
@@ -5535,6 +6134,7 @@ courses:
           C: relevance .
           D: liberation theology .
         answer: C
+        print_position: 9
       - uid: MIN325.11.2.2.UPE.1
         subobj: 11.2.2
         type: upe
@@ -5546,6 +6146,8 @@ courses:
             understand, it is irrelevant.
           D: being misunderstood by those holding to traditional values.
         answer: C
+        print_position: 19
+        unit: 4
       - uid: MIN325.11.2.2.TY.1
         subobj: 11.2.2
         type: ty
@@ -5556,6 +6158,7 @@ courses:
           C: being perceptive of the contemporary audience.
           D: changing the Bible to fit contemporary culture.
         answer: D
+        print_position: 10
       - uid: MIN325.12.1.1.UPE.1
         subobj: 12.1.1
         type: upe
@@ -5566,6 +6169,8 @@ courses:
           C: left.
           D: brain stem.
         answer: C
+        print_position: 20
+        unit: 4
       - uid: MIN325.12.1.1.UPE.2
         subobj: 12.1.1
         type: upe
@@ -5576,6 +6181,8 @@ courses:
           C: brain stem.
           D: left brain.
         answer: A
+        print_position: 21
+        unit: 4
       - uid: MIN325.12.1.1.UPE.3
         subobj: 12.1.1
         type: upe
@@ -5586,6 +6193,8 @@ courses:
           C: left-brain logic.
           D: left-brain creativity.
         answer: C
+        print_position: 22
+        unit: 4
       - uid: MIN325.12.1.1.UPE.4
         subobj: 12.1.1
         type: upe
@@ -5596,6 +6205,8 @@ courses:
           C: combining right-brain creativity with left-brain logic.
           D: preaching with left-brain creativity.
         answer: C
+        print_position: 23
+        unit: 4
       - uid: MIN325.12.1.1.UPE.5
         subobj: 12.1.1
         type: upe
@@ -5606,6 +6217,8 @@ courses:
           C: interrogative questions.
           D: metaphors.
         answer: D
+        print_position: 24
+        unit: 4
       - uid: MIN325.12.1.1.TY.1
         subobj: 12.1.1
         type: ty
@@ -5616,6 +6229,7 @@ courses:
           C: four hemispheres.
           D: six hemispheres.
         answer: A
+        print_position: 1
       - uid: MIN325.12.1.1.TY.2
         subobj: 12.1.1
         type: ty
@@ -5626,6 +6240,7 @@ courses:
           C: left.
           D: brain stem.
         answer: B
+        print_position: 2
       - uid: MIN325.12.1.1.TY.3
         subobj: 12.1.1
         type: ty
@@ -5636,6 +6251,7 @@ courses:
           C: logical.
           D: artistic.
         answer: C
+        print_position: 3
       - uid: MIN325.12.1.1.TY.4
         subobj: 12.1.1
         type: ty
@@ -5646,6 +6262,7 @@ courses:
           C: right-brain creativity.
           D: left-brain logic.
         answer: D
+        print_position: 4
       - uid: MIN325.12.1.1.TY.5
         subobj: 12.1.1
         type: ty
@@ -5656,6 +6273,7 @@ courses:
           C: Evidence that Demands a Verdict .
           D: Mere Christianity .
         answer: A
+        print_position: 5
       - uid: MIN325.12.1.1.TY.6
         subobj: 12.1.1
         type: ty
@@ -5667,6 +6285,7 @@ courses:
           C: God wants to sanctify our imaginations and use them for His purposes.
           D: Believers should avoid imagination and focus only on logic and reason.
         answer: C
+        print_position: 6
       - uid: MIN325.12.1.1.TY.7
         subobj: 12.1.1
         type: ty
@@ -5677,6 +6296,7 @@ courses:
           C: interrogative questions.
           D: metaphors.
         answer: D
+        print_position: 7
       - uid: MIN325.12.1.1.TY.8
         subobj: 12.1.1
         type: ty
@@ -5689,6 +6309,7 @@ courses:
             truth
           D: Focusing only on historical and biblical language without modern application
         answer: C
+        print_position: 8
       - uid: MIN325.12.1.2.UPE.1
         subobj: 12.1.2
         type: upe
@@ -5699,6 +6320,8 @@ courses:
           C: internalizing spiritual truth.
           D: truth stepping into the world.
         answer: D
+        print_position: 14
+        unit: 4
       - uid: MIN325.12.1.2.UPE.2
         subobj: 12.1.2
         type: upe
@@ -5709,6 +6332,8 @@ courses:
           C: makes a minister culturally aware.
           D: makes a minister too much like “the world.”
         answer: C
+        print_position: 15
+        unit: 4
       - uid: MIN325.12.1.2.UPE.3
         subobj: 12.1.2
         type: upe
@@ -5719,6 +6344,8 @@ courses:
           C: cannot be transcultural.
           D: is irrelevant to modern cultures.
         answer: A
+        print_position: 16
+        unit: 4
       - uid: MIN325.12.1.2.UPE.4
         subobj: 12.1.2
         type: upe
@@ -5729,6 +6356,8 @@ courses:
           C: new technology and antique hardware.
           D: Persian and Greek philosophy.
         answer: B
+        print_position: 25
+        unit: 4
       - uid: MIN325.12.1.2.TY.1
         subobj: 12.1.2
         type: ty
@@ -5739,6 +6368,7 @@ courses:
           C: culture of those the preacher is addressing.
           D: various cultures in North America and how they affect each other.
         answer: C
+        print_position: 9
       - uid: MIN325.12.1.2.TY.2
         subobj: 12.1.2
         type: ty
@@ -5754,6 +6384,7 @@ courses:
           D: The primary goal of preaching is to preserve church subculture rather
             than engage the outside world.
         answer: A
+        print_position: 10
       - uid: MIN325.12.intro.UPE.1
         subobj: 12.intro
         type: upe
@@ -5764,6 +6395,8 @@ courses:
           C: journalists.
           D: all of the above.
         answer: D
+        print_position: 20
+        unit: 3
       - uid: MIN325.1.1.1.F.3
         subobj: 1.1.1
         type: final
@@ -6299,6 +6932,7 @@ courses:
         run: 20260619T104020_MIN325.all.f
         form: E
         date: '2026-06-19'
+      captured: reparse
     deployed_pn: 03.26.01
     body_baseline_pn: 03.26.01
     chapters:

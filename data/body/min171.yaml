@@ -518,6 +518,8 @@ courses:
           C: the spiritual gifts.
           D: the five functions described in Acts 2.
         answer: D
+        print_position: 1
+        unit: 1
       - uid: MIN171.1.1.1.UPE.2
         subobj: 1.1.1
         type: upe
@@ -528,6 +530,8 @@ courses:
           C: a building, and ministry coordinators.
           D: and community support.
         answer: A
+        print_position: 2
+        unit: 1
       - uid: MIN171.1.1.2.TY.1
         subobj: 1.1.2
         type: ty
@@ -538,6 +542,7 @@ courses:
           C: impact on its world.
           D: lack of hardships.
         answer: C
+        print_position: 1
       - uid: MIN171.1.1.2.TY.2
         subobj: 1.1.2
         type: ty
@@ -549,6 +554,7 @@ courses:
           C: the cooperation of the pastor and board of the church.
           D: the five functions described in Acts 2 message.
         answer: D
+        print_position: 2
       - uid: MIN171.1.1.2.TY.3
         subobj: 1.1.2
         type: ty
@@ -559,6 +565,7 @@ courses:
           C: a building, and ministry coordinators.
           D: and community support.
         answer: A
+        print_position: 3
       - uid: MIN171.1.2.1.UPE.1
         subobj: 1.2.1
         type: upe
@@ -570,6 +577,8 @@ courses:
           C: Connect
           D: Serve
         answer: D
+        print_position: 3
+        unit: 1
       - uid: MIN171.1.2.1.UPE.2
         subobj: 1.2.1
         type: upe
@@ -581,6 +590,8 @@ courses:
           C: connect .
           D: serve .
         answer: D
+        print_position: 5
+        unit: 1
       - uid: MIN171.1.2.1.TY.1
         subobj: 1.2.1
         type: ty
@@ -592,6 +603,7 @@ courses:
           C: individual believers to the corporate body.
           D: Jerusalem to the risen Christ.
         answer: B
+        print_position: 4
       - uid: MIN171.1.2.1.TY.2
         subobj: 1.2.1
         type: ty
@@ -602,6 +614,7 @@ courses:
           C: Spirit-led service.
           D: the human dimension of church life.
         answer: A
+        print_position: 5
       - uid: MIN171.1.2.1.TY.3
         subobj: 1.2.1
         type: ty
@@ -613,6 +626,7 @@ courses:
           C: Serve and Worship.
           D: Go and Connect.
         answer: B
+        print_position: 6
       - uid: MIN171.1.2.1.TY.4
         subobj: 1.2.1
         type: ty
@@ -623,6 +637,7 @@ courses:
           C: moving from a temple model to a church model.
           D: global and local missions.
         answer: B
+        print_position: 7
       - uid: MIN171.1.2.2.UPE.1
         subobj: 1.2.2
         type: upe
@@ -633,6 +648,8 @@ courses:
           C: both necessary for a healthy church.
           D: based on essentially the same characteristics.
         answer: C
+        print_position: 4
+        unit: 1
       - uid: MIN171.1.2.2.UPE.2
         subobj: 1.2.2
         type: upe
@@ -643,6 +660,8 @@ courses:
           C: empowerment by the Spirit to be successful.
           D: adapting the Acts 2 process to contemporary culture.
         answer: C
+        print_position: 6
+        unit: 1
       - uid: MIN171.1.2.2.TY.1
         subobj: 1.2.2
         type: ty
@@ -653,6 +672,7 @@ courses:
           C: biblical.
           D: indescribable.
         answer: C
+        print_position: 8
       - uid: MIN171.1.2.2.TY.2
         subobj: 1.2.2
         type: ty
@@ -663,6 +683,7 @@ courses:
           C: both necessary for a healthy church.
           D: based on essentially the same characteristics.
         answer: C
+        print_position: 9
       - uid: MIN171.1.2.2.TY.3
         subobj: 1.2.2
         type: ty
@@ -684,6 +705,8 @@ courses:
           C: utilizing the gifts of the Spirit more consistently.
           D: empathy with those who are suffering.
         answer: A
+        print_position: 7
+        unit: 1
       - uid: MIN171.2.1.1.UPE.2
         subobj: 2.1.1
         type: upe
@@ -694,6 +717,8 @@ courses:
           C: wisdom.
           D: hope.
         answer: B
+        print_position: 8
+        unit: 1
       - uid: MIN171.2.1.1.TY.1
         subobj: 2.1.1
         type: ty
@@ -705,6 +730,7 @@ courses:
           C: those people who have been a problem
           D: those who claim to be Christians
         answer: B
+        print_position: 1
       - uid: MIN171.2.1.1.TY.2
         subobj: 2.1.1
         type: ty
@@ -715,6 +741,7 @@ courses:
           C: pastors equip people to do the work of ministry.
           D: only the most mature and experienced people serve in ministry.
         answer: C
+        print_position: 2
       - uid: MIN171.2.1.1.TY.3
         subobj: 2.1.1
         type: ty
@@ -726,6 +753,7 @@ courses:
           C: utilizing the gifts of the Spirit more consistently.
           D: empathy with those who are suffering.
         answer: A
+        print_position: 3
       - uid: MIN171.2.2.1.UPE.1
         subobj: 2.2.1
         type: upe
@@ -736,6 +764,8 @@ courses:
           C: the pressing need for radical change.
           D: the call to overseas missions.
         answer: C
+        print_position: 9
+        unit: 1
       - uid: MIN171.2.2.1.UPE.2
         subobj: 2.2.1
         type: upe
@@ -747,6 +777,8 @@ courses:
             friends.
           D: media saturation and internet connections.
         answer: C
+        print_position: 10
+        unit: 1
       - uid: MIN171.2.2.1.UPE.3
         subobj: 2.2.1
         type: upe
@@ -757,6 +789,8 @@ courses:
           C: an inward focus in Christ’s church.
           D: leading from behind.
         answer: A
+        print_position: 11
+        unit: 1
       - uid: MIN171.2.2.1.TY.1
         subobj: 2.2.1
         type: ty
@@ -767,6 +801,7 @@ courses:
           C: Pursue and obey God passionately
           D: Act with clear direction and inward focus.
         answer: D
+        print_position: 4
       - uid: MIN171.2.2.1.TY.2
         subobj: 2.2.1
         type: ty
@@ -777,6 +812,7 @@ courses:
           C: a pressing need for radical change.
           D: the call to overseas missions.
         answer: C
+        print_position: 5
       - uid: MIN171.2.2.1.TY.3
         subobj: 2.2.1
         type: ty
@@ -788,6 +824,7 @@ courses:
             church property.
           D: is most effective among people that are unknown to the congregation.
         answer: A
+        print_position: 6
       - uid: MIN171.2.2.1.TY.4
         subobj: 2.2.1
         type: ty
@@ -800,6 +837,7 @@ courses:
           C: pastors do not understand real people like we do.
           D: pastors are too important to do the easier things in ministry.
         answer: B
+        print_position: 7
       - uid: MIN171.2.2.1.TY.5
         subobj: 2.2.1
         type: ty
@@ -810,6 +848,7 @@ courses:
           C: can work together with the leading of the Spirit.
           D: leads inevitably to unhealthy traditions.
         answer: C
+        print_position: 8
       - uid: MIN171.2.2.1.TY.6
         subobj: 2.2.1
         type: ty
@@ -823,6 +862,7 @@ courses:
           D: God has given each church unique gifts, abilities, experiences, and opportunities
             and wants to use what he has given us to fulfill His mission.
         answer: D
+        print_position: 9
       - uid: MIN171.2.2.1.TY.7
         subobj: 2.2.1
         type: ty
@@ -846,6 +886,8 @@ courses:
           C: lead people away from the sense of ownership.
           D: teach people what they can receive.
         answer: A
+        print_position: 12
+        unit: 1
       - uid: MIN171.3.1.1.UPE.2
         subobj: 3.1.1
         type: upe
@@ -856,6 +898,8 @@ courses:
           C: the pastor exists to help people fulfill their callings.
           D: everyone has equal authority in the church.
         answer: C
+        print_position: 13
+        unit: 1
       - uid: MIN171.3.1.1.UPE.3
         subobj: 3.1.1
         type: upe
@@ -867,6 +911,8 @@ courses:
           C: the church becomes healthier and more alive.
           D: fewer paid staff will be needed.
         answer: C
+        print_position: 14
+        unit: 1
       - uid: MIN171.3.1.1.TY.1
         subobj: 3.1.1
         type: ty
@@ -878,6 +924,7 @@ courses:
           C: the church becomes healthier.
           D: the paid staff will feel like they are no longer needed.
         answer: C
+        print_position: 1
       - uid: MIN171.3.1.1.TY.2
         subobj: 3.1.1
         type: ty
@@ -889,6 +936,7 @@ courses:
           C: the expanding open door.
           D: the priesthood of all believers.
         answer: D
+        print_position: 2
       - uid: MIN171.3.1.1.TY.3
         subobj: 3.1.1
         type: ty
@@ -899,6 +947,7 @@ courses:
           C: lead people away from the sense of ownership.
           D: teach people what they can receive.
         answer: A
+        print_position: 3
       - uid: MIN171.3.2.1.UPE.1
         subobj: 3.2.1
         type: upe
@@ -909,6 +958,8 @@ courses:
           C: can serve as sounding boards in the community.
           D: will need less accountability in regard to character issues.
         answer: A
+        print_position: 15
+        unit: 1
       - uid: MIN171.3.2.1.UPE.2
         subobj: 3.2.1
         type: upe
@@ -919,6 +970,8 @@ courses:
           C: the time when a pastor resigns and ministries are reevaluated.
           D: the time when a person becomes too tired to continue in a ministry.
         answer: B
+        print_position: 16
+        unit: 1
       - uid: MIN171.3.2.1.TY.1
         subobj: 3.2.1
         type: ty
@@ -931,6 +984,7 @@ courses:
           D: Continue to focus on equipping people for the work of ministry, in spite
             of such resistance.
         answer: D
+        print_position: 4
       - uid: MIN171.3.2.1.TY.2
         subobj: 3.2.1
         type: ty
@@ -941,6 +995,7 @@ courses:
           C: people who are willing to invest in the church.
           D: processes that flow to the greatest areas of need.
         answer: B
+        print_position: 5
       - uid: MIN171.3.2.1.TY.3
         subobj: 3.2.1
         type: ty
@@ -951,6 +1006,7 @@ courses:
           C: creating ministry agreements for those involved in various ministries.
           D: walking through the Acts 2 process with individuals.
         answer: C
+        print_position: 6
       - uid: MIN171.3.2.1.TY.4
         subobj: 3.2.1
         type: ty
@@ -962,6 +1018,7 @@ courses:
             at ministry work.
           D: the purposes of God are thwarted.
         answer: D
+        print_position: 7
       - uid: MIN171.3.2.1.TY.5
         subobj: 3.2.1
         type: ty
@@ -973,6 +1030,7 @@ courses:
           C: People will experience greater growth as disciples of Jesus.
           D: The local church’s impact on its community increases.
         answer: B
+        print_position: 8
       - uid: MIN171.3.2.1.TY.6
         subobj: 3.2.1
         type: ty
@@ -984,6 +1042,7 @@ courses:
           C: to provide clear direction, and gentle correction when necessary.
           D: to manage expectations in such a way that accountability is natural.
         answer: C
+        print_position: 9
       - uid: MIN171.3.2.1.TY.7
         subobj: 3.2.1
         type: ty
@@ -1009,6 +1068,8 @@ courses:
           C: spirituality.
           D: morale.
         answer: D
+        print_position: 17
+        unit: 1
       - uid: MIN171.4.1.1.UPE.2
         subobj: 4.1.1
         type: upe
@@ -1019,6 +1080,8 @@ courses:
           C: exercise.
           D: accountability.
         answer: B
+        print_position: 18
+        unit: 1
       - uid: MIN171.4.1.1.UPE.3
         subobj: 4.1.1
         type: upe
@@ -1030,6 +1093,8 @@ courses:
           C: 500,000.
           D: 1,000,000.
         answer: D
+        print_position: 19
+        unit: 1
       - uid: MIN171.4.1.1.TY.1
         subobj: 4.1.1
         type: ty
@@ -1041,6 +1106,7 @@ courses:
           C: finding people to fill ministry positions.
           D: addressing false teaching that was prevalent.
         answer: A
+        print_position: 1
       - uid: MIN171.4.1.1.TY.2
         subobj: 4.1.1
         type: ty
@@ -1052,6 +1118,7 @@ courses:
           C: peace.
           D: morale.
         answer: D
+        print_position: 2
       - uid: MIN171.4.1.1.TY.3
         subobj: 4.1.1
         type: ty
@@ -1062,6 +1129,7 @@ courses:
           C: exercise.
           D: an educational process.
         answer: B
+        print_position: 3
       - uid: MIN171.4.1.1.TY.4
         subobj: 4.1.1
         type: ty
@@ -1073,6 +1141,7 @@ courses:
           C: Character established on God’s Word
           D: A moral failure in leadership
         answer: C
+        print_position: 4
       - uid: MIN171.4.1.1.TY.5
         subobj: 4.1.1
         type: ty
@@ -1083,6 +1152,7 @@ courses:
           C: character builds perseverance.
           D: hope grows from character.
         answer: D
+        print_position: 5
       - uid: MIN171.4.1.1.TY.6
         subobj: 4.1.1
         type: ty
@@ -1094,6 +1164,7 @@ courses:
           C: that have existed for five decades or more.
           D: that have low morale.
         answer: B
+        print_position: 6
       - uid: MIN171.4.2.1.UPE.1
         subobj: 4.2.1
         type: upe
@@ -1104,6 +1175,8 @@ courses:
           C: requires only the power of the Holy Spirit.
           D: is not relevant in some cultures today.
         answer: B
+        print_position: 20
+        unit: 1
       - uid: MIN171.4.2.1.TY.1
         subobj: 4.2.1
         type: ty
@@ -1114,6 +1187,7 @@ courses:
           C: budget should match its future vision.
           D: advertising should match its current activities.
         answer: A
+        print_position: 7
       - uid: MIN171.4.2.1.TY.2
         subobj: 4.2.1
         type: ty
@@ -1124,6 +1198,7 @@ courses:
           C: Church size is a good indication of hope.
           D: Low morale is seldom overcome in declining churches.
         answer: B
+        print_position: 8
       - uid: MIN171.4.2.1.TY.3
         subobj: 4.2.1
         type: ty
@@ -1136,6 +1211,7 @@ courses:
             as the first-century church.
           D: have hindsight and can learn from the mistakes of the past.
         answer: C
+        print_position: 9
       - uid: MIN171.4.2.1.TY.4
         subobj: 4.2.1
         type: ty
@@ -1156,6 +1232,8 @@ courses:
           C: a combination of beliefs and behaviors.
           D: not a primary focus of the Acts 2 Journey.
         answer: B
+        print_position: 21
+        unit: 1
       - uid: MIN171.5.1.1.TY.1
         subobj: 5.1.1
         type: ty
@@ -1167,6 +1245,7 @@ courses:
           C: the Holy Spirit will help us say more than we can know.
           D: the Holy Spirit will help us to be more than we are.
         answer: B
+        print_position: 1
       - uid: MIN171.5.1.1.TY.2
         subobj: 5.1.1
         type: ty
@@ -1177,6 +1256,7 @@ courses:
           C: strategic plan for future ministry.
           D: return to their old lives now that Jesus had ascended.
         answer: A
+        print_position: 2
       - uid: MIN171.5.1.1.TY.3
         subobj: 5.1.1
         type: ty
@@ -1188,6 +1268,7 @@ courses:
           C: They fellowshipped together regularly.
           D: They grew exponentially.
         answer: D
+        print_position: 3
       - uid: MIN171.5.2.1.UPE.1
         subobj: 5.2.1
         type: upe
@@ -1198,6 +1279,8 @@ courses:
           C: focuses completely on the individual.
           D: is occurring less and less frequently today.
         answer: A
+        print_position: 22
+        unit: 1
       - uid: MIN171.5.2.1.TY.1
         subobj: 5.2.1
         type: ty
@@ -1209,6 +1292,7 @@ courses:
           C: without a growing relationship with Christ.
           D: unless they lead to achieving greater respect in the community.
         answer: C
+        print_position: 4
       - uid: MIN171.5.2.1.TY.2
         subobj: 5.2.1
         type: ty
@@ -1219,6 +1303,7 @@ courses:
           C: a combination of beliefs and behaviors.
           D: not a primary focus of the Acts 2 Journey.
         answer: B
+        print_position: 5
       - uid: MIN171.5.2.1.TY.3
         subobj: 5.2.1
         type: ty
@@ -1229,6 +1314,7 @@ courses:
           C: changing beliefs and goals leads to radical transformation.
           D: knowledge, behavior, and relationships can grow.
         answer: B
+        print_position: 6
       - uid: MIN171.5.2.1.TY.4
         subobj: 5.2.1
         type: ty
@@ -1240,6 +1326,7 @@ courses:
           C: it may be that transformation really is not possible.
           D: transformation begins in the hearts of the people.
         answer: D
+        print_position: 7
       - uid: MIN171.5.2.2.UPE.1
         subobj: 5.2.2
         type: upe
@@ -1251,6 +1338,8 @@ courses:
           C: Connect .
           D: Go .
         answer: C
+        print_position: 23
+        unit: 1
       - uid: MIN171.5.2.2.TY.1
         subobj: 5.2.2
         type: ty
@@ -1262,6 +1351,7 @@ courses:
           C: connect.
           D: go.
         answer: B
+        print_position: 8
       - uid: MIN171.5.3.1.UPE.1
         subobj: 5.3.1
         type: upe
@@ -1272,6 +1362,8 @@ courses:
           C: message of empowerment rather than a blueprint.
           D: message of empowerment and a blueprint.
         answer: D
+        print_position: 24
+        unit: 1
       - uid: MIN171.5.3.1.UPE.2
         subobj: 5.3.1
         type: upe
@@ -1282,6 +1374,8 @@ courses:
           C: can lead us to connection with the Spirit and greater empowerment.
           D: will typically frustrate the Acts 2 process.
         answer: C
+        print_position: 25
+        unit: 1
       - uid: MIN171.5.3.1.TY.1
         subobj: 5.3.1
         type: ty
@@ -1294,6 +1388,7 @@ courses:
           D: believers no longer need one another and should pursue God’s purpose
             on their own.
         answer: A
+        print_position: 9
       - uid: MIN171.5.3.1.TY.2
         subobj: 5.3.1
         type: ty
@@ -1314,6 +1409,8 @@ courses:
           C: is primarily based on knowledge gained from mentors.
           D: is unrelated to Spirit empowerment.
         answer: B
+        print_position: 1
+        unit: 2
       - uid: MIN171.6.1.1.TY.1
         subobj: 6.1.1
         type: ty
@@ -1324,6 +1421,7 @@ courses:
           C: is primarily based on knowledge gained from mentors.
           D: is unrelated to Spirit-empowerment.
         answer: B
+        print_position: 1
       - uid: MIN171.6.1.2.UPE.1
         subobj: 6.1.2
         type: upe
@@ -1335,6 +1433,8 @@ courses:
           C: human intuition.
           D: respectability.
         answer: D
+        print_position: 2
+        unit: 2
       - uid: MIN171.6.1.2.TY.1
         subobj: 6.1.2
         type: ty
@@ -1345,6 +1445,7 @@ courses:
           C: tests our abilities and strengths.
           D: is an opportunity to demonstrate our dependence on the Holy Spirit.
         answer: D
+        print_position: 2
       - uid: MIN171.6.1.2.TY.2
         subobj: 6.1.2
         type: ty
@@ -1356,6 +1457,7 @@ courses:
           C: human intuition.
           D: respectability.
         answer: D
+        print_position: 3
       - uid: MIN171.6.1.2.TY.3
         subobj: 6.1.2
         type: ty
@@ -1366,6 +1468,7 @@ courses:
           C: as a temporary empowerment for specific situations.
           D: only to those who are fully sanctified.
         answer: A
+        print_position: 4
       - uid: MIN171.6.2.1.UPE.1
         subobj: 6.2.1
         type: upe
@@ -1377,6 +1480,8 @@ courses:
           C: disciples.
           D: servant-leaders.
         answer: D
+        print_position: 3
+        unit: 2
       - uid: MIN171.6.2.1.UPE.2
         subobj: 6.2.1
         type: upe
@@ -1387,6 +1492,8 @@ courses:
           C: the people outside the church.
           D: how we can simplify our structures.
         answer: C
+        print_position: 4
+        unit: 2
       - uid: MIN171.6.2.1.TY.1
         subobj: 6.2.1
         type: ty
@@ -1398,6 +1505,7 @@ courses:
           C: believers.
           D: unbelievers.
         answer: C
+        print_position: 5
       - uid: MIN171.6.2.1.TY.2
         subobj: 6.2.1
         type: ty
@@ -1409,6 +1517,7 @@ courses:
           C: disciples.
           D: servant-leaders.
         answer: C
+        print_position: 6
       - uid: MIN171.6.2.1.TY.3
         subobj: 6.2.1
         type: ty
@@ -1420,6 +1529,7 @@ courses:
           C: disciples.
           D: servant-leaders.
         answer: B
+        print_position: 7
       - uid: MIN171.6.2.1.TY.4
         subobj: 6.2.1
         type: ty
@@ -1430,6 +1540,7 @@ courses:
           C: mainly for pastors and ministry leaders.
           D: the key to achieving success in this world.
         answer: A
+        print_position: 8
       - uid: MIN171.6.2.1.TY.5
         subobj: 6.2.1
         type: ty
@@ -1441,6 +1552,7 @@ courses:
           C: humanity is becoming less stable and more erratic.
           D: people are hungry for something or someone greater than themselves.
         answer: D
+        print_position: 9
       - uid: MIN171.6.3.1.UPE.1
         subobj: 6.3.1
         type: upe
@@ -1451,6 +1563,8 @@ courses:
           C: is infrequent and should not be relied on.
           D: is missing from this generation.
         answer: B
+        print_position: 5
+        unit: 2
       - uid: MIN171.6.3.1.TY.1
         subobj: 6.3.1
         type: ty
@@ -1471,6 +1585,8 @@ courses:
           C: sort out why bad things are happening in the church.
           D: assess the daily lives of the people in the church.
         answer: A
+        print_position: 6
+        unit: 2
       - uid: MIN171.7.1.1.UPE.2
         subobj: 7.1.1
         type: upe
@@ -1481,6 +1597,8 @@ courses:
           C: changing the direction of the mission.
           D: an honest assessment of current strengths and weaknesses.
         answer: D
+        print_position: 7
+        unit: 2
       - uid: MIN171.7.1.1.TY.1
         subobj: 7.1.1
         type: ty
@@ -1492,6 +1610,7 @@ courses:
           C: principles.
           D: foundations.
         answer: B
+        print_position: 1
       - uid: MIN171.7.1.1.TY.2
         subobj: 7.1.1
         type: ty
@@ -1502,6 +1621,7 @@ courses:
           C: internalizing a healthy vision for the church.
           D: walking in divine health as individuals.
         answer: A
+        print_position: 2
       - uid: MIN171.7.1.1.TY.3
         subobj: 7.1.1
         type: ty
@@ -1512,6 +1632,7 @@ courses:
           C: accurately identify and understand current reality.
           D: assess the daily lives of the people in the church.
         answer: C
+        print_position: 3
       - uid: MIN171.7.1.1.TY.4
         subobj: 7.1.1
         type: ty
@@ -1523,6 +1644,7 @@ courses:
           C: should not affect the main goals of the church.
           D: will always lead to change.
         answer: B
+        print_position: 4
       - uid: MIN171.7.1.1.TY.5
         subobj: 7.1.1
         type: ty
@@ -1534,6 +1656,7 @@ courses:
           C: should focus primarily on the people in the church.
           D: should be given by the pastors.
         answer: B
+        print_position: 5
       - uid: MIN171.7.2.1.UPE.1
         subobj: 7.2.1
         type: upe
@@ -1544,6 +1667,8 @@ courses:
           C: only on the people already at the church.
           D: on areas of weakness that may be painful to address.
         answer: C
+        print_position: 8
+        unit: 2
       - uid: MIN171.7.2.1.UPE.2
         subobj: 7.2.1
         type: upe
@@ -1554,6 +1679,8 @@ courses:
           C: provide biblical questions.
           D: seek for words of knowledge.
         answer: B
+        print_position: 9
+        unit: 2
       - uid: MIN171.7.2.1.TY.1
         subobj: 7.2.1
         type: ty
@@ -1564,6 +1691,7 @@ courses:
           C: may still be healthy and vibrant.
           D: may not be able to fulfill all of the five functions.
         answer: C
+        print_position: 6
       - uid: MIN171.7.2.1.TY.2
         subobj: 7.2.1
         type: ty
@@ -1574,6 +1702,7 @@ courses:
           C: on areas of weakness that may be painful to address.
           D: only on the people already at the church.
         answer: D
+        print_position: 7
       - uid: MIN171.7.2.1.TY.3
         subobj: 7.2.1
         type: ty
@@ -1584,6 +1713,7 @@ courses:
           C: are necessary if we are to face our need for change.
           D: should seldom be used.
         answer: C
+        print_position: 8
       - uid: MIN171.7.2.1.TY.4
         subobj: 7.2.1
         type: ty
@@ -1594,6 +1724,7 @@ courses:
           C: the most important factor is getting the right answers.
           D: evangelism should be more important than missions.
         answer: A
+        print_position: 9
       - uid: MIN171.7.2.1.TY.5
         subobj: 7.2.1
         type: ty
@@ -1616,6 +1747,8 @@ courses:
           C: how we should go about fulfilling the Great Commission.
           D: when the Great Commission applies to the church.
         answer: C
+        print_position: 10
+        unit: 2
       - uid: MIN171.8.1.1.UPE.2
         subobj: 8.1.1
         type: upe
@@ -1627,6 +1760,8 @@ courses:
           C: making disciples.
           D: wisdom.
         answer: B
+        print_position: 11
+        unit: 2
       - uid: MIN171.8.1.1.TY.1
         subobj: 8.1.1
         type: ty
@@ -1637,6 +1772,7 @@ courses:
           C: when the Great Commission applies to the church.
           D: how we should go about fulfilling the Great Commission.
         answer: D
+        print_position: 1
       - uid: MIN171.8.1.1.TY.2
         subobj: 8.1.1
         type: ty
@@ -1647,6 +1783,7 @@ courses:
           C: is established by Jesus in Matthew 28:19-20.
           D: is all about learning and doing.
         answer: B
+        print_position: 2
       - uid: MIN171.8.1.1.TY.3
         subobj: 8.1.1
         type: ty
@@ -1657,6 +1794,7 @@ courses:
           C: must be found in the Great Commission and Great Commandment.
           D: relates more to love than empowerment by the Spirit.
         answer: C
+        print_position: 3
       - uid: MIN171.8.1.1.TY.4
         subobj: 8.1.1
         type: ty
@@ -1667,6 +1805,7 @@ courses:
           C: The Great Commission specifies baptism and teaching Christ’s commands.
           D: The Great Commission is found in Christ’s words in Matthew 22:37-39.
         answer: D
+        print_position: 4
       - uid: MIN171.8.2.1.UPE.1
         subobj: 8.2.1
         type: upe
@@ -1677,6 +1816,8 @@ courses:
           C: our primary testimony to the world.
           D: reflective of one’s relationship with Christ.
         answer: D
+        print_position: 12
+        unit: 2
       - uid: MIN171.8.2.1.UPE.2
         subobj: 8.2.1
         type: upe
@@ -1687,6 +1828,8 @@ courses:
           C: enjoyable.
           D: strategic.
         answer: A
+        print_position: 14
+        unit: 2
       - uid: MIN171.8.2.1.TY.1
         subobj: 8.2.1
         type: ty
@@ -1697,6 +1840,7 @@ courses:
           C: can only happen on the church campus.
           D: is reserved for pastors and other church leaders.
         answer: A
+        print_position: 5
       - uid: MIN171.8.2.1.TY.2
         subobj: 8.2.1
         type: ty
@@ -1707,6 +1851,7 @@ courses:
           C: we can help reveal God’s invitation to relationship with Him.
           D: we discover that we do not need the power of the Holy Spirit.
         answer: C
+        print_position: 6
       - uid: MIN171.8.2.1.TY.3
         subobj: 8.2.1
         type: ty
@@ -1717,6 +1862,7 @@ courses:
           C: combined to keep you from burnout.
           D: reflective of one’s relationship with Christ.
         answer: D
+        print_position: 7
       - uid: MIN171.8.2.1.TY.4
         subobj: 8.2.1
         type: ty
@@ -1728,6 +1874,7 @@ courses:
           C: they will feel used and not valued.
           D: they usually become demanding of their own way.
         answer: A
+        print_position: 8
       - uid: MIN171.8.2.1.TY.5
         subobj: 8.2.1
         type: ty
@@ -1738,6 +1885,7 @@ courses:
           C: make the mission human.
           D: make empowerment less likely.
         answer: C
+        print_position: 9
       - uid: MIN171.8.3.1.UPE.1
         subobj: 8.3.1
         type: upe
@@ -1751,6 +1899,8 @@ courses:
           D: as a process of translating the values of the church into the leadership
             vision.
         answer: C
+        print_position: 13
+        unit: 2
       - uid: MIN171.8.3.1.UPE.2
         subobj: 8.3.1
         type: upe
@@ -1761,6 +1911,8 @@ courses:
           C: is unnecessary in the process of church revitalization.
           D: is primarily a matter of power.
         answer: B
+        print_position: 15
+        unit: 2
       - uid: MIN171.8.3.1.TY.1
         subobj: 8.3.1
         type: ty
@@ -1773,6 +1925,7 @@ courses:
             ministry decisions.
           D: One person seldom can make much of a difference in a large church.
         answer: B
+        print_position: 4
       - uid: MIN171.9.1.1.UPE.1
         subobj: 9.1.1
         type: upe
@@ -1783,6 +1936,8 @@ courses:
           C: never be difficult to carry out.
           D: always involve risk.
         answer: D
+        print_position: 16
+        unit: 2
       - uid: MIN171.9.1.1.UPE.2
         subobj: 9.1.1
         type: upe
@@ -1793,6 +1948,8 @@ courses:
           C: connecting the mission to the growth process.
           D: dreaming the future into the present.
         answer: B
+        print_position: 17
+        unit: 2
       - uid: MIN171.9.1.1.TY.1
         subobj: 9.1.1
         type: ty
@@ -1805,6 +1962,7 @@ courses:
           C: vision is only given to church leaders.
           D: vision is intuitive and emotion-based.
         answer: B
+        print_position: 1
       - uid: MIN171.9.1.1.TY.2
         subobj: 9.1.1
         type: ty
@@ -1815,6 +1973,7 @@ courses:
           C: “Where are we going?”
           D: “What is our mandate?”
         answer: C
+        print_position: 2
       - uid: MIN171.9.1.1.TY.3
         subobj: 9.1.1
         type: ty
@@ -1825,6 +1984,7 @@ courses:
           C: never be difficult to carry out.
           D: always involve risk.
         answer: D
+        print_position: 3
       - uid: MIN171.9.1.1.TY.4
         subobj: 9.1.1
         type: ty
@@ -1835,6 +1995,7 @@ courses:
           C: is to follow the ministry programs of successful churches.
           D: is to stop looking at what is there.
         answer: B
+        print_position: 4
       - uid: MIN171.9.2.1.UPE.1
         subobj: 9.2.1
         type: upe
@@ -1845,6 +2006,8 @@ courses:
           C: can receive inspiration by looking at people and their needs.
           D: is based on ministry programs, tools, and practicality.
         answer: C
+        print_position: 18
+        unit: 2
       - uid: MIN171.9.2.1.TY.1
         subobj: 9.2.1
         type: ty
@@ -1855,6 +2018,7 @@ courses:
           C: require no action on our part.
           D: can usually be found in your past successes.
         answer: A
+        print_position: 5
       - uid: MIN171.9.2.1.TY.2
         subobj: 9.2.1
         type: ty
@@ -1865,6 +2029,7 @@ courses:
           C: is something that will hinder your mission.
           D: can help you to connect with God’s vision for them.
         answer: D
+        print_position: 6
       - uid: MIN171.9.2.1.TY.3
         subobj: 9.2.1
         type: ty
@@ -1875,6 +2040,7 @@ courses:
           C: being the kind of people and church that God wants you to be.
           D: choosing the best programs for the church.
         answer: C
+        print_position: 7
       - uid: MIN171.9.2.1.TY.4
         subobj: 9.2.1
         type: ty
@@ -1885,6 +2051,7 @@ courses:
           C: should not be played outside the congregation.
           D: can only be played with people you know.
         answer: A
+        print_position: 8
       - uid: MIN171.9.3.1.UPE.1
         subobj: 9.3.1
         type: upe
@@ -1895,6 +2062,8 @@ courses:
           C: written steps of action in visionary form.
           D: love for God and love for people.
         answer: D
+        print_position: 19
+        unit: 2
       - uid: MIN171.9.3.1.UPE.2
         subobj: 9.3.1
         type: upe
@@ -1916,6 +2085,7 @@ courses:
           C: The direction and empowerment of the Holy Spirit
           D: Abundant financial resources
         answer: D
+        print_position: 9
       - uid: MIN171.9.3.1.TY.2
         subobj: 9.3.1
         type: ty
@@ -1937,6 +2107,8 @@ courses:
           C: in universal principles that apply to everyone.
           D: whenever we speak.
         answer: B
+        print_position: 21
+        unit: 2
       - uid: MIN171.10.1.1.UPE.2
         subobj: 10.1.1
         type: upe
@@ -1948,6 +2120,8 @@ courses:
           C: The way that the Grow concept is expressed
           D: The way that the Serve concept is expressed
         answer: A
+        print_position: 22
+        unit: 2
       - uid: MIN171.10.1.1.TY.1
         subobj: 10.1.1
         type: ty
@@ -1958,6 +2132,7 @@ courses:
           C: establish the purpose for the church’s existence.
           D: are unrelated to vision.
         answer: B
+        print_position: 1
       - uid: MIN171.10.1.1.TY.2
         subobj: 10.1.1
         type: ty
@@ -1968,6 +2143,7 @@ courses:
           C: vision should be adjusted, rather than the core values.
           D: vision will fail.
         answer: D
+        print_position: 2
       - uid: MIN171.10.1.1.TY.3
         subobj: 10.1.1
         type: ty
@@ -1979,6 +2155,7 @@ courses:
           C: when the pastor leaves a church, it will need to rebuild its core values.
           D: those core values and biblical priorities are usually unrelated.
         answer: A
+        print_position: 3
       - uid: MIN171.10.1.1.TY.4
         subobj: 10.1.1
         type: ty
@@ -1989,6 +2166,7 @@ courses:
           C: in universal principles that apply to everyone.
           D: whenever we speak.
         answer: B
+        print_position: 4
       - uid: MIN171.10.1.1.TY.5
         subobj: 10.1.1
         type: ty
@@ -1999,6 +2177,7 @@ courses:
           C: we must be doers of the Word as well as hearers.
           D: we will seldom change how we do things.
         answer: C
+        print_position: 5
       - uid: MIN171.10.2.1.UPE.1
         subobj: 10.2.1
         type: upe
@@ -2009,6 +2188,8 @@ courses:
           C: used to help identify core values.
           D: usually related to its mission rather than core values.
         answer: C
+        print_position: 23
+        unit: 2
       - uid: MIN171.10.2.1.UPE.2
         subobj: 10.2.1
         type: upe
@@ -2019,6 +2200,8 @@ courses:
           C: the importance of prayer.
           D: the outward focus of the church.
         answer: A
+        print_position: 24
+        unit: 2
       - uid: MIN171.10.2.1.TY.1
         subobj: 10.2.1
         type: ty
@@ -2031,6 +2214,7 @@ courses:
             vision.
           D: describe the area of ministry you need to develop the most.
         answer: C
+        print_position: 6
       - uid: MIN171.10.2.1.TY.2
         subobj: 10.2.1
         type: ty
@@ -2041,6 +2225,7 @@ courses:
           C: dictated by your core values.
           D: subconsciously influenced by your vision.
         answer: C
+        print_position: 7
       - uid: MIN171.10.3.1.UPE.1
         subobj: 10.3.1
         type: upe
@@ -2051,6 +2236,8 @@ courses:
           C: can take over when strong values are lacking in a church.
           D: are usually in harmony with the work of the Spirit in Pentecostal believers.
         answer: C
+        print_position: 25
+        unit: 2
       - uid: MIN171.10.3.1.TY.1
         subobj: 10.3.1
         type: ty
@@ -2065,6 +2252,7 @@ courses:
           D: Biblical absolutes, community standards, and personal convictions should
             supplant personal beliefs and behaviors.
         answer: B
+        print_position: 8
       - uid: MIN171.10.3.1.TY.2
         subobj: 10.3.1
         type: ty
@@ -2075,6 +2263,7 @@ courses:
           C: can take over when strong values are lacking in a church.
           D: are usually in harmony with the work of the Spirit in Pentecostal believers.
         answer: C
+        print_position: 9
       - uid: MIN171.10.3.1.TY.3
         subobj: 10.3.1
         type: ty
@@ -2106,6 +2295,7 @@ courses:
           C: form the pathway from the strategic plan to the mission.
           D: describe the difference between the vision and the values.
         answer: B
+        print_position: 1
       - uid: MIN171.11.1.1.TY.2
         subobj: 11.1.1
         type: ty
@@ -2117,6 +2307,7 @@ courses:
           D: should guide both the development and implementation of the strategic
             plan.
         answer: D
+        print_position: 2
       - uid: MIN171.11.1.1.TY.3
         subobj: 11.1.1
         type: ty
@@ -2127,6 +2318,7 @@ courses:
           C: no one in the church is currently full of the Spirit.
           D: human methods have taken over the church.
         answer: B
+        print_position: 3
       - uid: MIN171.11.1.2.UPE.1
         subobj: 11.1.2
         type: upe
@@ -2137,6 +2329,8 @@ courses:
           C: take the inward focus of the church to the next level.
           D: alter the values of the church.
         answer: B
+        print_position: 2
+        unit: 3
       - uid: MIN171.11.1.2.TY.1
         subobj: 11.1.2
         type: ty
@@ -2147,6 +2341,7 @@ courses:
           C: can inspire spontaneous ministry and strategic planning.
           D: favors passion for God over developing a plan.
         answer: C
+        print_position: 4
       - uid: MIN171.11.1.2.TY.2
         subobj: 11.1.2
         type: ty
@@ -2157,6 +2352,7 @@ courses:
           C: means that the vision is faulty.
           D: is nothing more than a dream.
         answer: D
+        print_position: 5
       - uid: MIN171.11.2.1.UPE.1
         subobj: 11.2.1
         type: upe
@@ -2167,6 +2363,8 @@ courses:
           C: to nurture people to become all that God wants them to be.
           D: how to connect the values of the church to the leadership team.
         answer: C
+        print_position: 3
+        unit: 3
       - uid: MIN171.11.2.1.UPE.2
         subobj: 11.2.1
         type: upe
@@ -2178,6 +2376,8 @@ courses:
           C: a numerical growth plan in progressive stages.
           D: the biblical priority of spiritual gifts.
         answer: A
+        print_position: 4
+        unit: 3
       - uid: MIN171.11.2.1.TY.1
         subobj: 11.2.1
         type: ty
@@ -2188,6 +2388,7 @@ courses:
           C: vision, values, strategic plan, mission
           D: strategic plan, vision, mission, values
         answer: A
+        print_position: 6
       - uid: MIN171.11.2.1.TY.2
         subobj: 11.2.1
         type: ty
@@ -2198,6 +2399,7 @@ courses:
           C: the road we are on.
           D: the gasoline that fuels the car.
         answer: B
+        print_position: 7
       - uid: MIN171.11.2.1.TY.3
         subobj: 11.2.1
         type: ty
@@ -2208,6 +2410,7 @@ courses:
           C: how we are going to get to our preferred future.
           D: our vision of the future.
         answer: C
+        print_position: 8
       - uid: MIN171.11.2.1.TY.4
         subobj: 11.2.1
         type: ty
@@ -2218,6 +2421,7 @@ courses:
           C: to nurture people to become all that God wants them to be.
           D: how to connect the values of the church to the leadership team.
         answer: C
+        print_position: 9
       - uid: MIN171.11.2.1.TY.5
         subobj: 11.2.1
         type: ty
@@ -2239,6 +2443,8 @@ courses:
             God.
           D: the connection between people and the values of the church.
         answer: C
+        print_position: 5
+        unit: 3
       - uid: MIN171.12.1.1.TY.1
         subobj: 12.1.1
         type: ty
@@ -2250,6 +2456,7 @@ courses:
           D: horizontal relationships with people and a vertical relationship with
             God.
         answer: D
+        print_position: 1
       - uid: MIN171.12.1.1.TY.2
         subobj: 12.1.1
         type: ty
@@ -2260,6 +2467,7 @@ courses:
           C: the way values become the strategic plan.
           D: their attentiveness to the apostles’ teaching.
         answer: B
+        print_position: 2
       - uid: MIN171.12.1.1.TY.3
         subobj: 12.1.1
         type: ty
@@ -2271,6 +2479,7 @@ courses:
           C: love.
           D: connect.
         answer: C
+        print_position: 3
       - uid: MIN171.12.1.1.TY.4
         subobj: 12.1.1
         type: ty
@@ -2281,6 +2490,7 @@ courses:
           C: apologetics-based institution.
           D: vehicle for inspiring truth.
         answer: A
+        print_position: 4
       - uid: MIN171.12.2.1.UPE.1
         subobj: 12.2.1
         type: upe
@@ -2292,6 +2502,8 @@ courses:
           C: connect .
           D: strategic planning .
         answer: C
+        print_position: 6
+        unit: 3
       - uid: MIN171.12.2.1.TY.1
         subobj: 12.2.1
         type: ty
@@ -2303,6 +2515,7 @@ courses:
           C: Serve
           D: Go
         answer: B
+        print_position: 5
       - uid: MIN171.12.2.1.TY.2
         subobj: 12.2.1
         type: ty
@@ -2314,6 +2527,7 @@ courses:
           D: occur more today because God doesn’t do as many miracles as He did in
             the early church.
         answer: C
+        print_position: 6
       - uid: MIN171.12.2.1.TY.3
         subobj: 12.2.1
         type: ty
@@ -2324,6 +2538,7 @@ courses:
           C: is little more than a human creation.
           D: hinders us from truly connecting with God.
         answer: B
+        print_position: 7
       - uid: MIN171.12.3.1.UPE.1
         subobj: 12.3.1
         type: upe
@@ -2334,6 +2549,8 @@ courses:
           C: leaders are called to be part of the priesthood.
           D: each believer can contribute by ministering to others.
         answer: D
+        print_position: 7
+        unit: 3
       - uid: MIN171.12.3.1.UPE.2
         subobj: 12.3.1
         type: upe
@@ -2345,6 +2562,8 @@ courses:
           C: facilitated by the process called connect .
           D: part of the vision of the church rather than the mission.
         answer: C
+        print_position: 8
+        unit: 3
       - uid: MIN171.12.3.1.TY.1
         subobj: 12.3.1
         type: ty
@@ -2356,6 +2575,7 @@ courses:
           C: the overcoming life.
           D: go.
         answer: A
+        print_position: 8
       - uid: MIN171.12.3.1.TY.2
         subobj: 12.3.1
         type: ty
@@ -2366,6 +2586,7 @@ courses:
           C: If you’re not sharing the gospel message, you cannot be truly ministering.
           D: You are not a mistake; you are a masterpiece.
         answer: C
+        print_position: 9
       - uid: MIN171.12.3.1.TY.3
         subobj: 12.3.1
         type: ty
@@ -2386,6 +2607,8 @@ courses:
           C: ennobling purpose.
           D: embracing purpose.
         answer: A
+        print_position: 9
+        unit: 3
       - uid: MIN171.13.1.1.UPE.2
         subobj: 13.1.1
         type: upe
@@ -2396,6 +2619,8 @@ courses:
           C: dimension of behavioral activity.
           D: dimension of life in the Spirit.
         answer: D
+        print_position: 10
+        unit: 3
       - uid: MIN171.13.1.1.TY.1
         subobj: 13.1.1
         type: ty
@@ -2406,6 +2631,7 @@ courses:
           C: the basis of transformation.
           D: incomplete without life in the Spirit.
         answer: D
+        print_position: 1
       - uid: MIN171.13.1.1.TY.2
         subobj: 13.1.1
         type: ty
@@ -2416,6 +2642,7 @@ courses:
           C: ennobling purpose.
           D: embracing purpose.
         answer: A
+        print_position: 2
       - uid: MIN171.13.1.1.TY.3
         subobj: 13.1.1
         type: ty
@@ -2426,6 +2653,7 @@ courses:
           C: the process of Serve being transformed into Connect.
           D: following the path of greatest resistance.
         answer: A
+        print_position: 3
       - uid: MIN171.13.2.1.UPE.1
         subobj: 13.2.1
         type: upe
@@ -2436,6 +2664,8 @@ courses:
           C: is a key aspect of discipleship.
           D: begins in the heart and transfers to the mind.
         answer: C
+        print_position: 11
+        unit: 3
       - uid: MIN171.13.2.1.TY.1
         subobj: 13.2.1
         type: ty
@@ -2447,6 +2677,7 @@ courses:
           C: the work of God.
           D: the omnipotence of God.
         answer: B
+        print_position: 4
       - uid: MIN171.13.2.1.TY.2
         subobj: 13.2.1
         type: ty
@@ -2458,6 +2689,7 @@ courses:
           C: embrace, encourage, and experience.
           D: belong, believe, and become.
         answer: D
+        print_position: 5
       - uid: MIN171.13.2.1.TY.3
         subobj: 13.2.1
         type: ty
@@ -2469,6 +2701,7 @@ courses:
           C: express.
           D: elevate.
         answer: C
+        print_position: 6
       - uid: MIN171.13.2.1.TY.4
         subobj: 13.2.1
         type: ty
@@ -2479,6 +2712,7 @@ courses:
           C: is a key aspect of discipleship.
           D: begins in the heart and transfers to the mind.
         answer: C
+        print_position: 7
       - uid: MIN171.13.2.2.UPE.1
         subobj: 13.2.2
         type: upe
@@ -2490,6 +2724,8 @@ courses:
           C: cultural distinctives.
           D: having an individualized long-term strategic plan.
         answer: B
+        print_position: 12
+        unit: 3
       - uid: MIN171.13.2.2.TY.1
         subobj: 13.2.2
         type: ty
@@ -2500,6 +2736,7 @@ courses:
           C: occurs primarily through knowledge and behavior.
           D: is only for adults.
         answer: A
+        print_position: 8
       - uid: MIN171.13.2.2.TY.2
         subobj: 13.2.2
         type: ty
@@ -2511,6 +2748,7 @@ courses:
           C: alone.
           D: temporal.
         answer: C
+        print_position: 9
       - uid: MIN171.13.3.1.UPE.1
         subobj: 13.3.1
         type: upe
@@ -2521,6 +2759,8 @@ courses:
           C: should be included at various age levels in the church.
           D: should be the main purpose of connect .
         answer: C
+        print_position: 13
+        unit: 3
       - uid: MIN171.13.3.1.TY.1
         subobj: 13.3.1
         type: ty
@@ -2541,6 +2781,8 @@ courses:
           C: the basis of transformation.
           D: unrelated to growth.
         answer: B
+        print_position: 14
+        unit: 3
       - uid: MIN171.14.1.1.TY.1
         subobj: 14.1.1
         type: ty
@@ -2551,6 +2793,7 @@ courses:
           C: the concept behind Connect.
           D: a key part of our role as church leaders.
         answer: D
+        print_position: 1
       - uid: MIN171.14.1.1.TY.2
         subobj: 14.1.1
         type: ty
@@ -2562,6 +2805,7 @@ courses:
           C: priesthood of all believers.
           D: status and stature of the leader.
         answer: C
+        print_position: 2
       - uid: MIN171.14.1.1.TY.3
         subobj: 14.1.1
         type: ty
@@ -2573,6 +2817,7 @@ courses:
           C: a top-down authority structure.
           D: increased funding.
         answer: A
+        print_position: 3
       - uid: MIN171.14.1.1.TY.4
         subobj: 14.1.1
         type: ty
@@ -2584,6 +2829,7 @@ courses:
           C: a dynamic team.
           D: process discipleship.
         answer: C
+        print_position: 4
       - uid: MIN171.14.1.2.UPE.1
         subobj: 14.1.2
         type: upe
@@ -2594,6 +2840,8 @@ courses:
           C: affects some areas of leadership but not others.
           D: is reflected primarily in the New Testament epistles.
         answer: B
+        print_position: 15
+        unit: 3
       - uid: MIN171.14.1.2.TY.1
         subobj: 14.1.2
         type: ty
@@ -2604,6 +2852,7 @@ courses:
           C: affects some areas of leadership but not others.
           D: is reflected primarily in the New Testament epistles.
         answer: B
+        print_position: 5
       - uid: MIN171.14.1.2.TY.2
         subobj: 14.1.2
         type: ty
@@ -2614,6 +2863,7 @@ courses:
           C: magnifying the greatness of God.
           D: channeling it towards service.
         answer: D
+        print_position: 6
       - uid: MIN171.14.2.1.UPE.1
         subobj: 14.2.1
         type: upe
@@ -2624,6 +2874,8 @@ courses:
           C: is usually based on a consumer mentality.
           D: relates to higher callings rather than basic areas of service.
         answer: B
+        print_position: 16
+        unit: 3
       - uid: MIN171.14.2.1.TY.1
         subobj: 14.2.1
         type: ty
@@ -2634,6 +2886,7 @@ courses:
           C: is usually based on a consumer mentality.
           D: relates to higher callings rather than basic areas of service.
         answer: A
+        print_position: 7
       - uid: MIN171.14.2.1.TY.2
         subobj: 14.2.1
         type: ty
@@ -2645,6 +2898,7 @@ courses:
           C: unique life experiences.
           D: plans for the future.
         answer: C
+        print_position: 8
       - uid: MIN171.14.3.1.UPE.1
         subobj: 14.3.1
         type: upe
@@ -2655,6 +2909,8 @@ courses:
           C: are useful in the process known as serve .
           D: form the pathway from values to secondary goals.
         answer: C
+        print_position: 17
+        unit: 3
       - uid: MIN171.14.3.1.TY.1
         subobj: 14.3.1
         type: ty
@@ -2666,6 +2922,7 @@ courses:
           C: not be accurate based on gender.
           D: increase the risk of mismanagement.
         answer: A
+        print_position: 9
       - uid: MIN171.14.3.1.TY.2
         subobj: 14.3.1
         type: ty
@@ -2686,6 +2943,8 @@ courses:
           C: focuses on helping believers to connect with one another.
           D: focuses on gift-oriented ministry.
         answer: A
+        print_position: 18
+        unit: 3
       - uid: MIN171.15.1.1.UPE.2
         subobj: 15.1.1
         type: upe
@@ -2696,6 +2955,8 @@ courses:
           C: investing in the lives of unchurched people is inconvenient and messy.
           D: Christians are too vocal in the workplace.
         answer: C
+        print_position: 19
+        unit: 3
       - uid: MIN171.15.1.1.TY.1
         subobj: 15.1.1
         type: ty
@@ -2706,6 +2967,7 @@ courses:
           C: using their growth and maturation to help younger believers grow.
           D: and maintain their focus on those already attending the church.
         answer: C
+        print_position: 1
       - uid: MIN171.15.1.1.TY.2
         subobj: 15.1.1
         type: ty
@@ -2716,6 +2978,7 @@ courses:
           C: helps believers to serve one another.
           D: takes priority over all other processes.
         answer: A
+        print_position: 2
       - uid: MIN171.15.2.1.UPE.1
         subobj: 15.2.1
         type: upe
@@ -2726,6 +2989,8 @@ courses:
           C: evangelizing without an ongoing relationship connection.
           D: witnessing to people at work.
         answer: C
+        print_position: 20
+        unit: 3
       - uid: MIN171.15.2.1.TY.1
         subobj: 15.2.1
         type: ty
@@ -2737,6 +3002,7 @@ courses:
           D: growing a friendship with one of your coworkers and then sharing Christ
             with that individual.
         answer: D
+        print_position: 3
       - uid: MIN171.15.2.1.TY.2
         subobj: 15.2.1
         type: ty
@@ -2747,6 +3013,7 @@ courses:
           C: difficulty and cost of large scale outreaches.
           D: infrequency of short-term missions projects.
         answer: B
+        print_position: 4
       - uid: MIN171.15.2.1.TY.3
         subobj: 15.2.1
         type: ty
@@ -2758,6 +3025,7 @@ courses:
           C: city-wide outreaches.
           D: food shelf ministries.
         answer: B
+        print_position: 5
       - uid: MIN171.15.2.1.TY.4
         subobj: 15.2.1
         type: ty
@@ -2769,6 +3037,7 @@ courses:
           C: should be aimed first of all toward the Christians in the neighborhood.
           D: is seldom as effective as door-to-door efforts to share the Gospel.
         answer: A
+        print_position: 6
       - uid: MIN171.15.2.1.TY.5
         subobj: 15.2.1
         type: ty
@@ -2780,6 +3049,7 @@ courses:
           C: personal crisis.
           D: a personal invitation.
         answer: D
+        print_position: 7
       - uid: MIN171.15.3.1.UPE.1
         subobj: 15.3.1
         type: upe
@@ -2790,6 +3060,8 @@ courses:
           C: use them to address the weaknesses of the church.
           D: become the most visible church in town.
         answer: B
+        print_position: 21
+        unit: 3
       - uid: MIN171.15.3.1.TY.1
         subobj: 15.3.1
         type: ty
@@ -2800,6 +3072,7 @@ courses:
           C: are seldom utilized in smaller congregations.
           D: can be utilized to meet needs in the community.
         answer: D
+        print_position: 8
       - uid: MIN171.15.3.1.TY.2
         subobj: 15.3.1
         type: ty
@@ -2810,6 +3083,7 @@ courses:
           C: use them to address the weaknesses of the church.
           D: be better at something than the other churches in town.
         answer: B
+        print_position: 9
       - uid: MIN171.15.3.1.TY.3
         subobj: 15.3.1
         type: ty
@@ -2831,6 +3105,8 @@ courses:
           C: expressing the proper emotions to God.
           D: emphasizing the music that glorifies the King of kings.
         answer: B
+        print_position: 23
+        unit: 3
       - uid: MIN171.16.1.1.TY.1
         subobj: 16.1.1
         type: ty
@@ -2841,6 +3117,7 @@ courses:
           C: honor with melodies of praise.
           D: laud and magnify the King of Kings.
         answer: A
+        print_position: 1
       - uid: MIN171.16.1.1.TY.2
         subobj: 16.1.1
         type: ty
@@ -2851,6 +3128,7 @@ courses:
           C: a lifestyle.
           D: primarily expressed through music.
         answer: C
+        print_position: 2
       - uid: MIN171.16.1.1.TY.3
         subobj: 16.1.1
         type: ty
@@ -2861,6 +3139,7 @@ courses:
           C: ineffable.
           D: holy.
         answer: D
+        print_position: 3
       - uid: MIN171.16.1.1.TY.4
         subobj: 16.1.1
         type: ty
@@ -2871,6 +3150,7 @@ courses:
           C: can lead to shallow discipleship and evangelism.
           D: leads to unhealthy ritualism.
         answer: C
+        print_position: 4
       - uid: MIN171.16.1.1.TY.5
         subobj: 16.1.1
         type: ty
@@ -2881,6 +3161,7 @@ courses:
           C: drawing people to your church through musical preferences.
           D: holding worship services in parks and community centers.
         answer: A
+        print_position: 5
       - uid: MIN171.16.2.1.UPE.1
         subobj: 16.2.1
         type: upe
@@ -2891,6 +3172,8 @@ courses:
           C: one of the chief expressions of worship.
           D: often emphasized today to the exclusion of worship.
         answer: C
+        print_position: 24
+        unit: 3
       - uid: MIN171.16.2.1.TY.1
         subobj: 16.2.1
         type: ty
@@ -2901,6 +3184,7 @@ courses:
           C: should come after preaching in the order of service.
           D: nothing like the extravagant, public show of the Pharisees.
         answer: D
+        print_position: 6
       - uid: MIN171.16.2.1.TY.2
         subobj: 16.2.1
         type: ty
@@ -2911,6 +3195,7 @@ courses:
           C: prepares us for personal empowerment by the Spirit.
           D: is not an aspect of worship.
         answer: C
+        print_position: 7
       - uid: MIN171.16.2.1.TY.3
         subobj: 16.2.1
         type: ty
@@ -2921,6 +3206,7 @@ courses:
           C: holiness.
           D: affirmation.
         answer: B
+        print_position: 8
       - uid: MIN171.16.2.1.TY.4
         subobj: 16.2.1
         type: ty
@@ -2931,6 +3217,7 @@ courses:
           C: isn’t determined by length.
           D: will leave no time for preaching.
         answer: C
+        print_position: 9
       - uid: MIN171.16.2.1.TY.5
         subobj: 16.2.1
         type: ty
@@ -2951,6 +3238,8 @@ courses:
           C: must be reviewed and renewed again and again.
           D: will be altered as the mission is changed.
         answer: C
+        print_position: 22
+        unit: 3
       - uid: MIN171.17.1.1.TY.1
         subobj: 17.1.1
         type: ty
@@ -2981,6 +3270,7 @@ courses:
           C: must be reviewed and renewed again and again.
           D: will be altered as the mission is changed.
         answer: C
+        print_position: 3
       - uid: MIN171.17.1.1.TY.4
         subobj: 17.1.1
         type: ty
@@ -2991,6 +3281,7 @@ courses:
           C: personal vision statement of the pastor.
           D: biblical statements that are defined by the vision.
         answer: A
+        print_position: 4
       - uid: MIN171.17.1.1.TY.5
         subobj: 17.1.1
         type: ty
@@ -3001,6 +3292,7 @@ courses:
           C: the strategic plans to fulfill the vision.
           D: the priorities that govern our behavior along the way.
         answer: D
+        print_position: 5
       - uid: MIN171.17.1.1.TY.6
         subobj: 17.1.1
         type: ty
@@ -3011,6 +3303,7 @@ courses:
           C: concise mission statement.
           D: job descriptions provided by the board.
         answer: A
+        print_position: 6
       - uid: MIN171.17.2.1.UPE.1
         subobj: 17.2.1
         type: upe
@@ -3021,6 +3314,8 @@ courses:
           C: concise mission statement.
           D: strategic plan.
         answer: D
+        print_position: 25
+        unit: 3
       - uid: MIN171.17.2.1.TY.1
         subobj: 17.2.1
         type: ty
@@ -3031,6 +3326,7 @@ courses:
           C: what a life connected to God looks like.
           D: the steps that are needed to become a disciple.
         answer: C
+        print_position: 7
       - uid: MIN171.17.2.1.TY.2
         subobj: 17.2.1
         type: ty
@@ -3042,6 +3338,7 @@ courses:
           C: The strategic plan
           D: The numerical strength of the church
         answer: B
+        print_position: 8
       - uid: MIN171.17.2.1.TY.3
         subobj: 17.2.1
         type: ty
@@ -3053,6 +3350,7 @@ courses:
           C: worship.
           D: serve.
         answer: B
+        print_position: 9
       - uid: MIN171.17.2.1.TY.4
         subobj: 17.2.1
         type: ty
@@ -3064,6 +3362,7 @@ courses:
           C: are the fuel that empowers us to fulfill the mission.
           D: cannot be changed.
         answer: A
+      captured: reparse
     - pn: 02.26.02
       course_code: MIN171
       source_html: BMIN171ENE02-90_02.26.02.html
@@ -3084,6 +3383,8 @@ courses:
           C: the spiritual gifts.
           D: the five functions described in Acts 2.
         answer: D
+        print_position: 1
+        unit: 1
       - uid: MIN171.1.1.1.UPE.2
         subobj: 1.1.1
         type: upe
@@ -3094,6 +3395,8 @@ courses:
           C: a building, and ministry coordinators.
           D: and community support.
         answer: A
+        print_position: 2
+        unit: 1
       - uid: MIN171.1.1.2.TY.1
         subobj: 1.1.2
         type: ty
@@ -3104,6 +3407,7 @@ courses:
           C: impact on its world.
           D: lack of hardships.
         answer: C
+        print_position: 1
       - uid: MIN171.1.1.2.TY.2
         subobj: 1.1.2
         type: ty
@@ -3115,6 +3419,7 @@ courses:
           C: the cooperation of the pastor and board of the church.
           D: the five functions described in Acts 2 message.
         answer: D
+        print_position: 2
       - uid: MIN171.1.1.2.TY.3
         subobj: 1.1.2
         type: ty
@@ -3125,6 +3430,7 @@ courses:
           C: a building, and ministry coordinators.
           D: and community support.
         answer: A
+        print_position: 3
       - uid: MIN171.1.2.1.UPE.1
         subobj: 1.2.1
         type: upe
@@ -3136,6 +3442,8 @@ courses:
           C: Connect
           D: Serve
         answer: D
+        print_position: 3
+        unit: 1
       - uid: MIN171.1.2.1.UPE.2
         subobj: 1.2.1
         type: upe
@@ -3147,6 +3455,8 @@ courses:
           C: connect .
           D: serve .
         answer: D
+        print_position: 5
+        unit: 1
       - uid: MIN171.1.2.1.TY.1
         subobj: 1.2.1
         type: ty
@@ -3158,6 +3468,7 @@ courses:
           C: individual believers to the corporate body.
           D: Jerusalem to the risen Christ.
         answer: B
+        print_position: 4
       - uid: MIN171.1.2.1.TY.2
         subobj: 1.2.1
         type: ty
@@ -3168,6 +3479,7 @@ courses:
           C: Spirit-led service.
           D: the human dimension of church life.
         answer: A
+        print_position: 5
       - uid: MIN171.1.2.1.TY.3
         subobj: 1.2.1
         type: ty
@@ -3179,6 +3491,7 @@ courses:
           C: Serve and Worship.
           D: Go and Connect.
         answer: B
+        print_position: 6
       - uid: MIN171.1.2.1.TY.4
         subobj: 1.2.1
         type: ty
@@ -3189,6 +3502,7 @@ courses:
           C: moving from a temple model to a church model.
           D: global and local missions.
         answer: B
+        print_position: 7
       - uid: MIN171.1.2.2.UPE.1
         subobj: 1.2.2
         type: upe
@@ -3199,6 +3513,8 @@ courses:
           C: both necessary for a healthy church.
           D: based on essentially the same characteristics.
         answer: C
+        print_position: 4
+        unit: 1
       - uid: MIN171.1.2.2.UPE.2
         subobj: 1.2.2
         type: upe
@@ -3209,6 +3525,8 @@ courses:
           C: empowerment by the Spirit to be successful.
           D: adapting the Acts 2 process to contemporary culture.
         answer: C
+        print_position: 6
+        unit: 1
       - uid: MIN171.1.2.2.TY.1
         subobj: 1.2.2
         type: ty
@@ -3219,6 +3537,7 @@ courses:
           C: biblical.
           D: indescribable.
         answer: C
+        print_position: 8
       - uid: MIN171.1.2.2.TY.2
         subobj: 1.2.2
         type: ty
@@ -3229,6 +3548,7 @@ courses:
           C: both necessary for a healthy church.
           D: based on essentially the same characteristics.
         answer: C
+        print_position: 9
       - uid: MIN171.1.2.2.TY.3
         subobj: 1.2.2
         type: ty
@@ -3250,6 +3570,8 @@ courses:
           C: utilizing the gifts of the Spirit more consistently.
           D: empathy with those who are suffering.
         answer: A
+        print_position: 7
+        unit: 1
       - uid: MIN171.2.1.1.UPE.2
         subobj: 2.1.1
         type: upe
@@ -3260,6 +3582,8 @@ courses:
           C: wisdom.
           D: hope.
         answer: B
+        print_position: 8
+        unit: 1
       - uid: MIN171.2.1.1.TY.1
         subobj: 2.1.1
         type: ty
@@ -3271,6 +3595,7 @@ courses:
           C: those people who have been a problem
           D: those who claim to be Christians
         answer: B
+        print_position: 1
       - uid: MIN171.2.1.1.TY.2
         subobj: 2.1.1
         type: ty
@@ -3281,6 +3606,7 @@ courses:
           C: pastors equip people to do the work of ministry.
           D: only the most mature and experienced people serve in ministry.
         answer: C
+        print_position: 2
       - uid: MIN171.2.1.1.TY.3
         subobj: 2.1.1
         type: ty
@@ -3292,6 +3618,7 @@ courses:
           C: utilizing the gifts of the Spirit more consistently.
           D: empathy with those who are suffering.
         answer: A
+        print_position: 3
       - uid: MIN171.2.2.1.UPE.1
         subobj: 2.2.1
         type: upe
@@ -3302,6 +3629,8 @@ courses:
           C: the pressing need for radical change.
           D: the call to overseas missions.
         answer: C
+        print_position: 9
+        unit: 1
       - uid: MIN171.2.2.1.UPE.2
         subobj: 2.2.1
         type: upe
@@ -3313,6 +3642,8 @@ courses:
             friends.
           D: media saturation and internet connections.
         answer: C
+        print_position: 10
+        unit: 1
       - uid: MIN171.2.2.1.UPE.3
         subobj: 2.2.1
         type: upe
@@ -3323,6 +3654,8 @@ courses:
           C: an inward focus in Christ’s church.
           D: leading from behind.
         answer: A
+        print_position: 11
+        unit: 1
       - uid: MIN171.2.2.1.TY.1
         subobj: 2.2.1
         type: ty
@@ -3333,6 +3666,7 @@ courses:
           C: Pursue and obey God passionately
           D: Act with clear direction and inward focus.
         answer: D
+        print_position: 4
       - uid: MIN171.2.2.1.TY.2
         subobj: 2.2.1
         type: ty
@@ -3343,6 +3677,7 @@ courses:
           C: a pressing need for radical change.
           D: the call to overseas missions.
         answer: C
+        print_position: 5
       - uid: MIN171.2.2.1.TY.3
         subobj: 2.2.1
         type: ty
@@ -3354,6 +3689,7 @@ courses:
             church property.
           D: is most effective among people that are unknown to the congregation.
         answer: A
+        print_position: 6
       - uid: MIN171.2.2.1.TY.4
         subobj: 2.2.1
         type: ty
@@ -3366,6 +3702,7 @@ courses:
           C: pastors do not understand real people like we do.
           D: pastors are too important to do the easier things in ministry.
         answer: B
+        print_position: 7
       - uid: MIN171.2.2.1.TY.5
         subobj: 2.2.1
         type: ty
@@ -3376,6 +3713,7 @@ courses:
           C: can work together with the leading of the Spirit.
           D: leads inevitably to unhealthy traditions.
         answer: C
+        print_position: 8
       - uid: MIN171.2.2.1.TY.6
         subobj: 2.2.1
         type: ty
@@ -3389,6 +3727,7 @@ courses:
           D: God has given each church unique gifts, abilities, experiences, and opportunities
             and wants to use what he has given us to fulfill His mission.
         answer: D
+        print_position: 9
       - uid: MIN171.2.2.1.TY.7
         subobj: 2.2.1
         type: ty
@@ -3412,6 +3751,8 @@ courses:
           C: lead people away from the sense of ownership.
           D: teach people what they can receive.
         answer: A
+        print_position: 12
+        unit: 1
       - uid: MIN171.3.1.1.UPE.2
         subobj: 3.1.1
         type: upe
@@ -3422,6 +3763,8 @@ courses:
           C: the pastor exists to help people fulfill their callings.
           D: everyone has equal authority in the church.
         answer: C
+        print_position: 13
+        unit: 1
       - uid: MIN171.3.1.1.UPE.3
         subobj: 3.1.1
         type: upe
@@ -3433,6 +3776,8 @@ courses:
           C: the church becomes healthier and more alive.
           D: fewer paid staff will be needed.
         answer: C
+        print_position: 14
+        unit: 1
       - uid: MIN171.3.1.1.TY.1
         subobj: 3.1.1
         type: ty
@@ -3444,6 +3789,7 @@ courses:
           C: the church becomes healthier.
           D: the paid staff will feel like they are no longer needed.
         answer: C
+        print_position: 1
       - uid: MIN171.3.1.1.TY.2
         subobj: 3.1.1
         type: ty
@@ -3455,6 +3801,7 @@ courses:
           C: the expanding open door.
           D: the priesthood of all believers.
         answer: D
+        print_position: 2
       - uid: MIN171.3.1.1.TY.3
         subobj: 3.1.1
         type: ty
@@ -3465,6 +3812,7 @@ courses:
           C: lead people away from the sense of ownership.
           D: teach people what they can receive.
         answer: A
+        print_position: 3
       - uid: MIN171.3.2.1.UPE.1
         subobj: 3.2.1
         type: upe
@@ -3475,6 +3823,8 @@ courses:
           C: can serve as sounding boards in the community.
           D: will need less accountability in regard to character issues.
         answer: A
+        print_position: 15
+        unit: 1
       - uid: MIN171.3.2.1.UPE.2
         subobj: 3.2.1
         type: upe
@@ -3485,6 +3835,8 @@ courses:
           C: the time when a pastor resigns and ministries are reevaluated.
           D: the time when a person becomes too tired to continue in a ministry.
         answer: B
+        print_position: 16
+        unit: 1
       - uid: MIN171.3.2.1.TY.1
         subobj: 3.2.1
         type: ty
@@ -3497,6 +3849,7 @@ courses:
           D: Continue to focus on equipping people for the work of ministry, in spite
             of such resistance.
         answer: D
+        print_position: 4
       - uid: MIN171.3.2.1.TY.2
         subobj: 3.2.1
         type: ty
@@ -3507,6 +3860,7 @@ courses:
           C: people who are willing to invest in the church.
           D: processes that flow to the greatest areas of need.
         answer: B
+        print_position: 5
       - uid: MIN171.3.2.1.TY.3
         subobj: 3.2.1
         type: ty
@@ -3517,6 +3871,7 @@ courses:
           C: creating ministry agreements for those involved in various ministries.
           D: walking through the Acts 2 process with individuals.
         answer: C
+        print_position: 6
       - uid: MIN171.3.2.1.TY.4
         subobj: 3.2.1
         type: ty
@@ -3528,6 +3883,7 @@ courses:
             at ministry work.
           D: the purposes of God are thwarted.
         answer: D
+        print_position: 7
       - uid: MIN171.3.2.1.TY.5
         subobj: 3.2.1
         type: ty
@@ -3539,6 +3895,7 @@ courses:
           C: People will experience greater growth as disciples of Jesus.
           D: The local church’s impact on its community increases.
         answer: B
+        print_position: 8
       - uid: MIN171.3.2.1.TY.6
         subobj: 3.2.1
         type: ty
@@ -3550,6 +3907,7 @@ courses:
           C: to provide clear direction, and gentle correction when necessary.
           D: to manage expectations in such a way that accountability is natural.
         answer: C
+        print_position: 9
       - uid: MIN171.3.2.1.TY.7
         subobj: 3.2.1
         type: ty
@@ -3575,6 +3933,8 @@ courses:
           C: spirituality.
           D: morale.
         answer: D
+        print_position: 17
+        unit: 1
       - uid: MIN171.4.1.1.UPE.2
         subobj: 4.1.1
         type: upe
@@ -3585,6 +3945,8 @@ courses:
           C: exercise.
           D: accountability.
         answer: B
+        print_position: 18
+        unit: 1
       - uid: MIN171.4.1.1.UPE.3
         subobj: 4.1.1
         type: upe
@@ -3596,6 +3958,8 @@ courses:
           C: 500,000.
           D: 1,000,000.
         answer: D
+        print_position: 19
+        unit: 1
       - uid: MIN171.4.1.1.TY.1
         subobj: 4.1.1
         type: ty
@@ -3607,6 +3971,7 @@ courses:
           C: finding people to fill ministry positions.
           D: addressing false teaching that was prevalent.
         answer: A
+        print_position: 1
       - uid: MIN171.4.1.1.TY.2
         subobj: 4.1.1
         type: ty
@@ -3618,6 +3983,7 @@ courses:
           C: peace.
           D: morale.
         answer: D
+        print_position: 2
       - uid: MIN171.4.1.1.TY.3
         subobj: 4.1.1
         type: ty
@@ -3628,6 +3994,7 @@ courses:
           C: exercise.
           D: an educational process.
         answer: B
+        print_position: 3
       - uid: MIN171.4.1.1.TY.4
         subobj: 4.1.1
         type: ty
@@ -3639,6 +4006,7 @@ courses:
           C: Character established on God’s Word
           D: A moral failure in leadership
         answer: C
+        print_position: 4
       - uid: MIN171.4.1.1.TY.5
         subobj: 4.1.1
         type: ty
@@ -3649,6 +4017,7 @@ courses:
           C: character builds perseverance.
           D: hope grows from character.
         answer: D
+        print_position: 5
       - uid: MIN171.4.1.1.TY.6
         subobj: 4.1.1
         type: ty
@@ -3660,6 +4029,7 @@ courses:
           C: that have existed for five decades or more.
           D: that have low morale.
         answer: B
+        print_position: 6
       - uid: MIN171.4.2.1.UPE.1
         subobj: 4.2.1
         type: upe
@@ -3670,6 +4040,8 @@ courses:
           C: requires only the power of the Holy Spirit.
           D: is not relevant in some cultures today.
         answer: B
+        print_position: 20
+        unit: 1
       - uid: MIN171.4.2.1.TY.1
         subobj: 4.2.1
         type: ty
@@ -3680,6 +4052,7 @@ courses:
           C: budget should match its future vision.
           D: advertising should match its current activities.
         answer: A
+        print_position: 7
       - uid: MIN171.4.2.1.TY.2
         subobj: 4.2.1
         type: ty
@@ -3690,6 +4063,7 @@ courses:
           C: Church size is a good indication of hope.
           D: Low morale is seldom overcome in declining churches.
         answer: B
+        print_position: 8
       - uid: MIN171.4.2.1.TY.3
         subobj: 4.2.1
         type: ty
@@ -3702,6 +4076,7 @@ courses:
             as the first-century church.
           D: have hindsight and can learn from the mistakes of the past.
         answer: C
+        print_position: 9
       - uid: MIN171.4.2.1.TY.4
         subobj: 4.2.1
         type: ty
@@ -3722,6 +4097,8 @@ courses:
           C: a combination of beliefs and behaviors.
           D: not a primary focus of the Acts 2 Journey.
         answer: B
+        print_position: 21
+        unit: 1
       - uid: MIN171.5.1.1.TY.1
         subobj: 5.1.1
         type: ty
@@ -3733,6 +4110,7 @@ courses:
           C: the Holy Spirit will help us say more than we can know.
           D: the Holy Spirit will help us to be more than we are.
         answer: B
+        print_position: 1
       - uid: MIN171.5.1.1.TY.2
         subobj: 5.1.1
         type: ty
@@ -3743,6 +4121,7 @@ courses:
           C: strategic plan for future ministry.
           D: return to their old lives now that Jesus had ascended.
         answer: A
+        print_position: 2
       - uid: MIN171.5.1.1.TY.3
         subobj: 5.1.1
         type: ty
@@ -3754,6 +4133,7 @@ courses:
           C: They fellowshipped together regularly.
           D: They grew exponentially.
         answer: D
+        print_position: 3
       - uid: MIN171.5.2.1.UPE.1
         subobj: 5.2.1
         type: upe
@@ -3764,6 +4144,8 @@ courses:
           C: focuses completely on the individual.
           D: is occurring less and less frequently today.
         answer: A
+        print_position: 22
+        unit: 1
       - uid: MIN171.5.2.1.TY.1
         subobj: 5.2.1
         type: ty
@@ -3775,6 +4157,7 @@ courses:
           C: without a growing relationship with Christ.
           D: unless they lead to achieving greater respect in the community.
         answer: C
+        print_position: 4
       - uid: MIN171.5.2.1.TY.2
         subobj: 5.2.1
         type: ty
@@ -3785,6 +4168,7 @@ courses:
           C: a combination of beliefs and behaviors.
           D: not a primary focus of the Acts 2 Journey.
         answer: B
+        print_position: 5
       - uid: MIN171.5.2.1.TY.3
         subobj: 5.2.1
         type: ty
@@ -3795,6 +4179,7 @@ courses:
           C: changing beliefs and goals leads to radical transformation.
           D: knowledge, behavior, and relationships can grow.
         answer: B
+        print_position: 6
       - uid: MIN171.5.2.1.TY.4
         subobj: 5.2.1
         type: ty
@@ -3806,6 +4191,7 @@ courses:
           C: it may be that transformation really is not possible.
           D: transformation begins in the hearts of the people.
         answer: D
+        print_position: 7
       - uid: MIN171.5.2.2.UPE.1
         subobj: 5.2.2
         type: upe
@@ -3817,6 +4203,8 @@ courses:
           C: Connect .
           D: Go .
         answer: C
+        print_position: 23
+        unit: 1
       - uid: MIN171.5.2.2.TY.1
         subobj: 5.2.2
         type: ty
@@ -3828,6 +4216,7 @@ courses:
           C: connect.
           D: go.
         answer: A
+        print_position: 8
       - uid: MIN171.5.3.1.UPE.1
         subobj: 5.3.1
         type: upe
@@ -3838,6 +4227,8 @@ courses:
           C: message of empowerment rather than a blueprint.
           D: message of empowerment and a blueprint.
         answer: D
+        print_position: 24
+        unit: 1
       - uid: MIN171.5.3.1.UPE.2
         subobj: 5.3.1
         type: upe
@@ -3848,6 +4239,8 @@ courses:
           C: can lead us to connection with the Spirit and greater empowerment.
           D: will typically frustrate the Acts 2 process.
         answer: C
+        print_position: 25
+        unit: 1
       - uid: MIN171.5.3.1.TY.1
         subobj: 5.3.1
         type: ty
@@ -3860,6 +4253,7 @@ courses:
           D: believers no longer need one another and should pursue God’s purpose
             on their own.
         answer: A
+        print_position: 9
       - uid: MIN171.5.3.1.TY.2
         subobj: 5.3.1
         type: ty
@@ -3880,6 +4274,8 @@ courses:
           C: is primarily based on knowledge gained from mentors.
           D: is unrelated to Spirit empowerment.
         answer: B
+        print_position: 1
+        unit: 2
       - uid: MIN171.6.1.1.TY.1
         subobj: 6.1.1
         type: ty
@@ -3890,6 +4286,7 @@ courses:
           C: is primarily based on knowledge gained from mentors.
           D: is unrelated to Spirit-empowerment.
         answer: B
+        print_position: 1
       - uid: MIN171.6.1.2.UPE.1
         subobj: 6.1.2
         type: upe
@@ -3901,6 +4298,8 @@ courses:
           C: human intuition.
           D: respectability.
         answer: D
+        print_position: 2
+        unit: 2
       - uid: MIN171.6.1.2.TY.1
         subobj: 6.1.2
         type: ty
@@ -3911,6 +4310,7 @@ courses:
           C: tests our abilities and strengths.
           D: is an opportunity to demonstrate our dependence on the Holy Spirit.
         answer: D
+        print_position: 2
       - uid: MIN171.6.1.2.TY.2
         subobj: 6.1.2
         type: ty
@@ -3922,6 +4322,7 @@ courses:
           C: human intuition.
           D: respectability.
         answer: D
+        print_position: 3
       - uid: MIN171.6.1.2.TY.3
         subobj: 6.1.2
         type: ty
@@ -3932,6 +4333,7 @@ courses:
           C: as a temporary empowerment for specific situations.
           D: only to those who are fully sanctified.
         answer: A
+        print_position: 4
       - uid: MIN171.6.2.1.UPE.1
         subobj: 6.2.1
         type: upe
@@ -3943,6 +4345,8 @@ courses:
           C: disciples.
           D: servant-leaders.
         answer: D
+        print_position: 3
+        unit: 2
       - uid: MIN171.6.2.1.UPE.2
         subobj: 6.2.1
         type: upe
@@ -3953,6 +4357,8 @@ courses:
           C: the people outside the church.
           D: how we can simplify our structures.
         answer: C
+        print_position: 4
+        unit: 2
       - uid: MIN171.6.2.1.TY.1
         subobj: 6.2.1
         type: ty
@@ -3964,6 +4370,7 @@ courses:
           C: believers.
           D: unbelievers.
         answer: C
+        print_position: 5
       - uid: MIN171.6.2.1.TY.2
         subobj: 6.2.1
         type: ty
@@ -3975,6 +4382,7 @@ courses:
           C: disciples.
           D: servant-leaders.
         answer: C
+        print_position: 6
       - uid: MIN171.6.2.1.TY.3
         subobj: 6.2.1
         type: ty
@@ -3986,6 +4394,7 @@ courses:
           C: disciples.
           D: servant-leaders.
         answer: B
+        print_position: 7
       - uid: MIN171.6.2.1.TY.4
         subobj: 6.2.1
         type: ty
@@ -3996,6 +4405,7 @@ courses:
           C: mainly for pastors and ministry leaders.
           D: the key to achieving success in this world.
         answer: A
+        print_position: 8
       - uid: MIN171.6.2.1.TY.5
         subobj: 6.2.1
         type: ty
@@ -4007,6 +4417,7 @@ courses:
           C: humanity is becoming less stable and more erratic.
           D: people are hungry for something or someone greater than themselves.
         answer: D
+        print_position: 9
       - uid: MIN171.6.3.1.UPE.1
         subobj: 6.3.1
         type: upe
@@ -4017,6 +4428,8 @@ courses:
           C: is infrequent and should not be relied on.
           D: is missing from this generation.
         answer: B
+        print_position: 5
+        unit: 2
       - uid: MIN171.6.3.1.TY.1
         subobj: 6.3.1
         type: ty
@@ -4037,6 +4450,8 @@ courses:
           C: sort out why bad things are happening in the church.
           D: assess the daily lives of the people in the church.
         answer: A
+        print_position: 6
+        unit: 2
       - uid: MIN171.7.1.1.UPE.2
         subobj: 7.1.1
         type: upe
@@ -4047,6 +4462,8 @@ courses:
           C: changing the direction of the mission.
           D: an honest assessment of current strengths and weaknesses.
         answer: D
+        print_position: 7
+        unit: 2
       - uid: MIN171.7.1.1.TY.1
         subobj: 7.1.1
         type: ty
@@ -4058,6 +4475,7 @@ courses:
           C: principles.
           D: foundations.
         answer: B
+        print_position: 1
       - uid: MIN171.7.1.1.TY.2
         subobj: 7.1.1
         type: ty
@@ -4068,6 +4486,7 @@ courses:
           C: internalizing a healthy vision for the church.
           D: walking in divine health as individuals.
         answer: A
+        print_position: 2
       - uid: MIN171.7.1.1.TY.3
         subobj: 7.1.1
         type: ty
@@ -4078,6 +4497,7 @@ courses:
           C: accurately identify and understand current reality.
           D: assess the daily lives of the people in the church.
         answer: C
+        print_position: 3
       - uid: MIN171.7.1.1.TY.4
         subobj: 7.1.1
         type: ty
@@ -4089,6 +4509,7 @@ courses:
           C: should not affect the main goals of the church.
           D: will always lead to change.
         answer: B
+        print_position: 4
       - uid: MIN171.7.1.1.TY.5
         subobj: 7.1.1
         type: ty
@@ -4100,6 +4521,7 @@ courses:
           C: should focus primarily on the people in the church.
           D: should be given by the pastors.
         answer: B
+        print_position: 5
       - uid: MIN171.7.2.1.UPE.1
         subobj: 7.2.1
         type: upe
@@ -4110,6 +4532,8 @@ courses:
           C: only on the people already at the church.
           D: on areas of weakness that may be painful to address.
         answer: C
+        print_position: 8
+        unit: 2
       - uid: MIN171.7.2.1.UPE.2
         subobj: 7.2.1
         type: upe
@@ -4120,6 +4544,8 @@ courses:
           C: provide biblical questions.
           D: seek for words of knowledge.
         answer: B
+        print_position: 9
+        unit: 2
       - uid: MIN171.7.2.1.TY.1
         subobj: 7.2.1
         type: ty
@@ -4130,6 +4556,7 @@ courses:
           C: may still be healthy and vibrant.
           D: may not be able to fulfill all of the five functions.
         answer: C
+        print_position: 6
       - uid: MIN171.7.2.1.TY.2
         subobj: 7.2.1
         type: ty
@@ -4140,6 +4567,7 @@ courses:
           C: on areas of weakness that may be painful to address.
           D: only on the people already at the church.
         answer: D
+        print_position: 7
       - uid: MIN171.7.2.1.TY.3
         subobj: 7.2.1
         type: ty
@@ -4150,6 +4578,7 @@ courses:
           C: are necessary if we are to face our need for change.
           D: should seldom be used.
         answer: C
+        print_position: 8
       - uid: MIN171.7.2.1.TY.4
         subobj: 7.2.1
         type: ty
@@ -4160,6 +4589,7 @@ courses:
           C: the most important factor is getting the right answers.
           D: evangelism should be more important than missions.
         answer: A
+        print_position: 9
       - uid: MIN171.7.2.1.TY.5
         subobj: 7.2.1
         type: ty
@@ -4182,6 +4612,8 @@ courses:
           C: how we should go about fulfilling the Great Commission.
           D: when the Great Commission applies to the church.
         answer: C
+        print_position: 10
+        unit: 2
       - uid: MIN171.8.1.1.UPE.2
         subobj: 8.1.1
         type: upe
@@ -4193,6 +4625,8 @@ courses:
           C: making disciples.
           D: wisdom.
         answer: B
+        print_position: 11
+        unit: 2
       - uid: MIN171.8.1.1.TY.1
         subobj: 8.1.1
         type: ty
@@ -4203,6 +4637,7 @@ courses:
           C: when the Great Commission applies to the church.
           D: how we should go about fulfilling the Great Commission.
         answer: D
+        print_position: 1
       - uid: MIN171.8.1.1.TY.2
         subobj: 8.1.1
         type: ty
@@ -4213,6 +4648,7 @@ courses:
           C: is established by Jesus in Matthew 28:19-20.
           D: is all about learning and doing.
         answer: B
+        print_position: 2
       - uid: MIN171.8.1.1.TY.3
         subobj: 8.1.1
         type: ty
@@ -4223,6 +4659,7 @@ courses:
           C: must be found in the Great Commission and Great Commandment.
           D: relates more to love than empowerment by the Spirit.
         answer: C
+        print_position: 3
       - uid: MIN171.8.1.1.TY.4
         subobj: 8.1.1
         type: ty
@@ -4233,6 +4670,7 @@ courses:
           C: The Great Commission specifies baptism and teaching Christ’s commands.
           D: The Great Commission is found in Christ’s words in Matthew 22:37-39.
         answer: D
+        print_position: 4
       - uid: MIN171.8.2.1.UPE.1
         subobj: 8.2.1
         type: upe
@@ -4243,6 +4681,8 @@ courses:
           C: our primary testimony to the world.
           D: reflective of one’s relationship with Christ.
         answer: D
+        print_position: 12
+        unit: 2
       - uid: MIN171.8.2.1.UPE.2
         subobj: 8.2.1
         type: upe
@@ -4253,6 +4693,8 @@ courses:
           C: enjoyable.
           D: strategic.
         answer: A
+        print_position: 14
+        unit: 2
       - uid: MIN171.8.2.1.TY.1
         subobj: 8.2.1
         type: ty
@@ -4263,6 +4705,7 @@ courses:
           C: can only happen on the church campus.
           D: is reserved for pastors and other church leaders.
         answer: A
+        print_position: 5
       - uid: MIN171.8.2.1.TY.2
         subobj: 8.2.1
         type: ty
@@ -4273,6 +4716,7 @@ courses:
           C: we can help reveal God’s invitation to relationship with Him.
           D: we discover that we do not need the power of the Holy Spirit.
         answer: C
+        print_position: 6
       - uid: MIN171.8.2.1.TY.3
         subobj: 8.2.1
         type: ty
@@ -4283,6 +4727,7 @@ courses:
           C: combined to keep you from burnout.
           D: reflective of one’s relationship with Christ.
         answer: D
+        print_position: 7
       - uid: MIN171.8.2.1.TY.4
         subobj: 8.2.1
         type: ty
@@ -4294,6 +4739,7 @@ courses:
           C: they will feel used and not valued.
           D: they usually become demanding of their own way.
         answer: A
+        print_position: 8
       - uid: MIN171.8.2.1.TY.5
         subobj: 8.2.1
         type: ty
@@ -4304,6 +4750,7 @@ courses:
           C: make the mission human.
           D: make empowerment less likely.
         answer: C
+        print_position: 9
       - uid: MIN171.8.3.1.UPE.1
         subobj: 8.3.1
         type: upe
@@ -4317,6 +4764,8 @@ courses:
           D: as a process of translating the values of the church into the leadership
             vision.
         answer: C
+        print_position: 13
+        unit: 2
       - uid: MIN171.8.3.1.UPE.2
         subobj: 8.3.1
         type: upe
@@ -4327,6 +4776,8 @@ courses:
           C: is unnecessary in the process of church revitalization.
           D: is primarily a matter of power.
         answer: B
+        print_position: 15
+        unit: 2
       - uid: MIN171.8.3.1.TY.1
         subobj: 8.3.1
         type: ty
@@ -4339,6 +4790,7 @@ courses:
             ministry decisions.
           D: One person seldom can make much of a difference in a large church.
         answer: B
+        print_position: 4
       - uid: MIN171.9.1.1.UPE.1
         subobj: 9.1.1
         type: upe
@@ -4349,6 +4801,8 @@ courses:
           C: never be difficult to carry out.
           D: always involve risk.
         answer: D
+        print_position: 16
+        unit: 2
       - uid: MIN171.9.1.1.UPE.2
         subobj: 9.1.1
         type: upe
@@ -4359,6 +4813,8 @@ courses:
           C: connecting the mission to the growth process.
           D: dreaming the future into the present.
         answer: B
+        print_position: 17
+        unit: 2
       - uid: MIN171.9.1.1.TY.1
         subobj: 9.1.1
         type: ty
@@ -4371,6 +4827,7 @@ courses:
           C: vision is only given to church leaders.
           D: vision is intuitive and emotion-based.
         answer: B
+        print_position: 1
       - uid: MIN171.9.1.1.TY.2
         subobj: 9.1.1
         type: ty
@@ -4381,6 +4838,7 @@ courses:
           C: “Where are we going?”
           D: “What is our mandate?”
         answer: C
+        print_position: 2
       - uid: MIN171.9.1.1.TY.3
         subobj: 9.1.1
         type: ty
@@ -4391,6 +4849,7 @@ courses:
           C: never be difficult to carry out.
           D: always involve risk.
         answer: D
+        print_position: 3
       - uid: MIN171.9.1.1.TY.4
         subobj: 9.1.1
         type: ty
@@ -4401,6 +4860,7 @@ courses:
           C: is to follow the ministry programs of successful churches.
           D: is to stop looking at what is there.
         answer: B
+        print_position: 4
       - uid: MIN171.9.2.1.UPE.1
         subobj: 9.2.1
         type: upe
@@ -4411,6 +4871,8 @@ courses:
           C: can receive inspiration by looking at people and their needs.
           D: is based on ministry programs, tools, and practicality.
         answer: C
+        print_position: 18
+        unit: 2
       - uid: MIN171.9.2.1.TY.1
         subobj: 9.2.1
         type: ty
@@ -4421,6 +4883,7 @@ courses:
           C: require no action on our part.
           D: can usually be found in your past successes.
         answer: A
+        print_position: 5
       - uid: MIN171.9.2.1.TY.2
         subobj: 9.2.1
         type: ty
@@ -4431,6 +4894,7 @@ courses:
           C: is something that will hinder your mission.
           D: can help you to connect with God’s vision for them.
         answer: D
+        print_position: 6
       - uid: MIN171.9.2.1.TY.3
         subobj: 9.2.1
         type: ty
@@ -4441,6 +4905,7 @@ courses:
           C: being the kind of people and church that God wants you to be.
           D: choosing the best programs for the church.
         answer: C
+        print_position: 7
       - uid: MIN171.9.2.1.TY.4
         subobj: 9.2.1
         type: ty
@@ -4451,6 +4916,7 @@ courses:
           C: should not be played outside the congregation.
           D: can only be played with people you know.
         answer: A
+        print_position: 8
       - uid: MIN171.9.3.1.UPE.1
         subobj: 9.3.1
         type: upe
@@ -4461,6 +4927,8 @@ courses:
           C: written steps of action in visionary form.
           D: love for God and love for people.
         answer: D
+        print_position: 19
+        unit: 2
       - uid: MIN171.9.3.1.UPE.2
         subobj: 9.3.1
         type: upe
@@ -4482,6 +4950,7 @@ courses:
           C: The direction and empowerment of the Holy Spirit
           D: Abundant financial resources
         answer: D
+        print_position: 9
       - uid: MIN171.9.3.1.TY.2
         subobj: 9.3.1
         type: ty
@@ -4503,6 +4972,8 @@ courses:
           C: in universal principles that apply to everyone.
           D: whenever we speak.
         answer: B
+        print_position: 21
+        unit: 2
       - uid: MIN171.10.1.1.UPE.2
         subobj: 10.1.1
         type: upe
@@ -4514,6 +4985,8 @@ courses:
           C: The way that the Grow concept is expressed
           D: The way that the Serve concept is expressed
         answer: A
+        print_position: 22
+        unit: 2
       - uid: MIN171.10.1.1.TY.1
         subobj: 10.1.1
         type: ty
@@ -4524,6 +4997,7 @@ courses:
           C: establish the purpose for the church’s existence.
           D: are unrelated to vision.
         answer: B
+        print_position: 1
       - uid: MIN171.10.1.1.TY.2
         subobj: 10.1.1
         type: ty
@@ -4534,6 +5008,7 @@ courses:
           C: vision should be adjusted, rather than the core values.
           D: vision will fail.
         answer: D
+        print_position: 2
       - uid: MIN171.10.1.1.TY.3
         subobj: 10.1.1
         type: ty
@@ -4545,6 +5020,7 @@ courses:
           C: when the pastor leaves a church, it will need to rebuild its core values.
           D: those core values and biblical priorities are usually unrelated.
         answer: A
+        print_position: 3
       - uid: MIN171.10.1.1.TY.4
         subobj: 10.1.1
         type: ty
@@ -4555,6 +5031,7 @@ courses:
           C: in universal principles that apply to everyone.
           D: whenever we speak.
         answer: B
+        print_position: 4
       - uid: MIN171.10.1.1.TY.5
         subobj: 10.1.1
         type: ty
@@ -4565,6 +5042,7 @@ courses:
           C: we must be doers of the Word as well as hearers.
           D: we will seldom change how we do things.
         answer: C
+        print_position: 5
       - uid: MIN171.10.2.1.UPE.1
         subobj: 10.2.1
         type: upe
@@ -4575,6 +5053,8 @@ courses:
           C: used to help identify core values.
           D: usually related to its mission rather than core values.
         answer: C
+        print_position: 23
+        unit: 2
       - uid: MIN171.10.2.1.UPE.2
         subobj: 10.2.1
         type: upe
@@ -4585,6 +5065,8 @@ courses:
           C: the importance of prayer.
           D: the outward focus of the church.
         answer: A
+        print_position: 24
+        unit: 2
       - uid: MIN171.10.2.1.TY.1
         subobj: 10.2.1
         type: ty
@@ -4597,6 +5079,7 @@ courses:
             vision.
           D: describe the area of ministry you need to develop the most.
         answer: C
+        print_position: 6
       - uid: MIN171.10.2.1.TY.2
         subobj: 10.2.1
         type: ty
@@ -4607,6 +5090,7 @@ courses:
           C: dictated by your core values.
           D: subconsciously influenced by your vision.
         answer: C
+        print_position: 7
       - uid: MIN171.10.3.1.UPE.1
         subobj: 10.3.1
         type: upe
@@ -4617,6 +5101,8 @@ courses:
           C: can take over when strong values are lacking in a church.
           D: are usually in harmony with the work of the Spirit in Pentecostal believers.
         answer: C
+        print_position: 25
+        unit: 2
       - uid: MIN171.10.3.1.TY.1
         subobj: 10.3.1
         type: ty
@@ -4631,6 +5117,7 @@ courses:
           D: Biblical absolutes, community standards, and personal convictions should
             supplant personal beliefs and behaviors.
         answer: B
+        print_position: 8
       - uid: MIN171.10.3.1.TY.2
         subobj: 10.3.1
         type: ty
@@ -4641,6 +5128,7 @@ courses:
           C: can take over when strong values are lacking in a church.
           D: are usually in harmony with the work of the Spirit in Pentecostal believers.
         answer: C
+        print_position: 9
       - uid: MIN171.10.3.1.TY.3
         subobj: 10.3.1
         type: ty
@@ -4672,6 +5160,7 @@ courses:
           C: form the pathway from the strategic plan to the mission.
           D: describe the difference between the vision and the values.
         answer: B
+        print_position: 1
       - uid: MIN171.11.1.1.TY.2
         subobj: 11.1.1
         type: ty
@@ -4683,6 +5172,7 @@ courses:
           D: should guide both the development and implementation of the strategic
             plan.
         answer: D
+        print_position: 2
       - uid: MIN171.11.1.1.TY.3
         subobj: 11.1.1
         type: ty
@@ -4693,6 +5183,7 @@ courses:
           C: no one in the church is currently full of the Spirit.
           D: human methods have taken over the church.
         answer: B
+        print_position: 3
       - uid: MIN171.11.1.2.UPE.1
         subobj: 11.1.2
         type: upe
@@ -4703,6 +5194,8 @@ courses:
           C: take the inward focus of the church to the next level.
           D: alter the values of the church.
         answer: B
+        print_position: 2
+        unit: 3
       - uid: MIN171.11.1.2.TY.1
         subobj: 11.1.2
         type: ty
@@ -4713,6 +5206,7 @@ courses:
           C: can inspire spontaneous ministry and strategic planning.
           D: favors passion for God over developing a plan.
         answer: C
+        print_position: 4
       - uid: MIN171.11.1.2.TY.2
         subobj: 11.1.2
         type: ty
@@ -4723,6 +5217,7 @@ courses:
           C: means that the vision is faulty.
           D: is nothing more than a dream.
         answer: D
+        print_position: 5
       - uid: MIN171.11.2.1.UPE.1
         subobj: 11.2.1
         type: upe
@@ -4733,6 +5228,8 @@ courses:
           C: to nurture people to become all that God wants them to be.
           D: how to connect the values of the church to the leadership team.
         answer: C
+        print_position: 3
+        unit: 3
       - uid: MIN171.11.2.1.UPE.2
         subobj: 11.2.1
         type: upe
@@ -4744,6 +5241,8 @@ courses:
           C: a numerical growth plan in progressive stages.
           D: the biblical priority of spiritual gifts.
         answer: A
+        print_position: 4
+        unit: 3
       - uid: MIN171.11.2.1.TY.1
         subobj: 11.2.1
         type: ty
@@ -4754,6 +5253,7 @@ courses:
           C: vision, values, strategic plan, mission
           D: strategic plan, vision, mission, values
         answer: A
+        print_position: 6
       - uid: MIN171.11.2.1.TY.2
         subobj: 11.2.1
         type: ty
@@ -4764,6 +5264,7 @@ courses:
           C: the road we are on.
           D: the gasoline that fuels the car.
         answer: B
+        print_position: 7
       - uid: MIN171.11.2.1.TY.3
         subobj: 11.2.1
         type: ty
@@ -4774,6 +5275,7 @@ courses:
           C: how we are going to get to our preferred future.
           D: our vision of the future.
         answer: C
+        print_position: 8
       - uid: MIN171.11.2.1.TY.4
         subobj: 11.2.1
         type: ty
@@ -4784,6 +5286,7 @@ courses:
           C: to nurture people to become all that God wants them to be.
           D: how to connect the values of the church to the leadership team.
         answer: C
+        print_position: 9
       - uid: MIN171.11.2.1.TY.5
         subobj: 11.2.1
         type: ty
@@ -4805,6 +5308,8 @@ courses:
             God.
           D: the connection between people and the values of the church.
         answer: C
+        print_position: 5
+        unit: 3
       - uid: MIN171.12.1.1.TY.1
         subobj: 12.1.1
         type: ty
@@ -4816,6 +5321,7 @@ courses:
           D: horizontal relationships with people and a vertical relationship with
             God.
         answer: D
+        print_position: 1
       - uid: MIN171.12.1.1.TY.2
         subobj: 12.1.1
         type: ty
@@ -4826,6 +5332,7 @@ courses:
           C: the way values become the strategic plan.
           D: their attentiveness to the apostles’ teaching.
         answer: B
+        print_position: 2
       - uid: MIN171.12.1.1.TY.3
         subobj: 12.1.1
         type: ty
@@ -4837,6 +5344,7 @@ courses:
           C: love.
           D: connect.
         answer: C
+        print_position: 3
       - uid: MIN171.12.1.1.TY.4
         subobj: 12.1.1
         type: ty
@@ -4847,6 +5355,7 @@ courses:
           C: apologetics-based institution.
           D: vehicle for inspiring truth.
         answer: A
+        print_position: 4
       - uid: MIN171.12.2.1.UPE.1
         subobj: 12.2.1
         type: upe
@@ -4858,6 +5367,8 @@ courses:
           C: connect .
           D: strategic planning .
         answer: C
+        print_position: 6
+        unit: 3
       - uid: MIN171.12.2.1.TY.1
         subobj: 12.2.1
         type: ty
@@ -4869,6 +5380,7 @@ courses:
           C: Serve
           D: Go
         answer: B
+        print_position: 5
       - uid: MIN171.12.2.1.TY.2
         subobj: 12.2.1
         type: ty
@@ -4880,6 +5392,7 @@ courses:
           D: occur more today because God doesn’t do as many miracles as He did in
             the early church.
         answer: C
+        print_position: 6
       - uid: MIN171.12.2.1.TY.3
         subobj: 12.2.1
         type: ty
@@ -4890,6 +5403,7 @@ courses:
           C: is little more than a human creation.
           D: hinders us from truly connecting with God.
         answer: B
+        print_position: 7
       - uid: MIN171.12.3.1.UPE.1
         subobj: 12.3.1
         type: upe
@@ -4900,6 +5414,8 @@ courses:
           C: leaders are called to be part of the priesthood.
           D: each believer can contribute by ministering to others.
         answer: D
+        print_position: 7
+        unit: 3
       - uid: MIN171.12.3.1.UPE.2
         subobj: 12.3.1
         type: upe
@@ -4911,6 +5427,8 @@ courses:
           C: facilitated by the process called connect .
           D: part of the vision of the church rather than the mission.
         answer: C
+        print_position: 8
+        unit: 3
       - uid: MIN171.12.3.1.TY.1
         subobj: 12.3.1
         type: ty
@@ -4922,6 +5440,7 @@ courses:
           C: the overcoming life.
           D: go.
         answer: A
+        print_position: 8
       - uid: MIN171.12.3.1.TY.2
         subobj: 12.3.1
         type: ty
@@ -4932,6 +5451,7 @@ courses:
           C: If you’re not sharing the gospel message, you cannot be truly ministering.
           D: You are not a mistake; you are a masterpiece.
         answer: C
+        print_position: 9
       - uid: MIN171.12.3.1.TY.3
         subobj: 12.3.1
         type: ty
@@ -4952,6 +5472,8 @@ courses:
           C: ennobling purpose.
           D: embracing purpose.
         answer: A
+        print_position: 9
+        unit: 3
       - uid: MIN171.13.1.1.UPE.2
         subobj: 13.1.1
         type: upe
@@ -4962,6 +5484,8 @@ courses:
           C: dimension of behavioral activity.
           D: dimension of life in the Spirit.
         answer: D
+        print_position: 10
+        unit: 3
       - uid: MIN171.13.1.1.TY.1
         subobj: 13.1.1
         type: ty
@@ -4972,6 +5496,7 @@ courses:
           C: the basis of transformation.
           D: incomplete without life in the Spirit.
         answer: D
+        print_position: 1
       - uid: MIN171.13.1.1.TY.2
         subobj: 13.1.1
         type: ty
@@ -4982,6 +5507,7 @@ courses:
           C: ennobling purpose.
           D: embracing purpose.
         answer: A
+        print_position: 2
       - uid: MIN171.13.1.1.TY.3
         subobj: 13.1.1
         type: ty
@@ -4992,6 +5518,7 @@ courses:
           C: the process of Serve being transformed into Connect.
           D: following the path of greatest resistance.
         answer: A
+        print_position: 3
       - uid: MIN171.13.2.1.UPE.1
         subobj: 13.2.1
         type: upe
@@ -5002,6 +5529,8 @@ courses:
           C: is a key aspect of discipleship.
           D: begins in the heart and transfers to the mind.
         answer: C
+        print_position: 11
+        unit: 3
       - uid: MIN171.13.2.1.TY.1
         subobj: 13.2.1
         type: ty
@@ -5013,6 +5542,7 @@ courses:
           C: the work of God.
           D: the omnipotence of God.
         answer: B
+        print_position: 4
       - uid: MIN171.13.2.1.TY.2
         subobj: 13.2.1
         type: ty
@@ -5024,6 +5554,7 @@ courses:
           C: embrace, encourage, and experience.
           D: belong, believe, and become.
         answer: D
+        print_position: 5
       - uid: MIN171.13.2.1.TY.3
         subobj: 13.2.1
         type: ty
@@ -5035,6 +5566,7 @@ courses:
           C: express.
           D: elevate.
         answer: C
+        print_position: 6
       - uid: MIN171.13.2.1.TY.4
         subobj: 13.2.1
         type: ty
@@ -5045,6 +5577,7 @@ courses:
           C: is a key aspect of discipleship.
           D: begins in the heart and transfers to the mind.
         answer: C
+        print_position: 7
       - uid: MIN171.13.2.2.UPE.1
         subobj: 13.2.2
         type: upe
@@ -5056,6 +5589,8 @@ courses:
           C: cultural distinctives.
           D: having an individualized long-term strategic plan.
         answer: B
+        print_position: 12
+        unit: 3
       - uid: MIN171.13.2.2.TY.1
         subobj: 13.2.2
         type: ty
@@ -5066,6 +5601,7 @@ courses:
           C: occurs primarily through knowledge and behavior.
           D: is only for adults.
         answer: A
+        print_position: 8
       - uid: MIN171.13.2.2.TY.2
         subobj: 13.2.2
         type: ty
@@ -5077,6 +5613,7 @@ courses:
           C: alone.
           D: temporal.
         answer: C
+        print_position: 9
       - uid: MIN171.13.3.1.UPE.1
         subobj: 13.3.1
         type: upe
@@ -5087,6 +5624,8 @@ courses:
           C: should be included at various age levels in the church.
           D: should be the main purpose of connect .
         answer: C
+        print_position: 13
+        unit: 3
       - uid: MIN171.13.3.1.TY.1
         subobj: 13.3.1
         type: ty
@@ -5107,6 +5646,8 @@ courses:
           C: the basis of transformation.
           D: unrelated to growth.
         answer: B
+        print_position: 14
+        unit: 3
       - uid: MIN171.14.1.1.TY.1
         subobj: 14.1.1
         type: ty
@@ -5117,6 +5658,7 @@ courses:
           C: the concept behind Connect.
           D: a key part of our role as church leaders.
         answer: D
+        print_position: 1
       - uid: MIN171.14.1.1.TY.2
         subobj: 14.1.1
         type: ty
@@ -5128,6 +5670,7 @@ courses:
           C: priesthood of all believers.
           D: status and stature of the leader.
         answer: C
+        print_position: 2
       - uid: MIN171.14.1.1.TY.3
         subobj: 14.1.1
         type: ty
@@ -5139,6 +5682,7 @@ courses:
           C: a top-down authority structure.
           D: increased funding.
         answer: A
+        print_position: 3
       - uid: MIN171.14.1.1.TY.4
         subobj: 14.1.1
         type: ty
@@ -5150,6 +5694,7 @@ courses:
           C: a dynamic team.
           D: process discipleship.
         answer: C
+        print_position: 4
       - uid: MIN171.14.1.2.UPE.1
         subobj: 14.1.2
         type: upe
@@ -5160,6 +5705,8 @@ courses:
           C: affects some areas of leadership but not others.
           D: is reflected primarily in the New Testament epistles.
         answer: B
+        print_position: 15
+        unit: 3
       - uid: MIN171.14.1.2.TY.1
         subobj: 14.1.2
         type: ty
@@ -5170,6 +5717,7 @@ courses:
           C: affects some areas of leadership but not others.
           D: is reflected primarily in the New Testament epistles.
         answer: B
+        print_position: 5
       - uid: MIN171.14.1.2.TY.2
         subobj: 14.1.2
         type: ty
@@ -5180,6 +5728,7 @@ courses:
           C: magnifying the greatness of God.
           D: channeling it towards service.
         answer: D
+        print_position: 6
       - uid: MIN171.14.2.1.UPE.1
         subobj: 14.2.1
         type: upe
@@ -5190,6 +5739,8 @@ courses:
           C: is usually based on a consumer mentality.
           D: relates to higher callings rather than basic areas of service.
         answer: B
+        print_position: 16
+        unit: 3
       - uid: MIN171.14.2.1.TY.1
         subobj: 14.2.1
         type: ty
@@ -5200,6 +5751,7 @@ courses:
           C: is usually based on a consumer mentality.
           D: relates to higher callings rather than basic areas of service.
         answer: A
+        print_position: 7
       - uid: MIN171.14.2.1.TY.2
         subobj: 14.2.1
         type: ty
@@ -5211,6 +5763,7 @@ courses:
           C: unique life experiences.
           D: plans for the future.
         answer: C
+        print_position: 8
       - uid: MIN171.14.3.1.UPE.1
         subobj: 14.3.1
         type: upe
@@ -5221,6 +5774,8 @@ courses:
           C: are useful in the process known as serve .
           D: form the pathway from values to secondary goals.
         answer: C
+        print_position: 17
+        unit: 3
       - uid: MIN171.14.3.1.TY.1
         subobj: 14.3.1
         type: ty
@@ -5232,6 +5787,7 @@ courses:
           C: not be accurate based on gender.
           D: increase the risk of mismanagement.
         answer: A
+        print_position: 9
       - uid: MIN171.14.3.1.TY.2
         subobj: 14.3.1
         type: ty
@@ -5252,6 +5808,8 @@ courses:
           C: focuses on helping believers to connect with one another.
           D: focuses on gift-oriented ministry.
         answer: A
+        print_position: 18
+        unit: 3
       - uid: MIN171.15.1.1.UPE.2
         subobj: 15.1.1
         type: upe
@@ -5262,6 +5820,8 @@ courses:
           C: investing in the lives of unchurched people is inconvenient and messy.
           D: Christians are too vocal in the workplace.
         answer: C
+        print_position: 19
+        unit: 3
       - uid: MIN171.15.1.1.TY.1
         subobj: 15.1.1
         type: ty
@@ -5272,6 +5832,7 @@ courses:
           C: using their growth and maturation to help younger believers grow.
           D: and maintain their focus on those already attending the church.
         answer: C
+        print_position: 1
       - uid: MIN171.15.1.1.TY.2
         subobj: 15.1.1
         type: ty
@@ -5282,6 +5843,7 @@ courses:
           C: helps believers to serve one another.
           D: takes priority over all other processes.
         answer: A
+        print_position: 2
       - uid: MIN171.15.2.1.UPE.1
         subobj: 15.2.1
         type: upe
@@ -5292,6 +5854,8 @@ courses:
           C: evangelizing without an ongoing relationship connection.
           D: witnessing to people at work.
         answer: C
+        print_position: 20
+        unit: 3
       - uid: MIN171.15.2.1.TY.1
         subobj: 15.2.1
         type: ty
@@ -5303,6 +5867,7 @@ courses:
           D: growing a friendship with one of your coworkers and then sharing Christ
             with that individual.
         answer: D
+        print_position: 3
       - uid: MIN171.15.2.1.TY.2
         subobj: 15.2.1
         type: ty
@@ -5313,6 +5878,7 @@ courses:
           C: difficulty and cost of large scale outreaches.
           D: infrequency of short-term missions projects.
         answer: B
+        print_position: 4
       - uid: MIN171.15.2.1.TY.3
         subobj: 15.2.1
         type: ty
@@ -5324,6 +5890,7 @@ courses:
           C: city-wide outreaches.
           D: food shelf ministries.
         answer: B
+        print_position: 5
       - uid: MIN171.15.2.1.TY.4
         subobj: 15.2.1
         type: ty
@@ -5335,6 +5902,7 @@ courses:
           C: should be aimed first of all toward the Christians in the neighborhood.
           D: is seldom as effective as door-to-door efforts to share the Gospel.
         answer: A
+        print_position: 6
       - uid: MIN171.15.2.1.TY.5
         subobj: 15.2.1
         type: ty
@@ -5346,6 +5914,7 @@ courses:
           C: personal crisis.
           D: a personal invitation.
         answer: D
+        print_position: 7
       - uid: MIN171.15.3.1.UPE.1
         subobj: 15.3.1
         type: upe
@@ -5356,6 +5925,8 @@ courses:
           C: use them to address the weaknesses of the church.
           D: become the most visible church in town.
         answer: B
+        print_position: 21
+        unit: 3
       - uid: MIN171.15.3.1.TY.1
         subobj: 15.3.1
         type: ty
@@ -5366,6 +5937,7 @@ courses:
           C: are seldom utilized in smaller congregations.
           D: can be utilized to meet needs in the community.
         answer: D
+        print_position: 8
       - uid: MIN171.15.3.1.TY.2
         subobj: 15.3.1
         type: ty
@@ -5376,6 +5948,7 @@ courses:
           C: use them to address the weaknesses of the church.
           D: be better at something than the other churches in town.
         answer: B
+        print_position: 9
       - uid: MIN171.15.3.1.TY.3
         subobj: 15.3.1
         type: ty
@@ -5397,6 +5970,8 @@ courses:
           C: expressing the proper emotions to God.
           D: emphasizing the music that glorifies the King of kings.
         answer: B
+        print_position: 23
+        unit: 3
       - uid: MIN171.16.1.1.TY.1
         subobj: 16.1.1
         type: ty
@@ -5407,6 +5982,7 @@ courses:
           C: honor with melodies of praise.
           D: laud and magnify the King of Kings.
         answer: A
+        print_position: 1
       - uid: MIN171.16.1.1.TY.2
         subobj: 16.1.1
         type: ty
@@ -5417,6 +5993,7 @@ courses:
           C: a lifestyle.
           D: primarily expressed through music.
         answer: C
+        print_position: 2
       - uid: MIN171.16.1.1.TY.3
         subobj: 16.1.1
         type: ty
@@ -5427,6 +6004,7 @@ courses:
           C: ineffable.
           D: holy.
         answer: D
+        print_position: 3
       - uid: MIN171.16.1.1.TY.4
         subobj: 16.1.1
         type: ty
@@ -5437,6 +6015,7 @@ courses:
           C: can lead to shallow discipleship and evangelism.
           D: leads to unhealthy ritualism.
         answer: C
+        print_position: 4
       - uid: MIN171.16.1.1.TY.5
         subobj: 16.1.1
         type: ty
@@ -5447,6 +6026,7 @@ courses:
           C: drawing people to your church through musical preferences.
           D: holding worship services in parks and community centers.
         answer: A
+        print_position: 5
       - uid: MIN171.16.2.1.UPE.1
         subobj: 16.2.1
         type: upe
@@ -5457,6 +6037,8 @@ courses:
           C: one of the chief expressions of worship.
           D: often emphasized today to the exclusion of worship.
         answer: C
+        print_position: 24
+        unit: 3
       - uid: MIN171.16.2.1.TY.1
         subobj: 16.2.1
         type: ty
@@ -5467,6 +6049,7 @@ courses:
           C: should come after preaching in the order of service.
           D: nothing like the extravagant, public show of the Pharisees.
         answer: D
+        print_position: 6
       - uid: MIN171.16.2.1.TY.2
         subobj: 16.2.1
         type: ty
@@ -5477,6 +6060,7 @@ courses:
           C: prepares us for personal empowerment by the Spirit.
           D: is not an aspect of worship.
         answer: C
+        print_position: 7
       - uid: MIN171.16.2.1.TY.3
         subobj: 16.2.1
         type: ty
@@ -5487,6 +6071,7 @@ courses:
           C: holiness.
           D: affirmation.
         answer: B
+        print_position: 8
       - uid: MIN171.16.2.1.TY.4
         subobj: 16.2.1
         type: ty
@@ -5497,6 +6082,7 @@ courses:
           C: isn’t determined by length.
           D: will leave no time for preaching.
         answer: C
+        print_position: 9
       - uid: MIN171.16.2.1.TY.5
         subobj: 16.2.1
         type: ty
@@ -5517,6 +6103,8 @@ courses:
           C: must be reviewed and renewed again and again.
           D: will be altered as the mission is changed.
         answer: C
+        print_position: 22
+        unit: 3
       - uid: MIN171.17.1.1.TY.1
         subobj: 17.1.1
         type: ty
@@ -5547,6 +6135,7 @@ courses:
           C: must be reviewed and renewed again and again.
           D: will be altered as the mission is changed.
         answer: C
+        print_position: 3
       - uid: MIN171.17.1.1.TY.4
         subobj: 17.1.1
         type: ty
@@ -5557,6 +6146,7 @@ courses:
           C: personal vision statement of the pastor.
           D: biblical statements that are defined by the vision.
         answer: A
+        print_position: 4
       - uid: MIN171.17.1.1.TY.5
         subobj: 17.1.1
         type: ty
@@ -5567,6 +6157,7 @@ courses:
           C: the strategic plans to fulfill the vision.
           D: the priorities that govern our behavior along the way.
         answer: D
+        print_position: 5
       - uid: MIN171.17.1.1.TY.6
         subobj: 17.1.1
         type: ty
@@ -5577,6 +6168,7 @@ courses:
           C: concise mission statement.
           D: job descriptions provided by the board.
         answer: A
+        print_position: 6
       - uid: MIN171.17.2.1.UPE.1
         subobj: 17.2.1
         type: upe
@@ -5587,6 +6179,8 @@ courses:
           C: concise mission statement.
           D: strategic plan.
         answer: D
+        print_position: 25
+        unit: 3
       - uid: MIN171.17.2.1.TY.1
         subobj: 17.2.1
         type: ty
@@ -5597,6 +6191,7 @@ courses:
           C: what a life connected to God looks like.
           D: the steps that are needed to become a disciple.
         answer: C
+        print_position: 7
       - uid: MIN171.17.2.1.TY.2
         subobj: 17.2.1
         type: ty
@@ -5608,6 +6203,7 @@ courses:
           C: The strategic plan
           D: The numerical strength of the church
         answer: B
+        print_position: 8
       - uid: MIN171.17.2.1.TY.3
         subobj: 17.2.1
         type: ty
@@ -5619,6 +6215,7 @@ courses:
           C: worship.
           D: serve.
         answer: B
+        print_position: 9
       - uid: MIN171.17.2.1.TY.4
         subobj: 17.2.1
         type: ty
@@ -6148,6 +6745,7 @@ courses:
         key_pdf: min171_1st_a key desi sep17.pdf
         matched: 50
         objectives_agree: 50
+      captured: reparse
     deployed_pn: 02.26.02
     body_baseline_pn: 02.26.02
     chapters:

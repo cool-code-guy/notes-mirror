@@ -102,6 +102,7 @@ courses:
             His followers.
           D: Jesus’ final moments with His disciples.
         answer: C
+        print_position: 1
       - uid: MIN227.1.1.2.TY.1
         subobj: 1.1.2
         type: ty
@@ -115,6 +116,7 @@ courses:
           D: rejected by Early Church readers as an immature expression of Christ’s
             command.
         answer: B
+        print_position: 2
       - uid: MIN227.1.1.2.TY.2
         subobj: 1.1.2
         type: ty
@@ -126,6 +128,7 @@ courses:
           C: Mary, the mother of Jesus.
           D: Josephus.
         answer: A
+        print_position: 3
       - uid: MIN227.1.1.3.TY.1
         subobj: 1.1.3
         type: ty
@@ -136,6 +139,7 @@ courses:
           C: traveling with Paul on his missionary journeys.
           D: supporting himself as a tax collector in Jerusalem.
         answer: B
+        print_position: 4
       - uid: MIN227.1.1.3.TY.2
         subobj: 1.1.3
         type: ty
@@ -148,6 +152,7 @@ courses:
           C: proves Matthew’s inability to correctly identify genealogical sequence.
           D: calls into question whether Matthew believed Jesus to be God’s Son.
         answer: A
+        print_position: 5
       - uid: MIN227.1.1.4.UPE.1
         subobj: 1.1.4
         type: upe
@@ -159,6 +164,8 @@ courses:
           C: going, teaching, and preaching.
           D: going, communicating the message orally, and baptizing.
         answer: D
+        print_position: 1
+        unit: 1
       - uid: MIN227.1.1.4.UPE.2
         subobj: 1.1.4
         type: upe
@@ -169,6 +176,8 @@ courses:
           C: an integral part of the Great Commission.
           D: unnecessary.
         answer: C
+        print_position: 2
+        unit: 1
       - uid: MIN227.1.1.4.UPE.3
         subobj: 1.1.4
         type: upe
@@ -179,6 +188,8 @@ courses:
           C: that they are written concurrently.
           D: evidence of multiple authors in each Gospel.
         answer: B
+        print_position: 3
+        unit: 1
       - uid: MIN227.1.1.4.TY.1
         subobj: 1.1.4
         type: ty
@@ -189,6 +200,7 @@ courses:
           C: that they are written concurrently.
           D: evidence of multiple authors in each Gospel.
         answer: B
+        print_position: 6
       - uid: MIN227.1.2.1.UPE.1
         subobj: 1.2.1
         type: upe
@@ -199,6 +211,8 @@ courses:
           C: study the Scriptures at a Jewish synagogue.
           D: fast and pray.
         answer: B
+        print_position: 4
+        unit: 1
       - uid: MIN227.1.2.1.UPE.2
         subobj: 1.2.1
         type: upe
@@ -211,6 +225,8 @@ courses:
           C: contrasted as examples of theology (Luke) and history (Acts).
           D: the only two books in the Bible that are components of a larger whole.
         answer: A
+        print_position: 5
+        unit: 1
       - uid: MIN227.1.2.1.TY.1
         subobj: 1.2.1
         type: ty
@@ -223,6 +239,7 @@ courses:
           C: contrasted as examples of theology (Luke) and history (Acts).
           D: the only two books in the Bible that are components of a larger whole.
         answer: A
+        print_position: 7
       - uid: MIN227.1.2.2.TY.1
         subobj: 1.2.2
         type: ty
@@ -234,6 +251,7 @@ courses:
             of sins.
           D: a divine enabling to obey the Ten Commandments.
         answer: C
+        print_position: 8
       - uid: MIN227.1.2.3.UPE.1
         subobj: 1.2.3
         type: upe
@@ -245,6 +263,8 @@ courses:
           C: heeding end-time warnings.
           D: rebuking the Pharisees.
         answer: A
+        print_position: 6
+        unit: 1
       - uid: MIN227.1.2.3.TY.1
         subobj: 1.2.3
         type: ty
@@ -256,6 +276,7 @@ courses:
           C: supplemental to the others, with much unique material.
           D: the Pentecostal Gospel.
         answer: C
+        print_position: 9
       - uid: MIN227.1.2.4.UPE.1
         subobj: 1.2.4
         type: upe
@@ -267,6 +288,8 @@ courses:
           C: is no longer in effect, since the death of the apostles.
           D: is a call for all believers to personally share the gospel with the lost.
         answer: D
+        print_position: 7
+        unit: 1
       - uid: MIN227.1.2.4.UPE.2
         subobj: 1.2.4
         type: upe
@@ -277,6 +300,8 @@ courses:
           C: Prayer
           D: Preaching
         answer: D
+        print_position: 8
+        unit: 1
       - uid: MIN227.1.2.4.TY.1
         subobj: 1.2.4
         type: ty
@@ -288,6 +313,7 @@ courses:
           C: is no longer in effect, since the death of the apostles.
           D: is a call for all believers to personally share the gospel with the lost.
         answer: D
+        print_position: 10
       - uid: MIN227.2.1.1.TY.1
         subobj: 2.1.1
         type: ty
@@ -298,6 +324,7 @@ courses:
           C: identifying sin and calling for repentance.
           D: the Golden Rule and turning the other cheek.
         answer: A
+        print_position: 1
       - uid: MIN227.2.1.2.UPE.1
         subobj: 2.1.2
         type: upe
@@ -310,6 +337,8 @@ courses:
             lost.
           D: assure the lost that God is love.
         answer: C
+        print_position: 9
+        unit: 1
       - uid: MIN227.2.1.2.UPE.2
         subobj: 2.1.2
         type: upe
@@ -320,6 +349,8 @@ courses:
           C: cooperate with the Holy Spirit.
           D: demonstrate to people the errors in their world view.
         answer: C
+        print_position: 11
+        unit: 1
       - uid: MIN227.2.1.2.TY.1
         subobj: 2.1.2
         type: ty
@@ -331,6 +362,7 @@ courses:
             lost.
           D: identify spiritual hindrances in people’s spiritual lives.
         answer: D
+        print_position: 2
       - uid: MIN227.2.1.2.TY.2
         subobj: 2.1.2
         type: ty
@@ -343,6 +375,7 @@ courses:
             lost.
           D: assure the lost that God is love.
         answer: C
+        print_position: 3
       - uid: MIN227.2.1.3.UPE.1
         subobj: 2.1.3
         type: upe
@@ -353,6 +386,8 @@ courses:
           C: a disciple is filled with the Holy Spirit.
           D: a disciple is baptized.
         answer: B
+        print_position: 12
+        unit: 1
       - uid: MIN227.2.1.3.TY.1
         subobj: 2.1.3
         type: ty
@@ -364,6 +399,7 @@ courses:
           C: Christians who are 55 and older.
           D: nondenominational charismatics.
         answer: B
+        print_position: 4
       - uid: MIN227.2.1.4.UPE.1
         subobj: 2.1.4
         type: upe
@@ -374,6 +410,8 @@ courses:
           C: a committed and faithful follower of Christ.
           D: improved community relations.
         answer: C
+        print_position: 10
+        unit: 1
       - uid: MIN227.2.1.4.UPE.2
         subobj: 2.1.4
         type: upe
@@ -384,6 +422,8 @@ courses:
           C: prove the inerrancy of Scripture beyond doubt.
           D: prove the continuing validity of the Ten Commandments.
         answer: B
+        print_position: 13
+        unit: 1
       - uid: MIN227.2.1.4.TY.1
         subobj: 2.1.4
         type: ty
@@ -394,6 +434,7 @@ courses:
           C: prove beyond doubt the inerrancy of Scripture.
           D: prove the continuing validity of the Ten Commandments.
         answer: B
+        print_position: 5
       - uid: MIN227.2.2.1.UPE.1
         subobj: 2.2.1
         type: upe
@@ -404,6 +445,8 @@ courses:
           C: the fact that every person will eventually be accepted into God’s kingdom.
           D: God’s anger against the Jewish people.
         answer: A
+        print_position: 14
+        unit: 1
       - uid: MIN227.2.2.1.UPE.2
         subobj: 2.2.1
         type: upe
@@ -415,6 +458,8 @@ courses:
           C: contain their ministry to the Roman empire.
           D: be witnesses to all of the areas mentioned without prioritizing.
         answer: D
+        print_position: 15
+        unit: 1
       - uid: MIN227.2.2.1.TY.1
         subobj: 2.2.1
         type: ty
@@ -427,6 +472,7 @@ courses:
             the world.
           D: assign specific regions to specific disciples.
         answer: C
+        print_position: 6
       - uid: MIN227.2.2.2.UPE.1
         subobj: 2.2.2
         type: upe
@@ -437,6 +483,8 @@ courses:
           C: can help a church to become more heterogeneous.
           D: is a sign of spiritual apathy in the church.
         answer: C
+        print_position: 17
+        unit: 1
       - uid: MIN227.2.2.2.TY.1
         subobj: 2.2.2
         type: ty
@@ -448,6 +496,7 @@ courses:
             Bible.
           D: proof that oil and water do not mix.
         answer: A
+        print_position: 7
       - uid: MIN227.2.2.3.UPE.1
         subobj: 2.2.3
         type: upe
@@ -459,6 +508,8 @@ courses:
           C: supports the biblical understanding of marriage.
           D: is centered around others.
         answer: A
+        print_position: 16
+        unit: 1
       - uid: MIN227.2.2.3.TY.1
         subobj: 2.2.3
         type: ty
@@ -470,6 +521,7 @@ courses:
           D: illustrate the church’s role in reaching out to all spiritually lost
             people.
         answer: D
+        print_position: 8
       - uid: MIN227.2.2.3.TY.2
         subobj: 2.2.3
         type: ty
@@ -481,6 +533,7 @@ courses:
           C: prove that Jesus was breaking the Law.
           D: see if Jesus was the Messiah.
         answer: A
+        print_position: 9
       - uid: MIN227.2.2.4.TY.1
         subobj: 2.2.4
         type: ty
@@ -492,6 +545,7 @@ courses:
           C: apply it as the first step in church planting.
           D: see it as a tool for connecting the gospel with specific types of people.
         answer: D
+        print_position: 10
       - uid: MIN227.3.1.1.UPE.1
         subobj: 3.1.1
         type: upe
@@ -504,6 +558,8 @@ courses:
           C: centered on the role of the Holy Spirit in fulfilling the commission.
           D: included discussion of end time events.
         answer: B
+        print_position: 18
+        unit: 1
       - uid: MIN227.3.1.2.UPE.1
         subobj: 3.1.2
         type: upe
@@ -517,6 +573,8 @@ courses:
             the empire.
           D: a common language was spoken throughout the region.
         answer: B
+        print_position: 19
+        unit: 1
       - uid: MIN227.3.1.3.UPE.1
         subobj: 3.1.3
         type: upe
@@ -530,6 +588,8 @@ courses:
           D: The elect are born to be saved, and the lost are born to be damned; only
             God knows who is who.
         answer: A
+        print_position: 20
+        unit: 1
       - uid: MIN227.3.2.1.UPE.1
         subobj: 3.2.1
         type: upe
@@ -542,6 +602,8 @@ courses:
           C: He would return periodically to assess their progress.
           D: He would accomplish the Great Commission without their help.
         answer: B
+        print_position: 22
+        unit: 1
       - uid: MIN227.3.2.2.UPE.1
         subobj: 3.2.2
         type: upe
@@ -555,6 +617,8 @@ courses:
           D: only priests could be filled with the Holy Spirit in the Old Testament,
             but the Spirit is available to all believers in the New Testament.
         answer: C
+        print_position: 23
+        unit: 1
       - uid: MIN227.3.2.2.UPE.2
         subobj: 3.2.2
         type: upe
@@ -566,6 +630,8 @@ courses:
           C: Old Testament symbols of fire and wind.
           D: need to pray in tongues.
         answer: B
+        print_position: 24
+        unit: 1
       - uid: MIN227.3.2.3.UPE.1
         subobj: 3.2.3
         type: upe
@@ -577,6 +643,8 @@ courses:
           C: do not include a version of the Great Commission.
           D: minimize the role of the Holy Spirit in the Great Commission.
         answer: A
+        print_position: 21
+        unit: 1
       - uid: MIN227.3.2.4.UPE.1
         subobj: 3.2.4
         type: upe
@@ -589,6 +657,8 @@ courses:
           C: the sinfulness of the wilderness generation.
           D: the need to continually be filled with the Holy Spirit.
         answer: D
+        print_position: 25
+        unit: 1
       - uid: MIN227.4.1.1.TY.1
         subobj: 4.1.1
         type: ty
@@ -600,6 +670,7 @@ courses:
           C: use of Aramaic.
           D: reliance on symbolic numbers.
         answer: A
+        print_position: 1
       - uid: MIN227.4.1.4.UPE.1
         subobj: 4.1.4
         type: upe
@@ -611,6 +682,8 @@ courses:
           C: a Hebrew to Greek worldview.
           D: straight-forward symbolism to numerology.
         answer: B
+        print_position: 1
+        unit: 2
       - uid: MIN227.4.1.4.UPE.2
         subobj: 4.1.4
         type: upe
@@ -625,6 +698,8 @@ courses:
           D: Every person’s choice to belong to God’s kingdom or Satan’s; and the
             ultimate, eternal triumph of God’s kingdom.
         answer: D
+        print_position: 2
+        unit: 2
       - uid: MIN227.4.1.4.TY.1
         subobj: 4.1.4
         type: ty
@@ -637,6 +712,7 @@ courses:
             concepts.
           D: avoid a blasphemous use of the Trinitarian number three .
         answer: B
+        print_position: 2
       - uid: MIN227.4.2.1.UPE.1
         subobj: 4.2.1
         type: upe
@@ -647,6 +723,8 @@ courses:
           C: was the first parable that Jesus ever told.
           D: represents Jesus’ death and resurrection.
         answer: A
+        print_position: 3
+        unit: 2
       - uid: MIN227.4.2.1.TY.1
         subobj: 4.2.1
         type: ty
@@ -657,6 +735,7 @@ courses:
           C: unproductive and productive soils.
           D: people who live by the Law and those who accept God’s grace.
         answer: C
+        print_position: 3
       - uid: MIN227.4.2.2.UPE.1
         subobj: 4.2.2
         type: upe
@@ -668,6 +747,8 @@ courses:
           C: sowing the right kind of seed.
           D: the continued discipling process.
         answer: D
+        print_position: 4
+        unit: 2
       - uid: MIN227.4.2.2.UPE.2
         subobj: 4.2.2
         type: upe
@@ -679,6 +760,8 @@ courses:
           C: Shallow ground
           D: Thorny ground
         answer: D
+        print_position: 5
+        unit: 2
       - uid: MIN227.4.2.2.TY.1
         subobj: 4.2.2
         type: ty
@@ -689,6 +772,7 @@ courses:
           C: falling into pseudo-Christian heresies.
           D: the elect being the only ones who can understand the gospel.
         answer: A
+        print_position: 4
       - uid: MIN227.4.2.3.TY.1
         subobj: 4.2.3
         type: ty
@@ -701,6 +785,7 @@ courses:
           C: heralded His later miracle of feeding the 5,000.
           D: made the crowd angry and ready to stone Him for sowing on the Sabbath.
         answer: A
+        print_position: 5
       - uid: MIN227.4.2.4.TY.1
         subobj: 4.2.4
         type: ty
@@ -712,6 +797,7 @@ courses:
           C: avoid a premature declaration of His kingdom on earth.
           D: make sure that their receptive hearts received the right interpretation.
         answer: D
+        print_position: 6
       - uid: MIN227.4.3.1.UPE.1
         subobj: 4.3.1
         type: upe
@@ -724,6 +810,8 @@ courses:
           D: because He was concerned that they would be caught up with the cares
             of the world.
         answer: B
+        print_position: 6
+        unit: 2
       - uid: MIN227.4.3.1.UPE.2
         subobj: 4.3.1
         type: upe
@@ -734,6 +822,8 @@ courses:
           C: unproductive soils.
           D: proof of predestination.
         answer: A
+        print_position: 7
+        unit: 2
       - uid: MIN227.4.3.2.TY.1
         subobj: 4.3.2
         type: ty
@@ -745,6 +835,7 @@ courses:
           C: the gifts of the Spirit come into evidence.
           D: gleaners will be blessed with the leftovers.
         answer: B
+        print_position: 7
       - uid: MIN227.4.3.4.TY.1
         subobj: 4.3.4
         type: ty
@@ -757,6 +848,7 @@ courses:
           C: because all parables have multiple applications.
           D: since Jesus began His ministry by calling fishers of men.
         answer: B
+        print_position: 8
       - uid: MIN227.4.4.1.TY.1
         subobj: 4.4.1
         type: ty
@@ -767,6 +859,7 @@ courses:
           C: Salt, light, and branches on a vine
           D: Passover, Pentecost, and the Feast of Trumpets
         answer: C
+        print_position: 9
       - uid: MIN227.4.4.2.UPE.1
         subobj: 4.4.2
         type: upe
@@ -780,6 +873,8 @@ courses:
           C: crossing the seas to evangelize the nations.
           D: valued by their communities, as salt was a valuable commodity.
         answer: A
+        print_position: 8
+        unit: 2
       - uid: MIN227.4.4.2.UPE.2
         subobj: 4.4.2
         type: upe
@@ -791,6 +886,8 @@ courses:
           C: they act as a mirror for the souls of men.
           D: there is a natural spark of divinity within each of us.
         answer: A
+        print_position: 9
+        unit: 2
       - uid: MIN227.4.4.3.TY.1
         subobj: 4.4.3
         type: ty
@@ -802,6 +899,7 @@ courses:
           C: the warning of possible ineffectiveness and being cut off.
           D: its focus on Christ’s empowering role in believers’ activities.
         answer: D
+        print_position: 10
       - uid: MIN227.5.1.1.UPE.1
         subobj: 5.1.1
         type: upe
@@ -813,6 +911,8 @@ courses:
           C: Andrew.
           D: the Samaritan woman.
         answer: D
+        print_position: 10
+        unit: 2
       - uid: MIN227.5.1.2.UPE.1
         subobj: 5.1.2
         type: upe
@@ -824,6 +924,8 @@ courses:
           C: be prepared to discuss the inadequacy of false religion.
           D: seek out the most sinful member in order to reach a community for Christ.
         answer: B
+        print_position: 11
+        unit: 2
       - uid: MIN227.5.1.2.TY.1
         subobj: 5.1.2
         type: ty
@@ -834,6 +936,7 @@ courses:
           C: in the Sunday school classroom.
           D: on Christmas and Easter Sunday.
         answer: A
+        print_position: 1
       - uid: MIN227.5.1.2.TY.2
         subobj: 5.1.2
         type: ty
@@ -845,6 +948,7 @@ courses:
           C: because God has predestined certain people to be saved.
           D: when they recognize the work of the Holy Spirit in lives and circumstances.
         answer: D
+        print_position: 2
       - uid: MIN227.5.1.3.UPE.1
         subobj: 5.1.3
         type: upe
@@ -856,6 +960,8 @@ courses:
           C: gender barrier.
           D: religious barrier.
         answer: B
+        print_position: 12
+        unit: 2
       - uid: MIN227.5.1.4.TY.1
         subobj: 5.1.4
         type: ty
@@ -866,6 +972,7 @@ courses:
           C: Jesus’ commitment to speak in symbols.
           D: the woman’s identity as an adulterer.
         answer: A
+        print_position: 3
       - uid: MIN227.5.2.1.TY.1
         subobj: 5.2.1
         type: ty
@@ -877,6 +984,7 @@ courses:
           C: means of condemning the lost by exposing them to knowledge of the truth.
           D: series of arguments to be won.
         answer: D
+        print_position: 4
       - uid: MIN227.5.2.2.UPE.1
         subobj: 5.2.2
         type: upe
@@ -887,6 +995,8 @@ courses:
           C: condemning nonbelievers of their sinfulness.
           D: a personalized message that responds to the interest and needs of a nonbeliever.
         answer: D
+        print_position: 13
+        unit: 2
       - uid: MIN227.5.2.2.UPE.2
         subobj: 5.2.2
         type: upe
@@ -897,6 +1007,8 @@ courses:
           C: body language and vocal emphasis.
           D: a thorough knowledge of current events.
         answer: A
+        print_position: 14
+        unit: 2
       - uid: MIN227.5.2.2.TY.1
         subobj: 5.2.2
         type: ty
@@ -908,6 +1020,7 @@ courses:
           C: first find a subject that genuinely interests the other person.
           D: wait until a relationship has been established.
         answer: C
+        print_position: 5
       - uid: MIN227.5.2.3.TY.1
         subobj: 5.2.3
         type: ty
@@ -918,6 +1031,7 @@ courses:
           C: depends on how clearly the witnesser reads the relevant biblical texts.
           D: is to use vocabulary familiar to the listener.
         answer: D
+        print_position: 6
       - uid: MIN227.5.2.4.TY.1
         subobj: 5.2.4
         type: ty
@@ -932,6 +1046,7 @@ courses:
           D: the example of the believer’s victorious spiritual life will draw the
             lost to God.
         answer: C
+        print_position: 7
       - uid: MIN227.5.3.1.TY.1
         subobj: 5.3.1
         type: ty
@@ -943,6 +1058,7 @@ courses:
             message.
           D: is a good idea, as long as the religion discussed is in contrast to Christianity.
         answer: C
+        print_position: 8
       - uid: MIN227.5.3.2.UPE.1
         subobj: 5.3.2
         type: upe
@@ -954,6 +1070,8 @@ courses:
             church.
           D: try to avoid the subject of sin altogether.
         answer: A
+        print_position: 15
+        unit: 2
       - uid: MIN227.5.3.2.UPE.2
         subobj: 5.3.2
         type: upe
@@ -964,6 +1082,8 @@ courses:
           C: worship expressions that communicate directly with God.
           D: observing the sacrament of communion.
         answer: C
+        print_position: 16
+        unit: 2
       - uid: MIN227.5.3.2.UPE.3
         subobj: 5.3.2
         type: upe
@@ -974,6 +1094,8 @@ courses:
           C: exercising the gift of knowledge.
           D: the moment of salvation when Jesus, who is Truth, is accepted as Lord.
         answer: B
+        print_position: 17
+        unit: 2
       - uid: MIN227.5.3.3.TY.1
         subobj: 5.3.3
         type: ty
@@ -984,6 +1106,7 @@ courses:
           C: remember that God only reaches out to the lost who are the elect.
           D: one can be encouraged, because all the lost will eventually be saved.
         answer: A
+        print_position: 9
       - uid: MIN227.5.3.4.TY.1
         subobj: 5.3.4
         type: ty
@@ -994,6 +1117,7 @@ courses:
           C: special role of the Jews in salvation history.
           D: prophecies of Daniel.
         answer: B
+        print_position: 10
       - uid: MIN227.6.1.1.TY.1
         subobj: 6.1.1
         type: ty
@@ -1004,6 +1128,7 @@ courses:
           C: a parable involving five foolish and five wise bridesmaids.
           D: their ultimate test of faith in the face of persecution.
         answer: A
+        print_position: 1
       - uid: MIN227.6.1.2.UPE.1
         subobj: 6.1.2
         type: upe
@@ -1016,6 +1141,8 @@ courses:
             the Spirit.
           D: predicting the fall of Jerusalem and warnings of earthquakes and wars.
         answer: C
+        print_position: 18
+        unit: 2
       - uid: MIN227.6.1.3.UPE.1
         subobj: 6.1.3
         type: upe
@@ -1027,6 +1154,8 @@ courses:
           C: teach in detail about the promised Holy Spirit’s empowerment.
           D: warn them of the leaven of the Pharisees.
         answer: C
+        print_position: 19
+        unit: 2
       - uid: MIN227.6.1.3.TY.1
         subobj: 6.1.3
         type: ty
@@ -1039,6 +1168,7 @@ courses:
           C: a completely intangible force best described as the Holy Ghost.
           D: a dove.
         answer: A
+        print_position: 2
       - uid: MIN227.6.1.4.TY.1
         subobj: 6.1.4
         type: ty
@@ -1049,6 +1179,7 @@ courses:
           C: a still, small voice that directs the believer day to day.
           D: signs and wonders.
         answer: B
+        print_position: 3
       - uid: MIN227.6.2.1.UPE.1
         subobj: 6.2.1
         type: upe
@@ -1061,6 +1192,8 @@ courses:
             God has assigned us.
           D: referred to the power with which Jesus will reign during the millennium.
         answer: C
+        print_position: 20
+        unit: 2
       - uid: MIN227.6.2.1.TY.1
         subobj: 6.2.1
         type: ty
@@ -1072,6 +1205,7 @@ courses:
           C: as the overwhelming urge to preach the gospel.
           D: as the rushing mighty wind heard by the 120 in the Upper Room.
         answer: B
+        print_position: 4
       - uid: MIN227.6.2.1.TY.2
         subobj: 6.2.1
         type: ty
@@ -1084,6 +1218,7 @@ courses:
           C: contrasting human desire with animal desire.
           D: denying the reality of human desire.
         answer: A
+        print_position: 5
       - uid: MIN227.6.2.2.UPE.1
         subobj: 6.2.2
         type: upe
@@ -1094,6 +1229,8 @@ courses:
           C: in a group of supporting believers.
           D: only at the Second Coming.
         answer: B
+        print_position: 22
+        unit: 2
       - uid: MIN227.6.2.3.UPE.1
         subobj: 6.2.3
         type: upe
@@ -1104,6 +1241,8 @@ courses:
           C: did not perform signs or wonders.
           D: taught that signs and wonders were only for a limited period of time.
         answer: B
+        print_position: 21
+        unit: 2
       - uid: MIN227.6.2.3.TY.1
         subobj: 6.2.3
         type: ty
@@ -1115,6 +1254,7 @@ courses:
           C: His parable of the Good Samaritan.
           D: the seven vials of judgment in Revelation.
         answer: B
+        print_position: 6
       - uid: MIN227.6.2.4.TY.1
         subobj: 6.2.4
         type: ty
@@ -1126,6 +1266,7 @@ courses:
           C: empowering them to share the gospel with the lost.
           D: empowering them to perform signs and wonders.
         answer: C
+        print_position: 7
       - uid: MIN227.6.3.1.TY.1
         subobj: 6.3.1
         type: ty
@@ -1137,6 +1278,7 @@ courses:
           C: accept Jesus Christ as personal Savior.
           D: renounce all attachment to the world and its wealth.
         answer: C
+        print_position: 8
       - uid: MIN227.6.3.3.UPE.1
         subobj: 6.3.3
         type: upe
@@ -1147,6 +1289,8 @@ courses:
           C: he or she has achieved a higher plane of spiritual existence.
           D: the Holy Spirit has endowed a lifelong infilling in that believer.
         answer: B
+        print_position: 24
+        unit: 2
       - uid: MIN227.6.3.3.TY.1
         subobj: 6.3.3
         type: ty
@@ -1158,6 +1302,7 @@ courses:
           D: foreign evangelism, ethnic outreach at home, confrontation with the lost,
             and sanctification.
         answer: A
+        print_position: 9
       - uid: MIN227.6.3.4.UPE.1
         subobj: 6.3.4
         type: upe
@@ -1168,6 +1313,8 @@ courses:
           C: encourage them not to worry that they will have a false experience.
           D: tell them they are not truly saved until they are filled with the Spirit.
         answer: C
+        print_position: 23
+        unit: 2
       - uid: MIN227.6.3.4.UPE.2
         subobj: 6.3.4
         type: upe
@@ -1178,6 +1325,8 @@ courses:
           C: no longer needs to study languages for missions work.
           D: should enter full time vocational ministry.
         answer: B
+        print_position: 25
+        unit: 2
       - uid: MIN227.6.3.4.TY.1
         subobj: 6.3.4
         type: ty
@@ -1189,6 +1338,7 @@ courses:
           C: Jesus promised it as a gift of His loving heavenly Father.
           D: all Christians will receive the Holy Spirit baptism before Jesus returns.
         answer: C
+        print_position: 10
       - uid: MIN227.7.1.1.TY.1
         subobj: 7.1.1
         type: ty
@@ -1200,6 +1350,7 @@ courses:
           C: the reward of the righteous and the punishment of the wicked.
           D: the gospel as expressed to the Jews and as expressed to the Gentiles.
         answer: A
+        print_position: 1
       - uid: MIN227.7.1.4.UPE.1
         subobj: 7.1.4
         type: upe
@@ -1212,6 +1363,8 @@ courses:
             by the Gospel writers.
           D: yourself, and the successful life you live as a result of your faith.
         answer: A
+        print_position: 1
+        unit: 3
       - uid: MIN227.7.1.4.UPE.2
         subobj: 7.1.4
         type: upe
@@ -1222,6 +1375,8 @@ courses:
           C: Jesus
           D: Pilate
         answer: C
+        print_position: 2
+        unit: 3
       - uid: MIN227.7.1.4.TY.1
         subobj: 7.1.4
         type: ty
@@ -1233,6 +1388,7 @@ courses:
           D: the connection of the New Testament name Jesus with the Old Testament
             name Joshua.
         answer: A
+        print_position: 2
       - uid: MIN227.7.1.4.TY.2
         subobj: 7.1.4
         type: ty
@@ -1244,6 +1400,7 @@ courses:
           C: he or she serves on the foreign mission field for at least a year.
           D: Jesus Christ died and rose again.
         answer: D
+        print_position: 3
       - uid: MIN227.7.1.4.TY.3
         subobj: 7.1.4
         type: ty
@@ -1256,6 +1413,7 @@ courses:
             Son.
           D: representative of all sinful people for whom Jesus gave His life.
         answer: D
+        print_position: 4
       - uid: MIN227.7.1.4.TY.4
         subobj: 7.1.4
         type: ty
@@ -1269,6 +1427,7 @@ courses:
           D: there has been an eternal, uncrossable line drawn between the elect and
             the lost.
         answer: C
+        print_position: 5
       - uid: MIN227.7.2.1.UPE.1
         subobj: 7.2.1
         type: upe
@@ -1280,6 +1439,8 @@ courses:
             clarity.
           D: the longest of the Gospels.
         answer: C
+        print_position: 3
+        unit: 3
       - uid: MIN227.7.2.2.TY.1
         subobj: 7.2.2
         type: ty
@@ -1292,6 +1453,7 @@ courses:
           D: best understood by mature believers who have studied the other three
             Gospels.
         answer: A
+        print_position: 6
       - uid: MIN227.7.2.2.TY.2
         subobj: 7.2.2
         type: ty
@@ -1302,6 +1464,7 @@ courses:
           C: were being severely persecuted and needed encouragement.
           D: had split into two churches and elected two popes.
         answer: C
+        print_position: 7
       - uid: MIN227.7.2.3.TY.1
         subobj: 7.2.3
         type: ty
@@ -1313,6 +1476,7 @@ courses:
             in His teaching.
           D: iambic pentameter.
         answer: B
+        print_position: 8
       - uid: MIN227.7.2.3.TY.2
         subobj: 7.2.3
         type: ty
@@ -1324,6 +1488,7 @@ courses:
           C: examining Jesus’ teaching from the Sermon on the Mount.
           D: relating Mark’s life and interaction with Jesus as a disciple.
         answer: B
+        print_position: 9
       - uid: MIN227.7.2.3.TY.3
         subobj: 7.2.3
         type: ty
@@ -1334,6 +1499,7 @@ courses:
           C: extensive details of Jesus’ last week on earth and Jesus’ own statements.
           D: Stephen’s promise to Mary that a sword would pierce her heart.
         answer: C
+        print_position: 10
       - uid: MIN227.8.1.1.TY.1
         subobj: 8.1.1
         type: ty
@@ -1346,6 +1512,7 @@ courses:
           C: God, the speaker, and the message
           D: Pentecostal baptism, the fruit of the Spirit, and the gifts of the Spirit
         answer: A
+        print_position: 1
       - uid: MIN227.8.1.2.TY.1
         subobj: 8.1.2
         type: ty
@@ -1358,6 +1525,7 @@ courses:
           C: the outgrowth of the “What Would Jesus Do?” movement.
           D: ministry to people addicted to immoral lifestyles.
         answer: B
+        print_position: 2
       - uid: MIN227.8.1.3.UPE.1
         subobj: 8.1.3
         type: upe
@@ -1368,6 +1536,8 @@ courses:
           C: The quality of the seed.
           D: The credibility of our lives.
         answer: D
+        print_position: 4
+        unit: 3
       - uid: MIN227.8.1.3.TY.1
         subobj: 8.1.3
         type: ty
@@ -1378,6 +1548,7 @@ courses:
           C: Emotions, attitudes, actions
           D: General knowledge, acquired education, personal experience
         answer: C
+        print_position: 3
       - uid: MIN227.8.1.4.TY.1
         subobj: 8.1.4
         type: ty
@@ -1389,6 +1560,7 @@ courses:
           C: giving the believer knowledge of every unbeliever’s need.
           D: signs and wonders.
         answer: A
+        print_position: 4
       - uid: MIN227.8.2.1.UPE.1
         subobj: 8.2.1
         type: upe
@@ -1402,6 +1574,8 @@ courses:
             violated.
           D: specialization precludes the role of the Holy Spirit.
         answer: A
+        print_position: 5
+        unit: 3
       - uid: MIN227.8.2.1.TY.1
         subobj: 8.2.1
         type: ty
@@ -1413,6 +1587,7 @@ courses:
           C: recommended that they elect Apollos as their bishop.
           D: condemned the practice outright.
         answer: B
+        print_position: 5
       - uid: MIN227.8.2.2.TY.1
         subobj: 8.2.2
         type: ty
@@ -1423,6 +1598,7 @@ courses:
           C: quote from memory the pertinent biblical references to salvation.
           D: obey God’s leading in sharing and nurturing the Word at every opportunity.
         answer: D
+        print_position: 6
       - uid: MIN227.8.2.4.UPE.1
         subobj: 8.2.4
         type: upe
@@ -1434,6 +1610,8 @@ courses:
           C: effective evangelist.
           D: local church.
         answer: B
+        print_position: 6
+        unit: 3
       - uid: MIN227.8.2.4.TY.1
         subobj: 8.2.4
         type: ty
@@ -1444,6 +1622,7 @@ courses:
           C: Regeneration, sanctification, transformation, multiplication
           D: Conviction, condemnation, pronouncement of judgment, damnation
         answer: C
+        print_position: 7
       - uid: MIN227.8.3.1.UPE.1
         subobj: 8.3.1
         type: upe
@@ -1454,6 +1633,8 @@ courses:
           C: exposition and application.
           D: condemnation and enlightenment.
         answer: B
+        print_position: 7
+        unit: 3
       - uid: MIN227.8.3.1.TY.1
         subobj: 8.3.1
         type: ty
@@ -1464,6 +1645,7 @@ courses:
           C: message, method, and means.
           D: Damascus road encounter, temporary blindness, and multiple persecutions.
         answer: C
+        print_position: 8
       - uid: MIN227.8.3.2.TY.1
         subobj: 8.3.2
         type: ty
@@ -1474,6 +1656,7 @@ courses:
           C: Speaking in tongues and interpreting tongues
           D: Personal charisma and biblical education
         answer: A
+        print_position: 9
       - uid: MIN227.8.3.3.UPE.1
         subobj: 8.3.3
         type: upe
@@ -1485,6 +1668,8 @@ courses:
           C: The satisfaction
           D: God’s work
         answer: D
+        print_position: 8
+        unit: 3
       - uid: MIN227.8.3.4.TY.1
         subobj: 8.3.4
         type: ty
@@ -1496,6 +1681,7 @@ courses:
           C: participate with him by supporting him in prayer.
           D: be tentmakers with him.
         answer: C
+        print_position: 10
       - uid: MIN227.9.1.1.UPE.1
         subobj: 9.1.1
         type: upe
@@ -1506,6 +1692,8 @@ courses:
           C: lengthy incorporation of scriptural quotation.
           D: demonstration of an active and constant relationship with God.
         answer: D
+        print_position: 9
+        unit: 3
       - uid: MIN227.9.1.2.TY.1
         subobj: 9.1.2
         type: ty
@@ -1517,6 +1705,7 @@ courses:
           C: the Holy Spirit must be at work in the speaker.
           D: all of the above.
         answer: D
+        print_position: 1
       - uid: MIN227.9.1.3.TY.1
         subobj: 9.1.3
         type: ty
@@ -1528,6 +1717,7 @@ courses:
           C: Prophesy, pray in tongues, proclaim the triumph of the gospel
           D: Fast, wear sackcloth, tithe
         answer: B
+        print_position: 2
       - uid: MIN227.9.1.4.UPE.1
         subobj: 9.1.4
         type: upe
@@ -1539,6 +1729,8 @@ courses:
           C: supernaturally guarantees that the listener will come to Christ.
           D: dictates the believer’s exact words.
         answer: A
+        print_position: 10
+        unit: 3
       - uid: MIN227.9.2.2.TY.1
         subobj: 9.2.2
         type: ty
@@ -1550,6 +1742,7 @@ courses:
             in Jesus Christ.
           D: is fully expanded the moment he or she comes to salvation.
         answer: C
+        print_position: 3
       - uid: MIN227.9.2.3.UPE.1
         subobj: 9.2.3
         type: upe
@@ -1561,6 +1754,8 @@ courses:
           C: God’s plan to judge the world and condemn sinners to hell.
           D: His return to earth to rule with a rod of iron.
         answer: A
+        print_position: 12
+        unit: 3
       - uid: MIN227.9.2.4.UPE.1
         subobj: 9.2.4
         type: upe
@@ -1571,6 +1766,8 @@ courses:
           C: daily miracles.
           D: the liturgy of the church.
         answer: A
+        print_position: 13
+        unit: 3
       - uid: MIN227.9.3.2.UPE.1
         subobj: 9.3.2
         type: upe
@@ -1582,6 +1779,8 @@ courses:
           C: be careful not to bring up the subject of sin.
           D: push for an immediate decision.
         answer: A
+        print_position: 11
+        unit: 3
       - uid: MIN227.9.3.2.TY.1
         subobj: 9.3.2
         type: ty
@@ -1592,6 +1791,7 @@ courses:
           C: have fallen back into the Law’s dichotomy of separating Jews and Gentiles.
           D: recognize that many people are predestined never to enter God’s kingdom.
         answer: A
+        print_position: 4
       - uid: MIN227.9.3.3.TY.1
         subobj: 9.3.3
         type: ty
@@ -1602,6 +1802,7 @@ courses:
           C: has lost all specific meaning.
           D: should be used with synonyms such as believer or follower of Christ.
         answer: D
+        print_position: 5
       - uid: MIN227.9.3.4.UPE.1
         subobj: 9.3.4
         type: upe
@@ -1612,6 +1813,8 @@ courses:
           C: share the gospel to those around them in any context.
           D: are appointed by the Assemblies of God World Missions.
         answer: C
+        print_position: 14
+        unit: 3
       - uid: MIN227.9.3.4.UPE.2
         subobj: 9.3.4
         type: upe
@@ -1625,6 +1828,8 @@ courses:
           D: no longer needed, now that mass communications takes the gospel around
             the world.
         answer: C
+        print_position: 15
+        unit: 3
       - uid: MIN227.9.4.1.UPE.1
         subobj: 9.4.1
         type: upe
@@ -1636,6 +1841,8 @@ courses:
           C: first inquire about the person’s soul.
           D: be sensitive to divine appointments to witness to the lost.
         answer: D
+        print_position: 16
+        unit: 3
       - uid: MIN227.9.4.2.TY.1
         subobj: 9.4.2
         type: ty
@@ -1646,6 +1853,7 @@ courses:
           C: Word of knowledge, word of wisdom
           D: A crucifix, a tract
         answer: A
+        print_position: 6
       - uid: MIN227.9.4.3.TY.1
         subobj: 9.4.3
         type: ty
@@ -1656,6 +1864,7 @@ courses:
           C: as elderly family members approach death.
           D: when the believer publicly reads the Bible.
         answer: B
+        print_position: 7
       - uid: MIN227.9.4.4.UPE.1
         subobj: 9.4.4
         type: upe
@@ -1666,6 +1875,8 @@ courses:
           C: reminds believers that witnessing opportunities are sometimes inconvenient.
           D: is a warning against idolatry.
         answer: C
+        print_position: 17
+        unit: 3
       - uid: MIN227.9.5.1.UPE.1
         subobj: 9.5.1
         type: upe
@@ -1676,6 +1887,8 @@ courses:
           C: forgetting to shower.
           D: a lack of theological education.
         answer: B
+        print_position: 19
+        unit: 3
       - uid: MIN227.9.5.1.TY.1
         subobj: 9.5.1
         type: ty
@@ -1686,6 +1899,7 @@ courses:
           C: a personal copy of the Bible.
           D: a tract.
         answer: B
+        print_position: 8
       - uid: MIN227.9.5.2.UPE.1
         subobj: 9.5.2
         type: upe
@@ -1697,6 +1911,8 @@ courses:
           C: the person considering Christ’s forgiveness must swear to never sin again.
           D: believers must admit all past sins.
         answer: A
+        print_position: 18
+        unit: 3
       - uid: MIN227.9.5.3.UPE.1
         subobj: 9.5.3
         type: upe
@@ -1708,6 +1924,8 @@ courses:
           C: are obeying Christ’s command to let the world see their good works.
           D: are too insecure to talk about their relationship with Christ.
         answer: C
+        print_position: 20
+        unit: 3
       - uid: MIN227.9.6.1.TY.1
         subobj: 9.6.1
         type: ty
@@ -1719,6 +1937,7 @@ courses:
           D: connect with individuals and tailor His teachings and miracles to respond
             to their needs.
         answer: D
+        print_position: 9
       - uid: MIN227.9.6.3.UPE.1
         subobj: 9.6.3
         type: upe
@@ -1731,6 +1950,8 @@ courses:
           C: contrasting Old Testament circumcision with New Testament grace.
           D: alluding to the marriage of Christ and the church.
         answer: B
+        print_position: 21
+        unit: 3
       - uid: MIN227.9.6.3.TY.1
         subobj: 9.6.3
         type: ty
@@ -1741,6 +1962,7 @@ courses:
           C: the personal witness of someone they know.
           D: anointed pleas for seed-faith pledges.
         answer: C
+        print_position: 10
       - uid: MIN227.10.1.1.UPE.1
         subobj: 10.1.1
         type: upe
@@ -1751,6 +1973,8 @@ courses:
           C: in their knowledge and relationship with God.
           D: from the encouragement of friends.
         answer: C
+        print_position: 22
+        unit: 3
       - uid: MIN227.10.1.1.UPE.2
         subobj: 10.1.1
         type: upe
@@ -1763,6 +1987,8 @@ courses:
           C: he would have been angered by the practices of the Roman church.
           D: it allowed him to travel to more important regions of the world.
         answer: B
+        print_position: 25
+        unit: 3
       - uid: MIN227.10.1.1.TY.1
         subobj: 10.1.1
         type: ty
@@ -1784,6 +2010,7 @@ courses:
           C: Jesus’ teachings were popular among the common people.
           D: they expected Christ’s soon return.
         answer: A
+        print_position: 2
       - uid: MIN227.10.1.2.UPE.1
         subobj: 10.1.2
         type: upe
@@ -1796,6 +2023,8 @@ courses:
           D: is inappropriate for modern believers because it conflicts with current
             standards of tolerance.
         answer: C
+        print_position: 23
+        unit: 3
       - uid: MIN227.10.1.2.TY.1
         subobj: 10.1.2
         type: ty
@@ -1807,6 +2036,7 @@ courses:
           C: the Pharisees, to whom he could relate as a scholar.
           D: those who gave faith pledges to his ministry.
         answer: B
+        print_position: 3
       - uid: MIN227.10.1.3.TY.1
         subobj: 10.1.3
         type: ty
@@ -1817,6 +2047,7 @@ courses:
           C: his eagerness to share the gospel with the lost.
           D: his regret for having helped stone Stephen.
         answer: C
+        print_position: 4
       - uid: MIN227.10.1.4.UPE.1
         subobj: 10.1.4
         type: upe
@@ -1827,6 +2058,8 @@ courses:
           C: of his confidence in the power of the gospel itself.
           D: he was trained by a prominent Jewish Rabbi.
         answer: C
+        print_position: 24
+        unit: 3
       - uid: MIN227.10.1.4.TY.1
         subobj: 10.1.4
         type: ty
@@ -1837,6 +2070,7 @@ courses:
           C: engage mind and emotions in full commitment to the task.
           D: always be ridiculed and persecuted.
         answer: C
+        print_position: 5
       - uid: MIN227.10.2.1.TY.1
         subobj: 10.2.1
         type: ty
@@ -1848,6 +2082,7 @@ courses:
           C: are women.
           D: have gone to Bible college.
         answer: A
+        print_position: 6
       - uid: MIN227.10.2.3.TY.1
         subobj: 10.2.3
         type: ty
@@ -1858,6 +2093,7 @@ courses:
           C: reaching the Gentiles and ministering in Rome.
           D: miracles and the end-time.
         answer: B
+        print_position: 7
       - uid: MIN227.10.2.3.TY.2
         subobj: 10.2.3
         type: ty
@@ -1869,6 +2105,7 @@ courses:
           D: saw the former as service to Christ and the latter as the opportunity
             to be with Him.
         answer: D
+        print_position: 8
       - uid: MIN227.10.2.3.TY.3
         subobj: 10.2.3
         type: ty
@@ -1881,6 +2118,7 @@ courses:
           D: the Holy Spirit’s control of the believer’s tongue during Pentecostal
             baptism.
         answer: A
+        print_position: 9
       - uid: MIN227.10.2.4.TY.1
         subobj: 10.2.4
         type: ty
@@ -1891,6 +2129,7 @@ courses:
           C: Study in the Word, reliance on the Holy Spirit, and rejection of sin
           D: Psalms, hymns, and spiritual songs
         answer: C
+        print_position: 10
       - uid: MIN227.11.1.1.TY.1
         subobj: 11.1.1
         type: ty
@@ -1903,6 +2142,7 @@ courses:
           D: interviewing students on past life experiences and then connecting those
             experiences with the material to be studied.
         answer: A
+        print_position: 1
       - uid: MIN227.11.1.2.UPE.1
         subobj: 11.1.2
         type: upe
@@ -1914,6 +2154,8 @@ courses:
           C: avoiding topics, like sin , that unbelievers may find uncomfortable.
           D: putting catchy phrases on the church sign.
         answer: B
+        print_position: 1
+        unit: 4
       - uid: MIN227.11.1.3.UPE.1
         subobj: 11.1.3
         type: upe
@@ -1925,6 +2167,8 @@ courses:
           C: provides opportunities for a pastor to model evangelism.
           D: is unwise for pastors, since it sets a bad example for church members.
         answer: C
+        print_position: 2
+        unit: 4
       - uid: MIN227.11.1.3.TY.1
         subobj: 11.1.3
         type: ty
@@ -1936,6 +2180,7 @@ courses:
           C: pray with someone about a personal need.
           D: summarize the key evidences for God’s existence.
         answer: C
+        print_position: 2
       - uid: MIN227.11.1.4.UPE.1
         subobj: 11.1.4
         type: upe
@@ -1946,6 +2191,8 @@ courses:
           C: the responsibility of those called to vocational ministry.
           D: centered around propositional statements of truth.
         answer: B
+        print_position: 3
+        unit: 4
       - uid: MIN227.11.1.4.TY.1
         subobj: 11.1.4
         type: ty
@@ -1959,6 +2206,7 @@ courses:
             evangelism.
           D: a churchwide point system and cash prizes for inviting people to church.
         answer: C
+        print_position: 3
       - uid: MIN227.11.2.1.UPE.1
         subobj: 11.2.1
         type: upe
@@ -1969,6 +2217,8 @@ courses:
           C: in large open air meetings.
           D: on their own accord, without anyone witnessing to them.
         answer: B
+        print_position: 4
+        unit: 4
       - uid: MIN227.11.2.1.TY.1
         subobj: 11.2.1
         type: ty
@@ -1983,6 +2233,7 @@ courses:
           D: gospel tracts on doors, Scripture yard signs, public Bible reading, and
             gospel bumper stickers.
         answer: A
+        print_position: 4
       - uid: MIN227.11.2.2.UPE.1
         subobj: 11.2.2
         type: upe
@@ -1994,6 +2245,8 @@ courses:
           C: are unimportant because church visitors are usually insincere.
           D: are more trouble than they are worth.
         answer: A
+        print_position: 5
+        unit: 4
       - uid: MIN227.11.2.2.TY.1
         subobj: 11.2.2
         type: ty
@@ -2005,6 +2258,7 @@ courses:
           C: similarities to community prayer walks.
           D: the pastor and one other church staff member.
         answer: A
+        print_position: 5
       - uid: MIN227.11.2.3.UPE.1
         subobj: 11.2.3
         type: upe
@@ -2015,6 +2269,8 @@ courses:
           C: is appropriate only for pastors who are very well known in their communities.
           D: can be an effective means of evangelizing.
         answer: D
+        print_position: 6
+        unit: 4
       - uid: MIN227.11.2.4.TY.1
         subobj: 11.2.4
         type: ty
@@ -2025,6 +2281,7 @@ courses:
           C: identifying personal lostness.
           D: the Romans Road.
         answer: B
+        print_position: 6
       - uid: MIN227.11.3.1.UPE.1
         subobj: 11.3.1
         type: upe
@@ -2036,6 +2293,8 @@ courses:
           C: Andrew.
           D: Peter.
         answer: B
+        print_position: 7
+        unit: 4
       - uid: MIN227.11.3.1.TY.1
         subobj: 11.3.1
         type: ty
@@ -2046,6 +2305,7 @@ courses:
           C: in each book and uses a variety of Greek words to explain the meaning.
           D: only once, and the passage is textually questionable.
         answer: A
+        print_position: 7
       - uid: MIN227.11.3.2.TY.1
         subobj: 11.3.2
         type: ty
@@ -2057,6 +2317,7 @@ courses:
           C: in the role of an associate pastor.
           D: in the context of the worldwide Church.
         answer: C
+        print_position: 8
       - uid: MIN227.11.3.4.UPE.1
         subobj: 11.3.4
         type: upe
@@ -2070,6 +2331,8 @@ courses:
           D: the church plant meets at different times or in a different part of the
             host church facility.
         answer: A
+        print_position: 8
+        unit: 4
       - uid: MIN227.11.3.4.TY.1
         subobj: 11.3.4
         type: ty
@@ -2081,6 +2344,7 @@ courses:
           C: Internal, satellite
           D: Sectional, cathedral
         answer: C
+        print_position: 9
       - uid: MIN227.11.3.4.TY.2
         subobj: 11.3.4
         type: ty
@@ -2093,6 +2357,7 @@ courses:
             church.
           D: decrease personal evangelism, since some see the church plant as a threat.
         answer: C
+        print_position: 10
       - uid: MIN227.12.1.1.UPE.1
         subobj: 12.1.1
         type: upe
@@ -2103,6 +2368,8 @@ courses:
           C: is unnecessary in a Spirit-filled church.
           D: is not an effective means of reaching the lost.
         answer: B
+        print_position: 9
+        unit: 4
       - uid: MIN227.12.1.1.TY.1
         subobj: 12.1.1
         type: ty
@@ -2113,6 +2380,7 @@ courses:
           C: personal testimony.
           D: careful interpretation of key words in the original languages.
         answer: A
+        print_position: 1
       - uid: MIN227.12.1.1.TY.2
         subobj: 12.1.1
         type: ty
@@ -2125,6 +2393,7 @@ courses:
           D: literary and historical criticism of the Word are integral to sermon
             preparation.
         answer: A
+        print_position: 2
       - uid: MIN227.12.1.2.UPE.1
         subobj: 12.1.2
         type: upe
@@ -2138,6 +2407,8 @@ courses:
           D: often wrote only under their own authority without the guidance of the
             Holy Spirit.
         answer: C
+        print_position: 10
+        unit: 4
       - uid: MIN227.12.1.2.TY.1
         subobj: 12.1.2
         type: ty
@@ -2149,6 +2420,7 @@ courses:
           C: the God-given creative abilities of biblical writers put to optimal use.
           D: God’s choice of literature from an array of religious writing.
         answer: A
+        print_position: 3
       - uid: MIN227.12.1.3.UPE.1
         subobj: 12.1.3
         type: upe
@@ -2161,6 +2433,8 @@ courses:
           C: current life experience to reveal the best illustrations for the text.
           D: personal spiritual disciplines and self-denial.
         answer: B
+        print_position: 11
+        unit: 4
       - uid: MIN227.12.1.4.TY.1
         subobj: 12.1.4
         type: ty
@@ -2171,6 +2445,7 @@ courses:
           C: emotional response of the congregation.
           D: length of the message.
         answer: B
+        print_position: 4
       - uid: MIN227.12.2.1.TY.1
         subobj: 12.2.1
         type: ty
@@ -2182,6 +2457,7 @@ courses:
           C: Immediate application, denominational understanding
           D: Original meaning, current application
         answer: D
+        print_position: 5
       - uid: MIN227.12.2.2.UPE.1
         subobj: 12.2.2
         type: upe
@@ -2193,6 +2469,8 @@ courses:
           D: connected with contemporary language and experience under the Spirit’s
             anointing.
         answer: D
+        print_position: 12
+        unit: 4
       - uid: MIN227.12.2.3.TY.1
         subobj: 12.2.3
         type: ty
@@ -2203,6 +2481,7 @@ courses:
           C: symbolic or allegorical implications.
           D: chronological placement in biblical history.
         answer: B
+        print_position: 6
       - uid: MIN227.12.2.4.UPE.1
         subobj: 12.2.4
         type: upe
@@ -2213,6 +2492,8 @@ courses:
           C: Discipline and dependence
           D: A growing church and community outreach
         answer: C
+        print_position: 13
+        unit: 4
       - uid: MIN227.12.2.4.TY.1
         subobj: 12.2.4
         type: ty
@@ -2225,6 +2506,7 @@ courses:
           C: giving the audience comic relief.
           D: breaking the sermon into portions to avoid excessive reading of the text.
         answer: B
+        print_position: 7
       - uid: MIN227.12.3.1.UPE.1
         subobj: 12.3.1
         type: upe
@@ -2235,6 +2517,8 @@ courses:
           C: are the most important roles in the church.
           D: come from the same Greek word roots.
         answer: A
+        print_position: 14
+        unit: 4
       - uid: MIN227.12.3.1.TY.1
         subobj: 12.3.1
         type: ty
@@ -2245,6 +2529,7 @@ courses:
           C: bring conviction to nonbelievers who cannot genuinely worship.
           D: shed light on believers’ sin and stir conviction.
         answer: A
+        print_position: 8
       - uid: MIN227.12.3.1.TY.2
         subobj: 12.3.1
         type: ty
@@ -2255,6 +2540,7 @@ courses:
           C: symbolic vestige of the Law of Moses.
           D: metaphor for the believer’s heart.
         answer: B
+        print_position: 9
       - uid: MIN227.12.3.2.UPE.1
         subobj: 12.3.2
         type: upe
@@ -2270,6 +2556,8 @@ courses:
           D: pronouncement of the lostness of man, announcement of the eternal duration
             of hell, description of God’s grace, warning against accepting grace unworthily.
         answer: C
+        print_position: 15
+        unit: 4
       - uid: MIN227.12.3.3.UPE.1
         subobj: 12.3.3
         type: upe
@@ -2281,6 +2569,8 @@ courses:
           C: whether he or she personally knows the Lord or has known the Lord.
           D: the four spiritual laws.
         answer: C
+        print_position: 16
+        unit: 4
       - uid: MIN227.12.3.4.TY.1
         subobj: 12.3.4
         type: ty
@@ -2293,6 +2583,7 @@ courses:
           D: be positive and encouraging, assuring the person of God’s working in
             his or her heart.
         answer: D
+        print_position: 10
       - uid: MIN227.13.1.1.UPE.1
         subobj: 13.1.1
         type: upe
@@ -2304,6 +2595,8 @@ courses:
           C: Bible study, Scripture memorization, and Bible meditation.
           D: Bible reading, Bible study, and Bible meditation.
         answer: D
+        print_position: 17
+        unit: 4
       - uid: MIN227.13.1.1.TY.1
         subobj: 13.1.1
         type: ty
@@ -2314,6 +2607,7 @@ courses:
           C: slow reading in order to increase understanding.
           D: spiritual nourishment being compared with physical nourishment.
         answer: D
+        print_position: 1
       - uid: MIN227.13.1.3.UPE.1
         subobj: 13.1.3
         type: upe
@@ -2325,6 +2619,8 @@ courses:
           C: not be baptized again if they were baptized as infants.
           D: be baptized only after they have received the baptism of the Holy Spirit.
         answer: A
+        print_position: 18
+        unit: 4
       - uid: MIN227.13.1.3.TY.1
         subobj: 13.1.3
         type: ty
@@ -2337,6 +2633,7 @@ courses:
           D: offering opportunities for corporate worship, spiritual encouragement,
             and service to others.
         answer: D
+        print_position: 2
       - uid: MIN227.13.1.3.TY.2
         subobj: 13.1.3
         type: ty
@@ -2348,6 +2645,7 @@ courses:
           C: monogamous lifestyles and pro-life voting records.
           D: regular participation in communion and obedience in water baptism.
         answer: B
+        print_position: 3
       - uid: MIN227.13.2.2.TY.1
         subobj: 13.2.2
         type: ty
@@ -2360,6 +2658,7 @@ courses:
             discipleship.
           D: gifts of the Spirit, each used exclusively by believers with that gift.
         answer: A
+        print_position: 4
       - uid: MIN227.13.2.3.TY.1
         subobj: 13.2.3
         type: ty
@@ -2370,6 +2669,7 @@ courses:
           C: absorb the theological position statements of his or her church.
           D: achieve material blessing as proof of God’s favor.
         answer: B
+        print_position: 5
       - uid: MIN227.13.2.4.TY.1
         subobj: 13.2.4
         type: ty
@@ -2381,6 +2681,7 @@ courses:
             believers are responsible to spiritually nurture him or her.
           D: God takes full responsibility to choose disciplers for His followers.
         answer: C
+        print_position: 6
       - uid: MIN227.13.2.4.TY.2
         subobj: 13.2.4
         type: ty
@@ -2393,6 +2694,7 @@ courses:
           D: irreversible, with discipleship following a pre-ordained path of spiritual
             growth.
         answer: A
+        print_position: 7
       - uid: MIN227.13.3.2.TY.1
         subobj: 13.3.2
         type: ty
@@ -2403,6 +2705,7 @@ courses:
           C: be evaluated for specific spiritual gifts and given structured training.
           D: be given opportunities to serve others and, thus, grow spiritually.
         answer: D
+        print_position: 8
       - uid: MIN227.13.3.3.UPE.1
         subobj: 13.3.3
         type: upe
@@ -2413,6 +2716,8 @@ courses:
           C: provide a means for discipleship in the local church.
           D: are a new age concept that should be rejected by the church.
         answer: C
+        print_position: 19
+        unit: 4
       - uid: MIN227.13.3.3.UPE.2
         subobj: 13.3.3
         type: upe
@@ -2423,6 +2728,8 @@ courses:
           C: is an inefficient use of a pastor’s time.
           D: should be done only by the pastor.
         answer: A
+        print_position: 20
+        unit: 4
       - uid: MIN227.13.3.3.TY.1
         subobj: 13.3.3
         type: ty
@@ -2434,6 +2741,7 @@ courses:
           C: media presentations that bring the Bible to life.
           D: a comfortable environment that promotes seeker sensitivity.
         answer: A
+        print_position: 9
       - uid: MIN227.13.3.4.TY.1
         subobj: 13.3.4
         type: ty
@@ -2444,6 +2752,7 @@ courses:
           C: both the discipler and the disciple be close in age.
           D: the discipler is of reputable Christian character.
         answer: D
+        print_position: 10
       - uid: MIN227.14.1.1.TY.1
         subobj: 14.1.1
         type: ty
@@ -2455,6 +2764,7 @@ courses:
           C: Prosperity
           D: World evangelization
         answer: D
+        print_position: 1
       - uid: MIN227.14.1.2.TY.1
         subobj: 14.1.2
         type: ty
@@ -2466,6 +2776,7 @@ courses:
           C: true interpretation of the Parable of the Ninety-Nine Sheep.
           D: validity of irresistible grace.
         answer: A
+        print_position: 2
       - uid: MIN227.14.1.3.TY.1
         subobj: 14.1.3
         type: ty
@@ -2479,6 +2790,7 @@ courses:
           C: raising funds from around the world for relief projects.
           D: translating the Bible into every known language.
         answer: B
+        print_position: 3
       - uid: MIN227.14.1.3.TY.2
         subobj: 14.1.3
         type: ty
@@ -2490,6 +2802,7 @@ courses:
           C: reaching, planting, training, and touching.
           D: convicting, disciplining, guiding, and multiplying.
         answer: C
+        print_position: 4
       - uid: MIN227.14.1.4.UPE.1
         subobj: 14.1.4
         type: upe
@@ -2501,6 +2814,8 @@ courses:
           C: all people proclaiming all truth and meeting all needs.
           D: all pastors teaching all the laity to evangelize all their neighbors.
         answer: B
+        print_position: 21
+        unit: 4
       - uid: MIN227.14.1.4.TY.1
         subobj: 14.1.4
         type: ty
@@ -2513,6 +2828,7 @@ courses:
           C: all adults committing to guide all children in praying for all nations.
           D: all the church in communicating all the gospel to all the world.
         answer: D
+        print_position: 5
       - uid: MIN227.14.2.1.TY.1
         subobj: 14.2.1
         type: ty
@@ -2524,6 +2840,7 @@ courses:
           C: a system of trusts and legacies.
           D: district councils.
         answer: A
+        print_position: 6
       - uid: MIN227.14.2.1.TY.2
         subobj: 14.2.1
         type: ty
@@ -2537,6 +2854,7 @@ courses:
             material blessings.
           D: maintaining their affiliation with the Assemblies of God.
         answer: B
+        print_position: 7
       - uid: MIN227.14.2.2.UPE.1
         subobj: 14.2.2
         type: upe
@@ -2548,6 +2866,8 @@ courses:
           D: remind the congregation of their responsibility in fulfilling the Great
             Commission.
         answer: D
+        print_position: 23
+        unit: 4
       - uid: MIN227.14.2.2.TY.1
         subobj: 14.2.2
         type: ty
@@ -2560,6 +2880,7 @@ courses:
             and missions needs
           D: Sending the pastoral staff on a short-term missions trip
         answer: C
+        print_position: 8
       - uid: MIN227.14.2.3.TY.1
         subobj: 14.2.3
         type: ty
@@ -2572,6 +2893,7 @@ courses:
           C: should be honored at all costs, even if a loan is required.
           D: is a confession of faith that becomes a seed for gaining personal wealth.
         answer: A
+        print_position: 9
       - uid: MIN227.14.2.4.UPE.1
         subobj: 14.2.4
         type: upe
@@ -2582,6 +2904,8 @@ courses:
           C: the weeks prior to missions convention.
           D: the first Sunday of the month.
         answer: C
+        print_position: 22
+        unit: 4
       - uid: MIN227.14.2.4.TY.1
         subobj: 14.2.4
         type: ty
@@ -2593,6 +2917,7 @@ courses:
           C: Missions Sunday.
           D: General Council.
         answer: B
+        print_position: 10
       - uid: MIN227.15.1.1.TY.1
         subobj: 15.1.1
         type: ty
@@ -2603,6 +2928,7 @@ courses:
           C: must carry out personal evangelism in order to experience salvation.
           D: are to identify among themselves the people God has called to be witnesses.
         answer: B
+        print_position: 1
       - uid: MIN227.15.1.2.TY.1
         subobj: 15.1.2
         type: ty
@@ -2613,6 +2939,7 @@ courses:
           C: Evangelism, discipleship, communion, spiritual gifts
           D: Water baptism, Pentecost, evangelism, prayer
         answer: A
+        print_position: 2
       - uid: MIN227.15.1.3.TY.1
         subobj: 15.1.3
         type: ty
@@ -2623,6 +2950,7 @@ courses:
           C: represented in the New Jerusalem’s foundations.
           D: worship, since both bring God glory.
         answer: D
+        print_position: 3
       - uid: MIN227.15.1.4.TY.1
         subobj: 15.1.4
         type: ty
@@ -2633,6 +2961,7 @@ courses:
           C: divine gift available to all believers who ask for it.
           D: responsibility of specific church leaders who receive laity prayer support.
         answer: B
+        print_position: 4
       - uid: MIN227.15.1.4.TY.2
         subobj: 15.1.4
         type: ty
@@ -2643,6 +2972,7 @@ courses:
           C: symbol of the believer’s inner struggle with sin.
           D: reminder of death and the Great White Throne judgment.
         answer: B
+        print_position: 5
       - uid: MIN227.15.2.1.TY.1
         subobj: 15.2.1
         type: ty
@@ -2654,6 +2984,7 @@ courses:
           C: with personal repentance and begin each prayer with confession.
           D: personal prosperity and begin each prayer by claiming a blessing.
         answer: A
+        print_position: 6
       - uid: MIN227.15.2.2.TY.1
         subobj: 15.2.2
         type: ty
@@ -2667,6 +2998,7 @@ courses:
           D: progress through books of the Bible, as well as sermons that give in-depth
             treatment to biblical themes.
         answer: D
+        print_position: 7
       - uid: MIN227.15.2.3.UPE.1
         subobj: 15.2.3
         type: upe
@@ -2677,6 +3009,8 @@ courses:
           C: can be a positive factor in the believer’s life.
           D: always leads to corruption.
         answer: C
+        print_position: 24
+        unit: 4
       - uid: MIN227.15.2.3.TY.1
         subobj: 15.2.3
         type: ty
@@ -2688,6 +3022,7 @@ courses:
           D: trust God to meet personal needs and use all personal resources as God
             leads.
         answer: D
+        print_position: 8
       - uid: MIN227.15.2.4.UPE.1
         subobj: 15.2.4
         type: upe
@@ -2698,6 +3033,8 @@ courses:
           C: give regularly to missions and attend short term missions trips.
           D: read the right books and attend conferences led by prominent pastors.
         answer: A
+        print_position: 25
+        unit: 4
       - uid: MIN227.15.2.4.TY.1
         subobj: 15.2.4
         type: ty
@@ -2709,6 +3046,7 @@ courses:
           D: Saul was symbolic of Israel’s rebellion, and David was part of God’s
             plan of salvation.
         answer: A
+        print_position: 9
       - uid: MIN227.15.2.4.TY.2
         subobj: 15.2.4
         type: ty
@@ -2721,6 +3059,8 @@ courses:
           C: integrate evangelism into every expression of the church’s life.
           D: conduct prayer walks through the community surrounding the church.
         answer: C
+        print_position: 10
+      captured: reparse
     - pn: 03.22.01
       course_code: MIN227
       source_html: BMIN123ENE03-90_03.22.01.html
@@ -2743,6 +3083,7 @@ courses:
             His followers.
           D: Jesus’ final moments with His disciples.
         answer: C
+        print_position: 1
       - uid: MIN227.1.1.2.TY.1
         subobj: 1.1.2
         type: ty
@@ -2756,6 +3097,7 @@ courses:
           D: rejected by Early Church readers as an immature expression of Christ’s
             command.
         answer: B
+        print_position: 2
       - uid: MIN227.1.1.2.TY.2
         subobj: 1.1.2
         type: ty
@@ -2767,6 +3109,7 @@ courses:
           C: Mary, the mother of Jesus.
           D: Josephus.
         answer: A
+        print_position: 3
       - uid: MIN227.1.1.3.TY.1
         subobj: 1.1.3
         type: ty
@@ -2777,6 +3120,7 @@ courses:
           C: traveling with Paul on his missionary journeys.
           D: supporting himself as a tax collector in Jerusalem.
         answer: B
+        print_position: 4
       - uid: MIN227.1.1.3.TY.2
         subobj: 1.1.3
         type: ty
@@ -2789,6 +3133,7 @@ courses:
           C: proves Matthew’s inability to correctly identify genealogical sequence.
           D: calls into question whether Matthew believed Jesus to be God’s Son.
         answer: A
+        print_position: 5
       - uid: MIN227.1.1.4.UPE.1
         subobj: 1.1.4
         type: upe
@@ -2800,6 +3145,8 @@ courses:
           C: going, teaching, and preaching.
           D: going, communicating the message orally, and baptizing.
         answer: D
+        print_position: 1
+        unit: 1
       - uid: MIN227.1.1.4.UPE.2
         subobj: 1.1.4
         type: upe
@@ -2810,6 +3157,8 @@ courses:
           C: an integral part of the Great Commission.
           D: unnecessary.
         answer: C
+        print_position: 2
+        unit: 1
       - uid: MIN227.1.1.4.UPE.3
         subobj: 1.1.4
         type: upe
@@ -2820,6 +3169,8 @@ courses:
           C: that they are written concurrently.
           D: evidence of multiple authors in each Gospel.
         answer: B
+        print_position: 3
+        unit: 1
       - uid: MIN227.1.1.4.TY.1
         subobj: 1.1.4
         type: ty
@@ -2830,6 +3181,7 @@ courses:
           C: that they are written concurrently.
           D: evidence of multiple authors in each Gospel.
         answer: B
+        print_position: 6
       - uid: MIN227.1.2.1.UPE.1
         subobj: 1.2.1
         type: upe
@@ -2840,6 +3192,8 @@ courses:
           C: study the Scriptures at a Jewish synagogue.
           D: fast and pray.
         answer: B
+        print_position: 4
+        unit: 1
       - uid: MIN227.1.2.1.UPE.2
         subobj: 1.2.1
         type: upe
@@ -2852,6 +3206,8 @@ courses:
           C: contrasted as examples of theology (Luke) and history (Acts).
           D: the only two books in the Bible that are components of a larger whole.
         answer: A
+        print_position: 5
+        unit: 1
       - uid: MIN227.1.2.1.TY.1
         subobj: 1.2.1
         type: ty
@@ -2864,6 +3220,7 @@ courses:
           C: contrasted as examples of theology (Luke) and history (Acts).
           D: the only two books in the Bible that are components of a larger whole.
         answer: A
+        print_position: 7
       - uid: MIN227.1.2.2.TY.1
         subobj: 1.2.2
         type: ty
@@ -2875,6 +3232,7 @@ courses:
             of sins.
           D: a divine enabling to obey the Ten Commandments.
         answer: C
+        print_position: 8
       - uid: MIN227.1.2.3.UPE.1
         subobj: 1.2.3
         type: upe
@@ -2886,6 +3244,8 @@ courses:
           C: heeding end-time warnings.
           D: rebuking the Pharisees.
         answer: A
+        print_position: 6
+        unit: 1
       - uid: MIN227.1.2.3.TY.1
         subobj: 1.2.3
         type: ty
@@ -2897,6 +3257,7 @@ courses:
           C: supplemental to the others, with much unique material.
           D: the Pentecostal Gospel.
         answer: C
+        print_position: 9
       - uid: MIN227.1.2.4.UPE.1
         subobj: 1.2.4
         type: upe
@@ -2908,6 +3269,8 @@ courses:
           C: is no longer in effect, since the death of the apostles.
           D: is a call for all believers to personally share the gospel with the lost.
         answer: D
+        print_position: 7
+        unit: 1
       - uid: MIN227.1.2.4.UPE.2
         subobj: 1.2.4
         type: upe
@@ -2918,6 +3281,8 @@ courses:
           C: Prayer
           D: Preaching
         answer: D
+        print_position: 8
+        unit: 1
       - uid: MIN227.1.2.4.TY.1
         subobj: 1.2.4
         type: ty
@@ -2929,6 +3294,7 @@ courses:
           C: is no longer in effect, since the death of the apostles.
           D: is a call for all believers to personally share the gospel with the lost.
         answer: D
+        print_position: 10
       - uid: MIN227.2.1.1.TY.1
         subobj: 2.1.1
         type: ty
@@ -2939,6 +3305,7 @@ courses:
           C: identifying sin and calling for repentance.
           D: the Golden Rule and turning the other cheek.
         answer: A
+        print_position: 1
       - uid: MIN227.2.1.2.UPE.1
         subobj: 2.1.2
         type: upe
@@ -2951,6 +3318,8 @@ courses:
             lost.
           D: assure the lost that God is love.
         answer: C
+        print_position: 9
+        unit: 1
       - uid: MIN227.2.1.2.UPE.2
         subobj: 2.1.2
         type: upe
@@ -2961,6 +3330,8 @@ courses:
           C: cooperate with the Holy Spirit.
           D: demonstrate to people the errors in their world view.
         answer: C
+        print_position: 11
+        unit: 1
       - uid: MIN227.2.1.2.TY.1
         subobj: 2.1.2
         type: ty
@@ -2972,6 +3343,7 @@ courses:
             lost.
           D: identify spiritual hindrances in people’s spiritual lives.
         answer: D
+        print_position: 2
       - uid: MIN227.2.1.2.TY.2
         subobj: 2.1.2
         type: ty
@@ -2984,6 +3356,7 @@ courses:
             lost.
           D: assure the lost that God is love.
         answer: C
+        print_position: 3
       - uid: MIN227.2.1.3.UPE.1
         subobj: 2.1.3
         type: upe
@@ -2994,6 +3367,8 @@ courses:
           C: a disciple is filled with the Holy Spirit.
           D: a disciple is baptized.
         answer: B
+        print_position: 12
+        unit: 1
       - uid: MIN227.2.1.3.TY.1
         subobj: 2.1.3
         type: ty
@@ -3005,6 +3380,7 @@ courses:
           C: Christians who are 55 and older.
           D: nondenominational charismatics.
         answer: B
+        print_position: 4
       - uid: MIN227.2.1.4.UPE.1
         subobj: 2.1.4
         type: upe
@@ -3015,6 +3391,8 @@ courses:
           C: a committed and faithful follower of Christ.
           D: improved community relations.
         answer: C
+        print_position: 10
+        unit: 1
       - uid: MIN227.2.1.4.UPE.2
         subobj: 2.1.4
         type: upe
@@ -3025,6 +3403,8 @@ courses:
           C: prove the inerrancy of Scripture beyond doubt.
           D: prove the continuing validity of the Ten Commandments.
         answer: B
+        print_position: 13
+        unit: 1
       - uid: MIN227.2.1.4.TY.1
         subobj: 2.1.4
         type: ty
@@ -3035,6 +3415,7 @@ courses:
           C: prove beyond doubt the inerrancy of Scripture.
           D: prove the continuing validity of the Ten Commandments.
         answer: B
+        print_position: 5
       - uid: MIN227.2.2.1.UPE.1
         subobj: 2.2.1
         type: upe
@@ -3045,6 +3426,8 @@ courses:
           C: the fact that every person will eventually be accepted into God’s kingdom.
           D: God’s anger against the Jewish people.
         answer: A
+        print_position: 14
+        unit: 1
       - uid: MIN227.2.2.1.UPE.2
         subobj: 2.2.1
         type: upe
@@ -3056,6 +3439,8 @@ courses:
           C: contain their ministry to the Roman empire.
           D: be witnesses to all of the areas mentioned without prioritizing.
         answer: D
+        print_position: 15
+        unit: 1
       - uid: MIN227.2.2.1.TY.1
         subobj: 2.2.1
         type: ty
@@ -3068,6 +3453,7 @@ courses:
             the world.
           D: assign specific regions to specific disciples.
         answer: C
+        print_position: 6
       - uid: MIN227.2.2.2.UPE.1
         subobj: 2.2.2
         type: upe
@@ -3078,6 +3464,8 @@ courses:
           C: can help a church to become more heterogeneous.
           D: is a sign of spiritual apathy in the church.
         answer: C
+        print_position: 17
+        unit: 1
       - uid: MIN227.2.2.2.TY.1
         subobj: 2.2.2
         type: ty
@@ -3089,6 +3477,7 @@ courses:
             Bible.
           D: proof that oil and water do not mix.
         answer: A
+        print_position: 7
       - uid: MIN227.2.2.3.UPE.1
         subobj: 2.2.3
         type: upe
@@ -3100,6 +3489,8 @@ courses:
           C: supports the biblical understanding of marriage.
           D: is centered around others.
         answer: A
+        print_position: 16
+        unit: 1
       - uid: MIN227.2.2.3.TY.1
         subobj: 2.2.3
         type: ty
@@ -3111,6 +3502,7 @@ courses:
           D: illustrate the church’s role in reaching out to all spiritually lost
             people.
         answer: D
+        print_position: 8
       - uid: MIN227.2.2.3.TY.2
         subobj: 2.2.3
         type: ty
@@ -3122,6 +3514,7 @@ courses:
           C: prove that Jesus was breaking the Law.
           D: see if Jesus was the Messiah.
         answer: A
+        print_position: 9
       - uid: MIN227.2.2.4.TY.1
         subobj: 2.2.4
         type: ty
@@ -3133,6 +3526,7 @@ courses:
           C: apply it as the first step in church planting.
           D: see it as a tool for connecting the gospel with specific types of people.
         answer: D
+        print_position: 10
       - uid: MIN227.3.1.1.UPE.1
         subobj: 3.1.1
         type: upe
@@ -3145,6 +3539,8 @@ courses:
           C: centered on the role of the Holy Spirit in fulfilling the commission.
           D: included discussion of end time events.
         answer: B
+        print_position: 18
+        unit: 1
       - uid: MIN227.3.1.2.UPE.1
         subobj: 3.1.2
         type: upe
@@ -3158,6 +3554,8 @@ courses:
             the empire.
           D: a common language was spoken throughout the region.
         answer: B
+        print_position: 19
+        unit: 1
       - uid: MIN227.3.1.3.UPE.1
         subobj: 3.1.3
         type: upe
@@ -3171,6 +3569,8 @@ courses:
           D: The elect are born to be saved, and the lost are born to be damned; only
             God knows who is who.
         answer: A
+        print_position: 20
+        unit: 1
       - uid: MIN227.3.2.1.UPE.1
         subobj: 3.2.1
         type: upe
@@ -3183,6 +3583,8 @@ courses:
           C: He would return periodically to assess their progress.
           D: He would accomplish the Great Commission without their help.
         answer: B
+        print_position: 22
+        unit: 1
       - uid: MIN227.3.2.2.UPE.1
         subobj: 3.2.2
         type: upe
@@ -3196,6 +3598,8 @@ courses:
           D: only priests could be filled with the Holy Spirit in the Old Testament,
             but the Spirit is available to all believers in the New Testament.
         answer: C
+        print_position: 23
+        unit: 1
       - uid: MIN227.3.2.2.UPE.2
         subobj: 3.2.2
         type: upe
@@ -3207,6 +3611,8 @@ courses:
           C: Old Testament symbols of fire and wind.
           D: need to pray in tongues.
         answer: B
+        print_position: 24
+        unit: 1
       - uid: MIN227.3.2.3.UPE.1
         subobj: 3.2.3
         type: upe
@@ -3218,6 +3624,8 @@ courses:
           C: do not include a version of the Great Commission.
           D: minimize the role of the Holy Spirit in the Great Commission.
         answer: A
+        print_position: 21
+        unit: 1
       - uid: MIN227.3.2.4.UPE.1
         subobj: 3.2.4
         type: upe
@@ -3230,6 +3638,8 @@ courses:
           C: the sinfulness of the wilderness generation.
           D: the need to continually be filled with the Holy Spirit.
         answer: D
+        print_position: 25
+        unit: 1
       - uid: MIN227.4.1.1.TY.1
         subobj: 4.1.1
         type: ty
@@ -3241,6 +3651,7 @@ courses:
           C: use of Aramaic.
           D: reliance on symbolic numbers.
         answer: A
+        print_position: 1
       - uid: MIN227.4.1.4.UPE.1
         subobj: 4.1.4
         type: upe
@@ -3252,6 +3663,8 @@ courses:
           C: a Hebrew to Greek worldview.
           D: straight-forward symbolism to numerology.
         answer: B
+        print_position: 1
+        unit: 2
       - uid: MIN227.4.1.4.UPE.2
         subobj: 4.1.4
         type: upe
@@ -3266,6 +3679,8 @@ courses:
           D: Every person’s choice to belong to God’s kingdom or Satan’s; and the
             ultimate, eternal triumph of God’s kingdom.
         answer: D
+        print_position: 2
+        unit: 2
       - uid: MIN227.4.1.4.TY.1
         subobj: 4.1.4
         type: ty
@@ -3278,6 +3693,7 @@ courses:
             concepts.
           D: avoid a blasphemous use of the Trinitarian number three .
         answer: B
+        print_position: 2
       - uid: MIN227.4.2.1.UPE.1
         subobj: 4.2.1
         type: upe
@@ -3288,6 +3704,8 @@ courses:
           C: was the first parable that Jesus ever told.
           D: represents Jesus’ death and resurrection.
         answer: A
+        print_position: 3
+        unit: 2
       - uid: MIN227.4.2.1.TY.1
         subobj: 4.2.1
         type: ty
@@ -3298,6 +3716,7 @@ courses:
           C: unproductive and productive soils.
           D: people who live by the Law and those who accept God’s grace.
         answer: C
+        print_position: 3
       - uid: MIN227.4.2.2.UPE.1
         subobj: 4.2.2
         type: upe
@@ -3309,6 +3728,8 @@ courses:
           C: sowing the right kind of seed.
           D: the continued discipling process.
         answer: D
+        print_position: 4
+        unit: 2
       - uid: MIN227.4.2.2.UPE.2
         subobj: 4.2.2
         type: upe
@@ -3320,6 +3741,8 @@ courses:
           C: Shallow ground
           D: Thorny ground
         answer: D
+        print_position: 5
+        unit: 2
       - uid: MIN227.4.2.2.TY.1
         subobj: 4.2.2
         type: ty
@@ -3330,6 +3753,7 @@ courses:
           C: falling into pseudo-Christian heresies.
           D: the elect being the only ones who can understand the gospel.
         answer: A
+        print_position: 4
       - uid: MIN227.4.2.3.TY.1
         subobj: 4.2.3
         type: ty
@@ -3342,6 +3766,7 @@ courses:
           C: heralded His later miracle of feeding the 5,000.
           D: made the crowd angry and ready to stone Him for sowing on the Sabbath.
         answer: A
+        print_position: 5
       - uid: MIN227.4.2.4.TY.1
         subobj: 4.2.4
         type: ty
@@ -3353,6 +3778,7 @@ courses:
           C: avoid a premature declaration of His kingdom on earth.
           D: make sure that their receptive hearts received the right interpretation.
         answer: D
+        print_position: 6
       - uid: MIN227.4.3.1.UPE.1
         subobj: 4.3.1
         type: upe
@@ -3365,6 +3791,8 @@ courses:
           D: because He was concerned that they would be caught up with the cares
             of the world.
         answer: B
+        print_position: 6
+        unit: 2
       - uid: MIN227.4.3.1.UPE.2
         subobj: 4.3.1
         type: upe
@@ -3375,6 +3803,8 @@ courses:
           C: unproductive soils.
           D: proof of predestination.
         answer: A
+        print_position: 7
+        unit: 2
       - uid: MIN227.4.3.2.TY.1
         subobj: 4.3.2
         type: ty
@@ -3386,6 +3816,7 @@ courses:
           C: the gifts of the Spirit come into evidence.
           D: gleaners will be blessed with the leftovers.
         answer: B
+        print_position: 7
       - uid: MIN227.4.3.4.TY.1
         subobj: 4.3.4
         type: ty
@@ -3398,6 +3829,7 @@ courses:
           C: because all parables have multiple applications.
           D: since Jesus began His ministry by calling fishers of men.
         answer: B
+        print_position: 8
       - uid: MIN227.4.4.1.TY.1
         subobj: 4.4.1
         type: ty
@@ -3408,6 +3840,7 @@ courses:
           C: Salt, light, and branches on a vine
           D: Passover, Pentecost, and the Feast of Trumpets
         answer: C
+        print_position: 9
       - uid: MIN227.4.4.2.UPE.1
         subobj: 4.4.2
         type: upe
@@ -3421,6 +3854,8 @@ courses:
           C: crossing the seas to evangelize the nations.
           D: valued by their communities, as salt was a valuable commodity.
         answer: A
+        print_position: 8
+        unit: 2
       - uid: MIN227.4.4.2.UPE.2
         subobj: 4.4.2
         type: upe
@@ -3432,6 +3867,8 @@ courses:
           C: they act as a mirror for the souls of men.
           D: there is a natural spark of divinity within each of us.
         answer: A
+        print_position: 9
+        unit: 2
       - uid: MIN227.4.4.3.TY.1
         subobj: 4.4.3
         type: ty
@@ -3443,6 +3880,7 @@ courses:
           C: the warning of possible ineffectiveness and being cut off.
           D: its focus on Christ’s empowering role in believers’ activities.
         answer: D
+        print_position: 10
       - uid: MIN227.5.1.1.UPE.1
         subobj: 5.1.1
         type: upe
@@ -3454,6 +3892,8 @@ courses:
           C: Andrew.
           D: the Samaritan woman.
         answer: D
+        print_position: 10
+        unit: 2
       - uid: MIN227.5.1.2.UPE.1
         subobj: 5.1.2
         type: upe
@@ -3465,6 +3905,8 @@ courses:
           C: be prepared to discuss the inadequacy of false religion.
           D: seek out the most sinful member in order to reach a community for Christ.
         answer: B
+        print_position: 11
+        unit: 2
       - uid: MIN227.5.1.2.TY.1
         subobj: 5.1.2
         type: ty
@@ -3475,6 +3917,7 @@ courses:
           C: in the Sunday school classroom.
           D: on Christmas and Easter Sunday.
         answer: A
+        print_position: 1
       - uid: MIN227.5.1.2.TY.2
         subobj: 5.1.2
         type: ty
@@ -3486,6 +3929,7 @@ courses:
           C: because God has predestined certain people to be saved.
           D: when they recognize the work of the Holy Spirit in lives and circumstances.
         answer: D
+        print_position: 2
       - uid: MIN227.5.1.3.UPE.1
         subobj: 5.1.3
         type: upe
@@ -3497,6 +3941,8 @@ courses:
           C: gender barrier.
           D: religious barrier.
         answer: B
+        print_position: 12
+        unit: 2
       - uid: MIN227.5.1.4.TY.1
         subobj: 5.1.4
         type: ty
@@ -3507,6 +3953,7 @@ courses:
           C: Jesus’ commitment to speak in symbols.
           D: the woman’s identity as an adulterer.
         answer: A
+        print_position: 3
       - uid: MIN227.5.2.1.TY.1
         subobj: 5.2.1
         type: ty
@@ -3518,6 +3965,7 @@ courses:
           C: means of condemning the lost by exposing them to knowledge of the truth.
           D: series of arguments to be won.
         answer: D
+        print_position: 4
       - uid: MIN227.5.2.2.UPE.1
         subobj: 5.2.2
         type: upe
@@ -3528,6 +3976,8 @@ courses:
           C: condemning nonbelievers of their sinfulness.
           D: a personalized message that responds to the interest and needs of a nonbeliever.
         answer: D
+        print_position: 13
+        unit: 2
       - uid: MIN227.5.2.2.UPE.2
         subobj: 5.2.2
         type: upe
@@ -3538,6 +3988,8 @@ courses:
           C: body language and vocal emphasis.
           D: a thorough knowledge of current events.
         answer: A
+        print_position: 14
+        unit: 2
       - uid: MIN227.5.2.2.TY.1
         subobj: 5.2.2
         type: ty
@@ -3549,6 +4001,7 @@ courses:
           C: first find a subject that genuinely interests the other person.
           D: wait until a relationship has been established.
         answer: C
+        print_position: 5
       - uid: MIN227.5.2.3.TY.1
         subobj: 5.2.3
         type: ty
@@ -3559,6 +4012,7 @@ courses:
           C: depends on how clearly the witnesser reads the relevant biblical texts.
           D: is to use vocabulary familiar to the listener.
         answer: D
+        print_position: 6
       - uid: MIN227.5.2.4.TY.1
         subobj: 5.2.4
         type: ty
@@ -3573,6 +4027,7 @@ courses:
           D: the example of the believer’s victorious spiritual life will draw the
             lost to God.
         answer: C
+        print_position: 7
       - uid: MIN227.5.3.1.TY.1
         subobj: 5.3.1
         type: ty
@@ -3584,6 +4039,7 @@ courses:
             message.
           D: is a good idea, as long as the religion discussed is in contrast to Christianity.
         answer: C
+        print_position: 8
       - uid: MIN227.5.3.2.UPE.1
         subobj: 5.3.2
         type: upe
@@ -3595,6 +4051,8 @@ courses:
             church.
           D: try to avoid the subject of sin altogether.
         answer: A
+        print_position: 15
+        unit: 2
       - uid: MIN227.5.3.2.UPE.2
         subobj: 5.3.2
         type: upe
@@ -3605,6 +4063,8 @@ courses:
           C: worship expressions that communicate directly with God.
           D: observing the sacrament of communion.
         answer: C
+        print_position: 16
+        unit: 2
       - uid: MIN227.5.3.2.UPE.3
         subobj: 5.3.2
         type: upe
@@ -3615,6 +4075,8 @@ courses:
           C: exercising the gift of knowledge.
           D: the moment of salvation when Jesus, who is Truth, is accepted as Lord.
         answer: B
+        print_position: 17
+        unit: 2
       - uid: MIN227.5.3.3.TY.1
         subobj: 5.3.3
         type: ty
@@ -3625,6 +4087,7 @@ courses:
           C: remember that God only reaches out to the lost who are the elect.
           D: one can be encouraged, because all the lost will eventually be saved.
         answer: A
+        print_position: 9
       - uid: MIN227.5.3.4.TY.1
         subobj: 5.3.4
         type: ty
@@ -3635,6 +4098,7 @@ courses:
           C: special role of the Jews in salvation history.
           D: prophecies of Daniel.
         answer: B
+        print_position: 10
       - uid: MIN227.6.1.1.TY.1
         subobj: 6.1.1
         type: ty
@@ -3645,6 +4109,7 @@ courses:
           C: a parable involving five foolish and five wise bridesmaids.
           D: their ultimate test of faith in the face of persecution.
         answer: A
+        print_position: 1
       - uid: MIN227.6.1.2.UPE.1
         subobj: 6.1.2
         type: upe
@@ -3657,6 +4122,8 @@ courses:
             the Spirit.
           D: predicting the fall of Jerusalem and warnings of earthquakes and wars.
         answer: C
+        print_position: 18
+        unit: 2
       - uid: MIN227.6.1.3.UPE.1
         subobj: 6.1.3
         type: upe
@@ -3668,6 +4135,8 @@ courses:
           C: teach in detail about the promised Holy Spirit’s empowerment.
           D: warn them of the leaven of the Pharisees.
         answer: C
+        print_position: 19
+        unit: 2
       - uid: MIN227.6.1.3.TY.1
         subobj: 6.1.3
         type: ty
@@ -3680,6 +4149,7 @@ courses:
           C: a completely intangible force best described as the Holy Ghost.
           D: a dove.
         answer: A
+        print_position: 2
       - uid: MIN227.6.1.4.TY.1
         subobj: 6.1.4
         type: ty
@@ -3690,6 +4160,7 @@ courses:
           C: a still, small voice that directs the believer day to day.
           D: signs and wonders.
         answer: B
+        print_position: 3
       - uid: MIN227.6.2.1.UPE.1
         subobj: 6.2.1
         type: upe
@@ -3702,6 +4173,8 @@ courses:
             God has assigned us.
           D: referred to the power with which Jesus will reign during the millennium.
         answer: C
+        print_position: 20
+        unit: 2
       - uid: MIN227.6.2.1.TY.1
         subobj: 6.2.1
         type: ty
@@ -3713,6 +4186,7 @@ courses:
           C: as the overwhelming urge to preach the gospel.
           D: as the rushing mighty wind heard by the 120 in the Upper Room.
         answer: B
+        print_position: 4
       - uid: MIN227.6.2.1.TY.2
         subobj: 6.2.1
         type: ty
@@ -3725,6 +4199,7 @@ courses:
           C: contrasting human desire with animal desire.
           D: denying the reality of human desire.
         answer: A
+        print_position: 5
       - uid: MIN227.6.2.2.UPE.1
         subobj: 6.2.2
         type: upe
@@ -3735,6 +4210,8 @@ courses:
           C: in a group of supporting believers.
           D: only at the Second Coming.
         answer: B
+        print_position: 22
+        unit: 2
       - uid: MIN227.6.2.3.UPE.1
         subobj: 6.2.3
         type: upe
@@ -3745,6 +4222,8 @@ courses:
           C: did not perform signs or wonders.
           D: taught that signs and wonders were only for a limited period of time.
         answer: B
+        print_position: 21
+        unit: 2
       - uid: MIN227.6.2.3.TY.1
         subobj: 6.2.3
         type: ty
@@ -3756,6 +4235,7 @@ courses:
           C: His parable of the Good Samaritan.
           D: the seven vials of judgment in Revelation.
         answer: B
+        print_position: 6
       - uid: MIN227.6.2.4.TY.1
         subobj: 6.2.4
         type: ty
@@ -3767,6 +4247,7 @@ courses:
           C: empowering them to share the gospel with the lost.
           D: empowering them to perform signs and wonders.
         answer: C
+        print_position: 7
       - uid: MIN227.6.3.1.TY.1
         subobj: 6.3.1
         type: ty
@@ -3778,6 +4259,7 @@ courses:
           C: accept Jesus Christ as personal Savior.
           D: renounce all attachment to the world and its wealth.
         answer: C
+        print_position: 8
       - uid: MIN227.6.3.3.UPE.1
         subobj: 6.3.3
         type: upe
@@ -3788,6 +4270,8 @@ courses:
           C: he or she has achieved a higher plane of spiritual existence.
           D: the Holy Spirit has endowed a lifelong infilling in that believer.
         answer: B
+        print_position: 24
+        unit: 2
       - uid: MIN227.6.3.3.TY.1
         subobj: 6.3.3
         type: ty
@@ -3799,6 +4283,7 @@ courses:
           D: foreign evangelism, ethnic outreach at home, confrontation with the lost,
             and sanctification.
         answer: A
+        print_position: 9
       - uid: MIN227.6.3.4.UPE.1
         subobj: 6.3.4
         type: upe
@@ -3809,6 +4294,8 @@ courses:
           C: encourage them not to worry that they will have a false experience.
           D: tell them they are not truly saved until they are filled with the Spirit.
         answer: C
+        print_position: 23
+        unit: 2
       - uid: MIN227.6.3.4.UPE.2
         subobj: 6.3.4
         type: upe
@@ -3819,6 +4306,8 @@ courses:
           C: no longer needs to study languages for missions work.
           D: should enter full time vocational ministry.
         answer: B
+        print_position: 25
+        unit: 2
       - uid: MIN227.6.3.4.TY.1
         subobj: 6.3.4
         type: ty
@@ -3830,6 +4319,7 @@ courses:
           C: Jesus promised it as a gift of His loving heavenly Father.
           D: all Christians will receive the Holy Spirit baptism before Jesus returns.
         answer: C
+        print_position: 10
       - uid: MIN227.7.1.1.TY.1
         subobj: 7.1.1
         type: ty
@@ -3841,6 +4331,7 @@ courses:
           C: the reward of the righteous and the punishment of the wicked.
           D: the gospel as expressed to the Jews and as expressed to the Gentiles.
         answer: A
+        print_position: 1
       - uid: MIN227.7.1.4.UPE.1
         subobj: 7.1.4
         type: upe
@@ -3853,6 +4344,8 @@ courses:
             by the Gospel writers.
           D: yourself, and the successful life you live as a result of your faith.
         answer: A
+        print_position: 1
+        unit: 3
       - uid: MIN227.7.1.4.UPE.2
         subobj: 7.1.4
         type: upe
@@ -3863,6 +4356,8 @@ courses:
           C: Jesus
           D: Pilate
         answer: C
+        print_position: 2
+        unit: 3
       - uid: MIN227.7.1.4.TY.1
         subobj: 7.1.4
         type: ty
@@ -3874,6 +4369,7 @@ courses:
           D: the connection of the New Testament name Jesus with the Old Testament
             name Joshua.
         answer: A
+        print_position: 2
       - uid: MIN227.7.1.4.TY.2
         subobj: 7.1.4
         type: ty
@@ -3885,6 +4381,7 @@ courses:
           C: he or she serves on the foreign mission field for at least a year.
           D: Jesus Christ died and rose again.
         answer: D
+        print_position: 3
       - uid: MIN227.7.1.4.TY.3
         subobj: 7.1.4
         type: ty
@@ -3897,6 +4394,7 @@ courses:
             Son.
           D: representative of all sinful people for whom Jesus gave His life.
         answer: D
+        print_position: 4
       - uid: MIN227.7.1.4.TY.4
         subobj: 7.1.4
         type: ty
@@ -3910,6 +4408,7 @@ courses:
           D: there has been an eternal, uncrossable line drawn between the elect and
             the lost.
         answer: C
+        print_position: 5
       - uid: MIN227.7.2.1.UPE.1
         subobj: 7.2.1
         type: upe
@@ -3921,6 +4420,8 @@ courses:
             clarity.
           D: the longest of the Gospels.
         answer: C
+        print_position: 3
+        unit: 3
       - uid: MIN227.7.2.2.TY.1
         subobj: 7.2.2
         type: ty
@@ -3933,6 +4434,7 @@ courses:
           D: best understood by mature believers who have studied the other three
             Gospels.
         answer: A
+        print_position: 6
       - uid: MIN227.7.2.2.TY.2
         subobj: 7.2.2
         type: ty
@@ -3943,6 +4445,7 @@ courses:
           C: were being severely persecuted and needed encouragement.
           D: had split into two churches and elected two popes.
         answer: C
+        print_position: 7
       - uid: MIN227.7.2.3.TY.1
         subobj: 7.2.3
         type: ty
@@ -3954,6 +4457,7 @@ courses:
             in His teaching.
           D: iambic pentameter.
         answer: B
+        print_position: 8
       - uid: MIN227.7.2.3.TY.2
         subobj: 7.2.3
         type: ty
@@ -3965,6 +4469,7 @@ courses:
           C: examining Jesus’ teaching from the Sermon on the Mount.
           D: relating Mark’s life and interaction with Jesus as a disciple.
         answer: B
+        print_position: 9
       - uid: MIN227.7.2.3.TY.3
         subobj: 7.2.3
         type: ty
@@ -3975,6 +4480,7 @@ courses:
           C: extensive details of Jesus’ last week on earth and Jesus’ own statements.
           D: Stephen’s promise to Mary that a sword would pierce her heart.
         answer: C
+        print_position: 10
       - uid: MIN227.8.1.1.TY.1
         subobj: 8.1.1
         type: ty
@@ -3987,6 +4493,7 @@ courses:
           C: God, the speaker, and the message
           D: Pentecostal baptism, the fruit of the Spirit, and the gifts of the Spirit
         answer: A
+        print_position: 1
       - uid: MIN227.8.1.2.TY.1
         subobj: 8.1.2
         type: ty
@@ -3999,6 +4506,7 @@ courses:
           C: the outgrowth of the “What Would Jesus Do?” movement.
           D: ministry to people addicted to immoral lifestyles.
         answer: B
+        print_position: 2
       - uid: MIN227.8.1.3.UPE.1
         subobj: 8.1.3
         type: upe
@@ -4009,6 +4517,8 @@ courses:
           C: The quality of the seed.
           D: The credibility of our lives.
         answer: D
+        print_position: 4
+        unit: 3
       - uid: MIN227.8.1.3.TY.1
         subobj: 8.1.3
         type: ty
@@ -4019,6 +4529,7 @@ courses:
           C: Emotions, attitudes, actions
           D: General knowledge, acquired education, personal experience
         answer: C
+        print_position: 3
       - uid: MIN227.8.1.4.TY.1
         subobj: 8.1.4
         type: ty
@@ -4030,6 +4541,7 @@ courses:
           C: giving the believer knowledge of every unbeliever’s need.
           D: signs and wonders.
         answer: A
+        print_position: 4
       - uid: MIN227.8.2.1.UPE.1
         subobj: 8.2.1
         type: upe
@@ -4043,6 +4555,8 @@ courses:
             violated.
           D: specialization precludes the role of the Holy Spirit.
         answer: A
+        print_position: 5
+        unit: 3
       - uid: MIN227.8.2.1.TY.1
         subobj: 8.2.1
         type: ty
@@ -4054,6 +4568,7 @@ courses:
           C: recommended that they elect Apollos as their bishop.
           D: condemned the practice outright.
         answer: B
+        print_position: 5
       - uid: MIN227.8.2.2.TY.1
         subobj: 8.2.2
         type: ty
@@ -4064,6 +4579,7 @@ courses:
           C: quote from memory the pertinent biblical references to salvation.
           D: obey God’s leading in sharing and nurturing the Word at every opportunity.
         answer: D
+        print_position: 6
       - uid: MIN227.8.2.4.UPE.1
         subobj: 8.2.4
         type: upe
@@ -4075,6 +4591,8 @@ courses:
           C: effective evangelist.
           D: local church.
         answer: B
+        print_position: 6
+        unit: 3
       - uid: MIN227.8.2.4.TY.1
         subobj: 8.2.4
         type: ty
@@ -4085,6 +4603,7 @@ courses:
           C: Regeneration, sanctification, transformation, multiplication
           D: Conviction, condemnation, pronouncement of judgment, damnation
         answer: C
+        print_position: 7
       - uid: MIN227.8.3.1.UPE.1
         subobj: 8.3.1
         type: upe
@@ -4095,6 +4614,8 @@ courses:
           C: exposition and application.
           D: condemnation and enlightenment.
         answer: B
+        print_position: 7
+        unit: 3
       - uid: MIN227.8.3.1.TY.1
         subobj: 8.3.1
         type: ty
@@ -4105,6 +4626,7 @@ courses:
           C: message, method, and means.
           D: Damascus road encounter, temporary blindness, and multiple persecutions.
         answer: C
+        print_position: 8
       - uid: MIN227.8.3.2.TY.1
         subobj: 8.3.2
         type: ty
@@ -4115,6 +4637,7 @@ courses:
           C: Speaking in tongues and interpreting tongues
           D: Personal charisma and biblical education
         answer: A
+        print_position: 9
       - uid: MIN227.8.3.3.UPE.1
         subobj: 8.3.3
         type: upe
@@ -4126,6 +4649,8 @@ courses:
           C: The satisfaction
           D: God’s work
         answer: D
+        print_position: 8
+        unit: 3
       - uid: MIN227.8.3.4.TY.1
         subobj: 8.3.4
         type: ty
@@ -4137,6 +4662,7 @@ courses:
           C: participate with him by supporting him in prayer.
           D: be tentmakers with him.
         answer: C
+        print_position: 10
       - uid: MIN227.9.1.1.UPE.1
         subobj: 9.1.1
         type: upe
@@ -4147,6 +4673,8 @@ courses:
           C: lengthy incorporation of scriptural quotation.
           D: demonstration of an active and constant relationship with God.
         answer: D
+        print_position: 9
+        unit: 3
       - uid: MIN227.9.1.2.TY.1
         subobj: 9.1.2
         type: ty
@@ -4158,6 +4686,7 @@ courses:
           C: the Holy Spirit must be at work in the speaker.
           D: all of the above.
         answer: D
+        print_position: 1
       - uid: MIN227.9.1.3.TY.1
         subobj: 9.1.3
         type: ty
@@ -4169,6 +4698,7 @@ courses:
           C: Prophesy, pray in tongues, proclaim the triumph of the gospel
           D: Fast, wear sackcloth, tithe
         answer: B
+        print_position: 2
       - uid: MIN227.9.1.4.UPE.1
         subobj: 9.1.4
         type: upe
@@ -4180,6 +4710,8 @@ courses:
           C: supernaturally guarantees that the listener will come to Christ.
           D: dictates the believer’s exact words.
         answer: A
+        print_position: 10
+        unit: 3
       - uid: MIN227.9.2.2.TY.1
         subobj: 9.2.2
         type: ty
@@ -4191,6 +4723,7 @@ courses:
             in Jesus Christ.
           D: is fully expanded the moment he or she comes to salvation.
         answer: C
+        print_position: 3
       - uid: MIN227.9.2.3.UPE.1
         subobj: 9.2.3
         type: upe
@@ -4202,6 +4735,8 @@ courses:
           C: God’s plan to judge the world and condemn sinners to hell.
           D: His return to earth to rule with a rod of iron.
         answer: A
+        print_position: 12
+        unit: 3
       - uid: MIN227.9.2.4.UPE.1
         subobj: 9.2.4
         type: upe
@@ -4212,6 +4747,8 @@ courses:
           C: daily miracles.
           D: the liturgy of the church.
         answer: A
+        print_position: 13
+        unit: 3
       - uid: MIN227.9.3.2.UPE.1
         subobj: 9.3.2
         type: upe
@@ -4223,6 +4760,8 @@ courses:
           C: be careful not to bring up the subject of sin.
           D: push for an immediate decision.
         answer: A
+        print_position: 11
+        unit: 3
       - uid: MIN227.9.3.2.TY.1
         subobj: 9.3.2
         type: ty
@@ -4233,6 +4772,7 @@ courses:
           C: have fallen back into the Law’s dichotomy of separating Jews and Gentiles.
           D: recognize that many people are predestined never to enter God’s kingdom.
         answer: A
+        print_position: 4
       - uid: MIN227.9.3.3.TY.1
         subobj: 9.3.3
         type: ty
@@ -4243,6 +4783,7 @@ courses:
           C: has lost all specific meaning.
           D: should be used with synonyms such as believer or follower of Christ.
         answer: D
+        print_position: 5
       - uid: MIN227.9.3.4.UPE.1
         subobj: 9.3.4
         type: upe
@@ -4253,6 +4794,8 @@ courses:
           C: share the gospel to those around them in any context.
           D: are appointed by the Assemblies of God World Missions.
         answer: C
+        print_position: 14
+        unit: 3
       - uid: MIN227.9.3.4.UPE.2
         subobj: 9.3.4
         type: upe
@@ -4266,6 +4809,8 @@ courses:
           D: no longer needed, now that mass communications takes the gospel around
             the world.
         answer: C
+        print_position: 15
+        unit: 3
       - uid: MIN227.9.4.1.UPE.1
         subobj: 9.4.1
         type: upe
@@ -4277,6 +4822,8 @@ courses:
           C: first inquire about the person’s soul.
           D: be sensitive to divine appointments to witness to the lost.
         answer: D
+        print_position: 16
+        unit: 3
       - uid: MIN227.9.4.2.TY.1
         subobj: 9.4.2
         type: ty
@@ -4287,6 +4834,7 @@ courses:
           C: Word of knowledge, word of wisdom
           D: A crucifix, a tract
         answer: A
+        print_position: 6
       - uid: MIN227.9.4.3.TY.1
         subobj: 9.4.3
         type: ty
@@ -4297,6 +4845,7 @@ courses:
           C: as elderly family members approach death.
           D: when the believer publicly reads the Bible.
         answer: B
+        print_position: 7
       - uid: MIN227.9.4.4.UPE.1
         subobj: 9.4.4
         type: upe
@@ -4307,6 +4856,8 @@ courses:
           C: reminds believers that witnessing opportunities are sometimes inconvenient.
           D: is a warning against idolatry.
         answer: C
+        print_position: 17
+        unit: 3
       - uid: MIN227.9.5.1.UPE.1
         subobj: 9.5.1
         type: upe
@@ -4317,6 +4868,8 @@ courses:
           C: forgetting to shower.
           D: a lack of theological education.
         answer: B
+        print_position: 19
+        unit: 3
       - uid: MIN227.9.5.1.TY.1
         subobj: 9.5.1
         type: ty
@@ -4327,6 +4880,7 @@ courses:
           C: a personal copy of the Bible.
           D: a tract.
         answer: B
+        print_position: 8
       - uid: MIN227.9.5.2.UPE.1
         subobj: 9.5.2
         type: upe
@@ -4338,6 +4892,8 @@ courses:
           C: the person considering Christ’s forgiveness must swear to never sin again.
           D: believers must admit all past sins.
         answer: A
+        print_position: 18
+        unit: 3
       - uid: MIN227.9.5.3.UPE.1
         subobj: 9.5.3
         type: upe
@@ -4349,6 +4905,8 @@ courses:
           C: are obeying Christ’s command to let the world see their good works.
           D: are too insecure to talk about their relationship with Christ.
         answer: C
+        print_position: 20
+        unit: 3
       - uid: MIN227.9.6.1.TY.1
         subobj: 9.6.1
         type: ty
@@ -4360,6 +4918,7 @@ courses:
           D: connect with individuals and tailor His teachings and miracles to respond
             to their needs.
         answer: D
+        print_position: 9
       - uid: MIN227.9.6.3.UPE.1
         subobj: 9.6.3
         type: upe
@@ -4372,6 +4931,8 @@ courses:
           C: contrasting Old Testament circumcision with New Testament grace.
           D: alluding to the marriage of Christ and the church.
         answer: B
+        print_position: 21
+        unit: 3
       - uid: MIN227.9.6.3.TY.1
         subobj: 9.6.3
         type: ty
@@ -4382,6 +4943,7 @@ courses:
           C: the personal witness of someone they know.
           D: anointed pleas for seed-faith pledges.
         answer: C
+        print_position: 10
       - uid: MIN227.10.1.1.UPE.1
         subobj: 10.1.1
         type: upe
@@ -4392,6 +4954,8 @@ courses:
           C: in their knowledge and relationship with God.
           D: from the encouragement of friends.
         answer: C
+        print_position: 22
+        unit: 3
       - uid: MIN227.10.1.1.UPE.2
         subobj: 10.1.1
         type: upe
@@ -4404,6 +4968,8 @@ courses:
           C: he would have been angered by the practices of the Roman church.
           D: it allowed him to travel to more important regions of the world.
         answer: B
+        print_position: 25
+        unit: 3
       - uid: MIN227.10.1.1.TY.1
         subobj: 10.1.1
         type: ty
@@ -4415,6 +4981,7 @@ courses:
           C: hidden sin.
           D: lack of confidence and a belief that confidence is self-produced.
         answer: D
+        print_position: 1
       - uid: MIN227.10.1.1.TY.2
         subobj: 10.1.1
         type: ty
@@ -4425,6 +4992,7 @@ courses:
           C: Jesus’ teachings were popular among the common people.
           D: they expected Christ’s soon return.
         answer: A
+        print_position: 2
       - uid: MIN227.10.1.2.UPE.1
         subobj: 10.1.2
         type: upe
@@ -4437,6 +5005,8 @@ courses:
           D: is inappropriate for modern believers because it conflicts with current
             standards of tolerance.
         answer: C
+        print_position: 23
+        unit: 3
       - uid: MIN227.10.1.2.TY.1
         subobj: 10.1.2
         type: ty
@@ -4448,6 +5018,7 @@ courses:
           C: the Pharisees, to whom he could relate as a scholar.
           D: those who gave faith pledges to his ministry.
         answer: B
+        print_position: 3
       - uid: MIN227.10.1.3.TY.1
         subobj: 10.1.3
         type: ty
@@ -4458,6 +5029,7 @@ courses:
           C: his eagerness to share the gospel with the lost.
           D: his regret for having helped stone Stephen.
         answer: C
+        print_position: 4
       - uid: MIN227.10.1.4.UPE.1
         subobj: 10.1.4
         type: upe
@@ -4468,6 +5040,8 @@ courses:
           C: of his confidence in the power of the gospel itself.
           D: he was trained by a prominent Jewish Rabbi.
         answer: C
+        print_position: 24
+        unit: 3
       - uid: MIN227.10.1.4.TY.1
         subobj: 10.1.4
         type: ty
@@ -4478,6 +5052,7 @@ courses:
           C: engage mind and emotions in full commitment to the task.
           D: always be ridiculed and persecuted.
         answer: C
+        print_position: 5
       - uid: MIN227.10.2.1.TY.1
         subobj: 10.2.1
         type: ty
@@ -4489,6 +5064,7 @@ courses:
           C: are women.
           D: have gone to Bible college.
         answer: A
+        print_position: 6
       - uid: MIN227.10.2.3.TY.1
         subobj: 10.2.3
         type: ty
@@ -4499,6 +5075,7 @@ courses:
           C: reaching the Gentiles and ministering in Rome.
           D: miracles and the end-time.
         answer: B
+        print_position: 7
       - uid: MIN227.10.2.3.TY.2
         subobj: 10.2.3
         type: ty
@@ -4510,6 +5087,7 @@ courses:
           D: saw the former as service to Christ and the latter as the opportunity
             to be with Him.
         answer: D
+        print_position: 8
       - uid: MIN227.10.2.3.TY.3
         subobj: 10.2.3
         type: ty
@@ -4522,6 +5100,7 @@ courses:
           D: the Holy Spirit’s control of the believer’s tongue during Pentecostal
             baptism.
         answer: A
+        print_position: 9
       - uid: MIN227.10.2.4.TY.1
         subobj: 10.2.4
         type: ty
@@ -4532,6 +5111,7 @@ courses:
           C: Study in the Word, reliance on the Holy Spirit, and rejection of sin
           D: Psalms, hymns, and spiritual songs
         answer: C
+        print_position: 10
       - uid: MIN227.11.1.1.TY.1
         subobj: 11.1.1
         type: ty
@@ -4544,6 +5124,7 @@ courses:
           D: interviewing students on past life experiences and then connecting those
             experiences with the material to be studied.
         answer: A
+        print_position: 1
       - uid: MIN227.11.1.2.UPE.1
         subobj: 11.1.2
         type: upe
@@ -4555,6 +5136,8 @@ courses:
           C: avoiding topics, like sin , that unbelievers may find uncomfortable.
           D: putting catchy phrases on the church sign.
         answer: B
+        print_position: 1
+        unit: 4
       - uid: MIN227.11.1.3.UPE.1
         subobj: 11.1.3
         type: upe
@@ -4566,6 +5149,8 @@ courses:
           C: provides opportunities for a pastor to model evangelism.
           D: is unwise for pastors, since it sets a bad example for church members.
         answer: C
+        print_position: 2
+        unit: 4
       - uid: MIN227.11.1.3.TY.1
         subobj: 11.1.3
         type: ty
@@ -4577,6 +5162,7 @@ courses:
           C: pray with someone about a personal need.
           D: summarize the key evidences for God’s existence.
         answer: C
+        print_position: 2
       - uid: MIN227.11.1.4.UPE.1
         subobj: 11.1.4
         type: upe
@@ -4587,6 +5173,8 @@ courses:
           C: the responsibility of those called to vocational ministry.
           D: centered around propositional statements of truth.
         answer: B
+        print_position: 3
+        unit: 4
       - uid: MIN227.11.1.4.TY.1
         subobj: 11.1.4
         type: ty
@@ -4600,6 +5188,7 @@ courses:
             evangelism.
           D: a churchwide point system and cash prizes for inviting people to church.
         answer: C
+        print_position: 3
       - uid: MIN227.11.2.1.UPE.1
         subobj: 11.2.1
         type: upe
@@ -4610,6 +5199,8 @@ courses:
           C: in large open air meetings.
           D: on their own accord, without anyone witnessing to them.
         answer: B
+        print_position: 4
+        unit: 4
       - uid: MIN227.11.2.1.TY.1
         subobj: 11.2.1
         type: ty
@@ -4624,6 +5215,7 @@ courses:
           D: gospel tracts on doors, Scripture yard signs, public Bible reading, and
             gospel bumper stickers.
         answer: A
+        print_position: 4
       - uid: MIN227.11.2.2.UPE.1
         subobj: 11.2.2
         type: upe
@@ -4635,6 +5227,8 @@ courses:
           C: are unimportant because church visitors are usually insincere.
           D: are more trouble than they are worth.
         answer: A
+        print_position: 5
+        unit: 4
       - uid: MIN227.11.2.2.TY.1
         subobj: 11.2.2
         type: ty
@@ -4646,6 +5240,7 @@ courses:
           C: similarities to community prayer walks.
           D: the pastor and one other church staff member.
         answer: A
+        print_position: 5
       - uid: MIN227.11.2.3.UPE.1
         subobj: 11.2.3
         type: upe
@@ -4656,6 +5251,8 @@ courses:
           C: is appropriate only for pastors who are very well known in their communities.
           D: can be an effective means of evangelizing.
         answer: D
+        print_position: 6
+        unit: 4
       - uid: MIN227.11.2.4.TY.1
         subobj: 11.2.4
         type: ty
@@ -4666,6 +5263,7 @@ courses:
           C: identifying personal lostness.
           D: the Romans Road.
         answer: B
+        print_position: 6
       - uid: MIN227.11.3.1.UPE.1
         subobj: 11.3.1
         type: upe
@@ -4677,6 +5275,8 @@ courses:
           C: Andrew.
           D: Peter.
         answer: B
+        print_position: 7
+        unit: 4
       - uid: MIN227.11.3.1.TY.1
         subobj: 11.3.1
         type: ty
@@ -4687,6 +5287,7 @@ courses:
           C: in each book and uses a variety of Greek words to explain the meaning.
           D: only once, and the passage is textually questionable.
         answer: A
+        print_position: 7
       - uid: MIN227.11.3.2.TY.1
         subobj: 11.3.2
         type: ty
@@ -4698,6 +5299,7 @@ courses:
           C: in the role of an associate pastor.
           D: in the context of the worldwide Church.
         answer: C
+        print_position: 8
       - uid: MIN227.11.3.4.UPE.1
         subobj: 11.3.4
         type: upe
@@ -4711,6 +5313,8 @@ courses:
           D: the church plant meets at different times or in a different part of the
             host church facility.
         answer: A
+        print_position: 8
+        unit: 4
       - uid: MIN227.11.3.4.TY.1
         subobj: 11.3.4
         type: ty
@@ -4722,6 +5326,7 @@ courses:
           C: Internal, satellite
           D: Sectional, cathedral
         answer: C
+        print_position: 9
       - uid: MIN227.11.3.4.TY.2
         subobj: 11.3.4
         type: ty
@@ -4734,6 +5339,7 @@ courses:
             church.
           D: decrease personal evangelism, since some see the church plant as a threat.
         answer: C
+        print_position: 10
       - uid: MIN227.12.1.1.UPE.1
         subobj: 12.1.1
         type: upe
@@ -4744,6 +5350,8 @@ courses:
           C: is unnecessary in a Spirit-filled church.
           D: is not an effective means of reaching the lost.
         answer: B
+        print_position: 9
+        unit: 4
       - uid: MIN227.12.1.1.TY.1
         subobj: 12.1.1
         type: ty
@@ -4754,6 +5362,7 @@ courses:
           C: personal testimony.
           D: careful interpretation of key words in the original languages.
         answer: A
+        print_position: 1
       - uid: MIN227.12.1.1.TY.2
         subobj: 12.1.1
         type: ty
@@ -4766,6 +5375,7 @@ courses:
           D: literary and historical criticism of the Word are integral to sermon
             preparation.
         answer: A
+        print_position: 2
       - uid: MIN227.12.1.2.UPE.1
         subobj: 12.1.2
         type: upe
@@ -4779,6 +5389,8 @@ courses:
           D: often wrote only under their own authority without the guidance of the
             Holy Spirit.
         answer: C
+        print_position: 10
+        unit: 4
       - uid: MIN227.12.1.2.TY.1
         subobj: 12.1.2
         type: ty
@@ -4790,6 +5402,7 @@ courses:
           C: the God-given creative abilities of biblical writers put to optimal use.
           D: God’s choice of literature from an array of religious writing.
         answer: A
+        print_position: 3
       - uid: MIN227.12.1.3.UPE.1
         subobj: 12.1.3
         type: upe
@@ -4802,6 +5415,8 @@ courses:
           C: current life experience to reveal the best illustrations for the text.
           D: personal spiritual disciplines and self-denial.
         answer: B
+        print_position: 11
+        unit: 4
       - uid: MIN227.12.1.4.TY.1
         subobj: 12.1.4
         type: ty
@@ -4812,6 +5427,7 @@ courses:
           C: emotional response of the congregation.
           D: length of the message.
         answer: B
+        print_position: 4
       - uid: MIN227.12.2.1.TY.1
         subobj: 12.2.1
         type: ty
@@ -4823,6 +5439,7 @@ courses:
           C: Immediate application, denominational understanding
           D: Original meaning, current application
         answer: D
+        print_position: 5
       - uid: MIN227.12.2.2.UPE.1
         subobj: 12.2.2
         type: upe
@@ -4834,6 +5451,8 @@ courses:
           D: connected with contemporary language and experience under the Spirit’s
             anointing.
         answer: D
+        print_position: 12
+        unit: 4
       - uid: MIN227.12.2.3.TY.1
         subobj: 12.2.3
         type: ty
@@ -4844,6 +5463,7 @@ courses:
           C: symbolic or allegorical implications.
           D: chronological placement in biblical history.
         answer: B
+        print_position: 6
       - uid: MIN227.12.2.4.UPE.1
         subobj: 12.2.4
         type: upe
@@ -4854,6 +5474,8 @@ courses:
           C: Discipline and dependence
           D: A growing church and community outreach
         answer: C
+        print_position: 13
+        unit: 4
       - uid: MIN227.12.2.4.TY.1
         subobj: 12.2.4
         type: ty
@@ -4866,6 +5488,7 @@ courses:
           C: giving the audience comic relief.
           D: breaking the sermon into portions to avoid excessive reading of the text.
         answer: B
+        print_position: 7
       - uid: MIN227.12.3.1.UPE.1
         subobj: 12.3.1
         type: upe
@@ -4876,6 +5499,8 @@ courses:
           C: are the most important roles in the church.
           D: come from the same Greek word roots.
         answer: A
+        print_position: 14
+        unit: 4
       - uid: MIN227.12.3.1.TY.1
         subobj: 12.3.1
         type: ty
@@ -4886,6 +5511,7 @@ courses:
           C: bring conviction to nonbelievers who cannot genuinely worship.
           D: shed light on believers’ sin and stir conviction.
         answer: A
+        print_position: 8
       - uid: MIN227.12.3.1.TY.2
         subobj: 12.3.1
         type: ty
@@ -4896,6 +5522,7 @@ courses:
           C: symbolic vestige of the Law of Moses.
           D: metaphor for the believer’s heart.
         answer: B
+        print_position: 9
       - uid: MIN227.12.3.2.UPE.1
         subobj: 12.3.2
         type: upe
@@ -4911,6 +5538,8 @@ courses:
           D: pronouncement of the lostness of man, announcement of the eternal duration
             of hell, description of God’s grace, warning against accepting grace unworthily.
         answer: C
+        print_position: 15
+        unit: 4
       - uid: MIN227.12.3.3.UPE.1
         subobj: 12.3.3
         type: upe
@@ -4922,6 +5551,8 @@ courses:
           C: whether he or she personally knows the Lord or has known the Lord.
           D: the four spiritual laws.
         answer: C
+        print_position: 16
+        unit: 4
       - uid: MIN227.12.3.4.TY.1
         subobj: 12.3.4
         type: ty
@@ -4934,6 +5565,7 @@ courses:
           D: be positive and encouraging, assuring the person of God’s working in
             his or her heart.
         answer: D
+        print_position: 10
       - uid: MIN227.13.1.1.UPE.1
         subobj: 13.1.1
         type: upe
@@ -4945,6 +5577,8 @@ courses:
           C: Bible study, Scripture memorization, and Bible meditation.
           D: Bible reading, Bible study, and Bible meditation.
         answer: D
+        print_position: 17
+        unit: 4
       - uid: MIN227.13.1.1.TY.1
         subobj: 13.1.1
         type: ty
@@ -4955,6 +5589,7 @@ courses:
           C: slow reading in order to increase understanding.
           D: spiritual nourishment being compared with physical nourishment.
         answer: D
+        print_position: 1
       - uid: MIN227.13.1.3.UPE.1
         subobj: 13.1.3
         type: upe
@@ -4966,6 +5601,8 @@ courses:
           C: not be baptized again if they were baptized as infants.
           D: be baptized only after they have received the baptism of the Holy Spirit.
         answer: A
+        print_position: 18
+        unit: 4
       - uid: MIN227.13.1.3.TY.1
         subobj: 13.1.3
         type: ty
@@ -4978,6 +5615,7 @@ courses:
           D: offering opportunities for corporate worship, spiritual encouragement,
             and service to others.
         answer: D
+        print_position: 2
       - uid: MIN227.13.1.3.TY.2
         subobj: 13.1.3
         type: ty
@@ -4989,6 +5627,7 @@ courses:
           C: monogamous lifestyles and pro-life voting records.
           D: regular participation in communion and obedience in water baptism.
         answer: B
+        print_position: 3
       - uid: MIN227.13.2.2.TY.1
         subobj: 13.2.2
         type: ty
@@ -5001,6 +5640,7 @@ courses:
             discipleship.
           D: gifts of the Spirit, each used exclusively by believers with that gift.
         answer: A
+        print_position: 4
       - uid: MIN227.13.2.3.TY.1
         subobj: 13.2.3
         type: ty
@@ -5011,6 +5651,7 @@ courses:
           C: absorb the theological position statements of his or her church.
           D: achieve material blessing as proof of God’s favor.
         answer: B
+        print_position: 5
       - uid: MIN227.13.2.4.TY.1
         subobj: 13.2.4
         type: ty
@@ -5022,6 +5663,7 @@ courses:
             believers are responsible to spiritually nurture him or her.
           D: God takes full responsibility to choose disciplers for His followers.
         answer: C
+        print_position: 6
       - uid: MIN227.13.2.4.TY.2
         subobj: 13.2.4
         type: ty
@@ -5034,6 +5676,7 @@ courses:
           D: irreversible, with discipleship following a pre-ordained path of spiritual
             growth.
         answer: A
+        print_position: 7
       - uid: MIN227.13.3.2.TY.1
         subobj: 13.3.2
         type: ty
@@ -5044,6 +5687,7 @@ courses:
           C: be evaluated for specific spiritual gifts and given structured training.
           D: be given opportunities to serve others and, thus, grow spiritually.
         answer: D
+        print_position: 8
       - uid: MIN227.13.3.3.UPE.1
         subobj: 13.3.3
         type: upe
@@ -5054,6 +5698,8 @@ courses:
           C: provide a means for discipleship in the local church.
           D: are a new age concept that should be rejected by the church.
         answer: C
+        print_position: 19
+        unit: 4
       - uid: MIN227.13.3.3.UPE.2
         subobj: 13.3.3
         type: upe
@@ -5064,6 +5710,8 @@ courses:
           C: is an inefficient use of a pastor’s time.
           D: should be done only by the pastor.
         answer: A
+        print_position: 20
+        unit: 4
       - uid: MIN227.13.3.3.TY.1
         subobj: 13.3.3
         type: ty
@@ -5075,6 +5723,7 @@ courses:
           C: media presentations that bring the Bible to life.
           D: a comfortable environment that promotes seeker sensitivity.
         answer: A
+        print_position: 9
       - uid: MIN227.13.3.4.TY.1
         subobj: 13.3.4
         type: ty
@@ -5085,6 +5734,7 @@ courses:
           C: both the discipler and the disciple be close in age.
           D: the discipler is of reputable Christian character.
         answer: D
+        print_position: 10
       - uid: MIN227.14.1.1.TY.1
         subobj: 14.1.1
         type: ty
@@ -5096,6 +5746,7 @@ courses:
           C: Prosperity
           D: World evangelization
         answer: D
+        print_position: 1
       - uid: MIN227.14.1.2.TY.1
         subobj: 14.1.2
         type: ty
@@ -5107,6 +5758,7 @@ courses:
           C: true interpretation of the Parable of the Ninety-Nine Sheep.
           D: validity of irresistible grace.
         answer: A
+        print_position: 2
       - uid: MIN227.14.1.3.TY.1
         subobj: 14.1.3
         type: ty
@@ -5120,6 +5772,7 @@ courses:
           C: raising funds from around the world for relief projects.
           D: translating the Bible into every known language.
         answer: B
+        print_position: 3
       - uid: MIN227.14.1.3.TY.2
         subobj: 14.1.3
         type: ty
@@ -5131,6 +5784,7 @@ courses:
           C: reaching, planting, training, and touching.
           D: convicting, disciplining, guiding, and multiplying.
         answer: C
+        print_position: 4
       - uid: MIN227.14.1.4.UPE.1
         subobj: 14.1.4
         type: upe
@@ -5142,6 +5796,8 @@ courses:
           C: all people proclaiming all truth and meeting all needs.
           D: all pastors teaching all the laity to evangelize all their neighbors.
         answer: B
+        print_position: 21
+        unit: 4
       - uid: MIN227.14.1.4.TY.1
         subobj: 14.1.4
         type: ty
@@ -5154,6 +5810,7 @@ courses:
           C: all adults committing to guide all children in praying for all nations.
           D: all the church in communicating all the gospel to all the world.
         answer: D
+        print_position: 5
       - uid: MIN227.14.2.1.TY.1
         subobj: 14.2.1
         type: ty
@@ -5165,6 +5822,7 @@ courses:
           C: a system of trusts and legacies.
           D: district councils.
         answer: A
+        print_position: 6
       - uid: MIN227.14.2.1.TY.2
         subobj: 14.2.1
         type: ty
@@ -5178,6 +5836,7 @@ courses:
             material blessings.
           D: maintaining their affiliation with the Assemblies of God.
         answer: B
+        print_position: 7
       - uid: MIN227.14.2.2.UPE.1
         subobj: 14.2.2
         type: upe
@@ -5189,6 +5848,8 @@ courses:
           D: remind the congregation of their responsibility in fulfilling the Great
             Commission.
         answer: D
+        print_position: 23
+        unit: 4
       - uid: MIN227.14.2.2.TY.1
         subobj: 14.2.2
         type: ty
@@ -5201,6 +5862,7 @@ courses:
             and missions needs
           D: Sending the pastoral staff on a short-term missions trip
         answer: C
+        print_position: 8
       - uid: MIN227.14.2.3.TY.1
         subobj: 14.2.3
         type: ty
@@ -5213,6 +5875,7 @@ courses:
           C: should be honored at all costs, even if a loan is required.
           D: is a confession of faith that becomes a seed for gaining personal wealth.
         answer: A
+        print_position: 9
       - uid: MIN227.14.2.4.UPE.1
         subobj: 14.2.4
         type: upe
@@ -5223,6 +5886,8 @@ courses:
           C: the weeks prior to missions convention.
           D: the first Sunday of the month.
         answer: C
+        print_position: 22
+        unit: 4
       - uid: MIN227.14.2.4.TY.1
         subobj: 14.2.4
         type: ty
@@ -5234,6 +5899,7 @@ courses:
           C: Missions Sunday.
           D: General Council.
         answer: B
+        print_position: 10
       - uid: MIN227.15.1.1.TY.1
         subobj: 15.1.1
         type: ty
@@ -5244,6 +5910,7 @@ courses:
           C: must carry out personal evangelism in order to experience salvation.
           D: are to identify among themselves the people God has called to be witnesses.
         answer: B
+        print_position: 1
       - uid: MIN227.15.1.2.TY.1
         subobj: 15.1.2
         type: ty
@@ -5254,6 +5921,7 @@ courses:
           C: Evangelism, discipleship, communion, spiritual gifts
           D: Water baptism, Pentecost, evangelism, prayer
         answer: A
+        print_position: 2
       - uid: MIN227.15.1.3.TY.1
         subobj: 15.1.3
         type: ty
@@ -5264,6 +5932,7 @@ courses:
           C: represented in the New Jerusalem’s foundations.
           D: worship, since both bring God glory.
         answer: D
+        print_position: 3
       - uid: MIN227.15.1.4.TY.1
         subobj: 15.1.4
         type: ty
@@ -5274,6 +5943,7 @@ courses:
           C: divine gift available to all believers who ask for it.
           D: responsibility of specific church leaders who receive laity prayer support.
         answer: B
+        print_position: 4
       - uid: MIN227.15.1.4.TY.2
         subobj: 15.1.4
         type: ty
@@ -5284,6 +5954,7 @@ courses:
           C: symbol of the believer’s inner struggle with sin.
           D: reminder of death and the Great White Throne judgment.
         answer: B
+        print_position: 5
       - uid: MIN227.15.2.1.TY.1
         subobj: 15.2.1
         type: ty
@@ -5295,6 +5966,7 @@ courses:
           C: with personal repentance and begin each prayer with confession.
           D: personal prosperity and begin each prayer by claiming a blessing.
         answer: A
+        print_position: 6
       - uid: MIN227.15.2.2.TY.1
         subobj: 15.2.2
         type: ty
@@ -5308,6 +5980,7 @@ courses:
           D: progress through books of the Bible, as well as sermons that give in-depth
             treatment to biblical themes.
         answer: D
+        print_position: 7
       - uid: MIN227.15.2.3.UPE.1
         subobj: 15.2.3
         type: upe
@@ -5318,6 +5991,8 @@ courses:
           C: can be a positive factor in the believer’s life.
           D: always leads to corruption.
         answer: C
+        print_position: 24
+        unit: 4
       - uid: MIN227.15.2.3.TY.1
         subobj: 15.2.3
         type: ty
@@ -5329,6 +6004,7 @@ courses:
           D: trust God to meet personal needs and use all personal resources as God
             leads.
         answer: D
+        print_position: 8
       - uid: MIN227.15.2.4.UPE.1
         subobj: 15.2.4
         type: upe
@@ -5339,6 +6015,8 @@ courses:
           C: give regularly to missions and attend short term missions trips.
           D: read the right books and attend conferences led by prominent pastors.
         answer: A
+        print_position: 25
+        unit: 4
       - uid: MIN227.15.2.4.TY.1
         subobj: 15.2.4
         type: ty
@@ -5350,6 +6028,7 @@ courses:
           D: Saul was symbolic of Israel’s rebellion, and David was part of God’s
             plan of salvation.
         answer: A
+        print_position: 9
       - uid: MIN227.15.2.4.TY.2
         subobj: 15.2.4
         type: ty
@@ -5362,6 +6041,7 @@ courses:
           C: integrate evangelism into every expression of the church’s life.
           D: conduct prayer walks through the community surrounding the church.
         answer: C
+        print_position: 10
       - uid: MIN227.1.1.4.F.1
         subobj: 1.1.4
         type: final
@@ -5774,6 +6454,7 @@ courses:
         key_pdf: min123_2nd_form c key partest jul 09.pdf
         matched: 37
         objectives_agree: 37
+      captured: reparse
     deployed_pn: 03.22.01
     body_baseline_pn: 03.22.01
     body_baseline_date: '2026-08-26'
