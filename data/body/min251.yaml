@@ -3134,6 +3134,7 @@ courses:
           C: Do we like being a part of this team?
           D: Does everyone participate?
         answer: A
+      product_id: BMIN251ENE02-90_02.22.01
     - pn: 03.26.01
       course_code: MIN251
       source_html: MIN251_UMD.html
@@ -5730,6 +5731,7 @@ courses:
         run: 20260728T103340_MIN251.all.f
         form: E
         date: '2026-07-28'
+      product_id: BMIN251ENE03-90_03.26.01
     deployed_pn: 03.26.01
     chapters:
     - last_modified: '2026-06-12'
