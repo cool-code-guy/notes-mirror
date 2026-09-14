@@ -1100,6 +1100,8 @@ courses:
           C: education and experience.
           D: eloquence and professionalism.
         answer: A
+        print_position: 1
+        unit: 1
       - uid: MIN251.1.1.1.UPE.2
         subobj: 1.1.1
         type: upe
@@ -1110,6 +1112,8 @@ courses:
           C: lived away from his family.
           D: loved God with all his heart.
         answer: A
+        print_position: 2
+        unit: 1
       - uid: MIN251.1.1.1.TY.1
         subobj: 1.1.1
         type: ty
@@ -1121,6 +1125,7 @@ courses:
           C: Vision
           D: Character
         answer: C
+        print_position: 1
       - uid: MIN251.1.1.1.TY.2
         subobj: 1.1.1
         type: ty
@@ -1132,6 +1137,7 @@ courses:
           D: If a leader does not keep his or her word, suffering follows and the
             strength of societies dissolves.
         answer: A
+        print_position: 2
       - uid: MIN251.1.2.1.UPE.1
         subobj: 1.2.1
         type: upe
@@ -1142,6 +1148,8 @@ courses:
           C: the Babylonians taught polytheism, not just one God, Jehovah.
           D: the Babylonians taught him Deism.
         answer: C
+        print_position: 3
+        unit: 1
       - uid: MIN251.1.2.1.UPE.2
         subobj: 1.2.1
         type: upe
@@ -1152,6 +1160,8 @@ courses:
           C: His name was regal, and he felt unworthy of it.
           D: His new name was common.
         answer: B
+        print_position: 4
+        unit: 1
       - uid: MIN251.1.2.1.UPE.3
         subobj: 1.2.1
         type: upe
@@ -1162,6 +1172,8 @@ courses:
           C: sent him to do slave labor.
           D: forced him to eat what the king required.
         answer: A
+        print_position: 5
+        unit: 1
       - uid: MIN251.1.2.1.TY.1
         subobj: 1.2.1
         type: ty
@@ -1173,6 +1185,7 @@ courses:
           C: Daniel’s new home offered him plenty of personal accountability.
           D: Daniel found the wealth and comforts of Babylon to be attractive.
         answer: B
+        print_position: 3
       - uid: MIN251.1.2.1.TY.2
         subobj: 1.2.1
         type: ty
@@ -1186,6 +1199,7 @@ courses:
             of great human achievement.
           D: All of the above are true.
         answer: D
+        print_position: 4
       - uid: MIN251.1.2.1.TY.3
         subobj: 1.2.1
         type: ty
@@ -1197,6 +1211,7 @@ courses:
           C: It was limited to bread and water for all the prisoners.
           D: It was similar to the food of Daniel’s homeland.
         answer: A
+        print_position: 5
       - uid: MIN251.1.2.1.TY.4
         subobj: 1.2.1
         type: ty
@@ -1207,6 +1222,7 @@ courses:
           C: connect Daniel to Babylonian culture.
           D: do all of the above.
         answer: D
+        print_position: 6
       - uid: MIN251.1.3.1.UPE.1
         subobj: 1.3.1
         type: upe
@@ -1218,6 +1234,8 @@ courses:
           C: used a team approach.
           D: was a calm and cool diplomat.
         answer: D
+        print_position: 6
+        unit: 1
       - uid: MIN251.1.3.1.UPE.2
         subobj: 1.3.1
         type: upe
@@ -1228,6 +1246,8 @@ courses:
           C: it gives us more time to establish our leadership.
           D: early mistakes prevent God from using us effectively.
         answer: A
+        print_position: 7
+        unit: 1
       - uid: MIN251.1.3.1.UPE.3
         subobj: 1.3.1
         type: upe
@@ -1238,6 +1258,8 @@ courses:
           C: Daniel attempted to discredit them.
           D: Daniel was disloyal to the king.
         answer: B
+        print_position: 8
+        unit: 1
       - uid: MIN251.1.3.1.UPE.4
         subobj: 1.3.1
         type: upe
@@ -1248,6 +1270,8 @@ courses:
           C: complying with all the new expectations to please his captors.
           D: resolving early not to defile himself.
         answer: D
+        print_position: 9
+        unit: 1
       - uid: MIN251.1.3.1.TY.1
         subobj: 1.3.1
         type: ty
@@ -1259,6 +1283,7 @@ courses:
             to be one of them.
           D: He maintained his personal habits of worship and prayer.
         answer: C
+        print_position: 7
       - uid: MIN251.1.3.1.TY.2
         subobj: 1.3.1
         type: ty
@@ -1270,6 +1295,7 @@ courses:
           C: He was removed from the place of privilege and sent to do slave labor.
           D: He was immediately made ruler over one-half of the land.
         answer: A
+        print_position: 8
       - uid: MIN251.1.3.1.TY.3
         subobj: 1.3.1
         type: ty
@@ -1280,6 +1306,7 @@ courses:
           C: He lived the truth even when it was unpopular.
           D: He consistently demonstrated strong character.
         answer: B
+        print_position: 9
       - uid: MIN251.1.4.1.UPE.1
         subobj: 1.4.1
         type: upe
@@ -1291,6 +1318,8 @@ courses:
           C: disciplining yourself to be a person of integrity and character.
           D: gaining respect of those around you.
         answer: C
+        print_position: 10
+        unit: 1
       - uid: MIN251.1.4.1.TY.1
         subobj: 1.4.1
         type: ty
@@ -1303,6 +1332,7 @@ courses:
           C: Write out the promises you have made and take responsibility for them.
           D: All of the above will aid you.
         answer: D
+        print_position: 10
       - uid: MIN251.2.1.1.UPE.1
         subobj: 2.1.1
         type: upe
@@ -1314,6 +1344,8 @@ courses:
           C: “What do you want me to do?”
           D: “What have I done wrong?”
         answer: C
+        print_position: 11
+        unit: 1
       - uid: MIN251.2.1.1.UPE.2
         subobj: 2.1.1
         type: upe
@@ -1329,6 +1361,8 @@ courses:
           D: Know your purpose, grow to your maximum potential, and articulate your
             purpose to those you lead.
         answer: A
+        print_position: 12
+        unit: 1
       - uid: MIN251.2.1.1.UPE.3
         subobj: 2.1.1
         type: upe
@@ -1342,6 +1376,8 @@ courses:
             ministry.
           D: God needs to break our will and self-motivation.
         answer: B
+        print_position: 13
+        unit: 1
       - uid: MIN251.2.1.1.TY.1
         subobj: 2.1.1
         type: ty
@@ -1353,6 +1389,7 @@ courses:
           C: Choose large organizations.
           D: Know your purpose in life.
         answer: C
+        print_position: 1
       - uid: MIN251.2.1.1.TY.2
         subobj: 2.1.1
         type: ty
@@ -1364,6 +1401,7 @@ courses:
           C: Making a list of personal failures for regular review
           D: Maintaining a neutral self-image so pride will not take hold
         answer: A
+        print_position: 2
       - uid: MIN251.2.1.1.TY.3
         subobj: 2.1.1
         type: ty
@@ -1374,6 +1412,7 @@ courses:
           C: Earns trust
           D: All of the above will benefit a leader.
         answer: D
+        print_position: 4
       - uid: MIN251.2.1.2.UPE.1
         subobj: 2.1.2
         type: upe
@@ -1384,6 +1423,8 @@ courses:
           C: pursues status among others.
           D: wants to add value to others.
         answer: D
+        print_position: 14
+        unit: 1
       - uid: MIN251.2.1.2.TY.1
         subobj: 2.1.2
         type: ty
@@ -1395,6 +1436,7 @@ courses:
           C: What are my burdens?
           D: What will my current income allow me to do?
         answer: D
+        print_position: 3
       - uid: MIN251.2.1.2.TY.2
         subobj: 2.1.2
         type: ty
@@ -1407,6 +1449,7 @@ courses:
           D: Ask—this is the prayer of intercession, praying for those who cannot
             pray for themselves.
         answer: C
+        print_position: 5
       - uid: MIN251.2.1.2.TY.3
         subobj: 2.1.2
         type: ty
@@ -1418,6 +1461,7 @@ courses:
           C: Now time—What should we do in response to it?
           D: A Bible student must consider all of the above.
         answer: D
+        print_position: 6
       - uid: MIN251.2.2.1.UPE.1
         subobj: 2.2.1
         type: upe
@@ -1429,6 +1473,8 @@ courses:
           C: passion.
           D: dreams.
         answer: C
+        print_position: 15
+        unit: 1
       - uid: MIN251.2.2.1.UPE.2
         subobj: 2.2.1
         type: upe
@@ -1440,6 +1486,8 @@ courses:
           C: resolve.
           D: dreams.
         answer: B
+        print_position: 16
+        unit: 1
       - uid: MIN251.2.2.1.TY.1
         subobj: 2.2.1
         type: ty
@@ -1451,6 +1499,7 @@ courses:
           C: Dreams
           D: Passion
         answer: A
+        print_position: 7
       - uid: MIN251.2.2.1.TY.2
         subobj: 2.2.1
         type: ty
@@ -1461,6 +1510,7 @@ courses:
           C: Pursues status with others
           D: All of the above are characteristics of a secure leader.
         answer: B
+        print_position: 8
       - uid: MIN251.2.2.1.TY.3
         subobj: 2.2.1
         type: ty
@@ -1471,6 +1521,7 @@ courses:
           C: Their lives are marked by biblical stewardship.
           D: All of the above are true.
         answer: D
+        print_position: 9
       - uid: MIN251.2.2.1.TY.4
         subobj: 2.2.1
         type: ty
@@ -1483,6 +1534,7 @@ courses:
           D: A leader must recognize the interdependence of himself or herself and
             those he or she leads.
         answer: A
+        print_position: 10
       - uid: MIN251.2.2.2.UPE.1
         subobj: 2.2.2
         type: upe
@@ -1494,6 +1546,8 @@ courses:
           C: lips, lives, love, liberty, loot.
           D: love, lives, lasting, liberty, loot.
         answer: C
+        print_position: 17
+        unit: 1
       - uid: MIN251.3.1.1.UPE.1
         subobj: 3.1.1
         type: upe
@@ -1505,6 +1559,8 @@ courses:
           C: accuracy.
           D: availability.
         answer: B
+        print_position: 18
+        unit: 1
       - uid: MIN251.3.1.1.UPE.2
         subobj: 3.1.1
         type: upe
@@ -1516,6 +1572,8 @@ courses:
           C: mother and child.
           D: coworkers.
         answer: C
+        print_position: 19
+        unit: 1
       - uid: MIN251.3.1.1.TY.1
         subobj: 3.1.1
         type: ty
@@ -1527,6 +1585,7 @@ courses:
           C: Only about 25 percent finished their lives in the will of God.
           D: All of the above are true.
         answer: C
+        print_position: 1
       - uid: MIN251.3.1.1.TY.2
         subobj: 3.1.1
         type: ty
@@ -1538,6 +1597,7 @@ courses:
           C: Farmers and soil
           D: Father and son
         answer: A
+        print_position: 2
       - uid: MIN251.3.1.1.TY.3
         subobj: 3.1.1
         type: ty
@@ -1548,6 +1608,7 @@ courses:
           C: Lives a blessed life
           D: All the above are characteristics of a servant leader.
         answer: D
+        print_position: 3
       - uid: MIN251.3.1.1.TY.4
         subobj: 3.1.1
         type: ty
@@ -1559,6 +1620,7 @@ courses:
           C: Efficiency
           D: Patience
         answer: C
+        print_position: 4
       - uid: MIN251.3.1.1.TY.5
         subobj: 3.1.1
         type: ty
@@ -1569,6 +1631,7 @@ courses:
           C: To the One who has called him or her
           D: The servant is to be loyal to all of the above.
         answer: D
+        print_position: 5
       - uid: MIN251.3.2.1.UPE.1
         subobj: 3.2.1
         type: upe
@@ -1579,6 +1642,8 @@ courses:
           C: prepare a weekly sermon.
           D: balance his or her personal and professional life.
         answer: A
+        print_position: 20
+        unit: 1
       - uid: MIN251.3.2.1.TY.1
         subobj: 3.2.1
         type: ty
@@ -1589,6 +1654,7 @@ courses:
           C: He felt that he had to be obedient only to his Babylonian captors.
           D: He sought to honor God by his service to Potiphar.
         answer: C
+        print_position: 6
       - uid: MIN251.3.2.1.TY.2
         subobj: 3.2.1
         type: ty
@@ -1599,6 +1665,7 @@ courses:
           C: Articulation
           D: Creativity
         answer: A
+        print_position: 7
       - uid: MIN251.3.2.1.TY.3
         subobj: 3.2.1
         type: ty
@@ -1610,6 +1677,7 @@ courses:
           C: Tychicus
           D: He uses all of the above.
         answer: D
+        print_position: 8
       - uid: MIN251.3.3.1.UPE.1
         subobj: 3.3.1
         type: upe
@@ -1621,6 +1689,8 @@ courses:
           C: lead leaders.
           D: develop a five-year plan.
         answer: C
+        print_position: 21
+        unit: 1
       - uid: MIN251.3.3.1.TY.1
         subobj: 3.3.1
         type: ty
@@ -1631,6 +1701,7 @@ courses:
           C: Organization
           D: Creativity
         answer: A
+        print_position: 9
       - uid: MIN251.3.3.1.TY.2
         subobj: 3.3.1
         type: ty
@@ -1641,6 +1712,7 @@ courses:
           C: 1 Corinthians 2:14–15
           D: 1 Corinthians 4:1–2
         answer: D
+        print_position: 10
       - uid: MIN251.4.1.1.UPE.1
         subobj: 4.1.1
         type: upe
@@ -1651,6 +1723,8 @@ courses:
           C: was not yet old enough to fulfill God’s dream for him.
           D: needed to learn trust and patience.
         answer: D
+        print_position: 22
+        unit: 1
       - uid: MIN251.4.2.1.UPE.1
         subobj: 4.2.1
         type: upe
@@ -1661,6 +1735,8 @@ courses:
           C: self-promotion and human promotion cannot replace divine promotion.
           D: our goal should be to pass most of our tests.
         answer: C
+        print_position: 23
+        unit: 1
       - uid: MIN251.4.2.1.TY.1
         subobj: 4.2.1
         type: ty
@@ -1671,6 +1747,7 @@ courses:
           C: He learned faith in times of adversity.
           D: He learned all of the above.
         answer: D
+        print_position: 1
       - uid: MIN251.4.2.1.TY.2
         subobj: 4.2.1
         type: ty
@@ -1682,6 +1759,7 @@ courses:
           C: Inward poverty
           D: Inward progress
         answer: A
+        print_position: 2
       - uid: MIN251.4.2.1.TY.3
         subobj: 4.2.1
         type: ty
@@ -1692,6 +1770,7 @@ courses:
           C: Competence
           D: Communication
         answer: B
+        print_position: 3
       - uid: MIN251.4.2.1.TY.4
         subobj: 4.2.1
         type: ty
@@ -1702,6 +1781,7 @@ courses:
           C: reveals why we do the right thing.
           D: displays our integrity.
         answer: C
+        print_position: 4
       - uid: MIN251.4.3.1.UPE.1
         subobj: 4.3.1
         type: upe
@@ -1712,6 +1792,8 @@ courses:
           C: Motivation test
           D: Forgiveness test
         answer: C
+        print_position: 24
+        unit: 1
       - uid: MIN251.4.3.1.UPE.2
         subobj: 4.3.1
         type: upe
@@ -1722,6 +1804,8 @@ courses:
           C: Wilderness test
           D: Lordship test
         answer: D
+        print_position: 25
+        unit: 1
       - uid: MIN251.4.3.1.TY.1
         subobj: 4.3.1
         type: ty
@@ -1732,6 +1816,7 @@ courses:
           C: proves our faithfulness and potential.
           D: reveals why we do the right thing.
         answer: B
+        print_position: 5
       - uid: MIN251.4.3.1.TY.2
         subobj: 4.3.1
         type: ty
@@ -1742,6 +1827,7 @@ courses:
           C: proves how we handle resources.
           D: reveals why we do the right thing.
         answer: C
+        print_position: 6
       - uid: MIN251.4.3.1.TY.3
         subobj: 4.3.1
         type: ty
@@ -1752,6 +1838,7 @@ courses:
           C: exposes our attitude and willing submission toward God-given authority.
           D: shows we are not easily offended.
         answer: A
+        print_position: 7
       - uid: MIN251.4.3.1.TY.4
         subobj: 4.3.1
         type: ty
@@ -1762,6 +1849,7 @@ courses:
           C: proves our faithfulness and potential.
           D: reveals we are not easily offended.
         answer: D
+        print_position: 8
       - uid: MIN251.4.3.1.TY.5
         subobj: 4.3.1
         type: ty
@@ -1773,6 +1861,7 @@ courses:
           C: exposes our attitude and willing submission toward God-given authority.
           D: exposes our ability to overcome every adversity we face.
         answer: B
+        print_position: 9
       - uid: MIN251.4.3.1.TY.6
         subobj: 4.3.1
         type: ty
@@ -1784,6 +1873,7 @@ courses:
           C: exposes our ability to overcome every adversity we face.
           D: reveals we are not easily offended.
         answer: A
+        print_position: 10
       - uid: MIN251.5.1.1.UPE.1
         subobj: 5.1.1
         type: upe
@@ -1795,6 +1885,8 @@ courses:
           C: 2 Corinthians
           D: James
         answer: B
+        print_position: 1
+        unit: 2
       - uid: MIN251.5.1.1.UPE.2
         subobj: 5.1.1
         type: upe
@@ -1805,6 +1897,8 @@ courses:
           C: Worship was a regular part of their routine.
           D: Worship was more than an event; it was a life attitude.
         answer: D
+        print_position: 2
+        unit: 2
       - uid: MIN251.5.1.1.UPE.3
         subobj: 5.1.1
         type: upe
@@ -1815,6 +1909,8 @@ courses:
           C: “teacher.”
           D: “encourager.”
         answer: B
+        print_position: 3
+        unit: 2
       - uid: MIN251.5.1.1.UPE.4
         subobj: 5.1.1
         type: upe
@@ -1826,6 +1922,8 @@ courses:
           C: relationships.
           D: door-to-door evangelism.
         answer: C
+        print_position: 4
+        unit: 2
       - uid: MIN251.5.1.1.TY.1
         subobj: 5.1.1
         type: ty
@@ -1837,6 +1935,7 @@ courses:
           C: They held annual councils.
           D: They shared their possessions.
         answer: C
+        print_position: 1
       - uid: MIN251.5.1.1.TY.2
         subobj: 5.1.1
         type: ty
@@ -1847,6 +1946,7 @@ courses:
           C: Our fellowship is to be based on shared relationship with Christ.
           D: All of the above are related to the idea of fellowship.
         answer: A
+        print_position: 2
       - uid: MIN251.5.1.1.TY.3
         subobj: 5.1.1
         type: ty
@@ -1858,6 +1958,7 @@ courses:
           C: Apostle
           D: Soldier
         answer: C
+        print_position: 3
       - uid: MIN251.5.1.1.TY.4
         subobj: 5.1.1
         type: ty
@@ -1868,6 +1969,7 @@ courses:
           C: People reaching out their arms to touch a hurting world
           D: All of the above are part of the mission of the church.
         answer: D
+        print_position: 4
       - uid: MIN251.5.2.1.UPE.1
         subobj: 5.2.1
         type: upe
@@ -1878,6 +1980,8 @@ courses:
           C: It gives evangelists a sense of the church’s needs.
           D: It declares a church’s biblical philosophy.
         answer: C
+        print_position: 5
+        unit: 2
       - uid: MIN251.5.2.1.TY.1
         subobj: 5.2.1
         type: ty
@@ -1889,6 +1993,7 @@ courses:
           C: A mission statement declares a church’s biblical philosophy.
           D: A mission statement captures the heart of your ministry.
         answer: B
+        print_position: 5
       - uid: MIN251.5.2.1.TY.2
         subobj: 5.2.1
         type: ty
@@ -1899,6 +2004,7 @@ courses:
           C: To keep the efforts of the group on track
           D: To determine the viability of a ministry possibility
         answer: A
+        print_position: 7
       - uid: MIN251.5.2.1.TY.3
         subobj: 5.2.1
         type: ty
@@ -1909,6 +2015,7 @@ courses:
           C: No awareness of the mission of the church
           D: All of the above are possible causes.
         answer: D
+        print_position: 9
       - uid: MIN251.5.2.1.TY.4
         subobj: 5.2.1
         type: ty
@@ -1922,6 +2029,7 @@ courses:
           D: A channel of God’s purpose to build a body of saints being perfected
             in His image
         answer: A
+        print_position: 10
       - uid: MIN251.5.2.2.UPE.1
         subobj: 5.2.2
         type: upe
@@ -1932,6 +2040,8 @@ courses:
           C: a high school level.
           D: an elementary level.
         answer: D
+        print_position: 6
+        unit: 2
       - uid: MIN251.5.2.2.TY.1
         subobj: 5.2.2
         type: ty
@@ -1942,6 +2052,7 @@ courses:
           C: It is affirmed by Scripture.
           D: All of the above are among the four tests of a great mission.
         answer: D
+        print_position: 6
       - uid: MIN251.5.2.2.TY.2
         subobj: 5.2.2
         type: ty
@@ -1953,6 +2064,7 @@ courses:
           C: Alliterative word usage
           D: Long sentences
         answer: D
+        print_position: 8
       - uid: MIN251.6.1.1.UPE.1
         subobj: 6.1.1
         type: upe
@@ -1963,6 +2075,8 @@ courses:
           C: Other organizations are seen as competitors.
           D: It may be put aside for something better.
         answer: B
+        print_position: 7
+        unit: 2
       - uid: MIN251.6.1.1.UPE.2
         subobj: 6.1.1
         type: upe
@@ -1973,6 +2087,8 @@ courses:
           C: accompanied by inward peace and outward opposition.
           D: captivating until fulfilled.
         answer: A
+        print_position: 8
+        unit: 2
       - uid: MIN251.6.1.1.UPE.3
         subobj: 6.1.1
         type: upe
@@ -1983,6 +2099,8 @@ courses:
           C: Where would we like to see our church in five years?
           D: What will the church become if God’s vision is fulfilled?
         answer: D
+        print_position: 9
+        unit: 2
       - uid: MIN251.6.1.1.UPE.4
         subobj: 6.1.1
         type: upe
@@ -1993,6 +2111,8 @@ courses:
           C: creates enthusiasm and energy.
           D: creates confusion about the direction the church should pursue.
         answer: C
+        print_position: 10
+        unit: 2
       - uid: MIN251.6.1.1.TY.1
         subobj: 6.1.1
         type: ty
@@ -2003,6 +2123,7 @@ courses:
           C: Other similar organizations are seen as competitors.
           D: It is accompanied by inward peace and outward opposition.
         answer: C
+        print_position: 1
       - uid: MIN251.6.1.1.TY.2
         subobj: 6.1.1
         type: ty
@@ -2013,6 +2134,7 @@ courses:
           C: Its fulfillment rests on staying ahead of others.
           D: Its goal is to build your organization and generate volume.
         answer: A
+        print_position: 2
       - uid: MIN251.6.1.1.TY.3
         subobj: 6.1.1
         type: ty
@@ -2024,6 +2146,7 @@ courses:
           C: Lobbyist
           D: The leader must fulfill all of the above roles.
         answer: D
+        print_position: 3
       - uid: MIN251.6.1.1.TY.4
         subobj: 6.1.1
         type: ty
@@ -2034,6 +2157,7 @@ courses:
           C: creates enthusiasm and energy.
           D: creates confusion as to the direction the church should pursue.
         answer: C
+        print_position: 4
       - uid: MIN251.6.2.1.UPE.1
         subobj: 6.2.1
         type: upe
@@ -2044,6 +2168,8 @@ courses:
           C: it is more common to work on Sunday.
           D: the church’s social life does not relate to them.
         answer: B
+        print_position: 11
+        unit: 2
       - uid: MIN251.6.2.1.UPE.2
         subobj: 6.2.1
         type: upe
@@ -2055,6 +2181,8 @@ courses:
           C: leaders take others with them, developing more leaders.
           D: the pastor should use his or her time for other things.
         answer: C
+        print_position: 12
+        unit: 2
       - uid: MIN251.6.2.1.TY.1
         subobj: 6.2.1
         type: ty
@@ -2065,6 +2193,7 @@ courses:
           C: a broad donor base.
           D: the pastoral staff and the church’s lay leaders.
         answer: A
+        print_position: 7
       - uid: MIN251.6.3.1.UPE.1
         subobj: 6.3.1
         type: upe
@@ -2075,6 +2204,8 @@ courses:
           C: body and mind.
           D: eyes and ears.
         answer: A
+        print_position: 13
+        unit: 2
       - uid: MIN251.6.3.1.UPE.2
         subobj: 6.3.1
         type: upe
@@ -2085,6 +2216,8 @@ courses:
           C: Create an atmosphere.
           D: Embrace the vision.
         answer: B
+        print_position: 14
+        unit: 2
       - uid: MIN251.6.3.1.TY.1
         subobj: 6.3.1
         type: ty
@@ -2096,6 +2229,7 @@ courses:
           C: we should consider at least two options before settling on one vision.
           D: the vision should be fulfilled within the lowest budget possible.
         answer: B
+        print_position: 5
       - uid: MIN251.6.3.1.TY.2
         subobj: 6.3.1
         type: ty
@@ -2106,6 +2240,7 @@ courses:
           C: The individual and collective potential of the people
           D: All of the above must be involved in considering vision.
         answer: D
+        print_position: 6
       - uid: MIN251.6.3.1.TY.3
         subobj: 6.3.1
         type: ty
@@ -2117,6 +2252,7 @@ courses:
           C: What are the financial considerations?
           D: What convictions do you feel compelled to pursue?
         answer: D
+        print_position: 8
       - uid: MIN251.6.3.1.TY.4
         subobj: 6.3.1
         type: ty
@@ -2128,6 +2264,7 @@ courses:
           C: What do they complain about?
           D: What do they budget for their recreational spending?
         answer: B
+        print_position: 9
       - uid: MIN251.6.3.1.TY.5
         subobj: 6.3.1
         type: ty
@@ -2138,6 +2275,7 @@ courses:
           C: Our integrity and trustworthiness
           D: All of the above indicate our passion.
         answer: D
+        print_position: 10
       - uid: MIN251.7.1.1.UPE.1
         subobj: 7.1.1
         type: upe
@@ -2148,6 +2286,8 @@ courses:
           C: Visitation
           D: Counseling
         answer: B
+        print_position: 15
+        unit: 2
       - uid: MIN251.7.1.1.TY.1
         subobj: 7.1.1
         type: ty
@@ -2159,6 +2299,7 @@ courses:
           C: Evangelist
           D: Teacher
         answer: A
+        print_position: 2
       - uid: MIN251.7.1.1.TY.2
         subobj: 7.1.1
         type: ty
@@ -2169,6 +2310,7 @@ courses:
           C: preparing pulpit ministry.
           D: preparing people for works of service.
         answer: D
+        print_position: 3
       - uid: MIN251.7.1.1.TY.3
         subobj: 7.1.1
         type: ty
@@ -2179,6 +2321,7 @@ courses:
           C: He invested in the lives of His disciples.
           D: He performed many miracles.
         answer: C
+        print_position: 4
       - uid: MIN251.7.2.1.UPE.1
         subobj: 7.2.1
         type: upe
@@ -2189,6 +2332,8 @@ courses:
           C: encourage fellowship and friendships.
           D: help people grow in Christ.
         answer: D
+        print_position: 16
+        unit: 2
       - uid: MIN251.7.2.1.TY.1
         subobj: 7.2.1
         type: ty
@@ -2199,6 +2344,7 @@ courses:
           C: have greater ministry efficiency.
           D: have help in getting the job done.
         answer: B
+        print_position: 5
       - uid: MIN251.7.2.1.TY.2
         subobj: 7.2.1
         type: ty
@@ -2209,6 +2355,7 @@ courses:
           C: that every member know his or her place in the body.
           D: all of the above.
         answer: D
+        print_position: 6
       - uid: MIN251.7.3.1.UPE.1
         subobj: 7.3.1
         type: upe
@@ -2219,6 +2366,8 @@ courses:
           C: Berean courses.
           D: seminaries.
         answer: B
+        print_position: 17
+        unit: 2
       - uid: MIN251.7.3.1.UPE.2
         subobj: 7.3.1
         type: upe
@@ -2229,6 +2378,8 @@ courses:
           C: “uniting.”
           D: “dividing.”
         answer: A
+        print_position: 18
+        unit: 2
       - uid: MIN251.7.3.1.UPE.3
         subobj: 7.3.1
         type: upe
@@ -2239,6 +2390,8 @@ courses:
           C: help them to mend the broken areas of their lives.
           D: provide feedback once a year.
         answer: C
+        print_position: 19
+        unit: 2
       - uid: MIN251.7.3.1.TY.1
         subobj: 7.3.1
         type: ty
@@ -2250,6 +2403,7 @@ courses:
           C: Help them to mend the broken areas of their lives
           D: Advise them to try many areas of ministry until one fits their gifts
         answer: C
+        print_position: 1
       - uid: MIN251.7.3.1.TY.2
         subobj: 7.3.1
         type: ty
@@ -2260,6 +2414,7 @@ courses:
           C: People will grow into spiritual maturity.
           D: It will equip God’s people.
         answer: A
+        print_position: 7
       - uid: MIN251.7.3.1.TY.3
         subobj: 7.3.1
         type: ty
@@ -2270,6 +2425,7 @@ courses:
           C: A library of Christian books
           D: The local church
         answer: D
+        print_position: 8
       - uid: MIN251.7.3.1.TY.4
         subobj: 7.3.1
         type: ty
@@ -2280,6 +2436,7 @@ courses:
           C: “uniting.”
           D: “preparing.”
         answer: D
+        print_position: 9
       - uid: MIN251.7.4.1.UPE.1
         subobj: 7.4.1
         type: upe
@@ -2290,6 +2447,8 @@ courses:
           C: investing in His disciples’ lives.
           D: performing many miracles.
         answer: C
+        print_position: 20
+        unit: 2
       - uid: MIN251.7.4.1.TY.1
         subobj: 7.4.1
         type: ty
@@ -2301,6 +2460,7 @@ courses:
           D: Removing His robe, wrapping himself with a towel, and washing His disciples’
             feet
         answer: D
+        print_position: 10
       - uid: MIN251.8.1.1.UPE.1
         subobj: 8.1.1
         type: upe
@@ -2311,6 +2471,8 @@ courses:
           C: are doers or nurturers.
           D: resist codependency.
         answer: C
+        print_position: 21
+        unit: 2
       - uid: MIN251.8.1.1.UPE.2
         subobj: 8.1.1
         type: upe
@@ -2321,6 +2483,8 @@ courses:
           C: develops programs.
           D: directs people toward important avenues of service.
         answer: D
+        print_position: 22
+        unit: 2
       - uid: MIN251.8.1.1.UPE.3
         subobj: 8.1.1
         type: upe
@@ -2331,6 +2495,8 @@ courses:
           C: delegating pastor.
           D: secure pastor.
         answer: A
+        print_position: 23
+        unit: 2
       - uid: MIN251.8.1.1.TY.1
         subobj: 8.1.1
         type: ty
@@ -2341,6 +2507,7 @@ courses:
           C: The pastor’s task is both similar to and more than that of a shepherd.
           D: All of the above are true in regard to the role of a pastor.
         answer: D
+        print_position: 1
       - uid: MIN251.8.1.1.TY.2
         subobj: 8.1.1
         type: ty
@@ -2351,6 +2518,7 @@ courses:
           C: Spends much time in care ministries
           D: Offers a high level of availability to the needs of people
         answer: A
+        print_position: 2
       - uid: MIN251.8.1.1.TY.3
         subobj: 8.1.1
         type: ty
@@ -2361,6 +2529,7 @@ courses:
           C: Trains people for ministry
           D: Focuses on immediate needs
         answer: D
+        print_position: 3
       - uid: MIN251.8.1.1.TY.4
         subobj: 8.1.1
         type: ty
@@ -2371,6 +2540,7 @@ courses:
           C: Focuses on short-term matters
           D: Trains people for personal growth
         answer: C
+        print_position: 4
       - uid: MIN251.8.1.1.TY.5
         subobj: 8.1.1
         type: ty
@@ -2381,6 +2551,7 @@ courses:
           C: Creates opportunities to mentor others
           D: Focuses on the big picture
         answer: A
+        print_position: 7
       - uid: MIN251.8.2.1.UPE.1
         subobj: 8.2.1
         type: upe
@@ -2391,6 +2562,8 @@ courses:
           C: Jethro principle.
           D: priesthood principle.
         answer: C
+        print_position: 24
+        unit: 2
       - uid: MIN251.8.2.1.TY.1
         subobj: 8.2.1
         type: ty
@@ -2401,6 +2574,7 @@ courses:
           C: To work longer hours
           D: To establish a reward system for law-abiding behavior
         answer: B
+        print_position: 5
       - uid: MIN251.8.2.1.TY.2
         subobj: 8.2.1
         type: ty
@@ -2412,6 +2586,7 @@ courses:
           C: Focusing on the Word of God and prayer
           D: Communicating the vision for the Promised Land more effectively
         answer: C
+        print_position: 6
       - uid: MIN251.8.2.1.TY.3
         subobj: 8.2.1
         type: ty
@@ -2422,6 +2597,7 @@ courses:
           C: Directly meets the needs of people
           D: Finds fulfillment in equipping others
         answer: D
+        print_position: 8
       - uid: MIN251.8.2.2.UPE.1
         subobj: 8.2.2
         type: upe
@@ -2432,6 +2608,8 @@ courses:
           C: inviting laypeople to accompany the pastor in ministerial duties.
           D: reading and discussing a book together.
         answer: A
+        print_position: 25
+        unit: 2
       - uid: MIN251.8.2.2.TY.1
         subobj: 8.2.2
         type: ty
@@ -2442,6 +2620,7 @@ courses:
           C: Explaining the assignment clearly and defining the measurement of success
           D: All of the above must be included
         answer: D
+        print_position: 9
       - uid: MIN251.8.2.2.TY.2
         subobj: 8.2.2
         type: ty
@@ -2454,6 +2633,7 @@ courses:
           D: When parents drop off kids for children’s church and return for them
             after morning service
         answer: A
+        print_position: 10
       - uid: MIN251.9.1.1.UPE.1
         subobj: 9.1.1
         type: upe
@@ -2464,6 +2644,8 @@ courses:
           C: Daniel
           D: Joshua
         answer: B
+        print_position: 1
+        unit: 3
       - uid: MIN251.9.1.1.UPE.2
         subobj: 9.1.1
         type: upe
@@ -2475,6 +2657,8 @@ courses:
           C: assert his or her authority.
           D: try to develop a new influencer.
         answer: A
+        print_position: 2
+        unit: 3
       - uid: MIN251.9.1.1.UPE.3
         subobj: 9.1.1
         type: upe
@@ -2485,6 +2669,8 @@ courses:
           C: The supreme value of leadership is credibility.
           D: Leadership is inborn; it cannot be taught.
         answer: D
+        print_position: 3
+        unit: 3
       - uid: MIN251.9.1.1.TY.1
         subobj: 9.1.1
         type: ty
@@ -2495,6 +2681,7 @@ courses:
           C: Influence
           D: Solving everyone’s problems
         answer: C
+        print_position: 1
       - uid: MIN251.9.1.1.TY.2
         subobj: 9.1.1
         type: ty
@@ -2505,6 +2692,7 @@ courses:
           C: Leadership requires the leader to possess faith in people.
           D: All of the above are true statements about leadership.
         answer: D
+        print_position: 2
       - uid: MIN251.9.1.1.TY.3
         subobj: 9.1.1
         type: ty
@@ -2515,6 +2703,7 @@ courses:
           C: Authority
           D: Strong will
         answer: B
+        print_position: 3
       - uid: MIN251.9.2.1.UPE.1
         subobj: 9.2.1
         type: upe
@@ -2525,6 +2714,8 @@ courses:
           C: production.
           D: people development.
         answer: B
+        print_position: 4
+        unit: 3
       - uid: MIN251.9.2.1.TY.1
         subobj: 9.2.1
         type: ty
@@ -2535,6 +2726,7 @@ courses:
           C: People follow you because they have to.
           D: This is where people sense success.
         answer: C
+        print_position: 4
       - uid: MIN251.9.2.1.TY.2
         subobj: 9.2.1
         type: ty
@@ -2545,6 +2737,7 @@ courses:
           C: Your influence is limited to the assigned tasks.
           D: People follow out of devotion rather than duty.
         answer: A
+        print_position: 5
       - uid: MIN251.9.2.1.TY.3
         subobj: 9.2.1
         type: ty
@@ -2555,6 +2748,7 @@ courses:
           C: People follow because they want to.
           D: This is where long-range growth occurs.
         answer: C
+        print_position: 6
       - uid: MIN251.9.3.1.UPE.1
         subobj: 9.3.1
         type: upe
@@ -2565,6 +2759,8 @@ courses:
           C: You will not be on the same level with all of those who work with you.
           D: The higher you go, the greater the growth.
         answer: B
+        print_position: 5
+        unit: 3
       - uid: MIN251.9.3.1.TY.1
         subobj: 9.3.1
         type: ty
@@ -2576,6 +2772,7 @@ courses:
           C: You never really leave the base level or the levels where you are.
           D: You will not be on the same level with everyone you lead.
         answer: A
+        print_position: 7
       - uid: MIN251.9.3.1.TY.2
         subobj: 9.3.1
         type: ty
@@ -2587,6 +2784,7 @@ courses:
           C: Live a life others want to imitate.
           D: All of the above are among the ways to climb the leadership levels.
         answer: D
+        print_position: 8
       - uid: MIN251.9.3.1.TY.3
         subobj: 9.3.1
         type: ty
@@ -2597,6 +2795,7 @@ courses:
           C: They give away position and power.
           D: They grow their ministry by developing more leaders.
         answer: B
+        print_position: 9
       - uid: MIN251.9.3.1.TY.4
         subobj: 9.3.1
         type: ty
@@ -2607,6 +2806,7 @@ courses:
           C: They need to be needed.
           D: They hold on to position and power.
         answer: A
+        print_position: 10
       - uid: MIN251.10.1.1.UPE.1
         subobj: 10.1.1
         type: upe
@@ -2617,6 +2817,8 @@ courses:
           C: solid programs.
           D: good savings plan.
         answer: A
+        print_position: 6
+        unit: 3
       - uid: MIN251.10.1.1.UPE.2
         subobj: 10.1.1
         type: upe
@@ -2627,6 +2829,8 @@ courses:
           C: good education.
           D: years of experience.
         answer: A
+        print_position: 7
+        unit: 3
       - uid: MIN251.10.1.1.UPE.3
         subobj: 10.1.1
         type: upe
@@ -2638,6 +2842,8 @@ courses:
           C: a person to be loved.
           D: none of the above.
         answer: B
+        print_position: 8
+        unit: 3
       - uid: MIN251.10.1.1.TY.1
         subobj: 10.1.1
         type: ty
@@ -2648,6 +2854,7 @@ courses:
           C: The leader does not have to be able to relate to different types of people.
           D: You can have people skills and not be a good leader.
         answer: C
+        print_position: 1
       - uid: MIN251.10.1.1.TY.2
         subobj: 10.1.1
         type: ty
@@ -2658,6 +2865,7 @@ courses:
           C: They knew how it felt to be ignored.
           D: They saw the man as a person to be loved.
         answer: A
+        print_position: 2
       - uid: MIN251.10.1.1.TY.3
         subobj: 10.1.1
         type: ty
@@ -2669,6 +2877,7 @@ courses:
           C: show hospitality.
           D: take people on a journey.
         answer: B
+        print_position: 3
       - uid: MIN251.10.2.1.UPE.1
         subobj: 10.2.1
         type: upe
@@ -2679,6 +2888,8 @@ courses:
           C: the key to today is a belief in tomorrow.
           D: connecting with others means getting inside their head.
         answer: C
+        print_position: 9
+        unit: 3
       - uid: MIN251.10.2.1.UPE.2
         subobj: 10.2.1
         type: upe
@@ -2689,6 +2900,8 @@ courses:
           C: They are willing to bypass their own problems.
           D: They want their faults addressed.
         answer: A
+        print_position: 10
+        unit: 3
       - uid: MIN251.10.2.1.TY.1
         subobj: 10.2.1
         type: ty
@@ -2700,6 +2913,7 @@ courses:
           C: A secure environment can only be provided by secure and confident people.
           D: All of the statements above are true.
         answer: D
+        print_position: 4
       - uid: MIN251.10.2.1.TY.2
         subobj: 10.2.1
         type: ty
@@ -2710,6 +2924,7 @@ courses:
           C: later write down what you said.
           D: avoid making public statements because someone may become jealous.
         answer: B
+        print_position: 5
       - uid: MIN251.10.2.1.TY.3
         subobj: 10.2.1
         type: ty
@@ -2721,6 +2936,7 @@ courses:
           C: What do they plan about?
           D: All of the above are helpful questions.
         answer: D
+        print_position: 6
       - uid: MIN251.10.2.1.TY.4
         subobj: 10.2.1
         type: ty
@@ -2732,6 +2948,7 @@ courses:
           C: Their problems are not bigger than those of others.
           D: They see the total picture.
         answer: A
+        print_position: 7
       - uid: MIN251.10.3.1.UPE.1
         subobj: 10.3.1
         type: upe
@@ -2742,6 +2959,8 @@ courses:
           C: admire, befriend, and connect.
           D: admire, believe, and connect.
         answer: A
+        print_position: 11
+        unit: 3
       - uid: MIN251.10.3.1.UPE.2
         subobj: 10.3.1
         type: upe
@@ -2752,6 +2971,8 @@ courses:
           C: stability.
           D: dependability.
         answer: A
+        print_position: 12
+        unit: 3
       - uid: MIN251.10.3.1.TY.1
         subobj: 10.3.1
         type: ty
@@ -2763,6 +2984,7 @@ courses:
           C: Solve all your issues before you try to help others.
           D: Compassionately and consistently serve others.
         answer: C
+        print_position: 8
       - uid: MIN251.10.3.1.TY.2
         subobj: 10.3.1
         type: ty
@@ -2773,6 +2995,7 @@ courses:
           C: They see God-given potential in everyone.
           D: They believe all of the above statements.
         answer: D
+        print_position: 9
       - uid: MIN251.10.3.1.TY.3
         subobj: 10.3.1
         type: ty
@@ -2784,6 +3007,7 @@ courses:
           C: Pride
           D: Negative attitude
         answer: A
+        print_position: 10
       - uid: MIN251.11.1.1.UPE.1
         subobj: 11.1.1
         type: upe
@@ -2794,6 +3018,8 @@ courses:
           C: criticism of those who serve.
           D: the importance of hospitality.
         answer: B
+        print_position: 13
+        unit: 3
       - uid: MIN251.11.1.1.UPE.2
         subobj: 11.1.1
         type: upe
@@ -2804,6 +3030,8 @@ courses:
           C: leadership development.
           D: prayer.
         answer: D
+        print_position: 14
+        unit: 3
       - uid: MIN251.11.1.1.TY.1
         subobj: 11.1.1
         type: ty
@@ -2814,6 +3042,7 @@ courses:
           C: Jesus allowed the needs of people to dictate His daily schedule.
           D: Jesus had many demands on His time.
         answer: C
+        print_position: 1
       - uid: MIN251.11.1.1.TY.2
         subobj: 11.1.1
         type: ty
@@ -2825,6 +3054,7 @@ courses:
           C: They had to determine the best way to invest their time.
           D: God’s plan included the involvement of other leaders.
         answer: A
+        print_position: 2
       - uid: MIN251.11.2.1.UPE.1
         subobj: 11.2.1
         type: upe
@@ -2835,6 +3065,8 @@ courses:
           C: Twenty percent of the people make 80 percent of the decisions.
           D: Twenty percent of the members do 80 percent of the work.
         answer: B
+        print_position: 15
+        unit: 3
       - uid: MIN251.11.2.1.UPE.2
         subobj: 11.2.1
         type: upe
@@ -2845,6 +3077,8 @@ courses:
           C: we personally dislike the person suggesting it.
           D: we do not have time to think about it.
         answer: A
+        print_position: 16
+        unit: 3
       - uid: MIN251.11.2.1.TY.1
         subobj: 11.2.1
         type: ty
@@ -2855,6 +3089,7 @@ courses:
           C: 20 percent of the workers do 80 percent of the ministry.
           D: 20 percent of the leader’s time should be spent in counseling.
         answer: D
+        print_position: 3
       - uid: MIN251.11.2.1.TY.2
         subobj: 11.2.1
         type: ty
@@ -2865,6 +3100,7 @@ courses:
           C: Working harder will help you learn to work smarter.
           D: A leader must organize or agonize.
         answer: C
+        print_position: 4
       - uid: MIN251.11.2.1.TY.3
         subobj: 11.2.1
         type: ty
@@ -2875,6 +3111,7 @@ courses:
           C: Do not try to come up with a creative alternative.
           D: Take responsibility for each idea.
         answer: B
+        print_position: 5
       - uid: MIN251.11.3.1.UPE.1
         subobj: 11.3.1
         type: upe
@@ -2886,6 +3123,8 @@ courses:
           C: efficient time management.
           D: saying “no” gracefully.
         answer: C
+        print_position: 17
+        unit: 3
       - uid: MIN251.11.3.1.UPE.2
         subobj: 11.3.1
         type: upe
@@ -2896,6 +3135,8 @@ courses:
           C: Enlist an accountability partner.
           D: Remember that time is endless.
         answer: D
+        print_position: 18
+        unit: 3
       - uid: MIN251.11.3.1.TY.1
         subobj: 11.3.1
         type: ty
@@ -2907,6 +3148,7 @@ courses:
           C: Make to-do lists.
           D: Do all of the above.
         answer: D
+        print_position: 6
       - uid: MIN251.11.3.1.TY.2
         subobj: 11.3.1
         type: ty
@@ -2918,6 +3160,7 @@ courses:
           C: Staff your strengths.
           D: Rely heavily on an administrative assistant.
         answer: C
+        print_position: 7
       - uid: MIN251.11.3.1.TY.3
         subobj: 11.3.1
         type: ty
@@ -2928,6 +3171,7 @@ courses:
           C: Time will run out.
           D: Time is temporary, offering no eternal significance.
         answer: D
+        print_position: 8
       - uid: MIN251.11.3.1.TY.4
         subobj: 11.3.1
         type: ty
@@ -2939,6 +3183,7 @@ courses:
           C: Reserve time for family relationships.
           D: All of the above are action steps for making good use of time.
         answer: D
+        print_position: 9
       - uid: MIN251.11.3.1.TY.5
         subobj: 11.3.1
         type: ty
@@ -2949,6 +3194,7 @@ courses:
           C: What gives the greatest return?
           D: What gives the greatest reward?
         answer: A
+        print_position: 10
       - uid: MIN251.12.1.1.UPE.1
         subobj: 12.1.1
         type: upe
@@ -2959,6 +3205,8 @@ courses:
           C: He chose only the most able men.
           D: He became the main influencer on the ship sailing to Rome.
         answer: A
+        print_position: 19
+        unit: 3
       - uid: MIN251.12.1.1.UPE.2
         subobj: 12.1.1
         type: upe
@@ -2969,6 +3217,8 @@ courses:
           C: it should be used only occasionally.
           D: teams should have no clear leader.
         answer: B
+        print_position: 20
+        unit: 3
       - uid: MIN251.12.1.1.UPE.3
         subobj: 12.1.1
         type: upe
@@ -2981,6 +3231,8 @@ courses:
             on the team.
           D: Paul’s success came largely because he was not selfish in his agenda.
         answer: A
+        print_position: 21
+        unit: 3
       - uid: MIN251.12.1.1.TY.1
         subobj: 12.1.1
         type: ty
@@ -2992,6 +3244,7 @@ courses:
           C: Nehemiah took the glory of the success for himself.
           D: The work was completed in an extraordinarily short amount of time.
         answer: C
+        print_position: 1
       - uid: MIN251.12.1.1.TY.2
         subobj: 12.1.1
         type: ty
@@ -3004,6 +3257,7 @@ courses:
             on the team.
           D: Paul’s success came largely because he was not selfish in his agenda.
         answer: A
+        print_position: 2
       - uid: MIN251.12.2.1.UPE.1
         subobj: 12.2.1
         type: upe
@@ -3015,6 +3269,8 @@ courses:
           C: host principle.
           D: care principle.
         answer: B
+        print_position: 22
+        unit: 3
       - uid: MIN251.12.2.1.UPE.2
         subobj: 12.2.1
         type: upe
@@ -3025,6 +3281,8 @@ courses:
           C: The team grows together.
           D: The team has a chemistry that fits.
         answer: A
+        print_position: 23
+        unit: 3
       - uid: MIN251.12.2.1.TY.1
         subobj: 12.2.1
         type: ty
@@ -3037,6 +3295,7 @@ courses:
           D: 'All team efforts should have two goals: the first mile and the second
             mile.'
         answer: B
+        print_position: 3
       - uid: MIN251.12.2.1.TY.2
         subobj: 12.2.1
         type: ty
@@ -3048,6 +3307,7 @@ courses:
           C: A team’s growth allows team members to pursue separate goals.
           D: Leaders must grow in order to stay out in front.
         answer: C
+        print_position: 4
       - uid: MIN251.12.2.1.TY.3
         subobj: 12.2.1
         type: ty
@@ -3058,6 +3318,7 @@ courses:
           C: Abilities are complimentary.
           D: Victories are frequent.
         answer: B
+        print_position: 5
       - uid: MIN251.12.2.1.TY.4
         subobj: 12.2.1
         type: ty
@@ -3068,6 +3329,7 @@ courses:
           C: Give up your individual rights.
           D: All of the above are parts of the code.
         answer: D
+        print_position: 6
       - uid: MIN251.12.3.1.UPE.1
         subobj: 12.3.1
         type: upe
@@ -3078,6 +3340,8 @@ courses:
           C: organizational structure.
           D: unity and depth.
         answer: D
+        print_position: 24
+        unit: 3
       - uid: MIN251.12.3.1.UPE.2
         subobj: 12.3.1
         type: upe
@@ -3089,6 +3353,8 @@ courses:
           C: keeping a strong bench.
           D: having a chemistry that fits.
         answer: B
+        print_position: 25
+        unit: 3
       - uid: MIN251.12.3.1.TY.1
         subobj: 12.3.1
         type: ty
@@ -3100,6 +3366,7 @@ courses:
           C: “I am not contributing to the team.”
           D: “I do not have to pay attention because I am not in the game.”
         answer: A
+        print_position: 7
       - uid: MIN251.12.3.1.TY.2
         subobj: 12.3.1
         type: ty
@@ -3110,6 +3377,7 @@ courses:
           C: The team knows how much time they have to finish their efforts.
           D: All of the above are benefits.
         answer: D
+        print_position: 8
       - uid: MIN251.12.3.1.TY.3
         subobj: 12.3.1
         type: ty
@@ -3122,6 +3390,7 @@ courses:
             those who have come before me.
           D: All of the above.
         answer: D
+        print_position: 9
       - uid: MIN251.12.3.1.TY.4
         subobj: 12.3.1
         type: ty
@@ -3134,6 +3403,9 @@ courses:
           C: Do we like being a part of this team?
           D: Does everyone participate?
         answer: A
+        print_position: 10
+      product_id: BMIN251ENE02-90_02.22.01
+      captured: reparse
     - pn: 03.26.01
       course_code: MIN251
       source_html: MIN251_UMD.html
@@ -3154,6 +3426,8 @@ courses:
           C: Made converts effectively
           D: Served with humility
         answer: D
+        print_position: 1
+        unit: 1
       - uid: MIN251.1.1.1.UPE.2
         subobj: 1.1.1
         type: upe
@@ -3164,6 +3438,8 @@ courses:
           C: intimacy with God.
           D: persistence against adversity.
         answer: C
+        print_position: 2
+        unit: 1
       - uid: MIN251.1.1.1.UPE.3
         subobj: 1.1.1
         type: upe
@@ -3174,6 +3450,8 @@ courses:
           C: took a position of honor.
           D: acted as culturally expected.
         answer: A
+        print_position: 3
+        unit: 1
       - uid: MIN251.1.1.1.TY.1
         subobj: 1.1.1
         type: ty
@@ -3184,6 +3462,7 @@ courses:
           C: building influence through control.
           D: avoiding confrontation.
         answer: A
+        print_position: 1
       - uid: MIN251.1.1.1.TY.2
         subobj: 1.1.1
         type: ty
@@ -3194,6 +3473,7 @@ courses:
           C: build a following.
           D: gain earthly authority.
         answer: B
+        print_position: 2
       - uid: MIN251.1.1.1.TY.3
         subobj: 1.1.1
         type: ty
@@ -3204,6 +3484,7 @@ courses:
           C: faithfulness and transformed lives.
           D: personal comfort.
         answer: C
+        print_position: 3
       - uid: MIN251.1.2.1.UPE.1
         subobj: 1.2.1
         type: upe
@@ -3214,6 +3495,8 @@ courses:
           C: Refrain from complimenting others.
           D: Focus on your areas for growth.
         answer: B
+        print_position: 4
+        unit: 1
       - uid: MIN251.1.2.1.UPE.2
         subobj: 1.2.1
         type: upe
@@ -3225,6 +3508,8 @@ courses:
           C: a healthy work environment.
           D: their identity in Christ.
         answer: D
+        print_position: 5
+        unit: 1
       - uid: MIN251.1.2.1.UPE.3
         subobj: 1.2.1
         type: upe
@@ -3235,6 +3520,8 @@ courses:
           C: It makes us aware of our strengths.
           D: It provides humility.
         answer: B
+        print_position: 6
+        unit: 1
       - uid: MIN251.1.2.1.UPE.4
         subobj: 1.2.1
         type: upe
@@ -3245,6 +3532,8 @@ courses:
           C: money.
           D: recognition.
         answer: D
+        print_position: 7
+        unit: 1
       - uid: MIN251.1.2.1.TY.1
         subobj: 1.2.1
         type: ty
@@ -3255,6 +3544,7 @@ courses:
           C: waiting for transformation.
           D: defined by their past.
         answer: B
+        print_position: 4
       - uid: MIN251.1.2.1.TY.2
         subobj: 1.2.1
         type: ty
@@ -3265,6 +3555,7 @@ courses:
           C: security and humility.
           D: ambition and recognition.
         answer: C
+        print_position: 5
       - uid: MIN251.1.2.1.TY.3
         subobj: 1.2.1
         type: ty
@@ -3275,6 +3566,7 @@ courses:
           C: avoid responsibility.
           D: serve others without insecurity.
         answer: D
+        print_position: 6
       - uid: MIN251.1.3.1.UPE.1
         subobj: 1.3.1
         type: upe
@@ -3285,6 +3577,8 @@ courses:
           C: He frequently withdrew to pray.
           D: He spent time fishing.
         answer: C
+        print_position: 8
+        unit: 1
       - uid: MIN251.1.3.1.UPE.2
         subobj: 1.3.1
         type: upe
@@ -3295,6 +3589,8 @@ courses:
           C: Allows you to work twice as hard
           D: Helps you regulate your breathing
         answer: A
+        print_position: 9
+        unit: 1
       - uid: MIN251.1.3.1.UPE.3
         subobj: 1.3.1
         type: upe
@@ -3305,6 +3601,8 @@ courses:
           C: regular times of rest.
           D: only professional responsibilities.
         answer: C
+        print_position: 10
+        unit: 1
       - uid: MIN251.1.3.1.TY.1
         subobj: 1.3.1
         type: ty
@@ -3316,6 +3614,7 @@ courses:
           C: It grows stronger independently.
           D: It becomes self-sufficient.
         answer: B
+        print_position: 7
       - uid: MIN251.1.3.1.TY.2
         subobj: 1.3.1
         type: ty
@@ -3326,6 +3625,7 @@ courses:
           C: Relying on personal talent and stamina
           D: Minimizing rest to maximize productivity
         answer: A
+        print_position: 8
       - uid: MIN251.1.3.1.TY.3
         subobj: 1.3.1
         type: ty
@@ -3337,6 +3637,7 @@ courses:
           C: They encourage rest and renewal in their team.
           D: They bear lasting fruit over time.
         answer: B
+        print_position: 9
       - uid: MIN251.1.3.1.TY.4
         subobj: 1.3.1
         type: ty
@@ -3347,6 +3648,7 @@ courses:
           C: abiding with Christ.
           D: much study.
         answer: C
+        print_position: 10
       - uid: MIN251.2.1.1.UPE.1
         subobj: 2.1.1
         type: upe
@@ -3358,6 +3660,8 @@ courses:
           C: “What do you want me to do?”
           D: “What have I done wrong?”
         answer: C
+        print_position: 11
+        unit: 1
       - uid: MIN251.2.1.1.UPE.2
         subobj: 2.1.1
         type: upe
@@ -3373,6 +3677,8 @@ courses:
           D: Know your purpose, grow to your maximum potential, and articulate your
             purpose to those you lead.
         answer: A
+        print_position: 12
+        unit: 1
       - uid: MIN251.2.1.1.UPE.3
         subobj: 2.1.1
         type: upe
@@ -3386,6 +3692,8 @@ courses:
             ministry.
           D: He needs to break our will and self-motivation.
         answer: B
+        print_position: 13
+        unit: 1
       - uid: MIN251.2.1.1.TY.1
         subobj: 2.1.1
         type: ty
@@ -3397,6 +3705,7 @@ courses:
           C: Choose large organizations.
           D: Know your purpose in life.
         answer: C
+        print_position: 1
       - uid: MIN251.2.1.1.TY.2
         subobj: 2.1.1
         type: ty
@@ -3408,6 +3717,7 @@ courses:
           C: Making a list of personal failures for regular review
           D: Maintaining a neutral self-image so pride will not take hold
         answer: A
+        print_position: 2
       - uid: MIN251.2.1.1.TY.3
         subobj: 2.1.1
         type: ty
@@ -3418,6 +3728,7 @@ courses:
           C: Earns trust
           D: All of the above
         answer: D
+        print_position: 4
       - uid: MIN251.2.1.2.UPE.1
         subobj: 2.1.2
         type: upe
@@ -3428,6 +3739,8 @@ courses:
           C: pursues status among others.
           D: wants to add value to others.
         answer: D
+        print_position: 14
+        unit: 1
       - uid: MIN251.2.1.2.TY.1
         subobj: 2.1.2
         type: ty
@@ -3439,6 +3752,7 @@ courses:
           C: What are my burdens?
           D: What will my current income allow me to do?
         answer: D
+        print_position: 3
       - uid: MIN251.2.1.2.TY.2
         subobj: 2.1.2
         type: ty
@@ -3451,6 +3765,7 @@ courses:
           D: Ask—this is the prayer of intercession, praying for those who cannot
             pray for themselves.
         answer: C
+        print_position: 5
       - uid: MIN251.2.1.2.TY.3
         subobj: 2.1.2
         type: ty
@@ -3462,6 +3777,7 @@ courses:
           C: Now time—What should we do in response to it?
           D: A Bible student must consider all of the above.
         answer: D
+        print_position: 6
       - uid: MIN251.2.2.1.UPE.1
         subobj: 2.2.1
         type: upe
@@ -3473,6 +3789,8 @@ courses:
           C: passion.
           D: faith.
         answer: C
+        print_position: 15
+        unit: 1
       - uid: MIN251.2.2.1.UPE.2
         subobj: 2.2.1
         type: upe
@@ -3484,6 +3802,8 @@ courses:
           C: abilities.
           D: calling.
         answer: B
+        print_position: 16
+        unit: 1
       - uid: MIN251.2.2.1.TY.1
         subobj: 2.2.1
         type: ty
@@ -3495,6 +3815,7 @@ courses:
           C: Dreams
           D: Passion
         answer: A
+        print_position: 7
       - uid: MIN251.2.2.1.TY.2
         subobj: 2.2.1
         type: ty
@@ -3505,6 +3826,7 @@ courses:
           C: Pursues status with others
           D: All of the above are characteristics of a secure leader.
         answer: B
+        print_position: 8
       - uid: MIN251.2.2.1.TY.3
         subobj: 2.2.1
         type: ty
@@ -3515,6 +3837,7 @@ courses:
           C: Their lives are marked by biblical stewardship.
           D: All of the above are true.
         answer: D
+        print_position: 9
       - uid: MIN251.2.2.1.TY.4
         subobj: 2.2.1
         type: ty
@@ -3527,6 +3850,7 @@ courses:
           D: A leader must recognize the interdependence of themselves and those they
             lead.
         answer: A
+        print_position: 10
       - uid: MIN251.2.2.2.UPE.1
         subobj: 2.2.2
         type: upe
@@ -3538,6 +3862,8 @@ courses:
           C: lips, lives, love, liberty, loot.
           D: power, purpose, practice, perseverance, praise.
         answer: C
+        print_position: 17
+        unit: 1
       - uid: MIN251.3.1.1.UPE.1
         subobj: 3.1.1
         type: upe
@@ -3549,6 +3875,8 @@ courses:
           C: accuracy.
           D: availability.
         answer: B
+        print_position: 18
+        unit: 1
       - uid: MIN251.3.1.1.UPE.2
         subobj: 3.1.1
         type: upe
@@ -3560,6 +3888,8 @@ courses:
           C: mother and child.
           D: coworkers.
         answer: C
+        print_position: 19
+        unit: 1
       - uid: MIN251.3.1.1.TY.1
         subobj: 3.1.1
         type: ty
@@ -3571,6 +3901,7 @@ courses:
           C: Only about 25 percent finished their lives in the will of God.
           D: All of the above are true.
         answer: C
+        print_position: 1
       - uid: MIN251.3.1.1.TY.2
         subobj: 3.1.1
         type: ty
@@ -3582,6 +3913,7 @@ courses:
           C: Farmers and soil
           D: Father and son
         answer: A
+        print_position: 2
       - uid: MIN251.3.1.1.TY.3
         subobj: 3.1.1
         type: ty
@@ -3592,6 +3924,7 @@ courses:
           C: Lives a blessed life
           D: All the above are characteristics of a servant leader.
         answer: D
+        print_position: 3
       - uid: MIN251.3.1.1.TY.4
         subobj: 3.1.1
         type: ty
@@ -3603,6 +3936,7 @@ courses:
           C: Efficiency
           D: Patience
         answer: C
+        print_position: 4
       - uid: MIN251.3.1.1.TY.5
         subobj: 3.1.1
         type: ty
@@ -3613,6 +3947,7 @@ courses:
           C: To the One who has called them
           D: The servant is to be loyal to all of the above.
         answer: D
+        print_position: 5
       - uid: MIN251.3.2.1.UPE.1
         subobj: 3.2.1
         type: upe
@@ -3623,6 +3958,8 @@ courses:
           C: prepare a weekly sermon.
           D: balance their personal and professional life.
         answer: A
+        print_position: 20
+        unit: 1
       - uid: MIN251.3.2.1.TY.1
         subobj: 3.2.1
         type: ty
@@ -3633,6 +3970,7 @@ courses:
           C: He felt he had to be obedient only to his Babylonian captors.
           D: He sought to honor God by his service to Potiphar.
         answer: C
+        print_position: 6
       - uid: MIN251.3.2.1.TY.2
         subobj: 3.2.1
         type: ty
@@ -3643,6 +3981,7 @@ courses:
           C: Articulation
           D: Creativity
         answer: A
+        print_position: 7
       - uid: MIN251.3.2.1.TY.3
         subobj: 3.2.1
         type: ty
@@ -3653,6 +3992,7 @@ courses:
           C: Tychicus
           D: All of the above
         answer: D
+        print_position: 8
       - uid: MIN251.3.3.1.UPE.1
         subobj: 3.3.1
         type: upe
@@ -3664,6 +4004,8 @@ courses:
           C: lead leaders.
           D: develop a five-year plan.
         answer: C
+        print_position: 21
+        unit: 1
       - uid: MIN251.3.3.1.TY.1
         subobj: 3.3.1
         type: ty
@@ -3674,6 +4016,7 @@ courses:
           C: Organization
           D: Creativity
         answer: A
+        print_position: 9
       - uid: MIN251.3.3.1.TY.2
         subobj: 3.3.1
         type: ty
@@ -3684,6 +4027,7 @@ courses:
           C: 1 Corinthians 2:14–15
           D: 1 Corinthians 4:1–2
         answer: D
+        print_position: 10
       - uid: MIN251.4.1.1.UPE.1
         subobj: 4.1.1
         type: upe
@@ -3694,6 +4038,8 @@ courses:
           C: was not yet old enough to fulfill God’s dream for him.
           D: needed to learn trust and patience.
         answer: D
+        print_position: 22
+        unit: 1
       - uid: MIN251.4.1.1.TY.1
         subobj: 4.1.1
         type: ty
@@ -3704,6 +4050,7 @@ courses:
           C: He learned faith in times of adversity.
           D: He learned all of the above.
         answer: D
+        print_position: 1
       - uid: MIN251.4.2.1.UPE.1
         subobj: 4.2.1
         type: upe
@@ -3714,6 +4061,8 @@ courses:
           C: self-promotion and human promotion cannot replace divine promotion.
           D: our goal should be to pass most of our tests.
         answer: C
+        print_position: 23
+        unit: 1
       - uid: MIN251.4.2.1.TY.1
         subobj: 4.2.1
         type: ty
@@ -3725,6 +4074,7 @@ courses:
           C: Inward poverty
           D: Inward progress
         answer: A
+        print_position: 2
       - uid: MIN251.4.2.1.TY.2
         subobj: 4.2.1
         type: ty
@@ -3735,6 +4085,7 @@ courses:
           C: Competence
           D: Communication
         answer: B
+        print_position: 3
       - uid: MIN251.4.2.1.TY.3
         subobj: 4.2.1
         type: ty
@@ -3745,6 +4096,7 @@ courses:
           C: reveals why we do the right thing.
           D: displays our integrity.
         answer: C
+        print_position: 4
       - uid: MIN251.4.3.1.UPE.1
         subobj: 4.3.1
         type: upe
@@ -3755,6 +4107,8 @@ courses:
           C: Motivation test
           D: Forgiveness test
         answer: C
+        print_position: 24
+        unit: 1
       - uid: MIN251.4.3.1.UPE.2
         subobj: 4.3.1
         type: upe
@@ -3765,6 +4119,8 @@ courses:
           C: Wilderness test
           D: Lordship test
         answer: D
+        print_position: 25
+        unit: 1
       - uid: MIN251.4.3.1.TY.1
         subobj: 4.3.1
         type: ty
@@ -3775,6 +4131,7 @@ courses:
           C: proves how we handle resources.
           D: reveals why we do the right thing.
         answer: C
+        print_position: 5
       - uid: MIN251.4.3.1.TY.2
         subobj: 4.3.1
         type: ty
@@ -3785,6 +4142,7 @@ courses:
           C: proves our faithfulness and potential.
           D: reveals why we do the right thing.
         answer: B
+        print_position: 6
       - uid: MIN251.4.3.1.TY.3
         subobj: 4.3.1
         type: ty
@@ -3795,6 +4153,7 @@ courses:
           C: exposes our attitude and willing submission toward God-given authority.
           D: shows we are not easily offended.
         answer: A
+        print_position: 7
       - uid: MIN251.4.3.1.TY.4
         subobj: 4.3.1
         type: ty
@@ -3805,6 +4164,7 @@ courses:
           C: proves our faithfulness and potential.
           D: reveals we are willing to forgive offenses.
         answer: D
+        print_position: 8
       - uid: MIN251.4.3.1.TY.5
         subobj: 4.3.1
         type: ty
@@ -3816,6 +4176,7 @@ courses:
           C: exposes our ability to overcome every adversity we face.
           D: reveals we are not easily offended.
         answer: A
+        print_position: 9
       - uid: MIN251.4.3.1.TY.6
         subobj: 4.3.1
         type: ty
@@ -3827,6 +4188,7 @@ courses:
           C: exposes our attitude and willing submission toward God-given authority.
           D: exposes our ability to overcome every adversity we face.
         answer: C
+        print_position: 10
       - uid: MIN251.5.1.1.UPE.1
         subobj: 5.1.1
         type: upe
@@ -3837,6 +4199,8 @@ courses:
           C: It teaches us to trust God’s plan instead of our own.
           D: We can adjust the vision to appear more successful.
         answer: C
+        print_position: 3
+        unit: 2
       - uid: MIN251.5.1.1.TY.1
         subobj: 5.1.1
         type: ty
@@ -3847,6 +4211,7 @@ courses:
           C: Human ingenuity and experience
           D: Observing successful leaders and copying their methods
         answer: A
+        print_position: 1
       - uid: MIN251.5.2.1.UPE.1
         subobj: 5.2.1
         type: upe
@@ -3859,6 +4224,8 @@ courses:
           C: To make the vision more popular and appealing to the public
           D: To focus primarily on personal recognition and leadership platform
         answer: B
+        print_position: 1
+        unit: 2
       - uid: MIN251.5.2.1.UPE.2
         subobj: 5.2.1
         type: upe
@@ -3870,6 +4237,8 @@ courses:
           C: By evaluating the vision against the model of the Israelites in the desert
           D: By evaluating the vision against the politics of Israel under King David
         answer: A
+        print_position: 4
+        unit: 2
       - uid: MIN251.5.2.1.TY.1
         subobj: 5.2.1
         type: ty
@@ -3882,6 +4251,7 @@ courses:
           C: To make the vision more popular and appealing to the public
           D: To focus primarily on personal recognition and leadership platform
         answer: B
+        print_position: 2
       - uid: MIN251.5.2.1.TY.2
         subobj: 5.2.1
         type: ty
@@ -3894,6 +4264,7 @@ courses:
             and training
           D: Focus on personal fame and influence to inspire followers
         answer: C
+        print_position: 3
       - uid: MIN251.5.3.1.UPE.1
         subobj: 5.3.1
         type: upe
@@ -3904,6 +4275,8 @@ courses:
           C: It would only benefit children’s church.
           D: It leaves your vision open-ended for personal interpretation.
         answer: B
+        print_position: 5
+        unit: 2
       - uid: MIN251.5.3.1.TY.1
         subobj: 5.3.1
         type: ty
@@ -3916,6 +4289,7 @@ courses:
           C: To make social media posts more popular
           D: So only the leadership team understands it
         answer: B
+        print_position: 4
       - uid: MIN251.5.3.1.TY.2
         subobj: 5.3.1
         type: ty
@@ -3928,6 +4302,7 @@ courses:
           D: By giving leaders and members opportunities to articulate the vision
             in their own words
         answer: D
+        print_position: 5
       - uid: MIN251.5.3.1.TY.3
         subobj: 5.3.1
         type: ty
@@ -3939,6 +4314,7 @@ courses:
           C: Setting clear goals and consistently communicating progress
           D: Focusing only on results without addressing team morale
         answer: C
+        print_position: 8
       - uid: MIN251.5.4.1.UPE.1
         subobj: 5.4.1
         type: upe
@@ -3951,6 +4327,8 @@ courses:
           C: Assigning tasks quickly to followers and asking for timely reports
           D: Waiting for followers to interpret the vision themselves
         answer: A
+        print_position: 2
+        unit: 2
       - uid: MIN251.5.4.1.UPE.2
         subobj: 5.4.1
         type: upe
@@ -3963,6 +4341,8 @@ courses:
           D: It allows them to see how they can take part in God’s ongoing work in
             their community.
         answer: D
+        print_position: 6
+        unit: 2
       - uid: MIN251.5.4.1.TY.1
         subobj: 5.4.1
         type: ty
@@ -3975,6 +4355,7 @@ courses:
           C: Assigning tasks quickly to followers
           D: Waiting for followers to interpret the vision themselves
         answer: A
+        print_position: 6
       - uid: MIN251.5.4.1.TY.2
         subobj: 5.4.1
         type: ty
@@ -3988,6 +4369,7 @@ courses:
             rest of the nation
           D: By waiting for surrounding nations to assist with the project
         answer: B
+        print_position: 7
       - uid: MIN251.5.4.1.TY.3
         subobj: 5.4.1
         type: ty
@@ -4000,6 +4382,7 @@ courses:
           C: It replaces the need for clear communication.
           D: It ensures the leader can delegate all responsibilities.
         answer: B
+        print_position: 9
       - uid: MIN251.5.4.1.TY.4
         subobj: 5.4.1
         type: ty
@@ -4011,6 +4394,7 @@ courses:
           D: By showing how their gifts and efforts advance God’s kingdom and contribute
             to the overall vision
         answer: D
+        print_position: 10
       - uid: MIN251.6.1.1.UPE.1
         subobj: 6.1.1
         type: upe
@@ -4022,6 +4406,8 @@ courses:
           D: Pure, peace-loving, considerate, submissive, full of mercy and good fruit,
             impartial, and sincere
         answer: D
+        print_position: 7
+        unit: 2
       - uid: MIN251.6.1.1.UPE.2
         subobj: 6.1.1
         type: upe
@@ -4032,6 +4418,8 @@ courses:
           C: builds people up, strengthens faith, and glorifies God.
           D: is impossible to know in any capacity unless you fast first.
         answer: C
+        print_position: 8
+        unit: 2
       - uid: MIN251.6.1.1.UPE.3
         subobj: 6.1.1
         type: upe
@@ -4043,6 +4431,8 @@ courses:
           C: Preplanning, journaling, and postplanning
           D: Dream journaling, dream interpretation, and vision-casting
         answer: B
+        print_position: 9
+        unit: 2
       - uid: MIN251.6.1.1.TY.1
         subobj: 6.1.1
         type: ty
@@ -4053,6 +4443,7 @@ courses:
           C: By asking God, who gives generously without finding fault
           D: By relying on their own intellect and reasoning
         answer: C
+        print_position: 1
       - uid: MIN251.6.1.1.TY.2
         subobj: 6.1.1
         type: ty
@@ -4065,6 +4456,7 @@ courses:
           C: Because it proved he was more intelligent than others
           D: Because God preferred to test Solomon before giving him blessings
         answer: A
+        print_position: 2
       - uid: MIN251.6.2.1.UPE.1
         subobj: 6.2.1
         type: upe
@@ -4076,6 +4468,8 @@ courses:
           C: A leader prioritizing peer recognition over righteousness
           D: A pastor ignoring wise counsel to do what seems easiest for the ministry
         answer: B
+        print_position: 10
+        unit: 2
       - uid: MIN251.6.2.1.UPE.2
         subobj: 6.2.1
         type: upe
@@ -4086,6 +4480,8 @@ courses:
           C: a handful of online lectures.
           D: intentional, habitual spiritual practices.
         answer: D
+        print_position: 11
+        unit: 2
       - uid: MIN251.6.2.1.UPE.3
         subobj: 6.2.1
         type: upe
@@ -4096,6 +4492,8 @@ courses:
           C: the Eight Practices of Management.
           D: the Seven Habits of a Highly Effective Person.
         answer: A
+        print_position: 12
+        unit: 2
       - uid: MIN251.6.2.1.TY.1
         subobj: 6.2.1
         type: ty
@@ -4106,6 +4504,7 @@ courses:
           C: Seeking financial success
           D: Gaining influence and recognition
         answer: B
+        print_position: 3
       - uid: MIN251.6.2.1.TY.2
         subobj: 6.2.1
         type: ty
@@ -4117,6 +4516,7 @@ courses:
           C: By following personal ambition
           D: By testing it against Scripture
         answer: D
+        print_position: 4
       - uid: MIN251.6.3.1.UPE.1
         subobj: 6.3.1
         type: upe
@@ -4127,6 +4527,8 @@ courses:
           C: Trusting in God and planning effectively
           D: Refraining from acting and performing cost analyses
         answer: C
+        print_position: 13
+        unit: 2
       - uid: MIN251.6.3.1.TY.1
         subobj: 6.3.1
         type: ty
@@ -4137,6 +4539,7 @@ courses:
           C: It ensures God always provides
           D: It prevents bold steps of vision
         answer: A
+        print_position: 5
       - uid: MIN251.6.3.1.TY.2
         subobj: 6.3.1
         type: ty
@@ -4148,6 +4551,7 @@ courses:
           C: David
           D: Paul
         answer: B
+        print_position: 6
       - uid: MIN251.6.3.2.TY.1
         subobj: 6.3.2
         type: ty
@@ -4158,6 +4562,7 @@ courses:
           C: To replace faith when resources are scarce
           D: To wait for God’s direction without making any plans
         answer: A
+        print_position: 7
       - uid: MIN251.6.4.1.UPE.1
         subobj: 6.4.1
         type: upe
@@ -4168,6 +4573,8 @@ courses:
           C: creating a space for leaders to talk among themselves before making decisions.
           D: creating a space for diverse perspectives and prayer.
         answer: D
+        print_position: 14
+        unit: 2
       - uid: MIN251.6.4.1.TY.1
         subobj: 6.4.1
         type: ty
@@ -4178,6 +4585,7 @@ courses:
           C: Vision and initiative with humility, openness, and willingness to learn
           D: Efficiency and quick decision making
         answer: C
+        print_position: 8
       - uid: MIN251.6.4.1.TY.2
         subobj: 6.4.1
         type: ty
@@ -4190,6 +4598,7 @@ courses:
             decision.
           D: They held a public vote among the people.
         answer: C
+        print_position: 9
       - uid: MIN251.6.4.1.TY.3
         subobj: 6.4.1
         type: ty
@@ -4201,6 +4610,7 @@ courses:
           C: Invite feedback from spiritually mature leaders.
           D: Make quick decisions to maintain momentum.
         answer: C
+        print_position: 10
       - uid: MIN251.7.1.1.UPE.1
         subobj: 7.1.1
         type: upe
@@ -4212,6 +4622,8 @@ courses:
           C: large and small opportunities are a gift and responsibility from God.
           D: small opportunities are insignificant in spiritual matters.
         answer: C
+        print_position: 15
+        unit: 2
       - uid: MIN251.7.1.1.TY.1
         subobj: 7.1.1
         type: ty
@@ -4223,6 +4635,7 @@ courses:
           C: To prove faithful
           D: To build their own legacy
         answer: C
+        print_position: 1
       - uid: MIN251.7.1.1.TY.2
         subobj: 7.1.1
         type: ty
@@ -4233,6 +4646,7 @@ courses:
           C: That power and influence are the ultimate goals of leadership
           D: That success depends on avoiding hardship
         answer: B
+        print_position: 2
       - uid: MIN251.7.1.1.TY.3
         subobj: 7.1.1
         type: ty
@@ -4243,6 +4657,7 @@ courses:
           C: He gave credit to the Israelites instead of to God.
           D: He disobeyed God by striking the rock instead of speaking to it.
         answer: D
+        print_position: 3
       - uid: MIN251.7.2.1.UPE.1
         subobj: 7.2.1
         type: upe
@@ -4253,6 +4668,8 @@ courses:
           C: Spend more time away from home.
           D: Align your priorities to urgent matters and schedule accordingly.
         answer: B
+        print_position: 16
+        unit: 2
       - uid: MIN251.7.2.1.TY.1
         subobj: 7.2.1
         type: ty
@@ -4263,6 +4680,7 @@ courses:
           C: By following the crowd’s agenda
           D: By prioritizing large public works over relationships
         answer: A
+        print_position: 4
       - uid: MIN251.7.2.1.TY.2
         subobj: 7.2.1
         type: ty
@@ -4273,6 +4691,7 @@ courses:
           C: To honor God and advance His kingdom purposes
           D: To meet cultural expectations and deadlines
         answer: C
+        print_position: 5
       - uid: MIN251.7.3.1.UPE.1
         subobj: 7.3.1
         type: upe
@@ -4284,6 +4703,8 @@ courses:
           C: vote.
           D: interpret church history.
         answer: A
+        print_position: 17
+        unit: 2
       - uid: MIN251.7.3.1.UPE.2
         subobj: 7.3.1
         type: upe
@@ -4294,6 +4715,8 @@ courses:
           C: Using church resources for personal ventures
           D: Modeling generosity and faithful giving
         answer: D
+        print_position: 18
+        unit: 2
       - uid: MIN251.7.3.1.TY.1
         subobj: 7.3.1
         type: ty
@@ -4305,6 +4728,7 @@ courses:
           C: Charismatic personality
           D: Financial integrity
         answer: D
+        print_position: 6
       - uid: MIN251.7.3.1.TY.2
         subobj: 7.3.1
         type: ty
@@ -4315,6 +4739,7 @@ courses:
           C: It may create more work for accountants.
           D: It can erode trust and compromise organizational effectiveness.
         answer: D
+        print_position: 7
       - uid: MIN251.7.4.1.UPE.1
         subobj: 7.4.1
         type: upe
@@ -4325,6 +4750,8 @@ courses:
           C: a handful of John Maxwell books.
           D: genuine relationships.
         answer: D
+        print_position: 19
+        unit: 2
       - uid: MIN251.7.4.1.UPE.2
         subobj: 7.4.1
         type: upe
@@ -4335,6 +4762,8 @@ courses:
           C: He manages the sheep’s tasks efficiently.
           D: He drives the sheep ahead with authority.
         answer: B
+        print_position: 20
+        unit: 2
       - uid: MIN251.7.4.1.TY.1
         subobj: 7.4.1
         type: ty
@@ -4345,6 +4774,7 @@ courses:
           C: He manages the sheep’s tasks efficiently.
           D: He drives the sheep ahead with authority.
         answer: B
+        print_position: 8
       - uid: MIN251.7.4.1.TY.2
         subobj: 7.4.1
         type: ty
@@ -4355,6 +4785,7 @@ courses:
           C: Protecting individuals from harm
           D: Nurturing growth in character, faith, and capacity
         answer: A
+        print_position: 9
       - uid: MIN251.7.4.1.TY.3
         subobj: 7.4.1
         type: ty
@@ -4366,6 +4797,7 @@ courses:
           C: Creating strict rules to maximize efficiency
           D: Delegating tasks without personal involvement
         answer: B
+        print_position: 10
       - uid: MIN251.8.1.1.UPE.1
         subobj: 8.1.1
         type: upe
@@ -4376,6 +4808,8 @@ courses:
           C: A time when fear whispers that a challenge is too big, requiring courage
           D: A routine task that tests patience
         answer: C
+        print_position: 21
+        unit: 2
       - uid: MIN251.8.1.1.TY.1
         subobj: 8.1.1
         type: ty
@@ -4387,6 +4821,7 @@ courses:
           C: Natural personality traits
           D: Accumulated experience
         answer: A
+        print_position: 1
       - uid: MIN251.8.1.1.TY.2
         subobj: 8.1.1
         type: ty
@@ -4398,6 +4833,7 @@ courses:
           C: Take decisive, faith-filled action even when afraid.
           D: Rely solely on human strategies and planning.
         answer: C
+        print_position: 2
       - uid: MIN251.8.2.1.UPE.1
         subobj: 8.2.1
         type: upe
@@ -4408,6 +4844,8 @@ courses:
           C: minimization of dissent.
           D: restoration of relationships.
         answer: D
+        print_position: 22
+        unit: 2
       - uid: MIN251.8.2.1.TY.1
         subobj: 8.2.1
         type: ty
@@ -4419,6 +4857,7 @@ courses:
           C: Showing authority and control over the situation
           D: Restoring the relationship and pursuing reconciliation
         answer: D
+        print_position: 3
       - uid: MIN251.8.2.1.TY.2
         subobj: 8.2.1
         type: ty
@@ -4430,6 +4869,7 @@ courses:
           C: Speak first and listen later to assert authority.
           D: Share details of the conflict with others to gain support.
         answer: A
+        print_position: 4
       - uid: MIN251.8.2.1.TY.3
         subobj: 8.2.1
         type: ty
@@ -4440,6 +4880,7 @@ courses:
           C: It protects reputations and preserves trust within the team.
           D: It ensures that only the leader’s opinion is considered.
         answer: C
+        print_position: 5
       - uid: MIN251.8.3.1.UPE.1
         subobj: 8.3.1
         type: upe
@@ -4451,6 +4892,8 @@ courses:
           D: By recreating their organizational structure to better prepare for the
             future
         answer: B
+        print_position: 23
+        unit: 2
       - uid: MIN251.8.3.1.TY.1
         subobj: 8.3.1
         type: ty
@@ -4462,6 +4905,7 @@ courses:
           C: Relying solely on their own knowledge and skills
           D: Avoiding difficult situations entirely
         answer: B
+        print_position: 6
       - uid: MIN251.8.3.1.TY.2
         subobj: 8.3.1
         type: ty
@@ -4474,6 +4918,7 @@ courses:
             decision making.
           D: Focus only on short-term outcomes rather than perspective.
         answer: C
+        print_position: 7
       - uid: MIN251.8.4.1.UPE.1
         subobj: 8.4.1
         type: upe
@@ -4484,6 +4929,8 @@ courses:
           C: Reflection, journaling, multiple meetings, and planning
           D: Prayer, Scripture meditation, accountability, and reflection
         answer: D
+        print_position: 24
+        unit: 2
       - uid: MIN251.8.4.1.TY.1
         subobj: 8.4.1
         type: ty
@@ -4494,6 +4941,7 @@ courses:
           C: Having natural talent and charisma
           D: Avoiding criticism and challenges
         answer: B
+        print_position: 8
       - uid: MIN251.8.4.1.TY.2
         subobj: 8.4.1
         type: ty
@@ -4504,6 +4952,7 @@ courses:
           C: Daily spiritual conditioning, goal-oriented preparation, and accountability
           D: Delegating all responsibilities to avoid challenges
         answer: C
+        print_position: 9
       - uid: MIN251.8.5.1.UPE.1
         subobj: 8.5.1
         type: upe
@@ -4514,6 +4963,8 @@ courses:
           C: lose traction and accomplish less.
           D: fail to live the life God intended.
         answer: A
+        print_position: 25
+        unit: 2
       - uid: MIN251.8.5.1.TY.1
         subobj: 8.5.1
         type: ty
@@ -4524,6 +4975,7 @@ courses:
           C: focus only on technology and digital notifications.
           D: recognize and name the noise around them.
         answer: D
+        print_position: 10
       - uid: MIN251.9.1.1.UPE.1
         subobj: 9.1.1
         type: upe
@@ -4534,6 +4986,8 @@ courses:
           C: Daniel
           D: Joshua
         answer: B
+        print_position: 1
+        unit: 3
       - uid: MIN251.9.1.1.UPE.2
         subobj: 9.1.1
         type: upe
@@ -4545,6 +4999,8 @@ courses:
           C: assert their authority.
           D: try to develop a new influencer.
         answer: A
+        print_position: 2
+        unit: 3
       - uid: MIN251.9.1.1.UPE.3
         subobj: 9.1.1
         type: upe
@@ -4555,6 +5011,8 @@ courses:
           C: The supreme value of leadership is credibility.
           D: Leadership is inborn; it cannot be taught.
         answer: C
+        print_position: 3
+        unit: 3
       - uid: MIN251.9.1.1.TY.1
         subobj: 9.1.1
         type: ty
@@ -4565,6 +5023,7 @@ courses:
           C: Influence
           D: Solving everyone’s problems
         answer: C
+        print_position: 1
       - uid: MIN251.9.1.1.TY.2
         subobj: 9.1.1
         type: ty
@@ -4575,6 +5034,7 @@ courses:
           C: Leadership requires the leader to possess faith in people.
           D: All of the above are true statements about leadership.
         answer: D
+        print_position: 2
       - uid: MIN251.9.1.1.TY.3
         subobj: 9.1.1
         type: ty
@@ -4585,6 +5045,7 @@ courses:
           C: Authority
           D: Strong will
         answer: B
+        print_position: 3
       - uid: MIN251.9.2.1.UPE.1
         subobj: 9.2.1
         type: upe
@@ -4595,6 +5056,8 @@ courses:
           C: production.
           D: people development.
         answer: B
+        print_position: 4
+        unit: 3
       - uid: MIN251.9.2.1.TY.1
         subobj: 9.2.1
         type: ty
@@ -4605,6 +5068,7 @@ courses:
           C: People follow you because they have to.
           D: This is where people sense success.
         answer: C
+        print_position: 4
       - uid: MIN251.9.2.1.TY.2
         subobj: 9.2.1
         type: ty
@@ -4615,6 +5079,7 @@ courses:
           C: Your influence is limited to the assigned tasks.
           D: People follow out of devotion rather than duty.
         answer: A
+        print_position: 5
       - uid: MIN251.9.2.1.TY.3
         subobj: 9.2.1
         type: ty
@@ -4625,6 +5090,7 @@ courses:
           C: People follow because they want to.
           D: This is where long-range growth occurs.
         answer: C
+        print_position: 6
       - uid: MIN251.9.3.1.UPE.1
         subobj: 9.3.1
         type: upe
@@ -4635,6 +5101,8 @@ courses:
           C: You will not be on the same level with all of those who work with you.
           D: The higher you go, the greater the growth.
         answer: B
+        print_position: 5
+        unit: 3
       - uid: MIN251.9.3.1.TY.1
         subobj: 9.3.1
         type: ty
@@ -4646,6 +5114,7 @@ courses:
           C: You never really leave the base level or the levels where you are.
           D: You will not be on the same level with everyone you lead.
         answer: A
+        print_position: 7
       - uid: MIN251.9.3.1.TY.2
         subobj: 9.3.1
         type: ty
@@ -4657,6 +5126,7 @@ courses:
           C: Live a life others want to imitate.
           D: All of the above are among the ways to climb the leadership levels.
         answer: D
+        print_position: 8
       - uid: MIN251.9.3.1.TY.3
         subobj: 9.3.1
         type: ty
@@ -4667,6 +5137,7 @@ courses:
           C: They give away position and power.
           D: They grow their ministry by developing more leaders.
         answer: B
+        print_position: 9
       - uid: MIN251.9.3.1.TY.4
         subobj: 9.3.1
         type: ty
@@ -4677,6 +5148,7 @@ courses:
           C: They need to be needed.
           D: They hold on to position and power.
         answer: A
+        print_position: 10
       - uid: MIN251.10.1.1.UPE.1
         subobj: 10.1.1
         type: upe
@@ -4687,6 +5159,8 @@ courses:
           C: solid programs.
           D: good savings plan.
         answer: A
+        print_position: 6
+        unit: 3
       - uid: MIN251.10.1.1.UPE.2
         subobj: 10.1.1
         type: upe
@@ -4697,6 +5171,8 @@ courses:
           C: good education.
           D: none of the above.
         answer: A
+        print_position: 7
+        unit: 3
       - uid: MIN251.10.1.1.UPE.3
         subobj: 10.1.1
         type: upe
@@ -4708,6 +5184,8 @@ courses:
           C: a person to be loved.
           D: none of the above.
         answer: B
+        print_position: 8
+        unit: 3
       - uid: MIN251.10.1.1.TY.1
         subobj: 10.1.1
         type: ty
@@ -4718,6 +5196,7 @@ courses:
           C: The leader does not have to be able to relate to different types of people.
           D: You can have people skills and not be a good leader.
         answer: C
+        print_position: 1
       - uid: MIN251.10.1.1.TY.2
         subobj: 10.1.1
         type: ty
@@ -4729,6 +5208,7 @@ courses:
           C: They knew how it felt to be ignored.
           D: They saw the man as a person to be loved.
         answer: A
+        print_position: 2
       - uid: MIN251.10.1.1.TY.3
         subobj: 10.1.1
         type: ty
@@ -4740,6 +5220,7 @@ courses:
           C: show hospitality.
           D: take people on a journey.
         answer: B
+        print_position: 3
       - uid: MIN251.10.2.1.UPE.1
         subobj: 10.2.1
         type: upe
@@ -4750,6 +5231,8 @@ courses:
           C: the key to today is a belief in tomorrow.
           D: connecting with others means getting inside their head.
         answer: C
+        print_position: 9
+        unit: 3
       - uid: MIN251.10.2.1.UPE.2
         subobj: 10.2.1
         type: upe
@@ -4760,6 +5243,8 @@ courses:
           C: They are willing to bypass their own problems.
           D: They want their faults addressed.
         answer: A
+        print_position: 10
+        unit: 3
       - uid: MIN251.10.2.1.TY.1
         subobj: 10.2.1
         type: ty
@@ -4771,6 +5256,7 @@ courses:
           C: A secure environment can only be provided by secure and confident people.
           D: All of the statements above are true.
         answer: D
+        print_position: 4
       - uid: MIN251.10.2.1.TY.2
         subobj: 10.2.1
         type: ty
@@ -4781,6 +5267,7 @@ courses:
           C: later write down what you said.
           D: avoid making public statements because someone may become jealous.
         answer: B
+        print_position: 5
       - uid: MIN251.10.2.1.TY.3
         subobj: 10.2.1
         type: ty
@@ -4792,6 +5279,7 @@ courses:
           C: What do they plan for?
           D: All of the above are helpful questions.
         answer: D
+        print_position: 6
       - uid: MIN251.10.2.1.TY.4
         subobj: 10.2.1
         type: ty
@@ -4803,6 +5291,7 @@ courses:
           C: Their problems are not bigger than those of others.
           D: They see the total picture.
         answer: A
+        print_position: 7
       - uid: MIN251.10.3.1.UPE.1
         subobj: 10.3.1
         type: upe
@@ -4813,6 +5302,8 @@ courses:
           C: admire, befriend, and connect.
           D: admire, believe, and contact.
         answer: A
+        print_position: 11
+        unit: 3
       - uid: MIN251.10.3.1.UPE.2
         subobj: 10.3.1
         type: upe
@@ -4823,6 +5314,8 @@ courses:
           C: stability.
           D: dependability.
         answer: A
+        print_position: 12
+        unit: 3
       - uid: MIN251.10.3.1.TY.1
         subobj: 10.3.1
         type: ty
@@ -4833,6 +5326,7 @@ courses:
           C: Solve all your issues before you try to help others.
           D: Compassionately and consistently serve others.
         answer: C
+        print_position: 8
       - uid: MIN251.10.3.1.TY.2
         subobj: 10.3.1
         type: ty
@@ -4843,6 +5337,7 @@ courses:
           C: They see God-given potential in everyone.
           D: They believe all of the above statements.
         answer: D
+        print_position: 9
       - uid: MIN251.10.3.1.TY.3
         subobj: 10.3.1
         type: ty
@@ -4854,6 +5349,7 @@ courses:
           C: Pride
           D: Negative attitude
         answer: A
+        print_position: 10
       - uid: MIN251.11.1.1.UPE.1
         subobj: 11.1.1
         type: upe
@@ -4864,6 +5360,8 @@ courses:
           C: Winning arguments may make us too popular.
           D: Winning arguments does not provide a significant barrier to restoration.
         answer: A
+        print_position: 15
+        unit: 3
       - uid: MIN251.11.1.1.TY.1
         subobj: 11.1.1
         type: ty
@@ -4875,6 +5373,7 @@ courses:
           C: To help believers grow and mature in Christ
           D: To correct others quickly and efficiently
         answer: C
+        print_position: 1
       - uid: MIN251.11.1.1.TY.2
         subobj: 11.1.1
         type: ty
@@ -4886,6 +5385,7 @@ courses:
           C: It helps maintain strong boundaries and discipline.
           D: It demonstrates strong leadership authority.
         answer: B
+        print_position: 2
       - uid: MIN251.11.1.1.TY.3
         subobj: 11.1.1
         type: ty
@@ -4897,6 +5397,7 @@ courses:
           C: To align your heart and words with God’s heart
           D: To avoid having the conversation altogether
         answer: C
+        print_position: 3
       - uid: MIN251.11.2.1.UPE.1
         subobj: 11.2.1
         type: upe
@@ -4907,6 +5408,8 @@ courses:
           C: asking Aaron and Miriam to mediate instead of listening directly.
           D: avoiding conflict by remaining silent.
         answer: B
+        print_position: 13
+        unit: 3
       - uid: MIN251.11.2.1.UPE.2
         subobj: 11.2.1
         type: upe
@@ -4919,6 +5422,8 @@ courses:
           D: Teaches us to listen without interrupting, pay attention to others’ emotions,
             and resist the urge to fix issues immediately
         answer: D
+        print_position: 16
+        unit: 3
       - uid: MIN251.11.2.1.TY.1
         subobj: 11.2.1
         type: ty
@@ -4929,6 +5434,7 @@ courses:
           C: quick to decide and slow to think.
           D: quick to act and slow to pray.
         answer: B
+        print_position: 4
       - uid: MIN251.11.2.1.TY.2
         subobj: 11.2.1
         type: ty
@@ -4939,6 +5445,7 @@ courses:
           C: It builds trust and understanding within the team.
           D: It shortens meetings.
         answer: C
+        print_position: 5
       - uid: MIN251.11.3.1.UPE.1
         subobj: 11.3.1
         type: upe
@@ -4949,6 +5456,8 @@ courses:
           C: critique mistakes and set new policies to improve performance.
           D: avoid public recognition of efforts.
         answer: B
+        print_position: 14
+        unit: 3
       - uid: MIN251.11.3.1.TY.1
         subobj: 11.3.1
         type: ty
@@ -4960,6 +5469,7 @@ courses:
           C: Only celebrating major achievements publicly
           D: Criticizing team members to push them harder
         answer: B
+        print_position: 6
       - uid: MIN251.11.3.1.TY.2
         subobj: 11.3.1
         type: ty
@@ -4971,6 +5481,7 @@ courses:
           C: Regularly observing, affirming, and celebrating team members’ contributions
           D: Encouraging only those who are naturally outgoing
         answer: C
+        print_position: 7
       - uid: MIN251.11.4.1.UPE.1
         subobj: 11.4.1
         type: upe
@@ -4982,6 +5493,8 @@ courses:
           C: Successes and failures remind us that we can always try harder next time.
           D: People understand what the expectations are for their employees.
         answer: B
+        print_position: 17
+        unit: 3
       - uid: MIN251.11.4.1.UPE.2
         subobj: 11.4.1
         type: upe
@@ -4992,6 +5505,8 @@ courses:
           C: provides space for everyone to share their testimonies.
           D: does not involve storytelling.
         answer: C
+        print_position: 18
+        unit: 3
       - uid: MIN251.11.4.1.TY.1
         subobj: 11.4.1
         type: ty
@@ -5002,6 +5517,7 @@ courses:
           C: their prayers and good deeds.
           D: their strength and leadership.
         answer: B
+        print_position: 8
       - uid: MIN251.11.4.1.TY.2
         subobj: 11.4.1
         type: ty
@@ -5012,6 +5528,7 @@ courses:
           C: Parables and stories
           D: Prophecies about the future
         answer: C
+        print_position: 9
       - uid: MIN251.11.4.1.TY.3
         subobj: 11.4.1
         type: ty
@@ -5022,6 +5539,7 @@ courses:
           C: builds trust and inspires faith.
           D: replaces the need for Scripture.
         answer: C
+        print_position: 10
       - uid: MIN251.12.1.1.UPE.1
         subobj: 12.1.1
         type: upe
@@ -5032,6 +5550,8 @@ courses:
           C: He chose only the most able men.
           D: He became the main influencer on the ship sailing to Rome.
         answer: A
+        print_position: 19
+        unit: 3
       - uid: MIN251.12.1.1.UPE.2
         subobj: 12.1.1
         type: upe
@@ -5042,6 +5562,8 @@ courses:
           C: it should be used only occasionally.
           D: teams should have no clear leader.
         answer: B
+        print_position: 20
+        unit: 3
       - uid: MIN251.12.1.1.UPE.3
         subobj: 12.1.1
         type: upe
@@ -5053,6 +5575,8 @@ courses:
           C: Paul took over as captain of the ship.
           D: Paul took count of how many passengers were on the ship.
         answer: B
+        print_position: 21
+        unit: 3
       - uid: MIN251.12.1.1.TY.1
         subobj: 12.1.1
         type: ty
@@ -5064,6 +5588,7 @@ courses:
           C: Nehemiah took the glory of the success for himself.
           D: The work was completed in an extraordinarily short amount of time.
         answer: C
+        print_position: 1
       - uid: MIN251.12.1.1.TY.2
         subobj: 12.1.1
         type: ty
@@ -5076,6 +5601,7 @@ courses:
             on the team.
           D: Paul’s success came largely because he was not selfish in his agenda.
         answer: A
+        print_position: 2
       - uid: MIN251.12.2.1.UPE.1
         subobj: 12.2.1
         type: upe
@@ -5087,6 +5613,8 @@ courses:
           C: host principle.
           D: care principle.
         answer: B
+        print_position: 22
+        unit: 3
       - uid: MIN251.12.2.1.UPE.2
         subobj: 12.2.1
         type: upe
@@ -5097,6 +5625,8 @@ courses:
           C: The team grows together.
           D: The team is forced to cooperate.
         answer: C
+        print_position: 23
+        unit: 3
       - uid: MIN251.12.2.1.TY.1
         subobj: 12.2.1
         type: ty
@@ -5109,6 +5639,7 @@ courses:
           D: 'All team efforts should have two goals: the first mile and the second
             mile.'
         answer: B
+        print_position: 3
       - uid: MIN251.12.2.1.TY.2
         subobj: 12.2.1
         type: ty
@@ -5120,6 +5651,7 @@ courses:
           C: A team’s growth allows team members to pursue separate goals.
           D: Leaders must grow in order to stay out in front.
         answer: C
+        print_position: 4
       - uid: MIN251.12.2.1.TY.3
         subobj: 12.2.1
         type: ty
@@ -5130,6 +5662,7 @@ courses:
           C: Abilities are complementary.
           D: Victories are frequent.
         answer: B
+        print_position: 5
       - uid: MIN251.12.2.1.TY.4
         subobj: 12.2.1
         type: ty
@@ -5140,6 +5673,7 @@ courses:
           C: Give up your individual rights.
           D: All of the above are parts of the code.
         answer: D
+        print_position: 6
       - uid: MIN251.12.3.1.UPE.1
         subobj: 12.3.1
         type: upe
@@ -5150,6 +5684,8 @@ courses:
           C: organizational structure.
           D: unity and depth.
         answer: D
+        print_position: 24
+        unit: 3
       - uid: MIN251.12.3.1.UPE.2
         subobj: 12.3.1
         type: upe
@@ -5161,6 +5697,8 @@ courses:
           C: keeping a strong bench.
           D: having a chemistry that fits.
         answer: B
+        print_position: 25
+        unit: 3
       - uid: MIN251.12.3.1.TY.1
         subobj: 12.3.1
         type: ty
@@ -5172,6 +5710,7 @@ courses:
           C: “I am not contributing to the team.”
           D: “I do not have to pay attention because I am not in the game.”
         answer: A
+        print_position: 7
       - uid: MIN251.12.3.1.TY.2
         subobj: 12.3.1
         type: ty
@@ -5182,6 +5721,7 @@ courses:
           C: The team knows how much time they have to finish their efforts.
           D: All of the above are benefits.
         answer: D
+        print_position: 8
       - uid: MIN251.12.3.1.TY.3
         subobj: 12.3.1
         type: ty
@@ -5194,6 +5734,7 @@ courses:
             those who have come before me.
           D: All of the above.
         answer: D
+        print_position: 9
       - uid: MIN251.12.3.1.TY.4
         subobj: 12.3.1
         type: ty
@@ -5206,6 +5747,7 @@ courses:
           C: Do we like being a part of this team?
           D: Does everyone participate?
         answer: A
+        print_position: 10
       - uid: MIN251.1.1.1.F.3
         subobj: 1.1.1
         type: final
@@ -5730,6 +6272,8 @@ courses:
         run: 20260728T103340_MIN251.all.f
         form: E
         date: '2026-07-28'
+      product_id: BMIN251ENE03-90_03.26.01
+      captured: reparse
     deployed_pn: 03.26.01
     chapters:
     - last_modified: '2026-06-12'

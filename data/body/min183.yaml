@@ -1139,6 +1139,8 @@ courses:
           C: Teleological
           D: New Age
         answer: C
+        print_position: 12
+        unit: 1
       - uid: MIN183.1.1.1.UPE.2
         subobj: 1.1.1
         type: upe
@@ -1149,6 +1151,8 @@ courses:
           C: Principles found in God’s Word
           D: Modern philosophy
         answer: C
+        print_position: 17
+        unit: 1
       - uid: MIN183.1.1.1.UPE.3
         subobj: 1.1.1
         type: upe
@@ -1159,6 +1163,8 @@ courses:
           C: 'money-driven: money is the end and the means.'
           D: 'morality-drive: what is right justifies the means.'
         answer: A
+        print_position: 25
+        unit: 1
       - uid: MIN183.1.1.1.TY.1
         subobj: 1.1.1
         type: ty
@@ -1169,6 +1175,7 @@ courses:
           C: Money driven; “Money is the end and the means.”
           D: Morality driven; “What is right justifies the means.”
         answer: B
+        print_position: 1
       - uid: MIN183.1.1.1.TY.2
         subobj: 1.1.1
         type: ty
@@ -1179,6 +1186,7 @@ courses:
           C: Money driven; “Money is the end and the means.”
           D: Morality driven; “What is right justifies the means.”
         answer: A
+        print_position: 2
       - uid: MIN183.1.1.1.TY.3
         subobj: 1.1.1
         type: ty
@@ -1189,6 +1197,7 @@ courses:
           C: Principles found in God’s Word
           D: Modern philosophy
         answer: C
+        print_position: 3
       - uid: MIN183.1.2.1.UPE.1
         subobj: 1.2.1
         type: upe
@@ -1200,6 +1209,8 @@ courses:
           C: The Pastoral Epistles
           D: The General Epistles
         answer: C
+        print_position: 14
+        unit: 1
       - uid: MIN183.1.2.1.TY.1
         subobj: 1.2.1
         type: ty
@@ -1211,6 +1222,7 @@ courses:
           C: The Pastoral Epistles
           D: The General Epistles
         answer: C
+        print_position: 4
       - uid: MIN183.1.3.1.UPE.1
         subobj: 1.3.1
         type: upe
@@ -1222,6 +1234,8 @@ courses:
           C: The vocation of minister
           D: Spiritual giftings
         answer: B
+        print_position: 4
+        unit: 1
       - uid: MIN183.1.3.1.UPE.2
         subobj: 1.3.1
         type: upe
@@ -1232,6 +1246,8 @@ courses:
           C: 'sensational: we perform signs and wonders.'
           D: 'incarnational: we live out the gospel.'
         answer: D
+        print_position: 8
+        unit: 1
       - uid: MIN183.1.3.1.UPE.3
         subobj: 1.3.1
         type: upe
@@ -1243,6 +1259,8 @@ courses:
           C: Paul
           D: Mary
         answer: A
+        print_position: 10
+        unit: 1
       - uid: MIN183.1.3.1.TY.1
         subobj: 1.3.1
         type: ty
@@ -1253,6 +1271,7 @@ courses:
           C: 'A holy deposit: the prophecy of the Holy Spirit'
           D: 'A holy deposit: the church in Rome'
         answer: A
+        print_position: 5
       - uid: MIN183.1.3.1.TY.2
         subobj: 1.3.1
         type: ty
@@ -1263,6 +1282,7 @@ courses:
           C: 'sensational: we perform signs and wonders.'
           D: 'incarnational: we live out the gospel.'
         answer: D
+        print_position: 6
       - uid: MIN183.1.3.1.TY.3
         subobj: 1.3.1
         type: ty
@@ -1274,6 +1294,7 @@ courses:
           C: Our childhood mentors
           D: The Holy Spirit
         answer: D
+        print_position: 10
       - uid: MIN183.1.4.1.UPE.1
         subobj: 1.4.1
         type: upe
@@ -1284,6 +1305,8 @@ courses:
           C: 'judicial: he judged right and wrong for himself.'
           D: 'official: he was right because he was in charge.'
         answer: A
+        print_position: 23
+        unit: 1
       - uid: MIN183.1.4.1.TY.1
         subobj: 1.4.1
         type: ty
@@ -1294,6 +1317,7 @@ courses:
           C: 'judicial: he judged right and wrong for himself.'
           D: 'official: he was right because he was in charge.'
         answer: A
+        print_position: 7
       - uid: MIN183.1.5.1.TY.1
         subobj: 1.5.1
         type: ty
@@ -1304,6 +1328,7 @@ courses:
           C: the prospect of gaining something.
           D: the love for influence.
         answer: B
+        print_position: 8
       - uid: MIN183.1.6.1.UPE.1
         subobj: 1.6.1
         type: upe
@@ -1316,6 +1341,8 @@ courses:
           C: The minister must be married.
           D: The minister cannot be divorced.
         answer: B
+        print_position: 3
+        unit: 1
       - uid: MIN183.1.6.1.UPE.2
         subobj: 1.6.1
         type: upe
@@ -1327,6 +1354,8 @@ courses:
           C: Overseers must be perfect.
           D: Overseers must be above reproach.
         answer: D
+        print_position: 6
+        unit: 1
       - uid: MIN183.1.6.1.UPE.3
         subobj: 1.6.1
         type: upe
@@ -1337,6 +1366,8 @@ courses:
           C: leaders.
           D: self-controlled and respectable.
         answer: D
+        print_position: 18
+        unit: 1
       - uid: MIN183.1.6.1.UPE.4
         subobj: 1.6.1
         type: upe
@@ -1348,6 +1379,8 @@ courses:
           C: Able to bring revival
           D: Able to balance a checkbook
         answer: A
+        print_position: 20
+        unit: 1
       - uid: MIN183.1.6.1.TY.1
         subobj: 1.6.1
         type: ty
@@ -1358,6 +1391,7 @@ courses:
           C: good for an overseer to be temperate and emotionally healthy.
           D: good for an overseer to be brand new in his or her faith.
         answer: C
+        print_position: 9
       - uid: MIN183.2.1.1.UPE.1
         subobj: 2.1.1
         type: upe
@@ -1369,6 +1403,8 @@ courses:
           C: To earn a better pastoral position
           D: It is not important
         answer: B
+        print_position: 21
+        unit: 1
       - uid: MIN183.2.1.1.TY.1
         subobj: 2.1.1
         type: ty
@@ -1380,6 +1416,7 @@ courses:
           C: To earn a better pastoring position
           D: It is not important
         answer: B
+        print_position: 1
       - uid: MIN183.2.1.2.TY.1
         subobj: 2.1.2
         type: ty
@@ -1391,6 +1428,7 @@ courses:
           C: Minister credential renewal forms
           D: District forms
         answer: A
+        print_position: 7
       - uid: MIN183.2.2.1.UPE.1
         subobj: 2.2.1
         type: upe
@@ -1401,6 +1439,8 @@ courses:
           C: Politeness
           D: Prayer
         answer: D
+        print_position: 7
+        unit: 1
       - uid: MIN183.2.2.1.TY.1
         subobj: 2.2.1
         type: ty
@@ -1411,6 +1451,7 @@ courses:
           C: Politeness
           D: Prayer
         answer: D
+        print_position: 2
       - uid: MIN183.2.2.2.UPE.1
         subobj: 2.2.2
         type: upe
@@ -1422,6 +1463,8 @@ courses:
           C: A local acquaintance
           D: Your district or network leadership
         answer: D
+        print_position: 1
+        unit: 1
       - uid: MIN183.2.2.2.UPE.2
         subobj: 2.2.2
         type: upe
@@ -1432,6 +1475,8 @@ courses:
           C: Decide and be willing to change if wrong
           D: Blame others
         answer: C
+        print_position: 2
+        unit: 1
       - uid: MIN183.2.2.2.UPE.3
         subobj: 2.2.2
         type: upe
@@ -1442,6 +1487,8 @@ courses:
           C: We can use their value system instead of our own.
           D: They can pray for us so we don’t have to.
         answer: B
+        print_position: 5
+        unit: 1
       - uid: MIN183.2.2.2.UPE.4
         subobj: 2.2.2
         type: upe
@@ -1452,6 +1499,8 @@ courses:
           C: After the situation is clarified, it is not your problem anymore.
           D: Clarifying the situation ensures you stay in leadership.
         answer: B
+        print_position: 9
+        unit: 1
       - uid: MIN183.2.2.2.UPE.5
         subobj: 2.2.2
         type: upe
@@ -1466,6 +1515,8 @@ courses:
           D: Know the Rules by consulting Scripture, our AG documentation, legal documentation,
             and your spiritual leadership.
         answer: B
+        print_position: 11
+        unit: 1
       - uid: MIN183.2.2.2.UPE.6
         subobj: 2.2.2
         type: upe
@@ -1478,6 +1529,8 @@ courses:
           C: Clarify the Situation, Know the Rules, Decide
           D: Decide, Ask for Forgiveness.
         answer: A
+        print_position: 13
+        unit: 1
       - uid: MIN183.2.2.2.UPE.7
         subobj: 2.2.2
         type: upe
@@ -1489,6 +1542,8 @@ courses:
           C: They reflect a new revelation.
           D: They reflect just a handful of ideas we find neat.
         answer: A
+        print_position: 16
+        unit: 1
       - uid: MIN183.2.2.2.UPE.8
         subobj: 2.2.2
         type: upe
@@ -1500,6 +1555,8 @@ courses:
           C: The laws contradict Scripture.
           D: You will not get caught.
         answer: C
+        print_position: 19
+        unit: 1
       - uid: MIN183.2.2.2.UPE.9
         subobj: 2.2.2
         type: upe
@@ -1510,6 +1567,8 @@ courses:
           C: “Human anger does not produce the righteousness that God desires.”
           D: “Human anger produces the righteousness that God desires.”
         answer: C
+        print_position: 22
+        unit: 1
       - uid: MIN183.2.2.2.UPE.10
         subobj: 2.2.2
         type: upe
@@ -1521,6 +1580,8 @@ courses:
           C: Minister credential renewal forms
           D: District forms
         answer: A
+        print_position: 24
+        unit: 1
       - uid: MIN183.2.2.2.TY.1
         subobj: 2.2.2
         type: ty
@@ -1535,6 +1596,7 @@ courses:
           D: Know the Rules by consulting Scripture, Assemblies of God documentation,
             legal documentation, and your spiritual leadership.
         answer: A
+        print_position: 3
       - uid: MIN183.2.2.2.TY.2
         subobj: 2.2.2
         type: ty
@@ -1549,6 +1611,7 @@ courses:
           D: Know the Rules by consulting Scripture, Assemblies of God documentation,
             legal documentation, and your spiritual leadership.
         answer: C
+        print_position: 4
       - uid: MIN183.2.2.2.TY.3
         subobj: 2.2.2
         type: ty
@@ -1563,6 +1626,7 @@ courses:
           D: Know the Rules by consulting Scripture, Assemblies of God documentation,
             legal documentation, and your spiritual leadership
         answer: D
+        print_position: 5
       - uid: MIN183.2.2.2.TY.4
         subobj: 2.2.2
         type: ty
@@ -1577,6 +1641,7 @@ courses:
           D: Know the Rules by consulting Scripture, Assemblies of God documentation,
             legal documentation, and your spiritual leadership.
         answer: B
+        print_position: 6
       - uid: MIN183.2.2.2.TY.5
         subobj: 2.2.2
         type: ty
@@ -1588,6 +1653,7 @@ courses:
           C: A local acquaintance
           D: Your district or network leadership
         answer: D
+        print_position: 8
       - uid: MIN183.2.2.2.TY.6
         subobj: 2.2.2
         type: ty
@@ -1598,6 +1664,7 @@ courses:
           C: “Human anger does not produce the righteousness that God desires.”
           D: “Human anger produces the righteousness that God desires.”
         answer: C
+        print_position: 9
       - uid: MIN183.2.2.2.TY.7
         subobj: 2.2.2
         type: ty
@@ -1608,6 +1675,7 @@ courses:
           C: After the situation is clarified, it is not your problem anymore.
           D: Clarifying the situation makes sure you stay in leadership.
         answer: B
+        print_position: 10
       - uid: MIN183.3.1.1.UPE.1
         subobj: 3.1.1
         type: upe
@@ -1619,6 +1687,8 @@ courses:
           C: The course demonstrated no benefits to reading the Bible.
           D: You gain a greater understanding of Ancient Near Eastern culture.
         answer: A
+        print_position: 13
+        unit: 2
       - uid: MIN183.3.1.1.UPE.2
         subobj: 3.1.1
         type: upe
@@ -1630,6 +1700,8 @@ courses:
           C: “can make up for it by working twice as hard.”
           D: “can make up for it by reading more of the Bible.”
         answer: B
+        print_position: 14
+        unit: 2
       - uid: MIN183.3.1.1.TY.1
         subobj: 3.1.1
         type: ty
@@ -1641,6 +1713,7 @@ courses:
           C: Family, friends, and church community
           D: New acquaintances
         answer: C
+        print_position: 1
       - uid: MIN183.3.1.1.TY.2
         subobj: 3.1.1
         type: ty
@@ -1652,6 +1725,7 @@ courses:
           C: hostile, aggravated, livid, and trusting.
           D: hungry, angry, lonely, and tired.
         answer: D
+        print_position: 3
       - uid: MIN183.3.1.1.TY.3
         subobj: 3.1.1
         type: ty
@@ -1663,6 +1737,7 @@ courses:
           C: They create more things to add to our to-do list.
           D: They provide personal transformation.
         answer: D
+        print_position: 4
       - uid: MIN183.3.1.1.TY.4
         subobj: 3.1.1
         type: ty
@@ -1673,6 +1748,7 @@ courses:
           C: Spending too much time in prayer
           D: Neglecting their spiritual life
         answer: D
+        print_position: 7
       - uid: MIN183.3.1.1.TY.5
         subobj: 3.1.1
         type: ty
@@ -1683,6 +1759,7 @@ courses:
           C: To earn extra blessings
           D: To keep your congregation large
         answer: B
+        print_position: 10
       - uid: MIN183.3.2.1.TY.1
         subobj: 3.2.1
         type: ty
@@ -1693,6 +1770,7 @@ courses:
           C: While not as important as training in godliness, it still is valuable.
           D: It is the key to understanding the gospel.
         answer: C
+        print_position: 5
       - uid: MIN183.3.3.1.UPE.1
         subobj: 3.3.1
         type: upe
@@ -1705,6 +1783,8 @@ courses:
           D: Taking a day off from administrative work allows you to perform pastoral
             work.
         answer: A
+        print_position: 21
+        unit: 2
       - uid: MIN183.3.3.1.TY.1
         subobj: 3.3.1
         type: ty
@@ -1715,6 +1795,7 @@ courses:
           C: Leadership retreats
           D: The sixty-hour work week
         answer: A
+        print_position: 2
       - uid: MIN183.3.4.1.TY.1
         subobj: 3.4.1
         type: ty
@@ -1726,6 +1807,7 @@ courses:
           D: It can help you stay sharp, current, focused, and ready to combat the
             enemy.
         answer: D
+        print_position: 9
       - uid: MIN183.3.5.1.UPE.1
         subobj: 3.5.1
         type: upe
@@ -1737,6 +1819,8 @@ courses:
           C: Bible knowledge, current events, and emotional
           D: Spiritual, physical, intellectual, emotional
         answer: D
+        print_position: 16
+        unit: 2
       - uid: MIN183.3.5.1.TY.1
         subobj: 3.5.1
         type: ty
@@ -1750,6 +1834,7 @@ courses:
           D: We do not need to “build” a lifestyle—eventually it will fall into place
             on its own.
         answer: B
+        print_position: 6
       - uid: MIN183.3.5.1.TY.2
         subobj: 3.5.1
         type: ty
@@ -1760,6 +1845,7 @@ courses:
           C: Staying on top of current events
           D: Building a brand
         answer: B
+        print_position: 8
       - uid: MIN183.4.1.1.TY.1
         subobj: 4.1.1
         type: ty
@@ -1770,6 +1856,7 @@ courses:
           C: Governments
           D: Depends on the situation
         answer: A
+        print_position: 6
       - uid: MIN183.4.1.1.TY.2
         subobj: 4.1.1
         type: ty
@@ -1780,6 +1867,7 @@ courses:
           C: self-actualization.
           D: fun.
         answer: B
+        print_position: 8
       - uid: MIN183.4.2.1.UPE.1
         subobj: 4.2.1
         type: upe
@@ -1791,6 +1879,8 @@ courses:
           C: Always have a second job lined up.
           D: Practice public apologies.
         answer: A
+        print_position: 1
+        unit: 2
       - uid: MIN183.4.2.1.UPE.2
         subobj: 4.2.1
         type: upe
@@ -1801,6 +1891,8 @@ courses:
           C: serves and brings the best out in others.
           D: exercises power as he or she sees fit.
         answer: C
+        print_position: 3
+        unit: 2
       - uid: MIN183.4.2.1.UPE.3
         subobj: 4.2.1
         type: upe
@@ -1811,6 +1903,8 @@ courses:
           C: Model your life and ministry after the example of Jesus’ servant leadership.
           D: Learn on the job.
         answer: C
+        print_position: 5
+        unit: 2
       - uid: MIN183.4.2.1.TY.1
         subobj: 4.2.1
         type: ty
@@ -1821,6 +1915,7 @@ courses:
           C: how they can serve others.
           D: how to use people to achieve their goals.
         answer: C
+        print_position: 7
       - uid: MIN183.4.3.1.UPE.1
         subobj: 4.3.1
         type: upe
@@ -1831,6 +1926,8 @@ courses:
           C: not ideal but sometimes necessary.
           D: typically the best way to get something done.
         answer: B
+        print_position: 10
+        unit: 2
       - uid: MIN183.4.3.1.TY.1
         subobj: 4.3.1
         type: ty
@@ -1844,6 +1941,7 @@ courses:
           D: Spiritual manipulation and control, excessive accountability, correction
             avoidance
         answer: D
+        print_position: 10
       - uid: MIN183.4.4.1.TY.1
         subobj: 4.4.1
         type: ty
@@ -1855,6 +1953,7 @@ courses:
           C: To be elected as a lead pastor
           D: To share authority with the rest of the pastoral staff
         answer: A
+        print_position: 1
       - uid: MIN183.4.5.1.TY.1
         subobj: 4.5.1
         type: ty
@@ -1865,6 +1964,7 @@ courses:
           C: strong leadership.
           D: anointed leadership.
         answer: B
+        print_position: 2
       - uid: MIN183.4.5.1.TY.2
         subobj: 4.5.1
         type: ty
@@ -1875,6 +1975,7 @@ courses:
           C: Portraying false vulnerability
           D: Being outspoken and confident
         answer: C
+        print_position: 4
       - uid: MIN183.4.6.1.UPE.1
         subobj: 4.6.1
         type: upe
@@ -1885,6 +1986,8 @@ courses:
           C: He gathered the most resources before his death.
           D: He emptied himself and served others.
         answer: D
+        print_position: 2
+        unit: 2
       - uid: MIN183.4.6.1.TY.1
         subobj: 4.6.1
         type: ty
@@ -1895,6 +1998,7 @@ courses:
           C: To become rich
           D: To serve others
         answer: D
+        print_position: 3
       - uid: MIN183.4.6.1.TY.2
         subobj: 4.6.1
         type: ty
@@ -1905,6 +2009,7 @@ courses:
           C: Ask a friend for advice.
           D: Follow the example of Jesus as a servant.
         answer: D
+        print_position: 9
       - uid: MIN183.4.7.1.TY.1
         subobj: 4.7.1
         type: ty
@@ -1915,6 +2020,7 @@ courses:
           C: dishonesty.
           D: violence.
         answer: B
+        print_position: 5
       - uid: MIN183.5.1.1.TY.1
         subobj: 5.1.1
         type: ty
@@ -1926,6 +2032,7 @@ courses:
           C: Only non-Pentecostal churches need to take it seriously.
           D: It is destructive for our brand.
         answer: A
+        print_position: 7
       - uid: MIN183.5.1.2.UPE.1
         subobj: 5.1.2
         type: upe
@@ -1936,6 +2043,8 @@ courses:
           C: misuse temple resources.
           D: are flawed, but overall good examples.
         answer: B
+        print_position: 11
+        unit: 2
       - uid: MIN183.5.1.3.TY.1
         subobj: 5.1.3
         type: ty
@@ -1948,6 +2057,7 @@ courses:
             failure and the damage to their faith.
           D: Those who are not involved are often hired to replace the disgraced clergy.
         answer: C
+        print_position: 2
       - uid: MIN183.5.1.3.TY.2
         subobj: 5.1.3
         type: ty
@@ -1961,6 +2071,7 @@ courses:
           D: A minister has very little spiritual, emotional, or social influence
             over an individual.
         answer: B
+        print_position: 4
       - uid: MIN183.5.2.1.UPE.1
         subobj: 5.2.1
         type: upe
@@ -1972,6 +2083,8 @@ courses:
           C: the act of making oneself neat or attractive.
           D: the act of preparing a horse for a specific race or competition.
         answer: A
+        print_position: 23
+        unit: 2
       - uid: MIN183.5.2.1.TY.1
         subobj: 5.2.1
         type: ty
@@ -1984,6 +2097,7 @@ courses:
           D: Grooming is a deliberate and often long-term process in which an offender
             builds trust with a child in order to abuse them while maintaining secrecy.
         answer: D
+        print_position: 8
       - uid: MIN183.5.2.2.UPE.1
         subobj: 5.2.2
         type: upe
@@ -1995,6 +2109,8 @@ courses:
           C: Its expense and inconvenience.
           D: Societal taboos and aversion to sexually explicit materials.
         answer: B
+        print_position: 20
+        unit: 2
       - uid: MIN183.5.2.2.TY.1
         subobj: 5.2.2
         type: ty
@@ -2006,6 +2122,7 @@ courses:
           C: There is no significant harm in pornography.
           D: Computer viruses
         answer: A
+        print_position: 1
       - uid: MIN183.5.2.3.TY.1
         subobj: 5.2.3
         type: ty
@@ -2016,6 +2133,7 @@ courses:
           C: is only useful for a select few.
           D: has little to no impact on addiction.
         answer: B
+        print_position: 3
       - uid: MIN183.5.3.1.UPE.1
         subobj: 5.3.1
         type: upe
@@ -2027,6 +2145,8 @@ courses:
           C: clear and present boundaries.
           D: literature on ethical ministry.
         answer: C
+        print_position: 17
+        unit: 2
       - uid: MIN183.5.3.1.TY.1
         subobj: 5.3.1
         type: ty
@@ -2038,6 +2158,7 @@ courses:
             and relational health, and help ministers avoid compromising situations.
           D: Boundaries only benefit the congregants.
         answer: C
+        print_position: 11
       - uid: MIN183.5.3.2.TY.1
         subobj: 5.3.2
         type: ty
@@ -2048,6 +2169,7 @@ courses:
           C: Refraining from non-Christian media
           D: Refraining from sex before marriage
         answer: D
+        print_position: 10
       - uid: MIN183.5.3.3.TY.1
         subobj: 5.3.3
         type: ty
@@ -2062,6 +2184,7 @@ courses:
           D: The “No Connection” Rule—leaders should not make an effort to know students
             in any meaningful way.
         answer: A
+        print_position: 9
       - uid: MIN183.5.4.1.TY.1
         subobj: 5.4.1
         type: ty
@@ -2075,6 +2198,7 @@ courses:
           D: Focus on helping others resist sexual temptation and you’ll figure it
             out eventually.
         answer: B
+        print_position: 5
       - uid: MIN183.5.5.1.UPE.1
         subobj: 5.5.1
         type: upe
@@ -2085,6 +2209,8 @@ courses:
           C: Homosexuality is not in line with a biblical view of human sexuality.
           D: Homosexuality is not condemned in any situation.
         answer: C
+        print_position: 19
+        unit: 2
       - uid: MIN183.5.5.1.TY.1
         subobj: 5.5.1
         type: ty
@@ -2099,6 +2225,7 @@ courses:
           D: 'Ephesians 5:25: “Husbands, love your wives, just as Christ loved the
             church and gave himself up for her.”'
         answer: C
+        print_position: 6
       - uid: MIN183.6.1.1.TY.1
         subobj: 6.1.1
         type: ty
@@ -2110,6 +2237,7 @@ courses:
           C: Property taxes
           D: Toll roads
         answer: A
+        print_position: 1
       - uid: MIN183.6.1.1.TY.2
         subobj: 6.1.1
         type: ty
@@ -2120,6 +2248,7 @@ courses:
           C: Hiring neighborhood kids to cut the church’s grass
           D: Abstaining from paying for streaming services
         answer: B
+        print_position: 7
       - uid: MIN183.6.2.1.UPE.1
         subobj: 6.2.1
         type: upe
@@ -2130,6 +2259,8 @@ courses:
           C: A budget provides no substantial benefit.
           D: A budget helps you live within your means.
         answer: D
+        print_position: 18
+        unit: 2
       - uid: MIN183.6.2.1.TY.1
         subobj: 6.2.1
         type: ty
@@ -2163,6 +2294,7 @@ courses:
           C: Awareness is not particularly important.
           D: Awareness is important so we can judge one another.
         answer: A
+        print_position: 4
       - uid: MIN183.6.3.1.TY.2
         subobj: 6.3.1
         type: ty
@@ -2173,6 +2305,7 @@ courses:
           C: Gambling contributes negatively to climate change.
           D: There are no profound ethical concerns with the gambling industry.
         answer: B
+        print_position: 9
       - uid: MIN183.6.4.1.UPE.1
         subobj: 6.4.1
         type: upe
@@ -2184,6 +2317,8 @@ courses:
           C: new sneakers.
           D: retirement.
         answer: A
+        print_position: 9
+        unit: 2
       - uid: MIN183.6.4.1.UPE.2
         subobj: 6.4.1
         type: upe
@@ -2194,6 +2329,8 @@ courses:
           C: for church administrative assistants.
           D: for full-time, lead pastors.
         answer: A
+        print_position: 22
+        unit: 2
       - uid: MIN183.6.4.1.TY.1
         subobj: 6.4.1
         type: ty
@@ -2227,6 +2364,8 @@ courses:
           D: is ethically good when there is something you want but cannot afford
             on your own.
         answer: B
+        print_position: 8
+        unit: 2
       - uid: MIN183.6.5.1.UPE.2
         subobj: 6.5.1
         type: upe
@@ -2238,6 +2377,8 @@ courses:
           C: The proper authorization
           D: A second phone number for business calls
         answer: C
+        print_position: 12
+        unit: 2
       - uid: MIN183.6.5.1.TY.1
         subobj: 6.5.1
         type: ty
@@ -2248,6 +2389,7 @@ courses:
           C: promoting a life of simplicity to congregants.
           D: living below their means.
         answer: B
+        print_position: 3
       - uid: MIN183.6.5.1.TY.2
         subobj: 6.5.1
         type: ty
@@ -2260,6 +2402,7 @@ courses:
           D: remember that your money and the church’s money are essentially one and
             the same.
         answer: A
+        print_position: 6
       - uid: MIN183.7.1.1.UPE.1
         subobj: 7.1.1
         type: upe
@@ -2270,6 +2413,8 @@ courses:
           C: Gossiping about one another.
           D: Investing in a home early in your marriage.
         answer: B
+        print_position: 25
+        unit: 2
       - uid: MIN183.7.1.1.TY.1
         subobj: 7.1.1
         type: ty
@@ -2280,6 +2425,7 @@ courses:
           C: his or her church board.
           D: his or her district / network.
         answer: A
+        print_position: 1
       - uid: MIN183.7.1.1.TY.2
         subobj: 7.1.1
         type: ty
@@ -2290,6 +2436,7 @@ courses:
           C: Gossiping about one another
           D: Investing in a home early in their marriage
         answer: B
+        print_position: 4
       - uid: MIN183.7.1.1.TY.3
         subobj: 7.1.1
         type: ty
@@ -2300,6 +2447,7 @@ courses:
           C: it affects his or her spouse.
           D: it affects his or her pets.
         answer: C
+        print_position: 9
       - uid: MIN183.7.1.2.UPE.1
         subobj: 7.1.2
         type: upe
@@ -2310,6 +2458,8 @@ courses:
           C: Living in the suburbs but working in the city
           D: Sharing a phone plan
         answer: A
+        print_position: 4
+        unit: 2
       - uid: MIN183.7.1.2.TY.1
         subobj: 7.1.2
         type: ty
@@ -2320,6 +2470,7 @@ courses:
           C: Living in the suburbs but working in the city
           D: Sharing a phone plan
         answer: A
+        print_position: 3
       - uid: MIN183.7.1.3.TY.1
         subobj: 7.1.3
         type: ty
@@ -2331,6 +2482,7 @@ courses:
           C: Neglecting physical affection
           D: Establishing healthy boundaries
         answer: D
+        print_position: 2
       - uid: MIN183.7.2.2.UPE.1
         subobj: 7.2.2
         type: upe
@@ -2341,6 +2493,8 @@ courses:
           C: the pressure of public scrutiny.
           D: the pressure to manage the church finances.
         answer: C
+        print_position: 7
+        unit: 2
       - uid: MIN183.7.2.2.TY.1
         subobj: 7.2.2
         type: ty
@@ -2351,6 +2505,7 @@ courses:
           C: the pressure of public scrutiny.
           D: the pressure to manage the church finances.
         answer: C
+        print_position: 5
       - uid: MIN183.7.2.2.TY.2
         subobj: 7.2.2
         type: ty
@@ -2361,6 +2516,7 @@ courses:
           C: safe spaces in the community.
           D: high visibility and public scrutiny in ministry.
         answer: D
+        print_position: 10
       - uid: MIN183.7.3.1.UPE.1
         subobj: 7.3.1
         type: upe
@@ -2371,6 +2527,8 @@ courses:
           C: pay for their own work computer.
           D: work longer hours than married ministers.
         answer: D
+        print_position: 15
+        unit: 2
       - uid: MIN183.7.3.1.UPE.2
         subobj: 7.3.1
         type: upe
@@ -2383,6 +2541,8 @@ courses:
             wage for a specific job.
           D: No, but there is nothing we can do about it.
         answer: A
+        print_position: 24
+        unit: 2
       - uid: MIN183.7.3.1.TY.1
         subobj: 7.3.1
         type: ty
@@ -2393,6 +2553,7 @@ courses:
           C: pay for their own work computer.
           D: work longer hours than married ministers.
         answer: D
+        print_position: 6
       - uid: MIN183.7.3.1.TY.2
         subobj: 7.3.1
         type: ty
@@ -2405,6 +2566,7 @@ courses:
             wage for a specific job.
           D: No; but there is nothing we can do about it.
         answer: A
+        print_position: 7
       - uid: MIN183.7.3.1.TY.3
         subobj: 7.3.1
         type: ty
@@ -2415,6 +2577,7 @@ courses:
           C: Share it publicly for accountability.
           D: Ask congregants for advice.
         answer: A
+        print_position: 8
       - uid: MIN183.8.1.1.UPE.1
         subobj: 8.1.1
         type: upe
@@ -2425,6 +2588,8 @@ courses:
           C: only focusing on the ministries their friends direct.
           D: only focusing on the ministries they are directly responsible for.
         answer: D
+        print_position: 9
+        unit: 3
       - uid: MIN183.8.1.1.UPE.2
         subobj: 8.1.1
         type: upe
@@ -2436,6 +2601,8 @@ courses:
           C: help their staff members gain a raise.
           D: help with the church day care.
         answer: B
+        print_position: 10
+        unit: 3
       - uid: MIN183.8.1.1.UPE.3
         subobj: 8.1.1
         type: upe
@@ -2447,6 +2614,8 @@ courses:
           C: showing little to no emotion.
           D: hosting game nights and pizza parties.
         answer: A
+        print_position: 11
+        unit: 3
       - uid: MIN183.8.1.1.UPE.4
         subobj: 8.1.1
         type: upe
@@ -2457,6 +2626,8 @@ courses:
           C: The team they are on, not the team they lead
           D: The team they wish they were on, not the team they are on
         answer: C
+        print_position: 13
+        unit: 3
       - uid: MIN183.8.1.1.TY.1
         subobj: 8.1.1
         type: ty
@@ -2470,6 +2641,7 @@ courses:
           D: Make subtle comments, hoping they understand what you would like them
             to do.
         answer: B
+        print_position: 4
       - uid: MIN183.8.1.1.TY.2
         subobj: 8.1.1
         type: ty
@@ -2481,6 +2653,7 @@ courses:
           C: You become disconnected from the overall vision of the church.
           D: Your team’s success leads to a church split.
         answer: C
+        print_position: 8
       - uid: MIN183.8.1.1.TY.3
         subobj: 8.1.1
         type: ty
@@ -2491,6 +2664,7 @@ courses:
           C: the newest volunteer.
           D: your fellow staff members.
         answer: D
+        print_position: 9
       - uid: MIN183.8.1.1.TY.4
         subobj: 8.1.1
         type: ty
@@ -2502,6 +2676,7 @@ courses:
           C: Correct staff publicly and affirm them publicly.
           D: Affirm staff privately and correct them privately.
         answer: A
+        print_position: 10
       - uid: MIN183.8.2.1.UPE.1
         subobj: 8.2.1
         type: upe
@@ -2513,6 +2688,8 @@ courses:
           C: Providing childcare
           D: Having both traditional and contemporary services
         answer: B
+        print_position: 3
+        unit: 3
       - uid: MIN183.8.2.1.UPE.2
         subobj: 8.2.1
         type: upe
@@ -2527,6 +2704,8 @@ courses:
           D: not equal; therefore, only men can serve in church leadership. The AG
             holds this belief.
         answer: A
+        print_position: 14
+        unit: 3
       - uid: MIN183.8.2.1.UPE.3
         subobj: 8.2.1
         type: upe
@@ -2538,6 +2717,8 @@ courses:
           C: Celibacy
           D: Egalitarianism
         answer: D
+        print_position: 17
+        unit: 3
       - uid: MIN183.8.2.1.UPE.4
         subobj: 8.2.1
         type: upe
@@ -2548,6 +2729,8 @@ courses:
           C: Clear policies and training for everyone
           D: Training for women only
         answer: C
+        print_position: 19
+        unit: 3
       - uid: MIN183.8.2.1.TY.1
         subobj: 8.2.1
         type: ty
@@ -2558,6 +2741,7 @@ courses:
           C: Policies, guidelines, and training for women
           D: Policies, guidelines, and training for new hires
         answer: A
+        print_position: 2
       - uid: MIN183.8.2.1.TY.2
         subobj: 8.2.1
         type: ty
@@ -2568,6 +2752,7 @@ courses:
           C: There are little to no benefits
           D: Singular views on gender-specific issues
         answer: A
+        print_position: 3
       - uid: MIN183.8.2.1.TY.3
         subobj: 8.2.1
         type: ty
@@ -2579,6 +2764,7 @@ courses:
           C: Celibacy
           D: Egalitarianism
         answer: D
+        print_position: 6
       - uid: MIN183.8.3.1.UPE.1
         subobj: 8.3.1
         type: upe
@@ -2590,6 +2776,8 @@ courses:
           C: Vent your concerns online.
           D: Talk to the rest of the staff about your concerns.
         answer: A
+        print_position: 15
+        unit: 3
       - uid: MIN183.8.3.1.UPE.2
         subobj: 8.3.1
         type: upe
@@ -2601,6 +2789,8 @@ courses:
           C: Passive-aggressively
           D: Respectfully
         answer: D
+        print_position: 20
+        unit: 3
       - uid: MIN183.8.3.1.TY.1
         subobj: 8.3.1
         type: ty
@@ -2612,6 +2802,7 @@ courses:
           C: Passive-aggressively
           D: Respectfully
         answer: D
+        print_position: 1
       - uid: MIN183.8.3.1.TY.2
         subobj: 8.3.1
         type: ty
@@ -2623,6 +2814,7 @@ courses:
           C: Make time to talk with your leader.
           D: Bottle up your concerns deep inside.
         answer: C
+        print_position: 5
       - uid: MIN183.8.3.1.TY.3
         subobj: 8.3.1
         type: ty
@@ -2634,6 +2826,7 @@ courses:
           C: Pray for the Lord’s heart and perspective on the disagreement.
           D: Bottle up your concerns deep inside.
         answer: C
+        print_position: 7
       - uid: MIN183.8.5.1.UPE.1
         subobj: 8.5.1
         type: upe
@@ -2644,6 +2837,8 @@ courses:
           C: Going before local legal authorities
           D: Communicating one-on-one
         answer: D
+        print_position: 5
+        unit: 3
       - uid: MIN183.9.1.1.UPE.1
         subobj: 9.1.1
         type: upe
@@ -2657,6 +2852,8 @@ courses:
           C: To create one denomination that includes all other denominations
           D: To replace the existing movement with a static, rigid governance
         answer: A
+        print_position: 7
+        unit: 3
       - uid: MIN183.9.1.1.UPE.2
         subobj: 9.1.1
         type: upe
@@ -2668,6 +2865,8 @@ courses:
           C: The one true church
           D: A way of life
         answer: B
+        print_position: 8
+        unit: 3
       - uid: MIN183.9.1.1.UPE.3
         subobj: 9.1.1
         type: upe
@@ -2679,6 +2878,8 @@ courses:
           D: They can elect their board members, but pastors are appointed by their
             district / network.
         answer: B
+        print_position: 23
+        unit: 3
       - uid: MIN183.9.1.1.TY.1
         subobj: 9.1.1
         type: ty
@@ -2692,6 +2893,7 @@ courses:
           C: To create one denomination that included all other denominations
           D: To replace the existing movement with a static, rigid governance
         answer: A
+        print_position: 2
       - uid: MIN183.9.1.1.TY.2
         subobj: 9.1.1
         type: ty
@@ -2703,6 +2905,7 @@ courses:
           D: They can elect their board members, but pastors are appointed by their
             district / network.
         answer: B
+        print_position: 6
       - uid: MIN183.9.1.2.UPE.1
         subobj: 9.1.2
         type: upe
@@ -2715,6 +2918,8 @@ courses:
             of your calling.
           D: Free snacks at district / network councils
         answer: C
+        print_position: 2
+        unit: 3
       - uid: MIN183.9.1.2.UPE.2
         subobj: 9.1.2
         type: upe
@@ -2727,6 +2932,8 @@ courses:
           D: Confirmation of calling and building a network of accountability and
             friendship
         answer: D
+        print_position: 6
+        unit: 3
       - uid: MIN183.9.1.2.TY.1
         subobj: 9.1.2
         type: ty
@@ -2760,6 +2967,8 @@ courses:
           C: their cooperation becomes obligatory.
           D: they can create their own version of the Sixteen Fundamentals.
         answer: C
+        print_position: 16
+        unit: 3
       - uid: MIN183.9.1.3.UPE.2
         subobj: 9.1.3
         type: upe
@@ -2770,6 +2979,8 @@ courses:
           C: The General Superintendent alone
           D: The Constitution is not amendable
         answer: A
+        print_position: 25
+        unit: 3
       - uid: MIN183.9.1.3.TY.1
         subobj: 9.1.3
         type: ty
@@ -2782,6 +2993,7 @@ courses:
           D: Complying with the decisions, doctrine, and structure of the AG to the
             best of one’s ability
         answer: D
+        print_position: 8
       - uid: MIN183.9.1.4.UPE.1
         subobj: 9.1.4
         type: upe
@@ -2793,6 +3005,8 @@ courses:
           C: television.
           D: sports radio.
         answer: B
+        print_position: 4
+        unit: 3
       - uid: MIN183.9.1.4.UPE.2
         subobj: 9.1.4
         type: upe
@@ -2803,6 +3017,8 @@ courses:
           C: The AG disapproves of it as an eschatological error.
           D: The AG disapproves of it as an overly spiritual eschatological framework.
         answer: C
+        print_position: 22
+        unit: 3
       - uid: MIN183.9.1.4.TY.1
         subobj: 9.1.4
         type: ty
@@ -2816,6 +3032,7 @@ courses:
             what you say you believe.
           D: Integrity requires you to place your personal beliefs above any system.
         answer: C
+        print_position: 9
       - uid: MIN183.9.2.1.UPE.1
         subobj: 9.2.1
         type: upe
@@ -2827,6 +3044,8 @@ courses:
           D: staying active and cooperative within the Fellowship even when you may
             disagree.
         answer: D
+        print_position: 18
+        unit: 3
       - uid: MIN183.9.2.1.TY.1
         subobj: 9.2.1
         type: ty
@@ -2840,6 +3059,7 @@ courses:
           D: Seek an improved position by airing your concerns publicly on social
             media.
         answer: B
+        print_position: 1
       - uid: MIN183.9.2.1.TY.2
         subobj: 9.2.1
         type: ty
@@ -2853,6 +3073,7 @@ courses:
           C: Active participation enables you to earn additional pay.
           D: The course covered no benefits to active participation.
         answer: B
+        print_position: 4
       - uid: MIN183.9.3.1.UPE.1
         subobj: 9.3.1
         type: upe
@@ -2863,6 +3084,8 @@ courses:
           C: join another fellowship or denomination.
           D: be married.
         answer: B
+        print_position: 1
+        unit: 3
       - uid: MIN183.9.3.1.UPE.2
         subobj: 9.3.1
         type: upe
@@ -2873,6 +3096,8 @@ courses:
           C: Your local law enforcement
           D: Your elected church board
         answer: A
+        print_position: 12
+        unit: 3
       - uid: MIN183.9.3.1.UPE.3
         subobj: 9.3.1
         type: upe
@@ -2886,6 +3111,8 @@ courses:
           D: Sexual misconduct, financial misconduct, relational / ethical misconduct,
             and substance use and abuse
         answer: D
+        print_position: 21
+        unit: 3
       - uid: MIN183.9.3.1.UPE.4
         subobj: 9.3.1
         type: upe
@@ -2897,6 +3124,8 @@ courses:
           C: The appeal processes
           D: Starting a church blog
         answer: C
+        print_position: 24
+        unit: 3
       - uid: MIN183.9.3.1.TY.1
         subobj: 9.3.1
         type: ty
@@ -2911,6 +3140,7 @@ courses:
             and restoration”
           D: “Form servants who lead, equip the church, and reach the world for Christ.”
         answer: C
+        print_position: 3
       - uid: MIN183.9.3.1.TY.2
         subobj: 9.3.1
         type: ty
@@ -2924,6 +3154,7 @@ courses:
           D: Sexual misconduct, financial misconduct, relational / ethical misconduct,
             and substance use and abuse
         answer: D
+        print_position: 5
       - uid: MIN183.10.1.1.UPE.1
         subobj: 10.1.1
         type: upe
@@ -2934,6 +3165,8 @@ courses:
           C: Using the Bible as a proof-text
           D: There were no ethical requirements given for biblical interpretation.
         answer: B
+        print_position: 3
+        unit: 4
       - uid: MIN183.10.1.1.UPE.2
         subobj: 10.1.1
         type: upe
@@ -2945,6 +3178,8 @@ courses:
           C: mention the source material at the beginning of your sermon.
           D: hand out a “works cited” page in the church bulletin.
         answer: C
+        print_position: 21
+        unit: 4
       - uid: MIN183.10.1.1.UPE.3
         subobj: 10.1.1
         type: upe
@@ -2956,6 +3191,8 @@ courses:
           C: paying taxes.
           D: paying credentialing dues.
         answer: A
+        print_position: 25
+        unit: 4
       - uid: MIN183.10.1.1.TY.1
         subobj: 10.1.1
         type: ty
@@ -2967,6 +3204,7 @@ courses:
           C: When the source comes from a different church tradition
           D: When the source is not religious in nature
         answer: B
+        print_position: 5
       - uid: MIN183.10.1.1.TY.2
         subobj: 10.1.1
         type: ty
@@ -2977,6 +3215,7 @@ courses:
           C: the minister creates a sermon on the fly.
           D: the minister finds a great sermon source.
         answer: A
+        print_position: 9
       - uid: MIN183.10.2.1.UPE.1
         subobj: 10.2.1
         type: upe
@@ -2988,6 +3227,8 @@ courses:
           C: Arbitration
           D: Clergy-penitent privilege
         answer: D
+        print_position: 15
+        unit: 4
       - uid: MIN183.10.2.1.TY.1
         subobj: 10.2.1
         type: ty
@@ -2998,6 +3239,7 @@ courses:
           C: is not absolute; disclosure may be needed to protect from serious harm.
           D: is not absolute; nothing the congregant says is protected.
         answer: C
+        print_position: 2
       - uid: MIN183.10.2.1.TY.2
         subobj: 10.2.1
         type: ty
@@ -3010,6 +3252,7 @@ courses:
           D: They protect the person receiving care and guard the minister’s credibility
             and well-being.
         answer: D
+        print_position: 6
       - uid: MIN183.10.3.1.TY.1
         subobj: 10.3.1
         type: ty
@@ -3021,6 +3264,7 @@ courses:
           C: speak as if the deceased is in hell.
           D: refrain from speaking about the deceased in any meaningful way.
         answer: B
+        print_position: 3
       - uid: MIN183.10.3.1.TY.2
         subobj: 10.3.1
         type: ty
@@ -3036,6 +3280,7 @@ courses:
           D: Allowance for homosexual weddings and encouragement where the former
             spouse is living
         answer: A
+        print_position: 7
       - uid: MIN183.10.4.1.UPE.1
         subobj: 10.4.1
         type: upe
@@ -3047,6 +3292,8 @@ courses:
           C: When they call to say hello
           D: When they want to send you a retirement present
         answer: B
+        print_position: 11
+        unit: 4
       - uid: MIN183.10.4.1.UPE.2
         subobj: 10.4.1
         type: upe
@@ -3058,6 +3305,8 @@ courses:
           C: Recruit potential lead pastors from other churches.
           D: Take your favorite paintings from the church home.
         answer: A
+        print_position: 13
+        unit: 4
       - uid: MIN183.10.4.1.TY.1
         subobj: 10.4.1
         type: ty
@@ -3068,6 +3317,7 @@ courses:
           C: continue to preach there from time to time.
           D: let the new pastor lead without interference.
         answer: D
+        print_position: 4
       - uid: MIN183.10.4.1.TY.2
         subobj: 10.4.1
         type: ty
@@ -3078,6 +3328,7 @@ courses:
           C: Clear communication
           D: A long, drawn out good-bye
         answer: C
+        print_position: 10
       - uid: MIN183.10.5.1.UPE.1
         subobj: 10.5.1
         type: upe
@@ -3089,6 +3340,8 @@ courses:
           C: Ministers should not show favoritism toward friends.
           D: No one needs friends once they are adults.
         answer: C
+        print_position: 5
+        unit: 4
       - uid: MIN183.10.5.1.TY.1
         subobj: 10.5.1
         type: ty
@@ -3099,6 +3352,7 @@ courses:
           C: conversations about other congregants.
           D: closed cliques.
         answer: A
+        print_position: 8
       - uid: MIN183.10.6.1.UPE.1
         subobj: 10.6.1
         type: upe
@@ -3109,6 +3363,8 @@ courses:
           C: work remotely for an overseas company.
           D: hold ministerial credentials and work overseas.
         answer: D
+        print_position: 14
+        unit: 4
       - uid: MIN183.10.6.1.TY.1
         subobj: 10.6.1
         type: ty
@@ -3119,6 +3375,7 @@ courses:
           C: invest in a new building project.
           D: create their own school.
         answer: B
+        print_position: 1
       - uid: MIN183.11.1.1.UPE.1
         subobj: 11.1.1
         type: upe
@@ -3130,6 +3387,8 @@ courses:
           C: Political, ethnic, and religious considerations
           D: Hammer, axe, and chain saw
         answer: A
+        print_position: 4
+        unit: 4
       - uid: MIN183.11.1.1.TY.1
         subobj: 11.1.1
         type: ty
@@ -3140,6 +3399,7 @@ courses:
           C: With political convictions
           D: Without a care in the world
         answer: A
+        print_position: 5
       - uid: MIN183.11.1.1.TY.2
         subobj: 11.1.1
         type: ty
@@ -3152,6 +3412,7 @@ courses:
             seek helpful resources
           D: Find a quick fix
         answer: C
+        print_position: 6
       - uid: MIN183.11.2.1.UPE.1
         subobj: 11.2.1
         type: upe
@@ -3163,6 +3424,8 @@ courses:
           C: include a sad emoji in an email.
           D: skirt around the issue.
         answer: B
+        print_position: 8
+        unit: 4
       - uid: MIN183.11.2.1.TY.1
         subobj: 11.2.1
         type: ty
@@ -3174,6 +3437,7 @@ courses:
           C: Text Message
           D: Email
         answer: B
+        print_position: 3
       - uid: MIN183.11.3.1.UPE.1
         subobj: 11.3.1
         type: upe
@@ -3185,6 +3449,8 @@ courses:
           C: a healthy workout regimen.
           D: a healthy social media practice.
         answer: D
+        print_position: 24
+        unit: 4
       - uid: MIN183.11.3.1.TY.1
         subobj: 11.3.1
         type: ty
@@ -3195,6 +3461,7 @@ courses:
           C: To make additional revenue
           D: With authenticity and intentionality
         answer: D
+        print_position: 2
       - uid: MIN183.11.4.1.UPE.1
         subobj: 11.4.1
         type: upe
@@ -3205,6 +3472,8 @@ courses:
           C: Ministers should serve political parties who serve our people.
           D: Ministers should serve their people, not political parties.
         answer: D
+        print_position: 23
+        unit: 4
       - uid: MIN183.11.4.1.TY.1
         subobj: 11.4.1
         type: ty
@@ -3215,6 +3484,7 @@ courses:
           C: Green Party.
           D: kingdom of God.
         answer: D
+        print_position: 9
       - uid: MIN183.11.5.1.UPE.1
         subobj: 11.5.1
         type: upe
@@ -3225,6 +3495,8 @@ courses:
           C: It can visit the sick in the hospital.
           D: It can make your church bulletin look neat.
         answer: A
+        print_position: 1
+        unit: 4
       - uid: MIN183.11.5.1.UPE.2
         subobj: 11.5.1
         type: upe
@@ -3235,6 +3507,8 @@ courses:
           C: enhance, not replace personal faith and relationships.
           D: enhance our wealth.
         answer: C
+        print_position: 7
+        unit: 4
       - uid: MIN183.11.5.1.TY.1
         subobj: 11.5.1
         type: ty
@@ -3246,6 +3520,7 @@ courses:
           C: Visiting the sick and lonely
           D: Answering the phone and returning emails
         answer: A
+        print_position: 1
       - uid: MIN183.11.5.1.TY.2
         subobj: 11.5.1
         type: ty
@@ -3257,6 +3532,7 @@ courses:
           C: AI does not have access to the Bible.
           D: AI is always reliable and does not need review.
         answer: B
+        print_position: 10
       - uid: MIN183.11.6.1.TY.1
         subobj: 11.6.1
         type: ty
@@ -3267,6 +3543,7 @@ courses:
           C: creates a permanent digital footprint.
           D: has no effect on our lives.
         answer: C
+        print_position: 4
       - uid: MIN183.11.7.1.UPE.1
         subobj: 11.7.1
         type: upe
@@ -3277,6 +3554,8 @@ courses:
           C: not crowd out our philosophical or political inclinations.
           D: guide our use of church vehicles.
         answer: B
+        print_position: 17
+        unit: 4
       - uid: MIN183.11.7.1.TY.1
         subobj: 11.7.1
         type: ty
@@ -3289,6 +3568,7 @@ courses:
           D: Using technology to enhance our ministry without compromising our Biblical
             values
         answer: D
+        print_position: 7
       - uid: MIN183.11.7.1.TY.2
         subobj: 11.7.1
         type: ty
@@ -3299,6 +3579,7 @@ courses:
           C: inefficient processes.
           D: older technology.
         answer: A
+        print_position: 8
       - uid: MIN183.12.1.1.UPE.1
         subobj: 12.1.1
         type: upe
@@ -3310,6 +3591,8 @@ courses:
           C: Include parents and other adults in group messages.
           D: There is not one particular way to communicate ethically.
         answer: C
+        print_position: 9
+        unit: 4
       - uid: MIN183.12.1.1.UPE.2
         subobj: 12.1.1
         type: upe
@@ -3320,6 +3603,8 @@ courses:
           C: Court-ordered reporting
           D: Voluntary mandatory reporting
         answer: D
+        print_position: 10
+        unit: 4
       - uid: MIN183.12.1.1.UPE.3
         subobj: 12.1.1
         type: upe
@@ -3330,6 +3615,8 @@ courses:
           C: A seasoned volunteer and a member of the choir
           D: An older brother and an older sister
         answer: B
+        print_position: 16
+        unit: 4
       - uid: MIN183.12.1.1.UPE.4
         subobj: 12.1.1
         type: upe
@@ -3340,6 +3627,8 @@ courses:
           C: The minor is asked to leave the church.
           D: The minor’s guardians are asked to find a new church home.
         answer: A
+        print_position: 19
+        unit: 4
       - uid: MIN183.12.1.1.UPE.5
         subobj: 12.1.1
         type: upe
@@ -3350,6 +3639,8 @@ courses:
           C: To create a controlling atmosphere in the church
           D: Child safety systems are only for large churches.
         answer: A
+        print_position: 20
+        unit: 4
       - uid: MIN183.12.1.1.TY.1
         subobj: 12.1.1
         type: ty
@@ -3382,6 +3673,8 @@ courses:
           C: One set of eyes on the offering, one set on security
           D: Having a pastor and an administrator set the budget
         answer: B
+        print_position: 12
+        unit: 4
       - uid: MIN183.12.2.1.TY.1
         subobj: 12.2.1
         type: ty
@@ -3393,6 +3686,7 @@ courses:
           C: The General Treasurer’s Office and conferences
           D: The Dean of Berean’s Office and conferences
         answer: C
+        print_position: 5
       - uid: MIN183.12.2.1.TY.2
         subobj: 12.2.1
         type: ty
@@ -3404,6 +3698,7 @@ courses:
           C: Providing small compensation
           D: Regular, clear financial reporting
         answer: D
+        print_position: 7
       - uid: MIN183.12.3.1.UPE.1
         subobj: 12.3.1
         type: upe
@@ -3415,6 +3710,8 @@ courses:
           C: dictatorial leadership.
           D: lazy leadership.
         answer: C
+        print_position: 2
+        unit: 4
       - uid: MIN183.12.3.1.TY.1
         subobj: 12.3.1
         type: ty
@@ -3425,6 +3722,7 @@ courses:
           C: trap the pastor in endless board meetings.
           D: hinder outreach to the poor and needy.
         answer: B
+        print_position: 4
       - uid: MIN183.12.3.1.TY.2
         subobj: 12.3.1
         type: ty
@@ -3435,6 +3733,7 @@ courses:
           C: has very little impact on the overall health of its ministry.
           D: significantly impacts the pastor, but has little to do with the ministry.
         answer: A
+        print_position: 9
       - uid: MIN183.12.4.1.UPE.1
         subobj: 12.4.1
         type: upe
@@ -3446,6 +3745,8 @@ courses:
           D: Stephen’s Speech to the Sanhedrin in Acts 7 resulted in division and
             splintering.
         answer: A
+        print_position: 6
+        unit: 4
       - uid: MIN183.12.4.1.UPE.2
         subobj: 12.4.1
         type: upe
@@ -3457,6 +3758,8 @@ courses:
           C: Report the complaint to the national office.
           D: Report the complaint to the district / network.
         answer: D
+        print_position: 18
+        unit: 4
       - uid: MIN183.12.4.1.TY.1
         subobj: 12.4.1
         type: ty
@@ -3467,6 +3770,7 @@ courses:
           C: pretend we are listening.
           D: depend on the Holy Spirit for discernment and direction.
         answer: D
+        print_position: 6
       - uid: MIN183.12.4.1.TY.2
         subobj: 12.4.1
         type: ty
@@ -3478,6 +3782,7 @@ courses:
           C: The district / network officials
           D: The Federal Bureau of Investigations
         answer: C
+        print_position: 8
       - uid: MIN183.12.5.1.TY.1
         subobj: 12.5.1
         type: ty
@@ -3489,6 +3794,7 @@ courses:
           C: it is not reflective of their policies and procedures.
           D: they have no hope of recovery.
         answer: A
+        print_position: 2
       - uid: MIN183.12.5.1.TY.2
         subobj: 12.5.1
         type: ty
@@ -3500,6 +3806,8 @@ courses:
           C: natural disasters.
           D: cyberattacks.
         answer: B
+        print_position: 10
+      captured: reparse
     - pn: 01.26.03
       course_code: MIN183
       source_html: BMIN183ENE01-90_01.26.03.html
@@ -3521,6 +3829,8 @@ courses:
           C: Teleological
           D: New Age
         answer: C
+        print_position: 12
+        unit: 1
       - uid: MIN183.1.1.1.UPE.2
         subobj: 1.1.1
         type: upe
@@ -3531,6 +3841,8 @@ courses:
           C: Principles found in God’s Word
           D: Modern philosophy
         answer: C
+        print_position: 17
+        unit: 1
       - uid: MIN183.1.1.1.UPE.3
         subobj: 1.1.1
         type: upe
@@ -3541,6 +3853,8 @@ courses:
           C: 'money-driven: money is the end and the means.'
           D: 'morality-drive: what is right justifies the means.'
         answer: D
+        print_position: 25
+        unit: 1
       - uid: MIN183.1.1.1.TY.1
         subobj: 1.1.1
         type: ty
@@ -3551,6 +3865,7 @@ courses:
           C: Money driven; “Money is the end and the means.”
           D: Morality driven; “What is right justifies the means.”
         answer: B
+        print_position: 1
       - uid: MIN183.1.1.1.TY.2
         subobj: 1.1.1
         type: ty
@@ -3561,6 +3876,7 @@ courses:
           C: Money driven; “Money is the end and the means.”
           D: Morality driven; “What is right justifies the means.”
         answer: D
+        print_position: 2
       - uid: MIN183.1.1.1.TY.3
         subobj: 1.1.1
         type: ty
@@ -3571,6 +3887,7 @@ courses:
           C: Principles found in God’s Word
           D: Modern philosophy
         answer: C
+        print_position: 3
       - uid: MIN183.1.2.1.UPE.1
         subobj: 1.2.1
         type: upe
@@ -3582,6 +3899,8 @@ courses:
           C: The Pastoral Epistles
           D: The General Epistles
         answer: C
+        print_position: 14
+        unit: 1
       - uid: MIN183.1.2.1.TY.1
         subobj: 1.2.1
         type: ty
@@ -3593,6 +3912,7 @@ courses:
           C: The Pastoral Epistles
           D: The General Epistles
         answer: C
+        print_position: 4
       - uid: MIN183.1.3.1.UPE.1
         subobj: 1.3.1
         type: upe
@@ -3604,6 +3924,8 @@ courses:
           C: The vocation of minister
           D: Spiritual giftings
         answer: B
+        print_position: 4
+        unit: 1
       - uid: MIN183.1.3.1.UPE.2
         subobj: 1.3.1
         type: upe
@@ -3614,6 +3936,8 @@ courses:
           C: 'sensational: we perform signs and wonders.'
           D: 'incarnational: we live out the gospel.'
         answer: D
+        print_position: 8
+        unit: 1
       - uid: MIN183.1.3.1.UPE.3
         subobj: 1.3.1
         type: upe
@@ -3625,6 +3949,8 @@ courses:
           C: Paul
           D: Mary
         answer: A
+        print_position: 10
+        unit: 1
       - uid: MIN183.1.3.1.TY.1
         subobj: 1.3.1
         type: ty
@@ -3635,6 +3961,7 @@ courses:
           C: 'A holy deposit: the prophecy of the Holy Spirit'
           D: 'A holy deposit: the church in Rome'
         answer: A
+        print_position: 5
       - uid: MIN183.1.3.1.TY.2
         subobj: 1.3.1
         type: ty
@@ -3645,6 +3972,7 @@ courses:
           C: 'sensational: we perform signs and wonders.'
           D: 'incarnational: we live out the gospel.'
         answer: D
+        print_position: 6
       - uid: MIN183.1.3.1.TY.3
         subobj: 1.3.1
         type: ty
@@ -3656,6 +3984,7 @@ courses:
           C: Our childhood mentors
           D: The Holy Spirit
         answer: D
+        print_position: 10
       - uid: MIN183.1.4.1.UPE.1
         subobj: 1.4.1
         type: upe
@@ -3666,6 +3995,8 @@ courses:
           C: 'judicial: he judged right and wrong for himself.'
           D: 'official: he was right because he was in charge.'
         answer: A
+        print_position: 23
+        unit: 1
       - uid: MIN183.1.4.1.TY.1
         subobj: 1.4.1
         type: ty
@@ -3676,6 +4007,7 @@ courses:
           C: 'judicial: he judged right and wrong for himself.'
           D: 'official: he was right because he was in charge.'
         answer: A
+        print_position: 7
       - uid: MIN183.1.5.1.TY.1
         subobj: 1.5.1
         type: ty
@@ -3686,6 +4018,7 @@ courses:
           C: the prospect of gaining something.
           D: the love for influence.
         answer: B
+        print_position: 8
       - uid: MIN183.1.6.1.UPE.1
         subobj: 1.6.1
         type: upe
@@ -3698,6 +4031,8 @@ courses:
           C: The minister must be married.
           D: The minister cannot be divorced.
         answer: B
+        print_position: 3
+        unit: 1
       - uid: MIN183.1.6.1.UPE.2
         subobj: 1.6.1
         type: upe
@@ -3709,6 +4044,8 @@ courses:
           C: Overseers must be perfect.
           D: Overseers must be above reproach.
         answer: D
+        print_position: 6
+        unit: 1
       - uid: MIN183.1.6.1.UPE.3
         subobj: 1.6.1
         type: upe
@@ -3719,6 +4056,8 @@ courses:
           C: leaders.
           D: self-controlled and respectable.
         answer: D
+        print_position: 18
+        unit: 1
       - uid: MIN183.1.6.1.UPE.4
         subobj: 1.6.1
         type: upe
@@ -3730,6 +4069,8 @@ courses:
           C: Able to bring revival
           D: Able to balance a checkbook
         answer: A
+        print_position: 20
+        unit: 1
       - uid: MIN183.1.6.1.TY.1
         subobj: 1.6.1
         type: ty
@@ -3740,6 +4081,7 @@ courses:
           C: good for an overseer to be temperate and emotionally healthy.
           D: good for an overseer to be brand new in his or her faith.
         answer: C
+        print_position: 9
       - uid: MIN183.2.1.1.UPE.1
         subobj: 2.1.1
         type: upe
@@ -3751,6 +4093,8 @@ courses:
           C: To earn a better pastoral position
           D: It is not important
         answer: B
+        print_position: 21
+        unit: 1
       - uid: MIN183.2.1.1.TY.1
         subobj: 2.1.1
         type: ty
@@ -3762,6 +4106,7 @@ courses:
           C: To earn a better pastoring position
           D: It is not important
         answer: B
+        print_position: 1
       - uid: MIN183.2.1.2.TY.1
         subobj: 2.1.2
         type: ty
@@ -3773,6 +4118,7 @@ courses:
           C: Minister credential renewal forms
           D: District forms
         answer: A
+        print_position: 7
       - uid: MIN183.2.2.1.UPE.1
         subobj: 2.2.1
         type: upe
@@ -3783,6 +4129,8 @@ courses:
           C: Politeness
           D: Prayer
         answer: D
+        print_position: 7
+        unit: 1
       - uid: MIN183.2.2.1.TY.1
         subobj: 2.2.1
         type: ty
@@ -3793,6 +4141,7 @@ courses:
           C: Politeness
           D: Prayer
         answer: D
+        print_position: 2
       - uid: MIN183.2.2.2.UPE.1
         subobj: 2.2.2
         type: upe
@@ -3804,6 +4153,8 @@ courses:
           C: A local acquaintance
           D: Your district or network leadership
         answer: D
+        print_position: 1
+        unit: 1
       - uid: MIN183.2.2.2.UPE.2
         subobj: 2.2.2
         type: upe
@@ -3814,6 +4165,8 @@ courses:
           C: Decide and be willing to change if wrong
           D: Blame others
         answer: C
+        print_position: 2
+        unit: 1
       - uid: MIN183.2.2.2.UPE.3
         subobj: 2.2.2
         type: upe
@@ -3824,6 +4177,8 @@ courses:
           C: We can use their value system instead of our own.
           D: They can pray for us so we don’t have to.
         answer: B
+        print_position: 5
+        unit: 1
       - uid: MIN183.2.2.2.UPE.4
         subobj: 2.2.2
         type: upe
@@ -3834,6 +4189,8 @@ courses:
           C: After the situation is clarified, it is not your problem anymore.
           D: Clarifying the situation ensures you stay in leadership.
         answer: B
+        print_position: 9
+        unit: 1
       - uid: MIN183.2.2.2.UPE.5
         subobj: 2.2.2
         type: upe
@@ -3848,6 +4205,8 @@ courses:
           D: Know the Rules by consulting Scripture, our AG documentation, legal documentation,
             and your spiritual leadership.
         answer: B
+        print_position: 11
+        unit: 1
       - uid: MIN183.2.2.2.UPE.6
         subobj: 2.2.2
         type: upe
@@ -3860,6 +4219,8 @@ courses:
           C: Clarify the Situation, Know the Rules, Decide
           D: Decide, Ask for Forgiveness.
         answer: A
+        print_position: 13
+        unit: 1
       - uid: MIN183.2.2.2.UPE.7
         subobj: 2.2.2
         type: upe
@@ -3871,6 +4232,8 @@ courses:
           C: They reflect a new revelation.
           D: They reflect just a handful of ideas we find neat.
         answer: A
+        print_position: 16
+        unit: 1
       - uid: MIN183.2.2.2.UPE.8
         subobj: 2.2.2
         type: upe
@@ -3882,6 +4245,8 @@ courses:
           C: The laws contradict Scripture.
           D: You will not get caught.
         answer: C
+        print_position: 19
+        unit: 1
       - uid: MIN183.2.2.2.UPE.9
         subobj: 2.2.2
         type: upe
@@ -3892,6 +4257,8 @@ courses:
           C: “Human anger does not produce the righteousness that God desires.”
           D: “Human anger produces the righteousness that God desires.”
         answer: C
+        print_position: 22
+        unit: 1
       - uid: MIN183.2.2.2.UPE.10
         subobj: 2.2.2
         type: upe
@@ -3903,6 +4270,8 @@ courses:
           C: Minister credential renewal forms
           D: District forms
         answer: A
+        print_position: 24
+        unit: 1
       - uid: MIN183.2.2.2.TY.1
         subobj: 2.2.2
         type: ty
@@ -3917,6 +4286,7 @@ courses:
           D: Know the Rules by consulting Scripture, Assemblies of God documentation,
             legal documentation, and your spiritual leadership.
         answer: A
+        print_position: 3
       - uid: MIN183.2.2.2.TY.2
         subobj: 2.2.2
         type: ty
@@ -3931,6 +4301,7 @@ courses:
           D: Know the Rules by consulting Scripture, Assemblies of God documentation,
             legal documentation, and your spiritual leadership.
         answer: C
+        print_position: 4
       - uid: MIN183.2.2.2.TY.3
         subobj: 2.2.2
         type: ty
@@ -3945,6 +4316,7 @@ courses:
           D: Know the Rules by consulting Scripture, Assemblies of God documentation,
             legal documentation, and your spiritual leadership
         answer: D
+        print_position: 5
       - uid: MIN183.2.2.2.TY.4
         subobj: 2.2.2
         type: ty
@@ -3959,6 +4331,7 @@ courses:
           D: Know the Rules by consulting Scripture, Assemblies of God documentation,
             legal documentation, and your spiritual leadership.
         answer: B
+        print_position: 6
       - uid: MIN183.2.2.2.TY.5
         subobj: 2.2.2
         type: ty
@@ -3970,6 +4343,7 @@ courses:
           C: A local acquaintance
           D: Your district or network leadership
         answer: D
+        print_position: 8
       - uid: MIN183.2.2.2.TY.6
         subobj: 2.2.2
         type: ty
@@ -3980,6 +4354,7 @@ courses:
           C: “Human anger does not produce the righteousness that God desires.”
           D: “Human anger produces the righteousness that God desires.”
         answer: C
+        print_position: 9
       - uid: MIN183.2.2.2.TY.7
         subobj: 2.2.2
         type: ty
@@ -3990,6 +4365,7 @@ courses:
           C: After the situation is clarified, it is not your problem anymore.
           D: Clarifying the situation makes sure you stay in leadership.
         answer: B
+        print_position: 10
       - uid: MIN183.3.1.1.UPE.1
         subobj: 3.1.1
         type: upe
@@ -4001,6 +4377,8 @@ courses:
           C: The course demonstrated no benefits to reading the Bible.
           D: You gain a greater understanding of Ancient Near Eastern culture.
         answer: A
+        print_position: 13
+        unit: 2
       - uid: MIN183.3.1.1.UPE.2
         subobj: 3.1.1
         type: upe
@@ -4012,6 +4390,8 @@ courses:
           C: “can make up for it by working twice as hard.”
           D: “can make up for it by reading more of the Bible.”
         answer: B
+        print_position: 14
+        unit: 2
       - uid: MIN183.3.1.1.TY.1
         subobj: 3.1.1
         type: ty
@@ -4023,6 +4403,7 @@ courses:
           C: Family, friends, and church community
           D: New acquaintances
         answer: C
+        print_position: 1
       - uid: MIN183.3.1.1.TY.2
         subobj: 3.1.1
         type: ty
@@ -4034,6 +4415,7 @@ courses:
           C: hostile, aggravated, livid, and trusting.
           D: hungry, angry, lonely, and tired.
         answer: D
+        print_position: 3
       - uid: MIN183.3.1.1.TY.3
         subobj: 3.1.1
         type: ty
@@ -4045,6 +4427,7 @@ courses:
           C: They create more things to add to our to-do list.
           D: They provide personal transformation.
         answer: D
+        print_position: 4
       - uid: MIN183.3.1.1.TY.4
         subobj: 3.1.1
         type: ty
@@ -4055,6 +4438,7 @@ courses:
           C: Spending too much time in prayer
           D: Neglecting their spiritual life
         answer: D
+        print_position: 7
       - uid: MIN183.3.1.1.TY.5
         subobj: 3.1.1
         type: ty
@@ -4065,6 +4449,7 @@ courses:
           C: To earn extra blessings
           D: To keep your congregation large
         answer: B
+        print_position: 10
       - uid: MIN183.3.2.1.TY.1
         subobj: 3.2.1
         type: ty
@@ -4075,6 +4460,7 @@ courses:
           C: While not as important as training in godliness, it still is valuable.
           D: It is the key to understanding the gospel.
         answer: C
+        print_position: 5
       - uid: MIN183.3.3.1.UPE.1
         subobj: 3.3.1
         type: upe
@@ -4087,6 +4473,8 @@ courses:
           D: Taking a day off from administrative work allows you to perform pastoral
             work.
         answer: A
+        print_position: 21
+        unit: 2
       - uid: MIN183.3.3.1.TY.1
         subobj: 3.3.1
         type: ty
@@ -4097,6 +4485,7 @@ courses:
           C: Leadership retreats
           D: The sixty-hour work week
         answer: A
+        print_position: 2
       - uid: MIN183.3.4.1.TY.1
         subobj: 3.4.1
         type: ty
@@ -4108,6 +4497,7 @@ courses:
           D: It can help you stay sharp, current, focused, and ready to combat the
             enemy.
         answer: D
+        print_position: 9
       - uid: MIN183.3.5.1.UPE.1
         subobj: 3.5.1
         type: upe
@@ -4119,6 +4509,8 @@ courses:
           C: Bible knowledge, current events, and emotional
           D: Spiritual, physical, intellectual, emotional
         answer: D
+        print_position: 16
+        unit: 2
       - uid: MIN183.3.5.1.TY.1
         subobj: 3.5.1
         type: ty
@@ -4132,6 +4524,7 @@ courses:
           D: We do not need to “build” a lifestyle—eventually it will fall into place
             on its own.
         answer: B
+        print_position: 6
       - uid: MIN183.3.5.1.TY.2
         subobj: 3.5.1
         type: ty
@@ -4142,6 +4535,7 @@ courses:
           C: Staying on top of current events
           D: Building a brand
         answer: B
+        print_position: 8
       - uid: MIN183.4.1.1.TY.1
         subobj: 4.1.1
         type: ty
@@ -4152,6 +4546,7 @@ courses:
           C: Governments
           D: Depends on the situation
         answer: A
+        print_position: 6
       - uid: MIN183.4.1.1.TY.2
         subobj: 4.1.1
         type: ty
@@ -4162,6 +4557,7 @@ courses:
           C: self-actualization.
           D: fun.
         answer: B
+        print_position: 8
       - uid: MIN183.4.2.1.UPE.1
         subobj: 4.2.1
         type: upe
@@ -4173,6 +4569,8 @@ courses:
           C: Always have a second job lined up.
           D: Practice public apologies.
         answer: A
+        print_position: 1
+        unit: 2
       - uid: MIN183.4.2.1.UPE.2
         subobj: 4.2.1
         type: upe
@@ -4183,6 +4581,8 @@ courses:
           C: serves and brings the best out in others.
           D: exercises power as he or she sees fit.
         answer: C
+        print_position: 3
+        unit: 2
       - uid: MIN183.4.2.1.UPE.3
         subobj: 4.2.1
         type: upe
@@ -4193,6 +4593,8 @@ courses:
           C: Model your life and ministry after the example of Jesus’ servant leadership.
           D: Learn on the job.
         answer: C
+        print_position: 5
+        unit: 2
       - uid: MIN183.4.2.1.TY.1
         subobj: 4.2.1
         type: ty
@@ -4203,6 +4605,7 @@ courses:
           C: how they can serve others.
           D: how to use people to achieve their goals.
         answer: C
+        print_position: 7
       - uid: MIN183.4.3.1.UPE.1
         subobj: 4.3.1
         type: upe
@@ -4213,6 +4616,8 @@ courses:
           C: not ideal but sometimes necessary.
           D: typically the best way to get something done.
         answer: B
+        print_position: 10
+        unit: 2
       - uid: MIN183.4.3.1.TY.1
         subobj: 4.3.1
         type: ty
@@ -4226,6 +4631,7 @@ courses:
           D: Spiritual manipulation and control, excessive accountability, correction
             avoidance
         answer: D
+        print_position: 10
       - uid: MIN183.4.4.1.TY.1
         subobj: 4.4.1
         type: ty
@@ -4237,6 +4643,7 @@ courses:
           C: To be elected as a lead pastor
           D: To share authority with the rest of the pastoral staff
         answer: A
+        print_position: 1
       - uid: MIN183.4.5.1.TY.1
         subobj: 4.5.1
         type: ty
@@ -4247,6 +4654,7 @@ courses:
           C: strong leadership.
           D: anointed leadership.
         answer: B
+        print_position: 2
       - uid: MIN183.4.5.1.TY.2
         subobj: 4.5.1
         type: ty
@@ -4257,6 +4665,7 @@ courses:
           C: Portraying false vulnerability
           D: Being outspoken and confident
         answer: C
+        print_position: 4
       - uid: MIN183.4.6.1.UPE.1
         subobj: 4.6.1
         type: upe
@@ -4267,6 +4676,8 @@ courses:
           C: He gathered the most resources before his death.
           D: He emptied himself and served others.
         answer: D
+        print_position: 2
+        unit: 2
       - uid: MIN183.4.6.1.TY.1
         subobj: 4.6.1
         type: ty
@@ -4277,6 +4688,7 @@ courses:
           C: To become rich
           D: To serve others
         answer: D
+        print_position: 3
       - uid: MIN183.4.6.1.TY.2
         subobj: 4.6.1
         type: ty
@@ -4287,6 +4699,7 @@ courses:
           C: Ask a friend for advice.
           D: Follow the example of Jesus as a servant.
         answer: D
+        print_position: 9
       - uid: MIN183.4.7.1.TY.1
         subobj: 4.7.1
         type: ty
@@ -4297,6 +4710,7 @@ courses:
           C: dishonesty.
           D: violence.
         answer: B
+        print_position: 5
       - uid: MIN183.5.1.1.TY.1
         subobj: 5.1.1
         type: ty
@@ -4308,6 +4722,7 @@ courses:
           C: Only non-Pentecostal churches need to take it seriously.
           D: It is destructive for our brand.
         answer: A
+        print_position: 7
       - uid: MIN183.5.1.2.UPE.1
         subobj: 5.1.2
         type: upe
@@ -4318,6 +4733,8 @@ courses:
           C: misuse temple resources.
           D: are flawed, but overall good examples.
         answer: B
+        print_position: 11
+        unit: 2
       - uid: MIN183.5.1.3.TY.1
         subobj: 5.1.3
         type: ty
@@ -4330,6 +4747,7 @@ courses:
             failure and the damage to their faith.
           D: Those who are not involved are often hired to replace the disgraced clergy.
         answer: C
+        print_position: 2
       - uid: MIN183.5.1.3.TY.2
         subobj: 5.1.3
         type: ty
@@ -4343,6 +4761,7 @@ courses:
           D: A minister has very little spiritual, emotional, or social influence
             over an individual.
         answer: B
+        print_position: 4
       - uid: MIN183.5.2.1.UPE.1
         subobj: 5.2.1
         type: upe
@@ -4354,6 +4773,8 @@ courses:
           C: the act of making oneself neat or attractive.
           D: the act of preparing a horse for a specific race or competition.
         answer: A
+        print_position: 23
+        unit: 2
       - uid: MIN183.5.2.1.TY.1
         subobj: 5.2.1
         type: ty
@@ -4366,6 +4787,7 @@ courses:
           D: Grooming is a deliberate and often long-term process in which an offender
             builds trust with a child in order to abuse them while maintaining secrecy.
         answer: D
+        print_position: 8
       - uid: MIN183.5.2.2.UPE.1
         subobj: 5.2.2
         type: upe
@@ -4377,6 +4799,8 @@ courses:
           C: Its expense and inconvenience.
           D: Societal taboos and aversion to sexually explicit materials.
         answer: B
+        print_position: 20
+        unit: 2
       - uid: MIN183.5.2.2.TY.1
         subobj: 5.2.2
         type: ty
@@ -4388,6 +4812,7 @@ courses:
           C: There is no significant harm in pornography.
           D: Computer viruses
         answer: A
+        print_position: 1
       - uid: MIN183.5.2.3.TY.1
         subobj: 5.2.3
         type: ty
@@ -4398,6 +4823,7 @@ courses:
           C: is only useful for a select few.
           D: has little to no impact on addiction.
         answer: B
+        print_position: 3
       - uid: MIN183.5.3.1.UPE.1
         subobj: 5.3.1
         type: upe
@@ -4409,6 +4835,8 @@ courses:
           C: clear and present boundaries.
           D: literature on ethical ministry.
         answer: C
+        print_position: 17
+        unit: 2
       - uid: MIN183.5.3.1.TY.1
         subobj: 5.3.1
         type: ty
@@ -4420,6 +4848,7 @@ courses:
             and relational health, and help ministers avoid compromising situations.
           D: Boundaries only benefit the congregants.
         answer: C
+        print_position: 11
       - uid: MIN183.5.3.2.TY.1
         subobj: 5.3.2
         type: ty
@@ -4430,6 +4859,7 @@ courses:
           C: Refraining from non-Christian media
           D: Refraining from sex before marriage
         answer: D
+        print_position: 10
       - uid: MIN183.5.3.3.TY.1
         subobj: 5.3.3
         type: ty
@@ -4444,6 +4874,7 @@ courses:
           D: The “No Connection” Rule—leaders should not make an effort to know students
             in any meaningful way.
         answer: A
+        print_position: 9
       - uid: MIN183.5.4.1.TY.1
         subobj: 5.4.1
         type: ty
@@ -4457,6 +4888,7 @@ courses:
           D: Focus on helping others resist sexual temptation and you’ll figure it
             out eventually.
         answer: B
+        print_position: 5
       - uid: MIN183.5.5.1.UPE.1
         subobj: 5.5.1
         type: upe
@@ -4467,6 +4899,8 @@ courses:
           C: Homosexuality is not in line with a biblical view of human sexuality.
           D: Homosexuality is not condemned in any situation.
         answer: C
+        print_position: 19
+        unit: 2
       - uid: MIN183.5.5.1.TY.1
         subobj: 5.5.1
         type: ty
@@ -4481,6 +4915,7 @@ courses:
           D: 'Ephesians 5:25: “Husbands, love your wives, just as Christ loved the
             church and gave himself up for her.”'
         answer: C
+        print_position: 6
       - uid: MIN183.6.1.1.TY.1
         subobj: 6.1.1
         type: ty
@@ -4492,6 +4927,7 @@ courses:
           C: Property taxes
           D: Toll roads
         answer: A
+        print_position: 1
       - uid: MIN183.6.1.1.TY.2
         subobj: 6.1.1
         type: ty
@@ -4502,6 +4938,7 @@ courses:
           C: Hiring neighborhood kids to cut the church’s grass
           D: Abstaining from paying for streaming services
         answer: B
+        print_position: 7
       - uid: MIN183.6.2.1.UPE.1
         subobj: 6.2.1
         type: upe
@@ -4512,6 +4949,8 @@ courses:
           C: A budget provides no substantial benefit.
           D: A budget helps you live within your means.
         answer: D
+        print_position: 18
+        unit: 2
       - uid: MIN183.6.2.1.TY.1
         subobj: 6.2.1
         type: ty
@@ -4545,6 +4984,7 @@ courses:
           C: Awareness is not particularly important.
           D: Awareness is important so we can judge one another.
         answer: A
+        print_position: 4
       - uid: MIN183.6.3.1.TY.2
         subobj: 6.3.1
         type: ty
@@ -4555,6 +4995,7 @@ courses:
           C: Gambling contributes negatively to climate change.
           D: There are no profound ethical concerns with the gambling industry.
         answer: B
+        print_position: 9
       - uid: MIN183.6.4.1.UPE.1
         subobj: 6.4.1
         type: upe
@@ -4566,6 +5007,8 @@ courses:
           C: new sneakers.
           D: retirement.
         answer: A
+        print_position: 9
+        unit: 2
       - uid: MIN183.6.4.1.UPE.2
         subobj: 6.4.1
         type: upe
@@ -4576,6 +5019,8 @@ courses:
           C: for church administrative assistants.
           D: for full-time, lead pastors.
         answer: A
+        print_position: 22
+        unit: 2
       - uid: MIN183.6.4.1.TY.1
         subobj: 6.4.1
         type: ty
@@ -4609,6 +5054,8 @@ courses:
           D: is ethically good when there is something you want but cannot afford
             on your own.
         answer: B
+        print_position: 8
+        unit: 2
       - uid: MIN183.6.5.1.UPE.2
         subobj: 6.5.1
         type: upe
@@ -4620,6 +5067,8 @@ courses:
           C: The proper authorization
           D: A second phone number for business calls
         answer: C
+        print_position: 12
+        unit: 2
       - uid: MIN183.6.5.1.TY.1
         subobj: 6.5.1
         type: ty
@@ -4630,6 +5079,7 @@ courses:
           C: promoting a life of simplicity to congregants.
           D: living below their means.
         answer: B
+        print_position: 3
       - uid: MIN183.6.5.1.TY.2
         subobj: 6.5.1
         type: ty
@@ -4642,6 +5092,7 @@ courses:
           D: remember that your money and the church’s money are essentially one and
             the same.
         answer: A
+        print_position: 6
       - uid: MIN183.7.1.1.UPE.1
         subobj: 7.1.1
         type: upe
@@ -4652,6 +5103,8 @@ courses:
           C: Gossiping about one another.
           D: Investing in a home early in your marriage.
         answer: B
+        print_position: 25
+        unit: 2
       - uid: MIN183.7.1.1.TY.1
         subobj: 7.1.1
         type: ty
@@ -4662,6 +5115,7 @@ courses:
           C: his or her church board.
           D: his or her district / network.
         answer: A
+        print_position: 1
       - uid: MIN183.7.1.1.TY.2
         subobj: 7.1.1
         type: ty
@@ -4672,6 +5126,7 @@ courses:
           C: Gossiping about one another
           D: Investing in a home early in their marriage
         answer: B
+        print_position: 4
       - uid: MIN183.7.1.1.TY.3
         subobj: 7.1.1
         type: ty
@@ -4682,6 +5137,7 @@ courses:
           C: it affects his or her spouse.
           D: it affects his or her pets.
         answer: C
+        print_position: 9
       - uid: MIN183.7.1.2.UPE.1
         subobj: 7.1.2
         type: upe
@@ -4692,6 +5148,8 @@ courses:
           C: Living in the suburbs but working in the city
           D: Sharing a phone plan
         answer: A
+        print_position: 4
+        unit: 2
       - uid: MIN183.7.1.2.TY.1
         subobj: 7.1.2
         type: ty
@@ -4702,6 +5160,7 @@ courses:
           C: Living in the suburbs but working in the city
           D: Sharing a phone plan
         answer: A
+        print_position: 3
       - uid: MIN183.7.1.3.TY.1
         subobj: 7.1.3
         type: ty
@@ -4713,6 +5172,7 @@ courses:
           C: Neglecting physical affection
           D: Establishing healthy boundaries
         answer: D
+        print_position: 2
       - uid: MIN183.7.2.2.UPE.1
         subobj: 7.2.2
         type: upe
@@ -4723,6 +5183,8 @@ courses:
           C: the pressure of public scrutiny.
           D: the pressure to manage the church finances.
         answer: C
+        print_position: 7
+        unit: 2
       - uid: MIN183.7.2.2.TY.1
         subobj: 7.2.2
         type: ty
@@ -4733,6 +5195,7 @@ courses:
           C: the pressure of public scrutiny.
           D: the pressure to manage the church finances.
         answer: C
+        print_position: 5
       - uid: MIN183.7.2.2.TY.2
         subobj: 7.2.2
         type: ty
@@ -4743,6 +5206,7 @@ courses:
           C: safe spaces in the community.
           D: high visibility and public scrutiny in ministry.
         answer: D
+        print_position: 10
       - uid: MIN183.7.3.1.UPE.1
         subobj: 7.3.1
         type: upe
@@ -4753,6 +5217,8 @@ courses:
           C: pay for their own work computer.
           D: work longer hours than married ministers.
         answer: D
+        print_position: 15
+        unit: 2
       - uid: MIN183.7.3.1.UPE.2
         subobj: 7.3.1
         type: upe
@@ -4765,6 +5231,8 @@ courses:
             wage for a specific job.
           D: No, but there is nothing we can do about it.
         answer: A
+        print_position: 24
+        unit: 2
       - uid: MIN183.7.3.1.TY.1
         subobj: 7.3.1
         type: ty
@@ -4775,6 +5243,7 @@ courses:
           C: pay for their own work computer.
           D: work longer hours than married ministers.
         answer: D
+        print_position: 6
       - uid: MIN183.7.3.1.TY.2
         subobj: 7.3.1
         type: ty
@@ -4787,6 +5256,7 @@ courses:
             wage for a specific job.
           D: No; but there is nothing we can do about it.
         answer: A
+        print_position: 7
       - uid: MIN183.7.3.1.TY.3
         subobj: 7.3.1
         type: ty
@@ -4797,6 +5267,7 @@ courses:
           C: Share it publicly for accountability.
           D: Ask congregants for advice.
         answer: A
+        print_position: 8
       - uid: MIN183.8.1.1.UPE.1
         subobj: 8.1.1
         type: upe
@@ -4807,6 +5278,8 @@ courses:
           C: only focusing on the ministries their friends direct.
           D: only focusing on the ministries they are directly responsible for.
         answer: D
+        print_position: 9
+        unit: 3
       - uid: MIN183.8.1.1.UPE.2
         subobj: 8.1.1
         type: upe
@@ -4818,6 +5291,8 @@ courses:
           C: help their staff members gain a raise.
           D: help with the church day care.
         answer: B
+        print_position: 10
+        unit: 3
       - uid: MIN183.8.1.1.UPE.3
         subobj: 8.1.1
         type: upe
@@ -4829,6 +5304,8 @@ courses:
           C: showing little to no emotion.
           D: hosting game nights and pizza parties.
         answer: A
+        print_position: 11
+        unit: 3
       - uid: MIN183.8.1.1.UPE.4
         subobj: 8.1.1
         type: upe
@@ -4839,6 +5316,8 @@ courses:
           C: The team they are on, not the team they lead
           D: The team they wish they were on, not the team they are on
         answer: C
+        print_position: 13
+        unit: 3
       - uid: MIN183.8.1.1.TY.1
         subobj: 8.1.1
         type: ty
@@ -4852,6 +5331,7 @@ courses:
           D: Make subtle comments, hoping they understand what you would like them
             to do.
         answer: B
+        print_position: 4
       - uid: MIN183.8.1.1.TY.2
         subobj: 8.1.1
         type: ty
@@ -4863,6 +5343,7 @@ courses:
           C: You become disconnected from the overall vision of the church.
           D: Your team’s success leads to a church split.
         answer: C
+        print_position: 8
       - uid: MIN183.8.1.1.TY.3
         subobj: 8.1.1
         type: ty
@@ -4873,6 +5354,7 @@ courses:
           C: the newest volunteer.
           D: your fellow staff members.
         answer: D
+        print_position: 9
       - uid: MIN183.8.1.1.TY.4
         subobj: 8.1.1
         type: ty
@@ -4884,6 +5366,7 @@ courses:
           C: Correct staff publicly and affirm them publicly.
           D: Affirm staff privately and correct them privately.
         answer: A
+        print_position: 10
       - uid: MIN183.8.2.1.UPE.1
         subobj: 8.2.1
         type: upe
@@ -4895,6 +5378,8 @@ courses:
           C: Providing childcare
           D: Having both traditional and contemporary services
         answer: B
+        print_position: 3
+        unit: 3
       - uid: MIN183.8.2.1.UPE.2
         subobj: 8.2.1
         type: upe
@@ -4909,6 +5394,8 @@ courses:
           D: not equal; therefore, only men can serve in church leadership. The AG
             holds this belief.
         answer: A
+        print_position: 14
+        unit: 3
       - uid: MIN183.8.2.1.UPE.3
         subobj: 8.2.1
         type: upe
@@ -4920,6 +5407,8 @@ courses:
           C: Celibacy
           D: Egalitarianism
         answer: D
+        print_position: 17
+        unit: 3
       - uid: MIN183.8.2.1.UPE.4
         subobj: 8.2.1
         type: upe
@@ -4930,6 +5419,8 @@ courses:
           C: Clear policies and training for everyone
           D: Training for women only
         answer: C
+        print_position: 19
+        unit: 3
       - uid: MIN183.8.2.1.TY.1
         subobj: 8.2.1
         type: ty
@@ -4940,6 +5431,7 @@ courses:
           C: Policies, guidelines, and training for women
           D: Policies, guidelines, and training for new hires
         answer: A
+        print_position: 2
       - uid: MIN183.8.2.1.TY.2
         subobj: 8.2.1
         type: ty
@@ -4950,6 +5442,7 @@ courses:
           C: There are little to no benefits
           D: Singular views on gender-specific issues
         answer: A
+        print_position: 3
       - uid: MIN183.8.2.1.TY.3
         subobj: 8.2.1
         type: ty
@@ -4961,6 +5454,7 @@ courses:
           C: Celibacy
           D: Egalitarianism
         answer: D
+        print_position: 6
       - uid: MIN183.8.3.1.UPE.1
         subobj: 8.3.1
         type: upe
@@ -4972,6 +5466,8 @@ courses:
           C: Vent your concerns online.
           D: Talk to the rest of the staff about your concerns.
         answer: A
+        print_position: 15
+        unit: 3
       - uid: MIN183.8.3.1.UPE.2
         subobj: 8.3.1
         type: upe
@@ -4983,6 +5479,8 @@ courses:
           C: Passive-aggressively
           D: Respectfully
         answer: D
+        print_position: 20
+        unit: 3
       - uid: MIN183.8.3.1.TY.1
         subobj: 8.3.1
         type: ty
@@ -4994,6 +5492,7 @@ courses:
           C: Passive-aggressively
           D: Respectfully
         answer: D
+        print_position: 1
       - uid: MIN183.8.3.1.TY.2
         subobj: 8.3.1
         type: ty
@@ -5005,6 +5504,7 @@ courses:
           C: Make time to talk with your leader.
           D: Bottle up your concerns deep inside.
         answer: C
+        print_position: 5
       - uid: MIN183.8.3.1.TY.3
         subobj: 8.3.1
         type: ty
@@ -5016,6 +5516,7 @@ courses:
           C: Pray for the Lord’s heart and perspective on the disagreement.
           D: Bottle up your concerns deep inside.
         answer: C
+        print_position: 7
       - uid: MIN183.8.5.1.UPE.1
         subobj: 8.5.1
         type: upe
@@ -5026,6 +5527,8 @@ courses:
           C: Going before local legal authorities
           D: Communicating one-on-one
         answer: D
+        print_position: 5
+        unit: 3
       - uid: MIN183.9.1.1.UPE.1
         subobj: 9.1.1
         type: upe
@@ -5039,6 +5542,8 @@ courses:
           C: To create one denomination that includes all other denominations
           D: To replace the existing movement with a static, rigid governance
         answer: A
+        print_position: 7
+        unit: 3
       - uid: MIN183.9.1.1.UPE.2
         subobj: 9.1.1
         type: upe
@@ -5050,6 +5555,8 @@ courses:
           C: The one true church
           D: A way of life
         answer: B
+        print_position: 8
+        unit: 3
       - uid: MIN183.9.1.1.UPE.3
         subobj: 9.1.1
         type: upe
@@ -5061,6 +5568,8 @@ courses:
           D: They can elect their board members, but pastors are appointed by their
             district / network.
         answer: B
+        print_position: 23
+        unit: 3
       - uid: MIN183.9.1.1.TY.1
         subobj: 9.1.1
         type: ty
@@ -5074,6 +5583,7 @@ courses:
           C: To create one denomination that included all other denominations
           D: To replace the existing movement with a static, rigid governance
         answer: A
+        print_position: 2
       - uid: MIN183.9.1.1.TY.2
         subobj: 9.1.1
         type: ty
@@ -5085,6 +5595,7 @@ courses:
           D: They can elect their board members, but pastors are appointed by their
             district / network.
         answer: B
+        print_position: 6
       - uid: MIN183.9.1.2.UPE.1
         subobj: 9.1.2
         type: upe
@@ -5097,6 +5608,8 @@ courses:
             of your calling.
           D: Free snacks at district / network councils
         answer: C
+        print_position: 2
+        unit: 3
       - uid: MIN183.9.1.2.UPE.2
         subobj: 9.1.2
         type: upe
@@ -5109,6 +5622,8 @@ courses:
           D: Confirmation of calling and building a network of accountability and
             friendship
         answer: D
+        print_position: 6
+        unit: 3
       - uid: MIN183.9.1.2.TY.1
         subobj: 9.1.2
         type: ty
@@ -5142,6 +5657,8 @@ courses:
           C: their cooperation becomes obligatory.
           D: they can create their own version of the Sixteen Fundamentals.
         answer: C
+        print_position: 16
+        unit: 3
       - uid: MIN183.9.1.3.UPE.2
         subobj: 9.1.3
         type: upe
@@ -5152,6 +5669,8 @@ courses:
           C: The General Superintendent alone
           D: The Constitution is not amendable
         answer: A
+        print_position: 25
+        unit: 3
       - uid: MIN183.9.1.3.TY.1
         subobj: 9.1.3
         type: ty
@@ -5164,6 +5683,7 @@ courses:
           D: Complying with the decisions, doctrine, and structure of the AG to the
             best of one’s ability
         answer: D
+        print_position: 8
       - uid: MIN183.9.1.4.UPE.1
         subobj: 9.1.4
         type: upe
@@ -5175,6 +5695,8 @@ courses:
           C: television.
           D: sports radio.
         answer: B
+        print_position: 4
+        unit: 3
       - uid: MIN183.9.1.4.UPE.2
         subobj: 9.1.4
         type: upe
@@ -5185,6 +5707,8 @@ courses:
           C: The AG disapproves of it as an eschatological error.
           D: The AG disapproves of it as an overly spiritual eschatological framework.
         answer: C
+        print_position: 22
+        unit: 3
       - uid: MIN183.9.1.4.TY.1
         subobj: 9.1.4
         type: ty
@@ -5198,6 +5722,7 @@ courses:
             what you say you believe.
           D: Integrity requires you to place your personal beliefs above any system.
         answer: C
+        print_position: 9
       - uid: MIN183.9.2.1.UPE.1
         subobj: 9.2.1
         type: upe
@@ -5209,6 +5734,8 @@ courses:
           D: staying active and cooperative within the Fellowship even when you may
             disagree.
         answer: D
+        print_position: 18
+        unit: 3
       - uid: MIN183.9.2.1.TY.1
         subobj: 9.2.1
         type: ty
@@ -5222,6 +5749,7 @@ courses:
           D: Seek an improved position by airing your concerns publicly on social
             media.
         answer: B
+        print_position: 1
       - uid: MIN183.9.2.1.TY.2
         subobj: 9.2.1
         type: ty
@@ -5235,6 +5763,7 @@ courses:
           C: Active participation enables you to earn additional pay.
           D: The course covered no benefits to active participation.
         answer: B
+        print_position: 4
       - uid: MIN183.9.3.1.UPE.1
         subobj: 9.3.1
         type: upe
@@ -5245,6 +5774,8 @@ courses:
           C: join another fellowship or denomination.
           D: be married.
         answer: B
+        print_position: 1
+        unit: 3
       - uid: MIN183.9.3.1.UPE.2
         subobj: 9.3.1
         type: upe
@@ -5255,6 +5786,8 @@ courses:
           C: Your local law enforcement
           D: Your elected church board
         answer: A
+        print_position: 12
+        unit: 3
       - uid: MIN183.9.3.1.UPE.3
         subobj: 9.3.1
         type: upe
@@ -5268,6 +5801,8 @@ courses:
           D: Sexual misconduct, financial misconduct, relational / ethical misconduct,
             and substance use and abuse
         answer: D
+        print_position: 21
+        unit: 3
       - uid: MIN183.9.3.1.UPE.4
         subobj: 9.3.1
         type: upe
@@ -5279,6 +5814,8 @@ courses:
           C: The appeal processes
           D: Starting a church blog
         answer: C
+        print_position: 24
+        unit: 3
       - uid: MIN183.9.3.1.TY.1
         subobj: 9.3.1
         type: ty
@@ -5293,6 +5830,7 @@ courses:
             and restoration”
           D: “Form servants who lead, equip the church, and reach the world for Christ.”
         answer: C
+        print_position: 3
       - uid: MIN183.9.3.1.TY.2
         subobj: 9.3.1
         type: ty
@@ -5306,6 +5844,7 @@ courses:
           D: Sexual misconduct, financial misconduct, relational / ethical misconduct,
             and substance use and abuse
         answer: D
+        print_position: 5
       - uid: MIN183.10.1.1.UPE.1
         subobj: 10.1.1
         type: upe
@@ -5316,6 +5855,8 @@ courses:
           C: Using the Bible as a proof-text
           D: There were no ethical requirements given for biblical interpretation.
         answer: B
+        print_position: 3
+        unit: 4
       - uid: MIN183.10.1.1.UPE.2
         subobj: 10.1.1
         type: upe
@@ -5327,6 +5868,8 @@ courses:
           C: mention the source material at the beginning of your sermon.
           D: hand out a “works cited” page in the church bulletin.
         answer: C
+        print_position: 21
+        unit: 4
       - uid: MIN183.10.1.1.UPE.3
         subobj: 10.1.1
         type: upe
@@ -5338,6 +5881,8 @@ courses:
           C: paying taxes.
           D: paying credentialing dues.
         answer: A
+        print_position: 25
+        unit: 4
       - uid: MIN183.10.1.1.TY.1
         subobj: 10.1.1
         type: ty
@@ -5349,6 +5894,7 @@ courses:
           C: When the source comes from a different church tradition
           D: When the source is not religious in nature
         answer: B
+        print_position: 5
       - uid: MIN183.10.1.1.TY.2
         subobj: 10.1.1
         type: ty
@@ -5359,6 +5905,7 @@ courses:
           C: the minister creates a sermon on the fly.
           D: the minister finds a great sermon source.
         answer: A
+        print_position: 9
       - uid: MIN183.10.2.1.UPE.1
         subobj: 10.2.1
         type: upe
@@ -5370,6 +5917,8 @@ courses:
           C: Arbitration
           D: Clergy-penitent privilege
         answer: D
+        print_position: 15
+        unit: 4
       - uid: MIN183.10.2.1.TY.1
         subobj: 10.2.1
         type: ty
@@ -5380,6 +5929,7 @@ courses:
           C: is not absolute; disclosure may be needed to protect from serious harm.
           D: is not absolute; nothing the congregant says is protected.
         answer: C
+        print_position: 2
       - uid: MIN183.10.2.1.TY.2
         subobj: 10.2.1
         type: ty
@@ -5392,6 +5942,7 @@ courses:
           D: They protect the person receiving care and guard the minister’s credibility
             and well-being.
         answer: D
+        print_position: 6
       - uid: MIN183.10.3.1.TY.1
         subobj: 10.3.1
         type: ty
@@ -5403,6 +5954,7 @@ courses:
           C: speak as if the deceased is in hell.
           D: refrain from speaking about the deceased in any meaningful way.
         answer: B
+        print_position: 3
       - uid: MIN183.10.3.1.TY.2
         subobj: 10.3.1
         type: ty
@@ -5418,6 +5970,7 @@ courses:
           D: Allowance for homosexual weddings and encouragement where the former
             spouse is living
         answer: A
+        print_position: 7
       - uid: MIN183.10.4.1.UPE.1
         subobj: 10.4.1
         type: upe
@@ -5429,6 +5982,8 @@ courses:
           C: When they call to say hello
           D: When they want to send you a retirement present
         answer: B
+        print_position: 11
+        unit: 4
       - uid: MIN183.10.4.1.UPE.2
         subobj: 10.4.1
         type: upe
@@ -5440,6 +5995,8 @@ courses:
           C: Recruit potential lead pastors from other churches.
           D: Take your favorite paintings from the church home.
         answer: A
+        print_position: 13
+        unit: 4
       - uid: MIN183.10.4.1.TY.1
         subobj: 10.4.1
         type: ty
@@ -5450,6 +6007,7 @@ courses:
           C: continue to preach there from time to time.
           D: let the new pastor lead without interference.
         answer: D
+        print_position: 4
       - uid: MIN183.10.4.1.TY.2
         subobj: 10.4.1
         type: ty
@@ -5460,6 +6018,7 @@ courses:
           C: Clear communication
           D: A long, drawn out good-bye
         answer: C
+        print_position: 10
       - uid: MIN183.10.5.1.UPE.1
         subobj: 10.5.1
         type: upe
@@ -5471,6 +6030,8 @@ courses:
           C: Ministers should not show favoritism toward friends.
           D: No one needs friends once they are adults.
         answer: C
+        print_position: 5
+        unit: 4
       - uid: MIN183.10.5.1.TY.1
         subobj: 10.5.1
         type: ty
@@ -5481,6 +6042,7 @@ courses:
           C: conversations about other congregants.
           D: closed cliques.
         answer: A
+        print_position: 8
       - uid: MIN183.10.6.1.UPE.1
         subobj: 10.6.1
         type: upe
@@ -5491,6 +6053,8 @@ courses:
           C: work remotely for an overseas company.
           D: hold ministerial credentials and work overseas.
         answer: D
+        print_position: 14
+        unit: 4
       - uid: MIN183.10.6.1.TY.1
         subobj: 10.6.1
         type: ty
@@ -5501,6 +6065,7 @@ courses:
           C: invest in a new building project.
           D: create their own school.
         answer: B
+        print_position: 1
       - uid: MIN183.11.1.1.UPE.1
         subobj: 11.1.1
         type: upe
@@ -5512,6 +6077,8 @@ courses:
           C: Political, ethnic, and religious considerations
           D: Hammer, axe, and chain saw
         answer: A
+        print_position: 4
+        unit: 4
       - uid: MIN183.11.1.1.TY.1
         subobj: 11.1.1
         type: ty
@@ -5522,6 +6089,7 @@ courses:
           C: With political convictions
           D: Without a care in the world
         answer: A
+        print_position: 5
       - uid: MIN183.11.1.1.TY.2
         subobj: 11.1.1
         type: ty
@@ -5534,6 +6102,7 @@ courses:
             seek helpful resources
           D: Find a quick fix
         answer: C
+        print_position: 6
       - uid: MIN183.11.2.1.UPE.1
         subobj: 11.2.1
         type: upe
@@ -5545,6 +6114,8 @@ courses:
           C: include a sad emoji in an email.
           D: skirt around the issue.
         answer: B
+        print_position: 8
+        unit: 4
       - uid: MIN183.11.2.1.TY.1
         subobj: 11.2.1
         type: ty
@@ -5556,6 +6127,7 @@ courses:
           C: Text Message
           D: Email
         answer: B
+        print_position: 3
       - uid: MIN183.11.3.1.UPE.1
         subobj: 11.3.1
         type: upe
@@ -5567,6 +6139,8 @@ courses:
           C: a healthy workout regimen.
           D: a healthy social media practice.
         answer: D
+        print_position: 24
+        unit: 4
       - uid: MIN183.11.3.1.TY.1
         subobj: 11.3.1
         type: ty
@@ -5577,6 +6151,7 @@ courses:
           C: To make additional revenue
           D: With authenticity and intentionality
         answer: D
+        print_position: 2
       - uid: MIN183.11.4.1.UPE.1
         subobj: 11.4.1
         type: upe
@@ -5587,6 +6162,8 @@ courses:
           C: Ministers should serve political parties who serve our people.
           D: Ministers should serve their people, not political parties.
         answer: D
+        print_position: 23
+        unit: 4
       - uid: MIN183.11.4.1.TY.1
         subobj: 11.4.1
         type: ty
@@ -5597,6 +6174,7 @@ courses:
           C: Green Party.
           D: kingdom of God.
         answer: D
+        print_position: 9
       - uid: MIN183.11.5.1.UPE.1
         subobj: 11.5.1
         type: upe
@@ -5607,6 +6185,8 @@ courses:
           C: It can visit the sick in the hospital.
           D: It can make your church bulletin look neat.
         answer: A
+        print_position: 1
+        unit: 4
       - uid: MIN183.11.5.1.UPE.2
         subobj: 11.5.1
         type: upe
@@ -5617,6 +6197,8 @@ courses:
           C: enhance, not replace personal faith and relationships.
           D: enhance our wealth.
         answer: C
+        print_position: 7
+        unit: 4
       - uid: MIN183.11.5.1.TY.1
         subobj: 11.5.1
         type: ty
@@ -5628,6 +6210,7 @@ courses:
           C: Visiting the sick and lonely
           D: Answering the phone and returning emails
         answer: A
+        print_position: 1
       - uid: MIN183.11.5.1.TY.2
         subobj: 11.5.1
         type: ty
@@ -5639,6 +6222,7 @@ courses:
           C: AI does not have access to the Bible.
           D: AI is always reliable and does not need review.
         answer: B
+        print_position: 10
       - uid: MIN183.11.6.1.TY.1
         subobj: 11.6.1
         type: ty
@@ -5649,6 +6233,7 @@ courses:
           C: creates a permanent digital footprint.
           D: has no effect on our lives.
         answer: C
+        print_position: 4
       - uid: MIN183.11.7.1.UPE.1
         subobj: 11.7.1
         type: upe
@@ -5659,6 +6244,8 @@ courses:
           C: not crowd out our philosophical or political inclinations.
           D: guide our use of church vehicles.
         answer: B
+        print_position: 17
+        unit: 4
       - uid: MIN183.11.7.1.TY.1
         subobj: 11.7.1
         type: ty
@@ -5671,6 +6258,7 @@ courses:
           D: Using technology to enhance our ministry without compromising our Biblical
             values
         answer: D
+        print_position: 7
       - uid: MIN183.11.7.1.TY.2
         subobj: 11.7.1
         type: ty
@@ -5681,6 +6269,7 @@ courses:
           C: inefficient processes.
           D: older technology.
         answer: A
+        print_position: 8
       - uid: MIN183.12.1.1.UPE.1
         subobj: 12.1.1
         type: upe
@@ -5692,6 +6281,8 @@ courses:
           C: Include parents and other adults in group messages.
           D: There is not one particular way to communicate ethically.
         answer: C
+        print_position: 9
+        unit: 4
       - uid: MIN183.12.1.1.UPE.2
         subobj: 12.1.1
         type: upe
@@ -5702,6 +6293,8 @@ courses:
           C: Court-ordered reporting
           D: Voluntary mandatory reporting
         answer: D
+        print_position: 10
+        unit: 4
       - uid: MIN183.12.1.1.UPE.3
         subobj: 12.1.1
         type: upe
@@ -5712,6 +6305,8 @@ courses:
           C: A seasoned volunteer and a member of the choir
           D: An older brother and an older sister
         answer: B
+        print_position: 16
+        unit: 4
       - uid: MIN183.12.1.1.UPE.4
         subobj: 12.1.1
         type: upe
@@ -5722,6 +6317,8 @@ courses:
           C: The minor is asked to leave the church.
           D: The minor’s guardians are asked to find a new church home.
         answer: A
+        print_position: 19
+        unit: 4
       - uid: MIN183.12.1.1.UPE.5
         subobj: 12.1.1
         type: upe
@@ -5732,6 +6329,8 @@ courses:
           C: To create a controlling atmosphere in the church
           D: Child safety systems are only for large churches.
         answer: A
+        print_position: 20
+        unit: 4
       - uid: MIN183.12.1.1.TY.1
         subobj: 12.1.1
         type: ty
@@ -5764,6 +6363,8 @@ courses:
           C: One set of eyes on the offering, one set on security
           D: Having a pastor and an administrator set the budget
         answer: B
+        print_position: 12
+        unit: 4
       - uid: MIN183.12.2.1.TY.1
         subobj: 12.2.1
         type: ty
@@ -5775,6 +6376,7 @@ courses:
           C: The General Treasurer’s Office and conferences
           D: The Dean of Berean’s Office and conferences
         answer: C
+        print_position: 5
       - uid: MIN183.12.2.1.TY.2
         subobj: 12.2.1
         type: ty
@@ -5786,6 +6388,7 @@ courses:
           C: Providing small compensation
           D: Regular, clear financial reporting
         answer: D
+        print_position: 7
       - uid: MIN183.12.3.1.UPE.1
         subobj: 12.3.1
         type: upe
@@ -5797,6 +6400,8 @@ courses:
           C: dictatorial leadership.
           D: lazy leadership.
         answer: C
+        print_position: 2
+        unit: 4
       - uid: MIN183.12.3.1.TY.1
         subobj: 12.3.1
         type: ty
@@ -5807,6 +6412,7 @@ courses:
           C: trap the pastor in endless board meetings.
           D: hinder outreach to the poor and needy.
         answer: B
+        print_position: 4
       - uid: MIN183.12.3.1.TY.2
         subobj: 12.3.1
         type: ty
@@ -5817,6 +6423,7 @@ courses:
           C: has very little impact on the overall health of its ministry.
           D: significantly impacts the pastor, but has little to do with the ministry.
         answer: A
+        print_position: 9
       - uid: MIN183.12.4.1.UPE.1
         subobj: 12.4.1
         type: upe
@@ -5828,6 +6435,8 @@ courses:
           D: Stephen’s Speech to the Sanhedrin in Acts 7 resulted in division and
             splintering.
         answer: A
+        print_position: 6
+        unit: 4
       - uid: MIN183.12.4.1.UPE.2
         subobj: 12.4.1
         type: upe
@@ -5839,6 +6448,8 @@ courses:
           C: Report the complaint to the national office.
           D: Report the complaint to the district / network.
         answer: D
+        print_position: 18
+        unit: 4
       - uid: MIN183.12.4.1.TY.1
         subobj: 12.4.1
         type: ty
@@ -5849,6 +6460,7 @@ courses:
           C: pretend we are listening.
           D: depend on the Holy Spirit for discernment and direction.
         answer: D
+        print_position: 6
       - uid: MIN183.12.4.1.TY.2
         subobj: 12.4.1
         type: ty
@@ -5860,6 +6472,7 @@ courses:
           C: The district / network officials
           D: The Federal Bureau of Investigations
         answer: C
+        print_position: 8
       - uid: MIN183.12.5.1.TY.1
         subobj: 12.5.1
         type: ty
@@ -5871,6 +6484,7 @@ courses:
           C: it is not reflective of their policies and procedures.
           D: they have no hope of recovery.
         answer: A
+        print_position: 2
       - uid: MIN183.12.5.1.TY.2
         subobj: 12.5.1
         type: ty
@@ -5882,6 +6496,7 @@ courses:
           C: natural disasters.
           D: cyberattacks.
         answer: B
+        print_position: 10
       - uid: MIN183.1.1.1.F.1
         subobj: 1.1.1
         type: final
@@ -6388,6 +7003,7 @@ courses:
         key_pdf: BMIN183E-ER-key.pdf
         matched: 49
         unmatched: 1
+      captured: reparse
     deployed_pn: 01.26.03
     body_baseline_pn: 01.26.03
     chapters:
