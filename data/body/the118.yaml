@@ -81,8 +81,6 @@ courses:
           C: both the Old and New Testaments.
           D: the Old and New Testaments, and the apocrypha.
         answer: C
-        print_position: 1
-        unit: 1
       - uid: THE118.1.1.1.TY.1
         subobj: 1.1.1
         type: ty
@@ -93,7 +91,6 @@ courses:
           C: inspired by God, but some passages are more inspired than others.
           D: all inspired by God.
         answer: D
-        print_position: 1
       - uid: THE118.1.1.1.TY.2
         subobj: 1.1.1
         type: ty
@@ -105,7 +102,6 @@ courses:
           C: Mechanical dictation
           D: Diverse inspiration
         answer: B
-        print_position: 2
       - uid: THE118.1.1.2.UPE.1
         subobj: 1.1.2
         type: upe
@@ -116,8 +112,6 @@ courses:
           C: “carried along by the Holy Spirit.”
           D: “a standard or a measuring rod.”
         answer: D
-        print_position: 2
-        unit: 1
       - uid: THE118.1.1.2.UPE.2
         subobj: 1.1.2
         type: upe
@@ -128,8 +122,6 @@ courses:
           C: scribe infractions.
           D: incompatibilities.
         answer: B
-        print_position: 3
-        unit: 1
       - uid: THE118.1.1.2.TY.1
         subobj: 1.1.2
         type: ty
@@ -146,7 +138,6 @@ courses:
             of Scripture, be widely accepted by the church, and have quality that
             revealed divine inspiration.
         answer: D
-        print_position: 3
       - uid: THE118.1.1.2.TY.2
         subobj: 1.1.2
         type: ty
@@ -157,7 +148,6 @@ courses:
           C: Pentateuch and the prophetic literature.
           D: Pentateuch and the Psalms.
         answer: B
-        print_position: 4
       - uid: THE118.1.2.1.UPE.1
         subobj: 1.2.1
         type: upe
@@ -168,8 +158,6 @@ courses:
           C: Forty
           D: Sixty-six
         answer: C
-        print_position: 4
-        unit: 1
       - uid: THE118.1.2.1.TY.1
         subobj: 1.2.1
         type: ty
@@ -188,7 +176,6 @@ courses:
             of the Bible’s acceptance, the testimony of Jesus, and the confirmation
             of changed lives.
         answer: A
-        print_position: 5
       - uid: THE118.1.2.1.TY.2
         subobj: 1.2.1
         type: ty
@@ -200,7 +187,6 @@ courses:
             event, or thing in the New Testament.
           D: an Old Testament person who displayed similar characteristics to Christ.
         answer: C
-        print_position: 6
       - uid: THE118.1.2.1.TY.3
         subobj: 1.2.1
         type: ty
@@ -211,7 +197,6 @@ courses:
           C: '1200'
           D: '1600'
         answer: D
-        print_position: 7
       - uid: THE118.1.3.1.UPE.1
         subobj: 1.3.1
         type: upe
@@ -222,8 +207,6 @@ courses:
           C: is incapable of containing mistakes.
           D: does not contain mistakes.
         answer: C
-        print_position: 5
-        unit: 1
       - uid: THE118.1.3.1.TY.1
         subobj: 1.3.1
         type: ty
@@ -235,7 +218,6 @@ courses:
           C: revelation .
           D: application .
         answer: A
-        print_position: 8
       - uid: THE118.1.3.1.TY.2
         subobj: 1.3.1
         type: ty
@@ -246,7 +228,6 @@ courses:
           C: is incapable of containing mistakes.
           D: does not contain mistakes.
         answer: D
-        print_position: 9
       - uid: THE118.1.3.1.TY.3
         subobj: 1.3.1
         type: ty
@@ -257,7 +238,6 @@ courses:
           C: religion, experience, human reason, and a person’s conscience.
           D: human reason / conscience, tradition, culture, and the Bible.
         answer: B
-        print_position: 10
       - uid: THE118.2.1.1.UPE.1
         subobj: 2.1.1
         type: upe
@@ -268,8 +248,6 @@ courses:
           C: polytheists.
           D: deists.
         answer: A
-        print_position: 6
-        unit: 1
       - uid: THE118.2.1.1.TY.1
         subobj: 2.1.1
         type: ty
@@ -281,7 +259,6 @@ courses:
           C: polytheists.
           D: deists.
         answer: B
-        print_position: 1
       - uid: THE118.2.1.1.TY.2
         subobj: 2.1.1
         type: ty
@@ -293,7 +270,6 @@ courses:
           C: polytheists.
           D: deists.
         answer: D
-        print_position: 2
       - uid: THE118.2.1.2.UPE.1
         subobj: 2.1.2
         type: upe
@@ -305,8 +281,6 @@ courses:
           C: self-existent.
           D: unchanging.
         answer: C
-        print_position: 7
-        unit: 1
       - uid: THE118.2.1.2.TY.1
         subobj: 2.1.2
         type: ty
@@ -317,7 +291,6 @@ courses:
           C: He is unable to reveal himself in physical body.
           D: the Bible does not mention God having hands, feet, or eyes.
         answer: B
-        print_position: 3
       - uid: THE118.2.1.2.TY.2
         subobj: 2.1.2
         type: ty
@@ -329,7 +302,6 @@ courses:
           D: God does not need the worship and service of believers, but He does desire
             it.
         answer: D
-        print_position: 4
       - uid: THE118.2.2.1.UPE.1
         subobj: 2.2.1
         type: upe
@@ -341,8 +313,6 @@ courses:
           C: Teleological
           D: Moral
         answer: C
-        print_position: 8
-        unit: 1
       - uid: THE118.2.2.1.UPE.2
         subobj: 2.2.1
         type: upe
@@ -353,8 +323,6 @@ courses:
           C: eternal.
           D: all-powerful.
         answer: D
-        print_position: 9
-        unit: 1
       - uid: THE118.2.2.1.TY.1
         subobj: 2.2.1
         type: ty
@@ -367,7 +335,6 @@ courses:
           C: Teleological
           D: Moral
         answer: B
-        print_position: 5
       - uid: THE118.2.2.1.TY.2
         subobj: 2.2.1
         type: ty
@@ -379,7 +346,6 @@ courses:
           C: omniscient.
           D: eternal.
         answer: A
-        print_position: 6
       - uid: THE118.2.2.1.TY.3
         subobj: 2.2.1
         type: ty
@@ -390,7 +356,6 @@ courses:
           C: omniscient.
           D: eternal.
         answer: B
-        print_position: 7
       - uid: THE118.2.2.2.UPE.1
         subobj: 2.2.2
         type: upe
@@ -401,8 +366,6 @@ courses:
           C: omnipotent.
           D: good.
         answer: D
-        print_position: 10
-        unit: 1
       - uid: THE118.2.2.2.UPE.2
         subobj: 2.2.2
         type: upe
@@ -413,8 +376,6 @@ courses:
           C: omnipotent.
           D: good.
         answer: B
-        print_position: 11
-        unit: 1
       - uid: THE118.2.2.2.TY.1
         subobj: 2.2.2
         type: ty
@@ -425,7 +386,6 @@ courses:
           C: omnipotent.
           D: good.
         answer: B
-        print_position: 8
       - uid: THE118.2.3.1.UPE.1
         subobj: 2.3.1
         type: upe
@@ -436,8 +396,6 @@ courses:
           C: three separate Gods.
           D: there are three different aspects of one God.
         answer: B
-        print_position: 12
-        unit: 1
       - uid: THE118.2.3.1.UPE.2
         subobj: 2.3.1
         type: upe
@@ -449,8 +407,6 @@ courses:
           C: sabellianism.
           D: monotheism.
         answer: B
-        print_position: 13
-        unit: 1
       - uid: THE118.2.3.1.TY.1
         subobj: 2.3.1
         type: ty
@@ -462,7 +418,6 @@ courses:
           C: sabellianism.
           D: monotheism.
         answer: B
-        print_position: 9
       - uid: THE118.2.3.2.UPE.1
         subobj: 2.3.2
         type: upe
@@ -474,8 +429,6 @@ courses:
           C: Thirty-three
           D: Fifty-six
         answer: A
-        print_position: 14
-        unit: 1
       - uid: THE118.2.3.2.UPE.2
         subobj: 2.3.2
         type: upe
@@ -487,8 +440,6 @@ courses:
           C: the Trinity.
           D: polytheism.
         answer: C
-        print_position: 15
-        unit: 1
       - uid: THE118.2.3.2.TY.1
         subobj: 2.3.2
         type: ty
@@ -499,7 +450,6 @@ courses:
           C: both the Old and New Testaments.
           D: neither the Old or New Testaments.
         answer: C
-        print_position: 10
       - uid: THE118.3.1.1.UPE.1
         subobj: 3.1.1
         type: upe
@@ -510,8 +460,6 @@ courses:
           C: omniscience.
           D: humanity.
         answer: D
-        print_position: 16
-        unit: 1
       - uid: THE118.3.1.1.TY.1
         subobj: 3.1.1
         type: ty
@@ -522,7 +470,6 @@ courses:
           C: omnipotence.
           D: incredible will-power.
         answer: A
-        print_position: 1
       - uid: THE118.3.1.2.UPE.1
         subobj: 3.1.2
         type: upe
@@ -536,8 +483,6 @@ courses:
           D: virgin birth, sinless life, miracles, claims of deity, and acceptance
             of worship.
         answer: D
-        print_position: 17
-        unit: 1
       - uid: THE118.3.1.2.TY.1
         subobj: 3.1.2
         type: ty
@@ -551,7 +496,6 @@ courses:
           D: virgin birth, sinless life, miracles, claims of deity, and acceptance
             of worship.
         answer: D
-        print_position: 2
       - uid: THE118.3.1.2.TY.2
         subobj: 3.1.2
         type: ty
@@ -562,7 +506,6 @@ courses:
           C: birth, physical body, and sinless life.
           D: virgin birth, forgiveness of sins, and physical body.
         answer: A
-        print_position: 3
       - uid: THE118.3.1.2.TY.3
         subobj: 3.1.2
         type: ty
@@ -573,7 +516,6 @@ courses:
           C: John 3:16–18
           D: Matthew 17:1–13
         answer: B
-        print_position: 4
       - uid: THE118.3.1.2.TY.4
         subobj: 3.1.2
         type: ty
@@ -584,7 +526,6 @@ courses:
           C: omniscience.
           D: humanity.
         answer: D
-        print_position: 5
       - uid: THE118.3.2.1.UPE.1
         subobj: 3.2.1
         type: upe
@@ -595,8 +536,6 @@ courses:
           C: die on the cross for the sins of mankind.
           D: teach.
         answer: C
-        print_position: 18
-        unit: 1
       - uid: THE118.3.2.1.TY.1
         subobj: 3.2.1
         type: ty
@@ -609,7 +548,6 @@ courses:
           D: the testimony of the soldiers, the changed lives of the disciples, and
             the acceptance of His resurrection among unbelievers.
         answer: A
-        print_position: 6
       - uid: THE118.3.2.1.TY.2
         subobj: 3.2.1
         type: ty
@@ -620,7 +558,6 @@ courses:
           C: Mary, the twelve, five hundred disciples, and Paul.
           D: Martha, the twelve, six hundred disciples, and Paul.
         answer: C
-        print_position: 7
       - uid: THE118.3.2.1.TY.3
         subobj: 3.2.1
         type: ty
@@ -632,7 +569,6 @@ courses:
           C: king, judge, and prophet.
           D: apostle, king, and prophet.
         answer: B
-        print_position: 8
       - uid: THE118.3.3.1.UPE.1
         subobj: 3.3.1
         type: upe
@@ -643,8 +579,6 @@ courses:
           C: privileges.
           D: death.
         answer: B
-        print_position: 19
-        unit: 1
       - uid: THE118.3.3.1.TY.1
         subobj: 3.3.1
         type: ty
@@ -655,7 +589,6 @@ courses:
           C: “only son.”
           D: “one son.”
         answer: A
-        print_position: 9
       - uid: THE118.3.3.1.TY.2
         subobj: 3.3.1
         type: ty
@@ -666,7 +599,6 @@ courses:
           C: like the Son of God.
           D: the eternal Son of God.
         answer: D
-        print_position: 10
       - uid: THE118.4.1.1.UPE.1
         subobj: 4.1.1
         type: upe
@@ -677,8 +609,6 @@ courses:
           C: “shining one.”
           D: “adversary.”
         answer: D
-        print_position: 20
-        unit: 1
       - uid: THE118.4.1.1.TY.1
         subobj: 4.1.1
         type: ty
@@ -689,7 +619,6 @@ courses:
           C: “shining one.”
           D: “adversary.”
         answer: A
-        print_position: 1
       - uid: THE118.4.1.1.TY.2
         subobj: 4.1.1
         type: ty
@@ -700,7 +629,6 @@ courses:
           C: Anger
           D: Greed
         answer: B
-        print_position: 2
       - uid: THE118.4.1.1.TY.3
         subobj: 4.1.1
         type: ty
@@ -711,7 +639,6 @@ courses:
           C: to be an enemy of God.
           D: in His own likeness.
         answer: B
-        print_position: 3
       - uid: THE118.4.1.2.UPE.1
         subobj: 4.1.2
         type: upe
@@ -722,8 +649,6 @@ courses:
           C: the blood of the Lamb and the word of their testimony.
           D: fleeing him.
         answer: C
-        print_position: 21
-        unit: 1
       - uid: THE118.4.1.2.TY.1
         subobj: 4.1.2
         type: ty
@@ -734,7 +659,6 @@ courses:
           C: fleeing him.
           D: putting on the full armor of God.
         answer: D
-        print_position: 4
       - uid: THE118.4.2.1.UPE.1
         subobj: 4.2.1
         type: upe
@@ -745,8 +669,6 @@ courses:
           C: are little gods.
           D: are similar to the angels of heaven.
         answer: A
-        print_position: 22
-        unit: 1
       - uid: THE118.4.2.1.TY.1
         subobj: 4.2.1
         type: ty
@@ -757,7 +679,6 @@ courses:
           C: physical likeness, emotions, intellect, and a spirit.
           D: natural likeness, moral likeness, emotions, and the same status as God.
         answer: B
-        print_position: 5
       - uid: THE118.4.2.1.TY.2
         subobj: 4.2.1
         type: ty
@@ -768,7 +689,6 @@ courses:
           C: have neither moral likeness or natural likeness to God.
           D: do not have a spirit, but do have a natural likeness to God.
         answer: C
-        print_position: 7
       - uid: THE118.4.2.2.UPE.1
         subobj: 4.2.2
         type: upe
@@ -779,8 +699,6 @@ courses:
           C: not changed.
           D: been eliminated.
         answer: C
-        print_position: 23
-        unit: 1
       - uid: THE118.4.2.2.TY.1
         subobj: 4.2.2
         type: ty
@@ -792,7 +710,6 @@ courses:
           C: Fallen
           D: Solidarity
         answer: D
-        print_position: 6
       - uid: THE118.4.3.1.UPE.1
         subobj: 4.3.1
         type: upe
@@ -803,8 +720,6 @@ courses:
           C: eat any fruit from the trees in the garden.
           D: eat fruit from the tree of life.
         answer: A
-        print_position: 24
-        unit: 1
       - uid: THE118.4.3.1.TY.1
         subobj: 4.3.1
         type: ty
@@ -815,7 +730,6 @@ courses:
           C: “delinquent.”
           D: “flawed.”
         answer: B
-        print_position: 8
       - uid: THE118.4.3.1.TY.2
         subobj: 4.3.1
         type: ty
@@ -826,7 +740,6 @@ courses:
           C: holiness.
           D: trustworthiness and goodness.
         answer: D
-        print_position: 9
       - uid: THE118.4.3.2.UPE.1
         subobj: 4.3.2
         type: upe
@@ -837,8 +750,6 @@ courses:
           C: the Law.
           D: works.
         answer: B
-        print_position: 25
-        unit: 1
       - uid: THE118.4.3.2.TY.1
         subobj: 4.3.2
         type: ty
@@ -849,7 +760,6 @@ courses:
           C: both a physical and a spiritual death.
           D: neither physical nor spiritual, but is merely symbolic.
         answer: C
-        print_position: 10
       - uid: THE118.5.1.1.UPE.1
         subobj: 5.1.1
         type: upe
@@ -860,8 +770,6 @@ courses:
           C: “the Lord our helper.”
           D: “the Lord saves.”
         answer: B
-        print_position: 1
-        unit: 2
       - uid: THE118.5.1.1.UPE.2
         subobj: 5.1.1
         type: upe
@@ -873,8 +781,6 @@ courses:
           C: To show people how to be holy
           D: To destroy Satan
         answer: B
-        print_position: 2
-        unit: 2
       - uid: THE118.5.1.1.TY.1
         subobj: 5.1.1
         type: ty
@@ -886,7 +792,6 @@ courses:
           C: To show people how to be holy
           D: To destroy Satan
         answer: B
-        print_position: 1
       - uid: THE118.5.1.1.TY.2
         subobj: 5.1.1
         type: ty
@@ -897,7 +802,6 @@ courses:
           C: “the Lord our helper.”
           D: “the Lord saves.”
         answer: D
-        print_position: 2
       - uid: THE118.5.1.2.UPE.1
         subobj: 5.1.2
         type: upe
@@ -908,8 +812,6 @@ courses:
           C: blood Jesus would later shed.
           D: observance of the law.
         answer: C
-        print_position: 3
-        unit: 2
       - uid: THE118.5.1.2.TY.1
         subobj: 5.1.2
         type: ty
@@ -920,7 +822,6 @@ courses:
           C: Sanctification
           D: Redemption
         answer: A
-        print_position: 3
       - uid: THE118.5.2.1.UPE.1
         subobj: 5.2.1
         type: upe
@@ -931,8 +832,6 @@ courses:
           C: His great love.
           D: their repentance.
         answer: A
-        print_position: 4
-        unit: 2
       - uid: THE118.5.2.1.UPE.2
         subobj: 5.2.1
         type: upe
@@ -944,8 +843,6 @@ courses:
           C: Regeneration
           D: Justification
         answer: A
-        print_position: 5
-        unit: 2
       - uid: THE118.5.2.1.TY.1
         subobj: 5.2.1
         type: ty
@@ -956,7 +853,6 @@ courses:
           C: sin itself.
           D: the earthly consequences their sin has caused.
         answer: B
-        print_position: 4
       - uid: THE118.5.2.1.TY.2
         subobj: 5.2.1
         type: ty
@@ -968,7 +864,6 @@ courses:
           C: Regeneration
           D: Justification
         answer: C
-        print_position: 5
       - uid: THE118.5.2.1.TY.3
         subobj: 5.2.1
         type: ty
@@ -980,7 +875,6 @@ courses:
           C: justification.
           D: regeneration.
         answer: B
-        print_position: 6
       - uid: THE118.5.3.1.UPE.1
         subobj: 5.3.1
         type: upe
@@ -991,8 +885,6 @@ courses:
           C: and observance of the sacraments.
           D: and water baptism.
         answer: A
-        print_position: 6
-        unit: 2
       - uid: THE118.5.3.1.TY.1
         subobj: 5.3.1
         type: ty
@@ -1004,7 +896,6 @@ courses:
           C: Justification
           D: Regeneration
         answer: B
-        print_position: 7
       - uid: THE118.5.3.2.TY.1
         subobj: 5.3.2
         type: ty
@@ -1016,7 +907,6 @@ courses:
             life
           D: The experience of a great inner joy
         answer: C
-        print_position: 9
       - uid: THE118.5.3.3.UPE.1
         subobj: 5.3.3
         type: upe
@@ -1028,8 +918,6 @@ courses:
           C: Luther
           D: Calvin
         answer: A
-        print_position: 7
-        unit: 2
       - uid: THE118.5.3.3.UPE.2
         subobj: 5.3.3
         type: upe
@@ -1041,8 +929,6 @@ courses:
           C: God’s sovereignty and a person’s free will.
           D: fate.
         answer: C
-        print_position: 8
-        unit: 2
       - uid: THE118.5.3.3.TY.1
         subobj: 5.3.3
         type: ty
@@ -1054,7 +940,6 @@ courses:
           C: Zwingli
           D: Luther
         answer: B
-        print_position: 8
       - uid: THE118.5.3.3.TY.2
         subobj: 5.3.3
         type: ty
@@ -1066,7 +951,6 @@ courses:
           C: God’s sovereignty and a person’s free will.
           D: fate.
         answer: C
-        print_position: 10
       - uid: THE118.6.1.1.UPE.1
         subobj: 6.1.1
         type: upe
@@ -1077,8 +961,6 @@ courses:
           C: “symbolic practice draws one closer to God, but is optional.”
           D: “symbolic practice ordained by God, but is not a means of salvation.”
         answer: D
-        print_position: 9
-        unit: 2
       - uid: THE118.6.1.1.UPE.2
         subobj: 6.1.1
         type: upe
@@ -1089,8 +971,6 @@ courses:
           C: “symbolic practice that draws one closer to God, but is optional.”
           D: “symbolic practice ordained by God, but is not a means of salvation.”
         answer: A
-        print_position: 10
-        unit: 2
       - uid: THE118.6.1.1.TY.1
         subobj: 6.1.1
         type: ty
@@ -1101,7 +981,6 @@ courses:
           C: regular worship attendance and communion.
           D: regular worship attendance and water baptism.
         answer: B
-        print_position: 1
       - uid: THE118.6.1.1.TY.2
         subobj: 6.1.1
         type: ty
@@ -1112,7 +991,6 @@ courses:
           C: “symbolic practice that draws one closer to God, but is optional.”
           D: “symbolic practice ordained by God, but is not a means of salvation.”
         answer: A
-        print_position: 2
       - uid: THE118.6.1.1.TY.3
         subobj: 6.1.1
         type: ty
@@ -1123,7 +1001,6 @@ courses:
           C: life, death, and resurrection.
           D: resurrection.
         answer: C
-        print_position: 3
       - uid: THE118.6.1.1.TY.4
         subobj: 6.1.1
         type: ty
@@ -1135,7 +1012,6 @@ courses:
           C: when they are teenagers.
           D: after an individual has made a decision for Christ.
         answer: D
-        print_position: 4
       - uid: THE118.6.1.1.TY.5
         subobj: 6.1.1
         type: ty
@@ -1146,7 +1022,6 @@ courses:
           C: necessary to be saved.
           D: a means of God’s grace.
         answer: B
-        print_position: 6
       - uid: THE118.6.1.2.UPE.1
         subobj: 6.1.2
         type: upe
@@ -1157,8 +1032,6 @@ courses:
           C: immersion.
           D: both sprinkling and immersion.
         answer: C
-        print_position: 11
-        unit: 2
       - uid: THE118.6.1.2.TY.1
         subobj: 6.1.2
         type: ty
@@ -1170,7 +1043,6 @@ courses:
           C: the Holy Spirit.
           D: the Father, Son, and Holy Spirit.
         answer: D
-        print_position: 5
       - uid: THE118.6.1.2.TY.2
         subobj: 6.1.2
         type: ty
@@ -1181,7 +1053,6 @@ courses:
           C: “to pour.”
           D: “to drench.”
         answer: A
-        print_position: 7
       - uid: THE118.6.2.1.TY.1
         subobj: 6.2.1
         type: ty
@@ -1193,7 +1064,6 @@ courses:
           C: are emblems that represent the body and blood of Jesus.
           D: have no symbolic meaning.
         answer: C
-        print_position: 8
       - uid: THE118.6.2.2.UPE.1
         subobj: 6.2.2
         type: upe
@@ -1204,8 +1074,6 @@ courses:
           C: future, pointing to Christ’s second coming.
           D: past, present, and future.
         answer: D
-        print_position: 12
-        unit: 2
       - uid: THE118.6.2.2.TY.1
         subobj: 6.2.2
         type: ty
@@ -1216,7 +1084,6 @@ courses:
           C: future, pointing to Christ’s second coming.
           D: past, present, and future.
         answer: D
-        print_position: 9
       - uid: THE118.6.2.3.UPE.1
         subobj: 6.2.3
         type: upe
@@ -1227,8 +1094,6 @@ courses:
           C: having a divisive attitude and casual dress.
           D: observing communion too frequently.
         answer: A
-        print_position: 13
-        unit: 2
       - uid: THE118.6.2.3.TY.1
         subobj: 6.2.3
         type: ty
@@ -1240,7 +1105,6 @@ courses:
           C: loss of salvation and death.
           D: sickness and excommunication.
         answer: B
-        print_position: 10
       - uid: THE118.7.1.1.UPE.1
         subobj: 7.1.1
         type: upe
@@ -1251,8 +1115,6 @@ courses:
           C: He is not all-powerful.
           D: He has a physical body.
         answer: B
-        print_position: 14
-        unit: 2
       - uid: THE118.7.1.1.UPE.2
         subobj: 7.1.1
         type: upe
@@ -1263,8 +1125,6 @@ courses:
           C: kings and prophets.
           D: godly leaders and prophets.
         answer: B
-        print_position: 15
-        unit: 2
       - uid: THE118.7.1.1.TY.1
         subobj: 7.1.1
         type: ty
@@ -1276,7 +1136,6 @@ courses:
           C: filled, poured out, receive, and came on.
           D: surrounded, came on, receive, and saturated.
         answer: C
-        print_position: 1
       - uid: THE118.7.1.1.TY.2
         subobj: 7.1.1
         type: ty
@@ -1287,7 +1146,6 @@ courses:
           C: “spirit.”
           D: “holy.”
         answer: C
-        print_position: 2
       - uid: THE118.7.1.1.TY.3
         subobj: 7.1.1
         type: ty
@@ -1298,7 +1156,6 @@ courses:
           C: He is not all-powerful.
           D: He has a physical body.
         answer: B
-        print_position: 3
       - uid: THE118.7.1.1.TY.4
         subobj: 7.1.1
         type: ty
@@ -1309,7 +1166,6 @@ courses:
           C: “warrior.”
           D: “a dove” or “gentle presence.”
         answer: A
-        print_position: 4
       - uid: THE118.7.1.1.TY.5
         subobj: 7.1.1
         type: ty
@@ -1321,7 +1177,6 @@ courses:
           C: church leaders and those in a position of authority.
           D: all Jewish believers.
         answer: A
-        print_position: 5
       - uid: THE118.7.1.1.TY.6
         subobj: 7.1.1
         type: ty
@@ -1333,7 +1188,6 @@ courses:
           C: future fire of judgment, as well as purification in the life of the believer.
           D: excitement and supernatural power.
         answer: C
-        print_position: 6
       - uid: THE118.7.1.2.UPE.1
         subobj: 7.1.2
         type: upe
@@ -1344,8 +1198,6 @@ courses:
           C: is necessary to be saved.
           D: is a separate experience following salvation.
         answer: D
-        print_position: 16
-        unit: 2
       - uid: THE118.7.1.2.UPE.2
         subobj: 7.1.2
         type: upe
@@ -1357,8 +1209,6 @@ courses:
           C: '2:4'
           D: '2:39'
         answer: B
-        print_position: 17
-        unit: 2
       - uid: THE118.7.2.1.UPE.1
         subobj: 7.2.1
         type: upe
@@ -1370,8 +1220,6 @@ courses:
           C: Fire with a sound of a mighty wind
           D: An inward burning signifying the Spirit’s presence
         answer: B
-        print_position: 18
-        unit: 2
       - uid: THE118.7.2.1.UPE.2
         subobj: 7.2.1
         type: upe
@@ -1383,8 +1231,6 @@ courses:
           C: all fell prostrate in the presence of God.
           D: heard them speaking in other tongues.
         answer: D
-        print_position: 19
-        unit: 2
       - uid: THE118.7.2.1.UPE.3
         subobj: 7.2.1
         type: upe
@@ -1397,8 +1243,6 @@ courses:
             growth.
           D: is for praying in public for spiritual growth.
         answer: C
-        print_position: 20
-        unit: 2
       - uid: THE118.7.2.1.TY.1
         subobj: 7.2.1
         type: ty
@@ -1410,7 +1254,6 @@ courses:
           C: speaking in other tongues.
           D: prophecy.
         answer: C
-        print_position: 7
       - uid: THE118.7.2.1.TY.2
         subobj: 7.2.1
         type: ty
@@ -1422,7 +1265,6 @@ courses:
           C: spoke in other tongues.
           D: danced before the Lord.
         answer: A
-        print_position: 8
       - uid: THE118.7.2.2.UPE.1
         subobj: 7.2.2
         type: upe
@@ -1433,8 +1275,6 @@ courses:
           C: unbelievers.
           D: the person speaking in tongues.
         answer: D
-        print_position: 21
-        unit: 2
       - uid: THE118.7.3.1.UPE.1
         subobj: 7.3.1
         type: upe
@@ -1446,8 +1286,6 @@ courses:
           C: for occasional use, when one has a message in tongues for the church.
           D: for those who are mature in Christ.
         answer: B
-        print_position: 22
-        unit: 2
       - uid: THE118.7.3.1.TY.1
         subobj: 7.3.1
         type: ty
@@ -1459,7 +1297,6 @@ courses:
           D: seek God in prayer and wait for the Holy Spirit to take control of their
             speech.
         answer: C
-        print_position: 9
       - uid: THE118.7.3.2.TY.1
         subobj: 7.3.2
         type: ty
@@ -1470,7 +1307,6 @@ courses:
           C: unbelievers.
           D: the person speaking in tongues.
         answer: D
-        print_position: 10
       - uid: THE118.8.1.1.UPE.1
         subobj: 8.1.1
         type: upe
@@ -1482,8 +1318,6 @@ courses:
           C: sanctify.
           D: justify.
         answer: C
-        print_position: 23
-        unit: 2
       - uid: THE118.8.1.1.TY.1
         subobj: 8.1.1
         type: ty
@@ -1494,7 +1328,6 @@ courses:
           C: pure .
           D: justify .
         answer: A
-        print_position: 1
       - uid: THE118.8.1.1.TY.2
         subobj: 8.1.1
         type: ty
@@ -1505,7 +1338,6 @@ courses:
           C: from this world.
           D: from evil or common use and devotion to God and His purposes.
         answer: D
-        print_position: 2
       - uid: THE118.8.1.1.TY.3
         subobj: 8.1.1
         type: ty
@@ -1516,7 +1348,6 @@ courses:
           C: regeneration.
           D: redemption.
         answer: B
-        print_position: 3
       - uid: THE118.8.1.2.UPE.1
         subobj: 8.1.2
         type: upe
@@ -1527,8 +1358,6 @@ courses:
           C: “holy one.”
           D: “anointed one.”
         answer: C
-        print_position: 24
-        unit: 2
       - uid: THE118.8.1.2.TY.1
         subobj: 8.1.2
         type: ty
@@ -1539,7 +1368,6 @@ courses:
           C: “holy one.”
           D: “anointed one.”
         answer: C
-        print_position: 4
       - uid: THE118.8.1.2.TY.2
         subobj: 8.1.2
         type: ty
@@ -1550,7 +1378,6 @@ courses:
           C: divine law.
           D: moral norms of a culture.
         answer: A
-        print_position: 5
       - uid: THE118.8.2.1.TY.1
         subobj: 8.2.1
         type: ty
@@ -1561,7 +1388,6 @@ courses:
           C: regeneration.
           D: redemption.
         answer: B
-        print_position: 6
       - uid: THE118.8.2.1.TY.2
         subobj: 8.2.1
         type: ty
@@ -1583,7 +1409,6 @@ courses:
           C: aorist.
           D: imperfect.
         answer: A
-        print_position: 8
       - uid: THE118.8.2.2.UPE.1
         subobj: 8.2.2
         type: upe
@@ -1594,8 +1419,6 @@ courses:
           C: cooperative effort between God and believers.
           D: the work of the church.
         answer: C
-        print_position: 25
-        unit: 2
       - uid: THE118.8.2.2.TY.1
         subobj: 8.2.2
         type: ty
@@ -1617,7 +1440,6 @@ courses:
           C: living according to the Law.
           D: modeling the behavior of other believers.
         answer: A
-        print_position: 10
       - uid: THE118.9.1.1.UPE.1
         subobj: 9.1.1
         type: upe
@@ -1628,8 +1450,6 @@ courses:
           C: be a member of a local church.
           D: be baptized in water.
         answer: B
-        print_position: 1
-        unit: 3
       - uid: THE118.9.1.1.TY.1
         subobj: 9.1.1
         type: ty
@@ -1640,7 +1460,6 @@ courses:
           C: “called out ones.”
           D: “belonging to the Lord.”
         answer: D
-        print_position: 1
       - uid: THE118.9.1.1.TY.2
         subobj: 9.1.1
         type: ty
@@ -1652,7 +1471,6 @@ courses:
           C: the local church building and to describe all that have been born again.
           D: the local church members and the local church building.
         answer: B
-        print_position: 2
       - uid: THE118.9.1.2.TY.1
         subobj: 9.1.2
         type: ty
@@ -1663,7 +1481,6 @@ courses:
           C: The day Jesus ascended into heaven
           D: At the beginning of Christ’s ministry
         answer: A
-        print_position: 3
       - uid: THE118.9.1.2.TY.2
         subobj: 9.1.2
         type: ty
@@ -1674,7 +1491,6 @@ courses:
           C: brothers and saints.
           D: members and servants.
         answer: C
-        print_position: 4
       - uid: THE118.9.2.1.UPE.1
         subobj: 9.2.1
         type: upe
@@ -1685,8 +1501,6 @@ courses:
           C: body.
           D: friend.
         answer: C
-        print_position: 2
-        unit: 3
       - uid: THE118.9.2.1.TY.1
         subobj: 9.2.1
         type: ty
@@ -1697,7 +1511,6 @@ courses:
           C: bride.
           D: rock.
         answer: C
-        print_position: 5
       - uid: THE118.9.2.1.TY.2
         subobj: 9.2.1
         type: ty
@@ -1708,7 +1521,6 @@ courses:
           C: with care.
           D: a valuable treasure.
         answer: B
-        print_position: 6
       - uid: THE118.9.3.1.UPE.1
         subobj: 9.3.1
         type: upe
@@ -1719,8 +1531,6 @@ courses:
           C: John 14:28
           D: Mark 13:26
         answer: B
-        print_position: 3
-        unit: 3
       - uid: THE118.9.3.1.UPE.2
         subobj: 9.3.1
         type: upe
@@ -1731,8 +1541,6 @@ courses:
           C: “draw large crowds.”
           D: “go door-to-door telling people about one’s church.”
         answer: A
-        print_position: 4
-        unit: 3
       - uid: THE118.9.3.1.TY.1
         subobj: 9.3.1
         type: ty
@@ -1743,7 +1551,6 @@ courses:
           C: “draw large crowds.”
           D: “go door-to-door telling people about one’s church.”
         answer: A
-        print_position: 7
       - uid: THE118.9.3.1.TY.2
         subobj: 9.3.1
         type: ty
@@ -1754,7 +1561,6 @@ courses:
           C: disciples.
           D: local church members.
         answer: C
-        print_position: 8
       - uid: THE118.9.3.2.UPE.1
         subobj: 9.3.2
         type: upe
@@ -1767,8 +1573,6 @@ courses:
             sin.
           D: condemning sin, teaching, prayer, and encouraging others.
         answer: A
-        print_position: 5
-        unit: 3
       - uid: THE118.9.3.2.TY.1
         subobj: 9.3.2
         type: ty
@@ -1781,7 +1585,6 @@ courses:
           D: fulfill the Great Commission, worship God, edify believers, and demonstrate
             God’s love and compassion.
         answer: D
-        print_position: 9
       - uid: THE118.9.3.2.TY.2
         subobj: 9.3.2
         type: ty
@@ -1794,7 +1597,6 @@ courses:
             sin.
           D: condemning sin, teaching, prayer, and encouraging others.
         answer: A
-        print_position: 10
       - uid: THE118.10.1.1.UPE.1
         subobj: 10.1.1
         type: upe
@@ -1806,8 +1608,6 @@ courses:
           C: Those called to full-time service
           D: All believers
         answer: D
-        print_position: 6
-        unit: 3
       - uid: THE118.10.1.1.TY.1
         subobj: 10.1.1
         type: ty
@@ -1818,7 +1618,6 @@ courses:
           C: “to lead.”
           D: “to preach.”
         answer: B
-        print_position: 1
       - uid: THE118.10.1.1.TY.2
         subobj: 10.1.1
         type: ty
@@ -1831,7 +1630,6 @@ courses:
           C: all believers have access to the presence of God.
           D: all believers have been cleansed and washed by the blood of Jesus.
         answer: A
-        print_position: 2
       - uid: THE118.10.1.1.TY.3
         subobj: 10.1.1
         type: ty
@@ -1842,7 +1640,6 @@ courses:
           C: God.
           D: the local pastor.
         answer: C
-        print_position: 3
       - uid: THE118.10.1.2.UPE.1
         subobj: 10.1.2
         type: upe
@@ -1853,8 +1650,6 @@ courses:
           C: Charisma
           D: People skills
         answer: B
-        print_position: 7
-        unit: 3
       - uid: THE118.10.1.2.TY.1
         subobj: 10.1.2
         type: ty
@@ -1865,7 +1660,6 @@ courses:
           C: Charisma.
           D: People skills.
         answer: B
-        print_position: 4
       - uid: THE118.10.1.2.TY.2
         subobj: 10.1.2
         type: ty
@@ -1876,7 +1670,6 @@ courses:
           C: our ministry accomplishments.
           D: our investment in eternity.
         answer: D
-        print_position: 5
       - uid: THE118.10.2.1.UPE.1
         subobj: 10.2.1
         type: upe
@@ -1887,8 +1680,6 @@ courses:
           C: a community.
           D: an assembly.
         answer: A
-        print_position: 8
-        unit: 3
       - uid: THE118.10.2.1.TY.1
         subobj: 10.2.1
         type: ty
@@ -1899,7 +1690,6 @@ courses:
           C: a community.
           D: an assembly.
         answer: A
-        print_position: 6
       - uid: THE118.10.2.1.TY.2
         subobj: 10.2.1
         type: ty
@@ -1911,7 +1701,6 @@ courses:
           C: The Holy Spirit
           D: Church board
         answer: C
-        print_position: 7
       - uid: THE118.10.2.2.UPE.1
         subobj: 10.2.2
         type: upe
@@ -1922,8 +1711,6 @@ courses:
           C: explain the truth of God’s Word.
           D: strengthen and encourage the church.
         answer: C
-        print_position: 9
-        unit: 3
       - uid: THE118.10.2.2.TY.1
         subobj: 10.2.2
         type: ty
@@ -1934,7 +1721,6 @@ courses:
           C: identify sin in the church.
           D: strengthen and encourage the church.
         answer: D
-        print_position: 8
       - uid: THE118.10.3.1.TY.1
         subobj: 10.3.1
         type: ty
@@ -1945,7 +1731,6 @@ courses:
           C: physical fitness, time management, and worship.
           D: evangelism, worship, and faith.
         answer: D
-        print_position: 9
       - uid: THE118.10.3.2.TY.1
         subobj: 10.3.2
         type: ty
@@ -1956,7 +1741,6 @@ courses:
           C: To prepare God’s people for works of service
           D: To lead and love God’s people
         answer: C
-        print_position: 10
       - uid: THE118.11.1.1.UPE.1
         subobj: 11.1.1
         type: upe
@@ -1967,8 +1751,6 @@ courses:
           C: the sin of Adam and Eve.
           D: personal sin.
         answer: C
-        print_position: 10
-        unit: 3
       - uid: THE118.11.1.1.TY.1
         subobj: 11.1.1
         type: ty
@@ -1979,7 +1761,6 @@ courses:
           C: the sin of Adam and Eve.
           D: personal sin.
         answer: C
-        print_position: 1
       - uid: THE118.11.1.2.UPE.1
         subobj: 11.1.2
         type: upe
@@ -1990,8 +1771,6 @@ courses:
           C: Timothy’s stomach illness (1 Timothy 5:23).
           D: Peter’s mother-in-law (Mark 1:29-34).
         answer: B
-        print_position: 11
-        unit: 3
       - uid: THE118.11.1.2.TY.1
         subobj: 11.1.2
         type: ty
@@ -2002,7 +1781,6 @@ courses:
           C: living in a sin-cursed world.
           D: all the above.
         answer: D
-        print_position: 2
       - uid: THE118.11.1.2.TY.2
         subobj: 11.1.2
         type: ty
@@ -2013,7 +1791,6 @@ courses:
           C: so that the glory of God might be demonstrated in his life.
           D: in order to be used as an illustration of the Pharisees’ spiritual blindness.
         answer: C
-        print_position: 3
       - uid: THE118.11.2.1.UPE.1
         subobj: 11.2.1
         type: upe
@@ -2025,8 +1802,6 @@ courses:
           C: Psalm 103:3
           D: James 5:14
         answer: C
-        print_position: 12
-        unit: 3
       - uid: THE118.11.2.1.TY.1
         subobj: 11.2.1
         type: ty
@@ -2037,7 +1812,6 @@ courses:
           C: of their good works.
           D: they live a righteous life.
         answer: A
-        print_position: 4
       - uid: THE118.11.2.1.TY.2
         subobj: 11.2.1
         type: ty
@@ -2048,7 +1822,6 @@ courses:
           C: Psalm 103:3
           D: James 5:14
         answer: B
-        print_position: 5
       - uid: THE118.11.2.2.UPE.1
         subobj: 11.2.2
         type: upe
@@ -2060,8 +1833,6 @@ courses:
           C: healing not being included with salvation.
           D: Jesus modeling the importance of praying for the sick.
         answer: A
-        print_position: 13
-        unit: 3
       - uid: THE118.11.2.2.TY.1
         subobj: 11.2.2
         type: ty
@@ -2072,7 +1843,6 @@ courses:
           C: “to heal.”
           D: “to save” or “to heal.”
         answer: D
-        print_position: 6
       - uid: THE118.11.2.2.TY.2
         subobj: 11.2.2
         type: ty
@@ -2083,7 +1853,6 @@ courses:
           C: nonexistent.
           D: discouraged.
         answer: B
-        print_position: 7
       - uid: THE118.11.3.1.UPE.1
         subobj: 11.3.1
         type: upe
@@ -2095,8 +1864,6 @@ courses:
           C: Romans 3:25.
           D: Hebrews 9:11-12.
         answer: A
-        print_position: 14
-        unit: 3
       - uid: THE118.11.3.1.TY.1
         subobj: 11.3.1
         type: ty
@@ -2107,7 +1874,6 @@ courses:
           C: the atonement.
           D: a righteous life.
         answer: C
-        print_position: 8
       - uid: THE118.11.3.2.UPE.1
         subobj: 11.3.2
         type: upe
@@ -2119,8 +1885,6 @@ courses:
           C: assume the person we are praying for lacks faith.
           D: keep on praying for people to be healed.
         answer: D
-        print_position: 15
-        unit: 3
       - uid: THE118.11.3.2.TY.1
         subobj: 11.3.2
         type: ty
@@ -2132,7 +1896,6 @@ courses:
           C: assume the person we are praying for lacks faith.
           D: keep on praying for people to be healed.
         answer: D
-        print_position: 9
       - uid: THE118.11.3.2.TY.2
         subobj: 11.3.2
         type: ty
@@ -2143,7 +1906,6 @@ courses:
           C: pray in faith.
           D: earn the right to be healed.
         answer: C
-        print_position: 10
       - uid: THE118.12.1.1.UPE.1
         subobj: 12.1.1
         type: upe
@@ -2154,8 +1916,6 @@ courses:
           C: Believers who are dead
           D: Believers that are alive, as well as those who have died
         answer: D
-        print_position: 16
-        unit: 3
       - uid: THE118.12.1.1.UPE.2
         subobj: 12.1.1
         type: upe
@@ -2166,8 +1926,6 @@ courses:
           C: over a period of seven days.
           D: with advance notice.
         answer: B
-        print_position: 17
-        unit: 3
       - uid: THE118.12.1.1.TY.1
         subobj: 12.1.1
         type: ty
@@ -2178,7 +1936,6 @@ courses:
           C: “chosen.”
           D: “without notice.”
         answer: B
-        print_position: 1
       - uid: THE118.12.1.1.TY.2
         subobj: 12.1.1
         type: ty
@@ -2189,7 +1946,6 @@ courses:
           C: Believers that have already died
           D: Believers that are still living
         answer: C
-        print_position: 2
       - uid: THE118.12.1.1.TY.3
         subobj: 12.1.1
         type: ty
@@ -2202,7 +1958,6 @@ courses:
           C: 1 Corinthians 15:53.
           D: 1 Thessalonians 4:16.
         answer: D
-        print_position: 3
       - uid: THE118.12.1.1.TY.4
         subobj: 12.1.1
         type: ty
@@ -2214,7 +1969,6 @@ courses:
           C: new, immortal bodies.
           D: a new robe.
         answer: C
-        print_position: 4
       - uid: THE118.12.1.2.UPE.1
         subobj: 12.1.2
         type: upe
@@ -2225,8 +1979,6 @@ courses:
           C: a Servant King.
           D: the Lamb of God.
         answer: A
-        print_position: 18
-        unit: 3
       - uid: THE118.12.1.2.TY.1
         subobj: 12.1.2
         type: ty
@@ -2237,7 +1989,6 @@ courses:
           C: a Servant King.
           D: the Lamb of God.
         answer: A
-        print_position: 5
       - uid: THE118.12.1.2.TY.2
         subobj: 12.1.2
         type: ty
@@ -2248,7 +1999,6 @@ courses:
           C: meet all believers on earth.
           D: meet all believers in heaven.
         answer: B
-        print_position: 6
       - uid: THE118.12.1.3.TY.1
         subobj: 12.1.3
         type: ty
@@ -2260,7 +2010,6 @@ courses:
           C: sad.
           D: worried.
         answer: B
-        print_position: 8
       - uid: THE118.12.2.1.UPE.1
         subobj: 12.2.1
         type: upe
@@ -2271,8 +2020,6 @@ courses:
           C: after the tribulation.
           D: during the millennium.
         answer: A
-        print_position: 19
-        unit: 3
       - uid: THE118.12.2.1.TY.1
         subobj: 12.2.1
         type: ty
@@ -2283,7 +2030,6 @@ courses:
           C: The Antichrist
           D: The lack of a one-world government
         answer: A
-        print_position: 7
       - uid: THE118.12.2.2.UPE.1
         subobj: 12.2.2
         type: upe
@@ -2295,8 +2041,6 @@ courses:
           C: pre-tribulation rapture.
           D: post-millennium rapture.
         answer: C
-        print_position: 20
-        unit: 3
       - uid: THE118.12.2.2.TY.1
         subobj: 12.2.2
         type: ty
@@ -2308,7 +2052,6 @@ courses:
           C: 1 Corinthians 15:53.
           D: 1 Thessalonians 5:9–10.
         answer: D
-        print_position: 9
       - uid: THE118.12.2.3.UPE.1
         subobj: 12.2.3
         type: upe
@@ -2320,8 +2063,6 @@ courses:
           C: The Angels
           D: The Father
         answer: D
-        print_position: 21
-        unit: 3
       - uid: THE118.12.2.3.TY.1
         subobj: 12.2.3
         type: ty
@@ -2333,7 +2074,6 @@ courses:
           C: certain events must be in place before Christ will return.
           D: Christ’s return is uncertain.
         answer: B
-        print_position: 10
       - uid: THE118.13.1.1.UPE.1
         subobj: 13.1.1
         type: upe
@@ -2346,8 +2086,6 @@ courses:
           D: hundred-year period where Jesus will rule on earth and establish peace
             on earth.
         answer: B
-        print_position: 22
-        unit: 3
       - uid: THE118.13.1.1.TY.1
         subobj: 13.1.1
         type: ty
@@ -2359,7 +2097,6 @@ courses:
           C: Postmillennialist
           D: Premillennialist
         answer: C
-        print_position: 1
       - uid: THE118.13.1.1.TY.2
         subobj: 13.1.1
         type: ty
@@ -2371,7 +2108,6 @@ courses:
           C: Postmillennialist
           D: Premillennialist
         answer: D
-        print_position: 2
       - uid: THE118.13.1.1.TY.3
         subobj: 13.1.1
         type: ty
@@ -2382,7 +2118,6 @@ courses:
           C: cast away into utter darkness for eternity in hell.
           D: judged along with his demons.
         answer: A
-        print_position: 3
       - uid: THE118.13.1.2.UPE.1
         subobj: 13.1.2
         type: upe
@@ -2393,8 +2128,6 @@ courses:
           C: Ezekiel
           D: Joel
         answer: C
-        print_position: 23
-        unit: 3
       - uid: THE118.13.1.2.TY.1
         subobj: 13.1.2
         type: ty
@@ -2405,7 +2138,6 @@ courses:
           C: Ezekiel
           D: Joel
         answer: C
-        print_position: 4
       - uid: THE118.13.1.2.TY.2
         subobj: 13.1.2
         type: ty
@@ -2417,7 +2149,6 @@ courses:
           D: there will still be the opportunity to sin, because Satan will be on
             the loose.
         answer: B
-        print_position: 5
       - uid: THE118.13.2.1.UPE.1
         subobj: 13.2.1
         type: upe
@@ -2428,8 +2159,6 @@ courses:
           C: rule and reign with Christ.
           D: spend eternity in paradise.
         answer: B
-        print_position: 24
-        unit: 3
       - uid: THE118.13.2.1.TY.1
         subobj: 13.2.1
         type: ty
@@ -2441,7 +2170,6 @@ courses:
           C: Purgatory
           D: Hades
         answer: A
-        print_position: 6
       - uid: THE118.13.2.1.TY.2
         subobj: 13.2.1
         type: ty
@@ -2453,7 +2181,6 @@ courses:
           C: the presence of the Lord.
           D: Hades.
         answer: C
-        print_position: 7
       - uid: THE118.13.2.1.TY.3
         subobj: 13.2.1
         type: ty
@@ -2464,7 +2191,6 @@ courses:
           C: the wicked dead after the second resurrection.
           D: believers and unbelievers before the millennium.
         answer: C
-        print_position: 8
       - uid: THE118.13.3.1.UPE.1
         subobj: 13.3.1
         type: upe
@@ -2476,8 +2202,6 @@ courses:
           C: The world will be restored to its original condition.
           D: This world will once again prosper under the leadership of Christ.
         answer: A
-        print_position: 25
-        unit: 3
       - uid: THE118.13.3.1.TY.1
         subobj: 13.3.1
         type: ty
@@ -2488,7 +2212,6 @@ courses:
           C: '1380'
           D: '1540'
         answer: C
-        print_position: 9
       - uid: THE118.13.3.1.TY.2
         subobj: 13.3.1
         type: ty
@@ -2499,7 +2222,6 @@ courses:
           C: destroy the world and spend eternity with His people in heaven.
           D: create a new heaven and earth and dwell with His people for eternity.
         answer: D
-        print_position: 10
       - uid: THE118.1.1.1.F.1
         subobj: 1.1.1
         type: final
@@ -2704,7 +2426,6 @@ courses:
         key_pdf: the211_1st_form c key desi aug 09.pdf
         matched: 19
         objectives_agree: 19
-      captured: reparse
     deployed_pn: 04.22.01
     body_baseline_pn: 04.22.01
     body_baseline_date: '2026-08-26'

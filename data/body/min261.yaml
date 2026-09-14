@@ -577,8 +577,6 @@ courses:
           C: representing the gospel across geographical and cultural boundaries.
           D: winning people in gospel-destitute areas.
         answer: C
-        print_position: 1
-        unit: 1
       - uid: MIN261.1.1.1.UPE.2
         subobj: 1.1.1
         type: upe
@@ -589,8 +587,6 @@ courses:
           C: “to teach.”
           D: “to preach.”
         answer: A
-        print_position: 2
-        unit: 1
       - uid: MIN261.1.1.1.TY.1
         subobj: 1.1.1
         type: ty
@@ -602,7 +598,6 @@ courses:
           C: work primarily in humanitarian efforts overseas.
           D: share Christ across geographical and cultural boundaries.
         answer: D
-        print_position: 1
       - uid: MIN261.1.1.1.TY.2
         subobj: 1.1.1
         type: ty
@@ -613,7 +608,6 @@ courses:
           C: a geographical area.
           D: cultural boundaries.
         answer: B
-        print_position: 2
       - uid: MIN261.1.1.2.TY.1
         subobj: 1.1.2
         type: ty
@@ -624,7 +618,6 @@ courses:
           C: make the lives of individuals more satisfactory and fulfilling.
           D: develop community.
         answer: A
-        print_position: 3
       - uid: MIN261.1.2.1.UPE.1
         subobj: 1.2.1
         type: upe
@@ -635,8 +628,6 @@ courses:
           C: to alleviate all forms of human suffering.
           D: because people are worthy of being saved.
         answer: B
-        print_position: 3
-        unit: 1
       - uid: MIN261.1.2.1.UPE.2
         subobj: 1.2.1
         type: upe
@@ -647,8 +638,6 @@ courses:
           C: an intimate knowledge of the Lord.
           D: to attempt to alleviate suffering.
         answer: C
-        print_position: 4
-        unit: 1
       - uid: MIN261.1.2.1.TY.1
         subobj: 1.2.1
         type: ty
@@ -659,7 +648,6 @@ courses:
           C: reaching of nations.
           D: geographical expansion of the Church.
         answer: B
-        print_position: 4
       - uid: MIN261.1.2.2.UPE.1
         subobj: 1.2.2
         type: upe
@@ -670,8 +658,6 @@ courses:
           C: the gifts of the Spirit manifested through us.
           D: our closeness to the Lord.
         answer: D
-        print_position: 5
-        unit: 1
       - uid: MIN261.1.2.2.TY.1
         subobj: 1.2.2
         type: ty
@@ -682,7 +668,6 @@ courses:
           C: enlighten them of the greatness and goodness of the Christ.
           D: give them wisdom.
         answer: C
-        print_position: 5
       - uid: MIN261.1.2.2.TY.2
         subobj: 1.2.2
         type: ty
@@ -694,7 +679,6 @@ courses:
           C: the Holy Spirit.
           D: the apostles.
         answer: C
-        print_position: 10
       - uid: MIN261.1.2.3.TY.1
         subobj: 1.2.3
         type: ty
@@ -705,7 +689,6 @@ courses:
           C: creative powers.
           D: knowledge of all things.
         answer: B
-        print_position: 6
       - uid: MIN261.1.2.3.TY.2
         subobj: 1.2.3
         type: ty
@@ -716,7 +699,6 @@ courses:
           C: their desperate needs.
           D: to show His power to His disciples.
         answer: C
-        print_position: 7
       - uid: MIN261.1.3.2.TY.1
         subobj: 1.3.2
         type: ty
@@ -727,7 +709,6 @@ courses:
           C: days of the prophets and the appearing of the Messiah.
           D: kings and the prophets.
         answer: A
-        print_position: 8
       - uid: MIN261.1.3.3.UPE.1
         subobj: 1.3.3
         type: upe
@@ -738,8 +719,6 @@ courses:
           C: post-apostolic age.
           D: age of the prophets.
         answer: A
-        print_position: 6
-        unit: 1
       - uid: MIN261.1.3.3.UPE.2
         subobj: 1.3.3
         type: upe
@@ -750,8 +729,6 @@ courses:
           C: the Holy Spirit.
           D: the apostles.
         answer: C
-        print_position: 7
-        unit: 1
       - uid: MIN261.1.3.3.TY.1
         subobj: 1.3.3
         type: ty
@@ -764,7 +741,6 @@ courses:
             return at any time.
           D: a definite geographical expansion of the gospel would signal His return.
         answer: C
-        print_position: 9
       - uid: MIN261.2.1.1.UPE.1
         subobj: 2.1.1
         type: upe
@@ -776,8 +752,6 @@ courses:
           C: the offspring of Eve.
           D: the sacrifice of Abel.
         answer: C
-        print_position: 8
-        unit: 1
       - uid: MIN261.2.1.1.UPE.2
         subobj: 2.1.1
         type: upe
@@ -788,8 +762,6 @@ courses:
           C: Psalms.
           D: book of Nehemiah.
         answer: C
-        print_position: 9
-        unit: 1
       - uid: MIN261.2.1.1.TY.1
         subobj: 2.1.1
         type: ty
@@ -800,7 +772,6 @@ courses:
           C: unity is the strength of the nations.
           D: the three sons of Noah were not united.
         answer: B
-        print_position: 1
       - uid: MIN261.2.1.1.TY.2
         subobj: 2.1.1
         type: ty
@@ -811,7 +782,6 @@ courses:
           C: so God could give him the promised land.
           D: intended for the welfare of all humanity.
         answer: D
-        print_position: 2
       - uid: MIN261.2.1.1.TY.3
         subobj: 2.1.1
         type: ty
@@ -822,7 +792,6 @@ courses:
           C: was not to share in the observance of the Passover with Israel.
           D: could not expect his offspring to be accepted by the nation.
         answer: B
-        print_position: 3
       - uid: MIN261.2.1.2.UPE.1
         subobj: 2.1.2
         type: upe
@@ -833,8 +802,6 @@ courses:
           C: the national worship of Israel alone.
           D: Israel being subject to God’s will.
         answer: A
-        print_position: 10
-        unit: 1
       - uid: MIN261.2.1.2.UPE.2
         subobj: 2.1.2
         type: upe
@@ -845,8 +812,6 @@ courses:
           C: Assyria.
           D: all people.
         answer: D
-        print_position: 11
-        unit: 1
       - uid: MIN261.2.1.2.TY.1
         subobj: 2.1.2
         type: ty
@@ -858,7 +823,6 @@ courses:
           C: book of Job.
           D: Song of Solomon.
         answer: A
-        print_position: 4
       - uid: MIN261.2.1.2.TY.2
         subobj: 2.1.2
         type: ty
@@ -870,7 +834,6 @@ courses:
             world.
           D: God’s covenant with Abraham.
         answer: C
-        print_position: 5
       - uid: MIN261.2.1.3.UPE.1
         subobj: 2.1.3
         type: upe
@@ -881,8 +844,6 @@ courses:
           C: Isaiah.
           D: Jeremiah.
         answer: C
-        print_position: 12
-        unit: 1
       - uid: MIN261.2.1.3.UPE.2
         subobj: 2.1.3
         type: upe
@@ -893,8 +854,6 @@ courses:
           C: prophet.
           D: judge.
         answer: A
-        print_position: 13
-        unit: 1
       - uid: MIN261.2.1.3.UPE.3
         subobj: 2.1.3
         type: upe
@@ -905,8 +864,6 @@ courses:
           C: Israel and the Messiah.
           D: the Church.
         answer: C
-        print_position: 14
-        unit: 1
       - uid: MIN261.2.1.3.TY.1
         subobj: 2.1.3
         type: ty
@@ -917,7 +874,6 @@ courses:
           C: second part of the book of Isaiah.
           D: second chapter of the book of Joel.
         answer: C
-        print_position: 6
       - uid: MIN261.2.2.1.UPE.1
         subobj: 2.2.1
         type: upe
@@ -928,8 +884,6 @@ courses:
           C: pastors.
           D: missionaries.
         answer: D
-        print_position: 15
-        unit: 1
       - uid: MIN261.2.2.1.UPE.2
         subobj: 2.2.1
         type: upe
@@ -940,8 +894,6 @@ courses:
           C: story of the resurrection.
           D: story of the ascension.
         answer: B
-        print_position: 16
-        unit: 1
       - uid: MIN261.2.2.1.UPE.3
         subobj: 2.2.1
         type: upe
@@ -952,8 +904,6 @@ courses:
           C: Christ’s conflicts with the Jewish leaders.
           D: the call of the disciples.
         answer: B
-        print_position: 17
-        unit: 1
       - uid: MIN261.2.2.1.TY.1
         subobj: 2.2.1
         type: ty
@@ -964,7 +914,6 @@ courses:
           C: missionaries.
           D: people who had walked with the Lord.
         answer: C
-        print_position: 7
       - uid: MIN261.2.2.1.TY.2
         subobj: 2.2.1
         type: ty
@@ -975,7 +924,6 @@ courses:
           C: Matthew.
           D: Mark.
         answer: A
-        print_position: 8
       - uid: MIN261.2.2.3.UPE.1
         subobj: 2.2.3
         type: upe
@@ -986,8 +934,6 @@ courses:
           C: take the gospel to the Gentiles.
           D: abolish Jewish customs.
         answer: C
-        print_position: 18
-        unit: 1
       - uid: MIN261.2.2.3.TY.1
         subobj: 2.2.3
         type: ty
@@ -998,7 +944,6 @@ courses:
           C: take the gospel to the Gentiles.
           D: abolish Jewish customs.
         answer: C
-        print_position: 9
       - uid: MIN261.2.2.4.TY.1
         subobj: 2.2.4
         type: ty
@@ -1009,7 +954,6 @@ courses:
           C: struggle between good and evil.
           D: fall of the Antichrist.
         answer: B
-        print_position: 10
       - uid: MIN261.3.1.1.UPE.1
         subobj: 3.1.1
         type: upe
@@ -1020,8 +964,6 @@ courses:
           C: unconscious and taken for granted.
           D: the manifestation of the behavior of a culture.
         answer: C
-        print_position: 19
-        unit: 1
       - uid: MIN261.3.1.1.UPE.2
         subobj: 3.1.1
         type: upe
@@ -1032,8 +974,6 @@ courses:
           C: gospel is communicated by means of human culture.
           D: culture must change.
         answer: C
-        print_position: 20
-        unit: 1
       - uid: MIN261.3.1.1.UPE.3
         subobj: 3.1.1
         type: upe
@@ -1044,8 +984,6 @@ courses:
           C: only in rare occasions simple.
           D: essentially the same across cultures.
         answer: A
-        print_position: 22
-        unit: 1
       - uid: MIN261.3.1.1.TY.1
         subobj: 3.1.1
         type: ty
@@ -1056,7 +994,6 @@ courses:
           C: often examined by the people of a particular culture.
           D: sophisticated assumptions about reality.
         answer: B
-        print_position: 1
       - uid: MIN261.3.1.1.TY.2
         subobj: 3.1.1
         type: ty
@@ -1067,7 +1004,6 @@ courses:
           C: people thought the miracle came from Zeus and Hermes.
           D: city clerk called for an assembly.
         answer: C
-        print_position: 2
       - uid: MIN261.3.1.1.TY.3
         subobj: 3.1.1
         type: ty
@@ -1079,7 +1015,6 @@ courses:
           C: synchronism.
           D: revelation.
         answer: B
-        print_position: 3
       - uid: MIN261.3.1.1.TY.4
         subobj: 3.1.1
         type: ty
@@ -1091,7 +1026,6 @@ courses:
           C: observance of Jewish customs was left up to the Gentile leaders.
           D: Jewish customs were condemned.
         answer: B
-        print_position: 4
       - uid: MIN261.3.1.1.TY.5
         subobj: 3.1.1
         type: ty
@@ -1103,7 +1037,6 @@ courses:
             the cultures of the world.
           D: the truth that all cultural symbols are wholesome.
         answer: C
-        print_position: 5
       - uid: MIN261.3.1.1.TY.6
         subobj: 3.1.1
         type: ty
@@ -1114,7 +1047,6 @@ courses:
           C: hostile to western philosophies.
           D: not in conformity to a secular worldview.
         answer: B
-        print_position: 6
       - uid: MIN261.3.1.1.TY.7
         subobj: 3.1.1
         type: ty
@@ -1125,7 +1057,6 @@ courses:
           C: turns a culture in a different direction.
           D: no longer resembles the past.
         answer: C
-        print_position: 7
       - uid: MIN261.3.1.2.UPE.1
         subobj: 3.1.2
         type: upe
@@ -1136,8 +1067,6 @@ courses:
           C: concerned with faith issues.
           D: oriented toward the miraculous.
         answer: A
-        print_position: 21
-        unit: 1
       - uid: MIN261.3.1.2.UPE.2
         subobj: 3.1.2
         type: upe
@@ -1149,8 +1078,6 @@ courses:
           C: respect.
           D: indifference.
         answer: C
-        print_position: 23
-        unit: 1
       - uid: MIN261.3.1.2.UPE.3
         subobj: 3.1.2
         type: upe
@@ -1161,8 +1088,6 @@ courses:
           C: direct.
           D: sensitive to relationship building.
         answer: C
-        print_position: 24
-        unit: 1
       - uid: MIN261.3.1.2.UPE.4
         subobj: 3.1.2
         type: upe
@@ -1173,8 +1098,6 @@ courses:
           C: body language.
           D: primary messages.
         answer: B
-        print_position: 25
-        unit: 1
       - uid: MIN261.3.1.2.TY.1
         subobj: 3.1.2
         type: ty
@@ -1186,7 +1109,6 @@ courses:
           C: often primitive in illiterate societies.
           D: only moderately complex.
         answer: A
-        print_position: 8
       - uid: MIN261.3.1.2.TY.2
         subobj: 3.1.2
         type: ty
@@ -1198,7 +1120,6 @@ courses:
           C: non-verbal communication as a sign of humility in a particular culture.
           D: non-verbal communication as a sign of humility everywhere.
         answer: C
-        print_position: 9
       - uid: MIN261.3.1.2.TY.3
         subobj: 3.1.2
         type: ty
@@ -1209,7 +1130,6 @@ courses:
           C: be secretive.
           D: be indirect.
         answer: D
-        print_position: 10
       - uid: MIN261.4.1.1.UPE.1
         subobj: 4.1.1
         type: upe
@@ -1220,8 +1140,6 @@ courses:
           C: Lystra.
           D: Iconium.
         answer: B
-        print_position: 1
-        unit: 2
       - uid: MIN261.4.1.1.UPE.2
         subobj: 4.1.1
         type: upe
@@ -1232,8 +1150,6 @@ courses:
           C: Derbe.
           D: Lystra.
         answer: A
-        print_position: 2
-        unit: 2
       - uid: MIN261.4.1.1.UPE.3
         subobj: 4.1.1
         type: upe
@@ -1244,8 +1160,6 @@ courses:
           C: elders.
           D: ordinary Christians.
         answer: D
-        print_position: 3
-        unit: 2
       - uid: MIN261.4.1.1.UPE.4
         subobj: 4.1.1
         type: upe
@@ -1256,8 +1170,6 @@ courses:
           C: the Burgundians.
           D: the Lombards.
         answer: B
-        print_position: 4
-        unit: 2
       - uid: MIN261.4.1.1.UPE.5
         subobj: 4.1.1
         type: upe
@@ -1268,8 +1180,6 @@ courses:
           C: Giovanni Bernerdone.
           D: Ulfilas.
         answer: D
-        print_position: 5
-        unit: 2
       - uid: MIN261.4.1.1.UPE.6
         subobj: 4.1.1
         type: upe
@@ -1280,8 +1190,6 @@ courses:
           C: Charlemagne.
           D: Geovanni Bernerdone.
         answer: B
-        print_position: 6
-        unit: 2
       - uid: MIN261.4.1.1.TY.1
         subobj: 4.1.1
         type: ty
@@ -1292,7 +1200,6 @@ courses:
           C: four hundred years.
           D: five hundred years.
         answer: C
-        print_position: 1
       - uid: MIN261.4.1.1.TY.2
         subobj: 4.1.1
         type: ty
@@ -1304,7 +1211,6 @@ courses:
           C: the development of a professional clergy.
           D: the Christian message was able to penetrate the cities.
         answer: D
-        print_position: 2
       - uid: MIN261.4.1.1.TY.3
         subobj: 4.1.1
         type: ty
@@ -1316,7 +1222,6 @@ courses:
           C: saw a temporary upsurge in Roman military conquests and might.
           D: saw the establishment of Constantinople as the capital of the empire.
         answer: B
-        print_position: 3
       - uid: MIN261.4.1.1.TY.4
         subobj: 4.1.1
         type: ty
@@ -1327,7 +1232,6 @@ courses:
           C: Clovis.
           D: Ulfilas.
         answer: D
-        print_position: 4
       - uid: MIN261.4.1.2.UPE.1
         subobj: 4.1.2
         type: upe
@@ -1338,8 +1242,6 @@ courses:
           C: spiritual commitment.
           D: missionary zeal.
         answer: B
-        print_position: 7
-        unit: 2
       - uid: MIN261.4.1.2.UPE.2
         subobj: 4.1.2
         type: upe
@@ -1350,8 +1252,6 @@ courses:
           C: maintained a separate identity.
           D: was always known as a foreigner.
         answer: A
-        print_position: 8
-        unit: 2
       - uid: MIN261.4.1.2.TY.1
         subobj: 4.1.2
         type: ty
@@ -1362,7 +1262,6 @@ courses:
           C: through literature.
           D: through translation into indigenous languages.
         answer: B
-        print_position: 5
       - uid: MIN261.4.1.2.TY.2
         subobj: 4.1.2
         type: ty
@@ -1373,7 +1272,6 @@ courses:
           C: were immigrant missionaries.
           D: worked primarily in Asia.
         answer: C
-        print_position: 6
       - uid: MIN261.4.2.1.UPE.1
         subobj: 4.2.1
         type: upe
@@ -1384,8 +1282,6 @@ courses:
           C: Ulfilas.
           D: Ramon Lull.
         answer: D
-        print_position: 9
-        unit: 2
       - uid: MIN261.4.2.2.UPE.1
         subobj: 4.2.2
         type: upe
@@ -1396,8 +1292,6 @@ courses:
           C: Jesuits.
           D: Templar Knights.
         answer: B
-        print_position: 10
-        unit: 2
       - uid: MIN261.4.2.2.UPE.2
         subobj: 4.2.2
         type: upe
@@ -1408,8 +1302,6 @@ courses:
           C: Dominicans.
           D: Augustinians.
         answer: C
-        print_position: 11
-        unit: 2
       - uid: MIN261.4.2.2.TY.1
         subobj: 4.2.2
         type: ty
@@ -1420,7 +1312,6 @@ courses:
           C: Boniface.
           D: Giovanni Bernerdone.
         answer: D
-        print_position: 7
       - uid: MIN261.4.3.2.UPE.1
         subobj: 4.3.2
         type: upe
@@ -1431,8 +1322,6 @@ courses:
           C: Ludwig.
           D: Melancthon.
         answer: A
-        print_position: 12
-        unit: 2
       - uid: MIN261.4.3.2.UPE.2
         subobj: 4.3.2
         type: upe
@@ -1444,8 +1333,6 @@ courses:
             gospel.
           D: associates of William Carey.
         answer: C
-        print_position: 13
-        unit: 2
       - uid: MIN261.4.3.2.TY.1
         subobj: 4.3.2
         type: ty
@@ -1456,7 +1343,6 @@ courses:
           C: Melancthon.
           D: Zinzendorf.
         answer: A
-        print_position: 8
       - uid: MIN261.4.4.1.TY.1
         subobj: 4.4.1
         type: ty
@@ -1467,7 +1353,6 @@ courses:
           C: '1858.'
           D: '1901.'
         answer: C
-        print_position: 9
       - uid: MIN261.4.4.2.TY.1
         subobj: 4.4.2
         type: ty
@@ -1478,7 +1363,6 @@ courses:
           C: the need to form a Pentecostal denomination.
           D: the need to provide formal theological education.
         answer: B
-        print_position: 10
       - uid: MIN261.5.1.1.UPE.1
         subobj: 5.1.1
         type: upe
@@ -1489,8 +1373,6 @@ courses:
           C: were guaranteed local support.
           D: depended on faith for their support.
         answer: D
-        print_position: 14
-        unit: 2
       - uid: MIN261.5.1.1.TY.1
         subobj: 5.1.1
         type: ty
@@ -1502,7 +1384,6 @@ courses:
           C: depended on faith for their support.
           D: were poorly organized.
         answer: C
-        print_position: 1
       - uid: MIN261.5.1.2.UPE.1
         subobj: 5.1.2
         type: upe
@@ -1513,8 +1394,6 @@ courses:
           C: a unique sense of being led by the need on the field.
           D: denominational financial support.
         answer: A
-        print_position: 15
-        unit: 2
       - uid: MIN261.5.1.2.TY.1
         subobj: 5.1.2
         type: ty
@@ -1526,7 +1405,6 @@ courses:
           C: more personal choice as to mission field.
           D: a carefully organized missions agency.
         answer: B
-        print_position: 2
       - uid: MIN261.5.2.1.UPE.1
         subobj: 5.2.1
         type: upe
@@ -1537,8 +1415,6 @@ courses:
           C: established a basic budget for individual missionaries.
           D: gave individual initiative to the missionaries in the area of projects.
         answer: C
-        print_position: 16
-        unit: 2
       - uid: MIN261.5.2.1.TY.1
         subobj: 5.2.1
         type: ty
@@ -1549,7 +1425,6 @@ courses:
           C: the foreign missions program.
           D: establishing Bible schools.
         answer: C
-        print_position: 3
       - uid: MIN261.5.2.1.TY.2
         subobj: 5.2.1
         type: ty
@@ -1560,7 +1435,6 @@ courses:
           C: establishing educational requirements for missionaries.
           D: emphasizing prayer.
         answer: A
-        print_position: 4
       - uid: MIN261.5.3.1.UPE.1
         subobj: 5.3.1
         type: upe
@@ -1571,8 +1445,6 @@ courses:
           C: single men.
           D: unspiritual missionaries.
         answer: B
-        print_position: 17
-        unit: 2
       - uid: MIN261.5.3.2.TY.1
         subobj: 5.3.2
         type: ty
@@ -1583,7 +1455,6 @@ courses:
           C: female missionaries to take the lead.
           D: tension concerning doctrine and practice.
         answer: B
-        print_position: 5
       - uid: MIN261.5.3.3.UPE.1
         subobj: 5.3.3
         type: upe
@@ -1594,8 +1465,6 @@ courses:
           C: that Africa became the primary focus.
           D: strategic planning became a part of missions planning.
         answer: D
-        print_position: 18
-        unit: 2
       - uid: MIN261.5.4.1.UPE.1
         subobj: 5.4.1
         type: upe
@@ -1606,8 +1475,6 @@ courses:
           C: top leader of Foreign Missions became an Assistant General Superintendent.
           D: Foreign Missions Board was expanded to include six pastors.
         answer: B
-        print_position: 19
-        unit: 2
       - uid: MIN261.5.4.1.UPE.2
         subobj: 5.4.1
         type: upe
@@ -1618,8 +1485,6 @@ courses:
           C: an annual school of missions.
           D: the individual vision of the missionaries.
         answer: C
-        print_position: 20
-        unit: 2
       - uid: MIN261.5.4.1.UPE.3
         subobj: 5.4.1
         type: upe
@@ -1630,8 +1495,6 @@ courses:
           C: not to be recognized.
           D: a kind of pre-evangelism.
         answer: D
-        print_position: 21
-        unit: 2
       - uid: MIN261.5.4.1.TY.1
         subobj: 5.4.1
         type: ty
@@ -1643,7 +1506,6 @@ courses:
           C: an annual school of missions.
           D: a medical initiative that treated AIDS patients.
         answer: C
-        print_position: 6
       - uid: MIN261.5.4.1.TY.2
         subobj: 5.4.1
         type: ty
@@ -1654,7 +1516,6 @@ courses:
           C: be grounded in the Bible and theology.
           D: receive continual support from founding missionaries.
         answer: C
-        print_position: 7
       - uid: MIN261.5.4.1.TY.3
         subobj: 5.4.1
         type: ty
@@ -1665,7 +1526,6 @@ courses:
           C: a region from West Africa through Asia.
           D: areas limited to Muslim populations.
         answer: C
-        print_position: 8
       - uid: MIN261.5.4.2.UPE.1
         subobj: 5.4.2
         type: upe
@@ -1676,8 +1536,6 @@ courses:
           C: ministry to college campuses.
           D: establishing urban centers.
         answer: B
-        print_position: 22
-        unit: 2
       - uid: MIN261.5.4.2.UPE.2
         subobj: 5.4.2
         type: upe
@@ -1688,8 +1546,6 @@ courses:
           C: targets immigrants in the United States who maintain their culture.
           D: conflicts with the United States’ sense of nationalism.
         answer: C
-        print_position: 23
-        unit: 2
       - uid: MIN261.5.4.2.UPE.3
         subobj: 5.4.2
         type: upe
@@ -1700,8 +1556,6 @@ courses:
           C: Youth Department.
           D: Urban Centers Department.
         answer: A
-        print_position: 24
-        unit: 2
       - uid: MIN261.5.4.2.UPE.4
         subobj: 5.4.2
         type: upe
@@ -1712,8 +1566,6 @@ courses:
           C: Assemblies of God college students.
           D: all college students.
         answer: D
-        print_position: 25
-        unit: 2
       - uid: MIN261.5.4.2.TY.1
         subobj: 5.4.2
         type: ty
@@ -1724,7 +1576,6 @@ courses:
           C: minister on secular college campuses.
           D: establish urban recreational centers.
         answer: B
-        print_position: 9
       - uid: MIN261.5.4.2.TY.2
         subobj: 5.4.2
         type: ty
@@ -1736,7 +1587,6 @@ courses:
           C: urban Bible training centers.
           D: Chi Alpha.
         answer: C
-        print_position: 10
       - uid: MIN261.6.1.1.UPE.1
         subobj: 6.1.1
         type: upe
@@ -1747,8 +1597,6 @@ courses:
           C: performing miracles.
           D: turning water into wine.
         answer: A
-        print_position: 1
-        unit: 3
       - uid: MIN261.6.1.1.TY.1
         subobj: 6.1.1
         type: ty
@@ -1759,7 +1607,6 @@ courses:
           C: the Bible reveals God initiates the call, calling those He desires.
           D: human talents are unnecessary.
         answer: C
-        print_position: 1
       - uid: MIN261.6.1.2.UPE.1
         subobj: 6.1.2
         type: upe
@@ -1770,8 +1617,6 @@ courses:
           C: adequate training in cultural studies.
           D: the evidence of spiritual gifts.
         answer: B
-        print_position: 2
-        unit: 3
       - uid: MIN261.6.1.2.UPE.2
         subobj: 6.1.2
         type: upe
@@ -1782,8 +1627,6 @@ courses:
           C: learner.
           D: preacher.
         answer: C
-        print_position: 3
-        unit: 3
       - uid: MIN261.6.1.2.TY.1
         subobj: 6.1.2
         type: ty
@@ -1795,7 +1638,6 @@ courses:
           C: evidence of spiritual gifts.
           D: past performance.
         answer: D
-        print_position: 2
       - uid: MIN261.6.1.2.TY.2
         subobj: 6.1.2
         type: ty
@@ -1807,7 +1649,6 @@ courses:
           C: Romans 19:9.
           D: Philippians 4:19.
         answer: B
-        print_position: 3
       - uid: MIN261.6.1.2.TY.3
         subobj: 6.1.2
         type: ty
@@ -1818,7 +1659,6 @@ courses:
           C: church planting, discipling new Christians, and training leaders.
           D: traveling, planting new churches, and training leaders.
         answer: C
-        print_position: 4
       - uid: MIN261.6.1.3.UPE.1
         subobj: 6.1.3
         type: upe
@@ -1829,8 +1669,6 @@ courses:
           C: interviews with church boards.
           D: the deputational cycle.
         answer: D
-        print_position: 4
-        unit: 3
       - uid: MIN261.6.1.3.UPE.2
         subobj: 6.1.3
         type: upe
@@ -1841,8 +1679,6 @@ courses:
           C: takes the posture of one among equals.
           D: learns to teach in another culture.
         answer: C
-        print_position: 5
-        unit: 3
       - uid: MIN261.6.1.3.TY.1
         subobj: 6.1.3
         type: ty
@@ -1853,7 +1689,6 @@ courses:
           C: through family discussion.
           D: through the influence of a friend.
         answer: B
-        print_position: 5
       - uid: MIN261.6.1.3.TY.2
         subobj: 6.1.3
         type: ty
@@ -1864,7 +1699,6 @@ courses:
           C: a host culture imitating a missionary.
           D: speaking a foreign language.
         answer: A
-        print_position: 6
       - uid: MIN261.6.2.1.UPE.1
         subobj: 6.2.1
         type: upe
@@ -1875,8 +1709,6 @@ courses:
           C: be a witness.
           D: receive the anointing for the office of an overseer.
         answer: C
-        print_position: 6
-        unit: 3
       - uid: MIN261.6.2.1.TY.1
         subobj: 6.2.1
         type: ty
@@ -1887,7 +1719,6 @@ courses:
           C: exercising more effective pastoral ministry.
           D: empowering disciples to be witnesses.
         answer: D
-        print_position: 7
       - uid: MIN261.6.2.2.UPE.1
         subobj: 6.2.2
         type: upe
@@ -1898,8 +1729,6 @@ courses:
           C: God may know us personally.
           D: it affects God’s actions.
         answer: D
-        print_position: 7
-        unit: 3
       - uid: MIN261.6.2.2.TY.1
         subobj: 6.2.2
         type: ty
@@ -1910,7 +1739,6 @@ courses:
           C: provides God with insights into our character.
           D: permits God to know us.
         answer: B
-        print_position: 8
       - uid: MIN261.6.2.2.TY.2
         subobj: 6.2.2
         type: ty
@@ -1921,7 +1749,6 @@ courses:
           C: the new covenant age.
           D: the end of the book of Acts.
         answer: C
-        print_position: 9
       - uid: MIN261.6.2.2.TY.3
         subobj: 6.2.2
         type: ty
@@ -1932,7 +1759,6 @@ courses:
           C: found in Matthew 12:28.
           D: not found in the Bible.
         answer: D
-        print_position: 10
       - uid: MIN261.7.1.1.UPE.1
         subobj: 7.1.1
         type: upe
@@ -1943,8 +1769,6 @@ courses:
           C: medical work.
           D: education.
         answer: A
-        print_position: 8
-        unit: 3
       - uid: MIN261.7.1.1.TY.1
         subobj: 7.1.1
         type: ty
@@ -1955,7 +1779,6 @@ courses:
           C: church.
           D: evangelist.
         answer: C
-        print_position: 1
       - uid: MIN261.7.1.1.TY.2
         subobj: 7.1.1
         type: ty
@@ -1966,7 +1789,6 @@ courses:
           C: missionary recruiting.
           D: the planting of indigenous churches.
         answer: D
-        print_position: 2
       - uid: MIN261.7.1.2.UPE.1
         subobj: 7.1.2
         type: upe
@@ -1977,8 +1799,6 @@ courses:
           C: lack of pastoral training in the church.
           D: intimacy of the small, virtually inconspicuous gathering.
         answer: D
-        print_position: 11
-        unit: 3
       - uid: MIN261.7.1.2.TY.1
         subobj: 7.1.2
         type: ty
@@ -1989,7 +1809,6 @@ courses:
           C: convenience for lay leadership.
           D: that it is superior to the larger fellowship.
         answer: B
-        print_position: 3
       - uid: MIN261.7.1.3.UPE.1
         subobj: 7.1.3
         type: upe
@@ -2000,8 +1819,6 @@ courses:
           C: encourage missions giving in the United States.
           D: provide a temporary structure.
         answer: A
-        print_position: 9
-        unit: 3
       - uid: MIN261.7.1.3.TY.1
         subobj: 7.1.3
         type: ty
@@ -2013,7 +1830,6 @@ courses:
             the building.
           D: encourages missions giving in the United States.
         answer: C
-        print_position: 4
       - uid: MIN261.7.1.3.TY.2
         subobj: 7.1.3
         type: ty
@@ -2025,7 +1841,6 @@ courses:
           C: holistic ministries.
           D: church construction.
         answer: A
-        print_position: 5
       - uid: MIN261.7.2.1.UPE.1
         subobj: 7.2.1
         type: upe
@@ -2036,8 +1851,6 @@ courses:
           C: medical clinics.
           D: agricultural education.
         answer: B
-        print_position: 10
-        unit: 3
       - uid: MIN261.7.2.1.UPE.2
         subobj: 7.2.1
         type: upe
@@ -2048,8 +1861,6 @@ courses:
           C: it focuses on the missionary’s own life and culture.
           D: the missionary’s life is not of any concern to the church.
         answer: B
-        print_position: 12
-        unit: 3
       - uid: MIN261.7.2.1.UPE.3
         subobj: 7.2.1
         type: upe
@@ -2060,8 +1871,6 @@ courses:
           C: Nevius.
           D: Carey.
         answer: C
-        print_position: 13
-        unit: 3
       - uid: MIN261.7.2.1.TY.1
         subobj: 7.2.1
         type: ty
@@ -2072,7 +1881,6 @@ courses:
           C: involvement of outside missions ceases.
           D: the mission field is isolated.
         answer: B
-        print_position: 6
       - uid: MIN261.7.2.2.UPE.1
         subobj: 7.2.2
         type: upe
@@ -2083,8 +1891,6 @@ courses:
           C: evangelistic mass crusades.
           D: social service to the community.
         answer: B
-        print_position: 14
-        unit: 3
       - uid: MIN261.7.2.2.UPE.2
         subobj: 7.2.2
         type: upe
@@ -2095,8 +1901,6 @@ courses:
           C: self-theologizing.
           D: self-governance.
         answer: D
-        print_position: 15
-        unit: 3
       - uid: MIN261.7.2.2.UPE.3
         subobj: 7.2.2
         type: upe
@@ -2107,8 +1911,6 @@ courses:
           C: expressing Christian belief in one’s own culture.
           D: the tendency to syncretism.
         answer: C
-        print_position: 16
-        unit: 3
       - uid: MIN261.7.2.2.TY.1
         subobj: 7.2.2
         type: ty
@@ -2119,7 +1921,6 @@ courses:
           C: a new approach to scriptural interpretation.
           D: the tendency to syncretistic teaching.
         answer: B
-        print_position: 7
       - uid: MIN261.7.2.2.TY.2
         subobj: 7.2.2
         type: ty
@@ -2130,7 +1931,6 @@ courses:
           C: brings self-worth and confidence to that local body.
           D: does not advance the kingdom of God.
         answer: C
-        print_position: 10
       - uid: MIN261.7.2.3.UPE.1
         subobj: 7.2.3
         type: upe
@@ -2141,8 +1941,6 @@ courses:
           C: self-theologizing.
           D: self-missionizing.
         answer: A
-        print_position: 17
-        unit: 3
       - uid: MIN261.7.2.3.TY.1
         subobj: 7.2.3
         type: ty
@@ -2153,7 +1951,6 @@ courses:
           C: embracing a syncretistic gospel.
           D: a matter of nationalistic pride.
         answer: A
-        print_position: 8
       - uid: MIN261.7.2.4.TY.1
         subobj: 7.2.4
         type: ty
@@ -2164,7 +1961,6 @@ courses:
           C: a church planted by missionaries sending its own missionaries.
           D: a church’s ability to be self-supporting.
         answer: C
-        print_position: 9
       - uid: MIN261.8.1.1.UPE.1
         subobj: 8.1.1
         type: upe
@@ -2175,8 +1971,6 @@ courses:
           C: was a mystery.
           D: is used only twice in the Bible.
         answer: B
-        print_position: 18
-        unit: 3
       - uid: MIN261.8.1.1.UPE.2
         subobj: 8.1.1
         type: upe
@@ -2187,8 +1981,6 @@ courses:
           C: ministry of the apostles.
           D: administration of the church fathers.
         answer: A
-        print_position: 19
-        unit: 3
       - uid: MIN261.8.1.1.TY.1
         subobj: 8.1.1
         type: ty
@@ -2199,7 +1991,6 @@ courses:
           C: John.
           D: Matthew.
         answer: D
-        print_position: 1
       - uid: MIN261.8.1.2.UPE.1
         subobj: 8.1.2
         type: upe
@@ -2210,8 +2001,6 @@ courses:
           C: missions.
           D: the pursuit of sound financial accountability.
         answer: C
-        print_position: 20
-        unit: 3
       - uid: MIN261.8.1.2.TY.1
         subobj: 8.1.2
         type: ty
@@ -2222,7 +2011,6 @@ courses:
           C: missions.
           D: financial accountability.
         answer: C
-        print_position: 2
       - uid: MIN261.8.1.3.UPE.1
         subobj: 8.1.3
         type: upe
@@ -2233,8 +2021,6 @@ courses:
           C: Jerusalem
           D: Philippi
         answer: D
-        print_position: 21
-        unit: 3
       - uid: MIN261.8.1.3.TY.1
         subobj: 8.1.3
         type: ty
@@ -2246,7 +2032,6 @@ courses:
           C: Philippi.
           D: Corinth.
         answer: B
-        print_position: 3
       - uid: MIN261.8.1.3.TY.2
         subobj: 8.1.3
         type: ty
@@ -2257,7 +2042,6 @@ courses:
           C: Jerusalem.
           D: Corinth.
         answer: A
-        print_position: 4
       - uid: MIN261.8.2.1.UPE.1
         subobj: 8.2.1
         type: upe
@@ -2269,8 +2053,6 @@ courses:
           C: arbitrate in disputes in the various churches.
           D: coordination and promotion of missions.
         answer: D
-        print_position: 22
-        unit: 3
       - uid: MIN261.8.2.1.UPE.2
         subobj: 8.2.1
         type: upe
@@ -2281,8 +2063,6 @@ courses:
           C: providing enough ministers for the local churches.
           D: first establishing of a home missions program.
         answer: B
-        print_position: 23
-        unit: 3
       - uid: MIN261.8.3.1.TY.1
         subobj: 8.3.1
         type: ty
@@ -2295,7 +2075,6 @@ courses:
           D: it is the personal responsibility of the missionaries to raise their
             support.
         answer: C
-        print_position: 5
       - uid: MIN261.8.3.2.UPE.1
         subobj: 8.3.2
         type: upe
@@ -2306,8 +2085,6 @@ courses:
           C: as an alternative to the World Trade Organization.
           D: with the establishment of the United Nations.
         answer: D
-        print_position: 24
-        unit: 3
       - uid: MIN261.8.3.2.TY.1
         subobj: 8.3.2
         type: ty
@@ -2318,7 +2095,6 @@ courses:
           C: World Vision.
           D: the World Trade Organization.
         answer: B
-        print_position: 6
       - uid: MIN261.8.3.3.UPE.1
         subobj: 8.3.3
         type: upe
@@ -2329,8 +2105,6 @@ courses:
           C: examining globalization.
           D: discussing theological unity.
         answer: A
-        print_position: 25
-        unit: 3
       - uid: MIN261.8.3.3.TY.1
         subobj: 8.3.3
         type: ty
@@ -2342,7 +2116,6 @@ courses:
           C: Manila in 1989.
           D: Amsterdam in 1982.
         answer: B
-        print_position: 7
       - uid: MIN261.8.3.3.TY.2
         subobj: 8.3.3
         type: ty
@@ -2353,7 +2126,6 @@ courses:
           C: both seen as our Christian duty.
           D: not seen as equal Christian responsibility.
         answer: C
-        print_position: 8
       - uid: MIN261.8.3.4.TY.1
         subobj: 8.3.4
         type: ty
@@ -2364,7 +2136,6 @@ courses:
           C: Berlin 1982.
           D: South Africa 2004.
         answer: B
-        print_position: 9
       - uid: MIN261.8.3.5.TY.1
         subobj: 8.3.5
         type: ty
@@ -2376,7 +2147,6 @@ courses:
           C: reconciling racial and cultural gaps.
           D: bringing administrative unity to member bodies.
         answer: C
-        print_position: 10
       - uid: MIN261.9.1.1.UPE.1
         subobj: 9.1.1
         type: upe
@@ -2387,8 +2157,6 @@ courses:
           C: Europe to America.
           D: North America to South America.
         answer: B
-        print_position: 1
-        unit: 4
       - uid: MIN261.9.1.1.UPE.2
         subobj: 9.1.1
         type: upe
@@ -2400,8 +2168,6 @@ courses:
           C: slowing their growth through paternalism.
           D: failing to give adequate guidance.
         answer: C
-        print_position: 2
-        unit: 4
       - uid: MIN261.9.1.1.TY.1
         subobj: 9.1.1
         type: ty
@@ -2412,7 +2178,6 @@ courses:
           C: Africa.
           D: the West.
         answer: D
-        print_position: 1
       - uid: MIN261.9.1.1.TY.2
         subobj: 9.1.1
         type: ty
@@ -2424,7 +2189,6 @@ courses:
           C: emphasized the teaching of world missions in the churches they established.
           D: encouraged independence of the churches on the mission field.
         answer: B
-        print_position: 2
       - uid: MIN261.9.1.2.UPE.1
         subobj: 9.1.2
         type: upe
@@ -2435,8 +2199,6 @@ courses:
           C: was frustrating since they had no missionary training programs.
           D: caused them to redirect their already strong missions efforts.
         answer: A
-        print_position: 3
-        unit: 4
       - uid: MIN261.9.1.2.UPE.2
         subobj: 9.1.2
         type: upe
@@ -2447,8 +2209,6 @@ courses:
           C: their cross-cultural experience in a pluralistic setting.
           D: their high level of missionary training before being sent out.
         answer: C
-        print_position: 4
-        unit: 4
       - uid: MIN261.9.1.2.UPE.3
         subobj: 9.1.2
         type: upe
@@ -2460,8 +2220,6 @@ courses:
           C: lack of resiliency in cross-cultural settings.
           D: over dependence on western missionaries.
         answer: B
-        print_position: 5
-        unit: 4
       - uid: MIN261.9.1.2.TY.1
         subobj: 9.1.2
         type: ty
@@ -2472,7 +2230,6 @@ courses:
           C: cross-cultural experience.
           D: difficulty in leadership training.
         answer: D
-        print_position: 3
       - uid: MIN261.9.2.1.UPE.1
         subobj: 9.2.1
         type: upe
@@ -2484,8 +2241,6 @@ courses:
           C: closing of former mission fields to career missionaries.
           D: opposition of many national churches to full-time career missionaries.
         answer: B
-        print_position: 6
-        unit: 4
       - uid: MIN261.9.2.1.UPE.2
         subobj: 9.2.1
         type: upe
@@ -2499,8 +2254,6 @@ courses:
             short-termers.
           D: the belief it would increase the interest and giving to missions.
         answer: D
-        print_position: 7
-        unit: 4
       - uid: MIN261.9.2.1.UPE.3
         subobj: 9.2.1
         type: upe
@@ -2511,8 +2264,6 @@ courses:
           C: among the members of the short-term group.
           D: among the host people in gratefulness to the team.
         answer: A
-        print_position: 8
-        unit: 4
       - uid: MIN261.9.2.1.UPE.4
         subobj: 9.2.1
         type: upe
@@ -2523,8 +2274,6 @@ courses:
           C: increase in the development of national church self-support.
           D: home congregations coming alive to their mission potential.
         answer: D
-        print_position: 9
-        unit: 4
       - uid: MIN261.9.2.2.UPE.1
         subobj: 9.2.2
         type: upe
@@ -2535,8 +2284,6 @@ courses:
           C: adequate pre-trip orientation and training.
           D: avoiding the “red tape” of mission agencies to maximize efficiency.
         answer: C
-        print_position: 10
-        unit: 4
       - uid: MIN261.9.2.2.TY.1
         subobj: 9.2.2
         type: ty
@@ -2548,7 +2295,6 @@ courses:
           C: generally prayed more for missions upon their return home.
           D: were changed forever in their attitude toward missions.
         answer: A
-        print_position: 4
       - uid: MIN261.9.3.1.UPE.1
         subobj: 9.3.1
         type: upe
@@ -2559,8 +2305,6 @@ courses:
           C: missions as process.
           D: all-night prayer meetings for missions.
         answer: B
-        print_position: 11
-        unit: 4
       - uid: MIN261.9.3.1.UPE.2
         subobj: 9.3.1
         type: upe
@@ -2571,8 +2315,6 @@ courses:
           C: depreciation of the need for long-term missionaries.
           D: avoiding the problems associated with mission as process.
         answer: C
-        print_position: 12
-        unit: 4
       - uid: MIN261.9.3.1.UPE.3
         subobj: 9.3.1
         type: upe
@@ -2584,8 +2326,6 @@ courses:
           D: being prepared to use western methods to insure efficiency within the
             time.
         answer: B
-        print_position: 13
-        unit: 4
       - uid: MIN261.9.3.1.TY.1
         subobj: 9.3.1
         type: ty
@@ -2597,7 +2337,6 @@ courses:
           C: is often rather impersonal.
           D: is usually not focused on a particular project.
         answer: B
-        print_position: 5
       - uid: MIN261.9.3.1.TY.2
         subobj: 9.3.1
         type: ty
@@ -2608,7 +2347,6 @@ courses:
           C: done in close collaboration with career missionaries and national leaders.
           D: a church is able to be self-directed.
         answer: C
-        print_position: 6
       - uid: MIN261.9.4.1.UPE.1
         subobj: 9.4.1
         type: upe
@@ -2619,8 +2357,6 @@ courses:
           C: the low cost in obtaining the latest technology to be more efficient.
           D: the time economy in relating to people in the host culture.
         answer: A
-        print_position: 14
-        unit: 4
       - uid: MIN261.9.4.1.TY.1
         subobj: 9.4.1
         type: ty
@@ -2631,7 +2367,6 @@ courses:
           C: that digital images are expensive.
           D: that it is not globally accessible.
         answer: A
-        print_position: 7
       - uid: MIN261.9.4.1.TY.2
         subobj: 9.4.1
         type: ty
@@ -2643,7 +2378,6 @@ courses:
           C: it is virtually impossible for one’s conversations to be policed.
           D: the compromising of one’s personal data.
         answer: D
-        print_position: 8
       - uid: MIN261.9.5.1.UPE.1
         subobj: 9.5.1
         type: upe
@@ -2654,8 +2388,6 @@ courses:
           C: excessive emphasis on particular theological distinctives.
           D: the effects of local culture and history.
         answer: D
-        print_position: 15
-        unit: 4
       - uid: MIN261.9.5.1.UPE.2
         subobj: 9.5.1
         type: upe
@@ -2666,8 +2398,6 @@ courses:
           C: Romans 14:1–8.
           D: Galatians 5:1.
         answer: A
-        print_position: 16
-        unit: 4
       - uid: MIN261.9.5.1.TY.1
         subobj: 9.5.1
         type: ty
@@ -2679,7 +2409,6 @@ courses:
           C: evangelism.
           D: the baptism in the Holy Spirit.
         answer: D
-        print_position: 9
       - uid: MIN261.9.5.2.UPE.1
         subobj: 9.5.2
         type: upe
@@ -2690,8 +2419,6 @@ courses:
           C: misunderstanding the nature and purpose of the baptism in the Holy Spirit.
           D: the prestige of association with evangelicals like Rick Warren.
         answer: C
-        print_position: 17
-        unit: 4
       - uid: MIN261.9.5.2.TY.1
         subobj: 9.5.2
         type: ty
@@ -2702,7 +2429,6 @@ courses:
           C: provides a firm foundation of belief based upon scientific facts.
           D: has an increasing focus on self as the determiner of truth.
         answer: D
-        print_position: 10
       - uid: MIN261.10.1.1.UPE.1
         subobj: 10.1.1
         type: upe
@@ -2714,8 +2440,6 @@ courses:
           C: social service is to be preferred to show God’s love.
           D: proclamation is the duty of missionaries, not social service.
         answer: B
-        print_position: 18
-        unit: 4
       - uid: MIN261.10.1.1.TY.1
         subobj: 10.1.1
         type: ty
@@ -2726,7 +2450,6 @@ courses:
           C: human mind and the human spirit.
           D: body from spirit.
         answer: D
-        print_position: 1
       - uid: MIN261.10.1.1.TY.2
         subobj: 10.1.1
         type: ty
@@ -2737,7 +2460,6 @@ courses:
           C: meant to refer to activities related to human need.
           D: limited to acts of justice.
         answer: C
-        print_position: 2
       - uid: MIN261.10.1.1.TY.3
         subobj: 10.1.1
         type: ty
@@ -2748,7 +2470,6 @@ courses:
           C: Latin America.
           D: Asia.
         answer: B
-        print_position: 3
       - uid: MIN261.10.2.1.UPE.1
         subobj: 10.2.1
         type: upe
@@ -2759,8 +2480,6 @@ courses:
           C: the application of the gospel to all cultures.
           D: the authority given to man to govern creation.
         answer: D
-        print_position: 19
-        unit: 4
       - uid: MIN261.10.2.1.UPE.2
         subobj: 10.2.1
         type: upe
@@ -2771,8 +2490,6 @@ courses:
           C: emphasis on loving and caring for neighbors.
           D: reference to himself as the Good Shepherd.
         answer: C
-        print_position: 20
-        unit: 4
       - uid: MIN261.10.2.1.TY.1
         subobj: 10.2.1
         type: ty
@@ -2783,7 +2500,6 @@ courses:
           C: salvation mandate.
           D: gospel mandate.
         answer: B
-        print_position: 4
       - uid: MIN261.10.2.2.UPE.1
         subobj: 10.2.2
         type: upe
@@ -2794,8 +2510,6 @@ courses:
           C: separation from the world, the flesh, and the devil.
           D: deliverance from bondage.
         answer: B
-        print_position: 21
-        unit: 4
       - uid: MIN261.10.2.2.TY.1
         subobj: 10.2.2
         type: ty
@@ -2806,7 +2520,6 @@ courses:
           C: economic, physical, and spiritual.
           D: social, psychological, and spiritual.
         answer: A
-        print_position: 5
       - uid: MIN261.10.2.3.TY.1
         subobj: 10.2.3
         type: ty
@@ -2817,7 +2530,6 @@ courses:
           C: those who see social action as preparation for evangelism.
           D: those who see social actions as evangelism.
         answer: B
-        print_position: 6
       - uid: MIN261.10.2.3.TY.2
         subobj: 10.2.3
         type: ty
@@ -2828,7 +2540,6 @@ courses:
           C: social action is a bridge for evangelism.
           D: proclamation betrays evangelism.
         answer: B
-        print_position: 7
       - uid: MIN261.10.2.3.TY.3
         subobj: 10.2.3
         type: ty
@@ -2839,7 +2550,6 @@ courses:
           C: ministering to victims of disaster.
           D: improving agricultural methods or education.
         answer: C
-        print_position: 8
       - uid: MIN261.10.2.3.TY.4
         subobj: 10.2.3
         type: ty
@@ -2850,7 +2560,6 @@ courses:
           C: is restricted to political changes.
           D: refers to changes needed within the church.
         answer: B
-        print_position: 9
       - uid: MIN261.10.2.4.TY.1
         subobj: 10.2.4
         type: ty
@@ -2861,7 +2570,6 @@ courses:
           C: marriage is a hindrance to every ministry.
           D: money is the most important asset in any mission.
         answer: A
-        print_position: 10
       - uid: MIN261.11.1.1.UPE.1
         subobj: 11.1.1
         type: upe
@@ -2872,8 +2580,6 @@ courses:
           C: the direction of our lives is ultimately up to Him as we obey.
           D: He rules and reigns over all creation.
         answer: C
-        print_position: 22
-        unit: 4
       - uid: MIN261.11.1.1.UPE.2
         subobj: 11.1.1
         type: upe
@@ -2884,8 +2590,6 @@ courses:
           C: is the theme of Acts 2:36.
           D: summarizes the meaning of Psalm 24:1.
         answer: D
-        print_position: 23
-        unit: 4
       - uid: MIN261.11.1.1.TY.1
         subobj: 11.1.1
         type: ty
@@ -2896,7 +2600,6 @@ courses:
           C: we are responsible to Him in all we do.
           D: He knows everything about us.
         answer: A
-        print_position: 1
       - uid: MIN261.11.1.1.TY.2
         subobj: 11.1.1
         type: ty
@@ -2908,7 +2611,6 @@ courses:
           C: Deuteronomy 8:16–18.
           D: Ecclesiastes 5:19.
         answer: A
-        print_position: 2
       - uid: MIN261.11.1.2.TY.1
         subobj: 11.1.2
         type: ty
@@ -2919,7 +2621,6 @@ courses:
           C: it gets our heart in tune with God.
           D: we are totally dependent on God.
         answer: D
-        print_position: 3
       - uid: MIN261.11.1.2.TY.2
         subobj: 11.1.2
         type: ty
@@ -2930,7 +2631,6 @@ courses:
           C: help for yourself.
           D: help in defeating the devil.
         answer: B
-        print_position: 4
       - uid: MIN261.11.1.3.UPE.1
         subobj: 11.1.3
         type: upe
@@ -2941,8 +2641,6 @@ courses:
           C: Philippians 4:13–19.
           D: 1 Corinthians 16:1–4.
         answer: A
-        print_position: 24
-        unit: 4
       - uid: MIN261.11.1.3.TY.1
         subobj: 11.1.3
         type: ty
@@ -2953,7 +2651,6 @@ courses:
           C: asking for provisions appropriate for the need of the day.
           D: asking the Lord to help us understand the intended meaning of Bible passages.
         answer: C
-        print_position: 5
       - uid: MIN261.11.1.3.TY.2
         subobj: 11.1.3
         type: ty
@@ -2965,7 +2662,6 @@ courses:
           C: giving is to be proportional to the means of the individual.
           D: giving to missions follows the principles of sowing and reaping.
         answer: C
-        print_position: 6
       - uid: MIN261.11.1.4.UPE.1
         subobj: 11.1.4
         type: upe
@@ -2976,8 +2672,6 @@ courses:
           C: missionaries, pastors, and prayer warriors.
           D: all believers.
         answer: D
-        print_position: 25
-        unit: 4
       - uid: MIN261.11.1.4.TY.1
         subobj: 11.1.4
         type: ty
@@ -2988,7 +2682,6 @@ courses:
           C: distinguishing between the Twelve Apostles and the other disciples.
           D: helpful to show who qualifies to become a missionary.
         answer: A
-        print_position: 7
       - uid: MIN261.11.1.4.TY.2
         subobj: 11.1.4
         type: ty
@@ -2999,7 +2692,6 @@ courses:
           C: the missions committee of the church
           D: the pastor, board, and missions committee.
         answer: B
-        print_position: 8
       - uid: MIN261.11.1.4.TY.3
         subobj: 11.1.4
         type: ty
@@ -3010,7 +2702,6 @@ courses:
           C: if you do not have a burden for missions you are excused.
           D: every believer has God-given gifts and talents to help the missions cause.
         answer: D
-        print_position: 9
       - uid: MIN261.11.1.4.TY.4
         subobj: 11.1.4
         type: ty
@@ -3024,7 +2715,6 @@ courses:
             share in the rewards.
           D: God will reward both groups with material wealth.
         answer: C
-        print_position: 10
       - uid: MIN261.1.1.1.F.1
         subobj: 1.1.1
         type: final
@@ -3543,7 +3233,6 @@ courses:
         key_pdf: min261_1st_form c key desi aug 09.pdf
         matched: 47
         objectives_agree: 47
-      captured: reparse
     deployed_pn: 02.22.01
     body_baseline_pn: 02.22.01
     chapters:

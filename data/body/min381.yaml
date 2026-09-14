@@ -765,7 +765,6 @@ courses:
           C: helps the minister stand firm during hard times.
           D: keeps the minister from teaching false doctrine.
         answer: C
-        print_position: 1
       - uid: MIN381.1.1.2.UPE.1
         subobj: 1.1.2
         type: upe
@@ -806,7 +805,6 @@ courses:
           C: popularity.
           D: open doors.
         answer: D
-        print_position: 2
       - uid: MIN381.1.1.2.TY.2
         subobj: 1.1.2
         type: ty
@@ -817,7 +815,6 @@ courses:
           C: age is sufficient.
           D: life is sanctified.
         answer: A
-        print_position: 3
       - uid: MIN381.1.1.2.TY.3
         subobj: 1.1.2
         type: ty
@@ -828,7 +825,6 @@ courses:
           C: choose twelve disciples.
           D: start serving in small ways.
         answer: D
-        print_position: 4
       - uid: MIN381.1.2.1.UPE.1
         subobj: 1.2.1
         type: upe
@@ -859,7 +855,6 @@ courses:
           C: Talents
           D: Knowledge
         answer: B
-        print_position: 5
       - uid: MIN381.1.2.1.TY.2
         subobj: 1.2.1
         type: ty
@@ -870,7 +865,6 @@ courses:
           C: what you feel.
           D: what others do.
         answer: A
-        print_position: 6
       - uid: MIN381.1.2.1.TY.3
         subobj: 1.2.1
         type: ty
@@ -881,7 +875,6 @@ courses:
           C: thinking and acting right.
           D: praying for a person.
         answer: C
-        print_position: 7
       - uid: MIN381.1.3.1.UPE.1
         subobj: 1.3.1
         type: upe
@@ -902,7 +895,6 @@ courses:
           C: improving their weaknesses.
           D: managing church business.
         answer: A
-        print_position: 8
       - uid: MIN381.1.3.1.TY.2
         subobj: 1.3.1
         type: ty
@@ -913,7 +905,6 @@ courses:
           C: building effective teams.
           D: acquiring more training.
         answer: C
-        print_position: 9
       - uid: MIN381.1.3.1.TY.3
         subobj: 1.3.1
         type: ty
@@ -924,7 +915,6 @@ courses:
           C: character, and gifts.
           D: gifts, and talent.
         answer: C
-        print_position: 10
       - uid: MIN381.2.1.1.UPE.1
         subobj: 2.1.1
         type: upe
@@ -945,7 +935,6 @@ courses:
           C: plan sermon outlines.
           D: ask God to help others.
         answer: B
-        print_position: 1
       - uid: MIN381.2.1.1.TY.2
         subobj: 2.1.1
         type: ty
@@ -956,7 +945,6 @@ courses:
           C: Pray
           D: Acquire training
         answer: C
-        print_position: 2
       - uid: MIN381.2.2.1.UPE.1
         subobj: 2.2.1
         type: upe
@@ -977,7 +965,6 @@ courses:
           C: Theme
           D: Grammar
         answer: A
-        print_position: 3
       - uid: MIN381.2.2.1.TY.2
         subobj: 2.2.1
         type: ty
@@ -989,7 +976,6 @@ courses:
           C: prophecy.
           D: faith.
         answer: B
-        print_position: 4
       - uid: MIN381.2.2.1.TY.3
         subobj: 2.2.1
         type: ty
@@ -1000,7 +986,6 @@ courses:
           C: has hidden meanings.
           D: contains some truth.
         answer: A
-        print_position: 5
       - uid: MIN381.2.2.2.UPE.1
         subobj: 2.2.2
         type: upe
@@ -1031,7 +1016,6 @@ courses:
           C: provide a break from the Holy Scriptures.
           D: acquire practical advice for ministry.
         answer: D
-        print_position: 6
       - uid: MIN381.2.2.2.TY.2
         subobj: 2.2.2
         type: ty
@@ -1042,7 +1026,6 @@ courses:
           C: listening to sermons.
           D: none of the above.
         answer: D
-        print_position: 7
       - uid: MIN381.2.3.1.UPE.1
         subobj: 2.3.1
         type: upe
@@ -1063,7 +1046,6 @@ courses:
           C: only for healing needs.
           D: on a regular basis.
         answer: D
-        print_position: 8
       - uid: MIN381.2.3.1.TY.2
         subobj: 2.3.1
         type: ty
@@ -1074,7 +1056,6 @@ courses:
           C: complete fast.
           D: supernatural fast.
         answer: B
-        print_position: 9
       - uid: MIN381.2.3.1.TY.3
         subobj: 2.3.1
         type: ty
@@ -1085,7 +1066,6 @@ courses:
           C: loss of weight.
           D: wisdom to lead.
         answer: D
-        print_position: 10
       - uid: MIN381.3.1.1.UPE.1
         subobj: 3.1.1
         type: upe
@@ -1106,7 +1086,6 @@ courses:
           C: spouses will be proud of them.
           D: marriages will weaken.
         answer: D
-        print_position: 1
       - uid: MIN381.3.2.2.UPE.1
         subobj: 3.2.2
         type: upe
@@ -1131,7 +1110,6 @@ courses:
           C: an itinerant minister should remain single if possible.
           D: the pastor of a local church should be married.
         answer: A
-        print_position: 2
       - uid: MIN381.3.2.2.TY.2
         subobj: 3.2.2
         type: ty
@@ -1143,7 +1121,6 @@ courses:
           C: teenagers.
           D: families.
         answer: B
-        print_position: 3
       - uid: MIN381.3.2.3.UPE.1
         subobj: 3.2.3
         type: upe
@@ -1177,7 +1154,6 @@ courses:
           D: One should not take on the responsibilities of marriage if the times
             are especially difficult.
         answer: C
-        print_position: 4
       - uid: MIN381.3.3.1.UPE.1
         subobj: 3.3.1
         type: upe
@@ -1199,7 +1175,6 @@ courses:
           C: pertaining only to the early church.
           D: being Paul’s personal opinion.
         answer: A
-        print_position: 5
       - uid: MIN381.3.3.2.TY.1
         subobj: 3.3.2
         type: ty
@@ -1210,7 +1185,6 @@ courses:
           C: The Holy Spirit equips all people, male and female, for God’s work.
           D: Both men and women are created in God’s image.
         answer: C
-        print_position: 6
       - uid: MIN381.3.3.3.UPE.1
         subobj: 3.3.3
         type: upe
@@ -1244,7 +1218,6 @@ courses:
           C: interpret challenges as closed doors.
           D: connect to each other and to valuable resources.
         answer: D
-        print_position: 7
       - uid: MIN381.3.4.1.UPE.1
         subobj: 3.4.1
         type: upe
@@ -1265,7 +1238,6 @@ courses:
           C: failure to adequately discipline his sons.
           D: strict and unrelenting attitude.
         answer: B
-        print_position: 8
       - uid: MIN381.3.4.2.UPE.1
         subobj: 3.4.2
         type: upe
@@ -1286,7 +1258,6 @@ courses:
           C: parents.
           D: friends.
         answer: C
-        print_position: 9
       - uid: MIN381.3.5.1.UPE.1
         subobj: 3.5.1
         type: upe
@@ -1328,7 +1299,6 @@ courses:
           C: limit time spent with friends.
           D: become friends with everyone.
         answer: A
-        print_position: 10
       - uid: MIN381.4.1.1.UPE.1
         subobj: 4.1.1
         type: upe
@@ -1359,7 +1329,6 @@ courses:
           C: the need is.
           D: they do best.
         answer: B
-        print_position: 1
       - uid: MIN381.4.1.1.TY.2
         subobj: 4.1.1
         type: ty
@@ -1370,7 +1339,6 @@ courses:
           C: “to empower others to do tasks.”
           D: “to do important work by oneself.”
         answer: C
-        print_position: 2
       - uid: MIN381.4.2.1.UPE.1
         subobj: 4.2.1
         type: upe
@@ -1401,7 +1369,6 @@ courses:
           C: select a topic.
           D: prepare one’s heart.
         answer: D
-        print_position: 3
       - uid: MIN381.4.2.1.TY.2
         subobj: 4.2.1
         type: ty
@@ -1412,7 +1379,6 @@ courses:
           C: two people at the same time.
           D: the advice of two wise leaders.
         answer: A
-        print_position: 4
       - uid: MIN381.4.2.2.UPE.1
         subobj: 4.2.2
         type: upe
@@ -1433,7 +1399,6 @@ courses:
           C: children.
           D: God.
         answer: A
-        print_position: 5
       - uid: MIN381.4.3.1.UPE.1
         subobj: 4.3.1
         type: upe
@@ -1454,7 +1419,6 @@ courses:
           C: give you a better preaching tone.
           D: enable you to follow the biblical pattern.
         answer: A
-        print_position: 6
       - uid: MIN381.4.3.2.UPE.1
         subobj: 4.3.2
         type: upe
@@ -1475,7 +1439,6 @@ courses:
           C: natural.
           D: simple.
         answer: C
-        print_position: 7
       - uid: MIN381.4.3.3.UPE.1
         subobj: 4.3.3
         type: upe
@@ -1496,7 +1459,6 @@ courses:
           C: relaxed.
           D: all of the above.
         answer: D
-        print_position: 8
       - uid: MIN381.4.3.4.UPE.1
         subobj: 4.3.4
         type: upe
@@ -1527,7 +1489,6 @@ courses:
           C: their faults.
           D: others’ faults.
         answer: A
-        print_position: 9
       - uid: MIN381.4.3.4.TY.2
         subobj: 4.3.4
         type: ty
@@ -1538,7 +1499,6 @@ courses:
           C: use stories everyone has heard.
           D: use altered names in the stories.
         answer: B
-        print_position: 10
       - uid: MIN381.5.1.1.UPE.1
         subobj: 5.1.1
         type: upe
@@ -1569,7 +1529,6 @@ courses:
           C: causing people to respond.
           D: staying on schedule.
         answer: A
-        print_position: 1
       - uid: MIN381.5.1.1.TY.2
         subobj: 5.1.1
         type: ty
@@ -1580,7 +1539,6 @@ courses:
           C: their ministry is more effective.
           D: their personalities change.
         answer: C
-        print_position: 2
       - uid: MIN381.5.2.1.TY.1
         subobj: 5.2.1
         type: ty
@@ -1591,7 +1549,6 @@ courses:
           C: planning time for multiple prophecies in the service.
           D: all of the above.
         answer: B
-        print_position: 3
       - uid: MIN381.5.2.2.UPE.1
         subobj: 5.2.2
         type: upe
@@ -1622,7 +1579,6 @@ courses:
           C: teach about spiritual fruit.
           D: allow them to use their gifts.
         answer: D
-        print_position: 4
       - uid: MIN381.5.2.2.TY.2
         subobj: 5.2.2
         type: ty
@@ -1633,7 +1589,6 @@ courses:
           C: reduce the spiritual to the natural.
           D: maintain our service schedule.
         answer: A
-        print_position: 5
       - uid: MIN381.5.2.2.TY.3
         subobj: 5.2.2
         type: ty
@@ -1644,7 +1599,6 @@ courses:
           C: discipline.
           D: common sense.
         answer: A
-        print_position: 6
       - uid: MIN381.5.3.1.UPE.1
         subobj: 5.3.1
         type: upe
@@ -1675,7 +1629,6 @@ courses:
           C: Church growth
           D: Change
         answer: D
-        print_position: 7
       - uid: MIN381.5.3.1.TY.2
         subobj: 5.3.1
         type: ty
@@ -1686,7 +1639,6 @@ courses:
           C: after preaching about salvation.
           D: when they see new people at church.
         answer: B
-        print_position: 8
       - uid: MIN381.5.3.2.UPE.1
         subobj: 5.3.2
         type: upe
@@ -1717,7 +1669,6 @@ courses:
           C: allows people to fellowship with others.
           D: gives pastors time to greet visitors.
         answer: A
-        print_position: 9
       - uid: MIN381.5.3.2.TY.2
         subobj: 5.3.2
         type: ty
@@ -1728,7 +1679,6 @@ courses:
           C: the guidance of the Holy Spirit.
           D: a vision from heaven.
         answer: C
-        print_position: 10
       - uid: MIN381.6.1.1.TY.1
         subobj: 6.1.1
         type: ty
@@ -1739,7 +1689,6 @@ courses:
           C: presence.
           D: explanations.
         answer: C
-        print_position: 1
       - uid: MIN381.6.1.2.UPE.1
         subobj: 6.1.2
         type: upe
@@ -1770,7 +1719,6 @@ courses:
           C: loudly.
           D: boldly.
         answer: A
-        print_position: 2
       - uid: MIN381.6.1.2.TY.2
         subobj: 6.1.2
         type: ty
@@ -1781,7 +1729,6 @@ courses:
           C: making them feel useless.
           D: avoiding them.
         answer: D
-        print_position: 3
       - uid: MIN381.6.2.1.UPE.1
         subobj: 6.2.1
         type: upe
@@ -1802,7 +1749,6 @@ courses:
           C: association.
           D: role-play.
         answer: B
-        print_position: 4
       - uid: MIN381.6.2.1.TY.2
         subobj: 6.2.1
         type: ty
@@ -1813,7 +1759,6 @@ courses:
           C: feelings of loneliness.
           D: all of the above.
         answer: D
-        print_position: 5
       - uid: MIN381.6.2.2.UPE.1
         subobj: 6.2.2
         type: upe
@@ -1834,7 +1779,6 @@ courses:
           C: depression.
           D: bargaining.
         answer: B
-        print_position: 6
       - uid: MIN381.6.2.2.TY.2
         subobj: 6.2.2
         type: ty
@@ -1845,7 +1789,6 @@ courses:
           C: acceptance.
           D: empathy.
         answer: C
-        print_position: 7
       - uid: MIN381.6.3.1.UPE.1
         subobj: 6.3.1
         type: upe
@@ -1866,7 +1809,6 @@ courses:
           C: teaching.
           D: listening.
         answer: D
-        print_position: 8
       - uid: MIN381.6.3.2.UPE.1
         subobj: 6.3.2
         type: upe
@@ -1897,7 +1839,6 @@ courses:
           C: absorb it.
           D: discuss it.
         answer: C
-        print_position: 9
       - uid: MIN381.6.3.2.TY.2
         subobj: 6.3.2
         type: ty
@@ -1908,7 +1849,6 @@ courses:
           C: talk to them.
           D: do things for them.
         answer: A
-        print_position: 10
       - uid: MIN381.7.1.1.UPE.1
         subobj: 7.1.1
         type: upe
@@ -1950,7 +1890,6 @@ courses:
           C: surrender his or her own dreams and desires to God.
           D: consult the key leaders of the congregation.
         answer: C
-        print_position: 1
       - uid: MIN381.7.1.1.TY.2
         subobj: 7.1.1
         type: ty
@@ -1961,7 +1900,6 @@ courses:
           C: Their spouses
           D: Counselors
         answer: B
-        print_position: 2
       - uid: MIN381.7.1.1.TY.3
         subobj: 7.1.1
         type: ty
@@ -1972,7 +1910,6 @@ courses:
           C: the Spirit’s inner-witness.
           D: all of the above.
         answer: D
-        print_position: 3
       - uid: MIN381.7.1.1.TY.4
         subobj: 7.1.1
         type: ty
@@ -1983,7 +1920,6 @@ courses:
           C: wise counsel.
           D: a vision.
         answer: D
-        print_position: 4
       - uid: MIN381.7.2.1.UPE.1
         subobj: 7.2.1
         type: upe
@@ -2024,7 +1960,6 @@ courses:
           C: obeying the wise counsel of others.
           D: allowing people to ask questions.
         answer: B
-        print_position: 5
       - uid: MIN381.7.2.1.TY.2
         subobj: 7.2.1
         type: ty
@@ -2035,7 +1970,6 @@ courses:
           C: new believers.
           D: everyone.
         answer: A
-        print_position: 6
       - uid: MIN381.7.2.1.TY.3
         subobj: 7.2.1
         type: ty
@@ -2046,7 +1980,6 @@ courses:
           C: teaching it to new members.
           D: all of the above.
         answer: D
-        print_position: 7
       - uid: MIN381.7.3.1.UPE.1
         subobj: 7.3.1
         type: upe
@@ -2067,7 +2000,6 @@ courses:
           C: preach several sermons about it.
           D: wait and watch.
         answer: A
-        print_position: 8
       - uid: MIN381.7.3.1.TY.2
         subobj: 7.3.1
         type: ty
@@ -2078,7 +2010,6 @@ courses:
           C: The soldiers
           D: Children
         answer: B
-        print_position: 9
       - uid: MIN381.7.3.2.UPE.1
         subobj: 7.3.2
         type: upe
@@ -2109,7 +2040,6 @@ courses:
           C: Overconfidence
           D: Ignorance
         answer: C
-        print_position: 10
       - uid: MIN381.8.1.1.UPE.1
         subobj: 8.1.1
         type: upe
@@ -2130,7 +2060,6 @@ courses:
           C: care for widows and orphans.
           D: share ministry responsibility.
         answer: D
-        print_position: 1
       - uid: MIN381.8.1.1.TY.2
         subobj: 8.1.1
         type: ty
@@ -2141,7 +2070,6 @@ courses:
           C: gifts and talents.
           D: Bible knowledge.
         answer: A
-        print_position: 2
       - uid: MIN381.8.1.1.TY.3
         subobj: 8.1.1
         type: ty
@@ -2152,7 +2080,6 @@ courses:
           C: David
           D: Jeremiah
         answer: B
-        print_position: 3
       - uid: MIN381.8.1.1.TY.4
         subobj: 8.1.1
         type: ty
@@ -2163,7 +2090,6 @@ courses:
           C: demonstrates spiritual maturity.
           D: has a Bible college education.
         answer: C
-        print_position: 4
       - uid: MIN381.8.2.1.UPE.1
         subobj: 8.2.1
         type: upe
@@ -2204,7 +2130,6 @@ courses:
           C: Bible study
           D: Life skills
         answer: C
-        print_position: 5
       - uid: MIN381.8.2.1.TY.2
         subobj: 8.2.1
         type: ty
@@ -2216,7 +2141,6 @@ courses:
           C: how to study the Bible.
           D: all of the above.
         answer: D
-        print_position: 6
       - uid: MIN381.8.2.1.TY.3
         subobj: 8.2.1
         type: ty
@@ -2227,7 +2151,6 @@ courses:
           C: Studying the Bible
           D: Discipling others
         answer: B
-        print_position: 7
       - uid: MIN381.8.3.1.UPE.1
         subobj: 8.3.1
         type: upe
@@ -2269,7 +2192,6 @@ courses:
           C: church business.
           D: music ministry.
         answer: A
-        print_position: 8
       - uid: MIN381.8.3.1.TY.2
         subobj: 8.3.1
         type: ty
@@ -2280,7 +2202,6 @@ courses:
           C: The Great Commission
           D: The gifts of the Spirit
         answer: D
-        print_position: 9
       - uid: MIN381.8.3.1.TY.3
         subobj: 8.3.1
         type: ty
@@ -2291,7 +2212,6 @@ courses:
           C: poll the congregation to determine interest.
           D: wait until other pastoral staff are hired.
         answer: A
-        print_position: 10
       - uid: MIN381.9.1.1.TY.1
         subobj: 9.1.1
         type: ty
@@ -2302,7 +2222,6 @@ courses:
           C: evangelism.
           D: personal ministry.
         answer: D
-        print_position: 1
       - uid: MIN381.9.1.2.UPE.1
         subobj: 9.1.2
         type: upe
@@ -2323,7 +2242,6 @@ courses:
           C: the mind-set of the people.
           D: all of the above.
         answer: D
-        print_position: 2
       - uid: MIN381.9.1.2.TY.2
         subobj: 9.1.2
         type: ty
@@ -2334,7 +2252,6 @@ courses:
           C: different in purpose, but equal in value.
           D: equal in purpose, but different in value.
         answer: C
-        print_position: 3
       - uid: MIN381.9.2.1.UPE.1
         subobj: 9.2.1
         type: upe
@@ -2375,7 +2292,6 @@ courses:
           C: plan a Sunday night service.
           D: do all of the above.
         answer: A
-        print_position: 4
       - uid: MIN381.9.2.1.TY.2
         subobj: 9.2.1
         type: ty
@@ -2386,7 +2302,6 @@ courses:
           C: make people feel welcome.
           D: start and end on time.
         answer: C
-        print_position: 5
       - uid: MIN381.9.2.1.TY.3
         subobj: 9.2.1
         type: ty
@@ -2397,7 +2312,6 @@ courses:
           C: playing soft music.
           D: sitting on the floor.
         answer: B
-        print_position: 6
       - uid: MIN381.9.2.1.TY.4
         subobj: 9.2.1
         type: ty
@@ -2408,7 +2322,6 @@ courses:
           C: keep themselves apart from the other group members.
           D: encourage an atmosphere of faith and ministry.
         answer: D
-        print_position: 7
       - uid: MIN381.9.2.1.TY.5
         subobj: 9.2.1
         type: ty
@@ -2419,7 +2332,6 @@ courses:
           C: disagreement.
           D: competition.
         answer: B
-        print_position: 8
       - uid: MIN381.9.3.1.UPE.1
         subobj: 9.3.1
         type: upe
@@ -2440,7 +2352,6 @@ courses:
           C: experience.
           D: character.
         answer: A
-        print_position: 9
       - uid: MIN381.9.3.1.TY.2
         subobj: 9.3.1
         type: ty
@@ -2451,7 +2362,6 @@ courses:
           C: information about salary.
           D: details about the group.
         answer: C
-        print_position: 10
       - uid: MIN381.10.1.1.UPE.1
         subobj: 10.1.1
         type: upe
@@ -2472,7 +2382,6 @@ courses:
           C: rental fees.
           D: counseling.
         answer: B
-        print_position: 1
       - uid: MIN381.10.1.1.TY.2
         subobj: 10.1.1
         type: ty
@@ -2483,7 +2392,6 @@ courses:
           C: unity.
           D: purity.
         answer: B
-        print_position: 3
       - uid: MIN381.10.1.2.UPE.1
         subobj: 10.1.2
         type: upe
@@ -2504,7 +2412,6 @@ courses:
           C: wedding checklist.
           D: order of service.
         answer: D
-        print_position: 2
       - uid: MIN381.10.1.3.TY.1
         subobj: 10.1.3
         type: ty
@@ -2515,7 +2422,6 @@ courses:
           C: affirm that children belong to God.
           D: protect children from evil spirits.
         answer: C
-        print_position: 4
       - uid: MIN381.10.1.4.TY.1
         subobj: 10.1.4
         type: ty
@@ -2526,7 +2432,6 @@ courses:
           C: Funerals
           D: All of the above
         answer: D
-        print_position: 5
       - uid: MIN381.10.1.4.TY.2
         subobj: 10.1.4
         type: ty
@@ -2538,7 +2443,6 @@ courses:
           C: tell them not to be sad.
           D: pray for the dead person’s soul.
         answer: A
-        print_position: 6
       - uid: MIN381.10.2.1.UPE.1
         subobj: 10.2.1
         type: upe
@@ -2559,7 +2463,6 @@ courses:
           C: Water baptism and baby dedications
           D: Communion and water baptism
         answer: D
-        print_position: 7
       - uid: MIN381.10.2.1.TY.2
         subobj: 10.2.1
         type: ty
@@ -2570,7 +2473,6 @@ courses:
           C: witness to three people.
           D: attend a membership class.
         answer: A
-        print_position: 8
       - uid: MIN381.10.2.2.TY.1
         subobj: 10.2.2
         type: ty
@@ -2581,7 +2483,6 @@ courses:
           C: the Holy Spirit.
           D: the Father, Son, and Holy Spirit.
         answer: D
-        print_position: 9
       - uid: MIN381.10.2.3.UPE.1
         subobj: 10.2.3
         type: upe
@@ -2602,7 +2503,6 @@ courses:
           C: only church members may take part.
           D: unfaithful believers are denied participation.
         answer: C
-        print_position: 10
       - uid: MIN381.11.1.1.TY.1
         subobj: 11.1.1
         type: ty
@@ -2613,7 +2513,6 @@ courses:
           C: Stephen and Philip.
           D: Paul and Barnabas.
         answer: A
-        print_position: 1
       - uid: MIN381.11.1.2.UPE.1
         subobj: 11.1.2
         type: upe
@@ -2634,7 +2533,6 @@ courses:
           C: church board should choose leaders.
           D: process for choosing leaders may vary.
         answer: D
-        print_position: 2
       - uid: MIN381.11.1.2.TY.2
         subobj: 11.1.2
         type: ty
@@ -2645,7 +2543,6 @@ courses:
           C: are true in every culture.
           D: depend on the situation.
         answer: C
-        print_position: 3
       - uid: MIN381.11.1.3.UPE.1
         subobj: 11.1.3
         type: upe
@@ -2667,7 +2564,6 @@ courses:
           C: interview possible leaders.
           D: vote for new leaders.
         answer: A
-        print_position: 4
       - uid: MIN381.11.1.3.TY.2
         subobj: 11.1.3
         type: ty
@@ -2679,7 +2575,6 @@ courses:
           C: Church members
           D: The pastor
         answer: C
-        print_position: 5
       - uid: MIN381.11.2.1.UPE.1
         subobj: 11.2.1
         type: upe
@@ -2700,7 +2595,6 @@ courses:
           C: agreeing.
           D: all of the above.
         answer: D
-        print_position: 6
       - uid: MIN381.11.2.2.TY.1
         subobj: 11.2.2
         type: ty
@@ -2711,7 +2605,6 @@ courses:
           C: protectors of the people.
           D: friends of the pastor.
         answer: B
-        print_position: 7
       - uid: MIN381.11.2.2.TY.2
         subobj: 11.2.2
         type: ty
@@ -2722,7 +2615,6 @@ courses:
           C: explain the pastor’s position.
           D: share the complaint with the board.
         answer: C
-        print_position: 8
       - uid: MIN381.11.2.3.TY.1
         subobj: 11.2.3
         type: ty
@@ -2734,7 +2626,6 @@ courses:
           C: professional conduct.
           D: impersonal events.
         answer: B
-        print_position: 9
       - uid: MIN381.11.3.1.UPE.1
         subobj: 11.3.1
         type: upe
@@ -2755,7 +2646,6 @@ courses:
           C: board meetings.
           D: retreats.
         answer: D
-        print_position: 10
       - uid: MIN381.12.1.1.TY.1
         subobj: 12.1.1
         type: ty
@@ -2766,7 +2656,6 @@ courses:
           C: effectiveness.
           D: all of the above.
         answer: D
-        print_position: 1
       - uid: MIN381.12.1.2.UPE.1
         subobj: 12.1.2
         type: upe
@@ -2787,7 +2676,6 @@ courses:
           C: programs.
           D: resources.
         answer: B
-        print_position: 2
       - uid: MIN381.12.2.1.UPE.1
         subobj: 12.2.1
         type: upe
@@ -2819,7 +2707,6 @@ courses:
           C: friend.
           D: student.
         answer: C
-        print_position: 3
       - uid: MIN381.12.2.1.TY.2
         subobj: 12.2.1
         type: ty
@@ -2830,7 +2717,6 @@ courses:
           C: character.
           D: experience.
         answer: C
-        print_position: 4
       - uid: MIN381.12.2.1.TY.3
         subobj: 12.2.1
         type: ty
@@ -2841,7 +2727,6 @@ courses:
           C: local businesses.
           D: their own churches.
         answer: D
-        print_position: 5
       - uid: MIN381.12.2.1.TY.4
         subobj: 12.2.1
         type: ty
@@ -2853,7 +2738,6 @@ courses:
           C: somewhat.
           D: a lot.
         answer: A
-        print_position: 6
       - uid: MIN381.12.3.1.UPE.1
         subobj: 12.3.1
         type: upe
@@ -2884,7 +2768,6 @@ courses:
           C: asking questions.
           D: caring for needs.
         answer: A
-        print_position: 7
       - uid: MIN381.12.3.1.TY.2
         subobj: 12.3.1
         type: ty
@@ -2895,7 +2778,6 @@ courses:
           C: Ministers of pastoral care
           D: Senior pastors
         answer: D
-        print_position: 8
       - uid: MIN381.12.3.1.TY.3
         subobj: 12.3.1
         type: ty
@@ -2906,7 +2788,6 @@ courses:
           C: growth.
           D: security.
         answer: B
-        print_position: 9
       - uid: MIN381.12.3.1.TY.4
         subobj: 12.3.1
         type: ty
@@ -2917,7 +2798,6 @@ courses:
           C: trust.
           D: fellowship.
         answer: C
-        print_position: 10
       - uid: MIN381.13.1.1.UPE.1
         subobj: 13.1.1
         type: upe
@@ -2938,7 +2818,6 @@ courses:
           C: care about people.
           D: have social support.
         answer: A
-        print_position: 1
       - uid: MIN381.13.1.1.TY.2
         subobj: 13.1.1
         type: ty
@@ -2949,7 +2828,6 @@ courses:
           C: people-centered.
           D: need-centered.
         answer: D
-        print_position: 2
       - uid: MIN381.13.1.1.TY.3
         subobj: 13.1.1
         type: ty
@@ -2960,7 +2838,6 @@ courses:
           C: take every seventh year off.
           D: do only what you enjoy.
         answer: B
-        print_position: 3
       - uid: MIN381.13.2.1.UPE.1
         subobj: 13.2.1
         type: upe
@@ -2981,7 +2858,6 @@ courses:
           C: caring for personal needs.
           D: doing all of the above.
         answer: D
-        print_position: 4
       - uid: MIN381.13.2.1.TY.2
         subobj: 13.2.1
         type: ty
@@ -2992,7 +2868,6 @@ courses:
           C: month.
           D: six weeks.
         answer: A
-        print_position: 5
       - uid: MIN381.13.3.1.UPE.1
         subobj: 13.3.1
         type: upe
@@ -3033,7 +2908,6 @@ courses:
           C: worship.
           D: study.
         answer: C
-        print_position: 6
       - uid: MIN381.13.3.1.TY.2
         subobj: 13.3.1
         type: ty
@@ -3044,7 +2918,6 @@ courses:
           C: worried about having enough time.
           D: was faithful to His Father’s will.
         answer: D
-        print_position: 7
       - uid: MIN381.13.3.1.TY.3
         subobj: 13.3.1
         type: ty
@@ -3055,7 +2928,6 @@ courses:
           C: efficiency.
           D: quality preaching.
         answer: B
-        print_position: 8
       - uid: MIN381.13.3.1.TY.4
         subobj: 13.3.1
         type: ty
@@ -3066,7 +2938,6 @@ courses:
           C: Event
           D: Lifestyle
         answer: D
-        print_position: 9
       - uid: MIN381.13.3.1.TY.5
         subobj: 13.3.1
         type: ty
@@ -3077,7 +2948,6 @@ courses:
           C: still their thoughts.
           D: turn down the lights.
         answer: C
-        print_position: 10
       - uid: MIN381.14.1.1.UPE.1
         subobj: 14.1.1
         type: upe
@@ -3098,7 +2968,6 @@ courses:
           C: study.
           D: silence.
         answer: D
-        print_position: 1
       - uid: MIN381.14.1.1.TY.2
         subobj: 14.1.1
         type: ty
@@ -3109,7 +2978,6 @@ courses:
           C: respond to God’s voice.
           D: do all of the above.
         answer: D
-        print_position: 2
       - uid: MIN381.14.1.1.TY.3
         subobj: 14.1.1
         type: ty
@@ -3120,7 +2988,6 @@ courses:
           C: Communion.
           D: Sabbath rest.
         answer: B
-        print_position: 3
       - uid: MIN381.14.2.1.UPE.1
         subobj: 14.2.1
         type: upe
@@ -3151,7 +3018,6 @@ courses:
           C: vision.
           D: commitment.
         answer: A
-        print_position: 4
       - uid: MIN381.14.2.1.TY.2
         subobj: 14.2.1
         type: ty
@@ -3162,7 +3028,6 @@ courses:
           C: their relationship with Jesus.
           D: past experience.
         answer: C
-        print_position: 5
       - uid: MIN381.14.2.1.TY.3
         subobj: 14.2.1
         type: ty
@@ -3173,7 +3038,6 @@ courses:
           C: laziness.
           D: loneliness.
         answer: A
-        print_position: 6
       - uid: MIN381.14.3.1.UPE.1
         subobj: 14.3.1
         type: upe
@@ -3204,7 +3068,6 @@ courses:
           C: rejection.
           D: selfishness.
         answer: B
-        print_position: 7
       - uid: MIN381.14.3.1.TY.2
         subobj: 14.3.1
         type: ty
@@ -3215,7 +3078,6 @@ courses:
           C: take communion.
           D: forgive offenses.
         answer: D
-        print_position: 8
       - uid: MIN381.14.3.1.TY.3
         subobj: 14.3.1
         type: ty
@@ -3226,7 +3088,6 @@ courses:
           C: do it in a group.
           D: boldly speak whatever is true.
         answer: B
-        print_position: 9
       - uid: MIN381.14.3.1.TY.4
         subobj: 14.3.1
         type: ty
@@ -3237,7 +3098,6 @@ courses:
           C: humbly responding to whatever is true.
           D: rebuking the person who criticizes us.
         answer: C
-        print_position: 10
       - uid: MIN381.15.1.1.UPE.1
         subobj: 15.1.1
         type: upe
@@ -3278,7 +3138,6 @@ courses:
           C: focusing on the future.
           D: teaching people not to complain.
         answer: A
-        print_position: 1
       - uid: MIN381.15.1.1.TY.2
         subobj: 15.1.1
         type: ty
@@ -3289,7 +3148,6 @@ courses:
           C: Romans
           D: James
         answer: D
-        print_position: 2
       - uid: MIN381.15.1.1.TY.3
         subobj: 15.1.1
         type: ty
@@ -3300,7 +3158,6 @@ courses:
           C: preaching sermons about submission.
           D: telling them what they should vote for.
         answer: B
-        print_position: 3
       - uid: MIN381.15.1.1.TY.4
         subobj: 15.1.1
         type: ty
@@ -3311,7 +3168,6 @@ courses:
           C: print a schedule for the meeting.
           D: establish some rules of order.
         answer: D
-        print_position: 4
       - uid: MIN381.15.2.1.UPE.1
         subobj: 15.2.1
         type: upe
@@ -3342,7 +3198,6 @@ courses:
           C: admit that they are at fault.
           D: verbally review their actions.
         answer: C
-        print_position: 5
       - uid: MIN381.15.2.1.TY.2
         subobj: 15.2.1
         type: ty
@@ -3354,7 +3209,6 @@ courses:
           C: Already
           D: I wish.
         answer: B
-        print_position: 6
       - uid: MIN381.15.2.1.TY.3
         subobj: 15.2.1
         type: ty
@@ -3365,7 +3219,6 @@ courses:
           C: police officer.
           D: student.
         answer: A
-        print_position: 7
       - uid: MIN381.15.2.1.TY.4
         subobj: 15.2.1
         type: ty
@@ -3377,7 +3230,6 @@ courses:
           C: ask them to resign.
           D: forgive and accept them.
         answer: D
-        print_position: 8
       - uid: MIN381.15.3.1.UPE.1
         subobj: 15.3.1
         type: upe
@@ -3398,7 +3250,6 @@ courses:
           C: servants.
           D: customers.
         answer: C
-        print_position: 9
       - uid: MIN381.15.3.1.TY.2
         subobj: 15.3.1
         type: ty
@@ -3409,10 +3260,6 @@ courses:
           C: Peter.
           D: Paul.
         answer: B
-        print_position: 10
-      product_id: BMIN381ENE03-90_03.22.01
-      position_note: 'source unusable: parsed 282 UPE records against a recorded 100'
-      captured: reparse
     - pn: 04.26.01
       course_code: MIN381
       source_html: MIN381_UMD.html
@@ -3433,8 +3280,6 @@ courses:
           C: helps the minister stand firm during hard times.
           D: keeps the minister from teaching false doctrine.
         answer: C
-        print_position: 1
-        unit: 1
       - uid: MIN381.1.1.1.UPE.2
         subobj: 1.1.1
         type: upe
@@ -3445,8 +3290,6 @@ courses:
           C: popularity.
           D: open doors.
         answer: D
-        print_position: 2
-        unit: 1
       - uid: MIN381.1.1.1.TY.1
         subobj: 1.1.1
         type: ty
@@ -3457,7 +3300,6 @@ courses:
           C: helps the minister stand firm during hard times.
           D: keeps the minister from teaching false doctrine.
         answer: C
-        print_position: 1
       - uid: MIN381.1.1.2.UPE.1
         subobj: 1.1.2
         type: upe
@@ -3468,8 +3310,6 @@ courses:
           C: age is sufficient.
           D: life is sanctified.
         answer: A
-        print_position: 3
-        unit: 1
       - uid: MIN381.1.1.2.UPE.2
         subobj: 1.1.2
         type: upe
@@ -3480,8 +3320,6 @@ courses:
           C: choose twelve disciples.
           D: begin serving in small ways.
         answer: D
-        print_position: 4
-        unit: 1
       - uid: MIN381.1.1.2.UPE.3
         subobj: 1.1.2
         type: upe
@@ -3492,8 +3330,6 @@ courses:
           C: cause any other occupation to be unsuccessful.
           D: result in personal sanctification.
         answer: A
-        print_position: 5
-        unit: 1
       - uid: MIN381.1.1.2.TY.1
         subobj: 1.1.2
         type: ty
@@ -3505,7 +3341,6 @@ courses:
           C: popularity.
           D: open doors.
         answer: D
-        print_position: 2
       - uid: MIN381.1.1.2.TY.2
         subobj: 1.1.2
         type: ty
@@ -3516,7 +3351,6 @@ courses:
           C: age is sufficient.
           D: life is sanctified.
         answer: A
-        print_position: 3
       - uid: MIN381.1.1.2.TY.3
         subobj: 1.1.2
         type: ty
@@ -3527,7 +3361,6 @@ courses:
           C: choose twelve disciples.
           D: start serving in small ways.
         answer: D
-        print_position: 4
       - uid: MIN381.1.2.1.UPE.1
         subobj: 1.2.1
         type: upe
@@ -3538,8 +3371,6 @@ courses:
           C: talents.
           D: knowledge.
         answer: B
-        print_position: 6
-        unit: 1
       - uid: MIN381.1.2.1.UPE.2
         subobj: 1.2.1
         type: upe
@@ -3550,8 +3381,6 @@ courses:
           C: thinking and acting right.
           D: praying for a person.
         answer: C
-        print_position: 7
-        unit: 1
       - uid: MIN381.1.2.1.TY.1
         subobj: 1.2.1
         type: ty
@@ -3562,7 +3391,6 @@ courses:
           C: Talents
           D: Knowledge
         answer: B
-        print_position: 5
       - uid: MIN381.1.2.1.TY.2
         subobj: 1.2.1
         type: ty
@@ -3573,7 +3401,6 @@ courses:
           C: what you feel.
           D: what others do.
         answer: A
-        print_position: 6
       - uid: MIN381.1.2.1.TY.3
         subobj: 1.2.1
         type: ty
@@ -3584,7 +3411,6 @@ courses:
           C: thinking and acting right.
           D: praying for a person.
         answer: C
-        print_position: 7
       - uid: MIN381.1.3.1.UPE.1
         subobj: 1.3.1
         type: upe
@@ -3595,8 +3421,6 @@ courses:
           C: character and gifts.
           D: gifts and talent.
         answer: C
-        print_position: 8
-        unit: 1
       - uid: MIN381.1.3.1.TY.1
         subobj: 1.3.1
         type: ty
@@ -3607,7 +3431,6 @@ courses:
           C: improving their weaknesses.
           D: managing church business.
         answer: A
-        print_position: 8
       - uid: MIN381.1.3.1.TY.2
         subobj: 1.3.1
         type: ty
@@ -3618,7 +3441,6 @@ courses:
           C: building effective teams.
           D: acquiring more training.
         answer: C
-        print_position: 9
       - uid: MIN381.1.3.1.TY.3
         subobj: 1.3.1
         type: ty
@@ -3629,7 +3451,6 @@ courses:
           C: character, and gifts.
           D: gifts, and talent.
         answer: C
-        print_position: 10
       - uid: MIN381.2.1.1.UPE.1
         subobj: 2.1.1
         type: upe
@@ -3640,8 +3461,6 @@ courses:
           C: prayed only during significant events.
           D: did not need to pray since He was divine.
         answer: B
-        print_position: 9
-        unit: 1
       - uid: MIN381.2.1.1.TY.1
         subobj: 2.1.1
         type: ty
@@ -3652,7 +3471,6 @@ courses:
           C: plan sermon outlines.
           D: ask God to help others.
         answer: B
-        print_position: 1
       - uid: MIN381.2.1.1.TY.2
         subobj: 2.1.1
         type: ty
@@ -3663,7 +3481,6 @@ courses:
           C: Pray
           D: Acquire training
         answer: C
-        print_position: 2
       - uid: MIN381.2.2.1.UPE.1
         subobj: 2.2.1
         type: upe
@@ -3674,8 +3491,6 @@ courses:
           C: theme.
           D: grammar.
         answer: A
-        print_position: 10
-        unit: 1
       - uid: MIN381.2.2.1.TY.1
         subobj: 2.2.1
         type: ty
@@ -3686,7 +3501,6 @@ courses:
           C: Theme
           D: Grammar
         answer: A
-        print_position: 3
       - uid: MIN381.2.2.1.TY.2
         subobj: 2.2.1
         type: ty
@@ -3698,7 +3512,6 @@ courses:
           C: prophecy.
           D: faith.
         answer: B
-        print_position: 4
       - uid: MIN381.2.2.1.TY.3
         subobj: 2.2.1
         type: ty
@@ -3709,7 +3522,6 @@ courses:
           C: has hidden meanings.
           D: contains some truth.
         answer: A
-        print_position: 5
       - uid: MIN381.2.2.2.UPE.1
         subobj: 2.2.2
         type: upe
@@ -3720,8 +3532,6 @@ courses:
           C: adding too much sugar to tea.
           D: reading books in the New Testament.
         answer: B
-        print_position: 11
-        unit: 1
       - uid: MIN381.2.2.2.UPE.2
         subobj: 2.2.2
         type: upe
@@ -3732,8 +3542,6 @@ courses:
           C: reading expository sermons of proven quality.
           D: not to be found.
         answer: D
-        print_position: 12
-        unit: 1
       - uid: MIN381.2.2.2.TY.1
         subobj: 2.2.2
         type: ty
@@ -3744,7 +3552,6 @@ courses:
           C: provide a break from the Holy Scriptures.
           D: acquire practical advice for ministry.
         answer: D
-        print_position: 6
       - uid: MIN381.2.2.2.TY.2
         subobj: 2.2.2
         type: ty
@@ -3755,7 +3562,6 @@ courses:
           C: listening to sermons.
           D: none of the above.
         answer: D
-        print_position: 7
       - uid: MIN381.2.3.1.UPE.1
         subobj: 2.3.1
         type: upe
@@ -3766,8 +3572,6 @@ courses:
           C: complete fast.
           D: supernatural fast.
         answer: B
-        print_position: 13
-        unit: 1
       - uid: MIN381.2.3.1.TY.1
         subobj: 2.3.1
         type: ty
@@ -3778,7 +3582,6 @@ courses:
           C: only for healing needs.
           D: on a regular basis.
         answer: D
-        print_position: 8
       - uid: MIN381.2.3.1.TY.2
         subobj: 2.3.1
         type: ty
@@ -3789,7 +3592,6 @@ courses:
           C: complete fast.
           D: supernatural fast.
         answer: B
-        print_position: 9
       - uid: MIN381.2.3.1.TY.3
         subobj: 2.3.1
         type: ty
@@ -3800,7 +3602,6 @@ courses:
           C: loss of weight.
           D: wisdom to lead.
         answer: D
-        print_position: 10
       - uid: MIN381.3.1.1.UPE.1
         subobj: 3.1.1
         type: upe
@@ -3811,8 +3612,6 @@ courses:
           C: encouraging the spouse to be involved in ministry.
           D: enjoying the spouse’s fellowship more than their time with the Lord.
         answer: A
-        print_position: 14
-        unit: 1
       - uid: MIN381.3.1.1.TY.1
         subobj: 3.1.1
         type: ty
@@ -3823,7 +3622,6 @@ courses:
           C: spouses will be proud of them.
           D: marriages will weaken.
         answer: D
-        print_position: 1
       - uid: MIN381.3.2.2.UPE.1
         subobj: 3.2.2
         type: upe
@@ -3837,8 +3635,6 @@ courses:
           D: There are no differences as to the way single and married ministers are
             perceived.
         answer: C
-        print_position: 15
-        unit: 1
       - uid: MIN381.3.2.2.TY.1
         subobj: 3.2.2
         type: ty
@@ -3850,7 +3646,6 @@ courses:
           C: teenagers.
           D: families.
         answer: B
-        print_position: 3
       - uid: MIN381.3.2.3.UPE.1
         subobj: 3.2.3
         type: upe
@@ -3862,8 +3657,6 @@ courses:
           C: Joseph.
           D: Hosea.
         answer: D
-        print_position: 16
-        unit: 1
       - uid: MIN381.3.2.3.UPE.2
         subobj: 3.2.3
         type: upe
@@ -3875,8 +3668,6 @@ courses:
           D: One should not take on the responsibilities of marriage if the times
             are especially difficult.
         answer: C
-        print_position: 17
-        unit: 1
       - uid: MIN381.3.2.3.TY.1
         subobj: 3.2.3
         type: ty
@@ -3887,7 +3678,6 @@ courses:
           C: Ezekiel
           D: Daniel
         answer: B
-        print_position: 2
       - uid: MIN381.3.2.3.TY.2
         subobj: 3.2.3
         type: ty
@@ -3899,7 +3689,6 @@ courses:
           D: One should not take on the responsibilities of marriage if the times
             are especially difficult.
         answer: C
-        print_position: 4
       - uid: MIN381.3.3.1.UPE.1
         subobj: 3.3.1
         type: upe
@@ -3910,8 +3699,6 @@ courses:
           C: the influence of Mary, the mother of Jesus.
           D: Jesus’ teaching and example.
         answer: D
-        print_position: 18
-        unit: 1
       - uid: MIN381.3.3.1.TY.1
         subobj: 3.3.1
         type: ty
@@ -3923,7 +3710,6 @@ courses:
           C: pertaining only to the early church.
           D: being Paul’s personal opinion.
         answer: A
-        print_position: 5
       - uid: MIN381.3.3.2.TY.1
         subobj: 3.3.2
         type: ty
@@ -3934,7 +3720,6 @@ courses:
           C: The Holy Spirit equips all people, male and female, for God’s work.
           D: Both men and women are created in God’s image.
         answer: C
-        print_position: 6
       - uid: MIN381.3.3.3.UPE.1
         subobj: 3.3.3
         type: upe
@@ -3945,8 +3730,6 @@ courses:
           C: The Holy Spirit equips all people, male and female, for God’s work.
           D: Both men and women are created in God’s image.
         answer: C
-        print_position: 19
-        unit: 1
       - uid: MIN381.3.3.3.UPE.2
         subobj: 3.3.3
         type: upe
@@ -3960,8 +3743,6 @@ courses:
           D: begun Credentialed Women’s Fellowships and special sessions at Schools
             of Ministry.
         answer: D
-        print_position: 20
-        unit: 1
       - uid: MIN381.3.3.3.TY.1
         subobj: 3.3.3
         type: ty
@@ -3972,7 +3753,6 @@ courses:
           C: interpret challenges as closed doors.
           D: connect with each other and to valuable resources.
         answer: D
-        print_position: 7
       - uid: MIN381.3.4.1.UPE.1
         subobj: 3.4.1
         type: upe
@@ -3983,8 +3763,6 @@ courses:
           C: disciplining his children too harshly.
           D: not loving his children.
         answer: B
-        print_position: 21
-        unit: 1
       - uid: MIN381.3.4.1.TY.1
         subobj: 3.4.1
         type: ty
@@ -3995,7 +3773,6 @@ courses:
           C: failure to adequately discipline his sons.
           D: strict and unrelenting attitude.
         answer: B
-        print_position: 8
       - uid: MIN381.3.4.2.UPE.1
         subobj: 3.4.2
         type: upe
@@ -4006,8 +3783,6 @@ courses:
           C: teachers.
           D: friends.
         answer: B
-        print_position: 22
-        unit: 1
       - uid: MIN381.3.4.2.TY.1
         subobj: 3.4.2
         type: ty
@@ -4018,7 +3793,6 @@ courses:
           C: parents.
           D: friends.
         answer: C
-        print_position: 9
       - uid: MIN381.3.5.1.UPE.1
         subobj: 3.5.1
         type: upe
@@ -4030,8 +3804,6 @@ courses:
           C: does not have time for personal friendships.
           D: knows that the call to ministry sets them apart from other Christians.
         answer: B
-        print_position: 23
-        unit: 1
       - uid: MIN381.3.5.1.UPE.2
         subobj: 3.5.1
         type: upe
@@ -4042,8 +3814,6 @@ courses:
           C: balance work and study.
           D: disciple them for ministry.
         answer: A
-        print_position: 24
-        unit: 1
       - uid: MIN381.3.5.2.UPE.1
         subobj: 3.5.2
         type: upe
@@ -4054,8 +3824,6 @@ courses:
           C: build friendships slowly.
           D: avoid friendships in ministry.
         answer: C
-        print_position: 25
-        unit: 1
       - uid: MIN381.3.5.2.TY.1
         subobj: 3.5.2
         type: ty
@@ -4066,7 +3834,6 @@ courses:
           C: limit time spent with friends.
           D: become friends with everyone.
         answer: A
-        print_position: 10
       - uid: MIN381.4.1.1.UPE.1
         subobj: 4.1.1
         type: upe
@@ -4077,8 +3844,6 @@ courses:
           C: assign boring tasks to others.
           D: put first things first.
         answer: A
-        print_position: 1
-        unit: 2
       - uid: MIN381.4.1.1.UPE.2
         subobj: 4.1.1
         type: upe
@@ -4089,8 +3854,6 @@ courses:
           C: What do I do best?
           D: What has God called me to do?
         answer: D
-        print_position: 2
-        unit: 2
       - uid: MIN381.4.1.1.TY.1
         subobj: 4.1.1
         type: ty
@@ -4101,7 +3864,6 @@ courses:
           C: the need is.
           D: they do best.
         answer: B
-        print_position: 1
       - uid: MIN381.4.1.1.TY.2
         subobj: 4.1.1
         type: ty
@@ -4112,7 +3874,6 @@ courses:
           C: empower others to do tasks.
           D: do important work by oneself.
         answer: C
-        print_position: 2
       - uid: MIN381.4.2.1.UPE.1
         subobj: 4.2.1
         type: upe
@@ -4123,8 +3884,6 @@ courses:
           C: preparing your heart.
           D: writing an introduction.
         answer: C
-        print_position: 3
-        unit: 2
       - uid: MIN381.4.2.1.UPE.2
         subobj: 4.2.1
         type: upe
@@ -4135,8 +3894,6 @@ courses:
           C: two people at the same time.
           D: both sides of an issue.
         answer: B
-        print_position: 4
-        unit: 2
       - uid: MIN381.4.2.1.TY.1
         subobj: 4.2.1
         type: ty
@@ -4147,7 +3904,6 @@ courses:
           C: select a topic.
           D: prepare one’s heart.
         answer: D
-        print_position: 3
       - uid: MIN381.4.2.1.TY.2
         subobj: 4.2.1
         type: ty
@@ -4158,7 +3914,6 @@ courses:
           C: two people at the same time.
           D: the advice of two wise leaders.
         answer: A
-        print_position: 4
       - uid: MIN381.4.2.2.UPE.1
         subobj: 4.2.2
         type: upe
@@ -4169,8 +3924,6 @@ courses:
           C: children.
           D: God.
         answer: A
-        print_position: 5
-        unit: 2
       - uid: MIN381.4.2.2.TY.1
         subobj: 4.2.2
         type: ty
@@ -4181,7 +3934,6 @@ courses:
           C: children.
           D: God.
         answer: A
-        print_position: 5
       - uid: MIN381.4.3.1.UPE.1
         subobj: 4.3.1
         type: upe
@@ -4192,8 +3944,6 @@ courses:
           C: practice sermons to improve their messages.
           D: practice sermons so they seem well educated.
         answer: C
-        print_position: 6
-        unit: 2
       - uid: MIN381.4.3.1.TY.1
         subobj: 4.3.1
         type: ty
@@ -4204,7 +3954,6 @@ courses:
           C: give you a better preaching tone.
           D: enable you to follow the biblical pattern.
         answer: A
-        print_position: 6
       - uid: MIN381.4.3.2.UPE.1
         subobj: 4.3.2
         type: upe
@@ -4215,8 +3964,6 @@ courses:
           C: spiritual.
           D: dignified.
         answer: A
-        print_position: 7
-        unit: 2
       - uid: MIN381.4.3.2.TY.1
         subobj: 4.3.2
         type: ty
@@ -4227,7 +3974,6 @@ courses:
           C: natural.
           D: simple.
         answer: C
-        print_position: 7
       - uid: MIN381.4.3.3.UPE.1
         subobj: 4.3.3
         type: upe
@@ -4238,8 +3984,6 @@ courses:
           C: loud.
           D: all of the above.
         answer: A
-        print_position: 8
-        unit: 2
       - uid: MIN381.4.3.3.TY.1
         subobj: 4.3.3
         type: ty
@@ -4250,7 +3994,6 @@ courses:
           C: relaxed.
           D: all of the above.
         answer: D
-        print_position: 8
       - uid: MIN381.4.3.4.UPE.1
         subobj: 4.3.4
         type: upe
@@ -4261,8 +4004,6 @@ courses:
           C: use stories everyone has heard.
           D: tell stories in the present tense.
         answer: B
-        print_position: 9
-        unit: 2
       - uid: MIN381.4.3.4.UPE.2
         subobj: 4.3.4
         type: upe
@@ -4273,8 +4014,6 @@ courses:
           C: their faults.
           D: others’ faults.
         answer: A
-        print_position: 10
-        unit: 2
       - uid: MIN381.4.3.4.TY.1
         subobj: 4.3.4
         type: ty
@@ -4285,7 +4024,6 @@ courses:
           C: their faults.
           D: others’ faults.
         answer: A
-        print_position: 9
       - uid: MIN381.4.3.4.TY.2
         subobj: 4.3.4
         type: ty
@@ -4296,7 +4034,6 @@ courses:
           C: use stories everyone has heard.
           D: use altered names in the stories.
         answer: B
-        print_position: 10
       - uid: MIN381.5.1.1.UPE.1
         subobj: 5.1.1
         type: upe
@@ -4307,8 +4044,6 @@ courses:
           C: people listen to our sermons.
           D: people pay their tithes.
         answer: A
-        print_position: 11
-        unit: 2
       - uid: MIN381.5.1.1.UPE.2
         subobj: 5.1.1
         type: upe
@@ -4319,8 +4054,6 @@ courses:
           C: causing people to respond.
           D: staying on schedule.
         answer: A
-        print_position: 12
-        unit: 2
       - uid: MIN381.5.1.1.TY.1
         subobj: 5.1.1
         type: ty
@@ -4331,7 +4064,6 @@ courses:
           C: causing people to respond.
           D: staying on schedule.
         answer: A
-        print_position: 1
       - uid: MIN381.5.1.1.TY.2
         subobj: 5.1.1
         type: ty
@@ -4342,7 +4074,6 @@ courses:
           C: their ministry is more effective.
           D: their personalities change.
         answer: C
-        print_position: 2
       - uid: MIN381.5.2.1.TY.1
         subobj: 5.2.1
         type: ty
@@ -4353,7 +4084,6 @@ courses:
           C: planning time for multiple prophecies in the service.
           D: all of the above.
         answer: B
-        print_position: 3
       - uid: MIN381.5.2.2.UPE.1
         subobj: 5.2.2
         type: upe
@@ -4364,8 +4094,6 @@ courses:
           C: limits the freedom of the Spirit.
           D: reduces the spiritual to the natural.
         answer: B
-        print_position: 13
-        unit: 2
       - uid: MIN381.5.2.2.UPE.2
         subobj: 5.2.2
         type: upe
@@ -4376,8 +4104,6 @@ courses:
           C: teach about spiritual fruit.
           D: allow them to use their gifts.
         answer: D
-        print_position: 14
-        unit: 2
       - uid: MIN381.5.2.2.TY.1
         subobj: 5.2.2
         type: ty
@@ -4388,7 +4114,6 @@ courses:
           C: teach about spiritual fruit.
           D: allow them to use their gifts.
         answer: D
-        print_position: 4
       - uid: MIN381.5.2.2.TY.2
         subobj: 5.2.2
         type: ty
@@ -4399,7 +4124,6 @@ courses:
           C: reduce the spiritual to the natural.
           D: maintain our service schedule.
         answer: A
-        print_position: 5
       - uid: MIN381.5.2.2.TY.3
         subobj: 5.2.2
         type: ty
@@ -4410,7 +4134,6 @@ courses:
           C: discipline.
           D: common sense.
         answer: A
-        print_position: 6
       - uid: MIN381.5.3.1.UPE.1
         subobj: 5.3.1
         type: upe
@@ -4421,8 +4144,6 @@ courses:
           C: excitement.
           D: guilt.
         answer: A
-        print_position: 15
-        unit: 2
       - uid: MIN381.5.3.1.UPE.2
         subobj: 5.3.1
         type: upe
@@ -4433,8 +4154,6 @@ courses:
           C: at the close of each sermon.
           D: on the first Sunday of each month.
         answer: C
-        print_position: 16
-        unit: 2
       - uid: MIN381.5.3.1.TY.1
         subobj: 5.3.1
         type: ty
@@ -4445,7 +4164,6 @@ courses:
           C: Church growth
           D: Change
         answer: D
-        print_position: 7
       - uid: MIN381.5.3.1.TY.2
         subobj: 5.3.1
         type: ty
@@ -4456,7 +4174,6 @@ courses:
           C: after preaching about salvation.
           D: when they see new people at church.
         answer: B
-        print_position: 8
       - uid: MIN381.5.3.2.UPE.1
         subobj: 5.3.2
         type: upe
@@ -4467,8 +4184,6 @@ courses:
           C: the guidance of the Holy Spirit.
           D: a vision from heaven.
         answer: C
-        print_position: 17
-        unit: 2
       - uid: MIN381.5.3.2.UPE.2
         subobj: 5.3.2
         type: upe
@@ -4479,8 +4194,6 @@ courses:
           C: allows people to fellowship with others.
           D: shows whether the sermon was anointed.
         answer: B
-        print_position: 18
-        unit: 2
       - uid: MIN381.5.3.2.TY.1
         subobj: 5.3.2
         type: ty
@@ -4491,7 +4204,6 @@ courses:
           C: allows people to fellowship with others.
           D: gives pastors time to greet visitors.
         answer: A
-        print_position: 9
       - uid: MIN381.5.3.2.TY.2
         subobj: 5.3.2
         type: ty
@@ -4502,7 +4214,6 @@ courses:
           C: the guidance of the Holy Spirit.
           D: a vision from heaven.
         answer: C
-        print_position: 10
       - uid: MIN381.6.1.1.TY.1
         subobj: 6.1.1
         type: ty
@@ -4513,7 +4224,6 @@ courses:
           C: presence.
           D: explanations.
         answer: C
-        print_position: 1
       - uid: MIN381.6.1.2.UPE.1
         subobj: 6.1.2
         type: upe
@@ -4524,8 +4234,6 @@ courses:
           C: loudly.
           D: boldly.
         answer: A
-        print_position: 19
-        unit: 2
       - uid: MIN381.6.1.2.UPE.2
         subobj: 6.1.2
         type: upe
@@ -4536,8 +4244,6 @@ courses:
           C: reading the Bible to them.
           D: making them feel useless.
         answer: A
-        print_position: 20
-        unit: 2
       - uid: MIN381.6.1.2.TY.1
         subobj: 6.1.2
         type: ty
@@ -4548,7 +4254,6 @@ courses:
           C: loudly.
           D: boldly.
         answer: A
-        print_position: 2
       - uid: MIN381.6.1.2.TY.2
         subobj: 6.1.2
         type: ty
@@ -4559,7 +4264,6 @@ courses:
           C: making them feel useless.
           D: avoiding them.
         answer: D
-        print_position: 3
       - uid: MIN381.6.2.1.UPE.1
         subobj: 6.2.1
         type: upe
@@ -4570,8 +4274,6 @@ courses:
           C: association.
           D: role-play.
         answer: B
-        print_position: 21
-        unit: 2
       - uid: MIN381.6.2.1.TY.1
         subobj: 6.2.1
         type: ty
@@ -4582,7 +4284,6 @@ courses:
           C: association.
           D: role-play.
         answer: B
-        print_position: 4
       - uid: MIN381.6.2.1.TY.2
         subobj: 6.2.1
         type: ty
@@ -4593,7 +4294,6 @@ courses:
           C: loneliness.
           D: all of the above.
         answer: D
-        print_position: 5
       - uid: MIN381.6.2.2.UPE.1
         subobj: 6.2.2
         type: upe
@@ -4604,8 +4304,6 @@ courses:
           C: Denial
           D: Anger
         answer: D
-        print_position: 22
-        unit: 2
       - uid: MIN381.6.2.2.TY.1
         subobj: 6.2.2
         type: ty
@@ -4616,7 +4314,6 @@ courses:
           C: depression.
           D: bargaining.
         answer: B
-        print_position: 6
       - uid: MIN381.6.2.2.TY.2
         subobj: 6.2.2
         type: ty
@@ -4627,7 +4324,6 @@ courses:
           C: acceptance.
           D: empathy.
         answer: C
-        print_position: 7
       - uid: MIN381.6.3.1.UPE.1
         subobj: 6.3.1
         type: upe
@@ -4638,8 +4334,6 @@ courses:
           C: teaching.
           D: listening.
         answer: D
-        print_position: 23
-        unit: 2
       - uid: MIN381.6.3.1.TY.1
         subobj: 6.3.1
         type: ty
@@ -4650,7 +4344,6 @@ courses:
           C: teaching.
           D: listening.
         answer: D
-        print_position: 8
       - uid: MIN381.6.3.2.UPE.1
         subobj: 6.3.2
         type: upe
@@ -4661,8 +4354,6 @@ courses:
           C: talk to them.
           D: do things for them.
         answer: A
-        print_position: 24
-        unit: 2
       - uid: MIN381.6.3.2.UPE.2
         subobj: 6.3.2
         type: upe
@@ -4673,8 +4364,6 @@ courses:
           C: give a gentle rebuke.
           D: reflect the anger back.
         answer: A
-        print_position: 25
-        unit: 2
       - uid: MIN381.6.3.2.TY.1
         subobj: 6.3.2
         type: ty
@@ -4685,7 +4374,6 @@ courses:
           C: absorb it.
           D: discuss it.
         answer: C
-        print_position: 9
       - uid: MIN381.6.3.2.TY.2
         subobj: 6.3.2
         type: ty
@@ -4696,7 +4384,6 @@ courses:
           C: talk to them.
           D: do things for them.
         answer: A
-        print_position: 10
       - uid: MIN381.7.1.1.UPE.1
         subobj: 7.1.1
         type: upe
@@ -4707,8 +4394,6 @@ courses:
           C: situations.
           D: fleeces.
         answer: C
-        print_position: 1
-        unit: 3
       - uid: MIN381.7.1.1.UPE.2
         subobj: 7.1.1
         type: upe
@@ -4719,8 +4404,6 @@ courses:
           C: their spouses.
           D: counselors.
         answer: B
-        print_position: 2
-        unit: 3
       - uid: MIN381.7.1.1.UPE.3
         subobj: 7.1.1
         type: upe
@@ -4731,8 +4414,6 @@ courses:
           C: ask others to confirm your ideas.
           D: try overly hard to hear God’s voice.
         answer: D
-        print_position: 3
-        unit: 3
       - uid: MIN381.7.1.1.TY.1
         subobj: 7.1.1
         type: ty
@@ -4744,7 +4425,6 @@ courses:
           C: surrender their own dreams and desires to God.
           D: consult the key leaders of the congregation.
         answer: C
-        print_position: 1
       - uid: MIN381.7.1.1.TY.2
         subobj: 7.1.1
         type: ty
@@ -4755,7 +4435,6 @@ courses:
           C: Their spouses
           D: Counselors
         answer: B
-        print_position: 2
       - uid: MIN381.7.1.1.TY.3
         subobj: 7.1.1
         type: ty
@@ -4766,7 +4445,6 @@ courses:
           C: the Spirit’s inner witness.
           D: all of the above.
         answer: D
-        print_position: 3
       - uid: MIN381.7.1.1.TY.4
         subobj: 7.1.1
         type: ty
@@ -4777,7 +4455,6 @@ courses:
           C: wise counsel.
           D: a vision.
         answer: D
-        print_position: 4
       - uid: MIN381.7.2.1.UPE.1
         subobj: 7.2.1
         type: upe
@@ -4788,8 +4465,6 @@ courses:
           C: and other pastors.
           D: alone.
         answer: B
-        print_position: 4
-        unit: 3
       - uid: MIN381.7.2.1.UPE.2
         subobj: 7.2.1
         type: upe
@@ -4800,8 +4475,6 @@ courses:
           C: defend their position.
           D: inspire the church.
         answer: A
-        print_position: 5
-        unit: 3
       - uid: MIN381.7.2.1.UPE.3
         subobj: 7.2.1
         type: upe
@@ -4812,8 +4485,6 @@ courses:
           C: obey the wise counsel of others.
           D: wait for the people to accept the vision.
         answer: D
-        print_position: 6
-        unit: 3
       - uid: MIN381.7.2.1.TY.1
         subobj: 7.2.1
         type: ty
@@ -4824,7 +4495,6 @@ courses:
           C: obeying the wise counsel of others.
           D: allowing people to ask questions.
         answer: B
-        print_position: 5
       - uid: MIN381.7.2.1.TY.2
         subobj: 7.2.1
         type: ty
@@ -4835,7 +4505,6 @@ courses:
           C: new believers.
           D: everyone.
         answer: A
-        print_position: 6
       - uid: MIN381.7.2.1.TY.3
         subobj: 7.2.1
         type: ty
@@ -4846,7 +4515,6 @@ courses:
           C: teaching it to new members.
           D: all of the above.
         answer: D
-        print_position: 7
       - uid: MIN381.7.3.1.UPE.1
         subobj: 7.3.1
         type: upe
@@ -4857,8 +4525,6 @@ courses:
           C: force.
           D: charisma.
         answer: B
-        print_position: 7
-        unit: 3
       - uid: MIN381.7.3.1.TY.1
         subobj: 7.3.1
         type: ty
@@ -4869,7 +4535,6 @@ courses:
           C: preach several sermons about it.
           D: wait and watch.
         answer: A
-        print_position: 8
       - uid: MIN381.7.3.1.TY.2
         subobj: 7.3.1
         type: ty
@@ -4880,7 +4545,6 @@ courses:
           C: The soldiers
           D: Children
         answer: B
-        print_position: 9
       - uid: MIN381.7.3.2.UPE.1
         subobj: 7.3.2
         type: upe
@@ -4891,8 +4555,6 @@ courses:
           C: Moses
           D: Warriors
         answer: A
-        print_position: 8
-        unit: 3
       - uid: MIN381.7.3.2.UPE.2
         subobj: 7.3.2
         type: upe
@@ -4903,8 +4565,6 @@ courses:
           C: Overconfidence
           D: Ignorance
         answer: C
-        print_position: 9
-        unit: 3
       - uid: MIN381.7.3.2.TY.1
         subobj: 7.3.2
         type: ty
@@ -4915,7 +4575,6 @@ courses:
           C: Overconfidence
           D: Ignorance
         answer: C
-        print_position: 10
       - uid: MIN381.8.1.1.UPE.1
         subobj: 8.1.1
         type: upe
@@ -4926,8 +4585,6 @@ courses:
           C: character, spiritual maturity, gifts.
           D: gifts, character, spiritual maturity.
         answer: A
-        print_position: 10
-        unit: 3
       - uid: MIN381.8.1.1.TY.1
         subobj: 8.1.1
         type: ty
@@ -4938,7 +4595,6 @@ courses:
           C: care for widows and orphans.
           D: share ministry responsibility.
         answer: D
-        print_position: 1
       - uid: MIN381.8.1.1.TY.2
         subobj: 8.1.1
         type: ty
@@ -4949,7 +4605,6 @@ courses:
           C: gifts and talents.
           D: Bible knowledge.
         answer: A
-        print_position: 2
       - uid: MIN381.8.1.1.TY.3
         subobj: 8.1.1
         type: ty
@@ -4960,7 +4615,6 @@ courses:
           C: David
           D: Jeremiah
         answer: B
-        print_position: 3
       - uid: MIN381.8.1.1.TY.4
         subobj: 8.1.1
         type: ty
@@ -4971,7 +4625,6 @@ courses:
           C: demonstrates spiritual maturity.
           D: has a Bible college education.
         answer: C
-        print_position: 4
       - uid: MIN381.8.2.1.UPE.1
         subobj: 8.2.1
         type: upe
@@ -4982,8 +4635,6 @@ courses:
           C: Counseling skills
           D: Bible study
         answer: D
-        print_position: 11
-        unit: 3
       - uid: MIN381.8.2.1.UPE.2
         subobj: 8.2.1
         type: upe
@@ -4994,8 +4645,6 @@ courses:
           C: disciple others.
           D: pray for the sick.
         answer: B
-        print_position: 12
-        unit: 3
       - uid: MIN381.8.2.1.UPE.3
         subobj: 8.2.1
         type: upe
@@ -5006,8 +4655,6 @@ courses:
           C: for retired pastors.
           D: to equip people for specific ministry tasks.
         answer: D
-        print_position: 13
-        unit: 3
       - uid: MIN381.8.2.1.TY.1
         subobj: 8.2.1
         type: ty
@@ -5018,7 +4665,6 @@ courses:
           C: Bible study
           D: Life skills
         answer: C
-        print_position: 5
       - uid: MIN381.8.2.1.TY.2
         subobj: 8.2.1
         type: ty
@@ -5030,7 +4676,6 @@ courses:
           C: how to study the Bible.
           D: all of the above.
         answer: D
-        print_position: 6
       - uid: MIN381.8.2.1.TY.3
         subobj: 8.2.1
         type: ty
@@ -5041,7 +4686,6 @@ courses:
           C: Studying the Bible
           D: Discipling others
         answer: B
-        print_position: 7
       - uid: MIN381.8.3.1.UPE.1
         subobj: 8.3.1
         type: upe
@@ -5053,8 +4697,6 @@ courses:
           C: talk to a turtle?”
           D: catch a monkey?”
         answer: A
-        print_position: 14
-        unit: 3
       - uid: MIN381.8.3.1.UPE.2
         subobj: 8.3.1
         type: upe
@@ -5065,8 +4707,6 @@ courses:
           C: the Great Commission.
           D: the gifts of the Spirit.
         answer: D
-        print_position: 15
-        unit: 3
       - uid: MIN381.8.3.1.UPE.3
         subobj: 8.3.1
         type: upe
@@ -5077,8 +4717,6 @@ courses:
           C: church business.
           D: music ministry.
         answer: B
-        print_position: 1
-        unit: 3
       - uid: MIN381.8.3.1.TY.1
         subobj: 8.3.1
         type: ty
@@ -5089,7 +4727,6 @@ courses:
           C: church business.
           D: music ministry.
         answer: A
-        print_position: 8
       - uid: MIN381.8.3.1.TY.2
         subobj: 8.3.1
         type: ty
@@ -5100,7 +4737,6 @@ courses:
           C: The Great Commission
           D: The gifts of the Spirit
         answer: D
-        print_position: 9
       - uid: MIN381.8.3.1.TY.3
         subobj: 8.3.1
         type: ty
@@ -5111,7 +4747,6 @@ courses:
           C: poll the congregation to determine interest.
           D: wait until other pastoral staff are hired.
         answer: A
-        print_position: 10
       - uid: MIN381.9.1.1.TY.1
         subobj: 9.1.1
         type: ty
@@ -5122,7 +4757,6 @@ courses:
           C: evangelism.
           D: personal ministry.
         answer: D
-        print_position: 1
       - uid: MIN381.9.1.2.UPE.1
         subobj: 9.1.2
         type: upe
@@ -5133,8 +4767,6 @@ courses:
           C: worship.
           D: evangelism.
         answer: C
-        print_position: 17
-        unit: 3
       - uid: MIN381.9.1.2.TY.1
         subobj: 9.1.2
         type: ty
@@ -5145,7 +4777,6 @@ courses:
           C: the mindset of the people.
           D: all of the above.
         answer: D
-        print_position: 2
       - uid: MIN381.9.1.2.TY.2
         subobj: 9.1.2
         type: ty
@@ -5156,7 +4787,6 @@ courses:
           C: different in purpose, but equal in value.
           D: equal in purpose, but different in value.
         answer: C
-        print_position: 3
       - uid: MIN381.9.2.1.UPE.1
         subobj: 9.2.1
         type: upe
@@ -5167,8 +4797,6 @@ courses:
           C: pastoral duties.
           D: pastoral care.
         answer: D
-        print_position: 18
-        unit: 3
       - uid: MIN381.9.2.1.UPE.2
         subobj: 9.2.1
         type: upe
@@ -5179,8 +4807,6 @@ courses:
           C: telling a Bible story.
           D: sharing their struggles.
         answer: D
-        print_position: 19
-        unit: 3
       - uid: MIN381.9.2.1.UPE.3
         subobj: 9.2.1
         type: upe
@@ -5191,8 +4817,6 @@ courses:
           C: reveal the sins of family members.
           D: are with people in the group.
         answer: A
-        print_position: 20
-        unit: 3
       - uid: MIN381.9.2.1.TY.1
         subobj: 9.2.1
         type: ty
@@ -5203,7 +4827,6 @@ courses:
           C: plan a Sunday night service.
           D: do all of the above.
         answer: A
-        print_position: 4
       - uid: MIN381.9.2.1.TY.2
         subobj: 9.2.1
         type: ty
@@ -5214,7 +4837,6 @@ courses:
           C: make people feel welcome.
           D: start and end on time.
         answer: C
-        print_position: 5
       - uid: MIN381.9.2.1.TY.3
         subobj: 9.2.1
         type: ty
@@ -5225,7 +4847,6 @@ courses:
           C: playing soft music.
           D: sitting on the floor.
         answer: B
-        print_position: 6
       - uid: MIN381.9.2.1.TY.4
         subobj: 9.2.1
         type: ty
@@ -5236,7 +4857,6 @@ courses:
           C: keep themselves apart from the other group members.
           D: encourage an atmosphere of faith and ministry.
         answer: D
-        print_position: 7
       - uid: MIN381.9.2.1.TY.5
         subobj: 9.2.1
         type: ty
@@ -5247,7 +4867,6 @@ courses:
           C: disagreement.
           D: competition.
         answer: B
-        print_position: 8
       - uid: MIN381.9.3.1.UPE.1
         subobj: 9.3.1
         type: upe
@@ -5258,8 +4877,6 @@ courses:
           C: talent.
           D: availability.
         answer: A
-        print_position: 21
-        unit: 3
       - uid: MIN381.9.3.1.TY.1
         subobj: 9.3.1
         type: ty
@@ -5270,7 +4887,6 @@ courses:
           C: experience.
           D: character.
         answer: A
-        print_position: 9
       - uid: MIN381.9.3.1.TY.2
         subobj: 9.3.1
         type: ty
@@ -5281,7 +4897,6 @@ courses:
           C: information about salary.
           D: details about the group.
         answer: C
-        print_position: 10
       - uid: MIN381.10.1.1.UPE.1
         subobj: 10.1.1
         type: upe
@@ -5292,8 +4907,6 @@ courses:
           C: visiting the grandparents.
           D: a selection of appropriate music.
         answer: B
-        print_position: 22
-        unit: 3
       - uid: MIN381.10.1.1.TY.1
         subobj: 10.1.1
         type: ty
@@ -5304,7 +4917,6 @@ courses:
           C: rental fees.
           D: counseling.
         answer: B
-        print_position: 1
       - uid: MIN381.10.1.1.TY.2
         subobj: 10.1.1
         type: ty
@@ -5315,7 +4927,6 @@ courses:
           C: unity.
           D: purity.
         answer: B
-        print_position: 2
       - uid: MIN381.10.1.2.UPE.1
         subobj: 10.1.2
         type: upe
@@ -5326,8 +4937,6 @@ courses:
           C: the pastor’s message to the guests.
           D: a copy of the marriage license.
         answer: B
-        print_position: 23
-        unit: 3
       - uid: MIN381.10.1.2.TY.1
         subobj: 10.1.2
         type: ty
@@ -5338,7 +4947,6 @@ courses:
           C: wedding checklist.
           D: order of service.
         answer: D
-        print_position: 3
       - uid: MIN381.10.1.3.TY.1
         subobj: 10.1.3
         type: ty
@@ -5349,7 +4957,6 @@ courses:
           C: affirm that children belong to God.
           D: protect children from evil spirits.
         answer: C
-        print_position: 4
       - uid: MIN381.10.1.4.TY.1
         subobj: 10.1.4
         type: ty
@@ -5360,7 +4967,6 @@ courses:
           C: Funerals
           D: All of the above
         answer: D
-        print_position: 5
       - uid: MIN381.10.1.4.TY.2
         subobj: 10.1.4
         type: ty
@@ -5372,7 +4978,6 @@ courses:
           C: tell them not to be sad.
           D: pray for the dead person’s soul.
         answer: A
-        print_position: 6
       - uid: MIN381.10.2.1.UPE.1
         subobj: 10.2.1
         type: upe
@@ -5383,8 +4988,6 @@ courses:
           C: understand the meaning of baptism.
           D: witness to three people.
         answer: C
-        print_position: 24
-        unit: 3
       - uid: MIN381.10.2.1.TY.1
         subobj: 10.2.1
         type: ty
@@ -5395,7 +4998,6 @@ courses:
           C: Water baptism and baby dedications
           D: Communion and water baptism
         answer: D
-        print_position: 7
       - uid: MIN381.10.2.1.TY.2
         subobj: 10.2.1
         type: ty
@@ -5406,7 +5008,6 @@ courses:
           C: witness to three people.
           D: attend a membership class.
         answer: A
-        print_position: 8
       - uid: MIN381.10.2.2.TY.1
         subobj: 10.2.2
         type: ty
@@ -5417,7 +5018,6 @@ courses:
           C: the Holy Spirit.
           D: the Father, Son, and Holy Spirit.
         answer: D
-        print_position: 9
       - uid: MIN381.10.2.3.UPE.1
         subobj: 10.2.3
         type: upe
@@ -5428,8 +5028,6 @@ courses:
           C: only church members may participate.
           D: unfaithful believers are denied participation.
         answer: C
-        print_position: 25
-        unit: 3
       - uid: MIN381.10.2.3.TY.1
         subobj: 10.2.3
         type: ty
@@ -5440,7 +5038,6 @@ courses:
           C: only church members may take part.
           D: unfaithful believers are denied participation.
         answer: C
-        print_position: 10
       - uid: MIN381.11.1.1.TY.1
         subobj: 11.1.1
         type: ty
@@ -5451,7 +5048,6 @@ courses:
           C: Stephen and Philip.
           D: Paul and Barnabas.
         answer: A
-        print_position: 1
       - uid: MIN381.11.1.2.UPE.1
         subobj: 11.1.2
         type: upe
@@ -5462,8 +5058,6 @@ courses:
           C: church board should choose leaders.
           D: process for choosing leaders may vary.
         answer: D
-        print_position: 1
-        unit: 4
       - uid: MIN381.11.1.2.TY.1
         subobj: 11.1.2
         type: ty
@@ -5474,7 +5068,6 @@ courses:
           C: church board should choose leaders.
           D: process for choosing leaders may vary.
         answer: D
-        print_position: 2
       - uid: MIN381.11.1.2.TY.2
         subobj: 11.1.2
         type: ty
@@ -5485,7 +5078,6 @@ courses:
           C: are true in every culture.
           D: depend on the situation.
         answer: C
-        print_position: 3
       - uid: MIN381.11.1.3.UPE.1
         subobj: 11.1.3
         type: upe
@@ -5496,8 +5088,6 @@ courses:
           C: interviews of potential leaders.
           D: a vote on possible leaders.
         answer: A
-        print_position: 2
-        unit: 4
       - uid: MIN381.11.1.3.TY.1
         subobj: 11.1.3
         type: ty
@@ -5509,7 +5099,6 @@ courses:
           C: interview possible leaders.
           D: vote for new leaders.
         answer: A
-        print_position: 4
       - uid: MIN381.11.1.3.TY.2
         subobj: 11.1.3
         type: ty
@@ -5521,7 +5110,6 @@ courses:
           C: Church members
           D: The pastor
         answer: C
-        print_position: 5
       - uid: MIN381.11.2.1.UPE.1
         subobj: 11.2.1
         type: upe
@@ -5532,8 +5120,6 @@ courses:
           C: clearly defining roles.
           D: ignoring philosophical differences.
         answer: C
-        print_position: 3
-        unit: 4
       - uid: MIN381.11.2.1.TY.1
         subobj: 11.2.1
         type: ty
@@ -5544,7 +5130,6 @@ courses:
           C: agreeing.
           D: all of the above.
         answer: D
-        print_position: 6
       - uid: MIN381.11.2.2.TY.1
         subobj: 11.2.2
         type: ty
@@ -5555,7 +5140,6 @@ courses:
           C: protectors of the people.
           D: friends of the pastor.
         answer: B
-        print_position: 7
       - uid: MIN381.11.2.2.TY.2
         subobj: 11.2.2
         type: ty
@@ -5566,7 +5150,6 @@ courses:
           C: explain the pastor’s position.
           D: share the complaint with the board.
         answer: C
-        print_position: 8
       - uid: MIN381.11.2.3.TY.1
         subobj: 11.2.3
         type: ty
@@ -5578,7 +5161,6 @@ courses:
           C: professional conduct.
           D: impersonal events.
         answer: B
-        print_position: 9
       - uid: MIN381.11.3.1.UPE.1
         subobj: 11.3.1
         type: upe
@@ -5589,8 +5171,6 @@ courses:
           C: ignore differences of opinion.
           D: not become personal friends.
         answer: A
-        print_position: 4
-        unit: 4
       - uid: MIN381.11.3.1.TY.1
         subobj: 11.3.1
         type: ty
@@ -5601,7 +5181,6 @@ courses:
           C: board meetings.
           D: retreats.
         answer: D
-        print_position: 10
       - uid: MIN381.12.1.1.TY.1
         subobj: 12.1.1
         type: ty
@@ -5612,7 +5191,6 @@ courses:
           C: effectiveness.
           D: all of the above.
         answer: D
-        print_position: 1
       - uid: MIN381.12.1.2.UPE.1
         subobj: 12.1.2
         type: upe
@@ -5623,8 +5201,6 @@ courses:
           C: resources.
           D: vision.
         answer: D
-        print_position: 5
-        unit: 4
       - uid: MIN381.12.1.2.TY.1
         subobj: 12.1.2
         type: ty
@@ -5635,7 +5211,6 @@ courses:
           C: programs.
           D: resources.
         answer: B
-        print_position: 2
       - uid: MIN381.12.2.1.UPE.1
         subobj: 12.2.1
         type: upe
@@ -5647,8 +5222,6 @@ courses:
           C: somewhat.
           D: a lot.
         answer: A
-        print_position: 6
-        unit: 4
       - uid: MIN381.12.2.1.UPE.2
         subobj: 12.2.1
         type: upe
@@ -5659,8 +5232,6 @@ courses:
           C: local businesses.
           D: their own churches.
         answer: D
-        print_position: 7
-        unit: 4
       - uid: MIN381.12.2.1.TY.1
         subobj: 12.2.1
         type: ty
@@ -5671,7 +5242,6 @@ courses:
           C: friend.
           D: student.
         answer: C
-        print_position: 3
       - uid: MIN381.12.2.1.TY.2
         subobj: 12.2.1
         type: ty
@@ -5682,7 +5252,6 @@ courses:
           C: character.
           D: experience.
         answer: C
-        print_position: 4
       - uid: MIN381.12.2.1.TY.3
         subobj: 12.2.1
         type: ty
@@ -5693,7 +5262,6 @@ courses:
           C: local businesses.
           D: their own churches.
         answer: D
-        print_position: 5
       - uid: MIN381.12.2.1.TY.4
         subobj: 12.2.1
         type: ty
@@ -5705,7 +5273,6 @@ courses:
           C: somewhat.
           D: a lot.
         answer: A
-        print_position: 6
       - uid: MIN381.12.3.1.UPE.1
         subobj: 12.3.1
         type: upe
@@ -5716,8 +5283,6 @@ courses:
           C: asking questions.
           D: caring for needs.
         answer: A
-        print_position: 8
-        unit: 4
       - uid: MIN381.12.3.1.UPE.2
         subobj: 12.3.1
         type: upe
@@ -5728,8 +5293,6 @@ courses:
           C: growth.
           D: security.
         answer: B
-        print_position: 9
-        unit: 4
       - uid: MIN381.12.3.1.TY.1
         subobj: 12.3.1
         type: ty
@@ -5740,7 +5303,6 @@ courses:
           C: asking questions.
           D: caring for needs.
         answer: A
-        print_position: 7
       - uid: MIN381.12.3.1.TY.2
         subobj: 12.3.1
         type: ty
@@ -5751,7 +5313,6 @@ courses:
           C: Ministers of pastoral care
           D: Senior pastors
         answer: D
-        print_position: 8
       - uid: MIN381.12.3.1.TY.3
         subobj: 12.3.1
         type: ty
@@ -5762,7 +5323,6 @@ courses:
           C: growth.
           D: security.
         answer: B
-        print_position: 9
       - uid: MIN381.12.3.1.TY.4
         subobj: 12.3.1
         type: ty
@@ -5773,7 +5333,6 @@ courses:
           C: trust.
           D: fellowship.
         answer: C
-        print_position: 10
       - uid: MIN381.13.1.1.UPE.1
         subobj: 13.1.1
         type: upe
@@ -5784,8 +5343,6 @@ courses:
           C: care about people.
           D: have social support.
         answer: B
-        print_position: 10
-        unit: 4
       - uid: MIN381.13.1.1.TY.1
         subobj: 13.1.1
         type: ty
@@ -5796,7 +5353,6 @@ courses:
           C: care about people.
           D: have social support.
         answer: A
-        print_position: 1
       - uid: MIN381.13.1.1.TY.2
         subobj: 13.1.1
         type: ty
@@ -5807,7 +5363,6 @@ courses:
           C: people-centered.
           D: need-centered.
         answer: D
-        print_position: 2
       - uid: MIN381.13.1.1.TY.3
         subobj: 13.1.1
         type: ty
@@ -5818,7 +5373,6 @@ courses:
           C: take every seventh year off.
           D: do only what you enjoy.
         answer: B
-        print_position: 3
       - uid: MIN381.13.2.1.UPE.1
         subobj: 13.2.1
         type: upe
@@ -5829,8 +5383,6 @@ courses:
           C: missing a needed day of work.
           D: embracing the needy with love.
         answer: D
-        print_position: 11
-        unit: 4
       - uid: MIN381.13.2.1.TY.1
         subobj: 13.2.1
         type: ty
@@ -5841,7 +5393,6 @@ courses:
           C: caring for personal needs.
           D: doing all of the above.
         answer: D
-        print_position: 4
       - uid: MIN381.13.2.1.TY.2
         subobj: 13.2.1
         type: ty
@@ -5852,7 +5403,6 @@ courses:
           C: month.
           D: six weeks.
         answer: A
-        print_position: 5
       - uid: MIN381.13.3.1.UPE.1
         subobj: 13.3.1
         type: upe
@@ -5863,8 +5413,6 @@ courses:
           C: worship.
           D: study.
         answer: C
-        print_position: 12
-        unit: 4
       - uid: MIN381.13.3.1.UPE.2
         subobj: 13.3.1
         type: upe
@@ -5875,8 +5423,6 @@ courses:
           C: efficiency.
           D: quality.
         answer: B
-        print_position: 13
-        unit: 4
       - uid: MIN381.13.3.1.UPE.3
         subobj: 13.3.1
         type: upe
@@ -5887,8 +5433,6 @@ courses:
           C: an event on Sundays at church.
           D: a sensitivity to and a response to God’s presence.
         answer: D
-        print_position: 14
-        unit: 4
       - uid: MIN381.13.3.1.TY.1
         subobj: 13.3.1
         type: ty
@@ -5899,7 +5443,6 @@ courses:
           C: worship.
           D: study.
         answer: C
-        print_position: 6
       - uid: MIN381.13.3.1.TY.2
         subobj: 13.3.1
         type: ty
@@ -5910,7 +5453,6 @@ courses:
           C: worried about having enough time.
           D: was faithful to His Father’s will.
         answer: D
-        print_position: 7
       - uid: MIN381.13.3.1.TY.3
         subobj: 13.3.1
         type: ty
@@ -5921,7 +5463,6 @@ courses:
           C: efficiency.
           D: quality preaching.
         answer: B
-        print_position: 8
       - uid: MIN381.13.3.1.TY.4
         subobj: 13.3.1
         type: ty
@@ -5932,7 +5473,6 @@ courses:
           C: Event
           D: Lifestyle
         answer: D
-        print_position: 9
       - uid: MIN381.13.3.1.TY.5
         subobj: 13.3.1
         type: ty
@@ -5943,7 +5483,6 @@ courses:
           C: still their thoughts.
           D: turn down the lights.
         answer: C
-        print_position: 10
       - uid: MIN381.14.1.1.UPE.1
         subobj: 14.1.1
         type: upe
@@ -5954,8 +5493,6 @@ courses:
           C: study.
           D: silence.
         answer: D
-        print_position: 15
-        unit: 4
       - uid: MIN381.14.1.1.TY.1
         subobj: 14.1.1
         type: ty
@@ -5966,7 +5503,6 @@ courses:
           C: study.
           D: silence.
         answer: D
-        print_position: 1
       - uid: MIN381.14.1.1.TY.2
         subobj: 14.1.1
         type: ty
@@ -5977,7 +5513,6 @@ courses:
           C: respond to God’s voice.
           D: do all of the above.
         answer: D
-        print_position: 2
       - uid: MIN381.14.1.1.TY.3
         subobj: 14.1.1
         type: ty
@@ -5988,7 +5523,6 @@ courses:
           C: Communion.
           D: Sabbath rest.
         answer: B
-        print_position: 3
       - uid: MIN381.14.2.1.UPE.1
         subobj: 14.2.1
         type: upe
@@ -5999,8 +5533,6 @@ courses:
           C: earning more money than they need.
           D: refusing to accept gifts.
         answer: A
-        print_position: 16
-        unit: 4
       - uid: MIN381.14.2.1.UPE.2
         subobj: 14.2.1
         type: upe
@@ -6011,8 +5543,6 @@ courses:
           C: patience.
           D: commitment.
         answer: B
-        print_position: 17
-        unit: 4
       - uid: MIN381.14.2.1.TY.1
         subobj: 14.2.1
         type: ty
@@ -6023,7 +5553,6 @@ courses:
           C: vision.
           D: commitment.
         answer: A
-        print_position: 4
       - uid: MIN381.14.2.1.TY.2
         subobj: 14.2.1
         type: ty
@@ -6034,7 +5563,6 @@ courses:
           C: their relationship with Jesus.
           D: past experience.
         answer: C
-        print_position: 5
       - uid: MIN381.14.2.1.TY.3
         subobj: 14.2.1
         type: ty
@@ -6045,7 +5573,6 @@ courses:
           C: laziness.
           D: loneliness.
         answer: A
-        print_position: 6
       - uid: MIN381.14.3.1.UPE.1
         subobj: 14.3.1
         type: upe
@@ -6056,8 +5583,6 @@ courses:
           C: assuming it is true and repenting.
           D: acting as though we never heard it.
         answer: B
-        print_position: 18
-        unit: 4
       - uid: MIN381.14.3.1.UPE.2
         subobj: 14.3.1
         type: upe
@@ -6068,8 +5593,6 @@ courses:
           C: take Communion.
           D: preach under the anointing.
         answer: B
-        print_position: 19
-        unit: 4
       - uid: MIN381.14.3.1.TY.1
         subobj: 14.3.1
         type: ty
@@ -6080,7 +5603,6 @@ courses:
           C: rejection.
           D: selfishness.
         answer: B
-        print_position: 7
       - uid: MIN381.14.3.1.TY.2
         subobj: 14.3.1
         type: ty
@@ -6091,7 +5613,6 @@ courses:
           C: take Communion.
           D: forgive offenses.
         answer: D
-        print_position: 8
       - uid: MIN381.14.3.1.TY.3
         subobj: 14.3.1
         type: ty
@@ -6102,7 +5623,6 @@ courses:
           C: do it in a group.
           D: boldly speak whatever is true.
         answer: B
-        print_position: 9
       - uid: MIN381.14.3.1.TY.4
         subobj: 14.3.1
         type: ty
@@ -6113,7 +5633,6 @@ courses:
           C: humbly responding to whatever is true.
           D: rebuking the person who criticizes us.
         answer: C
-        print_position: 10
       - uid: MIN381.15.1.1.UPE.1
         subobj: 15.1.1
         type: upe
@@ -6124,8 +5643,6 @@ courses:
           C: telling them what to vote for.
           D: fellowshipping with them at a meal.
         answer: A
-        print_position: 20
-        unit: 4
       - uid: MIN381.15.1.1.UPE.2
         subobj: 15.1.1
         type: upe
@@ -6136,8 +5653,6 @@ courses:
           C: Romans
           D: James
         answer: D
-        print_position: 21
-        unit: 4
       - uid: MIN381.15.1.1.UPE.3
         subobj: 15.1.1
         type: upe
@@ -6148,8 +5663,6 @@ courses:
           C: listen to people.
           D: focus on the future.
         answer: C
-        print_position: 22
-        unit: 4
       - uid: MIN381.15.1.1.TY.1
         subobj: 15.1.1
         type: ty
@@ -6160,7 +5673,6 @@ courses:
           C: focusing on the future.
           D: teaching people not to complain.
         answer: A
-        print_position: 1
       - uid: MIN381.15.1.1.TY.2
         subobj: 15.1.1
         type: ty
@@ -6171,7 +5683,6 @@ courses:
           C: Romans
           D: James
         answer: D
-        print_position: 2
       - uid: MIN381.15.1.1.TY.3
         subobj: 15.1.1
         type: ty
@@ -6182,7 +5693,6 @@ courses:
           C: preaching sermons about submission.
           D: telling them what they should vote for.
         answer: B
-        print_position: 3
       - uid: MIN381.15.1.1.TY.4
         subobj: 15.1.1
         type: ty
@@ -6193,7 +5703,6 @@ courses:
           C: print a schedule for the meeting.
           D: establish some rules of order.
         answer: D
-        print_position: 4
       - uid: MIN381.15.2.1.UPE.1
         subobj: 15.2.1
         type: upe
@@ -6204,8 +5713,6 @@ courses:
           C: admit they are at fault.
           D: make excuses for their actions.
         answer: C
-        print_position: 23
-        unit: 4
       - uid: MIN381.15.2.1.UPE.2
         subobj: 15.2.1
         type: upe
@@ -6216,8 +5723,6 @@ courses:
           C: “already.”
           D: “I wish.”
         answer: B
-        print_position: 24
-        unit: 4
       - uid: MIN381.15.2.1.TY.1
         subobj: 15.2.1
         type: ty
@@ -6228,7 +5733,6 @@ courses:
           C: admit they are at fault.
           D: verbally review their actions.
         answer: C
-        print_position: 5
       - uid: MIN381.15.2.1.TY.2
         subobj: 15.2.1
         type: ty
@@ -6240,7 +5744,6 @@ courses:
           C: Already
           D: I wish
         answer: B
-        print_position: 6
       - uid: MIN381.15.2.1.TY.3
         subobj: 15.2.1
         type: ty
@@ -6251,7 +5754,6 @@ courses:
           C: police officer.
           D: student.
         answer: A
-        print_position: 7
       - uid: MIN381.15.2.1.TY.4
         subobj: 15.2.1
         type: ty
@@ -6263,7 +5765,6 @@ courses:
           C: ask them to resign.
           D: forgive and accept them.
         answer: D
-        print_position: 8
       - uid: MIN381.15.3.1.UPE.1
         subobj: 15.3.1
         type: upe
@@ -6274,8 +5775,6 @@ courses:
           C: a servant.
           D: an owner.
         answer: C
-        print_position: 25
-        unit: 4
       - uid: MIN381.15.3.1.TY.1
         subobj: 15.3.1
         type: ty
@@ -6286,7 +5785,6 @@ courses:
           C: servants.
           D: customers.
         answer: C
-        print_position: 9
       - uid: MIN381.15.3.1.TY.2
         subobj: 15.3.1
         type: ty
@@ -6297,7 +5795,6 @@ courses:
           C: Peter.
           D: Paul.
         answer: B
-        print_position: 10
       - uid: MIN381.1.1.2.F.1
         subobj: 1.1.2
         type: final
@@ -6811,8 +6308,6 @@ courses:
         run: 20260811T144840_MIN381.all.f
         form: G
         date: '2026-08-11'
-      product_id: BMIN381ENE04-90_04.26.01
-      captured: reparse
     deployed_pn: 04.26.01
     print_history:
     - date: '2026-07-06'

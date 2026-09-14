@@ -2298,8 +2298,6 @@ courses:
           C: government.
           D: language.
         answer: D
-        print_position: 1
-        unit: 1
       - uid: BIB116.1.1.1.TY.1
         subobj: 1.1.1
         type: ty
@@ -2311,7 +2309,6 @@ courses:
           C: Samaritans
           D: Jews
         answer: B
-        print_position: 1
       - uid: BIB116.1.1.1.TY.2
         subobj: 1.1.1
         type: ty
@@ -2322,7 +2319,6 @@ courses:
           C: government.
           D: army.
         answer: A
-        print_position: 2
       - uid: BIB116.1.1.2.UPE.1
         subobj: 1.1.2
         type: upe
@@ -2333,8 +2329,6 @@ courses:
           C: Pharisees
           D: Zealots
         answer: C
-        print_position: 2
-        unit: 1
       - uid: BIB116.1.1.2.TY.1
         subobj: 1.1.2
         type: ty
@@ -2345,7 +2339,6 @@ courses:
           C: Sanhedrin.
           D: Areopagus.
         answer: C
-        print_position: 3
       - uid: BIB116.1.1.2.TY.2
         subobj: 1.1.2
         type: ty
@@ -2356,7 +2349,6 @@ courses:
           C: Levites.
           D: Zealots.
         answer: B
-        print_position: 4
       - uid: BIB116.1.2.1.UPE.1
         subobj: 1.2.1
         type: upe
@@ -2367,8 +2359,6 @@ courses:
           C: Sanhedrin.
           D: local school.
         answer: A
-        print_position: 3
-        unit: 1
       - uid: BIB116.1.2.1.TY.1
         subobj: 1.2.1
         type: ty
@@ -2379,7 +2369,6 @@ courses:
           C: Peter.
           D: Paul.
         answer: D
-        print_position: 5
       - uid: BIB116.1.2.1.TY.2
         subobj: 1.2.1
         type: ty
@@ -2390,7 +2379,6 @@ courses:
           C: Gamaliel.
           D: Caiaphas.
         answer: D
-        print_position: 6
       - uid: BIB116.1.2.2.UPE.1
         subobj: 1.2.2
         type: upe
@@ -2402,8 +2390,6 @@ courses:
           C: moral effect on society.
           D: respected group of recipients.
         answer: B
-        print_position: 4
-        unit: 1
       - uid: BIB116.1.2.2.TY.1
         subobj: 1.2.2
         type: ty
@@ -2415,7 +2401,6 @@ courses:
           C: inspiration.
           D: the length of the writing.
         answer: C
-        print_position: 7
       - uid: BIB116.1.3.1.UPE.1
         subobj: 1.3.1
         type: upe
@@ -2426,8 +2411,6 @@ courses:
           C: apocalyptic books.
           D: letters to all.
         answer: D
-        print_position: 5
-        unit: 1
       - uid: BIB116.1.3.1.TY.1
         subobj: 1.3.1
         type: ty
@@ -2438,7 +2421,6 @@ courses:
           C: Thirteen
           D: Fifteen
         answer: C
-        print_position: 8
       - uid: BIB116.1.3.1.TY.2
         subobj: 1.3.1
         type: ty
@@ -2449,7 +2431,6 @@ courses:
           C: apocalyptic group.
           D: letters to all.
         answer: B
-        print_position: 9
       - uid: BIB116.1.4.1.UPE.1
         subobj: 1.4.1
         type: upe
@@ -2460,8 +2441,6 @@ courses:
           C: Colossians.
           D: 1 Peter.
         answer: B
-        print_position: 6
-        unit: 1
       - uid: BIB116.1.4.1.TY.1
         subobj: 1.4.1
         type: ty
@@ -2472,7 +2451,6 @@ courses:
           C: Hebrews.
           D: 2 Peter.
         answer: A
-        print_position: 10
       - uid: BIB116.2.1.1.UPE.1
         subobj: 2.1.1
         type: upe
@@ -2483,8 +2461,6 @@ courses:
           C: Messiah.
           D: Son of Man.
         answer: C
-        print_position: 7
-        unit: 1
       - uid: BIB116.2.1.1.TY.1
         subobj: 2.1.1
         type: ty
@@ -2495,7 +2471,6 @@ courses:
           C: miracles that Jesus performed.
           D: parables the Lord taught.
         answer: B
-        print_position: 1
       - uid: BIB116.2.1.2.UPE.1
         subobj: 2.1.2
         type: upe
@@ -2506,8 +2481,6 @@ courses:
           C: eight parables (chap. 13).
           D: conflict with Jewish leaders (chaps. 14–17).
         answer: C
-        print_position: 8
-        unit: 1
       - uid: BIB116.2.1.2.TY.1
         subobj: 2.1.2
         type: ty
@@ -2518,7 +2491,6 @@ courses:
           C: miracles in chapter 8.
           D: Resurrection in chapter 28.
         answer: B
-        print_position: 2
       - uid: BIB116.2.1.3.UPE.1
         subobj: 2.1.3
         type: upe
@@ -2530,8 +2502,6 @@ courses:
           C: Jesus’ background
           D: The Passion Week
         answer: A
-        print_position: 9
-        unit: 1
       - uid: BIB116.2.1.3.TY.1
         subobj: 2.1.3
         type: ty
@@ -2542,7 +2512,6 @@ courses:
           C: contrast it with the kingdom of God.
           D: link the Kingdom with Jesus, the Messiah.
         answer: D
-        print_position: 3
       - uid: BIB116.2.2.1.UPE.1
         subobj: 2.2.1
         type: upe
@@ -2553,8 +2522,6 @@ courses:
           C: the Savior.
           D: the Word of God.
         answer: B
-        print_position: 10
-        unit: 1
       - uid: BIB116.2.2.1.TY.1
         subobj: 2.2.1
         type: ty
@@ -2565,7 +2532,6 @@ courses:
           C: life.
           D: kingdom.
         answer: A
-        print_position: 4
       - uid: BIB116.2.2.2.TY.1
         subobj: 2.2.2
         type: ty
@@ -2576,7 +2542,6 @@ courses:
           C: give specific references for Old Testament quotes.
           D: write in Hebrew so his readers would understand.
         answer: B
-        print_position: 5
       - uid: BIB116.2.3.1.UPE.1
         subobj: 2.3.1
         type: upe
@@ -2587,8 +2552,6 @@ courses:
           C: Old Testament Scriptures.
           D: Jesus’ attitude toward prayer.
         answer: D
-        print_position: 11
-        unit: 1
       - uid: BIB116.2.3.1.TY.1
         subobj: 2.3.1
         type: ty
@@ -2599,7 +2562,6 @@ courses:
           C: Greeks.
           D: all.
         answer: D
-        print_position: 7
       - uid: BIB116.2.3.2.UPE.1
         subobj: 2.3.2
         type: upe
@@ -2610,8 +2572,6 @@ courses:
           C: Jesus’ washing of the disciples’ feet
           D: Thomas’ doubts about Jesus’ resurrection
         answer: A
-        print_position: 12
-        unit: 1
       - uid: BIB116.2.3.2.TY.1
         subobj: 2.3.2
         type: ty
@@ -2622,7 +2582,6 @@ courses:
           C: Luke.
           D: John.
         answer: C
-        print_position: 6
       - uid: BIB116.2.4.1.UPE.1
         subobj: 2.4.1
         type: upe
@@ -2633,8 +2592,6 @@ courses:
           C: it was effective in teaching about the Kingdom.
           D: all Jewish teachers taught that way.
         answer: C
-        print_position: 13
-        unit: 1
       - uid: BIB116.2.4.1.TY.1
         subobj: 2.4.1
         type: ty
@@ -2645,7 +2602,6 @@ courses:
           C: His enemies would accept His teachings.
           D: Those who neglected truth would get new truth.
         answer: A
-        print_position: 8
       - uid: BIB116.2.4.2.UPE.1
         subobj: 2.4.2
         type: upe
@@ -2656,8 +2612,6 @@ courses:
           C: millennial reign of Christ.
           D: period of the Tribulation.
         answer: B
-        print_position: 14
-        unit: 1
       - uid: BIB116.2.4.2.TY.1
         subobj: 2.4.2
         type: ty
@@ -2668,7 +2622,6 @@ courses:
           C: Visible phase
           D: International phase
         answer: A
-        print_position: 9
       - uid: BIB116.2.4.3.UPE.1
         subobj: 2.4.3
         type: upe
@@ -2679,8 +2632,6 @@ courses:
           C: disciples.
           D: education.
         answer: B
-        print_position: 15
-        unit: 1
       - uid: BIB116.2.4.3.TY.1
         subobj: 2.4.3
         type: ty
@@ -2691,7 +2642,6 @@ courses:
           C: teaching in the temple at age twelve.
           D: riding into Jerusalem as a king.
         answer: B
-        print_position: 10
       - uid: BIB116.3.1.1.UPE.1
         subobj: 3.1.1
         type: upe
@@ -2702,8 +2652,6 @@ courses:
           C: his purpose was to show Christ’s deity.
           D: he wanted to focus on the Great Commission.
         answer: C
-        print_position: 16
-        unit: 1
       - uid: BIB116.3.1.1.TY.1
         subobj: 3.1.1
         type: ty
@@ -2714,7 +2662,6 @@ courses:
           C: persuade his readers to believe in Christ.
           D: write a history of Jesus’ life and ministry.
         answer: C
-        print_position: 1
       - uid: BIB116.3.1.1.TY.2
         subobj: 3.1.1
         type: ty
@@ -2725,7 +2672,6 @@ courses:
           C: contrast Him with the Son of Man.
           D: clarify the teachings of John the Baptist.
         answer: A
-        print_position: 2
       - uid: BIB116.3.1.2.UPE.1
         subobj: 3.1.2
         type: upe
@@ -2736,8 +2682,6 @@ courses:
           C: eternal life through Christ.
           D: miracles that Christ performed.
         answer: D
-        print_position: 17
-        unit: 1
       - uid: BIB116.3.1.2.TY.1
         subobj: 3.1.2
         type: ty
@@ -2748,7 +2692,6 @@ courses:
           C: seventy times.
           D: one hundred times.
         answer: D
-        print_position: 3
       - uid: BIB116.3.1.2.TY.2
         subobj: 3.1.2
         type: ty
@@ -2759,7 +2702,6 @@ courses:
           C: obey.
           D: worship.
         answer: C
-        print_position: 4
       - uid: BIB116.3.1.2.TY.3
         subobj: 3.1.2
         type: ty
@@ -2770,7 +2712,6 @@ courses:
           C: wonders.
           D: revelations.
         answer: B
-        print_position: 5
       - uid: BIB116.3.2.1.UPE.1
         subobj: 3.2.1
         type: upe
@@ -2781,8 +2722,6 @@ courses:
           C: sanctification.
           D: manifestation of the Word.
         answer: A
-        print_position: 18
-        unit: 1
       - uid: BIB116.3.2.1.TY.1
         subobj: 3.2.1
         type: ty
@@ -2793,7 +2732,6 @@ courses:
           C: poverty and wealth.
           D: light and darkness.
         answer: D
-        print_position: 6
       - uid: BIB116.3.3.1.UPE.1
         subobj: 3.3.1
         type: upe
@@ -2804,8 +2742,6 @@ courses:
           C: Raising Lazarus from the dead
           D: Healing the official’s son
         answer: D
-        print_position: 19
-        unit: 1
       - uid: BIB116.3.3.1.TY.1
         subobj: 3.3.1
         type: ty
@@ -2816,7 +2752,6 @@ courses:
           C: contrasts.
           D: parables.
         answer: A
-        print_position: 7
       - uid: BIB116.3.3.2.UPE.1
         subobj: 3.3.2
         type: upe
@@ -2827,8 +2762,6 @@ courses:
           C: were written to the seven churches in Asia.
           D: were not related to God’s name in the Old Testament.
         answer: B
-        print_position: 20
-        unit: 1
       - uid: BIB116.3.3.2.TY.1
         subobj: 3.3.2
         type: ty
@@ -2839,7 +2772,6 @@ courses:
           C: “I am the Good Shepherd.”
           D: “I am the Son of Man.”
         answer: C
-        print_position: 8
       - uid: BIB116.3.3.3.UPE.1
         subobj: 3.3.3
         type: upe
@@ -2850,8 +2782,6 @@ courses:
           C: satisfies all who believe in Him.
           D: knows our inner thoughts.
         answer: A
-        print_position: 21
-        unit: 1
       - uid: BIB116.3.3.3.TY.1
         subobj: 3.3.3
         type: ty
@@ -2862,7 +2792,6 @@ courses:
           C: satisfies all who believe in Him.
           D: knows our inner thoughts.
         answer: A
-        print_position: 9
       - uid: BIB116.3.3.3.TY.2
         subobj: 3.3.3
         type: ty
@@ -2873,7 +2802,6 @@ courses:
           C: Philip
           D: Lazarus
         answer: B
-        print_position: 10
       - uid: BIB116.4.1.1.UPE.1
         subobj: 4.1.1
         type: upe
@@ -2884,8 +2812,6 @@ courses:
           C: All of the Apostles.
           D: the Holy Spirit.
         answer: D
-        print_position: 22
-        unit: 1
       - uid: BIB116.4.1.1.TY.1
         subobj: 4.1.1
         type: ty
@@ -2896,7 +2822,6 @@ courses:
           C: Luke.
           D: Theophilus.
         answer: C
-        print_position: 1
       - uid: BIB116.4.1.2.UPE.1
         subobj: 4.1.2
         type: upe
@@ -2907,8 +2832,6 @@ courses:
           C: John
           D: Acts
         answer: D
-        print_position: 23
-        unit: 1
       - uid: BIB116.4.1.2.TY.1
         subobj: 4.1.2
         type: ty
@@ -2919,7 +2842,6 @@ courses:
           C: a Gospel.
           D: an allegory.
         answer: B
-        print_position: 2
       - uid: BIB116.4.1.2.TY.2
         subobj: 4.1.2
         type: ty
@@ -2930,7 +2852,6 @@ courses:
           C: Gospels and Epistles.
           D: ministries of Peter and Paul.
         answer: C
-        print_position: 3
       - uid: BIB116.4.1.2.TY.3
         subobj: 4.1.2
         type: ty
@@ -2941,7 +2862,6 @@ courses:
           C: ministry of Peter.
           D: Holy Spirit.
         answer: D
-        print_position: 4
       - uid: BIB116.4.1.2.TY.4
         subobj: 4.1.2
         type: ty
@@ -2952,7 +2872,6 @@ courses:
           C: sanctification.
           D: surrender.
         answer: A
-        print_position: 5
       - uid: BIB116.4.2.1.UPE.1
         subobj: 4.2.1
         type: upe
@@ -2963,8 +2882,6 @@ courses:
           C: 13–16.
           D: 17–28.
         answer: B
-        print_position: 24
-        unit: 1
       - uid: BIB116.4.2.1.TY.1
         subobj: 4.2.1
         type: ty
@@ -2975,7 +2892,6 @@ courses:
           C: '1:8'
           D: '1:10'
         answer: C
-        print_position: 6
       - uid: BIB116.4.3.1.UPE.1
         subobj: 4.3.1
         type: upe
@@ -2986,8 +2902,6 @@ courses:
           C: decrease because of fear.
           D: stop preaching in Jesus’ name.
         answer: A
-        print_position: 25
-        unit: 1
       - uid: BIB116.4.3.1.TY.1
         subobj: 4.3.1
         type: ty
@@ -2998,7 +2912,6 @@ courses:
           C: Paul.
           D: Philip.
         answer: A
-        print_position: 7
       - uid: BIB116.4.3.1.TY.2
         subobj: 4.3.1
         type: ty
@@ -3009,7 +2922,6 @@ courses:
           C: The Jerusalem Council
           D: Persecution from Jews
         answer: D
-        print_position: 8
       - uid: BIB116.4.3.1.TY.3
         subobj: 4.3.1
         type: ty
@@ -3020,7 +2932,6 @@ courses:
           C: Antioch.
           D: Rome.
         answer: B
-        print_position: 9
       - uid: BIB116.4.3.1.TY.4
         subobj: 4.3.1
         type: ty
@@ -3031,7 +2942,6 @@ courses:
           C: a warning against pagan idols.
           D: the partaking of communion.
         answer: B
-        print_position: 10
       - uid: BIB116.5.1.1.UPE.1
         subobj: 5.1.1
         type: upe
@@ -3042,8 +2952,6 @@ courses:
           C: Simeon.
           D: Judah.
         answer: B
-        print_position: 1
-        unit: 2
       - uid: BIB116.5.1.1.TY.1
         subobj: 5.1.1
         type: ty
@@ -3054,7 +2962,6 @@ courses:
           C: Essenes.
           D: Zealots.
         answer: A
-        print_position: 1
       - uid: BIB116.5.1.2.UPE.1
         subobj: 5.1.2
         type: upe
@@ -3065,8 +2972,6 @@ courses:
           C: Romans, Galatians, and 1 and 2 Corinthians
           D: Ephesians, Philippians, Colossians, and Philemon
         answer: A
-        print_position: 2
-        unit: 2
       - uid: BIB116.5.1.2.TY.1
         subobj: 5.1.2
         type: ty
@@ -3077,7 +2982,6 @@ courses:
           C: Pastoral Epistles.
           D: General Epistles.
         answer: A
-        print_position: 2
       - uid: BIB116.5.2.1.TY.1
         subobj: 5.2.1
         type: ty
@@ -3089,7 +2993,6 @@ courses:
           C: false teachers.
           D: cultural differences.
         answer: D
-        print_position: 3
       - uid: BIB116.5.2.2.UPE.1
         subobj: 5.2.2
         type: upe
@@ -3100,8 +3003,6 @@ courses:
           C: essence of righteousness.
           D: provision for righteousness.
         answer: D
-        print_position: 3
-        unit: 2
       - uid: BIB116.5.2.2.TY.1
         subobj: 5.2.2
         type: ty
@@ -3112,7 +3013,6 @@ courses:
           C: the weak and the mature in Jesus Christ.
           D: the young and the old under the Law.
         answer: B
-        print_position: 4
       - uid: BIB116.5.2.2.TY.2
         subobj: 5.2.2
         type: ty
@@ -3123,7 +3023,6 @@ courses:
           C: Justification
           D: Predestination
         answer: C
-        print_position: 5
       - uid: BIB116.5.2.2.TY.3
         subobj: 5.2.2
         type: ty
@@ -3134,7 +3033,6 @@ courses:
           C: sovereignty.
           D: maturity.
         answer: A
-        print_position: 6
       - uid: BIB116.5.3.1.UPE.1
         subobj: 5.3.1
         type: upe
@@ -3145,8 +3043,6 @@ courses:
           C: warn the people about Gnosticism.
           D: explain the signs of the times.
         answer: B
-        print_position: 4
-        unit: 2
       - uid: BIB116.5.3.1.TY.1
         subobj: 5.3.1
         type: ty
@@ -3157,7 +3053,6 @@ courses:
           C: neither Jesus nor Moses.
           D: both Jesus and Moses.
         answer: D
-        print_position: 7
       - uid: BIB116.5.3.1.TY.2
         subobj: 5.3.1
         type: ty
@@ -3168,7 +3063,6 @@ courses:
           C: relating to other groups of believers.
           D: trusting in grace alone to be saved.
         answer: D
-        print_position: 8
       - uid: BIB116.5.3.2.UPE.1
         subobj: 5.3.2
         type: upe
@@ -3179,8 +3073,6 @@ courses:
           C: angels had given it to him.
           D: the Jerusalem Council had voted to accept it.
         answer: A
-        print_position: 5
-        unit: 2
       - uid: BIB116.5.3.2.TY.1
         subobj: 5.3.2
         type: ty
@@ -3191,7 +3083,6 @@ courses:
           C: Ananias.
           D: an angel.
         answer: B
-        print_position: 9
       - uid: BIB116.5.3.2.TY.2
         subobj: 5.3.2
         type: ty
@@ -3202,7 +3093,6 @@ courses:
           C: Abraham.
           D: Moses.
         answer: C
-        print_position: 10
       - uid: BIB116.6.1.1.UPE.1
         subobj: 6.1.1
         type: upe
@@ -3213,8 +3103,6 @@ courses:
           C: commit sexual immorality.
           D: behave like a lunatic.
         answer: C
-        print_position: 6
-        unit: 2
       - uid: BIB116.6.1.1.UPE.2
         subobj: 6.1.1
         type: upe
@@ -3225,8 +3113,6 @@ courses:
           C: 18 months.
           D: 24 months.
         answer: C
-        print_position: 7
-        unit: 2
       - uid: BIB116.6.1.1.TY.1
         subobj: 6.1.1
         type: ty
@@ -3237,7 +3123,6 @@ courses:
           C: Ephesus
           D: Thessalonica
         answer: A
-        print_position: 1
       - uid: BIB116.6.1.1.TY.2
         subobj: 6.1.1
         type: ty
@@ -3248,7 +3133,6 @@ courses:
           C: live immorally.
           D: travel the world.
         answer: C
-        print_position: 2
       - uid: BIB116.6.1.1.TY.3
         subobj: 6.1.1
         type: ty
@@ -3259,7 +3143,6 @@ courses:
           C: twelve months.
           D: eighteen months.
         answer: D
-        print_position: 3
       - uid: BIB116.6.1.2.UPE.1
         subobj: 6.1.2
         type: upe
@@ -3270,8 +3153,6 @@ courses:
           C: the resurrection of the dead.
           D: divorce and remarriage.
         answer: B
-        print_position: 8
-        unit: 2
       - uid: BIB116.6.1.2.TY.1
         subobj: 6.1.2
         type: ty
@@ -3282,7 +3163,6 @@ courses:
           C: persecution.
           D: Judaizers.
         answer: A
-        print_position: 4
       - uid: BIB116.6.1.2.TY.2
         subobj: 6.1.2
         type: ty
@@ -3294,7 +3174,6 @@ courses:
           C: conscience.
           D: marriage.
         answer: C
-        print_position: 5
       - uid: BIB116.6.1.2.TY.3
         subobj: 6.1.2
         type: ty
@@ -3305,7 +3184,6 @@ courses:
           C: good works.
           D: the end-time.
         answer: B
-        print_position: 6
       - uid: BIB116.6.1.2.TY.4
         subobj: 6.1.2
         type: ty
@@ -3316,7 +3194,6 @@ courses:
           C: conscience.
           D: marriage.
         answer: A
-        print_position: 7
       - uid: BIB116.6.2.1.UPE.1
         subobj: 6.2.1
         type: upe
@@ -3327,8 +3204,6 @@ courses:
           C: became very sick while preaching in Ephesus.
           D: did not want to hurt the believers in Corinth.
         answer: D
-        print_position: 9
-        unit: 2
       - uid: BIB116.6.2.1.TY.1
         subobj: 6.2.1
         type: ty
@@ -3339,7 +3214,6 @@ courses:
           C: give comfort to believers.
           D: defend his ministry.
         answer: D
-        print_position: 8
       - uid: BIB116.6.2.2.UPE.1
         subobj: 6.2.2
         type: upe
@@ -3350,8 +3224,6 @@ courses:
           C: took pride in what was in the heart.
           D: relied on humans to recommend him.
         answer: C
-        print_position: 10
-        unit: 2
       - uid: BIB116.6.2.2.TY.1
         subobj: 6.2.2
         type: ty
@@ -3362,7 +3234,6 @@ courses:
           C: speak with powerful words.
           D: are known for humility.
         answer: D
-        print_position: 9
       - uid: BIB116.6.2.2.TY.2
         subobj: 6.2.2
         type: ty
@@ -3373,7 +3244,6 @@ courses:
           C: were persecuted for their faith.
           D: made human sacrifices to idols.
         answer: B
-        print_position: 10
       - uid: BIB116.7.1.1.UPE.1
         subobj: 7.1.1
         type: upe
@@ -3384,8 +3254,6 @@ courses:
           C: about two years.
           D: about eighteen months.
         answer: B
-        print_position: 11
-        unit: 2
       - uid: BIB116.7.1.1.TY.1
         subobj: 7.1.1
         type: ty
@@ -3396,7 +3264,6 @@ courses:
           C: Ephesus
           D: Corinth
         answer: C
-        print_position: 1
       - uid: BIB116.7.1.1.TY.2
         subobj: 7.1.1
         type: ty
@@ -3407,7 +3274,6 @@ courses:
           C: a Greek goddess.
           D: the pastor at Ephesus.
         answer: C
-        print_position: 2
       - uid: BIB116.7.1.2.UPE.1
         subobj: 7.1.2
         type: upe
@@ -3418,8 +3284,6 @@ courses:
           C: between husband and wife.
           D: between Jews and Gentiles.
         answer: D
-        print_position: 12
-        unit: 2
       - uid: BIB116.7.1.2.TY.1
         subobj: 7.1.2
         type: ty
@@ -3430,7 +3294,6 @@ courses:
           C: end-time.
           D: suffering.
         answer: A
-        print_position: 3
       - uid: BIB116.7.2.1.UPE.1
         subobj: 7.2.1
         type: upe
@@ -3441,8 +3304,6 @@ courses:
           C: a colony made up mostly of women.
           D: the site of Paul’s first church.
         answer: B
-        print_position: 13
-        unit: 2
       - uid: BIB116.7.2.1.TY.1
         subobj: 7.2.1
         type: ty
@@ -3453,7 +3314,6 @@ courses:
           C: Achaia.
           D: Asia Minor.
         answer: B
-        print_position: 4
       - uid: BIB116.7.2.2.UPE.1
         subobj: 7.2.2
         type: upe
@@ -3464,8 +3324,6 @@ courses:
           C: Philippians.
           D: Philemon.
         answer: C
-        print_position: 14
-        unit: 2
       - uid: BIB116.7.2.2.TY.1
         subobj: 7.2.2
         type: ty
@@ -3476,7 +3334,6 @@ courses:
           C: mercy.
           D: love.
         answer: B
-        print_position: 5
       - uid: BIB116.7.2.2.TY.2
         subobj: 7.2.2
         type: ty
@@ -3487,7 +3344,6 @@ courses:
           C: salvation.
           D: rejoicing.
         answer: A
-        print_position: 6
       - uid: BIB116.7.3.1.UPE.1
         subobj: 7.3.1
         type: upe
@@ -3498,8 +3354,6 @@ courses:
           C: lowering the status of Christ.
           D: refusing to meet on the Sabbath.
         answer: C
-        print_position: 15
-        unit: 2
       - uid: BIB116.7.3.1.TY.1
         subobj: 7.3.1
         type: ty
@@ -3510,7 +3364,6 @@ courses:
           C: the ability to predict the future.
           D: secret knowledge for salvation.
         answer: D
-        print_position: 7
       - uid: BIB116.7.3.2.UPE.1
         subobj: 7.3.2
         type: upe
@@ -3521,8 +3374,6 @@ courses:
           C: showing concern for appearances.
           D: showing compassion and humility.
         answer: D
-        print_position: 16
-        unit: 2
       - uid: BIB116.7.3.2.TY.1
         subobj: 7.3.2
         type: ty
@@ -3533,7 +3384,6 @@ courses:
           C: death.
           D: sins.
         answer: D
-        print_position: 8
       - uid: BIB116.7.4.1.UPE.1
         subobj: 7.4.1
         type: upe
@@ -3544,8 +3394,6 @@ courses:
           C: Philippians
           D: Philemon
         answer: D
-        print_position: 17
-        unit: 2
       - uid: BIB116.7.4.1.TY.1
         subobj: 7.4.1
         type: ty
@@ -3556,7 +3404,6 @@ courses:
           C: Onesimus.
           D: Epaphras.
         answer: C
-        print_position: 9
       - uid: BIB116.7.4.1.TY.2
         subobj: 7.4.1
         type: ty
@@ -3567,7 +3414,6 @@ courses:
           C: changes the rules of society.
           D: can make people better.
         answer: D
-        print_position: 10
       - uid: BIB116.8.1.1.UPE.1
         subobj: 8.1.1
         type: upe
@@ -3578,8 +3424,6 @@ courses:
           C: warnings about false teachers.
           D: praise for their generous giving.
         answer: B
-        print_position: 18
-        unit: 2
       - uid: BIB116.8.1.1.TY.1
         subobj: 8.1.1
         type: ty
@@ -3590,7 +3434,6 @@ courses:
           C: Macedonia.
           D: Asia Minor.
         answer: C
-        print_position: 1
       - uid: BIB116.8.1.1.TY.2
         subobj: 8.1.1
         type: ty
@@ -3601,7 +3444,6 @@ courses:
           C: Athens.
           D: Philippi.
         answer: B
-        print_position: 2
       - uid: BIB116.8.1.1.TY.3
         subobj: 8.1.1
         type: ty
@@ -3612,7 +3454,6 @@ courses:
           C: Tychicus
           D: Timothy
         answer: D
-        print_position: 3
       - uid: BIB116.8.1.1.TY.4
         subobj: 8.1.1
         type: ty
@@ -3623,7 +3464,6 @@ courses:
           C: Christ’s greatness.
           D: the Second Coming.
         answer: D
-        print_position: 4
       - uid: BIB116.8.1.2.UPE.1
         subobj: 8.1.2
         type: upe
@@ -3634,8 +3474,6 @@ courses:
           C: the suffering of other believers.
           D: a generous offering they would soon receive.
         answer: A
-        print_position: 19
-        unit: 2
       - uid: BIB116.8.1.2.TY.1
         subobj: 8.1.2
         type: ty
@@ -3646,7 +3484,6 @@ courses:
           C: rebuke rebelling Christians.
           D: discuss speaking in tongues.
         answer: A
-        print_position: 5
       - uid: BIB116.8.1.2.TY.2
         subobj: 8.1.2
         type: ty
@@ -3657,7 +3494,6 @@ courses:
           C: the end-time.
           D: salvation.
         answer: C
-        print_position: 6
       - uid: BIB116.8.1.2.TY.3
         subobj: 8.1.2
         type: ty
@@ -3668,7 +3504,6 @@ courses:
           C: statement of faith.
           D: teaching of Christ’s return.
         answer: D
-        print_position: 7
       - uid: BIB116.8.2.1.UPE.1
         subobj: 8.2.1
         type: upe
@@ -3680,8 +3515,6 @@ courses:
           C: after the Tribulation.
           D: after the Millennium.
         answer: C
-        print_position: 20
-        unit: 2
       - uid: BIB116.8.2.1.TY.1
         subobj: 8.2.1
         type: ty
@@ -3692,7 +3525,6 @@ courses:
           C: grave.
           D: Tribulation.
         answer: A
-        print_position: 8
       - uid: BIB116.8.2.1.TY.2
         subobj: 8.2.1
         type: ty
@@ -3703,7 +3535,6 @@ courses:
           C: false prophet.
           D: devil.
         answer: B
-        print_position: 9
       - uid: BIB116.8.2.1.TY.3
         subobj: 8.2.1
         type: ty
@@ -3714,7 +3545,6 @@ courses:
           C: Christ’s coming for and with His saints.
           D: only Christ’s coming to judge His enemies.
         answer: C
-        print_position: 10
       - uid: BIB116.9.1.1.UPE.1
         subobj: 9.1.1
         type: upe
@@ -3725,8 +3555,6 @@ courses:
           C: during Paul’s first missionary journey.
           D: during Paul’s second missionary journey.
         answer: C
-        print_position: 21
-        unit: 2
       - uid: BIB116.9.1.1.TY.1
         subobj: 9.1.1
         type: ty
@@ -3737,7 +3565,6 @@ courses:
           C: At home
           D: In a vision
         answer: C
-        print_position: 1
       - uid: BIB116.9.1.1.TY.2
         subobj: 9.1.1
         type: ty
@@ -3748,7 +3575,6 @@ courses:
           C: teacher to a student.
           D: pastor to a church member.
         answer: B
-        print_position: 2
       - uid: BIB116.9.1.1.TY.3
         subobj: 9.1.1
         type: ty
@@ -3759,7 +3585,6 @@ courses:
           C: Ephesus.
           D: Antioch.
         answer: C
-        print_position: 3
       - uid: BIB116.9.1.2.UPE.1
         subobj: 9.1.2
         type: upe
@@ -3770,8 +3595,6 @@ courses:
           C: the use of spiritual gifts in the church.
           D: instructions about public worship.
         answer: D
-        print_position: 22
-        unit: 2
       - uid: BIB116.9.1.2.TY.1
         subobj: 9.1.2
         type: ty
@@ -3782,7 +3605,6 @@ courses:
           C: the Resurrection.
           D: the Second Coming.
         answer: A
-        print_position: 4
       - uid: BIB116.9.2.1.UPE.1
         subobj: 9.2.1
         type: upe
@@ -3793,8 +3615,6 @@ courses:
           C: is for Jewish believers only.
           D: has no religious value.
         answer: D
-        print_position: 23
-        unit: 2
       - uid: BIB116.9.2.1.TY.1
         subobj: 9.2.1
         type: ty
@@ -3805,7 +3625,6 @@ courses:
           C: has much education.
           D: has many talents.
         answer: A
-        print_position: 5
       - uid: BIB116.9.2.2.TY.1
         subobj: 9.2.2
         type: ty
@@ -3816,7 +3635,6 @@ courses:
           C: helping them understand the Bible.
           D: teaching them to live godly lives.
         answer: D
-        print_position: 6
       - uid: BIB116.9.2.2.TY.2
         subobj: 9.2.2
         type: ty
@@ -3827,7 +3645,6 @@ courses:
           C: church’s leadership.
           D: reputation of the gospel.
         answer: D
-        print_position: 7
       - uid: BIB116.9.3.1.UPE.1
         subobj: 9.3.1
         type: upe
@@ -3838,8 +3655,6 @@ courses:
           C: endure suffering.
           D: finish the race.
         answer: B
-        print_position: 24
-        unit: 2
       - uid: BIB116.9.3.1.TY.1
         subobj: 9.3.1
         type: ty
@@ -3850,7 +3665,6 @@ courses:
           C: obey the rules.
           D: finish the race.
         answer: C
-        print_position: 8
       - uid: BIB116.9.3.2.UPE.1
         subobj: 9.3.2
         type: upe
@@ -3861,8 +3675,6 @@ courses:
           C: should be used to teach, rebuke, correct, and train.
           D: was written by the finger of God.
         answer: C
-        print_position: 25
-        unit: 2
       - uid: BIB116.9.3.2.TY.1
         subobj: 9.3.2
         type: ty
@@ -3873,7 +3685,6 @@ courses:
           C: Samson and Delilah.
           D: Nadab and Abihu.
         answer: B
-        print_position: 9
       - uid: BIB116.9.3.2.TY.2
         subobj: 9.3.2
         type: ty
@@ -3884,7 +3695,6 @@ courses:
           C: wrote the Scriptures on His own.
           D: is the source of all Scripture.
         answer: D
-        print_position: 10
       - uid: BIB116.10.1.1.UPE.1
         subobj: 10.1.1
         type: upe
@@ -3896,8 +3706,6 @@ courses:
           C: Paul often quoted from the Septuagint.
           D: Paul was called only to the Gentiles.
         answer: B
-        print_position: 1
-        unit: 3
       - uid: BIB116.10.1.1.TY.1
         subobj: 10.1.1
         type: ty
@@ -3908,7 +3716,6 @@ courses:
           C: Apollos.
           D: unknown.
         answer: D
-        print_position: 1
       - uid: BIB116.10.1.1.TY.2
         subobj: 10.1.1
         type: ty
@@ -3919,7 +3726,6 @@ courses:
           C: suffering.
           D: spiritual gifts.
         answer: C
-        print_position: 10
       - uid: BIB116.10.1.2.UPE.1
         subobj: 10.1.2
         type: upe
@@ -3930,8 +3736,6 @@ courses:
           C: righteous.
           D: superior.
         answer: D
-        print_position: 2
-        unit: 3
       - uid: BIB116.10.1.2.TY.1
         subobj: 10.1.2
         type: ty
@@ -3942,7 +3746,6 @@ courses:
           C: was faithful as God’s Son.
           D: offers us an eternal rest.
         answer: A
-        print_position: 2
       - uid: BIB116.10.1.3.UPE.1
         subobj: 10.1.3
         type: upe
@@ -3954,8 +3757,6 @@ courses:
           C: spend time in purgatory.
           D: miss God’s fullest blessings.
         answer: A
-        print_position: 3
-        unit: 3
       - uid: BIB116.10.1.3.TY.1
         subobj: 10.1.3
         type: ty
@@ -3966,7 +3767,6 @@ courses:
           C: spend time in purgatory.
           D: turn away from their salvation.
         answer: D
-        print_position: 3
       - uid: BIB116.10.2.1.UPE.1
         subobj: 10.2.1
         type: upe
@@ -3977,8 +3777,6 @@ courses:
           C: James
           D: Revelation
         answer: C
-        print_position: 4
-        unit: 3
       - uid: BIB116.10.2.1.TY.1
         subobj: 10.2.1
         type: ty
@@ -3989,7 +3787,6 @@ courses:
           C: about all different topics.
           D: around the same time.
         answer: B
-        print_position: 4
       - uid: BIB116.10.2.2.UPE.1
         subobj: 10.2.2
         type: upe
@@ -4000,8 +3797,6 @@ courses:
           C: a king from Britain.
           D: the Lord’s half-brother.
         answer: D
-        print_position: 5
-        unit: 3
       - uid: BIB116.10.2.2.TY.1
         subobj: 10.2.2
         type: ty
@@ -4012,7 +3807,6 @@ courses:
           C: the son of Alphaeus.
           D: a church deacon.
         answer: B
-        print_position: 5
       - uid: BIB116.10.2.3.UPE.1
         subobj: 10.2.3
         type: upe
@@ -4023,8 +3817,6 @@ courses:
           C: 1 John
           D: Jude
         answer: A
-        print_position: 6
-        unit: 3
       - uid: BIB116.10.2.3.TY.1
         subobj: 10.2.3
         type: ty
@@ -4035,7 +3827,6 @@ courses:
           C: The wealthy will soon pass away.
           D: Wealth is a measure of God’s blessing.
         answer: C
-        print_position: 6
       - uid: BIB116.10.3.1.UPE.1
         subobj: 10.3.1
         type: upe
@@ -4046,8 +3837,6 @@ courses:
           C: Andrew.
           D: Silas.
         answer: C
-        print_position: 7
-        unit: 3
       - uid: BIB116.10.3.1.TY.1
         subobj: 10.3.1
         type: ty
@@ -4058,7 +3847,6 @@ courses:
           C: “father.”
           D: “rock.”
         answer: D
-        print_position: 7
       - uid: BIB116.10.3.2.UPE.1
         subobj: 10.3.2
         type: upe
@@ -4069,8 +3857,6 @@ courses:
           C: are a result of sin.
           D: purify our faith.
         answer: D
-        print_position: 8
-        unit: 3
       - uid: BIB116.10.3.2.TY.1
         subobj: 10.3.2
         type: ty
@@ -4081,7 +3867,6 @@ courses:
           C: are the result of sin.
           D: are caused by Satan.
         answer: A
-        print_position: 8
       - uid: BIB116.10.3.3.UPE.1
         subobj: 10.3.3
         type: upe
@@ -4092,8 +3877,6 @@ courses:
           C: slander.
           D: pride.
         answer: A
-        print_position: 9
-        unit: 3
       - uid: BIB116.10.3.3.TY.1
         subobj: 10.3.3
         type: ty
@@ -4104,7 +3887,6 @@ courses:
           C: humble obedience.
           D: ignorance.
         answer: C
-        print_position: 9
       - uid: BIB116.11.1.1.UPE.1
         subobj: 11.1.1
         type: upe
@@ -4116,8 +3898,6 @@ courses:
           C: Jesus came in the flesh but was sinless.
           D: all things are pure to the pure.
         answer: C
-        print_position: 10
-        unit: 3
       - uid: BIB116.11.1.1.TY.1
         subobj: 11.1.1
         type: ty
@@ -4128,7 +3908,6 @@ courses:
           C: Gnostics.
           D: Zealots.
         answer: C
-        print_position: 1
       - uid: BIB116.11.1.1.TY.2
         subobj: 11.1.1
         type: ty
@@ -4139,7 +3918,6 @@ courses:
           C: we cannot know if we are saved.
           D: we should ignore needs of the body.
         answer: B
-        print_position: 2
       - uid: BIB116.11.1.1.TY.3
         subobj: 11.1.1
         type: ty
@@ -4150,7 +3928,6 @@ courses:
           C: to suffering believers.
           D: about false teaching.
         answer: D
-        print_position: 6
       - uid: BIB116.11.1.2.UPE.1
         subobj: 11.1.2
         type: upe
@@ -4162,8 +3939,6 @@ courses:
           C: are eternally secure.
           D: are God’s children.
         answer: D
-        print_position: 11
-        unit: 3
       - uid: BIB116.11.1.2.TY.1
         subobj: 11.1.2
         type: ty
@@ -4174,7 +3949,6 @@ courses:
           C: Lawlessness
           D: Making a mistake
         answer: C
-        print_position: 3
       - uid: BIB116.11.1.2.TY.2
         subobj: 11.1.2
         type: ty
@@ -4185,7 +3959,6 @@ courses:
           C: do not feel guilty.
           D: confess our sins.
         answer: B
-        print_position: 4
       - uid: BIB116.11.2.1.UPE.1
         subobj: 11.2.1
         type: upe
@@ -4196,8 +3969,6 @@ courses:
           C: The first will be last, and the last will be first.
           D: Walking in the truth is praiseworthy.
         answer: B
-        print_position: 12
-        unit: 3
       - uid: BIB116.11.2.1.TY.1
         subobj: 11.2.1
         type: ty
@@ -4209,7 +3980,6 @@ courses:
           C: Paul says John wrote these books.
           D: all three books refer to the antichrist.
         answer: A
-        print_position: 5
       - uid: BIB116.11.2.2.UPE.1
         subobj: 11.2.2
         type: upe
@@ -4220,8 +3990,6 @@ courses:
           C: 1 John
           D: 2 John
         answer: D
-        print_position: 13
-        unit: 3
       - uid: BIB116.11.2.2.TY.1
         subobj: 11.2.2
         type: ty
@@ -4232,7 +4000,6 @@ courses:
           C: truth.
           D: justice.
         answer: C
-        print_position: 7
       - uid: BIB116.11.3.1.UPE.1
         subobj: 11.3.1
         type: upe
@@ -4243,8 +4010,6 @@ courses:
           C: was a silversmith.
           D: loved to be first.
         answer: B
-        print_position: 14
-        unit: 3
       - uid: BIB116.11.3.1.TY.1
         subobj: 11.3.1
         type: ty
@@ -4255,7 +4020,6 @@ courses:
           C: did not walk in truth.
           D: was John’s son in the faith.
         answer: A
-        print_position: 8
       - uid: BIB116.11.3.1.TY.2
         subobj: 11.3.1
         type: ty
@@ -4266,7 +4030,6 @@ courses:
           C: was very intelligent.
           D: had great faith.
         answer: B
-        print_position: 9
       - uid: BIB116.11.3.1.TY.3
         subobj: 11.3.1
         type: ty
@@ -4277,7 +4040,6 @@ courses:
           C: walked in truth.
           D: loved to be first.
         answer: D
-        print_position: 10
       - uid: BIB116.12.1.1.UPE.1
         subobj: 12.1.1
         type: upe
@@ -4288,8 +4050,6 @@ courses:
           C: praying in tongues.
           D: faithful church attendance.
         answer: A
-        print_position: 15
-        unit: 3
       - uid: BIB116.12.1.1.TY.1
         subobj: 12.1.1
         type: ty
@@ -4300,7 +4060,6 @@ courses:
           C: discern that all who are born again grow.
           D: depend on the church for growing in grace.
         answer: B
-        print_position: 1
       - uid: BIB116.12.1.1.TY.2
         subobj: 12.1.1
         type: ty
@@ -4311,7 +4070,6 @@ courses:
           C: fall from God’s grace.
           D: use grace to cover sin.
         answer: C
-        print_position: 2
       - uid: BIB116.12.1.2.UPE.1
         subobj: 12.1.2
         type: upe
@@ -4322,8 +4080,6 @@ courses:
           C: target weak or new believers.
           D: compare to wells full of water.
         answer: C
-        print_position: 16
-        unit: 3
       - uid: BIB116.12.1.2.TY.1
         subobj: 12.1.2
         type: ty
@@ -4334,7 +4090,6 @@ courses:
           C: Paul’s letters contain some difficult statements.
           D: believers should make their calling sure.
         answer: A
-        print_position: 3
       - uid: BIB116.12.1.2.TY.2
         subobj: 12.1.2
         type: ty
@@ -4345,7 +4100,6 @@ courses:
           C: Jezebel.
           D: Cain.
         answer: B
-        print_position: 4
       - uid: BIB116.12.1.2.TY.3
         subobj: 12.1.2
         type: ty
@@ -4356,7 +4110,6 @@ courses:
           C: the Antichrist.
           D: false teachers.
         answer: D
-        print_position: 5
       - uid: BIB116.12.2.1.UPE.1
         subobj: 12.2.1
         type: upe
@@ -4367,8 +4120,6 @@ courses:
           C: one of the twelve disciples.
           D: Jesus’ half-brother.
         answer: D
-        print_position: 17
-        unit: 3
       - uid: BIB116.12.2.1.TY.1
         subobj: 12.2.1
         type: ty
@@ -4379,7 +4130,6 @@ courses:
           C: apostle Jude.
           D: brother of James and John.
         answer: A
-        print_position: 6
       - uid: BIB116.12.2.1.TY.2
         subobj: 12.2.1
         type: ty
@@ -4390,7 +4140,6 @@ courses:
           C: rebuke the devil.
           D: fight for the faith.
         answer: D
-        print_position: 7
       - uid: BIB116.12.2.2.UPE.1
         subobj: 12.2.2
         type: upe
@@ -4402,8 +4151,6 @@ courses:
           C: '367.'
           D: '467.'
         answer: C
-        print_position: 18
-        unit: 3
       - uid: BIB116.12.2.2.TY.1
         subobj: 12.2.2
         type: ty
@@ -4414,7 +4161,6 @@ courses:
           C: Apocrypha.
           D: Pseudepigrapha.
         answer: D
-        print_position: 8
       - uid: BIB116.12.2.2.TY.2
         subobj: 12.2.2
         type: ty
@@ -4425,7 +4171,6 @@ courses:
           C: standard.
           D: book.
         answer: C
-        print_position: 9
       - uid: BIB116.12.2.2.TY.3
         subobj: 12.2.2
         type: ty
@@ -4436,7 +4181,6 @@ courses:
           C: '367.'
           D: '1546.'
         answer: C
-        print_position: 10
       - uid: BIB116.13.1.1.UPE.1
         subobj: 13.1.1
         type: upe
@@ -4447,8 +4191,6 @@ courses:
           C: Judea.
           D: Galatia.
         answer: B
-        print_position: 19
-        unit: 3
       - uid: BIB116.13.1.1.UPE.2
         subobj: 13.1.1
         type: upe
@@ -4459,8 +4201,6 @@ courses:
           C: the mystery of godliness.
           D: the identity of the two witnesses.
         answer: A
-        print_position: 20
-        unit: 3
       - uid: BIB116.13.1.1.TY.1
         subobj: 13.1.1
         type: ty
@@ -4471,7 +4211,6 @@ courses:
           C: unveils future events.
           D: hides future events.
         answer: C
-        print_position: 1
       - uid: BIB116.13.1.1.TY.2
         subobj: 13.1.1
         type: ty
@@ -4482,7 +4221,6 @@ courses:
           C: '85.'
           D: '95.'
         answer: D
-        print_position: 2
       - uid: BIB116.13.1.1.TY.3
         subobj: 13.1.1
         type: ty
@@ -4493,7 +4231,6 @@ courses:
           C: Believers should watch for the Antichrist.
           D: Jesus will return to triumph over all evil.
         answer: D
-        print_position: 3
       - uid: BIB116.13.2.1.UPE.1
         subobj: 13.2.1
         type: upe
@@ -4504,8 +4241,6 @@ courses:
           C: is about spiritual ideas, not real people.
           D: was fulfilled in the first century.
         answer: A
-        print_position: 21
-        unit: 3
       - uid: BIB116.13.2.1.TY.1
         subobj: 13.2.1
         type: ty
@@ -4516,7 +4251,6 @@ courses:
           C: emphasis on the past.
           D: emphasis on the future.
         answer: B
-        print_position: 4
       - uid: BIB116.13.2.1.TY.2
         subobj: 13.2.1
         type: ty
@@ -4527,7 +4261,6 @@ courses:
           C: Idealist
           D: Futurist
         answer: D
-        print_position: 5
       - uid: BIB116.13.2.2.UPE.1
         subobj: 13.2.2
         type: upe
@@ -4538,8 +4271,6 @@ courses:
           C: John’s vision of Christ.
           D: Christ’s life and ministry.
         answer: C
-        print_position: 22
-        unit: 3
       - uid: BIB116.13.2.2.TY.1
         subobj: 13.2.2
         type: ty
@@ -4550,7 +4281,6 @@ courses:
           C: 6–8.
           D: 8–22.
         answer: A
-        print_position: 6
       - uid: BIB116.13.2.3.UPE.1
         subobj: 13.2.3
         type: upe
@@ -4561,8 +4291,6 @@ courses:
           C: an eagle.
           D: a shepherd.
         answer: C
-        print_position: 23
-        unit: 3
       - uid: BIB116.13.2.3.TY.1
         subobj: 13.2.3
         type: ty
@@ -4573,7 +4301,6 @@ courses:
           C: Lion of Judah
           D: The Lamb of God
         answer: A
-        print_position: 7
       - uid: BIB116.13.3.1.UPE.1
         subobj: 13.3.1
         type: upe
@@ -4584,8 +4311,6 @@ courses:
           C: pass the time on the Island of Patmos.
           D: engage in a popular writing style.
         answer: A
-        print_position: 24
-        unit: 3
       - uid: BIB116.13.3.1.TY.1
         subobj: 13.3.1
         type: ty
@@ -4596,7 +4321,6 @@ courses:
           C: make the truth plain for all to understand.
           D: represent ideas, not real people and events.
         answer: B
-        print_position: 8
       - uid: BIB116.13.3.1.TY.2
         subobj: 13.3.1
         type: ty
@@ -4607,7 +4331,6 @@ courses:
           C: The false prophet
           D: Fallen angels
         answer: C
-        print_position: 9
       - uid: BIB116.13.3.2.UPE.1
         subobj: 13.3.2
         type: upe
@@ -4618,8 +4341,6 @@ courses:
           C: believers.
           D: elders.
         answer: C
-        print_position: 25
-        unit: 3
       - uid: BIB116.13.3.2.TY.1
         subobj: 13.3.2
         type: ty
@@ -4630,8 +4351,6 @@ courses:
           C: cities of Babylon and Nineveh.
           D: second and third resurrections.
         answer: A
-        print_position: 10
-      captured: reparse
     - pn: 03.21.02
       course_code: BIB116
       source_html: BIB212.html
@@ -4656,8 +4375,6 @@ courses:
           C: government.
           D: language.
         answer: D
-        print_position: 1
-        unit: 1
       - uid: BIB116.1.1.1.TY.1
         subobj: 1.1.1
         type: ty
@@ -4669,7 +4386,6 @@ courses:
           C: Samaritans
           D: Jews
         answer: B
-        print_position: 1
       - uid: BIB116.1.1.1.TY.2
         subobj: 1.1.1
         type: ty
@@ -4680,7 +4396,6 @@ courses:
           C: government.
           D: army.
         answer: A
-        print_position: 2
       - uid: BIB116.1.1.2.UPE.1
         subobj: 1.1.2
         type: upe
@@ -4691,8 +4406,6 @@ courses:
           C: Pharisees
           D: Zealots
         answer: C
-        print_position: 2
-        unit: 1
       - uid: BIB116.1.1.2.TY.1
         subobj: 1.1.2
         type: ty
@@ -4703,7 +4416,6 @@ courses:
           C: Sanhedrin.
           D: Areopagus.
         answer: C
-        print_position: 3
       - uid: BIB116.1.1.2.TY.2
         subobj: 1.1.2
         type: ty
@@ -4714,7 +4426,6 @@ courses:
           C: Levites.
           D: Zealots.
         answer: B
-        print_position: 4
       - uid: BIB116.1.2.1.UPE.1
         subobj: 1.2.1
         type: upe
@@ -4725,8 +4436,6 @@ courses:
           C: Sanhedrin.
           D: local school.
         answer: A
-        print_position: 3
-        unit: 1
       - uid: BIB116.1.2.1.TY.1
         subobj: 1.2.1
         type: ty
@@ -4737,7 +4446,6 @@ courses:
           C: Peter.
           D: Paul.
         answer: D
-        print_position: 5
       - uid: BIB116.1.2.1.TY.2
         subobj: 1.2.1
         type: ty
@@ -4748,7 +4456,6 @@ courses:
           C: Gamaliel.
           D: Caiaphas.
         answer: D
-        print_position: 6
       - uid: BIB116.1.2.2.UPE.1
         subobj: 1.2.2
         type: upe
@@ -4760,8 +4467,6 @@ courses:
           C: moral effect on society.
           D: respected group of recipients.
         answer: B
-        print_position: 4
-        unit: 1
       - uid: BIB116.1.2.2.TY.1
         subobj: 1.2.2
         type: ty
@@ -4773,7 +4478,6 @@ courses:
           C: inspiration.
           D: the length of the writing.
         answer: C
-        print_position: 7
       - uid: BIB116.1.3.1.UPE.1
         subobj: 1.3.1
         type: upe
@@ -4784,8 +4488,6 @@ courses:
           C: apocalyptic books.
           D: letters to all.
         answer: D
-        print_position: 5
-        unit: 1
       - uid: BIB116.1.3.1.TY.1
         subobj: 1.3.1
         type: ty
@@ -4796,7 +4498,6 @@ courses:
           C: Thirteen
           D: Fifteen
         answer: C
-        print_position: 8
       - uid: BIB116.1.3.1.TY.2
         subobj: 1.3.1
         type: ty
@@ -4807,7 +4508,6 @@ courses:
           C: apocalyptic group.
           D: letters to all.
         answer: B
-        print_position: 9
       - uid: BIB116.1.4.1.UPE.1
         subobj: 1.4.1
         type: upe
@@ -4818,8 +4518,6 @@ courses:
           C: Colossians.
           D: 1 Peter.
         answer: B
-        print_position: 6
-        unit: 1
       - uid: BIB116.1.4.1.TY.1
         subobj: 1.4.1
         type: ty
@@ -4830,7 +4528,6 @@ courses:
           C: Hebrews.
           D: 2 Peter.
         answer: A
-        print_position: 10
       - uid: BIB116.2.1.1.UPE.1
         subobj: 2.1.1
         type: upe
@@ -4841,8 +4538,6 @@ courses:
           C: Messiah.
           D: Son of Man.
         answer: C
-        print_position: 7
-        unit: 1
       - uid: BIB116.2.1.1.TY.1
         subobj: 2.1.1
         type: ty
@@ -4853,7 +4548,6 @@ courses:
           C: miracles that Jesus performed.
           D: parables the Lord taught.
         answer: B
-        print_position: 1
       - uid: BIB116.2.1.2.UPE.1
         subobj: 2.1.2
         type: upe
@@ -4864,8 +4558,6 @@ courses:
           C: eight parables (chap. 13).
           D: conflict with Jewish leaders (chaps. 14–17).
         answer: C
-        print_position: 8
-        unit: 1
       - uid: BIB116.2.1.2.TY.1
         subobj: 2.1.2
         type: ty
@@ -4876,7 +4568,6 @@ courses:
           C: miracles in chapter 8.
           D: Resurrection in chapter 28.
         answer: B
-        print_position: 2
       - uid: BIB116.2.1.3.UPE.1
         subobj: 2.1.3
         type: upe
@@ -4888,8 +4579,6 @@ courses:
           C: Jesus’ background
           D: The Passion Week
         answer: A
-        print_position: 9
-        unit: 1
       - uid: BIB116.2.1.3.TY.1
         subobj: 2.1.3
         type: ty
@@ -4900,7 +4589,6 @@ courses:
           C: contrast it with the kingdom of God.
           D: link the Kingdom with Jesus, the Messiah.
         answer: D
-        print_position: 3
       - uid: BIB116.2.2.1.UPE.1
         subobj: 2.2.1
         type: upe
@@ -4911,8 +4599,6 @@ courses:
           C: the Savior.
           D: the Word of God.
         answer: B
-        print_position: 10
-        unit: 1
       - uid: BIB116.2.2.1.TY.1
         subobj: 2.2.1
         type: ty
@@ -4923,7 +4609,6 @@ courses:
           C: life.
           D: kingdom.
         answer: A
-        print_position: 4
       - uid: BIB116.2.2.2.TY.1
         subobj: 2.2.2
         type: ty
@@ -4934,7 +4619,6 @@ courses:
           C: give specific references for Old Testament quotes.
           D: write in Hebrew so his readers would understand.
         answer: B
-        print_position: 5
       - uid: BIB116.2.3.1.UPE.1
         subobj: 2.3.1
         type: upe
@@ -4945,8 +4629,6 @@ courses:
           C: Old Testament Scriptures.
           D: Jesus’ attitude toward prayer.
         answer: D
-        print_position: 11
-        unit: 1
       - uid: BIB116.2.3.1.TY.1
         subobj: 2.3.1
         type: ty
@@ -4957,7 +4639,6 @@ courses:
           C: Greeks.
           D: all.
         answer: D
-        print_position: 7
       - uid: BIB116.2.3.2.UPE.1
         subobj: 2.3.2
         type: upe
@@ -4968,8 +4649,6 @@ courses:
           C: Jesus’ washing of the disciples’ feet
           D: Thomas’ doubts about Jesus’ resurrection
         answer: A
-        print_position: 12
-        unit: 1
       - uid: BIB116.2.3.2.TY.1
         subobj: 2.3.2
         type: ty
@@ -4980,7 +4659,6 @@ courses:
           C: Luke.
           D: John.
         answer: C
-        print_position: 6
       - uid: BIB116.2.4.1.UPE.1
         subobj: 2.4.1
         type: upe
@@ -4991,8 +4669,6 @@ courses:
           C: it was effective in teaching about the Kingdom.
           D: all Jewish teachers taught that way.
         answer: C
-        print_position: 13
-        unit: 1
       - uid: BIB116.2.4.1.TY.1
         subobj: 2.4.1
         type: ty
@@ -5003,7 +4679,6 @@ courses:
           C: His enemies would accept His teachings.
           D: Those who neglected truth would get new truth.
         answer: A
-        print_position: 8
       - uid: BIB116.2.4.2.UPE.1
         subobj: 2.4.2
         type: upe
@@ -5014,8 +4689,6 @@ courses:
           C: millennial reign of Christ.
           D: period of the Tribulation.
         answer: B
-        print_position: 14
-        unit: 1
       - uid: BIB116.2.4.2.TY.1
         subobj: 2.4.2
         type: ty
@@ -5026,7 +4699,6 @@ courses:
           C: Visible phase
           D: International phase
         answer: A
-        print_position: 9
       - uid: BIB116.2.4.3.UPE.1
         subobj: 2.4.3
         type: upe
@@ -5037,8 +4709,6 @@ courses:
           C: disciples.
           D: education.
         answer: B
-        print_position: 15
-        unit: 1
       - uid: BIB116.2.4.3.TY.1
         subobj: 2.4.3
         type: ty
@@ -5049,7 +4719,6 @@ courses:
           C: teaching in the temple at age twelve.
           D: riding into Jerusalem as a king.
         answer: B
-        print_position: 10
       - uid: BIB116.3.1.1.UPE.1
         subobj: 3.1.1
         type: upe
@@ -5060,8 +4729,6 @@ courses:
           C: his purpose was to show Christ’s deity.
           D: he wanted to focus on the Great Commission.
         answer: C
-        print_position: 16
-        unit: 1
       - uid: BIB116.3.1.1.TY.1
         subobj: 3.1.1
         type: ty
@@ -5072,7 +4739,6 @@ courses:
           C: persuade his readers to believe in Christ.
           D: write a history of Jesus’ life and ministry.
         answer: C
-        print_position: 1
       - uid: BIB116.3.1.1.TY.2
         subobj: 3.1.1
         type: ty
@@ -5083,7 +4749,6 @@ courses:
           C: contrast Him with the Son of Man.
           D: clarify the teachings of John the Baptist.
         answer: A
-        print_position: 2
       - uid: BIB116.3.1.2.UPE.1
         subobj: 3.1.2
         type: upe
@@ -5094,8 +4759,6 @@ courses:
           C: eternal life through Christ.
           D: miracles that Christ performed.
         answer: D
-        print_position: 17
-        unit: 1
       - uid: BIB116.3.1.2.TY.1
         subobj: 3.1.2
         type: ty
@@ -5106,7 +4769,6 @@ courses:
           C: seventy times.
           D: one hundred times.
         answer: D
-        print_position: 3
       - uid: BIB116.3.1.2.TY.2
         subobj: 3.1.2
         type: ty
@@ -5117,7 +4779,6 @@ courses:
           C: obey.
           D: worship.
         answer: C
-        print_position: 4
       - uid: BIB116.3.1.2.TY.3
         subobj: 3.1.2
         type: ty
@@ -5128,7 +4789,6 @@ courses:
           C: wonders.
           D: revelations.
         answer: B
-        print_position: 5
       - uid: BIB116.3.2.1.UPE.1
         subobj: 3.2.1
         type: upe
@@ -5139,8 +4799,6 @@ courses:
           C: sanctification.
           D: manifestation of the Word.
         answer: A
-        print_position: 18
-        unit: 1
       - uid: BIB116.3.2.1.TY.1
         subobj: 3.2.1
         type: ty
@@ -5151,7 +4809,6 @@ courses:
           C: poverty and wealth.
           D: light and darkness.
         answer: D
-        print_position: 6
       - uid: BIB116.3.3.1.UPE.1
         subobj: 3.3.1
         type: upe
@@ -5162,8 +4819,6 @@ courses:
           C: Raising Lazarus from the dead
           D: Healing the official’s son
         answer: D
-        print_position: 19
-        unit: 1
       - uid: BIB116.3.3.1.TY.1
         subobj: 3.3.1
         type: ty
@@ -5174,7 +4829,6 @@ courses:
           C: contrasts.
           D: parables.
         answer: A
-        print_position: 7
       - uid: BIB116.3.3.2.UPE.1
         subobj: 3.3.2
         type: upe
@@ -5185,8 +4839,6 @@ courses:
           C: were written to the seven churches in Asia.
           D: were not related to God’s name in the Old Testament.
         answer: B
-        print_position: 20
-        unit: 1
       - uid: BIB116.3.3.2.TY.1
         subobj: 3.3.2
         type: ty
@@ -5197,7 +4849,6 @@ courses:
           C: “I am the Good Shepherd.”
           D: “I am the Son of Man.”
         answer: C
-        print_position: 8
       - uid: BIB116.3.3.3.UPE.1
         subobj: 3.3.3
         type: upe
@@ -5208,8 +4859,6 @@ courses:
           C: satisfies all who believe in Him.
           D: knows our inner thoughts.
         answer: A
-        print_position: 21
-        unit: 1
       - uid: BIB116.3.3.3.TY.1
         subobj: 3.3.3
         type: ty
@@ -5220,7 +4869,6 @@ courses:
           C: satisfies all who believe in Him.
           D: knows our inner thoughts.
         answer: A
-        print_position: 9
       - uid: BIB116.3.3.3.TY.2
         subobj: 3.3.3
         type: ty
@@ -5231,7 +4879,6 @@ courses:
           C: Philip
           D: Lazarus
         answer: B
-        print_position: 10
       - uid: BIB116.4.1.1.UPE.1
         subobj: 4.1.1
         type: upe
@@ -5242,8 +4889,6 @@ courses:
           C: All of the Apostles.
           D: the Holy Spirit.
         answer: D
-        print_position: 22
-        unit: 1
       - uid: BIB116.4.1.1.TY.1
         subobj: 4.1.1
         type: ty
@@ -5254,7 +4899,6 @@ courses:
           C: Luke.
           D: Theophilus.
         answer: C
-        print_position: 1
       - uid: BIB116.4.1.2.UPE.1
         subobj: 4.1.2
         type: upe
@@ -5265,8 +4909,6 @@ courses:
           C: John
           D: Acts
         answer: D
-        print_position: 23
-        unit: 1
       - uid: BIB116.4.1.2.TY.1
         subobj: 4.1.2
         type: ty
@@ -5277,7 +4919,6 @@ courses:
           C: a Gospel.
           D: an allegory.
         answer: B
-        print_position: 2
       - uid: BIB116.4.1.2.TY.2
         subobj: 4.1.2
         type: ty
@@ -5288,7 +4929,6 @@ courses:
           C: Gospels and Epistles.
           D: ministries of Peter and Paul.
         answer: C
-        print_position: 3
       - uid: BIB116.4.1.2.TY.3
         subobj: 4.1.2
         type: ty
@@ -5299,7 +4939,6 @@ courses:
           C: ministry of Peter.
           D: Holy Spirit.
         answer: D
-        print_position: 4
       - uid: BIB116.4.1.2.TY.4
         subobj: 4.1.2
         type: ty
@@ -5310,7 +4949,6 @@ courses:
           C: sanctification.
           D: surrender.
         answer: A
-        print_position: 5
       - uid: BIB116.4.2.1.UPE.1
         subobj: 4.2.1
         type: upe
@@ -5321,8 +4959,6 @@ courses:
           C: 13–16.
           D: 17–28.
         answer: B
-        print_position: 24
-        unit: 1
       - uid: BIB116.4.2.1.TY.1
         subobj: 4.2.1
         type: ty
@@ -5333,7 +4969,6 @@ courses:
           C: '1:8'
           D: '1:10'
         answer: C
-        print_position: 6
       - uid: BIB116.4.3.1.UPE.1
         subobj: 4.3.1
         type: upe
@@ -5344,8 +4979,6 @@ courses:
           C: decrease because of fear.
           D: stop preaching in Jesus’ name.
         answer: A
-        print_position: 25
-        unit: 1
       - uid: BIB116.4.3.1.TY.1
         subobj: 4.3.1
         type: ty
@@ -5356,7 +4989,6 @@ courses:
           C: Paul.
           D: Philip.
         answer: A
-        print_position: 7
       - uid: BIB116.4.3.1.TY.2
         subobj: 4.3.1
         type: ty
@@ -5367,7 +4999,6 @@ courses:
           C: The Jerusalem Council
           D: Persecution from Jews
         answer: D
-        print_position: 8
       - uid: BIB116.4.3.1.TY.3
         subobj: 4.3.1
         type: ty
@@ -5378,7 +5009,6 @@ courses:
           C: Antioch.
           D: Rome.
         answer: B
-        print_position: 9
       - uid: BIB116.4.3.1.TY.4
         subobj: 4.3.1
         type: ty
@@ -5389,7 +5019,6 @@ courses:
           C: a warning against pagan idols.
           D: the partaking of communion.
         answer: B
-        print_position: 10
       - uid: BIB116.5.1.1.UPE.1
         subobj: 5.1.1
         type: upe
@@ -5400,8 +5029,6 @@ courses:
           C: Simeon.
           D: Judah.
         answer: B
-        print_position: 1
-        unit: 2
       - uid: BIB116.5.1.1.TY.1
         subobj: 5.1.1
         type: ty
@@ -5412,7 +5039,6 @@ courses:
           C: Essenes.
           D: Zealots.
         answer: A
-        print_position: 1
       - uid: BIB116.5.1.2.UPE.1
         subobj: 5.1.2
         type: upe
@@ -5423,8 +5049,6 @@ courses:
           C: Romans, Galatians, and 1 and 2 Corinthians
           D: Ephesians, Philippians, Colossians, and Philemon
         answer: A
-        print_position: 2
-        unit: 2
       - uid: BIB116.5.1.2.TY.1
         subobj: 5.1.2
         type: ty
@@ -5435,7 +5059,6 @@ courses:
           C: Pastoral Epistles.
           D: General Epistles.
         answer: A
-        print_position: 2
       - uid: BIB116.5.2.1.TY.1
         subobj: 5.2.1
         type: ty
@@ -5447,7 +5070,6 @@ courses:
           C: false teachers.
           D: cultural differences.
         answer: D
-        print_position: 3
       - uid: BIB116.5.2.2.UPE.1
         subobj: 5.2.2
         type: upe
@@ -5458,8 +5080,6 @@ courses:
           C: essence of righteousness.
           D: provision for righteousness.
         answer: D
-        print_position: 3
-        unit: 2
       - uid: BIB116.5.2.2.TY.1
         subobj: 5.2.2
         type: ty
@@ -5470,7 +5090,6 @@ courses:
           C: the weak and the mature in Jesus Christ.
           D: the young and the old under the Law.
         answer: B
-        print_position: 4
       - uid: BIB116.5.2.2.TY.2
         subobj: 5.2.2
         type: ty
@@ -5481,7 +5100,6 @@ courses:
           C: Justification
           D: Predestination
         answer: C
-        print_position: 5
       - uid: BIB116.5.2.2.TY.3
         subobj: 5.2.2
         type: ty
@@ -5492,7 +5110,6 @@ courses:
           C: sovereignty.
           D: maturity.
         answer: A
-        print_position: 6
       - uid: BIB116.5.3.1.UPE.1
         subobj: 5.3.1
         type: upe
@@ -5503,8 +5120,6 @@ courses:
           C: warn the people about Gnosticism.
           D: explain the signs of the times.
         answer: B
-        print_position: 4
-        unit: 2
       - uid: BIB116.5.3.1.TY.1
         subobj: 5.3.1
         type: ty
@@ -5515,7 +5130,6 @@ courses:
           C: neither Jesus nor Moses.
           D: both Jesus and Moses.
         answer: D
-        print_position: 7
       - uid: BIB116.5.3.1.TY.2
         subobj: 5.3.1
         type: ty
@@ -5526,7 +5140,6 @@ courses:
           C: relating to other groups of believers.
           D: trusting in grace alone to be saved.
         answer: D
-        print_position: 8
       - uid: BIB116.5.3.2.UPE.1
         subobj: 5.3.2
         type: upe
@@ -5537,8 +5150,6 @@ courses:
           C: angels had given it to him.
           D: the Jerusalem Council had voted to accept it.
         answer: A
-        print_position: 5
-        unit: 2
       - uid: BIB116.5.3.2.TY.1
         subobj: 5.3.2
         type: ty
@@ -5549,7 +5160,6 @@ courses:
           C: Ananias.
           D: an angel.
         answer: B
-        print_position: 9
       - uid: BIB116.5.3.2.TY.2
         subobj: 5.3.2
         type: ty
@@ -5560,7 +5170,6 @@ courses:
           C: Abraham.
           D: Moses.
         answer: C
-        print_position: 10
       - uid: BIB116.6.1.1.UPE.1
         subobj: 6.1.1
         type: upe
@@ -5571,8 +5180,6 @@ courses:
           C: commit sexual immorality.
           D: behave like a lunatic.
         answer: C
-        print_position: 6
-        unit: 2
       - uid: BIB116.6.1.1.UPE.2
         subobj: 6.1.1
         type: upe
@@ -5583,8 +5190,6 @@ courses:
           C: 18 months.
           D: 24 months.
         answer: C
-        print_position: 7
-        unit: 2
       - uid: BIB116.6.1.1.TY.1
         subobj: 6.1.1
         type: ty
@@ -5595,7 +5200,6 @@ courses:
           C: Ephesus
           D: Thessalonica
         answer: A
-        print_position: 1
       - uid: BIB116.6.1.1.TY.2
         subobj: 6.1.1
         type: ty
@@ -5606,7 +5210,6 @@ courses:
           C: live immorally.
           D: travel the world.
         answer: C
-        print_position: 2
       - uid: BIB116.6.1.1.TY.3
         subobj: 6.1.1
         type: ty
@@ -5617,7 +5220,6 @@ courses:
           C: twelve months.
           D: eighteen months.
         answer: D
-        print_position: 3
       - uid: BIB116.6.1.2.UPE.1
         subobj: 6.1.2
         type: upe
@@ -5628,8 +5230,6 @@ courses:
           C: the resurrection of the dead.
           D: divorce and remarriage.
         answer: B
-        print_position: 8
-        unit: 2
       - uid: BIB116.6.1.2.TY.1
         subobj: 6.1.2
         type: ty
@@ -5640,7 +5240,6 @@ courses:
           C: persecution.
           D: Judaizers.
         answer: A
-        print_position: 4
       - uid: BIB116.6.1.2.TY.2
         subobj: 6.1.2
         type: ty
@@ -5652,7 +5251,6 @@ courses:
           C: conscience.
           D: marriage.
         answer: C
-        print_position: 5
       - uid: BIB116.6.1.2.TY.3
         subobj: 6.1.2
         type: ty
@@ -5663,7 +5261,6 @@ courses:
           C: good works.
           D: the end-time.
         answer: B
-        print_position: 6
       - uid: BIB116.6.1.2.TY.4
         subobj: 6.1.2
         type: ty
@@ -5674,7 +5271,6 @@ courses:
           C: conscience.
           D: marriage.
         answer: A
-        print_position: 7
       - uid: BIB116.6.2.1.UPE.1
         subobj: 6.2.1
         type: upe
@@ -5685,8 +5281,6 @@ courses:
           C: became very sick while preaching in Ephesus.
           D: did not want to hurt the believers in Corinth.
         answer: D
-        print_position: 9
-        unit: 2
       - uid: BIB116.6.2.1.TY.1
         subobj: 6.2.1
         type: ty
@@ -5697,7 +5291,6 @@ courses:
           C: give comfort to believers.
           D: defend his ministry.
         answer: D
-        print_position: 8
       - uid: BIB116.6.2.2.UPE.1
         subobj: 6.2.2
         type: upe
@@ -5708,8 +5301,6 @@ courses:
           C: took pride in what was in the heart.
           D: relied on humans to recommend him.
         answer: C
-        print_position: 10
-        unit: 2
       - uid: BIB116.6.2.2.TY.1
         subobj: 6.2.2
         type: ty
@@ -5720,7 +5311,6 @@ courses:
           C: speak with powerful words.
           D: are known for humility.
         answer: D
-        print_position: 9
       - uid: BIB116.6.2.2.TY.2
         subobj: 6.2.2
         type: ty
@@ -5731,7 +5321,6 @@ courses:
           C: were persecuted for their faith.
           D: made human sacrifices to idols.
         answer: B
-        print_position: 10
       - uid: BIB116.7.1.1.UPE.1
         subobj: 7.1.1
         type: upe
@@ -5742,8 +5331,6 @@ courses:
           C: about two years.
           D: about eighteen months.
         answer: B
-        print_position: 11
-        unit: 2
       - uid: BIB116.7.1.1.TY.1
         subobj: 7.1.1
         type: ty
@@ -5754,7 +5341,6 @@ courses:
           C: Ephesus
           D: Corinth
         answer: C
-        print_position: 1
       - uid: BIB116.7.1.1.TY.2
         subobj: 7.1.1
         type: ty
@@ -5765,7 +5351,6 @@ courses:
           C: a Greek goddess.
           D: the pastor at Ephesus.
         answer: C
-        print_position: 2
       - uid: BIB116.7.1.2.UPE.1
         subobj: 7.1.2
         type: upe
@@ -5776,8 +5361,6 @@ courses:
           C: between husband and wife.
           D: between Jews and Gentiles.
         answer: D
-        print_position: 12
-        unit: 2
       - uid: BIB116.7.1.2.TY.1
         subobj: 7.1.2
         type: ty
@@ -5788,7 +5371,6 @@ courses:
           C: end-time.
           D: suffering.
         answer: A
-        print_position: 3
       - uid: BIB116.7.2.1.UPE.1
         subobj: 7.2.1
         type: upe
@@ -5799,8 +5381,6 @@ courses:
           C: a colony made up mostly of women.
           D: the site of Paul’s first church.
         answer: B
-        print_position: 13
-        unit: 2
       - uid: BIB116.7.2.1.TY.1
         subobj: 7.2.1
         type: ty
@@ -5811,7 +5391,6 @@ courses:
           C: Achaia.
           D: Asia Minor.
         answer: B
-        print_position: 4
       - uid: BIB116.7.2.2.UPE.1
         subobj: 7.2.2
         type: upe
@@ -5822,8 +5401,6 @@ courses:
           C: Philippians.
           D: Philemon.
         answer: C
-        print_position: 14
-        unit: 2
       - uid: BIB116.7.2.2.TY.1
         subobj: 7.2.2
         type: ty
@@ -5834,7 +5411,6 @@ courses:
           C: mercy.
           D: love.
         answer: B
-        print_position: 5
       - uid: BIB116.7.2.2.TY.2
         subobj: 7.2.2
         type: ty
@@ -5845,7 +5421,6 @@ courses:
           C: salvation.
           D: rejoicing.
         answer: A
-        print_position: 6
       - uid: BIB116.7.3.1.UPE.1
         subobj: 7.3.1
         type: upe
@@ -5856,8 +5431,6 @@ courses:
           C: lowering the status of Christ.
           D: refusing to meet on the Sabbath.
         answer: C
-        print_position: 15
-        unit: 2
       - uid: BIB116.7.3.1.TY.1
         subobj: 7.3.1
         type: ty
@@ -5868,7 +5441,6 @@ courses:
           C: the ability to predict the future.
           D: secret knowledge for salvation.
         answer: D
-        print_position: 7
       - uid: BIB116.7.3.2.UPE.1
         subobj: 7.3.2
         type: upe
@@ -5879,8 +5451,6 @@ courses:
           C: showing concern for appearances.
           D: showing compassion and humility.
         answer: D
-        print_position: 16
-        unit: 2
       - uid: BIB116.7.3.2.TY.1
         subobj: 7.3.2
         type: ty
@@ -5891,7 +5461,6 @@ courses:
           C: death.
           D: sins.
         answer: D
-        print_position: 8
       - uid: BIB116.7.4.1.UPE.1
         subobj: 7.4.1
         type: upe
@@ -5902,8 +5471,6 @@ courses:
           C: Philippians
           D: Philemon
         answer: D
-        print_position: 17
-        unit: 2
       - uid: BIB116.7.4.1.TY.1
         subobj: 7.4.1
         type: ty
@@ -5914,7 +5481,6 @@ courses:
           C: Onesimus.
           D: Epaphras.
         answer: C
-        print_position: 9
       - uid: BIB116.7.4.1.TY.2
         subobj: 7.4.1
         type: ty
@@ -5925,7 +5491,6 @@ courses:
           C: changes the rules of society.
           D: can make people better.
         answer: D
-        print_position: 10
       - uid: BIB116.8.1.1.UPE.1
         subobj: 8.1.1
         type: upe
@@ -5936,8 +5501,6 @@ courses:
           C: warnings about false teachers.
           D: praise for their generous giving.
         answer: B
-        print_position: 18
-        unit: 2
       - uid: BIB116.8.1.1.TY.1
         subobj: 8.1.1
         type: ty
@@ -5948,7 +5511,6 @@ courses:
           C: Macedonia.
           D: Asia Minor.
         answer: C
-        print_position: 1
       - uid: BIB116.8.1.1.TY.2
         subobj: 8.1.1
         type: ty
@@ -5959,7 +5521,6 @@ courses:
           C: Athens.
           D: Philippi.
         answer: B
-        print_position: 2
       - uid: BIB116.8.1.1.TY.3
         subobj: 8.1.1
         type: ty
@@ -5970,7 +5531,6 @@ courses:
           C: Tychicus
           D: Timothy
         answer: D
-        print_position: 3
       - uid: BIB116.8.1.1.TY.4
         subobj: 8.1.1
         type: ty
@@ -5981,7 +5541,6 @@ courses:
           C: Christ’s greatness.
           D: the Second Coming.
         answer: D
-        print_position: 4
       - uid: BIB116.8.1.2.UPE.1
         subobj: 8.1.2
         type: upe
@@ -5992,8 +5551,6 @@ courses:
           C: the suffering of other believers.
           D: a generous offering they would soon receive.
         answer: A
-        print_position: 19
-        unit: 2
       - uid: BIB116.8.1.2.TY.1
         subobj: 8.1.2
         type: ty
@@ -6004,7 +5561,6 @@ courses:
           C: rebuke rebelling Christians.
           D: discuss speaking in tongues.
         answer: A
-        print_position: 5
       - uid: BIB116.8.1.2.TY.2
         subobj: 8.1.2
         type: ty
@@ -6015,7 +5571,6 @@ courses:
           C: the end-time.
           D: salvation.
         answer: C
-        print_position: 6
       - uid: BIB116.8.1.2.TY.3
         subobj: 8.1.2
         type: ty
@@ -6026,7 +5581,6 @@ courses:
           C: statement of faith.
           D: teaching of Christ’s return.
         answer: D
-        print_position: 7
       - uid: BIB116.8.2.1.UPE.1
         subobj: 8.2.1
         type: upe
@@ -6038,8 +5592,6 @@ courses:
           C: after the Tribulation.
           D: after the Millennium.
         answer: C
-        print_position: 20
-        unit: 2
       - uid: BIB116.8.2.1.TY.1
         subobj: 8.2.1
         type: ty
@@ -6050,7 +5602,6 @@ courses:
           C: grave.
           D: Tribulation.
         answer: A
-        print_position: 8
       - uid: BIB116.8.2.1.TY.2
         subobj: 8.2.1
         type: ty
@@ -6061,7 +5612,6 @@ courses:
           C: false prophet.
           D: devil.
         answer: B
-        print_position: 9
       - uid: BIB116.8.2.1.TY.3
         subobj: 8.2.1
         type: ty
@@ -6072,7 +5622,6 @@ courses:
           C: Christ’s coming for and with His saints.
           D: only Christ’s coming to judge His enemies.
         answer: C
-        print_position: 10
       - uid: BIB116.9.1.1.UPE.1
         subobj: 9.1.1
         type: upe
@@ -6083,8 +5632,6 @@ courses:
           C: during Paul’s first missionary journey.
           D: during Paul’s second missionary journey.
         answer: C
-        print_position: 21
-        unit: 2
       - uid: BIB116.9.1.1.TY.1
         subobj: 9.1.1
         type: ty
@@ -6095,7 +5642,6 @@ courses:
           C: At home
           D: In a vision
         answer: C
-        print_position: 1
       - uid: BIB116.9.1.1.TY.2
         subobj: 9.1.1
         type: ty
@@ -6106,7 +5652,6 @@ courses:
           C: teacher to a student.
           D: pastor to a church member.
         answer: B
-        print_position: 2
       - uid: BIB116.9.1.1.TY.3
         subobj: 9.1.1
         type: ty
@@ -6117,7 +5662,6 @@ courses:
           C: Ephesus.
           D: Antioch.
         answer: C
-        print_position: 3
       - uid: BIB116.9.1.2.UPE.1
         subobj: 9.1.2
         type: upe
@@ -6128,8 +5672,6 @@ courses:
           C: the use of spiritual gifts in the church.
           D: instructions about public worship.
         answer: D
-        print_position: 22
-        unit: 2
       - uid: BIB116.9.1.2.TY.1
         subobj: 9.1.2
         type: ty
@@ -6140,7 +5682,6 @@ courses:
           C: the Resurrection.
           D: the Second Coming.
         answer: A
-        print_position: 4
       - uid: BIB116.9.2.1.UPE.1
         subobj: 9.2.1
         type: upe
@@ -6151,8 +5692,6 @@ courses:
           C: is for Jewish believers only.
           D: has no religious value.
         answer: D
-        print_position: 23
-        unit: 2
       - uid: BIB116.9.2.1.TY.1
         subobj: 9.2.1
         type: ty
@@ -6163,7 +5702,6 @@ courses:
           C: has much education.
           D: has many talents.
         answer: A
-        print_position: 5
       - uid: BIB116.9.2.2.TY.1
         subobj: 9.2.2
         type: ty
@@ -6174,7 +5712,6 @@ courses:
           C: helping them understand the Bible.
           D: teaching them to live godly lives.
         answer: D
-        print_position: 6
       - uid: BIB116.9.2.2.TY.2
         subobj: 9.2.2
         type: ty
@@ -6185,7 +5722,6 @@ courses:
           C: church’s leadership.
           D: reputation of the gospel.
         answer: D
-        print_position: 7
       - uid: BIB116.9.3.1.UPE.1
         subobj: 9.3.1
         type: upe
@@ -6196,8 +5732,6 @@ courses:
           C: endure suffering.
           D: finish the race.
         answer: B
-        print_position: 24
-        unit: 2
       - uid: BIB116.9.3.1.TY.1
         subobj: 9.3.1
         type: ty
@@ -6208,7 +5742,6 @@ courses:
           C: obey the rules.
           D: finish the race.
         answer: C
-        print_position: 8
       - uid: BIB116.9.3.2.UPE.1
         subobj: 9.3.2
         type: upe
@@ -6219,8 +5752,6 @@ courses:
           C: should be used to teach, rebuke, correct, and train.
           D: was written by the finger of God.
         answer: C
-        print_position: 25
-        unit: 2
       - uid: BIB116.9.3.2.TY.1
         subobj: 9.3.2
         type: ty
@@ -6231,7 +5762,6 @@ courses:
           C: Samson and Delilah.
           D: Nadab and Abihu.
         answer: B
-        print_position: 9
       - uid: BIB116.9.3.2.TY.2
         subobj: 9.3.2
         type: ty
@@ -6242,7 +5772,6 @@ courses:
           C: wrote the Scriptures on His own.
           D: is the source of all Scripture.
         answer: D
-        print_position: 10
       - uid: BIB116.10.1.1.UPE.1
         subobj: 10.1.1
         type: upe
@@ -6254,8 +5783,6 @@ courses:
           C: Paul often quoted from the Septuagint.
           D: Paul was called only to the Gentiles.
         answer: B
-        print_position: 1
-        unit: 3
       - uid: BIB116.10.1.1.TY.1
         subobj: 10.1.1
         type: ty
@@ -6266,7 +5793,6 @@ courses:
           C: Apollos.
           D: unknown.
         answer: D
-        print_position: 1
       - uid: BIB116.10.1.1.TY.2
         subobj: 10.1.1
         type: ty
@@ -6277,7 +5803,6 @@ courses:
           C: suffering.
           D: spiritual gifts.
         answer: C
-        print_position: 10
       - uid: BIB116.10.1.2.UPE.1
         subobj: 10.1.2
         type: upe
@@ -6288,8 +5813,6 @@ courses:
           C: righteous.
           D: superior.
         answer: D
-        print_position: 2
-        unit: 3
       - uid: BIB116.10.1.2.TY.1
         subobj: 10.1.2
         type: ty
@@ -6300,7 +5823,6 @@ courses:
           C: was faithful as God’s Son.
           D: offers us an eternal rest.
         answer: A
-        print_position: 2
       - uid: BIB116.10.1.3.UPE.1
         subobj: 10.1.3
         type: upe
@@ -6312,8 +5834,6 @@ courses:
           C: spend time in purgatory.
           D: miss God’s fullest blessings.
         answer: A
-        print_position: 3
-        unit: 3
       - uid: BIB116.10.1.3.TY.1
         subobj: 10.1.3
         type: ty
@@ -6324,7 +5844,6 @@ courses:
           C: spend time in purgatory.
           D: turn away from their salvation.
         answer: D
-        print_position: 3
       - uid: BIB116.10.2.1.UPE.1
         subobj: 10.2.1
         type: upe
@@ -6335,8 +5854,6 @@ courses:
           C: James
           D: Revelation
         answer: C
-        print_position: 4
-        unit: 3
       - uid: BIB116.10.2.1.TY.1
         subobj: 10.2.1
         type: ty
@@ -6347,7 +5864,6 @@ courses:
           C: about all different topics.
           D: around the same time.
         answer: B
-        print_position: 4
       - uid: BIB116.10.2.2.UPE.1
         subobj: 10.2.2
         type: upe
@@ -6358,8 +5874,6 @@ courses:
           C: a king from Britain.
           D: the Lord’s half-brother.
         answer: D
-        print_position: 5
-        unit: 3
       - uid: BIB116.10.2.2.TY.1
         subobj: 10.2.2
         type: ty
@@ -6370,7 +5884,6 @@ courses:
           C: the son of Alphaeus.
           D: a church deacon.
         answer: B
-        print_position: 5
       - uid: BIB116.10.2.3.UPE.1
         subobj: 10.2.3
         type: upe
@@ -6381,8 +5894,6 @@ courses:
           C: 1 John
           D: Jude
         answer: A
-        print_position: 6
-        unit: 3
       - uid: BIB116.10.2.3.TY.1
         subobj: 10.2.3
         type: ty
@@ -6393,7 +5904,6 @@ courses:
           C: The wealthy will soon pass away.
           D: Wealth is a measure of God’s blessing.
         answer: C
-        print_position: 6
       - uid: BIB116.10.3.1.UPE.1
         subobj: 10.3.1
         type: upe
@@ -6404,8 +5914,6 @@ courses:
           C: Andrew.
           D: Silas.
         answer: C
-        print_position: 7
-        unit: 3
       - uid: BIB116.10.3.1.TY.1
         subobj: 10.3.1
         type: ty
@@ -6416,7 +5924,6 @@ courses:
           C: “father.”
           D: “rock.”
         answer: D
-        print_position: 7
       - uid: BIB116.10.3.2.UPE.1
         subobj: 10.3.2
         type: upe
@@ -6427,8 +5934,6 @@ courses:
           C: are a result of sin.
           D: purify our faith.
         answer: D
-        print_position: 8
-        unit: 3
       - uid: BIB116.10.3.2.TY.1
         subobj: 10.3.2
         type: ty
@@ -6439,7 +5944,6 @@ courses:
           C: are the result of sin.
           D: are caused by Satan.
         answer: A
-        print_position: 8
       - uid: BIB116.10.3.3.UPE.1
         subobj: 10.3.3
         type: upe
@@ -6450,8 +5954,6 @@ courses:
           C: slander.
           D: pride.
         answer: A
-        print_position: 9
-        unit: 3
       - uid: BIB116.10.3.3.TY.1
         subobj: 10.3.3
         type: ty
@@ -6462,7 +5964,6 @@ courses:
           C: humble obedience.
           D: ignorance.
         answer: C
-        print_position: 9
       - uid: BIB116.11.1.1.UPE.1
         subobj: 11.1.1
         type: upe
@@ -6474,8 +5975,6 @@ courses:
           C: Jesus came in the flesh but was sinless.
           D: all things are pure to the pure.
         answer: C
-        print_position: 10
-        unit: 3
       - uid: BIB116.11.1.1.TY.1
         subobj: 11.1.1
         type: ty
@@ -6486,7 +5985,6 @@ courses:
           C: Gnostics.
           D: Zealots.
         answer: C
-        print_position: 1
       - uid: BIB116.11.1.1.TY.2
         subobj: 11.1.1
         type: ty
@@ -6497,7 +5995,6 @@ courses:
           C: we cannot know if we are saved.
           D: we should ignore needs of the body.
         answer: B
-        print_position: 2
       - uid: BIB116.11.1.1.TY.3
         subobj: 11.1.1
         type: ty
@@ -6508,7 +6005,6 @@ courses:
           C: to suffering believers.
           D: about false teaching.
         answer: D
-        print_position: 6
       - uid: BIB116.11.1.2.UPE.1
         subobj: 11.1.2
         type: upe
@@ -6520,8 +6016,6 @@ courses:
           C: are eternally secure.
           D: are God’s children.
         answer: D
-        print_position: 11
-        unit: 3
       - uid: BIB116.11.1.2.TY.1
         subobj: 11.1.2
         type: ty
@@ -6532,7 +6026,6 @@ courses:
           C: Lawlessness
           D: Making a mistake
         answer: C
-        print_position: 3
       - uid: BIB116.11.1.2.TY.2
         subobj: 11.1.2
         type: ty
@@ -6543,7 +6036,6 @@ courses:
           C: do not feel guilty.
           D: confess our sins.
         answer: B
-        print_position: 4
       - uid: BIB116.11.2.1.UPE.1
         subobj: 11.2.1
         type: upe
@@ -6554,8 +6046,6 @@ courses:
           C: The first will be last, and the last will be first.
           D: Walking in the truth is praiseworthy.
         answer: B
-        print_position: 12
-        unit: 3
       - uid: BIB116.11.2.1.TY.1
         subobj: 11.2.1
         type: ty
@@ -6567,7 +6057,6 @@ courses:
           C: Paul says John wrote these books.
           D: all three books refer to the antichrist.
         answer: A
-        print_position: 5
       - uid: BIB116.11.2.2.UPE.1
         subobj: 11.2.2
         type: upe
@@ -6578,8 +6067,6 @@ courses:
           C: 1 John
           D: 2 John
         answer: D
-        print_position: 13
-        unit: 3
       - uid: BIB116.11.2.2.TY.1
         subobj: 11.2.2
         type: ty
@@ -6590,7 +6077,6 @@ courses:
           C: truth.
           D: justice.
         answer: C
-        print_position: 7
       - uid: BIB116.11.3.1.UPE.1
         subobj: 11.3.1
         type: upe
@@ -6601,8 +6087,6 @@ courses:
           C: was a silversmith.
           D: loved to be first.
         answer: B
-        print_position: 14
-        unit: 3
       - uid: BIB116.11.3.1.TY.1
         subobj: 11.3.1
         type: ty
@@ -6613,7 +6097,6 @@ courses:
           C: did not walk in truth.
           D: was John’s son in the faith.
         answer: A
-        print_position: 8
       - uid: BIB116.11.3.1.TY.2
         subobj: 11.3.1
         type: ty
@@ -6624,7 +6107,6 @@ courses:
           C: was very intelligent.
           D: had great faith.
         answer: B
-        print_position: 9
       - uid: BIB116.11.3.1.TY.3
         subobj: 11.3.1
         type: ty
@@ -6635,7 +6117,6 @@ courses:
           C: walked in truth.
           D: loved to be first.
         answer: D
-        print_position: 10
       - uid: BIB116.12.1.1.UPE.1
         subobj: 12.1.1
         type: upe
@@ -6646,8 +6127,6 @@ courses:
           C: praying in tongues.
           D: faithful church attendance.
         answer: A
-        print_position: 15
-        unit: 3
       - uid: BIB116.12.1.1.TY.1
         subobj: 12.1.1
         type: ty
@@ -6658,7 +6137,6 @@ courses:
           C: discern that all who are born again grow.
           D: depend on the church for growing in grace.
         answer: B
-        print_position: 1
       - uid: BIB116.12.1.1.TY.2
         subobj: 12.1.1
         type: ty
@@ -6669,7 +6147,6 @@ courses:
           C: fall from God’s grace.
           D: use grace to cover sin.
         answer: C
-        print_position: 2
       - uid: BIB116.12.1.2.UPE.1
         subobj: 12.1.2
         type: upe
@@ -6680,8 +6157,6 @@ courses:
           C: target weak or new believers.
           D: compare to wells full of water.
         answer: C
-        print_position: 16
-        unit: 3
       - uid: BIB116.12.1.2.TY.1
         subobj: 12.1.2
         type: ty
@@ -6692,7 +6167,6 @@ courses:
           C: Paul’s letters contain some difficult statements.
           D: believers should make their calling sure.
         answer: A
-        print_position: 3
       - uid: BIB116.12.1.2.TY.2
         subobj: 12.1.2
         type: ty
@@ -6703,7 +6177,6 @@ courses:
           C: Jezebel.
           D: Cain.
         answer: B
-        print_position: 4
       - uid: BIB116.12.1.2.TY.3
         subobj: 12.1.2
         type: ty
@@ -6714,7 +6187,6 @@ courses:
           C: the Antichrist.
           D: false teachers.
         answer: D
-        print_position: 5
       - uid: BIB116.12.2.1.UPE.1
         subobj: 12.2.1
         type: upe
@@ -6725,8 +6197,6 @@ courses:
           C: one of the twelve disciples.
           D: Jesus’ half-brother.
         answer: D
-        print_position: 17
-        unit: 3
       - uid: BIB116.12.2.1.TY.1
         subobj: 12.2.1
         type: ty
@@ -6737,7 +6207,6 @@ courses:
           C: apostle Jude.
           D: brother of James and John.
         answer: A
-        print_position: 6
       - uid: BIB116.12.2.1.TY.2
         subobj: 12.2.1
         type: ty
@@ -6748,7 +6217,6 @@ courses:
           C: rebuke the devil.
           D: fight for the faith.
         answer: D
-        print_position: 7
       - uid: BIB116.12.2.2.UPE.1
         subobj: 12.2.2
         type: upe
@@ -6760,8 +6228,6 @@ courses:
           C: '367.'
           D: '467.'
         answer: C
-        print_position: 18
-        unit: 3
       - uid: BIB116.12.2.2.TY.1
         subobj: 12.2.2
         type: ty
@@ -6772,7 +6238,6 @@ courses:
           C: Apocrypha.
           D: Pseudepigrapha.
         answer: D
-        print_position: 8
       - uid: BIB116.12.2.2.TY.2
         subobj: 12.2.2
         type: ty
@@ -6783,7 +6248,6 @@ courses:
           C: standard.
           D: book.
         answer: C
-        print_position: 9
       - uid: BIB116.12.2.2.TY.3
         subobj: 12.2.2
         type: ty
@@ -6794,7 +6258,6 @@ courses:
           C: '367.'
           D: '1546.'
         answer: C
-        print_position: 10
       - uid: BIB116.13.1.1.UPE.1
         subobj: 13.1.1
         type: upe
@@ -6805,8 +6268,6 @@ courses:
           C: Judea.
           D: Galatia.
         answer: B
-        print_position: 19
-        unit: 3
       - uid: BIB116.13.1.1.UPE.2
         subobj: 13.1.1
         type: upe
@@ -6817,8 +6278,6 @@ courses:
           C: the mystery of godliness.
           D: the identity of the two witnesses.
         answer: A
-        print_position: 20
-        unit: 3
       - uid: BIB116.13.1.1.TY.1
         subobj: 13.1.1
         type: ty
@@ -6829,7 +6288,6 @@ courses:
           C: unveils future events.
           D: hides future events.
         answer: C
-        print_position: 1
       - uid: BIB116.13.1.1.TY.2
         subobj: 13.1.1
         type: ty
@@ -6840,7 +6298,6 @@ courses:
           C: '85.'
           D: '95.'
         answer: D
-        print_position: 2
       - uid: BIB116.13.1.1.TY.3
         subobj: 13.1.1
         type: ty
@@ -6851,7 +6308,6 @@ courses:
           C: Believers should watch for the Antichrist.
           D: Jesus will return to triumph over all evil.
         answer: D
-        print_position: 3
       - uid: BIB116.13.2.1.UPE.1
         subobj: 13.2.1
         type: upe
@@ -6862,8 +6318,6 @@ courses:
           C: is about spiritual ideas, not real people.
           D: was fulfilled in the first century.
         answer: A
-        print_position: 21
-        unit: 3
       - uid: BIB116.13.2.1.TY.1
         subobj: 13.2.1
         type: ty
@@ -6874,7 +6328,6 @@ courses:
           C: emphasis on the past.
           D: emphasis on the future.
         answer: B
-        print_position: 4
       - uid: BIB116.13.2.1.TY.2
         subobj: 13.2.1
         type: ty
@@ -6885,7 +6338,6 @@ courses:
           C: Idealist
           D: Futurist
         answer: D
-        print_position: 5
       - uid: BIB116.13.2.2.UPE.1
         subobj: 13.2.2
         type: upe
@@ -6896,8 +6348,6 @@ courses:
           C: John’s vision of Christ.
           D: Christ’s life and ministry.
         answer: C
-        print_position: 22
-        unit: 3
       - uid: BIB116.13.2.2.TY.1
         subobj: 13.2.2
         type: ty
@@ -6908,7 +6358,6 @@ courses:
           C: 6–8.
           D: 8–22.
         answer: A
-        print_position: 6
       - uid: BIB116.13.2.3.UPE.1
         subobj: 13.2.3
         type: upe
@@ -6919,8 +6368,6 @@ courses:
           C: an eagle.
           D: a shepherd.
         answer: C
-        print_position: 23
-        unit: 3
       - uid: BIB116.13.2.3.TY.1
         subobj: 13.2.3
         type: ty
@@ -6931,7 +6378,6 @@ courses:
           C: Lion of Judah
           D: The Lamb of God
         answer: A
-        print_position: 7
       - uid: BIB116.13.3.1.UPE.1
         subobj: 13.3.1
         type: upe
@@ -6942,8 +6388,6 @@ courses:
           C: pass the time on the Island of Patmos.
           D: engage in a popular writing style.
         answer: A
-        print_position: 24
-        unit: 3
       - uid: BIB116.13.3.1.TY.1
         subobj: 13.3.1
         type: ty
@@ -6954,7 +6398,6 @@ courses:
           C: make the truth plain for all to understand.
           D: represent ideas, not real people and events.
         answer: B
-        print_position: 8
       - uid: BIB116.13.3.1.TY.2
         subobj: 13.3.1
         type: ty
@@ -6965,7 +6408,6 @@ courses:
           C: The false prophet
           D: Fallen angels
         answer: C
-        print_position: 9
       - uid: BIB116.13.3.2.UPE.1
         subobj: 13.3.2
         type: upe
@@ -6976,8 +6418,6 @@ courses:
           C: believers.
           D: elders.
         answer: C
-        print_position: 25
-        unit: 3
       - uid: BIB116.13.3.2.TY.1
         subobj: 13.3.2
         type: ty
@@ -6988,9 +6428,6 @@ courses:
           C: cities of Babylon and Nineveh.
           D: second and third resurrections.
         answer: A
-        print_position: 10
-      product_id: BBIB212ENE03-90_03.21.02
-      captured: reparse
     - pn: 01.26.01
       course_code: BIB116
       source_html: BBIB116ENE01-90_01.26.01.html
@@ -7011,8 +6448,6 @@ courses:
           C: Greeks
           D: Jews
         answer: A
-        print_position: 1
-        unit: 1
       - uid: BIB116.1.1.1.TY.1
         subobj: 1.1.1
         type: ty
@@ -7023,7 +6458,6 @@ courses:
           C: Samaritans
           D: Jews
         answer: B
-        print_position: 1
       - uid: BIB116.1.1.1.TY.2
         subobj: 1.1.1
         type: ty
@@ -7034,7 +6468,6 @@ courses:
           C: Aramaic
           D: Greek
         answer: D
-        print_position: 2
       - uid: BIB116.1.1.2.UPE.1
         subobj: 1.1.2
         type: upe
@@ -7045,8 +6478,6 @@ courses:
           C: Pharisees
           D: Zealots
         answer: C
-        print_position: 2
-        unit: 1
       - uid: BIB116.1.1.2.TY.1
         subobj: 1.1.2
         type: ty
@@ -7057,7 +6488,6 @@ courses:
           C: Sanhedrin.
           D: Areopagus.
         answer: C
-        print_position: 3
       - uid: BIB116.1.1.2.TY.2
         subobj: 1.1.2
         type: ty
@@ -7068,7 +6498,6 @@ courses:
           C: Levites.
           D: Zealots.
         answer: B
-        print_position: 4
       - uid: BIB116.1.2.1.UPE.1
         subobj: 1.2.1
         type: upe
@@ -7079,8 +6508,6 @@ courses:
           C: temple.
           D: local school.
         answer: C
-        print_position: 3
-        unit: 1
       - uid: BIB116.1.2.1.TY.1
         subobj: 1.2.1
         type: ty
@@ -7091,7 +6518,6 @@ courses:
           C: Peter.
           D: Paul.
         answer: D
-        print_position: 5
       - uid: BIB116.1.2.1.TY.2
         subobj: 1.2.1
         type: ty
@@ -7102,7 +6528,6 @@ courses:
           C: Gamaliel.
           D: Caiaphas.
         answer: D
-        print_position: 6
       - uid: BIB116.1.2.2.UPE.1
         subobj: 1.2.2
         type: upe
@@ -7114,8 +6539,6 @@ courses:
           C: moral effect on society.
           D: respected group of recipients.
         answer: B
-        print_position: 4
-        unit: 1
       - uid: BIB116.1.2.2.TY.1
         subobj: 1.2.2
         type: ty
@@ -7127,7 +6550,6 @@ courses:
           C: inspiration.
           D: the length of the writing.
         answer: C
-        print_position: 7
       - uid: BIB116.1.3.1.UPE.1
         subobj: 1.3.1
         type: upe
@@ -7138,8 +6560,6 @@ courses:
           C: apocalyptic books.
           D: letters from Paul.
         answer: A
-        print_position: 5
-        unit: 1
       - uid: BIB116.1.3.1.TY.1
         subobj: 1.3.1
         type: ty
@@ -7150,7 +6570,6 @@ courses:
           C: Thirteen
           D: Fifteen
         answer: C
-        print_position: 8
       - uid: BIB116.1.3.1.TY.2
         subobj: 1.3.1
         type: ty
@@ -7161,7 +6580,6 @@ courses:
           C: apocalyptic group.
           D: letters to all.
         answer: B
-        print_position: 9
       - uid: BIB116.1.4.1.UPE.1
         subobj: 1.4.1
         type: upe
@@ -7172,8 +6590,6 @@ courses:
           C: John.
           D: Colossians.
         answer: A
-        print_position: 6
-        unit: 1
       - uid: BIB116.1.4.1.TY.1
         subobj: 1.4.1
         type: ty
@@ -7184,7 +6600,6 @@ courses:
           C: Hebrews.
           D: 2 Peter.
         answer: A
-        print_position: 10
       - uid: BIB116.2.1.1.UPE.1
         subobj: 2.1.1
         type: upe
@@ -7195,8 +6610,6 @@ courses:
           C: Son of Man.
           D: Messiah.
         answer: D
-        print_position: 7
-        unit: 1
       - uid: BIB116.2.1.1.UPE.2
         subobj: 2.1.1
         type: upe
@@ -7207,8 +6620,6 @@ courses:
           C: parables the Lord taught.
           D: a genealogy of Jesus Christ.
         answer: B
-        print_position: 8
-        unit: 1
       - uid: BIB116.2.1.1.TY.1
         subobj: 2.1.1
         type: ty
@@ -7219,7 +6630,6 @@ courses:
           C: miracles that Jesus performed.
           D: parables the Lord taught.
         answer: B
-        print_position: 1
       - uid: BIB116.2.1.2.UPE.1
         subobj: 2.1.2
         type: upe
@@ -7230,8 +6640,6 @@ courses:
           C: conflict with Jewish leaders (chapters 14–17).
           D: record of Jesus’ early life (chapters 1–2).
         answer: A
-        print_position: 9
-        unit: 1
       - uid: BIB116.2.1.2.TY.1
         subobj: 2.1.2
         type: ty
@@ -7242,7 +6650,6 @@ courses:
           C: miracles in chapter 8.
           D: Resurrection in chapter 28.
         answer: B
-        print_position: 2
       - uid: BIB116.2.1.3.UPE.1
         subobj: 2.1.3
         type: upe
@@ -7253,8 +6660,6 @@ courses:
           C: Jesus as the Son of God
           D: Jesus’ background
         answer: B
-        print_position: 10
-        unit: 1
       - uid: BIB116.2.1.3.TY.1
         subobj: 2.1.3
         type: ty
@@ -7265,7 +6670,6 @@ courses:
           C: contrast it with the kingdom of God.
           D: link the Kingdom with Jesus, the Messiah.
         answer: D
-        print_position: 3
       - uid: BIB116.2.2.1.UPE.1
         subobj: 2.2.1
         type: upe
@@ -7276,8 +6680,6 @@ courses:
           C: the Savior.
           D: the Word of God.
         answer: B
-        print_position: 11
-        unit: 1
       - uid: BIB116.2.2.1.TY.1
         subobj: 2.2.1
         type: ty
@@ -7288,7 +6690,6 @@ courses:
           C: life.
           D: kingdom.
         answer: A
-        print_position: 4
       - uid: BIB116.2.2.2.TY.1
         subobj: 2.2.2
         type: ty
@@ -7299,7 +6700,6 @@ courses:
           C: give specific references for Old Testament quotes.
           D: write in Hebrew so his readers would understand.
         answer: B
-        print_position: 5
       - uid: BIB116.2.3.1.UPE.1
         subobj: 2.3.1
         type: upe
@@ -7310,8 +6710,6 @@ courses:
           C: Old Testament Scriptures.
           D: Jesus’ attitude toward prayer.
         answer: D
-        print_position: 12
-        unit: 1
       - uid: BIB116.2.3.1.TY.1
         subobj: 2.3.1
         type: ty
@@ -7332,8 +6730,6 @@ courses:
           C: Jesus’ washing of the disciples’ feet
           D: The Parable of the Good Samaritan
         answer: D
-        print_position: 13
-        unit: 1
       - uid: BIB116.2.3.2.TY.1
         subobj: 2.3.2
         type: ty
@@ -7344,7 +6740,6 @@ courses:
           C: Luke.
           D: John.
         answer: C
-        print_position: 7
       - uid: BIB116.2.4.1.UPE.1
         subobj: 2.4.1
         type: upe
@@ -7355,8 +6750,6 @@ courses:
           C: His listeners were poorly educated.
           D: it was effective in teaching about the Kingdom.
         answer: D
-        print_position: 14
-        unit: 1
       - uid: BIB116.2.4.1.TY.1
         subobj: 2.4.1
         type: ty
@@ -7367,7 +6760,6 @@ courses:
           C: His enemies would accept His teachings.
           D: Those who neglected truth would get new truth.
         answer: A
-        print_position: 8
       - uid: BIB116.2.4.2.UPE.1
         subobj: 2.4.2
         type: upe
@@ -7378,8 +6770,6 @@ courses:
           C: secret rapture of the church.
           D: millennial reign of Christ.
         answer: A
-        print_position: 15
-        unit: 1
       - uid: BIB116.2.4.2.TY.1
         subobj: 2.4.2
         type: ty
@@ -7390,7 +6780,6 @@ courses:
           C: Visible phase
           D: International phase
         answer: A
-        print_position: 9
       - uid: BIB116.2.4.3.UPE.1
         subobj: 2.4.3
         type: upe
@@ -7401,8 +6790,6 @@ courses:
           C: miracles.
           D: education.
         answer: C
-        print_position: 16
-        unit: 1
       - uid: BIB116.2.4.3.TY.1
         subobj: 2.4.3
         type: ty
@@ -7413,7 +6800,6 @@ courses:
           C: teaching in the temple at age twelve.
           D: riding into Jerusalem as a king.
         answer: B
-        print_position: 10
       - uid: BIB116.3.1.1.UPE.1
         subobj: 3.1.1
         type: upe
@@ -7424,8 +6810,6 @@ courses:
           C: his emphasis was to show Christ’s deity.
           D: he wanted to focus on the Great Commission.
         answer: C
-        print_position: 17
-        unit: 1
       - uid: BIB116.3.1.1.TY.1
         subobj: 3.1.1
         type: ty
@@ -7436,7 +6820,6 @@ courses:
           C: persuade his readers to believe in Christ.
           D: write a history of Jesus’ life and ministry.
         answer: C
-        print_position: 1
       - uid: BIB116.3.1.1.TY.2
         subobj: 3.1.1
         type: ty
@@ -7447,7 +6830,6 @@ courses:
           C: contrast Him with the Son of Man.
           D: clarify the teachings of John the Baptist.
         answer: A
-        print_position: 2
       - uid: BIB116.3.1.2.UPE.1
         subobj: 3.1.2
         type: upe
@@ -7458,8 +6840,6 @@ courses:
           C: events of the last days.
           D: belief in Christ.
         answer: A
-        print_position: 18
-        unit: 1
       - uid: BIB116.3.1.2.TY.1
         subobj: 3.1.2
         type: ty
@@ -7470,7 +6850,6 @@ courses:
           C: seventy times.
           D: one hundred times.
         answer: D
-        print_position: 3
       - uid: BIB116.3.1.2.TY.2
         subobj: 3.1.2
         type: ty
@@ -7481,7 +6860,6 @@ courses:
           C: trust.
           D: worship.
         answer: C
-        print_position: 4
       - uid: BIB116.3.1.2.TY.3
         subobj: 3.1.2
         type: ty
@@ -7492,7 +6870,6 @@ courses:
           C: wonders.
           D: revelations.
         answer: B
-        print_position: 5
       - uid: BIB116.3.2.1.UPE.1
         subobj: 3.2.1
         type: upe
@@ -7503,8 +6880,6 @@ courses:
           C: sanctification.
           D: belief.
         answer: B
-        print_position: 19
-        unit: 1
       - uid: BIB116.3.2.1.TY.1
         subobj: 3.2.1
         type: ty
@@ -7515,7 +6890,6 @@ courses:
           C: poverty and wealth.
           D: light and darkness.
         answer: D
-        print_position: 6
       - uid: BIB116.3.3.1.TY.1
         subobj: 3.3.1
         type: ty
@@ -7526,7 +6900,6 @@ courses:
           C: contrasts.
           D: parables.
         answer: A
-        print_position: 7
       - uid: BIB116.3.3.2.UPE.1
         subobj: 3.3.2
         type: upe
@@ -7537,8 +6910,6 @@ courses:
           C: were intended literally, not symbolically.
           D: were written to the seven churches in Asia.
         answer: A
-        print_position: 20
-        unit: 1
       - uid: BIB116.3.3.2.TY.1
         subobj: 3.3.2
         type: ty
@@ -7549,7 +6920,6 @@ courses:
           C: “I am the Good Shepherd.”
           D: “I am the Son of Man.”
         answer: C
-        print_position: 8
       - uid: BIB116.3.3.3.UPE.1
         subobj: 3.3.3
         type: upe
@@ -7560,8 +6930,6 @@ courses:
           C: expects us to drink from His cup.
           D: changes our character as we believe in Him.
         answer: D
-        print_position: 21
-        unit: 1
       - uid: BIB116.3.3.3.TY.1
         subobj: 3.3.3
         type: ty
@@ -7572,7 +6940,6 @@ courses:
           C: satisfies all who believe in Him.
           D: knows our inner thoughts.
         answer: A
-        print_position: 9
       - uid: BIB116.3.3.3.TY.2
         subobj: 3.3.3
         type: ty
@@ -7583,7 +6950,6 @@ courses:
           C: Philip
           D: Lazarus
         answer: B
-        print_position: 10
       - uid: BIB116.4.1.1.TY.1
         subobj: 4.1.1
         type: ty
@@ -7594,7 +6960,6 @@ courses:
           C: Luke.
           D: Theophilus.
         answer: C
-        print_position: 1
       - uid: BIB116.4.1.2.UPE.1
         subobj: 4.1.2
         type: upe
@@ -7605,8 +6970,6 @@ courses:
           C: the Apostle Paul.
           D: All of the Apostles.
         answer: B
-        print_position: 22
-        unit: 1
       - uid: BIB116.4.1.2.UPE.2
         subobj: 4.1.2
         type: upe
@@ -7617,8 +6980,6 @@ courses:
           C: John
           D: Acts
         answer: D
-        print_position: 23
-        unit: 1
       - uid: BIB116.4.1.2.TY.1
         subobj: 4.1.2
         type: ty
@@ -7629,7 +6990,6 @@ courses:
           C: a Gospel.
           D: an allegory.
         answer: B
-        print_position: 2
       - uid: BIB116.4.1.2.TY.2
         subobj: 4.1.2
         type: ty
@@ -7640,7 +7000,6 @@ courses:
           C: Gospels and Epistles.
           D: ministries of Peter and Paul.
         answer: C
-        print_position: 3
       - uid: BIB116.4.1.2.TY.3
         subobj: 4.1.2
         type: ty
@@ -7651,7 +7010,6 @@ courses:
           C: ministry of Peter.
           D: Holy Spirit.
         answer: D
-        print_position: 4
       - uid: BIB116.4.1.2.TY.4
         subobj: 4.1.2
         type: ty
@@ -7662,7 +7020,6 @@ courses:
           C: sanctification.
           D: surrender.
         answer: A
-        print_position: 5
       - uid: BIB116.4.2.1.UPE.1
         subobj: 4.2.1
         type: upe
@@ -7673,8 +7030,6 @@ courses:
           C: 8–12.
           D: 13–16.
         answer: C
-        print_position: 24
-        unit: 1
       - uid: BIB116.4.2.1.TY.1
         subobj: 4.2.1
         type: ty
@@ -7685,7 +7040,6 @@ courses:
           C: '1:8'
           D: '1:10'
         answer: C
-        print_position: 6
       - uid: BIB116.4.3.1.UPE.1
         subobj: 4.3.1
         type: upe
@@ -7696,8 +7050,6 @@ courses:
           C: spread outward from Jerusalem.
           D: hunker down and wait it out.
         answer: C
-        print_position: 25
-        unit: 1
       - uid: BIB116.4.3.1.TY.1
         subobj: 4.3.1
         type: ty
@@ -7708,7 +7060,6 @@ courses:
           C: Paul.
           D: Philip.
         answer: A
-        print_position: 7
       - uid: BIB116.4.3.1.TY.2
         subobj: 4.3.1
         type: ty
@@ -7719,7 +7070,6 @@ courses:
           C: The Jerusalem Council
           D: Persecution from Jews
         answer: D
-        print_position: 8
       - uid: BIB116.4.3.1.TY.3
         subobj: 4.3.1
         type: ty
@@ -7730,7 +7080,6 @@ courses:
           C: Antioch.
           D: Rome.
         answer: B
-        print_position: 9
       - uid: BIB116.4.3.1.TY.4
         subobj: 4.3.1
         type: ty
@@ -7741,7 +7090,6 @@ courses:
           C: a warning against pagan idols.
           D: the partaking of communion.
         answer: B
-        print_position: 10
       - uid: BIB116.5.1.1.UPE.1
         subobj: 5.1.1
         type: upe
@@ -7752,8 +7100,6 @@ courses:
           C: Simeon.
           D: Judah.
         answer: B
-        print_position: 1
-        unit: 2
       - uid: BIB116.5.1.1.UPE.2
         subobj: 5.1.1
         type: upe
@@ -7764,8 +7110,6 @@ courses:
           C: Pharisees.
           D: Essenes.
         answer: C
-        print_position: 2
-        unit: 2
       - uid: BIB116.5.1.1.TY.1
         subobj: 5.1.1
         type: ty
@@ -7776,7 +7120,6 @@ courses:
           C: Essenes.
           D: Zealots.
         answer: A
-        print_position: 1
       - uid: BIB116.5.1.2.UPE.1
         subobj: 5.1.2
         type: upe
@@ -7797,7 +7140,6 @@ courses:
           C: Pastoral Epistles.
           D: General Epistles.
         answer: A
-        print_position: 2
       - uid: BIB116.5.2.1.TY.1
         subobj: 5.2.1
         type: ty
@@ -7819,8 +7161,6 @@ courses:
           C: essence of righteousness.
           D: provision for righteousness.
         answer: D
-        print_position: 4
-        unit: 2
       - uid: BIB116.5.2.2.TY.1
         subobj: 5.2.2
         type: ty
@@ -7831,7 +7171,6 @@ courses:
           C: Jews and Gentiles under God’s judgment.
           D: the weak and the mature in Jesus Christ.
         answer: B
-        print_position: 4
       - uid: BIB116.5.2.2.TY.2
         subobj: 5.2.2
         type: ty
@@ -7842,7 +7181,6 @@ courses:
           C: Justification
           D: Predestination
         answer: C
-        print_position: 5
       - uid: BIB116.5.2.2.TY.3
         subobj: 5.2.2
         type: ty
@@ -7853,7 +7191,6 @@ courses:
           C: sovereignty.
           D: maturity.
         answer: A
-        print_position: 6
       - uid: BIB116.5.3.1.UPE.1
         subobj: 5.3.1
         type: upe
@@ -7864,8 +7201,6 @@ courses:
           C: warn the people about Gnosticism.
           D: explain the signs of the times.
         answer: B
-        print_position: 5
-        unit: 2
       - uid: BIB116.5.3.1.TY.1
         subobj: 5.3.1
         type: ty
@@ -7876,7 +7211,6 @@ courses:
           C: neither Jesus nor Moses.
           D: both Jesus and Moses.
         answer: D
-        print_position: 7
       - uid: BIB116.5.3.1.TY.2
         subobj: 5.3.1
         type: ty
@@ -7887,7 +7221,6 @@ courses:
           C: relating to other groups of believers.
           D: trusting in grace alone to be saved.
         answer: D
-        print_position: 8
       - uid: BIB116.5.3.2.UPE.1
         subobj: 5.3.2
         type: upe
@@ -7898,8 +7231,6 @@ courses:
           C: angels had given it to him.
           D: it works in personal experience.
         answer: D
-        print_position: 6
-        unit: 2
       - uid: BIB116.5.3.2.TY.1
         subobj: 5.3.2
         type: ty
@@ -7910,7 +7241,6 @@ courses:
           C: Ananias.
           D: an angel.
         answer: B
-        print_position: 9
       - uid: BIB116.5.3.2.TY.2
         subobj: 5.3.2
         type: ty
@@ -7921,7 +7251,6 @@ courses:
           C: Abraham.
           D: Moses.
         answer: C
-        print_position: 10
       - uid: BIB116.6.1.1.UPE.1
         subobj: 6.1.1
         type: upe
@@ -7932,8 +7261,6 @@ courses:
           C: 12 months.
           D: 6 months.
         answer: A
-        print_position: 7
-        unit: 2
       - uid: BIB116.6.1.1.TY.1
         subobj: 6.1.1
         type: ty
@@ -7944,7 +7271,6 @@ courses:
           C: Ephesus
           D: Thessalonica
         answer: A
-        print_position: 1
       - uid: BIB116.6.1.1.TY.2
         subobj: 6.1.1
         type: ty
@@ -7955,7 +7281,6 @@ courses:
           C: Greco-Roman culture and ideology.
           D: generosity.
         answer: C
-        print_position: 2
       - uid: BIB116.6.1.1.TY.3
         subobj: 6.1.1
         type: ty
@@ -7966,7 +7291,6 @@ courses:
           C: twelve months.
           D: eighteen months.
         answer: D
-        print_position: 3
       - uid: BIB116.6.1.2.UPE.1
         subobj: 6.1.2
         type: upe
@@ -7977,8 +7301,6 @@ courses:
           C: head coverings.
           D: divorce and remarriage.
         answer: A
-        print_position: 8
-        unit: 2
       - uid: BIB116.6.1.2.TY.1
         subobj: 6.1.2
         type: ty
@@ -7989,7 +7311,6 @@ courses:
           C: persecution.
           D: Jewish teachers.
         answer: B
-        print_position: 4
       - uid: BIB116.6.1.2.TY.2
         subobj: 6.1.2
         type: ty
@@ -8001,7 +7322,6 @@ courses:
           C: conscience.
           D: marriage.
         answer: C
-        print_position: 5
       - uid: BIB116.6.1.2.TY.3
         subobj: 6.1.2
         type: ty
@@ -8012,7 +7332,6 @@ courses:
           C: good works.
           D: the end-time.
         answer: B
-        print_position: 6
       - uid: BIB116.6.1.2.TY.4
         subobj: 6.1.2
         type: ty
@@ -8023,7 +7342,6 @@ courses:
           C: conscience.
           D: marriage.
         answer: A
-        print_position: 7
       - uid: BIB116.6.2.1.UPE.1
         subobj: 6.2.1
         type: upe
@@ -8034,8 +7352,6 @@ courses:
           C: did not want to hurt the believers in Corinth.
           D: became very sick while preaching in Ephesus.
         answer: C
-        print_position: 9
-        unit: 2
       - uid: BIB116.6.2.1.TY.1
         subobj: 6.2.1
         type: ty
@@ -8046,7 +7362,6 @@ courses:
           C: give comfort to believers.
           D: defend his ministry.
         answer: D
-        print_position: 8
       - uid: BIB116.6.2.2.UPE.1
         subobj: 6.2.2
         type: upe
@@ -8057,8 +7372,6 @@ courses:
           C: took pride in what was in the heart.
           D: relied on humans to recommend him.
         answer: B
-        print_position: 10
-        unit: 2
       - uid: BIB116.6.2.2.TY.1
         subobj: 6.2.2
         type: ty
@@ -8069,7 +7382,6 @@ courses:
           C: speak with powerful words.
           D: are known for humility.
         answer: D
-        print_position: 9
       - uid: BIB116.6.2.2.TY.2
         subobj: 6.2.2
         type: ty
@@ -8080,7 +7392,6 @@ courses:
           C: were persecuted for their faith.
           D: made human sacrifices to idols.
         answer: B
-        print_position: 10
       - uid: BIB116.7.1.1.UPE.1
         subobj: 7.1.1
         type: upe
@@ -8091,8 +7402,6 @@ courses:
           C: about two years.
           D: about eighteen months.
         answer: B
-        print_position: 11
-        unit: 2
       - uid: BIB116.7.1.1.TY.1
         subobj: 7.1.1
         type: ty
@@ -8103,7 +7412,6 @@ courses:
           C: Ephesus
           D: Corinth
         answer: C
-        print_position: 1
       - uid: BIB116.7.1.1.TY.2
         subobj: 7.1.1
         type: ty
@@ -8114,7 +7422,6 @@ courses:
           C: a Greek goddess.
           D: the pastor at Ephesus.
         answer: C
-        print_position: 2
       - uid: BIB116.7.1.2.UPE.1
         subobj: 7.1.2
         type: upe
@@ -8125,8 +7432,6 @@ courses:
           C: between husband and wife.
           D: between Jews and Gentiles.
         answer: C
-        print_position: 12
-        unit: 2
       - uid: BIB116.7.1.2.TY.1
         subobj: 7.1.2
         type: ty
@@ -8137,7 +7442,6 @@ courses:
           C: end-time.
           D: suffering.
         answer: A
-        print_position: 3
       - uid: BIB116.7.2.1.UPE.1
         subobj: 7.2.1
         type: upe
@@ -8148,8 +7452,6 @@ courses:
           C: a colony made up mostly of women.
           D: named after Philip the evangelist.
         answer: B
-        print_position: 13
-        unit: 2
       - uid: BIB116.7.2.1.TY.1
         subobj: 7.2.1
         type: ty
@@ -8160,7 +7462,6 @@ courses:
           C: Achaia.
           D: Asia Minor.
         answer: B
-        print_position: 4
       - uid: BIB116.7.2.2.UPE.1
         subobj: 7.2.2
         type: upe
@@ -8171,8 +7472,6 @@ courses:
           C: Ephesians.
           D: Galatians.
         answer: A
-        print_position: 14
-        unit: 2
       - uid: BIB116.7.2.2.TY.1
         subobj: 7.2.2
         type: ty
@@ -8183,7 +7482,6 @@ courses:
           C: mercy.
           D: love.
         answer: B
-        print_position: 5
       - uid: BIB116.7.2.2.TY.2
         subobj: 7.2.2
         type: ty
@@ -8194,7 +7492,6 @@ courses:
           C: salvation.
           D: rejoicing.
         answer: A
-        print_position: 6
       - uid: BIB116.7.3.1.UPE.1
         subobj: 7.3.1
         type: upe
@@ -8205,8 +7502,6 @@ courses:
           C: engaging in immorality.
           D: refusing to meet on the Sabbath.
         answer: B
-        print_position: 15
-        unit: 2
       - uid: BIB116.7.3.1.TY.1
         subobj: 7.3.1
         type: ty
@@ -8217,7 +7512,6 @@ courses:
           C: the ability to predict the future.
           D: mystical ascetics who taught a syncretistic philosophy.
         answer: D
-        print_position: 7
       - uid: BIB116.7.3.2.UPE.1
         subobj: 7.3.2
         type: upe
@@ -8228,8 +7522,6 @@ courses:
           C: showing concern for appearances.
           D: showing compassion and humility.
         answer: D
-        print_position: 16
-        unit: 2
       - uid: BIB116.7.3.2.TY.1
         subobj: 7.3.2
         type: ty
@@ -8240,7 +7532,6 @@ courses:
           C: death.
           D: sins.
         answer: D
-        print_position: 8
       - uid: BIB116.7.4.1.UPE.1
         subobj: 7.4.1
         type: upe
@@ -8251,8 +7542,6 @@ courses:
           C: Philippians
           D: Galatians
         answer: B
-        print_position: 17
-        unit: 2
       - uid: BIB116.7.4.1.TY.1
         subobj: 7.4.1
         type: ty
@@ -8263,7 +7552,6 @@ courses:
           C: Onesimus.
           D: Epaphras.
         answer: C
-        print_position: 9
       - uid: BIB116.7.4.1.TY.2
         subobj: 7.4.1
         type: ty
@@ -8274,7 +7562,6 @@ courses:
           C: empowers us to change the rules of society.
           D: cause us to treat others with love and respect.
         answer: D
-        print_position: 10
       - uid: BIB116.8.1.1.UPE.1
         subobj: 8.1.1
         type: upe
@@ -8285,8 +7572,6 @@ courses:
           C: sorrow for their shallow faith.
           D: praise for their generous giving.
         answer: A
-        print_position: 18
-        unit: 2
       - uid: BIB116.8.1.1.TY.1
         subobj: 8.1.1
         type: ty
@@ -8297,7 +7582,6 @@ courses:
           C: Macedonia.
           D: Asia Minor.
         answer: C
-        print_position: 1
       - uid: BIB116.8.1.1.TY.2
         subobj: 8.1.1
         type: ty
@@ -8308,7 +7592,6 @@ courses:
           C: Athens.
           D: Philippi.
         answer: B
-        print_position: 2
       - uid: BIB116.8.1.1.TY.3
         subobj: 8.1.1
         type: ty
@@ -8319,7 +7602,6 @@ courses:
           C: Tychicus
           D: Timothy
         answer: D
-        print_position: 3
       - uid: BIB116.8.1.2.UPE.1
         subobj: 8.1.2
         type: upe
@@ -8330,8 +7612,6 @@ courses:
           C: Christ’s second coming.
           D: a generous offering they would soon receive.
         answer: C
-        print_position: 19
-        unit: 2
       - uid: BIB116.8.1.2.TY.1
         subobj: 8.1.2
         type: ty
@@ -8342,7 +7622,6 @@ courses:
           C: Christ’s greatness.
           D: the Second Coming.
         answer: D
-        print_position: 4
       - uid: BIB116.8.1.2.TY.2
         subobj: 8.1.2
         type: ty
@@ -8353,7 +7632,6 @@ courses:
           C: rebuke rebelling Christians.
           D: discuss speaking in tongues.
         answer: A
-        print_position: 5
       - uid: BIB116.8.1.2.TY.3
         subobj: 8.1.2
         type: ty
@@ -8364,7 +7642,6 @@ courses:
           C: the end-time.
           D: salvation.
         answer: C
-        print_position: 6
       - uid: BIB116.8.1.2.TY.4
         subobj: 8.1.2
         type: ty
@@ -8375,7 +7652,6 @@ courses:
           C: statement of faith.
           D: teaching of Christ’s return.
         answer: D
-        print_position: 7
       - uid: BIB116.8.2.1.UPE.1
         subobj: 8.2.1
         type: upe
@@ -8387,8 +7663,6 @@ courses:
           C: before the Tribulation.
           D: after the Tribulation.
         answer: D
-        print_position: 20
-        unit: 2
       - uid: BIB116.8.2.1.TY.1
         subobj: 8.2.1
         type: ty
@@ -8399,7 +7673,6 @@ courses:
           C: grave.
           D: Tribulation.
         answer: A
-        print_position: 8
       - uid: BIB116.8.2.1.TY.2
         subobj: 8.2.1
         type: ty
@@ -8410,7 +7683,6 @@ courses:
           C: false prophet.
           D: devil.
         answer: B
-        print_position: 9
       - uid: BIB116.8.2.1.TY.3
         subobj: 8.2.1
         type: ty
@@ -8421,7 +7693,6 @@ courses:
           C: Christ’s coming for and with His saints.
           D: only Christ’s coming to judge His enemies.
         answer: C
-        print_position: 10
       - uid: BIB116.9.1.1.UPE.1
         subobj: 9.1.1
         type: upe
@@ -8432,8 +7703,6 @@ courses:
           C: during Paul’s first missionary journey.
           D: during Paul’s second missionary journey.
         answer: D
-        print_position: 21
-        unit: 2
       - uid: BIB116.9.1.1.TY.1
         subobj: 9.1.1
         type: ty
@@ -8444,7 +7713,6 @@ courses:
           C: At home
           D: In a vision
         answer: C
-        print_position: 1
       - uid: BIB116.9.1.1.TY.2
         subobj: 9.1.1
         type: ty
@@ -8455,7 +7723,6 @@ courses:
           C: teacher to a student.
           D: pastor to a church member.
         answer: B
-        print_position: 2
       - uid: BIB116.9.1.1.TY.3
         subobj: 9.1.1
         type: ty
@@ -8466,7 +7733,6 @@ courses:
           C: Ephesus.
           D: Antioch.
         answer: C
-        print_position: 3
       - uid: BIB116.9.1.2.UPE.1
         subobj: 9.1.2
         type: upe
@@ -8477,8 +7743,6 @@ courses:
           C: the use of spiritual gifts in the church.
           D: instructions about public worship.
         answer: D
-        print_position: 22
-        unit: 2
       - uid: BIB116.9.1.2.TY.1
         subobj: 9.1.2
         type: ty
@@ -8489,7 +7753,6 @@ courses:
           C: the Resurrection.
           D: the Second Coming.
         answer: A
-        print_position: 4
       - uid: BIB116.9.2.1.UPE.1
         subobj: 9.2.1
         type: upe
@@ -8500,8 +7763,6 @@ courses:
           C: should follow salvation.
           D: is a sign of the new covenant.
         answer: A
-        print_position: 23
-        unit: 2
       - uid: BIB116.9.2.1.TY.1
         subobj: 9.2.1
         type: ty
@@ -8512,7 +7773,6 @@ courses:
           C: has much education.
           D: has many talents.
         answer: A
-        print_position: 5
       - uid: BIB116.9.2.2.TY.1
         subobj: 9.2.2
         type: ty
@@ -8523,7 +7783,6 @@ courses:
           C: helping them understand the Bible.
           D: teaching them to live godly lives.
         answer: D
-        print_position: 6
       - uid: BIB116.9.2.2.TY.2
         subobj: 9.2.2
         type: ty
@@ -8534,7 +7793,6 @@ courses:
           C: church’s leadership.
           D: reputation of the gospel.
         answer: D
-        print_position: 7
       - uid: BIB116.9.3.1.UPE.1
         subobj: 9.3.1
         type: upe
@@ -8545,8 +7803,6 @@ courses:
           C: finish the race.
           D: fight the good fight of faith.
         answer: C
-        print_position: 24
-        unit: 2
       - uid: BIB116.9.3.1.TY.1
         subobj: 9.3.1
         type: ty
@@ -8558,7 +7814,6 @@ courses:
           C: obey the rules.
           D: finish the race.
         answer: C
-        print_position: 8
       - uid: BIB116.9.3.2.UPE.1
         subobj: 9.3.2
         type: upe
@@ -8569,8 +7824,6 @@ courses:
           C: should be used to teach, rebuke, correct, and train.
           D: was written by the finger of God.
         answer: C
-        print_position: 25
-        unit: 2
       - uid: BIB116.9.3.2.TY.1
         subobj: 9.3.2
         type: ty
@@ -8581,7 +7834,6 @@ courses:
           C: Samson and Delilah.
           D: Nadab and Abihu.
         answer: B
-        print_position: 9
       - uid: BIB116.9.3.2.TY.2
         subobj: 9.3.2
         type: ty
@@ -8592,7 +7844,6 @@ courses:
           C: wrote the Scriptures on His own.
           D: is the source of all Scripture.
         answer: D
-        print_position: 10
       - uid: BIB116.10.1.1.UPE.1
         subobj: 10.1.1
         type: upe
@@ -8604,8 +7855,6 @@ courses:
           C: Paul was called only to the Gentiles.
           D: Paul often quoted from the Septuagint.
         answer: A
-        print_position: 1
-        unit: 3
       - uid: BIB116.10.1.1.TY.1
         subobj: 10.1.1
         type: ty
@@ -8616,7 +7865,6 @@ courses:
           C: Apollos.
           D: unknown.
         answer: D
-        print_position: 1
       - uid: BIB116.10.1.1.TY.2
         subobj: 10.1.1
         type: ty
@@ -8627,7 +7875,6 @@ courses:
           C: suffering.
           D: spiritual gifts.
         answer: C
-        print_position: 2
       - uid: BIB116.10.1.2.UPE.1
         subobj: 10.1.2
         type: upe
@@ -8638,8 +7885,6 @@ courses:
           C: sovereign.
           D: righteous.
         answer: A
-        print_position: 2
-        unit: 3
       - uid: BIB116.10.1.2.TY.1
         subobj: 10.1.2
         type: ty
@@ -8650,7 +7895,6 @@ courses:
           C: was faithful as God’s Son.
           D: offers us an eternal rest.
         answer: A
-        print_position: 3
       - uid: BIB116.10.1.3.UPE.1
         subobj: 10.1.3
         type: upe
@@ -8662,8 +7906,6 @@ courses:
           C: miss God’s fullest blessings.
           D: lose their salvation.
         answer: D
-        print_position: 3
-        unit: 3
       - uid: BIB116.10.1.3.TY.1
         subobj: 10.1.3
         type: ty
@@ -8674,7 +7916,6 @@ courses:
           C: spend time in purgatory.
           D: turn away from their salvation.
         answer: D
-        print_position: 4
       - uid: BIB116.10.2.1.UPE.1
         subobj: 10.2.1
         type: upe
@@ -8685,8 +7926,6 @@ courses:
           C: Hebrews
           D: James
         answer: D
-        print_position: 4
-        unit: 3
       - uid: BIB116.10.2.1.TY.1
         subobj: 10.2.1
         type: ty
@@ -8697,7 +7936,6 @@ courses:
           C: about all different topics.
           D: around the same time.
         answer: B
-        print_position: 5
       - uid: BIB116.10.2.2.UPE.1
         subobj: 10.2.2
         type: upe
@@ -8708,8 +7946,6 @@ courses:
           C: a king from Britain.
           D: John’s brother.
         answer: B
-        print_position: 5
-        unit: 3
       - uid: BIB116.10.2.2.TY.1
         subobj: 10.2.2
         type: ty
@@ -8720,7 +7956,6 @@ courses:
           C: the son of Alphaeus.
           D: a church deacon.
         answer: B
-        print_position: 6
       - uid: BIB116.10.2.3.UPE.1
         subobj: 10.2.3
         type: upe
@@ -8741,7 +7976,6 @@ courses:
           C: The wealthy will soon pass away.
           D: Wealth is a measure of God’s blessing.
         answer: C
-        print_position: 7
       - uid: BIB116.10.3.1.UPE.1
         subobj: 10.3.1
         type: upe
@@ -8752,8 +7986,6 @@ courses:
           C: James.
           D: John.
         answer: A
-        print_position: 7
-        unit: 3
       - uid: BIB116.10.3.1.TY.1
         subobj: 10.3.1
         type: ty
@@ -8764,7 +7996,6 @@ courses:
           C: “father.”
           D: “rock.”
         answer: D
-        print_position: 8
       - uid: BIB116.10.3.2.UPE.1
         subobj: 10.3.2
         type: upe
@@ -8775,8 +8006,6 @@ courses:
           C: are caused by Satan.
           D: are a means of grace.
         answer: A
-        print_position: 8
-        unit: 3
       - uid: BIB116.10.3.2.TY.1
         subobj: 10.3.2
         type: ty
@@ -8787,7 +8016,6 @@ courses:
           C: are the result of sin.
           D: are caused by Satan.
         answer: A
-        print_position: 9
       - uid: BIB116.10.3.3.UPE.1
         subobj: 10.3.3
         type: upe
@@ -8798,8 +8026,6 @@ courses:
           C: humble obedience.
           D: pride.
         answer: C
-        print_position: 9
-        unit: 3
       - uid: BIB116.10.3.3.TY.1
         subobj: 10.3.3
         type: ty
@@ -8810,7 +8036,6 @@ courses:
           C: humble obedience.
           D: ignorance.
         answer: C
-        print_position: 10
       - uid: BIB116.11.1.1.UPE.1
         subobj: 11.1.1
         type: upe
@@ -8822,8 +8047,6 @@ courses:
           C: Jesus came in the flesh but was sinless.
           D: all things are pure to the pure.
         answer: C
-        print_position: 10
-        unit: 3
       - uid: BIB116.11.1.1.TY.1
         subobj: 11.1.1
         type: ty
@@ -8834,7 +8057,6 @@ courses:
           C: Gnostics.
           D: Zealots.
         answer: C
-        print_position: 1
       - uid: BIB116.11.1.1.TY.2
         subobj: 11.1.1
         type: ty
@@ -8845,7 +8067,6 @@ courses:
           C: we cannot know if we are saved.
           D: we should ignore needs of the body.
         answer: B
-        print_position: 2
       - uid: BIB116.11.1.1.TY.3
         subobj: 11.1.1
         type: ty
@@ -8856,7 +8077,6 @@ courses:
           C: to suffering believers.
           D: about false teaching.
         answer: D
-        print_position: 3
       - uid: BIB116.11.1.2.UPE.1
         subobj: 11.1.2
         type: upe
@@ -8868,8 +8088,6 @@ courses:
           C: are eternally secure.
           D: are God’s children.
         answer: D
-        print_position: 11
-        unit: 3
       - uid: BIB116.11.1.2.TY.1
         subobj: 11.1.2
         type: ty
@@ -8880,7 +8098,6 @@ courses:
           C: Lawlessness
           D: Making a mistake
         answer: C
-        print_position: 4
       - uid: BIB116.11.1.2.TY.2
         subobj: 11.1.2
         type: ty
@@ -8891,7 +8108,6 @@ courses:
           C: do not feel guilty.
           D: confess our sins.
         answer: B
-        print_position: 5
       - uid: BIB116.11.2.1.UPE.1
         subobj: 11.2.1
         type: upe
@@ -8902,8 +8118,6 @@ courses:
           C: We show love for Jesus by obeying His command to love others.
           D: Walking in the truth is praiseworthy.
         answer: C
-        print_position: 12
-        unit: 3
       - uid: BIB116.11.2.1.TY.1
         subobj: 11.2.1
         type: ty
@@ -8915,7 +8129,6 @@ courses:
           C: Paul says John wrote these books.
           D: all three books refer to the antichrist.
         answer: A
-        print_position: 6
       - uid: BIB116.11.2.2.UPE.1
         subobj: 11.2.2
         type: upe
@@ -8926,8 +8139,6 @@ courses:
           C: 1 Peter
           D: 1 John
         answer: B
-        print_position: 13
-        unit: 3
       - uid: BIB116.11.2.2.TY.1
         subobj: 11.2.2
         type: ty
@@ -8938,7 +8149,6 @@ courses:
           C: truth.
           D: justice.
         answer: C
-        print_position: 7
       - uid: BIB116.11.3.1.UPE.1
         subobj: 11.3.1
         type: upe
@@ -8949,8 +8159,6 @@ courses:
           C: loved to be first.
           D: had a good reputation.
         answer: D
-        print_position: 14
-        unit: 3
       - uid: BIB116.11.3.1.TY.1
         subobj: 11.3.1
         type: ty
@@ -8961,7 +8169,6 @@ courses:
           C: did not walk in truth.
           D: was John’s son in the faith.
         answer: A
-        print_position: 8
       - uid: BIB116.11.3.1.TY.2
         subobj: 11.3.1
         type: ty
@@ -8972,7 +8179,6 @@ courses:
           C: was very intelligent.
           D: had great faith.
         answer: B
-        print_position: 9
       - uid: BIB116.11.3.1.TY.3
         subobj: 11.3.1
         type: ty
@@ -8983,7 +8189,6 @@ courses:
           C: walked in truth.
           D: loved to be first.
         answer: D
-        print_position: 10
       - uid: BIB116.12.1.1.UPE.1
         subobj: 12.1.1
         type: upe
@@ -8994,8 +8199,6 @@ courses:
           C: praying in tongues.
           D: secret knowledge.
         answer: B
-        print_position: 15
-        unit: 3
       - uid: BIB116.12.1.1.TY.1
         subobj: 12.1.1
         type: ty
@@ -9006,7 +8209,6 @@ courses:
           C: discern that all who are born again grow.
           D: depend on the church for growing in grace.
         answer: B
-        print_position: 1
       - uid: BIB116.12.1.1.TY.2
         subobj: 12.1.1
         type: ty
@@ -9017,7 +8219,6 @@ courses:
           C: fall from God’s grace.
           D: use grace to cover sin.
         answer: C
-        print_position: 2
       - uid: BIB116.12.1.2.UPE.1
         subobj: 12.1.2
         type: upe
@@ -9028,8 +8229,6 @@ courses:
           C: respect authority.
           D: compare to wells full of water.
         answer: B
-        print_position: 16
-        unit: 3
       - uid: BIB116.12.1.2.TY.1
         subobj: 12.1.2
         type: ty
@@ -9040,7 +8239,6 @@ courses:
           C: Paul’s letters contain some difficult statements.
           D: believers should make their calling sure.
         answer: A
-        print_position: 3
       - uid: BIB116.12.1.2.TY.2
         subobj: 12.1.2
         type: ty
@@ -9051,7 +8249,6 @@ courses:
           C: Jezebel.
           D: Cain.
         answer: B
-        print_position: 4
       - uid: BIB116.12.1.2.TY.3
         subobj: 12.1.2
         type: ty
@@ -9062,7 +8259,6 @@ courses:
           C: the Antichrist.
           D: false teachers.
         answer: D
-        print_position: 5
       - uid: BIB116.12.2.1.UPE.1
         subobj: 12.2.1
         type: upe
@@ -9073,8 +8269,6 @@ courses:
           C: Jesus’ half-brother.
           D: one of the twelve disciples.
         answer: C
-        print_position: 17
-        unit: 3
       - uid: BIB116.12.2.1.TY.1
         subobj: 12.2.1
         type: ty
@@ -9085,7 +8279,6 @@ courses:
           C: apostle Jude.
           D: brother of James and John.
         answer: A
-        print_position: 6
       - uid: BIB116.12.2.1.TY.2
         subobj: 12.2.1
         type: ty
@@ -9096,7 +8289,6 @@ courses:
           C: rebuke the devil.
           D: fight for the faith.
         answer: D
-        print_position: 7
       - uid: BIB116.12.2.2.UPE.1
         subobj: 12.2.2
         type: upe
@@ -9108,8 +8300,6 @@ courses:
           C: '367'
           D: '467'
         answer: C
-        print_position: 18
-        unit: 3
       - uid: BIB116.12.2.2.TY.1
         subobj: 12.2.2
         type: ty
@@ -9120,7 +8310,6 @@ courses:
           C: Apocrypha.
           D: Pseudepigrapha.
         answer: D
-        print_position: 8
       - uid: BIB116.12.2.2.TY.2
         subobj: 12.2.2
         type: ty
@@ -9131,7 +8320,6 @@ courses:
           C: standard.
           D: book.
         answer: C
-        print_position: 9
       - uid: BIB116.12.2.2.TY.3
         subobj: 12.2.2
         type: ty
@@ -9142,7 +8330,6 @@ courses:
           C: '367.'
           D: '1546.'
         answer: C
-        print_position: 10
       - uid: BIB116.13.1.1.UPE.1
         subobj: 13.1.1
         type: upe
@@ -9153,8 +8340,6 @@ courses:
           C: Judea.
           D: Asia.
         answer: D
-        print_position: 19
-        unit: 3
       - uid: BIB116.13.1.1.UPE.2
         subobj: 13.1.1
         type: upe
@@ -9165,8 +8350,6 @@ courses:
           C: the identity of the two witnesses.
           D: the mystery of godliness.
         answer: B
-        print_position: 20
-        unit: 3
       - uid: BIB116.13.1.1.TY.1
         subobj: 13.1.1
         type: ty
@@ -9177,7 +8360,6 @@ courses:
           C: unveils future events.
           D: hides future events.
         answer: C
-        print_position: 1
       - uid: BIB116.13.1.1.TY.2
         subobj: 13.1.1
         type: ty
@@ -9188,7 +8370,6 @@ courses:
           C: '85.'
           D: '95.'
         answer: D
-        print_position: 2
       - uid: BIB116.13.1.1.TY.3
         subobj: 13.1.1
         type: ty
@@ -9199,7 +8380,6 @@ courses:
           C: Believers should watch for the Antichrist.
           D: Jesus will return to triumph over all evil.
         answer: D
-        print_position: 3
       - uid: BIB116.13.2.1.UPE.1
         subobj: 13.2.1
         type: upe
@@ -9210,8 +8390,6 @@ courses:
           C: is fulfilled through church history.
           D: will be fulfilled in the future.
         answer: D
-        print_position: 21
-        unit: 3
       - uid: BIB116.13.2.1.TY.1
         subobj: 13.2.1
         type: ty
@@ -9222,7 +8400,6 @@ courses:
           C: emphasis on the past.
           D: emphasis on the future.
         answer: B
-        print_position: 4
       - uid: BIB116.13.2.1.TY.2
         subobj: 13.2.1
         type: ty
@@ -9233,7 +8410,6 @@ courses:
           C: Idealist
           D: Futurist
         answer: D
-        print_position: 5
       - uid: BIB116.13.2.2.UPE.1
         subobj: 13.2.2
         type: upe
@@ -9244,8 +8420,6 @@ courses:
           C: all that John had seen during his ministry.
           D: Christ’s life and ministry.
         answer: A
-        print_position: 22
-        unit: 3
       - uid: BIB116.13.2.2.TY.1
         subobj: 13.2.2
         type: ty
@@ -9256,7 +8430,6 @@ courses:
           C: 6–8.
           D: 8–22.
         answer: A
-        print_position: 6
       - uid: BIB116.13.2.3.UPE.1
         subobj: 13.2.3
         type: upe
@@ -9267,8 +8440,6 @@ courses:
           C: a shepherd.
           D: a lamb.
         answer: B
-        print_position: 23
-        unit: 3
       - uid: BIB116.13.2.3.TY.1
         subobj: 13.2.3
         type: ty
@@ -9279,7 +8450,6 @@ courses:
           C: Lion of Judah
           D: The Lamb of God
         answer: A
-        print_position: 7
       - uid: BIB116.13.3.1.UPE.1
         subobj: 13.3.1
         type: upe
@@ -9290,8 +8460,6 @@ courses:
           C: pass the time on the Island of Patmos.
           D: engage in a popular writing style.
         answer: A
-        print_position: 24
-        unit: 3
       - uid: BIB116.13.3.1.TY.1
         subobj: 13.3.1
         type: ty
@@ -9302,7 +8470,6 @@ courses:
           C: make the truth plain for all to understand.
           D: represent ideas, not real people and events.
         answer: B
-        print_position: 8
       - uid: BIB116.13.3.1.TY.2
         subobj: 13.3.1
         type: ty
@@ -9313,7 +8480,6 @@ courses:
           C: The false prophet
           D: Fallen angels
         answer: C
-        print_position: 9
       - uid: BIB116.13.3.2.UPE.1
         subobj: 13.3.2
         type: upe
@@ -9324,8 +8490,6 @@ courses:
           C: believers.
           D: elders.
         answer: C
-        print_position: 25
-        unit: 3
       - uid: BIB116.13.3.2.TY.1
         subobj: 13.3.2
         type: ty
@@ -9336,7 +8500,6 @@ courses:
           C: cities of Babylon and Nineveh.
           D: second and third resurrections.
         answer: A
-        print_position: 10
       - uid: BIB116.1.1.1.F.1
         subobj: 1.1.1
         type: final
@@ -9848,7 +9011,6 @@ courses:
         run: 20260811T143012_BIB116.all.f
         form: A
         date: '2026-08-11'
-      captured: reparse
     deployed_pn: 01.26.01
     print_history:
     - date: '2026-01-01'

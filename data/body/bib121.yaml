@@ -1488,8 +1488,6 @@ courses:
           C: sermon preparation.
           D: interpreting the Scripture.
         answer: D
-        print_position: 1
-        unit: 1
       - uid: BIB121.1.1.1.UPE.2
         subobj: 1.1.1
         type: upe
@@ -1500,8 +1498,6 @@ courses:
           C: historical setting of Scriptures.
           D: personality types of parishioners.
         answer: C
-        print_position: 2
-        unit: 1
       - uid: BIB121.1.1.1.TY.1
         subobj: 1.1.1
         type: ty
@@ -1512,7 +1508,6 @@ courses:
           C: governing the church.
           D: preaching biblical sermons.
         answer: B
-        print_position: 1
       - uid: BIB121.1.1.2.UPE.1
         subobj: 1.1.2
         type: upe
@@ -1523,8 +1518,6 @@ courses:
           C: By learning the original Greek or Hebrew in which the passage was written
           D: By consulting a commentary or Bible dictionary
         answer: B
-        print_position: 4
-        unit: 1
       - uid: BIB121.1.1.2.TY.1
         subobj: 1.1.2
         type: ty
@@ -1535,7 +1528,6 @@ courses:
           C: the deity of Christ.
           D: all of the above.
         answer: D
-        print_position: 2
       - uid: BIB121.1.1.2.TY.2
         subobj: 1.1.2
         type: ty
@@ -1546,7 +1538,6 @@ courses:
           C: historical setting of Scriptures.
           D: personality types of parishioners.
         answer: C
-        print_position: 3
       - uid: BIB121.1.2.1.UPE.1
         subobj: 1.2.1
         type: upe
@@ -1557,8 +1548,6 @@ courses:
           C: Learning Hebrew and Greek
           D: Studying several commentaries
         answer: B
-        print_position: 3
-        unit: 1
       - uid: BIB121.1.2.1.UPE.2
         subobj: 1.2.1
         type: upe
@@ -1569,8 +1558,6 @@ courses:
           C: making divine truth knowable and known.
           D: a method of Spirit-inspired Bible study.
         answer: C
-        print_position: 6
-        unit: 1
       - uid: BIB121.1.2.1.UPE.3
         subobj: 1.2.1
         type: upe
@@ -1581,8 +1568,6 @@ courses:
           C: spiritual maturity and educational experience.
           D: superior biblical knowledge and a good reputation.
         answer: A
-        print_position: 7
-        unit: 1
       - uid: BIB121.1.2.1.UPE.4
         subobj: 1.2.1
         type: upe
@@ -1593,8 +1578,6 @@ courses:
           C: a high level of academic skills.
           D: a degree from a Bible college.
         answer: B
-        print_position: 8
-        unit: 1
       - uid: BIB121.1.2.1.UPE.5
         subobj: 1.2.1
         type: upe
@@ -1607,8 +1590,6 @@ courses:
           D: they were skilled in the arts of divination practiced in the eastern
             countries.
         answer: C
-        print_position: 9
-        unit: 1
       - uid: BIB121.1.2.1.TY.1
         subobj: 1.2.1
         type: ty
@@ -1619,7 +1600,6 @@ courses:
           C: the confusion of speech at Babel.
           D: the entire Bible being fully inspired.
         answer: D
-        print_position: 4
       - uid: BIB121.1.2.1.TY.2
         subobj: 1.2.1
         type: ty
@@ -1630,7 +1610,6 @@ courses:
           C: Learning Hebrew and Greek
           D: Studying several commentaries
         answer: B
-        print_position: 5
       - uid: BIB121.1.3.1.UPE.1
         subobj: 1.3.1
         type: upe
@@ -1641,8 +1620,6 @@ courses:
           C: they are not that helpful to interpretation.
           D: they are arranged by books of the Bible.
         answer: A
-        print_position: 5
-        unit: 1
       - uid: BIB121.1.3.1.UPE.2
         subobj: 1.3.1
         type: upe
@@ -1654,8 +1631,6 @@ courses:
           C: The word may have a different meaning in the original language.
           D: The author of the concordance often gives several options.
         answer: A
-        print_position: 10
-        unit: 1
       - uid: BIB121.1.3.1.UPE.3
         subobj: 1.3.1
         type: upe
@@ -1666,8 +1641,6 @@ courses:
           C: A phrase used throughout Scripture to describe the living Word of God
           D: A translation in modern English by J. B. Phillips
         answer: B
-        print_position: 11
-        unit: 1
       - uid: BIB121.1.3.1.TY.1
         subobj: 1.3.1
         type: ty
@@ -1678,7 +1651,6 @@ courses:
           C: Pentecostal.
           D: Catholic.
         answer: C
-        print_position: 6
       - uid: BIB121.1.3.1.TY.2
         subobj: 1.3.1
         type: ty
@@ -1689,7 +1661,6 @@ courses:
           C: they are not that helpful to interpretation.
           D: they are arranged by books of the Bible.
         answer: A
-        print_position: 7
       - uid: BIB121.1.3.1.TY.3
         subobj: 1.3.1
         type: ty
@@ -1700,7 +1671,6 @@ courses:
           C: complete maps of biblical eras.
           D: biographies of missionaries.
         answer: A
-        print_position: 8
       - uid: BIB121.1.4.1.UPE.1
         subobj: 1.4.1
         type: upe
@@ -1713,8 +1683,6 @@ courses:
             situation.
           D: determining the special meaning that may be hidden or coded in the passage.
         answer: C
-        print_position: 12
-        unit: 1
       - uid: BIB121.1.4.1.UPE.2
         subobj: 1.4.1
         type: upe
@@ -1725,8 +1693,6 @@ courses:
           C: determining what a passage says.
           D: a sermonic form in which the text supports the topic.
         answer: C
-        print_position: 13
-        unit: 1
       - uid: BIB121.1.4.1.UPE.3
         subobj: 1.4.1
         type: upe
@@ -1738,8 +1704,6 @@ courses:
           C: consult a Greek-Hebrew Lexicon.
           D: seek spiritual enlightenment through prayer and meditation.
         answer: A
-        print_position: 14
-        unit: 1
       - uid: BIB121.1.4.1.TY.1
         subobj: 1.4.1
         type: ty
@@ -1750,7 +1714,6 @@ courses:
           C: join a Bible study group.
           D: establish a Bible reading plan.
         answer: A
-        print_position: 9
       - uid: BIB121.1.4.2.TY.1
         subobj: 1.4.2
         type: ty
@@ -1761,7 +1724,6 @@ courses:
           C: easier in group study.
           D: the second goal of interpreting Scripture.
         answer: D
-        print_position: 10
       - uid: BIB121.2.1.1.UPE.1
         subobj: 2.1.1
         type: upe
@@ -1772,8 +1734,6 @@ courses:
           C: a story in which the characters allude to or suggest other things.
           D: a dramatic form in which the words are sung or spoken very quickly.
         answer: C
-        print_position: 15
-        unit: 1
       - uid: BIB121.2.1.1.TY.1
         subobj: 2.1.1
         type: ty
@@ -1786,7 +1746,6 @@ courses:
             of it.
           D: The Pentateuch is the key to interpreting all of the Hebrew Scriptures.
         answer: B
-        print_position: 1
       - uid: BIB121.2.1.2.UPE.1
         subobj: 2.1.2
         type: upe
@@ -1797,8 +1756,6 @@ courses:
           C: Christologically
           D: Theologically
         answer: C
-        print_position: 16
-        unit: 1
       - uid: BIB121.2.1.2.UPE.2
         subobj: 2.1.2
         type: upe
@@ -1809,8 +1766,6 @@ courses:
           C: infinite language.
           D: figurative language.
         answer: B
-        print_position: 17
-        unit: 1
       - uid: BIB121.2.1.2.UPE.3
         subobj: 2.1.2
         type: upe
@@ -1823,8 +1778,6 @@ courses:
             or thing in the New Testament
           D: A personal characteristic of individuals described in the Bible
         answer: C
-        print_position: 18
-        unit: 1
       - uid: BIB121.2.1.2.UPE.4
         subobj: 2.1.2
         type: upe
@@ -1836,8 +1789,6 @@ courses:
           C: It must resemble in some significant way the thing it refers to.
           D: It must be directly indicated by the author.
         answer: C
-        print_position: 19
-        unit: 1
       - uid: BIB121.2.1.2.UPE.5
         subobj: 2.1.2
         type: upe
@@ -1849,8 +1800,6 @@ courses:
           C: sacrament.
           D: relic.
         answer: B
-        print_position: 20
-        unit: 1
       - uid: BIB121.2.1.2.UPE.6
         subobj: 2.1.2
         type: upe
@@ -1862,8 +1811,6 @@ courses:
           C: Literal interpretation
           D: Fulfilled prophecy
         answer: A
-        print_position: 21
-        unit: 1
       - uid: BIB121.2.1.2.TY.1
         subobj: 2.1.2
         type: ty
@@ -1874,7 +1821,6 @@ courses:
           C: Christologically
           D: Theologically
         answer: C
-        print_position: 2
       - uid: BIB121.2.1.2.TY.2
         subobj: 2.1.2
         type: ty
@@ -1886,7 +1832,6 @@ courses:
           C: parable.
           D: type.
         answer: D
-        print_position: 3
       - uid: BIB121.2.1.2.TY.3
         subobj: 2.1.2
         type: ty
@@ -1898,7 +1843,6 @@ courses:
           D: Scriptures written in Hebrew or Greek are equally inspired in modern
             translations.
         answer: B
-        print_position: 4
       - uid: BIB121.2.1.2.TY.4
         subobj: 2.1.2
         type: ty
@@ -1910,7 +1854,6 @@ courses:
           C: It must resemble in some significant way the thing to which it refers.
           D: It must be directly indicated by several authors.
         answer: C
-        print_position: 5
       - uid: BIB121.2.3.1.UPE.1
         subobj: 2.3.1
         type: upe
@@ -1922,8 +1865,6 @@ courses:
           C: Translation of the Bible into the German language
           D: Rejection of literal interpretation but acceptance of allegorical interpretation
         answer: C
-        print_position: 22
-        unit: 1
       - uid: BIB121.2.3.1.UPE.2
         subobj: 2.3.1
         type: upe
@@ -1934,8 +1875,6 @@ courses:
           C: Typological
           D: Contextual
         answer: D
-        print_position: 23
-        unit: 1
       - uid: BIB121.2.3.1.UPE.3
         subobj: 2.3.1
         type: upe
@@ -1948,8 +1887,6 @@ courses:
           C: Careful consideration of the passage in which the verse is found
           D: Knowledge of Greek and Hebrew
         answer: C
-        print_position: 24
-        unit: 1
       - uid: BIB121.2.3.1.TY.1
         subobj: 2.3.1
         type: ty
@@ -1960,7 +1897,6 @@ courses:
           C: Decode the allegories that had been used in previous ages.
           D: Distinguish Greek and Hebrew thought patterns.
         answer: A
-        print_position: 6
       - uid: BIB121.2.3.1.TY.2
         subobj: 2.3.1
         type: ty
@@ -1972,7 +1908,6 @@ courses:
           C: Decreed freedom from the Catholic church and the pope
           D: Decided that religious symbols and images should be destroyed
         answer: B
-        print_position: 7
       - uid: BIB121.2.3.1.TY.3
         subobj: 2.3.1
         type: ty
@@ -1985,7 +1920,6 @@ courses:
           C: Careful consideration of the passages in which the verse is found
           D: Knowledge of Greek and Hebrew
         answer: C
-        print_position: 8
       - uid: BIB121.2.3.3.UPE.1
         subobj: 2.3.3
         type: upe
@@ -1996,8 +1930,6 @@ courses:
           C: To clarify the meaning of figurative language in the Scriptures
           D: To develop a modern understanding of the Gospels
         answer: B
-        print_position: 25
-        unit: 1
       - uid: BIB121.2.3.3.TY.1
         subobj: 2.3.3
         type: ty
@@ -2008,7 +1940,6 @@ courses:
           C: “To clarify the meaning of figurative language in the Scripture”
           D: “To develop a modern understanding of the Gospels without the miracles”
         answer: B
-        print_position: 9
       - uid: BIB121.3.1.1.UPE.1
         subobj: 3.1.1
         type: upe
@@ -2019,8 +1950,6 @@ courses:
           C: to recognize the intelligence of the ancient peoples.
           D: 'to think in two worlds: past and present.'
         answer: D
-        print_position: 1
-        unit: 2
       - uid: BIB121.3.1.1.TY.1
         subobj: 3.1.1
         type: ty
@@ -2034,7 +1963,6 @@ courses:
             in different times.
           D: We have substituted secular laws for the Law of God.
         answer: C
-        print_position: 1
       - uid: BIB121.3.1.1.TY.2
         subobj: 3.1.1
         type: ty
@@ -2045,7 +1973,6 @@ courses:
           C: recognize the intelligence of the ancient peoples.
           D: 'think in two worlds: past and present.'
         answer: D
-        print_position: 2
       - uid: BIB121.3.1.1.TY.3
         subobj: 3.1.1
         type: ty
@@ -2061,7 +1988,6 @@ courses:
           D: There will always be a historical-cultural gap between the ancient and
             modern worlds.
         answer: C
-        print_position: 3
       - uid: BIB121.3.1.1.TY.4
         subobj: 3.1.1
         type: ty
@@ -2073,7 +1999,6 @@ courses:
           C: How does this passage relate to the whole Bible?
           D: Where was the author when the passage was written?
         answer: B
-        print_position: 4
       - uid: BIB121.3.1.2.UPE.1
         subobj: 3.1.2
         type: upe
@@ -2085,8 +2010,6 @@ courses:
           C: Did the attributed author really write the book?
           D: What was the time of the writing?
         answer: A
-        print_position: 2
-        unit: 2
       - uid: BIB121.3.1.2.UPE.2
         subobj: 3.1.2
         type: upe
@@ -2098,8 +2021,6 @@ courses:
           D: It was necessary to provide genealogies of significant religious and
             political leaders.
         answer: C
-        print_position: 3
-        unit: 2
       - uid: BIB121.3.1.2.TY.1
         subobj: 3.1.2
         type: ty
@@ -2111,7 +2032,6 @@ courses:
           C: Did the attributed author really write the book?
           D: What was the time of the writing?
         answer: A
-        print_position: 5
       - uid: BIB121.3.1.2.TY.2
         subobj: 3.1.2
         type: ty
@@ -2123,7 +2043,6 @@ courses:
           C: Was the book an encyclical letter (also read to others)?
           D: Did the author of the book ever visit the recipients in person?
         answer: B
-        print_position: 6
       - uid: BIB121.3.1.2.TY.3
         subobj: 3.1.2
         type: ty
@@ -2134,7 +2053,6 @@ courses:
           C: The genealogies include historical figures who were known to exist.
           D: It was necessary to provide genealogies of religious and political leaders.
         answer: C
-        print_position: 7
       - uid: BIB121.3.1.3.TY.1
         subobj: 3.1.3
         type: ty
@@ -2146,7 +2064,6 @@ courses:
           C: Are there applications to the life of a modern Christian?
           D: How does the specific passage relate to the author’s purpose?
         answer: D
-        print_position: 8
       - uid: BIB121.3.2.1.UPE.1
         subobj: 3.2.1
         type: upe
@@ -2160,8 +2077,6 @@ courses:
           C: Christ redeemed us from the curse of the law by becoming cursed for us.
           D: The law allowed forgiveness, but not the clearing of the conscience
         answer: C
-        print_position: 4
-        unit: 2
       - uid: BIB121.3.2.1.TY.1
         subobj: 3.2.1
         type: ty
@@ -2173,7 +2088,6 @@ courses:
           C: Slave owners should release their slaves when they become Christians.
           D: The institution of slavery should be abolished.
         answer: B
-        print_position: 9
       - uid: BIB121.3.2.1.TY.2
         subobj: 3.2.1
         type: ty
@@ -2186,7 +2100,6 @@ courses:
           C: Christ redeemed us from the curse of the Law by becoming cursed for us.
           D: The Law allowed forgiveness, but not the clearing of the conscience.
         answer: C
-        print_position: 10
       - uid: BIB121.4.1.1.UPE.1
         subobj: 4.1.1
         type: upe
@@ -2198,8 +2111,6 @@ courses:
           C: Theologians should not prepare written interpretations.
           D: The New Testament explains the Old Testament.
         answer: A
-        print_position: 5
-        unit: 2
       - uid: BIB121.4.1.1.TY.1
         subobj: 4.1.1
         type: ty
@@ -2213,7 +2124,6 @@ courses:
           D: Words in a scriptural passage must be compared with the same words used
             in other books of the Bible.
         answer: A
-        print_position: 1
       - uid: BIB121.4.1.1.TY.2
         subobj: 4.1.1
         type: ty
@@ -2225,7 +2135,6 @@ courses:
           C: Theologians should not prepare written interpretations.
           D: The New Testament explains the Old Testament.
         answer: A
-        print_position: 2
       - uid: BIB121.4.2.1.UPE.1
         subobj: 4.2.1
         type: upe
@@ -2236,8 +2145,6 @@ courses:
           C: Determine its usage as a term in context.
           D: Locate the word in a book of original meanings of biblical words.
         answer: C
-        print_position: 6
-        unit: 2
       - uid: BIB121.4.2.1.UPE.2
         subobj: 4.2.1
         type: upe
@@ -2248,8 +2155,6 @@ courses:
           C: are an integral part of the inspired text.
           D: were originally Greek or Hebrew letters that were used as numbers.
         answer: A
-        print_position: 7
-        unit: 2
       - uid: BIB121.4.2.1.TY.1
         subobj: 4.2.1
         type: ty
@@ -2260,7 +2165,6 @@ courses:
           C: Determine its usage as a term in context.
           D: Locate the word in a book of original meanings of biblical words.
         answer: C
-        print_position: 3
       - uid: BIB121.4.2.1.TY.2
         subobj: 4.2.1
         type: ty
@@ -2273,7 +2177,6 @@ courses:
           C: Use a translation that includes the original paragraph spaces and punctuation.
           D: Ignore the chapter and verse numbers in all serious Bible study.
         answer: A
-        print_position: 4
       - uid: BIB121.4.3.1.UPE.1
         subobj: 4.3.1
         type: upe
@@ -2286,8 +2189,6 @@ courses:
           D: Interpret the difficult text in comparison to parallel passages in the
             same book.
         answer: D
-        print_position: 8
-        unit: 2
       - uid: BIB121.4.3.1.TY.1
         subobj: 4.3.1
         type: ty
@@ -2299,7 +2200,6 @@ courses:
           C: A determination of the structure of the book
           D: Knowledge of Greek and Hebrew
         answer: C
-        print_position: 5
       - uid: BIB121.4.3.1.TY.2
         subobj: 4.3.1
         type: ty
@@ -2312,7 +2212,6 @@ courses:
           D: Interpret the difficult text in comparison to parallel passages in the
             same book.
         answer: D
-        print_position: 6
       - uid: BIB121.4.3.1.TY.3
         subobj: 4.3.1
         type: ty
@@ -2327,7 +2226,6 @@ courses:
           D: Use the clear and explicit passages to interpret obscure or implicit
             passages.
         answer: D
-        print_position: 7
       - uid: BIB121.4.4.1.UPE.1
         subobj: 4.4.1
         type: upe
@@ -2339,8 +2237,6 @@ courses:
           C: progressive revelation.
           D: instant revelation.
         answer: B
-        print_position: 9
-        unit: 2
       - uid: BIB121.4.4.1.UPE.2
         subobj: 4.4.1
         type: upe
@@ -2353,8 +2249,6 @@ courses:
           C: Compare the passage with other passages written by Moses himself.
           D: Consult a commentary written by an evangelical, Bible-believing author.
         answer: C
-        print_position: 10
-        unit: 2
       - uid: BIB121.4.4.1.TY.1
         subobj: 4.4.1
         type: ty
@@ -2366,7 +2260,6 @@ courses:
           C: the epistles of Paul.
           D: the Old Testament.
         answer: A
-        print_position: 8
       - uid: BIB121.4.4.2.UPE.1
         subobj: 4.4.2
         type: upe
@@ -2377,8 +2270,6 @@ courses:
           C: quote Scripture accurately.
           D: use only Scripture in response to a temptation or test.
         answer: A
-        print_position: 11
-        unit: 2
       - uid: BIB121.4.4.3.TY.1
         subobj: 4.4.3
         type: ty
@@ -2389,7 +2280,6 @@ courses:
           C: you can safely ignore the context of the Old Testament passage.
           D: realize that the Old Testament passage may no longer be applicable.
         answer: A
-        print_position: 9
       - uid: BIB121.4.4.3.TY.2
         subobj: 4.4.3
         type: ty
@@ -2401,7 +2291,6 @@ courses:
           C: all the Old Testament passages quoted by Matthew.
           D: parallel meanings of Greek and Hebrew words.
         answer: C
-        print_position: 10
       - uid: BIB121.5.1.1.UPE.1
         subobj: 5.1.1
         type: upe
@@ -2412,8 +2301,6 @@ courses:
           C: Happily
           D: Home
         answer: D
-        print_position: 12
-        unit: 2
       - uid: BIB121.5.1.1.TY.1
         subobj: 5.1.1
         type: ty
@@ -2424,7 +2311,6 @@ courses:
           C: Happily
           D: Home
         answer: D
-        print_position: 1
       - uid: BIB121.5.1.2.UPE.1
         subobj: 5.1.2
         type: upe
@@ -2436,8 +2322,6 @@ courses:
           C: Some people simply do not accept the dictionary definition.
           D: Dictionaries are not divinely inspired.
         answer: A
-        print_position: 13
-        unit: 2
       - uid: BIB121.5.1.2.UPE.2
         subobj: 5.1.2
         type: upe
@@ -2449,8 +2333,6 @@ courses:
           C: The world system
           D: The people that inhabit the earth
         answer: C
-        print_position: 14
-        unit: 2
       - uid: BIB121.5.1.2.TY.1
         subobj: 5.1.2
         type: ty
@@ -2462,7 +2344,6 @@ courses:
           C: Some people simply do not accept the dictionary definition.
           D: Dictionaries are not divinely inspired.
         answer: A
-        print_position: 2
       - uid: BIB121.5.1.3.UPE.1
         subobj: 5.1.3
         type: upe
@@ -2473,8 +2354,6 @@ courses:
           C: indefinite pronouns.
           D: demonstrative pronouns.
         answer: D
-        print_position: 15
-        unit: 2
       - uid: BIB121.5.1.3.TY.1
         subobj: 5.1.3
         type: ty
@@ -2485,7 +2364,6 @@ courses:
           C: indefinite pronouns.
           D: demonstrative pronouns.
         answer: D
-        print_position: 3
       - uid: BIB121.5.2.1.UPE.1
         subobj: 5.2.1
         type: upe
@@ -2497,8 +2375,6 @@ courses:
           C: Intransitive verb
           D: Adverb
         answer: B
-        print_position: 16
-        unit: 2
       - uid: BIB121.5.2.1.TY.1
         subobj: 5.2.1
         type: ty
@@ -2510,7 +2386,6 @@ courses:
           C: Intransitive verb
           D: Adverb
         answer: B
-        print_position: 4
       - uid: BIB121.5.2.2.UPE.1
         subobj: 5.2.2
         type: upe
@@ -2526,8 +2401,6 @@ courses:
           D: The indefinite article is used to identify uniquely a member of a class
             or group.
         answer: B
-        print_position: 17
-        unit: 2
       - uid: BIB121.5.2.2.TY.1
         subobj: 5.2.2
         type: ty
@@ -2539,7 +2412,6 @@ courses:
           C: Adjective
           D: Pronoun
         answer: C
-        print_position: 5
       - uid: BIB121.5.2.2.TY.2
         subobj: 5.2.2
         type: ty
@@ -2551,7 +2423,6 @@ courses:
           C: The word “a” is interchangeable with “the.”
           D: The word “a” is correctly called the infinited article.
         answer: B
-        print_position: 6
       - uid: BIB121.5.2.2.TY.3
         subobj: 5.2.2
         type: ty
@@ -2563,7 +2434,6 @@ courses:
           C: began
           D: to
         answer: A
-        print_position: 8
       - uid: BIB121.5.2.2.TY.4
         subobj: 5.2.2
         type: ty
@@ -2576,7 +2446,6 @@ courses:
           C: a cause of all evil.
           D: a cause of various evils.
         answer: D
-        print_position: 9
       - uid: BIB121.5.2.3.UPE.1
         subobj: 5.2.3
         type: upe
@@ -2587,8 +2456,6 @@ courses:
           C: Pronoun
           D: Conjunction
         answer: B
-        print_position: 18
-        unit: 2
       - uid: BIB121.5.2.3.TY.1
         subobj: 5.2.3
         type: ty
@@ -2599,7 +2466,6 @@ courses:
           C: Pronoun
           D: Conjunction
         answer: B
-        print_position: 10
       - uid: BIB121.5.2.4.UPE.1
         subobj: 5.2.4
         type: upe
@@ -2611,8 +2477,6 @@ courses:
           C: never.
           D: if.
         answer: B
-        print_position: 19
-        unit: 2
       - uid: BIB121.5.2.4.UPE.2
         subobj: 5.2.4
         type: upe
@@ -2624,8 +2488,6 @@ courses:
           C: Look for conjunctions such as but or therefore.
           D: Obtain a translation that has paragraph indentations.
         answer: C
-        print_position: 20
-        unit: 2
       - uid: BIB121.5.3.1.UPE.1
         subobj: 5.3.1
         type: upe
@@ -2637,8 +2499,6 @@ courses:
           C: Do (not)
           D: You (too)
         answer: B
-        print_position: 21
-        unit: 2
       - uid: BIB121.5.3.1.TY.1
         subobj: 5.3.1
         type: ty
@@ -2650,7 +2510,6 @@ courses:
           C: Magi
           D: East
         answer: C
-        print_position: 7
       - uid: BIB121.6.1.1.UPE.1
         subobj: 6.1.1
         type: upe
@@ -2661,8 +2520,6 @@ courses:
           C: finite meaning.
           D: figurative meaning.
         answer: A
-        print_position: 22
-        unit: 2
       - uid: BIB121.6.1.1.UPE.2
         subobj: 6.1.1
         type: upe
@@ -2674,8 +2531,6 @@ courses:
           C: an exact time of 12:00.
           D: a time of spiritual darkness.
         answer: B
-        print_position: 23
-        unit: 2
       - uid: BIB121.6.1.1.TY.1
         subobj: 6.1.1
         type: ty
@@ -2686,7 +2541,6 @@ courses:
           C: finite meaning.
           D: figurative meaning.
         answer: A
-        print_position: 1
       - uid: BIB121.6.1.1.TY.2
         subobj: 6.1.1
         type: ty
@@ -2698,7 +2552,6 @@ courses:
           C: an exact time of 12:00.
           D: a time of spiritual darkness.
         answer: B
-        print_position: 2
       - uid: BIB121.6.1.1.TY.3
         subobj: 6.1.1
         type: ty
@@ -2710,7 +2563,6 @@ courses:
           C: A rocky hill
           D: The pathway to heaven
         answer: C
-        print_position: 3
       - uid: BIB121.6.1.1.TY.4
         subobj: 6.1.1
         type: ty
@@ -2721,7 +2573,6 @@ courses:
           C: is designed to allow multiple meanings.
           D: uses symbols which represent other things.
         answer: D
-        print_position: 4
       - uid: BIB121.6.1.1.TY.5
         subobj: 6.1.1
         type: ty
@@ -2733,7 +2584,6 @@ courses:
           C: Purest gold
           D: A pearl of great price
         answer: A
-        print_position: 5
       - uid: BIB121.6.1.2.UPE.1
         subobj: 6.1.2
         type: upe
@@ -2745,8 +2595,6 @@ courses:
           C: When anything supernatural is mentioned.
           D: Never or very rarely; all Scripture is literally true.
         answer: B
-        print_position: 24
-        unit: 2
       - uid: BIB121.6.1.2.TY.1
         subobj: 6.1.2
         type: ty
@@ -2758,7 +2606,6 @@ courses:
           C: When anything supernatural is mentioned
           D: Never or very rarely. All Scripture is literally true.
         answer: B
-        print_position: 6
       - uid: BIB121.6.1.2.TY.2
         subobj: 6.1.2
         type: ty
@@ -2769,7 +2616,6 @@ courses:
           C: John baptized Jesus in water.
           D: Jesus said, “I am the Good Shepherd.”
         answer: D
-        print_position: 7
       - uid: BIB121.6.1.2.TY.3
         subobj: 6.1.2
         type: ty
@@ -2781,7 +2627,6 @@ courses:
           C: Compare the verse with the traditional teaching of the church.
           D: Refer to the original Greek or Hebrew in which the verse was written.
         answer: A
-        print_position: 8
       - uid: BIB121.6.3.2.TY.1
         subobj: 6.3.2
         type: ty
@@ -2792,7 +2637,6 @@ courses:
           C: has central truths.
           D: has truths about Christ and His kingdom.
         answer: D
-        print_position: 9
       - uid: BIB121.6.4.2.UPE.1
         subobj: 6.4.2
         type: upe
@@ -2803,8 +2647,6 @@ courses:
           C: Exaggeration
           D: Relationship
         answer: C
-        print_position: 25
-        unit: 2
       - uid: BIB121.6.4.2.TY.1
         subobj: 6.4.2
         type: ty
@@ -2815,7 +2657,6 @@ courses:
           C: Exaggeration
           D: Relationship
         answer: C
-        print_position: 10
       - uid: BIB121.7.1.1.UPE.1
         subobj: 7.1.1
         type: upe
@@ -2826,8 +2667,6 @@ courses:
           C: it is expressed as a command to a Bible character.
           D: it is part of the cultural pattern of a Bible character.
         answer: B
-        print_position: 1
-        unit: 3
       - uid: BIB121.7.1.1.TY.1
         subobj: 7.1.1
         type: ty
@@ -2838,7 +2677,6 @@ courses:
           C: A pattern for all believers
           D: A requirement fulfilled by a character in the Bible
         answer: C
-        print_position: 1
       - uid: BIB121.7.1.1.TY.2
         subobj: 7.1.1
         type: ty
@@ -2850,7 +2688,6 @@ courses:
           C: poetic.
           D: descriptive.
         answer: D
-        print_position: 2
       - uid: BIB121.7.1.1.TY.3
         subobj: 7.1.1
         type: ty
@@ -2861,7 +2698,6 @@ courses:
           C: it is expressed as a command to a Bible character.
           D: it is part of the cultural pattern of a Bible character.
         answer: B
-        print_position: 3
       - uid: BIB121.7.2.1.UPE.1
         subobj: 7.2.1
         type: upe
@@ -2874,8 +2710,6 @@ courses:
             it.
           D: the truth of Scripture varies over time and in different locations.
         answer: A
-        print_position: 2
-        unit: 3
       - uid: BIB121.7.2.1.UPE.2
         subobj: 7.2.1
         type: upe
@@ -2887,8 +2721,6 @@ courses:
           C: can be as varied as the number of interpreters.
           D: is actually the same as its application.
         answer: A
-        print_position: 3
-        unit: 3
       - uid: BIB121.7.2.1.UPE.3
         subobj: 7.2.1
         type: upe
@@ -2899,8 +2731,6 @@ courses:
           C: impossible to apply if they were written in a foreign language.
           D: based directly on the author’s original intention.
         answer: D
-        print_position: 4
-        unit: 3
       - uid: BIB121.7.2.1.TY.1
         subobj: 7.2.1
         type: ty
@@ -2912,7 +2742,6 @@ courses:
           C: is revealed directly by the Holy Spirit.
           D: is determined independently by each sincere believer.
         answer: B
-        print_position: 4
       - uid: BIB121.7.2.1.TY.2
         subobj: 7.2.1
         type: ty
@@ -2923,7 +2752,6 @@ courses:
           C: finding hidden meanings.
           D: gaining spiritual insight.
         answer: C
-        print_position: 5
       - uid: BIB121.7.2.1.TY.3
         subobj: 7.2.1
         type: ty
@@ -2935,7 +2763,6 @@ courses:
           C: The climax of the story
           D: The outcome or post-script
         answer: C
-        print_position: 6
       - uid: BIB121.7.2.2.TY.1
         subobj: 7.2.2
         type: ty
@@ -2948,7 +2775,6 @@ courses:
           D: ignoring the historical context and directly applying it to his or her
             life.
         answer: A
-        print_position: 7
       - uid: BIB121.7.2.2.TY.2
         subobj: 7.2.2
         type: ty
@@ -2970,7 +2796,6 @@ courses:
           C: A story, usually with a moral, that could have happened
           D: A story that reports what actually did happen
         answer: D
-        print_position: 9
       - uid: BIB121.7.3.2.TY.1
         subobj: 7.3.2
         type: ty
@@ -2982,7 +2807,6 @@ courses:
             story of God’s salvation.
           D: we can always find a New Testament truth in an Old Testament story.
         answer: C
-        print_position: 10
       - uid: BIB121.8.1.1.UPE.1
         subobj: 8.1.1
         type: upe
@@ -2994,8 +2818,6 @@ courses:
             to
           D: A will, disposing the property of an individual after his or her decease
         answer: C
-        print_position: 5
-        unit: 3
       - uid: BIB121.8.1.1.TY.1
         subobj: 8.1.1
         type: ty
@@ -3007,7 +2829,6 @@ courses:
             to
           D: A will, disposing the property of an individual after his or her death
         answer: C
-        print_position: 1
       - uid: BIB121.8.1.2.UPE.1
         subobj: 8.1.2
         type: upe
@@ -3018,8 +2839,6 @@ courses:
           C: utilize an earthly, temporary priesthood.
           D: require and are based on the faith of believers.
         answer: D
-        print_position: 6
-        unit: 3
       - uid: BIB121.8.1.2.UPE.2
         subobj: 8.1.2
         type: upe
@@ -3030,8 +2849,6 @@ courses:
           C: Revelations progressed from partial to complete.
           D: The New Testament reveals the error in the Old Testament.
         answer: C
-        print_position: 7
-        unit: 3
       - uid: BIB121.8.1.2.TY.1
         subobj: 8.1.2
         type: ty
@@ -3043,7 +2860,6 @@ courses:
           C: utilize an earthly, temporary priesthood.
           D: require and are based on the faith of believers.
         answer: D
-        print_position: 2
       - uid: BIB121.8.1.2.TY.2
         subobj: 8.1.2
         type: ty
@@ -3054,7 +2870,6 @@ courses:
           C: evolution of the Judeo-Christian faith from Genesis to Revelation.
           D: doctrine that new revelation is continually coming to the church.
         answer: B
-        print_position: 4
       - uid: BIB121.8.1.2.TY.3
         subobj: 8.1.2
         type: ty
@@ -3067,7 +2882,6 @@ courses:
           C: wisdom (Job–Song of Solomon).
           D: prophecy (Isaiah–Malachi).
         answer: A
-        print_position: 5
       - uid: BIB121.8.2.1.UPE.1
         subobj: 8.2.1
         type: upe
@@ -3080,8 +2894,6 @@ courses:
           D: This provision was to be used by judges who were in office at the time
             of the original writing.
         answer: D
-        print_position: 8
-        unit: 3
       - uid: BIB121.8.2.1.TY.1
         subobj: 8.2.1
         type: ty
@@ -3094,7 +2906,6 @@ courses:
           D: This provision was to be used by judges who were in office at the time
             of the original writing.
         answer: D
-        print_position: 3
       - uid: BIB121.8.2.1.TY.2
         subobj: 8.2.1
         type: ty
@@ -3107,7 +2918,6 @@ courses:
           C: Christians are no longer bound by agreements made with unbelievers.
           D: Christians are completely separate from all requirements of Judaism.
         answer: B
-        print_position: 6
       - uid: BIB121.8.2.1.TY.3
         subobj: 8.2.1
         type: ty
@@ -3119,7 +2929,6 @@ courses:
           C: provided a means by which they could earn eternal life.
           D: applied truth to their specific historical and cultural contexts.
         answer: D
-        print_position: 9
       - uid: BIB121.8.2.2.UPE.1
         subobj: 8.2.2
         type: upe
@@ -3130,8 +2939,6 @@ courses:
           C: renewed in the New Covenant.
           D: not specifically cancelled in the New Covenant.
         answer: C
-        print_position: 9
-        unit: 3
       - uid: BIB121.8.2.2.TY.1
         subobj: 8.2.2
         type: ty
@@ -3144,7 +2951,6 @@ courses:
             excluded by New Testament teaching.
           D: ceremonial laws will be totally fulfilled at Christ’s second coming.
         answer: A
-        print_position: 7
       - uid: BIB121.8.2.2.TY.2
         subobj: 8.2.2
         type: ty
@@ -3155,7 +2961,6 @@ courses:
           C: posted in public locations.
           D: not specifically cancelled in the New Testament.
         answer: A
-        print_position: 8
       - uid: BIB121.8.2.2.TY.3
         subobj: 8.2.2
         type: ty
@@ -3167,7 +2972,6 @@ courses:
           C: The ethical principles reflect right and wrong in all ages.
           D: Fallen humans cannot distinguish between right and wrong.
         answer: C
-        print_position: 10
       - uid: BIB121.9.1.1.TY.1
         subobj: 9.1.1
         type: ty
@@ -3178,7 +2982,6 @@ courses:
           C: can give valuable clues to the historical background of the psalm.
           D: are often misleading to modern interpreters.
         answer: C
-        print_position: 1
       - uid: BIB121.9.1.2.UPE.1
         subobj: 9.1.2
         type: upe
@@ -3190,8 +2993,6 @@ courses:
           C: synthetic parallelism.
           D: no parallelism.
         answer: A
-        print_position: 10
-        unit: 3
       - uid: BIB121.9.1.2.TY.1
         subobj: 9.1.2
         type: ty
@@ -3203,7 +3004,6 @@ courses:
           C: a sequence of thought patterns.
           D: a definite rhyme scheme at the ends of lines.
         answer: B
-        print_position: 2
       - uid: BIB121.9.1.3.UPE.1
         subobj: 9.1.3
         type: upe
@@ -3215,8 +3015,6 @@ courses:
           C: anthropomorphism.
           D: a simile.
         answer: D
-        print_position: 11
-        unit: 3
       - uid: BIB121.9.1.3.TY.1
         subobj: 9.1.3
         type: ty
@@ -3227,7 +3025,6 @@ courses:
           C: “The heavens declare the glory of God” (v. 1).
           D: “May the words of my mouth . . . be pleasing in your sight” (v. 14).
         answer: C
-        print_position: 3
       - uid: BIB121.9.2.1.UPE.1
         subobj: 9.2.1
         type: upe
@@ -3238,8 +3035,6 @@ courses:
           C: appeals for God to take vengeance on his enemies.
           D: exults in God as he travels to the temple.
         answer: C
-        print_position: 12
-        unit: 3
       - uid: BIB121.9.2.1.TY.1
         subobj: 9.2.1
         type: ty
@@ -3250,7 +3045,6 @@ courses:
           C: celebration and affirmation.
           D: trust.
         answer: B
-        print_position: 6
       - uid: BIB121.9.2.1.TY.2
         subobj: 9.2.1
         type: ty
@@ -3262,7 +3056,6 @@ courses:
           C: six sections.
           D: no specific organization.
         answer: A
-        print_position: 7
       - uid: BIB121.9.2.1.TY.3
         subobj: 9.2.1
         type: ty
@@ -3274,7 +3067,6 @@ courses:
           C: Wisdom
           D: Praise
         answer: D
-        print_position: 8
       - uid: BIB121.9.2.2.TY.1
         subobj: 9.2.2
         type: ty
@@ -3287,7 +3079,6 @@ courses:
           C: prophetic.
           D: wisdom.
         answer: A
-        print_position: 4
       - uid: BIB121.9.2.2.TY.2
         subobj: 9.2.2
         type: ty
@@ -3298,7 +3089,6 @@ courses:
           C: appeals for God to take vengeance on his enemies.
           D: exults in God as he travels to the temple.
         answer: C
-        print_position: 5
       - uid: BIB121.9.2.2.TY.3
         subobj: 9.2.2
         type: ty
@@ -3309,7 +3099,6 @@ courses:
           C: alpha-numeric.
           D: Hebraic.
         answer: A
-        print_position: 9
       - uid: BIB121.9.2.2.TY.4
         subobj: 9.2.2
         type: ty
@@ -3321,7 +3110,6 @@ courses:
           C: Thanksgiving
           D: Devotion
         answer: B
-        print_position: 10
       - uid: BIB121.10.1.1.UPE.1
         subobj: 10.1.1
         type: upe
@@ -3333,8 +3121,6 @@ courses:
           C: comparative.
           D: chiastic.
         answer: A
-        print_position: 13
-        unit: 3
       - uid: BIB121.10.1.1.TY.1
         subobj: 10.1.1
         type: ty
@@ -3345,7 +3131,6 @@ courses:
           C: look for the historical context of the writer.
           D: deny any exception to the general rule.
         answer: A
-        print_position: 1
       - uid: BIB121.10.1.1.TY.2
         subobj: 10.1.1
         type: ty
@@ -3357,7 +3142,6 @@ courses:
           C: comparative.
           D: chiastic.
         answer: A
-        print_position: 2
       - uid: BIB121.10.1.1.TY.3
         subobj: 10.1.1
         type: ty
@@ -3368,7 +3152,6 @@ courses:
           C: memorable guidelines for shaping wise behavior.
           D: commands that we are to follow exactly as they are stated.
         answer: C
-        print_position: 4
       - uid: BIB121.10.1.2.TY.1
         subobj: 10.1.2
         type: ty
@@ -3379,7 +3162,6 @@ courses:
           C: Select the proverb that has been quoted or applied in the New Testament.
           D: Contradictions expand the relevance of proverbs.
         answer: B
-        print_position: 5
       - uid: BIB121.10.1.3.UPE.1
         subobj: 10.1.3
         type: upe
@@ -3390,8 +3172,6 @@ courses:
           C: an expression of a covenant relationship.
           D: a vehicle for God’s promises.
         answer: B
-        print_position: 14
-        unit: 3
       - uid: BIB121.10.1.3.TY.1
         subobj: 10.1.3
         type: ty
@@ -3402,7 +3182,6 @@ courses:
           C: An expression of a covenant relationship
           D: A vehicle for God’s promises
         answer: B
-        print_position: 3
       - uid: BIB121.10.1.3.TY.2
         subobj: 10.1.3
         type: ty
@@ -3415,7 +3194,6 @@ courses:
             method.
           D: Everything is easier if you are wealthy.
         answer: C
-        print_position: 6
       - uid: BIB121.10.2.1.TY.1
         subobj: 10.2.1
         type: ty
@@ -3427,7 +3205,6 @@ courses:
           C: Their proverbs were not legitimate.
           D: They trusted in their own human wisdom.
         answer: B
-        print_position: 7
       - uid: BIB121.10.2.1.TY.2
         subobj: 10.2.1
         type: ty
@@ -3438,7 +3215,6 @@ courses:
           C: Drama
           D: Blank verse
         answer: C
-        print_position: 8
       - uid: BIB121.10.2.2.UPE.1
         subobj: 10.2.2
         type: upe
@@ -3449,8 +3225,6 @@ courses:
           C: pride.
           D: emptiness.
         answer: D
-        print_position: 15
-        unit: 3
       - uid: BIB121.10.2.2.TY.1
         subobj: 10.2.2
         type: ty
@@ -3461,7 +3235,6 @@ courses:
           C: Pride
           D: Emptiness
         answer: D
-        print_position: 9
       - uid: BIB121.10.2.3.TY.1
         subobj: 10.2.3
         type: ty
@@ -3472,7 +3245,6 @@ courses:
           C: An allegory of God’s love for Israel
           D: An allegory of Christ and the church
         answer: A
-        print_position: 10
       - uid: BIB121.11.1.1.UPE.1
         subobj: 11.1.1
         type: upe
@@ -3483,8 +3255,6 @@ courses:
           C: prophecy.
           D: interpretation.
         answer: C
-        print_position: 16
-        unit: 3
       - uid: BIB121.11.1.1.TY.1
         subobj: 11.1.1
         type: ty
@@ -3495,7 +3265,6 @@ courses:
           C: prophecy.
           D: interpretation.
         answer: C
-        print_position: 1
       - uid: BIB121.11.1.1.TY.2
         subobj: 11.1.1
         type: ty
@@ -3507,7 +3276,6 @@ courses:
           C: predictions.
           D: divinations.
         answer: B
-        print_position: 2
       - uid: BIB121.11.1.1.TY.3
         subobj: 11.1.1
         type: ty
@@ -3520,7 +3288,6 @@ courses:
           D: Bible book introductions and Bible handbooks are most helpful to modern
             readers.
         answer: D
-        print_position: 4
       - uid: BIB121.11.1.1.TY.4
         subobj: 11.1.1
         type: ty
@@ -3534,7 +3301,6 @@ courses:
           D: Dating the prophetic message is necessary in order to certify a correct
             prediction.
         answer: A
-        print_position: 5
       - uid: BIB121.11.1.2.UPE.1
         subobj: 11.1.2
         type: upe
@@ -3547,8 +3313,6 @@ courses:
             uttered.
           D: the time element in prophecy is unclear.
         answer: D
-        print_position: 17
-        unit: 3
       - uid: BIB121.11.1.2.TY.1
         subobj: 11.1.2
         type: ty
@@ -3559,7 +3323,6 @@ courses:
           C: Protection of the covenant
           D: Warnings to other nations
         answer: C
-        print_position: 3
       - uid: BIB121.11.1.2.TY.2
         subobj: 11.1.2
         type: ty
@@ -3572,7 +3335,6 @@ courses:
           D: acted as one who took dictation without any understanding of what he
             wrote.
         answer: C
-        print_position: 8
       - uid: BIB121.11.1.3.UPE.1
         subobj: 11.1.3
         type: upe
@@ -3584,8 +3346,6 @@ courses:
           C: immediate fulfillment.
           D: multiple fulfillment.
         answer: B
-        print_position: 18
-        unit: 3
       - uid: BIB121.11.1.3.TY.1
         subobj: 11.1.3
         type: ty
@@ -3597,7 +3357,6 @@ courses:
           C: developmental.
           D: multiple.
         answer: A
-        print_position: 6
       - uid: BIB121.11.1.3.TY.2
         subobj: 11.1.3
         type: ty
@@ -3609,7 +3368,6 @@ courses:
           C: immediate
           D: multiple
         answer: B
-        print_position: 7
       - uid: BIB121.11.2.1.UPE.1
         subobj: 11.2.1
         type: upe
@@ -3620,8 +3378,6 @@ courses:
           C: to declare.
           D: to indicate.
         answer: B
-        print_position: 19
-        unit: 3
       - uid: BIB121.11.2.1.TY.1
         subobj: 11.2.1
         type: ty
@@ -3632,7 +3388,6 @@ courses:
           C: “to declare.”
           D: “to indicate.”
         answer: B
-        print_position: 10
       - uid: BIB121.11.2.2.TY.1
         subobj: 11.2.2
         type: ty
@@ -3644,7 +3399,6 @@ courses:
           C: The prophets themselves did not understand the symbols.
           D: The symbols had a clear meaning to the original audience.
         answer: D
-        print_position: 9
       - uid: BIB121.12.1.1.UPE.1
         subobj: 12.1.1
         type: upe
@@ -3656,8 +3410,6 @@ courses:
           C: pericopes.
           D: articles.
         answer: C
-        print_position: 20
-        unit: 3
       - uid: BIB121.12.1.1.UPE.2
         subobj: 12.1.1
         type: upe
@@ -3668,8 +3420,6 @@ courses:
           C: The Cross and the Resurrection
           D: The Second Coming of Jesus in power
         answer: A
-        print_position: 21
-        unit: 3
       - uid: BIB121.12.1.1.UPE.3
         subobj: 12.1.1
         type: upe
@@ -3681,8 +3431,6 @@ courses:
           C: steps people can take to overcome fear, failure, and doubt.
           D: kind of moral courage needed in order to be a disciple of Jesus.
         answer: A
-        print_position: 22
-        unit: 3
       - uid: BIB121.12.1.1.TY.1
         subobj: 12.1.1
         type: ty
@@ -3693,7 +3441,6 @@ courses:
           C: Pericopes begin at the beginning of each chapter.
           D: Look for changes in location, time, or speakers
         answer: D
-        print_position: 1
       - uid: BIB121.12.1.1.TY.2
         subobj: 12.1.1
         type: ty
@@ -3704,7 +3451,6 @@ courses:
           C: The Cross and the Resurrection
           D: The Second Coming of Jesus in power
         answer: A
-        print_position: 2
       - uid: BIB121.12.1.2.UPE.1
         subobj: 12.1.2
         type: upe
@@ -3718,8 +3464,6 @@ courses:
           D: use the Gospel accounts to reconstruct the life of Jesus in its true,
             chronological order.
         answer: C
-        print_position: 23
-        unit: 3
       - uid: BIB121.12.1.2.TY.1
         subobj: 12.1.2
         type: ty
@@ -3733,7 +3477,6 @@ courses:
           D: use the Gospel accounts to reconstruct the life of Jesus in its true,
             chronological order.
         answer: C
-        print_position: 3
       - uid: BIB121.12.2.2.TY.1
         subobj: 12.2.2
         type: ty
@@ -3745,7 +3488,6 @@ courses:
           C: synecdoche.
           D: irony.
         answer: A
-        print_position: 4
       - uid: BIB121.12.2.2.TY.2
         subobj: 12.2.2
         type: ty
@@ -3757,7 +3499,6 @@ courses:
           C: metanome.
           D: end stress.
         answer: D
-        print_position: 5
       - uid: BIB121.12.3.1.TY.1
         subobj: 12.3.1
         type: ty
@@ -3768,7 +3509,6 @@ courses:
           C: a detailed treatise on what happened rather than why it happened.
           D: an interpretive history.
         answer: D
-        print_position: 6
       - uid: BIB121.12.3.2.TY.1
         subobj: 12.3.2
         type: ty
@@ -3781,7 +3521,6 @@ courses:
           D: Normative practices are approved by the apostles and councils of the
             church.
         answer: B
-        print_position: 7
       - uid: BIB121.12.4.1.UPE.1
         subobj: 12.4.1
         type: upe
@@ -3793,8 +3532,6 @@ courses:
           C: in response to particular situations.
           D: on auspicious dates.
         answer: C
-        print_position: 24
-        unit: 3
       - uid: BIB121.12.4.1.TY.1
         subobj: 12.4.1
         type: ty
@@ -3806,7 +3543,6 @@ courses:
           C: in response to particular situations.
           D: on auspicious dates.
         answer: C
-        print_position: 8
       - uid: BIB121.12.4.2.UPE.1
         subobj: 12.4.2
         type: upe
@@ -3821,8 +3557,6 @@ courses:
           D: If the instruction is normative, it should be included in the church
             bylaws.
         answer: A
-        print_position: 25
-        unit: 3
       - uid: BIB121.12.4.2.TY.1
         subobj: 12.4.2
         type: ty
@@ -3834,7 +3568,6 @@ courses:
           C: may be ignored by Bible interpreters.
           D: does not directly apply to us but does illustrate a truth.
         answer: D
-        print_position: 9
       - uid: BIB121.12.4.2.TY.2
         subobj: 12.4.2
         type: ty
@@ -3849,7 +3582,6 @@ courses:
           D: If the instruction is normative, it should be included in the church
             bylaws.
         answer: A
-        print_position: 10
       - uid: BIB121.13.1.1.UPE.1
         subobj: 13.1.1
         type: upe
@@ -3860,8 +3592,6 @@ courses:
           C: The old covenant shows us our need for the new covenant.
           D: The old covenant is binding on us for salvation.
         answer: C
-        print_position: 1
-        unit: 4
       - uid: BIB121.13.1.1.TY.1
         subobj: 13.1.1
         type: ty
@@ -3872,7 +3602,6 @@ courses:
           C: The old covenant shows us our need for the new covenant.
           D: The old covenant is still our covenant to live by.
         answer: C
-        print_position: 1
       - uid: BIB121.13.1.1.TY.2
         subobj: 13.1.1
         type: ty
@@ -3884,7 +3613,6 @@ courses:
           C: could remove the fear of death and judgment.
           D: served as a “schoolmaster” to lead us to Christ.
         answer: D
-        print_position: 2
       - uid: BIB121.13.1.2.UPE.1
         subobj: 13.1.2
         type: upe
@@ -3896,8 +3624,6 @@ courses:
           C: The promises made to Abraham are automatically transferred to the Gentiles.
           D: The Gentiles should seek to be more like Abraham.
         answer: A
-        print_position: 2
-        unit: 4
       - uid: BIB121.13.1.2.TY.1
         subobj: 13.1.2
         type: ty
@@ -3909,7 +3635,6 @@ courses:
           C: The promises made to Abraham are automatically transferred to the Gentiles.
           D: The Gentiles should seek to be more like Abraham.
         answer: A
-        print_position: 3
       - uid: BIB121.13.2.1.UPE.1
         subobj: 13.2.1
         type: upe
@@ -3921,8 +3646,6 @@ courses:
           C: The Kingdom in its complete fullness began at Christ’s birth.
           D: God rules in the hearts of all humans and angels.
         answer: A
-        print_position: 3
-        unit: 4
       - uid: BIB121.13.2.1.UPE.2
         subobj: 13.2.1
         type: upe
@@ -3933,8 +3656,6 @@ courses:
           C: The Kingdom of God and the Kingdom of heaven are the same Kingdom.
           D: The Kingdom of God describes Jesus’ earthly reign.
         answer: C
-        print_position: 4
-        unit: 4
       - uid: BIB121.13.2.1.TY.1
         subobj: 13.2.1
         type: ty
@@ -3945,7 +3666,6 @@ courses:
           C: Jesus the King, in heaven
           D: The total purview of the Father, Son, and Holy Spirit
         answer: B
-        print_position: 4
       - uid: BIB121.13.2.1.TY.2
         subobj: 13.2.1
         type: ty
@@ -3956,7 +3676,6 @@ courses:
           C: The kingdom of God and the kingdom of heaven are the same Kingdom.
           D: The kingdom of God describes Jesus’ earthly reign.
         answer: C
-        print_position: 5
       - uid: BIB121.13.2.3.UPE.1
         subobj: 13.2.3
         type: upe
@@ -3967,8 +3686,6 @@ courses:
           C: Common grace provides light to all who live after Jesus’ resurrection.
           D: Unsaved human beings live in the shadows of early morning.
         answer: A
-        print_position: 6
-        unit: 4
       - uid: BIB121.13.2.3.TY.1
         subobj: 13.2.3
         type: ty
@@ -3979,7 +3696,6 @@ courses:
           C: Common grace provides light to all who live after Jesus’ resurrection.
           D: Unsaved human beings live in the shadows of early morning.
         answer: A
-        print_position: 6
       - uid: BIB121.13.3.1.UPE.1
         subobj: 13.3.1
         type: upe
@@ -3992,8 +3708,6 @@ courses:
           D: Believers are secure in Jesus but may be lost if they return to the darkness
             of sin.
         answer: B
-        print_position: 7
-        unit: 4
       - uid: BIB121.13.3.1.TY.1
         subobj: 13.3.1
         type: ty
@@ -4006,7 +3720,6 @@ courses:
           D: Believers are secure in Jesus, but may be lost if they return to the
             darkness of sin.
         answer: B
-        print_position: 7
       - uid: BIB121.13.3.2.UPE.1
         subobj: 13.3.2
         type: upe
@@ -4018,8 +3731,6 @@ courses:
           C: Judgment has taken place already, and the sentence is death.
           D: Believers will be saved if they make an effort to live righteously.
         answer: B
-        print_position: 5
-        unit: 4
       - uid: BIB121.13.3.2.UPE.2
         subobj: 13.3.2
         type: upe
@@ -4030,8 +3741,6 @@ courses:
           C: When the believer dies and goes to heaven
           D: At the moment of belief, during the Christian life, and at death
         answer: D
-        print_position: 8
-        unit: 4
       - uid: BIB121.13.3.2.UPE.3
         subobj: 13.3.2
         type: upe
@@ -4043,8 +3752,6 @@ courses:
           C: Wealthy believers should thank God and enjoy their prosperity.
           D: The prospect of heaven should be enough for any believer.
         answer: A
-        print_position: 9
-        unit: 4
       - uid: BIB121.13.3.2.TY.1
         subobj: 13.3.2
         type: ty
@@ -4055,7 +3762,6 @@ courses:
           C: When the believer dies and goes to heaven
           D: At the moment of belief, during the Christian life, and at death
         answer: D
-        print_position: 8
       - uid: BIB121.13.3.2.TY.2
         subobj: 13.3.2
         type: ty
@@ -4067,7 +3773,6 @@ courses:
           C: Wealthy believers should thank God and enjoy their prosperity.
           D: The prospect of heaven should be enough for any believer.
         answer: A
-        print_position: 9
       - uid: BIB121.13.3.2.TY.3
         subobj: 13.3.2
         type: ty
@@ -4079,7 +3784,6 @@ courses:
           C: Judgment has taken place already and the sentence is death.
           D: Believers will be saved if they make an effort to live righteously.
         answer: B
-        print_position: 10
       - uid: BIB121.14.1.1.UPE.1
         subobj: 14.1.1
         type: upe
@@ -4090,8 +3794,6 @@ courses:
           C: the fulfillment of an Old Testament type.
           D: a broad, cross-cultural certainty.
         answer: D
-        print_position: 10
-        unit: 4
       - uid: BIB121.14.1.1.UPE.2
         subobj: 14.1.1
         type: upe
@@ -4103,8 +3805,6 @@ courses:
           C: promise.
           D: proverb.
         answer: B
-        print_position: 11
-        unit: 4
       - uid: BIB121.14.1.1.TY.1
         subobj: 14.1.1
         type: ty
@@ -4115,7 +3815,6 @@ courses:
           C: The fulfillment of a an Old Testament type
           D: A broad, cross-cultural certainty
         answer: D
-        print_position: 1
       - uid: BIB121.14.1.1.TY.2
         subobj: 14.1.1
         type: ty
@@ -4126,7 +3825,6 @@ courses:
           C: A statement that is true no matter who says it
           D: A proverbial or traditional expression
         answer: C
-        print_position: 2
       - uid: BIB121.14.1.1.TY.3
         subobj: 14.1.1
         type: ty
@@ -4138,7 +3836,6 @@ courses:
           C: promise.
           D: proverb.
         answer: B
-        print_position: 3
       - uid: BIB121.14.1.2.UPE.1
         subobj: 14.1.2
         type: upe
@@ -4149,8 +3846,6 @@ courses:
           C: lead to a response.
           D: can be grasped by very young children.
         answer: C
-        print_position: 12
-        unit: 4
       - uid: BIB121.14.1.2.UPE.2
         subobj: 14.1.2
         type: upe
@@ -4161,8 +3856,6 @@ courses:
           C: Commitment to biblical inerrancy
           D: Interest
         answer: D
-        print_position: 13
-        unit: 4
       - uid: BIB121.14.1.2.TY.1
         subobj: 14.1.2
         type: ty
@@ -4173,7 +3866,6 @@ courses:
           C: lead to a response.
           D: are accepted by all.
         answer: C
-        print_position: 4
       - uid: BIB121.14.1.2.TY.2
         subobj: 14.1.2
         type: ty
@@ -4184,7 +3876,6 @@ courses:
           C: Principles change from age to age.
           D: Principles attract attention and pique interest.
         answer: D
-        print_position: 5
       - uid: BIB121.14.1.2.TY.3
         subobj: 14.1.2
         type: ty
@@ -4196,7 +3887,6 @@ courses:
           C: embrace each other.
           D: greet each other in a socially acceptable manner.
         answer: D
-        print_position: 8
       - uid: BIB121.14.2.1.UPE.1
         subobj: 14.2.1
         type: upe
@@ -4207,8 +3897,6 @@ courses:
           C: Translate the principle in the colloquial form of your language.
           D: Old Testament principles must be reaffirmed in the New Testament.
         answer: A
-        print_position: 16
-        unit: 4
       - uid: BIB121.14.2.2.UPE.1
         subobj: 14.2.2
         type: upe
@@ -4220,8 +3908,6 @@ courses:
           C: It is a misquotation of Scripture.
           D: The apostle Paul specifically refuted this concept.
         answer: B
-        print_position: 14
-        unit: 4
       - uid: BIB121.14.2.2.UPE.2
         subobj: 14.2.2
         type: upe
@@ -4233,8 +3919,6 @@ courses:
           C: embrace each other.
           D: greet each other in a socially acceptable manner.
         answer: D
-        print_position: 15
-        unit: 4
       - uid: BIB121.14.2.2.UPE.3
         subobj: 14.2.2
         type: upe
@@ -4245,8 +3929,6 @@ courses:
           C: using an imperative verb.
           D: as a proposition with major and minor premises.
         answer: A
-        print_position: 17
-        unit: 4
       - uid: BIB121.14.2.2.TY.1
         subobj: 14.2.2
         type: ty
@@ -4257,7 +3939,6 @@ courses:
           C: Translate the principle in the colloquial form of your language.
           D: Old Testament principles must be reaffirmed in the New Testament.
         answer: A
-        print_position: 6
       - uid: BIB121.14.2.2.TY.2
         subobj: 14.2.2
         type: ty
@@ -4269,7 +3950,6 @@ courses:
           C: It is a misquotation of Scripture.
           D: The apostle Paul specifically refuted this concept.
         answer: B
-        print_position: 7
       - uid: BIB121.14.2.2.TY.3
         subobj: 14.2.2
         type: ty
@@ -4280,7 +3960,6 @@ courses:
           C: using an imperative verb.
           D: as a proposition with major and minor premises.
         answer: A
-        print_position: 9
       - uid: BIB121.14.2.2.TY.4
         subobj: 14.2.2
         type: ty
@@ -4291,7 +3970,6 @@ courses:
           C: Those principles that our church or denomination stresses
           D: Principles that appear in doctrinal or creedal statements
         answer: B
-        print_position: 10
       - uid: BIB121.15.1.1.UPE.1
         subobj: 15.1.1
         type: upe
@@ -4304,8 +3982,6 @@ courses:
           C: cannot understand even the basic truths of the Bible.
           D: can understand the Bible as well as the Christian.
         answer: A
-        print_position: 18
-        unit: 4
       - uid: BIB121.15.1.1.UPE.2
         subobj: 15.1.1
         type: upe
@@ -4316,8 +3992,6 @@ courses:
           C: It is available primarily to the wise and learned.
           D: It is taught as an art or skill.
         answer: B
-        print_position: 19
-        unit: 4
       - uid: BIB121.15.1.1.UPE.3
         subobj: 15.1.1
         type: upe
@@ -4330,8 +4004,6 @@ courses:
             unique interpretation.
           D: confirm what we feel led to do.
         answer: C
-        print_position: 20
-        unit: 4
       - uid: BIB121.15.1.1.TY.1
         subobj: 15.1.1
         type: ty
@@ -4353,7 +4025,6 @@ courses:
           C: It is available to the wise and learned, before salvation.
           D: It is taught as an art or skill.
         answer: B
-        print_position: 2
       - uid: BIB121.15.1.1.TY.3
         subobj: 15.1.1
         type: ty
@@ -4365,7 +4036,6 @@ courses:
           C: teaches us hermeneutical principles to use in interpreting the Scripture.
           D: takes the place of human teachers.
         answer: B
-        print_position: 3
       - uid: BIB121.15.1.1.TY.4
         subobj: 15.1.1
         type: ty
@@ -4377,7 +4047,6 @@ courses:
           C: be confirmed by others.
           D: confirm what we want to do.
         answer: C
-        print_position: 4
       - uid: BIB121.15.2.2.UPE.1
         subobj: 15.2.2
         type: upe
@@ -4391,8 +4060,6 @@ courses:
           D: he or she ministers in a manner that is consistent with the entire body
             of Scripture.
         answer: D
-        print_position: 21
-        unit: 4
       - uid: BIB121.15.2.2.UPE.2
         subobj: 15.2.2
         type: upe
@@ -4404,8 +4071,6 @@ courses:
           C: be in accord with the teaching of Scripture.
           D: continue as a lifetime calling.
         answer: C
-        print_position: 22
-        unit: 4
       - uid: BIB121.15.2.2.UPE.3
         subobj: 15.2.2
         type: upe
@@ -4416,8 +4081,6 @@ courses:
           C: Brief success
           D: Demon possession
         answer: A
-        print_position: 23
-        unit: 4
       - uid: BIB121.15.2.2.UPE.4
         subobj: 15.2.2
         type: upe
@@ -4429,8 +4092,6 @@ courses:
           C: Do we clearly understand the meaning of the passage?
           D: Is the passage correctly translated?
         answer: B
-        print_position: 24
-        unit: 4
       - uid: BIB121.15.2.2.UPE.5
         subobj: 15.2.2
         type: upe
@@ -4445,8 +4106,6 @@ courses:
           D: The call to a life of service to God is confirmed in many ways, each
             of which is consistent with the written Word of God.
         answer: D
-        print_position: 25
-        unit: 4
       - uid: BIB121.15.2.2.TY.1
         subobj: 15.2.2
         type: ty
@@ -4457,7 +4116,6 @@ courses:
           C: what we want will be an expression of the Spirit’s will.
           D: we will not fail in our attempts to work for God.
         answer: B
-        print_position: 5
       - uid: BIB121.15.2.2.TY.2
         subobj: 15.2.2
         type: ty
@@ -4471,7 +4129,6 @@ courses:
           D: If he or she ministers in a manner that is consistent with the entire
             body of Scripture
         answer: D
-        print_position: 6
       - uid: BIB121.15.2.2.TY.3
         subobj: 15.2.2
         type: ty
@@ -4483,7 +4140,6 @@ courses:
           C: be in accord with the teaching of Scripture.
           D: continue as a lifetime calling.
         answer: C
-        print_position: 7
       - uid: BIB121.15.2.2.TY.4
         subobj: 15.2.2
         type: ty
@@ -4494,7 +4150,6 @@ courses:
           C: Brief success
           D: Demon possession
         answer: A
-        print_position: 8
       - uid: BIB121.15.2.2.TY.5
         subobj: 15.2.2
         type: ty
@@ -4506,7 +4161,6 @@ courses:
           C: Do we clearly understand the meaning of the passage?
           D: Is the passage correctly translated?
         answer: B
-        print_position: 9
       - uid: BIB121.15.2.2.TY.6
         subobj: 15.2.2
         type: ty
@@ -4521,7 +4175,6 @@ courses:
           D: The call to a life of service to God is confirmed in many ways, each
             of which is consistent with the written Word of God.
         answer: D
-        print_position: 10
       - uid: BIB121.1.2.1.F.1
         subobj: 1.2.1
         type: final
@@ -4715,7 +4368,6 @@ courses:
         key_pdf: bib121_form e key desi_apr 09.pdf
         matched: 17
         objectives_agree: 17
-      captured: reparse
     deployed_pn: 03.23.01
     body_baseline_pn: 03.23.01
     chapters:
