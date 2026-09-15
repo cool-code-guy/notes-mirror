@@ -1783,7 +1783,7 @@ Level 1 · 14 chapters · 57 lessons · 130 subobjectives
 - AGWM Structure and Governance (6.4.1, 6.4.2, 6.4.3)
 - AGWM Missionary Application and Appointment (6.5.1, 6.5.2, 6.5.3, 6.5.4, 6.5.5, 6.5.6)
 - Working Together to Reach the World (6.6.1, 6.6.2, 6.6.3)
-- 6.7 (6.7.F, 6.7.TY)
+- 6.7 (6.7.1, 6.7.TY)
 - 6.8 (6.8.1, 6.8.2)
 
 **7**
