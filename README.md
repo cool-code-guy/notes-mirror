@@ -3,7 +3,7 @@
 
 ## About this mirror
 
-Published and maintained by the administrator of the Berean School of the Bible / Global University course database, for use in recruitment, partnership, and stakeholder conversations. This is a curriculum content export — course structure, learning objectives, lesson text, scripture coverage, and bibliography for 24 active courses. It is not an official Global University publication or website.
+Published and maintained by the administrator of the Berean School of the Bible / Global University course database, for use in recruitment, partnership, and stakeholder conversations. This is a curriculum content export — course structure, learning objectives, lesson text, scripture coverage, and bibliography for 49 active courses. It is not an official Global University publication or website.
 
 No exam questions or answer keys are in this repository.
 
@@ -24,29 +24,54 @@ This single file has every active course's objectives and structure, AND — rig
 | Code | Title | Level |
 | --- | --- | --- |
 | BIB111 | Old Testament Survey | 1 |
+| BIB111S | BIB111S |  |
 | BIB114 | Christ in the Synoptic Gospels | 1 |
+| BIB114S | BIB114S |  |
+| BIB115S | BIB115S |  |
 | BIB116 | New Testament Survey | 1 |
+| BIB117S | BIB117S |  |
 | BIB121 | Introduction to Hermeneutics | 1 |
+| BIB121S | BIB121S |  |
 | BIB211 | Acts: The Holy Spirit at Work in Believers | 2 |
+| BIB212S | BIB212S |  |
+| BIB214S | BIB214S |  |
 | BIB215 | Romans: Justification by Faith | 2 |
+| BIB215S | BIB215S |  |
 | BIB217 | Prison Epistles | 2 |
 | BIB313 | Corinthian Correspondence | 3 |
+| BIB313S | BIB313S |  |
 | BIB318 | Pentateuch | 3 |
+| BIB318S | BIB318S |  |
 | BIB322 | The Poetic Books | 3 |
+| BIB322S | BIB322S |  |
+| MIN123S | MIN123S |  |
 | MIN171 | Spirit-Empowered Church | 1 |
+| MIN171S | MIN171S |  |
+| MIN181S | MIN181S |  |
 | MIN183 | Relationships & Ethics in Ministry | 1 |
+| MIN183S | MIN183S |  |
 | MIN223 | Introduction to Homiletics | 2 |
+| MIN223S | MIN223S |  |
 | MIN227 | The Local Church in Evangelism | 2 |
 | MIN251 | Effective Leadership | 2 |
+| MIN251S | MIN251S |  |
 | MIN261 | Introduction to AG Missions | 2 |
+| MIN261S | MIN261S |  |
 | MIN281 | Conflict Management | 2 |
+| MIN281S | MIN281S |  |
 | MIN325 | Preaching in the Contemporary World | 3 |
+| MIN325S | MIN325S |  |
 | MIN327 | Church Administration Finance & Law | 3 |
+| MIN327S | MIN327S |  |
 | MIN381 | Pastoral Ministry | 3 |
+| MIN381S | MIN381S |  |
 | THE118 | Introduction to Theology | 1 |
 | THE154 | History, Missions, and Governance | 1 |
+| THE154S | THE154S |  |
 | THE245 | Eschatology | 2 |
+| THE245S | THE245S |  |
 | THE311 | Prayer and Worship | 3 |
+| THE311S | THE311S |  |
 
 Example prompt:
 

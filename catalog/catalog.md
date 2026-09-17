@@ -12,9 +12,9 @@ Active content only — retired material is excluded from every figure.
 
 | Measure | Count |
 | --- | --- |
-| Active courses | 24 |
+| Active courses | 49 |
 | Retired courses | 9 |
-| Assessment items | 7,135 |
+| Assessment items | 11,471 |
 | Curriculum paragraphs | 111,452 |
 | Interactive study questions | 10,713 |
 | Scripture references | 41,482 |
@@ -77,34 +77,59 @@ Published sequence toward Ordained Minister credentialing.
 
 *Internship courses are valid for twelve months. Students enroll early and work on assignments alongside their other courses.*
 
-## Active courses (24)
+## Active courses (49)
 
 | Code | Title | Level | Edition | Chapters | Lessons | Items |
 | --- | --- | --- | --- | --- | --- | --- |
 | [BIB111](courses/BIB111.md) | Old Testament Survey | 1 | 01.26.01 | 15 | 47 | 309 |
+| [BIB111S](courses/BIB111S.md) | BIB111S |  | 01.26.01 | 15 | 47 | 165 |
 | [BIB114](courses/BIB114.md) | Christ in the Synoptic Gospels | 1 | 01.22.01 | 13 | 43 | 255 |
+| [BIB114S](courses/BIB114S.md) | BIB114S |  | 01.22.01 | 12 | 38 | 120 |
+| [BIB115S](courses/BIB115S.md) | BIB115S |  | 02.22.01 | 12 | 35 | 120 |
 | [BIB116](courses/BIB116.md) | New Testament Survey | 1 | 01.26.01 | 13 | 39 | 290 |
+| [BIB117S](courses/BIB117S.md) | BIB117S |  | 02.22.01 | 13 | 39 | 195 |
 | [BIB121](courses/BIB121.md) | Introduction to Hermeneutics | 1 | 03.23.01 | 15 | 42 | 281 |
+| [BIB121S](courses/BIB121S.md) | BIB121S |  | 02.22.01 | 15 | 40 | 250 |
 | [BIB211](courses/BIB211.md) | ⚠️ _Acts: The Holy Spirit at Work in Believers (unconfirmed)_ | 2 | 03.22.01 | 13 | 38 | 285 |
+| [BIB212S](courses/BIB212S.md) | BIB212S |  | 02.22.01 | 13 | 39 | 130 |
+| [BIB214S](courses/BIB214S.md) | BIB214S |  | 02.22.01 | 15 | 47 | 275 |
 | [BIB215](courses/BIB215.md) | ⚠️ _Romans: Justification by Faith (unconfirmed)_ | 2 | 03.22.01 | 8 | 26 | 244 |
+| [BIB215S](courses/BIB215S.md) | BIB215S |  | 02.22.01 | 8 | 22 | 120 |
 | [BIB217](courses/BIB217.md) | Prison Epistles | 2 | 01.26.01 | 13 | 40 | 301 |
 | [BIB313](courses/BIB313.md) | Corinthian Correspondence | 3 | 03.26.01 | 11 | 29 | 286 |
+| [BIB313S](courses/BIB313S.md) | BIB313S |  | 02.14.01 | 11 | 29 | 210 |
 | [BIB318](courses/BIB318.md) | Pentateuch | 3 | 02.22.01 | 13 | 36 | 334 |
+| [BIB318S](courses/BIB318S.md) | BIB318S |  | 02.14.01 | 12 | 33 | 220 |
 | [BIB322](courses/BIB322.md) | The Poetic Books | 3 | 02.22.01 | 8 | 27 | 247 |
+| [BIB322S](courses/BIB322S.md) | BIB322S |  | 02.14.02 | 8 | 27 | 80 |
+| [MIN123S](courses/MIN123S.md) | MIN123S |  | 2.15.01 | 13 | 38 | 205 |
 | [MIN171](courses/MIN171.md) | Spirit-Empowered Church | 1 | 02.26.02 | 17 | 43 | 327 |
+| [MIN171S](courses/MIN171S.md) | MIN171S |  | 02.26.01 | 17 | 43 | 170 |
+| [MIN181S](courses/MIN181S.md) | MIN181S |  | 02.22.01 | 15 | 44 | 150 |
 | [MIN183](courses/MIN183.md) | Relationships & Ethics in Ministry | 1 | 01.26.03 | 12 | 58 | 301 |
+| [MIN183S](courses/MIN183S.md) | MIN183S |  | 01.26.01 | 12 | 57 | 121 |
 | [MIN223](courses/MIN223.md) | Introduction to Homiletics | 2 | 03.22.01 | 14 | 45 | 337 |
+| [MIN223S](courses/MIN223S.md) | MIN223S |  | 02.22.01 | 14 | 44 | 215 |
 | [MIN227](courses/MIN227.md) | The Local Church in Evangelism | 2 | 03.22.01 | 15 | 43 | 473 |
 | [MIN251](courses/MIN251.md) | Effective Leadership | 2 | 03.26.01 | 12 | 42 | 263 |
+| [MIN251S](courses/MIN251S.md) | MIN251S |  | 02.22.01 | 12 | 35 | 195 |
 | [MIN261](courses/MIN261.md) | Introduction to AG Missions | 2 | 02.22.01 | 11 | 29 | 311 |
+| [MIN261S](courses/MIN261S.md) | MIN261S |  | 02.24.01 | 10 | 28 | 175 |
 | [MIN281](courses/MIN281.md) | Conflict Management | 2 | 02.22.01 | 7 | 25 | 228 |
+| [MIN281S](courses/MIN281S.md) | MIN281S |  | 02.22.01 | 7 | 25 | 145 |
 | [MIN325](courses/MIN325.md) | Preaching in the Contemporary World | 3 | 03.26.01 | 12 | 27 | 296 |
+| [MIN325S](courses/MIN325S.md) | MIN325S |  | 02.14.01 | 12 | 27 | 120 |
 | [MIN327](courses/MIN327.md) | Church Administration Finance & Law | 3 | 02.22.01 | 14 | 54 | 335 |
+| [MIN327S](courses/MIN327S.md) | MIN327S |  | 02.14.01 | 14 | 54 | 190 |
 | [MIN381](courses/MIN381.md) | Pastoral Ministry | 3 | 04.26.01 | 15 | 46 | 310 |
+| [MIN381S](courses/MIN381S.md) | MIN381S |  | 03.26.01 | 15 | 46 | 220 |
 | [THE118](courses/THE118.md) | Introduction to Theology | 1 | 04.22.01 | 13 | 36 | 199 |
 | [THE154](courses/THE154.md) | History, Missions, and Governance | 1 | 01.26.06 | 14 | 57 | 375 |
+| [THE154S](courses/THE154S.md) | THE154S |  | 01.26.02 | 13 | 46 | 130 |
 | [THE245](courses/THE245.md) | Eschatology | 2 | 04.22.01 | 13 | 37 | 299 |
+| [THE245S](courses/THE245S.md) | THE245S |  | 02.22.01 | 13 | 37 | 220 |
 | [THE311](courses/THE311.md) | Prayer and Worship | 3 | 03.22.01 | 12 | 37 | 249 |
+| [THE311S](courses/THE311S.md) | THE311S |  | 02.20.01 | 12 | 37 | 195 |
 
 ## Retired and renamed courses (9)
 

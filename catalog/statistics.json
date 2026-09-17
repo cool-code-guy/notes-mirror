@@ -17,32 +17,57 @@
     "scripture_mentions": 47026
   },
   "courses": {
-    "active": 24,
+    "active": 49,
     "active_codes": [
       "BIB111",
+      "BIB111S",
       "BIB114",
+      "BIB114S",
+      "BIB115S",
       "BIB116",
+      "BIB117S",
       "BIB121",
+      "BIB121S",
       "BIB211",
+      "BIB212S",
+      "BIB214S",
       "BIB215",
+      "BIB215S",
       "BIB217",
       "BIB313",
+      "BIB313S",
       "BIB318",
+      "BIB318S",
       "BIB322",
+      "BIB322S",
+      "MIN123S",
       "MIN171",
+      "MIN171S",
+      "MIN181S",
       "MIN183",
+      "MIN183S",
       "MIN223",
+      "MIN223S",
       "MIN227",
       "MIN251",
+      "MIN251S",
       "MIN261",
+      "MIN261S",
       "MIN281",
+      "MIN281S",
       "MIN325",
+      "MIN325S",
       "MIN327",
+      "MIN327S",
       "MIN381",
+      "MIN381S",
       "THE118",
       "THE154",
+      "THE154S",
       "THE245",
-      "THE311"
+      "THE245S",
+      "THE311",
+      "THE311S"
     ],
     "retired": 9,
     "retired_codes": [
@@ -56,9 +81,9 @@
       "THE152",
       "THE211"
     ],
-    "total": 33
+    "total": 58
   },
-  "generated": "2026-09-15",
+  "generated": "2026-09-17",
   "per_course": {
     "BIB111": {
       "questions": {
@@ -78,6 +103,24 @@
       "status": "active",
       "title": "Old Testament Survey"
     },
+    "BIB111S": {
+      "questions": {
+        "active": {
+          "final": 0,
+          "total": 165,
+          "ty": 165,
+          "upe": 0
+        },
+        "retired": {
+          "final": 0,
+          "total": 0,
+          "ty": 0,
+          "upe": 0
+        }
+      },
+      "status": "active",
+      "title": "BIB111S"
+    },
     "BIB114": {
       "questions": {
         "active": {
@@ -95,6 +138,24 @@
       },
       "status": "active",
       "title": "Christ in the Synoptic Gospels"
+    },
+    "BIB114S": {
+      "questions": {
+        "active": {
+          "final": 0,
+          "total": 120,
+          "ty": 120,
+          "upe": 0
+        },
+        "retired": {
+          "final": 0,
+          "total": 0,
+          "ty": 0,
+          "upe": 0
+        }
+      },
+      "status": "active",
+      "title": "BIB114S"
     },
     "BIB115": {
       "questions": {
@@ -114,6 +175,24 @@
       "replaced_by": "BIB211",
       "status": "renamed",
       "title": ""
+    },
+    "BIB115S": {
+      "questions": {
+        "active": {
+          "final": 0,
+          "total": 120,
+          "ty": 120,
+          "upe": 0
+        },
+        "retired": {
+          "final": 0,
+          "total": 0,
+          "ty": 0,
+          "upe": 0
+        }
+      },
+      "status": "active",
+      "title": "BIB115S"
     },
     "BIB116": {
       "questions": {
@@ -152,6 +231,24 @@
       "status": "renamed",
       "title": "Prison Epistles"
     },
+    "BIB117S": {
+      "questions": {
+        "active": {
+          "final": 0,
+          "total": 195,
+          "ty": 120,
+          "upe": 75
+        },
+        "retired": {
+          "final": 0,
+          "total": 0,
+          "ty": 0,
+          "upe": 0
+        }
+      },
+      "status": "active",
+      "title": "BIB117S"
+    },
     "BIB121": {
       "questions": {
         "active": {
@@ -169,6 +266,24 @@
       },
       "status": "active",
       "title": "Introduction to Hermeneutics"
+    },
+    "BIB121S": {
+      "questions": {
+        "active": {
+          "final": 0,
+          "total": 250,
+          "ty": 150,
+          "upe": 100
+        },
+        "retired": {
+          "final": 0,
+          "total": 0,
+          "ty": 0,
+          "upe": 0
+        }
+      },
+      "status": "active",
+      "title": "BIB121S"
     },
     "BIB211": {
       "questions": {
@@ -207,6 +322,24 @@
       "status": "renamed",
       "title": "New Testament Survey"
     },
+    "BIB212S": {
+      "questions": {
+        "active": {
+          "final": 0,
+          "total": 130,
+          "ty": 130,
+          "upe": 0
+        },
+        "retired": {
+          "final": 0,
+          "total": 0,
+          "ty": 0,
+          "upe": 0
+        }
+      },
+      "status": "active",
+      "title": "BIB212S"
+    },
     "BIB214": {
       "questions": {
         "active": {
@@ -226,6 +359,24 @@
       "status": "renamed",
       "title": "Old Testament Survey"
     },
+    "BIB214S": {
+      "questions": {
+        "active": {
+          "final": 0,
+          "total": 275,
+          "ty": 150,
+          "upe": 125
+        },
+        "retired": {
+          "final": 0,
+          "total": 0,
+          "ty": 0,
+          "upe": 0
+        }
+      },
+      "status": "active",
+      "title": "BIB214S"
+    },
     "BIB215": {
       "questions": {
         "active": {
@@ -243,6 +394,24 @@
       },
       "status": "active",
       "title": ""
+    },
+    "BIB215S": {
+      "questions": {
+        "active": {
+          "final": 0,
+          "total": 120,
+          "ty": 70,
+          "upe": 50
+        },
+        "retired": {
+          "final": 0,
+          "total": 0,
+          "ty": 0,
+          "upe": 0
+        }
+      },
+      "status": "active",
+      "title": "BIB215S"
     },
     "BIB217": {
       "questions": {
@@ -280,6 +449,24 @@
       "status": "active",
       "title": "Corinthian Correspondence"
     },
+    "BIB313S": {
+      "questions": {
+        "active": {
+          "final": 0,
+          "total": 210,
+          "ty": 110,
+          "upe": 100
+        },
+        "retired": {
+          "final": 0,
+          "total": 0,
+          "ty": 0,
+          "upe": 0
+        }
+      },
+      "status": "active",
+      "title": "BIB313S"
+    },
     "BIB318": {
       "questions": {
         "active": {
@@ -298,6 +485,24 @@
       "status": "active",
       "title": "Pentateuch"
     },
+    "BIB318S": {
+      "questions": {
+        "active": {
+          "final": 0,
+          "total": 220,
+          "ty": 120,
+          "upe": 100
+        },
+        "retired": {
+          "final": 0,
+          "total": 0,
+          "ty": 0,
+          "upe": 0
+        }
+      },
+      "status": "active",
+      "title": "BIB318S"
+    },
     "BIB322": {
       "questions": {
         "active": {
@@ -315,6 +520,24 @@
       },
       "status": "active",
       "title": "The Poetic Books"
+    },
+    "BIB322S": {
+      "questions": {
+        "active": {
+          "final": 0,
+          "total": 80,
+          "ty": 80,
+          "upe": 0
+        },
+        "retired": {
+          "final": 0,
+          "total": 0,
+          "ty": 0,
+          "upe": 0
+        }
+      },
+      "status": "active",
+      "title": "BIB322S"
     },
     "MIN123": {
       "questions": {
@@ -335,6 +558,24 @@
       "status": "renamed",
       "title": "The Local Church in Evangelism"
     },
+    "MIN123S": {
+      "questions": {
+        "active": {
+          "final": 0,
+          "total": 205,
+          "ty": 130,
+          "upe": 75
+        },
+        "retired": {
+          "final": 0,
+          "total": 0,
+          "ty": 0,
+          "upe": 0
+        }
+      },
+      "status": "active",
+      "title": "MIN123S"
+    },
     "MIN171": {
       "questions": {
         "active": {
@@ -352,6 +593,24 @@
       },
       "status": "active",
       "title": "Spirit-Empowered Church"
+    },
+    "MIN171S": {
+      "questions": {
+        "active": {
+          "final": 0,
+          "total": 170,
+          "ty": 170,
+          "upe": 0
+        },
+        "retired": {
+          "final": 0,
+          "total": 0,
+          "ty": 0,
+          "upe": 0
+        }
+      },
+      "status": "active",
+      "title": "MIN171S"
     },
     "MIN181": {
       "questions": {
@@ -372,6 +631,24 @@
       "status": "retired",
       "title": "Relationships and Ethics in Ministry"
     },
+    "MIN181S": {
+      "questions": {
+        "active": {
+          "final": 0,
+          "total": 150,
+          "ty": 150,
+          "upe": 0
+        },
+        "retired": {
+          "final": 0,
+          "total": 0,
+          "ty": 0,
+          "upe": 0
+        }
+      },
+      "status": "active",
+      "title": "MIN181S"
+    },
     "MIN183": {
       "questions": {
         "active": {
@@ -390,6 +667,24 @@
       "status": "active",
       "title": "Relationships & Ethics in Ministry"
     },
+    "MIN183S": {
+      "questions": {
+        "active": {
+          "final": 0,
+          "total": 121,
+          "ty": 121,
+          "upe": 0
+        },
+        "retired": {
+          "final": 0,
+          "total": 0,
+          "ty": 0,
+          "upe": 0
+        }
+      },
+      "status": "active",
+      "title": "MIN183S"
+    },
     "MIN223": {
       "questions": {
         "active": {
@@ -407,6 +702,24 @@
       },
       "status": "active",
       "title": "Introduction to Homiletics"
+    },
+    "MIN223S": {
+      "questions": {
+        "active": {
+          "final": 0,
+          "total": 215,
+          "ty": 140,
+          "upe": 75
+        },
+        "retired": {
+          "final": 0,
+          "total": 0,
+          "ty": 0,
+          "upe": 0
+        }
+      },
+      "status": "active",
+      "title": "MIN223S"
     },
     "MIN227": {
       "questions": {
@@ -444,6 +757,24 @@
       "status": "active",
       "title": "Effective Leadership"
     },
+    "MIN251S": {
+      "questions": {
+        "active": {
+          "final": 0,
+          "total": 195,
+          "ty": 120,
+          "upe": 75
+        },
+        "retired": {
+          "final": 0,
+          "total": 0,
+          "ty": 0,
+          "upe": 0
+        }
+      },
+      "status": "active",
+      "title": "MIN251S"
+    },
     "MIN261": {
       "questions": {
         "active": {
@@ -461,6 +792,24 @@
       },
       "status": "active",
       "title": "Introduction to AG Missions"
+    },
+    "MIN261S": {
+      "questions": {
+        "active": {
+          "final": 0,
+          "total": 175,
+          "ty": 100,
+          "upe": 75
+        },
+        "retired": {
+          "final": 0,
+          "total": 0,
+          "ty": 0,
+          "upe": 0
+        }
+      },
+      "status": "active",
+      "title": "MIN261S"
     },
     "MIN281": {
       "questions": {
@@ -480,6 +829,24 @@
       "status": "active",
       "title": "Conflict Management"
     },
+    "MIN281S": {
+      "questions": {
+        "active": {
+          "final": 0,
+          "total": 145,
+          "ty": 70,
+          "upe": 75
+        },
+        "retired": {
+          "final": 0,
+          "total": 0,
+          "ty": 0,
+          "upe": 0
+        }
+      },
+      "status": "active",
+      "title": "MIN281S"
+    },
     "MIN325": {
       "questions": {
         "active": {
@@ -497,6 +864,24 @@
       },
       "status": "active",
       "title": "Preaching in the Contemporary World"
+    },
+    "MIN325S": {
+      "questions": {
+        "active": {
+          "final": 0,
+          "total": 120,
+          "ty": 120,
+          "upe": 0
+        },
+        "retired": {
+          "final": 0,
+          "total": 0,
+          "ty": 0,
+          "upe": 0
+        }
+      },
+      "status": "active",
+      "title": "MIN325S"
     },
     "MIN327": {
       "questions": {
@@ -516,6 +901,24 @@
       "status": "active",
       "title": "Church Administration Finance & Law"
     },
+    "MIN327S": {
+      "questions": {
+        "active": {
+          "final": 0,
+          "total": 190,
+          "ty": 140,
+          "upe": 50
+        },
+        "retired": {
+          "final": 0,
+          "total": 0,
+          "ty": 0,
+          "upe": 0
+        }
+      },
+      "status": "active",
+      "title": "MIN327S"
+    },
     "MIN381": {
       "questions": {
         "active": {
@@ -533,6 +936,24 @@
       },
       "status": "active",
       "title": "Pastoral Ministry"
+    },
+    "MIN381S": {
+      "questions": {
+        "active": {
+          "final": 0,
+          "total": 220,
+          "ty": 120,
+          "upe": 100
+        },
+        "retired": {
+          "final": 0,
+          "total": 0,
+          "ty": 0,
+          "upe": 0
+        }
+      },
+      "status": "active",
+      "title": "MIN381S"
     },
     "THE114": {
       "questions": {
@@ -607,6 +1028,24 @@
       "status": "active",
       "title": "History, Missions, and Governance"
     },
+    "THE154S": {
+      "questions": {
+        "active": {
+          "final": 0,
+          "total": 130,
+          "ty": 130,
+          "upe": 0
+        },
+        "retired": {
+          "final": 0,
+          "total": 0,
+          "ty": 0,
+          "upe": 0
+        }
+      },
+      "status": "active",
+      "title": "THE154S"
+    },
     "THE211": {
       "questions": {
         "active": {
@@ -644,6 +1083,24 @@
       "status": "active",
       "title": "Eschatology"
     },
+    "THE245S": {
+      "questions": {
+        "active": {
+          "final": 0,
+          "total": 220,
+          "ty": 120,
+          "upe": 100
+        },
+        "retired": {
+          "final": 0,
+          "total": 0,
+          "ty": 0,
+          "upe": 0
+        }
+      },
+      "status": "active",
+      "title": "THE245S"
+    },
     "THE311": {
       "questions": {
         "active": {
@@ -661,14 +1118,32 @@
       },
       "status": "active",
       "title": "Prayer and Worship"
+    },
+    "THE311S": {
+      "questions": {
+        "active": {
+          "final": 0,
+          "total": 195,
+          "ty": 120,
+          "upe": 75
+        },
+        "retired": {
+          "final": 0,
+          "total": 0,
+          "ty": 0,
+          "upe": 0
+        }
+      },
+      "status": "active",
+      "title": "THE311S"
     }
   },
   "questions": {
     "active": {
       "final": 1766,
-      "total": 7135,
-      "ty": 3190,
-      "upe": 2179
+      "total": 11471,
+      "ty": 6276,
+      "upe": 3429
     },
     "retired": {
       "final": 602,
@@ -676,6 +1151,6 @@
       "ty": 1945,
       "upe": 1459
     },
-    "total": 11141
+    "total": 15477
   }
 }
