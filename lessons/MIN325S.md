@@ -2,7 +2,7 @@
 title: "MIN325S — full lesson text"
 ---
 
-# MIN325S — MIN325S
+# MIN325S — La predicación en el mundo contemporáneo
 
 ## Chapter
 

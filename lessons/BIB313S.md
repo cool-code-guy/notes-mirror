@@ -2,7 +2,7 @@
 title: "BIB313S — full lesson text"
 ---
 
-# BIB313S — BIB313S
+# BIB313S — Las epístolas a los corintios
 
 ## Chapter
 

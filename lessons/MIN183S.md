@@ -2,7 +2,7 @@
 title: "MIN183S — full lesson text"
 ---
 
-# MIN183S — MIN183S
+# MIN183S — Relaciones y ética en el ministerio
 
 ## Chapter
 

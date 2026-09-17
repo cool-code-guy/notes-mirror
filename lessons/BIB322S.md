@@ -2,7 +2,7 @@
 title: "BIB322S — full lesson text"
 ---
 
-# BIB322S — BIB322S
+# BIB322S — Los Libros Poéticos
 
 ## Chapter
 

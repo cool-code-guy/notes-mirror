@@ -2,7 +2,7 @@
 title: "BIB212S — full lesson text"
 ---
 
-# BIB212S — BIB212S
+# BIB212S — Estudio del Nuevo Testamento
 
 ## Chapter
 

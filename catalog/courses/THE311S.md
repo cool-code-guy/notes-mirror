@@ -2,7 +2,7 @@
 title: "THE311S fact sheet"
 ---
 
-# THE311S -- THE311S
+# THE311S -- La oración y la adoración
 
 **Level:** n/a  
 **Edition (PN):** 02.20.01  

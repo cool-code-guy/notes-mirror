@@ -2,7 +2,7 @@
 title: "BIB214S fact sheet"
 ---
 
-# BIB214S -- BIB214S
+# BIB214S -- Estudio del Antiguo Testamento
 
 **Level:** n/a  
 **Edition (PN):** 02.22.01  

@@ -107,7 +107,7 @@ Level 1 · 15 chapters · 47 lessons · 84 subobjectives
 
 ---
 
-## BIB111S — BIB111S
+## BIB111S — Estudio del Antiguo Testamento
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/BIB111S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/BIB111S.html)
 
@@ -347,7 +347,7 @@ Level n/a · 12 chapters · 38 lessons · 74 subobjectives
 
 ---
 
-## BIB115S — BIB115S
+## BIB115S — Hechos: La obra del Espíritu Santo en los creyentes
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/BIB115S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/BIB115S.html)
 
@@ -496,7 +496,7 @@ Level 1 · 13 chapters · 39 lessons · 77 subobjectives
 
 ---
 
-## BIB117S — BIB117S
+## BIB117S — Epístolas de la prisión: Efesios, Filipenses, Colosenses y Filemón
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/BIB117S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/BIB117S.html)
 
@@ -660,7 +660,7 @@ Level 1 · 15 chapters · 42 lessons · 92 subobjectives
 
 ---
 
-## BIB121S — BIB121S
+## BIB121S — Introducción a la hermenéutica: Cómo interpretar la Biblia
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/BIB121S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/BIB121S.html)
 
@@ -823,7 +823,7 @@ Level 2 · 13 chapters · 38 lessons · 46 subobjectives
 
 ---
 
-## BIB212S — BIB212S
+## BIB212S — Estudio del Nuevo Testamento
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/BIB212S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/BIB212S.html)
 
@@ -896,7 +896,7 @@ Level n/a · 13 chapters · 39 lessons · 76 subobjectives
 
 ---
 
-## BIB214S — BIB214S
+## BIB214S — Estudio del Antiguo Testamento
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/BIB214S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/BIB214S.html)
 
@@ -1038,7 +1038,7 @@ Level 2 · 8 chapters · 26 lessons · 44 subobjectives
 
 ---
 
-## BIB215S — BIB215S
+## BIB215S — Romanos: La justificación por la fe
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/BIB215S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/BIB215S.html)
 
@@ -1226,7 +1226,7 @@ Level 3 · 11 chapters · 29 lessons · 63 subobjectives
 
 ---
 
-## BIB313S — BIB313S
+## BIB313S — Las epístolas a los corintios
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/BIB313S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/BIB313S.html)
 
@@ -1362,7 +1362,7 @@ Level 3 · 13 chapters · 36 lessons · 123 subobjectives
 
 ---
 
-## BIB318S — BIB318S
+## BIB318S — El Pentateuco
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/BIB318S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/BIB318S.html)
 
@@ -1489,7 +1489,7 @@ Level 3 · 8 chapters · 27 lessons · 86 subobjectives
 
 ---
 
-## BIB322S — BIB322S
+## BIB322S — Los Libros Poéticos
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/BIB322S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/BIB322S.html)
 
@@ -1540,7 +1540,7 @@ Level n/a · 8 chapters · 27 lessons · 74 subobjectives
 
 ---
 
-## MIN123S — MIN123S
+## MIN123S — El evangelismo en la iglesia local
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/MIN123S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/MIN123S.html)
 
@@ -1708,7 +1708,7 @@ Level 1 · 17 chapters · 43 lessons · 50 subobjectives
 
 ---
 
-## MIN171S — MIN171S
+## MIN171S — Una Iglesia en el Poder del Espíritu
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/MIN171S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/MIN171S.html)
 
@@ -1793,7 +1793,7 @@ Level n/a · 17 chapters · 43 lessons · 49 subobjectives
 
 ---
 
-## MIN181S — MIN181S
+## MIN181S — Relaciones interpersonales y la ética en el ministerio
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/MIN181S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/MIN181S.html)
 
@@ -1977,7 +1977,7 @@ Level 1 · 12 chapters · 58 lessons · 72 subobjectives
 
 ---
 
-## MIN183S — MIN183S
+## MIN183S — Relaciones y ética en el ministerio
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/MIN183S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/MIN183S.html)
 
@@ -2158,7 +2158,7 @@ Level 2 · 14 chapters · 45 lessons · 75 subobjectives
 
 ---
 
-## MIN223S — MIN223S
+## MIN223S — Introducción a la homilética
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/MIN223S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/MIN223S.html)
 
@@ -2413,7 +2413,7 @@ Level 2 · 12 chapters · 42 lessons · 47 subobjectives
 
 ---
 
-## MIN251S — MIN251S
+## MIN251S — Liderazgo eficaz
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/MIN251S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/MIN251S.html)
 
@@ -2548,7 +2548,7 @@ Level 2 · 11 chapters · 29 lessons · 74 subobjectives
 
 ---
 
-## MIN261S — MIN261S
+## MIN261S — Introducción a las misiones de las Asambleas de Dios
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/MIN261S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/MIN261S.html)
 
@@ -2662,7 +2662,7 @@ Level 2 · 7 chapters · 25 lessons · 50 subobjectives
 
 ---
 
-## MIN281S — MIN281S
+## MIN281S — El manejo de conflictos para líderes de la iglesia
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/MIN281S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/MIN281S.html)
 
@@ -2779,7 +2779,7 @@ Level 3 · 12 chapters · 27 lessons · 61 subobjectives
 
 ---
 
-## MIN325S — MIN325S
+## MIN325S — La predicación en el mundo contemporáneo
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/MIN325S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/MIN325S.html)
 
@@ -3564,7 +3564,7 @@ Level 2 · 13 chapters · 37 lessons · 102 subobjectives
 
 ---
 
-## THE245S — THE245S
+## THE245S — Escatología: Un estudio de las cosas por venir
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/THE245S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/THE245S.html)
 
@@ -3714,7 +3714,7 @@ Level 3 · 12 chapters · 37 lessons · 104 subobjectives
 
 ---
 
-## THE311S — THE311S
+## THE311S — La oración y la adoración
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/THE311S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/THE311S.html)
 

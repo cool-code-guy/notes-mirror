@@ -2,7 +2,7 @@
 title: "THE311S — full lesson text"
 ---
 
-# THE311S — THE311S
+# THE311S — La oración y la adoración
 
 ## Chapter
 

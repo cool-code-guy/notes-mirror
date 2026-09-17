@@ -2,7 +2,7 @@
 title: "MIN171S fact sheet"
 ---
 
-# MIN171S -- MIN171S
+# MIN171S -- Una Iglesia en el Poder del Espíritu
 
 **Level:** n/a  
 **Edition (PN):** 02.26.01  

@@ -2,7 +2,7 @@
 title: "BIB318S — full lesson text"
 ---
 
-# BIB318S — BIB318S
+# BIB318S — El Pentateuco
 
 ## Chapter
 

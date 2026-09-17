@@ -2,7 +2,7 @@
 title: "BIB121S — full lesson text"
 ---
 
-# BIB121S — BIB121S
+# BIB121S — Introducción a la hermenéutica: Cómo interpretar la Biblia
 
 ## Chapter
 

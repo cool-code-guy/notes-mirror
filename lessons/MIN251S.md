@@ -2,7 +2,7 @@
 title: "MIN251S — full lesson text"
 ---
 
-# MIN251S — MIN251S
+# MIN251S — Liderazgo eficaz
 
 ## Chapter
 

@@ -2,7 +2,7 @@
 title: "BIB212S fact sheet"
 ---
 
-# BIB212S -- BIB212S
+# BIB212S -- Estudio del Nuevo Testamento
 
 **Level:** n/a  
 **Edition (PN):** 02.22.01  

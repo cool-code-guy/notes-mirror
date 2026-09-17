@@ -2,7 +2,7 @@
 title: "BIB313S fact sheet"
 ---
 
-# BIB313S -- BIB313S
+# BIB313S -- Las epístolas a los corintios
 
 **Level:** n/a  
 **Edition (PN):** 02.14.01  

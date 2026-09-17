@@ -2,7 +2,7 @@
 title: "BIB318S fact sheet"
 ---
 
-# BIB318S -- BIB318S
+# BIB318S -- El Pentateuco
 
 **Level:** n/a  
 **Edition (PN):** 02.14.01  

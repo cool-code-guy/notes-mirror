@@ -2,7 +2,7 @@
 title: "MIN181S — full lesson text"
 ---
 
-# MIN181S — MIN181S
+# MIN181S — Relaciones interpersonales y la ética en el ministerio
 
 ## Chapter
 

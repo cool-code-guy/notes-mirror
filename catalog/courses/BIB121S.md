@@ -2,7 +2,7 @@
 title: "BIB121S fact sheet"
 ---
 
-# BIB121S -- BIB121S
+# BIB121S -- Introducción a la hermenéutica: Cómo interpretar la Biblia
 
 **Level:** n/a  
 **Edition (PN):** 02.22.01  

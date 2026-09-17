@@ -2,7 +2,7 @@
 title: "BIB111S fact sheet"
 ---
 
-# BIB111S -- BIB111S
+# BIB111S -- Estudio del Antiguo Testamento
 
 **Level:** n/a  
 **Edition (PN):** 01.26.01  

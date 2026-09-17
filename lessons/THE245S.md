@@ -2,7 +2,7 @@
 title: "THE245S — full lesson text"
 ---
 
-# THE245S — THE245S
+# THE245S — Escatología: Un estudio de las cosas por venir
 
 ## Chapter
 

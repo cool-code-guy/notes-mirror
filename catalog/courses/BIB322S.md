@@ -2,7 +2,7 @@
 title: "BIB322S fact sheet"
 ---
 
-# BIB322S -- BIB322S
+# BIB322S -- Los Libros Poéticos
 
 **Level:** n/a  
 **Edition (PN):** 02.14.02  

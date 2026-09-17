@@ -2,7 +2,7 @@
 title: "MIN261S fact sheet"
 ---
 
-# MIN261S -- MIN261S
+# MIN261S -- Introducción a las misiones de las Asambleas de Dios
 
 **Level:** n/a  
 **Edition (PN):** 02.24.01  

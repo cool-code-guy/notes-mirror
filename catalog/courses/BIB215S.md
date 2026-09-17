@@ -2,7 +2,7 @@
 title: "BIB215S fact sheet"
 ---
 
-# BIB215S -- BIB215S
+# BIB215S -- Romanos: La justificación por la fe
 
 **Level:** n/a  
 **Edition (PN):** 02.22.01  

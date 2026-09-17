@@ -2,7 +2,7 @@
 title: "MIN281S — full lesson text"
 ---
 
-# MIN281S — MIN281S
+# MIN281S — El manejo de conflictos para líderes de la iglesia
 
 ## Chapter
 

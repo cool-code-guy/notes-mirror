@@ -2,7 +2,7 @@
 title: "MIN123S — full lesson text"
 ---
 
-# MIN123S — MIN123S
+# MIN123S — El evangelismo en la iglesia local
 
 ## Chapter
 

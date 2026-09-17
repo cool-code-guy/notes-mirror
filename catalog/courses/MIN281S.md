@@ -2,7 +2,7 @@
 title: "MIN281S fact sheet"
 ---
 
-# MIN281S -- MIN281S
+# MIN281S -- El manejo de conflictos para líderes de la iglesia
 
 **Level:** n/a  
 **Edition (PN):** 02.22.01  

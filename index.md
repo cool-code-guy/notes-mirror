@@ -28,43 +28,43 @@ This single file has every active course's objectives and structure, AND — rig
 | Code | Title | Level |
 | --- | --- | --- |
 | BIB111 | Old Testament Survey | 1 |
-| BIB111S | BIB111S |  |
+| BIB111S | Estudio del Antiguo Testamento |  |
 | BIB114 | Christ in the Synoptic Gospels | 1 |
 | BIB114S | BIB114S |  |
-| BIB115S | BIB115S |  |
+| BIB115S | Hechos: La obra del Espíritu Santo en los creyentes |  |
 | BIB116 | New Testament Survey | 1 |
-| BIB117S | BIB117S |  |
+| BIB117S | Epístolas de la prisión: Efesios, Filipenses, Colosenses y Filemón |  |
 | BIB121 | Introduction to Hermeneutics | 1 |
-| BIB121S | BIB121S |  |
+| BIB121S | Introducción a la hermenéutica: Cómo interpretar la Biblia |  |
 | BIB211 | Acts: The Holy Spirit at Work in Believers | 2 |
-| BIB212S | BIB212S |  |
-| BIB214S | BIB214S |  |
+| BIB212S | Estudio del Nuevo Testamento |  |
+| BIB214S | Estudio del Antiguo Testamento |  |
 | BIB215 | Romans: Justification by Faith | 2 |
-| BIB215S | BIB215S |  |
+| BIB215S | Romanos: La justificación por la fe |  |
 | BIB217 | Prison Epistles | 2 |
 | BIB313 | Corinthian Correspondence | 3 |
-| BIB313S | BIB313S |  |
+| BIB313S | Las epístolas a los corintios |  |
 | BIB318 | Pentateuch | 3 |
-| BIB318S | BIB318S |  |
+| BIB318S | El Pentateuco |  |
 | BIB322 | The Poetic Books | 3 |
-| BIB322S | BIB322S |  |
-| MIN123S | MIN123S |  |
+| BIB322S | Los Libros Poéticos |  |
+| MIN123S | El evangelismo en la iglesia local |  |
 | MIN171 | Spirit-Empowered Church | 1 |
-| MIN171S | MIN171S |  |
-| MIN181S | MIN181S |  |
+| MIN171S | Una Iglesia en el Poder del Espíritu |  |
+| MIN181S | Relaciones interpersonales y la ética en el ministerio |  |
 | MIN183 | Relationships & Ethics in Ministry | 1 |
-| MIN183S | MIN183S |  |
+| MIN183S | Relaciones y ética en el ministerio |  |
 | MIN223 | Introduction to Homiletics | 2 |
-| MIN223S | MIN223S |  |
+| MIN223S | Introducción a la homilética |  |
 | MIN227 | The Local Church in Evangelism | 2 |
 | MIN251 | Effective Leadership | 2 |
-| MIN251S | MIN251S |  |
+| MIN251S | Liderazgo eficaz |  |
 | MIN261 | Introduction to AG Missions | 2 |
-| MIN261S | MIN261S |  |
+| MIN261S | Introducción a las misiones de las Asambleas de Dios |  |
 | MIN281 | Conflict Management | 2 |
-| MIN281S | MIN281S |  |
+| MIN281S | El manejo de conflictos para líderes de la iglesia |  |
 | MIN325 | Preaching in the Contemporary World | 3 |
-| MIN325S | MIN325S |  |
+| MIN325S | La predicación en el mundo contemporáneo |  |
 | MIN327 | Church Administration Finance & Law | 3 |
 | MIN327S | MIN327S |  |
 | MIN381 | Pastoral Ministry | 3 |
@@ -73,9 +73,9 @@ This single file has every active course's objectives and structure, AND — rig
 | THE154 | History, Missions, and Governance | 1 |
 | THE154S | THE154S |  |
 | THE245 | Eschatology | 2 |
-| THE245S | THE245S |  |
+| THE245S | Escatología: Un estudio de las cosas por venir |  |
 | THE311 | Prayer and Worship | 3 |
-| THE311S | THE311S |  |
+| THE311S | La oración y la adoración |  |
 
 Example prompt:
 

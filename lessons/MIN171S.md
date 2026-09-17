@@ -2,7 +2,7 @@
 title: "MIN171S — full lesson text"
 ---
 
-# MIN171S — MIN171S
+# MIN171S — Una Iglesia en el Poder del Espíritu
 
 ## Chapter
 

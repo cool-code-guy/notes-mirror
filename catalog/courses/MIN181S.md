@@ -2,7 +2,7 @@
 title: "MIN181S fact sheet"
 ---
 
-# MIN181S -- MIN181S
+# MIN181S -- Relaciones interpersonales y la ética en el ministerio
 
 **Level:** n/a  
 **Edition (PN):** 02.22.01  

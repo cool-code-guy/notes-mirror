@@ -2,7 +2,7 @@
 title: "MIN123S fact sheet"
 ---
 
-# MIN123S -- MIN123S
+# MIN123S -- El evangelismo en la iglesia local
 
 **Level:** n/a  
 **Edition (PN):** 2.15.01  

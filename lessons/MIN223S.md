@@ -2,7 +2,7 @@
 title: "MIN223S — full lesson text"
 ---
 
-# MIN223S — MIN223S
+# MIN223S — Introducción a la homilética
 
 ## Chapter
 

@@ -2,7 +2,7 @@
 title: "THE245S fact sheet"
 ---
 
-# THE245S -- THE245S
+# THE245S -- Escatología: Un estudio de las cosas por venir
 
 **Level:** n/a  
 **Edition (PN):** 02.22.01  

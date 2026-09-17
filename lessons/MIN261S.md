@@ -2,7 +2,7 @@
 title: "MIN261S — full lesson text"
 ---
 
-# MIN261S — MIN261S
+# MIN261S — Introducción a las misiones de las Asambleas de Dios
 
 ## Chapter
 

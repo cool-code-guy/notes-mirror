@@ -2,7 +2,7 @@
 title: "BIB115S fact sheet"
 ---
 
-# BIB115S -- BIB115S
+# BIB115S -- Hechos: La obra del Espíritu Santo en los creyentes
 
 **Level:** n/a  
 **Edition (PN):** 02.22.01  

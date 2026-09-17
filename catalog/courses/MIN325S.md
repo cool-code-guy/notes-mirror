@@ -2,7 +2,7 @@
 title: "MIN325S fact sheet"
 ---
 
-# MIN325S -- MIN325S
+# MIN325S -- La predicación en el mundo contemporáneo
 
 **Level:** n/a  
 **Edition (PN):** 02.14.01  

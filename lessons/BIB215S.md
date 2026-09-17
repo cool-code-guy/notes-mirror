@@ -2,7 +2,7 @@
 title: "BIB215S — full lesson text"
 ---
 
-# BIB215S — BIB215S
+# BIB215S — Romanos: La justificación por la fe
 
 ## Chapter
 

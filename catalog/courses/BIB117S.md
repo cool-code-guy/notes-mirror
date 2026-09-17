@@ -2,7 +2,7 @@
 title: "BIB117S fact sheet"
 ---
 
-# BIB117S -- BIB117S
+# BIB117S -- Epístolas de la prisión: Efesios, Filipenses, Colosenses y Filemón
 
 **Level:** n/a  
 **Edition (PN):** 02.22.01  

@@ -2,7 +2,7 @@
 title: "BIB111S — full lesson text"
 ---
 
-# BIB111S — BIB111S
+# BIB111S — Estudio del Antiguo Testamento
 
 ## Chapter
 

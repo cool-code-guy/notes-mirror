@@ -2,7 +2,7 @@
 title: "BIB214S — full lesson text"
 ---
 
-# BIB214S — BIB214S
+# BIB214S — Estudio del Antiguo Testamento
 
 ## Chapter
 

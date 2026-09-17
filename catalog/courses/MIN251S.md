@@ -2,7 +2,7 @@
 title: "MIN251S fact sheet"
 ---
 
-# MIN251S -- MIN251S
+# MIN251S -- Liderazgo eficaz
 
 **Level:** n/a  
 **Edition (PN):** 02.22.01  

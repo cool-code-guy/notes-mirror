@@ -2,7 +2,7 @@
 title: "MIN183S fact sheet"
 ---
 
-# MIN183S -- MIN183S
+# MIN183S -- Relaciones y ética en el ministerio
 
 **Level:** n/a  
 **Edition (PN):** 01.26.01  

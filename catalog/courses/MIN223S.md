@@ -2,7 +2,7 @@
 title: "MIN223S fact sheet"
 ---
 
-# MIN223S -- MIN223S
+# MIN223S -- Introducción a la homilética
 
 **Level:** n/a  
 **Edition (PN):** 02.22.01  
