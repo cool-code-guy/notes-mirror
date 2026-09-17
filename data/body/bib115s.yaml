@@ -10,6 +10,20 @@ courses:
     import_incomplete:
     - 'chapter 13: key declares 10 questions (1..10) but no block in the body matches;
       next unmatched block is p265 with 1'
+    - 'final form C: 1 booklet question(s) are absent from the key: [2]'
+    - 'final: the same question appears in more than one form with different options
+      or answers and was kept separate: "mientras lo apedreaban, esteban"'
+    final_source:
+      forms:
+        C:
+          exam: BIB115S Spanish form C exam.pdf
+          keys:
+          - bib115_form c_desi key_jul 09.pdf
+        D:
+          exam: BIB115S Spanish form D retake exam.pdf
+          keys:
+          - bib115_form d_desi key_apr 09.pdf
+      questions: 98
     chapters:
     - chapter: 1
       lessons:
@@ -144,3 +158,16 @@ courses:
       - lesson: 2
         subobjectives:
           12.2.1: {}
+    - chapter: 13
+      lessons:
+      - lesson: 1
+        subobjectives:
+          13.1.1: {}
+          13.1.2: {}
+      - lesson: 2
+        subobjectives:
+          13.2.1: {}
+      - lesson: 3
+        subobjectives:
+          13.3.2: {}
+          13.3.3: {}

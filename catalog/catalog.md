@@ -14,7 +14,7 @@ Active content only — retired material is excluded from every figure.
 | --- | --- |
 | Active courses | 49 |
 | Retired courses | 9 |
-| Assessment items | 11,471 |
+| Assessment items | 11,845 |
 | Curriculum paragraphs | 111,452 |
 | Interactive study questions | 10,713 |
 | Scripture references | 41,482 |
@@ -85,9 +85,9 @@ Published sequence toward Ordained Minister credentialing.
 | [BIB111S](courses/BIB111S.md) | Estudio del Antiguo Testamento |  | 01.26.01 | 15 | 47 | 165 |
 | [BIB114](courses/BIB114.md) | Christ in the Synoptic Gospels | 1 | 01.22.01 | 13 | 43 | 255 |
 | [BIB114S](courses/BIB114S.md) | BIB114S |  | 01.22.01 | 12 | 38 | 120 |
-| [BIB115S](courses/BIB115S.md) | Hechos: La obra del Espíritu Santo en los creyentes |  | 02.22.01 | 12 | 35 | 120 |
+| [BIB115S](courses/BIB115S.md) | Hechos: La obra del Espíritu Santo en los creyentes |  | 02.22.01 | 13 | 38 | 218 |
 | [BIB116](courses/BIB116.md) | New Testament Survey | 1 | 01.26.01 | 13 | 39 | 290 |
-| [BIB117S](courses/BIB117S.md) | Epístolas de la prisión: Efesios, Filipenses, Colosenses y Filemón |  | 02.22.01 | 13 | 39 | 195 |
+| [BIB117S](courses/BIB117S.md) | Epístolas de la prisión: Efesios, Filipenses, Colosenses y Filemón |  | 02.22.01 | 13 | 40 | 291 |
 | [BIB121](courses/BIB121.md) | Introduction to Hermeneutics | 1 | 03.23.01 | 15 | 42 | 281 |
 | [BIB121S](courses/BIB121S.md) | Introducción a la hermenéutica: Cómo interpretar la Biblia |  | 02.22.01 | 15 | 40 | 250 |
 | [BIB211](courses/BIB211.md) | ⚠️ _Acts: The Holy Spirit at Work in Believers (unconfirmed)_ | 2 | 03.22.01 | 13 | 38 | 285 |
@@ -102,9 +102,9 @@ Published sequence toward Ordained Minister credentialing.
 | [BIB318S](courses/BIB318S.md) | El Pentateuco |  | 02.14.01 | 12 | 33 | 220 |
 | [BIB322](courses/BIB322.md) | The Poetic Books | 3 | 02.22.01 | 8 | 27 | 247 |
 | [BIB322S](courses/BIB322S.md) | Los Libros Poéticos |  | 02.14.02 | 8 | 27 | 80 |
-| [MIN123S](courses/MIN123S.md) | El evangelismo en la iglesia local |  | 2.15.01 | 13 | 38 | 205 |
+| [MIN123S](courses/MIN123S.md) | El evangelismo en la iglesia local |  | 2.15.01 | 15 | 41 | 305 |
 | [MIN171](courses/MIN171.md) | Spirit-Empowered Church | 1 | 02.26.02 | 17 | 43 | 327 |
-| [MIN171S](courses/MIN171S.md) | Una Iglesia en el Poder del Espíritu |  | 02.26.01 | 17 | 43 | 170 |
+| [MIN171S](courses/MIN171S.md) | Una Iglesia en el Poder del Espíritu |  | 02.26.01 | 17 | 43 | 250 |
 | [MIN181S](courses/MIN181S.md) | Relaciones interpersonales y la ética en el ministerio |  | 02.22.01 | 15 | 44 | 150 |
 | [MIN183](courses/MIN183.md) | Relationships & Ethics in Ministry | 1 | 01.26.03 | 12 | 58 | 301 |
 | [MIN183S](courses/MIN183S.md) | Relaciones y ética en el ministerio |  | 01.26.01 | 12 | 57 | 121 |

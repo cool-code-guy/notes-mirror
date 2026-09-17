@@ -13,13 +13,13 @@ title: "BIB115S fact sheet"
 
 | Measure | Count |
 | --- | --- |
-| Chapters | 12 |
-| Lessons | 35 |
-| Subobjectives | 39 |
-| Assessment items (active) | 120 |
+| Chapters | 13 |
+| Lessons | 38 |
+| Subobjectives | 44 |
+| Assessment items (active) | 218 |
 | -- Test Yourself (TY) | 120 |
 | -- Unit Progress Evaluation (UPE) | 0 |
-| -- Final exam | 0 |
+| -- Final exam | 98 |
 | Bibliography entries | 0 |
 
 ## Structure
@@ -133,3 +133,14 @@ title: "BIB115S fact sheet"
   - `12.1.1` 
 - **Lesson**
   - `12.2.1` 
+
+### Chapter 13: 
+
+- **Lesson**
+  - `13.1.1` 
+  - `13.1.2` 
+- **Lesson**
+  - `13.2.1` 
+- **Lesson**
+  - `13.3.2` 
+  - `13.3.3` 

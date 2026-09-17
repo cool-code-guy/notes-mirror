@@ -14,12 +14,12 @@ title: "BIB117S fact sheet"
 | Measure | Count |
 | --- | --- |
 | Chapters | 13 |
-| Lessons | 39 |
-| Subobjectives | 111 |
-| Assessment items (active) | 195 |
+| Lessons | 40 |
+| Subobjectives | 120 |
+| Assessment items (active) | 291 |
 | -- Test Yourself (TY) | 120 |
 | -- Unit Progress Evaluation (UPE) | 75 |
-| -- Final exam | 0 |
+| -- Final exam | 96 |
 | Bibliography entries | 0 |
 
 ## Structure
@@ -44,6 +44,7 @@ title: "BIB117S fact sheet"
 ### Chapter 2: 
 
 - **Lesson**
+  - `2.1.1` 
   - `2.1.2` 
   - `2.1.3` 
   - `2.1.4` 
@@ -51,6 +52,7 @@ title: "BIB117S fact sheet"
   - `2.2.1` 
   - `2.2.2` 
   - `2.2.3` 
+  - `2.2.4` 
 - **Lesson**
   - `2.3.1` 
   - `2.3.2` 
@@ -66,6 +68,7 @@ title: "BIB117S fact sheet"
 - **Lesson**
   - `3.2.1` 
   - `3.2.2` 
+  - `3.2.3` 
   - `3.2.4` 
   - `3.2.5` 
   - `3.2.6` 
@@ -91,11 +94,14 @@ title: "BIB117S fact sheet"
 - **Lesson**
   - `5.1.1` 
   - `5.1.2` 
+  - `5.1.3` 
+  - `5.1.4` 
   - `5.1.5` 
 - **Lesson**
   - `5.2.1` 
   - `5.2.2` 
   - `5.2.3` 
+  - `5.2.4` 
   - `5.2.7` 
 - **Lesson**
   - `5.3.2` 
@@ -118,6 +124,7 @@ title: "BIB117S fact sheet"
   - `6.3.3` 
 - **Lesson**
   - `6.4.2` 
+  - `6.4.4` 
 
 ### Chapter 7: 
 
@@ -184,6 +191,9 @@ title: "BIB117S fact sheet"
   - `11.2.3` 
   - `11.2.4` 
 - **Lesson**
+  - `11.3.2` 
+- **Lesson**
+  - `11.4.1` 
   - `11.4.2` 
 
 ### Chapter 12: 

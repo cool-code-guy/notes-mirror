@@ -14,6 +14,17 @@ courses:
       next unmatched block is p245 with 1'
     - 'unit 4: key declares 25 questions (1..25) but no block in the body matches;
       next unmatched block is p263 with 24'
+    final_source:
+      forms:
+        C:
+          exam: MIN123S_FinalXam-FormC aug14.pdf
+          keys:
+          - min123_2nd_form c key partest jul 09.pdf
+        D:
+          exam: MIN123S_FinalXam-FormD aug14.pdf
+          keys:
+          - min123_2nd_form d key partest  jul 09.pdf
+      questions: 100
     chapters:
     - chapter: 1
       lessons:
@@ -63,6 +74,7 @@ courses:
         subobjectives:
           4.1.1: {}
           4.1.4: {}
+          4.1.2: {}
       - lesson: 2
         subobjectives:
           4.2.1: {}
@@ -74,11 +86,13 @@ courses:
           4.3.1: {}
           4.3.2: {}
           4.3.4: {}
+          4.3.3: {}
       - lesson: 4
         subobjectives:
           4.4.1: {}
           4.4.2: {}
           4.4.3: {}
+          4.4.4: {}
     - chapter: 5
       lessons:
       - lesson: 1
@@ -118,12 +132,14 @@ courses:
           6.3.1: {}
           6.3.3: {}
           6.3.4: {}
+          6.3.2: {}
     - chapter: 7
       lessons:
       - lesson: 1
         subobjectives:
           7.1.1: {}
           7.1.4: {}
+          7.1.3: {}
       - lesson: 2
         subobjectives:
           7.2.1: {}
@@ -181,6 +197,7 @@ courses:
         subobjectives:
           9.6.1: {}
           9.6.3: {}
+          9.6.2: {}
     - chapter: 10
       lessons:
       - lesson: 1
@@ -194,6 +211,7 @@ courses:
           10.2.1: {}
           10.2.3: {}
           10.2.4: {}
+          10.2.2: {}
     - chapter: 11
       lessons:
       - lesson: 1
@@ -206,6 +224,7 @@ courses:
           11.2.1: {}
           11.2.2: {}
           11.2.4: {}
+          11.2.3: {}
       - lesson: 3
         subobjectives:
           11.3.1: {}
@@ -218,21 +237,26 @@ courses:
           12.1.1: {}
           12.1.2: {}
           12.1.4: {}
+          12.1.3: {}
       - lesson: 2
         subobjectives:
           12.2.1: {}
           12.2.3: {}
           12.2.4: {}
+          12.2.2: {}
       - lesson: 3
         subobjectives:
           12.3.1: {}
           12.3.4: {}
+          12.3.2: {}
+          12.3.3: {}
     - chapter: 13
       lessons:
       - lesson: 1
         subobjectives:
           13.1.1: {}
           13.1.3: {}
+          13.1.4: {}
       - lesson: 2
         subobjectives:
           13.2.2: {}
@@ -243,3 +267,19 @@ courses:
           13.3.2: {}
           13.3.3: {}
           13.3.4: {}
+    - chapter: 14
+      lessons:
+      - lesson: 1
+        subobjectives:
+          14.1.4: {}
+      - lesson: 2
+        subobjectives:
+          14.2.2: {}
+          14.2.4: {}
+    - chapter: 15
+      lessons:
+      - lesson: 2
+        subobjectives:
+          15.2.1: {}
+          15.2.2: {}
+          15.2.4: {}

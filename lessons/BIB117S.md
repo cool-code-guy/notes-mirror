@@ -38,6 +38,8 @@ title: "BIB117S — full lesson text"
 
 ### Lesson
 
+#### 2.1.1
+
 #### 2.1.2
 
 #### 2.1.3
@@ -51,6 +53,8 @@ title: "BIB117S — full lesson text"
 #### 2.2.2
 
 #### 2.2.3
+
+#### 2.2.4
 
 ### Lesson
 
@@ -77,6 +81,8 @@ title: "BIB117S — full lesson text"
 #### 3.2.1
 
 #### 3.2.2
+
+#### 3.2.3
 
 #### 3.2.4
 
@@ -120,6 +126,10 @@ title: "BIB117S — full lesson text"
 
 #### 5.1.2
 
+#### 5.1.3
+
+#### 5.1.4
+
 #### 5.1.5
 
 ### Lesson
@@ -129,6 +139,8 @@ title: "BIB117S — full lesson text"
 #### 5.2.2
 
 #### 5.2.3
+
+#### 5.2.4
 
 #### 5.2.7
 
@@ -169,6 +181,8 @@ title: "BIB117S — full lesson text"
 ### Lesson
 
 #### 6.4.2
+
+#### 6.4.4
 
 ## Chapter
 
@@ -281,6 +295,12 @@ title: "BIB117S — full lesson text"
 #### 11.2.4
 
 ### Lesson
+
+#### 11.3.2
+
+### Lesson
+
+#### 11.4.1
 
 #### 11.4.2
 

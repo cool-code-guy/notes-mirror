@@ -13,13 +13,13 @@ title: "MIN123S fact sheet"
 
 | Measure | Count |
 | --- | --- |
-| Chapters | 13 |
-| Lessons | 38 |
-| Subobjectives | 126 |
-| Assessment items (active) | 205 |
+| Chapters | 15 |
+| Lessons | 41 |
+| Subobjectives | 145 |
+| Assessment items (active) | 305 |
 | -- Test Yourself (TY) | 130 |
 | -- Unit Progress Evaluation (UPE) | 75 |
-| -- Final exam | 0 |
+| -- Final exam | 100 |
 | Bibliography entries | 0 |
 
 ## Structure
@@ -67,6 +67,7 @@ title: "MIN123S fact sheet"
 
 - **Lesson**
   - `4.1.1` 
+  - `4.1.2` 
   - `4.1.4` 
 - **Lesson**
   - `4.2.1` 
@@ -76,11 +77,13 @@ title: "MIN123S fact sheet"
 - **Lesson**
   - `4.3.1` 
   - `4.3.2` 
+  - `4.3.3` 
   - `4.3.4` 
 - **Lesson**
   - `4.4.1` 
   - `4.4.2` 
   - `4.4.3` 
+  - `4.4.4` 
 
 ### Chapter 5: 
 
@@ -114,6 +117,7 @@ title: "MIN123S fact sheet"
   - `6.2.4` 
 - **Lesson**
   - `6.3.1` 
+  - `6.3.2` 
   - `6.3.3` 
   - `6.3.4` 
 
@@ -121,6 +125,7 @@ title: "MIN123S fact sheet"
 
 - **Lesson**
   - `7.1.1` 
+  - `7.1.3` 
   - `7.1.4` 
 - **Lesson**
   - `7.2.1` 
@@ -170,6 +175,7 @@ title: "MIN123S fact sheet"
   - `9.5.3` 
 - **Lesson**
   - `9.6.1` 
+  - `9.6.2` 
   - `9.6.3` 
 
 ### Chapter 10: 
@@ -181,6 +187,7 @@ title: "MIN123S fact sheet"
   - `10.1.4` 
 - **Lesson**
   - `10.2.1` 
+  - `10.2.2` 
   - `10.2.3` 
   - `10.2.4` 
 
@@ -193,6 +200,7 @@ title: "MIN123S fact sheet"
 - **Lesson**
   - `11.2.1` 
   - `11.2.2` 
+  - `11.2.3` 
   - `11.2.4` 
 - **Lesson**
   - `11.3.1` 
@@ -204,13 +212,17 @@ title: "MIN123S fact sheet"
 - **Lesson**
   - `12.1.1` 
   - `12.1.2` 
+  - `12.1.3` 
   - `12.1.4` 
 - **Lesson**
   - `12.2.1` 
+  - `12.2.2` 
   - `12.2.3` 
   - `12.2.4` 
 - **Lesson**
   - `12.3.1` 
+  - `12.3.2` 
+  - `12.3.3` 
   - `12.3.4` 
 
 ### Chapter 13: 
@@ -218,6 +230,7 @@ title: "MIN123S fact sheet"
 - **Lesson**
   - `13.1.1` 
   - `13.1.3` 
+  - `13.1.4` 
 - **Lesson**
   - `13.2.2` 
   - `13.2.3` 
@@ -226,3 +239,18 @@ title: "MIN123S fact sheet"
   - `13.3.2` 
   - `13.3.3` 
   - `13.3.4` 
+
+### Chapter 14: 
+
+- **Lesson**
+  - `14.1.4` 
+- **Lesson**
+  - `14.2.2` 
+  - `14.2.4` 
+
+### Chapter 15: 
+
+- **Lesson**
+  - `15.2.1` 
+  - `15.2.2` 
+  - `15.2.4` 

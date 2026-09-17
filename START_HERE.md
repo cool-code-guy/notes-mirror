@@ -351,7 +351,7 @@ Level n/a · 12 chapters · 38 lessons · 74 subobjectives
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/BIB115S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/BIB115S.html)
 
-Level n/a · 12 chapters · 35 lessons · 39 subobjectives
+Level n/a · 13 chapters · 38 lessons · 44 subobjectives
 
 **Chapter**
 - Lesson (1.1.1)
@@ -411,6 +411,11 @@ Level n/a · 12 chapters · 35 lessons · 39 subobjectives
 **Chapter**
 - Lesson (12.1.1)
 - Lesson (12.2.1)
+
+**Chapter**
+- Lesson (13.1.1, 13.1.2)
+- Lesson (13.2.1)
+- Lesson (13.3.2, 13.3.3)
 
 ---
 
@@ -500,7 +505,7 @@ Level 1 · 13 chapters · 39 lessons · 77 subobjectives
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/BIB117S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/BIB117S.html)
 
-Level n/a · 13 chapters · 39 lessons · 111 subobjectives
+Level n/a · 13 chapters · 40 lessons · 120 subobjectives
 
 **Chapter**
 - Lesson (1.1.1, 1.1.2, 1.1.3, 1.1.4, 1.1.5)
@@ -508,13 +513,13 @@ Level n/a · 13 chapters · 39 lessons · 111 subobjectives
 - Lesson (1.3.1, 1.3.2, 1.3.3)
 
 **Chapter**
-- Lesson (2.1.2, 2.1.3, 2.1.4)
-- Lesson (2.2.1, 2.2.2, 2.2.3)
+- Lesson (2.1.1, 2.1.2, 2.1.3, 2.1.4)
+- Lesson (2.2.1, 2.2.2, 2.2.3, 2.2.4)
 - Lesson (2.3.1, 2.3.2, 2.3.3, 2.3.4)
 
 **Chapter**
 - Lesson (3.1.1, 3.1.2, 3.1.3)
-- Lesson (3.2.1, 3.2.2, 3.2.4, 3.2.5, 3.2.6)
+- Lesson (3.2.1, 3.2.2, 3.2.3, 3.2.4, 3.2.5, 3.2.6)
 - Lesson (3.3.1, 3.3.4)
 
 **Chapter**
@@ -523,15 +528,15 @@ Level n/a · 13 chapters · 39 lessons · 111 subobjectives
 - Lesson (4.3.1)
 
 **Chapter**
-- Lesson (5.1.1, 5.1.2, 5.1.5)
-- Lesson (5.2.1, 5.2.2, 5.2.3, 5.2.7)
+- Lesson (5.1.1, 5.1.2, 5.1.3, 5.1.4, 5.1.5)
+- Lesson (5.2.1, 5.2.2, 5.2.3, 5.2.4, 5.2.7)
 - Lesson (5.3.2, 5.3.3)
 
 **Chapter**
 - Lesson (6.1.1, 6.1.2, 6.1.3)
 - Lesson (6.2.1, 6.2.2, 6.2.3, 6.2.4)
 - Lesson (6.3.1, 6.3.2, 6.3.3)
-- Lesson (6.4.2)
+- Lesson (6.4.2, 6.4.4)
 
 **Chapter**
 - Lesson (7.1.1, 7.1.3, 7.1.4)
@@ -555,7 +560,8 @@ Level n/a · 13 chapters · 39 lessons · 111 subobjectives
 **Chapter**
 - Lesson (11.1.2, 11.1.3)
 - Lesson (11.2.2, 11.2.3, 11.2.4)
-- Lesson (11.4.2)
+- Lesson (11.3.2)
+- Lesson (11.4.1, 11.4.2)
 
 **Chapter**
 - Lesson (12.1.1, 12.1.2)
@@ -1544,7 +1550,7 @@ Level n/a · 8 chapters · 27 lessons · 74 subobjectives
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/MIN123S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/MIN123S.html)
 
-Level n/a · 13 chapters · 38 lessons · 126 subobjectives
+Level n/a · 15 chapters · 41 lessons · 145 subobjectives
 
 **Chapter**
 - Lesson (1.1.1, 1.1.2, 1.1.3, 1.1.4)
@@ -1559,10 +1565,10 @@ Level n/a · 13 chapters · 38 lessons · 126 subobjectives
 - Lesson (3.2.1, 3.2.2, 3.2.3, 3.2.4)
 
 **Chapter**
-- Lesson (4.1.1, 4.1.4)
+- Lesson (4.1.1, 4.1.2, 4.1.4)
 - Lesson (4.2.1, 4.2.2, 4.2.3, 4.2.4)
-- Lesson (4.3.1, 4.3.2, 4.3.4)
-- Lesson (4.4.1, 4.4.2, 4.4.3)
+- Lesson (4.3.1, 4.3.2, 4.3.3, 4.3.4)
+- Lesson (4.4.1, 4.4.2, 4.4.3, 4.4.4)
 
 **Chapter**
 - Lesson (5.1.1, 5.1.2, 5.1.3, 5.1.4)
@@ -1572,10 +1578,10 @@ Level n/a · 13 chapters · 38 lessons · 126 subobjectives
 **Chapter**
 - Lesson (6.1.1, 6.1.2, 6.1.3, 6.1.4)
 - Lesson (6.2.1, 6.2.2, 6.2.3, 6.2.4)
-- Lesson (6.3.1, 6.3.3, 6.3.4)
+- Lesson (6.3.1, 6.3.2, 6.3.3, 6.3.4)
 
 **Chapter**
-- Lesson (7.1.1, 7.1.4)
+- Lesson (7.1.1, 7.1.3, 7.1.4)
 - Lesson (7.2.1, 7.2.2, 7.2.3)
 
 **Chapter**
@@ -1589,26 +1595,33 @@ Level n/a · 13 chapters · 38 lessons · 126 subobjectives
 - Lesson (9.3.2, 9.3.3, 9.3.4)
 - Lesson (9.4.1, 9.4.2, 9.4.3, 9.4.4)
 - Lesson (9.5.1, 9.5.2, 9.5.3)
-- Lesson (9.6.1, 9.6.3)
+- Lesson (9.6.1, 9.6.2, 9.6.3)
 
 **Chapter**
 - Lesson (10.1.1, 10.1.2, 10.1.3, 10.1.4)
-- Lesson (10.2.1, 10.2.3, 10.2.4)
+- Lesson (10.2.1, 10.2.2, 10.2.3, 10.2.4)
 
 **Chapter**
 - Lesson (11.1.1, 11.1.3, 11.1.4)
-- Lesson (11.2.1, 11.2.2, 11.2.4)
+- Lesson (11.2.1, 11.2.2, 11.2.3, 11.2.4)
 - Lesson (11.3.1, 11.3.2, 11.3.4)
 
 **Chapter**
-- Lesson (12.1.1, 12.1.2, 12.1.4)
-- Lesson (12.2.1, 12.2.3, 12.2.4)
-- Lesson (12.3.1, 12.3.4)
+- Lesson (12.1.1, 12.1.2, 12.1.3, 12.1.4)
+- Lesson (12.2.1, 12.2.2, 12.2.3, 12.2.4)
+- Lesson (12.3.1, 12.3.2, 12.3.3, 12.3.4)
 
 **Chapter**
-- Lesson (13.1.1, 13.1.3)
+- Lesson (13.1.1, 13.1.3, 13.1.4)
 - Lesson (13.2.2, 13.2.3, 13.2.4)
 - Lesson (13.3.2, 13.3.3, 13.3.4)
+
+**Chapter**
+- Lesson (14.1.4)
+- Lesson (14.2.2, 14.2.4)
+
+**Chapter**
+- Lesson (15.2.1, 15.2.2, 15.2.4)
 
 ---
 

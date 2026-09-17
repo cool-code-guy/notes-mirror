@@ -8,6 +8,19 @@ courses:
     translates: MIN171
     translates_pn: 02.26.01
     PN: 02.26.01
+    final_source:
+      forms:
+        A:
+          exam: MIN171Spanish_1st_A.pdf
+          keys:
+          - min171spanish_1st_a desi key.pdf
+          - min171spanish_1st_a partest key.pdf
+        B:
+          exam: MIN171Spanish_1st_B retake exam.pdf
+          keys:
+          - min171spanish_1st_b desi key.pdf
+          - min171spanish_1st_b partest key.pdf
+      questions: 80
     chapters:
     - chapter: 1
       lessons:

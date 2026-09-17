@@ -16,10 +16,10 @@ title: "MIN171S fact sheet"
 | Chapters | 17 |
 | Lessons | 43 |
 | Subobjectives | 49 |
-| Assessment items (active) | 170 |
+| Assessment items (active) | 250 |
 | -- Test Yourself (TY) | 170 |
 | -- Unit Progress Evaluation (UPE) | 0 |
-| -- Final exam | 0 |
+| -- Final exam | 80 |
 | Bibliography entries | 0 |
 
 ## Structure

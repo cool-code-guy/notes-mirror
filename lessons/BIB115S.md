@@ -175,3 +175,21 @@ title: "BIB115S — full lesson text"
 ### Lesson
 
 #### 12.2.1
+
+## Chapter
+
+### Lesson
+
+#### 13.1.1
+
+#### 13.1.2
+
+### Lesson
+
+#### 13.2.1
+
+### Lesson
+
+#### 13.3.2
+
+#### 13.3.3
