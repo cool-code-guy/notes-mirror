@@ -9,13 +9,23 @@ courses:
     translates_pn: 01.26.06
     PN: 01.26.02
     import_incomplete:
-    - 'chapter 1: key declares 8 questions (3..10) but no block in the body matches;
-      next unmatched block is p29 with 10'
-    - 'unit 1: key declares 25 questions (1..25) but no block in the body matches'
-    - 'unit 2: key declares 25 questions (1..25) but no block in the body matches'
-    - 'unit 3: key declares 25 questions (1..25) but no block in the body matches'
-    - 'unit 4: key declares 20 questions (1..20) but no block in the body matches'
+    - 'chapter 1: question 1 not imported -- the key gives its objective as ''Unidad
+      1 Intro'', which is not a subobjective'
+    - 'chapter 1: question 2 not imported -- the key gives its objective as ''Unidad
+      1 Intro'', which is not a subobjective'
     chapters:
+    - chapter: 1
+      lessons:
+      - lesson: 1
+        subobjectives:
+          1.1.1: {}
+          1.1.2: {}
+      - lesson: 2
+        subobjectives:
+          1.2.1: {}
+          1.2.2: {}
+          1.2.3: {}
+          1.2.4: {}
     - chapter: 2
       lessons:
       - lesson: 1
@@ -27,6 +37,7 @@ courses:
           2.2.1: {}
           2.2.2: {}
           2.2.4: {}
+          2.2.3: {}
     - chapter: 3
       lessons:
       - lesson: 2
@@ -47,6 +58,7 @@ courses:
       - lesson: 1
         subobjectives:
           4.1.1: {}
+          4.1.2: {}
       - lesson: 2
         subobjectives:
           4.2.1: {}
@@ -59,6 +71,8 @@ courses:
         subobjectives:
           4.4.2: {}
           4.4.3: {}
+          4.4.1: {}
+          4.4.4: {}
     - chapter: 5
       lessons:
       - lesson: 1
@@ -158,6 +172,9 @@ courses:
       - lesson: 5
         subobjectives:
           10.5.1: {}
+      - lesson: 7
+        subobjectives:
+          10.7.1: {}
     - chapter: 11
       lessons:
       - lesson: 1

@@ -13,12 +13,12 @@ title: "THE154S fact sheet"
 
 | Measure | Count |
 | --- | --- |
-| Chapters | 13 |
-| Lessons | 46 |
-| Subobjectives | 79 |
-| Assessment items (active) | 130 |
-| -- Test Yourself (TY) | 130 |
-| -- Unit Progress Evaluation (UPE) | 0 |
+| Chapters | 14 |
+| Lessons | 49 |
+| Subobjectives | 90 |
+| Assessment items (active) | 233 |
+| -- Test Yourself (TY) | 138 |
+| -- Unit Progress Evaluation (UPE) | 95 |
 | -- Final exam | 0 |
 | Bibliography entries | 0 |
 
@@ -27,14 +27,26 @@ title: "THE154S fact sheet"
 ### Chapter 1: 
 
 - **Lesson**
+  - `1.1.1` 
+  - `1.1.2` 
+- **Lesson**
+  - `1.2.1` 
+  - `1.2.2` 
+  - `1.2.3` 
+  - `1.2.4` 
+
+### Chapter 2: 
+
+- **Lesson**
   - `2.1.2` 
   - `2.1.3` 
 - **Lesson**
   - `2.2.1` 
   - `2.2.2` 
+  - `2.2.3` 
   - `2.2.4` 
 
-### Chapter 2: 
+### Chapter 3: 
 
 - **Lesson**
   - `3.2.1` 
@@ -47,10 +59,11 @@ title: "THE154S fact sheet"
   - `3.4.1` 
   - `3.4.2` 
 
-### Chapter 3: 
+### Chapter 4: 
 
 - **Lesson**
   - `4.1.1` 
+  - `4.1.2` 
 - **Lesson**
   - `4.2.1` 
   - `4.2.2` 
@@ -58,10 +71,12 @@ title: "THE154S fact sheet"
   - `4.3.1` 
   - `4.3.2` 
 - **Lesson**
+  - `4.4.1` 
   - `4.4.2` 
   - `4.4.3` 
+  - `4.4.4` 
 
-### Chapter 4: 
+### Chapter 5: 
 
 - **Lesson**
   - `5.1.1` 
@@ -74,7 +89,7 @@ title: "THE154S fact sheet"
 - **Lesson**
   - `5.5.1` 
 
-### Chapter 5: 
+### Chapter 6: 
 
 - **Lesson**
   - `6.1.1` 
@@ -87,7 +102,7 @@ title: "THE154S fact sheet"
 - **Lesson**
   - `6.5.4` 
 
-### Chapter 6: 
+### Chapter 7: 
 
 - **Lesson**
   - `7.1.1` 
@@ -100,7 +115,7 @@ title: "THE154S fact sheet"
 - **Lesson**
   - `7.3.1` 
 
-### Chapter 7: 
+### Chapter 8: 
 
 - **Lesson**
   - `8.1.1` 
@@ -114,7 +129,7 @@ title: "THE154S fact sheet"
 - **Lesson**
   - `8.5.1` 
 
-### Chapter 8: 
+### Chapter 9: 
 
 - **Lesson**
   - `9.1.1` 
@@ -129,7 +144,7 @@ title: "THE154S fact sheet"
   - `9.3.2` 
   - `9.3.3` 
 
-### Chapter 9: 
+### Chapter 10: 
 
 - **Lesson**
   - `10.1.1` 
@@ -141,8 +156,10 @@ title: "THE154S fact sheet"
   - `10.4.1` 
 - **Lesson**
   - `10.5.1` 
+- **Lesson**
+  - `10.7.1` 
 
-### Chapter 10: 
+### Chapter 11: 
 
 - **Lesson**
   - `11.1.1` 
@@ -152,7 +169,7 @@ title: "THE154S fact sheet"
 - **Lesson**
   - `11.3.1` 
 
-### Chapter 11: 
+### Chapter 12: 
 
 - **Lesson**
   - `12.1.1` 
@@ -163,7 +180,7 @@ title: "THE154S fact sheet"
 - **Lesson**
   - `12.4.1` 
 
-### Chapter 12: 
+### Chapter 13: 
 
 - **Lesson**
   - `13.1.1` 
@@ -174,7 +191,7 @@ title: "THE154S fact sheet"
   - `13.3.2` 
   - `13.3.3` 
 
-### Chapter 13: 
+### Chapter 14: 
 
 - **Lesson**
   - `14.1.1` 

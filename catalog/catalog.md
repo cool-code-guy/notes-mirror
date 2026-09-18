@@ -14,7 +14,7 @@ Active content only — retired material is excluded from every figure.
 | --- | --- |
 | Active courses | 49 |
 | Retired courses | 9 |
-| Assessment items | 12,786 |
+| Assessment items | 12,889 |
 | Curriculum paragraphs | 111,452 |
 | Interactive study questions | 10,713 |
 | Scripture references | 41,482 |
@@ -125,7 +125,7 @@ Published sequence toward Ordained Minister credentialing.
 | [MIN381S](courses/MIN381S.md) | MIN381S |  | 03.26.01 | 15 | 46 | 220 |
 | [THE118](courses/THE118.md) | Introduction to Theology | 1 | 04.22.01 | 13 | 36 | 199 |
 | [THE154](courses/THE154.md) | History, Missions, and Governance | 1 | 01.26.06 | 14 | 57 | 375 |
-| [THE154S](courses/THE154S.md) | THE154S |  | 01.26.02 | 13 | 46 | 130 |
+| [THE154S](courses/THE154S.md) | THE154S |  | 01.26.02 | 14 | 49 | 233 |
 | [THE245](courses/THE245.md) | Eschatology | 2 | 04.22.01 | 13 | 37 | 299 |
 | [THE245S](courses/THE245S.md) | Escatología: Un estudio de las cosas por venir |  | 02.22.01 | 13 | 37 | 230 |
 | [THE311](courses/THE311.md) | Prayer and Worship | 3 | 03.22.01 | 12 | 37 | 249 |

@@ -3432,11 +3432,15 @@ Level 1 · 14 chapters · 57 lessons · 130 subobjectives
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/THE154S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/THE154S.html)
 
-Level n/a · 13 chapters · 46 lessons · 79 subobjectives
+Level n/a · 14 chapters · 49 lessons · 90 subobjectives
+
+**Chapter**
+- Lesson (1.1.1, 1.1.2)
+- Lesson (1.2.1, 1.2.2, 1.2.3, 1.2.4)
 
 **Chapter**
 - Lesson (2.1.2, 2.1.3)
-- Lesson (2.2.1, 2.2.2, 2.2.4)
+- Lesson (2.2.1, 2.2.2, 2.2.3, 2.2.4)
 
 **Chapter**
 - Lesson (3.2.1, 3.2.2, 3.2.3)
@@ -3444,10 +3448,10 @@ Level n/a · 13 chapters · 46 lessons · 79 subobjectives
 - Lesson (3.4.1, 3.4.2)
 
 **Chapter**
-- Lesson (4.1.1)
+- Lesson (4.1.1, 4.1.2)
 - Lesson (4.2.1, 4.2.2)
 - Lesson (4.3.1, 4.3.2)
-- Lesson (4.4.2, 4.4.3)
+- Lesson (4.4.1, 4.4.2, 4.4.3, 4.4.4)
 
 **Chapter**
 - Lesson (5.1.1)
@@ -3484,6 +3488,7 @@ Level n/a · 13 chapters · 46 lessons · 79 subobjectives
 - Lesson (10.3.1)
 - Lesson (10.4.1)
 - Lesson (10.5.1)
+- Lesson (10.7.1)
 
 **Chapter**
 - Lesson (11.1.1, 11.1.2)

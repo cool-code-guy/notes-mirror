@@ -8,6 +8,24 @@ title: "THE154S — full lesson text"
 
 ### Lesson
 
+#### 1.1.1
+
+#### 1.1.2
+
+### Lesson
+
+#### 1.2.1
+
+#### 1.2.2
+
+#### 1.2.3
+
+#### 1.2.4
+
+## Chapter
+
+### Lesson
+
 #### 2.1.2
 
 #### 2.1.3
@@ -17,6 +35,8 @@ title: "THE154S — full lesson text"
 #### 2.2.1
 
 #### 2.2.2
+
+#### 2.2.3
 
 #### 2.2.4
 
@@ -48,6 +68,8 @@ title: "THE154S — full lesson text"
 
 #### 4.1.1
 
+#### 4.1.2
+
 ### Lesson
 
 #### 4.2.1
@@ -62,9 +84,13 @@ title: "THE154S — full lesson text"
 
 ### Lesson
 
+#### 4.4.1
+
 #### 4.4.2
 
 #### 4.4.3
+
+#### 4.4.4
 
 ## Chapter
 
@@ -203,6 +229,10 @@ title: "THE154S — full lesson text"
 ### Lesson
 
 #### 10.5.1
+
+### Lesson
+
+#### 10.7.1
 
 ## Chapter
 
