@@ -102,6 +102,8 @@ title: "MIN183S — full lesson text"
 
 #### 5.1.1
 
+#### 5.1.2
+
 #### 5.1.3
 
 ### Lesson
@@ -181,6 +183,10 @@ title: "MIN183S — full lesson text"
 ### Lesson
 
 #### 8.3.1
+
+### Lesson
+
+#### 8.5.1
 
 ## Chapter
 

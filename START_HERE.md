@@ -1999,7 +1999,7 @@ Level 1 · 12 chapters · 58 lessons · 72 subobjectives
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/MIN183S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/MIN183S.html)
 
-Level n/a · 12 chapters · 57 lessons · 69 subobjectives
+Level n/a · 12 chapters · 58 lessons · 71 subobjectives
 
 **Chapter**
 - Lesson (1.1.1)
@@ -2030,7 +2030,7 @@ Level n/a · 12 chapters · 57 lessons · 69 subobjectives
 - Lesson (4.7.1)
 
 **Chapter**
-- Lesson (5.1.1, 5.1.3)
+- Lesson (5.1.1, 5.1.2, 5.1.3)
 - Lesson (5.2.1, 5.2.2, 5.2.3)
 - Lesson (5.3.1, 5.3.2, 5.3.3)
 - Lesson (5.4.1)
@@ -2052,6 +2052,7 @@ Level n/a · 12 chapters · 57 lessons · 69 subobjectives
 - Lesson (8.1.1)
 - Lesson (8.2.1)
 - Lesson (8.3.1)
+- Lesson (8.5.1)
 
 **Chapter**
 - Lesson (9.1.1, 9.1.2, 9.1.3, 9.1.4)

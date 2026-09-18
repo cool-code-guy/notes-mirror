@@ -14,11 +14,11 @@ title: "MIN183S fact sheet"
 | Measure | Count |
 | --- | --- |
 | Chapters | 12 |
-| Lessons | 57 |
-| Subobjectives | 69 |
-| Assessment items (active) | 121 |
+| Lessons | 58 |
+| Subobjectives | 71 |
+| Assessment items (active) | 218 |
 | -- Test Yourself (TY) | 121 |
-| -- Unit Progress Evaluation (UPE) | 0 |
+| -- Unit Progress Evaluation (UPE) | 97 |
 | -- Final exam | 0 |
 | Bibliography entries | 0 |
 
@@ -82,6 +82,7 @@ title: "MIN183S fact sheet"
 
 - **Lesson**
   - `5.1.1` 
+  - `5.1.2` 
   - `5.1.3` 
 - **Lesson**
   - `5.2.1` 
@@ -128,6 +129,8 @@ title: "MIN183S fact sheet"
   - `8.2.1` 
 - **Lesson**
   - `8.3.1` 
+- **Lesson**
+  - `8.5.1` 
 
 ### Chapter 9: 
 

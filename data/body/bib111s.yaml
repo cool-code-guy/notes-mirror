@@ -8,6 +8,9 @@ courses:
     translates: BIB111
     translates_pn: 01.26.01
     PN: 01.26.01
+    import_incomplete:
+    - 'unit 5: question 21 not imported -- the key gives its objective as ''14.intro'',
+      which is not a subobjective'
     chapters:
     - chapter: 1
       lessons:

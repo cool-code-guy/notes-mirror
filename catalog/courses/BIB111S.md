@@ -16,9 +16,9 @@ title: "BIB111S fact sheet"
 | Chapters | 15 |
 | Lessons | 47 |
 | Subobjectives | 82 |
-| Assessment items (active) | 165 |
-| -- Test Yourself (TY) | 165 |
-| -- Unit Progress Evaluation (UPE) | 0 |
+| Assessment items (active) | 274 |
+| -- Test Yourself (TY) | 150 |
+| -- Unit Progress Evaluation (UPE) | 124 |
 | -- Final exam | 0 |
 | Bibliography entries | 0 |
 

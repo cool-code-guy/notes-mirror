@@ -14,7 +14,7 @@ Active content only — retired material is excluded from every figure.
 | --- | --- |
 | Active courses | 49 |
 | Retired courses | 9 |
-| Assessment items | 12,345 |
+| Assessment items | 12,551 |
 | Curriculum paragraphs | 111,452 |
 | Interactive study questions | 10,713 |
 | Scripture references | 41,482 |
@@ -82,7 +82,7 @@ Published sequence toward Ordained Minister credentialing.
 | Code | Title | Level | Edition | Chapters | Lessons | Items |
 | --- | --- | --- | --- | --- | --- | --- |
 | [BIB111](courses/BIB111.md) | Old Testament Survey | 1 | 01.26.01 | 15 | 47 | 309 |
-| [BIB111S](courses/BIB111S.md) | Estudio del Antiguo Testamento |  | 01.26.01 | 15 | 47 | 165 |
+| [BIB111S](courses/BIB111S.md) | Estudio del Antiguo Testamento |  | 01.26.01 | 15 | 47 | 274 |
 | [BIB114](courses/BIB114.md) | Christ in the Synoptic Gospels | 1 | 01.22.01 | 13 | 43 | 255 |
 | [BIB114S](courses/BIB114S.md) | BIB114S |  | 01.22.01 | 13 | 41 | 195 |
 | [BIB115S](courses/BIB115S.md) | Hechos: La obra del Espíritu Santo en los creyentes |  | 02.22.01 | 13 | 38 | 318 |
@@ -107,7 +107,7 @@ Published sequence toward Ordained Minister credentialing.
 | [MIN171S](courses/MIN171S.md) | Una Iglesia en el Poder del Espíritu |  | 02.26.01 | 17 | 43 | 325 |
 | [MIN181S](courses/MIN181S.md) | Relaciones interpersonales y la ética en el ministerio |  | 02.22.01 | 15 | 44 | 150 |
 | [MIN183](courses/MIN183.md) | Relationships & Ethics in Ministry | 1 | 01.26.03 | 12 | 58 | 301 |
-| [MIN183S](courses/MIN183S.md) | Relaciones y ética en el ministerio |  | 01.26.01 | 12 | 57 | 121 |
+| [MIN183S](courses/MIN183S.md) | Relaciones y ética en el ministerio |  | 01.26.01 | 12 | 58 | 218 |
 | [MIN223](courses/MIN223.md) | Introduction to Homiletics | 2 | 03.22.01 | 14 | 45 | 337 |
 | [MIN223S](courses/MIN223S.md) | Introducción a la homilética |  | 02.22.01 | 14 | 44 | 215 |
 | [MIN227](courses/MIN227.md) | The Local Church in Evangelism | 2 | 03.22.01 | 15 | 43 | 473 |
