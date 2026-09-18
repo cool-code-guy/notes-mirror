@@ -15,7 +15,7 @@ title: "BIB117S fact sheet"
 | --- | --- |
 | Chapters | 13 |
 | Lessons | 40 |
-| Subobjectives | 120 |
+| Subobjectives | 124 |
 | Assessment items (active) | 291 |
 | -- Test Yourself (TY) | 120 |
 | -- Unit Progress Evaluation (UPE) | 75 |
@@ -184,17 +184,22 @@ title: "BIB117S fact sheet"
 ### Chapter 11: 
 
 - **Lesson**
+  - `11.1.1` 
   - `11.1.2` 
   - `11.1.3` 
 - **Lesson**
+  - `11.2.1` 
   - `11.2.2` 
   - `11.2.3` 
   - `11.2.4` 
 - **Lesson**
+  - `11.3.1` 
   - `11.3.2` 
+  - `11.3.3` 
 - **Lesson**
   - `11.4.1` 
   - `11.4.2` 
+  - `11.4.3` 
 
 ### Chapter 12: 
 
@@ -220,5 +225,4 @@ title: "BIB117S fact sheet"
   - `13.2.1` 
   - `13.2.2` 
 - **Lesson**
-  - `13.3.1` 
   - `13.3.2` 

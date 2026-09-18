@@ -14,10 +14,10 @@ title: "BIB114S fact sheet"
 | Measure | Count |
 | --- | --- |
 | Chapters | 13 |
-| Lessons | 41 |
-| Subobjectives | 77 |
-| Assessment items (active) | 195 |
-| -- Test Yourself (TY) | 120 |
+| Lessons | 42 |
+| Subobjectives | 78 |
+| Assessment items (active) | 205 |
+| -- Test Yourself (TY) | 130 |
 | -- Unit Progress Evaluation (UPE) | 75 |
 | -- Final exam | 0 |
 | Bibliography entries | 0 |
@@ -180,3 +180,5 @@ title: "BIB114S fact sheet"
   - `13.2.1` 
 - **Lesson**
   - `13.3.1` 
+- **Lesson**
+  - `13.4.1` 

@@ -143,8 +143,8 @@
       "questions": {
         "active": {
           "final": 0,
-          "total": 195,
-          "ty": 120,
+          "total": 205,
+          "ty": 130,
           "upe": 75
         },
         "retired": {
@@ -489,8 +489,8 @@
       "questions": {
         "active": {
           "final": 0,
-          "total": 220,
-          "ty": 120,
+          "total": 230,
+          "ty": 130,
           "upe": 100
         },
         "retired": {
@@ -562,8 +562,8 @@
       "questions": {
         "active": {
           "final": 100,
-          "total": 305,
-          "ty": 130,
+          "total": 325,
+          "ty": 150,
           "upe": 75
         },
         "retired": {
@@ -635,9 +635,9 @@
       "questions": {
         "active": {
           "final": 0,
-          "total": 150,
+          "total": 250,
           "ty": 150,
-          "upe": 0
+          "upe": 100
         },
         "retired": {
           "final": 0,
@@ -797,9 +797,9 @@
       "questions": {
         "active": {
           "final": 0,
-          "total": 175,
-          "ty": 100,
-          "upe": 75
+          "total": 210,
+          "ty": 110,
+          "upe": 100
         },
         "retired": {
           "final": 0,
@@ -905,9 +905,9 @@
       "questions": {
         "active": {
           "final": 0,
-          "total": 190,
+          "total": 240,
           "ty": 140,
-          "upe": 50
+          "upe": 100
         },
         "retired": {
           "final": 0,
@@ -1087,8 +1087,8 @@
       "questions": {
         "active": {
           "final": 0,
-          "total": 220,
-          "ty": 120,
+          "total": 230,
+          "ty": 130,
           "upe": 100
         },
         "retired": {
@@ -1141,9 +1141,9 @@
   "questions": {
     "active": {
       "final": 2140,
-      "total": 12551,
-      "ty": 6261,
-      "upe": 4150
+      "total": 12786,
+      "ty": 6321,
+      "upe": 4325
     },
     "retired": {
       "final": 602,
@@ -1151,6 +1151,6 @@
       "ty": 1945,
       "upe": 1459
     },
-    "total": 16557
+    "total": 16792
   }
 }

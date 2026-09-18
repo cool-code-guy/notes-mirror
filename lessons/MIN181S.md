@@ -58,7 +58,11 @@ title: "MIN181S — full lesson text"
 
 ### Lesson
 
+#### 3.4.1
+
 #### 3.4.2
+
+#### 3.4.4
 
 ## Chapter
 
@@ -110,6 +114,8 @@ title: "MIN181S — full lesson text"
 
 #### 6.3.1
 
+#### 6.3.2
+
 ## Chapter
 
 ### Lesson
@@ -125,6 +131,8 @@ title: "MIN181S — full lesson text"
 ### Lesson
 
 #### 7.3.1
+
+#### 7.3.2
 
 #### 7.3.3
 
@@ -187,6 +195,8 @@ title: "MIN181S — full lesson text"
 ### Lesson
 
 #### 10.4.1
+
+#### 10.4.2
 
 ## Chapter
 
@@ -253,6 +263,8 @@ title: "MIN181S — full lesson text"
 ### Lesson
 
 #### 14.2.1
+
+#### 14.2.2
 
 ## Chapter
 

@@ -8,9 +8,6 @@ courses:
     translates: BIB114
     translates_pn: 01.22.01
     PN: 01.22.01
-    import_incomplete:
-    - 'chapter 13: key declares 11 questions (1..14) but no block in the body matches;
-      next unmatched block is p207 with 10'
     chapters:
     - chapter: 1
       lessons:
@@ -197,3 +194,6 @@ courses:
       - lesson: 3
         subobjectives:
           13.3.1: {}
+      - lesson: 4
+        subobjectives:
+          13.4.1: {}

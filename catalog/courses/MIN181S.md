@@ -15,10 +15,10 @@ title: "MIN181S fact sheet"
 | --- | --- |
 | Chapters | 15 |
 | Lessons | 44 |
-| Subobjectives | 76 |
-| Assessment items (active) | 150 |
+| Subobjectives | 82 |
+| Assessment items (active) | 250 |
 | -- Test Yourself (TY) | 150 |
-| -- Unit Progress Evaluation (UPE) | 0 |
+| -- Unit Progress Evaluation (UPE) | 100 |
 | -- Final exam | 0 |
 | Bibliography entries | 0 |
 
@@ -56,7 +56,9 @@ title: "MIN181S fact sheet"
 - **Lesson**
   - `3.3.1` 
 - **Lesson**
+  - `3.4.1` 
   - `3.4.2` 
+  - `3.4.4` 
 
 ### Chapter 4: 
 
@@ -88,6 +90,7 @@ title: "MIN181S fact sheet"
   - `6.2.1` 
 - **Lesson**
   - `6.3.1` 
+  - `6.3.2` 
 
 ### Chapter 7: 
 
@@ -98,6 +101,7 @@ title: "MIN181S fact sheet"
   - `7.2.2` 
 - **Lesson**
   - `7.3.1` 
+  - `7.3.2` 
   - `7.3.3` 
   - `7.3.4` 
 
@@ -135,6 +139,7 @@ title: "MIN181S fact sheet"
   - `10.3.1` 
 - **Lesson**
   - `10.4.1` 
+  - `10.4.2` 
 
 ### Chapter 11: 
 
@@ -176,6 +181,7 @@ title: "MIN181S fact sheet"
   - `14.1.3` 
 - **Lesson**
   - `14.2.1` 
+  - `14.2.2` 
 
 ### Chapter 15: 
 

@@ -13,11 +13,11 @@ title: "BIB318S fact sheet"
 
 | Measure | Count |
 | --- | --- |
-| Chapters | 12 |
-| Lessons | 33 |
-| Subobjectives | 100 |
-| Assessment items (active) | 220 |
-| -- Test Yourself (TY) | 120 |
+| Chapters | 13 |
+| Lessons | 36 |
+| Subobjectives | 108 |
+| Assessment items (active) | 230 |
+| -- Test Yourself (TY) | 130 |
 | -- Unit Progress Evaluation (UPE) | 100 |
 | -- Final exam | 0 |
 | Bibliography entries | 0 |
@@ -192,3 +192,17 @@ title: "BIB318S fact sheet"
   - `12.1.6` 
 - **Lesson**
   - `12.2.2` 
+
+### Chapter 13: 
+
+- **Lesson**
+  - `13.1.1` 
+  - `13.1.2` 
+- **Lesson**
+  - `13.2.1` 
+  - `13.2.2` 
+  - `13.2.3` 
+- **Lesson**
+  - `13.3.1` 
+  - `13.3.2` 
+  - `13.3.3` 

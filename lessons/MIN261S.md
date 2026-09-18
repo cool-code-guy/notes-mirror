@@ -174,6 +174,8 @@ title: "MIN261S — full lesson text"
 
 ### Lesson
 
+#### 9.2.1
+
 #### 9.2.2
 
 ### Lesson
@@ -205,3 +207,15 @@ title: "MIN261S — full lesson text"
 #### 10.2.3
 
 #### 10.2.4
+
+## Chapter
+
+### Lesson
+
+#### 11.1.1
+
+#### 11.1.2
+
+#### 11.1.3
+
+#### 11.1.4

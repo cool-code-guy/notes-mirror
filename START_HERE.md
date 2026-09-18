@@ -281,7 +281,7 @@ Level 1 · 13 chapters · 43 lessons · 79 subobjectives
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/BIB114S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/BIB114S.html)
 
-Level n/a · 13 chapters · 41 lessons · 77 subobjectives
+Level n/a · 13 chapters · 42 lessons · 78 subobjectives
 
 **Chapter**
 - Lesson (1.1.1)
@@ -349,6 +349,7 @@ Level n/a · 13 chapters · 41 lessons · 77 subobjectives
 - Lesson (13.1.1)
 - Lesson (13.2.1)
 - Lesson (13.3.1)
+- Lesson (13.4.1)
 
 ---
 
@@ -510,7 +511,7 @@ Level 1 · 13 chapters · 39 lessons · 77 subobjectives
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/BIB117S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/BIB117S.html)
 
-Level n/a · 13 chapters · 40 lessons · 120 subobjectives
+Level n/a · 13 chapters · 40 lessons · 124 subobjectives
 
 **Chapter**
 - Lesson (1.1.1, 1.1.2, 1.1.3, 1.1.4, 1.1.5)
@@ -563,10 +564,10 @@ Level n/a · 13 chapters · 40 lessons · 120 subobjectives
 - Lesson (10.2.1, 10.2.2, 10.2.3, 10.2.4, 10.2.5)
 
 **Chapter**
-- Lesson (11.1.2, 11.1.3)
-- Lesson (11.2.2, 11.2.3, 11.2.4)
-- Lesson (11.3.2)
-- Lesson (11.4.1, 11.4.2)
+- Lesson (11.1.1, 11.1.2, 11.1.3)
+- Lesson (11.2.1, 11.2.2, 11.2.3, 11.2.4)
+- Lesson (11.3.1, 11.3.2, 11.3.3)
+- Lesson (11.4.1, 11.4.2, 11.4.3)
 
 **Chapter**
 - Lesson (12.1.1, 12.1.2)
@@ -576,7 +577,7 @@ Level n/a · 13 chapters · 40 lessons · 120 subobjectives
 **Chapter**
 - Lesson (13.1.1, 13.1.2, 13.1.3)
 - Lesson (13.2.1, 13.2.2)
-- Lesson (13.3.1, 13.3.2)
+- Lesson (13.3.2)
 
 ---
 
@@ -1377,7 +1378,7 @@ Level 3 · 13 chapters · 36 lessons · 123 subobjectives
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/BIB318S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/BIB318S.html)
 
-Level n/a · 12 chapters · 33 lessons · 100 subobjectives
+Level n/a · 13 chapters · 36 lessons · 108 subobjectives
 
 **Chapter**
 - Lesson (1.1.1, 1.1.2, 1.1.3)
@@ -1435,6 +1436,11 @@ Level n/a · 12 chapters · 33 lessons · 100 subobjectives
 **Chapter**
 - Lesson (12.1.1, 12.1.2, 12.1.3, 12.1.4, 12.1.5, 12.1.6)
 - Lesson (12.2.2)
+
+**Chapter**
+- Lesson (13.1.1, 13.1.2)
+- Lesson (13.2.1, 13.2.2, 13.2.3)
+- Lesson (13.3.1, 13.3.2, 13.3.3)
 
 ---
 
@@ -1555,7 +1561,7 @@ Level n/a · 8 chapters · 27 lessons · 80 subobjectives
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/MIN123S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/MIN123S.html)
 
-Level n/a · 15 chapters · 41 lessons · 145 subobjectives
+Level n/a · 15 chapters · 42 lessons · 155 subobjectives
 
 **Chapter**
 - Lesson (1.1.1, 1.1.2, 1.1.3, 1.1.4)
@@ -1622,11 +1628,12 @@ Level n/a · 15 chapters · 41 lessons · 145 subobjectives
 - Lesson (13.3.2, 13.3.3, 13.3.4)
 
 **Chapter**
-- Lesson (14.1.4)
-- Lesson (14.2.2, 14.2.4)
+- Lesson (14.1.1, 14.1.2, 14.1.3, 14.1.4)
+- Lesson (14.2.1, 14.2.2, 14.2.3, 14.2.4)
 
 **Chapter**
-- Lesson (15.2.1, 15.2.2, 15.2.4)
+- Lesson (15.1.1, 15.1.2, 15.1.3, 15.1.4)
+- Lesson (15.2.1, 15.2.2, 15.2.3, 15.2.4)
 
 ---
 
@@ -1815,7 +1822,7 @@ Level n/a · 17 chapters · 43 lessons · 49 subobjectives
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/MIN181S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/MIN181S.html)
 
-Level n/a · 15 chapters · 44 lessons · 76 subobjectives
+Level n/a · 15 chapters · 44 lessons · 82 subobjectives
 
 **Chapter**
 - Lesson (1.1.1, 1.1.2)
@@ -1830,7 +1837,7 @@ Level n/a · 15 chapters · 44 lessons · 76 subobjectives
 - Lesson (3.1.1, 3.1.2)
 - Lesson (3.2.1, 3.2.2, 3.2.3)
 - Lesson (3.3.1)
-- Lesson (3.4.2)
+- Lesson (3.4.1, 3.4.2, 3.4.4)
 
 **Chapter**
 - Lesson (4.1.1)
@@ -1845,12 +1852,12 @@ Level n/a · 15 chapters · 44 lessons · 76 subobjectives
 **Chapter**
 - Lesson (6.1.1)
 - Lesson (6.2.1)
-- Lesson (6.3.1)
+- Lesson (6.3.1, 6.3.2)
 
 **Chapter**
 - Lesson (7.1.1)
 - Lesson (7.2.1, 7.2.2)
-- Lesson (7.3.1, 7.3.3, 7.3.4)
+- Lesson (7.3.1, 7.3.2, 7.3.3, 7.3.4)
 
 **Chapter**
 - Lesson (8.1.1)
@@ -1866,7 +1873,7 @@ Level n/a · 15 chapters · 44 lessons · 76 subobjectives
 - Lesson (10.1.1, 10.1.2)
 - Lesson (10.2.1)
 - Lesson (10.3.1)
-- Lesson (10.4.1)
+- Lesson (10.4.1, 10.4.2)
 
 **Chapter**
 - Lesson (11.1.1)
@@ -1884,7 +1891,7 @@ Level n/a · 15 chapters · 44 lessons · 76 subobjectives
 
 **Chapter**
 - Lesson (14.1.1, 14.1.2, 14.1.3)
-- Lesson (14.2.1)
+- Lesson (14.2.1, 14.2.2)
 
 **Chapter**
 - Lesson (15.1.1)
@@ -2571,7 +2578,7 @@ Level 2 · 11 chapters · 29 lessons · 74 subobjectives
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/MIN261S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/MIN261S.html)
 
-Level n/a · 10 chapters · 28 lessons · 63 subobjectives
+Level n/a · 11 chapters · 29 lessons · 68 subobjectives
 
 **Chapter**
 - Lesson (1.1.1, 1.1.2)
@@ -2612,7 +2619,7 @@ Level n/a · 10 chapters · 28 lessons · 63 subobjectives
 
 **Chapter**
 - Lesson (9.1.1, 9.1.2)
-- Lesson (9.2.2)
+- Lesson (9.2.1, 9.2.2)
 - Lesson (9.3.1)
 - Lesson (9.4.1)
 - Lesson (9.5.1, 9.5.2)
@@ -2620,6 +2627,9 @@ Level n/a · 10 chapters · 28 lessons · 63 subobjectives
 **Chapter**
 - Lesson (10.1.1)
 - Lesson (10.2.1, 10.2.2, 10.2.3, 10.2.4)
+
+**Chapter**
+- Lesson (11.1.1, 11.1.2, 11.1.3, 11.1.4)
 
 ---
 
@@ -2965,7 +2975,7 @@ Level 3 · 14 chapters · 54 lessons · 123 subobjectives
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/MIN327S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/MIN327S.html)
 
-Level n/a · 14 chapters · 54 lessons · 104 subobjectives
+Level n/a · 14 chapters · 54 lessons · 107 subobjectives
 
 **Chapter**
 - Lesson (1.1.1, 1.1.2, 1.1.3)
@@ -3021,7 +3031,7 @@ Level n/a · 14 chapters · 54 lessons · 104 subobjectives
 - Lesson (10.1.1, 10.1.2)
 - Lesson (10.2.1)
 - Lesson (10.3.1, 10.3.2)
-- Lesson (10.4.1, 10.4.3, 10.4.4)
+- Lesson (10.4.1, 10.4.2, 10.4.3, 10.4.4)
 
 **Chapter**
 - Lesson (11.1.1, 11.1.2)
@@ -3044,8 +3054,8 @@ Level n/a · 14 chapters · 54 lessons · 104 subobjectives
 
 **Chapter**
 - Lesson (14.1.2)
-- Lesson (14.2.2)
-- Lesson (14.3.1)
+- Lesson (14.2.2, 14.2.3)
+- Lesson (14.3.1, 14.3.2)
 - Lesson (14.4.1, 14.4.2)
 - Lesson (14.5.1)
 
@@ -3587,7 +3597,7 @@ Level 2 · 13 chapters · 37 lessons · 102 subobjectives
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/THE245S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/THE245S.html)
 
-Level n/a · 13 chapters · 37 lessons · 95 subobjectives
+Level n/a · 13 chapters · 37 lessons · 96 subobjectives
 
 **Chapter**
 - Lesson (1.1.1, 1.1.2, 1.1.3)
@@ -3644,7 +3654,7 @@ Level n/a · 13 chapters · 37 lessons · 95 subobjectives
 - Lesson (11.4.1, 11.4.2)
 
 **Chapter**
-- Lesson (12.1.1, 12.1.3)
+- Lesson (12.1.1, 12.1.2, 12.1.3)
 - Lesson (12.2.1, 12.2.2)
 - Lesson (12.3.1)
 

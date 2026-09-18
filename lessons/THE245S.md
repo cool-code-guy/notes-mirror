@@ -266,6 +266,8 @@ title: "THE245S — full lesson text"
 
 #### 12.1.1
 
+#### 12.1.2
+
 #### 12.1.3
 
 ### Lesson

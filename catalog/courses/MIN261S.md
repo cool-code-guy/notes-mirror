@@ -13,12 +13,12 @@ title: "MIN261S fact sheet"
 
 | Measure | Count |
 | --- | --- |
-| Chapters | 10 |
-| Lessons | 28 |
-| Subobjectives | 63 |
-| Assessment items (active) | 175 |
-| -- Test Yourself (TY) | 100 |
-| -- Unit Progress Evaluation (UPE) | 75 |
+| Chapters | 11 |
+| Lessons | 29 |
+| Subobjectives | 68 |
+| Assessment items (active) | 210 |
+| -- Test Yourself (TY) | 110 |
+| -- Unit Progress Evaluation (UPE) | 100 |
 | -- Final exam | 0 |
 | Bibliography entries | 0 |
 
@@ -126,6 +126,7 @@ title: "MIN261S fact sheet"
   - `9.1.1` 
   - `9.1.2` 
 - **Lesson**
+  - `9.2.1` 
   - `9.2.2` 
 - **Lesson**
   - `9.3.1` 
@@ -144,3 +145,11 @@ title: "MIN261S fact sheet"
   - `10.2.2` 
   - `10.2.3` 
   - `10.2.4` 
+
+### Chapter 11: 
+
+- **Lesson**
+  - `11.1.1` 
+  - `11.1.2` 
+  - `11.1.3` 
+  - `11.1.4` 

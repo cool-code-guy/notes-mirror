@@ -282,11 +282,15 @@ title: "BIB117S — full lesson text"
 
 ### Lesson
 
+#### 11.1.1
+
 #### 11.1.2
 
 #### 11.1.3
 
 ### Lesson
+
+#### 11.2.1
 
 #### 11.2.2
 
@@ -296,13 +300,19 @@ title: "BIB117S — full lesson text"
 
 ### Lesson
 
+#### 11.3.1
+
 #### 11.3.2
+
+#### 11.3.3
 
 ### Lesson
 
 #### 11.4.1
 
 #### 11.4.2
+
+#### 11.4.3
 
 ## Chapter
 
@@ -345,7 +355,5 @@ title: "BIB117S — full lesson text"
 #### 13.2.2
 
 ### Lesson
-
-#### 13.3.1
 
 #### 13.3.2

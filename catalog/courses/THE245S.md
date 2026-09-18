@@ -15,9 +15,9 @@ title: "THE245S fact sheet"
 | --- | --- |
 | Chapters | 13 |
 | Lessons | 37 |
-| Subobjectives | 95 |
-| Assessment items (active) | 220 |
-| -- Test Yourself (TY) | 120 |
+| Subobjectives | 96 |
+| Assessment items (active) | 230 |
+| -- Test Yourself (TY) | 130 |
 | -- Unit Progress Evaluation (UPE) | 100 |
 | -- Final exam | 0 |
 | Bibliography entries | 0 |
@@ -178,6 +178,7 @@ title: "THE245S fact sheet"
 
 - **Lesson**
   - `12.1.1` 
+  - `12.1.2` 
   - `12.1.3` 
 - **Lesson**
   - `12.2.1` 

@@ -15,10 +15,10 @@ title: "MIN327S fact sheet"
 | --- | --- |
 | Chapters | 14 |
 | Lessons | 54 |
-| Subobjectives | 104 |
-| Assessment items (active) | 190 |
+| Subobjectives | 107 |
+| Assessment items (active) | 240 |
 | -- Test Yourself (TY) | 140 |
-| -- Unit Progress Evaluation (UPE) | 50 |
+| -- Unit Progress Evaluation (UPE) | 100 |
 | -- Final exam | 0 |
 | Bibliography entries | 0 |
 
@@ -159,6 +159,7 @@ title: "MIN327S fact sheet"
   - `10.3.2` 
 - **Lesson**
   - `10.4.1` 
+  - `10.4.2` 
   - `10.4.3` 
   - `10.4.4` 
 
@@ -216,8 +217,10 @@ title: "MIN327S fact sheet"
   - `14.1.2` 
 - **Lesson**
   - `14.2.2` 
+  - `14.2.3` 
 - **Lesson**
   - `14.3.1` 
+  - `14.3.2` 
 - **Lesson**
   - `14.4.1` 
   - `14.4.2` 

@@ -14,10 +14,10 @@ title: "MIN123S fact sheet"
 | Measure | Count |
 | --- | --- |
 | Chapters | 15 |
-| Lessons | 41 |
-| Subobjectives | 145 |
-| Assessment items (active) | 305 |
-| -- Test Yourself (TY) | 130 |
+| Lessons | 42 |
+| Subobjectives | 155 |
+| Assessment items (active) | 325 |
+| -- Test Yourself (TY) | 150 |
 | -- Unit Progress Evaluation (UPE) | 75 |
 | -- Final exam | 100 |
 | Bibliography entries | 0 |
@@ -243,14 +243,25 @@ title: "MIN123S fact sheet"
 ### Chapter 14: 
 
 - **Lesson**
+  - `14.1.1` 
+  - `14.1.2` 
+  - `14.1.3` 
   - `14.1.4` 
 - **Lesson**
+  - `14.2.1` 
   - `14.2.2` 
+  - `14.2.3` 
   - `14.2.4` 
 
 ### Chapter 15: 
 
 - **Lesson**
+  - `15.1.1` 
+  - `15.1.2` 
+  - `15.1.3` 
+  - `15.1.4` 
+- **Lesson**
   - `15.2.1` 
   - `15.2.2` 
+  - `15.2.3` 
   - `15.2.4` 

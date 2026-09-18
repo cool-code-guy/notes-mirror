@@ -5,7 +5,7 @@ courses:
     title: Relaciones interpersonales y la ética en el ministerio
     status: active
     language: ES
-    translates: MIN183
+    translates: MIN181
     PN: 02.22.01
     chapters:
     - chapter: 1
@@ -48,6 +48,8 @@ courses:
       - lesson: 4
         subobjectives:
           3.4.2: {}
+          3.4.1: {}
+          3.4.4: {}
     - chapter: 4
       lessons:
       - lesson: 1
@@ -85,6 +87,7 @@ courses:
       - lesson: 3
         subobjectives:
           6.3.1: {}
+          6.3.2: {}
     - chapter: 7
       lessons:
       - lesson: 1
@@ -99,6 +102,7 @@ courses:
           7.3.1: {}
           7.3.3: {}
           7.3.4: {}
+          7.3.2: {}
     - chapter: 8
       lessons:
       - lesson: 1
@@ -141,6 +145,7 @@ courses:
       - lesson: 4
         subobjectives:
           10.4.1: {}
+          10.4.2: {}
     - chapter: 11
       lessons:
       - lesson: 1
@@ -188,6 +193,7 @@ courses:
       - lesson: 2
         subobjectives:
           14.2.1: {}
+          14.2.2: {}
     - chapter: 15
       lessons:
       - lesson: 1
