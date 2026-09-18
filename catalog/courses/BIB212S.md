@@ -16,9 +16,9 @@ title: "BIB212S fact sheet"
 | Chapters | 13 |
 | Lessons | 39 |
 | Subobjectives | 76 |
-| Assessment items (active) | 130 |
+| Assessment items (active) | 205 |
 | -- Test Yourself (TY) | 130 |
-| -- Unit Progress Evaluation (UPE) | 0 |
+| -- Unit Progress Evaluation (UPE) | 75 |
 | -- Final exam | 0 |
 | Bibliography entries | 0 |
 

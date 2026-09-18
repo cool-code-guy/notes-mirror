@@ -15,10 +15,10 @@ title: "BIB322S fact sheet"
 | --- | --- |
 | Chapters | 8 |
 | Lessons | 27 |
-| Subobjectives | 74 |
-| Assessment items (active) | 80 |
+| Subobjectives | 80 |
+| Assessment items (active) | 155 |
 | -- Test Yourself (TY) | 80 |
-| -- Unit Progress Evaluation (UPE) | 0 |
+| -- Unit Progress Evaluation (UPE) | 75 |
 | -- Final exam | 0 |
 | Bibliography entries | 0 |
 
@@ -59,6 +59,7 @@ title: "BIB322S fact sheet"
 
 - **Lesson**
   - `3.1.1` 
+  - `3.1.2` 
   - `3.1.3` 
 - **Lesson**
   - `3.2.1` 
@@ -69,6 +70,7 @@ title: "BIB322S fact sheet"
 - **Lesson**
   - `3.4.1` 
   - `3.4.2` 
+  - `3.4.3` 
 - **Lesson**
   - `3.5.2` 
   - `3.5.3` 
@@ -117,6 +119,7 @@ title: "BIB322S fact sheet"
   - `6.3.1` 
   - `6.3.2` 
 - **Lesson**
+  - `6.4.1` 
   - `6.4.3` 
   - `6.4.4` 
 
@@ -126,6 +129,7 @@ title: "BIB322S fact sheet"
   - `7.1.1` 
   - `7.1.2` 
   - `7.1.3` 
+  - `7.1.4` 
 - **Lesson**
   - `7.2.1` 
   - `7.2.2` 
@@ -136,10 +140,12 @@ title: "BIB322S fact sheet"
 - **Lesson**
   - `7.4.1` 
   - `7.4.3` 
+  - `7.4.4` 
 
 ### Chapter 8: 
 
 - **Lesson**
+  - `8.1.1` 
   - `8.1.2` 
   - `8.1.3` 
   - `8.1.4` 

@@ -16,6 +16,8 @@ title: "BIB115S — full lesson text"
 
 #### 1.2.2
 
+#### 1.2.3
+
 #### 1.2.4
 
 ### Lesson
@@ -189,6 +191,8 @@ title: "BIB115S — full lesson text"
 #### 13.2.1
 
 ### Lesson
+
+#### 13.3.1
 
 #### 13.3.2
 

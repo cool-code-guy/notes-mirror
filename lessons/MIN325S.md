@@ -36,6 +36,8 @@ title: "MIN325S — full lesson text"
 
 #### 2.3.1
 
+#### 2.3.2
+
 ## Chapter
 
 ### Lesson
@@ -79,6 +81,8 @@ title: "MIN325S — full lesson text"
 #### 5.2.1
 
 #### 5.2.3
+
+#### 5.2.4
 
 ## Chapter
 

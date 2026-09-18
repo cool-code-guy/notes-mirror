@@ -15,10 +15,10 @@ title: "MIN325S fact sheet"
 | --- | --- |
 | Chapters | 12 |
 | Lessons | 27 |
-| Subobjectives | 55 |
-| Assessment items (active) | 120 |
+| Subobjectives | 57 |
+| Assessment items (active) | 220 |
 | -- Test Yourself (TY) | 120 |
-| -- Unit Progress Evaluation (UPE) | 0 |
+| -- Unit Progress Evaluation (UPE) | 100 |
 | -- Final exam | 0 |
 | Bibliography entries | 0 |
 
@@ -43,6 +43,7 @@ title: "MIN325S fact sheet"
   - `2.2.1` 
 - **Lesson**
   - `2.3.1` 
+  - `2.3.2` 
 
 ### Chapter 3: 
 
@@ -71,6 +72,7 @@ title: "MIN325S fact sheet"
 - **Lesson**
   - `5.2.1` 
   - `5.2.3` 
+  - `5.2.4` 
 
 ### Chapter 6: 
 

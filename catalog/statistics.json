@@ -83,7 +83,7 @@
     ],
     "total": 58
   },
-  "generated": "2026-09-17",
+  "generated": "2026-09-18",
   "per_course": {
     "BIB111": {
       "questions": {
@@ -143,9 +143,9 @@
       "questions": {
         "active": {
           "final": 0,
-          "total": 120,
+          "total": 195,
           "ty": 120,
-          "upe": 0
+          "upe": 75
         },
         "retired": {
           "final": 0,
@@ -180,9 +180,9 @@
       "questions": {
         "active": {
           "final": 98,
-          "total": 218,
+          "total": 318,
           "ty": 120,
-          "upe": 0
+          "upe": 100
         },
         "retired": {
           "final": 0,
@@ -326,9 +326,9 @@
       "questions": {
         "active": {
           "final": 0,
-          "total": 130,
+          "total": 205,
           "ty": 130,
-          "upe": 0
+          "upe": 75
         },
         "retired": {
           "final": 0,
@@ -525,9 +525,9 @@
       "questions": {
         "active": {
           "final": 0,
-          "total": 80,
+          "total": 155,
           "ty": 80,
-          "upe": 0
+          "upe": 75
         },
         "retired": {
           "final": 0,
@@ -598,9 +598,9 @@
       "questions": {
         "active": {
           "final": 80,
-          "total": 250,
+          "total": 325,
           "ty": 170,
-          "upe": 0
+          "upe": 75
         },
         "retired": {
           "final": 0,
@@ -869,9 +869,9 @@
       "questions": {
         "active": {
           "final": 0,
-          "total": 120,
+          "total": 220,
           "ty": 120,
-          "upe": 0
+          "upe": 100
         },
         "retired": {
           "final": 0,
@@ -1141,9 +1141,9 @@
   "questions": {
     "active": {
       "final": 2140,
-      "total": 11845,
+      "total": 12345,
       "ty": 6276,
-      "upe": 3429
+      "upe": 3929
     },
     "retired": {
       "final": 602,
@@ -1151,6 +1151,6 @@
       "ty": 1945,
       "upe": 1459
     },
-    "total": 15851
+    "total": 16351
   }
 }

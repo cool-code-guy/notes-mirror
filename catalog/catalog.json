@@ -2660,18 +2660,51 @@
           ],
           "print_page": null,
           "title": null
+        },
+        {
+          "lessons": [
+            {
+              "subobjectives": [
+                {
+                  "id": "13.1.1",
+                  "text": null
+                }
+              ],
+              "title": null
+            },
+            {
+              "subobjectives": [
+                {
+                  "id": "13.2.1",
+                  "text": null
+                }
+              ],
+              "title": null
+            },
+            {
+              "subobjectives": [
+                {
+                  "id": "13.3.1",
+                  "text": null
+                }
+              ],
+              "title": null
+            }
+          ],
+          "print_page": null,
+          "title": null
         }
       ],
       "code": "BIB114S",
       "counts": {
         "bibliography_entries": 0,
-        "chapters": 12,
-        "lessons": 38,
-        "questions_active": 120,
+        "chapters": 13,
+        "lessons": 41,
+        "questions_active": 195,
         "questions_final": 0,
         "questions_ty": 120,
-        "questions_upe": 0,
-        "subobjectives": 74
+        "questions_upe": 75,
+        "subobjectives": 77
       },
       "course_objectives": [],
       "edition_pn": "01.22.01",
@@ -3242,6 +3275,10 @@
                   "text": null
                 },
                 {
+                  "id": "1.2.3",
+                  "text": null
+                },
+                {
                   "id": "1.2.4",
                   "text": null
                 }
@@ -3650,6 +3687,10 @@
             {
               "subobjectives": [
                 {
+                  "id": "13.3.1",
+                  "text": null
+                },
+                {
                   "id": "13.3.2",
                   "text": null
                 },
@@ -3670,11 +3711,11 @@
         "bibliography_entries": 0,
         "chapters": 13,
         "lessons": 38,
-        "questions_active": 218,
+        "questions_active": 318,
         "questions_final": 98,
         "questions_ty": 120,
-        "questions_upe": 0,
-        "subobjectives": 44
+        "questions_upe": 100,
+        "subobjectives": 46
       },
       "course_objectives": [],
       "edition_pn": "02.22.01",
@@ -9160,10 +9201,10 @@
         "bibliography_entries": 0,
         "chapters": 13,
         "lessons": 39,
-        "questions_active": 130,
+        "questions_active": 205,
         "questions_final": 0,
         "questions_ty": 130,
-        "questions_upe": 0,
+        "questions_upe": 75,
         "subobjectives": 76
       },
       "course_objectives": [],
@@ -15487,6 +15528,10 @@
                   "text": null
                 },
                 {
+                  "id": "3.1.2",
+                  "text": null
+                },
+                {
                   "id": "3.1.3",
                   "text": null
                 }
@@ -15527,6 +15572,10 @@
                 },
                 {
                   "id": "3.4.2",
+                  "text": null
+                },
+                {
+                  "id": "3.4.3",
                   "text": null
                 }
               ],
@@ -15715,6 +15764,10 @@
             {
               "subobjectives": [
                 {
+                  "id": "6.4.1",
+                  "text": null
+                },
+                {
                   "id": "6.4.3",
                   "text": null
                 },
@@ -15743,6 +15796,10 @@
                 },
                 {
                   "id": "7.1.3",
+                  "text": null
+                },
+                {
+                  "id": "7.1.4",
                   "text": null
                 }
               ],
@@ -15787,6 +15844,10 @@
                 {
                   "id": "7.4.3",
                   "text": null
+                },
+                {
+                  "id": "7.4.4",
+                  "text": null
                 }
               ],
               "title": null
@@ -15799,6 +15860,10 @@
           "lessons": [
             {
               "subobjectives": [
+                {
+                  "id": "8.1.1",
+                  "text": null
+                },
                 {
                   "id": "8.1.2",
                   "text": null
@@ -15845,11 +15910,11 @@
         "bibliography_entries": 0,
         "chapters": 8,
         "lessons": 27,
-        "questions_active": 80,
+        "questions_active": 155,
         "questions_final": 0,
         "questions_ty": 80,
-        "questions_upe": 0,
-        "subobjectives": 74
+        "questions_upe": 75,
+        "subobjectives": 80
       },
       "course_objectives": [],
       "edition_pn": "02.14.02",
@@ -18927,10 +18992,10 @@
         "bibliography_entries": 0,
         "chapters": 17,
         "lessons": 43,
-        "questions_active": 250,
+        "questions_active": 325,
         "questions_final": 80,
         "questions_ty": 170,
-        "questions_upe": 0,
+        "questions_upe": 75,
         "subobjectives": 49
       },
       "course_objectives": [],
@@ -26805,6 +26870,10 @@
                 {
                   "id": "2.3.1",
                   "text": null
+                },
+                {
+                  "id": "2.3.2",
+                  "text": null
                 }
               ],
               "title": null
@@ -26904,6 +26973,10 @@
                 },
                 {
                   "id": "5.2.3",
+                  "text": null
+                },
+                {
+                  "id": "5.2.4",
                   "text": null
                 }
               ],
@@ -27173,11 +27246,11 @@
         "bibliography_entries": 0,
         "chapters": 12,
         "lessons": 27,
-        "questions_active": 120,
+        "questions_active": 220,
         "questions_final": 0,
         "questions_ty": 120,
-        "questions_upe": 0,
-        "subobjectives": 55
+        "questions_upe": 100,
+        "subobjectives": 57
       },
       "course_objectives": [],
       "edition_pn": "02.14.01",
@@ -36765,9 +36838,9 @@
     "questions": {
       "active": {
         "final": 2140,
-        "total": 11845,
+        "total": 12345,
         "ty": 6276,
-        "upe": 3429
+        "upe": 3929
       },
       "retired": {
         "final": 602,
@@ -36775,7 +36848,7 @@
         "ty": 1945,
         "upe": 1459
       },
-      "total": 15851
+      "total": 16351
     }
   },
   "tracks": [

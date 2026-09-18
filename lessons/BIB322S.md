@@ -64,6 +64,8 @@ title: "BIB322S — full lesson text"
 
 #### 3.1.1
 
+#### 3.1.2
+
 #### 3.1.3
 
 ### Lesson
@@ -83,6 +85,8 @@ title: "BIB322S — full lesson text"
 #### 3.4.1
 
 #### 3.4.2
+
+#### 3.4.3
 
 ### Lesson
 
@@ -168,6 +172,8 @@ title: "BIB322S — full lesson text"
 
 ### Lesson
 
+#### 6.4.1
+
 #### 6.4.3
 
 #### 6.4.4
@@ -181,6 +187,8 @@ title: "BIB322S — full lesson text"
 #### 7.1.2
 
 #### 7.1.3
+
+#### 7.1.4
 
 ### Lesson
 
@@ -202,9 +210,13 @@ title: "BIB322S — full lesson text"
 
 #### 7.4.3
 
+#### 7.4.4
+
 ## Chapter
 
 ### Lesson
+
+#### 8.1.1
 
 #### 8.1.2
 

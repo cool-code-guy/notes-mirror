@@ -281,7 +281,7 @@ Level 1 · 13 chapters · 43 lessons · 79 subobjectives
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/BIB114S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/BIB114S.html)
 
-Level n/a · 12 chapters · 38 lessons · 74 subobjectives
+Level n/a · 13 chapters · 41 lessons · 77 subobjectives
 
 **Chapter**
 - Lesson (1.1.1)
@@ -345,17 +345,22 @@ Level n/a · 12 chapters · 38 lessons · 74 subobjectives
 - Lesson (12.2.1, 12.2.2)
 - Lesson (12.3.1)
 
+**Chapter**
+- Lesson (13.1.1)
+- Lesson (13.2.1)
+- Lesson (13.3.1)
+
 ---
 
 ## BIB115S — Hechos: La obra del Espíritu Santo en los creyentes
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/BIB115S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/BIB115S.html)
 
-Level n/a · 13 chapters · 38 lessons · 44 subobjectives
+Level n/a · 13 chapters · 38 lessons · 46 subobjectives
 
 **Chapter**
 - Lesson (1.1.1)
-- Lesson (1.2.1, 1.2.2, 1.2.4)
+- Lesson (1.2.1, 1.2.2, 1.2.3, 1.2.4)
 - Lesson (1.3.1)
 
 **Chapter**
@@ -415,7 +420,7 @@ Level n/a · 13 chapters · 38 lessons · 44 subobjectives
 **Chapter**
 - Lesson (13.1.1, 13.1.2)
 - Lesson (13.2.1)
-- Lesson (13.3.2, 13.3.3)
+- Lesson (13.3.1, 13.3.2, 13.3.3)
 
 ---
 
@@ -1499,7 +1504,7 @@ Level 3 · 8 chapters · 27 lessons · 86 subobjectives
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/BIB322S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/BIB322S.html)
 
-Level n/a · 8 chapters · 27 lessons · 74 subobjectives
+Level n/a · 8 chapters · 27 lessons · 80 subobjectives
 
 **Chapter**
 - Lesson (1.1.1, 1.1.2, 1.1.3)
@@ -1512,10 +1517,10 @@ Level n/a · 8 chapters · 27 lessons · 74 subobjectives
 - Lesson (2.3.1, 2.3.2, 2.3.3, 2.3.4, 2.3.5)
 
 **Chapter**
-- Lesson (3.1.1, 3.1.3)
+- Lesson (3.1.1, 3.1.2, 3.1.3)
 - Lesson (3.2.1, 3.2.2, 3.2.3)
 - Lesson (3.3.1)
-- Lesson (3.4.1, 3.4.2)
+- Lesson (3.4.1, 3.4.2, 3.4.3)
 - Lesson (3.5.2, 3.5.3)
 
 **Chapter**
@@ -1532,16 +1537,16 @@ Level n/a · 8 chapters · 27 lessons · 74 subobjectives
 - Lesson (6.1.1, 6.1.2)
 - Lesson (6.2.2, 6.2.3, 6.2.4, 6.2.5)
 - Lesson (6.3.1, 6.3.2)
-- Lesson (6.4.3, 6.4.4)
+- Lesson (6.4.1, 6.4.3, 6.4.4)
 
 **Chapter**
-- Lesson (7.1.1, 7.1.2, 7.1.3)
+- Lesson (7.1.1, 7.1.2, 7.1.3, 7.1.4)
 - Lesson (7.2.1, 7.2.2)
 - Lesson (7.3.1, 7.3.2, 7.3.3)
-- Lesson (7.4.1, 7.4.3)
+- Lesson (7.4.1, 7.4.3, 7.4.4)
 
 **Chapter**
-- Lesson (8.1.2, 8.1.3, 8.1.4)
+- Lesson (8.1.1, 8.1.2, 8.1.3, 8.1.4)
 - Lesson (8.2.1, 8.2.2, 8.2.3, 8.2.4)
 
 ---
@@ -2796,7 +2801,7 @@ Level 3 · 12 chapters · 27 lessons · 61 subobjectives
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/MIN325S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/MIN325S.html)
 
-Level n/a · 12 chapters · 27 lessons · 55 subobjectives
+Level n/a · 12 chapters · 27 lessons · 57 subobjectives
 
 **Chapter**
 - Lesson (1.1.1, 1.1.2)
@@ -2805,7 +2810,7 @@ Level n/a · 12 chapters · 27 lessons · 55 subobjectives
 **Chapter**
 - Lesson (2.1.1, 2.1.2, 2.1.3)
 - Lesson (2.2.1)
-- Lesson (2.3.1)
+- Lesson (2.3.1, 2.3.2)
 
 **Chapter**
 - Lesson (3.1.1, 3.1.2)
@@ -2817,7 +2822,7 @@ Level n/a · 12 chapters · 27 lessons · 55 subobjectives
 
 **Chapter**
 - Lesson (5.1.1, 5.1.2)
-- Lesson (5.2.1, 5.2.3)
+- Lesson (5.2.1, 5.2.3, 5.2.4)
 
 **Chapter**
 - Lesson (6.1.1, 6.1.2)
