@@ -14,7 +14,7 @@ Active content only — retired material is excluded from every figure.
 | --- | --- |
 | Active courses | 49 |
 | Retired courses | 9 |
-| Assessment items | 12,889 |
+| Assessment items | 12,832 |
 | Curriculum paragraphs | 111,452 |
 | Interactive study questions | 10,713 |
 | Scripture references | 41,482 |
@@ -51,7 +51,7 @@ Published sequence toward Licensed Minister credentialing.
 | --- | --- | --- | --- |
 | 1 | Intermediate Ministerial Internship — *not tracked in examdb (practicum course)* | | |
 | 2 | [BIB211](courses/BIB211.md) — Acts: The Holy Spirit at Work in Believers | 2 | 285 |
-| 3 | [MIN227](courses/MIN227.md) — The Local Church in Evangelism | 2 | 473 |
+| 3 | [MIN227](courses/MIN227.md) — The Local Church in Evangelism | 2 | 416 |
 | 4 | [BIB217](courses/BIB217.md) — Prison Epistles | 2 | 301 |
 | 5 | [BIB215](courses/BIB215.md) — Romans: Justification by Faith | 2 | 244 |
 | 6 | [MIN223](courses/MIN223.md) — Introduction to Homiletics · proposed renumber to `MIN225` | 2 | 337 |
@@ -110,7 +110,7 @@ Published sequence toward Ordained Minister credentialing.
 | [MIN183S](courses/MIN183S.md) | Relaciones y ética en el ministerio |  | 01.26.01 | 12 | 58 | 218 |
 | [MIN223](courses/MIN223.md) | Introduction to Homiletics | 2 | 03.22.01 | 14 | 45 | 337 |
 | [MIN223S](courses/MIN223S.md) | Introducción a la homilética |  | 02.22.01 | 14 | 44 | 215 |
-| [MIN227](courses/MIN227.md) | The Local Church in Evangelism | 2 | 03.22.01 | 15 | 43 | 473 |
+| [MIN227](courses/MIN227.md) | The Local Church in Evangelism | 2 | 03.22.01 | 15 | 43 | 416 |
 | [MIN251](courses/MIN251.md) | Effective Leadership | 2 | 03.26.01 | 12 | 42 | 263 |
 | [MIN251S](courses/MIN251S.md) | Liderazgo eficaz |  | 02.22.01 | 12 | 35 | 195 |
 | [MIN261](courses/MIN261.md) | Introduction to AG Missions | 2 | 02.22.01 | 11 | 29 | 311 |
