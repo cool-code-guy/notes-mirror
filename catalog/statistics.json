@@ -724,16 +724,16 @@
     "MIN227": {
       "questions": {
         "active": {
-          "final": 142,
-          "total": 603,
+          "final": 133,
+          "total": 591,
           "ty": 262,
-          "upe": 199
+          "upe": 196
         },
         "retired": {
-          "final": 0,
-          "total": 282,
+          "final": 9,
+          "total": 303,
           "ty": 199,
-          "upe": 83
+          "upe": 95
         }
       },
       "status": "active",
@@ -1140,17 +1140,17 @@
   },
   "questions": {
     "active": {
-      "final": 2212,
-      "total": 13019,
+      "final": 2203,
+      "total": 13007,
       "ty": 6288,
-      "upe": 4519
+      "upe": 4516
     },
     "retired": {
-      "final": 602,
-      "total": 4078,
+      "final": 611,
+      "total": 4099,
       "ty": 2017,
-      "upe": 1459
+      "upe": 1471
     },
-    "total": 17097
+    "total": 17106
   }
 }
