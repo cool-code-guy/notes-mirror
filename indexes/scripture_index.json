@@ -1859,7 +1859,7 @@
         15,
         16
       ],
-      "course_count": 26,
+      "course_count": 27,
       "courses": [
         "BIB111",
         "BIB114",
@@ -1875,6 +1875,7 @@
         "BIB313",
         "BIB318",
         "MIN123",
+        "MIN171",
         "MIN183",
         "MIN223",
         "MIN227",
@@ -1888,7 +1889,7 @@
         "THE245",
         "THE311"
       ],
-      "mentions": 1318
+      "mentions": 1319
     },
     "matthew": {
       "chapters_referenced": [
@@ -42555,6 +42556,7 @@
       "MIN123.14.1.2",
       "MIN123.14.1.3",
       "MIN123.14.1.4",
+      "MIN171.2.2.1",
       "MIN223.1.2.1",
       "MIN223.1.2.2",
       "MIN223.1.2.3",
@@ -60143,6 +60145,6 @@
     ]
   },
   "index_version": 1,
-  "total_mentions": 41482,
+  "total_mentions": 41483,
   "unique_keys": 8882
 }
