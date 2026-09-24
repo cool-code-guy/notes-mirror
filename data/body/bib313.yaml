@@ -6795,6 +6795,11 @@ courses:
       note: backfilled from BBIB313ENE03-90_03.26.01.html on file; date is year precision
         from the PN, not a recorded press date
     body_baseline_pn: 03.26.01
+    bsb_revit: 1
+    bsb_revit_history:
+    - n: 1
+      date: '2026-09-24'
+      via: seeded
     chapters:
     - last_modified: '2026-05-28'
       title: 1 - Unchristian Conduct and Attitudes (1 Corinthians 1–4)

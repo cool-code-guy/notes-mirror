@@ -6304,6 +6304,11 @@ courses:
       product_id: BMIN251ENE03-90_03.26.01
       captured: reparse
     deployed_pn: 03.26.01
+    bsb_revit: 1
+    bsb_revit_history:
+    - n: 1
+      date: '2026-09-24'
+      via: seeded
     chapters:
     - last_modified: '2026-06-12'
       title: 1 - The Foundation of Christ-Centered Leadership

@@ -9871,6 +9871,11 @@ courses:
       product_id: BBIB217ENE01-90_01.26.01
       captured: reparse
     deployed_pn: 01.26.01
+    bsb_revit: 1
+    bsb_revit_history:
+    - n: 1
+      date: '2026-09-24'
+      via: seeded
     chapters:
     - last_modified: '2026-03-27'
       title: 1 - Introducing Colossians (1:1–14)

@@ -9045,6 +9045,11 @@ courses:
       PN: 01.26.01
       note: backfilled from BBIB111ENE01-90_01.26.01.html on file; date is year precision
         from the PN, not a recorded press date
+    bsb_revit: 1
+    bsb_revit_history:
+    - n: 1
+      date: '2026-09-24'
+      via: seeded
     chapters:
     - last_modified: '2026-05-28'
       title: 1 - Treasures from the Old Testament
