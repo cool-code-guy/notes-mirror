@@ -7668,6 +7668,29 @@ courses:
               paragraph: MIN223.1.1.1.P.2.3
               page: 17
               UID: MIN223.1.1.1.G.1
+            interactive_questions:
+            - p: 1
+              text: How would you describe the primary work of the pastor?
+              response: Caring for and nourishing the believers
+              UID: MIN223.1.1.1.IQ.1
+            - p: 2
+              text: What must a pastor know in order to prepare effective sermons?
+              response: The needs of his or her members and the Bible
+              UID: MIN223.1.1.1.IQ.2
+            - p: 3
+              text: List four ways in which preaching positively affects worship.
+              response: (1) Inspires to worship; (2) Reminds of reasons for worship;
+                (3) Eliminates ritualism and excessive emotionalism; (4) Molds attitudes
+                regarding worship
+              UID: MIN223.1.1.1.IQ.3
+            - p: 4
+              text: How would you take advantage of audience feedback (nonverbal communication)
+                while preaching a sermon?
+              response: 'Your answer should be similar to the following: Depending
+                on how the audience responds, a preacher can spontaneously alter the
+                length of his or her message. He or she can be open to the guidance
+                of the Holy Spirit and make changes in his or her sermon accordingly.'
+              UID: MIN223.1.1.1.IQ.4
           1.1.2:
             body:
             - p: 1
@@ -8274,6 +8297,29 @@ courses:
               outdated_reason: re-parsed
             text: Identify ways in which preaching affects worship.
             glossary: []
+            interactive_questions:
+            - p: 1
+              text: How would you describe the primary work of the pastor?
+              response: Caring for and nourishing the believers
+              UID: MIN223.1.1.2.IQ.1
+            - p: 2
+              text: What must a pastor know in order to prepare effective sermons?
+              response: The needs of his or her members and the Bible
+              UID: MIN223.1.1.2.IQ.2
+            - p: 3
+              text: List four ways in which preaching positively affects worship.
+              response: (1) Inspires to worship; (2) Reminds of reasons for worship;
+                (3) Eliminates ritualism and excessive emotionalism; (4) Molds attitudes
+                regarding worship
+              UID: MIN223.1.1.2.IQ.3
+            - p: 4
+              text: How would you take advantage of audience feedback (nonverbal communication)
+                while preaching a sermon?
+              response: 'Your answer should be similar to the following: Depending
+                on how the audience responds, a preacher can spontaneously alter the
+                length of his or her message. He or she can be open to the guidance
+                of the Holy Spirit and make changes in his or her sermon accordingly.'
+              UID: MIN223.1.1.2.IQ.4
           1.1.3:
             body:
             - p: 1
@@ -8880,6 +8926,29 @@ courses:
               outdated_reason: re-parsed
             text: Compare preaching with other kinds of mass communication.
             glossary: []
+            interactive_questions:
+            - p: 1
+              text: How would you describe the primary work of the pastor?
+              response: Caring for and nourishing the believers
+              UID: MIN223.1.1.3.IQ.1
+            - p: 2
+              text: What must a pastor know in order to prepare effective sermons?
+              response: The needs of his or her members and the Bible
+              UID: MIN223.1.1.3.IQ.2
+            - p: 3
+              text: List four ways in which preaching positively affects worship.
+              response: (1) Inspires to worship; (2) Reminds of reasons for worship;
+                (3) Eliminates ritualism and excessive emotionalism; (4) Molds attitudes
+                regarding worship
+              UID: MIN223.1.1.3.IQ.3
+            - p: 4
+              text: How would you take advantage of audience feedback (nonverbal communication)
+                while preaching a sermon?
+              response: 'Your answer should be similar to the following: Depending
+                on how the audience responds, a preacher can spontaneously alter the
+                length of his or her message. He or she can be open to the guidance
+                of the Holy Spirit and make changes in his or her sermon accordingly.'
+              UID: MIN223.1.1.3.IQ.4
       - last_modified: '2026-05-22'
         title: Importance of Preaching
         subobjectives:
@@ -10074,6 +10143,30 @@ courses:
               paragraph: MIN223.1.2.1.P.44
               page: 21
               UID: MIN223.1.2.1.G.1
+            interactive_questions:
+            - p: 5
+              text: Explain how Mark 1:14; John 1:14; Mark 16:15; and Mark 1:38 demonstrate
+                the importance of preaching.
+              response: Mark 1:14—Jesus gave a high priority to preaching in His ministry.
+                John 1:14—The incarnation shows us the need for a personal revelation.
+                Through preaching, God continues to confront people. Mark 16:15—Jesus
+                commanded the disciples to preach. Mark 1:38—Jesus had a compulsion
+                to preach.
+              UID: MIN223.1.2.1.IQ.1
+            - p: 6
+              text: How was preaching reflected in the church throughout history?
+              response: The spiritual condition of the church is dependent on preaching.
+              UID: MIN223.1.2.1.IQ.2
+            - p: 7
+              text: What might be some of the practical results of a sermon on 1 Peter
+                1:15–16?
+              response: 'Your answer. I have noted three possible responses: (1) Replace
+                the negative habits with positive qualities; for example, replace
+                stealing and cheating with honesty, immorality with purity and fidelity,
+                lying with truthfulness. (2) Create a willingness to stand true to
+                God instead of compromising the witness. (3) Produce greater care
+                in personal relationships and action.'
+              UID: MIN223.1.2.1.IQ.3
           1.2.2:
             body:
             - p: 1
@@ -11259,6 +11352,30 @@ courses:
               outdated_reason: re-parsed
             text: Describe the role of preaching in the history of Christianity.
             glossary: []
+            interactive_questions:
+            - p: 5
+              text: Explain how Mark 1:14; John 1:14; Mark 16:15; and Mark 1:38 demonstrate
+                the importance of preaching.
+              response: Mark 1:14—Jesus gave a high priority to preaching in His ministry.
+                John 1:14—The incarnation shows us the need for a personal revelation.
+                Through preaching, God continues to confront people. Mark 16:15—Jesus
+                commanded the disciples to preach. Mark 1:38—Jesus had a compulsion
+                to preach.
+              UID: MIN223.1.2.2.IQ.1
+            - p: 6
+              text: How was preaching reflected in the church throughout history?
+              response: The spiritual condition of the church is dependent on preaching.
+              UID: MIN223.1.2.2.IQ.2
+            - p: 7
+              text: What might be some of the practical results of a sermon on 1 Peter
+                1:15–16?
+              response: 'Your answer. I have noted three possible responses: (1) Replace
+                the negative habits with positive qualities; for example, replace
+                stealing and cheating with honesty, immorality with purity and fidelity,
+                lying with truthfulness. (2) Create a willingness to stand true to
+                God instead of compromising the witness. (3) Produce greater care
+                in personal relationships and action.'
+              UID: MIN223.1.2.2.IQ.3
           1.2.3:
             body:
             - p: 1
@@ -12444,6 +12561,30 @@ courses:
               outdated_reason: re-parsed
             text: Identify some practical effects of the preach ing ministry.
             glossary: []
+            interactive_questions:
+            - p: 5
+              text: Explain how Mark 1:14; John 1:14; Mark 16:15; and Mark 1:38 demonstrate
+                the importance of preaching.
+              response: Mark 1:14—Jesus gave a high priority to preaching in His ministry.
+                John 1:14—The incarnation shows us the need for a personal revelation.
+                Through preaching, God continues to confront people. Mark 16:15—Jesus
+                commanded the disciples to preach. Mark 1:38—Jesus had a compulsion
+                to preach.
+              UID: MIN223.1.2.3.IQ.1
+            - p: 6
+              text: How was preaching reflected in the church throughout history?
+              response: The spiritual condition of the church is dependent on preaching.
+              UID: MIN223.1.2.3.IQ.2
+            - p: 7
+              text: What might be some of the practical results of a sermon on 1 Peter
+                1:15–16?
+              response: 'Your answer. I have noted three possible responses: (1) Replace
+                the negative habits with positive qualities; for example, replace
+                stealing and cheating with honesty, immorality with purity and fidelity,
+                lying with truthfulness. (2) Create a willingness to stand true to
+                God instead of compromising the witness. (3) Produce greater care
+                in personal relationships and action.'
+              UID: MIN223.1.2.3.IQ.3
       - last_modified: '2026-05-22'
         title: Improper Use of Preaching
         subobjectives:
@@ -14556,6 +14697,12 @@ courses:
               outdated_reason: re-parsed
             text: Explain the central place of Jesus Christ in biblical preaching.
             interactive_questions:
+            - p: 1
+              text: In your own words, explain the purpose of presenting the “redeeming
+                Christ” in preaching.
+              response: So that people will be convicted of sin, converted to God,
+                and challenged to attain spiritual maturity
+              UID: MIN223.2.1.1.IQ.5
             - p: 2
               text: What should the central theme of evangelical preaching FOCUS on?
               response: The atoning work of the cross
@@ -20555,6 +20702,16 @@ courses:
             text: Explain how the preacher’s Christian life relates to his or her
               role as a preacher.
             interactive_questions:
+            - p: 1
+              text: What is true preaching based on?
+              response: The preacher’s personal experience with God
+              UID: MIN223.3.1.1.IQ.6
+            - p: 2
+              text: How should 1 Timothy 1:15–16 affect those who are involved in
+                the preaching ministry?
+              response: A preacher should always remember his own conversion, realizing
+                that he, too, is a sinner saved by God’s grace.
+              UID: MIN223.3.1.1.IQ.7
             - p: 3
               text: How will you seek humility and a sense of identification with
                 members of your congregation?
@@ -21745,6 +21902,16 @@ courses:
             text: Describe the importance of the lordship of Christ and the power
               of the Holy Spirit.
             interactive_questions:
+            - p: 1
+              text: What is true preaching based on?
+              response: The preacher’s personal experience with God
+              UID: MIN223.3.1.2.IQ.6
+            - p: 2
+              text: How should 1 Timothy 1:15–16 affect those who are involved in
+                the preaching ministry?
+              response: A preacher should always remember his own conversion, realizing
+                that he, too, is a sinner saved by God’s grace.
+              UID: MIN223.3.1.2.IQ.7
             - p: 3
               text: How will you seek humility and a sense of identification with
                 members of your congregation?
@@ -42094,6 +42261,18 @@ courses:
             last_modified: '2026-05-22'
             text: Explain the purpose of the sermon objective.
             interactive_questions:
+            - p: 1
+              text: Explain the purpose of the sermon objective.
+              response: The purpose of the sermon objective is to focus on the goal
+                of the sermon. It should answer the questions, “Who is the audience?”
+                and “What should this sermon accomplish?”
+              UID: MIN223.6.1.1.IQ.4
+            - p: 2
+              text: Why is it necessary to focus on the objective before selecting
+                a sermon category?
+              response: It is necessary to focus on the objective before selecting
+                a sermon category because each objective may require a different approach.
+              UID: MIN223.6.1.1.IQ.5
             - p: 3
               text: How will 2 Timothy 4:2 affect your preaching priorities?
               response: Evangelistic sermons should have a place of priority in preaching.
@@ -42860,6 +43039,18 @@ courses:
             last_modified: '2026-05-22'
             text: State the characteristics of evangelistic preaching.
             interactive_questions:
+            - p: 1
+              text: Explain the purpose of the sermon objective.
+              response: The purpose of the sermon objective is to focus on the goal
+                of the sermon. It should answer the questions, “Who is the audience?”
+                and “What should this sermon accomplish?”
+              UID: MIN223.6.1.2.IQ.4
+            - p: 2
+              text: Why is it necessary to focus on the objective before selecting
+                a sermon category?
+              response: It is necessary to focus on the objective before selecting
+                a sermon category because each objective may require a different approach.
+              UID: MIN223.6.1.2.IQ.5
             - p: 3
               text: How will 2 Timothy 4:2 affect your preaching priorities?
               response: Evangelistic sermons should have a place of priority in preaching.
@@ -48190,6 +48381,17 @@ courses:
               outdated_reason: re-parsed
             text: Explain the importance of preparing a sermon outline.
             interactive_questions:
+            - p: 1
+              text: Read 1 Corinthians 14:7–11. How does sermon construction compare
+                with a musical presentation or the trumpet sound before a battle?
+                Why is a sermon outline important?
+              response: Just as each note of music has a distinct sound, each division
+                of the outline should be clear and separate. Together the divisions
+                make up the complete sermon, just as the various notes produce the
+                musical score. We place a great deal of importance on the trumpet
+                sound before battle. In the same way, a well-preached, effective sermon
+                will warn people of the dangers of sin.
+              UID: MIN223.8.1.1.IQ.3
             - p: 2
               text: Discuss the benefits of the sermon outline for both the preacher
                 and the hearer.
@@ -48629,6 +48831,17 @@ courses:
             text: Discuss the benefits of a sermon outline for both the preacher and
               the hearer.
             interactive_questions:
+            - p: 1
+              text: Read 1 Corinthians 14:7–11. How does sermon construction compare
+                with a musical presentation or the trumpet sound before a battle?
+                Why is a sermon outline important?
+              response: Just as each note of music has a distinct sound, each division
+                of the outline should be clear and separate. Together the divisions
+                make up the complete sermon, just as the various notes produce the
+                musical score. We place a great deal of importance on the trumpet
+                sound before battle. In the same way, a well-preached, effective sermon
+                will warn people of the dangers of sin.
+              UID: MIN223.8.1.2.IQ.3
             - p: 2
               text: Discuss the benefits of the sermon outline for both the preacher
                 and the hearer.
@@ -55041,6 +55254,7 @@ courses:
               paragraph: MIN223.9.3.1.P.33
               page: 118
               UID: MIN223.9.3.1.G.1
+            interactive_questions: []
     - last_modified: '2026-05-22'
       title: 10 - The Conclusion
       print_page: 124
@@ -60392,6 +60606,7 @@ courses:
             last_modified: '2026-05-22'
             text: Identify the basic principles of preparing effective conclusions.
             glossary: []
+            interactive_questions: []
     - last_modified: '2026-05-22'
       title: 11 - Sermon Delivery
       print_page: 134
@@ -70196,6 +70411,7 @@ courses:
               outdated_reason: re-parsed
             text: Identify the distinguishing characteristics of textual sermons.
             glossary: []
+            interactive_questions: []
       - last_modified: '2026-05-22'
         title: Forms
         subobjectives:
