@@ -4578,7 +4578,7 @@ courses:
               UID: THE311.1.1.1.IQ.1
             - p: 2
               text: How would you define prayer?
-              response: CHAPTER
+              response: Answers will vary.
               UID: THE311.1.1.1.IQ.2
             - p: 3
               text: Why do human beings seek spiritual experience?
@@ -4873,7 +4873,7 @@ courses:
               UID: THE311.1.1.2.IQ.1
             - p: 2
               text: How would you define prayer?
-              response: CHAPTER
+              response: Answers will vary.
               UID: THE311.1.1.2.IQ.2
             - p: 3
               text: Why do human beings seek spiritual experience?
@@ -5157,7 +5157,7 @@ courses:
               UID: THE311.1.1.3.IQ.1
             - p: 2
               text: How would you define prayer?
-              response: CHAPTER
+              response: Answers will vary.
               UID: THE311.1.1.3.IQ.2
             - p: 3
               text: Why do human beings seek spiritual experience?
@@ -7733,7 +7733,10 @@ courses:
               UID: THE311.2.1.1.IQ.2
             - p: 3
               text: With what was prayer associated under the Mosaic covenant?
-              response: CHAPTER
+              response: Prayer was closely associated with sacrifice. God began dealing
+                with His people under a national covenant given to Moses at Sinai.
+                The Law required that nearly everything be cleansed with blood, for
+                without the shedding of blood there is no forgiveness.
               UID: THE311.2.1.1.IQ.3
             - p: 4
               text: What impact was made by a lack of prayer during the time of the
@@ -8877,7 +8880,10 @@ courses:
               UID: THE311.2.1.2.IQ.2
             - p: 3
               text: With what was prayer associated under the Mosaic covenant?
-              response: CHAPTER
+              response: Prayer was closely associated with sacrifice. God began dealing
+                with His people under a national covenant given to Moses at Sinai.
+                The Law required that nearly everything be cleansed with blood, for
+                without the shedding of blood there is no forgiveness.
               UID: THE311.2.1.2.IQ.3
             - p: 4
               text: What impact was made by a lack of prayer during the time of the
@@ -10015,7 +10021,10 @@ courses:
               UID: THE311.2.1.3.IQ.2
             - p: 3
               text: With what was prayer associated under the Mosaic covenant?
-              response: CHAPTER
+              response: Prayer was closely associated with sacrifice. God began dealing
+                with His people under a national covenant given to Moses at Sinai.
+                The Law required that nearly everything be cleansed with blood, for
+                without the shedding of blood there is no forgiveness.
               UID: THE311.2.1.3.IQ.3
             - p: 4
               text: What impact was made by a lack of prayer during the time of the
@@ -20315,7 +20324,8 @@ courses:
             interactive_questions:
             - p: 4
               text: How does a Christian develop mountain-moving faith?
-              response: CHAPTER
+              response: Mountain-moving faith comes from focusing on God, not focusing
+                on the mountain.
               UID: THE311.3.2.1.IQ.1
             - p: 5
               text: How are we God’s prayer partners ?
@@ -20774,7 +20784,8 @@ courses:
             interactive_questions:
             - p: 4
               text: How does a Christian develop mountain-moving faith?
-              response: CHAPTER
+              response: Mountain-moving faith comes from focusing on God, not focusing
+                on the mountain.
               UID: THE311.3.2.2.IQ.1
             - p: 5
               text: How are we God’s prayer partners ?
@@ -21228,7 +21239,8 @@ courses:
             interactive_questions:
             - p: 4
               text: How does a Christian develop mountain-moving faith?
-              response: CHAPTER
+              response: Mountain-moving faith comes from focusing on God, not focusing
+                on the mountain.
               UID: THE311.3.2.3.IQ.1
             - p: 5
               text: How are we God’s prayer partners ?
@@ -21682,7 +21694,8 @@ courses:
             interactive_questions:
             - p: 4
               text: How does a Christian develop mountain-moving faith?
-              response: CHAPTER
+              response: Mountain-moving faith comes from focusing on God, not focusing
+                on the mountain.
               UID: THE311.3.2.4.IQ.1
             - p: 5
               text: How are we God’s prayer partners ?
@@ -25483,7 +25496,6 @@ courses:
                 to step out in obedience to this leading, is the Holy Spirit confirming
                 it? 6. What circumstances have confirmed that this leading is God’s
                 will for me? 7. What is likely to be the outcome of this leading?
-                UNIT
               UID: THE311.4.2.1.IQ.7
             last_modified: '2026-03-27'
             scripture:
@@ -27321,7 +27333,6 @@ courses:
                 to step out in obedience to this leading, is the Holy Spirit confirming
                 it? 6. What circumstances have confirmed that this leading is God’s
                 will for me? 7. What is likely to be the outcome of this leading?
-                UNIT
               UID: THE311.4.2.2.IQ.7
             last_modified: '2026-05-28'
             scripture:
@@ -29159,7 +29170,6 @@ courses:
                 to step out in obedience to this leading, is the Holy Spirit confirming
                 it? 6. What circumstances have confirmed that this leading is God’s
                 will for me? 7. What is likely to be the outcome of this leading?
-                UNIT
               UID: THE311.4.2.3.IQ.7
             last_modified: '2026-05-28'
             scripture:
@@ -30997,7 +31007,6 @@ courses:
                 to step out in obedience to this leading, is the Holy Spirit confirming
                 it? 6. What circumstances have confirmed that this leading is God’s
                 will for me? 7. What is likely to be the outcome of this leading?
-                UNIT
               UID: THE311.4.2.4.IQ.7
             last_modified: '2026-03-27'
             scripture:
@@ -32836,7 +32845,6 @@ courses:
                 to step out in obedience to this leading, is the Holy Spirit confirming
                 it? 6. What circumstances have confirmed that this leading is God’s
                 will for me? 7. What is likely to be the outcome of this leading?
-                UNIT
               UID: THE311.4.2.5.IQ.7
             last_modified: '2026-03-27'
             scripture:
@@ -33954,11 +33962,18 @@ courses:
               UID: THE311.5.1.1.IQ.4
             - p: 5
               text: In what four ways are the spiritual disciplines limited?
-              response: CHAPTER
+              response: 1. They are only a means to godliness; they are not an end
+                in themselves. The spiritual disciplines serve as channels of God’s
+                transforming power. 2. They may not always seem exciting. The disciplines
+                appear commonplace, quiet, and unimpressive, yet they are the primary
+                means by which we will grow spiritually. 3. They require work for
+                growth—patience, faithfulness, and commitment. 4. They require time
+                for growth. Intimacy with God is a life-long journey.
               UID: THE311.5.1.1.IQ.5
             - p: 6
               text: What are two benefits from consistent practice of spiritual disciplines?
-              response: CHAPTER
+              response: 1. They are a path to becoming more Christlike. 2. Spiritual
+                transformation brings freedom and joy.
               UID: THE311.5.1.1.IQ.6
             last_modified: '2026-03-27'
             scripture:
@@ -34692,11 +34707,18 @@ courses:
               UID: THE311.5.1.2.IQ.4
             - p: 5
               text: In what four ways are the spiritual disciplines limited?
-              response: CHAPTER
+              response: 1. They are only a means to godliness; they are not an end
+                in themselves. The spiritual disciplines serve as channels of God’s
+                transforming power. 2. They may not always seem exciting. The disciplines
+                appear commonplace, quiet, and unimpressive, yet they are the primary
+                means by which we will grow spiritually. 3. They require work for
+                growth—patience, faithfulness, and commitment. 4. They require time
+                for growth. Intimacy with God is a life-long journey.
               UID: THE311.5.1.2.IQ.5
             - p: 6
               text: What are two benefits from consistent practice of spiritual disciplines?
-              response: CHAPTER
+              response: 1. They are a path to becoming more Christlike. 2. Spiritual
+                transformation brings freedom and joy.
               UID: THE311.5.1.2.IQ.6
             last_modified: '2026-03-27'
             scripture:
@@ -35431,11 +35453,18 @@ courses:
               UID: THE311.5.1.3.IQ.4
             - p: 5
               text: In what four ways are the spiritual disciplines limited?
-              response: CHAPTER
+              response: 1. They are only a means to godliness; they are not an end
+                in themselves. The spiritual disciplines serve as channels of God’s
+                transforming power. 2. They may not always seem exciting. The disciplines
+                appear commonplace, quiet, and unimpressive, yet they are the primary
+                means by which we will grow spiritually. 3. They require work for
+                growth—patience, faithfulness, and commitment. 4. They require time
+                for growth. Intimacy with God is a life-long journey.
               UID: THE311.5.1.3.IQ.5
             - p: 6
               text: What are two benefits from consistent practice of spiritual disciplines?
-              response: CHAPTER
+              response: 1. They are a path to becoming more Christlike. 2. Spiritual
+                transformation brings freedom and joy.
               UID: THE311.5.1.3.IQ.6
             last_modified: '2026-03-27'
             scripture:
@@ -36170,11 +36199,18 @@ courses:
               UID: THE311.5.1.4.IQ.4
             - p: 5
               text: In what four ways are the spiritual disciplines limited?
-              response: CHAPTER
+              response: 1. They are only a means to godliness; they are not an end
+                in themselves. The spiritual disciplines serve as channels of God’s
+                transforming power. 2. They may not always seem exciting. The disciplines
+                appear commonplace, quiet, and unimpressive, yet they are the primary
+                means by which we will grow spiritually. 3. They require work for
+                growth—patience, faithfulness, and commitment. 4. They require time
+                for growth. Intimacy with God is a life-long journey.
               UID: THE311.5.1.4.IQ.5
             - p: 6
               text: What are two benefits from consistent practice of spiritual disciplines?
-              response: CHAPTER
+              response: 1. They are a path to becoming more Christlike. 2. Spiritual
+                transformation brings freedom and joy.
               UID: THE311.5.1.4.IQ.6
             last_modified: '2026-03-27'
             scripture:
@@ -36908,11 +36944,18 @@ courses:
               UID: THE311.5.1.5.IQ.4
             - p: 5
               text: In what four ways are the spiritual disciplines limited?
-              response: CHAPTER
+              response: 1. They are only a means to godliness; they are not an end
+                in themselves. The spiritual disciplines serve as channels of God’s
+                transforming power. 2. They may not always seem exciting. The disciplines
+                appear commonplace, quiet, and unimpressive, yet they are the primary
+                means by which we will grow spiritually. 3. They require work for
+                growth—patience, faithfulness, and commitment. 4. They require time
+                for growth. Intimacy with God is a life-long journey.
               UID: THE311.5.1.5.IQ.5
             - p: 6
               text: What are two benefits from consistent practice of spiritual disciplines?
-              response: CHAPTER
+              response: 1. They are a path to becoming more Christlike. 2. Spiritual
+                transformation brings freedom and joy.
               UID: THE311.5.1.5.IQ.6
             last_modified: '2026-03-27'
             scripture:
@@ -40208,7 +40251,12 @@ courses:
               UID: THE311.6.2.1.IQ.2
             - p: 7
               text: What does it mean to be persistent in prayer?
-              response: CHAPTER
+              response: Persistence, or perseverance, in prayer speaks of a willingness
+                to pray in faith until the answer comes. It does not mean irreverently
+                demanding what we want, but asking repeatedly with bold confidence.
+                Persistence in prayer does not mean overcoming God’s reluctance. It
+                means continuing with unashamed confidence to request what we know
+                is His will, even though the answer is delayed.
               UID: THE311.6.2.1.IQ.3
             - p: 8
               text: What are the seven benefits that persistent prayer brings to the
@@ -41806,7 +41854,12 @@ courses:
               UID: THE311.6.2.2.IQ.2
             - p: 7
               text: What does it mean to be persistent in prayer?
-              response: CHAPTER
+              response: Persistence, or perseverance, in prayer speaks of a willingness
+                to pray in faith until the answer comes. It does not mean irreverently
+                demanding what we want, but asking repeatedly with bold confidence.
+                Persistence in prayer does not mean overcoming God’s reluctance. It
+                means continuing with unashamed confidence to request what we know
+                is His will, even though the answer is delayed.
               UID: THE311.6.2.2.IQ.3
             - p: 8
               text: What are the seven benefits that persistent prayer brings to the
@@ -43404,7 +43457,12 @@ courses:
               UID: THE311.6.2.3.IQ.2
             - p: 7
               text: What does it mean to be persistent in prayer?
-              response: CHAPTER
+              response: Persistence, or perseverance, in prayer speaks of a willingness
+                to pray in faith until the answer comes. It does not mean irreverently
+                demanding what we want, but asking repeatedly with bold confidence.
+                Persistence in prayer does not mean overcoming God’s reluctance. It
+                means continuing with unashamed confidence to request what we know
+                is His will, even though the answer is delayed.
               UID: THE311.6.2.3.IQ.3
             - p: 8
               text: What are the seven benefits that persistent prayer brings to the
@@ -45001,7 +45059,12 @@ courses:
               UID: THE311.6.2.4.IQ.2
             - p: 7
               text: What does it mean to be persistent in prayer?
-              response: CHAPTER
+              response: Persistence, or perseverance, in prayer speaks of a willingness
+                to pray in faith until the answer comes. It does not mean irreverently
+                demanding what we want, but asking repeatedly with bold confidence.
+                Persistence in prayer does not mean overcoming God’s reluctance. It
+                means continuing with unashamed confidence to request what we know
+                is His will, even though the answer is delayed.
               UID: THE311.6.2.4.IQ.3
             - p: 8
               text: What are the seven benefits that persistent prayer brings to the
@@ -46598,7 +46661,12 @@ courses:
               UID: THE311.6.2.5.IQ.2
             - p: 7
               text: What does it mean to be persistent in prayer?
-              response: CHAPTER
+              response: Persistence, or perseverance, in prayer speaks of a willingness
+                to pray in faith until the answer comes. It does not mean irreverently
+                demanding what we want, but asking repeatedly with bold confidence.
+                Persistence in prayer does not mean overcoming God’s reluctance. It
+                means continuing with unashamed confidence to request what we know
+                is His will, even though the answer is delayed.
               UID: THE311.6.2.5.IQ.3
             - p: 8
               text: What are the seven benefits that persistent prayer brings to the
@@ -48195,7 +48263,12 @@ courses:
               UID: THE311.6.2.6.IQ.2
             - p: 7
               text: What does it mean to be persistent in prayer?
-              response: CHAPTER
+              response: Persistence, or perseverance, in prayer speaks of a willingness
+                to pray in faith until the answer comes. It does not mean irreverently
+                demanding what we want, but asking repeatedly with bold confidence.
+                Persistence in prayer does not mean overcoming God’s reluctance. It
+                means continuing with unashamed confidence to request what we know
+                is His will, even though the answer is delayed.
               UID: THE311.6.2.6.IQ.3
             - p: 8
               text: What are the seven benefits that persistent prayer brings to the
@@ -49793,7 +49866,12 @@ courses:
               UID: THE311.6.2.7.IQ.2
             - p: 7
               text: What does it mean to be persistent in prayer?
-              response: CHAPTER
+              response: Persistence, or perseverance, in prayer speaks of a willingness
+                to pray in faith until the answer comes. It does not mean irreverently
+                demanding what we want, but asking repeatedly with bold confidence.
+                Persistence in prayer does not mean overcoming God’s reluctance. It
+                means continuing with unashamed confidence to request what we know
+                is His will, even though the answer is delayed.
               UID: THE311.6.2.7.IQ.3
             - p: 8
               text: What are the seven benefits that persistent prayer brings to the
@@ -51106,7 +51184,9 @@ courses:
               UID: THE311.7.1.1.IQ.7
             - p: 8
               text: What is the secret of victorious praying?
-              response: CHAPTER
+              response: In the face of unanswered prayer, Christians with deep prayer
+                roots pray anyway because they understand that God can use any situation
+                for His glory.
               UID: THE311.7.1.1.IQ.8
             - p: 9
               text: What is the danger of believing that God intends a trouble-free
@@ -52098,7 +52178,9 @@ courses:
               UID: THE311.7.1.2.IQ.7
             - p: 8
               text: What is the secret of victorious praying?
-              response: CHAPTER
+              response: In the face of unanswered prayer, Christians with deep prayer
+                roots pray anyway because they understand that God can use any situation
+                for His glory.
               UID: THE311.7.1.2.IQ.8
             - p: 9
               text: What is the danger of believing that God intends a trouble-free
@@ -53084,7 +53166,9 @@ courses:
               UID: THE311.7.1.3.IQ.7
             - p: 8
               text: What is the secret of victorious praying?
-              response: CHAPTER
+              response: In the face of unanswered prayer, Christians with deep prayer
+                roots pray anyway because they understand that God can use any situation
+                for His glory.
               UID: THE311.7.1.3.IQ.8
             - p: 9
               text: What is the danger of believing that God intends a trouble-free
@@ -54071,7 +54155,9 @@ courses:
               UID: THE311.7.1.4.IQ.7
             - p: 8
               text: What is the secret of victorious praying?
-              response: CHAPTER
+              response: In the face of unanswered prayer, Christians with deep prayer
+                roots pray anyway because they understand that God can use any situation
+                for His glory.
               UID: THE311.7.1.4.IQ.8
             - p: 9
               text: What is the danger of believing that God intends a trouble-free
@@ -55057,7 +55143,9 @@ courses:
               UID: THE311.7.1.5.IQ.7
             - p: 8
               text: What is the secret of victorious praying?
-              response: CHAPTER
+              response: In the face of unanswered prayer, Christians with deep prayer
+                roots pray anyway because they understand that God can use any situation
+                for His glory.
               UID: THE311.7.1.5.IQ.8
             - p: 9
               text: What is the danger of believing that God intends a trouble-free
@@ -56044,7 +56132,9 @@ courses:
               UID: THE311.7.1.6.IQ.7
             - p: 8
               text: What is the secret of victorious praying?
-              response: CHAPTER
+              response: In the face of unanswered prayer, Christians with deep prayer
+                roots pray anyway because they understand that God can use any situation
+                for His glory.
               UID: THE311.7.1.6.IQ.8
             - p: 9
               text: What is the danger of believing that God intends a trouble-free
@@ -60994,7 +61084,7 @@ courses:
                 encouraging the individual prayer lives of believers, spiritual leaders
                 need to cultivate a corporate climate of prayer. We do this by ensuring
                 that prayer is not just given lip service, but that it is central
-                to the mission and operation of the ministry. UNIT
+                to the mission and operation of the ministry.
               UID: THE311.8.4.1.IQ.1
             last_modified: '2026-03-27'
             text: List ways that leaders can instill a passion for prayer in others
@@ -66819,7 +66909,12 @@ courses:
               UID: THE311.10.4.1.IQ.2
             - p: 11
               text: What does it mean to worship “in spirit and in truth”?
-              response: CHAPTER
+              response: Worshipping in spirit and truth involves both expressions
+                of praise flowing from our inmost beings and a clear focus on the
+                truth revealed through Jesus Christ. Worshipping in spirit and truth
+                is neither exclusively emotional nor solely doctrinal. It involves
+                coming to the Father through the truth of Jesus and offering our whole
+                beings to Him in worship.
               UID: THE311.10.4.1.IQ.3
             last_modified: '2026-03-27'
             scripture:
@@ -67067,7 +67162,12 @@ courses:
               UID: THE311.10.4.2.IQ.2
             - p: 11
               text: What does it mean to worship “in spirit and in truth”?
-              response: CHAPTER
+              response: Worshipping in spirit and truth involves both expressions
+                of praise flowing from our inmost beings and a clear focus on the
+                truth revealed through Jesus Christ. Worshipping in spirit and truth
+                is neither exclusively emotional nor solely doctrinal. It involves
+                coming to the Father through the truth of Jesus and offering our whole
+                beings to Him in worship.
               UID: THE311.10.4.2.IQ.3
             last_modified: '2026-03-27'
             scripture:
@@ -69708,7 +69808,8 @@ courses:
             - p: 12
               text: What three questions must be answered to determine the musical
                 quality of a worship song?
-              response: CHAPTER
+              response: Is the melody singable? Does the melody have enough repetition
+                to make it memorable? Does the song have a timeless quality?
               UID: THE311.11.3.1.IQ.6
             - p: 13
               text: What are the three responsibilities of a good lead worshipper?
@@ -70370,7 +70471,8 @@ courses:
             - p: 12
               text: What three questions must be answered to determine the musical
                 quality of a worship song?
-              response: CHAPTER
+              response: Is the melody singable? Does the melody have enough repetition
+                to make it memorable? Does the song have a timeless quality?
               UID: THE311.11.3.2.IQ.6
             - p: 13
               text: What are the three responsibilities of a good lead worshipper?
@@ -71031,7 +71133,8 @@ courses:
             - p: 12
               text: What three questions must be answered to determine the musical
                 quality of a worship song?
-              response: CHAPTER
+              response: Is the melody singable? Does the melody have enough repetition
+                to make it memorable? Does the song have a timeless quality?
               UID: THE311.11.3.3.IQ.6
             - p: 13
               text: What are the three responsibilities of a good lead worshipper?
@@ -71692,7 +71795,8 @@ courses:
             - p: 12
               text: What three questions must be answered to determine the musical
                 quality of a worship song?
-              response: CHAPTER
+              response: Is the melody singable? Does the melody have enough repetition
+                to make it memorable? Does the song have a timeless quality?
               UID: THE311.11.3.4.IQ.6
             - p: 13
               text: What are the three responsibilities of a good lead worshipper?

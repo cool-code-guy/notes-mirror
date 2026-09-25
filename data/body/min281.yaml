@@ -3682,6 +3682,13 @@ courses:
               UID: MIN281.1.1.1.C.6
             interactive_questions:
             - p: 1
+              text: In what ways has increasing technology affected the local church?
+              response: People in the pew are accustomed to higher levels of quality
+                in presentations. Churches have greater resources available to them
+                for presentation. Increased technology has resulted in a more educated
+                laity.
+              UID: MIN281.1.1.1.IQ.7
+            - p: 1
               text: How have individual levels of commitment changed over the past
                 few decades?
               response: People tend to be less committed to institutions and more
@@ -4034,6 +4041,13 @@ courses:
               paragraph: MIN281.1.1.2.P.17
               UID: MIN281.1.1.2.C.6
             interactive_questions:
+            - p: 1
+              text: In what ways has increasing technology affected the local church?
+              response: People in the pew are accustomed to higher levels of quality
+                in presentations. Churches have greater resources available to them
+                for presentation. Increased technology has resulted in a more educated
+                laity.
+              UID: MIN281.1.1.2.IQ.7
             - p: 1
               text: How have individual levels of commitment changed over the past
                 few decades?
@@ -7034,7 +7048,6 @@ courses:
             - p: 2
               text: Why is prayer essential in dealing with conflict?
               response: Through prayer one gains the greater perspective God possesses.
-                2 CHAPTER
               UID: MIN281.1.5.1.IQ.2
             last_modified: '2026-05-22'
             scripture:
@@ -7695,7 +7708,6 @@ courses:
             - p: 2
               text: Why is prayer essential in dealing with conflict?
               response: Through prayer one gains the greater perspective God possesses.
-                2 CHAPTER
               UID: MIN281.1.5.2.IQ.2
             last_modified: '2026-03-27'
             scripture:
@@ -10291,7 +10303,6 @@ courses:
                 cooperation but only a temporary fix; Collaborating—Stronger trust
                 and easier solutions; Compromising—Half-hearted relationships that
                 fail to solve deeper issues; Competing—Conformity and short-term victories
-                UNIT 2
               UID: MIN281.2.3.1.IQ.5
             last_modified: '2026-05-22'
             scripture:
@@ -10854,7 +10865,6 @@ courses:
                 cooperation but only a temporary fix; Collaborating—Stronger trust
                 and easier solutions; Compromising—Half-hearted relationships that
                 fail to solve deeper issues; Competing—Conformity and short-term victories
-                UNIT 2
               UID: MIN281.2.3.2.IQ.5
             last_modified: '2026-03-27'
             scripture:
@@ -15779,7 +15789,6 @@ courses:
                 unwilling to act biblically. Such a step may be required when an individual’s
                 behavior is negatively influencing others. Such a step should always
                 be avoided if the goal is simply to justify the pastor’s position.
-                5 CHAPTER
               UID: MIN281.4.4.1.IQ.5
             last_modified: '2026-03-27'
             scripture:
@@ -16324,7 +16333,6 @@ courses:
                 unwilling to act biblically. Such a step may be required when an individual’s
                 behavior is negatively influencing others. Such a step should always
                 be avoided if the goal is simply to justify the pastor’s position.
-                5 CHAPTER
               UID: MIN281.4.4.2.IQ.5
             last_modified: '2026-03-27'
             scripture:
@@ -19364,7 +19372,7 @@ courses:
                 and the ability to get them done. They can disagree and discuss, but
                 never divide. In conflict, you must determine the source individual.
                 Determine if conflict is personal or professional in nature. Create
-                the opportunities for dialogue. UNIT 3
+                the opportunities for dialogue.
               UID: MIN281.5.4.1.IQ.6
             last_modified: '2026-03-27'
             scripture:
@@ -19866,7 +19874,7 @@ courses:
                 and the ability to get them done. They can disagree and discuss, but
                 never divide. In conflict, you must determine the source individual.
                 Determine if conflict is personal or professional in nature. Create
-                the opportunities for dialogue. UNIT 3
+                the opportunities for dialogue.
               UID: MIN281.5.4.2.IQ.6
             last_modified: '2026-03-27'
             scripture:
@@ -20247,6 +20255,29 @@ courses:
               UID: MIN281.6.1.1.C.1
             interactive_questions:
             - p: 1
+              text: According to Ron Susek, what six options are available to a minister
+                in a circumstance of conflict?
+              response: Step Out—set a spiritual example. Step In—mediate the conflict.
+                Step Over—rise above the conflict. Step Up—confront the conflict.
+                Step Back—let the conflict burn itself out. Step Down—resign from
+                the conflict
+              UID: MIN281.6.1.1.IQ.7
+            - p: 2
+              text: How is the timing of a decision to resign important for the congregation?
+              response: 'Resignation is a possible decision; however, Susek also gives
+                this advice: A minister who resigns too soon may not be able to give
+                the church an accurate picture of the conflict. A minister who resigns
+                too late may be perceived as the problem in the conflict.'
+              UID: MIN281.6.1.1.IQ.8
+            - p: 3
+              text: In the study by John LaRue, what four reasons were given as to
+                why pastors leave? List them in order of most common.
+              response: The pastor acquired a new vision or sensed a new call. The
+                pastor reached a sense of resolution—ministry had been completed.
+                The pastor was given a greater opportunity. Conflict within the church
+                was unresolved and / or growing.
+              UID: MIN281.6.1.1.IQ.9
+            - p: 1
               text: How can unresolved conflict hurt the leader?
               response: Such conflict diminishes his or her happiness. Such conflict
                 brings difficulties and complaints to the leader’s thoughts more readily.
@@ -20622,6 +20653,29 @@ courses:
               paragraph: MIN281.6.1.2.P.1
               UID: MIN281.6.1.2.C.1
             interactive_questions:
+            - p: 1
+              text: According to Ron Susek, what six options are available to a minister
+                in a circumstance of conflict?
+              response: Step Out—set a spiritual example. Step In—mediate the conflict.
+                Step Over—rise above the conflict. Step Up—confront the conflict.
+                Step Back—let the conflict burn itself out. Step Down—resign from
+                the conflict
+              UID: MIN281.6.1.2.IQ.7
+            - p: 2
+              text: How is the timing of a decision to resign important for the congregation?
+              response: 'Resignation is a possible decision; however, Susek also gives
+                this advice: A minister who resigns too soon may not be able to give
+                the church an accurate picture of the conflict. A minister who resigns
+                too late may be perceived as the problem in the conflict.'
+              UID: MIN281.6.1.2.IQ.8
+            - p: 3
+              text: In the study by John LaRue, what four reasons were given as to
+                why pastors leave? List them in order of most common.
+              response: The pastor acquired a new vision or sensed a new call. The
+                pastor reached a sense of resolution—ministry had been completed.
+                The pastor was given a greater opportunity. Conflict within the church
+                was unresolved and / or growing.
+              UID: MIN281.6.1.2.IQ.9
             - p: 1
               text: How can unresolved conflict hurt the leader?
               response: Such conflict diminishes his or her happiness. Such conflict
@@ -21749,7 +21803,7 @@ courses:
               response: Growth is a choice. One can choose to be selfish or genuinely
                 seek to gain God’s purposes even in difficult circumstances. Lessons
                 concerning spiritual warfare, love for enemies, and the nature of
-                servanthood are available in times of conflict. 7 CHAPTER
+                servanthood are available in times of conflict.
               UID: MIN281.6.3.1.IQ.6
             last_modified: '2026-03-27'
             scripture:
@@ -22209,7 +22263,7 @@ courses:
               response: Growth is a choice. One can choose to be selfish or genuinely
                 seek to gain God’s purposes even in difficult circumstances. Lessons
                 concerning spiritual warfare, love for enemies, and the nature of
-                servanthood are available in times of conflict. 7 CHAPTER
+                servanthood are available in times of conflict.
               UID: MIN281.6.3.2.IQ.6
             last_modified: '2026-03-27'
             scripture:
@@ -22608,6 +22662,15 @@ courses:
               kind: prose
               UID: MIN281.7.1.1.P.58
             interactive_questions:
+            - p: 1
+              text: What are the three things growing people seek?
+              response: a) Constructive b) Level 1 c) Destructive d) Opinion-oriented
+              UID: MIN281.7.1.1.IQ.6
+            - p: 2
+              text: How can these three things help create conflict?
+              response: a) Live a godly life b) Rise above the conflict c) Help all
+                sides clearly voice their opinion d) Confront the conflict
+              UID: MIN281.7.1.1.IQ.7
             - p: 1
               text: List at least three ways that destructive conflict differs from
                 constructive conflict.
@@ -23102,6 +23165,15 @@ courses:
               kind: prose
               UID: MIN281.7.1.2.P.58
             interactive_questions:
+            - p: 1
+              text: What are the three things growing people seek?
+              response: a) Constructive b) Level 1 c) Destructive d) Opinion-oriented
+              UID: MIN281.7.1.2.IQ.6
+            - p: 2
+              text: How can these three things help create conflict?
+              response: a) Live a godly life b) Rise above the conflict c) Help all
+                sides clearly voice their opinion d) Confront the conflict
+              UID: MIN281.7.1.2.IQ.7
             - p: 1
               text: List at least three ways that destructive conflict differs from
                 constructive conflict.

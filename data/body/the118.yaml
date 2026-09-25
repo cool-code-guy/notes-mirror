@@ -4433,7 +4433,13 @@ courses:
             - p: 2
               text: Identify two mistaken views of inspiration, and explain why they
                 are wrong.
-              response: CHAPTER
+              response: Partial inspiration says not all of the Bible is inspired.
+                This contradicts 2 Timothy 3:16 and lets humans decide what is and
+                what is not inspired of God. Humans have neither that right nor capability.
+                Mechanical dictation teaches that the writers were essentially robots
+                with no part in the process of writing beyond actually penning the
+                words. Instead, God purposely used the different writers’ vocabulary,
+                personalities, and abilities to communicate His truth.
               UID: THE118.1.1.1.IQ.2
             - p: 3
               text: Most of us have read books by modern Christian authors who we
@@ -5029,7 +5035,13 @@ courses:
             - p: 2
               text: Identify two mistaken views of inspiration, and explain why they
                 are wrong.
-              response: CHAPTER
+              response: Partial inspiration says not all of the Bible is inspired.
+                This contradicts 2 Timothy 3:16 and lets humans decide what is and
+                what is not inspired of God. Humans have neither that right nor capability.
+                Mechanical dictation teaches that the writers were essentially robots
+                with no part in the process of writing beyond actually penning the
+                words. Instead, God purposely used the different writers’ vocabulary,
+                personalities, and abilities to communicate His truth.
               UID: THE118.1.1.2.IQ.2
             - p: 3
               text: Most of us have read books by modern Christian authors who we
@@ -7296,6 +7308,12 @@ courses:
               cls: _Body-Indent
               UID: THE118.2.1.1.P.25
             interactive_questions:
+            - p: 1
+              text: Other than the passages given, identify at least one other Scripture
+                verse that speaks of God’s transcendence over His creation.
+              response: Your answer. Some examples might include Romans 11:36; 1 Corinthians
+                8:6; Colossians 1:16–17; Hebrews 1:2–3; 2:10; or Revelation 3:14.
+              UID: THE118.2.1.1.IQ.8
             - p: 2
               text: Explain the truth that God is a living person.
               response: Although God is Spirit, He has the characteristics of personality,
@@ -7304,7 +7322,9 @@ courses:
               UID: THE118.2.1.1.IQ.1
             - p: 3
               text: How can a human have a relationship with God?
-              response: CHAPTER
+              response: It must be spiritual in nature, which is possible through
+                the Holy Spirit’s help. We can know God, speak to Him, listen to Him,
+                and trust Him.
               UID: THE118.2.1.1.IQ.2
             - p: 4
               text: Give biblical support for the truth that God is eternal.
@@ -8022,6 +8042,12 @@ courses:
               cls: _Body-Indent
               UID: THE118.2.1.2.P.25
             interactive_questions:
+            - p: 1
+              text: Other than the passages given, identify at least one other Scripture
+                verse that speaks of God’s transcendence over His creation.
+              response: Your answer. Some examples might include Romans 11:36; 1 Corinthians
+                8:6; Colossians 1:16–17; Hebrews 1:2–3; 2:10; or Revelation 3:14.
+              UID: THE118.2.1.2.IQ.8
             - p: 2
               text: Explain the truth that God is a living person.
               response: Although God is Spirit, He has the characteristics of personality,
@@ -8030,7 +8056,9 @@ courses:
               UID: THE118.2.1.2.IQ.1
             - p: 3
               text: How can a human have a relationship with God?
-              response: CHAPTER
+              response: It must be spiritual in nature, which is possible through
+                the Holy Spirit’s help. We can know God, speak to Him, listen to Him,
+                and trust Him.
               UID: THE118.2.1.2.IQ.2
             - p: 4
               text: Give biblical support for the truth that God is eternal.
@@ -12144,7 +12172,7 @@ courses:
               UID: THE118.3.1.1.IQ.3
             - p: 4
               text: How does forgiveness of sin reveal Jesus’ divinity?
-              response: CHAPTER
+              response: Only God can forgive sins; therefore, Jesus is divine.
               UID: THE118.3.1.1.IQ.4
             - p: 5
               text: Summarize two Scripture verses that show Jesus is divine because
@@ -13243,7 +13271,7 @@ courses:
               UID: THE118.3.1.2.IQ.3
             - p: 4
               text: How does forgiveness of sin reveal Jesus’ divinity?
-              response: CHAPTER
+              response: Only God can forgive sins; therefore, Jesus is divine.
               UID: THE118.3.1.2.IQ.4
             - p: 5
               text: Summarize two Scripture verses that show Jesus is divine because
@@ -17873,7 +17901,7 @@ courses:
                 never condemn people to an eternity of suffering.
               response: Your answer should include the key truths that God’s righteousness
                 and holiness require judgment for sin and that sinful people are condemned
-                by their own choices. UNIT
+                by their own choices.
               UID: THE118.4.3.1.IQ.5
             citations:
             - citekey: thiessen1949
@@ -18479,7 +18507,7 @@ courses:
                 never condemn people to an eternity of suffering.
               response: Your answer should include the key truths that God’s righteousness
                 and holiness require judgment for sin and that sinful people are condemned
-                by their own choices. UNIT
+                by their own choices.
               UID: THE118.4.3.2.IQ.5
             citations:
             - citekey: thiessen1949
@@ -18939,6 +18967,11 @@ courses:
               cls: _Body-Indent
               UID: THE118.5.1.1.P.16
             interactive_questions:
+            - p: 1
+              text: Define biblical salvation in your own words.
+              response: Salvation delivers us from both the power and consequences
+                of sin.
+              UID: THE118.5.1.1.IQ.5
             - p: 2
               text: What is the main reason Jesus came to earth?
               response: Jesus came to save people from sin.
@@ -19407,6 +19440,11 @@ courses:
               cls: _Body-Indent
               UID: THE118.5.1.2.P.16
             interactive_questions:
+            - p: 1
+              text: Define biblical salvation in your own words.
+              response: Salvation delivers us from both the power and consequences
+                of sin.
+              UID: THE118.5.1.2.IQ.5
             - p: 2
               text: What is the main reason Jesus came to earth?
               response: Jesus came to save people from sin.
@@ -19990,7 +20028,9 @@ courses:
             interactive_questions:
             - p: 6
               text: Explain the process of regeneration.
-              response: CHAPTER
+              response: Regeneration restores life to a soul that was dead. The Holy
+                Spirit comes into a person’s life and transforms it so completely
+                that it can be called a second birth.
               UID: THE118.5.2.1.IQ.1
             - p: 7
               text: In 2 Corinthians 5:18–19, explain what Paul means in referring
@@ -23310,6 +23350,13 @@ courses:
               cls: _Body-Indent
               UID: THE118.6.1.1.P.20
             interactive_questions:
+            - p: 1
+              text: Contrast ordinances with sacraments.
+              response: Those who view water baptism and Communion as sacraments believe
+                they bring special grace from God and play a part in salvation. Those
+                who view them as ordinances believe they are established ceremonies
+                that are symbolic and do not bring any special grace.
+              UID: THE118.6.1.1.IQ.5
             - p: 2
               text: Explain the significance of water baptism.
               response: It symbolizes the beginning of our spiritual life. It publicly
@@ -23797,6 +23844,13 @@ courses:
               cls: _Body-Indent
               UID: THE118.6.1.2.P.20
             interactive_questions:
+            - p: 1
+              text: Contrast ordinances with sacraments.
+              response: Those who view water baptism and Communion as sacraments believe
+                they bring special grace from God and play a part in salvation. Those
+                who view them as ordinances believe they are established ceremonies
+                that are symbolic and do not bring any special grace.
+              UID: THE118.6.1.2.IQ.5
             - p: 2
               text: Explain the significance of water baptism.
               response: It symbolizes the beginning of our spiritual life. It publicly
@@ -24266,7 +24320,8 @@ courses:
               UID: THE118.6.2.1.IQ.1
             - p: 7
               text: When did God’s new covenant with His children go into effect?
-              response: CHAPTER
+              response: The new covenant went into effect when Jesus died for us.
+                He sealed the covenant with His blood.
               UID: THE118.6.2.1.IQ.2
             - p: 8
               text: Explain the past, present, and future significance of Communion.
@@ -24793,7 +24848,8 @@ courses:
               UID: THE118.6.2.2.IQ.1
             - p: 7
               text: When did God’s new covenant with His children go into effect?
-              response: CHAPTER
+              response: The new covenant went into effect when Jesus died for us.
+                He sealed the covenant with His blood.
               UID: THE118.6.2.2.IQ.2
             - p: 8
               text: Explain the past, present, and future significance of Communion.
@@ -25315,7 +25371,8 @@ courses:
               UID: THE118.6.2.3.IQ.1
             - p: 7
               text: When did God’s new covenant with His children go into effect?
-              response: CHAPTER
+              response: The new covenant went into effect when Jesus died for us.
+                He sealed the covenant with His blood.
               UID: THE118.6.2.3.IQ.2
             - p: 8
               text: Explain the past, present, and future significance of Communion.
@@ -25962,6 +26019,12 @@ courses:
               cls: _Body-Indent
               UID: THE118.7.1.1.P.33
             interactive_questions:
+            - p: 1
+              text: Why do you think the book of Acts uses different terms to describe
+                the baptism in the Holy Spirit?
+              response: Your answer may include the idea that one word cannot describe
+                the fullness of this experience.
+              UID: THE118.7.1.1.IQ.7
             - p: 2
               text: Read John 3:8, and explain why the wind is a good metaphor for
                 the Holy Spirit.
@@ -26766,6 +26829,12 @@ courses:
               cls: _Body-Indent
               UID: THE118.7.1.2.P.33
             interactive_questions:
+            - p: 1
+              text: Why do you think the book of Acts uses different terms to describe
+                the baptism in the Holy Spirit?
+              response: Your answer may include the idea that one word cannot describe
+                the fullness of this experience.
+              UID: THE118.7.1.2.IQ.7
             - p: 2
               text: Read John 3:8, and explain why the wind is a good metaphor for
                 the Holy Spirit.
@@ -27510,7 +27579,7 @@ courses:
             - p: 8
               text: Why did Luke not mention tongues in every case where he spoke
                 of the baptism?
-              response: CHAPTER
+              response: He had already given us the pattern in Acts 2.
               UID: THE118.7.2.1.IQ.1
             - p: 9
               text: How did Peter and the church leaders know that Cornelius’ household
@@ -28099,7 +28168,7 @@ courses:
             - p: 8
               text: Why did Luke not mention tongues in every case where he spoke
                 of the baptism?
-              response: CHAPTER
+              response: He had already given us the pattern in Acts 2.
               UID: THE118.7.2.2.IQ.1
             - p: 9
               text: How did Peter and the church leaders know that Cornelius’ household
@@ -30361,7 +30430,7 @@ courses:
               text: How does your cooperation with God bring about your sanctification?
               response: We cooperate with God by repenting of sin, believing in Jesus
                 as Savior and Lord, engaging in disciplined prayer and Bible study,
-                and obeying God’s Word. UNIT
+                and obeying God’s Word.
               UID: THE118.8.2.1.IQ.4
             citations:
             - citekey: wiersbe1978
@@ -31000,7 +31069,7 @@ courses:
               text: How does your cooperation with God bring about your sanctification?
               response: We cooperate with God by repenting of sin, believing in Jesus
                 as Savior and Lord, engaging in disciplined prayer and Bible study,
-                and obeying God’s Word. UNIT
+                and obeying God’s Word.
               UID: THE118.8.2.2.IQ.4
             citations:
             - citekey: wiersbe1978
@@ -31639,7 +31708,7 @@ courses:
               text: How does your cooperation with God bring about your sanctification?
               response: We cooperate with God by repenting of sin, believing in Jesus
                 as Savior and Lord, engaging in disciplined prayer and Bible study,
-                and obeying God’s Word. UNIT
+                and obeying God’s Word.
               UID: THE118.8.2.3.IQ.4
             citations:
             - citekey: wiersbe1978
@@ -33469,7 +33538,8 @@ courses:
               UID: THE118.9.3.1.IQ.2
             - p: 10
               text: From memory, list the four main tasks of the church.
-              response: CHAPTER
+              response: Evangelism, worship, edification (building up) of the body
+                of saints, and demonstrating God’s love and compassion
               UID: THE118.9.3.1.IQ.3
             - p: 11
               text: List at least five ways Christians can build each other up.
@@ -34135,7 +34205,8 @@ courses:
               UID: THE118.9.3.2.IQ.2
             - p: 10
               text: From memory, list the four main tasks of the church.
-              response: CHAPTER
+              response: Evangelism, worship, edification (building up) of the body
+                of saints, and demonstrating God’s love and compassion
               UID: THE118.9.3.2.IQ.3
             - p: 11
               text: List at least five ways Christians can build each other up.
@@ -35968,7 +36039,10 @@ courses:
               text: List the various ministry positions in the church. Which ones
                 could travel from church to church? Which ones were usually elected
                 or appointed to a local church?
-              response: CHAPTER
+              response: The main ministry positions were apostle, prophet, pastor,
+                teacher, evangelist, and deacon. Apostles, prophets, teachers, and
+                evangelists could travel from church to church. Pastors and deacons
+                were usually elected or appointed to a particular local church.
               UID: THE118.10.2.1.IQ.6
             citations:
             - citekey: campolo1996
@@ -36770,7 +36844,10 @@ courses:
               text: List the various ministry positions in the church. Which ones
                 could travel from church to church? Which ones were usually elected
                 or appointed to a local church?
-              response: CHAPTER
+              response: The main ministry positions were apostle, prophet, pastor,
+                teacher, evangelist, and deacon. Apostles, prophets, teachers, and
+                evangelists could travel from church to church. Pastors and deacons
+                were usually elected or appointed to a particular local church.
               UID: THE118.10.2.2.IQ.6
             citations:
             - citekey: campolo1996

@@ -7886,9 +7886,14 @@ courses:
               col: 4
               UID: BIB211.1.1.1.P.112
             interactive_questions:
+            - p: 1
+              text: Whose acts does the book of Acts record?
+              response: The book of Acts records the acts of the apostles and also
+                the acts of the Holy Spirit.
+              UID: BIB211.1.1.1.IQ.5
             - p: 2
               text: Who wrote Acts?
-              response: CHAPTER
+              response: Luke
               UID: BIB211.1.1.1.IQ.1
             - p: 3
               text: Summarize three of the five reasons scholars believe Luke wrote
@@ -19517,7 +19522,7 @@ courses:
               UID: BIB211.2.1.1.IQ.1
             - p: 2
               text: Has God poured out His Spirit on you? Describe your personal experience.
-              response: UNIT
+              response: Answers will vary.
               UID: BIB211.2.1.1.IQ.2
             - p: 3
               text: In what ways was it good for the disciples that Jesus go away?
@@ -21256,7 +21261,7 @@ courses:
               text: What are four attitudes and disciplines individuals or churches
                 can practice to prepare for a fresh outpouring of the Holy Spirit?
               response: (1) Obedience, (2) unity, (3) prayer, and the (4) study and
-                application of God’s Word. UNIT
+                application of God’s Word.
               UID: BIB211.2.3.1.IQ.10
             scripture:
             - intext: Luke 17:11–14
@@ -22012,6 +22017,11 @@ courses:
               UID: BIB211.3.1.1.P.47
               page: 52
             interactive_questions:
+            - p: 1
+              text: To what does Pentecos t refer? What does the word mean?
+              response: Pentecost refers to the number of days counted after Passover.
+                Pentecost means “fiftieth.”
+              UID: BIB211.3.1.1.IQ.8
             - p: 2
               text: When was the Day of Pentecost?
               response: The Day of Pentecost was an Old Testament Feast as well as
@@ -22027,7 +22037,7 @@ courses:
             - p: 4
               text: How does Paul state the fulfillment of Passover in 1 Corinthians
                 5:7?
-              response: CHAPTER
+              response: Christ is our Passover lamb, sacrificed to save us.
               UID: BIB211.3.1.1.IQ.3
             - p: 5
               text: In 1 Corinthians 5:6–8, how does Paul state the fulfillment of
@@ -24515,7 +24525,7 @@ courses:
               UID: BIB211.4.1.1.IQ.4
             - p: 5
               text: Who stood with Peter before the crowd?
-              response: CHAPTER
+              response: The eleven apostles, including Matthias
               UID: BIB211.4.1.1.IQ.5
             - p: 6
               text: Why was it important for people to see Jesus’ twelve disciples
@@ -28316,7 +28326,8 @@ courses:
               UID: BIB211.5.1.1.IQ.5
             - p: 6
               text: What was the man’s response to being healed?
-              response: CHAPTER
+              response: The man went with Peter and John into the temple courts, walking,
+                jumping, and praising God. His life was transformed.
               UID: BIB211.5.1.1.IQ.6
             citations:
             - citekey: blum2002
@@ -31314,7 +31325,29 @@ courses:
               text: Look up the references given in the chart. In the appropriate
                 boxes, describe the supernatural event and explain how it resulted
                 in church growth.
-              response: CHAPTER
+              response: Supernatural events were a major key to church growth in Acts.
+                Acts Supernatural Event Result 1:3–8 Jesus rose from the dead and
+                appeared to His disciples for forty days. They believed He was alive.
+                1:9–11 Jesus ascended into heaven. Angels instructed the disciples.
+                The disciples waited in Jerusalem to be baptized in the Holy Spirit.
+                2:1–4; 2:41 The 120 were filled with the Holy Spirit. They spoke in
+                various languages. About three thousand believed and were baptized
+                after Peter explained the miracle of Pentecost. 3:1–4:4 The crippled
+                beggar was healed. Peter explained what happened. The number of believers
+                grew to five thousand men, plus women and children. 5:1–11 God struck
+                Ananias and Sapphira dead for lying to the Holy Spirit. Great fear
+                (respect) seized the whole church and all who heard. 5:12–18 The apostles
+                performed many miraculous signs and wonders among the people. More
+                and more men and women believed in the Lord and were added to their
+                number. Leaders became jealous and put the apostles in jail. 5:17–20
+                5:27, 40–42 An angel opened the doors of the jail and told the apostles
+                to go tell the full message in the temple. The apostles were questioned,
+                flogged, and ordered not to speak in Jesus’ name. Still, they continued
+                teaching. 6:8, 10, 15 8:1, 4 Stephen did great wonders and miraculous
+                signs. He spoke with great wisdom by the Spirit. His face shone like
+                an angel as they stoned him. A great persecution broke out against
+                the church in Jerusalem. All except the apostles were scattered. They
+                preached the Word wherever they went.
               UID: BIB211.6.2.1.IQ.1
             - p: 8
               text: Why do you think signs and wonders led to growth of the church?
@@ -37294,7 +37327,7 @@ courses:
             - p: 25
               text: What good can come out of difficult circumstances in your life
                 and church?
-              response: Answers will vary. UNIT
+              response: Answers will vary.
               UID: BIB211.7.3.1.IQ.8
             citations:
             - citekey: foxe1981
@@ -37976,7 +38009,8 @@ courses:
             - p: 9
               text: Look at Luke 9:51–55 and John 4:27. Contrast Peter and John’s
                 attitudes toward Samaritans with those displayed in 8:14–25.
-              response: CHAPTER
+              response: They seem to have overcome their prejudice against the Samaritans
+                and embraced them as brothers and sisters.
               UID: BIB211.8.1.1.IQ.9
             scripture:
             - intext: Acts 4:12
@@ -41024,7 +41058,7 @@ courses:
             - p: 20
               text: What is one of the greatest lessons we can learn in deliverance
                 or death?
-              response: The principle of trust in God. UNIT
+              response: The principle of trust in God.
               UID: BIB211.9.3.1.IQ.6
             scripture:
             - intext: Acts 12:1–2
@@ -42357,7 +42391,7 @@ courses:
             - p: 11
               text: What examples have you seen of this principle that the greatest
                 battles often follow the greatest victories?
-              response: CHAPTER
+              response: Answers will vary.
               UID: BIB211.10.2.1.IQ.3
             - p: 12
               text: From Acts 14:20–22, describe the important role other believers
@@ -44623,7 +44657,7 @@ courses:
               UID: BIB211.11.2.1.IQ.3
             - p: 12
               text: In what two places did Paul first minister in Athens?
-              response: CHAPTER
+              response: He spoke at the synagogue and in the marketplace.
               UID: BIB211.11.2.1.IQ.4
             - p: 13
               text: What two philosophical groups did Paul meet in Athens, and what
@@ -46934,7 +46968,11 @@ courses:
             - p: 13
               text: In sharing his prospects for the future, what two statements did
                 Paul make that show he anticipated difficult days ahead?
-              response: CHAPTER
+              response: “And now, compelled by the Spirit, I am going to Jerusalem,
+                not knowing what will happen to me there. I only know that in every
+                city the Holy Spirit warns me that prison and hardships are facing
+                me” (Acts 20:22–23). “Now I know that none of you among whom I have
+                gone about preaching the kingdom will ever see me again” (Acts 20:25).
               UID: BIB211.12.2.1.IQ.4
             - p: 14
               text: About what two sources of attack did Paul warn the Ephesian elders?
