@@ -10233,6 +10233,7 @@ courses:
               row: 9
               col: 1
               UID: BIB116.1.1.1.P.20
+              rowspan: 2
             - p: 22
               text: 167 BC
               kind: chart
@@ -10260,23 +10261,13 @@ courses:
               UID: BIB116.1.1.1.P.22.3
               source_uid: BIB116.1.1.1.P.22.2
               page: 19
-            - p: 25
-              text: Maccabean or Hasmonean (166–63 BC) (continued)
-              kind: chart
-              cls: IST_Table-Body
-              md: Maccabean or Hasmonean<br/>(166–63 BC)<br/>(continued)
-              table: 1
-              row: 10
-              col: 1
-              UID: BIB116.1.1.1.P.27.1
-              source_uid: BIB116.1.1.1.P.27
             - p: 27
               text: 167 BC
               kind: chart
               cls: IST_Table-Body
               table: 1
               row: 10
-              col: 2
+              col: 1
               UID: BIB116.1.1.1.P.29.1
               source_uid: BIB116.1.1.1.P.29
               page: 19
@@ -10299,7 +10290,7 @@ courses:
                 the larger group from the Hasidim.
               table: 1
               row: 10
-              col: 3
+              col: 2
               UID: BIB116.1.1.1.P.30.3
               source_uid: BIB116.1.1.1.P.30.2
               page: 19
@@ -11973,19 +11964,31 @@ courses:
               status: outdated 2026-09-29
               outdated_reason: revised
               replaced_by: BIB116.1.1.1.P.59.2
+            - p: 25
+              text: Maccabean or Hasmonean (166–63 BC) (continued)
+              kind: chart
+              cls: IST_Table-Body
+              md: Maccabean or Hasmonean<br/>(166–63 BC)<br/>(continued)
+              table: 1
+              row: 10
+              col: 1
+              UID: BIB116.1.1.1.P.27.1
+              source_uid: BIB116.1.1.1.P.27
+              status: outdated 2026-09-29
+              outdated_reason: merged
             interactive_questions:
             - p: 2
               text: Explain two aspects of Judaism that prepared the world for Christ.
               response: The Jews expressed belief in the one true God and the Law
                 of Moses, laying the foundation for the gospel message.
-              after_body_index: 41
+              after_body_index: 40
               UID: BIB116.1.1.1.IQ.1.2
               source_uid: BIB116.1.1.1.IQ.1.1
             - p: 3
               text: How did the Septuagint help prepare the world for Christ?
               response: It made the Old Testament teachings available to a broader
                 range of people (Jews and Gentiles alike) through a common language.
-              after_body_index: 45
+              after_body_index: 44
               UID: BIB116.1.1.1.IQ.2
             - p: 4
               text: How did the beliefs of the Pharisees and Sadducees differ from
@@ -11993,14 +11996,14 @@ courses:
               response: The Pharisees believed in angels, spirits, and resurrection;
                 the Sadducees did not. Whereas the Pharisees held firmly to oral traditions,
                 the Sadducees did not.
-              after_body_index: 50
+              after_body_index: 49
               UID: BIB116.1.1.1.IQ.3
             - p: 5
               text: How did God use the Greeks to prepare the world for His Son?
               response: Greek became the world’s common language through Alexander
                 the Great’s conquests. In this way, both Jew and Gentile were prepared
                 to hear and receive the message of Christ.
-              after_body_index: 53
+              after_body_index: 52
               UID: BIB116.1.1.1.IQ.5
             - p: 1
               text: Explain two ways in which the Jewish religion prepared the world
@@ -12519,6 +12522,7 @@ courses:
               row: 9
               col: 1
               UID: BIB116.1.1.2.P.20
+              rowspan: 2
             - p: 22
               text: 167 BC
               kind: chart
@@ -12546,23 +12550,13 @@ courses:
               UID: BIB116.1.1.2.P.22.3
               source_uid: BIB116.1.1.2.P.22.2
               page: 19
-            - p: 25
-              text: Maccabean or Hasmonean (166–63 BC) (continued)
-              kind: chart
-              cls: IST_Table-Body
-              md: Maccabean or Hasmonean<br/>(166–63 BC)<br/>(continued)
-              table: 1
-              row: 10
-              col: 1
-              UID: BIB116.1.1.2.P.27.1
-              source_uid: BIB116.1.1.2.P.27
             - p: 27
               text: 167 BC
               kind: chart
               cls: IST_Table-Body
               table: 1
               row: 10
-              col: 2
+              col: 1
               UID: BIB116.1.1.2.P.29.1
               source_uid: BIB116.1.1.2.P.29
               page: 19
@@ -12585,7 +12579,7 @@ courses:
                 the larger group from the Hasidim.
               table: 1
               row: 10
-              col: 3
+              col: 2
               UID: BIB116.1.1.2.P.30.3
               source_uid: BIB116.1.1.2.P.30.2
               page: 19
@@ -14259,19 +14253,31 @@ courses:
               status: outdated 2026-09-29
               outdated_reason: revised
               replaced_by: BIB116.1.1.2.P.59.2
+            - p: 25
+              text: Maccabean or Hasmonean (166–63 BC) (continued)
+              kind: chart
+              cls: IST_Table-Body
+              md: Maccabean or Hasmonean<br/>(166–63 BC)<br/>(continued)
+              table: 1
+              row: 10
+              col: 1
+              UID: BIB116.1.1.2.P.27.1
+              source_uid: BIB116.1.1.2.P.27
+              status: outdated 2026-09-29
+              outdated_reason: merged
             interactive_questions:
             - p: 2
               text: Explain two aspects of Judaism that prepared the world for Christ.
               response: The Jews expressed belief in the one true God and the Law
                 of Moses, laying the foundation for the gospel message.
-              after_body_index: 41
+              after_body_index: 40
               UID: BIB116.1.1.2.IQ.1.2
               source_uid: BIB116.1.1.2.IQ.1.1
             - p: 3
               text: How did the Septuagint help prepare the world for Christ?
               response: It made the Old Testament teachings available to a broader
                 range of people (Jews and Gentiles alike) through a common language.
-              after_body_index: 45
+              after_body_index: 44
               UID: BIB116.1.1.2.IQ.2
             - p: 4
               text: How did the beliefs of the Pharisees and Sadducees differ from
@@ -14279,14 +14285,14 @@ courses:
               response: The Pharisees believed in angels, spirits, and resurrection;
                 the Sadducees did not. Whereas the Pharisees held firmly to oral traditions,
                 the Sadducees did not.
-              after_body_index: 50
+              after_body_index: 49
               UID: BIB116.1.1.2.IQ.3
             - p: 5
               text: How did God use the Greeks to prepare the world for His Son?
               response: Greek became the world’s common language through Alexander
                 the Great’s conquests. In this way, both Jew and Gentile were prepared
                 to hear and receive the message of Christ.
-              after_body_index: 53
+              after_body_index: 52
               UID: BIB116.1.1.2.IQ.5
             - p: 1
               text: Explain two ways in which the Jewish religion prepared the world
@@ -43804,16 +43810,17 @@ courses:
               UID: BIB116.2.4.1.P.34
               page: 51
             - p: 36
-              text: and if he could open the eyes of the blind, and if
+              text: and if he could open the eyes of the blind,
               kind: list
               cls: IST_Body-Bullet-3
-              UID: BIB116.2.4.1.P.35.1
-              source_uid: BIB116.2.4.1.P.35
+              UID: BIB116.2.4.1.P.35.2
+              source_uid: BIB116.2.4.1.P.35.1
             - p: 37
-              text: he could enable [those without mobility] to walk,
+              text: and if he could enable [those without mobility] to walk,
               kind: list
               cls: IST_Body-Bullet-3
-              UID: BIB116.2.4.1.P.153
+              UID: BIB116.2.4.1.P.153.1
+              source_uid: BIB116.2.4.1.P.153
             - p: 38
               text: and if he could cleanse the lepers,
               kind: list
@@ -43828,24 +43835,24 @@ courses:
               source_uid: BIB116.2.4.1.P.38
             - p: 40
               text: and if he called a little group of followers and radically changed
-                their lives, and if
+                their lives,
               kind: list
               cls: IST_Body-Bullet-3
-              UID: BIB116.2.4.1.P.39.1
-              source_uid: BIB116.2.4.1.P.39
+              UID: BIB116.2.4.1.P.39.2
+              source_uid: BIB116.2.4.1.P.39.1
             - p: 41
-              text: he died like a condemned criminal, but was raised from the dead,
-                and if he
+              text: and if he died like a condemned criminal, but was raised from
+                the dead,
               kind: list
               cls: IST_Body-Bullet-3
-              UID: BIB116.2.4.1.P.40.1
-              source_uid: BIB116.2.4.1.P.40
+              UID: BIB116.2.4.1.P.40.2
+              source_uid: BIB116.2.4.1.P.40.1
             - p: 42
-              text: changed the history of the world,
+              text: and if he changed the history of the world,
               kind: list
               cls: IST_Body-Bullet-3
-              UID: BIB116.2.4.1.P.41.1
-              source_uid: BIB116.2.4.1.P.41
+              UID: BIB116.2.4.1.P.41.2
+              source_uid: BIB116.2.4.1.P.41.1
             - p: 43
               text: and if, after 2,000 years, a third of earth’s population called
                 him Savior and Lord,
@@ -43894,16 +43901,21 @@ courses:
               UID: BIB116.2.4.1.P.47.1
               source_uid: BIB116.2.4.1.P.47
             - p: 50
-              text: Parables illustrate and preserve truth and are easily remembered.
-                A parable moves and touches a person’s heart. When Nathan told King
-                David a parable about a rich man who sacrificed the only lamb of a
-                poor man, the truth was in David’s heart before he realized he was
-                the rich man (2 Samuel 12:1–7). Illustrations carry the truth past
-                people’s defenses.
               kind: list
               cls: IST_Body-Bullet-2
-              UID: BIB116.2.4.1.P.48.1
-              source_uid: BIB116.2.4.1.P.48
+              text: Parables illustrate and preserve truth and are easily remembered.
+              UID: BIB116.2.4.1.P.48.2
+              source_uid: BIB116.2.4.1.P.48.1
+            - p: 50
+              kind: list
+              cls: IST_Body-Bullet-2
+              text: A parable moves and touches a person’s heart. When Nathan told
+                King David a parable about a rich man who sacrificed the only lamb
+                of a poor man, the truth was in David’s heart before he realized he
+                was the rich man (2 Samuel 12:1–7). Illustrations carry the truth
+                past people’s defenses.
+              UID: BIB116.2.4.1.P.48.3
+              source_uid: BIB116.2.4.1.P.48.1
             - p: 51
               text: Jesus used parables to conceal and reveal. When the disciples
                 could not understand the parables, Jesus explained the stories privately.
@@ -46078,6 +46090,66 @@ courses:
               status: outdated 2026-09-29
               outdated_reason: revised
               replaced_by: BIB116.2.4.1.P.55.1
+            - p: 36
+              text: and if he could open the eyes of the blind, and if
+              kind: list
+              cls: IST_Body-Bullet-3
+              UID: BIB116.2.4.1.P.35.1
+              source_uid: BIB116.2.4.1.P.35
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.2.4.1.P.35.2
+            - p: 37
+              text: he could enable [those without mobility] to walk,
+              kind: list
+              cls: IST_Body-Bullet-3
+              UID: BIB116.2.4.1.P.153
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.2.4.1.P.153.1
+            - p: 40
+              text: and if he called a little group of followers and radically changed
+                their lives, and if
+              kind: list
+              cls: IST_Body-Bullet-3
+              UID: BIB116.2.4.1.P.39.1
+              source_uid: BIB116.2.4.1.P.39
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.2.4.1.P.39.2
+            - p: 41
+              text: he died like a condemned criminal, but was raised from the dead,
+                and if he
+              kind: list
+              cls: IST_Body-Bullet-3
+              UID: BIB116.2.4.1.P.40.1
+              source_uid: BIB116.2.4.1.P.40
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.2.4.1.P.40.2
+            - p: 42
+              text: changed the history of the world,
+              kind: list
+              cls: IST_Body-Bullet-3
+              UID: BIB116.2.4.1.P.41.1
+              source_uid: BIB116.2.4.1.P.41
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.2.4.1.P.41.2
+            - p: 50
+              text: Parables illustrate and preserve truth and are easily remembered.
+                A parable moves and touches a person’s heart. When Nathan told King
+                David a parable about a rich man who sacrificed the only lamb of a
+                poor man, the truth was in David’s heart before he realized he was
+                the rich man (2 Samuel 12:1–7). Illustrations carry the truth past
+                people’s defenses.
+              kind: list
+              cls: IST_Body-Bullet-2
+              UID: BIB116.2.4.1.P.48.1
+              source_uid: BIB116.2.4.1.P.48
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.2.4.1.P.48.2
             interactive_questions:
             - p: 12
               text: How might the use of relevant stories help you share truth with
@@ -46091,7 +46163,7 @@ courses:
                 truth. (3) They preserved truth. (4) They were easily remembered.
                 (5) Parables hid the truth from unfaithful people. (6) Parables taught
                 about the kingdom of God.'
-              after_body_index: 52
+              after_body_index: 53
               UID: BIB116.2.4.1.IQ.2
             - p: 14
               text: Explain the two phases of the kingdom of God.
@@ -46099,7 +46171,7 @@ courses:
                 hearts of believers. The visible phase will begin when Jesus returns
                 to establish His rule and reign over all the earth. Sometimes referred
                 to as the “already” and “not yet.”
-              after_body_index: 57
+              after_body_index: 58
               UID: BIB116.2.4.1.IQ.3
             - p: 12
               text: Name six events that are in all the Synoptic Gospels.
@@ -47021,16 +47093,17 @@ courses:
               UID: BIB116.2.4.2.P.34
               page: 51
             - p: 36
-              text: and if he could open the eyes of the blind, and if
+              text: and if he could open the eyes of the blind,
               kind: list
               cls: IST_Body-Bullet-3
-              UID: BIB116.2.4.2.P.35.1
-              source_uid: BIB116.2.4.2.P.35
+              UID: BIB116.2.4.2.P.35.2
+              source_uid: BIB116.2.4.2.P.35.1
             - p: 37
-              text: he could enable [those without mobility] to walk,
+              text: and if he could enable [those without mobility] to walk,
               kind: list
               cls: IST_Body-Bullet-3
-              UID: BIB116.2.4.2.P.153
+              UID: BIB116.2.4.2.P.153.1
+              source_uid: BIB116.2.4.2.P.153
             - p: 38
               text: and if he could cleanse the lepers,
               kind: list
@@ -47045,24 +47118,24 @@ courses:
               source_uid: BIB116.2.4.2.P.38
             - p: 40
               text: and if he called a little group of followers and radically changed
-                their lives, and if
+                their lives,
               kind: list
               cls: IST_Body-Bullet-3
-              UID: BIB116.2.4.2.P.39.1
-              source_uid: BIB116.2.4.2.P.39
+              UID: BIB116.2.4.2.P.39.2
+              source_uid: BIB116.2.4.2.P.39.1
             - p: 41
-              text: he died like a condemned criminal, but was raised from the dead,
-                and if he
+              text: and if he died like a condemned criminal, but was raised from
+                the dead,
               kind: list
               cls: IST_Body-Bullet-3
-              UID: BIB116.2.4.2.P.40.1
-              source_uid: BIB116.2.4.2.P.40
+              UID: BIB116.2.4.2.P.40.2
+              source_uid: BIB116.2.4.2.P.40.1
             - p: 42
-              text: changed the history of the world,
+              text: and if he changed the history of the world,
               kind: list
               cls: IST_Body-Bullet-3
-              UID: BIB116.2.4.2.P.41.1
-              source_uid: BIB116.2.4.2.P.41
+              UID: BIB116.2.4.2.P.41.2
+              source_uid: BIB116.2.4.2.P.41.1
             - p: 43
               text: and if, after 2,000 years, a third of earth’s population called
                 him Savior and Lord,
@@ -47111,16 +47184,21 @@ courses:
               UID: BIB116.2.4.2.P.47.1
               source_uid: BIB116.2.4.2.P.47
             - p: 50
-              text: Parables illustrate and preserve truth and are easily remembered.
-                A parable moves and touches a person’s heart. When Nathan told King
-                David a parable about a rich man who sacrificed the only lamb of a
-                poor man, the truth was in David’s heart before he realized he was
-                the rich man (2 Samuel 12:1–7). Illustrations carry the truth past
-                people’s defenses.
               kind: list
               cls: IST_Body-Bullet-2
-              UID: BIB116.2.4.2.P.48.1
-              source_uid: BIB116.2.4.2.P.48
+              text: Parables illustrate and preserve truth and are easily remembered.
+              UID: BIB116.2.4.2.P.48.2
+              source_uid: BIB116.2.4.2.P.48.1
+            - p: 50
+              kind: list
+              cls: IST_Body-Bullet-2
+              text: A parable moves and touches a person’s heart. When Nathan told
+                King David a parable about a rich man who sacrificed the only lamb
+                of a poor man, the truth was in David’s heart before he realized he
+                was the rich man (2 Samuel 12:1–7). Illustrations carry the truth
+                past people’s defenses.
+              UID: BIB116.2.4.2.P.48.3
+              source_uid: BIB116.2.4.2.P.48.1
             - p: 51
               text: Jesus used parables to conceal and reveal. When the disciples
                 could not understand the parables, Jesus explained the stories privately.
@@ -49295,6 +49373,66 @@ courses:
               status: outdated 2026-09-29
               outdated_reason: revised
               replaced_by: BIB116.2.4.2.P.55.1
+            - p: 36
+              text: and if he could open the eyes of the blind, and if
+              kind: list
+              cls: IST_Body-Bullet-3
+              UID: BIB116.2.4.2.P.35.1
+              source_uid: BIB116.2.4.2.P.35
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.2.4.2.P.35.2
+            - p: 37
+              text: he could enable [those without mobility] to walk,
+              kind: list
+              cls: IST_Body-Bullet-3
+              UID: BIB116.2.4.2.P.153
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.2.4.2.P.153.1
+            - p: 40
+              text: and if he called a little group of followers and radically changed
+                their lives, and if
+              kind: list
+              cls: IST_Body-Bullet-3
+              UID: BIB116.2.4.2.P.39.1
+              source_uid: BIB116.2.4.2.P.39
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.2.4.2.P.39.2
+            - p: 41
+              text: he died like a condemned criminal, but was raised from the dead,
+                and if he
+              kind: list
+              cls: IST_Body-Bullet-3
+              UID: BIB116.2.4.2.P.40.1
+              source_uid: BIB116.2.4.2.P.40
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.2.4.2.P.40.2
+            - p: 42
+              text: changed the history of the world,
+              kind: list
+              cls: IST_Body-Bullet-3
+              UID: BIB116.2.4.2.P.41.1
+              source_uid: BIB116.2.4.2.P.41
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.2.4.2.P.41.2
+            - p: 50
+              text: Parables illustrate and preserve truth and are easily remembered.
+                A parable moves and touches a person’s heart. When Nathan told King
+                David a parable about a rich man who sacrificed the only lamb of a
+                poor man, the truth was in David’s heart before he realized he was
+                the rich man (2 Samuel 12:1–7). Illustrations carry the truth past
+                people’s defenses.
+              kind: list
+              cls: IST_Body-Bullet-2
+              UID: BIB116.2.4.2.P.48.1
+              source_uid: BIB116.2.4.2.P.48
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.2.4.2.P.48.2
             interactive_questions:
             - p: 12
               text: How might the use of relevant stories help you share truth with
@@ -49308,7 +49446,7 @@ courses:
                 truth. (3) They preserved truth. (4) They were easily remembered.
                 (5) Parables hid the truth from unfaithful people. (6) Parables taught
                 about the kingdom of God.'
-              after_body_index: 52
+              after_body_index: 53
               UID: BIB116.2.4.2.IQ.2
             - p: 14
               text: Explain the two phases of the kingdom of God.
@@ -49316,7 +49454,7 @@ courses:
                 hearts of believers. The visible phase will begin when Jesus returns
                 to establish His rule and reign over all the earth. Sometimes referred
                 to as the “already” and “not yet.”
-              after_body_index: 57
+              after_body_index: 58
               UID: BIB116.2.4.2.IQ.3
             - p: 12
               text: Name six events that are in all the Synoptic Gospels.
@@ -50238,16 +50376,17 @@ courses:
               UID: BIB116.2.4.3.P.34
               page: 51
             - p: 36
-              text: and if he could open the eyes of the blind, and if
+              text: and if he could open the eyes of the blind,
               kind: list
               cls: IST_Body-Bullet-3
-              UID: BIB116.2.4.3.P.35.1
-              source_uid: BIB116.2.4.3.P.35
+              UID: BIB116.2.4.3.P.35.2
+              source_uid: BIB116.2.4.3.P.35.1
             - p: 37
-              text: he could enable [those without mobility] to walk,
+              text: and if he could enable [those without mobility] to walk,
               kind: list
               cls: IST_Body-Bullet-3
-              UID: BIB116.2.4.3.P.153
+              UID: BIB116.2.4.3.P.153.1
+              source_uid: BIB116.2.4.3.P.153
             - p: 38
               text: and if he could cleanse the lepers,
               kind: list
@@ -50262,24 +50401,24 @@ courses:
               source_uid: BIB116.2.4.3.P.38
             - p: 40
               text: and if he called a little group of followers and radically changed
-                their lives, and if
+                their lives,
               kind: list
               cls: IST_Body-Bullet-3
-              UID: BIB116.2.4.3.P.39.1
-              source_uid: BIB116.2.4.3.P.39
+              UID: BIB116.2.4.3.P.39.2
+              source_uid: BIB116.2.4.3.P.39.1
             - p: 41
-              text: he died like a condemned criminal, but was raised from the dead,
-                and if he
+              text: and if he died like a condemned criminal, but was raised from
+                the dead,
               kind: list
               cls: IST_Body-Bullet-3
-              UID: BIB116.2.4.3.P.40.1
-              source_uid: BIB116.2.4.3.P.40
+              UID: BIB116.2.4.3.P.40.2
+              source_uid: BIB116.2.4.3.P.40.1
             - p: 42
-              text: changed the history of the world,
+              text: and if he changed the history of the world,
               kind: list
               cls: IST_Body-Bullet-3
-              UID: BIB116.2.4.3.P.41.1
-              source_uid: BIB116.2.4.3.P.41
+              UID: BIB116.2.4.3.P.41.2
+              source_uid: BIB116.2.4.3.P.41.1
             - p: 43
               text: and if, after 2,000 years, a third of earth’s population called
                 him Savior and Lord,
@@ -50328,16 +50467,21 @@ courses:
               UID: BIB116.2.4.3.P.47.1
               source_uid: BIB116.2.4.3.P.47
             - p: 50
-              text: Parables illustrate and preserve truth and are easily remembered.
-                A parable moves and touches a person’s heart. When Nathan told King
-                David a parable about a rich man who sacrificed the only lamb of a
-                poor man, the truth was in David’s heart before he realized he was
-                the rich man (2 Samuel 12:1–7). Illustrations carry the truth past
-                people’s defenses.
               kind: list
               cls: IST_Body-Bullet-2
-              UID: BIB116.2.4.3.P.48.1
-              source_uid: BIB116.2.4.3.P.48
+              text: Parables illustrate and preserve truth and are easily remembered.
+              UID: BIB116.2.4.3.P.48.2
+              source_uid: BIB116.2.4.3.P.48.1
+            - p: 50
+              kind: list
+              cls: IST_Body-Bullet-2
+              text: A parable moves and touches a person’s heart. When Nathan told
+                King David a parable about a rich man who sacrificed the only lamb
+                of a poor man, the truth was in David’s heart before he realized he
+                was the rich man (2 Samuel 12:1–7). Illustrations carry the truth
+                past people’s defenses.
+              UID: BIB116.2.4.3.P.48.3
+              source_uid: BIB116.2.4.3.P.48.1
             - p: 51
               text: Jesus used parables to conceal and reveal. When the disciples
                 could not understand the parables, Jesus explained the stories privately.
@@ -52512,6 +52656,66 @@ courses:
               status: outdated 2026-09-29
               outdated_reason: revised
               replaced_by: BIB116.2.4.3.P.55.1
+            - p: 36
+              text: and if he could open the eyes of the blind, and if
+              kind: list
+              cls: IST_Body-Bullet-3
+              UID: BIB116.2.4.3.P.35.1
+              source_uid: BIB116.2.4.3.P.35
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.2.4.3.P.35.2
+            - p: 37
+              text: he could enable [those without mobility] to walk,
+              kind: list
+              cls: IST_Body-Bullet-3
+              UID: BIB116.2.4.3.P.153
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.2.4.3.P.153.1
+            - p: 40
+              text: and if he called a little group of followers and radically changed
+                their lives, and if
+              kind: list
+              cls: IST_Body-Bullet-3
+              UID: BIB116.2.4.3.P.39.1
+              source_uid: BIB116.2.4.3.P.39
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.2.4.3.P.39.2
+            - p: 41
+              text: he died like a condemned criminal, but was raised from the dead,
+                and if he
+              kind: list
+              cls: IST_Body-Bullet-3
+              UID: BIB116.2.4.3.P.40.1
+              source_uid: BIB116.2.4.3.P.40
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.2.4.3.P.40.2
+            - p: 42
+              text: changed the history of the world,
+              kind: list
+              cls: IST_Body-Bullet-3
+              UID: BIB116.2.4.3.P.41.1
+              source_uid: BIB116.2.4.3.P.41
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.2.4.3.P.41.2
+            - p: 50
+              text: Parables illustrate and preserve truth and are easily remembered.
+                A parable moves and touches a person’s heart. When Nathan told King
+                David a parable about a rich man who sacrificed the only lamb of a
+                poor man, the truth was in David’s heart before he realized he was
+                the rich man (2 Samuel 12:1–7). Illustrations carry the truth past
+                people’s defenses.
+              kind: list
+              cls: IST_Body-Bullet-2
+              UID: BIB116.2.4.3.P.48.1
+              source_uid: BIB116.2.4.3.P.48
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.2.4.3.P.48.2
             interactive_questions:
             - p: 12
               text: How might the use of relevant stories help you share truth with
@@ -52525,7 +52729,7 @@ courses:
                 truth. (3) They preserved truth. (4) They were easily remembered.
                 (5) Parables hid the truth from unfaithful people. (6) Parables taught
                 about the kingdom of God.'
-              after_body_index: 52
+              after_body_index: 53
               UID: BIB116.2.4.3.IQ.2
             - p: 14
               text: Explain the two phases of the kingdom of God.
@@ -52533,7 +52737,7 @@ courses:
                 hearts of believers. The visible phase will begin when Jesus returns
                 to establish His rule and reign over all the earth. Sometimes referred
                 to as the “already” and “not yet.”
-              after_body_index: 57
+              after_body_index: 58
               UID: BIB116.2.4.3.IQ.3
             - p: 12
               text: Name six events that are in all the Synoptic Gospels.
@@ -66411,16 +66615,16 @@ courses:
               page: 78
             - p: 138
               text: Luke 1:15–17, 39–56, 67–80; 2:25–38; 3:21–22; 4:18–19; 11:5–13;
-                24:45–49; all references to the Spirit in Acts
+                24:45–49; All references to the Spirit in Acts.
               kind: chart
               cls: IST_Table-Body
               table: 25
               row: 3
               col: 3
               md: Luke 1:15–17, 39–56, 67–80;<br/>2:25–38; 3:21–22; 4:18–19;<br/>11:5–13;
-                24:45–49; all references to the Spirit in Acts
-              UID: BIB116.4.1.1.P.135.2
-              source_uid: BIB116.4.1.1.P.135.1
+                24:45–49;<br/>All references to the Spirit in Acts.
+              UID: BIB116.4.1.1.P.135.3
+              source_uid: BIB116.4.1.1.P.135.2
               page: 78
             - p: 139
               text: John
@@ -66471,13 +66675,13 @@ courses:
                 a holy life that pleases God.)
               kind: chart
               cls: IST_Table-Body
-              md: Service Salvation<br/>Sanctification (The Spirit enables us to live
-                a holy life that pleases God.)
+              md: Service<br/>Salvation<br/>Sanctification (The Spirit enables us
+                to live a holy life that pleases God.)
               table: 25
               row: 5
               col: 2
-              UID: BIB116.4.1.1.P.144.1
-              source_uid: BIB116.4.1.1.P.144
+              UID: BIB116.4.1.1.P.144.2
+              source_uid: BIB116.4.1.1.P.144.1
               page: 78
             - p: 144
               text: Rom. 15:19 Rom. 8:23; 1 Cor. 6:11; 12:13; 2 Cor. 1:22; Titus 3:5
@@ -67748,6 +67952,38 @@ courses:
               status: outdated 2026-09-29
               outdated_reason: revised
               replaced_by: BIB116.4.1.1.P.104.3
+            - p: 138
+              text: Luke 1:15–17, 39–56, 67–80; 2:25–38; 3:21–22; 4:18–19; 11:5–13;
+                24:45–49; all references to the Spirit in Acts
+              kind: chart
+              cls: IST_Table-Body
+              table: 25
+              row: 3
+              col: 3
+              md: Luke 1:15–17, 39–56, 67–80;<br/>2:25–38; 3:21–22; 4:18–19;<br/>11:5–13;
+                24:45–49; all references to the Spirit in Acts
+              UID: BIB116.4.1.1.P.135.2
+              source_uid: BIB116.4.1.1.P.135.1
+              page: 78
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.4.1.1.P.135.3
+            - p: 143
+              text: Service Salvation Sanctification (The Spirit enables us to live
+                a holy life that pleases God.)
+              kind: chart
+              cls: IST_Table-Body
+              md: Service Salvation<br/>Sanctification (The Spirit enables us to live
+                a holy life that pleases God.)
+              table: 25
+              row: 5
+              col: 2
+              UID: BIB116.4.1.1.P.144.1
+              source_uid: BIB116.4.1.1.P.144
+              page: 78
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.4.1.1.P.144.2
             interactive_questions:
             - p: 1
               text: What is the best title for Acts, according to some scholars?
@@ -70308,16 +70544,16 @@ courses:
               page: 78
             - p: 138
               text: Luke 1:15–17, 39–56, 67–80; 2:25–38; 3:21–22; 4:18–19; 11:5–13;
-                24:45–49; all references to the Spirit in Acts
+                24:45–49; All references to the Spirit in Acts.
               kind: chart
               cls: IST_Table-Body
               table: 25
               row: 3
               col: 3
               md: Luke 1:15–17, 39–56, 67–80;<br/>2:25–38; 3:21–22; 4:18–19;<br/>11:5–13;
-                24:45–49; all references to the Spirit in Acts
-              UID: BIB116.4.1.2.P.135.2
-              source_uid: BIB116.4.1.2.P.135.1
+                24:45–49;<br/>All references to the Spirit in Acts.
+              UID: BIB116.4.1.2.P.135.3
+              source_uid: BIB116.4.1.2.P.135.2
               page: 78
             - p: 139
               text: John
@@ -70368,13 +70604,13 @@ courses:
                 a holy life that pleases God.)
               kind: chart
               cls: IST_Table-Body
-              md: Service Salvation<br/>Sanctification (The Spirit enables us to live
-                a holy life that pleases God.)
+              md: Service<br/>Salvation<br/>Sanctification (The Spirit enables us
+                to live a holy life that pleases God.)
               table: 25
               row: 5
               col: 2
-              UID: BIB116.4.1.2.P.144.1
-              source_uid: BIB116.4.1.2.P.144
+              UID: BIB116.4.1.2.P.144.2
+              source_uid: BIB116.4.1.2.P.144.1
               page: 78
             - p: 144
               text: Rom. 15:19 Rom. 8:23; 1 Cor. 6:11; 12:13; 2 Cor. 1:22; Titus 3:5
@@ -71645,6 +71881,38 @@ courses:
               status: outdated 2026-09-29
               outdated_reason: revised
               replaced_by: BIB116.4.1.2.P.104.3
+            - p: 138
+              text: Luke 1:15–17, 39–56, 67–80; 2:25–38; 3:21–22; 4:18–19; 11:5–13;
+                24:45–49; all references to the Spirit in Acts
+              kind: chart
+              cls: IST_Table-Body
+              table: 25
+              row: 3
+              col: 3
+              md: Luke 1:15–17, 39–56, 67–80;<br/>2:25–38; 3:21–22; 4:18–19;<br/>11:5–13;
+                24:45–49; all references to the Spirit in Acts
+              UID: BIB116.4.1.2.P.135.2
+              source_uid: BIB116.4.1.2.P.135.1
+              page: 78
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.4.1.2.P.135.3
+            - p: 143
+              text: Service Salvation Sanctification (The Spirit enables us to live
+                a holy life that pleases God.)
+              kind: chart
+              cls: IST_Table-Body
+              md: Service Salvation<br/>Sanctification (The Spirit enables us to live
+                a holy life that pleases God.)
+              table: 25
+              row: 5
+              col: 2
+              UID: BIB116.4.1.2.P.144.1
+              source_uid: BIB116.4.1.2.P.144
+              page: 78
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.4.1.2.P.144.2
             interactive_questions:
             - p: 1
               text: What is the best title for Acts, according to some scholars?
@@ -73870,21 +74138,21 @@ courses:
             - p: 120
               text: A. Paul and Barnabas in Cyprus and Phrygia (Acts 12:25–14:28)
               kind: hang
-              cls: IST_Body-Hang-2
+              cls: IST_Body-Hang-3
               UID: BIB116.4.2.1.P.142.1
               source_uid: BIB116.4.2.1.P.142
               page: 80
             - p: 121
               text: B. Ratifying the Gentile Mission (Acts 15:1–35)
               kind: hang
-              cls: IST_Body-Hang-2
+              cls: IST_Body-Hang-3
               UID: BIB116.4.2.1.P.143.1
               source_uid: BIB116.4.2.1.P.143
               page: 80
             - p: 122
               text: C. Paul and Companions in Asia and Achaia (Acts 15:36–19:41)
               kind: hang
-              cls: IST_Body-Hang-2
+              cls: IST_Body-Hang-3
               UID: BIB116.4.2.1.P.144.1
               source_uid: BIB116.4.2.1.P.144
               page: 80
@@ -116771,10 +117039,10 @@ courses:
                 (Philippians 1:15–18).
               kind: list
               cls: IST_Body-Bullet-2
-              md: Others were preaching Christ, whether with good or bad motives<br/>(Philippians
+              md: Others were preaching Christ, whether with good or bad motives (Philippians
                 1:15–18).
-              UID: BIB116.7.2.1.P.31.2
-              source_uid: BIB116.7.2.1.P.31.1
+              UID: BIB116.7.2.1.P.31.3
+              source_uid: BIB116.7.2.1.P.31.2
             - p: 33
               text: The Philippians were praying for him (Philippians 1:19).
               kind: list
@@ -116906,16 +117174,11 @@ courses:
               source_uid: BIB116.7.2.1.P.46.1
             - p: 48
               text: “And my God will meet all your needs according to his glorious
-                riches in
+                riches in Christ Jesus” (Philippians 4:19).
               kind: list
               cls: IST_Body-Bullet-2
-              UID: BIB116.7.2.1.P.47.1
-              source_uid: BIB116.7.2.1.P.47
-            - p: 49
-              text: Christ Jesus” (Philippians 4:19).
-              kind: list
-              cls: IST_Body-Bullet-2
-              UID: BIB116.7.2.1.P.52
+              UID: BIB116.7.2.1.P.47.2
+              source_uid: BIB116.7.2.1.P.47.1
             - p: 8
               text: I. Introduction, 1:1–11
               kind: hang
@@ -117483,6 +117746,35 @@ courses:
               status: outdated 2026-09-29
               outdated_reason: revised
               replaced_by: BIB116.7.2.1.P.39.3
+            - p: 32
+              text: Others were preaching Christ, whether with good or bad motives
+                (Philippians 1:15–18).
+              kind: list
+              cls: IST_Body-Bullet-2
+              md: Others were preaching Christ, whether with good or bad motives<br/>(Philippians
+                1:15–18).
+              UID: BIB116.7.2.1.P.31.2
+              source_uid: BIB116.7.2.1.P.31.1
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.7.2.1.P.31.3
+            - p: 48
+              text: “And my God will meet all your needs according to his glorious
+                riches in
+              kind: list
+              cls: IST_Body-Bullet-2
+              UID: BIB116.7.2.1.P.47.1
+              source_uid: BIB116.7.2.1.P.47
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.7.2.1.P.47.2
+            - p: 49
+              text: Christ Jesus” (Philippians 4:19).
+              kind: list
+              cls: IST_Body-Bullet-2
+              UID: BIB116.7.2.1.P.52
+              status: outdated 2026-09-29
+              outdated_reason: merged
             interactive_questions:
             - p: 4
               text: In light of Paul’s reasons for rejoicing in prison, what kinds
@@ -117495,7 +117787,7 @@ courses:
                 it. (For example, “Rejoice in the Lord always” = I will find reasons
                 to express joyful praise to the Lord in every situation.)
               response: Answers will vary.
-              after_body_index: 50
+              after_body_index: 49
               UID: BIB116.7.2.1.IQ.2.1
               source_uid: BIB116.7.2.1.IQ.2
             - p: 2
@@ -118626,10 +118918,10 @@ courses:
                 (Philippians 1:15–18).
               kind: list
               cls: IST_Body-Bullet-2
-              md: Others were preaching Christ, whether with good or bad motives<br/>(Philippians
+              md: Others were preaching Christ, whether with good or bad motives (Philippians
                 1:15–18).
-              UID: BIB116.7.2.2.P.31.2
-              source_uid: BIB116.7.2.2.P.31.1
+              UID: BIB116.7.2.2.P.31.3
+              source_uid: BIB116.7.2.2.P.31.2
             - p: 33
               text: The Philippians were praying for him (Philippians 1:19).
               kind: list
@@ -118761,16 +119053,11 @@ courses:
               source_uid: BIB116.7.2.2.P.46.1
             - p: 48
               text: “And my God will meet all your needs according to his glorious
-                riches in
+                riches in Christ Jesus” (Philippians 4:19).
               kind: list
               cls: IST_Body-Bullet-2
-              UID: BIB116.7.2.2.P.47.1
-              source_uid: BIB116.7.2.2.P.47
-            - p: 49
-              text: Christ Jesus” (Philippians 4:19).
-              kind: list
-              cls: IST_Body-Bullet-2
-              UID: BIB116.7.2.2.P.52
+              UID: BIB116.7.2.2.P.47.2
+              source_uid: BIB116.7.2.2.P.47.1
             - p: 8
               text: I. Introduction, 1:1–11
               kind: hang
@@ -119338,6 +119625,35 @@ courses:
               status: outdated 2026-09-29
               outdated_reason: revised
               replaced_by: BIB116.7.2.2.P.39.3
+            - p: 32
+              text: Others were preaching Christ, whether with good or bad motives
+                (Philippians 1:15–18).
+              kind: list
+              cls: IST_Body-Bullet-2
+              md: Others were preaching Christ, whether with good or bad motives<br/>(Philippians
+                1:15–18).
+              UID: BIB116.7.2.2.P.31.2
+              source_uid: BIB116.7.2.2.P.31.1
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.7.2.2.P.31.3
+            - p: 48
+              text: “And my God will meet all your needs according to his glorious
+                riches in
+              kind: list
+              cls: IST_Body-Bullet-2
+              UID: BIB116.7.2.2.P.47.1
+              source_uid: BIB116.7.2.2.P.47
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.7.2.2.P.47.2
+            - p: 49
+              text: Christ Jesus” (Philippians 4:19).
+              kind: list
+              cls: IST_Body-Bullet-2
+              UID: BIB116.7.2.2.P.52
+              status: outdated 2026-09-29
+              outdated_reason: merged
             interactive_questions:
             - p: 4
               text: In light of Paul’s reasons for rejoicing in prison, what kinds
@@ -119350,7 +119666,7 @@ courses:
                 it. (For example, “Rejoice in the Lord always” = I will find reasons
                 to express joyful praise to the Lord in every situation.)
               response: Answers will vary.
-              after_body_index: 50
+              after_body_index: 49
               UID: BIB116.7.2.2.IQ.2.1
               source_uid: BIB116.7.2.2.IQ.2
             - p: 2
@@ -120319,12 +120635,18 @@ courses:
               source_uid: BIB116.7.3.1.P.7
               page: 137
             - p: 9
-              text: 'II. Practical teaching: guidelines for holy living (Colossians
-                3–4) An expanded outline of Colossians is as follows:'
               kind: hang
               cls: IST_Body-Hang-2
-              UID: BIB116.7.3.1.P.8.2
-              source_uid: BIB116.7.3.1.P.8.1
+              text: 'II. Practical teaching: guidelines for holy living (Colossians
+                3–4)'
+              UID: BIB116.7.3.1.P.8.3
+              source_uid: BIB116.7.3.1.P.8.2
+            - p: 9
+              kind: prose
+              cls: IST_Body-Indent
+              text: 'An expanded outline of Colossians is as follows:'
+              UID: BIB116.7.3.1.P.8.4
+              source_uid: BIB116.7.3.1.P.8.2
             - p: 10
               text: Introduction, Colossians 1:1–14
               kind: hang
@@ -120408,11 +120730,11 @@ courses:
               source_uid: BIB116.7.3.1.P.21
               page: 137
             - p: 22
-              text: D. Conclusion (Colossians 4:7–18)
+              text: Conclusion, Colossians 4:7–18
               kind: hang
-              cls: IST_Body-Hang-3
-              UID: BIB116.7.3.1.P.22.1
-              source_uid: BIB116.7.3.1.P.22
+              cls: IST_Body-Hang-2
+              UID: BIB116.7.3.1.P.22.2
+              source_uid: BIB116.7.3.1.P.22.1
               page: 137
             - p: 23
               text: Explanations of the Outline
@@ -122102,6 +122424,26 @@ courses:
               status: outdated 2026-09-29
               outdated_reason: revised
               replaced_by: BIB116.7.3.1.P.53.1
+            - p: 9
+              text: 'II. Practical teaching: guidelines for holy living (Colossians
+                3–4) An expanded outline of Colossians is as follows:'
+              kind: hang
+              cls: IST_Body-Hang-2
+              UID: BIB116.7.3.1.P.8.2
+              source_uid: BIB116.7.3.1.P.8.1
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.7.3.1.P.8.3
+            - p: 22
+              text: D. Conclusion (Colossians 4:7–18)
+              kind: hang
+              cls: IST_Body-Hang-3
+              UID: BIB116.7.3.1.P.22.1
+              source_uid: BIB116.7.3.1.P.22
+              page: 137
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.7.3.1.P.22.2
             interactive_questions:
             - p: 6
               text: What is the main idea of Colossians?
@@ -122113,20 +122455,20 @@ courses:
               response: The false teachings in Colossae were a mixture of Jewish teaching
                 and popular Greco-Roman philosophy, involving extreme self-denial,
                 angel worship, lowering Christ, and new knowledge.
-              after_body_index: 38
+              after_body_index: 39
               UID: BIB116.7.3.1.IQ.2
             - p: 8
               text: Summarize Paul’s teaching on old and new clothes.
               response: Taking off our old clothes means putting away things like
                 sexual sins, greed, and anger. In contrast, our new clothes include
                 things like compassion, humility, patience, and love.
-              after_body_index: 42
+              after_body_index: 43
               UID: BIB116.7.3.1.IQ.3
             - p: 9
               text: How are the themes of Ephesians and Colossians different?
               response: In Colossians, Paul emphasizes Christ as the head of the body.
                 In Ephesians, he emphasizes the church as the body of Christ.
-              after_body_index: 57
+              after_body_index: 58
               UID: BIB116.7.3.1.IQ.4
             scripture:
             - intext: Colossians 1:7–8; 4:12
@@ -123031,12 +123373,18 @@ courses:
               source_uid: BIB116.7.3.2.P.7
               page: 137
             - p: 9
-              text: 'II. Practical teaching: guidelines for holy living (Colossians
-                3–4) An expanded outline of Colossians is as follows:'
               kind: hang
               cls: IST_Body-Hang-2
-              UID: BIB116.7.3.2.P.8.2
-              source_uid: BIB116.7.3.2.P.8.1
+              text: 'II. Practical teaching: guidelines for holy living (Colossians
+                3–4)'
+              UID: BIB116.7.3.2.P.8.3
+              source_uid: BIB116.7.3.2.P.8.2
+            - p: 9
+              kind: prose
+              cls: IST_Body-Indent
+              text: 'An expanded outline of Colossians is as follows:'
+              UID: BIB116.7.3.2.P.8.4
+              source_uid: BIB116.7.3.2.P.8.2
             - p: 10
               text: Introduction, Colossians 1:1–14
               kind: hang
@@ -123120,11 +123468,11 @@ courses:
               source_uid: BIB116.7.3.2.P.21
               page: 137
             - p: 22
-              text: D. Conclusion (Colossians 4:7–18)
+              text: Conclusion, Colossians 4:7–18
               kind: hang
-              cls: IST_Body-Hang-3
-              UID: BIB116.7.3.2.P.22.1
-              source_uid: BIB116.7.3.2.P.22
+              cls: IST_Body-Hang-2
+              UID: BIB116.7.3.2.P.22.2
+              source_uid: BIB116.7.3.2.P.22.1
               page: 137
             - p: 23
               text: Explanations of the Outline
@@ -124814,6 +125162,26 @@ courses:
               status: outdated 2026-09-29
               outdated_reason: revised
               replaced_by: BIB116.7.3.2.P.53.1
+            - p: 9
+              text: 'II. Practical teaching: guidelines for holy living (Colossians
+                3–4) An expanded outline of Colossians is as follows:'
+              kind: hang
+              cls: IST_Body-Hang-2
+              UID: BIB116.7.3.2.P.8.2
+              source_uid: BIB116.7.3.2.P.8.1
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.7.3.2.P.8.3
+            - p: 22
+              text: D. Conclusion (Colossians 4:7–18)
+              kind: hang
+              cls: IST_Body-Hang-3
+              UID: BIB116.7.3.2.P.22.1
+              source_uid: BIB116.7.3.2.P.22
+              page: 137
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.7.3.2.P.22.2
             interactive_questions:
             - p: 6
               text: What is the main idea of Colossians?
@@ -124825,20 +125193,20 @@ courses:
               response: The false teachings in Colossae were a mixture of Jewish teaching
                 and popular Greco-Roman philosophy, involving extreme self-denial,
                 angel worship, lowering Christ, and new knowledge.
-              after_body_index: 38
+              after_body_index: 39
               UID: BIB116.7.3.2.IQ.2
             - p: 8
               text: Summarize Paul’s teaching on old and new clothes.
               response: Taking off our old clothes means putting away things like
                 sexual sins, greed, and anger. In contrast, our new clothes include
                 things like compassion, humility, patience, and love.
-              after_body_index: 42
+              after_body_index: 43
               UID: BIB116.7.3.2.IQ.3
             - p: 9
               text: How are the themes of Ephesians and Colossians different?
               response: In Colossians, Paul emphasizes Christ as the head of the body.
                 In Ephesians, he emphasizes the church as the body of Christ.
-              after_body_index: 57
+              after_body_index: 58
               UID: BIB116.7.3.2.IQ.4
             scripture:
             - intext: Colossians 1:7–8; 4:12
@@ -133493,7 +133861,7 @@ courses:
               text: Therefore, we should “lift up holy hands in prayer” for everyone
                 (1 Timothy 2:8).
               kind: prose
-              cls: IST_Body-Indent
+              cls: IST_Body-No-Indent
               UID: BIB116.9.1.1.P.51.1
               source_uid: BIB116.9.1.1.P.51
             - p: 54
@@ -135978,7 +136346,7 @@ courses:
               text: Therefore, we should “lift up holy hands in prayer” for everyone
                 (1 Timothy 2:8).
               kind: prose
-              cls: IST_Body-Indent
+              cls: IST_Body-No-Indent
               UID: BIB116.9.1.2.P.51.1
               source_uid: BIB116.9.1.2.P.51
             - p: 54
@@ -168358,9 +168726,9 @@ courses:
                 Son of God (Matthew 16:16). Nonetheless, at times he trusted in himself
                 too much. He rebuked Jesus when the Master said death on the Cross
                 was near (Matthew 16:22). He also denied Jesus after the Lord would
-                not allow Peter to fight for Him<br/>(Matthew 26:69–75).
-              UID: BIB116.10.3.1.P.10.2
-              source_uid: BIB116.10.3.1.P.10.1
+                not allow Peter to fight for Him (Matthew 26:69–75).
+              UID: BIB116.10.3.1.P.10.3
+              source_uid: BIB116.10.3.1.P.10.2
             - p: 12
               text: Beginning at Pentecost, we see a great change take place in Peter.
                 He received a new spiritual power in that the Spirit brought boldness
@@ -170611,6 +170979,28 @@ courses:
               status: outdated 2026-09-29
               outdated_reason: revised
               replaced_by: BIB116.10.3.1.P.70.2
+            - p: 11
+              text: Peter was a man of great courage. He was quick to speak and act.
+                Peter was the only apostle who dared to walk on the water to Jesus
+                (Matthew 14:25–33). He was the one who declared that Jesus was the
+                Son of God (Matthew 16:16). Nonetheless, at times he trusted in himself
+                too much. He rebuked Jesus when the Master said death on the Cross
+                was near (Matthew 16:22). He also denied Jesus after the Lord would
+                not allow Peter to fight for Him (Matthew 26:69–75).
+              kind: list
+              cls: IST_Body-Bullet-2
+              md: Peter was a man of great courage. He was quick to speak and act.
+                Peter was the only apostle who dared to walk on the water to Jesus
+                (Matthew 14:25–33). He was the one who declared that Jesus was the
+                Son of God (Matthew 16:16). Nonetheless, at times he trusted in himself
+                too much. He rebuked Jesus when the Master said death on the Cross
+                was near (Matthew 16:22). He also denied Jesus after the Lord would
+                not allow Peter to fight for Him<br/>(Matthew 26:69–75).
+              UID: BIB116.10.3.1.P.10.2
+              source_uid: BIB116.10.3.1.P.10.1
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.10.3.1.P.10.3
             interactive_questions:
             - p: 13
               text: Consider the transformation that Jesus worked in Peter’s life.
@@ -172108,9 +172498,9 @@ courses:
                 Son of God (Matthew 16:16). Nonetheless, at times he trusted in himself
                 too much. He rebuked Jesus when the Master said death on the Cross
                 was near (Matthew 16:22). He also denied Jesus after the Lord would
-                not allow Peter to fight for Him<br/>(Matthew 26:69–75).
-              UID: BIB116.10.3.2.P.10.2
-              source_uid: BIB116.10.3.2.P.10.1
+                not allow Peter to fight for Him (Matthew 26:69–75).
+              UID: BIB116.10.3.2.P.10.3
+              source_uid: BIB116.10.3.2.P.10.2
             - p: 12
               text: Beginning at Pentecost, we see a great change take place in Peter.
                 He received a new spiritual power in that the Spirit brought boldness
@@ -174349,6 +174739,28 @@ courses:
               status: outdated 2026-09-29
               outdated_reason: revised
               replaced_by: BIB116.10.3.2.P.70.2
+            - p: 11
+              text: Peter was a man of great courage. He was quick to speak and act.
+                Peter was the only apostle who dared to walk on the water to Jesus
+                (Matthew 14:25–33). He was the one who declared that Jesus was the
+                Son of God (Matthew 16:16). Nonetheless, at times he trusted in himself
+                too much. He rebuked Jesus when the Master said death on the Cross
+                was near (Matthew 16:22). He also denied Jesus after the Lord would
+                not allow Peter to fight for Him (Matthew 26:69–75).
+              kind: list
+              cls: IST_Body-Bullet-2
+              md: Peter was a man of great courage. He was quick to speak and act.
+                Peter was the only apostle who dared to walk on the water to Jesus
+                (Matthew 14:25–33). He was the one who declared that Jesus was the
+                Son of God (Matthew 16:16). Nonetheless, at times he trusted in himself
+                too much. He rebuked Jesus when the Master said death on the Cross
+                was near (Matthew 16:22). He also denied Jesus after the Lord would
+                not allow Peter to fight for Him<br/>(Matthew 26:69–75).
+              UID: BIB116.10.3.2.P.10.2
+              source_uid: BIB116.10.3.2.P.10.1
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.10.3.2.P.10.3
             interactive_questions:
             - p: 13
               text: Consider the transformation that Jesus worked in Peter’s life.
@@ -175830,9 +176242,9 @@ courses:
                 Son of God (Matthew 16:16). Nonetheless, at times he trusted in himself
                 too much. He rebuked Jesus when the Master said death on the Cross
                 was near (Matthew 16:22). He also denied Jesus after the Lord would
-                not allow Peter to fight for Him<br/>(Matthew 26:69–75).
-              UID: BIB116.10.3.3.P.10.2
-              source_uid: BIB116.10.3.3.P.10.1
+                not allow Peter to fight for Him (Matthew 26:69–75).
+              UID: BIB116.10.3.3.P.10.3
+              source_uid: BIB116.10.3.3.P.10.2
             - p: 12
               text: Beginning at Pentecost, we see a great change take place in Peter.
                 He received a new spiritual power in that the Spirit brought boldness
@@ -178071,6 +178483,28 @@ courses:
               status: outdated 2026-09-29
               outdated_reason: revised
               replaced_by: BIB116.10.3.3.P.70.2
+            - p: 11
+              text: Peter was a man of great courage. He was quick to speak and act.
+                Peter was the only apostle who dared to walk on the water to Jesus
+                (Matthew 14:25–33). He was the one who declared that Jesus was the
+                Son of God (Matthew 16:16). Nonetheless, at times he trusted in himself
+                too much. He rebuked Jesus when the Master said death on the Cross
+                was near (Matthew 16:22). He also denied Jesus after the Lord would
+                not allow Peter to fight for Him (Matthew 26:69–75).
+              kind: list
+              cls: IST_Body-Bullet-2
+              md: Peter was a man of great courage. He was quick to speak and act.
+                Peter was the only apostle who dared to walk on the water to Jesus
+                (Matthew 14:25–33). He was the one who declared that Jesus was the
+                Son of God (Matthew 16:16). Nonetheless, at times he trusted in himself
+                too much. He rebuked Jesus when the Master said death on the Cross
+                was near (Matthew 16:22). He also denied Jesus after the Lord would
+                not allow Peter to fight for Him<br/>(Matthew 26:69–75).
+              UID: BIB116.10.3.3.P.10.2
+              source_uid: BIB116.10.3.3.P.10.1
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.10.3.3.P.10.3
             interactive_questions:
             - p: 13
               text: Consider the transformation that Jesus worked in Peter’s life.
@@ -180632,10 +181066,17 @@ courses:
               row: 2
               col: 1
               text: • David’s census caused seventy thousand people to lose their
-                lives (1 Chronicles 21). Ananias and Sapphira lost their lives (Acts
-                5:1–11).
-              UID: BIB116.11.1.1.P.160.7
-              source_uid: BIB116.11.1.1.P.160.1
+                lives (1 Chronicles 21).
+              UID: BIB116.11.1.1.P.160.9
+              source_uid: BIB116.11.1.1.P.160.7
+            - kind: list
+              cls: IST_Table-Body-Bullet
+              table: 50
+              row: 2
+              col: 1
+              text: • Ananias and Sapphira lost their lives (Acts 5:1–11).
+              UID: BIB116.11.1.1.P.160.10
+              source_uid: BIB116.11.1.1.P.160.7
             - kind: list
               cls: IST_Table-Body-Bullet
               table: 50
@@ -183291,6 +183732,19 @@ courses:
               status: outdated 2026-09-29
               outdated_reason: revised
               replaced_by: BIB116.11.1.1.P.105.2
+            - kind: list
+              cls: IST_Table-Body-Bullet
+              table: 50
+              row: 2
+              col: 1
+              text: • David’s census caused seventy thousand people to lose their
+                lives (1 Chronicles 21). Ananias and Sapphira lost their lives (Acts
+                5:1–11).
+              UID: BIB116.11.1.1.P.160.7
+              source_uid: BIB116.11.1.1.P.160.1
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.11.1.1.P.160.9
             interactive_questions:
             - p: 1
               text: Summarize three reasons why we believe the apostle John wrote
@@ -183335,13 +183789,13 @@ courses:
               response: No. God first disciplines His children and then forgives those
                 who repent. But believers can lose their salvation if they do not
                 repent and continue sinning.
-              after_body_index: 140
+              after_body_index: 141
               UID: BIB116.11.1.1.IQ.7
             - p: 7
               text: What are two signs that we are born again? (1 John 4:7; 5:1)
               response: We (1) love one another and (2) believe that Jesus is the
                 Christ.
-              after_body_index: 155
+              after_body_index: 156
               UID: BIB116.11.1.1.IQ.9.1
               source_uid: BIB116.11.1.1.IQ.9
             - p: 2
@@ -186614,10 +187068,17 @@ courses:
               row: 2
               col: 1
               text: • David’s census caused seventy thousand people to lose their
-                lives (1 Chronicles 21). Ananias and Sapphira lost their lives (Acts
-                5:1–11).
-              UID: BIB116.11.1.2.P.160.7
-              source_uid: BIB116.11.1.2.P.160.1
+                lives (1 Chronicles 21).
+              UID: BIB116.11.1.2.P.160.9
+              source_uid: BIB116.11.1.2.P.160.7
+            - kind: list
+              cls: IST_Table-Body-Bullet
+              table: 50
+              row: 2
+              col: 1
+              text: • Ananias and Sapphira lost their lives (Acts 5:1–11).
+              UID: BIB116.11.1.2.P.160.10
+              source_uid: BIB116.11.1.2.P.160.7
             - kind: list
               cls: IST_Table-Body-Bullet
               table: 50
@@ -189273,6 +189734,19 @@ courses:
               status: outdated 2026-09-29
               outdated_reason: revised
               replaced_by: BIB116.11.1.2.P.105.2
+            - kind: list
+              cls: IST_Table-Body-Bullet
+              table: 50
+              row: 2
+              col: 1
+              text: • David’s census caused seventy thousand people to lose their
+                lives (1 Chronicles 21). Ananias and Sapphira lost their lives (Acts
+                5:1–11).
+              UID: BIB116.11.1.2.P.160.7
+              source_uid: BIB116.11.1.2.P.160.1
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.11.1.2.P.160.9
             interactive_questions:
             - p: 1
               text: Summarize three reasons why we believe the apostle John wrote
@@ -189317,13 +189791,13 @@ courses:
               response: No. God first disciplines His children and then forgives those
                 who repent. But believers can lose their salvation if they do not
                 repent and continue sinning.
-              after_body_index: 140
+              after_body_index: 141
               UID: BIB116.11.1.2.IQ.7
             - p: 7
               text: What are two signs that we are born again? (1 John 4:7; 5:1)
               response: We (1) love one another and (2) believe that Jesus is the
                 Christ.
-              after_body_index: 155
+              after_body_index: 156
               UID: BIB116.11.1.2.IQ.9.1
               source_uid: BIB116.11.1.2.IQ.9
             - p: 2
@@ -204315,27 +204789,34 @@ courses:
               text: 'Build yourselves up, praying in the Spirit (Jude 1:20). The NASB
                 translates this passage as follows: “But you, beloved, building yourselves
                 up on your most holy faith, praying in the Holy Spirit, keep yourselves
-                in the love of God” (Jude 1:20–21). What does the phrase praying in
-                the Holy Spirit mean?'
+                in the love of God” (Jude 1:20–21).'
               kind: list
               cls: IST_Body-Bullet-2
               md: '*Build yourselves up, praying in the Spirit* (Jude 1:20). The NASB
                 translates this passage as follows: “But you, beloved, building yourselves
                 up on your most holy faith, praying in the Holy Spirit, keep yourselves
-                in the love of God” (Jude 1:20–21). What does the phrase *praying
-                in the Holy Spirit* mean?'
-              UID: BIB116.12.2.1.P.147.3
-              source_uid: BIB116.12.2.1.P.147.2
+                in the love of God” (Jude 1:20–21).'
+              UID: BIB116.12.2.1.P.147.4
+              source_uid: BIB116.12.2.1.P.147.3
             - p: 144
-              text: Some see a link between praying in the Spirit and “building yourselves
-                up.” They allude to Paul’s words in 1 Corinthians 14:4—“He who speaks
-                in a tongue edifies himself”—and assert that Jude was speaking of
-                praying in tongues. As one of Jesus’ half-brothers, Jude was presumably
-                in the upper room on the Day of Pentecost (Acts 1:14) and therefore
-                had experienced speaking in tongues.
+              text: What does the phrase praying in the Holy Spirit mean? Some see
+                a link between praying in the Spirit and “building yourselves up.”
+                They allude to Paul’s words in 1 Corinthians 14:4—“He who speaks in
+                a tongue edifies himself”—and assert that Jude was speaking of praying
+                in tongues. As one of Jesus’ half-brothers, Jude was presumably in
+                the upper room on the Day of Pentecost (Acts 1:14) and therefore had
+                experienced speaking in tongues.
               kind: prose
               cls: IST_Body-Indent
-              UID: BIB116.12.2.1.P.148
+              UID: BIB116.12.2.1.P.148.1
+              md: What does the phrase *praying in the Holy Spirit* mean? Some see
+                a link between praying in the Spirit and “building yourselves up.”
+                They allude to Paul’s words in 1 Corinthians 14:4—“He who speaks in
+                a tongue edifies himself”—and assert that Jude was speaking of praying
+                in tongues. As one of Jesus’ half-brothers, Jude was presumably in
+                the upper room on the Day of Pentecost (Acts 1:14) and therefore had
+                experienced speaking in tongues.
+              source_uid: BIB116.12.2.1.P.148
             - p: 145
               text: On the other hand, while praying in tongues is certainly part
                 of praying in the Spirit, in fact, the Spirit helps us pray in many
@@ -204600,15 +205081,11 @@ courses:
               text: 'We refer to the list of the books in our Bible as the canon.
                 The word canon originally meant “a standard used to measure.” To be
                 considered part of the New Testament canon, a book had to meet four
-                standards: 1. An apostle or someone close to an apostle had to be
-                the author. 2. The book had to match what the church already knew
-                to be Scripture. 3. It had to be widely accepted by the church. 4.
-                It had to have a quality that revealed divine inspiration. (Menzies
-                and Horton 1993, 29–30)'
+                standards:'
               kind: list
               cls: IST_Body-Bullet-2
-              UID: BIB116.12.2.1.P.227.3
-              source_uid: BIB116.12.2.1.P.227.2
+              UID: BIB116.12.2.1.P.227.4
+              source_uid: BIB116.12.2.1.P.227.3
             - p: 167
               text: 1. An apostle or someone close to an apostle had to be the author.
               kind: hang
@@ -207467,6 +207944,53 @@ courses:
               status: outdated 2026-09-29
               outdated_reason: revised
               replaced_by: BIB116.12.2.1.P.152.3
+            - p: 143
+              text: 'Build yourselves up, praying in the Spirit (Jude 1:20). The NASB
+                translates this passage as follows: “But you, beloved, building yourselves
+                up on your most holy faith, praying in the Holy Spirit, keep yourselves
+                in the love of God” (Jude 1:20–21). What does the phrase praying in
+                the Holy Spirit mean?'
+              kind: list
+              cls: IST_Body-Bullet-2
+              md: '*Build yourselves up, praying in the Spirit* (Jude 1:20). The NASB
+                translates this passage as follows: “But you, beloved, building yourselves
+                up on your most holy faith, praying in the Holy Spirit, keep yourselves
+                in the love of God” (Jude 1:20–21). What does the phrase *praying
+                in the Holy Spirit* mean?'
+              UID: BIB116.12.2.1.P.147.3
+              source_uid: BIB116.12.2.1.P.147.2
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.12.2.1.P.147.4
+            - p: 144
+              text: Some see a link between praying in the Spirit and “building yourselves
+                up.” They allude to Paul’s words in 1 Corinthians 14:4—“He who speaks
+                in a tongue edifies himself”—and assert that Jude was speaking of
+                praying in tongues. As one of Jesus’ half-brothers, Jude was presumably
+                in the upper room on the Day of Pentecost (Acts 1:14) and therefore
+                had experienced speaking in tongues.
+              kind: prose
+              cls: IST_Body-Indent
+              UID: BIB116.12.2.1.P.148
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.12.2.1.P.148.1
+            - p: 166
+              text: 'We refer to the list of the books in our Bible as the canon.
+                The word canon originally meant “a standard used to measure.” To be
+                considered part of the New Testament canon, a book had to meet four
+                standards: 1. An apostle or someone close to an apostle had to be
+                the author. 2. The book had to match what the church already knew
+                to be Scripture. 3. It had to be widely accepted by the church. 4.
+                It had to have a quality that revealed divine inspiration. (Menzies
+                and Horton 1993, 29–30)'
+              kind: list
+              cls: IST_Body-Bullet-2
+              UID: BIB116.12.2.1.P.227.3
+              source_uid: BIB116.12.2.1.P.227.2
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.12.2.1.P.227.4
             interactive_questions:
             - p: 8
               text: Give two reasons why the author of Jude is thought to be Jesus’
@@ -210527,27 +211051,34 @@ courses:
               text: 'Build yourselves up, praying in the Spirit (Jude 1:20). The NASB
                 translates this passage as follows: “But you, beloved, building yourselves
                 up on your most holy faith, praying in the Holy Spirit, keep yourselves
-                in the love of God” (Jude 1:20–21). What does the phrase praying in
-                the Holy Spirit mean?'
+                in the love of God” (Jude 1:20–21).'
               kind: list
               cls: IST_Body-Bullet-2
               md: '*Build yourselves up, praying in the Spirit* (Jude 1:20). The NASB
                 translates this passage as follows: “But you, beloved, building yourselves
                 up on your most holy faith, praying in the Holy Spirit, keep yourselves
-                in the love of God” (Jude 1:20–21). What does the phrase *praying
-                in the Holy Spirit* mean?'
-              UID: BIB116.12.2.2.P.147.3
-              source_uid: BIB116.12.2.2.P.147.2
+                in the love of God” (Jude 1:20–21).'
+              UID: BIB116.12.2.2.P.147.4
+              source_uid: BIB116.12.2.2.P.147.3
             - p: 144
-              text: Some see a link between praying in the Spirit and “building yourselves
-                up.” They allude to Paul’s words in 1 Corinthians 14:4—“He who speaks
-                in a tongue edifies himself”—and assert that Jude was speaking of
-                praying in tongues. As one of Jesus’ half-brothers, Jude was presumably
-                in the upper room on the Day of Pentecost (Acts 1:14) and therefore
-                had experienced speaking in tongues.
+              text: What does the phrase praying in the Holy Spirit mean? Some see
+                a link between praying in the Spirit and “building yourselves up.”
+                They allude to Paul’s words in 1 Corinthians 14:4—“He who speaks in
+                a tongue edifies himself”—and assert that Jude was speaking of praying
+                in tongues. As one of Jesus’ half-brothers, Jude was presumably in
+                the upper room on the Day of Pentecost (Acts 1:14) and therefore had
+                experienced speaking in tongues.
               kind: prose
               cls: IST_Body-Indent
-              UID: BIB116.12.2.2.P.148
+              UID: BIB116.12.2.2.P.148.1
+              md: What does the phrase *praying in the Holy Spirit* mean? Some see
+                a link between praying in the Spirit and “building yourselves up.”
+                They allude to Paul’s words in 1 Corinthians 14:4—“He who speaks in
+                a tongue edifies himself”—and assert that Jude was speaking of praying
+                in tongues. As one of Jesus’ half-brothers, Jude was presumably in
+                the upper room on the Day of Pentecost (Acts 1:14) and therefore had
+                experienced speaking in tongues.
+              source_uid: BIB116.12.2.2.P.148
             - p: 145
               text: On the other hand, while praying in tongues is certainly part
                 of praying in the Spirit, in fact, the Spirit helps us pray in many
@@ -210812,15 +211343,11 @@ courses:
               text: 'We refer to the list of the books in our Bible as the canon.
                 The word canon originally meant “a standard used to measure.” To be
                 considered part of the New Testament canon, a book had to meet four
-                standards: 1. An apostle or someone close to an apostle had to be
-                the author. 2. The book had to match what the church already knew
-                to be Scripture. 3. It had to be widely accepted by the church. 4.
-                It had to have a quality that revealed divine inspiration. (Menzies
-                and Horton 1993, 29–30)'
+                standards:'
               kind: list
               cls: IST_Body-Bullet-2
-              UID: BIB116.12.2.2.P.227.3
-              source_uid: BIB116.12.2.2.P.227.2
+              UID: BIB116.12.2.2.P.227.4
+              source_uid: BIB116.12.2.2.P.227.3
             - p: 167
               text: 1. An apostle or someone close to an apostle had to be the author.
               kind: hang
@@ -213612,6 +214139,53 @@ courses:
               status: outdated 2026-09-29
               outdated_reason: revised
               replaced_by: BIB116.12.2.2.P.152.3
+            - p: 143
+              text: 'Build yourselves up, praying in the Spirit (Jude 1:20). The NASB
+                translates this passage as follows: “But you, beloved, building yourselves
+                up on your most holy faith, praying in the Holy Spirit, keep yourselves
+                in the love of God” (Jude 1:20–21). What does the phrase praying in
+                the Holy Spirit mean?'
+              kind: list
+              cls: IST_Body-Bullet-2
+              md: '*Build yourselves up, praying in the Spirit* (Jude 1:20). The NASB
+                translates this passage as follows: “But you, beloved, building yourselves
+                up on your most holy faith, praying in the Holy Spirit, keep yourselves
+                in the love of God” (Jude 1:20–21). What does the phrase *praying
+                in the Holy Spirit* mean?'
+              UID: BIB116.12.2.2.P.147.3
+              source_uid: BIB116.12.2.2.P.147.2
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.12.2.2.P.147.4
+            - p: 144
+              text: Some see a link between praying in the Spirit and “building yourselves
+                up.” They allude to Paul’s words in 1 Corinthians 14:4—“He who speaks
+                in a tongue edifies himself”—and assert that Jude was speaking of
+                praying in tongues. As one of Jesus’ half-brothers, Jude was presumably
+                in the upper room on the Day of Pentecost (Acts 1:14) and therefore
+                had experienced speaking in tongues.
+              kind: prose
+              cls: IST_Body-Indent
+              UID: BIB116.12.2.2.P.148
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.12.2.2.P.148.1
+            - p: 166
+              text: 'We refer to the list of the books in our Bible as the canon.
+                The word canon originally meant “a standard used to measure.” To be
+                considered part of the New Testament canon, a book had to meet four
+                standards: 1. An apostle or someone close to an apostle had to be
+                the author. 2. The book had to match what the church already knew
+                to be Scripture. 3. It had to be widely accepted by the church. 4.
+                It had to have a quality that revealed divine inspiration. (Menzies
+                and Horton 1993, 29–30)'
+              kind: list
+              cls: IST_Body-Bullet-2
+              UID: BIB116.12.2.2.P.227.3
+              source_uid: BIB116.12.2.2.P.227.2
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.12.2.2.P.227.4
             interactive_questions:
             - p: 8
               text: Give two reasons why the author of Jude is thought to be Jesus’
