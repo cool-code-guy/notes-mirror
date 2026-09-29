@@ -75,6 +75,15 @@ courses:
         kind: prose
         cls: IST_Body-Indent
         UID: BIB116.UNIT1.INTRO.P.3
+      - text: '*Note: The term Palestine is used throughout this course to identify
+          the geographic region generally located between the Sea of Galilee and the
+          Negev desert and west of the Jordan River.'
+        md: '\*Note: The term Palestine is used throughout this course to identify
+          the geographic region generally located between the Sea of Galilee and the
+          Negev desert and west of the Jordan River.'
+        kind: prose
+        cls: IST_Body-Indent
+        UID: BIB116.UNIT1.INTRO.P.4
     - title: Thirteen Letters of Paul
       chapters:
       - 5
@@ -10347,13 +10356,6 @@ courses:
               UID: BIB116.1.1.1.P.34.1
               page: 20
               source_uid: BIB116.1.1.1.P.34
-            - p: 35
-              text: Location of the Twelve Tribes of Israel in Canaan/Palestine
-              kind: heading
-              cls: IST_Body-Center-Header
-              UID: BIB116.1.1.1.P.35.1
-              source_uid: BIB116.1.1.1.P.35
-              page: 20
             - p: 36
               text: Explain how God used the Jews, Greeks, and Romans to prepare the
                 world for His Son.
@@ -10363,6 +10365,13 @@ courses:
                 the world for His Son.*'
               UID: BIB116.1.1.1.P.115
               page: 11
+            - p: 35
+              text: Location of the Twelve Tribes of Israel in Canaan/Palestine
+              kind: heading
+              cls: IST_Body-Center-Header
+              UID: BIB116.1.1.1.P.35.1
+              source_uid: BIB116.1.1.1.P.35
+              page: 20
             - p: 37
               kind: image
               src: BBIB116ENE01-90_01.26.01-web-resources/image/Fig_1-3.png
@@ -10461,18 +10470,18 @@ courses:
                 dispersion among the nations, the world knew about the God of Israel,
                 the Messiah, and the Mosaic covenant before Jesus was born. Thus the
                 words, ideas, and message of the gospel were not completely new.'
-            - p: 46
-              text: The Septuagint
-              kind: heading
-              cls: IST_Body-Left-Subhead
-              UID: BIB116.1.1.1.P.44
-              page: 22
             - p: 47
               text: Define Pharisees, Sadducees, Sanhedrin, and Septuagint.
               kind: prose
               cls: IST_Objective-text
               md: '*<br/>Define Pharisees, Sadducees, Sanhedrin, and Septuagint.*'
               UID: BIB116.1.1.1.P.116
+            - p: 46
+              text: The Septuagint
+              kind: heading
+              cls: IST_Body-Left-Subhead
+              UID: BIB116.1.1.1.P.44
+              page: 22
             - p: 48
               text: One way in which the Jewish beliefs spread was through the Septuagint.
                 Originally written in Hebrew, the Old Testament Scriptures were translated
@@ -12633,13 +12642,6 @@ courses:
               UID: BIB116.1.1.2.P.34.1
               page: 20
               source_uid: BIB116.1.1.2.P.34
-            - p: 35
-              text: Location of the Twelve Tribes of Israel in Canaan/Palestine
-              kind: heading
-              cls: IST_Body-Center-Header
-              UID: BIB116.1.1.2.P.35.1
-              source_uid: BIB116.1.1.2.P.35
-              page: 20
             - p: 36
               text: Explain how God used the Jews, Greeks, and Romans to prepare the
                 world for His Son.
@@ -12649,6 +12651,13 @@ courses:
                 the world for His Son.*'
               UID: BIB116.1.1.2.P.115
               page: 11
+            - p: 35
+              text: Location of the Twelve Tribes of Israel in Canaan/Palestine
+              kind: heading
+              cls: IST_Body-Center-Header
+              UID: BIB116.1.1.2.P.35.1
+              source_uid: BIB116.1.1.2.P.35
+              page: 20
             - p: 37
               kind: image
               src: BBIB116ENE01-90_01.26.01-web-resources/image/Fig_1-3.png
@@ -12747,18 +12756,18 @@ courses:
                 dispersion among the nations, the world knew about the God of Israel,
                 the Messiah, and the Mosaic covenant before Jesus was born. Thus the
                 words, ideas, and message of the gospel were not completely new.'
-            - p: 46
-              text: The Septuagint
-              kind: heading
-              cls: IST_Body-Left-Subhead
-              UID: BIB116.1.1.2.P.44
-              page: 22
             - p: 47
               text: Define Pharisees, Sadducees, Sanhedrin, and Septuagint.
               kind: prose
               cls: IST_Objective-text
               md: '*<br/>Define Pharisees, Sadducees, Sanhedrin, and Septuagint.*'
               UID: BIB116.1.1.2.P.116
+            - p: 46
+              text: The Septuagint
+              kind: heading
+              cls: IST_Body-Left-Subhead
+              UID: BIB116.1.1.2.P.44
+              page: 22
             - p: 48
               text: One way in which the Jewish beliefs spread was through the Septuagint.
                 Originally written in Hebrew, the Old Testament Scriptures were translated
@@ -14995,7 +15004,7 @@ courses:
                 provided local places to worship, learn the Scriptures, and pray.
                 Priests served at the temple, and the people made sacrifices there.
                 Neither priests nor sacrifices were part of synagogue worship.
-              after_body_index: 31
+              after_body_index: 32
               UID: BIB116.1.2.1.IQ.3.1
               source_uid: BIB116.1.2.1.IQ.3
             - p: 9
@@ -15004,7 +15013,7 @@ courses:
               response: Divine inspiration was the essential criterion, supported
                 by the book’s (1) apostolic authorship, (2) sound doctrine, and (3)
                 acceptance by a majority of the early churches.
-              after_body_index: 34
+              after_body_index: 36
               UID: BIB116.1.2.1.IQ.4
             - p: 1
               text: How did Pilate’s position differ from that of Herod Antipas?
@@ -15733,7 +15742,7 @@ courses:
                 provided local places to worship, learn the Scriptures, and pray.
                 Priests served at the temple, and the people made sacrifices there.
                 Neither priests nor sacrifices were part of synagogue worship.
-              after_body_index: 31
+              after_body_index: 32
               UID: BIB116.1.2.2.IQ.3.1
               source_uid: BIB116.1.2.2.IQ.3
             - p: 9
@@ -15742,7 +15751,7 @@ courses:
               response: Divine inspiration was the essential criterion, supported
                 by the book’s (1) apostolic authorship, (2) sound doctrine, and (3)
                 acceptance by a majority of the early churches.
-              after_body_index: 34
+              after_body_index: 36
               UID: BIB116.1.2.2.IQ.4
             - p: 1
               text: How did Pilate’s position differ from that of Herod Antipas?
@@ -17205,7 +17214,7 @@ courses:
               text: How does each of the five historical books describe Jesus?
               response: 'Matthew: King of the Jews; Mark: Servant of the Lord; Luke:
                 Son of Man; John: Son of God; Acts: the Baptizer'
-              after_body_index: 9
+              after_body_index: 10
               UID: BIB116.1.3.1.IQ.4.1
               source_uid: BIB116.1.3.1.IQ.4
             - p: 11
@@ -17214,7 +17223,7 @@ courses:
                 and symbols to encourage and challenge faithful Christians. (2) It
                 is a book of prophecy, describing words from God about the present
                 and the future. (3) It is a letter that John wrote.
-              after_body_index: 22
+              after_body_index: 24
               UID: BIB116.1.3.1.IQ.3
             - p: 2
               text: Memorize the names of all twenty-seven New Testament books, and
@@ -19537,19 +19546,19 @@ courses:
             - p: 12
               text: Describe Christ from each of the five historical books.
               response: Check your answers with the chart given in the lesson.
-              after_body_index: 63
+              after_body_index: 31
               UID: BIB116.1.4.1.IQ.1
             - p: 13
               text: Explain at least five pictures of Christ in Paul's Epistles.
               response: Check your answers with the chart given in the lesson.
-              after_body_index: 85
+              after_body_index: 63
               UID: BIB116.1.4.1.IQ.2.1
               source_uid: BIB116.1.4.1.IQ.2
             - p: 14
               text: Identify five pictures of Christ from Hebrews and the General
                 Epistles.
               response: Check your answers with the chart given in the lesson.
-              after_body_index: 113
+              after_body_index: 85
               UID: BIB116.1.4.1.IQ.3
             - p: 15
               text: Summarize three pictures of Christ in Revelation.
@@ -20733,12 +20742,6 @@ courses:
               cls: IST_Body-Bullet-2
               UID: BIB116.2.1.1.P.81.1
               source_uid: BIB116.2.1.1.P.81
-            - p: 80
-              text: The Kingdom of Heaven
-              kind: heading
-              cls: IST_Body-Center-Header
-              UID: BIB116.2.1.1.P.82
-              page: 43
             - p: 81
               text: Explain why Matthew emphasized the Kingdom. State three ways he
                 stressed it.
@@ -20747,6 +20750,12 @@ courses:
               md: '*<br/>Explain why Matthew emphasized the Kingdom. State three ways
                 he stressed it.*'
               UID: BIB116.2.1.1.P.187
+            - p: 80
+              text: The Kingdom of Heaven
+              kind: heading
+              cls: IST_Body-Center-Header
+              UID: BIB116.2.1.1.P.82
+              page: 43
             - p: 82
               text: 'As previously noted, the kingdom of heaven is a prominent theme
                 in Matthew. Within early Judaism, there existed an expectation that
@@ -24116,12 +24125,6 @@ courses:
               cls: IST_Body-Bullet-2
               UID: BIB116.2.1.2.P.81.1
               source_uid: BIB116.2.1.2.P.81
-            - p: 80
-              text: The Kingdom of Heaven
-              kind: heading
-              cls: IST_Body-Center-Header
-              UID: BIB116.2.1.2.P.82
-              page: 43
             - p: 81
               text: Explain why Matthew emphasized the Kingdom. State three ways he
                 stressed it.
@@ -24130,6 +24133,12 @@ courses:
               md: '*<br/>Explain why Matthew emphasized the Kingdom. State three ways
                 he stressed it.*'
               UID: BIB116.2.1.2.P.187
+            - p: 80
+              text: The Kingdom of Heaven
+              kind: heading
+              cls: IST_Body-Center-Header
+              UID: BIB116.2.1.2.P.82
+              page: 43
             - p: 82
               text: 'As previously noted, the kingdom of heaven is a prominent theme
                 in Matthew. Within early Judaism, there existed an expectation that
@@ -27479,12 +27488,6 @@ courses:
               cls: IST_Body-Bullet-2
               UID: BIB116.2.1.3.P.81.1
               source_uid: BIB116.2.1.3.P.81
-            - p: 80
-              text: The Kingdom of Heaven
-              kind: heading
-              cls: IST_Body-Center-Header
-              UID: BIB116.2.1.3.P.82
-              page: 43
             - p: 81
               text: Explain why Matthew emphasized the Kingdom. State three ways he
                 stressed it.
@@ -27493,6 +27496,12 @@ courses:
               md: '*<br/>Explain why Matthew emphasized the Kingdom. State three ways
                 he stressed it.*'
               UID: BIB116.2.1.3.P.187
+            - p: 80
+              text: The Kingdom of Heaven
+              kind: heading
+              cls: IST_Body-Center-Header
+              UID: BIB116.2.1.3.P.82
+              page: 43
             - p: 82
               text: 'As previously noted, the kingdom of heaven is a prominent theme
                 in Matthew. Within early Judaism, there existed an expectation that
@@ -37698,7 +37707,7 @@ courses:
                 who fulfilled the Old Testament prophecies, but Luke’s purpose was
                 to present Jesus as the universal Savior. Matthew included a universal
                 aim (28:19–20), but his emphasis was on Israel’s Messiah.
-              after_body_index: 13
+              after_body_index: 33
               UID: BIB116.2.3.1.IQ.2
             - p: 10
               text: Since Jesus relied on the Holy Spirit to empower His ministry,
@@ -41783,7 +41792,7 @@ courses:
                 who fulfilled the Old Testament prophecies, but Luke’s purpose was
                 to present Jesus as the universal Savior. Matthew included a universal
                 aim (28:19–20), but his emphasis was on Israel’s Messiah.
-              after_body_index: 13
+              after_body_index: 33
               UID: BIB116.2.3.2.IQ.2
             - p: 10
               text: Since Jesus relied on the Holy Spirit to empower His ministry,
@@ -67743,7 +67752,7 @@ courses:
             - p: 1
               text: What is the best title for Acts, according to some scholars?
               response: The Acts of the Holy Spirit
-              after_body_index: 3
+              after_body_index: 4
               UID: BIB116.4.1.1.IQ.10
             - p: 2
               text: Summarize any three of the four reasons why we believe Luke wrote
@@ -67770,7 +67779,7 @@ courses:
             - p: 5
               text: What is Luke’s greatest purpose in Acts?
               response: To emphasize the ministry of the Holy Spirit through believers
-              after_body_index: 122
+              after_body_index: 129
               UID: BIB116.4.1.1.IQ.7
             - p: 6
               text: Identify five chapters where believers were first filled with
@@ -71640,7 +71649,7 @@ courses:
             - p: 1
               text: What is the best title for Acts, according to some scholars?
               response: The Acts of the Holy Spirit
-              after_body_index: 3
+              after_body_index: 4
               UID: BIB116.4.1.2.IQ.10
             - p: 2
               text: Summarize any three of the four reasons why we believe Luke wrote
@@ -71667,7 +71676,7 @@ courses:
             - p: 5
               text: What is Luke’s greatest purpose in Acts?
               response: To emphasize the ministry of the Holy Spirit through believers
-              after_body_index: 122
+              after_body_index: 129
               UID: BIB116.4.1.2.IQ.7
             - p: 6
               text: Identify five chapters where believers were first filled with
@@ -109109,6 +109118,12 @@ courses:
               alt: A map of the Mediterranean area with the names of various places.
               UID: BIB116.7.1.1.IMG.1.1
               source_uid: BIB116.7.1.1.IMG.1
+            - p: 41
+              text: Analyze four relationships Paul wrote about in Ephesians.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*<br/>Analyze four relationships Paul wrote about in Ephesians.*'
+              UID: BIB116.7.1.1.P.115
             - p: 17
               text: Outline of Ephesians
               kind: heading
@@ -109276,12 +109291,6 @@ courses:
               cls: IST_Body-Center-Header
               UID: BIB116.7.1.1.P.40
               page: 100
-            - p: 41
-              text: Analyze four relationships Paul wrote about in Ephesians.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*<br/>Analyze four relationships Paul wrote about in Ephesians.*'
-              UID: BIB116.7.1.1.P.115
             - p: 42
               text: Paul addresses his letter to the saints and the faithful . These
                 two terms apply to all believers. They describe our place in Christ
@@ -111292,7 +111301,7 @@ courses:
                 of Ephesians?
               response: Answers will vary. Some examples include Romans 12:4–8; 1
                 Corinthians 10:16, 17; 12:12–31; and Colossians 1:18–24; 3:15.
-              after_body_index: 39
+              after_body_index: 40
               UID: BIB116.7.1.1.IQ.3
             - p: 3
               text: In what sense do the blessings of our relationship with our Father
@@ -112901,6 +112910,12 @@ courses:
               alt: A map of the Mediterranean area with the names of various places.
               UID: BIB116.7.1.2.IMG.1.1
               source_uid: BIB116.7.1.2.IMG.1
+            - p: 41
+              text: Analyze four relationships Paul wrote about in Ephesians.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*<br/>Analyze four relationships Paul wrote about in Ephesians.*'
+              UID: BIB116.7.1.2.P.115
             - p: 17
               text: Outline of Ephesians
               kind: heading
@@ -113068,12 +113083,6 @@ courses:
               cls: IST_Body-Center-Header
               UID: BIB116.7.1.2.P.40
               page: 100
-            - p: 41
-              text: Analyze four relationships Paul wrote about in Ephesians.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*<br/>Analyze four relationships Paul wrote about in Ephesians.*'
-              UID: BIB116.7.1.2.P.115
             - p: 42
               text: Paul addresses his letter to the saints and the faithful . These
                 two terms apply to all believers. They describe our place in Christ
@@ -115084,7 +115093,7 @@ courses:
                 of Ephesians?
               response: Answers will vary. Some examples include Romans 12:4–8; 1
                 Corinthians 10:16, 17; 12:12–31; and Colossians 1:18–24; 3:15.
-              after_body_index: 39
+              after_body_index: 40
               UID: BIB116.7.1.2.IQ.3
             - p: 3
               text: In what sense do the blessings of our relationship with our Father
@@ -120527,18 +120536,18 @@ courses:
               cls: IST_Body-Hang-2
               UID: BIB116.7.3.1.P.149.2
               source_uid: BIB116.7.3.1.P.149.1
-            - p: 39
-              text: The Old Self and the New Self (Colossians 3:1–17)
-              kind: heading
-              cls: IST_Body-Left-Subhead
-              UID: BIB116.7.3.1.P.39
-              page: 138
             - p: 40
               text: Explain Paul’s teaching about old and new clothes.
               kind: prose
               cls: IST_Objective-text
               md: '*<br/>Explain Paul’s teaching about old and new clothes.*'
               UID: BIB116.7.3.1.P.151
+            - p: 39
+              text: The Old Self and the New Self (Colossians 3:1–17)
+              kind: heading
+              cls: IST_Body-Left-Subhead
+              UID: BIB116.7.3.1.P.39
+              page: 138
             - p: 41
               text: Next, Paul shows that Christ demands a new way of living (Colossians
                 3:5–17). Paul compares Christianity to removing old clothes and putting
@@ -123239,18 +123248,18 @@ courses:
               cls: IST_Body-Hang-2
               UID: BIB116.7.3.2.P.149.2
               source_uid: BIB116.7.3.2.P.149.1
-            - p: 39
-              text: The Old Self and the New Self (Colossians 3:1–17)
-              kind: heading
-              cls: IST_Body-Left-Subhead
-              UID: BIB116.7.3.2.P.39
-              page: 138
             - p: 40
               text: Explain Paul’s teaching about old and new clothes.
               kind: prose
               cls: IST_Objective-text
               md: '*<br/>Explain Paul’s teaching about old and new clothes.*'
               UID: BIB116.7.3.2.P.151
+            - p: 39
+              text: The Old Self and the New Self (Colossians 3:1–17)
+              kind: heading
+              cls: IST_Body-Left-Subhead
+              UID: BIB116.7.3.2.P.39
+              page: 138
             - p: 41
               text: Next, Paul shows that Christ demands a new way of living (Colossians
                 3:5–17). Paul compares Christianity to removing old clothes and putting
@@ -138722,12 +138731,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB116.9.2.1.P.73.1
               source_uid: BIB116.9.2.1.P.73
-            - p: 76
-              text: Instructions about Various Groups in the Churches (Titus 2)
-              kind: heading
-              cls: IST_Body-Left-Subhead
-              UID: BIB116.9.2.1.P.74
-              page: 163
             - p: 77
               text: Summarize what Titus teaches about grace and the reputation of
                 the gospel.
@@ -138736,6 +138739,12 @@ courses:
               md: '*<br/>Summarize what Titus teaches about grace and the reputation
                 of the gospel.*'
               UID: BIB116.9.2.1.P.100
+            - p: 76
+              text: Instructions about Various Groups in the Churches (Titus 2)
+              kind: heading
+              cls: IST_Body-Left-Subhead
+              UID: BIB116.9.2.1.P.74
+              page: 163
             - p: 78
               text: Paul identifies several groups in Titus 2, just as he did in 1
                 Timothy 5:1–6:2. They include older and younger men, older and younger
@@ -141049,12 +141058,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB116.9.2.2.P.73.1
               source_uid: BIB116.9.2.2.P.73
-            - p: 76
-              text: Instructions about Various Groups in the Churches (Titus 2)
-              kind: heading
-              cls: IST_Body-Left-Subhead
-              UID: BIB116.9.2.2.P.74
-              page: 163
             - p: 77
               text: Summarize what Titus teaches about grace and the reputation of
                 the gospel.
@@ -141063,6 +141066,12 @@ courses:
               md: '*<br/>Summarize what Titus teaches about grace and the reputation
                 of the gospel.*'
               UID: BIB116.9.2.2.P.100
+            - p: 76
+              text: Instructions about Various Groups in the Churches (Titus 2)
+              kind: heading
+              cls: IST_Body-Left-Subhead
+              UID: BIB116.9.2.2.P.74
+              page: 163
             - p: 78
               text: Paul identifies several groups in Titus 2, just as he did in 1
                 Timothy 5:1–6:2. They include older and younger men, older and younger
@@ -183294,7 +183303,7 @@ courses:
             - p: 2
               text: How did some Gnostics view the nature of Jesus?
               response: They viewed Jesus as only a man, not God.
-              after_body_index: 60
+              after_body_index: 74
               UID: BIB116.11.1.1.IQ.2.1
               source_uid: BIB116.11.1.1.IQ.2
             - p: 3
@@ -189276,7 +189285,7 @@ courses:
             - p: 2
               text: How did some Gnostics view the nature of Jesus?
               response: They viewed Jesus as only a man, not God.
-              after_body_index: 60
+              after_body_index: 74
               UID: BIB116.11.1.2.IQ.2.1
               source_uid: BIB116.11.1.2.IQ.2
             - p: 3
@@ -196451,12 +196460,6 @@ courses:
               UID: BIB116.12.1.1.P.61.1
               page: 225
               source_uid: BIB116.12.1.1.P.61
-            - p: 63
-              text: Pay Attention to the Scriptures (2 Peter 1:12–21)
-              kind: heading
-              cls: IST_Body-Left-Subhead
-              UID: BIB116.12.1.1.P.62
-              page: 225
             - p: 64
               text: Summarize what 2 Peter says about the Scriptures and false teachers.
               kind: prose
@@ -196465,6 +196468,12 @@ courses:
                 teachers.*'
               UID: BIB116.12.1.1.P.98
               page: 221
+            - p: 63
+              text: Pay Attention to the Scriptures (2 Peter 1:12–21)
+              kind: heading
+              cls: IST_Body-Left-Subhead
+              UID: BIB116.12.1.1.P.62
+              page: 225
             - p: 65
               text: 'Two passages in the New Testament refer to the inspiration of
                 Scripture. Second Timothy 3:16 states, “All Scripture is God-breathed
@@ -200044,12 +200053,6 @@ courses:
               UID: BIB116.12.1.2.P.61.1
               page: 225
               source_uid: BIB116.12.1.2.P.61
-            - p: 63
-              text: Pay Attention to the Scriptures (2 Peter 1:12–21)
-              kind: heading
-              cls: IST_Body-Left-Subhead
-              UID: BIB116.12.1.2.P.62
-              page: 225
             - p: 64
               text: Summarize what 2 Peter says about the Scriptures and false teachers.
               kind: prose
@@ -200058,6 +200061,12 @@ courses:
                 teachers.*'
               UID: BIB116.12.1.2.P.98
               page: 221
+            - p: 63
+              text: Pay Attention to the Scriptures (2 Peter 1:12–21)
+              kind: heading
+              cls: IST_Body-Left-Subhead
+              UID: BIB116.12.1.2.P.62
+              page: 225
             - p: 65
               text: 'Two passages in the New Testament refer to the inspiration of
                 Scripture. Second Timothy 3:16 states, “All Scripture is God-breathed
@@ -215925,7 +215934,7 @@ courses:
               text: Describe John’s setting when he wrote Revelation.
               response: John was suffering on the island of Patmos. Domitian probably
                 exiled John to Patmos for his faith in Jesus.
-              after_body_index: 14
+              after_body_index: 21
               UID: BIB116.13.1.1.IQ.2
             - p: 3
               text: How do the two themes of Revelation encourage and/or challenge
@@ -232606,7 +232615,7 @@ courses:
                 holy Trinity vs. evil triad; holy and eternal God vs. evil and temporary
                 beast; Creator vs. created; Lamb who alone is worthy vs. everyone
                 else who is unworthy.'
-              after_body_index: 168
+              after_body_index: 169
               UID: BIB116.13.3.1.IQ.1
             - p: 12
               text: What are your favorite three contrasts from Revelation 6–18? Why?
@@ -240721,7 +240730,7 @@ courses:
                 holy Trinity vs. evil triad; holy and eternal God vs. evil and temporary
                 beast; Creator vs. created; Lamb who alone is worthy vs. everyone
                 else who is unworthy.'
-              after_body_index: 168
+              after_body_index: 169
               UID: BIB116.13.3.2.IQ.1
             - p: 12
               text: What are your favorite three contrasts from Revelation 6–18? Why?
