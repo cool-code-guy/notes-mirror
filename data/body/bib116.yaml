@@ -9971,9 +9971,10 @@ courses:
         UID: BIB116.CH1.INTRO.P.9
       intro_interactive_questions:
       - p: 1
-        text: Consider ways in whcih events in history and in your own life demonstrate
+        text: Consider ways in which events in history and in your own life demonstrate
           that God planned ahead for your salvation.
         after_body_index: 8
+        response: Answers may vary.
       lessons:
       - last_modified: '2026-05-28'
         title: Preparation for the New Testament
@@ -19394,6 +19395,8 @@ courses:
         text: How might you respond to someone who doubts the validity of the Bible,
           due to the variations in each of the Gospel accounts?
         after_body_index: 3
+        response: Answers will vary, but the idea that different people have different
+          perspectives and interpretations of the same events should be included.
       lessons:
       - last_modified: '2026-05-28'
         title: The Gospel of Matthew
@@ -29286,12 +29289,6 @@ courses:
               cls: IST_Objective-text
               md: '*<br/>Explain Mark’s purpose and how he fulfilled it.*'
               UID: BIB116.2.2.1.P.185
-            - p: 0
-              text: Give two examples of how Mark helped Gentile readers.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*<br/>Give two examples of how Mark helped Gentile readers.*'
-              UID: BIB116.2.2.1.P.186
             - p: 1
               text: Author, Date, and Purpose
               kind: heading
@@ -29342,6 +29339,12 @@ courses:
                 of words from the **Aramaic** language on occasion.
               UID: BIB116.2.2.1.P.127
               page: 44
+            - p: 0
+              text: Give two examples of how Mark helped Gentile readers.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*<br/>Give two examples of how Mark helped Gentile readers.*'
+              UID: BIB116.2.2.1.P.186
             - p: 5
               text: Jewish custom or Aramaic word
               kind: heading
@@ -31884,12 +31887,6 @@ courses:
               cls: IST_Objective-text
               md: '*<br/>Explain Mark’s purpose and how he fulfilled it.*'
               UID: BIB116.2.2.2.P.185
-            - p: 0
-              text: Give two examples of how Mark helped Gentile readers.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*<br/>Give two examples of how Mark helped Gentile readers.*'
-              UID: BIB116.2.2.2.P.186
             - p: 1
               text: Author, Date, and Purpose
               kind: heading
@@ -31940,6 +31937,12 @@ courses:
                 of words from the **Aramaic** language on occasion.
               UID: BIB116.2.2.2.P.127
               page: 44
+            - p: 0
+              text: Give two examples of how Mark helped Gentile readers.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*<br/>Give two examples of how Mark helped Gentile readers.*'
+              UID: BIB116.2.2.2.P.186
             - p: 5
               text: Jewish custom or Aramaic word
               kind: heading
@@ -66669,10 +66672,10 @@ courses:
             - p: 6
               text: Identify five chapters where believers were first filled with
                 the Holy Spirit?
-              response: Acts 2, 8, 9, 10, and 19
+              response: Acts 2; 8; 9; 10; and 19
               after_body_index: 129
-              UID: BIB116.4.1.1.IQ.8.1
-              source_uid: BIB116.4.1.1.IQ.8
+              UID: BIB116.4.1.1.IQ.8.2
+              source_uid: BIB116.4.1.1.IQ.8.1
             - p: 7
               text: What would be missing in your life and church without the ministry
                 of the Spirit?
@@ -66711,6 +66714,16 @@ courses:
               UID: BIB116.4.1.1.IQ.6
               status: outdated 2026-09-29
               outdated_reason: struck
+            - p: 6
+              text: Identify five chapters where believers were first filled with
+                the Holy Spirit?
+              response: Acts 2, 8, 9, 10, and 19
+              after_body_index: 129
+              UID: BIB116.4.1.1.IQ.8.1
+              source_uid: BIB116.4.1.1.IQ.8
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.4.1.1.IQ.8.2
             citations:
             - citekey: horton1994book
               pandoc: '[@horton1994book, 9]'
@@ -70546,10 +70559,10 @@ courses:
             - p: 6
               text: Identify five chapters where believers were first filled with
                 the Holy Spirit?
-              response: Acts 2, 8, 9, 10, and 19
+              response: Acts 2; 8; 9; 10; and 19
               after_body_index: 129
-              UID: BIB116.4.1.2.IQ.8.1
-              source_uid: BIB116.4.1.2.IQ.8
+              UID: BIB116.4.1.2.IQ.8.2
+              source_uid: BIB116.4.1.2.IQ.8.1
             - p: 7
               text: What would be missing in your life and church without the ministry
                 of the Spirit?
@@ -70588,6 +70601,16 @@ courses:
               UID: BIB116.4.1.2.IQ.6
               status: outdated 2026-09-29
               outdated_reason: struck
+            - p: 6
+              text: Identify five chapters where believers were first filled with
+                the Holy Spirit?
+              response: Acts 2, 8, 9, 10, and 19
+              after_body_index: 129
+              UID: BIB116.4.1.2.IQ.8.1
+              source_uid: BIB116.4.1.2.IQ.8
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.4.1.2.IQ.8.2
             citations:
             - citekey: horton1994book
               pandoc: '[@horton1994book, 9]'
@@ -90016,20 +90039,20 @@ courses:
                 believers to face new questions: Should Gentiles be circumcised? Must
                 Gentiles live like Jews to be saved? Although Gentile believers had
                 received the gospel and had been justified by faith in Christ, Jewish
-                teachers known as Jewish Teachers were leading some astray. These
-                false teachers said that believers must follow Jesus and Moses, stressing
-                that circumcision was necessary for salvation.'
+                teachers were leading some astray. These false teachers said that
+                believers must follow Jesus and Moses, stressing that circumcision
+                was necessary for salvation.'
               kind: prose
               cls: IST_Body-Indent
               md: 'Then the Gentiles began to receive Christ, forcing some Jewish
                 believers to face new questions: Should Gentiles be circumcised? Must
                 Gentiles live like Jews to be saved? Although Gentile believers had
                 received the gospel and had been justified by faith in Christ, Jewish
-                teachers known as **Jewish Teachers** were leading some astray. These
-                false teachers said that believers must follow Jesus and Moses, stressing
-                that circumcision was necessary for salvation.'
-              UID: BIB116.5.3.1.P.5.1
-              source_uid: BIB116.5.3.1.P.5
+                teachers were leading some astray. These false teachers said that
+                believers must follow Jesus and Moses, stressing that circumcision
+                was necessary for salvation.'
+              UID: BIB116.5.3.1.P.5.2
+              source_uid: BIB116.5.3.1.P.5.1
               page: 105
             - p: 7
               text: 'However, in his letter to the Galatians, Paul reminded them of
@@ -91024,6 +91047,29 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: revised
               replaced_by: BIB116.5.3.1.P.57.1
+            - p: 6
+              text: 'Then the Gentiles began to receive Christ, forcing some Jewish
+                believers to face new questions: Should Gentiles be circumcised? Must
+                Gentiles live like Jews to be saved? Although Gentile believers had
+                received the gospel and had been justified by faith in Christ, Jewish
+                teachers known as Jewish Teachers were leading some astray. These
+                false teachers said that believers must follow Jesus and Moses, stressing
+                that circumcision was necessary for salvation.'
+              kind: prose
+              cls: IST_Body-Indent
+              md: 'Then the Gentiles began to receive Christ, forcing some Jewish
+                believers to face new questions: Should Gentiles be circumcised? Must
+                Gentiles live like Jews to be saved? Although Gentile believers had
+                received the gospel and had been justified by faith in Christ, Jewish
+                teachers known as **Jewish Teachers** were leading some astray. These
+                false teachers said that believers must follow Jesus and Moses, stressing
+                that circumcision was necessary for salvation.'
+              UID: BIB116.5.3.1.P.5.1
+              source_uid: BIB116.5.3.1.P.5
+              page: 105
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.5.3.1.P.5.2
             interactive_questions:
             - p: 10
               text: Paul gave what three reasons to believe the gospel?
@@ -91969,20 +92015,20 @@ courses:
                 believers to face new questions: Should Gentiles be circumcised? Must
                 Gentiles live like Jews to be saved? Although Gentile believers had
                 received the gospel and had been justified by faith in Christ, Jewish
-                teachers known as Jewish Teachers were leading some astray. These
-                false teachers said that believers must follow Jesus and Moses, stressing
-                that circumcision was necessary for salvation.'
+                teachers were leading some astray. These false teachers said that
+                believers must follow Jesus and Moses, stressing that circumcision
+                was necessary for salvation.'
               kind: prose
               cls: IST_Body-Indent
               md: 'Then the Gentiles began to receive Christ, forcing some Jewish
                 believers to face new questions: Should Gentiles be circumcised? Must
                 Gentiles live like Jews to be saved? Although Gentile believers had
                 received the gospel and had been justified by faith in Christ, Jewish
-                teachers known as **Jewish Teachers** were leading some astray. These
-                false teachers said that believers must follow Jesus and Moses, stressing
-                that circumcision was necessary for salvation.'
-              UID: BIB116.5.3.2.P.5.1
-              source_uid: BIB116.5.3.2.P.5
+                teachers were leading some astray. These false teachers said that
+                believers must follow Jesus and Moses, stressing that circumcision
+                was necessary for salvation.'
+              UID: BIB116.5.3.2.P.5.2
+              source_uid: BIB116.5.3.2.P.5.1
               page: 105
             - p: 7
               text: 'However, in his letter to the Galatians, Paul reminded them of
@@ -92977,6 +93023,29 @@ courses:
               status: outdated 2026-08-07
               outdated_reason: revised
               replaced_by: BIB116.5.3.2.P.57.1
+            - p: 6
+              text: 'Then the Gentiles began to receive Christ, forcing some Jewish
+                believers to face new questions: Should Gentiles be circumcised? Must
+                Gentiles live like Jews to be saved? Although Gentile believers had
+                received the gospel and had been justified by faith in Christ, Jewish
+                teachers known as Jewish Teachers were leading some astray. These
+                false teachers said that believers must follow Jesus and Moses, stressing
+                that circumcision was necessary for salvation.'
+              kind: prose
+              cls: IST_Body-Indent
+              md: 'Then the Gentiles began to receive Christ, forcing some Jewish
+                believers to face new questions: Should Gentiles be circumcised? Must
+                Gentiles live like Jews to be saved? Although Gentile believers had
+                received the gospel and had been justified by faith in Christ, Jewish
+                teachers known as **Jewish Teachers** were leading some astray. These
+                false teachers said that believers must follow Jesus and Moses, stressing
+                that circumcision was necessary for salvation.'
+              UID: BIB116.5.3.2.P.5.1
+              source_uid: BIB116.5.3.2.P.5
+              page: 105
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.5.3.2.P.5.2
             interactive_questions:
             - p: 10
               text: Paul gave what three reasons to believe the gospel?
@@ -128797,6 +128866,15 @@ courses:
               UID: BIB116.8.2.1.P.2.1
               source_uid: BIB116.8.2.1.P.2
               page: 150
+            - p: 74
+              text: Summarize and apply what 2 Thessalonians teaches about the Rapture,
+                Antichrist, and Second Coming.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*<br/>Summarize and apply what 2 Thessalonians teaches about the
+                Rapture, Antichrist, and Second Coming.*'
+              UID: BIB116.8.2.1.P.84
+              page: 145
             - p: 3
               text: Outline of 2 Thessalonians
               kind: heading
@@ -129467,15 +129545,6 @@ courses:
               cls: IST_Body-Bullet-2
               UID: BIB116.8.2.1.P.70.2
               source_uid: BIB116.8.2.1.P.70.1
-            - p: 74
-              text: Summarize and apply what 2 Thessalonians teaches about the Rapture,
-                Antichrist, and Second Coming.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*<br/>Summarize and apply what 2 Thessalonians teaches about the
-                Rapture, Antichrist, and Second Coming.*'
-              UID: BIB116.8.2.1.P.84
-              page: 145
             - p: 4
               text: I. Paul Encourages Believers during Persecution, 1
               kind: hang
@@ -177026,14 +177095,6 @@ courses:
               cls: IST_Objective-text
               md: '*<br/>Explain how 1 John relates to the errors of the Gnostics.*'
               UID: BIB116.11.1.1.P.159
-            - p: 45
-              text: Summarize what 1 John teaches about Jesus Christ, sin, knowledge,
-                and love.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*<br/>Summarize what 1 John teaches about Jesus Christ, sin, knowledge,
-                and love.*'
-              UID: BIB116.11.1.1.P.161
             - p: 58
               text: Background
               kind: heading
@@ -177373,6 +177434,14 @@ courses:
               cls: IST_Body-Center-Header
               UID: BIB116.11.1.1.P.94
               page: 100
+            - p: 45
+              text: Summarize what 1 John teaches about Jesus Christ, sin, knowledge,
+                and love.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*<br/>Summarize what 1 John teaches about Jesus Christ, sin, knowledge,
+                and love.*'
+              UID: BIB116.11.1.1.P.161
             - p: 95
               text: John Wrote to Complete Our Joy through Fellowship with God (1
                 John 1:5–2:28)
@@ -177571,24 +177640,68 @@ courses:
               UID: BIB116.11.1.1.P.108.1
               source_uid: BIB116.11.1.1.P.108
               page: 209
-            - p: 110
-              text: Adam and Eve lost access to the Garden of Eden (Genesis 3:23).
-                Moses lost the privilege of entering the Promised Land (Numbers 20:1–13).
-                Achan and all of his family lost their inheritance and their lives
-                (Joshua 7). Samson lost his eyes and his relationship with God (Judges
-                16:20–21). David had Bathsheba’s husband killed and lost both his
-                reputation and any hope of a peaceful household. He and Bathsheba
-                also lost their first child (1 John 2 Samuel 11–12). David’s census
-                caused seventy thousand people to lose their lives (1 John 1 Chronicles
-                21). Ananias and Sapphira lost their lives (Acts 5:1–11). Thousands
-                have lost their marriages, reputations, and lives.
-              kind: list
+            - kind: list
               cls: IST_Table-Body-Bullet
               table: 50
               row: 2
               col: 1
-              UID: BIB116.11.1.1.P.160.1
-              source_uid: BIB116.11.1.1.P.160
+              text: • Adam and Eve lost access to the Garden of Eden (Genesis 3:23).
+              UID: BIB116.11.1.1.P.160.2
+              source_uid: BIB116.11.1.1.P.160.1
+            - kind: list
+              cls: IST_Table-Body-Bullet
+              table: 50
+              row: 2
+              col: 1
+              text: • Moses lost the privilege of entering the Promised Land (Numbers
+                20:1–13).
+              UID: BIB116.11.1.1.P.160.3
+              source_uid: BIB116.11.1.1.P.160.1
+            - kind: list
+              cls: IST_Table-Body-Bullet
+              table: 50
+              row: 2
+              col: 1
+              text: • Achan and all of his family lost their inheritance and their
+                lives (Joshua 7).
+              UID: BIB116.11.1.1.P.160.4
+              source_uid: BIB116.11.1.1.P.160.1
+            - kind: list
+              cls: IST_Table-Body-Bullet
+              table: 50
+              row: 2
+              col: 1
+              text: • Samson lost his eyes and his relationship with God (Judges 16:20–21).
+              UID: BIB116.11.1.1.P.160.5
+              source_uid: BIB116.11.1.1.P.160.1
+            - kind: list
+              cls: IST_Table-Body-Bullet
+              table: 50
+              row: 2
+              col: 1
+              text: • David had Bathsheba’s husband killed and lost both his reputation
+                and any hope of a peaceful household. He and Bathsheba also lost their
+                first child (2 Samuel 11–12).
+              UID: BIB116.11.1.1.P.160.6
+              source_uid: BIB116.11.1.1.P.160.1
+            - kind: list
+              cls: IST_Table-Body-Bullet
+              table: 50
+              row: 2
+              col: 1
+              text: • David’s census caused seventy thousand people to lose their
+                lives (1 Chronicles 21). Ananias and Sapphira lost their lives (Acts
+                5:1–11).
+              UID: BIB116.11.1.1.P.160.7
+              source_uid: BIB116.11.1.1.P.160.1
+            - kind: list
+              cls: IST_Table-Body-Bullet
+              table: 50
+              row: 2
+              col: 1
+              text: • Thousands have lost their marriages, reputations, and lives.
+              UID: BIB116.11.1.1.P.160.8
+              source_uid: BIB116.11.1.1.P.160.1
             - p: 118
               text: Figure 11.3
               kind: caption
@@ -180088,6 +180201,27 @@ courses:
               status: outdated 2026-09-29
               outdated_reason: revised
               replaced_by: BIB116.11.1.1.P.118.4
+            - p: 110
+              text: Adam and Eve lost access to the Garden of Eden (Genesis 3:23).
+                Moses lost the privilege of entering the Promised Land (Numbers 20:1–13).
+                Achan and all of his family lost their inheritance and their lives
+                (Joshua 7). Samson lost his eyes and his relationship with God (Judges
+                16:20–21). David had Bathsheba’s husband killed and lost both his
+                reputation and any hope of a peaceful household. He and Bathsheba
+                also lost their first child (1 John 2 Samuel 11–12). David’s census
+                caused seventy thousand people to lose their lives (1 John 1 Chronicles
+                21). Ananias and Sapphira lost their lives (Acts 5:1–11). Thousands
+                have lost their marriages, reputations, and lives.
+              kind: list
+              cls: IST_Table-Body-Bullet
+              table: 50
+              row: 2
+              col: 1
+              UID: BIB116.11.1.1.P.160.1
+              source_uid: BIB116.11.1.1.P.160
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.11.1.1.P.160.2
             interactive_questions:
             - p: 1
               text: Summarize three reasons why we believe the apostle John wrote
@@ -182814,14 +182948,6 @@ courses:
               cls: IST_Objective-text
               md: '*<br/>Explain how 1 John relates to the errors of the Gnostics.*'
               UID: BIB116.11.1.2.P.159
-            - p: 45
-              text: Summarize what 1 John teaches about Jesus Christ, sin, knowledge,
-                and love.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*<br/>Summarize what 1 John teaches about Jesus Christ, sin, knowledge,
-                and love.*'
-              UID: BIB116.11.1.2.P.161
             - p: 58
               text: Background
               kind: heading
@@ -183161,6 +183287,14 @@ courses:
               cls: IST_Body-Center-Header
               UID: BIB116.11.1.2.P.94
               page: 100
+            - p: 45
+              text: Summarize what 1 John teaches about Jesus Christ, sin, knowledge,
+                and love.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*<br/>Summarize what 1 John teaches about Jesus Christ, sin, knowledge,
+                and love.*'
+              UID: BIB116.11.1.2.P.161
             - p: 95
               text: John Wrote to Complete Our Joy through Fellowship with God (1
                 John 1:5–2:28)
@@ -183359,24 +183493,68 @@ courses:
               UID: BIB116.11.1.2.P.108.1
               source_uid: BIB116.11.1.2.P.108
               page: 209
-            - p: 110
-              text: Adam and Eve lost access to the Garden of Eden (Genesis 3:23).
-                Moses lost the privilege of entering the Promised Land (Numbers 20:1–13).
-                Achan and all of his family lost their inheritance and their lives
-                (Joshua 7). Samson lost his eyes and his relationship with God (Judges
-                16:20–21). David had Bathsheba’s husband killed and lost both his
-                reputation and any hope of a peaceful household. He and Bathsheba
-                also lost their first child (1 John 2 Samuel 11–12). David’s census
-                caused seventy thousand people to lose their lives (1 John 1 Chronicles
-                21). Ananias and Sapphira lost their lives (Acts 5:1–11). Thousands
-                have lost their marriages, reputations, and lives.
-              kind: list
+            - kind: list
               cls: IST_Table-Body-Bullet
               table: 50
               row: 2
               col: 1
-              UID: BIB116.11.1.2.P.160.1
-              source_uid: BIB116.11.1.2.P.160
+              text: • Adam and Eve lost access to the Garden of Eden (Genesis 3:23).
+              UID: BIB116.11.1.2.P.160.2
+              source_uid: BIB116.11.1.2.P.160.1
+            - kind: list
+              cls: IST_Table-Body-Bullet
+              table: 50
+              row: 2
+              col: 1
+              text: • Moses lost the privilege of entering the Promised Land (Numbers
+                20:1–13).
+              UID: BIB116.11.1.2.P.160.3
+              source_uid: BIB116.11.1.2.P.160.1
+            - kind: list
+              cls: IST_Table-Body-Bullet
+              table: 50
+              row: 2
+              col: 1
+              text: • Achan and all of his family lost their inheritance and their
+                lives (Joshua 7).
+              UID: BIB116.11.1.2.P.160.4
+              source_uid: BIB116.11.1.2.P.160.1
+            - kind: list
+              cls: IST_Table-Body-Bullet
+              table: 50
+              row: 2
+              col: 1
+              text: • Samson lost his eyes and his relationship with God (Judges 16:20–21).
+              UID: BIB116.11.1.2.P.160.5
+              source_uid: BIB116.11.1.2.P.160.1
+            - kind: list
+              cls: IST_Table-Body-Bullet
+              table: 50
+              row: 2
+              col: 1
+              text: • David had Bathsheba’s husband killed and lost both his reputation
+                and any hope of a peaceful household. He and Bathsheba also lost their
+                first child (2 Samuel 11–12).
+              UID: BIB116.11.1.2.P.160.6
+              source_uid: BIB116.11.1.2.P.160.1
+            - kind: list
+              cls: IST_Table-Body-Bullet
+              table: 50
+              row: 2
+              col: 1
+              text: • David’s census caused seventy thousand people to lose their
+                lives (1 Chronicles 21). Ananias and Sapphira lost their lives (Acts
+                5:1–11).
+              UID: BIB116.11.1.2.P.160.7
+              source_uid: BIB116.11.1.2.P.160.1
+            - kind: list
+              cls: IST_Table-Body-Bullet
+              table: 50
+              row: 2
+              col: 1
+              text: • Thousands have lost their marriages, reputations, and lives.
+              UID: BIB116.11.1.2.P.160.8
+              source_uid: BIB116.11.1.2.P.160.1
             - p: 118
               text: Figure 11.3
               kind: caption
@@ -185876,6 +186054,27 @@ courses:
               status: outdated 2026-09-29
               outdated_reason: revised
               replaced_by: BIB116.11.1.2.P.118.4
+            - p: 110
+              text: Adam and Eve lost access to the Garden of Eden (Genesis 3:23).
+                Moses lost the privilege of entering the Promised Land (Numbers 20:1–13).
+                Achan and all of his family lost their inheritance and their lives
+                (Joshua 7). Samson lost his eyes and his relationship with God (Judges
+                16:20–21). David had Bathsheba’s husband killed and lost both his
+                reputation and any hope of a peaceful household. He and Bathsheba
+                also lost their first child (1 John 2 Samuel 11–12). David’s census
+                caused seventy thousand people to lose their lives (1 John 1 Chronicles
+                21). Ananias and Sapphira lost their lives (Acts 5:1–11). Thousands
+                have lost their marriages, reputations, and lives.
+              kind: list
+              cls: IST_Table-Body-Bullet
+              table: 50
+              row: 2
+              col: 1
+              UID: BIB116.11.1.2.P.160.1
+              source_uid: BIB116.11.1.2.P.160
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.11.1.2.P.160.2
             interactive_questions:
             - p: 1
               text: Summarize three reasons why we believe the apostle John wrote
@@ -211582,11 +211781,12 @@ courses:
               replaced_by: BIB116.13.1.1.P.25.1
             interactive_questions:
             - p: 1
-              text: What is the source and meaning of the title Revelation ?
+              text: What is the source and meaning of the title "Revelation"?
               response: The source is the Greek word apokalupto , which means to “unveil”
                 or “uncover” something hidden.
               after_body_index: 5
-              UID: BIB116.13.1.1.IQ.5
+              UID: BIB116.13.1.1.IQ.5.1
+              source_uid: BIB116.13.1.1.IQ.5
             - p: 2
               text: Describe John’s setting when he wrote Revelation.
               response: John was suffering on the island of Patmos. Domitian probably
@@ -211613,6 +211813,15 @@ courses:
               UID: BIB116.13.1.1.IQ.4
               status: outdated 2026-08-07
               outdated_reason: struck
+            - p: 1
+              text: What is the source and meaning of the title Revelation ?
+              response: The source is the Greek word apokalupto , which means to “unveil”
+                or “uncover” something hidden.
+              after_body_index: 5
+              UID: BIB116.13.1.1.IQ.5
+              status: outdated 2026-09-29
+              outdated_reason: revised
+              replaced_by: BIB116.13.1.1.IQ.5.1
             citations:
             - citekey: horton1991ultim
               pandoc: '[@horton1991ultim, 15]'
