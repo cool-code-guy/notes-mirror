@@ -83,19 +83,19 @@
     ],
     "total": 58
   },
-  "generated": "2026-09-29",
+  "generated": "2026-09-30",
   "per_course": {
     "BIB111": {
       "questions": {
         "active": {
-          "final": 33,
-          "total": 309,
+          "final": 90,
+          "total": 366,
           "ty": 150,
           "upe": 126
         },
         "retired": {
-          "final": 68,
-          "total": 145,
+          "final": 11,
+          "total": 88,
           "ty": 40,
           "upe": 37
         }
@@ -124,8 +124,8 @@
     "BIB114": {
       "questions": {
         "active": {
-          "final": 50,
-          "total": 255,
+          "final": 74,
+          "total": 279,
           "ty": 130,
           "upe": 75
         },
@@ -197,8 +197,8 @@
     "BIB116": {
       "questions": {
         "active": {
-          "final": 85,
-          "total": 290,
+          "final": 97,
+          "total": 302,
           "ty": 130,
           "upe": 75
         },
@@ -252,8 +252,8 @@
     "BIB121": {
       "questions": {
         "active": {
-          "final": 31,
-          "total": 281,
+          "final": 85,
+          "total": 335,
           "ty": 150,
           "upe": 100
         },
@@ -288,8 +288,8 @@
     "BIB211": {
       "questions": {
         "active": {
-          "final": 71,
-          "total": 285,
+          "final": 105,
+          "total": 319,
           "ty": 130,
           "upe": 84
         },
@@ -380,8 +380,8 @@
     "BIB215": {
       "questions": {
         "active": {
-          "final": 89,
-          "total": 244,
+          "final": 94,
+          "total": 249,
           "ty": 80,
           "upe": 75
         },
@@ -416,8 +416,8 @@
     "BIB217": {
       "questions": {
         "active": {
-          "final": 93,
-          "total": 301,
+          "final": 98,
+          "total": 306,
           "ty": 131,
           "upe": 77
         },
@@ -434,8 +434,8 @@
     "BIB313": {
       "questions": {
         "active": {
-          "final": 51,
-          "total": 286,
+          "final": 69,
+          "total": 304,
           "ty": 110,
           "upe": 125
         },
@@ -470,8 +470,8 @@
     "BIB318": {
       "questions": {
         "active": {
-          "final": 79,
-          "total": 334,
+          "final": 100,
+          "total": 355,
           "ty": 130,
           "upe": 125
         },
@@ -506,8 +506,8 @@
     "BIB322": {
       "questions": {
         "active": {
-          "final": 79,
-          "total": 247,
+          "final": 87,
+          "total": 255,
           "ty": 90,
           "upe": 78
         },
@@ -688,8 +688,8 @@
     "MIN223": {
       "questions": {
         "active": {
-          "final": 97,
-          "total": 337,
+          "final": 99,
+          "total": 339,
           "ty": 140,
           "upe": 100
         },
@@ -724,8 +724,8 @@
     "MIN227": {
       "questions": {
         "active": {
-          "final": 130,
-          "total": 591,
+          "final": 160,
+          "total": 621,
           "ty": 262,
           "upe": 199
         },
@@ -742,8 +742,8 @@
     "MIN251": {
       "questions": {
         "active": {
-          "final": 68,
-          "total": 263,
+          "final": 75,
+          "total": 270,
           "ty": 120,
           "upe": 75
         },
@@ -814,8 +814,8 @@
     "MIN281": {
       "questions": {
         "active": {
-          "final": 83,
-          "total": 228,
+          "final": 91,
+          "total": 236,
           "ty": 70,
           "upe": 75
         },
@@ -886,8 +886,8 @@
     "MIN327": {
       "questions": {
         "active": {
-          "final": 92,
-          "total": 335,
+          "final": 100,
+          "total": 343,
           "ty": 141,
           "upe": 102
         },
@@ -922,8 +922,8 @@
     "MIN381": {
       "questions": {
         "active": {
-          "final": 66,
-          "total": 310,
+          "final": 102,
+          "total": 346,
           "ty": 150,
           "upe": 94
         },
@@ -964,8 +964,8 @@
           "upe": 0
         },
         "retired": {
-          "final": 75,
-          "total": 258,
+          "final": 98,
+          "total": 281,
           "ty": 115,
           "upe": 68
         }
@@ -976,8 +976,8 @@
     "THE118": {
       "questions": {
         "active": {
-          "final": 34,
-          "total": 199,
+          "final": 90,
+          "total": 255,
           "ty": 115,
           "upe": 50
         },
@@ -1013,8 +1013,8 @@
     "THE154": {
       "questions": {
         "active": {
-          "final": 138,
-          "total": 375,
+          "final": 139,
+          "total": 376,
           "ty": 144,
           "upe": 93
         },
@@ -1068,8 +1068,8 @@
     "THE245": {
       "questions": {
         "active": {
-          "final": 69,
-          "total": 299,
+          "final": 98,
+          "total": 328,
           "ty": 130,
           "upe": 100
         },
@@ -1104,8 +1104,8 @@
     "THE311": {
       "questions": {
         "active": {
-          "final": 54,
-          "total": 249,
+          "final": 100,
+          "total": 295,
           "ty": 120,
           "upe": 75
         },
@@ -1140,17 +1140,17 @@
   },
   "questions": {
     "active": {
-      "final": 2200,
-      "total": 13007,
+      "final": 2661,
+      "total": 13468,
       "ty": 6288,
       "upe": 4519
     },
     "retired": {
-      "final": 614,
-      "total": 4143,
+      "final": 580,
+      "total": 4109,
       "ty": 2043,
       "upe": 1486
     },
-    "total": 17150
+    "total": 17577
   }
 }
