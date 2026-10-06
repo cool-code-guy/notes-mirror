@@ -14,7 +14,7 @@ Active content only — retired material is excluded from every figure.
 | --- | --- |
 | Active courses | 49 |
 | Retired courses | 9 |
-| Assessment items | 13,666 |
+| Assessment items | 13,746 |
 | Curriculum paragraphs | 111,606 |
 | Interactive study questions | 10,768 |
 | Scripture references | 41,493 |
@@ -34,7 +34,7 @@ Published sequence toward Certified Minister credentialing.
 | --- | --- | --- | --- |
 | 1 | Beginning Ministerial Internship — *not tracked in examdb (practicum course)* | | |
 | 2 | [BIB111](courses/BIB111.md) — Old Testament Survey | 1 | 468 |
-| 3 | [BIB116](courses/BIB116.md) — New Testament Survey | 1 | 302 |
+| 3 | [BIB116](courses/BIB116.md) — New Testament Survey | 1 | 382 |
 | 4 | [BIB121](courses/BIB121.md) — Introduction to Hermeneutics: How to Interpret the Bible · proposed renumber to `BIB123` | 1 | 335 |
 | 5 | [BIB114](courses/BIB114.md) — Christ in the Synoptic Gospels | 1 | 279 |
 | 6 | [THE154](courses/THE154.md) — The Assemblies of God: History, Missions, and Governance | 1 | 376 |
@@ -86,7 +86,7 @@ Published sequence toward Ordained Minister credentialing.
 | [BIB114](courses/BIB114.md) | Christ in the Synoptic Gospels | 1 | 01.22.01 | 13 | 43 | 279 |
 | [BIB114S](courses/BIB114S.md) | BIB114S |  | 01.22.01 | 13 | 42 | 205 |
 | [BIB115S](courses/BIB115S.md) | Hechos: La obra del Espíritu Santo en los creyentes |  | 02.22.01 | 13 | 38 | 318 |
-| [BIB116](courses/BIB116.md) | New Testament Survey | 1 | 01.26.01 | 13 | 39 | 302 |
+| [BIB116](courses/BIB116.md) | New Testament Survey | 1 | 01.26.02 | 13 | 39 | 382 |
 | [BIB117S](courses/BIB117S.md) | Epístolas de la prisión: Efesios, Filipenses, Colosenses y Filemón |  | 02.22.01 | 13 | 40 | 291 |
 | [BIB121](courses/BIB121.md) | Introduction to Hermeneutics | 1 | 03.23.01 | 15 | 42 | 335 |
 | [BIB121S](courses/BIB121S.md) | Introducción a la hermenéutica: Cómo interpretar la Biblia |  | 02.22.01 | 15 | 40 | 250 |
