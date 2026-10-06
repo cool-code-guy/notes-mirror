@@ -14,7 +14,7 @@ Active content only — retired material is excluded from every figure.
 | --- | --- |
 | Active courses | 49 |
 | Retired courses | 9 |
-| Assessment items | 13,632 |
+| Assessment items | 13,666 |
 | Curriculum paragraphs | 111,606 |
 | Interactive study questions | 10,768 |
 | Scripture references | 41,493 |
@@ -72,7 +72,7 @@ Published sequence toward Ordained Minister credentialing.
 | 4 | [MIN325](courses/MIN325.md) — Preaching in the Contemporary World | 3 | 296 |
 | 5 | [BIB318](courses/BIB318.md) — The Pentateuch | 3 | 396 |
 | 6 | [BIB322](courses/BIB322.md) — The Poetic Books | 3 | 276 |
-| 7 | [MIN381](courses/MIN381.md) — Pastoral Ministry | 3 | 346 |
+| 7 | [MIN381](courses/MIN381.md) — Pastoral Ministry | 3 | 380 |
 | 8 | [THE311](courses/THE311.md) — Prayer and Worship | 3 | 295 |
 
 *Internship courses are valid for twelve months. Students enroll early and work on assignments alongside their other courses.*
@@ -121,7 +121,7 @@ Published sequence toward Ordained Minister credentialing.
 | [MIN325S](courses/MIN325S.md) | La predicación en el mundo contemporáneo |  | 02.14.01 | 12 | 27 | 220 |
 | [MIN327](courses/MIN327.md) | Church Administration Finance & Law | 3 | 02.22.01 | 14 | 54 | 343 |
 | [MIN327S](courses/MIN327S.md) | MIN327S |  | 02.14.01 | 14 | 54 | 240 |
-| [MIN381](courses/MIN381.md) | Pastoral Ministry | 3 | 04.26.01 | 15 | 46 | 346 |
+| [MIN381](courses/MIN381.md) | Pastoral Ministry | 3 | 04.26.01 | 15 | 46 | 380 |
 | [MIN381S](courses/MIN381S.md) | MIN381S |  | 03.26.01 | 15 | 46 | 220 |
 | [THE118](courses/THE118.md) | Introduction to Theology | 1 | 04.22.01 | 13 | 36 | 255 |
 | [THE154](courses/THE154.md) | History, Missions, and Governance | 1 | 01.26.06 | 14 | 57 | 376 |
