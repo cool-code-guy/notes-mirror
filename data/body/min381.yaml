@@ -15283,9 +15283,9 @@ courses:
               outdated_reason: re-parsed
             glossary: []
           3.2.3:
-            last_modified: '2026-06-09'
-            text: Identify and describe single people in the Scriptures who were used
-              by God.
+            last_modified: '2026-10-06'
+            text: In the Scriptures, identify and describe single people who were
+              used by God.
             body:
             - p: 1
               text: Identify perceptions of single ministers held by peers and superiors.
@@ -16248,6 +16248,12 @@ courses:
               status: outdated 2026-10-06
               outdated_reason: re-parsed
             glossary: []
+            text_history:
+            - text: Identify and describe single people in the Scriptures who were
+                used by God.
+              outdated: '2026-10-06'
+              outdated_reason: re-parsed
+              change: substantive
           3.2.4:
             last_modified: '2026-03-27'
             text: Identify and describe five misconceptions about single ministers.
@@ -20052,10 +20058,8 @@ courses:
               UID: MIN381.3.5.1.S.7
             glossary: []
           3.5.2:
-            last_modified: '2026-03-27'
-            text: Discuss keys to having healthy ministerial friendships. The Married
-              Pastor’s Perspective The most important relationship for pastors is
-              their relationship with God. Second
+            last_modified: '2026-10-06'
+            text: Discuss keys to having healthy ministerial friendships.
             body:
             - p: 1
               text: Another core relationship that impacts your ministry is your relationship
@@ -20428,6 +20432,13 @@ courses:
               paragraph: MIN381.3.5.2.P.23
               UID: MIN381.3.5.2.S.7
             glossary: []
+            text_history:
+            - text: Discuss keys to having healthy ministerial friendships. The Married
+                Pastor’s Perspective The most important relationship for pastors is
+                their relationship with God. Second
+              outdated: '2026-10-06'
+              outdated_reason: re-parsed
+              change: substantive
     - last_modified: '2026-05-28'
       title: 4 - The Ministry of Preaching and Teaching
       print_page: 85
@@ -25420,10 +25431,8 @@ courses:
               UID: MIN381.5.3.1.S.4
             glossary: []
           5.3.2:
-            last_modified: '2026-05-28'
-            text: Describe why the altar time is important. The Holy Spirit’s Leading
-              Even if pastors do not have a written order of worship, they usually
-              enter
+            last_modified: '2026-10-06'
+            text: Describe why altar time is important.
             body:
             - p: 1
               text: Explain why a pastor should always give an invitation.
@@ -25649,6 +25658,13 @@ courses:
               paragraph: MIN381.5.3.2.P.12
               UID: MIN381.5.3.2.S.4
             glossary: []
+            text_history:
+            - text: Describe why the altar time is important. The Holy Spirit’s Leading
+                Even if pastors do not have a written order of worship, they usually
+                enter
+              outdated: '2026-10-06'
+              outdated_reason: re-parsed
+              change: substantive
     - last_modified: '2026-05-28'
       title: 6 - The Ministry of Pastoral Care
       print_page: 119
@@ -26115,8 +26131,8 @@ courses:
               UID: MIN381.6.1.1.S.4
             glossary: []
           6.1.2:
-            last_modified: '2026-05-28'
-            text: Summarize two mistakes that pastors make in crises.
+            last_modified: '2026-10-06'
+            text: Summarize two mistakes pastors make in crises.
             body:
             - p: 1
               text: Explain the value of a pastor’s presence to a person in crisis.
@@ -26561,12 +26577,17 @@ courses:
               paragraph: MIN381.6.1.2.P.27
               UID: MIN381.6.1.2.S.4
             glossary: []
+            text_history:
+            - text: Summarize two mistakes that pastors make in crises.
+              outdated: '2026-10-06'
+              outdated_reason: re-parsed
+              change: substantive
       - last_modified: '2026-05-28'
         title: Empathy
         subobjectives:
           6.2.1:
-            last_modified: '2026-05-28'
-            text: Define empathy.
+            last_modified: '2026-10-06'
+            text: Define empathy .
             body:
             - p: 1
               text: Define empathy.
@@ -26758,6 +26779,11 @@ courses:
               after_body_index: 15
               UID: MIN381.6.2.1.IQ.5
             glossary: []
+            text_history:
+            - text: Define empathy.
+              outdated: '2026-10-06'
+              outdated_reason: re-parsed
+              change: substantive
           6.2.2:
             last_modified: '2026-05-28'
             text: Explain the stages of the grieving process.
@@ -26956,8 +26982,8 @@ courses:
         title: Caregiving
         subobjectives:
           6.3.1:
-            last_modified: '2026-05-28'
-            text: List four things that a person in a crisis might appreciate.
+            last_modified: '2026-10-06'
+            text: List four things a person in a crisis might appreciate.
             body:
             - p: 1
               text: List four things a person in a crisis might appreciate.
@@ -27381,6 +27407,11 @@ courses:
               paragraph: MIN381.6.3.1.P.37
               UID: MIN381.6.3.1.S.5
             glossary: []
+            text_history:
+            - text: List four things that a person in a crisis might appreciate.
+              outdated: '2026-10-06'
+              outdated_reason: re-parsed
+              change: substantive
           6.3.2:
             last_modified: '2026-05-28'
             text: Explain three keys for relating to a person in a trial.
@@ -30356,8 +30387,8 @@ courses:
         title: Recognizing the Need
         subobjectives:
           9.1.1:
-            last_modified: '2026-03-27'
-            text: Describe needs that small groups meet.
+            last_modified: '2026-10-06'
+            text: Describe needs met by small groups.
             body:
             - p: 1
               text: Describe needs met by small groups.
@@ -30609,6 +30640,11 @@ courses:
               paragraph: MIN381.9.1.1.P.5
               UID: MIN381.9.1.1.S.2
             glossary: []
+            text_history:
+            - text: Describe needs that small groups meet.
+              outdated: '2026-10-06'
+              outdated_reason: re-parsed
+              change: substantive
           9.1.2:
             last_modified: '2026-03-27'
             text: Contrast worship with fellowship.
@@ -36210,8 +36246,8 @@ courses:
               UID: MIN381.10.2.2.S.22
             glossary: []
           10.2.3:
-            last_modified: '2026-05-28'
-            text: Explain the pastor’s role concerning communion.
+            last_modified: '2026-10-06'
+            text: Explain the pastor’s role concerning Communion.
             body:
             - p: 1
               text: 'Jesus instituted two ordinances, or religious ceremonies, for
@@ -36997,6 +37033,11 @@ courses:
               paragraph: MIN381.10.2.3.P.40
               UID: MIN381.10.2.3.S.22
             glossary: []
+            text_history:
+            - text: Explain the pastor’s role concerning communion.
+              outdated: '2026-10-06'
+              outdated_reason: re-parsed
+              change: typographic
     - last_modified: '2026-05-28'
       title: '11 - Working with Lay Leaders: Elders, Deacons, and Trustees'
       print_page: 201
