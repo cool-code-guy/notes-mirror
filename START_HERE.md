@@ -1325,7 +1325,7 @@ Level 3 · 13 chapters · 36 lessons · 123 subobjectives
 - Covenant and Promise Clarified (Genesis 16–19) (3.2.1, 3.2.2, 3.2.3, 3.2.4)
 - Now / Not Yet Fulfillment of the Promise (Genesis 20–25:11) (3.3.1, 3.3.2, 3.3.3, 3.3.4)
 
-**4 - Chapter 4**
+**4 - Jacob and Joseph—Continuing the Promise(Genesis 25–50)**
 - Isaac’s and Jacob’s Stories (Genesis 25:19–36:43) (4.1.1, 4.1.2, 4.1.3, 4.1.4)
 - Joseph’s Story (Genesis 37–50) (4.2.1, 4.2.2, 4.2.3, 4.2.4)
 
@@ -1339,7 +1339,7 @@ Level 3 · 13 chapters · 36 lessons · 123 subobjectives
 - The Ten Commandments (Exodus 20) (6.2.1, 6.2.2, 6.2.3, 6.2.4)
 - The First Biblical Collection of Laws (Exodus 21–23) (6.3.1, 6.3.2, 6.3.3)
 
-**7 - Chapter 7**
+**7 - The Tabernacle and theGolden Calf Apostasy (Exodus 25–40)**
 - Losing or Valuing God’s Presence (Exodus 32–34) (7.1.1, 7.1.2)
 - Establishing the Place of God’s Presence (Exodus 25–31; 35–40) (7.2.1, 7.2.2)
 
@@ -1363,11 +1363,11 @@ Level 3 · 13 chapters · 36 lessons · 123 subobjectives
 - Facing Opposition God’s Way (Numbers 20:14–25:18; 31) (11.1.1, 11.1.2, 11.1.3, 11.1.4)
 - Preparing to Inherit (Numbers 26–36) (11.2.1, 11.2.2, 11.2.3, 11.2.4)
 
-**12 - Chapter 12**
+**12 - Covenantal Perspectives and Commandments 1–4(Deuteronomy 1:1–16:17)**
 - History and Principles of Covenantal Relationships (Deuteronomy 1–11) (12.1.1, 12.1.2, 12.1.3, 12.1.4, 12.1.5, 12.1.6)
 - Applying Commandments 1–4 (Deuteronomy 12– 16:17) (12.2.1, 12.2.2)
 
-**13 - Chapter 13**
+**13 - Commandments 5–10 (Deuteronomy 16:18–34:12)and Conclusion**
 - Applying Commandments 5–6 (Deuteronomy 16:18–21:23) (13.1.1, 13.1.2)
 - Applying Commandments 7–10 (Deuteronomy 22–26) (13.2.1, 13.2.2, 13.2.3)
 - Accountability (Deuteronomy 27–30) and the Future (Deuteronomy 31–34) (13.3.1, 13.3.2, 13.3.3)
@@ -3129,7 +3129,7 @@ Level 3 · 15 chapters · 46 lessons · 77 subobjectives
 - Conducting Ceremonies (10.1.1, 10.1.2, 10.1.3, 10.1.4)
 - Administering the Ordinances (10.2.1, 10.2.2, 10.2.3)
 
-**11 - Chapter 11**
+**11 - Working with Lay Leaders: Elders, Deacons, and Trustees**
 - Choose Leaders (11.1.1, 11.1.2, 11.1.3)
 - Define Roles (11.2.1, 11.2.2, 11.2.3)
 - Build Relationships (11.3.1)

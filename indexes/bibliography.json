@@ -1,5 +1,5 @@
 {
-  "entry_count": 1201,
+  "entry_count": 1229,
   "index_version": 1,
   "works": [
     {
@@ -531,7 +531,7 @@
       "editor": null,
       "place": null,
       "publisher": null,
-      "raw": "Albright, William F. 1968. Yahweh and the Gods of Canaan: a Historical Analysis of Two Contrasting Faiths .Winona Lake, IN : Eisenbrauns.",
+      "raw": "Albright, William F. 1968. Yahweh and the Gods of Canaan: a Historical Analysis of Two Contrasting Faiths . Eisenbrauns.",
       "title": "Yahweh and the Gods of Canaan: a Historical Analysis of Two Contrasting Faiths",
       "url": null,
       "volume": null,
@@ -548,9 +548,9 @@
         "BIB318"
       ],
       "editor": null,
-      "place": "Downers Grove, IL",
-      "publisher": "InterVarsity",
-      "raw": "Alexander, T. Desmond, and Brian S. Rosner, eds. 2000. New Dictionary of Biblical Theology . Downers Grove, IL: InterVarsity.",
+      "place": null,
+      "publisher": null,
+      "raw": "Alexander, T. Desmond, and Brian S. Rosner, eds. 2000. New Dictionary of Biblical Theology . InterVarsity.",
       "title": "New Dictionary of Biblical Theology",
       "url": null,
       "volume": null,
@@ -567,9 +567,9 @@
         "BIB318"
       ],
       "editor": null,
-      "place": "Downers Grove, IL",
-      "publisher": "InterVarsity",
-      "raw": "Alexander, T. Desmond, and David W. Baker, eds. 2003. Dictionary of the Old Testament: Pentateuch . Downers Grove, IL: InterVarsity.",
+      "place": null,
+      "publisher": null,
+      "raw": "Alexander, T. Desmond, and David W. Baker, eds. 2003. Dictionary of the Old Testament: Pentateuch . InterVarsity.",
       "title": "Dictionary of the Old Testament: Pentateuch",
       "url": null,
       "volume": null,
@@ -773,6 +773,25 @@
       "url": null,
       "volume": null,
       "year": "1997"
+    },
+    {
+      "authors": "Ansberry, Christopher B",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "ansberry2024",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB322"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Ansberry, Christopher B. 2024. Reading Wisdom and Psalms as Christian Scripture: A Literary, Canonical, and Theological Introduction . Baker.",
+      "title": "Reading Wisdom and Psalms as Christian Scripture: A Literary, Canonical, and Theological Introduction",
+      "url": null,
+      "volume": null,
+      "year": "2024"
     },
     {
       "authors": "Anthony, Michael J",
@@ -1867,6 +1886,50 @@
       "year": "1974"
     },
     {
+      "authors": "Bartholomew, Craig G",
+      "citation_count": 5,
+      "cited_in": [
+        "BIB322.6.2.1",
+        "BIB322.6.2.2",
+        "BIB322.6.2.3",
+        "BIB322.6.2.4",
+        "BIB322.6.2.5"
+      ],
+      "citekey": "bartholomew2001",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB322"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": "Grove Books",
+      "raw": "Bartholomew, Craig G. 2001. Reading Proverbs with Integrity . Grove Biblical Series. Grove Books.",
+      "title": "Reading Proverbs with Integrity",
+      "url": null,
+      "volume": null,
+      "year": "2001"
+    },
+    {
+      "authors": "Bartholomew, Craig G",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "bartholomew2014",
+      "container": "Baker Commentary on the Old Testament: Wisdom and Psalms . Baker",
+      "course_count": 1,
+      "courses": [
+        "BIB322"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Bartholomew, Craig G. 2014. “Ecclesiastes.” Baker Commentary on the Old Testament: Wisdom and Psalms . Baker.",
+      "title": "Ecclesiastes",
+      "url": null,
+      "volume": null,
+      "year": "2014"
+    },
+    {
       "authors": "Barton, Bruce B., et al",
       "citation_count": 30,
       "cited_in": [
@@ -1978,6 +2041,44 @@
       "year": "1969"
     },
     {
+      "authors": "Beale, G. K. and D. A. Carson, eds",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "beale2007",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB322"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Beale, G. K. and D. A. Carson, eds. 2007. Commentary on the New Testament Use of the Old Testament . Baker.",
+      "title": "Commentary on the New Testament Use of the Old Testament",
+      "url": null,
+      "volume": null,
+      "year": "2007"
+    },
+    {
+      "authors": "Beale, G. K",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "beale2012",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB322"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Beale, G. K. 2012. Handbook on the New Testament Use of the Old Testament: Exegesis and Interpretation . Baker.",
+      "title": "Handbook on the New Testament Use of the Old Testament: Exegesis and Interpretation",
+      "url": null,
+      "volume": null,
+      "year": "2012"
+    },
+    {
       "authors": "Beaver, R. Pierce",
       "citation_count": 2,
       "cited_in": [
@@ -2072,13 +2173,59 @@
         "BIB322"
       ],
       "editor": null,
-      "place": "Peabody, MA",
+      "place": null,
       "publisher": "Hendrickson Publishers",
-      "raw": "Bellinger, W. H. 1990. Psalms: Reading and Studying the Book of Praises. Peabody, MA: Hendrickson Publishers.",
+      "raw": "Bellinger, W. H. 1990. Psalms: Reading and Studying the Book of Praises . Hendrickson Publishers.",
       "title": "Psalms: Reading and Studying the Book of Praises",
       "url": null,
       "volume": null,
       "year": "1990"
+    },
+    {
+      "authors": "Bellinger, W. H",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "bellinger2012",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB322"
+      ],
+      "editor": "Baker",
+      "place": null,
+      "publisher": null,
+      "raw": "Bellinger, W. H. 2012. Psalms: A Guide to Studying the Psalter . 2nd ed. Baker.",
+      "title": "Psalms: A Guide to Studying the Psalter",
+      "url": null,
+      "volume": null,
+      "year": "2012"
+    },
+    {
+      "authors": "Bellinger, W. H",
+      "citation_count": 7,
+      "cited_in": [
+        "BIB322.3.4.1",
+        "BIB322.3.4.2",
+        "BIB322.3.4.3",
+        "BIB322.4.4.1",
+        "BIB322.4.4.2",
+        "BIB322.4.4.3",
+        "BIB322.4.4.4"
+      ],
+      "citekey": "bellinger2022",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB322"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Bellinger, W. H. 2022. Introducing Old Testament Theology: Creation, Covenant, and Prophecy in the Divine-Human Relationship . Baker.",
+      "title": "Introducing Old Testament Theology: Creation, Covenant, and Prophecy in the Divine-Human Relationship",
+      "url": null,
+      "volume": null,
+      "year": "2022"
     },
     {
       "authors": "Bennett, Dennis J",
@@ -2353,9 +2500,9 @@
         "BIB322"
       ],
       "editor": null,
-      "place": "Nashville",
+      "place": null,
       "publisher": "Broadman & Holman Publishers",
-      "raw": "Berry, Donald K. 1995. An Introduction to Wisdom and Poetry of the Old Testament . Nashville: Broadman & Holman Publishers.",
+      "raw": "Berry, Donald K. 1995. An Introduction to Wisdom and Poetry of the Old Testament . Broadman & Holman Publishers.",
       "title": "An Introduction to Wisdom and Poetry of the Old Testament",
       "url": null,
       "volume": null,
@@ -3687,9 +3834,9 @@
         "BIB322"
       ],
       "editor": null,
-      "place": "Grand Rapids, MI",
-      "publisher": "William B",
-      "raw": "Brown, William P. 1996. Character in Crisis: A Fresh Approach to the Wisdom Literature of the Old Testament . Grand Rapids, MI: William B. Eerdmans.",
+      "place": null,
+      "publisher": "William B. Eerdmans",
+      "raw": "Brown, William P. 1996. Character in Crisis: A Fresh Approach to the Wisdom Literature of the Old Testament . William B. Eerdmans.",
       "title": "Character in Crisis: A Fresh Approach to the Wisdom Literature of the Old Testament",
       "url": null,
       "volume": null,
@@ -4081,28 +4228,28 @@
         "BIB322"
       ],
       "editor": null,
-      "place": "Minneapolis",
-      "publisher": "Augsburg Publishing House",
-      "raw": "Brueggemann, Walter. 1984. The Message of the Psalms. Minneapolis: Augsburg Publishing House.",
+      "place": null,
+      "publisher": "The Message of the Psalms . Augsburg Publishing House",
+      "raw": "Brueggemann, Walter. 1984. The Message of the Psalms . Augsburg Publishing House.",
       "title": "The Message of the Psalms",
       "url": null,
       "volume": null,
       "year": "1984"
     },
     {
-      "authors": "Brueggemann, Walter——",
+      "authors": "Brueggemann, Walter",
       "citation_count": 0,
       "cited_in": [],
       "citekey": "brueggemann2002",
-      "container": "Reverberations of Faith: A Theological Handbook of Old Testament Themes",
+      "container": "Reverberations of Faith: A Theological Handbook of Old Testament Themes . John Knox Press",
       "course_count": 1,
       "courses": [
         "BIB322"
       ],
       "editor": null,
-      "place": "Louisville",
+      "place": null,
       "publisher": "John Knox Press",
-      "raw": "Brueggemann, Walter——. 2002. “Retribution.” In Reverberations of Faith: A Theological Handbook of Old Testament Themes . Louisville: John Knox Press.",
+      "raw": "Brueggemann, Walter. 2002. “Retribution.” In Reverberations of Faith: A Theological Handbook of Old Testament Themes . John Knox Press.",
       "title": "Retribution",
       "url": null,
       "volume": null,
@@ -4192,16 +4339,35 @@
       "authors": "Bullock, C. Hassell",
       "citation_count": 0,
       "cited_in": [],
-      "citekey": "bullock2001",
+      "citekey": "bullock2001a",
       "container": null,
       "course_count": 1,
       "courses": [
         "BIB322"
       ],
       "editor": null,
-      "place": "Grand Rapids, MI",
-      "publisher": "Baker Academic",
-      "raw": "Bullock, C. Hassell. 2001. Encountering the Psalms. Grand Rapids, MI: Baker Academic.",
+      "place": null,
+      "publisher": null,
+      "raw": "Bullock, C. Hassell. 2001. Encountering the Book of Psalms: A Literary and Theological Introduction . Baker.",
+      "title": "Encountering the Book of Psalms: A Literary and Theological Introduction",
+      "url": null,
+      "volume": null,
+      "year": "2001"
+    },
+    {
+      "authors": "Bullock, C. Hassell",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "bullock2001b",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB322"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": "Encountering the Psalms . Baker Academic",
+      "raw": "Bullock, C. Hassell. 2001. Encountering the Psalms . Baker Academic.",
       "title": "Encountering the Psalms",
       "url": null,
       "volume": null,
@@ -4982,9 +5148,9 @@
         "BIB322"
       ],
       "editor": null,
-      "place": "Kansas City, KS",
-      "publisher": "Walterick Publishers",
-      "raw": "Clarke, Arthur G. 1970. The Song of Songs. Kansas City, KS: Walterick Publishers.",
+      "place": null,
+      "publisher": "The Song of Songs . Walterick Publishers",
+      "raw": "Clarke, Arthur G. 1970. The Song of Songs . Walterick Publishers.",
       "title": "The Song of Songs",
       "url": null,
       "volume": null,
@@ -5028,13 +5194,36 @@
         "BIB322"
       ],
       "editor": null,
-      "place": "Grand Rapids, MI",
-      "publisher": "William B",
-      "raw": "Clements, Ronald E. 1992. Wisdom in Theology . Grand Rapids, MI: William B. Eerdmans Publishers.",
+      "place": null,
+      "publisher": "Wisdom in Theology . William B. Eerdmans Publishers",
+      "raw": "Clements, Ronald E. 1992. Wisdom in Theology . William B. Eerdmans Publishers.",
       "title": "Wisdom in Theology",
       "url": null,
       "volume": null,
       "year": "1992"
+    },
+    {
+      "authors": "Clines, David J. A",
+      "citation_count": 3,
+      "cited_in": [
+        "BIB322.3.1.1",
+        "BIB322.3.1.2",
+        "BIB322.3.1.3"
+      ],
+      "citekey": "clines1989",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB322"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": "Thomas Nelson",
+      "raw": "Clines, David J. A. 1989. Word Biblical Commentary 17: Job 1–20 . Thomas Nelson.",
+      "title": "Word Biblical Commentary 17: Job 1–20",
+      "url": null,
+      "volume": null,
+      "year": "1989"
     },
     {
       "authors": "Clouse, Robert G",
@@ -5477,9 +5666,15 @@
     },
     {
       "authors": "Cotton, Roger D",
-      "citation_count": 0,
-      "cited_in": [],
-      "citekey": "cotton1978",
+      "citation_count": 5,
+      "cited_in": [
+        "BIB318.8.1.1",
+        "BIB318.8.1.2",
+        "BIB318.8.1.3",
+        "BIB318.8.1.4",
+        "BIB318.8.1.5"
+      ],
+      "citekey": "cotton1981",
       "container": null,
       "course_count": 1,
       "courses": [
@@ -5488,11 +5683,11 @@
       "editor": null,
       "place": null,
       "publisher": null,
-      "raw": "Cotton, Roger D. 1978. A Study of the Rhetorical and Thematic Structure of the So-Called “Holiness Code” (Leviticus 17–26) in Order to Evaluate Unity and Authenticity. S.T.M. thesis, Concordia Seminary, Fort Wayne, IN.",
+      "raw": "Cotton, Roger D. 1981. A Study of the Rhetorical and Thematic Structure of the So-Called “Holiness Code” (Leviticus 17–26) in Order to Evaluate Unity and Authenticity . S.T.M. thesis, Concordia Seminary.",
       "title": "A Study of the Rhetorical and Thematic Structure of the So-Called “Holiness Code” (Leviticus 17–26) in Order to Evaluate Unity and Authenticity",
       "url": null,
       "volume": null,
-      "year": "1978"
+      "year": "1981"
     },
     {
       "authors": "Cotton, Roger D",
@@ -5507,18 +5702,18 @@
       "editor": "Thoralf Gilbrant and Gregory A. Lint",
       "place": null,
       "publisher": null,
-      "raw": "Cotton, Roger D. 1995. Commentary on Leviticus. In The Complete Biblical Library: The Old Testament Study Bible , ed. Thoralf Gilbrant and Gregory A. Lint. Vol. 3, Leviticus and Numbers , Springfield, MO: World Library Press.",
-      "title": "The Complete Biblical Library: The Old Testament Study Bible",
+      "raw": "Cotton, Roger D. 1995. Commentary on Leviticus . In The Complete Biblical Library: The Old Testament Study Bible , ed. Thoralf Gilbrant and Gregory A. Lint. Vol. 3, Leviticus and Numbers, World Library Press.",
+      "title": "Commentary on Leviticus",
       "url": null,
       "volume": "3",
       "year": "1995"
     },
     {
-      "authors": "Cotton, Roger D——",
+      "authors": "Cotton, Roger D",
       "citation_count": 0,
       "cited_in": [],
       "citekey": "cotton2001",
-      "container": null,
+      "container": "The Journal of Pentecostal Theology",
       "course_count": 1,
       "courses": [
         "BIB318"
@@ -5526,8 +5721,8 @@
       "editor": null,
       "place": null,
       "publisher": null,
-      "raw": "Cotton, Roger D——. 2001. The Pentecostal Significance of Numbers. The Journal of Pentecostal Theology 10 (October):3–10.",
-      "title": "The Journal of Pentecostal Theology",
+      "raw": "Cotton, Roger D. 2001. “The Pentecostal Significance of Numbers.” The Journal of Pentecostal Theology 10 (October):3–10.",
+      "title": "The Pentecostal Significance of Numbers",
       "url": null,
       "volume": null,
       "year": "2001"
@@ -5734,36 +5929,13 @@
         "BIB318"
       ],
       "editor": null,
-      "place": "Grand Rapids",
-      "publisher": "Eerdmans",
-      "raw": "Craigie, Peter C. 1976. The Book of Deuteronomy . New International Commentary on the Old Testament. Grand Rapids: Eerdmans.",
+      "place": null,
+      "publisher": "New International Commentary on the Old Testament . Eerdmans",
+      "raw": "Craigie, Peter C. 1976. The Book of Deuteronomy. New International Commentary on the Old Testament . Eerdmans.",
       "title": "The Book of Deuteronomy",
       "url": null,
       "volume": null,
       "year": "1976"
-    },
-    {
-      "authors": "Craigie, Peter C",
-      "citation_count": 3,
-      "cited_in": [
-        "BIB322.4.2.1",
-        "BIB322.4.2.2",
-        "BIB322.4.2.3"
-      ],
-      "citekey": "craigie1983",
-      "container": null,
-      "course_count": 1,
-      "courses": [
-        "BIB322"
-      ],
-      "editor": null,
-      "place": "Waco, TX",
-      "publisher": "Word Books",
-      "raw": "Craigie, Peter C. 1983. Psalms 1–50 . Vol. 19, Word Biblical Commentary Series . Waco, TX: Word Books.",
-      "title": "Psalms 1–50",
-      "url": null,
-      "volume": "19",
-      "year": "1983"
     },
     {
       "authors": "Crawford, Dan",
@@ -5794,16 +5966,13 @@
     },
     {
       "authors": "Crenshaw, James L",
-      "citation_count": 12,
+      "citation_count": 9,
       "cited_in": [
         "BIB322.2.1.1",
         "BIB322.2.1.2",
         "BIB322.3.4.1",
         "BIB322.3.4.2",
         "BIB322.3.4.3",
-        "BIB322.7.3.1",
-        "BIB322.7.3.2",
-        "BIB322.7.3.3",
         "BIB322.7.4.1",
         "BIB322.7.4.2",
         "BIB322.7.4.3",
@@ -5816,9 +5985,9 @@
         "BIB322"
       ],
       "editor": null,
-      "place": "Atlanta",
+      "place": null,
       "publisher": "John Knox Press",
-      "raw": "Crenshaw, James L. 1981. Old Testament Wisdom: An Introduction . Atlanta: John Knox Press.",
+      "raw": "Crenshaw, James L. 1981. Old Testament Wisdom: An Introduction . John Knox Press.",
       "title": "Old Testament Wisdom: An Introduction",
       "url": null,
       "volume": null,
@@ -5969,30 +6138,6 @@
       "year": "2006"
     },
     {
-      "authors": "Curtis, Edward M",
-      "citation_count": 4,
-      "cited_in": [
-        "BIB322.8.1.1",
-        "BIB322.8.1.2",
-        "BIB322.8.1.3",
-        "BIB322.8.1.4"
-      ],
-      "citekey": "curtis1988",
-      "container": null,
-      "course_count": 1,
-      "courses": [
-        "BIB322"
-      ],
-      "editor": null,
-      "place": "Grand Rapids, MI",
-      "publisher": "Lamplighter Books",
-      "raw": "Curtis, Edward M. 1988. Song of Songs . Grand Rapids, MI: Lamplighter Books.",
-      "title": "Song of Songs",
-      "url": null,
-      "volume": null,
-      "year": "1988"
-    },
-    {
       "authors": "Curtis, Ken",
       "citation_count": 0,
       "cited_in": [],
@@ -6011,6 +6156,29 @@
       "url": "https://www.christianity.com/church/church-history/timeline/1701-1800/henry-martyn-forsook-all-for-christ-11630337.html",
       "volume": null,
       "year": "2010"
+    },
+    {
+      "authors": "Curtis, Edward M",
+      "citation_count": 3,
+      "cited_in": [
+        "BIB322.3.5.1",
+        "BIB322.3.5.2",
+        "BIB322.3.5.3"
+      ],
+      "citekey": "curtis2017",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB322"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Curtis, Edward M. 2017. Interpreting the Wisdom Books: An Exegetical Handbook . Handbooks for Old Testament Exegesis . Kregel.",
+      "title": "Interpreting the Wisdom Books: An Exegetical Handbook",
+      "url": null,
+      "volume": null,
+      "year": "2017"
     },
     {
       "authors": "Custer, John S",
@@ -6112,8 +6280,8 @@
       ],
       "editor": null,
       "place": null,
-      "publisher": null,
-      "raw": "Davis, Ellen F. 2000. Proverbs, Ecclesiastes, and the Song of Songs Louisville: Westminster John Knox Press.",
+      "publisher": "Westminster John Knox Press",
+      "raw": "Davis, Ellen F. 2000. Proverbs, Ecclesiastes, and the Song of Songs . Westminster John Knox Press.",
       "title": "Proverbs, Ecclesiastes, and the Song of Songs",
       "url": null,
       "volume": null,
@@ -6167,6 +6335,25 @@
       "url": null,
       "volume": null,
       "year": "2006"
+    },
+    {
+      "authors": "deClaissé-Walford, Nancy, Rolf A. Jacobson, and Beth LaNeel Tanner",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "declaisswalford2014",
+      "container": "New International Commentary on the Old Testament . Eerdmans",
+      "course_count": 1,
+      "courses": [
+        "BIB322"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "deClaissé-Walford, Nancy, Rolf A. Jacobson, and Beth LaNeel Tanner. 2014. “The Book of Psalms.” New International Commentary on the Old Testament . Eerdmans.",
+      "title": "The Book of Psalms",
+      "url": null,
+      "volume": null,
+      "year": "2014"
     },
     {
       "authors": "DeGroat, Chuck",
@@ -6701,9 +6888,9 @@
         "BIB322"
       ],
       "editor": null,
-      "place": "Grand Rapids",
-      "publisher": "Zondervan",
-      "raw": "Duvall, J. Scott and J. Daniel Hays. 2001. Grasping God’s Word: A Hands-On Approach to Reading, Interpreting, and Applying the Bible . Grand Rapids: Zondervan.",
+      "place": null,
+      "publisher": null,
+      "raw": "Duvall, J. Scott and J. Daniel Hays. 2001. Grasping God’s Word: A Hands-On Approach to Reading, Interpreting, and Applying the Bible . Zondervan.",
       "title": "Grasping God’s Word: A Hands-On Approach to Reading, Interpreting, and Applying the Bible",
       "url": null,
       "volume": null,
@@ -6925,9 +7112,9 @@
         "BIB322"
       ],
       "editor": null,
-      "place": "Leicester, England",
-      "publisher": "InterVarsity Press",
-      "raw": "Eaton, Michael. 1983. Ecclesiastes . Leicester, England: InterVarsity Press.",
+      "place": null,
+      "publisher": "Ecclesiastes . InterVarsity Press",
+      "raw": "Eaton, Michael. 1983. Ecclesiastes . InterVarsity Press.",
       "title": "Ecclesiastes",
       "url": null,
       "volume": null,
@@ -7325,9 +7512,9 @@
         "BIB318"
       ],
       "editor": null,
-      "place": "Grand Rapids",
-      "publisher": "Zondervan",
-      "raw": "Enns, Peter. 2000. Exodus . New International Version Application Commentary. Grand Rapids: Zondervan.",
+      "place": null,
+      "publisher": "New International Version Application Commentary . Zondervan",
+      "raw": "Enns, Peter. 2000. Exodus. New International Version Application Commentary . Zondervan.",
       "title": "Exodus",
       "url": null,
       "volume": null,
@@ -7517,6 +7704,25 @@
       "year": "2014"
     },
     {
+      "authors": "Estes, Daniel J",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "estes2005",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB322"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Estes, Daniel J. 2005. Handbook on the Wisdom Books and Psalms . Baker.",
+      "title": "Handbook on the Wisdom Books and Psalms",
+      "url": null,
+      "volume": null,
+      "year": "2005"
+    },
+    {
       "authors": "Evangel University",
       "citation_count": 0,
       "cited_in": [],
@@ -7651,9 +7857,9 @@
         "BIB322"
       ],
       "editor": null,
-      "place": "Grand Rapids, MI",
+      "place": null,
       "publisher": "Eerdmans Publishing",
-      "raw": "Farmer, Kathleen. 1991. Proverbs and Ecclesiastes: Who Knows What Is Good? Grand Rapids, MI: Eerdmans Publishing.",
+      "raw": "Farmer, Kathleen. 1991. Proverbs and Ecclesiastes: Who Knows What Is Good? Eerdmans Publishing.",
       "title": "Proverbs and Ecclesiastes: Who Knows What Is Good?",
       "url": null,
       "volume": null,
@@ -7988,6 +8194,25 @@
       "url": null,
       "volume": null,
       "year": "2003"
+    },
+    {
+      "authors": "Fee, Gordon D. and Douglas Stuart",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "fee2014",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB322"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Fee, Gordon D. and Douglas Stuart. 2014. How to Read the Bible Book by Book: A Guided Tour . Zondervan.",
+      "title": "How to Read the Bible Book by Book: A Guided Tour",
+      "url": null,
+      "volume": null,
+      "year": "2014"
     },
     {
       "authors": "Fenelon, Francois",
@@ -8497,9 +8722,9 @@
         "BIB322"
       ],
       "editor": null,
-      "place": "Sheffield, England",
-      "publisher": "Almond Press",
-      "raw": "Fox, Michael V. 1989. Qohelet and His Contradictions . Sheffield, England: Almond Press.",
+      "place": null,
+      "publisher": "Qohelet and His Contradictions . Almond Press",
+      "raw": "Fox, Michael V. 1989. Qohelet and His Contradictions . Almond Press.",
       "title": "Qohelet and His Contradictions",
       "url": null,
       "volume": null,
@@ -8550,6 +8775,25 @@
       "url": null,
       "volume": null,
       "year": "1979"
+    },
+    {
+      "authors": "Frampton, Mary",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "frampton1973",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB322"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Frampton, Mary. 1973. “Myra Cohn Livingston, poet-in-residence of Beverly Hills School District, talking with group of students, Calif., 1973). Los Angeles Times Photographic Collection. Photo. https://commons.wikimedia.org/wiki/File:Myra_Cohn_Livingston,_1973.jpg.",
+      "title": "Los Angeles Times Photographic Collection",
+      "url": "https://commons.wikimedia.org/wiki/File:Myra_Cohn_Livingston,_1973.jpg",
+      "volume": null,
+      "year": "1973"
     },
     {
       "authors": "France, R. T",
@@ -8677,6 +8921,25 @@
       "url": null,
       "volume": null,
       "year": "1988"
+    },
+    {
+      "authors": "Futato, Mark D",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "futato2007",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB322"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Futato, Mark D. 2007. Interpreting the Psalms: An Exegetical Handbook. Handbooks for Old Testament Exegesis . Kregel.",
+      "title": "Interpreting the Psalms: An Exegetical Handbook. Handbooks for Old Testament Exegesis",
+      "url": null,
+      "volume": null,
+      "year": "2007"
     },
     {
       "authors": "Gaddy, Welton C",
@@ -9623,9 +9886,9 @@
         "BIB318"
       ],
       "editor": null,
-      "place": "Grand Rapids",
-      "publisher": "Wm",
-      "raw": "Goldsworthy, Graeme. 2000. Preaching the Whole Bible as Christian Scripture . Grand Rapids: Wm. B. Eerdmans Publishing Co.",
+      "place": null,
+      "publisher": null,
+      "raw": "Goldsworthy, Graeme. 2000. Preaching the Whole Bible as Christian Scripture . Wm. B. Eerdmans Publishing Co.",
       "title": "Preaching the Whole Bible as Christian Scripture",
       "url": null,
       "volume": null,
@@ -9709,32 +9972,13 @@
         "BIB318"
       ],
       "editor": null,
-      "place": "Grand Rapids",
-      "publisher": "Zondervan",
-      "raw": "Goodrick, Edward W. and John R. Kohlenberger III. 1991. Zondervan New International Version Exhaustive Concordance . Grand Rapids: Zondervan.",
+      "place": null,
+      "publisher": null,
+      "raw": "Goodrick, Edward W. and John R. Kohlenberger III. 1991. Zondervan New International Version Exhaustive Concordance . Zondervan.",
       "title": "Zondervan New International Version Exhaustive Concordance",
       "url": null,
       "volume": null,
       "year": "1991"
-    },
-    {
-      "authors": "Goodrick, Edward W. and John R. Kohlenberger III——. Handbook on the Pentateuch",
-      "citation_count": 0,
-      "cited_in": [],
-      "citekey": "goodrick2005",
-      "container": null,
-      "course_count": 1,
-      "courses": [
-        "BIB318"
-      ],
-      "editor": null,
-      "place": "Grand Rapids",
-      "publisher": "Baker",
-      "raw": "Goodrick, Edward W. and John R. Kohlenberger III——. Handbook on the Pentateuch . 2005. 2nd ed. Grand Rapids: Baker.",
-      "title": "Handbook on the Pentateuch",
-      "url": null,
-      "volume": null,
-      "year": "2005"
     },
     {
       "authors": "Gordon, Arthur",
@@ -10680,9 +10924,10 @@
       ],
       "citekey": "hamilton2005",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB111"
+        "BIB111",
+        "BIB318"
       ],
       "editor": null,
       "place": null,
@@ -11538,6 +11783,30 @@
       "year": "2005"
     },
     {
+      "authors": "Hess, Richard S",
+      "citation_count": 4,
+      "cited_in": [
+        "BIB322.8.2.1",
+        "BIB322.8.2.2",
+        "BIB322.8.2.3",
+        "BIB322.8.2.4"
+      ],
+      "citekey": "hess2005",
+      "container": "Baker Commentary on the Old Testament: Wisdom and Psalms . Baker",
+      "course_count": 1,
+      "courses": [
+        "BIB322"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Hess, Richard S. 2005. “Song of Songs.” Baker Commentary on the Old Testament: Wisdom and Psalms . Baker.",
+      "title": "Song of Songs",
+      "url": null,
+      "volume": null,
+      "year": "2005"
+    },
+    {
       "authors": "Hester, David C",
       "citation_count": 0,
       "cited_in": [],
@@ -11676,7 +11945,7 @@
     },
     {
       "authors": "Hill, Andrew E., and John H. Walton",
-      "citation_count": 35,
+      "citation_count": 38,
       "cited_in": [
         "BIB111.10.2.1",
         "BIB111.10.2.2",
@@ -11712,13 +11981,17 @@
         "BIB111.9.2.1",
         "BIB111.9.2.2",
         "BIB111.9.3.1",
-        "BIB111.9.3.2"
+        "BIB111.9.3.2",
+        "BIB322.1.2.1",
+        "BIB322.1.2.2",
+        "BIB322.1.2.3"
       ],
       "citekey": "hill2023",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
-        "BIB111"
+        "BIB111",
+        "BIB322"
       ],
       "editor": null,
       "place": null,
@@ -11818,7 +12091,7 @@
       "year": "1977"
     },
     {
-      "authors": "Hoerth, Alfred, J., Gerald L. Mattingly, and Edwin M. Yamauchi",
+      "authors": "Hoerth, Alfred J., Gerald L. Mattingly, and Edwin M. Yamauchi",
       "citation_count": 0,
       "cited_in": [],
       "citekey": "hoerth1994",
@@ -11828,9 +12101,9 @@
         "BIB318"
       ],
       "editor": null,
-      "place": "Grand Rapids",
-      "publisher": "Baker",
-      "raw": "Hoerth, Alfred, J., Gerald L. Mattingly, and Edwin M. Yamauchi. 1994. Peoples of the Old Testament World . Grand Rapids: Baker.",
+      "place": null,
+      "publisher": null,
+      "raw": "Hoerth, Alfred J., Gerald L. Mattingly, and Edwin M. Yamauchi. 1994. Peoples of the Old Testament World . Baker.",
       "title": "Peoples of the Old Testament World",
       "url": null,
       "volume": null,
@@ -11958,9 +12231,9 @@
         "THE118"
       ],
       "editor": null,
-      "place": "Springfield, MO",
+      "place": null,
       "publisher": "Gospel Publishing House",
-      "raw": "Horton, Stanley M. 1976. What the Bible Says About the Holy Spirit . Springfield, MO: Gospel Publishing House.",
+      "raw": "Horton, Stanley M. 1976. What the Bible Says About the Holy Spirit . Gospel Publishing House.",
       "title": "What the Bible Says About the Holy Spirit",
       "url": null,
       "volume": null,
@@ -12130,9 +12403,9 @@
         "BIB318"
       ],
       "editor": "Thoralf Gilbrant",
-      "place": "Springfield, MO",
+      "place": null,
       "publisher": "World Library Press",
-      "raw": "Horton, Stanley M. 1994. Genesis . The Complete Biblical Library: The Old Testament, Vol. 1, ed. Thoralf Gilbrant. Springfield, MO: World Library Press.",
+      "raw": "Horton, Stanley M. 1994. Genesis . The Complete Biblical Library: The Old Testament, Vol. 1, ed. Thoralf Gilbrant. World Library Press.",
       "title": "Genesis",
       "url": null,
       "volume": "1",
@@ -12158,10 +12431,10 @@
       "year": "1994"
     },
     {
-      "authors": "Horton, Stanley M——",
+      "authors": "Horton, Stanley M",
       "citation_count": 0,
       "cited_in": [],
-      "citekey": "horton1995genes",
+      "citekey": "horton1995comme",
       "container": "The Complete Biblical Library: The Old Testament Study Bible",
       "course_count": 1,
       "courses": [
@@ -12170,8 +12443,8 @@
       "editor": "Thoralf Gilbrant and Gregory A. Lint",
       "place": null,
       "publisher": null,
-      "raw": "Horton, Stanley M——. 1995. Commentary on Genesis. In The Complete Biblical Library: The Old Testament Study Bible, ed. Thoralf Gilbrant and Gregory A. Lint. Vol. 1, Genesis , Springfield, MO: World Library Press.",
-      "title": "Genesis",
+      "raw": "Horton, Stanley M. 1995. Commentary on Genesis . In The Complete Biblical Library: The Old Testament Study Bible , ed. Thoralf Gilbrant and Gregory A. Lint. Vol. 1, Genesis, World Library Press.",
+      "title": "Commentary on Genesis",
       "url": null,
       "volume": "1",
       "year": "1995"
@@ -12358,9 +12631,9 @@
         "BIB318"
       ],
       "editor": null,
-      "place": "Downers Grove, IL",
-      "publisher": "InterVarsity",
-      "raw": "House, Paul R. 1998. Old Testament Theology . Downers Grove, IL: InterVarsity.",
+      "place": null,
+      "publisher": null,
+      "raw": "House, Paul R. 1998. Old Testament Theology . InterVarsity.",
       "title": "Old Testament Theology",
       "url": null,
       "volume": null,
@@ -12935,9 +13208,9 @@
         "BIB322"
       ],
       "editor": null,
-      "place": "Chicago",
-      "publisher": "Moody Bible Institute",
-      "raw": "Jensen, Irving L. 1975. Job . Chicago: Moody Bible Institute.",
+      "place": null,
+      "publisher": null,
+      "raw": "Jensen, Irving L. 1975. Job . Moody Bible Institute.",
       "title": "Job",
       "url": null,
       "volume": null,
@@ -13064,9 +13337,9 @@
         "BIB318"
       ],
       "editor": null,
-      "place": "Grand Rapids",
-      "publisher": "Zondervan",
-      "raw": "Kaiser, Walter C., Jr. 1978. Toward An Old Testament Theology . Grand Rapids: Zondervan.",
+      "place": null,
+      "publisher": "Toward An Old Testament Theology . Zondervan",
+      "raw": "Kaiser, Walter C., Jr. 1978. Toward An Old Testament Theology . Zondervan.",
       "title": "Toward An Old Testament Theology",
       "url": null,
       "volume": null,
@@ -13143,7 +13416,7 @@
       "year": "1989"
     },
     {
-      "authors": "Kaiser, Walter C., Jr——",
+      "authors": "Kaiser, Walter C., Jr",
       "citation_count": 0,
       "cited_in": [],
       "citekey": "kaiser1990",
@@ -13153,10 +13426,10 @@
         "BIB318"
       ],
       "editor": null,
-      "place": "Grand Rapids",
-      "publisher": "Zondervan",
-      "raw": "Kaiser, Walter C., Jr——. 1990. Exodus. In The Expositor’s Bible Commentary: Genesis–Numbers . 285–497. Vol. 2. Grand Rapids: Zondervan.",
-      "title": "The Expositor’s Bible Commentary: Genesis–Numbers",
+      "place": null,
+      "publisher": null,
+      "raw": "Kaiser, Walter C., Jr. 1990. Exodus . In The Expositor’s Bible Commentary: Genesis–Numbers . 285–497. Vol. 2. Zondervan.",
+      "title": "Exodus",
       "url": null,
       "volume": "2",
       "year": "1990"
@@ -13736,30 +14009,6 @@
     },
     {
       "authors": "Kidner, Derek",
-      "citation_count": 4,
-      "cited_in": [
-        "BIB322.4.4.1",
-        "BIB322.4.4.2",
-        "BIB322.4.4.3",
-        "BIB322.4.4.4"
-      ],
-      "citekey": "kidner1973",
-      "container": null,
-      "course_count": 1,
-      "courses": [
-        "BIB322"
-      ],
-      "editor": null,
-      "place": "Downers Grove, IL",
-      "publisher": "InterVarsity Press",
-      "raw": "Kidner, Derek. 1973. Psalms 1–72: An Introduction and Commentary on Books I and II of the Psalms . Downers Grove, IL: InterVarsity Press.",
-      "title": "Psalms 1–72: An Introduction and Commentary on Books I and II of the Psalms",
-      "url": null,
-      "volume": null,
-      "year": "1973"
-    },
-    {
-      "authors": "Kidner, Derek",
       "citation_count": 3,
       "cited_in": [
         "BIB214.10.3.1",
@@ -13782,7 +14031,7 @@
       "year": "1981"
     },
     {
-      "authors": "Kidner, Derek——",
+      "authors": "Kidner, Derek",
       "citation_count": 0,
       "cited_in": [],
       "citekey": "kidner1985",
@@ -13792,9 +14041,9 @@
         "BIB322"
       ],
       "editor": null,
-      "place": "Downers Grove, IL",
+      "place": null,
       "publisher": "InterVarsity Press",
-      "raw": "Kidner, Derek——. 1985. The Wisdom of Proverbs, Job and Ecclesiastes: An Introduction to Wisdom Literature . Downers Grove, IL: InterVarsity Press.",
+      "raw": "Kidner, Derek. 1985. The Wisdom of Proverbs, Job and Ecclesiastes: An Introduction to Wisdom Literature . InterVarsity Press.",
       "title": "The Wisdom of Proverbs, Job and Ecclesiastes: An Introduction to Wisdom Literature",
       "url": null,
       "volume": null,
@@ -13935,6 +14184,25 @@
       "year": "2007"
     },
     {
+      "authors": "Kirkpatrick, Alexander F",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "kirkpatrick1901",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB322"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": "Cambridge University Press",
+      "raw": "Kirkpatrick, Alexander F. 1901. The Book of Psalms with Introduction and Notes: Books 4 and 5 . Cambridge University Press.",
+      "title": "The Book of Psalms with Introduction and Notes: Books 4 and 5",
+      "url": null,
+      "volume": null,
+      "year": "1901"
+    },
+    {
       "authors": "Kistemaker, Simon J",
       "citation_count": 2,
       "cited_in": [
@@ -13958,13 +14226,14 @@
     },
     {
       "authors": "Kitchen, K. A",
-      "citation_count": 5,
+      "citation_count": 6,
       "cited_in": [
-        "BIB318.8.1.1",
-        "BIB318.8.1.2",
-        "BIB318.8.1.3",
-        "BIB318.8.1.4",
-        "BIB318.8.1.5"
+        "BIB318.12.1.1",
+        "BIB318.12.1.2",
+        "BIB318.12.1.3",
+        "BIB318.12.1.4",
+        "BIB318.12.1.5",
+        "BIB318.12.1.6"
       ],
       "citekey": "kitchen1977a",
       "container": null,
@@ -13973,9 +14242,9 @@
         "BIB318"
       ],
       "editor": null,
-      "place": "Downers Grove, IL",
-      "publisher": "InterVarsity Press",
-      "raw": "Kitchen, K. A. 1977. The Bible in Its World . Downers Grove, IL: InterVarsity Press.",
+      "place": null,
+      "publisher": "The Bible in Its World . InterVarsity Press",
+      "raw": "Kitchen, K. A. 1977. The Bible in Its World . InterVarsity Press.",
       "title": "The Bible in Its World",
       "url": null,
       "volume": null,
@@ -13992,20 +14261,20 @@
         "BIB318"
       ],
       "editor": null,
-      "place": "Downers Grove, IL",
-      "publisher": "InterVarsity",
-      "raw": "Kitchen, K. A. 1977. The Bible in Its World: The Bible and Archaeology Today . Downers Grove, IL: InterVarsity.",
+      "place": null,
+      "publisher": null,
+      "raw": "Kitchen, K. A. 1977. The Bible in Its World: The Bible and Archaeology Today . InterVarsity.",
       "title": "The Bible in Its World: The Bible and Archaeology Today",
       "url": null,
       "volume": null,
       "year": "1977"
     },
     {
-      "authors": "Kitchen, K. A——",
+      "authors": "Kitchen, K. A",
       "citation_count": 0,
       "cited_in": [],
       "citekey": "kitchen1995",
-      "container": null,
+      "container": "Biblical Archaeology Review",
       "course_count": 1,
       "courses": [
         "BIB318"
@@ -14013,11 +14282,36 @@
       "editor": null,
       "place": null,
       "publisher": null,
-      "raw": "Kitchen, K. A——. 1995. The Patriarchal Age: Myth or History? Biblical Archaeology Review 21 (March/April 1995): 45–57, 88, 90, 92, 94–95.",
-      "title": "Biblical Archaeology Review",
+      "raw": "Kitchen, K. A. 1995. “ The Patriarchal Age: Myth or History?” Biblical Archaeology Review 21 (March/April 1995): 45–57, 88, 90, 92, 94–95.",
+      "title": "The Patriarchal Age: Myth or History?",
       "url": null,
       "volume": null,
       "year": "1995"
+    },
+    {
+      "authors": "Kitchen, K. A",
+      "citation_count": 5,
+      "cited_in": [
+        "BIB318.8.1.1",
+        "BIB318.8.1.2",
+        "BIB318.8.1.3",
+        "BIB318.8.1.4",
+        "BIB318.8.1.5"
+      ],
+      "citekey": "kitchen2003",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB318"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": "William B. Eerdmans Publishing Company",
+      "raw": "Kitchen, K. A. 2003. On the Reliability of the Old Testament . William B. Eerdmans Publishing Company.",
+      "title": "On the Reliability of the Old Testament",
+      "url": null,
+      "volume": null,
+      "year": "2003"
     },
     {
       "authors": "Kittel, Gerhard, ed",
@@ -14259,10 +14553,10 @@
         "BIB318"
       ],
       "editor": null,
-      "place": "Grand Rapids",
-      "publisher": "Zondervan",
-      "raw": "Kohlenberger, John R., III, and James W. Swanson. 1998. The Hebrew English Concordance to the Old Testament with The New International Version . Grand Rapids: Zondervan.",
-      "title": "The Hebrew English Concordance to the Old Testament with The New International Version",
+      "place": null,
+      "publisher": null,
+      "raw": "Kohlenberger, John R., III, and James W. Swanson. 1998. The Hebrew English Concordance to the Old Testament with the New International Version . Zondervan.",
+      "title": "The Hebrew English Concordance to the Old Testament with the New International Version",
       "url": null,
       "volume": null,
       "year": "1998"
@@ -14487,6 +14781,25 @@
       "url": null,
       "volume": null,
       "year": "1987"
+    },
+    {
+      "authors": "Kuntz, J. Kenneth",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "kuntz1974",
+      "container": "Rhetorical Criticism: Essays in Honor of James Muilenburg",
+      "course_count": 1,
+      "courses": [
+        "BIB322"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": "Pickwick Press",
+      "raw": "Kuntz, J. Kenneth. 1974. “The Canonical Wisdom Psalms of Ancient Israel: Their Rhetorical, Thematic, and Formal Dimensions.” In Rhetorical Criticism: Essays in Honor of James Muilenburg . Edited by Jared J. Jackson and Martin Kessler, 186–222. Pickwick Press.",
+      "title": "The Canonical Wisdom Psalms of Ancient Israel: Their Rhetorical, Thematic, and Formal Dimensions",
+      "url": null,
+      "volume": null,
+      "year": "1974"
     },
     {
       "authors": "Kyota, A., et al",
@@ -15021,10 +15334,10 @@
       "courses": [
         "BIB322"
       ],
-      "editor": "St",
-      "place": "Louis",
-      "publisher": "MMB Music, Inc",
-      "raw": "Lerner, Arthur, ed. 1994. Poetry in the Therapeutic Experience . 2nd ed. St. Louis: MMB Music, Inc.",
+      "editor": "MMB Music, Inc",
+      "place": null,
+      "publisher": null,
+      "raw": "Lerner, Arthur, ed. 1994. Poetry in the Therapeutic Experience . 2nd ed. MMB Music, Inc.",
       "title": "Poetry in the Therapeutic Experience",
       "url": null,
       "volume": null,
@@ -15316,9 +15629,9 @@
         "BIB318"
       ],
       "editor": null,
-      "place": "Grand Rapids",
-      "publisher": "Baker",
-      "raw": "Livingston, G. Herbert. 1987. The Pentateuch in Its Cultural Environment . Grand Rapids: Baker.",
+      "place": null,
+      "publisher": null,
+      "raw": "Livingston, G. Herbert. 1987. The Pentateuch in Its Cultural Environment . Baker.",
       "title": "The Pentateuch in Its Cultural Environment",
       "url": null,
       "volume": null,
@@ -15444,10 +15757,11 @@
       ],
       "citekey": "longman1988",
       "container": null,
-      "course_count": 2,
+      "course_count": 3,
       "courses": [
         "BIB111",
-        "BIB214"
+        "BIB214",
+        "BIB322"
       ],
       "editor": null,
       "place": null,
@@ -15457,6 +15771,30 @@
       "url": null,
       "volume": null,
       "year": "1988"
+    },
+    {
+      "authors": "Longman, Tremper III",
+      "citation_count": 4,
+      "cited_in": [
+        "BIB322.8.2.1",
+        "BIB322.8.2.2",
+        "BIB322.8.2.3",
+        "BIB322.8.2.4"
+      ],
+      "citekey": "longman2001",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB322"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": "Song of Songs . William B. Eerdmans",
+      "raw": "Longman, Tremper III. 2001. Song of Songs . William B. Eerdmans.",
+      "title": "Song of Songs",
+      "url": null,
+      "volume": null,
+      "year": "2001"
     },
     {
       "authors": "Longman, Tremper, III",
@@ -15469,10 +15807,10 @@
         "BIB318"
       ],
       "editor": null,
-      "place": "Downers Grove, IL",
-      "publisher": "InterVarsity",
-      "raw": "Longman, Tremper, III. 2005. How To Read Genesis . Downers Grove, IL: InterVarsity.",
-      "title": "How To Read Genesis",
+      "place": null,
+      "publisher": null,
+      "raw": "Longman, Tremper, III. 2005. How to Read Genesis . InterVarsity.",
+      "title": "How to Read Genesis",
       "url": null,
       "volume": null,
       "year": "2005"
@@ -15499,42 +15837,96 @@
       "year": "2006"
     },
     {
-      "authors": "Longman III, Tremper",
-      "citation_count": 0,
-      "cited_in": [],
-      "citekey": "longmaniii1988",
-      "container": null,
+      "authors": "Longman, Tremper III",
+      "citation_count": 4,
+      "cited_in": [
+        "BIB322.5.2.1",
+        "BIB322.5.2.2",
+        "BIB322.5.2.3",
+        "BIB322.5.2.4"
+      ],
+      "citekey": "longman2006prove",
+      "container": "Baker Commentary on the Old Testament: Wisdom and Psalms . Baker",
       "course_count": 1,
       "courses": [
         "BIB322"
       ],
       "editor": null,
-      "place": "Downers Grove, IL",
-      "publisher": "InterVarsity Press",
-      "raw": "Longman III, Tremper. 1988. How to Read the Psalms. Downers Grove, IL: InterVarsity Press .",
-      "title": "How to Read the Psalms",
+      "place": null,
+      "publisher": null,
+      "raw": "Longman, Tremper III. 2006. “Proverbs.” Baker Commentary on the Old Testament: Wisdom and Psalms . Baker.",
+      "title": "Proverbs",
       "url": null,
       "volume": null,
-      "year": "1988"
+      "year": "2006"
     },
     {
-      "authors": "Longman III, Tremper——",
-      "citation_count": 0,
-      "cited_in": [],
-      "citekey": "longmaniii2001",
-      "container": null,
+      "authors": "Longman, Tremper III",
+      "citation_count": 3,
+      "cited_in": [
+        "BIB322.7.3.1",
+        "BIB322.7.3.2",
+        "BIB322.7.3.3"
+      ],
+      "citekey": "longman2008a",
+      "container": "Dictionary of the Old Testament: Wisdom, Poetry, and Writings",
       "course_count": 1,
       "courses": [
         "BIB322"
       ],
       "editor": null,
-      "place": "Grand Rapids, MI",
-      "publisher": "William B",
-      "raw": "Longman III, Tremper——. 2001. Song of Songs. Grand Rapids, MI: William B. Eerdmans.",
-      "title": "Song of Songs",
+      "place": null,
+      "publisher": "InterVarsity Press",
+      "raw": "Longman, Tremper III. 2008a. “Ecclesiastes 1: Book of.” In Dictionary of the Old Testament: Wisdom, Poetry, and Writings . Edited by Tremper Longman III and Peter Enns, 121–132. InterVarsity Press.",
+      "title": "Ecclesiastes 1: Book of",
       "url": null,
       "volume": null,
-      "year": "2001"
+      "year": "2008a"
+    },
+    {
+      "authors": "Longman, Tremper III",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "longman2008b",
+      "container": "Dictionary of the Old Testament: Wisdom, Poetry, and Writings",
+      "course_count": 1,
+      "courses": [
+        "BIB322"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": "InterVarsity Press",
+      "raw": "Longman, Tremper III. 2008b. “Ecclesiastes 3: History of Interpretation.” In Dictionary of the Old Testament: Wisdom, Poetry, and Writings . Edited by Tremper Longman III and Peter Enns, 140–149. InterVarsity Press.",
+      "title": "Ecclesiastes 3: History of Interpretation",
+      "url": null,
+      "volume": null,
+      "year": "2008b"
+    },
+    {
+      "authors": "Longman, Tremper III",
+      "citation_count": 6,
+      "cited_in": [
+        "BIB322.3.1.1",
+        "BIB322.3.1.2",
+        "BIB322.3.1.3",
+        "BIB322.3.2.1",
+        "BIB322.3.2.2",
+        "BIB322.3.2.3"
+      ],
+      "citekey": "longman2016",
+      "container": "Baker Commentary on the Old Testament: Wisdom and Psalms . Baker",
+      "course_count": 1,
+      "courses": [
+        "BIB322"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Longman, Tremper III. 2016. “Job.” Baker Commentary on the Old Testament: Wisdom and Psalms . Baker.",
+      "title": "Job",
+      "url": null,
+      "volume": null,
+      "year": "2016"
     },
     {
       "authors": "Loscalzo, Craig A",
@@ -15941,11 +16333,11 @@
       "courses": [
         "BIB318"
       ],
-      "editor": null,
-      "place": "Grand Rapids",
-      "publisher": "Baker",
-      "raw": "Martens, Elmer A. 1994. God’s Design: A Focus On Old Testament Theology . 2nd ed. Grand Rapids: Baker.",
-      "title": "God’s Design: A Focus On Old Testament Theology",
+      "editor": "Baker",
+      "place": null,
+      "publisher": null,
+      "raw": "Martens, Elmer A. 1994. God’s Design: A Focus on Old Testament Theology . 2nd ed. Baker.",
+      "title": "God’s Design: A Focus on Old Testament Theology",
       "url": null,
       "volume": null,
       "year": "1994"
@@ -16369,6 +16761,29 @@
       "url": null,
       "volume": null,
       "year": "2005"
+    },
+    {
+      "authors": "Mburu, Elizabeth",
+      "citation_count": 3,
+      "cited_in": [
+        "BIB322.1.2.1",
+        "BIB322.1.2.2",
+        "BIB322.1.2.3"
+      ],
+      "citekey": "mburu2019",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB322"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Mburu, Elizabeth. 2019. African Hermeneutics . Langham.",
+      "title": "African Hermeneutics",
+      "url": null,
+      "volume": null,
+      "year": "2019"
     },
     {
       "authors": "McDill, Wayne V",
@@ -16884,9 +17299,9 @@
         "BIB322"
       ],
       "editor": "Daniel Patte et al",
-      "place": "Nashville",
+      "place": null,
       "publisher": "Abingdon Press",
-      "raw": "Melanchthon, Monica J. 2004. “Song of Songs.” In Global Bible Commentary , ed. Daniel Patte et al. Nashville: Abingdon Press.",
+      "raw": "Melanchthon, Monica J. 2004. “Song of Songs.” In Global Bible Commentary , ed. Daniel Patte et al. Abingdon Press.",
       "title": "Song of Songs",
       "url": null,
       "volume": null,
@@ -16990,9 +17405,12 @@
       "year": "1971"
     },
     {
-      "authors": "Menzies, William, and Stanley M. Horton",
-      "citation_count": 42,
+      "authors": "Menzies, William W., and Stanley M. Horton",
+      "citation_count": 45,
       "cited_in": [
+        "MIN381.10.2.1",
+        "MIN381.10.2.2",
+        "MIN381.10.2.3",
         "THE118.1.1.1",
         "THE118.1.1.2",
         "THE118.1.3.1",
@@ -17038,38 +17456,35 @@
       ],
       "citekey": "menzies1993bible",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
+        "MIN381",
         "THE118"
       ],
       "editor": null,
-      "place": "Springfield, MO",
-      "publisher": "Logion Press",
-      "raw": "Menzies, William, and Stanley M. Horton. 1993. Bible Doctrines: A Pentecostal Perspective . Springfield, MO: Logion Press.",
-      "title": "Bible Doctrines: A Pentecostal Perspective",
+      "place": null,
+      "publisher": "Gospel Publishing House",
+      "raw": "Menzies, William W., and Stanley M. Horton. 1993. Bible Doctrines. Gospel Publishing House.",
+      "title": "Bible Doctrines",
       "url": null,
       "volume": null,
       "year": "1993"
     },
     {
       "authors": "Menzies, William, and Stanley M. Horton",
-      "citation_count": 7,
+      "citation_count": 4,
       "cited_in": [
         "BIB116.12.2.1",
         "BIB116.12.2.2",
         "BIB212.12.2.1",
-        "BIB212.12.2.2",
-        "MIN381.10.2.1",
-        "MIN381.10.2.2",
-        "MIN381.10.2.3"
+        "BIB212.12.2.2"
       ],
       "citekey": "menzies1993bibli",
       "container": null,
-      "course_count": 3,
+      "course_count": 2,
       "courses": [
         "BIB116",
-        "BIB212",
-        "MIN381"
+        "BIB212"
       ],
       "editor": null,
       "place": null,
@@ -17647,10 +18062,10 @@
       "courses": [
         "BIB322"
       ],
-      "editor": "Terry L. Cross and Emerson B. Powery",
-      "place": "Lanham, NY",
-      "publisher": "University Press of America",
-      "raw": "Moore, Rickie D. 2000. “Raw Prayer and Refined Theology: ‘You Have Not Spoken Straight to Me, as My Servant Job Has.’” In The Spirit and Mind , ed. Terry L. Cross and Emerson B. Powery. Lanham, NY: University Press of America.",
+      "editor": "Terry L. Cross and Emerson B. Powery. University Press of America",
+      "place": null,
+      "publisher": null,
+      "raw": "Moore, Rickie D. 2000. “Raw Prayer and Refined Theology: ‘You Have Not Spoken Straight to Me, as My Servant Job Has.’” In The Spirit and Mind , ed. Terry L. Cross and Emerson B. Powery. University Press of America.",
       "title": "Raw Prayer and Refined Theology: ‘You Have Not Spoken Straight to Me, as My Servant Job Has.’",
       "url": null,
       "volume": null,
@@ -18128,34 +18543,6 @@
       "year": "1994"
     },
     {
-      "authors": "Murphy, Roland E",
-      "citation_count": 8,
-      "cited_in": [
-        "BIB322.3.5.1",
-        "BIB322.3.5.2",
-        "BIB322.3.5.3",
-        "BIB322.6.2.1",
-        "BIB322.6.2.2",
-        "BIB322.6.2.3",
-        "BIB322.6.2.4",
-        "BIB322.6.2.5"
-      ],
-      "citekey": "murphy1990",
-      "container": null,
-      "course_count": 1,
-      "courses": [
-        "BIB322"
-      ],
-      "editor": null,
-      "place": "Grand Rapids, MI",
-      "publisher": "William B",
-      "raw": "Murphy, Roland E. 1990. The Tree of Life: An Exploration of Biblical Wisdom Literature . 2nd ed. Grand Rapids, MI: William B. Eerdmans.",
-      "title": "The Tree of Life: An Exploration of Biblical Wisdom Literature",
-      "url": null,
-      "volume": null,
-      "year": "1990"
-    },
-    {
       "authors": "Murphy-O’Conner, Jerome",
       "citation_count": 0,
       "cited_in": [],
@@ -18290,6 +18677,25 @@
       "url": null,
       "volume": null,
       "year": "1979"
+    },
+    {
+      "authors": "Needham, George W",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "needham1874",
+      "container": "The Jewish Tabernacle and Priests. Photo. N.p., p",
+      "course_count": 1,
+      "courses": [
+        "BIB318"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Needham, George W. 1874. “The Tabernacle in the Wilderness.” In The Jewish Tabernacle and Priests. Photo. N.p., p. 3.",
+      "title": "The Tabernacle in the Wilderness",
+      "url": null,
+      "volume": null,
+      "year": "1874"
     },
     {
       "authors": "Nelson, P. C",
@@ -18741,9 +19147,9 @@
         "BIB322"
       ],
       "editor": null,
-      "place": "Collegeville, MN",
-      "publisher": "The Liturgical Press",
-      "raw": "O’Connor, Kathleen M. 1993. The Wisdom Literature . Collegeville, MN: The Liturgical Press.",
+      "place": null,
+      "publisher": "The Wisdom Literature . The Liturgical Press",
+      "raw": "O’Connor, Kathleen M. 1993. The Wisdom Literature . The Liturgical Press.",
       "title": "The Wisdom Literature",
       "url": null,
       "volume": null,
@@ -18829,9 +19235,9 @@
         "BIB318"
       ],
       "editor": null,
-      "place": "Chico, CA",
+      "place": null,
       "publisher": "Scholars Press",
-      "raw": "Olson, Dennis T. 1985. The Death of the Old and the Birth of the New: The Framework of the Book of Numbers and the Pentateuch . Chico, CA: Scholars Press.",
+      "raw": "Olson, Dennis T. 1985. The Death of the Old and the Birth of the New: The Framework of the Book of Numbers and the Pentateuch . Scholars Press.",
       "title": "The Death of the Old and the Birth of the New: The Framework of the Book of Numbers and the Pentateuch",
       "url": null,
       "volume": null,
@@ -19051,9 +19457,9 @@
         "BIB322"
       ],
       "editor": null,
-      "place": "Downers Grove, IL",
+      "place": null,
       "publisher": "InterVarsity Press",
-      "raw": "Osborne, Grant. 1991. The Hermeneutics Spiral: A Comprehensive Introduction to Biblical Interpretation . Downers Grove, IL: InterVarsity Press.",
+      "raw": "Osborne, Grant. 1991. The Hermeneutics Spiral: A Comprehensive Introduction to Biblical Interpretation . InterVarsity Press.",
       "title": "The Hermeneutics Spiral: A Comprehensive Introduction to Biblical Interpretation",
       "url": null,
       "volume": null,
@@ -19099,6 +19505,31 @@
       "url": null,
       "volume": null,
       "year": "2023"
+    },
+    {
+      "authors": "Overland, Paul",
+      "citation_count": 5,
+      "cited_in": [
+        "BIB322.2.3.1",
+        "BIB322.2.3.2",
+        "BIB322.2.3.3",
+        "BIB322.2.3.4",
+        "BIB322.2.3.5"
+      ],
+      "citekey": "overland2018",
+      "container": "Behind the Scenes of the Old Testament: Cultural, Social, and Historical Contexts",
+      "course_count": 1,
+      "courses": [
+        "BIB322"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Overland, Paul. 2018. “Wisdom Traditions in Ancient Israel.” In Behind the Scenes of the Old Testament: Cultural, Social, and Historical Contexts . Edited by Jonathan S. Greer, John W. Hilber, and John H. Walton, 499–505. Baker.",
+      "title": "Wisdom Traditions in Ancient Israel",
+      "url": null,
+      "volume": null,
+      "year": "2018"
     },
     {
       "authors": "Packer, J.I",
@@ -19382,9 +19813,9 @@
         "BIB322"
       ],
       "editor": null,
-      "place": "Grand Rapids, MI",
-      "publisher": "Baker Book House",
-      "raw": "Payne, J. Barton. 1980. Encyclopedia of Biblical Prophecy . Grand Rapids, MI: Baker Book House.",
+      "place": null,
+      "publisher": "Encyclopedia of Biblical Prophecy . Baker Book House",
+      "raw": "Payne, J. Barton. 1980. Encyclopedia of Biblical Prophecy . Baker Book House.",
       "title": "Encyclopedia of Biblical Prophecy",
       "url": null,
       "volume": null,
@@ -19619,12 +20050,8 @@
     },
     {
       "authors": "Petersen, David L., and Kent Harold Richards",
-      "citation_count": 3,
-      "cited_in": [
-        "BIB322.1.2.1",
-        "BIB322.1.2.2",
-        "BIB322.1.2.3"
-      ],
+      "citation_count": 0,
+      "cited_in": [],
       "citekey": "petersen1992",
       "container": null,
       "course_count": 1,
@@ -19632,9 +20059,9 @@
         "BIB322"
       ],
       "editor": null,
-      "place": "Minneapolis",
-      "publisher": "Fortress Press",
-      "raw": "Petersen, David L., and Kent Harold Richards. 1992. Interpreting Hebrew Poetry . Minneapolis: Fortress Press.",
+      "place": null,
+      "publisher": "Interpreting Hebrew Poetry . Fortress Press",
+      "raw": "Petersen, David L., and Kent Harold Richards. 1992. Interpreting Hebrew Poetry . Fortress Press.",
       "title": "Interpreting Hebrew Poetry",
       "url": null,
       "volume": null,
@@ -19871,9 +20298,9 @@
         "BIB322"
       ],
       "editor": null,
-      "place": "Maryknoll, NY",
+      "place": null,
       "publisher": "Orbis Books",
-      "raw": "Pleins, J. David. 1993. The Psalms: Songs of Tragedy, Hope, and Justice. Maryknoll, NY: Orbis Books.",
+      "raw": "Pleins, J. David. 1993. The Psalms: Songs of Tragedy, Hope, and Justice . Orbis Books.",
       "title": "The Psalms: Songs of Tragedy, Hope, and Justice",
       "url": null,
       "volume": null,
@@ -20903,9 +21330,9 @@
         "BIB322"
       ],
       "editor": null,
-      "place": "Springfield, MO",
+      "place": null,
       "publisher": "Gospel Publishing House",
-      "raw": "Rogers, Brian. 2003. Exploring the Psalms: A Study Guide. Springfield, MO: Gospel Publishing House.",
+      "raw": "Rogers, Brian. 2003. Exploring the Psalms: A Study Guide . Gospel Publishing House.",
       "title": "Exploring the Psalms: A Study Guide",
       "url": null,
       "volume": null,
@@ -20997,9 +21424,9 @@
         "BIB318"
       ],
       "editor": null,
-      "place": "Grand Rapids",
-      "publisher": "Baker",
-      "raw": "Ross, Allen P. 1998. Creation and Blessing: A Guide to the Study and Exposition of Genesis . Grand Rapids: Baker.",
+      "place": null,
+      "publisher": null,
+      "raw": "Ross, Allen P. 1998. Creation and Blessing: A Guide to the Study and Exposition of Genesis . Baker.",
       "title": "Creation and Blessing: A Guide to the Study and Exposition of Genesis",
       "url": null,
       "volume": null,
@@ -21016,16 +21443,16 @@
         "BIB318"
       ],
       "editor": null,
-      "place": "Colorado Springs",
+      "place": null,
       "publisher": "NavPress",
-      "raw": "Ross, Hugh. 2001. The Genesis Question , 2nd. ed. Colorado Springs: NavPress.",
+      "raw": "Ross, Hugh. 2001. The Genesis Question , 2nd. ed. NavPress.",
       "title": "The Genesis Question",
       "url": null,
       "volume": null,
       "year": "2001"
     },
     {
-      "authors": "Ross, Allen P——",
+      "authors": "Ross, Allen P",
       "citation_count": 0,
       "cited_in": [],
       "citekey": "ross2002",
@@ -21035,9 +21462,9 @@
         "BIB318"
       ],
       "editor": null,
-      "place": "Grand Rapids",
-      "publisher": "Baker",
-      "raw": "Ross, Allen P——. 2002. Holiness to the Lord: A Guide to the Exposition of the Book of Leviticus . Grand Rapids: Baker.",
+      "place": null,
+      "publisher": null,
+      "raw": "Ross, Allen P. 2002. Holiness to the Lord: A Guide to the Exposition of the Book of Leviticus . Baker.",
       "title": "Holiness to the Lord: A Guide to the Exposition of the Book of Leviticus",
       "url": null,
       "volume": null,
@@ -21346,7 +21773,7 @@
       "year": "1994"
     },
     {
-      "authors": "Ryken, Leland, James C. Wilhoit, and Tremper Longmen III, eds",
+      "authors": "Ryken, Leland, James C. Wilhoit, and Tremper Longman III, eds",
       "citation_count": 0,
       "cited_in": [],
       "citekey": "ryken1998",
@@ -21356,9 +21783,9 @@
         "BIB318"
       ],
       "editor": null,
-      "place": "Downers Grove, IL",
-      "publisher": "InterVarsity",
-      "raw": "Ryken, Leland, James C. Wilhoit, and Tremper Longmen III, eds. 1998. Dictionary of Biblical Imagery . Downers Grove, IL: InterVarsity.",
+      "place": null,
+      "publisher": null,
+      "raw": "Ryken, Leland, James C. Wilhoit, and Tremper Longman III, eds. 1998. Dictionary of Biblical Imagery . InterVarsity.",
       "title": "Dictionary of Biblical Imagery",
       "url": null,
       "volume": null,
@@ -21621,9 +22048,9 @@
         "BIB318"
       ],
       "editor": null,
-      "place": "Grand Rapids",
-      "publisher": "Zondervan",
-      "raw": "Schnittjer, Gary Edward. 2006. The Torah Story . Grand Rapids: Zondervan.",
+      "place": null,
+      "publisher": "The Torah Story . Zondervan",
+      "raw": "Schnittjer, Gary Edward. 2006. The Torah Story . Zondervan.",
       "title": "The Torah Story",
       "url": null,
       "volume": null,
@@ -21694,6 +22121,30 @@
       "url": null,
       "volume": null,
       "year": "2004"
+    },
+    {
+      "authors": "Schwab, George",
+      "citation_count": 4,
+      "cited_in": [
+        "BIB322.8.1.1",
+        "BIB322.8.1.2",
+        "BIB322.8.1.3",
+        "BIB322.8.1.4"
+      ],
+      "citekey": "schwab2008",
+      "container": "Dictionary of the Old Testament: Wisdom, Poetry, and Writings",
+      "course_count": 1,
+      "courses": [
+        "BIB322"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": "InterVarsity Press",
+      "raw": "Schwab, George. 2008. “Song of Songs 1: Book of.” In Dictionary of the Old Testament: Wisdom, Poetry, and Writings . Edited by Tremper Longman III and Peter Enns, 737–750. InterVarsity Press.",
+      "title": "Song of Songs 1: Book of",
+      "url": null,
+      "volume": null,
+      "year": "2008"
     },
     {
       "authors": "Schwarz, Christian A",
@@ -21899,7 +22350,7 @@
       "editor": null,
       "place": null,
       "publisher": null,
-      "raw": "Seitz, Christopher R. 1989. “Job: Full-Structure, Movement, and Interpretation.” Interpretation: A Journal of Bible and Theology 43.",
+      "raw": "Seitz, Christopher R. 1989. “Job: Full-Structure, Movement, and Interpretation.” Interpretation: A Journal of Bible and Theology, 43.",
       "title": "Job: Full-Structure, Movement, and Interpretation",
       "url": null,
       "volume": null,
@@ -22479,10 +22930,9 @@
       ],
       "citekey": "stamps1992",
       "container": null,
-      "course_count": 3,
+      "course_count": 2,
       "courses": [
         "BIB214",
-        "BIB322",
         "MIN281"
       ],
       "editor": null,
@@ -22523,7 +22973,7 @@
       "year": "1992"
     },
     {
-      "authors": "Stamps, Donald, ed",
+      "authors": "Stamps, Donald C., and J. Wesley Adams, eds",
       "citation_count": 10,
       "cited_in": [
         "THE118.2.3.1",
@@ -22539,14 +22989,15 @@
       ],
       "citekey": "stamps1992b",
       "container": null,
-      "course_count": 1,
+      "course_count": 2,
       "courses": [
+        "BIB322",
         "THE118"
       ],
       "editor": null,
-      "place": "Grand Rapids, MI",
-      "publisher": "Zondervan Publishing House",
-      "raw": "Stamps, Donald, ed. 1992. The Full Life Study Bible . Grand Rapids, MI: Zondervan Publishing House.",
+      "place": null,
+      "publisher": "The Full Life Study Bible . Zondervan Publishing",
+      "raw": "Stamps, Donald C., and J. Wesley Adams, eds. 1992. The Full Life Study Bible . Zondervan Publishing.",
       "title": "The Full Life Study Bible",
       "url": null,
       "volume": null,
@@ -22627,10 +23078,10 @@
       "courses": [
         "BIB322"
       ],
-      "editor": "Rev",
-      "place": "Louisville",
+      "editor": null,
+      "place": null,
       "publisher": "Westminster John Knox Press",
-      "raw": "Stein, Robert H. 1994. The Method and Message of Jesus’ Teachings . Rev. ed. Louisville: Westminster John Knox Press.",
+      "raw": "Stein, Robert H. 1994. The Method and Message of Jesus’ Teachings . Rev. ed. Westminster John Knox Press.",
       "title": "The Method and Message of Jesus’ Teachings",
       "url": null,
       "volume": null,
@@ -23117,9 +23568,9 @@
         "BIB322"
       ],
       "editor": null,
-      "place": "Waco, TX",
+      "place": null,
       "publisher": "Word Books",
-      "raw": "Swindoll, Charles R. 1985. Living on the Ragged Edge: Coming to Terms with Reality . Waco, TX: Word Books.",
+      "raw": "Swindoll, Charles R. 1985. Living on the Ragged Edge: Coming to Terms with Reality . Word Books.",
       "title": "Living on the Ragged Edge: Coming to Terms with Reality",
       "url": null,
       "volume": null,
@@ -23484,11 +23935,11 @@
       "courses": [
         "BIB322"
       ],
-      "editor": "George Arthur Buttrick, et al",
-      "place": "New York",
-      "publisher": "Abingdon-Cokesbury Press",
-      "raw": "Terrian, Samuel. 1957. The Book of Job . Vol. 3, Interpreter’s Bible , ed. George Arthur Buttrick, et al. New York: Abingdon-Cokesbury Press.",
-      "title": "The Book of Job",
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Terrian, Samuel. 1957. The Book of Job. Vol. 3, Interpreter’s Bible , ed. George Arthur Buttrick, et al. Abingdon-Cokesbury Press.",
+      "title": "Interpreter’s Bible",
       "url": null,
       "volume": "3",
       "year": "1957"
@@ -23949,9 +24400,9 @@
         "BIB318"
       ],
       "editor": null,
-      "place": "Downers Grove, IL",
-      "publisher": "InterVarsity",
-      "raw": "Thompson, J. A. 1974. Deuteronomy: An Introduction and Commentary . Tyndale Old Testament Commentaries. Downers Grove, IL: InterVarsity.",
+      "place": null,
+      "publisher": null,
+      "raw": "Thompson, J. A. 1974. Deuteronomy: An Introduction and Commentary . Tyndale Old Testament Commentaries . InterVarsity.",
       "title": "Deuteronomy: An Introduction and Commentary",
       "url": null,
       "volume": null,
@@ -24239,6 +24690,25 @@
       "year": "2017"
     },
     {
+      "authors": "Tucker, W. Dennis Jr. and W. H. Bellinger Jr., eds",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "tucker2017",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB322"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": "Baylor University Press",
+      "raw": "Tucker, W. Dennis Jr. and W. H. Bellinger Jr., eds. 2017. The Psalter as Witness: Theology, Poetry, and Genre . Baylor University Press.",
+      "title": "The Psalter as Witness: Theology, Poetry, and Genre",
+      "url": null,
+      "volume": null,
+      "year": "2017"
+    },
+    {
       "authors": "Turkle, Sherry",
       "citation_count": 0,
       "cited_in": [],
@@ -24409,13 +24879,36 @@
         "BIB318"
       ],
       "editor": null,
-      "place": "Grand Rapids",
-      "publisher": "Zondervan",
-      "raw": "VanGemeren, Willem A., ed. 1997. New International Dictionary of Old Testament Theology and Exegesis . 5 Vols. Grand Rapids: Zondervan.",
+      "place": null,
+      "publisher": null,
+      "raw": "VanGemeren, Willem A., ed. 1997. New International Dictionary of Old Testament Theology and Exegesis . 5 Vols. Zondervan.",
       "title": "New International Dictionary of Old Testament Theology and Exegesis",
       "url": null,
       "volume": null,
       "year": "1997"
+    },
+    {
+      "authors": "VanGemeren, Willem A",
+      "citation_count": 3,
+      "cited_in": [
+        "BIB322.4.2.1",
+        "BIB322.4.2.2",
+        "BIB322.4.2.3"
+      ],
+      "citekey": "vangemeren2008",
+      "container": "Psalms. The Expositor’s Bible Commentary 5",
+      "course_count": 1,
+      "courses": [
+        "BIB322"
+      ],
+      "editor": "Edited by Tremper Longman III and David E. Garland",
+      "place": null,
+      "publisher": "Zondervan",
+      "raw": "VanGemeren, Willem A. 2008. “Psalms.” In Psalms. The Expositor’s Bible Commentary 5 . Rev. ed. Edited by Tremper Longman III and David E. Garland. Zondervan.",
+      "title": "Psalms",
+      "url": null,
+      "volume": null,
+      "year": "2008"
     },
     {
       "authors": "Van Groningen, Gerard",
@@ -24830,16 +25323,54 @@
         "BIB318"
       ],
       "editor": null,
-      "place": "Grand Rapids",
-      "publisher": "Zondervan",
-      "raw": "Waltke, Bruce K. and Cathi Fredricks. 2001. Genesis: A Commentary . Grand Rapids: Zondervan.",
+      "place": null,
+      "publisher": null,
+      "raw": "Waltke, Bruce K. and Cathi Fredricks. 2001. Genesis: A Commentary . Zondervan.",
       "title": "Genesis: A Commentary",
       "url": null,
       "volume": null,
       "year": "2001"
     },
     {
-      "authors": "Walton, John H—— and Victor H. Matthews",
+      "authors": "Waltke, Bruce K",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "waltke2004",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB322"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": "New International Commentary on the Old Testament . Eerdmans",
+      "raw": "Waltke, Bruce K. 2004. The Book of Proverbs Chapters 1–15. New International Commentary on the Old Testament . Eerdmans.",
+      "title": "The Book of Proverbs Chapters 1–15. New International Commentary on the Old Testament",
+      "url": null,
+      "volume": null,
+      "year": "2004"
+    },
+    {
+      "authors": "Waltke, Bruce K",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "waltke2005",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB322"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": "New International Commentary on the Old Testament . Eerdmans",
+      "raw": "Waltke, Bruce K. 2005. The Book of Proverbs Chapters 15–31. New International Commentary on the Old Testament . Eerdmans.",
+      "title": "The Book of Proverbs Chapters 15–31. New International Commentary on the Old Testament",
+      "url": null,
+      "volume": null,
+      "year": "2005"
+    },
+    {
+      "authors": "Walton, John H. and Victor H. Matthews",
       "citation_count": 0,
       "cited_in": [],
       "citekey": "walton1997",
@@ -24849,10 +25380,10 @@
         "BIB318"
       ],
       "editor": null,
-      "place": "Downers Grove, IL",
-      "publisher": "InterVarsity",
-      "raw": "Walton, John H—— and Victor H. Matthews. 1997. The IVP Background Commentary: Genesis-Deuteronomy . Downers Grove, IL: InterVarsity.",
-      "title": "The IVP Background Commentary: Genesis-Deuteronomy",
+      "place": null,
+      "publisher": null,
+      "raw": "Walton, John H. and Victor H. Matthews. 1997. The IVP Background Commentary: Genesis–Deuteronomy . InterVarsity.",
+      "title": "The IVP Background Commentary: Genesis–Deuteronomy",
       "url": null,
       "volume": null,
       "year": "1997"
@@ -24868,9 +25399,9 @@
         "BIB318"
       ],
       "editor": null,
-      "place": "Grand Rapids, MI",
-      "publisher": "Zondervan",
-      "raw": "Walton, John H. 2001. Genesis . New International Version Application Commentary. Grand Rapids, MI: Zondervan.",
+      "place": null,
+      "publisher": "New International Version Application Commentary . Zondervan",
+      "raw": "Walton, John H. 2001. Genesis . New International Version Application Commentary . Zondervan.",
       "title": "Genesis",
       "url": null,
       "volume": null,
@@ -24892,16 +25423,16 @@
         "BIB318"
       ],
       "editor": null,
-      "place": "Grand Rapids",
-      "publisher": "Zondervan",
-      "raw": "Walton, John H. 2001. Genesis: From Biblical Text . . . to Contemporary Life . The New International Version Application Commentary. Grand Rapids: Zondervan.",
+      "place": null,
+      "publisher": "The New International Version Application Commentary . Zondervan",
+      "raw": "Walton, John H. 2001. Genesis: From Biblical Text . . . to Contemporary Life. The New International Version Application Commentary . Zondervan.",
       "title": "Genesis: From Biblical Text . . . to Contemporary Life",
       "url": null,
       "volume": null,
       "year": "2001"
     },
     {
-      "authors": "Walton, John H—— and Victor H. Matthews—— and Andrew E. Hill",
+      "authors": "Walton, John H. and Andrew E. Hill",
       "citation_count": 0,
       "cited_in": [],
       "citekey": "walton2004",
@@ -24911,13 +25442,70 @@
         "BIB318"
       ],
       "editor": null,
-      "place": "Grand Rapids",
-      "publisher": "Zondervan",
-      "raw": "Walton, John H—— and Victor H. Matthews—— and Andrew E. Hill. 2004. The Old Testament Today . Grand Rapids: Zondervan.",
+      "place": null,
+      "publisher": "The Old Testament Today . Zondervan",
+      "raw": "Walton, John H. and Andrew E. Hill. 2004. The Old Testament Today . Zondervan.",
       "title": "The Old Testament Today",
       "url": null,
       "volume": null,
       "year": "2004"
+    },
+    {
+      "authors": "Walton, John H",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "walton2006",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB322"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Walton, John H. 2006. Ancient Near Eastern Thought and the Old Testament: Introducing the Conceptual World of the Hebrew Bible . Baker.",
+      "title": "Ancient Near Eastern Thought and the Old Testament: Introducing the Conceptual World of the Hebrew Bible",
+      "url": null,
+      "volume": null,
+      "year": "2006"
+    },
+    {
+      "authors": "Walton, John H., ed",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "walton2009",
+      "container": "Zondervan Illustrated Bible Backgrounds Commentary . Zondervan",
+      "course_count": 1,
+      "courses": [
+        "BIB322"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Walton, John H., ed. 2009. “The Minor Prophets, Job, Psalms, Proverbs, Ecclesiastes, Song of Songs.” Zondervan Illustrated Bible Backgrounds Commentary . Zondervan.",
+      "title": "The Minor Prophets, Job, Psalms, Proverbs, Ecclesiastes, Song of Songs",
+      "url": null,
+      "volume": null,
+      "year": "2009"
+    },
+    {
+      "authors": "Walton, John H. and Andrew E. Hill",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "walton2013",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB322"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Walton, John H. and Andrew E. Hill. 2013. Old Testament Today: A Journey from Ancient Context to Contemporary Relevance . 2nd edition. Zondervan.",
+      "title": "Old Testament Today: A Journey from Ancient Context to Contemporary Relevance",
+      "url": null,
+      "volume": null,
+      "year": "2013"
     },
     {
       "authors": "Walvoord, John F",
@@ -25373,13 +25961,51 @@
         "BIB318"
       ],
       "editor": null,
-      "place": "Grand Rapids",
-      "publisher": "Eerdmans",
-      "raw": "Wenham, Gordon J. 1979. The Book of Leviticus . New International Commentary on the Old Testament. Grand Rapids: Eerdmans.",
+      "place": null,
+      "publisher": "New International Commentary on the Old Testament . Eerdmans",
+      "raw": "Wenham, Gordon J. 1979. The Book of Leviticus . New International Commentary on the Old Testament . Eerdmans.",
       "title": "The Book of Leviticus",
       "url": null,
       "volume": null,
       "year": "1979"
+    },
+    {
+      "authors": "Wenham, Gordon J",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "wenham1985a",
+      "container": "Themelios",
+      "course_count": 1,
+      "courses": [
+        "BIB318"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Wenham, Gordon J. 1985a. “ The Date of Deuteronomy: Linch-Pin of Old Testament Criticism, Part 1 .” Themelios 10.3 (April). 15–20.",
+      "title": "The Date of Deuteronomy: Linch-Pin of Old Testament Criticism, Part 1",
+      "url": null,
+      "volume": null,
+      "year": "1985a"
+    },
+    {
+      "authors": "Wenham, Gordon J",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "wenham1985b",
+      "container": "Themelios",
+      "course_count": 1,
+      "courses": [
+        "BIB318"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Wenham, Gordon J. 1985b. “ The Date of Deuteronomy: Linch-Pin of Old Testament Criticism, Part 2 .” Themelios 11.1 (September). 15–18.",
+      "title": "The Date of Deuteronomy: Linch-Pin of Old Testament Criticism, Part 2",
+      "url": null,
+      "volume": null,
+      "year": "1985b"
     },
     {
       "authors": "Wenham, Gordon J",
@@ -25395,58 +26021,20 @@
         "BIB318.10.4.4",
         "BIB318.10.4.5"
       ],
-      "citekey": "wenham1981",
+      "citekey": "wenham2008",
       "container": null,
       "course_count": 1,
       "courses": [
         "BIB318"
       ],
-      "editor": "D. J. Wiseman",
-      "place": "Downers Grove, IL",
+      "editor": null,
+      "place": null,
       "publisher": "InterVarsity Press",
-      "raw": "Wenham, Gordon J. 1981. Numbers: An Introduction and Commentary . Tyndale Old Testament Commentaries, D. J. Wiseman, ed. Downers Grove, IL: InterVarsity Press.",
+      "raw": "Wenham, Gordon J. 2008. Numbers: An Introduction and Commentary . Vol. 4. Tyndale Old Testament Commentaries. D. J. Wiseman, ed. InterVarsity Press.",
       "title": "Numbers: An Introduction and Commentary",
       "url": null,
-      "volume": null,
-      "year": "1981"
-    },
-    {
-      "authors": "Wenham, Gordon J——",
-      "citation_count": 0,
-      "cited_in": [],
-      "citekey": "wenham1985a",
-      "container": null,
-      "course_count": 1,
-      "courses": [
-        "BIB318"
-      ],
-      "editor": null,
-      "place": null,
-      "publisher": null,
-      "raw": "Wenham, Gordon J——. 1985a. The Date of Deuteronomy: Linch-Pin of Old Testament Criticism, Part 1 . Themelios 10.3 (April). 15–20.",
-      "title": "The Date of Deuteronomy: Linch-Pin of Old Testament Criticism, Part 1",
-      "url": null,
-      "volume": null,
-      "year": "1985a"
-    },
-    {
-      "authors": "Wenham, Gordon J————",
-      "citation_count": 0,
-      "cited_in": [],
-      "citekey": "wenham1985b",
-      "container": null,
-      "course_count": 1,
-      "courses": [
-        "BIB318"
-      ],
-      "editor": null,
-      "place": null,
-      "publisher": null,
-      "raw": "Wenham, Gordon J————. 1985b. The Date of Deuteronomy: Linch-Pin of Old Testament Criticism, Part 2 . Themelios 11.1 (September). 15–18.",
-      "title": "The Date of Deuteronomy: Linch-Pin of Old Testament Criticism, Part 2",
-      "url": null,
-      "volume": null,
-      "year": "1985b"
+      "volume": "4",
+      "year": "2008"
     },
     {
       "authors": "Wesley, John",
@@ -25515,12 +26103,8 @@
     },
     {
       "authors": "Westermann, Claus",
-      "citation_count": 3,
-      "cited_in": [
-        "BIB322.3.4.1",
-        "BIB322.3.4.2",
-        "BIB322.3.4.3"
-      ],
+      "citation_count": 0,
+      "cited_in": [],
       "citekey": "westermann1981",
       "container": null,
       "course_count": 1,
@@ -25528,9 +26112,9 @@
         "BIB322"
       ],
       "editor": null,
-      "place": "Minneapolis",
+      "place": null,
       "publisher": "Fortress Press",
-      "raw": "Westermann, Claus. 1981. The Structure of the Book of Job: A Form-Critical Analysis . Minneapolis: Fortress Press.",
+      "raw": "Westermann, Claus. 1981. The Structure of the Book of Job: A Form-Critical Analysis . Fortress Press.",
       "title": "The Structure of the Book of Job: A Form-Critical Analysis",
       "url": null,
       "volume": null,
@@ -25711,9 +26295,9 @@
         "BIB318"
       ],
       "editor": null,
-      "place": "Peabody, MA",
+      "place": null,
       "publisher": "Hendrickson Publishers",
-      "raw": "Wigram, George. 1984. The New Englishman’s Hebrew Concordance: Coded to Strong’s Concordance Numbering System . Peabody, MA: Hendrickson Publishers.",
+      "raw": "Wigram, George. 1984. The New Englishman’s Hebrew Concordance: Coded to Strong’s Concordance Numbering System . Hendrickson Publishers.",
       "title": "The New Englishman’s Hebrew Concordance: Coded to Strong’s Concordance Numbering System",
       "url": null,
       "volume": null,
@@ -25798,25 +26382,6 @@
       "year": "2000"
     },
     {
-      "authors": "Williams, William C., ed",
-      "citation_count": 0,
-      "cited_in": [],
-      "citekey": "williams2003",
-      "container": null,
-      "course_count": 1,
-      "courses": [
-        "BIB318"
-      ],
-      "editor": null,
-      "place": "Springfield, MO",
-      "publisher": "Logion Press/Gospel Publishing House",
-      "raw": "Williams, William C., ed. 2003. They Spoke From God: A Survey of Old Testament . Springfield, MO: Logion Press/Gospel Publishing House.",
-      "title": "They Spoke From God: A Survey of Old Testament",
-      "url": null,
-      "volume": null,
-      "year": "2003"
-    },
-    {
       "authors": "Williams, William C., ed——",
       "citation_count": 0,
       "cited_in": [],
@@ -25891,6 +26456,25 @@
       "url": null,
       "volume": null,
       "year": "2003a"
+    },
+    {
+      "authors": "Williams, William C., ed",
+      "citation_count": 0,
+      "cited_in": [],
+      "citekey": "williams2003they",
+      "container": null,
+      "course_count": 1,
+      "courses": [
+        "BIB318"
+      ],
+      "editor": null,
+      "place": null,
+      "publisher": null,
+      "raw": "Williams, William C., ed. 2003. They Spoke from God: A Survey of the Old Testament . Logion Press/Gospel Publishing House.",
+      "title": "They Spoke from God: A Survey of the Old Testament",
+      "url": null,
+      "volume": null,
+      "year": "2003"
     },
     {
       "authors": "Wilson, Grady",
@@ -26748,9 +27332,9 @@
         "BIB318"
       ],
       "editor": null,
-      "place": "Peabody, MA",
-      "publisher": "Hendrickson",
-      "raw": "Wright, Christopher J. H. 1996. Deuteronomy . Peabody, MA: Hendrickson.",
+      "place": null,
+      "publisher": null,
+      "raw": "Wright, Christopher J. H. 1996. Deuteronomy . Hendrickson.",
       "title": "Deuteronomy",
       "url": null,
       "volume": null,
@@ -26767,9 +27351,9 @@
         "BIB318"
       ],
       "editor": null,
-      "place": "Downers Grove, IL",
-      "publisher": "InterVarsity, 1996",
-      "raw": "Wright, Christopher J. H. 1996. Walking in the Ways of the Lord: The Ethical Authority of the Old Testament . Downers Grove, IL: InterVarsity, 1996.",
+      "place": null,
+      "publisher": null,
+      "raw": "Wright, Christopher J. H. 1996. Walking in the Ways of the Lord: The Ethical Authority of the Old Testament . InterVarsity.",
       "title": "Walking in the Ways of the Lord: The Ethical Authority of the Old Testament",
       "url": null,
       "volume": null,
