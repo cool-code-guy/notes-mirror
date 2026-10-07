@@ -14,7 +14,7 @@ Active content only — retired material is excluded from every figure.
 | --- | --- |
 | Active courses | 49 |
 | Retired courses | 9 |
-| Assessment items | 13,746 |
+| Assessment items | 13,710 |
 | Curriculum paragraphs | 112,746 |
 | Interactive study questions | 10,590 |
 | Scripture references | 41,098 |
@@ -70,7 +70,7 @@ Published sequence toward Ordained Minister credentialing.
 | 2 | [MIN327](courses/MIN327.md) — Church Administration, Finance, and Law · proposed renumber to `MIN329` | 3 | 343 |
 | 3 | [BIB313](courses/BIB313.md) — The Corinthian Correspondence | 3 | 304 |
 | 4 | [MIN325](courses/MIN325.md) — Preaching in the Contemporary World | 3 | 296 |
-| 5 | [BIB318](courses/BIB318.md) — The Pentateuch | 3 | 396 |
+| 5 | [BIB318](courses/BIB318.md) — The Pentateuch | 3 | 360 |
 | 6 | [BIB322](courses/BIB322.md) — The Poetic Books | 3 | 276 |
 | 7 | [MIN381](courses/MIN381.md) — Pastoral Ministry | 3 | 380 |
 | 8 | [THE311](courses/THE311.md) — Prayer and Worship | 3 | 295 |
@@ -98,7 +98,7 @@ Published sequence toward Ordained Minister credentialing.
 | [BIB217](courses/BIB217.md) | Prison Epistles | 2 | 01.26.01 | 13 | 40 | 306 |
 | [BIB313](courses/BIB313.md) | Corinthian Correspondence | 3 | 03.26.01 | 11 | 29 | 304 |
 | [BIB313S](courses/BIB313S.md) | Las epístolas a los corintios |  | 02.14.01 | 11 | 29 | 210 |
-| [BIB318](courses/BIB318.md) | Pentateuch | 3 | 03.26.01 | 13 | 36 | 396 |
+| [BIB318](courses/BIB318.md) | Pentateuch | 3 | 03.26.01 | 13 | 36 | 360 |
 | [BIB318S](courses/BIB318S.md) | El Pentateuco |  | 02.14.01 | 13 | 36 | 230 |
 | [BIB322](courses/BIB322.md) | The Poetic Books | 3 | 03.26.01 | 8 | 27 | 276 |
 | [BIB322S](courses/BIB322S.md) | Los Libros Poéticos |  | 02.14.02 | 8 | 27 | 155 |

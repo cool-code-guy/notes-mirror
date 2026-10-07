@@ -14097,10 +14097,10 @@
         "bibliography_entries": 50,
         "chapters": 13,
         "lessons": 36,
-        "questions_active": 396,
+        "questions_active": 360,
         "questions_final": 100,
-        "questions_ty": 151,
-        "questions_upe": 145,
+        "questions_ty": 132,
+        "questions_upe": 128,
         "subobjectives": 123
       },
       "course_objectives": [
@@ -14115,7 +14115,7 @@
       "last_modified": "2026-05-22",
       "level": 3,
       "pending_renumber": null,
-      "print_history_count": 0,
+      "print_history_count": 1,
       "replaced_by": null,
       "revision_cycle_progress": 3.0,
       "revision_cycle_timestamp": "2026-10-06",
@@ -37110,15 +37110,15 @@
     "questions": {
       "active": {
         "final": 2763,
-        "total": 13746,
-        "ty": 6372,
-        "upe": 4611
+        "total": 13710,
+        "ty": 6353,
+        "upe": 4594
       },
       "retired": {
         "final": 579,
-        "total": 4109,
-        "ty": 2044,
-        "upe": 1486
+        "total": 4145,
+        "ty": 2063,
+        "upe": 1503
       },
       "total": 17855
     }
