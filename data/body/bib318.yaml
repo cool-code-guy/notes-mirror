@@ -4356,6 +4356,8 @@ courses:
           D: reveals two views, one giving a broad, sequential overview and the other
             a detailed, topical focus on humans.
         answer: D
+        print_position: 2
+        unit: 1
       - uid: BIB318.1.1.2.TY.1
         subobj: 1.1.2
         type: ty
@@ -4366,6 +4368,7 @@ courses:
           C: God, Adam, Melchizedek, and Esau.
           D: Satan, Eve, and the Son of God.
         answer: A
+        print_position: 2
       - uid: BIB318.1.1.3.TY.1
         subobj: 1.1.3
         type: ty
@@ -4376,6 +4379,7 @@ courses:
           C: God’s plan for our salvation through His chosen people.
           D: the history of Egypt and its victories over Middle Eastern nations.
         answer: C
+        print_position: 3
       - uid: BIB318.1.2.1.TY.1
         subobj: 1.2.1
         type: ty
@@ -4387,6 +4391,7 @@ courses:
           C: Hezekiah.
           D: Abraham.
         answer: D
+        print_position: 1
       - uid: BIB318.1.2.1.TY.2
         subobj: 1.2.1
         type: ty
@@ -4397,6 +4402,7 @@ courses:
           C: supports the belief that God is the ultimate Creator of the universe.
           D: suggests that the Bible supports scientific theory and research.
         answer: A
+        print_position: 4
       - uid: BIB318.1.2.2.UPE.1
         subobj: 1.2.2
         type: upe
@@ -4407,6 +4413,8 @@ courses:
           C: “giving a spiritual experience.”
           D: “choosing to honor family above others.”
         answer: A
+        print_position: 1
+        unit: 1
       - uid: BIB318.1.2.2.TY.1
         subobj: 1.2.2
         type: ty
@@ -4417,6 +4425,7 @@ courses:
           C: “sharing a spiritual experience with others.”
           D: “enabling to prosper and fulfill God’s purpose.”
         answer: D
+        print_position: 5
       - uid: BIB318.1.2.3.TY.1
         subobj: 1.2.3
         type: ty
@@ -4427,6 +4436,7 @@ courses:
           C: a pattern for worshiping on Saturdays.
           D: an end to the creation story.
         answer: A
+        print_position: 6
       - uid: BIB318.1.3.1.TY.1
         subobj: 1.3.1
         type: ty
@@ -4437,6 +4447,7 @@ courses:
           C: the sun.
           D: land.
         answer: B
+        print_position: 7
       - uid: BIB318.1.3.2.UPE.1
         subobj: 1.3.2
         type: upe
@@ -4447,6 +4458,8 @@ courses:
           C: a God-shaped place in the human spirit.
           D: the ability to be perfect.
         answer: B
+        print_position: 3
+        unit: 1
       - uid: BIB318.1.3.2.TY.1
         subobj: 1.3.2
         type: ty
@@ -4457,6 +4470,7 @@ courses:
           C: an ability to communicate with language.
           D: an opportunity to work toward becoming a god.
         answer: B
+        print_position: 8
       - uid: BIB318.1.3.4.TY.1
         subobj: 1.3.4
         type: ty
@@ -4467,6 +4481,7 @@ courses:
           C: helper and partner.
           D: person to bear children.
         answer: C
+        print_position: 9
       - uid: BIB318.1.3.5.TY.1
         subobj: 1.3.5
         type: ty
@@ -4477,6 +4492,7 @@ courses:
           C: a reference to God and Moses.
           D: referring to the relationship between God and humans.
         answer: A
+        print_position: 10
       - uid: BIB318.2.1.1.UPE.1
         subobj: 2.1.1
         type: upe
@@ -4487,6 +4503,8 @@ courses:
           C: putting self first in the relationship with God.
           D: all of the above.
         answer: D
+        print_position: 4
+        unit: 1
       - uid: BIB318.2.1.1.TY.1
         subobj: 2.1.1
         type: ty
@@ -4497,6 +4515,7 @@ courses:
           C: behavior unbecoming a believer of God.
           D: not easily forgiven.
         answer: A
+        print_position: 1
       - uid: BIB318.2.1.2.TY.1
         subobj: 2.1.2
         type: ty
@@ -4507,6 +4526,7 @@ courses:
           C: Hatred
           D: Death
         answer: D
+        print_position: 2
       - uid: BIB318.2.1.3.UPE.1
         subobj: 2.1.3
         type: upe
@@ -4518,6 +4538,8 @@ courses:
           C: in Genesis 12 when God calls Abraham.
           D: when John the Baptist begins his preaching ministry.
         answer: A
+        print_position: 5
+        unit: 1
       - uid: BIB318.2.1.3.TY.1
         subobj: 2.1.3
         type: ty
@@ -4528,6 +4550,7 @@ courses:
           C: the rescue of Noah from the Flood in Genesis 8.
           D: the call of Abraham to leave his homeland in Genesis 12.
         answer: A
+        print_position: 3
       - uid: BIB318.2.2.1.TY.1
         subobj: 2.2.1
         type: ty
@@ -4538,6 +4561,7 @@ courses:
           C: reporting the rape of women by fallen angels.
           D: explaining how ancient kings served God.
         answer: B
+        print_position: 4
       - uid: BIB318.2.2.2.UPE.1
         subobj: 2.2.2
         type: upe
@@ -4549,6 +4573,8 @@ courses:
           C: shunned others for not living by God’s laws.
           D: had godly parents and ancestors.
         answer: A
+        print_position: 8
+        unit: 1
       - uid: BIB318.2.2.2.TY.1
         subobj: 2.2.2
         type: ty
@@ -4559,6 +4585,7 @@ courses:
           C: He deals with rebellion seriously and thoroughly.
           D: He offers no grace to sinners, only judgment and punishment.
         answer: C
+        print_position: 5
       - uid: BIB318.2.2.3.TY.1
         subobj: 2.2.3
         type: ty
@@ -4569,6 +4596,7 @@ courses:
           C: A basic understanding of God’s law
           D: A binding agreement between two parties
         answer: D
+        print_position: 6
       - uid: BIB318.2.2.4.UPE.1
         subobj: 2.2.4
         type: upe
@@ -4579,6 +4607,8 @@ courses:
           C: infertility.
           D: a demonic possession of people in Noah’s day.
         answer: B
+        print_position: 7
+        unit: 1
       - uid: BIB318.2.2.4.TY.1
         subobj: 2.2.4
         type: ty
@@ -4590,6 +4620,7 @@ courses:
           C: decision to ask Abraham to sacrifice his son.
           D: decision to confuse the people’s language at Babel.
         answer: A
+        print_position: 7
       - uid: BIB318.2.2.2,2.2.3.UPE.1
         subobj: 2.2.2,2.2.3
         type: upe
@@ -4601,6 +4632,8 @@ courses:
             Him.
           D: all of the above.
         answer: D
+        print_position: 6
+        unit: 1
       - uid: BIB318.2.3.1.TY.1
         subobj: 2.3.1
         type: ty
@@ -4611,6 +4644,7 @@ courses:
           C: must be interpreted as a moral fable.
           D: demonstrates that God does not want multiple nations to work together.
         answer: B
+        print_position: 8
       - uid: BIB318.2.3.2.TY.1
         subobj: 2.3.2
         type: ty
@@ -4621,6 +4655,7 @@ courses:
           C: enable us to date creation at about 10,000 BC.
           D: are not complete and cannot be used for dating.
         answer: D
+        print_position: 9
       - uid: BIB318.2.3.3.TY.1
         subobj: 2.3.3
         type: ty
@@ -4631,6 +4666,7 @@ courses:
           C: Shem.
           D: Japheth.
         answer: C
+        print_position: 10
       - uid: BIB318.3.1.1.UPE.1
         subobj: 3.1.1
         type: upe
@@ -4643,6 +4679,8 @@ courses:
             people.
           D: a tentmaker.
         answer: C
+        print_position: 9
+        unit: 1
       - uid: BIB318.3.1.1.TY.1
         subobj: 3.1.1
         type: ty
@@ -4654,6 +4692,7 @@ courses:
           C: prosperous and knowledgeable nomad.
           D: mariner who had sailed to the coast of Palestine.
         answer: C
+        print_position: 1
       - uid: BIB318.3.1.2.UPE.1
         subobj: 3.1.2
         type: upe
@@ -4664,6 +4703,8 @@ courses:
           C: seed, land, and many peoples serving him and his descendants.
           D: long life, protection, and making of him a great nation.
         answer: B
+        print_position: 10
+        unit: 1
       - uid: BIB318.3.1.2.UPE.2
         subobj: 3.1.2
         type: upe
@@ -4675,6 +4716,8 @@ courses:
           C: Matthew 14:5.
           D: 1 Corinthians 13:1.
         answer: A
+        print_position: 11
+        unit: 1
       - uid: BIB318.3.1.2.TY.1
         subobj: 3.1.2
         type: ty
@@ -4685,6 +4728,7 @@ courses:
           C: land, wealth, and power.
           D: seed, land, and servants.
         answer: B
+        print_position: 2
       - uid: BIB318.3.1.3.UPE.1
         subobj: 3.1.3
         type: upe
@@ -4696,6 +4740,8 @@ courses:
           C: conquering Abimelech and other enemies.
           D: believing the Lord and being dependent on Him.
         answer: D
+        print_position: 12
+        unit: 1
       - uid: BIB318.3.1.3.UPE.2
         subobj: 3.1.3
         type: upe
@@ -4707,6 +4753,8 @@ courses:
           C: flee from conflict to avoid hurting others.
           D: expect God to keep them from tests and trials through their obedience.
         answer: B
+        print_position: 13
+        unit: 1
       - uid: BIB318.3.1.3.UPE.3
         subobj: 3.1.3
         type: upe
@@ -4717,6 +4765,8 @@ courses:
           C: the one Abraham paid tithe to after the battle and communed with in worship.
           D: all of the above.
         answer: D
+        print_position: 14
+        unit: 1
       - uid: BIB318.3.1.3.TY.1
         subobj: 3.1.3
         type: ty
@@ -4727,6 +4777,7 @@ courses:
           C: obedience.
           D: selfishness.
         answer: C
+        print_position: 3
       - uid: BIB318.3.1.4.UPE.1
         subobj: 3.1.4
         type: upe
@@ -4738,6 +4789,8 @@ courses:
           C: a covenant—a specific binding agreement establishing promises and responsibilities.
           D: a covenant that repeated the same promise given to Noah.
         answer: C
+        print_position: 15
+        unit: 1
       - uid: BIB318.3.1.4.TY.1
         subobj: 3.1.4
         type: ty
@@ -4749,6 +4802,7 @@ courses:
           C: rainbow that stretched across the sky.
           D: covenant, establishing both promises and responsibilities.
         answer: D
+        print_position: 4
       - uid: BIB318.3.2.1.TY.1
         subobj: 3.2.1
         type: ty
@@ -4760,6 +4814,7 @@ courses:
           C: Isaac born to Sarah
           D: Nimrod born to Leah
         answer: A
+        print_position: 5
       - uid: BIB318.3.2.2.TY.1
         subobj: 3.2.2
         type: ty
@@ -4770,6 +4825,7 @@ courses:
           C: the devil taking on angelic form to deceive people.
           D: God at work through a human form to minister to people.
         answer: D
+        print_position: 6
       - uid: BIB318.3.3.1.TY.1
         subobj: 3.3.1
         type: ty
@@ -4780,6 +4836,7 @@ courses:
           C: God cared more for Abimelech.
           D: Abimelech was a fool.
         answer: A
+        print_position: 7
       - uid: BIB318.3.3.2.UPE.1
         subobj: 3.3.2
         type: upe
@@ -4791,6 +4848,8 @@ courses:
           C: allowed to see into the distant future in detail.
           D: able to subdue his enemies without fighting.
         answer: B
+        print_position: 17
+        unit: 1
       - uid: BIB318.3.3.2.TY.1
         subobj: 3.3.2
         type: ty
@@ -4802,6 +4861,7 @@ courses:
           C: a spokesperson and intercessor.
           D: without fault or sin.
         answer: C
+        print_position: 8
       - uid: BIB318.3.3.3.UPE.1
         subobj: 3.3.3
         type: upe
@@ -4813,6 +4873,8 @@ courses:
             ram as a substitute.
           D: leaving his family and moving to Canaan.
         answer: C
+        print_position: 16
+        unit: 1
       - uid: BIB318.3.3.3.TY.1
         subobj: 3.3.3
         type: ty
@@ -4823,6 +4885,7 @@ courses:
           C: leaving his family and moving to Canaan.
           D: whether he would compromise his belief in the Lord.
         answer: B
+        print_position: 9
       - uid: BIB318.3.3.4.TY.1
         subobj: 3.3.4
         type: ty
@@ -4834,6 +4897,7 @@ courses:
           C: to persevere in faith-obedience.
           D: to expect protection from tests and trials if we obey.
         answer: C
+        print_position: 10
       - uid: BIB318.4.1.1.UPE.1
         subobj: 4.1.1
         type: upe
@@ -4844,6 +4908,8 @@ courses:
           C: is downplayed.
           D: is brief because he was not Abraham’s son of promise.
         answer: C
+        print_position: 18
+        unit: 1
       - uid: BIB318.4.1.1.TY.1
         subobj: 4.1.1
         type: ty
@@ -4855,6 +4921,7 @@ courses:
           D: an example of the person who had the greatest faith of all the people
             in Genesis.
         answer: C
+        print_position: 1
       - uid: BIB318.4.1.2.UPE.1
         subobj: 4.1.2
         type: upe
@@ -4865,6 +4932,8 @@ courses:
           C: did not affect their sons because of their strong faith.
           D: caused Jacob to be bitter, but Esau stayed faithful.
         answer: A
+        print_position: 19
+        unit: 1
       - uid: BIB318.4.1.2.UPE.2
         subobj: 4.1.2
         type: upe
@@ -4875,6 +4944,8 @@ courses:
           C: a cultural norm that did not cause problems.
           D: forbidden after Abraham decided to trust the Lord.
         answer: B
+        print_position: 20
+        unit: 1
       - uid: BIB318.4.1.2.TY.1
         subobj: 4.1.2
         type: ty
@@ -4885,6 +4956,7 @@ courses:
           C: caused Jacob to be bitter but Esau stayed faithful.
           D: caused God to go to His “plan B.”
         answer: A
+        print_position: 2
       - uid: BIB318.4.1.2.TY.2
         subobj: 4.1.2
         type: ty
@@ -4895,6 +4967,7 @@ courses:
           C: stopped as soon as Abraham believed in the Lord.
           D: never encouraged and always presented in a negative way.
         answer: D
+        print_position: 3
       - uid: BIB318.4.1.3.UPE.1
         subobj: 4.1.3
         type: upe
@@ -4905,6 +4978,8 @@ courses:
           C: his character was transformed through His faith-submission to the Lord.
           D: he had become bitter.
         answer: C
+        print_position: 21
+        unit: 1
       - uid: BIB318.4.1.3.TY.1
         subobj: 4.1.3
         type: ty
@@ -4915,6 +4990,7 @@ courses:
           C: God’s disappointment with Jacob’s ways of deception.
           D: his transformation and determination in struggling with God.
         answer: D
+        print_position: 4
       - uid: BIB318.4.1.4.TY.1
         subobj: 4.1.4
         type: ty
@@ -4925,6 +5001,7 @@ courses:
           C: uses imperfect people to fulfill His plan.
           D: will not use a person who makes selfish choices.
         answer: C
+        print_position: 5
       - uid: BIB318.4.2.1.UPE.1
         subobj: 4.2.1
         type: upe
@@ -4935,6 +5012,8 @@ courses:
           C: said, “How can I sin against God?” and ran from the room.
           D: was arrested, found innocent, and did not go to prison.
         answer: C
+        print_position: 23
+        unit: 1
       - uid: BIB318.4.2.1.TY.1
         subobj: 4.2.1
         type: ty
@@ -4945,6 +5024,7 @@ courses:
           C: rebuked the woman and told her husband.
           D: quit his job and went to work for someone else.
         answer: B
+        print_position: 6
       - uid: BIB318.4.2.2.UPE.1
         subobj: 4.2.2
         type: upe
@@ -4955,6 +5035,8 @@ courses:
           C: that Jacob’s faith was eventually restored.
           D: that Potiphar’s entire household became worshipers of the true God.
         answer: A
+        print_position: 22
+        unit: 1
       - uid: BIB318.4.2.2.TY.1
         subobj: 4.2.2
         type: ty
@@ -4965,6 +5047,7 @@ courses:
           C: getting him out of the family so they could go on with God.
           D: his witnessing to Potiphar’s wife and her conversion.
         answer: B
+        print_position: 7
       - uid: BIB318.4.2.2.TY.2
         subobj: 4.2.2
         type: ty
@@ -4976,6 +5059,7 @@ courses:
           C: The experiences made Joseph tough so he could rule with an iron fist.
           D: Joseph learned how to interpret dreams and visions for Pharaoh.
         answer: A
+        print_position: 8
       - uid: BIB318.4.2.3.UPE.1
         subobj: 4.2.3
         type: upe
@@ -4986,6 +5070,8 @@ courses:
           C: by sentencing them to lives of hard labor.
           D: by announcing their crime before the Egyptian court.
         answer: A
+        print_position: 24
+        unit: 1
       - uid: BIB318.4.2.3.TY.1
         subobj: 4.2.3
         type: ty
@@ -4997,6 +5083,7 @@ courses:
           C: way for him to exact his revenge on them.
           D: chance for Joseph to see his brother Benjamin.
         answer: A
+        print_position: 9
       - uid: BIB318.4.2.4.UPE.1
         subobj: 4.2.4
         type: upe
@@ -5008,6 +5095,8 @@ courses:
             Sihon’s time.
           D: as the twelve spies are being sent into the Promised Land.
         answer: B
+        print_position: 25
+        unit: 1
       - uid: BIB318.4.2.4.TY.1
         subobj: 4.2.4
         type: ty
@@ -5019,6 +5108,7 @@ courses:
           D: with the Israelites enslaved through an agreement between Joseph and
             Pharaoh.
         answer: B
+        print_position: 10
       - uid: BIB318.5.1.1.UPE.1
         subobj: 5.1.1
         type: upe
@@ -5031,6 +5121,8 @@ courses:
           C: 325 or 125.
           D: 2040 or 1820.
         answer: B
+        print_position: 1
+        unit: 2
       - uid: BIB318.5.1.1.TY.1
         subobj: 5.1.1
         type: ty
@@ -5043,6 +5135,7 @@ courses:
           C: 1600 BC or 1100 BC.
           D: 2040 BC or 1820 BC.
         answer: B
+        print_position: 1
       - uid: BIB318.5.1.2.UPE.1
         subobj: 5.1.2
         type: upe
@@ -5055,6 +5148,8 @@ courses:
             it to fruition.
           D: God had long ago forsaken the covenant promises.
         answer: A
+        print_position: 2
+        unit: 2
       - uid: BIB318.5.1.2.TY.1
         subobj: 5.1.2
         type: ty
@@ -5067,6 +5162,7 @@ courses:
           D: the automatic forces put in motion by the covenant were now bringing
             it to fruition.
         answer: B
+        print_position: 2
       - uid: BIB318.5.1.3.UPE.1
         subobj: 5.1.3
         type: upe
@@ -5078,6 +5174,8 @@ courses:
             go.
           D: did all of the above.
         answer: D
+        print_position: 3
+        unit: 2
       - uid: BIB318.5.1.3.TY.1
         subobj: 5.1.3
         type: ty
@@ -5088,6 +5186,7 @@ courses:
           C: Pharaoh’s stubbornness and God’s sovereignty.
           D: God predestining Pharaoh to hell for his choices.
         answer: C
+        print_position: 3
       - uid: BIB318.5.1.3.TY.2
         subobj: 5.1.3
         type: ty
@@ -5099,6 +5198,7 @@ courses:
           C: in no way built up Israel’s faith in God’s power and might.
           D: had no effect on Pharaoh or the Egyptians.
         answer: A
+        print_position: 4
       - uid: BIB318.5.1.4.TY.1
         subobj: 5.1.4
         type: ty
@@ -5109,6 +5209,7 @@ courses:
           C: No one knows for sure what it really was.
           D: “The God who creates what comes into existence”
         answer: C
+        print_position: 5
       - uid: BIB318.5.2.1.UPE.1
         subobj: 5.2.1
         type: upe
@@ -5121,6 +5222,8 @@ courses:
           C: another term for an altar.
           D: a eulogy for someone who had died.
         answer: B
+        print_position: 4
+        unit: 2
       - uid: BIB318.5.2.1.TY.1
         subobj: 5.2.1
         type: ty
@@ -5132,6 +5235,7 @@ courses:
           D: a point of contact with God in relation to His blessings in the event
             memorialized.
         answer: D
+        print_position: 6
       - uid: BIB318.5.2.2.UPE.1
         subobj: 5.2.2
         type: upe
@@ -5144,6 +5248,8 @@ courses:
             that would ultimately be fulfilled in Christ.
           D: a guideline for raising children.
         answer: C
+        print_position: 5
+        unit: 2
       - uid: BIB318.5.2.2.TY.1
         subobj: 5.2.2
         type: ty
@@ -5154,6 +5260,7 @@ courses:
           C: God’s hatred for Egypt.
           D: God’s power and love.
         answer: D
+        print_position: 7
       - uid: BIB318.5.3.1.TY.1
         subobj: 5.3.1
         type: ty
@@ -5164,6 +5271,7 @@ courses:
           C: are necessary to our understanding of the story of the Exodus properly.
           D: are necessary to fortify our faith in God’s Word.
         answer: A
+        print_position: 8
       - uid: BIB318.5.3.2.UPE.1
         subobj: 5.3.2
         type: upe
@@ -5174,6 +5282,8 @@ courses:
           C: a plant residue that kept Israel alive in the desert.
           D: a fertile valley where Israel found nourishment.
         answer: B
+        print_position: 6
+        unit: 2
       - uid: BIB318.5.3.2.TY.1
         subobj: 5.3.2
         type: ty
@@ -5184,6 +5294,7 @@ courses:
           C: a plant residue that kept Israel alive in the desert.
           D: the bread supplied by God to Israel in the wilderness.
         answer: D
+        print_position: 9
       - uid: BIB318.5.3.3.UPE.1
         subobj: 5.3.3
         type: upe
@@ -5196,6 +5307,8 @@ courses:
             work.
           D: Miriam’s husband and Moses’ strongest supporter.
         answer: C
+        print_position: 7
+        unit: 2
       - uid: BIB318.5.3.3.TY.1
         subobj: 5.3.3
         type: ty
@@ -5206,6 +5319,7 @@ courses:
           C: Jethro
           D: Hur
         answer: C
+        print_position: 10
       - uid: BIB318.6.1.1.UPE.1
         subobj: 6.1.1
         type: upe
@@ -5216,6 +5330,8 @@ courses:
           C: show that no one could earn God’s favor through works.
           D: establish a peace treaty between Israel and Egypt.
         answer: B
+        print_position: 8
+        unit: 2
       - uid: BIB318.6.1.1.TY.1
         subobj: 6.1.1
         type: ty
@@ -5226,6 +5342,7 @@ courses:
           C: establish Israel as God’s missionary nation.
           D: show that no one can be saved by works.
         answer: C
+        print_position: 1
       - uid: BIB318.6.1.3.TY.1
         subobj: 6.1.3
         type: ty
@@ -5236,6 +5353,7 @@ courses:
           C: ended in a bloody battle.
           D: was an awesome experience for the human senses of God’s presence.
         answer: D
+        print_position: 2
       - uid: BIB318.6.1.4.UPE.1
         subobj: 6.1.4
         type: upe
@@ -5246,6 +5364,8 @@ courses:
           C: striking an altar with lightning.
           D: a solemn assembly with public confessions.
         answer: A
+        print_position: 9
+        unit: 2
       - uid: BIB318.6.1.4.TY.1
         subobj: 6.1.4
         type: ty
@@ -5256,6 +5376,7 @@ courses:
           C: putting the scroll in a jar and sealing it.
           D: the same sign given to Noah—a rainbow.
         answer: B
+        print_position: 3
       - uid: BIB318.6.2.1.UPE.1
         subobj: 6.2.1
         type: upe
@@ -5267,6 +5388,8 @@ courses:
             law.
           D: all of the above.
         answer: D
+        print_position: 10
+        unit: 2
       - uid: BIB318.6.2.1.TY.1
         subobj: 6.2.1
         type: ty
@@ -5278,6 +5401,7 @@ courses:
           C: Love God and protect the family unit.
           D: Love no one but God.
         answer: A
+        print_position: 4
       - uid: BIB318.6.2.2.UPE.1
         subobj: 6.2.2
         type: upe
@@ -5288,6 +5412,8 @@ courses:
           C: mispronouncing God’s name.
           D: using swear words.
         answer: B
+        print_position: 11
+        unit: 2
       - uid: BIB318.6.2.2.TY.1
         subobj: 6.2.2
         type: ty
@@ -5298,6 +5424,7 @@ courses:
           C: being too proud in prayer.
           D: a warning against using swear words.
         answer: A
+        print_position: 5
       - uid: BIB318.6.2.3.UPE.1
         subobj: 6.2.3
         type: upe
@@ -5309,6 +5436,8 @@ courses:
             recreation.
           D: Jesus arose on a Sunday.
         answer: C
+        print_position: 12
+        unit: 2
       - uid: BIB318.6.2.3.TY.1
         subobj: 6.2.3
         type: ty
@@ -5319,6 +5448,7 @@ courses:
           C: “the fellowship of believers.”
           D: “the study of the Scriptures.”
         answer: B
+        print_position: 6
       - uid: BIB318.6.2.4.UPE.1
         subobj: 6.2.4
         type: upe
@@ -5329,6 +5459,8 @@ courses:
           C: implies that there can be taking of human life authorized by God.
           D: also refers to ruining a person’s reputation.
         answer: C
+        print_position: 13
+        unit: 2
       - uid: BIB318.6.2.4.UPE.2
         subobj: 6.2.4
         type: upe
@@ -5339,6 +5471,8 @@ courses:
           C: the minimum requirements for not harming others.
           D: public, legal, or court cases.
         answer: B
+        print_position: 14
+        unit: 2
       - uid: BIB318.6.2.4.TY.1
         subobj: 6.2.4
         type: ty
@@ -5349,6 +5483,7 @@ courses:
           C: implies that there can be taking of human life authorized by God.
           D: refers to the killing of animals out of anger.
         answer: C
+        print_position: 7
       - uid: BIB318.6.2.4.TY.2
         subobj: 6.2.4
         type: ty
@@ -5359,6 +5494,7 @@ courses:
           C: concern for the well-being of other people because of our love for God.
           D: the minimum requirements for not doing harm to others.
         answer: C
+        print_position: 8
       - uid: BIB318.6.3.1.UPE.1
         subobj: 6.3.1
         type: upe
@@ -5369,6 +5505,8 @@ courses:
           C: make everyone accountable to God for their actions toward one another.
           D: do all the above.
         answer: D
+        print_position: 15
+        unit: 2
       - uid: BIB318.6.3.1.UPE.2
         subobj: 6.3.1
         type: upe
@@ -5381,6 +5519,8 @@ courses:
           C: most of the Old Testament laws were copied from Hammurabi.
           D: Hammurabi copied from the Pentateuch.
         answer: A
+        print_position: 16
+        unit: 2
       - uid: BIB318.6.3.1.TY.1
         subobj: 6.3.1
         type: ty
@@ -5391,6 +5531,7 @@ courses:
           C: in the form of “You must or must not.”
           D: that are more like guidelines than commandments.
         answer: B
+        print_position: 9
       - uid: BIB318.6.3.3.TY.1
         subobj: 6.3.3
         type: ty
@@ -5401,6 +5542,7 @@ courses:
           C: that the Angel of the Lord would fight their battles for them.
           D: that Israel would coexist peacefully with the people of Canaan.
         answer: A
+        print_position: 10
       - uid: BIB318.7.1.1.TY.1
         subobj: 7.1.1
         type: ty
@@ -5412,6 +5554,7 @@ courses:
           C: The test of following one man
           D: The test of physical suffering
         answer: A
+        print_position: 1
       - uid: BIB318.7.1.2.UPE.1
         subobj: 7.1.2
         type: upe
@@ -5423,6 +5566,8 @@ courses:
           C: the language spoken.
           D: the way Israel was organized.
         answer: B
+        print_position: 18
+        unit: 2
       - uid: BIB318.7.1.2.UPE.2
         subobj: 7.1.2
         type: upe
@@ -5433,6 +5578,8 @@ courses:
           C: truth.
           D: covenantal love that is committed and loyal, acting in devotion and kindness.
         answer: D
+        print_position: 19
+        unit: 2
       - uid: BIB318.7.1.2.UPE.3
         subobj: 7.1.2
         type: upe
@@ -5443,6 +5590,8 @@ courses:
           C: preaching about all He had done in history to that time.
           D: a long period of waiting and ceremonial cleansing.
         answer: A
+        print_position: 20
+        unit: 2
       - uid: BIB318.7.1.2.TY.1
         subobj: 7.1.2
         type: ty
@@ -5454,6 +5603,7 @@ courses:
           D: “covenantal love that is committed and loyal, acting in devotion and
             kindness.”
         answer: D
+        print_position: 2
       - uid: BIB318.7.1.2.TY.2
         subobj: 7.1.2
         type: ty
@@ -5464,6 +5614,7 @@ courses:
           C: the grace with which He moves.
           D: His deity and lordship.
         answer: A
+        print_position: 3
       - uid: BIB318.7.1.1,7.1.2.UPE.1
         subobj: 7.1.1,7.1.2
         type: upe
@@ -5475,6 +5626,8 @@ courses:
           C: The test of delays in hearing from God and the fulfillment of His promises
           D: The test of physical suffering
         answer: C
+        print_position: 17
+        unit: 2
       - uid: BIB318.7.2.1.UPE.1
         subobj: 7.2.1
         type: upe
@@ -5485,6 +5638,8 @@ courses:
           C: called the tent of meeting.
           D: all of the above.
         answer: D
+        print_position: 21
+        unit: 2
       - uid: BIB318.7.2.1.UPE.2
         subobj: 7.2.1
         type: upe
@@ -5495,6 +5650,8 @@ courses:
           C: are still unexplained.
           D: were chosen by the Levites.
         answer: B
+        print_position: 22
+        unit: 2
       - uid: BIB318.7.2.1.UPE.3
         subobj: 7.2.1
         type: upe
@@ -5506,6 +5663,8 @@ courses:
           C: simply a platform for the burning of sacrifices.
           D: a place where family units gathered for monthly prayer.
         answer: A
+        print_position: 23
+        unit: 2
       - uid: BIB318.7.2.1.UPE.4
         subobj: 7.2.1
         type: upe
@@ -5516,6 +5675,8 @@ courses:
           C: magical objects that lit up when God was calling the people.
           D: special foods eaten only by the priests.
         answer: B
+        print_position: 24
+        unit: 2
       - uid: BIB318.7.2.1.TY.1
         subobj: 7.2.1
         type: ty
@@ -5526,6 +5687,7 @@ courses:
           C: holy place or sanctuary for God’s use.
           D: monument to God’s holiness.
         answer: C
+        print_position: 4
       - uid: BIB318.7.2.1.TY.2
         subobj: 7.2.1
         type: ty
@@ -5537,6 +5699,7 @@ courses:
           C: how to avoid sin and live lives of perfect holiness.
           D: to think of and respond to God according to His ways.
         answer: D
+        print_position: 5
       - uid: BIB318.7.2.1.TY.3
         subobj: 7.2.1
         type: ty
@@ -5547,6 +5710,7 @@ courses:
           C: represented royalty and thus honored God as Israel’s divine King.
           D: have no significant meaning according to history and the Bible.
         answer: C
+        print_position: 6
       - uid: BIB318.7.2.1.TY.4
         subobj: 7.2.1
         type: ty
@@ -5557,6 +5721,7 @@ courses:
           C: place only for the burning of sacrifices.
           D: place for people to tell God their problems.
         answer: B
+        print_position: 7
       - uid: BIB318.7.2.1.TY.5
         subobj: 7.2.1
         type: ty
@@ -5567,6 +5732,7 @@ courses:
           C: used in services of thanksgiving.
           D: special foods eaten only by the priests.
         answer: A
+        print_position: 9
       - uid: BIB318.7.2.2.UPE.1
         subobj: 7.2.2
         type: upe
@@ -5577,6 +5743,8 @@ courses:
           C: men filled with the Spirit to construct the tabernacle and train others.
           D: women who did all the needlework for the tabernacle.
         answer: C
+        print_position: 25
+        unit: 2
       - uid: BIB318.7.2.2.TY.1
         subobj: 7.2.2
         type: ty
@@ -5588,6 +5756,7 @@ courses:
           C: only allowing a few people to participate in God’s work.
           D: not allowing anyone to participate in God’s work.
         answer: B
+        print_position: 8
       - uid: BIB318.7.2.2.TY.2
         subobj: 7.2.2
         type: ty
@@ -5598,6 +5767,7 @@ courses:
           C: women who did all the needlework for the tabernacle.
           D: men filled with the Spirit to construct the tabernacle and teach others.
         answer: D
+        print_position: 10
       - uid: BIB318.8.1.1.UPE.1
         subobj: 8.1.1
         type: upe
@@ -5608,6 +5778,8 @@ courses:
           C: a lot of rules that are confusing.
           D: worship and military training.
         answer: B
+        print_position: 1
+        unit: 3
       - uid: BIB318.8.1.1.TY.1
         subobj: 8.1.1
         type: ty
@@ -5618,6 +5790,7 @@ courses:
           C: holiness.
           D: prayer.
         answer: C
+        print_position: 1
       - uid: BIB318.8.1.2.UPE.1
         subobj: 8.1.2
         type: upe
@@ -5628,6 +5801,8 @@ courses:
           C: demonstrations of God’s power over natural laws.
           D: identification with God’s glory and power.
         answer: A
+        print_position: 2
+        unit: 3
       - uid: BIB318.8.1.2.UPE.2
         subobj: 8.1.2
         type: upe
@@ -5638,6 +5813,8 @@ courses:
           C: some were food for the priests.
           D: all of the above are true.
         answer: D
+        print_position: 3
+        unit: 3
       - uid: BIB318.8.1.2.UPE.3
         subobj: 8.1.2
         type: upe
@@ -5648,6 +5825,8 @@ courses:
           C: represented the life of the victim, given in atonement.
           D: was only intended for atonement during the years in the wilderness.
         answer: C
+        print_position: 4
+        unit: 3
       - uid: BIB318.8.1.2.TY.1
         subobj: 8.1.2
         type: ty
@@ -5658,6 +5837,7 @@ courses:
           C: demonstrations of God’s power over natural laws.
           D: identification with God’s glory and power.
         answer: A
+        print_position: 2
       - uid: BIB318.8.1.2.TY.2
         subobj: 8.1.2
         type: ty
@@ -5668,6 +5848,7 @@ courses:
           C: represented the life of the victim, given in atonement.
           D: was a physical representation of God’s great power.
         answer: C
+        print_position: 3
       - uid: BIB318.8.1.4.UPE.1
         subobj: 8.1.4
         type: upe
@@ -5678,6 +5859,8 @@ courses:
           C: three bulls and seven sheep were required.
           D: the rebel was sold into slavery to another nation.
         answer: A
+        print_position: 5
+        unit: 3
       - uid: BIB318.8.1.4.UPE.2
         subobj: 8.1.4
         type: upe
@@ -5688,6 +5871,8 @@ courses:
           C: equal with those for everyone else.
           D: not specified.
         answer: B
+        print_position: 6
+        unit: 3
       - uid: BIB318.8.1.4.UPE.3
         subobj: 8.1.4
         type: upe
@@ -5698,6 +5883,8 @@ courses:
           C: was offered by the patriarchs of each clan for all members of their families.
           D: symbolized general redemption.
         answer: A
+        print_position: 7
+        unit: 3
       - uid: BIB318.8.1.4.TY.1
         subobj: 8.1.4
         type: ty
@@ -5708,6 +5895,7 @@ courses:
           C: less than for everyone else.
           D: not given.
         answer: B
+        print_position: 4
       - uid: BIB318.8.1.4.TY.2
         subobj: 8.1.4
         type: ty
@@ -5718,6 +5906,7 @@ courses:
           C: intentional violations of the Lord’s commandments.
           D: unintentional violations of the Lord’s commandments.
         answer: D
+        print_position: 5
       - uid: BIB318.8.1.5.UPE.1
         subobj: 8.1.5
         type: upe
@@ -5728,6 +5917,8 @@ courses:
           C: were for gratefulness and worship.
           D: were all of the above.
         answer: D
+        print_position: 8
+        unit: 3
       - uid: BIB318.8.1.5.TY.1
         subobj: 8.1.5
         type: ty
@@ -5739,6 +5930,7 @@ courses:
           C: repentance and guilt for sin.
           D: love and honor for others.
         answer: B
+        print_position: 6
       - uid: BIB318.8.2.1.TY.1
         subobj: 8.2.1
         type: ty
@@ -5749,6 +5941,7 @@ courses:
           C: dedicated for God’s purpose.
           D: made sinless.
         answer: C
+        print_position: 7
       - uid: BIB318.8.2.2.UPE.1
         subobj: 8.2.2
         type: upe
@@ -5759,6 +5952,8 @@ courses:
           C: sons of Moses who rebelled against their father’s leadership.
           D: skilled craftsmen who worked on the tabernacle.
         answer: A
+        print_position: 9
+        unit: 3
       - uid: BIB318.8.2.2.TY.1
         subobj: 8.2.2
         type: ty
@@ -5769,6 +5964,7 @@ courses:
           C: were struck with leprosy for violating their instructions.
           D: were sons of Moses who rebelled against him.
         answer: B
+        print_position: 8
       - uid: BIB318.8.3.1.UPE.1
         subobj: 8.3.1
         type: upe
@@ -5779,6 +5975,8 @@ courses:
           C: God granting a person to be allowed in His presence.
           D: all of the above.
         answer: D
+        print_position: 13
+        unit: 3
       - uid: BIB318.8.3.1.TY.1
         subobj: 8.3.1
         type: ty
@@ -5790,6 +5988,7 @@ courses:
           C: spiritual purity versus contamination.
           D: proper and improper attitudes toward God.
         answer: C
+        print_position: 9
       - uid: BIB318.8.3.4.UPE.1
         subobj: 8.3.4
         type: upe
@@ -5801,6 +6000,8 @@ courses:
           C: means “despised and rejected one.”
           D: refers to rebellion.
         answer: A
+        print_position: 11
+        unit: 3
       - uid: BIB318.8.3.4.TY.1
         subobj: 8.3.4
         type: ty
@@ -5811,6 +6012,7 @@ courses:
           C: refers to any white spot on a person’s body.
           D: indicates a spiritual uncleanness.
         answer: A
+        print_position: 10
       - uid: BIB318.8.3.5.UPE.1
         subobj: 8.3.5
         type: upe
@@ -5821,6 +6023,8 @@ courses:
           C: gave the people a fresh start in forgiveness once a year.
           D: involved all of the above.
         answer: D
+        print_position: 12
+        unit: 3
       - uid: BIB318.8.3.1,8.3.2.UPE.1
         subobj: 8.3.1,8.3.2
         type: upe
@@ -5831,6 +6035,8 @@ courses:
           C: object lessons for God’s people regarding proper attitudes.
           D: all of the above.
         answer: D
+        print_position: 10
+        unit: 3
       - uid: BIB318.9.1.1.TY.1
         subobj: 9.1.1
         type: ty
@@ -5841,6 +6047,7 @@ courses:
           C: God used it in the atonement of sins.
           D: it was the source of all life on earth.
         answer: C
+        print_position: 1
       - uid: BIB318.9.1.3.TY.1
         subobj: 9.1.3
         type: ty
@@ -5852,6 +6059,7 @@ courses:
           D: threatened the physical or spiritual life of an individual, family, or
             community.
         answer: D
+        print_position: 3
       - uid: BIB318.9.1.2,9.1.3.UPE.1
         subobj: 9.1.2,9.1.3
         type: upe
@@ -5862,6 +6070,8 @@ courses:
           C: against the way God created people to function.
           D: all of the above.
         answer: D
+        print_position: 14
+        unit: 3
       - uid: BIB318.9.1.2,9.1.3.UPE.2
         subobj: 9.1.2,9.1.3
         type: upe
@@ -5873,6 +6083,8 @@ courses:
           C: harmed the earth or the animals.
           D: no Israelite ever committed.
         answer: B
+        print_position: 16
+        unit: 3
       - uid: BIB318.9.2.1.UPE.1
         subobj: 9.2.1
         type: upe
@@ -5884,6 +6096,8 @@ courses:
           C: perfection, peace, promise, and punishment.
           D: emancipation, trust, and free will.
         answer: A
+        print_position: 15
+        unit: 3
       - uid: BIB318.9.2.1.UPE.2
         subobj: 9.2.1
         type: upe
@@ -5894,6 +6108,8 @@ courses:
           C: concern for the well-being of others and respect for everyone.
           D: all of the above.
         answer: D
+        print_position: 17
+        unit: 3
       - uid: BIB318.9.2.1.UPE.3
         subobj: 9.2.1
         type: upe
@@ -5905,6 +6121,8 @@ courses:
             passage of the Book of Leviticus.
           D: was not written by the same author who wrote the rest of Leviticus.
         answer: C
+        print_position: 18
+        unit: 3
       - uid: BIB318.9.2.1.UPE.4
         subobj: 9.2.1
         type: upe
@@ -5915,6 +6133,8 @@ courses:
           C: joining in with heathen worship services.
           D: not lining up with the teaching of the priests.
         answer: A
+        print_position: 19
+        unit: 3
       - uid: BIB318.9.2.1.TY.1
         subobj: 9.2.1
         type: ty
@@ -5925,6 +6145,7 @@ courses:
           C: joining in with heathen worship services.
           D: making physical objects to worship.
         answer: A
+        print_position: 2
       - uid: BIB318.9.2.1.TY.2
         subobj: 9.2.1
         type: ty
@@ -5936,6 +6157,7 @@ courses:
           C: “Love your neighbor as yourself.”
           D: “Love no one but God.”
         answer: C
+        print_position: 5
       - uid: BIB318.9.3.1.UPE.1
         subobj: 9.3.1
         type: upe
@@ -5946,6 +6168,8 @@ courses:
           C: originally intended to be celibate until Zuar died of a broken heart.
           D: weakened because many Levites left their tribe and responsibilities.
         answer: B
+        print_position: 20
+        unit: 3
       - uid: BIB318.9.3.1.TY.1
         subobj: 9.3.1
         type: ty
@@ -5956,6 +6180,7 @@ courses:
           C: not nearly as strict as most people think.
           D: originally to be celibate.
         answer: B
+        print_position: 6
       - uid: BIB318.9.3.2.UPE.1
         subobj: 9.3.2
         type: upe
@@ -5966,6 +6191,8 @@ courses:
           C: month-long times of eating and resting.
           D: not observed after the Hebrews reached the Promised Land.
         answer: B
+        print_position: 22
+        unit: 3
       - uid: BIB318.9.3.3.UPE.1
         subobj: 9.3.3
         type: upe
@@ -5976,6 +6203,8 @@ courses:
           C: placed in the Holy of Holies, the innermost sanctuary.
           D: maintained by laymen and not by the priests.
         answer: A
+        print_position: 23
+        unit: 3
       - uid: BIB318.9.3.3.TY.1
         subobj: 9.3.3
         type: ty
@@ -5986,6 +6215,7 @@ courses:
           C: symbols of God’s presence with the Israelites.
           D: not symbolic of spiritual things.
         answer: C
+        print_position: 7
       - uid: BIB318.9.3.4.UPE.1
         subobj: 9.3.4
         type: upe
@@ -5996,6 +6226,8 @@ courses:
           C: the place where God met their needs and blessed them.
           D: all of the above.
         answer: D
+        print_position: 24
+        unit: 3
       - uid: BIB318.9.3.4.TY.1
         subobj: 9.3.4
         type: ty
@@ -6006,6 +6238,7 @@ courses:
           C: All land was given to the Levites for a year to provide for the priests.
           D: All land reverted to the families to whom they were originally assigned.
         answer: D
+        print_position: 8
       - uid: BIB318.9.3.5.UPE.1
         subobj: 9.3.5
         type: upe
@@ -6016,6 +6249,8 @@ courses:
           C: gives five cycles of increasing punishment to motivate repentance.
           D: includes all of the above.
         answer: D
+        print_position: 21
+        unit: 3
       - uid: BIB318.9.3.5.TY.1
         subobj: 9.3.5
         type: ty
@@ -6027,6 +6262,7 @@ courses:
           C: Cleanliness
           D: Intercession
         answer: B
+        print_position: 9
       - uid: BIB318.9.3.6.UPE.1
         subobj: 9.3.6
         type: upe
@@ -6037,6 +6273,8 @@ courses:
           C: blaspheming the Lord’s name.
           D: a game the Israelites used to play.
         answer: B
+        print_position: 25
+        unit: 3
       - uid: BIB318.9.3.6.TY.1
         subobj: 9.3.6
         type: ty
@@ -6047,6 +6285,7 @@ courses:
           C: exceeding the limits of normal experience.
           D: turning away from one’s faith.
         answer: A
+        print_position: 4
       - uid: BIB318.9.3.6.TY.2
         subobj: 9.3.6
         type: ty
@@ -6058,6 +6297,7 @@ courses:
           C: A temporary vow of poverty to God during a difficult time
           D: A sacrifice of grain to feed the priests of the tabernacle
         answer: A
+        print_position: 10
       - uid: BIB318.10.1.1.UPE.1
         subobj: 10.1.1
         type: upe
@@ -6068,6 +6308,8 @@ courses:
           C: Reconciliation
           D: Condemnation
         answer: B
+        print_position: 1
+        unit: 4
       - uid: BIB318.10.1.1.UPE.2
         subobj: 10.1.1
         type: upe
@@ -6078,6 +6320,8 @@ courses:
           C: mystical symbols in the ancient Old Testament world.
           D: numerous stories of courage and valor.
         answer: B
+        print_position: 2
+        unit: 4
       - uid: BIB318.10.1.1.UPE.3
         subobj: 10.1.1
         type: upe
@@ -6089,6 +6333,8 @@ courses:
           C: making God the center of your life.
           D: surrounding yourself with fellow believers.
         answer: C
+        print_position: 3
+        unit: 4
       - uid: BIB318.10.1.1.TY.1
         subobj: 10.1.1
         type: ty
@@ -6099,6 +6345,7 @@ courses:
           C: Reconciliation
           D: Condemnation
         answer: B
+        print_position: 1
       - uid: BIB318.10.1.1.TY.2
         subobj: 10.1.1
         type: ty
@@ -6110,6 +6357,7 @@ courses:
           C: making God the center of your life.
           D: surrounding yourself with fellow believers.
         answer: C
+        print_position: 2
       - uid: BIB318.10.2.1.UPE.1
         subobj: 10.2.1
         type: upe
@@ -6121,6 +6369,8 @@ courses:
           C: for a relationship with His people.
           D: to provide a king for His people.
         answer: C
+        print_position: 4
+        unit: 4
       - uid: BIB318.10.2.1.UPE.2
         subobj: 10.2.1
         type: upe
@@ -6131,6 +6381,8 @@ courses:
           C: Levite in charge of the Holy of Holies.
           D: person from Nazareth.
         answer: A
+        print_position: 5
+        unit: 4
       - uid: BIB318.10.2.1.TY.1
         subobj: 10.2.1
         type: ty
@@ -6142,6 +6394,7 @@ courses:
           C: for a relationship with His people.
           D: to find a king for His people.
         answer: C
+        print_position: 3
       - uid: BIB318.10.2.1.TY.2
         subobj: 10.2.1
         type: ty
@@ -6152,6 +6405,7 @@ courses:
           C: certain family of Levites in charge of the Holy of Holies.
           D: person from Nazareth.
         answer: A
+        print_position: 4
       - uid: BIB318.10.2.2.UPE.1
         subobj: 10.2.2
         type: upe
@@ -6164,6 +6418,8 @@ courses:
           D: a sacrifice celebrating the covering of sin, God’s forgiveness, life,
             and restoration to a right relationship with God.
         answer: D
+        print_position: 8
+        unit: 4
       - uid: BIB318.10.3.1.UPE.1
         subobj: 10.3.1
         type: upe
@@ -6175,6 +6431,8 @@ courses:
           C: God’s personal presence moving powerfully in the situation.
           D: the divine nature received at death.
         answer: C
+        print_position: 6
+        unit: 4
       - uid: BIB318.10.3.1.UPE.2
         subobj: 10.3.1
         type: upe
@@ -6185,6 +6443,8 @@ courses:
           C: be able to move God to do what the people wanted.
           D: live a life of poverty, celibacy, and rejection.
         answer: B
+        print_position: 7
+        unit: 4
       - uid: BIB318.10.3.1.UPE.3
         subobj: 10.3.1
         type: upe
@@ -6195,6 +6455,8 @@ courses:
           C: dedicated leaders.
           D: the Holy Spirit.
         answer: D
+        print_position: 9
+        unit: 4
       - uid: BIB318.10.3.1.UPE.4
         subobj: 10.3.1
         type: upe
@@ -6205,6 +6467,8 @@ courses:
           C: He educated them in the Scriptures.
           D: He blessed them with great wisdom.
         answer: B
+        print_position: 10
+        unit: 4
       - uid: BIB318.10.3.1.UPE.5
         subobj: 10.3.1
         type: upe
@@ -6215,6 +6479,8 @@ courses:
           C: Israel’s mission field.
           D: the utopia that people throughout the ages have sought.
         answer: C
+        print_position: 11
+        unit: 4
       - uid: BIB318.10.3.1.UPE.6
         subobj: 10.3.1
         type: upe
@@ -6227,6 +6493,8 @@ courses:
           D: that God wants to empower all His people to participate in His work on
             earth.
         answer: D
+        print_position: 12
+        unit: 4
       - uid: BIB318.10.3.1.TY.1
         subobj: 10.3.1
         type: ty
@@ -6237,6 +6505,7 @@ courses:
           C: dedicated leaders.
           D: the Holy Spirit.
         answer: D
+        print_position: 5
       - uid: BIB318.10.3.1.TY.2
         subobj: 10.3.1
         type: ty
@@ -6247,6 +6516,7 @@ courses:
           C: He educated them in the Scripture.
           D: He blessed them with great wisdom.
         answer: B
+        print_position: 6
       - uid: BIB318.10.3.1.TY.3
         subobj: 10.3.1
         type: ty
@@ -6257,6 +6527,7 @@ courses:
           C: Israel’s mission field.
           D: a promise that was fulfilled with one battle.
         answer: C
+        print_position: 7
       - uid: BIB318.10.4.1.UPE.1
         subobj: 10.4.1
         type: upe
@@ -6268,6 +6539,8 @@ courses:
             gifts.
           D: God is pleased when Christians question the authority of His chosen leaders.
         answer: C
+        print_position: 13
+        unit: 4
       - uid: BIB318.10.4.1.TY.1
         subobj: 10.4.1
         type: ty
@@ -6278,6 +6551,7 @@ courses:
           C: We should have respect for each other’s different callings and gifts.
           D: God is pleased when Christians question the authority of His chosen leaders.
         answer: C
+        print_position: 8
       - uid: BIB318.10.4.4.UPE.1
         subobj: 10.4.4
         type: upe
@@ -6290,6 +6564,8 @@ courses:
           C: Moses was being legalistic and missed the mercy of God.
           D: unexplained in the text.
         answer: A
+        print_position: 14
+        unit: 4
       - uid: BIB318.10.4.4.TY.1
         subobj: 10.4.4
         type: ty
@@ -6302,6 +6578,7 @@ courses:
           C: that Moses was being legalistic and missed the mercy of God.
           D: not clear in the text.
         answer: A
+        print_position: 9
       - uid: BIB318.10.4.5.UPE.1
         subobj: 10.4.5
         type: upe
@@ -6314,6 +6591,8 @@ courses:
           C: he could not obey a simple command.
           D: he had too much pride.
         answer: A
+        print_position: 15
+        unit: 4
       - uid: BIB318.10.4.5.TY.1
         subobj: 10.4.5
         type: ty
@@ -6326,6 +6605,7 @@ courses:
           C: Moses wanted the people’s admiration.
           D: Moses did not respect God’s creation.
         answer: A
+        print_position: 10
       - uid: BIB318.11.1.1.UPE.1
         subobj: 11.1.1
         type: upe
@@ -6336,6 +6616,8 @@ courses:
           C: was a symbol of sin’s power over humankind.
           D: indicated victory over the King of Aram.
         answer: B
+        print_position: 16
+        unit: 4
       - uid: BIB318.11.1.1.TY.1
         subobj: 11.1.1
         type: ty
@@ -6346,6 +6628,7 @@ courses:
           C: was a symbol of sin’s power over humans.
           D: indicated victory over the King of Aram.
         answer: B
+        print_position: 1
       - uid: BIB318.11.1.2.TY.1
         subobj: 11.1.2
         type: ty
@@ -6356,6 +6639,7 @@ courses:
           C: God’s people must be vigilant against temptation.
           D: God wants us to listen to His voice through animals.
         answer: C
+        print_position: 3
       - uid: BIB318.11.1.3.TY.1
         subobj: 11.1.3
         type: ty
@@ -6367,6 +6651,7 @@ courses:
           C: when we are tired, after a victory.
           D: when we are surrounded by supportive friends.
         answer: C
+        print_position: 2
       - uid: BIB318.11.1.4.UPE.1
         subobj: 11.1.4
         type: upe
@@ -6377,6 +6662,8 @@ courses:
           C: His salvation plan for all people.
           D: an opportunity to disrespect life.
         answer: B
+        print_position: 19
+        unit: 4
       - uid: BIB318.11.1.4.TY.1
         subobj: 11.1.4
         type: ty
@@ -6387,6 +6674,7 @@ courses:
           C: God’s salvation plan for all people.
           D: an opportunity to disrespect life.
         answer: B
+        print_position: 4
       - uid: BIB318.11.1.2,11.1.3.UPE.1
         subobj: 11.1.2,11.1.3
         type: upe
@@ -6398,6 +6686,8 @@ courses:
           C: when we are tired, after a victory.
           D: when we are surrounded by Christian friends.
         answer: C
+        print_position: 17
+        unit: 4
       - uid: BIB318.11.1.2,11.1.3.UPE.2
         subobj: 11.1.2,11.1.3
         type: upe
@@ -6408,6 +6698,8 @@ courses:
           C: God’s people must be vigilant against temptation.
           D: God wants us to listen to His voice through animals.
         answer: C
+        print_position: 18
+        unit: 4
       - uid: BIB318.11.2.1.UPE.1
         subobj: 11.2.1
         type: upe
@@ -6419,6 +6711,8 @@ courses:
           C: just another genealogical listing of certain tribes.
           D: Moses entering the Promised Land.
         answer: A
+        print_position: 20
+        unit: 4
       - uid: BIB318.11.2.1.TY.1
         subobj: 11.2.1
         type: ty
@@ -6430,6 +6724,7 @@ courses:
           C: another genealogical listing of certain tribes.
           D: an account of Moses entering the Promised Land.
         answer: A
+        print_position: 5
       - uid: BIB318.11.2.2.UPE.1
         subobj: 11.2.2
         type: upe
@@ -6441,6 +6736,8 @@ courses:
           C: there is value in spiritual disciplines for God’s people.
           D: actually, there is no principle taught there.
         answer: C
+        print_position: 21
+        unit: 4
       - uid: BIB318.11.2.2.TY.1
         subobj: 11.2.2
         type: ty
@@ -6452,6 +6749,7 @@ courses:
           C: there is value in spiritual disciplines for God’s people.
           D: God’s people take ceremony too seriously.
         answer: C
+        print_position: 6
       - uid: BIB318.11.2.3.UPE.1
         subobj: 11.2.3
         type: upe
@@ -6462,6 +6760,8 @@ courses:
           C: fortress cities for protection when Israel was attacked.
           D: God’s provision for justice instead of blood vengeance.
         answer: D
+        print_position: 22
+        unit: 4
       - uid: BIB318.11.2.3.TY.1
         subobj: 11.2.3
         type: ty
@@ -6472,6 +6772,7 @@ courses:
           C: fortresses when Israel was attacked.
           D: God’s provision for justice instead of blood vengeance.
         answer: D
+        print_position: 7
       - uid: BIB318.11.2.4.UPE.1
         subobj: 11.2.4
         type: upe
@@ -6483,6 +6784,8 @@ courses:
           C: the inheritance God provides is very important.
           D: the inheritance of God is not important.
         answer: C
+        print_position: 23
+        unit: 4
       - uid: BIB318.11.2.4.UPE.2
         subobj: 11.2.4
         type: upe
@@ -6493,6 +6796,8 @@ courses:
           C: that it is better to bring in a successor from outside the group.
           D: to restrain young, ambitious men.
         answer: A
+        print_position: 24
+        unit: 4
       - uid: BIB318.11.2.4.UPE.3
         subobj: 11.2.4
         type: upe
@@ -6503,6 +6808,8 @@ courses:
           C: all options for solving problems with a vote of the people.
           D: hardships with faith and not fear.
         answer: D
+        print_position: 25
+        unit: 4
       - uid: BIB318.11.2.4.TY.1
         subobj: 11.2.4
         type: ty
@@ -6513,6 +6820,7 @@ courses:
           C: the inheritance God provides is very important.
           D: the inheritance of God is not important.
         answer: C
+        print_position: 8
       - uid: BIB318.11.2.4.TY.2
         subobj: 11.2.4
         type: ty
@@ -6524,6 +6832,7 @@ courses:
           C: bring in a successor from outside the group.
           D: counsel young, ambitious men.
         answer: A
+        print_position: 9
       - uid: BIB318.11.2.4.TY.3
         subobj: 11.2.4
         type: ty
@@ -6534,6 +6843,7 @@ courses:
           C: accusations with a vote of the people.
           D: hardships with faith and not fear.
         answer: D
+        print_position: 10
       - uid: BIB318.12.1.1.UPE.1
         subobj: 12.1.1
         type: upe
@@ -6554,6 +6864,7 @@ courses:
           C: no discernible structure.
           D: an ancient, international, suzerain-vassal treaty.
         answer: D
+        print_position: 1
       - uid: BIB318.12.1.1.TY.2
         subobj: 12.1.1
         type: ty
@@ -6564,6 +6875,7 @@ courses:
           C: the conquering of the Promised Land.
           D: the covenant relationship between Israel and God.
         answer: D
+        print_position: 2
       - uid: BIB318.12.1.2.UPE.1
         subobj: 12.1.2
         type: upe
@@ -6574,6 +6886,8 @@ courses:
           C: the conquering of the Promised Land.
           D: the covenant relationship between Israel and God.
         answer: D
+        print_position: 2
+        unit: 5
       - uid: BIB318.12.1.2.UPE.2
         subobj: 12.1.2
         type: upe
@@ -6585,6 +6899,8 @@ courses:
           D: mainly concerned with the big picture and leaves us on our own to make
             personal decisions.
         answer: C
+        print_position: 3
+        unit: 5
       - uid: BIB318.12.1.2.UPE.3
         subobj: 12.1.2
         type: upe
@@ -6596,6 +6912,8 @@ courses:
           C: Christian lawyers and legislators.
           D: individuals with questions regarding relationships between races.
         answer: A
+        print_position: 6
+        unit: 5
       - uid: BIB318.12.1.2.TY.1
         subobj: 12.1.2
         type: ty
@@ -6607,6 +6925,7 @@ courses:
           C: placed conditions on the fulfillment of His part of the covenant.
           D: made similar ancient covenants with other nations.
         answer: A
+        print_position: 3
       - uid: BIB318.12.1.3.UPE.1
         subobj: 12.1.3
         type: upe
@@ -6618,6 +6937,8 @@ courses:
           C: Word.
           D: wealth.
         answer: C
+        print_position: 4
+        unit: 5
       - uid: BIB318.12.1.3.UPE.2
         subobj: 12.1.3
         type: upe
@@ -6629,6 +6950,8 @@ courses:
           C: He wanted them to recognize that their present blessings were even greater.
           D: He wanted them to mourn and repent with sackcloth and ashes.
         answer: A
+        print_position: 5
+        unit: 5
       - uid: BIB318.12.1.3.TY.1
         subobj: 12.1.3
         type: ty
@@ -6640,6 +6963,7 @@ courses:
           C: Word.
           D: wealth.
         answer: C
+        print_position: 4
       - uid: BIB318.12.1.4.UPE.1
         subobj: 12.1.4
         type: upe
@@ -6650,6 +6974,8 @@ courses:
           C: Those commandments about stealing and murder
           D: None of the commandments were changed.
         answer: A
+        print_position: 7
+        unit: 5
       - uid: BIB318.12.1.4.UPE.2
         subobj: 12.1.4
         type: upe
@@ -6661,6 +6987,8 @@ courses:
           C: Mutual appreciation for the work accomplished through the week
           D: God’s rest following creation
         answer: B
+        print_position: 8
+        unit: 5
       - uid: BIB318.12.1.4.TY.1
         subobj: 12.1.4
         type: ty
@@ -6671,6 +6999,7 @@ courses:
           C: The commandments about stealing and murder
           D: The commandments were not modified at all.
         answer: A
+        print_position: 5
       - uid: BIB318.12.1.5.UPE.1
         subobj: 12.1.5
         type: upe
@@ -6683,6 +7012,8 @@ courses:
             Yahweh.
           D: that intermarrying with other nations was encouraged to spread Judaism.
         answer: C
+        print_position: 9
+        unit: 5
       - uid: BIB318.12.1.5.UPE.2
         subobj: 12.1.5
         type: upe
@@ -6694,6 +7025,8 @@ courses:
           C: in providing food and shelter for everyone who worshiped God.
           D: judged and found lacking.
         answer: A
+        print_position: 10
+        unit: 5
       - uid: BIB318.12.1.5.TY.1
         subobj: 12.1.5
         type: ty
@@ -6705,6 +7038,7 @@ courses:
           C: to recite the name of the Lord three times daily.
           D: to forget their days as slaves in Egypt.
         answer: B
+        print_position: 6
       - uid: BIB318.12.1.5.TY.2
         subobj: 12.1.5
         type: ty
@@ -6716,6 +7050,7 @@ courses:
           C: in keeping every detail of the Law.
           D: something God desired for them to achieve on their own.
         answer: A
+        print_position: 7
       - uid: BIB318.12.1.6.UPE.1
         subobj: 12.1.6
         type: upe
@@ -6728,6 +7063,8 @@ courses:
           C: that person became a prophet.
           D: the person was led astray by the gods of neighboring nations.
         answer: A
+        print_position: 11
+        unit: 5
       - uid: BIB318.12.1.6.TY.1
         subobj: 12.1.6
         type: ty
@@ -6739,6 +7076,7 @@ courses:
           C: to be totally committed to God.
           D: not to marry without the blessing of a priest.
         answer: C
+        print_position: 8
       - uid: BIB318.12.2.2.UPE.1
         subobj: 12.2.2
         type: upe
@@ -6749,6 +7087,8 @@ courses:
           C: not making idols.
           D: to show respect for people in authority.
         answer: B
+        print_position: 12
+        unit: 5
       - uid: BIB318.12.2.2.UPE.2
         subobj: 12.2.2
         type: upe
@@ -6761,6 +7101,8 @@ courses:
           D: to be doubled if the chief priest determined that an individual disobeyed
             a commandment.
         answer: A
+        print_position: 13
+        unit: 5
       - uid: BIB318.12.2.2.UPE.3
         subobj: 12.2.2
         type: upe
@@ -6771,6 +7113,8 @@ courses:
           C: servants were never to be set free and yet a man could marry his servant.
           D: an animal with a defect could be sacrificed and yet it could not be eaten.
         answer: A
+        print_position: 14
+        unit: 5
       - uid: BIB318.12.2.2.TY.1
         subobj: 12.2.2
         type: ty
@@ -6781,6 +7125,7 @@ courses:
           C: showing respect for people in authority.
           D: not misrepresenting the Lord, His will, and His values.
         answer: D
+        print_position: 9
       - uid: BIB318.12.2.2.TY.2
         subobj: 12.2.2
         type: ty
@@ -6793,6 +7138,7 @@ courses:
           D: God’s people may borrow from other nations, but they should never lend
             to them.
         answer: A
+        print_position: 10
       - uid: BIB318.13.1.1.UPE.1
         subobj: 13.1.1
         type: upe
@@ -6806,6 +7152,8 @@ courses:
           D: The people closest to them were required to privately testify to the
             prophet’s true character.
         answer: C
+        print_position: 15
+        unit: 5
       - uid: BIB318.13.1.1.UPE.2
         subobj: 13.1.1
         type: upe
@@ -6817,6 +7165,8 @@ courses:
           C: it is best if they are educated and married to one wife.
           D: the Old Testament civil leaders also had to be priests.
         answer: B
+        print_position: 16
+        unit: 5
       - uid: BIB318.13.1.1.UPE.3
         subobj: 13.1.1
         type: upe
@@ -6827,6 +7177,8 @@ courses:
           C: go to the priests and ask for a verdict.
           D: have three judges agree on a verdict.
         answer: C
+        print_position: 17
+        unit: 5
       - uid: BIB318.13.1.1.TY.1
         subobj: 13.1.1
         type: ty
@@ -6839,6 +7191,7 @@ courses:
             death.
           D: the Old Testament civil leaders also had to be priests.
         answer: A
+        print_position: 1
       - uid: BIB318.13.1.1.TY.2
         subobj: 13.1.1
         type: ty
@@ -6849,6 +7202,7 @@ courses:
           C: go to the priests and ask for a verdict.
           D: have three judges agree on a verdict.
         answer: C
+        print_position: 2
       - uid: BIB318.13.1.2.UPE.1
         subobj: 13.1.2
         type: upe
@@ -6860,6 +7214,8 @@ courses:
           C: the murderer had to be cast out into the desert without food.
           D: the murderer had to be stoned and his body left unburied.
         answer: A
+        print_position: 18
+        unit: 5
       - uid: BIB318.13.1.2.TY.1
         subobj: 13.1.2
         type: ty
@@ -6870,6 +7226,7 @@ courses:
           C: the judges were to fast and pray three days before issuing a punishment.
           D: it makes no difference to God whether or not the death was intentional.
         answer: A
+        print_position: 3
       - uid: BIB318.13.2.1.UPE.1
         subobj: 13.2.1
         type: upe
@@ -6880,6 +7237,8 @@ courses:
           C: any person who remarried was committing adultery.
           D: divorces could only be granted in certain years as declared by the priests.
         answer: B
+        print_position: 19
+        unit: 5
       - uid: BIB318.13.2.1.UPE.2
         subobj: 13.2.1
         type: upe
@@ -6891,6 +7250,8 @@ courses:
           C: prohibited for all priests who led worship.
           D: only intended for the purposes of procreation.
         answer: A
+        print_position: 20
+        unit: 5
       - uid: BIB318.13.2.1.TY.1
         subobj: 13.2.1
         type: ty
@@ -6901,6 +7262,7 @@ courses:
           C: a divorced person could not remarry.
           D: it was to be restricted to serious situations and required a process.
         answer: D
+        print_position: 4
       - uid: BIB318.13.2.1.TY.2
         subobj: 13.2.1
         type: ty
@@ -6911,6 +7273,7 @@ courses:
           C: be given safe dwelling because the Lord had delivered Israel from slavery.
           D: serve the Levites the rest of their lives.
         answer: C
+        print_position: 5
       - uid: BIB318.13.2.2.UPE.1
         subobj: 13.2.2
         type: upe
@@ -6922,6 +7285,8 @@ courses:
           C: an ancient idea borrowed from an ethical sect of Egyptians.
           D: established by Noah after the Flood.
         answer: A
+        print_position: 21
+        unit: 5
       - uid: BIB318.13.2.2.TY.1
         subobj: 13.2.2
         type: ty
@@ -6933,6 +7298,7 @@ courses:
           C: an unrealistic standard for people to live by.
           D: common among all ancient cultures.
         answer: B
+        print_position: 6
       - uid: BIB318.13.2.3.TY.1
         subobj: 13.2.3
         type: ty
@@ -6943,6 +7309,7 @@ courses:
           C: Identify with God through sacrifice.
           D: Remain vulnerable to attacks because that builds faith.
         answer: B
+        print_position: 7
       - uid: BIB318.13.3.1.UPE.1
         subobj: 13.3.1
         type: upe
@@ -6955,6 +7322,8 @@ courses:
           D: Real love forgets and covers a loved one’s mistake to protect him or
             her from harm.
         answer: C
+        print_position: 22
+        unit: 5
       - uid: BIB318.13.3.1.UPE.2
         subobj: 13.3.1
         type: upe
@@ -6965,6 +7334,8 @@ courses:
           C: having different criteria for various individuals.
           D: being based on a person’s faith and good works.
         answer: B
+        print_position: 24
+        unit: 5
       - uid: BIB318.13.3.1.TY.1
         subobj: 13.3.1
         type: ty
@@ -6976,6 +7347,7 @@ courses:
           C: Real love can wane and die.
           D: Real love takes many forms—both good and bad.
         answer: B
+        print_position: 8
       - uid: BIB318.13.3.2.UPE.1
         subobj: 13.3.2
         type: upe
@@ -6986,6 +7358,8 @@ courses:
           C: Life would be easy in the Promised Land.
           D: God will judge His people when they turn away from Him.
         answer: D
+        print_position: 23
+        unit: 5
       - uid: BIB318.13.3.2.TY.1
         subobj: 13.3.2
         type: ty
@@ -6996,6 +7370,7 @@ courses:
           C: Life will be full and rich in the Promised Land.
           D: God will judge His people when they turn from Him.
         answer: D
+        print_position: 9
       - uid: BIB318.13.3.3.UPE.1
         subobj: 13.3.3
         type: upe
@@ -7006,6 +7381,8 @@ courses:
           C: the necessity to keep renewing the agreement at appropriate times.
           D: the inadequacies of other nations.
         answer: A
+        print_position: 25
+        unit: 5
       - uid: BIB318.13.3.3.TY.1
         subobj: 13.3.3
         type: ty
@@ -7016,6 +7393,8 @@ courses:
           C: the necessity to keep renewing the agreement at appropriate times.
           D: the inadequacies of others.
         answer: A
+        print_position: 10
+      captured: reparse
     deployed_pn: 03.26.01
     body_baseline_pn: 03.26.01
     bsb_revit: 1
