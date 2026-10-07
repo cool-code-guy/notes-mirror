@@ -14,7 +14,7 @@ Active content only — retired material is excluded from every figure.
 | --- | --- |
 | Active courses | 49 |
 | Retired courses | 9 |
-| Assessment items | 13,710 |
+| Assessment items | 13,679 |
 | Curriculum paragraphs | 112,746 |
 | Interactive study questions | 10,590 |
 | Scripture references | 41,098 |
@@ -71,7 +71,7 @@ Published sequence toward Ordained Minister credentialing.
 | 3 | [BIB313](courses/BIB313.md) — The Corinthian Correspondence | 3 | 304 |
 | 4 | [MIN325](courses/MIN325.md) — Preaching in the Contemporary World | 3 | 296 |
 | 5 | [BIB318](courses/BIB318.md) — The Pentateuch | 3 | 360 |
-| 6 | [BIB322](courses/BIB322.md) — The Poetic Books | 3 | 276 |
+| 6 | [BIB322](courses/BIB322.md) — The Poetic Books | 3 | 245 |
 | 7 | [MIN381](courses/MIN381.md) — Pastoral Ministry | 3 | 380 |
 | 8 | [THE311](courses/THE311.md) — Prayer and Worship | 3 | 295 |
 
@@ -100,7 +100,7 @@ Published sequence toward Ordained Minister credentialing.
 | [BIB313S](courses/BIB313S.md) | Las epístolas a los corintios |  | 02.14.01 | 11 | 29 | 210 |
 | [BIB318](courses/BIB318.md) | Pentateuch | 3 | 03.26.01 | 13 | 36 | 360 |
 | [BIB318S](courses/BIB318S.md) | El Pentateuco |  | 02.14.01 | 13 | 36 | 230 |
-| [BIB322](courses/BIB322.md) | The Poetic Books | 3 | 03.26.01 | 8 | 27 | 276 |
+| [BIB322](courses/BIB322.md) | The Poetic Books | 3 | 03.26.01 | 8 | 27 | 245 |
 | [BIB322S](courses/BIB322S.md) | Los Libros Poéticos |  | 02.14.02 | 8 | 27 | 155 |
 | [MIN123S](courses/MIN123S.md) | El evangelismo en la iglesia local |  | 2.15.01 | 15 | 42 | 325 |
 | [MIN171](courses/MIN171.md) | Spirit-Empowered Church | 1 | 02.26.02 | 17 | 43 | 327 |
