@@ -64,8 +64,8 @@ courses:
       - 12
       - 13
       title: The Witness of the Church to the Ends of the Earth
-    revision_cycle_progress: 3.0
-    revision_cycle_timestamp: '2026-04-01'
+    revision_cycle_progress: 3.5
+    revision_cycle_timestamp: '2026-10-14'
     revision_cycle_history:
       '3.0':
         timestamp: '2026-04-01'
@@ -78,6 +78,9 @@ courses:
         timestamp: '2006-01-01'
         precision: year
         source: copyright
+      '3.5':
+        timestamp: '2026-10-14'
+        PN: 03.22.01
     printings:
     - pn: 03.21.01
       course_code: BIB211
