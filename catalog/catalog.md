@@ -14,7 +14,7 @@ Active content only — retired material is excluded from every figure.
 | --- | --- |
 | Active courses | 49 |
 | Retired courses | 9 |
-| Assessment items | 13,607 |
+| Assessment items | 13,618 |
 | Curriculum paragraphs | 111,599 |
 | Interactive study questions | 10,544 |
 | Scripture references | 40,945 |
@@ -50,7 +50,7 @@ Published sequence toward Licensed Minister credentialing.
 | # | Course | Level | Items |
 | --- | --- | --- | --- |
 | 1 | Intermediate Ministerial Internship — *not tracked in examdb (practicum course)* | | |
-| 2 | [BIB211](courses/BIB211.md) — Acts: The Holy Spirit at Work in Believers | 2 | 327 |
+| 2 | [BIB211](courses/BIB211.md) — Acts: The Holy Spirit at Work in Believers | 2 | 338 |
 | 3 | [MIN227](courses/MIN227.md) — The Local Church in Evangelism | 2 | 621 |
 | 4 | [BIB217](courses/BIB217.md) — Prison Epistles | 2 | 306 |
 | 5 | [BIB215](courses/BIB215.md) — Romans: Justification by Faith | 2 | 249 |
@@ -90,7 +90,7 @@ Published sequence toward Ordained Minister credentialing.
 | [BIB117S](courses/BIB117S.md) | Epístolas de la prisión: Efesios, Filipenses, Colosenses y Filemón |  | 02.22.01 | 13 | 40 | 291 |
 | [BIB121](courses/BIB121.md) | Introduction to Hermeneutics | 1 | 03.23.01 | 15 | 42 | 335 |
 | [BIB121S](courses/BIB121S.md) | Introducción a la hermenéutica: Cómo interpretar la Biblia |  | 02.22.01 | 15 | 40 | 250 |
-| [BIB211](courses/BIB211.md) | ⚠️ _Acts: The Holy Spirit at Work in Believers (unconfirmed)_ | 2 | 03.22.01 | 13 | 38 | 327 |
+| [BIB211](courses/BIB211.md) | ⚠️ _Acts: The Holy Spirit at Work in Believers (unconfirmed)_ | 2 | 03.22.01 | 13 | 38 | 338 |
 | [BIB212S](courses/BIB212S.md) | Estudio del Nuevo Testamento |  | 02.22.01 | 13 | 39 | 205 |
 | [BIB214S](courses/BIB214S.md) | Estudio del Antiguo Testamento |  | 02.22.01 | 15 | 47 | 275 |
 | [BIB215](courses/BIB215.md) | ⚠️ _Romans: Justification by Faith (unconfirmed)_ | 2 | 03.22.01 | 8 | 26 | 249 |
