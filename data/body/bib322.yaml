@@ -7787,13 +7787,14 @@ courses:
               change: substantive
             body:
             - p: 2
-              text: Define literary genre , and explain its importance in biblical
+              text: Define "literary genre", and explain its importance in biblical
                 interpretation.
               kind: prose
               cls: IST_Objective-text
-              md: '*Define* literary genre*, and explain its importance in biblical
+              md: '*Define "literary genre", and explain its importance in biblical
                 interpretation.*'
-              UID: BIB322.1.2.1.P.17
+              UID: BIB322.1.2.1.P.17.1
+              source_uid: BIB322.1.2.1.P.17
             - p: 1
               text: Understanding genre is important no matter what we read. Genre
                 describes a type of literature that has a particular style, form,
@@ -8119,6 +8120,17 @@ courses:
               UID: BIB322.1.2.1.P.12
               status: outdated 2026-10-06
               outdated_reason: struck
+            - p: 2
+              text: Define literary genre , and explain its importance in biblical
+                interpretation.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Define* literary genre*, and explain its importance in biblical
+                interpretation.*'
+              UID: BIB322.1.2.1.P.17
+              status: outdated 2026-10-15
+              outdated_reason: revised
+              replaced_by: BIB322.1.2.1.P.17.1
             citations:
             - citekey: hill2023
               pandoc: '[@hill2023, 262]'
@@ -8240,13 +8252,14 @@ courses:
             glossary: []
             body:
             - p: 2
-              text: Define literary genre , and explain its importance in biblical
+              text: Define "literary genre", and explain its importance in biblical
                 interpretation.
               kind: prose
               cls: IST_Objective-text
-              md: '*Define* literary genre*, and explain its importance in biblical
+              md: '*Define "literary genre", and explain its importance in biblical
                 interpretation.*'
-              UID: BIB322.1.2.2.P.17
+              UID: BIB322.1.2.2.P.17.1
+              source_uid: BIB322.1.2.2.P.17
             - p: 1
               text: Understanding genre is important no matter what we read. Genre
                 describes a type of literature that has a particular style, form,
@@ -8572,6 +8585,17 @@ courses:
               UID: BIB322.1.2.2.P.12
               status: outdated 2026-10-06
               outdated_reason: struck
+            - p: 2
+              text: Define literary genre , and explain its importance in biblical
+                interpretation.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Define* literary genre*, and explain its importance in biblical
+                interpretation.*'
+              UID: BIB322.1.2.2.P.17
+              status: outdated 2026-10-15
+              outdated_reason: revised
+              replaced_by: BIB322.1.2.2.P.17.1
             citations:
             - citekey: hill2023
               pandoc: '[@hill2023, 262]'
@@ -8698,13 +8722,14 @@ courses:
               change: substantive
             body:
             - p: 2
-              text: Define literary genre , and explain its importance in biblical
+              text: Define "literary genre", and explain its importance in biblical
                 interpretation.
               kind: prose
               cls: IST_Objective-text
-              md: '*Define* literary genre*, and explain its importance in biblical
+              md: '*Define "literary genre", and explain its importance in biblical
                 interpretation.*'
-              UID: BIB322.1.2.3.P.17
+              UID: BIB322.1.2.3.P.17.1
+              source_uid: BIB322.1.2.3.P.17
             - p: 1
               text: Understanding genre is important no matter what we read. Genre
                 describes a type of literature that has a particular style, form,
@@ -9030,6 +9055,17 @@ courses:
               UID: BIB322.1.2.3.P.12
               status: outdated 2026-10-06
               outdated_reason: struck
+            - p: 2
+              text: Define literary genre , and explain its importance in biblical
+                interpretation.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Define* literary genre*, and explain its importance in biblical
+                interpretation.*'
+              UID: BIB322.1.2.3.P.17
+              status: outdated 2026-10-15
+              outdated_reason: revised
+              replaced_by: BIB322.1.2.3.P.17.1
             citations:
             - citekey: hill2023
               pandoc: '[@hill2023, 262]'
@@ -50112,11 +50148,12 @@ courses:
             glossary: []
             body:
             - p: 3
-              text: Define Torah and the concept of retributional justice.
+              text: Define "Torah" and the concept of retributional justice.
               kind: prose
               cls: IST_Objective-text
-              md: '*Define* Torah *and the concept of retributional justice.*'
-              UID: BIB322.6.3.1.P.11
+              md: '*Define "Torah" and the concept of retributional justice.*'
+              UID: BIB322.6.3.1.P.11.1
+              source_uid: BIB322.6.3.1.P.11
             - p: 1
               text: The Reality of Retributional Justice
               kind: heading
@@ -50350,6 +50387,15 @@ courses:
               status: outdated 2026-10-15
               outdated_reason: revised
               replaced_by: BIB322.6.3.1.P.6.2
+            - p: 3
+              text: Define Torah and the concept of retributional justice.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Define* Torah *and the concept of retributional justice.*'
+              UID: BIB322.6.3.1.P.11
+              status: outdated 2026-10-15
+              outdated_reason: revised
+              replaced_by: BIB322.6.3.1.P.11.1
             citations:
             - citekey: davis2000
               pandoc: '[@davis2000]'
@@ -50451,11 +50497,12 @@ courses:
             glossary: []
             body:
             - p: 3
-              text: Define Torah and the concept of retributional justice.
+              text: Define "Torah" and the concept of retributional justice.
               kind: prose
               cls: IST_Objective-text
-              md: '*Define* Torah *and the concept of retributional justice.*'
-              UID: BIB322.6.3.2.P.11
+              md: '*Define "Torah" and the concept of retributional justice.*'
+              UID: BIB322.6.3.2.P.11.1
+              source_uid: BIB322.6.3.2.P.11
             - p: 1
               text: The Reality of Retributional Justice
               kind: heading
@@ -50689,6 +50736,15 @@ courses:
               status: outdated 2026-10-15
               outdated_reason: revised
               replaced_by: BIB322.6.3.2.P.6.2
+            - p: 3
+              text: Define Torah and the concept of retributional justice.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Define* Torah *and the concept of retributional justice.*'
+              UID: BIB322.6.3.2.P.11
+              status: outdated 2026-10-15
+              outdated_reason: revised
+              replaced_by: BIB322.6.3.2.P.11.1
             citations:
             - citekey: davis2000
               pandoc: '[@davis2000]'
@@ -54681,11 +54737,12 @@ courses:
             glossary: []
             body:
             - p: 3
-              text: Identify the autho r ’s purpose in writing Ecclesiastes.
+              text: Identify the author’s purpose in writing Ecclesiastes.
               kind: prose
               cls: IST_Objective-text
-              md: '*Identify the autho**r**’s purpose in writing Ecclesiastes.*'
-              UID: BIB322.7.1.1.P.23
+              md: '*Identify the author’s purpose in writing Ecclesiastes.*'
+              UID: BIB322.7.1.1.P.23.1
+              source_uid: BIB322.7.1.1.P.23
             - p: 1
               text: Purpose
               kind: heading
@@ -54866,13 +54923,12 @@ courses:
               UID: BIB322.7.1.1.P.15
               page: 94
             - p: 19
-              text: Discuss the Preache r ’s conclusions about the major themes of
-                Ecclesiastes.
+              text: Discuss the Preacher’s conclusions about the major themes of Ecclesiastes.
               kind: prose
               cls: IST_Objective-text
-              md: '*Discuss the Preache**r**’s conclusions about the major themes
-                of Ecclesiastes.*'
-              UID: BIB322.7.1.1.P.26
+              md: '*Discuss the Preacher’s conclusions about the major themes of Ecclesiastes.*'
+              UID: BIB322.7.1.1.P.26.1
+              source_uid: BIB322.7.1.1.P.26
             - p: 20
               text: Content
               kind: heading
@@ -55107,6 +55163,26 @@ courses:
               status: outdated 2026-10-15
               outdated_reason: revised
               replaced_by: BIB322.7.1.1.P.22.1
+            - p: 3
+              text: Identify the autho r ’s purpose in writing Ecclesiastes.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Identify the autho**r**’s purpose in writing Ecclesiastes.*'
+              UID: BIB322.7.1.1.P.23
+              status: outdated 2026-10-15
+              outdated_reason: revised
+              replaced_by: BIB322.7.1.1.P.23.1
+            - p: 19
+              text: Discuss the Preache r ’s conclusions about the major themes of
+                Ecclesiastes.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Discuss the Preache**r**’s conclusions about the major themes
+                of Ecclesiastes.*'
+              UID: BIB322.7.1.1.P.26
+              status: outdated 2026-10-15
+              outdated_reason: revised
+              replaced_by: BIB322.7.1.1.P.26.1
             interactive_questions:
             - p: 1
               text: Why was Ecclesiastes written?
@@ -55144,11 +55220,12 @@ courses:
             glossary: []
             body:
             - p: 3
-              text: Identify the autho r ’s purpose in writing Ecclesiastes.
+              text: Identify the author’s purpose in writing Ecclesiastes.
               kind: prose
               cls: IST_Objective-text
-              md: '*Identify the autho**r**’s purpose in writing Ecclesiastes.*'
-              UID: BIB322.7.1.2.P.23
+              md: '*Identify the author’s purpose in writing Ecclesiastes.*'
+              UID: BIB322.7.1.2.P.23.1
+              source_uid: BIB322.7.1.2.P.23
             - p: 1
               text: Purpose
               kind: heading
@@ -55329,13 +55406,12 @@ courses:
               UID: BIB322.7.1.2.P.15
               page: 94
             - p: 19
-              text: Discuss the Preache r ’s conclusions about the major themes of
-                Ecclesiastes.
+              text: Discuss the Preacher’s conclusions about the major themes of Ecclesiastes.
               kind: prose
               cls: IST_Objective-text
-              md: '*Discuss the Preache**r**’s conclusions about the major themes
-                of Ecclesiastes.*'
-              UID: BIB322.7.1.2.P.26
+              md: '*Discuss the Preacher’s conclusions about the major themes of Ecclesiastes.*'
+              UID: BIB322.7.1.2.P.26.1
+              source_uid: BIB322.7.1.2.P.26
             - p: 20
               text: Content
               kind: heading
@@ -55572,6 +55648,26 @@ courses:
               status: outdated 2026-10-15
               outdated_reason: revised
               replaced_by: BIB322.7.1.2.P.22.1
+            - p: 3
+              text: Identify the autho r ’s purpose in writing Ecclesiastes.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Identify the autho**r**’s purpose in writing Ecclesiastes.*'
+              UID: BIB322.7.1.2.P.23
+              status: outdated 2026-10-15
+              outdated_reason: revised
+              replaced_by: BIB322.7.1.2.P.23.1
+            - p: 19
+              text: Discuss the Preache r ’s conclusions about the major themes of
+                Ecclesiastes.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Discuss the Preache**r**’s conclusions about the major themes
+                of Ecclesiastes.*'
+              UID: BIB322.7.1.2.P.26
+              status: outdated 2026-10-15
+              outdated_reason: revised
+              replaced_by: BIB322.7.1.2.P.26.1
             interactive_questions:
             - p: 1
               text: Why was Ecclesiastes written?
@@ -55616,11 +55712,12 @@ courses:
             glossary: []
             body:
             - p: 3
-              text: Identify the autho r ’s purpose in writing Ecclesiastes.
+              text: Identify the author’s purpose in writing Ecclesiastes.
               kind: prose
               cls: IST_Objective-text
-              md: '*Identify the autho**r**’s purpose in writing Ecclesiastes.*'
-              UID: BIB322.7.1.3.P.23
+              md: '*Identify the author’s purpose in writing Ecclesiastes.*'
+              UID: BIB322.7.1.3.P.23.1
+              source_uid: BIB322.7.1.3.P.23
             - p: 1
               text: Purpose
               kind: heading
@@ -55801,13 +55898,12 @@ courses:
               UID: BIB322.7.1.3.P.15
               page: 94
             - p: 19
-              text: Discuss the Preache r ’s conclusions about the major themes of
-                Ecclesiastes.
+              text: Discuss the Preacher’s conclusions about the major themes of Ecclesiastes.
               kind: prose
               cls: IST_Objective-text
-              md: '*Discuss the Preache**r**’s conclusions about the major themes
-                of Ecclesiastes.*'
-              UID: BIB322.7.1.3.P.26
+              md: '*Discuss the Preacher’s conclusions about the major themes of Ecclesiastes.*'
+              UID: BIB322.7.1.3.P.26.1
+              source_uid: BIB322.7.1.3.P.26
             - p: 20
               text: Content
               kind: heading
@@ -56044,6 +56140,26 @@ courses:
               status: outdated 2026-10-15
               outdated_reason: revised
               replaced_by: BIB322.7.1.3.P.22.1
+            - p: 3
+              text: Identify the autho r ’s purpose in writing Ecclesiastes.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Identify the autho**r**’s purpose in writing Ecclesiastes.*'
+              UID: BIB322.7.1.3.P.23
+              status: outdated 2026-10-15
+              outdated_reason: revised
+              replaced_by: BIB322.7.1.3.P.23.1
+            - p: 19
+              text: Discuss the Preache r ’s conclusions about the major themes of
+                Ecclesiastes.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Discuss the Preache**r**’s conclusions about the major themes
+                of Ecclesiastes.*'
+              UID: BIB322.7.1.3.P.26
+              status: outdated 2026-10-15
+              outdated_reason: revised
+              replaced_by: BIB322.7.1.3.P.26.1
             interactive_questions:
             - p: 1
               text: Why was Ecclesiastes written?
@@ -56088,11 +56204,12 @@ courses:
             glossary: []
             body:
             - p: 3
-              text: Identify the autho r ’s purpose in writing Ecclesiastes.
+              text: Identify the author’s purpose in writing Ecclesiastes.
               kind: prose
               cls: IST_Objective-text
-              md: '*Identify the autho**r**’s purpose in writing Ecclesiastes.*'
-              UID: BIB322.7.1.4.P.23
+              md: '*Identify the author’s purpose in writing Ecclesiastes.*'
+              UID: BIB322.7.1.4.P.23.1
+              source_uid: BIB322.7.1.4.P.23
             - p: 1
               text: Purpose
               kind: heading
@@ -56273,13 +56390,12 @@ courses:
               UID: BIB322.7.1.4.P.15
               page: 94
             - p: 19
-              text: Discuss the Preache r ’s conclusions about the major themes of
-                Ecclesiastes.
+              text: Discuss the Preacher’s conclusions about the major themes of Ecclesiastes.
               kind: prose
               cls: IST_Objective-text
-              md: '*Discuss the Preache**r**’s conclusions about the major themes
-                of Ecclesiastes.*'
-              UID: BIB322.7.1.4.P.26
+              md: '*Discuss the Preacher’s conclusions about the major themes of Ecclesiastes.*'
+              UID: BIB322.7.1.4.P.26.1
+              source_uid: BIB322.7.1.4.P.26
             - p: 20
               text: Content
               kind: heading
@@ -56516,6 +56632,26 @@ courses:
               status: outdated 2026-10-15
               outdated_reason: revised
               replaced_by: BIB322.7.1.4.P.22.1
+            - p: 3
+              text: Identify the autho r ’s purpose in writing Ecclesiastes.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Identify the autho**r**’s purpose in writing Ecclesiastes.*'
+              UID: BIB322.7.1.4.P.23
+              status: outdated 2026-10-15
+              outdated_reason: revised
+              replaced_by: BIB322.7.1.4.P.23.1
+            - p: 19
+              text: Discuss the Preache r ’s conclusions about the major themes of
+                Ecclesiastes.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Discuss the Preache**r**’s conclusions about the major themes
+                of Ecclesiastes.*'
+              UID: BIB322.7.1.4.P.26
+              status: outdated 2026-10-15
+              outdated_reason: revised
+              replaced_by: BIB322.7.1.4.P.26.1
             interactive_questions:
             - p: 1
               text: Why was Ecclesiastes written?
@@ -62863,12 +62999,12 @@ courses:
                 11:3), so it would be perfectly natural for him to have penned the
                 love poetry of the book. In fact, ancient Jewish tradition identifies
                 Solomon as author of the book bearing his name. Solomon is mentioned
-                by name in several places within the book (1:1, 5; 3:7, 9, 11; 8:11–12),
-                and there is no compelling reason to doubt that part, if not all,
-                of the book originated during his time. As we shall see, the structure
-                of the Song of Solomon is somewhat confusing, and it is possible that
-                Solomon contributed portions of the book that were subsequently edited
-                and to which additions were made.
+                by name in several places within the book (Song of Solomon 1:1, 5;
+                3:7, 9, 11; 8:11–12), and there is no compelling reason to doubt that
+                part, if not all, of the book originated during his time. As we shall
+                see, the structure of the Song of Solomon is somewhat confusing, and
+                it is possible that Solomon contributed portions of the book that
+                were subsequently edited and to which additions were made.
               kind: prose
               cls: IST_Body-Indent
               md: Song of Solomon is included among the wisdom writings because of
@@ -62877,14 +63013,15 @@ courses:
                 11:3), so it would be perfectly natural for him to have penned the
                 love poetry of the book. In fact, ancient Jewish tradition identifies
                 Solomon as author of the book bearing his name. Solomon is mentioned
-                by name in several places within the book<br/>(1:1, 5; 3:7, 9, 11;
-                8:11–12), and there is no compelling reason to doubt that part, if
-                not all, of the book originated during his time. As we shall see,
-                the structure of the Song of Solomon is somewhat confusing, and it
-                is possible that Solomon contributed portions of the book that were
-                subsequently edited and to which additions were made.
-              UID: BIB322.8.1.1.P.5
+                by name in several places within the book<br/>(Song of Solomon 1:1,
+                5; 3:7, 9, 11; 8:11–12), and there is no compelling reason to doubt
+                that part, if not all, of the book originated during his time. As
+                we shall see, the structure of the Song of Solomon is somewhat confusing,
+                and it is possible that Solomon contributed portions of the book that
+                were subsequently edited and to which additions were made.
+              UID: BIB322.8.1.1.P.5.1
               page: 107
+              source_uid: BIB322.8.1.1.P.5
             - p: 8
               text: Discuss ways the Song of Solomon has been interpreted historically.
               kind: prose
@@ -63349,6 +63486,38 @@ courses:
               status: outdated 2026-10-15
               outdated_reason: revised
               replaced_by: BIB322.8.1.1.P.17.2
+            - p: 7
+              text: Song of Solomon is included among the wisdom writings because
+                of its association with the person of Solomon. Solomon had an extensive
+                harem, with seven hundred wives and three hundred concubines (1 Kings
+                11:3), so it would be perfectly natural for him to have penned the
+                love poetry of the book. In fact, ancient Jewish tradition identifies
+                Solomon as author of the book bearing his name. Solomon is mentioned
+                by name in several places within the book (1:1, 5; 3:7, 9, 11; 8:11–12),
+                and there is no compelling reason to doubt that part, if not all,
+                of the book originated during his time. As we shall see, the structure
+                of the Song of Solomon is somewhat confusing, and it is possible that
+                Solomon contributed portions of the book that were subsequently edited
+                and to which additions were made.
+              kind: prose
+              cls: IST_Body-Indent
+              md: Song of Solomon is included among the wisdom writings because of
+                its association with the person of Solomon. Solomon had an extensive
+                harem, with seven hundred wives and three hundred concubines (1 Kings
+                11:3), so it would be perfectly natural for him to have penned the
+                love poetry of the book. In fact, ancient Jewish tradition identifies
+                Solomon as author of the book bearing his name. Solomon is mentioned
+                by name in several places within the book<br/>(1:1, 5; 3:7, 9, 11;
+                8:11–12), and there is no compelling reason to doubt that part, if
+                not all, of the book originated during his time. As we shall see,
+                the structure of the Song of Solomon is somewhat confusing, and it
+                is possible that Solomon contributed portions of the book that were
+                subsequently edited and to which additions were made.
+              UID: BIB322.8.1.1.P.5
+              page: 107
+              status: outdated 2026-10-15
+              outdated_reason: revised
+              replaced_by: BIB322.8.1.1.P.5.1
             citations:
             - citekey: schwab2008
               pandoc: '[@schwab2008]'
@@ -63418,7 +63587,7 @@ courses:
               - ref: 1 Kings 11:3
                 key: 1kings.11.3
                 bib_gate: https://www.biblegateway.com/passage/?search=1%20Kings%2011%3A3&version=NIV
-              paragraph: BIB322.8.1.1.P.5
+              paragraph: BIB322.8.1.1.P.5.1
               UID: BIB322.8.1.1.S.1
             - intext: Song of Solomon 5:8–10
               version: NIV
@@ -63573,12 +63742,12 @@ courses:
                 11:3), so it would be perfectly natural for him to have penned the
                 love poetry of the book. In fact, ancient Jewish tradition identifies
                 Solomon as author of the book bearing his name. Solomon is mentioned
-                by name in several places within the book (1:1, 5; 3:7, 9, 11; 8:11–12),
-                and there is no compelling reason to doubt that part, if not all,
-                of the book originated during his time. As we shall see, the structure
-                of the Song of Solomon is somewhat confusing, and it is possible that
-                Solomon contributed portions of the book that were subsequently edited
-                and to which additions were made.
+                by name in several places within the book (Song of Solomon 1:1, 5;
+                3:7, 9, 11; 8:11–12), and there is no compelling reason to doubt that
+                part, if not all, of the book originated during his time. As we shall
+                see, the structure of the Song of Solomon is somewhat confusing, and
+                it is possible that Solomon contributed portions of the book that
+                were subsequently edited and to which additions were made.
               kind: prose
               cls: IST_Body-Indent
               md: Song of Solomon is included among the wisdom writings because of
@@ -63587,14 +63756,15 @@ courses:
                 11:3), so it would be perfectly natural for him to have penned the
                 love poetry of the book. In fact, ancient Jewish tradition identifies
                 Solomon as author of the book bearing his name. Solomon is mentioned
-                by name in several places within the book<br/>(1:1, 5; 3:7, 9, 11;
-                8:11–12), and there is no compelling reason to doubt that part, if
-                not all, of the book originated during his time. As we shall see,
-                the structure of the Song of Solomon is somewhat confusing, and it
-                is possible that Solomon contributed portions of the book that were
-                subsequently edited and to which additions were made.
-              UID: BIB322.8.1.2.P.5
+                by name in several places within the book<br/>(Song of Solomon 1:1,
+                5; 3:7, 9, 11; 8:11–12), and there is no compelling reason to doubt
+                that part, if not all, of the book originated during his time. As
+                we shall see, the structure of the Song of Solomon is somewhat confusing,
+                and it is possible that Solomon contributed portions of the book that
+                were subsequently edited and to which additions were made.
+              UID: BIB322.8.1.2.P.5.1
               page: 107
+              source_uid: BIB322.8.1.2.P.5
             - p: 8
               text: Discuss ways the Song of Solomon has been interpreted historically.
               kind: prose
@@ -64059,6 +64229,38 @@ courses:
               status: outdated 2026-10-15
               outdated_reason: revised
               replaced_by: BIB322.8.1.2.P.17.2
+            - p: 7
+              text: Song of Solomon is included among the wisdom writings because
+                of its association with the person of Solomon. Solomon had an extensive
+                harem, with seven hundred wives and three hundred concubines (1 Kings
+                11:3), so it would be perfectly natural for him to have penned the
+                love poetry of the book. In fact, ancient Jewish tradition identifies
+                Solomon as author of the book bearing his name. Solomon is mentioned
+                by name in several places within the book (1:1, 5; 3:7, 9, 11; 8:11–12),
+                and there is no compelling reason to doubt that part, if not all,
+                of the book originated during his time. As we shall see, the structure
+                of the Song of Solomon is somewhat confusing, and it is possible that
+                Solomon contributed portions of the book that were subsequently edited
+                and to which additions were made.
+              kind: prose
+              cls: IST_Body-Indent
+              md: Song of Solomon is included among the wisdom writings because of
+                its association with the person of Solomon. Solomon had an extensive
+                harem, with seven hundred wives and three hundred concubines (1 Kings
+                11:3), so it would be perfectly natural for him to have penned the
+                love poetry of the book. In fact, ancient Jewish tradition identifies
+                Solomon as author of the book bearing his name. Solomon is mentioned
+                by name in several places within the book<br/>(1:1, 5; 3:7, 9, 11;
+                8:11–12), and there is no compelling reason to doubt that part, if
+                not all, of the book originated during his time. As we shall see,
+                the structure of the Song of Solomon is somewhat confusing, and it
+                is possible that Solomon contributed portions of the book that were
+                subsequently edited and to which additions were made.
+              UID: BIB322.8.1.2.P.5
+              page: 107
+              status: outdated 2026-10-15
+              outdated_reason: revised
+              replaced_by: BIB322.8.1.2.P.5.1
             citations:
             - citekey: schwab2008
               pandoc: '[@schwab2008]'
@@ -64128,7 +64330,7 @@ courses:
               - ref: 1 Kings 11:3
                 key: 1kings.11.3
                 bib_gate: https://www.biblegateway.com/passage/?search=1%20Kings%2011%3A3&version=NIV
-              paragraph: BIB322.8.1.2.P.5
+              paragraph: BIB322.8.1.2.P.5.1
               UID: BIB322.8.1.2.S.1
             - intext: Song of Solomon 5:8–10
               version: NIV
@@ -64283,12 +64485,12 @@ courses:
                 11:3), so it would be perfectly natural for him to have penned the
                 love poetry of the book. In fact, ancient Jewish tradition identifies
                 Solomon as author of the book bearing his name. Solomon is mentioned
-                by name in several places within the book (1:1, 5; 3:7, 9, 11; 8:11–12),
-                and there is no compelling reason to doubt that part, if not all,
-                of the book originated during his time. As we shall see, the structure
-                of the Song of Solomon is somewhat confusing, and it is possible that
-                Solomon contributed portions of the book that were subsequently edited
-                and to which additions were made.
+                by name in several places within the book (Song of Solomon 1:1, 5;
+                3:7, 9, 11; 8:11–12), and there is no compelling reason to doubt that
+                part, if not all, of the book originated during his time. As we shall
+                see, the structure of the Song of Solomon is somewhat confusing, and
+                it is possible that Solomon contributed portions of the book that
+                were subsequently edited and to which additions were made.
               kind: prose
               cls: IST_Body-Indent
               md: Song of Solomon is included among the wisdom writings because of
@@ -64297,14 +64499,15 @@ courses:
                 11:3), so it would be perfectly natural for him to have penned the
                 love poetry of the book. In fact, ancient Jewish tradition identifies
                 Solomon as author of the book bearing his name. Solomon is mentioned
-                by name in several places within the book<br/>(1:1, 5; 3:7, 9, 11;
-                8:11–12), and there is no compelling reason to doubt that part, if
-                not all, of the book originated during his time. As we shall see,
-                the structure of the Song of Solomon is somewhat confusing, and it
-                is possible that Solomon contributed portions of the book that were
-                subsequently edited and to which additions were made.
-              UID: BIB322.8.1.3.P.5
+                by name in several places within the book<br/>(Song of Solomon 1:1,
+                5; 3:7, 9, 11; 8:11–12), and there is no compelling reason to doubt
+                that part, if not all, of the book originated during his time. As
+                we shall see, the structure of the Song of Solomon is somewhat confusing,
+                and it is possible that Solomon contributed portions of the book that
+                were subsequently edited and to which additions were made.
+              UID: BIB322.8.1.3.P.5.1
               page: 107
+              source_uid: BIB322.8.1.3.P.5
             - p: 8
               text: Discuss ways the Song of Solomon has been interpreted historically.
               kind: prose
@@ -64769,6 +64972,38 @@ courses:
               status: outdated 2026-10-15
               outdated_reason: revised
               replaced_by: BIB322.8.1.3.P.17.2
+            - p: 7
+              text: Song of Solomon is included among the wisdom writings because
+                of its association with the person of Solomon. Solomon had an extensive
+                harem, with seven hundred wives and three hundred concubines (1 Kings
+                11:3), so it would be perfectly natural for him to have penned the
+                love poetry of the book. In fact, ancient Jewish tradition identifies
+                Solomon as author of the book bearing his name. Solomon is mentioned
+                by name in several places within the book (1:1, 5; 3:7, 9, 11; 8:11–12),
+                and there is no compelling reason to doubt that part, if not all,
+                of the book originated during his time. As we shall see, the structure
+                of the Song of Solomon is somewhat confusing, and it is possible that
+                Solomon contributed portions of the book that were subsequently edited
+                and to which additions were made.
+              kind: prose
+              cls: IST_Body-Indent
+              md: Song of Solomon is included among the wisdom writings because of
+                its association with the person of Solomon. Solomon had an extensive
+                harem, with seven hundred wives and three hundred concubines (1 Kings
+                11:3), so it would be perfectly natural for him to have penned the
+                love poetry of the book. In fact, ancient Jewish tradition identifies
+                Solomon as author of the book bearing his name. Solomon is mentioned
+                by name in several places within the book<br/>(1:1, 5; 3:7, 9, 11;
+                8:11–12), and there is no compelling reason to doubt that part, if
+                not all, of the book originated during his time. As we shall see,
+                the structure of the Song of Solomon is somewhat confusing, and it
+                is possible that Solomon contributed portions of the book that were
+                subsequently edited and to which additions were made.
+              UID: BIB322.8.1.3.P.5
+              page: 107
+              status: outdated 2026-10-15
+              outdated_reason: revised
+              replaced_by: BIB322.8.1.3.P.5.1
             citations:
             - citekey: schwab2008
               pandoc: '[@schwab2008]'
@@ -64838,7 +65073,7 @@ courses:
               - ref: 1 Kings 11:3
                 key: 1kings.11.3
                 bib_gate: https://www.biblegateway.com/passage/?search=1%20Kings%2011%3A3&version=NIV
-              paragraph: BIB322.8.1.3.P.5
+              paragraph: BIB322.8.1.3.P.5.1
               UID: BIB322.8.1.3.S.1
             - intext: Song of Solomon 5:8–10
               version: NIV
@@ -64993,12 +65228,12 @@ courses:
                 11:3), so it would be perfectly natural for him to have penned the
                 love poetry of the book. In fact, ancient Jewish tradition identifies
                 Solomon as author of the book bearing his name. Solomon is mentioned
-                by name in several places within the book (1:1, 5; 3:7, 9, 11; 8:11–12),
-                and there is no compelling reason to doubt that part, if not all,
-                of the book originated during his time. As we shall see, the structure
-                of the Song of Solomon is somewhat confusing, and it is possible that
-                Solomon contributed portions of the book that were subsequently edited
-                and to which additions were made.
+                by name in several places within the book (Song of Solomon 1:1, 5;
+                3:7, 9, 11; 8:11–12), and there is no compelling reason to doubt that
+                part, if not all, of the book originated during his time. As we shall
+                see, the structure of the Song of Solomon is somewhat confusing, and
+                it is possible that Solomon contributed portions of the book that
+                were subsequently edited and to which additions were made.
               kind: prose
               cls: IST_Body-Indent
               md: Song of Solomon is included among the wisdom writings because of
@@ -65007,14 +65242,15 @@ courses:
                 11:3), so it would be perfectly natural for him to have penned the
                 love poetry of the book. In fact, ancient Jewish tradition identifies
                 Solomon as author of the book bearing his name. Solomon is mentioned
-                by name in several places within the book<br/>(1:1, 5; 3:7, 9, 11;
-                8:11–12), and there is no compelling reason to doubt that part, if
-                not all, of the book originated during his time. As we shall see,
-                the structure of the Song of Solomon is somewhat confusing, and it
-                is possible that Solomon contributed portions of the book that were
-                subsequently edited and to which additions were made.
-              UID: BIB322.8.1.4.P.5
+                by name in several places within the book<br/>(Song of Solomon 1:1,
+                5; 3:7, 9, 11; 8:11–12), and there is no compelling reason to doubt
+                that part, if not all, of the book originated during his time. As
+                we shall see, the structure of the Song of Solomon is somewhat confusing,
+                and it is possible that Solomon contributed portions of the book that
+                were subsequently edited and to which additions were made.
+              UID: BIB322.8.1.4.P.5.1
               page: 107
+              source_uid: BIB322.8.1.4.P.5
             - p: 8
               text: Discuss ways the Song of Solomon has been interpreted historically.
               kind: prose
@@ -65479,6 +65715,38 @@ courses:
               status: outdated 2026-10-15
               outdated_reason: revised
               replaced_by: BIB322.8.1.4.P.17.2
+            - p: 7
+              text: Song of Solomon is included among the wisdom writings because
+                of its association with the person of Solomon. Solomon had an extensive
+                harem, with seven hundred wives and three hundred concubines (1 Kings
+                11:3), so it would be perfectly natural for him to have penned the
+                love poetry of the book. In fact, ancient Jewish tradition identifies
+                Solomon as author of the book bearing his name. Solomon is mentioned
+                by name in several places within the book (1:1, 5; 3:7, 9, 11; 8:11–12),
+                and there is no compelling reason to doubt that part, if not all,
+                of the book originated during his time. As we shall see, the structure
+                of the Song of Solomon is somewhat confusing, and it is possible that
+                Solomon contributed portions of the book that were subsequently edited
+                and to which additions were made.
+              kind: prose
+              cls: IST_Body-Indent
+              md: Song of Solomon is included among the wisdom writings because of
+                its association with the person of Solomon. Solomon had an extensive
+                harem, with seven hundred wives and three hundred concubines (1 Kings
+                11:3), so it would be perfectly natural for him to have penned the
+                love poetry of the book. In fact, ancient Jewish tradition identifies
+                Solomon as author of the book bearing his name. Solomon is mentioned
+                by name in several places within the book<br/>(1:1, 5; 3:7, 9, 11;
+                8:11–12), and there is no compelling reason to doubt that part, if
+                not all, of the book originated during his time. As we shall see,
+                the structure of the Song of Solomon is somewhat confusing, and it
+                is possible that Solomon contributed portions of the book that were
+                subsequently edited and to which additions were made.
+              UID: BIB322.8.1.4.P.5
+              page: 107
+              status: outdated 2026-10-15
+              outdated_reason: revised
+              replaced_by: BIB322.8.1.4.P.5.1
             citations:
             - citekey: schwab2008
               pandoc: '[@schwab2008]'
@@ -65548,7 +65816,7 @@ courses:
               - ref: 1 Kings 11:3
                 key: 1kings.11.3
                 bib_gate: https://www.biblegateway.com/passage/?search=1%20Kings%2011%3A3&version=NIV
-              paragraph: BIB322.8.1.4.P.5
+              paragraph: BIB322.8.1.4.P.5.1
               UID: BIB322.8.1.4.S.1
             - intext: Song of Solomon 5:8–10
               version: NIV
