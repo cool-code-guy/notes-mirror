@@ -7687,6 +7687,14 @@ courses:
               outdated_reason: re-parsed
               change: substantive
             body:
+            - p: 2
+              text: Define literary genre , and explain its importance in biblical
+                interpretation.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Define* literary genre*, and explain its importance in biblical
+                interpretation.*'
+              UID: BIB322.1.2.1.P.17
             - p: 1
               text: Understanding genre is important no matter what we read. Genre
                 describes a type of literature that has a particular style, form,
@@ -7698,14 +7706,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.1.2.1.P.1.1
               source_uid: BIB322.1.2.1.P.1
-            - p: 2
-              text: Define literary genre , and explain its importance in biblical
-                interpretation.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Define* literary genre*, and explain its importance in biblical
-                interpretation.*'
-              UID: BIB322.1.2.1.P.17
             - p: 3
               text: When we study the poetic books of the Bible, we need to be aware
                 of the genres they represent. All of the books of Job, Psalms, Proverbs,
@@ -8140,6 +8140,14 @@ courses:
             text: Identify characteristics of Hebrew poetry.
             glossary: []
             body:
+            - p: 2
+              text: Define literary genre , and explain its importance in biblical
+                interpretation.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Define* literary genre*, and explain its importance in biblical
+                interpretation.*'
+              UID: BIB322.1.2.2.P.17
             - p: 1
               text: Understanding genre is important no matter what we read. Genre
                 describes a type of literature that has a particular style, form,
@@ -8151,14 +8159,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.1.2.2.P.1.1
               source_uid: BIB322.1.2.2.P.1
-            - p: 2
-              text: Define literary genre , and explain its importance in biblical
-                interpretation.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Define* literary genre*, and explain its importance in biblical
-                interpretation.*'
-              UID: BIB322.1.2.2.P.17
             - p: 3
               text: When we study the poetic books of the Bible, we need to be aware
                 of the genres they represent. All of the books of Job, Psalms, Proverbs,
@@ -8598,6 +8598,14 @@ courses:
               outdated_reason: re-parsed
               change: substantive
             body:
+            - p: 2
+              text: Define literary genre , and explain its importance in biblical
+                interpretation.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Define* literary genre*, and explain its importance in biblical
+                interpretation.*'
+              UID: BIB322.1.2.3.P.17
             - p: 1
               text: Understanding genre is important no matter what we read. Genre
                 describes a type of literature that has a particular style, form,
@@ -8609,14 +8617,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.1.2.3.P.1.1
               source_uid: BIB322.1.2.3.P.1
-            - p: 2
-              text: Define literary genre , and explain its importance in biblical
-                interpretation.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Define* literary genre*, and explain its importance in biblical
-                interpretation.*'
-              UID: BIB322.1.2.3.P.17
             - p: 3
               text: When we study the poetic books of the Bible, we need to be aware
                 of the genres they represent. All of the books of Job, Psalms, Proverbs,
@@ -9132,6 +9132,12 @@ courses:
               status: outdated 2026-10-06
               outdated_reason: struck
             body:
+            - p: 5
+              text: Describe poetic devices of Hebrew poetry.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Describe poetic devices of Hebrew poetry.*'
+              UID: BIB322.1.3.1.P.44
             - p: 1
               text: Praise the LORD.
               kind: quote
@@ -9153,12 +9159,6 @@ courses:
               kind: quote
               cls: IST_Body-Block-Quote
               UID: BIB322.1.3.1.P.43
-            - p: 5
-              text: Describe poetic devices of Hebrew poetry.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Describe poetic devices of Hebrew poetry.*'
-              UID: BIB322.1.3.1.P.44
             - p: 6
               text: praise him for his surpassing greatness.
               kind: quote
@@ -10065,6 +10065,12 @@ courses:
             text: Compare the use of repetition in English and Hebrew literature.
             glossary: []
             body:
+            - p: 5
+              text: Describe poetic devices of Hebrew poetry.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Describe poetic devices of Hebrew poetry.*'
+              UID: BIB322.1.3.2.P.44
             - p: 1
               text: Praise the LORD.
               kind: quote
@@ -10086,12 +10092,6 @@ courses:
               kind: quote
               cls: IST_Body-Block-Quote
               UID: BIB322.1.3.2.P.43
-            - p: 5
-              text: Describe poetic devices of Hebrew poetry.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Describe poetic devices of Hebrew poetry.*'
-              UID: BIB322.1.3.2.P.44
             - p: 6
               text: praise him for his surpassing greatness.
               kind: quote
@@ -10998,6 +10998,12 @@ courses:
             text: Identify four types of parallelism common to Hebrew poetry.
             glossary: []
             body:
+            - p: 5
+              text: Describe poetic devices of Hebrew poetry.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Describe poetic devices of Hebrew poetry.*'
+              UID: BIB322.1.3.3.P.44
             - p: 1
               text: Praise the LORD.
               kind: quote
@@ -11019,12 +11025,6 @@ courses:
               kind: quote
               cls: IST_Body-Block-Quote
               UID: BIB322.1.3.3.P.43
-            - p: 5
-              text: Describe poetic devices of Hebrew poetry.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Describe poetic devices of Hebrew poetry.*'
-              UID: BIB322.1.3.3.P.44
             - p: 6
               text: praise him for his surpassing greatness.
               kind: quote
@@ -11931,6 +11931,12 @@ courses:
             text: Explain the challenges of translating chiasm.
             glossary: []
             body:
+            - p: 5
+              text: Describe poetic devices of Hebrew poetry.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Describe poetic devices of Hebrew poetry.*'
+              UID: BIB322.1.3.4.P.44
             - p: 1
               text: Praise the LORD.
               kind: quote
@@ -11952,12 +11958,6 @@ courses:
               kind: quote
               cls: IST_Body-Block-Quote
               UID: BIB322.1.3.4.P.43
-            - p: 5
-              text: Describe poetic devices of Hebrew poetry.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Describe poetic devices of Hebrew poetry.*'
-              UID: BIB322.1.3.4.P.44
             - p: 6
               text: praise him for his surpassing greatness.
               kind: quote
@@ -12909,6 +12909,12 @@ courses:
               page: 26
               UID: BIB322.2.1.1.G.4
             body:
+            - p: 3
+              text: Explain why wisdom literature is valuable for believers.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Explain why wisdom literature is valuable for believers.*'
+              UID: BIB322.2.1.1.P.22
             - p: 1
               text: Why Study Wisdom Literature?
               kind: heading
@@ -12931,12 +12937,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.2.1.1.P.2
               page: 25
-            - p: 3
-              text: Explain why wisdom literature is valuable for believers.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Explain why wisdom literature is valuable for believers.*'
-              UID: BIB322.2.1.1.P.22
             - p: 4
               text: The study of wisdom is also important for the Christian because
                 it was important for Jesus and other writers of the New Testament.
@@ -13330,6 +13330,12 @@ courses:
               marketplace.”
             glossary: []
             body:
+            - p: 3
+              text: Explain why wisdom literature is valuable for believers.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Explain why wisdom literature is valuable for believers.*'
+              UID: BIB322.2.1.2.P.22
             - p: 1
               text: Why Study Wisdom Literature?
               kind: heading
@@ -13352,12 +13358,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.2.1.2.P.2
               page: 25
-            - p: 3
-              text: Explain why wisdom literature is valuable for believers.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Explain why wisdom literature is valuable for believers.*'
-              UID: BIB322.2.1.2.P.22
             - p: 4
               text: The study of wisdom is also important for the Christian because
                 it was important for Jesus and other writers of the New Testament.
@@ -13771,6 +13771,14 @@ courses:
               page: 27
               UID: BIB322.2.2.1.G.3
             body:
+            - p: 3
+              text: Identify the two forms of wisdom literature, and describe wisdom’s
+                content.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Identify the two forms of wisdom literature, and describe wisdom’s
+                content.*'
+              UID: BIB322.2.2.1.P.18
             - p: 1
               text: What Wisdom Looks Like
               kind: heading
@@ -13784,14 +13792,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.2.2.1.P.2
               page: 27
-            - p: 3
-              text: Identify the two forms of wisdom literature, and describe wisdom’s
-                content.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Identify the two forms of wisdom literature, and describe wisdom’s
-                content.*'
-              UID: BIB322.2.2.1.P.18
             - p: 4
               text: Form
               kind: heading
@@ -14155,6 +14155,14 @@ courses:
               and belief.
             glossary: []
             body:
+            - p: 3
+              text: Identify the two forms of wisdom literature, and describe wisdom’s
+                content.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Identify the two forms of wisdom literature, and describe wisdom’s
+                content.*'
+              UID: BIB322.2.2.2.P.18
             - p: 1
               text: What Wisdom Looks Like
               kind: heading
@@ -14168,14 +14176,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.2.2.2.P.2
               page: 27
-            - p: 3
-              text: Identify the two forms of wisdom literature, and describe wisdom’s
-                content.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Identify the two forms of wisdom literature, and describe wisdom’s
-                content.*'
-              UID: BIB322.2.2.2.P.18
             - p: 4
               text: Form
               kind: heading
@@ -14553,6 +14553,14 @@ courses:
               page: 32
               UID: BIB322.2.3.1.G.2
             body:
+            - p: 3
+              text: Identify ways wisdom writers emphasize the importance of this
+                world.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Identify ways wisdom writers emphasize the importance of this
+                world.*'
+              UID: BIB322.2.3.1.P.32
             - p: 1
               text: This World in Wisdom Tradition
               kind: heading
@@ -14577,14 +14585,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.2.3.1.P.2
               page: 29
-            - p: 3
-              text: Identify ways wisdom writers emphasize the importance of this
-                world.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Identify ways wisdom writers emphasize the importance of this
-                world.*'
-              UID: BIB322.2.3.1.P.32
             - p: 4
               text: Wisdom also provides a needed counterbalance to a kind of Christian
                 fatalism that says, “Because everything is in God’s hands, there is
@@ -15434,6 +15434,14 @@ courses:
             text: Summarize Solomon’s life as a wise man.
             glossary: []
             body:
+            - p: 3
+              text: Identify ways wisdom writers emphasize the importance of this
+                world.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Identify ways wisdom writers emphasize the importance of this
+                world.*'
+              UID: BIB322.2.3.2.P.32
             - p: 1
               text: This World in Wisdom Tradition
               kind: heading
@@ -15458,14 +15466,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.2.3.2.P.2
               page: 29
-            - p: 3
-              text: Identify ways wisdom writers emphasize the importance of this
-                world.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Identify ways wisdom writers emphasize the importance of this
-                world.*'
-              UID: BIB322.2.3.2.P.32
             - p: 4
               text: Wisdom also provides a needed counterbalance to a kind of Christian
                 fatalism that says, “Because everything is in God’s hands, there is
@@ -16315,6 +16315,14 @@ courses:
             text: Compare and contrast Israel’s wisdom with that of her neighbors.
             glossary: []
             body:
+            - p: 3
+              text: Identify ways wisdom writers emphasize the importance of this
+                world.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Identify ways wisdom writers emphasize the importance of this
+                world.*'
+              UID: BIB322.2.3.3.P.32
             - p: 1
               text: This World in Wisdom Tradition
               kind: heading
@@ -16339,14 +16347,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.2.3.3.P.2
               page: 29
-            - p: 3
-              text: Identify ways wisdom writers emphasize the importance of this
-                world.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Identify ways wisdom writers emphasize the importance of this
-                world.*'
-              UID: BIB322.2.3.3.P.32
             - p: 4
               text: Wisdom also provides a needed counterbalance to a kind of Christian
                 fatalism that says, “Because everything is in God’s hands, there is
@@ -17196,6 +17196,14 @@ courses:
             text: Explain how Israel’s wisdom tradition is unique.
             glossary: []
             body:
+            - p: 3
+              text: Identify ways wisdom writers emphasize the importance of this
+                world.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Identify ways wisdom writers emphasize the importance of this
+                world.*'
+              UID: BIB322.2.3.4.P.32
             - p: 1
               text: This World in Wisdom Tradition
               kind: heading
@@ -17220,14 +17228,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.2.3.4.P.2
               page: 29
-            - p: 3
-              text: Identify ways wisdom writers emphasize the importance of this
-                world.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Identify ways wisdom writers emphasize the importance of this
-                world.*'
-              UID: BIB322.2.3.4.P.32
             - p: 4
               text: Wisdom also provides a needed counterbalance to a kind of Christian
                 fatalism that says, “Because everything is in God’s hands, there is
@@ -18077,6 +18077,14 @@ courses:
             text: Summarize the development of Israel’s wisdom tradition.
             glossary: []
             body:
+            - p: 3
+              text: Identify ways wisdom writers emphasize the importance of this
+                world.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Identify ways wisdom writers emphasize the importance of this
+                world.*'
+              UID: BIB322.2.3.5.P.32
             - p: 1
               text: This World in Wisdom Tradition
               kind: heading
@@ -18101,14 +18109,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.2.3.5.P.2
               page: 29
-            - p: 3
-              text: Identify ways wisdom writers emphasize the importance of this
-                world.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Identify ways wisdom writers emphasize the importance of this
-                world.*'
-              UID: BIB322.2.3.5.P.32
             - p: 4
               text: Wisdom also provides a needed counterbalance to a kind of Christian
                 fatalism that says, “Because everything is in God’s hands, there is
@@ -18983,6 +18983,12 @@ courses:
               paragraph: BIB322.3.1.1.P.15.1
               UID: BIB322.3.1.1.G.2
             body:
+            - p: 3
+              text: Explain the importance of Job for believers.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Explain the importance of Job for believers.*'
+              UID: BIB322.3.1.1.P.20
             - p: 1
               text: Introduction
               kind: heading
@@ -19004,12 +19010,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.3.1.1.P.2
               page: 39
-            - p: 3
-              text: Explain the importance of Job for believers.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Explain the importance of Job for believers.*'
-              UID: BIB322.3.1.1.P.20
             - p: 4
               text: As we read Job, we are challenged to reexamine all of our general
                 statements about God’s goodness, power, justice, and love and to consider
@@ -19466,6 +19466,12 @@ courses:
             text: Summarize what is known of the origin of the book of Job.
             glossary: []
             body:
+            - p: 3
+              text: Explain the importance of Job for believers.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Explain the importance of Job for believers.*'
+              UID: BIB322.3.1.2.P.20
             - p: 1
               text: Introduction
               kind: heading
@@ -19487,12 +19493,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.3.1.2.P.2
               page: 39
-            - p: 3
-              text: Explain the importance of Job for believers.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Explain the importance of Job for believers.*'
-              UID: BIB322.3.1.2.P.20
             - p: 4
               text: As we read Job, we are challenged to reexamine all of our general
                 statements about God’s goodness, power, justice, and love and to consider
@@ -19949,6 +19949,12 @@ courses:
             text: Identify the major sections of Job.
             glossary: []
             body:
+            - p: 3
+              text: Explain the importance of Job for believers.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Explain the importance of Job for believers.*'
+              UID: BIB322.3.1.3.P.20
             - p: 1
               text: Introduction
               kind: heading
@@ -19970,12 +19976,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.3.1.3.P.2
               page: 39
-            - p: 3
-              text: Explain the importance of Job for believers.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Explain the importance of Job for believers.*'
-              UID: BIB322.3.1.3.P.20
             - p: 4
               text: As we read Job, we are challenged to reexamine all of our general
                 statements about God’s goodness, power, justice, and love and to consider
@@ -20440,6 +20440,12 @@ courses:
               page: 41
               UID: BIB322.3.2.1.G.1
             body:
+            - p: 3
+              text: Identify the question Satan raised about Job’s fear of God.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Identify the question Satan raised about Job’s fear of God.*'
+              UID: BIB322.3.2.1.P.28
             - p: 1
               text: Prologue (1:1–2:13)
               kind: heading
@@ -20458,12 +20464,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.3.2.1.P.2
               page: 41
-            - p: 3
-              text: Identify the question Satan raised about Job’s fear of God.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Identify the question Satan raised about Job’s fear of God.*'
-              UID: BIB322.3.2.1.P.28
             - p: 4
               text: 'The reader is then moved to heaven where God is holding court.
                 Each of his angels comes forward to report on their activities; included
@@ -20963,6 +20963,12 @@ courses:
             text: Compare Job’s response to his suffering with his friends’ response.
             glossary: []
             body:
+            - p: 3
+              text: Identify the question Satan raised about Job’s fear of God.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Identify the question Satan raised about Job’s fear of God.*'
+              UID: BIB322.3.2.2.P.28
             - p: 1
               text: Prologue (1:1–2:13)
               kind: heading
@@ -20981,12 +20987,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.3.2.2.P.2
               page: 41
-            - p: 3
-              text: Identify the question Satan raised about Job’s fear of God.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Identify the question Satan raised about Job’s fear of God.*'
-              UID: BIB322.3.2.2.P.28
             - p: 4
               text: 'The reader is then moved to heaven where God is holding court.
                 Each of his angels comes forward to report on their activities; included
@@ -21486,6 +21486,12 @@ courses:
             text: Summarize Job’s change of heart after God speaks.
             glossary: []
             body:
+            - p: 3
+              text: Identify the question Satan raised about Job’s fear of God.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Identify the question Satan raised about Job’s fear of God.*'
+              UID: BIB322.3.2.3.P.28
             - p: 1
               text: Prologue (1:1–2:13)
               kind: heading
@@ -21504,12 +21510,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.3.2.3.P.2
               page: 41
-            - p: 3
-              text: Identify the question Satan raised about Job’s fear of God.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Identify the question Satan raised about Job’s fear of God.*'
-              UID: BIB322.3.2.3.P.28
             - p: 4
               text: 'The reader is then moved to heaven where God is holding court.
                 Each of his angels comes forward to report on their activities; included
@@ -22013,6 +22013,14 @@ courses:
               understanding is true.
             glossary: []
             body:
+            - p: 2
+              text: Discuss ways Job’s character has been understood and whether such
+                understanding is true.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Discuss ways Job’s character has been understood and whether such
+                understanding is true.*'
+              UID: BIB322.3.3.1.P.12
             - p: 1
               text: 'Donald Berry asks his readers to consider the figure of Job,
                 both in his patience and outrage and in his quiet resignation and
@@ -22024,14 +22032,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.3.3.1.P.1
               page: 43
-            - p: 2
-              text: Discuss ways Job’s character has been understood and whether such
-                understanding is true.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Discuss ways Job’s character has been understood and whether such
-                understanding is true.*'
-              UID: BIB322.3.3.1.P.12
             - p: 3
               text: 'Perfect person? Does Job represent the perfect person? Job 1:1
                 suggests that he was flawless in God’s eyes: “Job . . . was blameless
@@ -22353,6 +22353,12 @@ courses:
               page: 46
               UID: BIB322.3.4.1.G.2
             body:
+            - p: 3
+              text: Explain the role of prayer in Job’s exploration of his sufferings.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Explain the role of prayer in Job’s exploration of his sufferings.*'
+              UID: BIB322.3.4.1.P.24
             - p: 1
               text: Prayer, the Key to Right Theology
               kind: heading
@@ -22378,12 +22384,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.3.4.1.P.2.1
               source_uid: BIB322.3.4.1.P.2
-            - p: 3
-              text: Explain the role of prayer in Job’s exploration of his sufferings.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Explain the role of prayer in Job’s exploration of his sufferings.*'
-              UID: BIB322.3.4.1.P.24
             - p: 4
               text: First, we must clarify what we mean by theology . Literally, the
                 word means “the study of God” or “words about God.” Job’s friends
@@ -22973,6 +22973,12 @@ courses:
               outdated_reason: re-parsed
               change: substantive
             body:
+            - p: 3
+              text: Explain the role of prayer in Job’s exploration of his sufferings.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Explain the role of prayer in Job’s exploration of his sufferings.*'
+              UID: BIB322.3.4.2.P.24
             - p: 1
               text: Prayer, the Key to Right Theology
               kind: heading
@@ -22998,12 +23004,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.3.4.2.P.2.1
               source_uid: BIB322.3.4.2.P.2
-            - p: 3
-              text: Explain the role of prayer in Job’s exploration of his sufferings.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Explain the role of prayer in Job’s exploration of his sufferings.*'
-              UID: BIB322.3.4.2.P.24
             - p: 4
               text: First, we must clarify what we mean by theology . Literally, the
                 word means “the study of God” or “words about God.” Job’s friends
@@ -23586,6 +23586,12 @@ courses:
             text: Explain the problem of evil.
             glossary: []
             body:
+            - p: 3
+              text: Explain the role of prayer in Job’s exploration of his sufferings.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Explain the role of prayer in Job’s exploration of his sufferings.*'
+              UID: BIB322.3.4.3.P.24
             - p: 1
               text: Prayer, the Key to Right Theology
               kind: heading
@@ -23611,12 +23617,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.3.4.3.P.2.1
               source_uid: BIB322.3.4.3.P.2
-            - p: 3
-              text: Explain the role of prayer in Job’s exploration of his sufferings.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Explain the role of prayer in Job’s exploration of his sufferings.*'
-              UID: BIB322.3.4.3.P.24
             - p: 4
               text: First, we must clarify what we mean by theology . Literally, the
                 word means “the study of God” or “words about God.” Job’s friends
@@ -25421,6 +25421,12 @@ courses:
             text: Explain the five-step method of studying the Psalms.
             glossary: []
             body:
+            - p: 3
+              text: Explain the five-step method of studying the Psalms.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Explain the five-step method of studying the Psalms.*'
+              UID: BIB322.4.1.1.P.24
             - p: 1
               text: 'One of the best ways to study the Psalms is to follow these five
                 steps: (1) read the psalm several times, (2) analyze its structure,
@@ -25436,12 +25442,6 @@ courses:
               cls: IST_Body-Center-Header
               UID: BIB322.4.1.1.P.2
               page: 55
-            - p: 3
-              text: Explain the five-step method of studying the Psalms.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Explain the five-step method of studying the Psalms.*'
-              UID: BIB322.4.1.1.P.24
             - p: 4
               text: 'When closely studying a psalm, the first step is to familiarize
                 oneself with the content by prayerfully reading it several times.
@@ -25910,6 +25910,12 @@ courses:
               page: 58
               UID: BIB322.4.2.1.G.2
             body:
+            - p: 2
+              text: Discuss the types of information found in psalm titles.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Discuss the types of information found in psalm titles.*'
+              UID: BIB322.4.2.1.P.25
             - p: 1
               text: Like the hymnals of contemporary churches, the psalms that make
                 up the book of Psalms were written by a variety of people in a wide
@@ -25923,12 +25929,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.4.2.1.P.1
               page: 57
-            - p: 2
-              text: Discuss the types of information found in psalm titles.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Discuss the types of information found in psalm titles.*'
-              UID: BIB322.4.2.1.P.25
             - p: 3
               text: Unlike the titles in the rest of the Bible, the titles of the
                 psalms were originally part of the biblical text and are not later
@@ -26533,6 +26533,12 @@ courses:
               authorship.
             glossary: []
             body:
+            - p: 2
+              text: Discuss the types of information found in psalm titles.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Discuss the types of information found in psalm titles.*'
+              UID: BIB322.4.2.2.P.25
             - p: 1
               text: Like the hymnals of contemporary churches, the psalms that make
                 up the book of Psalms were written by a variety of people in a wide
@@ -26546,12 +26552,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.4.2.2.P.1
               page: 57
-            - p: 2
-              text: Discuss the types of information found in psalm titles.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Discuss the types of information found in psalm titles.*'
-              UID: BIB322.4.2.2.P.25
             - p: 3
               text: Unlike the titles in the rest of the Bible, the titles of the
                 psalms were originally part of the biblical text and are not later
@@ -27155,6 +27155,12 @@ courses:
             text: Explain the purpose of technical terms in psalm titles.
             glossary: []
             body:
+            - p: 2
+              text: Discuss the types of information found in psalm titles.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Discuss the types of information found in psalm titles.*'
+              UID: BIB322.4.2.3.P.25
             - p: 1
               text: Like the hymnals of contemporary churches, the psalms that make
                 up the book of Psalms were written by a variety of people in a wide
@@ -27168,12 +27174,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.4.2.3.P.1
               page: 57
-            - p: 2
-              text: Discuss the types of information found in psalm titles.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Discuss the types of information found in psalm titles.*'
-              UID: BIB322.4.2.3.P.25
             - p: 3
               text: Unlike the titles in the rest of the Bible, the titles of the
                 psalms were originally part of the biblical text and are not later
@@ -33510,6 +33510,12 @@ courses:
             text: Define a wisdom psalm.
             glossary: []
             body:
+            - p: 3
+              text: Define a wisdom psalm.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Define a wisdom psalm.*'
+              UID: BIB322.5.1.1.P.32
             - p: 1
               text: What Is a Wisdom Psalm?
               kind: heading
@@ -33531,12 +33537,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.5.1.1.P.2.1
               source_uid: BIB322.5.1.1.P.2
-            - p: 3
-              text: Define a wisdom psalm.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Define a wisdom psalm.*'
-              UID: BIB322.5.1.1.P.32
             - p: 4
               text: 'The classification of a wisdom psalm is determined in part by
                 the way we understand the wisdom tradition to have influenced the
@@ -34212,6 +34212,12 @@ courses:
             text: Describe the forms and themes of the wisdom psalms.
             glossary: []
             body:
+            - p: 3
+              text: Define a wisdom psalm.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Define a wisdom psalm.*'
+              UID: BIB322.5.1.2.P.32
             - p: 1
               text: What Is a Wisdom Psalm?
               kind: heading
@@ -34233,12 +34239,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.5.1.2.P.2.1
               source_uid: BIB322.5.1.2.P.2
-            - p: 3
-              text: Define a wisdom psalm.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Define a wisdom psalm.*'
-              UID: BIB322.5.1.2.P.32
             - p: 4
               text: 'The classification of a wisdom psalm is determined in part by
                 the way we understand the wisdom tradition to have influenced the
@@ -34914,6 +34914,12 @@ courses:
             text: Discuss the two retribution systems in the Old Testament.
             glossary: []
             body:
+            - p: 3
+              text: Define a wisdom psalm.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Define a wisdom psalm.*'
+              UID: BIB322.5.1.3.P.32
             - p: 1
               text: What Is a Wisdom Psalm?
               kind: heading
@@ -34935,12 +34941,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.5.1.3.P.2.1
               source_uid: BIB322.5.1.3.P.2
-            - p: 3
-              text: Define a wisdom psalm.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Define a wisdom psalm.*'
-              UID: BIB322.5.1.3.P.32
             - p: 4
               text: 'The classification of a wisdom psalm is determined in part by
                 the way we understand the wisdom tradition to have influenced the
@@ -35616,6 +35616,12 @@ courses:
             text: Explain the results of choosing a godly or a wicked path in life.
             glossary: []
             body:
+            - p: 3
+              text: Define a wisdom psalm.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Define a wisdom psalm.*'
+              UID: BIB322.5.1.4.P.32
             - p: 1
               text: What Is a Wisdom Psalm?
               kind: heading
@@ -35637,12 +35643,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.5.1.4.P.2.1
               source_uid: BIB322.5.1.4.P.2
-            - p: 3
-              text: Define a wisdom psalm.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Define a wisdom psalm.*'
-              UID: BIB322.5.1.4.P.32
             - p: 4
               text: 'The classification of a wisdom psalm is determined in part by
                 the way we understand the wisdom tradition to have influenced the
@@ -39825,6 +39825,12 @@ courses:
               page: 79
               UID: BIB322.6.1.1.G.4
             body:
+            - p: 3
+              text: Define the word proverb and the forms mashal can take in Scripture.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Define the word* proverb *and the forms* mashal *can take in Scripture.*'
+              UID: BIB322.6.1.1.P.23
             - p: 1
               text: What Is a Proverb?
               kind: heading
@@ -39852,12 +39858,6 @@ courses:
                 hence frequently, a reproach or object of contempt.”
               UID: BIB322.6.1.1.P.2
               page: 79
-            - p: 3
-              text: Define the word proverb and the forms mashal can take in Scripture.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Define the word* proverb *and the forms* mashal *can take in Scripture.*'
-              UID: BIB322.6.1.1.P.23
             - p: 4
               text: 'Bywords can be limited to a particular cultural context or historical
                 situation. For example, former United States President John F. Kennedy
@@ -40414,6 +40414,12 @@ courses:
             text: Identify the structure of the book of Proverbs.
             glossary: []
             body:
+            - p: 3
+              text: Define the word proverb and the forms mashal can take in Scripture.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Define the word* proverb *and the forms* mashal *can take in Scripture.*'
+              UID: BIB322.6.1.2.P.23
             - p: 1
               text: What Is a Proverb?
               kind: heading
@@ -40441,12 +40447,6 @@ courses:
                 hence frequently, a reproach or object of contempt.”
               UID: BIB322.6.1.2.P.2
               page: 79
-            - p: 3
-              text: Define the word proverb and the forms mashal can take in Scripture.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Define the word* proverb *and the forms* mashal *can take in Scripture.*'
-              UID: BIB322.6.1.2.P.23
             - p: 4
               text: 'Bywords can be limited to a particular cultural context or historical
                 situation. For example, former United States President John F. Kennedy
@@ -45541,6 +45541,12 @@ courses:
             text: Define Torah and the concept of retributional justice.
             glossary: []
             body:
+            - p: 3
+              text: Define Torah and the concept of retributional justice.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Define* Torah *and the concept of retributional justice.*'
+              UID: BIB322.6.3.1.P.11
             - p: 1
               text: The Reality of Retributional Justice
               kind: heading
@@ -45568,12 +45574,6 @@ courses:
                 Lord dwelt in their midst.
               UID: BIB322.6.3.1.P.2.1
               source_uid: BIB322.6.3.1.P.2
-            - p: 3
-              text: Define Torah and the concept of retributional justice.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Define* Torah *and the concept of retributional justice.*'
-              UID: BIB322.6.3.1.P.11
             - p: 4
               text: Yet “law” is only part of the meaning of torah . Torah can also
                 be defined as the “teaching” and “instruction” for how to live with
@@ -45858,6 +45858,12 @@ courses:
             text: Identify the purpose of Proverbs.
             glossary: []
             body:
+            - p: 3
+              text: Define Torah and the concept of retributional justice.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Define* Torah *and the concept of retributional justice.*'
+              UID: BIB322.6.3.2.P.11
             - p: 1
               text: The Reality of Retributional Justice
               kind: heading
@@ -45885,12 +45891,6 @@ courses:
                 Lord dwelt in their midst.
               UID: BIB322.6.3.2.P.2.1
               source_uid: BIB322.6.3.2.P.2
-            - p: 3
-              text: Define Torah and the concept of retributional justice.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Define* Torah *and the concept of retributional justice.*'
-              UID: BIB322.6.3.2.P.11
             - p: 4
               text: Yet “law” is only part of the meaning of torah . Torah can also
                 be defined as the “teaching” and “instruction” for how to live with
@@ -46179,6 +46179,14 @@ courses:
               our lives.
             glossary: []
             body:
+            - p: 2
+              text: Discuss the relationship between our choices and the direction
+                of our lives.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Discuss the relationship between our choices and the direction
+                of our lives.*'
+              UID: BIB322.6.4.1.P.35
             - p: 1
               text: 'Central to the book of Proverbs is the idea of choice. Readers
                 are presented with two paths between which they are constantly asked
@@ -46193,14 +46201,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.6.4.1.P.1
               page: 85
-            - p: 2
-              text: Discuss the relationship between our choices and the direction
-                of our lives.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Discuss the relationship between our choices and the direction
-                of our lives.*'
-              UID: BIB322.6.4.1.P.35
             - p: 3
               text: Reducing life to such simple terms as the choice between good
                 and evil brings basic truths about human nature into sharp relief.
@@ -46765,6 +46765,14 @@ courses:
             text: Identify major themes of wise living.
             glossary: []
             body:
+            - p: 2
+              text: Discuss the relationship between our choices and the direction
+                of our lives.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Discuss the relationship between our choices and the direction
+                of our lives.*'
+              UID: BIB322.6.4.2.P.35
             - p: 1
               text: 'Central to the book of Proverbs is the idea of choice. Readers
                 are presented with two paths between which they are constantly asked
@@ -46779,14 +46787,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.6.4.2.P.1
               page: 85
-            - p: 2
-              text: Discuss the relationship between our choices and the direction
-                of our lives.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Discuss the relationship between our choices and the direction
-                of our lives.*'
-              UID: BIB322.6.4.2.P.35
             - p: 3
               text: Reducing life to such simple terms as the choice between good
                 and evil brings basic truths about human nature into sharp relief.
@@ -47351,6 +47351,14 @@ courses:
             text: Discuss the results of destructive life choices.
             glossary: []
             body:
+            - p: 2
+              text: Discuss the relationship between our choices and the direction
+                of our lives.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Discuss the relationship between our choices and the direction
+                of our lives.*'
+              UID: BIB322.6.4.3.P.35
             - p: 1
               text: 'Central to the book of Proverbs is the idea of choice. Readers
                 are presented with two paths between which they are constantly asked
@@ -47365,14 +47373,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.6.4.3.P.1
               page: 85
-            - p: 2
-              text: Discuss the relationship between our choices and the direction
-                of our lives.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Discuss the relationship between our choices and the direction
-                of our lives.*'
-              UID: BIB322.6.4.3.P.35
             - p: 3
               text: Reducing life to such simple terms as the choice between good
                 and evil brings basic truths about human nature into sharp relief.
@@ -47937,6 +47937,14 @@ courses:
             text: Describe the purpose of Lady Wisdom in society.
             glossary: []
             body:
+            - p: 2
+              text: Discuss the relationship between our choices and the direction
+                of our lives.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Discuss the relationship between our choices and the direction
+                of our lives.*'
+              UID: BIB322.6.4.4.P.35
             - p: 1
               text: 'Central to the book of Proverbs is the idea of choice. Readers
                 are presented with two paths between which they are constantly asked
@@ -47951,14 +47959,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.6.4.4.P.1
               page: 85
-            - p: 2
-              text: Discuss the relationship between our choices and the direction
-                of our lives.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Discuss the relationship between our choices and the direction
-                of our lives.*'
-              UID: BIB322.6.4.4.P.35
             - p: 3
               text: Reducing life to such simple terms as the choice between good
                 and evil brings basic truths about human nature into sharp relief.
@@ -48523,6 +48523,14 @@ courses:
             text: Compare the virtuous woman to Lady Wisdom.
             glossary: []
             body:
+            - p: 2
+              text: Discuss the relationship between our choices and the direction
+                of our lives.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Discuss the relationship between our choices and the direction
+                of our lives.*'
+              UID: BIB322.6.4.5.P.35
             - p: 1
               text: 'Central to the book of Proverbs is the idea of choice. Readers
                 are presented with two paths between which they are constantly asked
@@ -48537,14 +48545,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.6.4.5.P.1
               page: 85
-            - p: 2
-              text: Discuss the relationship between our choices and the direction
-                of our lives.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Discuss the relationship between our choices and the direction
-                of our lives.*'
-              UID: BIB322.6.4.5.P.35
             - p: 3
               text: Reducing life to such simple terms as the choice between good
                 and evil brings basic truths about human nature into sharp relief.
@@ -49141,6 +49141,12 @@ courses:
             text: Identify the author’s purpose in writing Ecclesiastes.
             glossary: []
             body:
+            - p: 3
+              text: Identify the autho r ’s purpose in writing Ecclesiastes.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Identify the autho**r**’s purpose in writing Ecclesiastes.*'
+              UID: BIB322.7.1.1.P.23
             - p: 1
               text: Purpose
               kind: heading
@@ -49160,12 +49166,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.7.1.1.P.2.1
               source_uid: BIB322.7.1.1.P.2
-            - p: 3
-              text: Identify the autho r ’s purpose in writing Ecclesiastes.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Identify the autho**r**’s purpose in writing Ecclesiastes.*'
-              UID: BIB322.7.1.1.P.23
             - p: 4
               text: However, the writer of Ecclesiastes rejects the ideas that God
                 may be known and that a person can have confidence in the ability
@@ -49480,6 +49480,12 @@ courses:
             text: Discuss the pros and cons of identifying Solomon as author of Ecclesiastes.
             glossary: []
             body:
+            - p: 3
+              text: Identify the autho r ’s purpose in writing Ecclesiastes.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Identify the autho**r**’s purpose in writing Ecclesiastes.*'
+              UID: BIB322.7.1.2.P.23
             - p: 1
               text: Purpose
               kind: heading
@@ -49499,12 +49505,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.7.1.2.P.2.1
               source_uid: BIB322.7.1.2.P.2
-            - p: 3
-              text: Identify the autho r ’s purpose in writing Ecclesiastes.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Identify the autho**r**’s purpose in writing Ecclesiastes.*'
-              UID: BIB322.7.1.2.P.23
             - p: 4
               text: However, the writer of Ecclesiastes rejects the ideas that God
                 may be known and that a person can have confidence in the ability
@@ -49828,6 +49828,12 @@ courses:
             text: Describe the content of the two major sections of Ecclesiastes.
             glossary: []
             body:
+            - p: 3
+              text: Identify the autho r ’s purpose in writing Ecclesiastes.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Identify the autho**r**’s purpose in writing Ecclesiastes.*'
+              UID: BIB322.7.1.3.P.23
             - p: 1
               text: Purpose
               kind: heading
@@ -49847,12 +49853,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.7.1.3.P.2.1
               source_uid: BIB322.7.1.3.P.2
-            - p: 3
-              text: Identify the autho r ’s purpose in writing Ecclesiastes.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Identify the autho**r**’s purpose in writing Ecclesiastes.*'
-              UID: BIB322.7.1.3.P.23
             - p: 4
               text: However, the writer of Ecclesiastes rejects the ideas that God
                 may be known and that a person can have confidence in the ability
@@ -50176,6 +50176,12 @@ courses:
             text: Discuss the Preacher’s conclusions about the major themes of Ecclesiastes.
             glossary: []
             body:
+            - p: 3
+              text: Identify the autho r ’s purpose in writing Ecclesiastes.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Identify the autho**r**’s purpose in writing Ecclesiastes.*'
+              UID: BIB322.7.1.4.P.23
             - p: 1
               text: Purpose
               kind: heading
@@ -50195,12 +50201,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.7.1.4.P.2.1
               source_uid: BIB322.7.1.4.P.2
-            - p: 3
-              text: Identify the autho r ’s purpose in writing Ecclesiastes.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Identify the autho**r**’s purpose in writing Ecclesiastes.*'
-              UID: BIB322.7.1.4.P.23
             - p: 4
               text: However, the writer of Ecclesiastes rejects the ideas that God
                 may be known and that a person can have confidence in the ability
@@ -50527,6 +50527,12 @@ courses:
             text: Explain the contradiction of Ecclesiastes.
             glossary: []
             body:
+            - p: 3
+              text: Explain the contradiction of Ecclesiastes.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Explain the contradiction of Ecclesiastes.*'
+              UID: BIB322.7.2.1.P.26
             - p: 1
               text: The Contradiction of Ecclesiastes
               kind: heading
@@ -50544,12 +50550,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.7.2.1.P.2.1
               source_uid: BIB322.7.2.1.P.2
-            - p: 3
-              text: Explain the contradiction of Ecclesiastes.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Explain the contradiction of Ecclesiastes.*'
-              UID: BIB322.7.2.1.P.26
             - p: 4
               text: This addressing of both sides of an argument is the essential
                 contradiction of the book. On one hand, the Preacher concludes that
@@ -50941,6 +50941,12 @@ courses:
             text: Summarize four possible interpretations of Ecclesiastes.
             glossary: []
             body:
+            - p: 3
+              text: Explain the contradiction of Ecclesiastes.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Explain the contradiction of Ecclesiastes.*'
+              UID: BIB322.7.2.2.P.26
             - p: 1
               text: The Contradiction of Ecclesiastes
               kind: heading
@@ -50958,12 +50964,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.7.2.2.P.2.1
               source_uid: BIB322.7.2.2.P.2
-            - p: 3
-              text: Explain the contradiction of Ecclesiastes.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Explain the contradiction of Ecclesiastes.*'
-              UID: BIB322.7.2.2.P.26
             - p: 4
               text: This addressing of both sides of an argument is the essential
                 contradiction of the book. On one hand, the Preacher concludes that
@@ -51356,6 +51356,12 @@ courses:
               meaningless.
             glossary: []
             body:
+            - p: 3
+              text: Explain the contradiction of Ecclesiastes.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Explain the contradiction of Ecclesiastes.*'
+              UID: BIB322.7.2.3.P.26
             - p: 1
               text: The Contradiction of Ecclesiastes
               kind: heading
@@ -51373,12 +51379,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.7.2.3.P.2.1
               source_uid: BIB322.7.2.3.P.2
-            - p: 3
-              text: Explain the contradiction of Ecclesiastes.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Explain the contradiction of Ecclesiastes.*'
-              UID: BIB322.7.2.3.P.26
             - p: 4
               text: This addressing of both sides of an argument is the essential
                 contradiction of the book. On one hand, the Preacher concludes that
@@ -51781,6 +51781,14 @@ courses:
               page: 98
               UID: BIB322.7.3.1.G.1
             body:
+            - p: 3
+              text: Describe the Preacher’s view of the world, knowing God, and God’s
+                justice.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Describe the Preacher’s view of the world, knowing God, and God’s
+                justice.*'
+              UID: BIB322.7.3.1.P.18
             - p: 1
               text: Assumptions Challenged
               kind: heading
@@ -51796,14 +51804,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.7.3.1.P.2
               page: 97
-            - p: 3
-              text: Describe the Preacher’s view of the world, knowing God, and God’s
-                justice.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Describe the Preacher’s view of the world, knowing God, and God’s
-                justice.*'
-              UID: BIB322.7.3.1.P.18
             - p: 4
               text: 1. The world is orderly, ruled by Yahweh, its wise Creator.
               kind: hang
@@ -52367,6 +52367,14 @@ courses:
             text: Explain the Preacher’s view of life in general.
             glossary: []
             body:
+            - p: 3
+              text: Describe the Preacher’s view of the world, knowing God, and God’s
+                justice.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Describe the Preacher’s view of the world, knowing God, and God’s
+                justice.*'
+              UID: BIB322.7.3.2.P.18
             - p: 1
               text: Assumptions Challenged
               kind: heading
@@ -52382,14 +52390,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.7.3.2.P.2
               page: 97
-            - p: 3
-              text: Describe the Preacher’s view of the world, knowing God, and God’s
-                justice.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Describe the Preacher’s view of the world, knowing God, and God’s
-                justice.*'
-              UID: BIB322.7.3.2.P.18
             - p: 4
               text: 1. The world is orderly, ruled by Yahweh, its wise Creator.
               kind: hang
@@ -52954,6 +52954,14 @@ courses:
               death.
             glossary: []
             body:
+            - p: 3
+              text: Describe the Preacher’s view of the world, knowing God, and God’s
+                justice.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Describe the Preacher’s view of the world, knowing God, and God’s
+                justice.*'
+              UID: BIB322.7.3.3.P.18
             - p: 1
               text: Assumptions Challenged
               kind: heading
@@ -52969,14 +52977,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.7.3.3.P.2
               page: 97
-            - p: 3
-              text: Describe the Preacher’s view of the world, knowing God, and God’s
-                justice.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Describe the Preacher’s view of the world, knowing God, and God’s
-                justice.*'
-              UID: BIB322.7.3.3.P.18
             - p: 4
               text: 1. The world is orderly, ruled by Yahweh, its wise Creator.
               kind: hang
@@ -53543,6 +53543,12 @@ courses:
             text: Describe the Preacher’s relationship with God.
             glossary: []
             body:
+            - p: 3
+              text: D escribe the Preacher’s r elationship with God.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*D**escribe the Preacher’s* *r**elationship with God.*'
+              UID: BIB322.7.4.1.P.19
             - p: 1
               text: Distance from God
               kind: heading
@@ -53580,12 +53586,6 @@ courses:
                 know what may anger Him.”
               UID: BIB322.7.4.1.P.2.1
               source_uid: BIB322.7.4.1.P.2
-            - p: 3
-              text: D escribe the Preacher’s r elationship with God.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*D**escribe the Preacher’s* *r**elationship with God.*'
-              UID: BIB322.7.4.1.P.19
             - p: 4
               text: The God of the Preacher is essentially a distant, unfathomable
                 God with whom it is impossible to have a close relationship. The Preacher
@@ -54008,6 +54008,12 @@ courses:
             text: Explain why wisdom failed for the Preacher.
             glossary: []
             body:
+            - p: 3
+              text: D escribe the Preacher’s r elationship with God.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*D**escribe the Preacher’s* *r**elationship with God.*'
+              UID: BIB322.7.4.2.P.19
             - p: 1
               text: Distance from God
               kind: heading
@@ -54045,12 +54051,6 @@ courses:
                 know what may anger Him.”
               UID: BIB322.7.4.2.P.2.1
               source_uid: BIB322.7.4.2.P.2
-            - p: 3
-              text: D escribe the Preacher’s r elationship with God.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*D**escribe the Preacher’s* *r**elationship with God.*'
-              UID: BIB322.7.4.2.P.19
             - p: 4
               text: The God of the Preacher is essentially a distant, unfathomable
                 God with whom it is impossible to have a close relationship. The Preacher
@@ -54474,6 +54474,12 @@ courses:
               Paul.
             glossary: []
             body:
+            - p: 3
+              text: D escribe the Preacher’s r elationship with God.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*D**escribe the Preacher’s* *r**elationship with God.*'
+              UID: BIB322.7.4.3.P.19
             - p: 1
               text: Distance from God
               kind: heading
@@ -54511,12 +54517,6 @@ courses:
                 know what may anger Him.”
               UID: BIB322.7.4.3.P.2.1
               source_uid: BIB322.7.4.3.P.2
-            - p: 3
-              text: D escribe the Preacher’s r elationship with God.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*D**escribe the Preacher’s* *r**elationship with God.*'
-              UID: BIB322.7.4.3.P.19
             - p: 4
               text: The God of the Preacher is essentially a distant, unfathomable
                 God with whom it is impossible to have a close relationship. The Preacher
@@ -54939,6 +54939,12 @@ courses:
             text: Summarize the Preacher’s conclusions.
             glossary: []
             body:
+            - p: 3
+              text: D escribe the Preacher’s r elationship with God.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*D**escribe the Preacher’s* *r**elationship with God.*'
+              UID: BIB322.7.4.4.P.19
             - p: 1
               text: Distance from God
               kind: heading
@@ -54976,12 +54982,6 @@ courses:
                 know what may anger Him.”
               UID: BIB322.7.4.4.P.2.1
               source_uid: BIB322.7.4.4.P.2
-            - p: 3
-              text: D escribe the Preacher’s r elationship with God.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*D**escribe the Preacher’s* *r**elationship with God.*'
-              UID: BIB322.7.4.4.P.19
             - p: 4
               text: The God of the Preacher is essentially a distant, unfathomable
                 God with whom it is impossible to have a close relationship. The Preacher
@@ -55446,6 +55446,14 @@ courses:
               UID: BIB322.8.1.1.G.2
               page: 107
             body:
+            - p: 3
+              text: Summarize the debate over whether to put the Song of Solomon in
+                the canon.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Summarize the debate over whether to put the Song of Solomon in
+                the canon.*'
+              UID: BIB322.8.1.1.P.30
             - p: 1
               text: Canonicity
               kind: heading
@@ -55470,14 +55478,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.8.1.1.P.2
               page: 107
-            - p: 3
-              text: Summarize the debate over whether to put the Song of Solomon in
-                the canon.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Summarize the debate over whether to put the Song of Solomon in
-                the canon.*'
-              UID: BIB322.8.1.1.P.30
             - p: 4
               text: Discuss the authorship of the Song of Solomon.
               kind: prose
@@ -56102,6 +56102,14 @@ courses:
             text: Discuss the authorship of the Song of Solomon.
             glossary: []
             body:
+            - p: 3
+              text: Summarize the debate over whether to put the Song of Solomon in
+                the canon.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Summarize the debate over whether to put the Song of Solomon in
+                the canon.*'
+              UID: BIB322.8.1.2.P.30
             - p: 1
               text: Canonicity
               kind: heading
@@ -56126,14 +56134,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.8.1.2.P.2
               page: 107
-            - p: 3
-              text: Summarize the debate over whether to put the Song of Solomon in
-                the canon.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Summarize the debate over whether to put the Song of Solomon in
-                the canon.*'
-              UID: BIB322.8.1.2.P.30
             - p: 4
               text: Discuss the authorship of the Song of Solomon.
               kind: prose
@@ -56758,6 +56758,14 @@ courses:
             text: Discuss ways the Song of Solomon has been interpreted historically.
             glossary: []
             body:
+            - p: 3
+              text: Summarize the debate over whether to put the Song of Solomon in
+                the canon.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Summarize the debate over whether to put the Song of Solomon in
+                the canon.*'
+              UID: BIB322.8.1.3.P.30
             - p: 1
               text: Canonicity
               kind: heading
@@ -56782,14 +56790,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.8.1.3.P.2
               page: 107
-            - p: 3
-              text: Summarize the debate over whether to put the Song of Solomon in
-                the canon.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Summarize the debate over whether to put the Song of Solomon in
-                the canon.*'
-              UID: BIB322.8.1.3.P.30
             - p: 4
               text: Discuss the authorship of the Song of Solomon.
               kind: prose
@@ -57414,6 +57414,14 @@ courses:
             text: Identify three basic views of the story in the Song of Solomon.
             glossary: []
             body:
+            - p: 3
+              text: Summarize the debate over whether to put the Song of Solomon in
+                the canon.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Summarize the debate over whether to put the Song of Solomon in
+                the canon.*'
+              UID: BIB322.8.1.4.P.30
             - p: 1
               text: Canonicity
               kind: heading
@@ -57438,14 +57446,6 @@ courses:
               cls: IST_Body-Indent
               UID: BIB322.8.1.4.P.2
               page: 107
-            - p: 3
-              text: Summarize the debate over whether to put the Song of Solomon in
-                the canon.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Summarize the debate over whether to put the Song of Solomon in
-                the canon.*'
-              UID: BIB322.8.1.4.P.30
             - p: 4
               text: Discuss the authorship of the Song of Solomon.
               kind: prose
@@ -58079,6 +58079,14 @@ courses:
               paragraph: BIB322.8.2.1.P.11.1
               UID: BIB322.8.2.1.G.1
             body:
+            - p: 3
+              text: Contrast basic biblical teachings on human sexuality with cultural
+                views.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Contrast basic biblical teachings on human sexuality with cultural
+                views.*'
+              UID: BIB322.8.2.1.P.17
             - p: 1
               text: Human Sexuality
               kind: heading
@@ -58091,14 +58099,6 @@ courses:
               cls: IST_Body-Left-Subhead
               UID: BIB322.8.2.1.P.2
               page: 110
-            - p: 3
-              text: Contrast basic biblical teachings on human sexuality with cultural
-                views.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Contrast basic biblical teachings on human sexuality with cultural
-                views.*'
-              UID: BIB322.8.2.1.P.17
             - p: 4
               text: 'A long tradition exists in Christianity of associating sexual
                 desire with sin. Many early Christian theologians were heavily influenced
@@ -58763,6 +58763,14 @@ courses:
               with the teachings of Scripture.
             glossary: []
             body:
+            - p: 3
+              text: Contrast basic biblical teachings on human sexuality with cultural
+                views.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Contrast basic biblical teachings on human sexuality with cultural
+                views.*'
+              UID: BIB322.8.2.2.P.17
             - p: 1
               text: Human Sexuality
               kind: heading
@@ -58775,14 +58783,6 @@ courses:
               cls: IST_Body-Left-Subhead
               UID: BIB322.8.2.2.P.2
               page: 110
-            - p: 3
-              text: Contrast basic biblical teachings on human sexuality with cultural
-                views.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Contrast basic biblical teachings on human sexuality with cultural
-                views.*'
-              UID: BIB322.8.2.2.P.17
             - p: 4
               text: 'A long tradition exists in Christianity of associating sexual
                 desire with sin. Many early Christian theologians were heavily influenced
@@ -59447,6 +59447,14 @@ courses:
               and in Genesis.
             glossary: []
             body:
+            - p: 3
+              text: Contrast basic biblical teachings on human sexuality with cultural
+                views.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Contrast basic biblical teachings on human sexuality with cultural
+                views.*'
+              UID: BIB322.8.2.3.P.17
             - p: 1
               text: Human Sexuality
               kind: heading
@@ -59459,14 +59467,6 @@ courses:
               cls: IST_Body-Left-Subhead
               UID: BIB322.8.2.3.P.2
               page: 110
-            - p: 3
-              text: Contrast basic biblical teachings on human sexuality with cultural
-                views.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Contrast basic biblical teachings on human sexuality with cultural
-                views.*'
-              UID: BIB322.8.2.3.P.17
             - p: 4
               text: 'A long tradition exists in Christianity of associating sexual
                 desire with sin. Many early Christian theologians were heavily influenced
@@ -60131,6 +60131,14 @@ courses:
               Bible.
             glossary: []
             body:
+            - p: 3
+              text: Contrast basic biblical teachings on human sexuality with cultural
+                views.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Contrast basic biblical teachings on human sexuality with cultural
+                views.*'
+              UID: BIB322.8.2.4.P.17
             - p: 1
               text: Human Sexuality
               kind: heading
@@ -60143,14 +60151,6 @@ courses:
               cls: IST_Body-Left-Subhead
               UID: BIB322.8.2.4.P.2
               page: 110
-            - p: 3
-              text: Contrast basic biblical teachings on human sexuality with cultural
-                views.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Contrast basic biblical teachings on human sexuality with cultural
-                views.*'
-              UID: BIB322.8.2.4.P.17
             - p: 4
               text: 'A long tradition exists in Christianity of associating sexual
                 desire with sin. Many early Christian theologians were heavily influenced
