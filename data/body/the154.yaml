@@ -15742,6 +15742,17 @@ courses:
             - p: 11
               text: Training —"We may also have a proposition, to lay before the body,
                 for a general Bible Training School with a literary department for
+                our people" ( Word and Witness 1913 ) .
+              kind: hang
+              cls: _Body-Hang-Numbers-2
+              md: Training—"We may also have a proposition, to lay before the body,
+                for a general Bible Training School with a literary department for
+                our people" (*Word and Witness* 1913).
+              UID: THE154.4.3.1.P.9.1
+              source_uid: THE154.4.3.1.P.9
+            - p: 11
+              text: Training —"We may also have a proposition, to lay before the body,
+                for a general Bible Training School with a literary department for
                 our people" ( Word and Witness 1913 ) . E xplain why no business was
                 conducted for the first few days of the Hot Springs meeting.
               kind: hang
@@ -15751,6 +15762,9 @@ courses:
                 our people" (*Word and Witness* 1913).*E**xplain why no business was
                 conducted for the first few days of the Hot Springs meeting.*
               UID: THE154.4.3.1.P.9
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.4.3.1.P.9.1
             interactive_questions:
             - p: 6
               text: How is the Baptism in the Spirit with speaking in tongues viewed
@@ -15969,6 +15983,17 @@ courses:
             - p: 11
               text: Training —"We may also have a proposition, to lay before the body,
                 for a general Bible Training School with a literary department for
+                our people" ( Word and Witness 1913 ) .
+              kind: hang
+              cls: _Body-Hang-Numbers-2
+              md: Training—"We may also have a proposition, to lay before the body,
+                for a general Bible Training School with a literary department for
+                our people" (*Word and Witness* 1913).
+              UID: THE154.4.3.2.P.9.1
+              source_uid: THE154.4.3.2.P.9
+            - p: 11
+              text: Training —"We may also have a proposition, to lay before the body,
+                for a general Bible Training School with a literary department for
                 our people" ( Word and Witness 1913 ) . E xplain why no business was
                 conducted for the first few days of the Hot Springs meeting.
               kind: hang
@@ -15978,6 +16003,9 @@ courses:
                 our people" (*Word and Witness* 1913).*E**xplain why no business was
                 conducted for the first few days of the Hot Springs meeting.*
               UID: THE154.4.3.2.P.9
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.4.3.2.P.9.1
             interactive_questions:
             - p: 6
               text: How is the Baptism in the Spirit with speaking in tongues viewed
@@ -22264,16 +22292,11 @@ courses:
               text: MAPS Volunteers – This designation is given to those who join
                 short-term teams with churches or serve as volunteers on the field
                 for up to eleven months. Vetting for MAPS workers is conducted by
-                their local pastor or church. List some of the requirements to become
-                an AGWM Missionary.
+                their local pastor or church.
               kind: list
               cls: _Body-Bullet-2
-              md: MAPS Volunteers – This designation is given to those who join short-term
-                teams with churches or serve as volunteers on the field for up to
-                eleven months. Vetting for MAPS workers is conducted by their local
-                pastor or church.*List some of the requirements to become an AGWM
-                Missionary.*
-              UID: THE154.6.5.1.P.3
+              UID: THE154.6.5.1.P.3.1
+              source_uid: THE154.6.5.1.P.3
             - p: 4
               text: List some of the requirements to become an AGWM Missionary.
               kind: prose
@@ -22309,16 +22332,11 @@ courses:
               text: The application and approval process to become an MA involves
                 the applicant’s testimony, call, work experience, personal, family,
                 and educational backgrounds, references, pastor and district/network
-                recommendations and Area Director/ministry leader approval. List three
-                additional requirements for those applying for career missionary appointment.
+                recommendations and Area Director/ministry leader approval.
               kind: list
               cls: _Body-Bullet-3
-              md: The application and approval process to become an MA involves the
-                applicant’s testimony, call, work experience, personal, family, and
-                educational backgrounds, references, pastor and district/network recommendations
-                and Area Director/ministry leader approval.*List three additional
-                requirements for those applying for career missionary appointment.*
-              UID: THE154.6.5.1.P.5
+              UID: THE154.6.5.1.P.5.1
+              source_uid: THE154.6.5.1.P.5
             - p: 7
               text: List three additional requirements for those applying for career
                 missionary appointment.
@@ -22354,15 +22372,11 @@ courses:
             - p: 11
               text: AGWM and AG churches need to trust that AGWM has done everything
                 possible to vet, train, and otherwise prepare missionaries for the
-                field. Explain why the process for becoming an AGWM missionary is
-                so detailed and involved.
+                field.
               kind: list
               cls: _Body-Bullet-2
-              md: AGWM and AG churches need to trust that AGWM has done everything
-                possible to vet, train, and otherwise prepare missionaries for the
-                field.*Explain why the process for becoming an AGWM missionary is
-                so detailed and involved.*
-              UID: THE154.6.5.1.P.9
+              UID: THE154.6.5.1.P.9.1
+              source_uid: THE154.6.5.1.P.9
             - p: 12
               text: Explain why the process for becoming an AGWM missionary is so
                 detailed and involved.
@@ -22473,13 +22487,10 @@ courses:
               cls: _Body-Bullet-2
               UID: THE154.6.5.1.P.26
             - p: 31
-              text: 2,085 People Groups Note the key elements in AGWM's vision to
-                address the need for global access to the gospel.
+              text: 2,085 People Groups
               kind: list
               cls: _Body-Bullet-2
-              md: 2,085 People Groups*Note the key elements in AGWM's vision to address
-                the need for global access to the gospel.*
-              UID: THE154.6.5.1.P.27
+              UID: THE154.6.5.1.P.45
             - p: 32
               text: Note the key elements in AGWM's vision to address the need for
                 global access to the gospel.
@@ -22586,6 +22597,66 @@ courses:
                 because local churches are best able to show compassion to their communities.
                 Missionaries and foreign aid agencies will eventually leave, but local
                 churches will remain among their people, demonstrating the love of
+                Christ to one another and their communities.
+              kind: list
+              cls: _Body-Bullet-2
+              UID: THE154.6.5.1.P.38.1
+              source_uid: THE154.6.5.1.P.38
+            - p: 3
+              text: MAPS Volunteers – This designation is given to those who join
+                short-term teams with churches or serve as volunteers on the field
+                for up to eleven months. Vetting for MAPS workers is conducted by
+                their local pastor or church. List some of the requirements to become
+                an AGWM Missionary.
+              kind: list
+              cls: _Body-Bullet-2
+              md: MAPS Volunteers – This designation is given to those who join short-term
+                teams with churches or serve as volunteers on the field for up to
+                eleven months. Vetting for MAPS workers is conducted by their local
+                pastor or church.*List some of the requirements to become an AGWM
+                Missionary.*
+              UID: THE154.6.5.1.P.3
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.6.5.1.P.3.1
+            - p: 6
+              text: The application and approval process to become an MA involves
+                the applicant’s testimony, call, work experience, personal, family,
+                and educational backgrounds, references, pastor and district/network
+                recommendations and Area Director/ministry leader approval. List three
+                additional requirements for those applying for career missionary appointment.
+              kind: list
+              cls: _Body-Bullet-3
+              md: The application and approval process to become an MA involves the
+                applicant’s testimony, call, work experience, personal, family, and
+                educational backgrounds, references, pastor and district/network recommendations
+                and Area Director/ministry leader approval.*List three additional
+                requirements for those applying for career missionary appointment.*
+              UID: THE154.6.5.1.P.5
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.6.5.1.P.5.1
+            - p: 11
+              text: AGWM and AG churches need to trust that AGWM has done everything
+                possible to vet, train, and otherwise prepare missionaries for the
+                field. Explain why the process for becoming an AGWM missionary is
+                so detailed and involved.
+              kind: list
+              cls: _Body-Bullet-2
+              md: AGWM and AG churches need to trust that AGWM has done everything
+                possible to vet, train, and otherwise prepare missionaries for the
+                field.*Explain why the process for becoming an AGWM missionary is
+                so detailed and involved.*
+              UID: THE154.6.5.1.P.9
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.6.5.1.P.9.1
+            - p: 44
+              text: Serving–Since Acts 2, the Christian church has been known by the
+                world for its generosity and help to the suffering. We plant churches
+                because local churches are best able to show compassion to their communities.
+                Missionaries and foreign aid agencies will eventually leave, but local
+                churches will remain among their people, demonstrating the love of
                 Christ to one another and their communities. Describe three aspects
                 of the role of the local church in supporting missions.
               kind: list
@@ -22598,6 +22669,19 @@ courses:
                 Christ to one another and their communities.*Describe three aspects
                 of the role of the local church in supporting missions.*
               UID: THE154.6.5.1.P.38
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.6.5.1.P.38.1
+            - p: 31
+              text: 2,085 People Groups Note the key elements in AGWM's vision to
+                address the need for global access to the gospel.
+              kind: list
+              cls: _Body-Bullet-2
+              md: 2,085 People Groups*Note the key elements in AGWM's vision to address
+                the need for global access to the gospel.*
+              UID: THE154.6.5.1.P.27
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
             interactive_questions:
             - p: 10
               text: How can you or your church become more involved in supporting
@@ -22674,16 +22758,11 @@ courses:
               text: MAPS Volunteers – This designation is given to those who join
                 short-term teams with churches or serve as volunteers on the field
                 for up to eleven months. Vetting for MAPS workers is conducted by
-                their local pastor or church. List some of the requirements to become
-                an AGWM Missionary.
+                their local pastor or church.
               kind: list
               cls: _Body-Bullet-2
-              md: MAPS Volunteers – This designation is given to those who join short-term
-                teams with churches or serve as volunteers on the field for up to
-                eleven months. Vetting for MAPS workers is conducted by their local
-                pastor or church.*List some of the requirements to become an AGWM
-                Missionary.*
-              UID: THE154.6.5.2.P.3
+              UID: THE154.6.5.2.P.3.1
+              source_uid: THE154.6.5.2.P.3
             - p: 4
               text: List some of the requirements to become an AGWM Missionary.
               kind: prose
@@ -22719,16 +22798,11 @@ courses:
               text: The application and approval process to become an MA involves
                 the applicant’s testimony, call, work experience, personal, family,
                 and educational backgrounds, references, pastor and district/network
-                recommendations and Area Director/ministry leader approval. List three
-                additional requirements for those applying for career missionary appointment.
+                recommendations and Area Director/ministry leader approval.
               kind: list
               cls: _Body-Bullet-3
-              md: The application and approval process to become an MA involves the
-                applicant’s testimony, call, work experience, personal, family, and
-                educational backgrounds, references, pastor and district/network recommendations
-                and Area Director/ministry leader approval.*List three additional
-                requirements for those applying for career missionary appointment.*
-              UID: THE154.6.5.2.P.5
+              UID: THE154.6.5.2.P.5.1
+              source_uid: THE154.6.5.2.P.5
             - p: 7
               text: List three additional requirements for those applying for career
                 missionary appointment.
@@ -22764,15 +22838,11 @@ courses:
             - p: 11
               text: AGWM and AG churches need to trust that AGWM has done everything
                 possible to vet, train, and otherwise prepare missionaries for the
-                field. Explain why the process for becoming an AGWM missionary is
-                so detailed and involved.
+                field.
               kind: list
               cls: _Body-Bullet-2
-              md: AGWM and AG churches need to trust that AGWM has done everything
-                possible to vet, train, and otherwise prepare missionaries for the
-                field.*Explain why the process for becoming an AGWM missionary is
-                so detailed and involved.*
-              UID: THE154.6.5.2.P.9
+              UID: THE154.6.5.2.P.9.1
+              source_uid: THE154.6.5.2.P.9
             - p: 12
               text: Explain why the process for becoming an AGWM missionary is so
                 detailed and involved.
@@ -22883,13 +22953,10 @@ courses:
               cls: _Body-Bullet-2
               UID: THE154.6.5.2.P.26
             - p: 31
-              text: 2,085 People Groups Note the key elements in AGWM's vision to
-                address the need for global access to the gospel.
+              text: 2,085 People Groups
               kind: list
               cls: _Body-Bullet-2
-              md: 2,085 People Groups*Note the key elements in AGWM's vision to address
-                the need for global access to the gospel.*
-              UID: THE154.6.5.2.P.27
+              UID: THE154.6.5.2.P.45
             - p: 32
               text: Note the key elements in AGWM's vision to address the need for
                 global access to the gospel.
@@ -22996,6 +23063,66 @@ courses:
                 because local churches are best able to show compassion to their communities.
                 Missionaries and foreign aid agencies will eventually leave, but local
                 churches will remain among their people, demonstrating the love of
+                Christ to one another and their communities.
+              kind: list
+              cls: _Body-Bullet-2
+              UID: THE154.6.5.2.P.38.1
+              source_uid: THE154.6.5.2.P.38
+            - p: 3
+              text: MAPS Volunteers – This designation is given to those who join
+                short-term teams with churches or serve as volunteers on the field
+                for up to eleven months. Vetting for MAPS workers is conducted by
+                their local pastor or church. List some of the requirements to become
+                an AGWM Missionary.
+              kind: list
+              cls: _Body-Bullet-2
+              md: MAPS Volunteers – This designation is given to those who join short-term
+                teams with churches or serve as volunteers on the field for up to
+                eleven months. Vetting for MAPS workers is conducted by their local
+                pastor or church.*List some of the requirements to become an AGWM
+                Missionary.*
+              UID: THE154.6.5.2.P.3
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.6.5.2.P.3.1
+            - p: 6
+              text: The application and approval process to become an MA involves
+                the applicant’s testimony, call, work experience, personal, family,
+                and educational backgrounds, references, pastor and district/network
+                recommendations and Area Director/ministry leader approval. List three
+                additional requirements for those applying for career missionary appointment.
+              kind: list
+              cls: _Body-Bullet-3
+              md: The application and approval process to become an MA involves the
+                applicant’s testimony, call, work experience, personal, family, and
+                educational backgrounds, references, pastor and district/network recommendations
+                and Area Director/ministry leader approval.*List three additional
+                requirements for those applying for career missionary appointment.*
+              UID: THE154.6.5.2.P.5
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.6.5.2.P.5.1
+            - p: 11
+              text: AGWM and AG churches need to trust that AGWM has done everything
+                possible to vet, train, and otherwise prepare missionaries for the
+                field. Explain why the process for becoming an AGWM missionary is
+                so detailed and involved.
+              kind: list
+              cls: _Body-Bullet-2
+              md: AGWM and AG churches need to trust that AGWM has done everything
+                possible to vet, train, and otherwise prepare missionaries for the
+                field.*Explain why the process for becoming an AGWM missionary is
+                so detailed and involved.*
+              UID: THE154.6.5.2.P.9
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.6.5.2.P.9.1
+            - p: 44
+              text: Serving–Since Acts 2, the Christian church has been known by the
+                world for its generosity and help to the suffering. We plant churches
+                because local churches are best able to show compassion to their communities.
+                Missionaries and foreign aid agencies will eventually leave, but local
+                churches will remain among their people, demonstrating the love of
                 Christ to one another and their communities. Describe three aspects
                 of the role of the local church in supporting missions.
               kind: list
@@ -23008,6 +23135,19 @@ courses:
                 Christ to one another and their communities.*Describe three aspects
                 of the role of the local church in supporting missions.*
               UID: THE154.6.5.2.P.38
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.6.5.2.P.38.1
+            - p: 31
+              text: 2,085 People Groups Note the key elements in AGWM's vision to
+                address the need for global access to the gospel.
+              kind: list
+              cls: _Body-Bullet-2
+              md: 2,085 People Groups*Note the key elements in AGWM's vision to address
+                the need for global access to the gospel.*
+              UID: THE154.6.5.2.P.27
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
             interactive_questions:
             - p: 10
               text: How can you or your church become more involved in supporting
@@ -23084,16 +23224,11 @@ courses:
               text: MAPS Volunteers – This designation is given to those who join
                 short-term teams with churches or serve as volunteers on the field
                 for up to eleven months. Vetting for MAPS workers is conducted by
-                their local pastor or church. List some of the requirements to become
-                an AGWM Missionary.
+                their local pastor or church.
               kind: list
               cls: _Body-Bullet-2
-              md: MAPS Volunteers – This designation is given to those who join short-term
-                teams with churches or serve as volunteers on the field for up to
-                eleven months. Vetting for MAPS workers is conducted by their local
-                pastor or church.*List some of the requirements to become an AGWM
-                Missionary.*
-              UID: THE154.6.5.3.P.3
+              UID: THE154.6.5.3.P.3.1
+              source_uid: THE154.6.5.3.P.3
             - p: 4
               text: List some of the requirements to become an AGWM Missionary.
               kind: prose
@@ -23129,16 +23264,11 @@ courses:
               text: The application and approval process to become an MA involves
                 the applicant’s testimony, call, work experience, personal, family,
                 and educational backgrounds, references, pastor and district/network
-                recommendations and Area Director/ministry leader approval. List three
-                additional requirements for those applying for career missionary appointment.
+                recommendations and Area Director/ministry leader approval.
               kind: list
               cls: _Body-Bullet-3
-              md: The application and approval process to become an MA involves the
-                applicant’s testimony, call, work experience, personal, family, and
-                educational backgrounds, references, pastor and district/network recommendations
-                and Area Director/ministry leader approval.*List three additional
-                requirements for those applying for career missionary appointment.*
-              UID: THE154.6.5.3.P.5
+              UID: THE154.6.5.3.P.5.1
+              source_uid: THE154.6.5.3.P.5
             - p: 7
               text: List three additional requirements for those applying for career
                 missionary appointment.
@@ -23174,15 +23304,11 @@ courses:
             - p: 11
               text: AGWM and AG churches need to trust that AGWM has done everything
                 possible to vet, train, and otherwise prepare missionaries for the
-                field. Explain why the process for becoming an AGWM missionary is
-                so detailed and involved.
+                field.
               kind: list
               cls: _Body-Bullet-2
-              md: AGWM and AG churches need to trust that AGWM has done everything
-                possible to vet, train, and otherwise prepare missionaries for the
-                field.*Explain why the process for becoming an AGWM missionary is
-                so detailed and involved.*
-              UID: THE154.6.5.3.P.9
+              UID: THE154.6.5.3.P.9.1
+              source_uid: THE154.6.5.3.P.9
             - p: 12
               text: Explain why the process for becoming an AGWM missionary is so
                 detailed and involved.
@@ -23293,13 +23419,10 @@ courses:
               cls: _Body-Bullet-2
               UID: THE154.6.5.3.P.26
             - p: 31
-              text: 2,085 People Groups Note the key elements in AGWM's vision to
-                address the need for global access to the gospel.
+              text: 2,085 People Groups
               kind: list
               cls: _Body-Bullet-2
-              md: 2,085 People Groups*Note the key elements in AGWM's vision to address
-                the need for global access to the gospel.*
-              UID: THE154.6.5.3.P.27
+              UID: THE154.6.5.3.P.45
             - p: 32
               text: Note the key elements in AGWM's vision to address the need for
                 global access to the gospel.
@@ -23406,6 +23529,66 @@ courses:
                 because local churches are best able to show compassion to their communities.
                 Missionaries and foreign aid agencies will eventually leave, but local
                 churches will remain among their people, demonstrating the love of
+                Christ to one another and their communities.
+              kind: list
+              cls: _Body-Bullet-2
+              UID: THE154.6.5.3.P.38.1
+              source_uid: THE154.6.5.3.P.38
+            - p: 3
+              text: MAPS Volunteers – This designation is given to those who join
+                short-term teams with churches or serve as volunteers on the field
+                for up to eleven months. Vetting for MAPS workers is conducted by
+                their local pastor or church. List some of the requirements to become
+                an AGWM Missionary.
+              kind: list
+              cls: _Body-Bullet-2
+              md: MAPS Volunteers – This designation is given to those who join short-term
+                teams with churches or serve as volunteers on the field for up to
+                eleven months. Vetting for MAPS workers is conducted by their local
+                pastor or church.*List some of the requirements to become an AGWM
+                Missionary.*
+              UID: THE154.6.5.3.P.3
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.6.5.3.P.3.1
+            - p: 6
+              text: The application and approval process to become an MA involves
+                the applicant’s testimony, call, work experience, personal, family,
+                and educational backgrounds, references, pastor and district/network
+                recommendations and Area Director/ministry leader approval. List three
+                additional requirements for those applying for career missionary appointment.
+              kind: list
+              cls: _Body-Bullet-3
+              md: The application and approval process to become an MA involves the
+                applicant’s testimony, call, work experience, personal, family, and
+                educational backgrounds, references, pastor and district/network recommendations
+                and Area Director/ministry leader approval.*List three additional
+                requirements for those applying for career missionary appointment.*
+              UID: THE154.6.5.3.P.5
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.6.5.3.P.5.1
+            - p: 11
+              text: AGWM and AG churches need to trust that AGWM has done everything
+                possible to vet, train, and otherwise prepare missionaries for the
+                field. Explain why the process for becoming an AGWM missionary is
+                so detailed and involved.
+              kind: list
+              cls: _Body-Bullet-2
+              md: AGWM and AG churches need to trust that AGWM has done everything
+                possible to vet, train, and otherwise prepare missionaries for the
+                field.*Explain why the process for becoming an AGWM missionary is
+                so detailed and involved.*
+              UID: THE154.6.5.3.P.9
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.6.5.3.P.9.1
+            - p: 44
+              text: Serving–Since Acts 2, the Christian church has been known by the
+                world for its generosity and help to the suffering. We plant churches
+                because local churches are best able to show compassion to their communities.
+                Missionaries and foreign aid agencies will eventually leave, but local
+                churches will remain among their people, demonstrating the love of
                 Christ to one another and their communities. Describe three aspects
                 of the role of the local church in supporting missions.
               kind: list
@@ -23418,6 +23601,19 @@ courses:
                 Christ to one another and their communities.*Describe three aspects
                 of the role of the local church in supporting missions.*
               UID: THE154.6.5.3.P.38
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.6.5.3.P.38.1
+            - p: 31
+              text: 2,085 People Groups Note the key elements in AGWM's vision to
+                address the need for global access to the gospel.
+              kind: list
+              cls: _Body-Bullet-2
+              md: 2,085 People Groups*Note the key elements in AGWM's vision to address
+                the need for global access to the gospel.*
+              UID: THE154.6.5.3.P.27
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
             interactive_questions:
             - p: 10
               text: How can you or your church become more involved in supporting
@@ -23494,16 +23690,11 @@ courses:
               text: MAPS Volunteers – This designation is given to those who join
                 short-term teams with churches or serve as volunteers on the field
                 for up to eleven months. Vetting for MAPS workers is conducted by
-                their local pastor or church. List some of the requirements to become
-                an AGWM Missionary.
+                their local pastor or church.
               kind: list
               cls: _Body-Bullet-2
-              md: MAPS Volunteers – This designation is given to those who join short-term
-                teams with churches or serve as volunteers on the field for up to
-                eleven months. Vetting for MAPS workers is conducted by their local
-                pastor or church.*List some of the requirements to become an AGWM
-                Missionary.*
-              UID: THE154.6.5.4.P.3
+              UID: THE154.6.5.4.P.3.1
+              source_uid: THE154.6.5.4.P.3
             - p: 4
               text: List some of the requirements to become an AGWM Missionary.
               kind: prose
@@ -23539,16 +23730,11 @@ courses:
               text: The application and approval process to become an MA involves
                 the applicant’s testimony, call, work experience, personal, family,
                 and educational backgrounds, references, pastor and district/network
-                recommendations and Area Director/ministry leader approval. List three
-                additional requirements for those applying for career missionary appointment.
+                recommendations and Area Director/ministry leader approval.
               kind: list
               cls: _Body-Bullet-3
-              md: The application and approval process to become an MA involves the
-                applicant’s testimony, call, work experience, personal, family, and
-                educational backgrounds, references, pastor and district/network recommendations
-                and Area Director/ministry leader approval.*List three additional
-                requirements for those applying for career missionary appointment.*
-              UID: THE154.6.5.4.P.5
+              UID: THE154.6.5.4.P.5.1
+              source_uid: THE154.6.5.4.P.5
             - p: 7
               text: List three additional requirements for those applying for career
                 missionary appointment.
@@ -23584,15 +23770,11 @@ courses:
             - p: 11
               text: AGWM and AG churches need to trust that AGWM has done everything
                 possible to vet, train, and otherwise prepare missionaries for the
-                field. Explain why the process for becoming an AGWM missionary is
-                so detailed and involved.
+                field.
               kind: list
               cls: _Body-Bullet-2
-              md: AGWM and AG churches need to trust that AGWM has done everything
-                possible to vet, train, and otherwise prepare missionaries for the
-                field.*Explain why the process for becoming an AGWM missionary is
-                so detailed and involved.*
-              UID: THE154.6.5.4.P.9
+              UID: THE154.6.5.4.P.9.1
+              source_uid: THE154.6.5.4.P.9
             - p: 12
               text: Explain why the process for becoming an AGWM missionary is so
                 detailed and involved.
@@ -23703,13 +23885,10 @@ courses:
               cls: _Body-Bullet-2
               UID: THE154.6.5.4.P.26
             - p: 31
-              text: 2,085 People Groups Note the key elements in AGWM's vision to
-                address the need for global access to the gospel.
+              text: 2,085 People Groups
               kind: list
               cls: _Body-Bullet-2
-              md: 2,085 People Groups*Note the key elements in AGWM's vision to address
-                the need for global access to the gospel.*
-              UID: THE154.6.5.4.P.27
+              UID: THE154.6.5.4.P.45
             - p: 32
               text: Note the key elements in AGWM's vision to address the need for
                 global access to the gospel.
@@ -23816,6 +23995,66 @@ courses:
                 because local churches are best able to show compassion to their communities.
                 Missionaries and foreign aid agencies will eventually leave, but local
                 churches will remain among their people, demonstrating the love of
+                Christ to one another and their communities.
+              kind: list
+              cls: _Body-Bullet-2
+              UID: THE154.6.5.4.P.38.1
+              source_uid: THE154.6.5.4.P.38
+            - p: 3
+              text: MAPS Volunteers – This designation is given to those who join
+                short-term teams with churches or serve as volunteers on the field
+                for up to eleven months. Vetting for MAPS workers is conducted by
+                their local pastor or church. List some of the requirements to become
+                an AGWM Missionary.
+              kind: list
+              cls: _Body-Bullet-2
+              md: MAPS Volunteers – This designation is given to those who join short-term
+                teams with churches or serve as volunteers on the field for up to
+                eleven months. Vetting for MAPS workers is conducted by their local
+                pastor or church.*List some of the requirements to become an AGWM
+                Missionary.*
+              UID: THE154.6.5.4.P.3
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.6.5.4.P.3.1
+            - p: 6
+              text: The application and approval process to become an MA involves
+                the applicant’s testimony, call, work experience, personal, family,
+                and educational backgrounds, references, pastor and district/network
+                recommendations and Area Director/ministry leader approval. List three
+                additional requirements for those applying for career missionary appointment.
+              kind: list
+              cls: _Body-Bullet-3
+              md: The application and approval process to become an MA involves the
+                applicant’s testimony, call, work experience, personal, family, and
+                educational backgrounds, references, pastor and district/network recommendations
+                and Area Director/ministry leader approval.*List three additional
+                requirements for those applying for career missionary appointment.*
+              UID: THE154.6.5.4.P.5
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.6.5.4.P.5.1
+            - p: 11
+              text: AGWM and AG churches need to trust that AGWM has done everything
+                possible to vet, train, and otherwise prepare missionaries for the
+                field. Explain why the process for becoming an AGWM missionary is
+                so detailed and involved.
+              kind: list
+              cls: _Body-Bullet-2
+              md: AGWM and AG churches need to trust that AGWM has done everything
+                possible to vet, train, and otherwise prepare missionaries for the
+                field.*Explain why the process for becoming an AGWM missionary is
+                so detailed and involved.*
+              UID: THE154.6.5.4.P.9
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.6.5.4.P.9.1
+            - p: 44
+              text: Serving–Since Acts 2, the Christian church has been known by the
+                world for its generosity and help to the suffering. We plant churches
+                because local churches are best able to show compassion to their communities.
+                Missionaries and foreign aid agencies will eventually leave, but local
+                churches will remain among their people, demonstrating the love of
                 Christ to one another and their communities. Describe three aspects
                 of the role of the local church in supporting missions.
               kind: list
@@ -23828,6 +24067,19 @@ courses:
                 Christ to one another and their communities.*Describe three aspects
                 of the role of the local church in supporting missions.*
               UID: THE154.6.5.4.P.38
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.6.5.4.P.38.1
+            - p: 31
+              text: 2,085 People Groups Note the key elements in AGWM's vision to
+                address the need for global access to the gospel.
+              kind: list
+              cls: _Body-Bullet-2
+              md: 2,085 People Groups*Note the key elements in AGWM's vision to address
+                the need for global access to the gospel.*
+              UID: THE154.6.5.4.P.27
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
             interactive_questions:
             - p: 10
               text: How can you or your church become more involved in supporting
@@ -23904,16 +24156,11 @@ courses:
               text: MAPS Volunteers – This designation is given to those who join
                 short-term teams with churches or serve as volunteers on the field
                 for up to eleven months. Vetting for MAPS workers is conducted by
-                their local pastor or church. List some of the requirements to become
-                an AGWM Missionary.
+                their local pastor or church.
               kind: list
               cls: _Body-Bullet-2
-              md: MAPS Volunteers – This designation is given to those who join short-term
-                teams with churches or serve as volunteers on the field for up to
-                eleven months. Vetting for MAPS workers is conducted by their local
-                pastor or church.*List some of the requirements to become an AGWM
-                Missionary.*
-              UID: THE154.6.5.5.P.3
+              UID: THE154.6.5.5.P.3.1
+              source_uid: THE154.6.5.5.P.3
             - p: 4
               text: List some of the requirements to become an AGWM Missionary.
               kind: prose
@@ -23949,16 +24196,11 @@ courses:
               text: The application and approval process to become an MA involves
                 the applicant’s testimony, call, work experience, personal, family,
                 and educational backgrounds, references, pastor and district/network
-                recommendations and Area Director/ministry leader approval. List three
-                additional requirements for those applying for career missionary appointment.
+                recommendations and Area Director/ministry leader approval.
               kind: list
               cls: _Body-Bullet-3
-              md: The application and approval process to become an MA involves the
-                applicant’s testimony, call, work experience, personal, family, and
-                educational backgrounds, references, pastor and district/network recommendations
-                and Area Director/ministry leader approval.*List three additional
-                requirements for those applying for career missionary appointment.*
-              UID: THE154.6.5.5.P.5
+              UID: THE154.6.5.5.P.5.1
+              source_uid: THE154.6.5.5.P.5
             - p: 7
               text: List three additional requirements for those applying for career
                 missionary appointment.
@@ -23994,15 +24236,11 @@ courses:
             - p: 11
               text: AGWM and AG churches need to trust that AGWM has done everything
                 possible to vet, train, and otherwise prepare missionaries for the
-                field. Explain why the process for becoming an AGWM missionary is
-                so detailed and involved.
+                field.
               kind: list
               cls: _Body-Bullet-2
-              md: AGWM and AG churches need to trust that AGWM has done everything
-                possible to vet, train, and otherwise prepare missionaries for the
-                field.*Explain why the process for becoming an AGWM missionary is
-                so detailed and involved.*
-              UID: THE154.6.5.5.P.9
+              UID: THE154.6.5.5.P.9.1
+              source_uid: THE154.6.5.5.P.9
             - p: 12
               text: Explain why the process for becoming an AGWM missionary is so
                 detailed and involved.
@@ -24113,13 +24351,10 @@ courses:
               cls: _Body-Bullet-2
               UID: THE154.6.5.5.P.26
             - p: 31
-              text: 2,085 People Groups Note the key elements in AGWM's vision to
-                address the need for global access to the gospel.
+              text: 2,085 People Groups
               kind: list
               cls: _Body-Bullet-2
-              md: 2,085 People Groups*Note the key elements in AGWM's vision to address
-                the need for global access to the gospel.*
-              UID: THE154.6.5.5.P.27
+              UID: THE154.6.5.5.P.45
             - p: 32
               text: Note the key elements in AGWM's vision to address the need for
                 global access to the gospel.
@@ -24226,6 +24461,66 @@ courses:
                 because local churches are best able to show compassion to their communities.
                 Missionaries and foreign aid agencies will eventually leave, but local
                 churches will remain among their people, demonstrating the love of
+                Christ to one another and their communities.
+              kind: list
+              cls: _Body-Bullet-2
+              UID: THE154.6.5.5.P.38.1
+              source_uid: THE154.6.5.5.P.38
+            - p: 3
+              text: MAPS Volunteers – This designation is given to those who join
+                short-term teams with churches or serve as volunteers on the field
+                for up to eleven months. Vetting for MAPS workers is conducted by
+                their local pastor or church. List some of the requirements to become
+                an AGWM Missionary.
+              kind: list
+              cls: _Body-Bullet-2
+              md: MAPS Volunteers – This designation is given to those who join short-term
+                teams with churches or serve as volunteers on the field for up to
+                eleven months. Vetting for MAPS workers is conducted by their local
+                pastor or church.*List some of the requirements to become an AGWM
+                Missionary.*
+              UID: THE154.6.5.5.P.3
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.6.5.5.P.3.1
+            - p: 6
+              text: The application and approval process to become an MA involves
+                the applicant’s testimony, call, work experience, personal, family,
+                and educational backgrounds, references, pastor and district/network
+                recommendations and Area Director/ministry leader approval. List three
+                additional requirements for those applying for career missionary appointment.
+              kind: list
+              cls: _Body-Bullet-3
+              md: The application and approval process to become an MA involves the
+                applicant’s testimony, call, work experience, personal, family, and
+                educational backgrounds, references, pastor and district/network recommendations
+                and Area Director/ministry leader approval.*List three additional
+                requirements for those applying for career missionary appointment.*
+              UID: THE154.6.5.5.P.5
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.6.5.5.P.5.1
+            - p: 11
+              text: AGWM and AG churches need to trust that AGWM has done everything
+                possible to vet, train, and otherwise prepare missionaries for the
+                field. Explain why the process for becoming an AGWM missionary is
+                so detailed and involved.
+              kind: list
+              cls: _Body-Bullet-2
+              md: AGWM and AG churches need to trust that AGWM has done everything
+                possible to vet, train, and otherwise prepare missionaries for the
+                field.*Explain why the process for becoming an AGWM missionary is
+                so detailed and involved.*
+              UID: THE154.6.5.5.P.9
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.6.5.5.P.9.1
+            - p: 44
+              text: Serving–Since Acts 2, the Christian church has been known by the
+                world for its generosity and help to the suffering. We plant churches
+                because local churches are best able to show compassion to their communities.
+                Missionaries and foreign aid agencies will eventually leave, but local
+                churches will remain among their people, demonstrating the love of
                 Christ to one another and their communities. Describe three aspects
                 of the role of the local church in supporting missions.
               kind: list
@@ -24238,6 +24533,19 @@ courses:
                 Christ to one another and their communities.*Describe three aspects
                 of the role of the local church in supporting missions.*
               UID: THE154.6.5.5.P.38
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.6.5.5.P.38.1
+            - p: 31
+              text: 2,085 People Groups Note the key elements in AGWM's vision to
+                address the need for global access to the gospel.
+              kind: list
+              cls: _Body-Bullet-2
+              md: 2,085 People Groups*Note the key elements in AGWM's vision to address
+                the need for global access to the gospel.*
+              UID: THE154.6.5.5.P.27
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
             interactive_questions:
             - p: 10
               text: How can you or your church become more involved in supporting
@@ -24314,16 +24622,11 @@ courses:
               text: MAPS Volunteers – This designation is given to those who join
                 short-term teams with churches or serve as volunteers on the field
                 for up to eleven months. Vetting for MAPS workers is conducted by
-                their local pastor or church. List some of the requirements to become
-                an AGWM Missionary.
+                their local pastor or church.
               kind: list
               cls: _Body-Bullet-2
-              md: MAPS Volunteers – This designation is given to those who join short-term
-                teams with churches or serve as volunteers on the field for up to
-                eleven months. Vetting for MAPS workers is conducted by their local
-                pastor or church.*List some of the requirements to become an AGWM
-                Missionary.*
-              UID: THE154.6.5.6.P.3
+              UID: THE154.6.5.6.P.3.1
+              source_uid: THE154.6.5.6.P.3
             - p: 4
               text: List some of the requirements to become an AGWM Missionary.
               kind: prose
@@ -24359,16 +24662,11 @@ courses:
               text: The application and approval process to become an MA involves
                 the applicant’s testimony, call, work experience, personal, family,
                 and educational backgrounds, references, pastor and district/network
-                recommendations and Area Director/ministry leader approval. List three
-                additional requirements for those applying for career missionary appointment.
+                recommendations and Area Director/ministry leader approval.
               kind: list
               cls: _Body-Bullet-3
-              md: The application and approval process to become an MA involves the
-                applicant’s testimony, call, work experience, personal, family, and
-                educational backgrounds, references, pastor and district/network recommendations
-                and Area Director/ministry leader approval.*List three additional
-                requirements for those applying for career missionary appointment.*
-              UID: THE154.6.5.6.P.5
+              UID: THE154.6.5.6.P.5.1
+              source_uid: THE154.6.5.6.P.5
             - p: 7
               text: List three additional requirements for those applying for career
                 missionary appointment.
@@ -24404,15 +24702,11 @@ courses:
             - p: 11
               text: AGWM and AG churches need to trust that AGWM has done everything
                 possible to vet, train, and otherwise prepare missionaries for the
-                field. Explain why the process for becoming an AGWM missionary is
-                so detailed and involved.
+                field.
               kind: list
               cls: _Body-Bullet-2
-              md: AGWM and AG churches need to trust that AGWM has done everything
-                possible to vet, train, and otherwise prepare missionaries for the
-                field.*Explain why the process for becoming an AGWM missionary is
-                so detailed and involved.*
-              UID: THE154.6.5.6.P.9
+              UID: THE154.6.5.6.P.9.1
+              source_uid: THE154.6.5.6.P.9
             - p: 12
               text: Explain why the process for becoming an AGWM missionary is so
                 detailed and involved.
@@ -24523,13 +24817,10 @@ courses:
               cls: _Body-Bullet-2
               UID: THE154.6.5.6.P.26
             - p: 31
-              text: 2,085 People Groups Note the key elements in AGWM's vision to
-                address the need for global access to the gospel.
+              text: 2,085 People Groups
               kind: list
               cls: _Body-Bullet-2
-              md: 2,085 People Groups*Note the key elements in AGWM's vision to address
-                the need for global access to the gospel.*
-              UID: THE154.6.5.6.P.27
+              UID: THE154.6.5.6.P.45
             - p: 32
               text: Note the key elements in AGWM's vision to address the need for
                 global access to the gospel.
@@ -24636,6 +24927,66 @@ courses:
                 because local churches are best able to show compassion to their communities.
                 Missionaries and foreign aid agencies will eventually leave, but local
                 churches will remain among their people, demonstrating the love of
+                Christ to one another and their communities.
+              kind: list
+              cls: _Body-Bullet-2
+              UID: THE154.6.5.6.P.38.1
+              source_uid: THE154.6.5.6.P.38
+            - p: 3
+              text: MAPS Volunteers – This designation is given to those who join
+                short-term teams with churches or serve as volunteers on the field
+                for up to eleven months. Vetting for MAPS workers is conducted by
+                their local pastor or church. List some of the requirements to become
+                an AGWM Missionary.
+              kind: list
+              cls: _Body-Bullet-2
+              md: MAPS Volunteers – This designation is given to those who join short-term
+                teams with churches or serve as volunteers on the field for up to
+                eleven months. Vetting for MAPS workers is conducted by their local
+                pastor or church.*List some of the requirements to become an AGWM
+                Missionary.*
+              UID: THE154.6.5.6.P.3
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.6.5.6.P.3.1
+            - p: 6
+              text: The application and approval process to become an MA involves
+                the applicant’s testimony, call, work experience, personal, family,
+                and educational backgrounds, references, pastor and district/network
+                recommendations and Area Director/ministry leader approval. List three
+                additional requirements for those applying for career missionary appointment.
+              kind: list
+              cls: _Body-Bullet-3
+              md: The application and approval process to become an MA involves the
+                applicant’s testimony, call, work experience, personal, family, and
+                educational backgrounds, references, pastor and district/network recommendations
+                and Area Director/ministry leader approval.*List three additional
+                requirements for those applying for career missionary appointment.*
+              UID: THE154.6.5.6.P.5
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.6.5.6.P.5.1
+            - p: 11
+              text: AGWM and AG churches need to trust that AGWM has done everything
+                possible to vet, train, and otherwise prepare missionaries for the
+                field. Explain why the process for becoming an AGWM missionary is
+                so detailed and involved.
+              kind: list
+              cls: _Body-Bullet-2
+              md: AGWM and AG churches need to trust that AGWM has done everything
+                possible to vet, train, and otherwise prepare missionaries for the
+                field.*Explain why the process for becoming an AGWM missionary is
+                so detailed and involved.*
+              UID: THE154.6.5.6.P.9
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.6.5.6.P.9.1
+            - p: 44
+              text: Serving–Since Acts 2, the Christian church has been known by the
+                world for its generosity and help to the suffering. We plant churches
+                because local churches are best able to show compassion to their communities.
+                Missionaries and foreign aid agencies will eventually leave, but local
+                churches will remain among their people, demonstrating the love of
                 Christ to one another and their communities. Describe three aspects
                 of the role of the local church in supporting missions.
               kind: list
@@ -24648,6 +24999,19 @@ courses:
                 Christ to one another and their communities.*Describe three aspects
                 of the role of the local church in supporting missions.*
               UID: THE154.6.5.6.P.38
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.6.5.6.P.38.1
+            - p: 31
+              text: 2,085 People Groups Note the key elements in AGWM's vision to
+                address the need for global access to the gospel.
+              kind: list
+              cls: _Body-Bullet-2
+              md: 2,085 People Groups*Note the key elements in AGWM's vision to address
+                the need for global access to the gospel.*
+              UID: THE154.6.5.6.P.27
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
             interactive_questions:
             - p: 10
               text: How can you or your church become more involved in supporting
@@ -24814,12 +25178,22 @@ courses:
               UID: THE154.6.6.1.P.10
             - p: 14
               text: Serving - Are we remembering the poor, the suffering, the orphaned
+                and widowed in our missions giving?
+              kind: list
+              cls: _Body-Bullet-2
+              UID: THE154.6.6.1.P.11.1
+              source_uid: THE154.6.6.1.P.11
+            - p: 14
+              text: Serving - Are we remembering the poor, the suffering, the orphaned
                 and widowed in our missions giving? 6 . 7 LESSON
               kind: list
               cls: _Body-Bullet-2
               md: Serving - Are we remembering the poor, the suffering, the orphaned
                 and widowed in our missions giving?6.7**LESSON**
               UID: THE154.6.6.1.P.11
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.6.6.1.P.11.1
           6.6.2:
             last_modified: '2026-03-27'
             text: Describe the importance of a missions culture within the local church.
@@ -24939,12 +25313,22 @@ courses:
               UID: THE154.6.6.2.P.10
             - p: 14
               text: Serving - Are we remembering the poor, the suffering, the orphaned
+                and widowed in our missions giving?
+              kind: list
+              cls: _Body-Bullet-2
+              UID: THE154.6.6.2.P.11.1
+              source_uid: THE154.6.6.2.P.11
+            - p: 14
+              text: Serving - Are we remembering the poor, the suffering, the orphaned
                 and widowed in our missions giving? 6 . 7 LESSON
               kind: list
               cls: _Body-Bullet-2
               md: Serving - Are we remembering the poor, the suffering, the orphaned
                 and widowed in our missions giving?6.7**LESSON**
               UID: THE154.6.6.2.P.11
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.6.6.2.P.11.1
           6.6.3:
             last_modified: '2026-03-27'
             text: Identify some elements of best practice related to evaluating the
@@ -25065,12 +25449,22 @@ courses:
               UID: THE154.6.6.3.P.10
             - p: 14
               text: Serving - Are we remembering the poor, the suffering, the orphaned
+                and widowed in our missions giving?
+              kind: list
+              cls: _Body-Bullet-2
+              UID: THE154.6.6.3.P.11.1
+              source_uid: THE154.6.6.3.P.11
+            - p: 14
+              text: Serving - Are we remembering the poor, the suffering, the orphaned
                 and widowed in our missions giving? 6 . 7 LESSON
               kind: list
               cls: _Body-Bullet-2
               md: Serving - Are we remembering the poor, the suffering, the orphaned
                 and widowed in our missions giving?6.7**LESSON**
               UID: THE154.6.6.3.P.11
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.6.6.3.P.11.1
       - last_modified: '2026-03-27'
         title: Missionary Support
         subobjectives:
@@ -25232,12 +25626,22 @@ courses:
               UID: THE154.6.7.1.P.17
             - p: 18
               text: 'Resource: Funding ministries that provide discipleship resources
+                for women at every life stage.'
+              kind: list
+              cls: _Body-Bullet-3
+              UID: THE154.6.7.1.P.18.1
+              source_uid: THE154.6.7.1.P.18
+            - p: 18
+              text: 'Resource: Funding ministries that provide discipleship resources
                 for women at every life stage. 6 . 8 LESSON'
               kind: list
               cls: _Body-Bullet-3
               md: 'Resource: Funding ministries that provide discipleship resources
                 for women at every life stage.6.8**LESSON**'
               UID: THE154.6.7.1.P.18
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.6.7.1.P.18.1
             scripture:
             - intext: John 4:35
               version: NIV
@@ -33573,28 +33977,23 @@ courses:
                 Davis, Peggy Musgrove, and Sylvia Lee produced effective Sunday school
                 curriculum and training materials that encouraged, inspired, molded,
                 and launched many current AG leaders into greater devotion and ministry.
-                Billie Davis
               kind: list
               cls: _Body-Bullet-2
-              md: Editors and writers such as Dorothy Morris, Gwen Jones, Billie Davis,
-                Peggy Musgrove, and Sylvia Lee produced effective Sunday school curriculum
-                and training materials that encouraged, inspired, molded, and launched
-                many current AG leaders into greater devotion and ministry.**Billie
-                Davis**
-              UID: THE154.8.4.1.P.17
+              UID: THE154.8.4.1.P.17.1
+              source_uid: THE154.8.4.1.P.17
             - p: 19
-              kind: image
-              src: BTHE154ENE01-90_01.26.06-web-resources/image/lesson_08_(2).png
-              caption: ''
-              alt: ''
-              UID: THE154.8.4.1.IMG.1
-            - p: 20
               text: Billie Davis
               kind: list
               cls: _Body-Bullet
               md: '**Billie Davis**'
               UID: THE154.8.4.1.P.18
               page: 131
+            - p: 20
+              kind: image
+              src: BTHE154ENE01-90_01.26.06-web-resources/image/lesson_08_(2).png
+              caption: ''
+              alt: ''
+              UID: THE154.8.4.1.IMG.1
             - p: 21
               text: Today, a new generation of writers, editors, educators, and church
                 historians is influencing the next generation. They are boldly continuing
@@ -33647,6 +34046,23 @@ courses:
               cls: _Body-Indent
               UID: THE154.8.4.1.P.23
               page: 132
+            - p: 18
+              text: Editors and writers such as Dorothy Morris, Gwen Jones, Billie
+                Davis, Peggy Musgrove, and Sylvia Lee produced effective Sunday school
+                curriculum and training materials that encouraged, inspired, molded,
+                and launched many current AG leaders into greater devotion and ministry.
+                Billie Davis
+              kind: list
+              cls: _Body-Bullet-2
+              md: Editors and writers such as Dorothy Morris, Gwen Jones, Billie Davis,
+                Peggy Musgrove, and Sylvia Lee produced effective Sunday school curriculum
+                and training materials that encouraged, inspired, molded, and launched
+                many current AG leaders into greater devotion and ministry.**Billie
+                Davis**
+              UID: THE154.8.4.1.P.17
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.8.4.1.P.17.1
             citations:
             - citekey: kowalski2014
               pandoc: '[@kowalski2014, 68]'
@@ -38700,16 +39116,11 @@ courses:
             - p: 21
               text: Prepared the way for the Charismatic Movement, as believers in
                 mainline denominations were attracted by the healings and exposed
-                to the working of the Holy Spirit. Explain the tension many classical
-                Pentecostals felt in choosing how to respond to Pentecostals in mainline
-                churches
+                to the working of the Holy Spirit.
               kind: list
               cls: _Body-Bullet-2
-              md: Prepared the way for the Charismatic Movement, as believers in mainline
-                denominations were attracted by the healings and exposed to the working
-                of the Holy Spirit.Explain the tension many classical Pentecostals
-                felt in choosing how to respond to Pentecostals in mainline churches
-              UID: THE154.9.3.1.P.20
+              UID: THE154.9.3.1.P.20.1
+              source_uid: THE154.9.3.1.P.20
             - p: 22
               text: Explain the tension many classical Pentecostals felt in choosing
                 how to respond to Pentecostals in mainline churches
@@ -38966,6 +39377,22 @@ courses:
               cls: _Body-Indent
               UID: THE154.9.3.1.P.39
               page: 147
+            - p: 21
+              text: Prepared the way for the Charismatic Movement, as believers in
+                mainline denominations were attracted by the healings and exposed
+                to the working of the Holy Spirit. Explain the tension many classical
+                Pentecostals felt in choosing how to respond to Pentecostals in mainline
+                churches
+              kind: list
+              cls: _Body-Bullet-2
+              md: Prepared the way for the Charismatic Movement, as believers in mainline
+                denominations were attracted by the healings and exposed to the working
+                of the Holy Spirit.Explain the tension many classical Pentecostals
+                felt in choosing how to respond to Pentecostals in mainline churches
+              UID: THE154.9.3.1.P.20
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.9.3.1.P.20.1
             citations:
             - citekey: rodgers2014
               pandoc: '[@rodgers2014]'
@@ -39250,16 +39677,11 @@ courses:
             - p: 21
               text: Prepared the way for the Charismatic Movement, as believers in
                 mainline denominations were attracted by the healings and exposed
-                to the working of the Holy Spirit. Explain the tension many classical
-                Pentecostals felt in choosing how to respond to Pentecostals in mainline
-                churches
+                to the working of the Holy Spirit.
               kind: list
               cls: _Body-Bullet-2
-              md: Prepared the way for the Charismatic Movement, as believers in mainline
-                denominations were attracted by the healings and exposed to the working
-                of the Holy Spirit.Explain the tension many classical Pentecostals
-                felt in choosing how to respond to Pentecostals in mainline churches
-              UID: THE154.9.3.2.P.20
+              UID: THE154.9.3.2.P.20.1
+              source_uid: THE154.9.3.2.P.20
             - p: 22
               text: Explain the tension many classical Pentecostals felt in choosing
                 how to respond to Pentecostals in mainline churches
@@ -39516,6 +39938,22 @@ courses:
               cls: _Body-Indent
               UID: THE154.9.3.2.P.39
               page: 147
+            - p: 21
+              text: Prepared the way for the Charismatic Movement, as believers in
+                mainline denominations were attracted by the healings and exposed
+                to the working of the Holy Spirit. Explain the tension many classical
+                Pentecostals felt in choosing how to respond to Pentecostals in mainline
+                churches
+              kind: list
+              cls: _Body-Bullet-2
+              md: Prepared the way for the Charismatic Movement, as believers in mainline
+                denominations were attracted by the healings and exposed to the working
+                of the Holy Spirit.Explain the tension many classical Pentecostals
+                felt in choosing how to respond to Pentecostals in mainline churches
+              UID: THE154.9.3.2.P.20
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.9.3.2.P.20.1
             citations:
             - citekey: rodgers2014
               pandoc: '[@rodgers2014]'
@@ -39801,16 +40239,11 @@ courses:
             - p: 21
               text: Prepared the way for the Charismatic Movement, as believers in
                 mainline denominations were attracted by the healings and exposed
-                to the working of the Holy Spirit. Explain the tension many classical
-                Pentecostals felt in choosing how to respond to Pentecostals in mainline
-                churches
+                to the working of the Holy Spirit.
               kind: list
               cls: _Body-Bullet-2
-              md: Prepared the way for the Charismatic Movement, as believers in mainline
-                denominations were attracted by the healings and exposed to the working
-                of the Holy Spirit.Explain the tension many classical Pentecostals
-                felt in choosing how to respond to Pentecostals in mainline churches
-              UID: THE154.9.3.3.P.20
+              UID: THE154.9.3.3.P.20.1
+              source_uid: THE154.9.3.3.P.20
             - p: 22
               text: Explain the tension many classical Pentecostals felt in choosing
                 how to respond to Pentecostals in mainline churches
@@ -40067,6 +40500,22 @@ courses:
               cls: _Body-Indent
               UID: THE154.9.3.3.P.39
               page: 147
+            - p: 21
+              text: Prepared the way for the Charismatic Movement, as believers in
+                mainline denominations were attracted by the healings and exposed
+                to the working of the Holy Spirit. Explain the tension many classical
+                Pentecostals felt in choosing how to respond to Pentecostals in mainline
+                churches
+              kind: list
+              cls: _Body-Bullet-2
+              md: Prepared the way for the Charismatic Movement, as believers in mainline
+                denominations were attracted by the healings and exposed to the working
+                of the Holy Spirit.Explain the tension many classical Pentecostals
+                felt in choosing how to respond to Pentecostals in mainline churches
+              UID: THE154.9.3.3.P.20
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.9.3.3.P.20.1
             citations:
             - citekey: rodgers2014
               pandoc: '[@rodgers2014]'
@@ -40351,16 +40800,11 @@ courses:
             - p: 21
               text: Prepared the way for the Charismatic Movement, as believers in
                 mainline denominations were attracted by the healings and exposed
-                to the working of the Holy Spirit. Explain the tension many classical
-                Pentecostals felt in choosing how to respond to Pentecostals in mainline
-                churches
+                to the working of the Holy Spirit.
               kind: list
               cls: _Body-Bullet-2
-              md: Prepared the way for the Charismatic Movement, as believers in mainline
-                denominations were attracted by the healings and exposed to the working
-                of the Holy Spirit.Explain the tension many classical Pentecostals
-                felt in choosing how to respond to Pentecostals in mainline churches
-              UID: THE154.9.3.4.P.20
+              UID: THE154.9.3.4.P.20.1
+              source_uid: THE154.9.3.4.P.20
             - p: 22
               text: Explain the tension many classical Pentecostals felt in choosing
                 how to respond to Pentecostals in mainline churches
@@ -40617,6 +41061,22 @@ courses:
               cls: _Body-Indent
               UID: THE154.9.3.4.P.39
               page: 147
+            - p: 21
+              text: Prepared the way for the Charismatic Movement, as believers in
+                mainline denominations were attracted by the healings and exposed
+                to the working of the Holy Spirit. Explain the tension many classical
+                Pentecostals felt in choosing how to respond to Pentecostals in mainline
+                churches
+              kind: list
+              cls: _Body-Bullet-2
+              md: Prepared the way for the Charismatic Movement, as believers in mainline
+                denominations were attracted by the healings and exposed to the working
+                of the Holy Spirit.Explain the tension many classical Pentecostals
+                felt in choosing how to respond to Pentecostals in mainline churches
+              UID: THE154.9.3.4.P.20
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.9.3.4.P.20.1
             citations:
             - citekey: rodgers2014
               pandoc: '[@rodgers2014]'
@@ -41743,17 +42203,13 @@ courses:
               cls: _Body-Bullet-2
               UID: THE154.10.6.1.P.3
             - p: 4
-              text: Analyze the post-Memphis Miracle progress of the Assemblies of
-                God as related to inclusion, unity, and racial healing. In 2009, Zollie
-                Smith was elected director of Assemblies of God U.S. Missions, the
-                first African-American to hold an executive leadership position.
+              text: In 2009, Zollie Smith was elected director of Assemblies of God
+                U.S. Missions, the first African-American to hold an executive leadership
+                position.
               kind: list
               cls: _Body-Bullet-2
-              md: Analyze the post-Memphis Miracle progress of the Assemblies of God
-                as related to inclusion, unity, and racial healing.In 2009, Zollie
-                Smith was elected director of Assemblies of God U.S. Missions, the
-                first African-American to hold an executive leadership position.
-              UID: THE154.10.6.1.P.4
+              UID: THE154.10.6.1.P.4.1
+              source_uid: THE154.10.6.1.P.4
             - p: 5
               text: Analyze the post-Memphis Miracle progress of the Assemblies of
                 God as related to inclusion, unity, and racial healing.
@@ -41807,6 +42263,49 @@ courses:
                 of God. The Bob and Marilyn Harrison Emerging Leaders Scholarship
                 is awarded to an African-American student with the potential to have
                 as great an impact on the Assemblies of God and race relations as
+                did the scholarship’s namesakes (Huffman 2020).
+              kind: list
+              cls: _Body-Bullet-2
+              UID: THE154.10.6.1.P.9.1
+              source_uid: THE154.10.6.1.P.9
+            - p: 11
+              text: S elect two of the steps forward for African Americans after the
+                Memphis Miracle that you think are most significant, and tell why
+                you chose them.
+              kind: prose
+              cls: IST_Objective-text
+              UID: THE154.10.6.1.P.12
+            - p: 12
+              text: In 2020, a record 44.3 percent of AG adherents were ethnic minorities,
+                including an all-time high of 11.1 percent who are Black (Kennedy
+                2020b). That is a significant increase since 2001, when just 6.2 percent
+                of AG adherents were African-American (Kennedy 2020b).
+              kind: list
+              cls: _Body-Bullet-2
+              UID: THE154.10.6.1.P.10.1
+              source_uid: THE154.10.6.1.P.10
+            - p: 4
+              text: Analyze the post-Memphis Miracle progress of the Assemblies of
+                God as related to inclusion, unity, and racial healing. In 2009, Zollie
+                Smith was elected director of Assemblies of God U.S. Missions, the
+                first African-American to hold an executive leadership position.
+              kind: list
+              cls: _Body-Bullet-2
+              md: Analyze the post-Memphis Miracle progress of the Assemblies of God
+                as related to inclusion, unity, and racial healing.In 2009, Zollie
+                Smith was elected director of Assemblies of God U.S. Missions, the
+                first African-American to hold an executive leadership position.
+              UID: THE154.10.6.1.P.4
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.10.6.1.P.4.1
+            - p: 10
+              text: In 2020, Evangel University created a new full-tuition scholarship
+                named after Bob Harrison, the AG Bible college graduate who was instrumental
+                in opening the door for African-Americans to be ordained in the Assemblies
+                of God. The Bob and Marilyn Harrison Emerging Leaders Scholarship
+                is awarded to an African-American student with the potential to have
+                as great an impact on the Assemblies of God and race relations as
                 did the scholarship’s namesakes (Huffman 2020). S elect two of the
                 steps forward for African Americans after the Memphis Miracle that
                 you think are most significant, and tell why you chose them.
@@ -41822,13 +42321,9 @@ courses:
                 steps forward for African Americans after the Memphis Miracle that
                 you think are most significant, and tell why you chose them.*
               UID: THE154.10.6.1.P.9
-            - p: 11
-              text: S elect two of the steps forward for African Americans after the
-                Memphis Miracle that you think are most significant, and tell why
-                you chose them.
-              kind: prose
-              cls: IST_Objective-text
-              UID: THE154.10.6.1.P.12
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.10.6.1.P.9.1
             - p: 12
               text: In 2020, a record 44.3 percent of AG adherents were ethnic minorities,
                 including an all-time high of 11.1 percent who are Black (Kennedy
@@ -41841,6 +42336,9 @@ courses:
                 2020b). That is a significant increase since 2001, when just 6.2 percent
                 of AG adherents were African-American (Kennedy 2020b).10.7**LESSON**
               UID: THE154.10.6.1.P.10
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.10.6.1.P.10.1
             citations:
             - citekey: kennedy2015
               pandoc: '[@kennedy2015]'
@@ -41860,7 +42358,7 @@ courses:
             - citekey: hufman2020
               pandoc: '[@hufman2020]'
               intext: (Hufman 2020)
-              paragraph: THE154.10.6.1.P.9
+              paragraph: THE154.10.6.1.P.9.1
               UID: THE154.10.6.1.C.4
             interactive_questions:
             - p: 7
@@ -41902,17 +42400,13 @@ courses:
               cls: _Body-Bullet-2
               UID: THE154.10.6.2.P.3
             - p: 4
-              text: Analyze the post-Memphis Miracle progress of the Assemblies of
-                God as related to inclusion, unity, and racial healing. In 2009, Zollie
-                Smith was elected director of Assemblies of God U.S. Missions, the
-                first African-American to hold an executive leadership position.
+              text: In 2009, Zollie Smith was elected director of Assemblies of God
+                U.S. Missions, the first African-American to hold an executive leadership
+                position.
               kind: list
               cls: _Body-Bullet-2
-              md: Analyze the post-Memphis Miracle progress of the Assemblies of God
-                as related to inclusion, unity, and racial healing.In 2009, Zollie
-                Smith was elected director of Assemblies of God U.S. Missions, the
-                first African-American to hold an executive leadership position.
-              UID: THE154.10.6.2.P.4
+              UID: THE154.10.6.2.P.4.1
+              source_uid: THE154.10.6.2.P.4
             - p: 5
               text: Analyze the post-Memphis Miracle progress of the Assemblies of
                 God as related to inclusion, unity, and racial healing.
@@ -41966,6 +42460,49 @@ courses:
                 of God. The Bob and Marilyn Harrison Emerging Leaders Scholarship
                 is awarded to an African-American student with the potential to have
                 as great an impact on the Assemblies of God and race relations as
+                did the scholarship’s namesakes (Huffman 2020).
+              kind: list
+              cls: _Body-Bullet-2
+              UID: THE154.10.6.2.P.9.1
+              source_uid: THE154.10.6.2.P.9
+            - p: 11
+              text: S elect two of the steps forward for African Americans after the
+                Memphis Miracle that you think are most significant, and tell why
+                you chose them.
+              kind: prose
+              cls: IST_Objective-text
+              UID: THE154.10.6.2.P.12
+            - p: 12
+              text: In 2020, a record 44.3 percent of AG adherents were ethnic minorities,
+                including an all-time high of 11.1 percent who are Black (Kennedy
+                2020b). That is a significant increase since 2001, when just 6.2 percent
+                of AG adherents were African-American (Kennedy 2020b).
+              kind: list
+              cls: _Body-Bullet-2
+              UID: THE154.10.6.2.P.10.1
+              source_uid: THE154.10.6.2.P.10
+            - p: 4
+              text: Analyze the post-Memphis Miracle progress of the Assemblies of
+                God as related to inclusion, unity, and racial healing. In 2009, Zollie
+                Smith was elected director of Assemblies of God U.S. Missions, the
+                first African-American to hold an executive leadership position.
+              kind: list
+              cls: _Body-Bullet-2
+              md: Analyze the post-Memphis Miracle progress of the Assemblies of God
+                as related to inclusion, unity, and racial healing.In 2009, Zollie
+                Smith was elected director of Assemblies of God U.S. Missions, the
+                first African-American to hold an executive leadership position.
+              UID: THE154.10.6.2.P.4
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.10.6.2.P.4.1
+            - p: 10
+              text: In 2020, Evangel University created a new full-tuition scholarship
+                named after Bob Harrison, the AG Bible college graduate who was instrumental
+                in opening the door for African-Americans to be ordained in the Assemblies
+                of God. The Bob and Marilyn Harrison Emerging Leaders Scholarship
+                is awarded to an African-American student with the potential to have
+                as great an impact on the Assemblies of God and race relations as
                 did the scholarship’s namesakes (Huffman 2020). S elect two of the
                 steps forward for African Americans after the Memphis Miracle that
                 you think are most significant, and tell why you chose them.
@@ -41981,13 +42518,9 @@ courses:
                 steps forward for African Americans after the Memphis Miracle that
                 you think are most significant, and tell why you chose them.*
               UID: THE154.10.6.2.P.9
-            - p: 11
-              text: S elect two of the steps forward for African Americans after the
-                Memphis Miracle that you think are most significant, and tell why
-                you chose them.
-              kind: prose
-              cls: IST_Objective-text
-              UID: THE154.10.6.2.P.12
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.10.6.2.P.9.1
             - p: 12
               text: In 2020, a record 44.3 percent of AG adherents were ethnic minorities,
                 including an all-time high of 11.1 percent who are Black (Kennedy
@@ -42000,6 +42533,9 @@ courses:
                 2020b). That is a significant increase since 2001, when just 6.2 percent
                 of AG adherents were African-American (Kennedy 2020b).10.7**LESSON**
               UID: THE154.10.6.2.P.10
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.10.6.2.P.10.1
             citations:
             - citekey: kennedy2015
               pandoc: '[@kennedy2015]'
@@ -42019,7 +42555,7 @@ courses:
             - citekey: hufman2020
               pandoc: '[@hufman2020]'
               intext: (Hufman 2020)
-              paragraph: THE154.10.6.2.P.9
+              paragraph: THE154.10.6.2.P.9.1
               UID: THE154.10.6.2.C.4
             interactive_questions:
             - p: 7
@@ -42263,15 +42799,10 @@ courses:
               cls: _Body-Bullet-2
               UID: THE154.11.1.1.P.4
             - p: 5
-              text: Stii sa vorbesti romaneste? (Do you speak Romanian?) C ontrast
-                the growth and vitality of ethnic minorities with those of Whites
-                within the Assemblies of God
+              text: Stii sa vorbesti romaneste? (Do you speak Romanian?)
               kind: list
               cls: _Body-Bullet-2
-              md: Stii sa vorbesti romaneste? (Do you speak Romanian?) *C**ontrast
-                the growth and vitality of ethnic minorities with those of Whites
-                within the Assemblies of God*
-              UID: THE154.11.1.1.P.5
+              UID: THE154.11.1.1.P.23
             - p: 6
               text: C ontrast the growth and vitality of ethnic minorities with those
                 of Whites within the Assemblies of God
@@ -42463,6 +42994,18 @@ courses:
               cls: _Body-Indent
               UID: THE154.11.1.1.P.20
               page: 170
+            - p: 5
+              text: Stii sa vorbesti romaneste? (Do you speak Romanian?) C ontrast
+                the growth and vitality of ethnic minorities with those of Whites
+                within the Assemblies of God
+              kind: list
+              cls: _Body-Bullet-2
+              md: Stii sa vorbesti romaneste? (Do you speak Romanian?) *C**ontrast
+                the growth and vitality of ethnic minorities with those of Whites
+                within the Assemblies of God*
+              UID: THE154.11.1.1.P.5
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
             citations:
             - citekey: ghosh2020
               pandoc: '[@ghosh2020]'
@@ -42539,15 +43082,10 @@ courses:
               cls: _Body-Bullet-2
               UID: THE154.11.1.2.P.4
             - p: 5
-              text: Stii sa vorbesti romaneste? (Do you speak Romanian?) C ontrast
-                the growth and vitality of ethnic minorities with those of Whites
-                within the Assemblies of God
+              text: Stii sa vorbesti romaneste? (Do you speak Romanian?)
               kind: list
               cls: _Body-Bullet-2
-              md: Stii sa vorbesti romaneste? (Do you speak Romanian?) *C**ontrast
-                the growth and vitality of ethnic minorities with those of Whites
-                within the Assemblies of God*
-              UID: THE154.11.1.2.P.5
+              UID: THE154.11.1.2.P.23
             - p: 6
               text: C ontrast the growth and vitality of ethnic minorities with those
                 of Whites within the Assemblies of God
@@ -42739,6 +43277,18 @@ courses:
               cls: _Body-Indent
               UID: THE154.11.1.2.P.20
               page: 170
+            - p: 5
+              text: Stii sa vorbesti romaneste? (Do you speak Romanian?) C ontrast
+                the growth and vitality of ethnic minorities with those of Whites
+                within the Assemblies of God
+              kind: list
+              cls: _Body-Bullet-2
+              md: Stii sa vorbesti romaneste? (Do you speak Romanian?) *C**ontrast
+                the growth and vitality of ethnic minorities with those of Whites
+                within the Assemblies of God*
+              UID: THE154.11.1.2.P.5
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
             citations:
             - citekey: ghosh2020
               pandoc: '[@ghosh2020]'
@@ -43925,14 +44475,11 @@ courses:
               UID: THE154.12.3.1.P.7
             - p: 8
               text: Any church—no matter the size or circumstances—can move toward
-                greater effectiveness. Summarize five characteristics of a healthy
-                church and the major reason churches plateau.
+                greater effectiveness.
               kind: list
               cls: _Body-Bullet-2
-              md: Any church—no matter the size or circumstances—can move toward greater
-                effectiveness.Summarize five characteristics of a healthy church and
-                the major reason churches plateau.
-              UID: THE154.12.3.1.P.8
+              UID: THE154.12.3.1.P.8.1
+              source_uid: THE154.12.3.1.P.8
             - p: 9
               text: Summarize five characteristics of a healthy church and the major
                 reason churches plateau.
@@ -44030,6 +44577,19 @@ courses:
               cls: _Body-Indent
               UID: THE154.12.3.1.P.18
               page: 183
+            - p: 8
+              text: Any church—no matter the size or circumstances—can move toward
+                greater effectiveness. Summarize five characteristics of a healthy
+                church and the major reason churches plateau.
+              kind: list
+              cls: _Body-Bullet-2
+              md: Any church—no matter the size or circumstances—can move toward greater
+                effectiveness.Summarize five characteristics of a healthy church and
+                the major reason churches plateau.
+              UID: THE154.12.3.1.P.8
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
+              replaced_by: THE154.12.3.1.P.8.1
             citations:
             - citekey: railey2019
               pandoc: '[@railey2019]'
