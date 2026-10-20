@@ -2759,8 +2759,8 @@ Level 3 · 12 chapters · 27 lessons · 61 subobjectives
 - The Modern View of Truth (1.1.1, 1.1.2)
 - Postmodern Truth and Biblical Preaching (1.2.1, 1.2.2)
 
-**2 - Biblical Authority**
-- The Preacher’s Foundation (2.1.1, 2.1.2, 2.1.3)
+**2 - Biblical Authority Is Trustworthy**
+- The Starting Point (2.1.1, 2.1.2, 2.1.3)
 - The Word as Power (2.2.1)
 - Biblical Mystery and Authority (2.3.1, 2.3.2, 2.3.3)
 
@@ -2777,12 +2777,12 @@ Level 3 · 12 chapters · 27 lessons · 61 subobjectives
 - Organize the Sermon for Understanding (5.2.1, 5.2.2, 5.2.3, 5.2.4)
 
 **6 - Speaker / Audience Dynamics Part 1: Know Your Audience**
-- The Non-Christian Church (6.1.1, 6.1.2)
+- The Post-Christian Audience (6.1.1, 6.1.2)
 - Church Language (6.2.1, 6.2.2)
 - Background Checks (6.3.1, 6.3.2)
 - The Balancing Act (6.4.1)
 
-**7 - Speaker/Audience Dynamics Part 2: Know Yourself**
+**7 - Speaker / Audience Dynamics Part 2: Know Yourself**
 - The Preacher and Sermon Presentation (7.1.1)
 - The Preacher’s Life Presentation (7.2.1, 7.2.2)
 
