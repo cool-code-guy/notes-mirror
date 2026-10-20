@@ -9277,8 +9277,8 @@ courses:
         title: The Starting Point
         subobjectives:
           2.1.1:
-            last_modified: '2026-08-25'
-            text: Define God-breathed and explain what it says about Scripture.
+            last_modified: '2026-10-20'
+            text: Define "God-breathed" and explain what it says about Scripture.
             glossary:
             - term: biblical authority
               definition: the belief that the Bible’s words are God’s words, and they
@@ -9299,6 +9299,10 @@ courses:
               outdated: '2026-08-25'
               outdated_reason: re-parsed
               change: substantive
+            - text: Define God-breathed and explain what it says about Scripture.
+              outdated: '2026-10-20'
+              outdated_reason: revised
+              change: punctuation
             body:
             - p: 1
               text: The starting point for understanding Scripture is recognizing
