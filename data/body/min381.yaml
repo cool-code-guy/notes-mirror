@@ -7618,12 +7618,6 @@ courses:
                 Tanner'
               alt: ''
               UID: MIN381.1.1.1.IMG.1
-            - p: 3
-              text: Explain how the call of God is like an anchor.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Explain how the call of God is like an anchor.*'
-              UID: MIN381.1.1.1.P.26
             - p: 4
               text: The Call of God Is an Anchor
               kind: heading
@@ -7631,6 +7625,12 @@ courses:
               md: '**The Call of God Is an Anchor**'
               UID: MIN381.1.1.1.P.2
               page: 18
+            - p: 3
+              text: Explain how the call of God is like an anchor.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Explain how the call of God is like an anchor.*'
+              UID: MIN381.1.1.1.P.26
             - p: 5
               text: God’s call to ministry is the minister’s anchor. An anchor keeps
                 ships in place despite storms or high winds. When despair tempts them
@@ -7691,12 +7691,6 @@ courses:
               cls: IST_Body-Indent
               UID: MIN381.1.1.1.P.7
               page: 19
-            - p: 10
-              text: Describe two ways to test a call to ministry.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Describe two ways to test a call to ministry.*'
-              UID: MIN381.1.1.1.P.27
             - p: 11
               text: The Call of God Must Be Tested
               kind: heading
@@ -7704,6 +7698,12 @@ courses:
               md: '**The Call of God Must Be Tested**'
               UID: MIN381.1.1.1.P.8
               page: 19
+            - p: 10
+              text: Describe two ways to test a call to ministry.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Describe two ways to test a call to ministry.*'
+              UID: MIN381.1.1.1.P.27
             - p: 12
               text: 'While working with Bible college students and seminarians, I
                 am often asked how I knew God called me to the ministry. How could
@@ -8176,12 +8176,6 @@ courses:
                 Tanner'
               alt: ''
               UID: MIN381.1.1.2.IMG.1
-            - p: 3
-              text: Explain how the call of God is like an anchor.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Explain how the call of God is like an anchor.*'
-              UID: MIN381.1.1.2.P.26
             - p: 4
               text: The Call of God Is an Anchor
               kind: heading
@@ -8189,6 +8183,12 @@ courses:
               md: '**The Call of God Is an Anchor**'
               UID: MIN381.1.1.2.P.2
               page: 18
+            - p: 3
+              text: Explain how the call of God is like an anchor.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Explain how the call of God is like an anchor.*'
+              UID: MIN381.1.1.2.P.26
             - p: 5
               text: God’s call to ministry is the minister’s anchor. An anchor keeps
                 ships in place despite storms or high winds. When despair tempts them
@@ -8249,12 +8249,6 @@ courses:
               cls: IST_Body-Indent
               UID: MIN381.1.1.2.P.7
               page: 19
-            - p: 10
-              text: Describe two ways to test a call to ministry.
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Describe two ways to test a call to ministry.*'
-              UID: MIN381.1.1.2.P.27
             - p: 11
               text: The Call of God Must Be Tested
               kind: heading
@@ -8262,6 +8256,12 @@ courses:
               md: '**The Call of God Must Be Tested**'
               UID: MIN381.1.1.2.P.8
               page: 19
+            - p: 10
+              text: Describe two ways to test a call to ministry.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Describe two ways to test a call to ministry.*'
+              UID: MIN381.1.1.2.P.27
             - p: 12
               text: 'While working with Bible college students and seminarians, I
                 am often asked how I knew God called me to the ministry. How could
@@ -29681,16 +29681,22 @@ courses:
             text: Explain principles for sharing a vision with people.
             glossary: []
             body:
-            - p: 1
-              text: Knowing God’s will does little good if pastors cannot communicate
+            - text: Explain principles for sharing a vision with people.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Explain principles for sharing a vision with people.*'
+              UID: MIN381.7.2.1.P.1.1
+              source_uid: MIN381.7.2.1.P.1
+            - text: Knowing God’s will does little good if pastors cannot communicate
                 the vision. In fact, it can become a source of extreme frustration
                 for both the pastor and the congregation. If pastors know what God
                 wants to do but cannot communicate it in a way that enables the people
                 to catch the vision, conflict is inevitable.
               kind: prose
               cls: IST_Body-Indent
-              UID: MIN381.7.2.1.P.1
               page: 143
+              UID: MIN381.7.2.1.P.1.2
+              source_uid: MIN381.7.2.1.P.1
             - p: 2
               text: Assume Nothing
               kind: heading
@@ -29905,18 +29911,32 @@ courses:
               cls: IST_Body-Indent
               UID: MIN381.7.2.1.P.21
               page: 146
+            - p: 1
+              text: Knowing God’s will does little good if pastors cannot communicate
+                the vision. In fact, it can become a source of extreme frustration
+                for both the pastor and the congregation. If pastors know what God
+                wants to do but cannot communicate it in a way that enables the people
+                to catch the vision, conflict is inevitable.
+              kind: prose
+              cls: IST_Body-Indent
+              UID: MIN381.7.2.1.P.1
+              page: 143
+              status: outdated 2026-10-20
+              outdated_reason: objective never parsed into the body; published page
+                and print carry it
+              replaced_by: MIN381.7.2.1.P.1.1
             interactive_questions:
             - p: 9
               text: According to Acts 7:25, what was Moses’ mistake?
               response: He assumed his own people would realize that God was using
                 him to rescue them, but they did not.
-              after_body_index: 8
+              after_body_index: 9
               UID: MIN381.7.2.1.IQ.1
             - p: 10
               text: Why should pastors share new ideas early with key leaders?
               response: It enables others to be a part of the process and thus to
                 take ownership of it.
-              after_body_index: 14
+              after_body_index: 15
               UID: MIN381.7.2.1.IQ.2
             - p: 11
               text: Describe three steps pastors can take when proposing a change
@@ -29925,7 +29945,7 @@ courses:
                 (2) Inform and pray through with other key leaders in the body. (3)
                 Present the change, with an explanation of the process, to the entire
                 church.
-              after_body_index: 18
+              after_body_index: 19
               UID: MIN381.7.2.1.IQ.3
             - p: 12
               text: List three ways to keep parishioners aware of a vision.
@@ -29933,14 +29953,14 @@ courses:
                 the vision in their sphere of influence. (2) Share the vision with
                 new members as part of their orientation to the church. (3) Use as
                 many means as possible to expose everyone to the vision.
-              after_body_index: 20
+              after_body_index: 21
               UID: MIN381.7.2.1.IQ.4
             - p: 13
               text: Do pastors usually receive a complete vision for their congregations?
                 Explain.
               response: No. As pastors share and invite other leaders to pray with
                 them; the others’ input and suggestions usually flesh out the vision.
-              after_body_index: 21
+              after_body_index: 22
               UID: MIN381.7.2.1.IQ.5
             scripture:
             - intext: Acts 7:23–29
@@ -29964,16 +29984,22 @@ courses:
               paragraph: MIN381.7.3.1.P.15
               UID: MIN381.7.3.1.G.1
             body:
-            - p: 1
-              text: Vision does not become reality until it is translated into Spirit-directed
+            - text: Explain how pastors lead with actions.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Explain how pastors lead with actions.*'
+              UID: MIN381.7.3.1.P.1.1
+              source_uid: MIN381.7.3.1.P.1
+            - text: Vision does not become reality until it is translated into Spirit-directed
                 action. And the congregation seldom takes action until they see the
                 pastor and other spiritual leaders stepping out in faith. In other
                 words, pastors lead by example. They lead both by what they say and
                 by what they do.
               kind: prose
               cls: IST_Body-Indent
-              UID: MIN381.7.3.1.P.1
               page: 146
+              UID: MIN381.7.3.1.P.1.2
+              source_uid: MIN381.7.3.1.P.1
             - p: 2
               text: This leadership principle is taught throughout the Scriptures.
                 For example, when Israel entered the Promised Land, the ark of the
@@ -30154,18 +30180,32 @@ courses:
               status: outdated 2026-10-20
               outdated_reason: revised
               replaced_by: MIN381.7.3.1.P.5.1
+            - p: 1
+              text: Vision does not become reality until it is translated into Spirit-directed
+                action. And the congregation seldom takes action until they see the
+                pastor and other spiritual leaders stepping out in faith. In other
+                words, pastors lead by example. They lead both by what they say and
+                by what they do.
+              kind: prose
+              cls: IST_Body-Indent
+              UID: MIN381.7.3.1.P.1
+              page: 146
+              status: outdated 2026-10-20
+              outdated_reason: objective never parsed into the body; published page
+                and print carry it
+              replaced_by: MIN381.7.3.1.P.1.1
             interactive_questions:
             - p: 14
               text: What principle does Joshua 3:14–17 illustrate?
               response: God speaks; we obey; then God steps in to help.
-              after_body_index: 4
+              after_body_index: 5
               UID: MIN381.7.3.1.IQ.1
             - p: 15
               text: In Acts 27, why do Paul’s actions show faith and courage instead
                 of presumption?
               response: God had told Paul that no one on the ship would die. Therefore,
                 Paul words and actions were based on God’s initiative, not Paul’s.
-              after_body_index: 11
+              after_body_index: 12
               UID: MIN381.7.3.1.IQ.2
             scripture:
             - intext: Joshua 3:14–17
@@ -30240,16 +30280,22 @@ courses:
             text: Contrast faith and presumption.
             glossary: []
             body:
-            - p: 1
-              text: Vision does not become reality until it is translated into Spirit-directed
+            - text: Explain how pastors lead with actions.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Explain how pastors lead with actions.*'
+              UID: MIN381.7.3.2.P.1.1
+              source_uid: MIN381.7.3.2.P.1
+            - text: Vision does not become reality until it is translated into Spirit-directed
                 action. And the congregation seldom takes action until they see the
                 pastor and other spiritual leaders stepping out in faith. In other
                 words, pastors lead by example. They lead both by what they say and
                 by what they do.
               kind: prose
               cls: IST_Body-Indent
-              UID: MIN381.7.3.2.P.1
               page: 146
+              UID: MIN381.7.3.2.P.1.2
+              source_uid: MIN381.7.3.2.P.1
             - p: 2
               text: This leadership principle is taught throughout the Scriptures.
                 For example, when Israel entered the Promised Land, the ark of the
@@ -30430,18 +30476,32 @@ courses:
               status: outdated 2026-10-20
               outdated_reason: revised
               replaced_by: MIN381.7.3.2.P.5.1
+            - p: 1
+              text: Vision does not become reality until it is translated into Spirit-directed
+                action. And the congregation seldom takes action until they see the
+                pastor and other spiritual leaders stepping out in faith. In other
+                words, pastors lead by example. They lead both by what they say and
+                by what they do.
+              kind: prose
+              cls: IST_Body-Indent
+              UID: MIN381.7.3.2.P.1
+              page: 146
+              status: outdated 2026-10-20
+              outdated_reason: objective never parsed into the body; published page
+                and print carry it
+              replaced_by: MIN381.7.3.2.P.1.1
             interactive_questions:
             - p: 14
               text: What principle does Joshua 3:14–17 illustrate?
               response: God speaks; we obey; then God steps in to help.
-              after_body_index: 4
+              after_body_index: 5
               UID: MIN381.7.3.2.IQ.1
             - p: 15
               text: In Acts 27, why do Paul’s actions show faith and courage instead
                 of presumption?
               response: God had told Paul that no one on the ship would die. Therefore,
                 Paul words and actions were based on God’s initiative, not Paul’s.
-              after_body_index: 11
+              after_body_index: 12
               UID: MIN381.7.3.2.IQ.2
             scripture:
             - intext: Joshua 3:14–17
@@ -39037,15 +39097,12 @@ courses:
               UID: MIN381.11.1.1.P.29
               page: 206
             - p: 33
-              text: Deacon Ministry by Richard L. Dresselhaus “Since positive action
-                demands capable and prepared leadership, it is fitting that something
-                be done to help train our laypeople to become effective deacons.”
+              text: Deacon Ministry by Richard L. Dresselhaus
               kind: list
               cls: IST_Body-Bullet-1
-              md: '*Deacon Ministry* by Richard L. Dresselhaus“Since positive action
-                demands capable and prepared leadership, it is fitting that something
-                be done to help train our laypeople to become effective deacons.”'
-              UID: MIN381.11.1.1.P.30
+              md: '*Deacon Ministry* by Richard L. Dresselhaus'
+              UID: MIN381.11.1.1.P.30.1
+              source_uid: MIN381.11.1.1.P.30
             - p: 34
               text: “Since positive action demands capable and prepared leadership,
                 it is fitting that something be done to help train our laypeople to
@@ -39056,17 +39113,14 @@ courses:
             - p: 35
               text: “Leadership and Governance in the Local Church.” Position Paper.
                 (Adopted by the Assemblies of God General Presbytery in Session July
-                30, 2019) “Any discussion of leadership and governance in the local
-                church must both begin and conclude with this declaration of revealed
-                truth.” 11 . 2 LESSON
+                30, 2019)
               kind: list
               cls: IST_Body-Bullet-1
-              md: “Leadership and Governance in the Local Church.” Position Paper.
-                (Adopted by the Assemblies of God General Presbytery in Session July
-                30, 2019)“Any discussion of leadership and governance in the local
-                church must both begin and conclude with this declaration of revealed
-                truth.” 11.2LESSON
-              UID: MIN381.11.1.1.P.32
+              md: '[“Leadership and Governance in the Local Church.”](https://ag.org/Beliefs/Position-Papers/Leadership-and-Governance-in-the-Local-Church)
+                Position Paper. (Adopted by the Assemblies of God General Presbytery
+                in Session July 30, 2019)'
+              UID: MIN381.11.1.1.P.32.1
+              source_uid: MIN381.11.1.1.P.32
             - p: 36
               text: “Any discussion of leadership and governance in the local church
                 must both begin and conclude with this declaration of revealed truth.”
@@ -39091,6 +39145,36 @@ courses:
               status: outdated 2026-10-20
               outdated_reason: revised
               replaced_by: MIN381.11.1.1.P.9.1
+            - p: 33
+              text: Deacon Ministry by Richard L. Dresselhaus “Since positive action
+                demands capable and prepared leadership, it is fitting that something
+                be done to help train our laypeople to become effective deacons.”
+              kind: list
+              cls: IST_Body-Bullet-1
+              md: '*Deacon Ministry* by Richard L. Dresselhaus“Since positive action
+                demands capable and prepared leadership, it is fitting that something
+                be done to help train our laypeople to become effective deacons.”'
+              UID: MIN381.11.1.1.P.30
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN381.11.1.1.P.30.1
+            - p: 35
+              text: “Leadership and Governance in the Local Church.” Position Paper.
+                (Adopted by the Assemblies of God General Presbytery in Session July
+                30, 2019) “Any discussion of leadership and governance in the local
+                church must both begin and conclude with this declaration of revealed
+                truth.” 11 . 2 LESSON
+              kind: list
+              cls: IST_Body-Bullet-1
+              md: “Leadership and Governance in the Local Church.” Position Paper.
+                (Adopted by the Assemblies of God General Presbytery in Session July
+                30, 2019)“Any discussion of leadership and governance in the local
+                church must both begin and conclude with this declaration of revealed
+                truth.” 11.2LESSON
+              UID: MIN381.11.1.1.P.32
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN381.11.1.1.P.32.1
             interactive_questions:
             - p: 1
               text: How can nominating and voting on lay leaders in the same meeting
@@ -39637,15 +39721,12 @@ courses:
               UID: MIN381.11.1.2.P.29
               page: 206
             - p: 33
-              text: Deacon Ministry by Richard L. Dresselhaus “Since positive action
-                demands capable and prepared leadership, it is fitting that something
-                be done to help train our laypeople to become effective deacons.”
+              text: Deacon Ministry by Richard L. Dresselhaus
               kind: list
               cls: IST_Body-Bullet-1
-              md: '*Deacon Ministry* by Richard L. Dresselhaus“Since positive action
-                demands capable and prepared leadership, it is fitting that something
-                be done to help train our laypeople to become effective deacons.”'
-              UID: MIN381.11.1.2.P.30
+              md: '*Deacon Ministry* by Richard L. Dresselhaus'
+              UID: MIN381.11.1.2.P.30.1
+              source_uid: MIN381.11.1.2.P.30
             - p: 34
               text: “Since positive action demands capable and prepared leadership,
                 it is fitting that something be done to help train our laypeople to
@@ -39656,17 +39737,14 @@ courses:
             - p: 35
               text: “Leadership and Governance in the Local Church.” Position Paper.
                 (Adopted by the Assemblies of God General Presbytery in Session July
-                30, 2019) “Any discussion of leadership and governance in the local
-                church must both begin and conclude with this declaration of revealed
-                truth.” 11 . 2 LESSON
+                30, 2019)
               kind: list
               cls: IST_Body-Bullet-1
-              md: “Leadership and Governance in the Local Church.” Position Paper.
-                (Adopted by the Assemblies of God General Presbytery in Session July
-                30, 2019)“Any discussion of leadership and governance in the local
-                church must both begin and conclude with this declaration of revealed
-                truth.” 11.2LESSON
-              UID: MIN381.11.1.2.P.32
+              md: '[“Leadership and Governance in the Local Church.”](https://ag.org/Beliefs/Position-Papers/Leadership-and-Governance-in-the-Local-Church)
+                Position Paper. (Adopted by the Assemblies of God General Presbytery
+                in Session July 30, 2019)'
+              UID: MIN381.11.1.2.P.32.1
+              source_uid: MIN381.11.1.2.P.32
             - p: 36
               text: “Any discussion of leadership and governance in the local church
                 must both begin and conclude with this declaration of revealed truth.”
@@ -39691,6 +39769,36 @@ courses:
               status: outdated 2026-10-20
               outdated_reason: revised
               replaced_by: MIN381.11.1.2.P.9.1
+            - p: 33
+              text: Deacon Ministry by Richard L. Dresselhaus “Since positive action
+                demands capable and prepared leadership, it is fitting that something
+                be done to help train our laypeople to become effective deacons.”
+              kind: list
+              cls: IST_Body-Bullet-1
+              md: '*Deacon Ministry* by Richard L. Dresselhaus“Since positive action
+                demands capable and prepared leadership, it is fitting that something
+                be done to help train our laypeople to become effective deacons.”'
+              UID: MIN381.11.1.2.P.30
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN381.11.1.2.P.30.1
+            - p: 35
+              text: “Leadership and Governance in the Local Church.” Position Paper.
+                (Adopted by the Assemblies of God General Presbytery in Session July
+                30, 2019) “Any discussion of leadership and governance in the local
+                church must both begin and conclude with this declaration of revealed
+                truth.” 11 . 2 LESSON
+              kind: list
+              cls: IST_Body-Bullet-1
+              md: “Leadership and Governance in the Local Church.” Position Paper.
+                (Adopted by the Assemblies of God General Presbytery in Session July
+                30, 2019)“Any discussion of leadership and governance in the local
+                church must both begin and conclude with this declaration of revealed
+                truth.” 11.2LESSON
+              UID: MIN381.11.1.2.P.32
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN381.11.1.2.P.32.1
             interactive_questions:
             - p: 1
               text: How can nominating and voting on lay leaders in the same meeting
@@ -40237,15 +40345,12 @@ courses:
               UID: MIN381.11.1.3.P.29
               page: 206
             - p: 33
-              text: Deacon Ministry by Richard L. Dresselhaus “Since positive action
-                demands capable and prepared leadership, it is fitting that something
-                be done to help train our laypeople to become effective deacons.”
+              text: Deacon Ministry by Richard L. Dresselhaus
               kind: list
               cls: IST_Body-Bullet-1
-              md: '*Deacon Ministry* by Richard L. Dresselhaus“Since positive action
-                demands capable and prepared leadership, it is fitting that something
-                be done to help train our laypeople to become effective deacons.”'
-              UID: MIN381.11.1.3.P.30
+              md: '*Deacon Ministry* by Richard L. Dresselhaus'
+              UID: MIN381.11.1.3.P.30.1
+              source_uid: MIN381.11.1.3.P.30
             - p: 34
               text: “Since positive action demands capable and prepared leadership,
                 it is fitting that something be done to help train our laypeople to
@@ -40256,17 +40361,14 @@ courses:
             - p: 35
               text: “Leadership and Governance in the Local Church.” Position Paper.
                 (Adopted by the Assemblies of God General Presbytery in Session July
-                30, 2019) “Any discussion of leadership and governance in the local
-                church must both begin and conclude with this declaration of revealed
-                truth.” 11 . 2 LESSON
+                30, 2019)
               kind: list
               cls: IST_Body-Bullet-1
-              md: “Leadership and Governance in the Local Church.” Position Paper.
-                (Adopted by the Assemblies of God General Presbytery in Session July
-                30, 2019)“Any discussion of leadership and governance in the local
-                church must both begin and conclude with this declaration of revealed
-                truth.” 11.2LESSON
-              UID: MIN381.11.1.3.P.32
+              md: '[“Leadership and Governance in the Local Church.”](https://ag.org/Beliefs/Position-Papers/Leadership-and-Governance-in-the-Local-Church)
+                Position Paper. (Adopted by the Assemblies of God General Presbytery
+                in Session July 30, 2019)'
+              UID: MIN381.11.1.3.P.32.1
+              source_uid: MIN381.11.1.3.P.32
             - p: 36
               text: “Any discussion of leadership and governance in the local church
                 must both begin and conclude with this declaration of revealed truth.”
@@ -40291,6 +40393,36 @@ courses:
               status: outdated 2026-10-20
               outdated_reason: revised
               replaced_by: MIN381.11.1.3.P.9.1
+            - p: 33
+              text: Deacon Ministry by Richard L. Dresselhaus “Since positive action
+                demands capable and prepared leadership, it is fitting that something
+                be done to help train our laypeople to become effective deacons.”
+              kind: list
+              cls: IST_Body-Bullet-1
+              md: '*Deacon Ministry* by Richard L. Dresselhaus“Since positive action
+                demands capable and prepared leadership, it is fitting that something
+                be done to help train our laypeople to become effective deacons.”'
+              UID: MIN381.11.1.3.P.30
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN381.11.1.3.P.30.1
+            - p: 35
+              text: “Leadership and Governance in the Local Church.” Position Paper.
+                (Adopted by the Assemblies of God General Presbytery in Session July
+                30, 2019) “Any discussion of leadership and governance in the local
+                church must both begin and conclude with this declaration of revealed
+                truth.” 11 . 2 LESSON
+              kind: list
+              cls: IST_Body-Bullet-1
+              md: “Leadership and Governance in the Local Church.” Position Paper.
+                (Adopted by the Assemblies of God General Presbytery in Session July
+                30, 2019)“Any discussion of leadership and governance in the local
+                church must both begin and conclude with this declaration of revealed
+                truth.” 11.2LESSON
+              UID: MIN381.11.1.3.P.32
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN381.11.1.3.P.32.1
             interactive_questions:
             - p: 1
               text: How can nominating and voting on lay leaders in the same meeting
