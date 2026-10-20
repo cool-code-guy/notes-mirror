@@ -363,7 +363,7 @@ courses:
         life worldwide and required ministry leaders to adapt with wisdom, flexibility,
         and new approaches to pastoral care, worship, and discipleship
       chapter: 8
-      paragraph: MIN251.8.3.1.P.6
+      paragraph: MIN251.8.3.1.P.7
     - term: crucible of life
       definition: the seasons of life in which individuals experience severe trials
         and tests; a crucible is a vessel used to melt a substance that requires a
@@ -387,7 +387,7 @@ courses:
       definition: to detect with or without vision, to see or understand the difference,
         to recognize or identify as separate
       chapter: 6
-      paragraph: MIN251.6.1.1.P.42
+      paragraph: MIN251.CH6.INTRO.P.1
       page: 87
     - term: dog-eared
       definition: a printed book having many page corners folded down; a printed publication
@@ -405,7 +405,7 @@ courses:
     - term: imperative
       definition: all-important, vital, essential, necessary, or urgent
       chapter: 5
-      paragraph: MIN251.5.2.2.P.18
+      paragraph: MIN251.7.3.1.P.15
     - term: instilled
       definition: inspired, impressed, ingrained, or fostered
       chapter: 4
@@ -424,6 +424,7 @@ courses:
       definition: the disposition of an independent person who does not conform to
         the norm
       chapter: 12
+      paragraph: MIN251.CH12.INTRO.P.3
     - term: mentored
       definition: guided, trained, and taught by a wise, trusted adviser
       chapter: 9
@@ -464,12 +465,12 @@ courses:
     - term: reinforce
       definition: to fortify, support, strengthen, or boost
       chapter: 5
-      paragraph: MIN251.5.2.2.P.17
+      paragraph: MIN251.5.3.1.P.19
     - term: resourced
       definition: to be supplied with the tools or training needed to accomplish an
         effective operation or task
       chapter: 3
-      paragraph: MIN251.3.3.1.P.4.1
+      paragraph: MIN251.3.3.1.P.4.2
       page: 49
     - term: sabotage
       definition: to damage, cripple, impair, or destroy
@@ -490,7 +491,7 @@ courses:
       definition: a Roman Catholic monk (1181–1226) who founded the Franciscan order
         of friars; known for his humility and love for all creation
       chapter: 4
-      paragraph: MIN251.10.2.1.P.70
+      paragraph: MIN251.10.2.1.P.70.2
     - term: stagnated
       definition: refers to something that has ceased to develop or which has declined
       chapter: 4
@@ -500,8 +501,12 @@ courses:
       definition: faithfully managing God’s gifts—such as time, finances, influence,
         and people—with integrity and accountability to honor Him
       chapter: 7
-      paragraph: MIN251.7.1.1.P.11
+      paragraph: MIN251.4.3.1.P.9.1
       page: 100
+      extra_paragraphs:
+      - MIN251.CH7.INTRO.P.1
+      - MIN251.7.1.1.P.37
+      - MIN251.7.3.1.P.37
     - term: summit
       definition: a conference of highest-level officials
       chapter: 10
@@ -9519,14 +9524,14 @@ courses:
               UID: MIN251.2.1.1.IQ.2.1
               source_uid: MIN251.2.1.1.IQ.2
             - p: 3
-              text: Which of the three kinds of prayers listed do you find most common
+              text: Which of the three kinds of prayer listed do you find most common
                 in your prayer life, and which kind do you find most difficult? Explain
                 your responses.
               response: While this will be a personal response, the student will choose
                 among ask (supplication), seek (dedication), and knock (intercession).
               after_body_index: 44
-              UID: MIN251.2.1.1.IQ.3.1
-              source_uid: MIN251.2.1.1.IQ.3
+              UID: MIN251.2.1.1.IQ.3.2
+              source_uid: MIN251.2.1.1.IQ.3.1
             - p: 4
               text: What three questions help us interpret Scripture?
               response: What did it mean, for one time, to the original audience?
@@ -9568,6 +9573,18 @@ courses:
               status: outdated 2026-08-05
               outdated_reason: revised
               replaced_by: MIN251.2.1.1.IQ.4.1
+            - p: 3
+              text: Which of the three kinds of prayers listed do you find most common
+                in your prayer life, and which kind do you find most difficult? Explain
+                your responses.
+              response: While this will be a personal response, the student will choose
+                among ask (supplication), seek (dedication), and knock (intercession).
+              after_body_index: 44
+              UID: MIN251.2.1.1.IQ.3.1
+              source_uid: MIN251.2.1.1.IQ.3
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN251.2.1.1.IQ.3.2
             citations:
             - citekey: maxwell2002
               pandoc: '[@maxwell2002, 11]'
@@ -10834,14 +10851,14 @@ courses:
               UID: MIN251.2.1.2.IQ.2.1
               source_uid: MIN251.2.1.2.IQ.2
             - p: 3
-              text: Which of the three kinds of prayers listed do you find most common
+              text: Which of the three kinds of prayer listed do you find most common
                 in your prayer life, and which kind do you find most difficult? Explain
                 your responses.
               response: While this will be a personal response, the student will choose
                 among ask (supplication), seek (dedication), and knock (intercession).
               after_body_index: 44
-              UID: MIN251.2.1.2.IQ.3.1
-              source_uid: MIN251.2.1.2.IQ.3
+              UID: MIN251.2.1.2.IQ.3.2
+              source_uid: MIN251.2.1.2.IQ.3.1
             - p: 4
               text: What three questions help us interpret Scripture?
               response: What did it mean, for one time, to the original audience?
@@ -10883,6 +10900,18 @@ courses:
               status: outdated 2026-08-05
               outdated_reason: revised
               replaced_by: MIN251.2.1.2.IQ.4.1
+            - p: 3
+              text: Which of the three kinds of prayers listed do you find most common
+                in your prayer life, and which kind do you find most difficult? Explain
+                your responses.
+              response: While this will be a personal response, the student will choose
+                among ask (supplication), seek (dedication), and knock (intercession).
+              after_body_index: 44
+              UID: MIN251.2.1.2.IQ.3.1
+              source_uid: MIN251.2.1.2.IQ.3
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN251.2.1.2.IQ.3.2
             citations:
             - citekey: maxwell2002
               pandoc: '[@maxwell2002, 11]'
@@ -13991,62 +14020,65 @@ courses:
               page: 44
             - p: 10
               text: First is the example of the masters and servants relationship
-                (3:5). Paul and Apollos were leaders, yet they also were servants.
-                Here is a vivid reminder that those in leadership must be held accountable
-                in their dual roles as masters and servants. Then Paul mentions the
-                farmer and soil relationship (3:6). He teaches a lesson regarding
-                the concept of sowing seeds in soil to reap a harvest. For the seed
-                to take root, the farmer must be responsible to plant at the correct
-                time and in the correct place and to apply water and fertilizer. To
-                reap a harvest, the farmer does not act alone; he depends on the elements
-                of seeds, soil, sun, water, and fertilizer.
+                (1 Corinthians 3:5). Paul and Apollos were leaders, yet they also
+                were servants. Here is a vivid reminder that those in leadership must
+                be held accountable in their dual roles as masters and servants. Then
+                Paul mentions the farmer and soil relationship (1 Corinthians 3:6).
+                He teaches a lesson regarding the concept of sowing seeds in soil
+                to reap a harvest. For the seed to take root, the farmer must be responsible
+                to plant at the correct time and in the correct place and to apply
+                water and fertilizer. To reap a harvest, the farmer does not act alone;
+                he depends on the elements of seeds, soil, sun, water, and fertilizer.
               kind: prose
               cls: IST_Body-Indent
               md: First is the example of the *masters and servants relationship*
-                (3:5). Paul and Apollos were leaders, yet they also were servants.
-                Here is a vivid reminder that those in leadership must be held accountable
-                in their dual roles as masters and servants. Then Paul mentions the
-                *farmer and soil relationship* (3:6). He teaches a lesson regarding
-                the concept of sowing seeds in soil to reap a harvest. For the seed
-                to take root, the farmer must be responsible to plant at the correct
-                time and in the correct place and to apply water and fertilizer. To
-                reap a harvest, the farmer does not act alone; he depends on the elements
-                of seeds, soil, sun, water, and fertilizer.
-              UID: MIN251.3.1.1.P.8.1
-              source_uid: MIN251.3.1.1.P.8
+                (1 Corinthians 3:5). Paul and Apollos were leaders, yet they also
+                were servants. Here is a vivid reminder that those in leadership must
+                be held accountable in their dual roles as masters and servants. Then
+                Paul mentions the *farmer and soil relationship* (1 Corinthians 3:6).
+                He teaches a lesson regarding the concept of sowing seeds in soil
+                to reap a harvest. For the seed to take root, the farmer must be responsible
+                to plant at the correct time and in the correct place and to apply
+                water and fertilizer. To reap a harvest, the farmer does not act alone;
+                he depends on the elements of seeds, soil, sun, water, and fertilizer.
+              UID: MIN251.3.1.1.P.8.2
+              source_uid: MIN251.3.1.1.P.8.1
               page: 44
             - p: 11
               text: Another example of accountability is portrayed in the coworkers
-                relationship (3:9). Anyone who works with others is more effective
-                if they are in an accountability relationship. A worker who does not
-                commit to the success of another worker diminishes production, lessens
-                morale, and sours the attitudes of the organization.
+                relationship (1 Corinthians 3:9). Anyone who works with others is
+                more effective if they are in an accountability relationship. A worker
+                who does not commit to the success of another worker diminishes production,
+                lessens morale, and sours the attitudes of the organization.
               kind: prose
               cls: IST_Body-Indent
               md: Another example of accountability is portrayed in the *coworkers
-                relationship* (3:9). Anyone who works with others is more effective
-                if they are in an accountability relationship. A worker who does not
-                commit to the success of another worker diminishes production, lessens
-                morale, and sours the attitudes of the organization.
-              UID: MIN251.3.1.1.P.31
+                relationship* (1 Corinthians 3:9). Anyone who works with others is
+                more effective if they are in an accountability relationship. A worker
+                who does not commit to the success of another worker diminishes production,
+                lessens morale, and sours the attitudes of the organization.
+              UID: MIN251.3.1.1.P.31.1
               page: 44
+              source_uid: MIN251.3.1.1.P.31
             - p: 12
               text: The fourth accountability example Paul gives is that of the father
-                and son relationship (4:14). Parents are accountable to their children
-                and children to their parents. Healthy families understand and practice
-                this two-way principle of accountability. Parents are accountable
-                to provide safety, security, and loving nurture for their children.
-                Children are accountable to parents for their conduct and obedience.
+                and son relationship (1 Corinthians 4:14). Parents are accountable
+                to their children and children to their parents. Healthy families
+                understand and practice this two-way principle of accountability.
+                Parents are accountable to provide safety, security, and loving nurture
+                for their children. Children are accountable to parents for their
+                conduct and obedience.
               kind: prose
               cls: IST_Body-Indent
               md: The fourth accountability example Paul gives is that of *the father
-                and son relationship* (4:14). Parents are accountable to their children
-                and children to their parents. Healthy families understand and practice
-                this two-way principle of accountability. Parents are accountable
-                to provide safety, security, and loving nurture for their children.
-                Children are accountable to parents for their conduct and obedience.
-              UID: MIN251.3.1.1.P.9.1
-              source_uid: MIN251.3.1.1.P.9
+                and son relationship* (1 Corinthians 4:14). Parents are accountable
+                to their children and children to their parents. Healthy families
+                understand and practice this two-way principle of accountability.
+                Parents are accountable to provide safety, security, and loving nurture
+                for their children. Children are accountable to parents for their
+                conduct and obedience.
+              UID: MIN251.3.1.1.P.9.2
+              source_uid: MIN251.3.1.1.P.9.1
               page: 44
             - p: 13
               text: Whether in the marketplace or at home, the Christian leader must
@@ -14140,16 +14172,16 @@ courses:
               page: 45
             - p: 20
               text: It is appropriate to ask, “To whom is the servant to be loyal?”
-                Paul says that above all else leaders are servants “of Christ” (4:1).
-                Again, this is the image of the under-rowers of ancient Greece and
-                Rome. Only the heavy laborers are the shepherds over the local bodies,
-                serving under the headship of Jesus Christ. We can think of leaders
-                as the galley slaves of Christ. In many circles, this is still a novel
-                idea.
+                Paul says that above all else leaders are servants “of Christ” (1
+                Corinthians 4:1). Again, this is the image of the under-rowers of
+                ancient Greece and Rome. Only the heavy laborers are the shepherds
+                over the local bodies, serving under the headship of Jesus Christ.
+                We can think of leaders as the galley slaves of Christ. In many circles,
+                this is still a novel idea.
               kind: prose
               cls: IST_Body-Indent
-              UID: MIN251.3.1.1.P.17.1
-              source_uid: MIN251.3.1.1.P.17
+              UID: MIN251.3.1.1.P.17.2
+              source_uid: MIN251.3.1.1.P.17.1
               page: 45
             - p: 21
               text: How does the local church or any Christian organization go forward?
@@ -14506,6 +14538,90 @@ courses:
               UID: MIN251.3.1.1.IMG.2
               status: outdated 2026-08-05
               outdated_reason: struck
+            - p: 11
+              text: Another example of accountability is portrayed in the coworkers
+                relationship (3:9). Anyone who works with others is more effective
+                if they are in an accountability relationship. A worker who does not
+                commit to the success of another worker diminishes production, lessens
+                morale, and sours the attitudes of the organization.
+              kind: prose
+              cls: IST_Body-Indent
+              md: Another example of accountability is portrayed in the *coworkers
+                relationship* (3:9). Anyone who works with others is more effective
+                if they are in an accountability relationship. A worker who does not
+                commit to the success of another worker diminishes production, lessens
+                morale, and sours the attitudes of the organization.
+              UID: MIN251.3.1.1.P.31
+              page: 44
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN251.3.1.1.P.31.1
+            - p: 12
+              text: The fourth accountability example Paul gives is that of the father
+                and son relationship (4:14). Parents are accountable to their children
+                and children to their parents. Healthy families understand and practice
+                this two-way principle of accountability. Parents are accountable
+                to provide safety, security, and loving nurture for their children.
+                Children are accountable to parents for their conduct and obedience.
+              kind: prose
+              cls: IST_Body-Indent
+              md: The fourth accountability example Paul gives is that of *the father
+                and son relationship* (4:14). Parents are accountable to their children
+                and children to their parents. Healthy families understand and practice
+                this two-way principle of accountability. Parents are accountable
+                to provide safety, security, and loving nurture for their children.
+                Children are accountable to parents for their conduct and obedience.
+              UID: MIN251.3.1.1.P.9.1
+              source_uid: MIN251.3.1.1.P.9
+              page: 44
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN251.3.1.1.P.9.2
+            - p: 20
+              text: It is appropriate to ask, “To whom is the servant to be loyal?”
+                Paul says that above all else leaders are servants “of Christ” (4:1).
+                Again, this is the image of the under-rowers of ancient Greece and
+                Rome. Only the heavy laborers are the shepherds over the local bodies,
+                serving under the headship of Jesus Christ. We can think of leaders
+                as the galley slaves of Christ. In many circles, this is still a novel
+                idea.
+              kind: prose
+              cls: IST_Body-Indent
+              UID: MIN251.3.1.1.P.17.1
+              source_uid: MIN251.3.1.1.P.17
+              page: 45
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN251.3.1.1.P.17.2
+            - p: 10
+              text: First is the example of the masters and servants relationship
+                (3:5). Paul and Apollos were leaders, yet they also were servants.
+                Here is a vivid reminder that those in leadership must be held accountable
+                in their dual roles as masters and servants. Then Paul mentions the
+                farmer and soil relationship (3:6). He teaches a lesson regarding
+                the concept of sowing seeds in soil to reap a harvest. For the seed
+                to take root, the farmer must be responsible to plant at the correct
+                time and in the correct place and to apply water and fertilizer. To
+                reap a harvest, the farmer does not act alone; he depends on the elements
+                of seeds, soil, sun, water, and fertilizer.
+              kind: prose
+              cls: IST_Body-Indent
+              md: First is the example of the *masters and servants relationship*
+                (3:5). Paul and Apollos were leaders, yet they also were servants.
+                Here is a vivid reminder that those in leadership must be held accountable
+                in their dual roles as masters and servants. Then Paul mentions the
+                *farmer and soil relationship* (3:6). He teaches a lesson regarding
+                the concept of sowing seeds in soil to reap a harvest. For the seed
+                to take root, the farmer must be responsible to plant at the correct
+                time and in the correct place and to apply water and fertilizer. To
+                reap a harvest, the farmer does not act alone; he depends on the elements
+                of seeds, soil, sun, water, and fertilizer.
+              UID: MIN251.3.1.1.P.8.1
+              source_uid: MIN251.3.1.1.P.8
+              page: 44
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN251.3.1.1.P.8.2
             interactive_questions:
             - p: 1
               text: Define accountability as it relates to the life of a leader.
@@ -14574,7 +14690,7 @@ courses:
                 key: 1corinthians.3.5
                 bib_gate: https://www.biblegateway.com/passage/?search=1%20Corinthians%203%3A5&version=NIV
               inferred: true
-              paragraph: MIN251.3.1.1.P.8.1
+              paragraph: MIN251.3.1.1.P.8.2
               UID: MIN251.3.1.1.S.16
             - intext: (3:6)
               version: NIV
@@ -14583,7 +14699,7 @@ courses:
                 key: 1corinthians.3.6
                 bib_gate: https://www.biblegateway.com/passage/?search=1%20Corinthians%203%3A6&version=NIV
               inferred: true
-              paragraph: MIN251.3.1.1.P.8.1
+              paragraph: MIN251.3.1.1.P.8.2
               UID: MIN251.3.1.1.S.17
             - intext: (3:9)
               version: NIV
@@ -14592,7 +14708,7 @@ courses:
                 key: 1corinthians.3.9
                 bib_gate: https://www.biblegateway.com/passage/?search=1%20Corinthians%203%3A9&version=NIV
               inferred: true
-              paragraph: MIN251.3.1.1.P.31
+              paragraph: MIN251.3.1.1.P.31.1
               UID: MIN251.3.1.1.S.18
             - intext: (4:14)
               version: NIV
@@ -14601,7 +14717,7 @@ courses:
                 key: 1corinthians.4.14
                 bib_gate: https://www.biblegateway.com/passage/?search=1%20Corinthians%204%3A14&version=NIV
               inferred: true
-              paragraph: MIN251.3.1.1.P.9.1
+              paragraph: MIN251.3.1.1.P.9.2
               UID: MIN251.3.1.1.S.19
             - intext: v. 1
               version: NIV
@@ -14627,7 +14743,7 @@ courses:
                 key: 1corinthians.4.1
                 bib_gate: https://www.biblegateway.com/passage/?search=1%20Corinthians%204%3A1&version=NIV
               inferred: true
-              paragraph: MIN251.3.1.1.P.17.1
+              paragraph: MIN251.3.1.1.P.17.2
               UID: MIN251.3.1.1.S.20
             - intext: John 13:1–16
               version: NIV
@@ -15539,9 +15655,9 @@ courses:
                 one million Christians in Asia, Africa, Europe, and Latin America.
                 The leadership of EQUIP is convinced that if the church is going to
                 bear much fruit for the fulfillment of the Great Commission, then
-                an army of leaders must be trained and **resourced** (www.iequip.org).
-              UID: MIN251.3.3.1.P.4.1
-              source_uid: MIN251.3.3.1.P.4
+                an army of leaders must be trained and **resourced** ([www.iequip.org](https://mlflegacy.wpenginepowered.com/nonprofit-partner/)).
+              UID: MIN251.3.3.1.P.4.2
+              source_uid: MIN251.3.3.1.P.4.1
               page: 49
             - p: 6
               text: 'The apostle Paul spent most of his life training and discipling
@@ -15602,6 +15718,31 @@ courses:
               status: outdated 2026-08-05
               outdated_reason: revised
               replaced_by: MIN251.3.3.1.P.5.1
+            - p: 5
+              text: In 1995, John Maxwell started a ministry called EQUIP, an international
+                leadership training organization in Atlanta that has experienced explosive
+                growth in leadership development. Armed with a three-year curriculum
+                and world-class trainers, EQUIP is systematically training nearly
+                one million Christians in Asia, Africa, Europe, and Latin America.
+                The leadership of EQUIP is convinced that if the church is going to
+                bear much fruit for the fulfillment of the Great Commission, then
+                an army of leaders must be trained and resourced (www.iequip.org).
+              kind: prose
+              cls: IST_Body-Indent
+              md: In 1995, John Maxwell started a ministry called EQUIP, an international
+                leadership training organization in Atlanta that has experienced explosive
+                growth in leadership development. Armed with a three-year curriculum
+                and world-class trainers, EQUIP is systematically training nearly
+                one million Christians in Asia, Africa, Europe, and Latin America.
+                The leadership of EQUIP is convinced that if the church is going to
+                bear much fruit for the fulfillment of the Great Commission, then
+                an army of leaders must be trained and **resourced** (www.iequip.org).
+              UID: MIN251.3.3.1.P.4.1
+              source_uid: MIN251.3.3.1.P.4
+              page: 49
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN251.3.3.1.P.4.2
             scripture:
             - intext: 1 Corinthians 4
               version: NIV
@@ -15626,23 +15767,26 @@ courses:
       title: 4 - The Leadership Test for Potential and Maturity
       print_page: 53
       intro_body:
-      - text: Test me, O Lord, and try me, examine my heart and my mind. (Psalm 26:2)
+      - text: '"Test me, O Lord, and try me, examine my heart and my mind." (Psalm
+          26:2)'
         kind: quote
         cls: IST_Body-Block-Quote
-        UID: MIN251.CH4.INTRO.P.1
+        UID: MIN251.CH4.INTRO.P.6
+        source_uid: MIN251.CH4.INTRO.P.1
       - text: Potentially, nearly every moment of life is a test. However, we can
           also encounter seasons of testing, and during those prolonged times, if
           we are alert to them, God will strengthen us to pass the tests. The book
           of James warns us that leaders will experience more scrutiny, testing, and
-          judgment than followers do (3:1).
+          judgment than followers do (James 3:1).
         kind: prose
         cls: IST_Body-Indent
         md: Potentially, nearly every moment of life is a test. However, we can also
           encounter *seasons* of testing, and during those prolonged times, if we
           are alert to them, God will strengthen us to pass the tests. The book of
           James warns us that leaders will experience more scrutiny, testing, and
-          judgment than followers do (3:1).
-        UID: MIN251.CH4.INTRO.P.2
+          judgment than followers do (James 3:1).
+        UID: MIN251.CH4.INTRO.P.7
+        source_uid: MIN251.CH4.INTRO.P.2
       - text: Tests are common. Tests are administered daily in schools. Objects are
           tested too; many products and appliances are tested before they are sold.
           Nearly every part of a new car is put through intensive tests to check for
@@ -15675,6 +15819,29 @@ courses:
           difficult, lonely places with no applause from others? What were their true
           motivations for serving?
         UID: MIN251.CH4.INTRO.P.5
+      - text: Test me, O Lord, and try me, examine my heart and my mind. (Psalm 26:2)
+        kind: quote
+        cls: IST_Body-Block-Quote
+        UID: MIN251.CH4.INTRO.P.1
+        status: outdated 2026-10-20
+        outdated_reason: revised
+        replaced_by: MIN251.CH4.INTRO.P.6
+      - text: Potentially, nearly every moment of life is a test. However, we can
+          also encounter seasons of testing, and during those prolonged times, if
+          we are alert to them, God will strengthen us to pass the tests. The book
+          of James warns us that leaders will experience more scrutiny, testing, and
+          judgment than followers do (3:1).
+        kind: prose
+        cls: IST_Body-Indent
+        md: Potentially, nearly every moment of life is a test. However, we can also
+          encounter *seasons* of testing, and during those prolonged times, if we
+          are alert to them, God will strengthen us to pass the tests. The book of
+          James warns us that leaders will experience more scrutiny, testing, and
+          judgment than followers do (3:1).
+        UID: MIN251.CH4.INTRO.P.2
+        status: outdated 2026-10-20
+        outdated_reason: revised
+        replaced_by: MIN251.CH4.INTRO.P.7
       lessons:
       - last_modified: '2026-05-28'
         title: The Purposes of Testing
@@ -18746,12 +18913,6 @@ courses:
               cls: IST_Body-Hang-2
               UID: MIN251.5.2.1.P.74
               page: 75
-            - p: 58
-              text: Describe the process of clearly
-              kind: prose
-              cls: IST_Objective-text
-              md: '*Describe <br/>the process of clearly*'
-              UID: MIN251.5.2.1.P.76
             - p: 1
               text: Long-Term Direction and Stability for a Church
               kind: heading
@@ -18917,6 +19078,15 @@ courses:
               UID: MIN251.5.2.1.IMG.1
               status: outdated 2026-08-05
               outdated_reason: struck
+            - p: 58
+              text: Describe the process of clearly
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Describe <br/>the process of clearly*'
+              UID: MIN251.5.2.1.P.76
+              status: outdated 2026-10-20
+              outdated_reason: first half of objective 5.3.1, split at a page break;
+                published 5.2 has no such objective
             interactive_questions:
             - p: 3
               text: Why is it essential for Christian leaders to evaluate their vision
@@ -19143,12 +19313,13 @@ courses:
             glossary: []
             body:
             - p: 1
-              text: c ommunicating vision.
+              text: Describe the process of clearly communicating vision.
               kind: prose
               cls: IST_Objective-text
-              md: '*c**ommunicating vision.*'
-              UID: MIN251.5.3.1.P.36
+              md: '*Describe the process of clearly communicating vision.*'
+              UID: MIN251.5.3.1.P.36.1
               page: 77
+              source_uid: MIN251.5.3.1.P.36
             - p: 2
               text: “Write down the revelation and make it plain on tablets so that
                 a herald may run with it.” (Habakkuk 2:2)
@@ -19212,8 +19383,12 @@ courses:
                 (accessed 2025)
               kind: prose
               cls: IST_Body-Indent-2
-              UID: MIN251.5.3.1.P.8
+              UID: MIN251.5.3.1.P.8.1
               page: 76
+              md: “We’re here to help people Know God, Find Freedom, Discover their
+                Purpose, and Make a Difference.” [https://churchofthehighlands.com/about](https://churchofthehighlands.com/about)
+                (accessed 2025)
+              source_uid: MIN251.5.3.1.P.8
             - p: 10
               text: Village Church, Flower Mound, TX
               kind: prose
@@ -19226,8 +19401,12 @@ courses:
                 2025)
               kind: prose
               cls: IST_Body-Indent-2
-              UID: MIN251.5.3.1.P.10
+              UID: MIN251.5.3.1.P.10.1
               page: 76
+              md: “We exist to love God, love people, and make disciples of Jesus
+                Christ.” [https://www.thevillagechurch.net/mission-and-vision](https://www.thevillagechurch.net/mission-and-vision)
+                (accessed 2025)
+              source_uid: MIN251.5.3.1.P.10
             - p: 12
               text: Saddleback Church, Lake Forest, CA
               kind: prose
@@ -19240,8 +19419,12 @@ courses:
                 2025)
               kind: prose
               cls: IST_Body-Indent-2
-              UID: MIN251.5.3.1.P.12
+              UID: MIN251.5.3.1.P.12.1
               page: 76
+              md: “We exist to urgently lead people to say ‘yes’ to Jesus and His
+                purposes for their lives” [https://saddleback.com/about/](https://saddleback.com/about/)
+                (accessed 2025)
+              source_uid: MIN251.5.3.1.P.12
             - p: 14
               text: River Valley Church, River Valley, MN
               kind: prose
@@ -19254,8 +19437,12 @@ courses:
                 (accessed 2025)
               kind: prose
               cls: IST_Body-Indent-2
-              UID: MIN251.5.3.1.P.14
+              UID: MIN251.5.3.1.P.14.1
               page: 76
+              md: “Our mission is to lead people into an authentic, life-changing
+                relationship with Jesus Christ.” [https://www.rivervalley.org/about](https://www.rivervalley.org/about)
+                (accessed 2025)
+              source_uid: MIN251.5.3.1.P.14
             - p: 16
               text: Use Stories and Scripture
               kind: heading
@@ -19436,6 +19623,60 @@ courses:
               UID: MIN251.5.3.1.IMG.2
               status: outdated 2026-08-19
               outdated_reason: re-parsed
+            - p: 1
+              text: c ommunicating vision.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*c**ommunicating vision.*'
+              UID: MIN251.5.3.1.P.36
+              page: 77
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN251.5.3.1.P.36.1
+            - p: 9
+              text: “We’re here to help people Know God, Find Freedom, Discover their
+                Purpose, and Make a Difference.” https://churchofthehighlands.com/about
+                (accessed 2025)
+              kind: prose
+              cls: IST_Body-Indent-2
+              UID: MIN251.5.3.1.P.8
+              page: 76
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN251.5.3.1.P.8.1
+            - p: 11
+              text: “We exist to love God, love people, and make disciples of Jesus
+                Christ.” https://www.thevillagechurch.net/mission-and-vision (accessed
+                2025)
+              kind: prose
+              cls: IST_Body-Indent-2
+              UID: MIN251.5.3.1.P.10
+              page: 76
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN251.5.3.1.P.10.1
+            - p: 13
+              text: “We exist to urgently lead people to say ‘yes’ to Jesus and His
+                purposes for their lives” https://saddleback.com/about/ (accessed
+                2025)
+              kind: prose
+              cls: IST_Body-Indent-2
+              UID: MIN251.5.3.1.P.12
+              page: 76
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN251.5.3.1.P.12.1
+            - p: 15
+              text: “Our mission is to lead people into an authentic, life-changing
+                relationship with Jesus Christ.” https://www.rivervalley.org/about
+                (accessed 2025)
+              kind: prose
+              cls: IST_Body-Indent-2
+              UID: MIN251.5.3.1.P.14
+              page: 76
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN251.5.3.1.P.14.1
             interactive_questions:
             - p: 5
               text: Why is it important for a leader to clearly communicate a God-given
@@ -19789,14 +20030,22 @@ courses:
               outdated_reason: re-parsed
               change: typographic
             body:
-            - p: 1
-              text: “Give your servant a discerning heart to govern your people and
+            - text: Identify the biblical foundation of wise decision-making and why
+                leaders must rely on God’s wisdom rather than human understanding.
+              kind: prose
+              cls: IST_Objective-text
+              md: '*Identify the biblical foundation of wise decision-making and why
+                leaders must rely on God’s wisdom rather than human understanding.*'
+              UID: MIN251.6.1.1.P.25.1
+              source_uid: MIN251.6.1.1.P.25
+            - text: “Give your servant a discerning heart to govern your people and
                 to distinguish between right and wrong.” (1 Kings 3:9)
               kind: quote
               cls: IST_Body-Bible-Verse-Sub-Head
               md: '*“Give your servant a discerning heart to govern your people and
                 to distinguish between right and wrong.”* (1 Kings 3:9)'
-              UID: MIN251.6.1.1.P.25
+              UID: MIN251.6.1.1.P.25.2
+              source_uid: MIN251.6.1.1.P.25
             - p: 2
               text: “If any of you lacks wisdom, he should ask God, who gives generously
                 to all without finding fault, and it will be given to him.” (James
@@ -20236,6 +20485,18 @@ courses:
               UID: MIN251.6.1.1.IMG.3
               status: outdated 2026-08-05
               outdated_reason: struck
+            - p: 1
+              text: “Give your servant a discerning heart to govern your people and
+                to distinguish between right and wrong.” (1 Kings 3:9)
+              kind: quote
+              cls: IST_Body-Bible-Verse-Sub-Head
+              md: '*“Give your servant a discerning heart to govern your people and
+                to distinguish between right and wrong.”* (1 Kings 3:9)'
+              UID: MIN251.6.1.1.P.25
+              status: outdated 2026-10-20
+              outdated_reason: objective 6.1.1 never parsed into the body; published
+                page and print carry it
+              replaced_by: MIN251.6.1.1.P.25.1
             interactive_questions:
             - p: 1
               text: According to James 3:17, what qualities distinguish wisdom from
@@ -20244,7 +20505,7 @@ courses:
                 full of mercy and good fruit, impartial, and sincere. These qualities
                 reflect God’s character, whereas worldly wisdom is often driven by
                 ambition, pride, or fear and produces division and confusion.
-              after_body_index: 5
+              after_body_index: 6
               UID: MIN251.6.1.1.IQ.5
             - p: 2
               text: Why did Solomon’s request for wisdom in 1 Kings 3:9 demonstrate
@@ -20255,7 +20516,7 @@ courses:
                 and granted Solomon wisdom beyond measure, which was quickly demonstrated
                 in his judgment between the two women claiming to be the mother of
                 the same child.
-              after_body_index: 7
+              after_body_index: 8
               UID: MIN251.6.1.1.IQ.6
             - p: 1
               text: What are some of the key characteristics of God-given vision?
@@ -20310,7 +20571,7 @@ courses:
               - ref: 1 Kings 3:9
                 key: 1kings.3.9
                 bib_gate: https://www.biblegateway.com/passage/?search=1%20Kings%203%3A9&version=NIV
-              paragraph: MIN251.6.1.1.P.25
+              paragraph: MIN251.6.1.1.P.25.1
               UID: MIN251.6.1.1.S.2
             - intext: James 1:5
               version: NIV
@@ -20769,12 +21030,13 @@ courses:
               UID: MIN251.6.2.1.IQ.3
             - p: 4
               text: What practices help leaders remain aligned with God’s will instead
-                of worldly pleasures?
+                of worldly pressures?
               response: Leaders discern God’s will through prayer, meditation on Scripture,
                 reflection, seeking counsel from spiritually mature advisors, and
                 staying sensitive to the Holy Spirit.
               after_body_index: 20
-              UID: MIN251.6.2.1.IQ.4
+              UID: MIN251.6.2.1.IQ.4.1
+              source_uid: MIN251.6.2.1.IQ.4
             - p: 1
               text: Why is it essential that people be involved in the formation of
                 the vision statement and in the fulfillment of the vision?
@@ -20797,6 +21059,17 @@ courses:
               UID: MIN251.6.2.1.IQ.2
               status: outdated 2026-08-05
               outdated_reason: struck
+            - p: 4
+              text: What practices help leaders remain aligned with God’s will instead
+                of worldly pleasures?
+              response: Leaders discern God’s will through prayer, meditation on Scripture,
+                reflection, seeking counsel from spiritually mature advisors, and
+                staying sensitive to the Holy Spirit.
+              after_body_index: 20
+              UID: MIN251.6.2.1.IQ.4
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN251.6.2.1.IQ.4.1
             citations:
             - citekey: barna1992
               pandoc: '[@barna1992]'
@@ -23259,11 +23532,12 @@ courses:
               UID: MIN251.7.3.1.P.28
               page: 107
             - p: 20
-              text:  Accurate and Transparent Records
+              text: Accurate and Transparent Records
               kind: hang
               cls: IST_Body-Hang-1
-              md: '**** **Accurate and Transparent Records**'
-              UID: MIN251.7.3.1.P.29
+              md: '**Accurate and Transparent Records**'
+              UID: MIN251.7.3.1.P.29.1
+              source_uid: MIN251.7.3.1.P.29
             - p: 21
               text: All income and expenses are recorded promptly and accurately.
               kind: list
@@ -23284,12 +23558,13 @@ courses:
               UID: MIN251.7.3.1.P.32
               page: 107
             - p: 24
-              text:  Avoid Conflicts of Interest
+              text: Avoid Conflicts of Interest
               kind: hang
               cls: IST_Body-Hang-1
-              md: '**** **Avoid Conflicts of Interest**'
-              UID: MIN251.7.3.1.P.33
+              md: '**Avoid Conflicts of Interest**'
+              UID: MIN251.7.3.1.P.33.1
               page: 107
+              source_uid: MIN251.7.3.1.P.33
             - p: 25
               text: Personal finances are completely separate from organizational
                 funds.
@@ -23310,12 +23585,13 @@ courses:
               UID: MIN251.7.3.1.P.36
               page: 107
             - p: 28
-              text:  Model Generosity and Stewardship
+              text: Model Generosity and Stewardship
               kind: hang
               cls: IST_Body-Hang-1
-              md: '**** **Model Generosity and Stewardship**'
-              UID: MIN251.7.3.1.P.37
+              md: '**Model Generosity and Stewardship**'
+              UID: MIN251.7.3.1.P.37.1
               page: 107
+              source_uid: MIN251.7.3.1.P.37
             - p: 29
               text: I regularly give of my resources in alignment with Kingdom priorities.
               kind: list
@@ -23336,11 +23612,12 @@ courses:
               UID: MIN251.7.3.1.P.40
               page: 107
             - p: 32
-              text:  Accountability and Oversight
+              text: Accountability and Oversight
               kind: hang
               cls: IST_Body-Hang-1
-              md: '**** **Accountability and Oversight**'
-              UID: MIN251.7.3.1.P.41
+              md: '**Accountability and Oversight**'
+              UID: MIN251.7.3.1.P.41.1
+              source_uid: MIN251.7.3.1.P.41
             - p: 33
               text: Regular audits or financial reviews are conducted by an independent
                 party or oversight committee.
@@ -23361,11 +23638,12 @@ courses:
               UID: MIN251.7.3.1.P.44
               page: 108
             - p: 36
-              text:  Cultivating Trust and Kingdom-Focused Culture
+              text: Cultivating Trust and Kingdom-Focused Culture
               kind: hang
               cls: IST_Body-Hang-1
-              md: '**** **Cultivating Trust and Kingdom-Focused Culture**'
-              UID: MIN251.7.3.1.P.45
+              md: '**Cultivating Trust and Kingdom-Focused Culture**'
+              UID: MIN251.7.3.1.P.45.1
+              source_uid: MIN251.7.3.1.P.45
             - p: 37
               text: Decisions involving resources are transparent and explained clearly.
               kind: list
@@ -23635,6 +23913,53 @@ courses:
               UID: MIN251.7.3.1.IMG.1
               status: outdated 2026-08-05
               outdated_reason: struck
+            - p: 20
+              text:  Accurate and Transparent Records
+              kind: hang
+              cls: IST_Body-Hang-1
+              md: '**** **Accurate and Transparent Records**'
+              UID: MIN251.7.3.1.P.29
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN251.7.3.1.P.29.1
+            - p: 24
+              text:  Avoid Conflicts of Interest
+              kind: hang
+              cls: IST_Body-Hang-1
+              md: '**** **Avoid Conflicts of Interest**'
+              UID: MIN251.7.3.1.P.33
+              page: 107
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN251.7.3.1.P.33.1
+            - p: 28
+              text:  Model Generosity and Stewardship
+              kind: hang
+              cls: IST_Body-Hang-1
+              md: '**** **Model Generosity and Stewardship**'
+              UID: MIN251.7.3.1.P.37
+              page: 107
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN251.7.3.1.P.37.1
+            - p: 32
+              text:  Accountability and Oversight
+              kind: hang
+              cls: IST_Body-Hang-1
+              md: '**** **Accountability and Oversight**'
+              UID: MIN251.7.3.1.P.41
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN251.7.3.1.P.41.1
+            - p: 36
+              text:  Cultivating Trust and Kingdom-Focused Culture
+              kind: hang
+              cls: IST_Body-Hang-1
+              md: '**** **Cultivating Trust and Kingdom-Focused Culture**'
+              UID: MIN251.7.3.1.P.45
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN251.7.3.1.P.45.1
             interactive_questions:
             - p: 5
               text: Why is financial integrity considered a spiritual imperative for
@@ -24373,12 +24698,13 @@ courses:
               text: 'When Joshua was commissioned, God repeated the command to “be
                 strong and courageous” three times in just four verses (Joshua 1:6–9).
                 This repetition reveals two truths: 1) Joshua likely struggled with
-                fear and insecurity (just as every leader does). 2) God knew courage
+                fear and insecurity (just as every leader does) and 2) God knew courage
                 would be the defining quality Joshua needed for the journey ahead.'
               kind: prose
               cls: IST_Body-Indent
-              UID: MIN251.8.1.1.P.67
+              UID: MIN251.8.1.1.P.67.1
               page: 116
+              source_uid: MIN251.8.1.1.P.67
             - p: 10
               text: Opposition is inevitable for leaders. Jesus warned His followers,
                 “In this world you will have trouble. But take heart! I have overcome
@@ -24948,6 +25274,19 @@ courses:
               UID: MIN251.8.1.1.IMG.2
               status: outdated 2026-08-05
               outdated_reason: struck
+            - p: 9
+              text: 'When Joshua was commissioned, God repeated the command to “be
+                strong and courageous” three times in just four verses (Joshua 1:6–9).
+                This repetition reveals two truths: 1) Joshua likely struggled with
+                fear and insecurity (just as every leader does). 2) God knew courage
+                would be the defining quality Joshua needed for the journey ahead.'
+              kind: prose
+              cls: IST_Body-Indent
+              UID: MIN251.8.1.1.P.67
+              page: 116
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN251.8.1.1.P.67.1
             interactive_questions:
             - p: 1
               text: Why did God repeat the command to “be strong and courageous” three
@@ -24995,7 +25334,7 @@ courses:
               - ref: Joshua 1:6-9
                 key: joshua.1.6-9
                 bib_gate: https://www.biblegateway.com/passage/?search=Joshua%201%3A6-9&version=NIV
-              paragraph: MIN251.8.1.1.P.67
+              paragraph: MIN251.8.1.1.P.67.1
               UID: MIN251.8.1.1.S.2
             - intext: John 16:33
               version: NIV
@@ -25864,15 +26203,16 @@ courses:
               after_body_index: 3
               UID: MIN251.8.2.1.IQ.7
             - p: 4
-              text: What are the three key steps Jesus provides for addressing conflict,
-                and why are they important?
+              text: According to Lesson 8.2, what are the three key steps Jesus provides
+                for addressing conflict, and why are they important?
               response: 'The three key steps are: Go directly to the person involved,
                 address the issue privately, and seek restoration rather than retaliation.
                 These steps are important because they protect the dignity of the
                 other person, prevent gossip, eliminate confusion, and focus on reconciliation
                 and strengthening relationships instead of proving a point.'
               after_body_index: 5
-              UID: MIN251.8.2.1.IQ.8
+              UID: MIN251.8.2.1.IQ.8.1
+              source_uid: MIN251.8.2.1.IQ.8
             - p: 1
               text: What weakness did Jethro identify in his son-in-law’s leadership
                 style?
@@ -25930,6 +26270,19 @@ courses:
               UID: MIN251.8.2.1.IQ.6
               status: outdated 2026-08-05
               outdated_reason: struck
+            - p: 4
+              text: What are the three key steps Jesus provides for addressing conflict,
+                and why are they important?
+              response: 'The three key steps are: Go directly to the person involved,
+                address the issue privately, and seek restoration rather than retaliation.
+                These steps are important because they protect the dignity of the
+                other person, prevent gossip, eliminate confusion, and focus on reconciliation
+                and strengthening relationships instead of proving a point.'
+              after_body_index: 5
+              UID: MIN251.8.2.1.IQ.8
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN251.8.2.1.IQ.8.1
             citations:
             - citekey: elmore2001
               pandoc: '[@elmore2001]'
@@ -27146,11 +27499,12 @@ courses:
               UID: MIN251.8.4.1.P.31
               page: 126
             - p: 33
-              text: 'Practices :'
+              text: 'Practices:'
               kind: prose
               cls: IST_Body-Indent
-              md: '**Practices****:**'
-              UID: MIN251.8.4.1.P.32
+              md: '**Practices:**'
+              UID: MIN251.8.4.1.P.32.1
+              source_uid: MIN251.8.4.1.P.32
             - p: 34
               text: Identify energy-draining tasks and delegate when possible.
               kind: list
@@ -27325,6 +27679,15 @@ courses:
               UID: MIN251.8.4.1.IMG.3
               status: outdated 2026-08-19
               outdated_reason: re-parsed
+            - p: 33
+              text: 'Practices :'
+              kind: prose
+              cls: IST_Body-Indent
+              md: '**Practices****:**'
+              UID: MIN251.8.4.1.P.32
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN251.8.4.1.P.32.1
             interactive_questions:
             - p: 7
               text: What is the role of perseverance in leadership, and how does it
@@ -27921,11 +28284,12 @@ courses:
               page: 131
             interactive_questions:
             - p: 9
-              text: What are the three primary consequences of distraction in leadership,
-                and why are they significant?
+              text: What are the three primary consequences of distraction in leadership
+                as outlined in Lesson 8.5, and why are they significant?
               response: 'The three primary consequences are:'
               after_body_index: 7
-              UID: MIN251.8.5.1.IQ.1
+              UID: MIN251.8.5.1.IQ.1.1
+              source_uid: MIN251.8.5.1.IQ.1
             - p: 10
               text: How can leaders recognize and manage distractions to maintain
                 focus on God’s calling?
@@ -27937,6 +28301,15 @@ courses:
                 declaring, “I am doing a great work and I cannot come down.”'
               after_body_index: 23
               UID: MIN251.8.5.1.IQ.2
+            - p: 9
+              text: What are the three primary consequences of distraction in leadership,
+                and why are they significant?
+              response: 'The three primary consequences are:'
+              after_body_index: 7
+              UID: MIN251.8.5.1.IQ.1
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN251.8.5.1.IQ.1.1
             citations:
             - citekey: scroggins2019
               pandoc: '[@scroggins2019, 24]'
@@ -30870,18 +31243,19 @@ courses:
               UID: MIN251.10.2.1.P.69.1
               source_uid: MIN251.10.2.1.P.69
             - p: 71
-              text: The early followers of Francis of Assisi wanted to know what to
-                do when they went out into the streets to minister. Although its exact
-                origin is uncertain, a saying commonly attributed to St. Francis advises,
-                “Preach the gospel at all times. If necessary, use words.”
-              kind: prose
-              cls: IST_Body-Indent
-              md: The early followers of **Francis of Assisi** wanted to know what
+              text: The early followers of St. Francis of Assisi wanted to know what
                 to do when they went out into the streets to minister. Although its
                 exact origin is uncertain, a saying commonly attributed to St. Francis
                 advises, “Preach the gospel at all times. If necessary, use words.”
-              UID: MIN251.10.2.1.P.70.1
-              source_uid: MIN251.10.2.1.P.70
+              kind: prose
+              cls: IST_Body-Indent
+              md: The early followers of **St. Francis of Assisi** wanted to know
+                what to do when they went out into the streets to minister. Although
+                its exact origin is uncertain, a saying commonly attributed to St.
+                Francis advises, “Preach the gospel at all times. If necessary, use
+                words.”
+              UID: MIN251.10.2.1.P.70.2
+              source_uid: MIN251.10.2.1.P.70.1
               page: 157
             - p: 72
               text: “Follow my example, as I follow the example of Christ.” (1 Corinthians
@@ -31380,6 +31754,23 @@ courses:
               UID: MIN251.10.2.1.IMG.2
               status: outdated 2026-08-05
               outdated_reason: struck
+            - p: 71
+              text: The early followers of Francis of Assisi wanted to know what to
+                do when they went out into the streets to minister. Although its exact
+                origin is uncertain, a saying commonly attributed to St. Francis advises,
+                “Preach the gospel at all times. If necessary, use words.”
+              kind: prose
+              cls: IST_Body-Indent
+              md: The early followers of **Francis of Assisi** wanted to know what
+                to do when they went out into the streets to minister. Although its
+                exact origin is uncertain, a saying commonly attributed to St. Francis
+                advises, “Preach the gospel at all times. If necessary, use words.”
+              UID: MIN251.10.2.1.P.70.1
+              source_uid: MIN251.10.2.1.P.70
+              page: 157
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN251.10.2.1.P.70.2
             interactive_questions:
             - p: 4
               text: How and why should a leader respond to the insecurities people
@@ -35633,7 +36024,7 @@ courses:
               text: Nehemiah knew that a broken wall was a disgrace to God, but he
                 also knew he could not rebuild it alone. He had to recruit a team
                 of men to rebuild the wall around Jerusalem. If you read Nehemiah
-                3 – 4, you will see the number of people it took to accomplish such
+                3–4, you will see the number of people it took to accomplish such
                 a task. Listed is name after name of families who undertook different
                 tasks to rebuild various parts of the wall, and some men even acted
                 as guards to protect the builders from their enemies who were trying
@@ -35642,14 +36033,14 @@ courses:
               cls: IST_Body-Indent
               md: Nehemiah knew that a broken wall was a disgrace to God, but he also
                 knew he could not rebuild it alone. He had to recruit a team of men
-                to rebuild the wall around Jerusalem. If you read Nehemiah 3**–**4,
-                you will see the number of people it took to accomplish such a task.
-                Listed is name after name of families who undertook different tasks
-                to rebuild various parts of the wall, and some men even acted as guards
-                to protect the builders from their enemies who were trying to thwart
-                their efforts.
-              UID: MIN251.12.1.1.P.2
+                to rebuild the wall around Jerusalem. If you read Nehemiah 3–4, you
+                will see the number of people it took to accomplish such a task. Listed
+                is name after name of families who undertook different tasks to rebuild
+                various parts of the wall, and some men even acted as guards to protect
+                the builders from their enemies who were trying to thwart their efforts.
+              UID: MIN251.12.1.1.P.2.1
               page: 182
+              source_uid: MIN251.12.1.1.P.2
             - p: 4
               text: From that day on, half of my men did the work, while the other
                 half were equipped with spears, shields, bows and armor. The officers
@@ -35698,7 +36089,7 @@ courses:
                 and God has graciously given you the lives of all who sail with you.’
                 So keep up your courage, men, for I have faith in God that it will
                 happen just as he told me. Nevertheless, we must run aground on some
-                island.” (Acts 27:21 – 26)'
+                island.” (Acts 27:21–26)'
               kind: quote
               cls: IST_Body-Block-Quote
               md: 'After the men had gone a long time without food, Paul stood up
@@ -35711,9 +36102,9 @@ courses:
                 and God has graciously given you the lives of all who sail with you.’
                 So keep up your courage, men, for I have faith in God that it will
                 happen just as he told me. Nevertheless, we must run aground on some
-                island.” (Acts 27:21**–**26)'
-              UID: MIN251.12.1.1.P.7.1
-              source_uid: MIN251.12.1.1.P.7
+                island.” (Acts 27:21–26)'
+              UID: MIN251.12.1.1.P.7.2
+              source_uid: MIN251.12.1.1.P.7.1
               page: 182
             - p: 9
               text: When daylight came, they did not recognize the land, but they
@@ -35728,7 +36119,7 @@ courses:
                 to spare Paul’s life and kept them from carrying out their plan. He
                 ordered those who could swim to jump overboard first and get to land.
                 The rest were to get there on planks or on pieces of the ship. In
-                this way everyone reached land in safety. (Acts 27:39 – 44)
+                this way everyone reached land in safety. (Acts 27:39–44)
               kind: quote
               cls: IST_Body-Block-Quote
               md: When daylight came, they did not recognize the land, but they saw
@@ -35743,9 +36134,10 @@ courses:
                 to spare Paul’s life and kept them from carrying out their plan. He
                 ordered those who could swim to jump overboard first and get to land.
                 The rest were to get there on planks or on pieces of the ship. In
-                this way everyone reached land in safety. (Acts 27:39**–**44)
-              UID: MIN251.12.1.1.P.8
+                this way everyone reached land in safety. (Acts 27:39–44)
+              UID: MIN251.12.1.1.P.8.1
               page: 183
+              source_uid: MIN251.12.1.1.P.8
             - p: 10
               text: Paul, as an inmate, became the chief influencer on the ship during
                 the storm. He provided clear direction to everyone and gave them confidence
@@ -35823,6 +36215,95 @@ courses:
               UID: MIN251.12.1.1.IMG.2
               status: outdated 2026-08-05
               outdated_reason: struck
+            - p: 3
+              text: Nehemiah knew that a broken wall was a disgrace to God, but he
+                also knew he could not rebuild it alone. He had to recruit a team
+                of men to rebuild the wall around Jerusalem. If you read Nehemiah
+                3 – 4, you will see the number of people it took to accomplish such
+                a task. Listed is name after name of families who undertook different
+                tasks to rebuild various parts of the wall, and some men even acted
+                as guards to protect the builders from their enemies who were trying
+                to thwart their efforts.
+              kind: prose
+              cls: IST_Body-Indent
+              md: Nehemiah knew that a broken wall was a disgrace to God, but he also
+                knew he could not rebuild it alone. He had to recruit a team of men
+                to rebuild the wall around Jerusalem. If you read Nehemiah 3**–**4,
+                you will see the number of people it took to accomplish such a task.
+                Listed is name after name of families who undertook different tasks
+                to rebuild various parts of the wall, and some men even acted as guards
+                to protect the builders from their enemies who were trying to thwart
+                their efforts.
+              UID: MIN251.12.1.1.P.2
+              page: 182
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN251.12.1.1.P.2.1
+            - p: 8
+              text: 'After the men had gone a long time without food, Paul stood up
+                before them and said: “Men, you should have taken my advice not to
+                sail from Crete; then you would have spared yourselves this damage
+                and loss. But now I urge you to keep up your courage, because not
+                one of you will be lost; only the ship will be destroyed. Last night
+                an angel of the God whose I am and whom I serve stood beside me and
+                said, ‘Do not be afraid, Paul. You must stand trial before Caesar;
+                and God has graciously given you the lives of all who sail with you.’
+                So keep up your courage, men, for I have faith in God that it will
+                happen just as he told me. Nevertheless, we must run aground on some
+                island.” (Acts 27:21 – 26)'
+              kind: quote
+              cls: IST_Body-Block-Quote
+              md: 'After the men had gone a long time without food, Paul stood up
+                before them and said: “Men, you should have taken my advice not to
+                sail from Crete; then you would have spared yourselves this damage
+                and loss. But now I urge you to keep up your courage, because not
+                one of you will be lost; only the ship will be destroyed. Last night
+                an angel of the God whose I am and whom I serve stood beside me and
+                said, ‘Do not be afraid, Paul. You must stand trial before Caesar;
+                and God has graciously given you the lives of all who sail with you.’
+                So keep up your courage, men, for I have faith in God that it will
+                happen just as he told me. Nevertheless, we must run aground on some
+                island.” (Acts 27:21**–**26)'
+              UID: MIN251.12.1.1.P.7.1
+              source_uid: MIN251.12.1.1.P.7
+              page: 182
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN251.12.1.1.P.7.2
+            - p: 9
+              text: When daylight came, they did not recognize the land, but they
+                saw a bay with a sandy beach, where they decided to run the ship aground
+                if they could. Cutting loose the anchors, they left them in the sea
+                and at the same time untied the ropes that held the rudders. Then
+                they hoisted the foresail to the wind and made for the beach. But
+                the ship struck a sandbar and ran aground. The bow stuck fast and
+                would not move, and the stern was broken to pieces by the pounding
+                of the surf. The soldiers planned to kill the prisoners to prevent
+                any of them from swimming away and escaping. But the centurion wanted
+                to spare Paul’s life and kept them from carrying out their plan. He
+                ordered those who could swim to jump overboard first and get to land.
+                The rest were to get there on planks or on pieces of the ship. In
+                this way everyone reached land in safety. (Acts 27:39 – 44)
+              kind: quote
+              cls: IST_Body-Block-Quote
+              md: When daylight came, they did not recognize the land, but they saw
+                a bay with a sandy beach, where they decided to run the ship aground
+                if they could. Cutting loose the anchors, they left them in the sea
+                and at the same time untied the ropes that held the rudders. Then
+                they hoisted the foresail to the wind and made for the beach. But
+                the ship struck a sandbar and ran aground. The bow stuck fast and
+                would not move, and the stern was broken to pieces by the pounding
+                of the surf. The soldiers planned to kill the prisoners to prevent
+                any of them from swimming away and escaping. But the centurion wanted
+                to spare Paul’s life and kept them from carrying out their plan. He
+                ordered those who could swim to jump overboard first and get to land.
+                The rest were to get there on planks or on pieces of the ship. In
+                this way everyone reached land in safety. (Acts 27:39**–**44)
+              UID: MIN251.12.1.1.P.8
+              page: 183
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN251.12.1.1.P.8.1
             interactive_questions:
             - p: 1
               text: What was Nehemiah’s task, and why was teamwork needed to accomplish
@@ -35871,7 +36352,7 @@ courses:
               - ref: Acts 27:21-26
                 key: acts.27.21-26
                 bib_gate: https://www.biblegateway.com/passage/?search=Acts%2027%3A21-26&version=NIV
-              paragraph: MIN251.12.1.1.P.7.1
+              paragraph: MIN251.12.1.1.P.7.2
               UID: MIN251.12.1.1.S.7
             - intext: Acts 27:39 – 44
               version: NIV
@@ -35879,7 +36360,7 @@ courses:
               - ref: Acts 27:39-44
                 key: acts.27.39-44
                 bib_gate: https://www.biblegateway.com/passage/?search=Acts%2027%3A39-44&version=NIV
-              paragraph: MIN251.12.1.1.P.8
+              paragraph: MIN251.12.1.1.P.8.1
               UID: MIN251.12.1.1.S.6
             - intext: Nehemiah 3–4
               version: NIV
@@ -35897,7 +36378,7 @@ courses:
               - ref: Nehemiah 3-4
                 key: nehemiah.3-4
                 bib_gate: https://www.biblegateway.com/passage/?search=Nehemiah%203-4&version=NIV
-              paragraph: MIN251.12.1.1.P.2
+              paragraph: MIN251.12.1.1.P.2.1
               UID: MIN251.12.1.1.S.2
               status: outdated 2026-08-19
               outdated_reason: re-parsed
