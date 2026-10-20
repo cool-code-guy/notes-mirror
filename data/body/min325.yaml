@@ -213,18 +213,18 @@ courses:
       definition: a form of reading into the text; ideas may be true, but not found
         in the chosen text
       chapter: 3
-      paragraph: MIN325.3.2.1.P.13
+      paragraph: MIN325.3.2.1.P.3.2
       page: 44
     - term: application
       definition: the part of the sermon that makes a biblical text relevant to present-day
         life
       chapter: 5
-      paragraph: MIN325.5.2.1.P.2.1
+      paragraph: MIN325.5.2.1.P.6.2
       page: 69
     - term: bias
       definition: an inclination toward a certain outlook or viewpoint
       chapter: 3
-      paragraph: MIN325.5.1.1.P.13.1
+      paragraph: MIN325.3.1.1.P.6.1
       page: 68
     - term: biblical authority
       definition: the belief that the Bible’s words are God’s words, and they guide
@@ -232,16 +232,20 @@ courses:
       chapter: 2
       paragraph: MIN325.2.1.1.P.7
       page: 25
+      extra_paragraphs:
+      - MIN325.2.3.1.P.13
     - term: central proposition
       definition: the thesis of the sermon
       chapter: 5
       paragraph: MIN325.5.1.1.P.11.1
       page: 67
+      extra_paragraphs:
+      - MIN325.5.2.1.P.3.2
     - term: conclusion
       definition: the end of the sermon which ties together the points and makes a
         final attempt to drive home the central proposition
       chapter: 5
-      paragraph: MIN325.5.2.1.P.1.1
+      paragraph: MIN325.5.2.1.P.31.1
       page: 68
     - term: context
       definition: the parts of a communication surrounding a word or passage which
@@ -252,18 +256,18 @@ courses:
       definition: taking the gospel into a new context and finding appropriate means
         to communicate it so it is meaningful and understandable to the people
       chapter: 11
-      paragraph: MIN325.11.1.1.P.24.1
+      paragraph: MIN325.11.1.1.P.25
       page: 146
     - term: deductive preaching
       definition: sermons that begin with a declaration and then lay out support for
         the declaration
       chapter: 5
-      paragraph: MIN325.5.2.1.P.52
+      paragraph: MIN325.5.2.1.P.38
     - term: Enlightenment
       definition: a philosophic movement of the eighteenth century that rejected traditional
         social, religious, and political ideas and emphasized rationalism
       chapter: 1
-      paragraph: MIN325.1.1.1.P.3
+      paragraph: MIN325.1.1.1.P.7.1
       page: 16
     - term: exegesis
       definition: critical interpretation of a text
@@ -278,7 +282,7 @@ courses:
     - term: high-tech worship
       definition: the implementing of effective high-tech worship elements
       chapter: 8
-      paragraph: MIN325.8.2.1.P.11.1
+      paragraph: MIN325.8.2.1.P.11.2
     - term: homiletical outline
       definition: an outline in contemporary language that tells what the text means
         now, in the present
@@ -289,12 +293,12 @@ courses:
       definition: sermons that begin with a need, present solutions, and allow listeners
         to come to the same conclusion as the preacher
       chapter: 5
-      paragraph: MIN325.5.2.1.P.52
+      paragraph: MIN325.5.2.1.P.8.1
     - term: illustrations
       definition: stories, quotes, or demonstrations that help explain a main point
         in a memorable way
       chapter: 5
-      paragraph: MIN325.5.1.1.P.28
+      paragraph: MIN325.5.1.1.P.12.1
       page: 67
     - term: inspired
       definition: “God-breathed”; God, through the Holy Spirit, was actively involved
@@ -313,12 +317,12 @@ courses:
     - term: introduction
       definition: the beginning of a sermon which “hooks” the audience
       chapter: 5
-      paragraph: MIN325.5.2.1.P.1.1
+      paragraph: MIN325.5.2.1.P.18.1
       page: 68
     - term: main point
       definition: the part of the sermon explaining and supporting the central proposition
       chapter: 5
-      paragraph: MIN325.5.2.1.P.23
+      paragraph: MIN325.5.2.1.P.4.1
       page: 70
     - term: metaphor
       definition: a figure of speech in which a certain word or phrase which denotes
@@ -346,12 +350,13 @@ courses:
         morality is a function of individual conviction; strong standards of right
         and wrong are rigid and bigoted, and “good” religion is pluralistic and all-embracing'
       chapter: 1
-      paragraph: MIN325.1.2.1.P.9
+      paragraph: MIN325.1.2.1.P.1.1
       page: 19
     - term: presentational technology
       definition: technology, such as computers, video projectors, and software used
         for presentations
       chapter: 8
+      paragraph: MIN325.8.2.1.P.13
     - term: presupposition
       definition: to suppose beforehand
       chapter: 3
@@ -360,13 +365,13 @@ courses:
       definition: making the text fit the message; going to the Bible to find passages
         to support an idea
       chapter: 3
-      paragraph: MIN325.3.2.1.P.12
+      paragraph: MIN325.3.2.1.P.2.2
       page: 43
     - term: reading into the text
       definition: putting words, thoughts, and intents into a story not intended by
         the author
       chapter: 3
-      paragraph: MIN325.3.2.1.P.3.2
+      paragraph: MIN325.3.2.1.P.4.1
       page: 44
     - term: Renaissance
       definition: the European transition from medieval to modern times, from the
@@ -374,7 +379,7 @@ courses:
         teaching and expression which resulted in developing the arts and literature
         and the beginning of modern science
       chapter: 1
-      paragraph: MIN325.1.1.1.P.3
+      paragraph: MIN325.1.1.1.P.5
       page: 16
     - term: Romanticism
       definition: an eighteenth-century literary, artistic, and philosophical movement,
@@ -6442,7 +6447,7 @@ courses:
       - MIN325.6.3.1
       - MIN325.6.3.2
     - raw: 'Kaiser, Walter C. 2008. The Promise-Plan of God: A Biblical Theology of
-        the Old and New Testaments ; Based on Toward an Old Testament Theology . Logos
+        the Old and New Testaments. Based on Toward an Old Testament Theology . Logos
         ed. Zondervan.'
       authors: Kaiser, Walter C
       year: '2008'
@@ -6874,6 +6879,10 @@ courses:
       suggested_reading: false
       citekey: gibson2004a
       cited_in: []
+      status: outdated 2026-10-20
+      outdated_reason: uncited duplicate of gibson2004b; the editors removed it from
+        the published Reference List
+      replaced_by: gibson2004b
     - raw: Grenz, Stanley J. 1996. A Primer on Postmodernism . Eerdmans.
       authors: Grenz, Stanley J
       year: '1996'
@@ -6980,10 +6989,31 @@ courses:
           *modernism*. The present world is challenging assumptions of the modern
           era and developing its own set of assumptions. This shift in philosophy
           presents special challenges to the preacher. This chapter will look at how
+          modern and postmodern worldviews developed, will examine each perspective’s
+          view of truth, and will look at how this mix of modern and postmodern worldviews
+          affects preachers’ presentation of a true message.
+        UID: MIN325.CH1.INTRO.P.3
+        source_uid: MIN325.CH1.INTRO.P.2
+      - text: Today’s world is experiencing a shift away from a philosophy known as
+          modernism . The present world is challenging assumptions of the modern era
+          and developing its own set of assumptions. This shift in philosophy presents
+          special challenges to the preacher. This chapter will look at how modern
+          and postmodern worldviews developed, will examine each perspective’s view
+          of truth, and will look at how this mix of modern and postmodern worldviews
+          affects preachers’ presentation of a true message.
+        kind: prose
+        cls: IST_Body-Indent
+        md: Today’s world is experiencing a shift away from a philosophy known as
+          *modernism*. The present world is challenging assumptions of the modern
+          era and developing its own set of assumptions. This shift in philosophy
+          presents special challenges to the preacher. This chapter will look at how
           modern and postmodern **worldviews** developed, will examine each perspective’s
           view of truth, and will look at how this mix of modern and postmodern worldviews
           affects preachers’ presentation of a true message.
         UID: MIN325.CH1.INTRO.P.2
+        status: outdated 2026-10-20
+        outdated_reason: revised
+        replaced_by: MIN325.CH1.INTRO.P.3
       lessons:
       - last_modified: '2026-05-22'
         title: The Modern View of Truth
@@ -15490,13 +15520,14 @@ courses:
               md: If someone simply opened the Bible and read this verse, he or she
                 could reasonably assume that the God of the Bible requires human sacrifice
                 as a part of one’s devotion to Him. However, when this verse is read
-                in **context**, the idea of human sacrifice as a part of godly devotion
+                in context, the idea of human sacrifice as a part of godly devotion
                 is without support. A single verse, thought, or sentence is easily
                 misunderstood without the input of context. Because of this, careful
                 study should be made of the context surrounding the text, starting
                 with the immediate verses and working out.
-              UID: MIN325.3.1.1.P.11
+              UID: MIN325.3.1.1.P.11.1
               page: 34
+              source_uid: MIN325.3.1.1.P.11
             - p: 10
               text: 'Thus, to determine a text’s purpose, several steps should be
                 taken:'
@@ -16129,6 +16160,30 @@ courses:
                 obedience is clearly illustrated.
               status: outdated 2026-07-02
               outdated_reason: re-parsed
+            - p: 9
+              text: If someone simply opened the Bible and read this verse, he or
+                she could reasonably assume that the God of the Bible requires human
+                sacrifice as a part of one’s devotion to Him. However, when this verse
+                is read in context , the idea of human sacrifice as a part of godly
+                devotion is without support. A single verse, thought, or sentence
+                is easily misunderstood without the input of context. Because of this,
+                careful study should be made of the context surrounding the text,
+                starting with the immediate verses and working out.
+              kind: prose
+              cls: IST_Body-Indent
+              md: If someone simply opened the Bible and read this verse, he or she
+                could reasonably assume that the God of the Bible requires human sacrifice
+                as a part of one’s devotion to Him. However, when this verse is read
+                in **context**, the idea of human sacrifice as a part of godly devotion
+                is without support. A single verse, thought, or sentence is easily
+                misunderstood without the input of context. Because of this, careful
+                study should be made of the context surrounding the text, starting
+                with the immediate verses and working out.
+              UID: MIN325.3.1.1.P.11
+              page: 34
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN325.3.1.1.P.11.1
             citations:
             - citekey: ross1997
               pandoc: '[@ross1997, 393]'
@@ -16416,13 +16471,14 @@ courses:
               md: If someone simply opened the Bible and read this verse, he or she
                 could reasonably assume that the God of the Bible requires human sacrifice
                 as a part of one’s devotion to Him. However, when this verse is read
-                in **context**, the idea of human sacrifice as a part of godly devotion
+                in context, the idea of human sacrifice as a part of godly devotion
                 is without support. A single verse, thought, or sentence is easily
                 misunderstood without the input of context. Because of this, careful
                 study should be made of the context surrounding the text, starting
                 with the immediate verses and working out.
-              UID: MIN325.3.1.2.P.11
+              UID: MIN325.3.1.2.P.11.1
               page: 34
+              source_uid: MIN325.3.1.2.P.11
             - p: 10
               text: 'Thus, to determine a text’s purpose, several steps should be
                 taken:'
@@ -17055,6 +17111,30 @@ courses:
                 obedience is clearly illustrated.
               status: outdated 2026-07-02
               outdated_reason: re-parsed
+            - p: 9
+              text: If someone simply opened the Bible and read this verse, he or
+                she could reasonably assume that the God of the Bible requires human
+                sacrifice as a part of one’s devotion to Him. However, when this verse
+                is read in context , the idea of human sacrifice as a part of godly
+                devotion is without support. A single verse, thought, or sentence
+                is easily misunderstood without the input of context. Because of this,
+                careful study should be made of the context surrounding the text,
+                starting with the immediate verses and working out.
+              kind: prose
+              cls: IST_Body-Indent
+              md: If someone simply opened the Bible and read this verse, he or she
+                could reasonably assume that the God of the Bible requires human sacrifice
+                as a part of one’s devotion to Him. However, when this verse is read
+                in **context**, the idea of human sacrifice as a part of godly devotion
+                is without support. A single verse, thought, or sentence is easily
+                misunderstood without the input of context. Because of this, careful
+                study should be made of the context surrounding the text, starting
+                with the immediate verses and working out.
+              UID: MIN325.3.1.2.P.11
+              page: 34
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN325.3.1.2.P.11.1
             citations:
             - citekey: ross1997
               pandoc: '[@ross1997, 393]'
@@ -17667,8 +17747,8 @@ courses:
                 say. Not everything will be accepted. Graham Johnston (2001, 62) writes:'
               kind: prose
               cls: IST_Body-Indent
-              md: 'Nothing can take the place of sound **exegesis**, time in study,
-                and prayer. Stepping into a pulpit requires more than skills in public
+              md: 'Nothing can take the place of sound exegesis, time in study, and
+                prayer. Stepping into a pulpit requires more than skills in public
                 speaking. Preaching is important because it is one way God’s Word
                 can be presented to people. When proper time, prayer, and study have
                 been given to a sermon, a preacher can step to a pulpit in reverence
@@ -17679,7 +17759,8 @@ courses:
                 weary of holding it in; indeed, I cannot” (Jeremiah 20:9). Not everything
                 the preacher says will be popular. Not everything will be easy to
                 say. Not everything will be accepted. Graham Johnston (2001, 62) writes:'
-              UID: MIN325.3.2.1.P.24
+              UID: MIN325.3.2.1.P.24.1
+              source_uid: MIN325.3.2.1.P.24
             - p: 24
               text: Inevitably every preacher will be required to proclaim godly truths
                 that are counterculture, principles that run against the grain of
@@ -18109,6 +18190,37 @@ courses:
                 the text. d)\tleads a preacher to focus on a minor point."
               status: outdated 2026-07-02
               outdated_reason: re-parsed
+            - p: 23
+              text: 'Nothing can take the place of sound exegesis , time in study,
+                and prayer. Stepping into a pulpit requires more than skills in public
+                speaking. Preaching is important because it is one way God’s Word
+                can be presented to people. When proper time, prayer, and study have
+                been given to a sermon, a preacher can step to a pulpit in reverence
+                and confidence, knowing God will speak to His people. Preachers need
+                conviction, passion, and determination in their commitment to speaking
+                God’s Word. The preacher, like Jeremiah, should be able to say, “[God’s]
+                word is in my heart like a fire, a fire shut up in my bones. I am
+                weary of holding it in; indeed, I cannot” (Jeremiah 20:9). Not everything
+                the preacher says will be popular. Not everything will be easy to
+                say. Not everything will be accepted. Graham Johnston (2001, 62) writes:'
+              kind: prose
+              cls: IST_Body-Indent
+              md: 'Nothing can take the place of sound **exegesis**, time in study,
+                and prayer. Stepping into a pulpit requires more than skills in public
+                speaking. Preaching is important because it is one way God’s Word
+                can be presented to people. When proper time, prayer, and study have
+                been given to a sermon, a preacher can step to a pulpit in reverence
+                and confidence, knowing God will speak to His people. Preachers need
+                conviction, passion, and determination in their commitment to speaking
+                God’s Word. The preacher, like Jeremiah, should be able to say, “\[God’s\]
+                word is in my heart like a fire, a fire shut up in my bones. I am
+                weary of holding it in; indeed, I cannot” (Jeremiah 20:9). Not everything
+                the preacher says will be popular. Not everything will be easy to
+                say. Not everything will be accepted. Graham Johnston (2001, 62) writes:'
+              UID: MIN325.3.2.1.P.24
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN325.3.2.1.P.24.1
             citations:
             - citekey: carson1996
               pandoc: '[@carson1996, 30]'
@@ -18229,7 +18341,7 @@ courses:
               - ref: Jeremiah 20:9
                 key: jeremiah.20.9
                 bib_gate: https://www.biblegateway.com/passage/?search=Jeremiah%2020%3A9&version=NIV
-              paragraph: MIN325.3.2.1.P.24
+              paragraph: MIN325.3.2.1.P.24.1
               UID: MIN325.3.2.1.S.13
             - intext: 2 Timothy 2:15
               version: NIV
@@ -18683,8 +18795,8 @@ courses:
                 say. Not everything will be accepted. Graham Johnston (2001, 62) writes:'
               kind: prose
               cls: IST_Body-Indent
-              md: 'Nothing can take the place of sound **exegesis**, time in study,
-                and prayer. Stepping into a pulpit requires more than skills in public
+              md: 'Nothing can take the place of sound exegesis, time in study, and
+                prayer. Stepping into a pulpit requires more than skills in public
                 speaking. Preaching is important because it is one way God’s Word
                 can be presented to people. When proper time, prayer, and study have
                 been given to a sermon, a preacher can step to a pulpit in reverence
@@ -18695,7 +18807,8 @@ courses:
                 weary of holding it in; indeed, I cannot” (Jeremiah 20:9). Not everything
                 the preacher says will be popular. Not everything will be easy to
                 say. Not everything will be accepted. Graham Johnston (2001, 62) writes:'
-              UID: MIN325.3.2.2.P.24
+              UID: MIN325.3.2.2.P.24.1
+              source_uid: MIN325.3.2.2.P.24
             - p: 24
               text: Inevitably every preacher will be required to proclaim godly truths
                 that are counterculture, principles that run against the grain of
@@ -19125,6 +19238,37 @@ courses:
                 the text. d)\tleads a preacher to focus on a minor point."
               status: outdated 2026-07-02
               outdated_reason: re-parsed
+            - p: 23
+              text: 'Nothing can take the place of sound exegesis , time in study,
+                and prayer. Stepping into a pulpit requires more than skills in public
+                speaking. Preaching is important because it is one way God’s Word
+                can be presented to people. When proper time, prayer, and study have
+                been given to a sermon, a preacher can step to a pulpit in reverence
+                and confidence, knowing God will speak to His people. Preachers need
+                conviction, passion, and determination in their commitment to speaking
+                God’s Word. The preacher, like Jeremiah, should be able to say, “[God’s]
+                word is in my heart like a fire, a fire shut up in my bones. I am
+                weary of holding it in; indeed, I cannot” (Jeremiah 20:9). Not everything
+                the preacher says will be popular. Not everything will be easy to
+                say. Not everything will be accepted. Graham Johnston (2001, 62) writes:'
+              kind: prose
+              cls: IST_Body-Indent
+              md: 'Nothing can take the place of sound **exegesis**, time in study,
+                and prayer. Stepping into a pulpit requires more than skills in public
+                speaking. Preaching is important because it is one way God’s Word
+                can be presented to people. When proper time, prayer, and study have
+                been given to a sermon, a preacher can step to a pulpit in reverence
+                and confidence, knowing God will speak to His people. Preachers need
+                conviction, passion, and determination in their commitment to speaking
+                God’s Word. The preacher, like Jeremiah, should be able to say, “\[God’s\]
+                word is in my heart like a fire, a fire shut up in my bones. I am
+                weary of holding it in; indeed, I cannot” (Jeremiah 20:9). Not everything
+                the preacher says will be popular. Not everything will be easy to
+                say. Not everything will be accepted. Graham Johnston (2001, 62) writes:'
+              UID: MIN325.3.2.2.P.24
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN325.3.2.2.P.24.1
             citations:
             - citekey: carson1996
               pandoc: '[@carson1996, 30]'
@@ -19245,7 +19389,7 @@ courses:
               - ref: Jeremiah 20:9
                 key: jeremiah.20.9
                 bib_gate: https://www.biblegateway.com/passage/?search=Jeremiah%2020%3A9&version=NIV
-              paragraph: MIN325.3.2.2.P.24
+              paragraph: MIN325.3.2.2.P.24.1
               UID: MIN325.3.2.2.S.13
             - intext: 2 Timothy 2:15
               version: NIV
@@ -23369,12 +23513,13 @@ courses:
                 world, so when they sit in front of a preacher, they want to know
                 why the message of Christ is different from and better than the other
                 messages they hear. Preachers need to prove their messages and be
-                persuasive in their presentations. Ed Dobson (as quoted by Graham
-                Johnston (2001, 108) observes:'
+                persuasive in their presentations. Ed Dobson, as quoted by Graham
+                Johnston (2001, 108), observes:'
               kind: prose
               cls: IST_Body-Indent
-              UID: MIN325.5.1.1.P.18
+              UID: MIN325.5.1.1.P.18.1
               page: 66
+              source_uid: MIN325.5.1.1.P.18
             - p: 8
               text: In an earlier generation, it was enough for a preacher to announce
                 the truth, and the congregation would ratify it. Today such pronouncements
@@ -23917,6 +24062,21 @@ courses:
                 overuse or exploit the family for the sake of the sermon."
               status: outdated 2026-07-02
               outdated_reason: re-parsed
+            - p: 7
+              text: 'The contemporary world has transitioned from scientific proofs
+                to persuasive arguments. People hear a variety of messages from the
+                world, so when they sit in front of a preacher, they want to know
+                why the message of Christ is different from and better than the other
+                messages they hear. Preachers need to prove their messages and be
+                persuasive in their presentations. Ed Dobson (as quoted by Graham
+                Johnston (2001, 108) observes:'
+              kind: prose
+              cls: IST_Body-Indent
+              UID: MIN325.5.1.1.P.18
+              page: 66
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN325.5.1.1.P.18.1
             interactive_questions:
             - p: 1
               text: What do postmodern people most want to know?
@@ -24001,12 +24161,13 @@ courses:
                 world, so when they sit in front of a preacher, they want to know
                 why the message of Christ is different from and better than the other
                 messages they hear. Preachers need to prove their messages and be
-                persuasive in their presentations. Ed Dobson (as quoted by Graham
-                Johnston (2001, 108) observes:'
+                persuasive in their presentations. Ed Dobson, as quoted by Graham
+                Johnston (2001, 108), observes:'
               kind: prose
               cls: IST_Body-Indent
-              UID: MIN325.5.1.2.P.18
+              UID: MIN325.5.1.2.P.18.1
               page: 66
+              source_uid: MIN325.5.1.2.P.18
             - p: 8
               text: In an earlier generation, it was enough for a preacher to announce
                 the truth, and the congregation would ratify it. Today such pronouncements
@@ -24549,6 +24710,21 @@ courses:
                 overuse or exploit the family for the sake of the sermon."
               status: outdated 2026-07-02
               outdated_reason: re-parsed
+            - p: 7
+              text: 'The contemporary world has transitioned from scientific proofs
+                to persuasive arguments. People hear a variety of messages from the
+                world, so when they sit in front of a preacher, they want to know
+                why the message of Christ is different from and better than the other
+                messages they hear. Preachers need to prove their messages and be
+                persuasive in their presentations. Ed Dobson (as quoted by Graham
+                Johnston (2001, 108) observes:'
+              kind: prose
+              cls: IST_Body-Indent
+              UID: MIN325.5.1.2.P.18
+              page: 66
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN325.5.1.2.P.18.1
             interactive_questions:
             - p: 1
               text: What do postmodern people most want to know?
@@ -24788,13 +24964,14 @@ courses:
             - p: 13
               text: Illustrations such as stories, quotes, or demonstrations help
                 to further explain the main point in a memorable way. The third point
-                in a sermon I preached on Leah and Rachel from Genesis 29 and 30 was,
-                “God remembers us.” To illustrate this point, I told, in great detail,
-                of the day my grandmother turned sixty-five.
+                in a sermon I preached on Leah and Rachel from Genesis 29 and Genesis
+                30 was, “God remembers us.” To illustrate this point, I told, in great
+                detail, of the day my grandmother turned sixty-five.
               kind: prose
               cls: IST_Body-Indent
-              UID: MIN325.5.2.1.P.23
+              UID: MIN325.5.2.1.P.23.1
               page: 70
+              source_uid: MIN325.5.2.1.P.23
             - p: 14
               text: This was the one birthday she had looked forward to for years.
                 It meant retirement. It meant the long-promised sports car from grandpa.
@@ -25900,6 +26077,19 @@ courses:
                 people laugh and cry. d)\texplain the main points in memorable ways."
               status: outdated 2026-07-02
               outdated_reason: re-parsed
+            - p: 13
+              text: Illustrations such as stories, quotes, or demonstrations help
+                to further explain the main point in a memorable way. The third point
+                in a sermon I preached on Leah and Rachel from Genesis 29 and 30 was,
+                “God remembers us.” To illustrate this point, I told, in great detail,
+                of the day my grandmother turned sixty-five.
+              kind: prose
+              cls: IST_Body-Indent
+              UID: MIN325.5.2.1.P.23
+              page: 70
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN325.5.2.1.P.23.1
             citations:
             - citekey: johnston2001
               pandoc: '[@johnston2001, 151]'
@@ -25922,7 +26112,7 @@ courses:
               - ref: Genesis 29
                 key: genesis.29
                 bib_gate: https://www.biblegateway.com/passage/?search=Genesis%2029&version=NIV
-              paragraph: MIN325.5.2.1.P.23
+              paragraph: MIN325.5.2.1.P.23.1
               UID: MIN325.5.2.1.S.1
               status: outdated 2026-08-25
               outdated_reason: re-parsed
@@ -26163,13 +26353,14 @@ courses:
             - p: 13
               text: Illustrations such as stories, quotes, or demonstrations help
                 to further explain the main point in a memorable way. The third point
-                in a sermon I preached on Leah and Rachel from Genesis 29 and 30 was,
-                “God remembers us.” To illustrate this point, I told, in great detail,
-                of the day my grandmother turned sixty-five.
+                in a sermon I preached on Leah and Rachel from Genesis 29 and Genesis
+                30 was, “God remembers us.” To illustrate this point, I told, in great
+                detail, of the day my grandmother turned sixty-five.
               kind: prose
               cls: IST_Body-Indent
-              UID: MIN325.5.2.2.P.23
+              UID: MIN325.5.2.2.P.23.1
               page: 70
+              source_uid: MIN325.5.2.2.P.23
             - p: 14
               text: This was the one birthday she had looked forward to for years.
                 It meant retirement. It meant the long-promised sports car from grandpa.
@@ -27275,6 +27466,19 @@ courses:
                 people laugh and cry. d)\texplain the main points in memorable ways."
               status: outdated 2026-07-02
               outdated_reason: re-parsed
+            - p: 13
+              text: Illustrations such as stories, quotes, or demonstrations help
+                to further explain the main point in a memorable way. The third point
+                in a sermon I preached on Leah and Rachel from Genesis 29 and 30 was,
+                “God remembers us.” To illustrate this point, I told, in great detail,
+                of the day my grandmother turned sixty-five.
+              kind: prose
+              cls: IST_Body-Indent
+              UID: MIN325.5.2.2.P.23
+              page: 70
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN325.5.2.2.P.23.1
             citations:
             - citekey: johnston2001
               pandoc: '[@johnston2001, 151]'
@@ -27297,7 +27501,7 @@ courses:
               - ref: Genesis 29
                 key: genesis.29
                 bib_gate: https://www.biblegateway.com/passage/?search=Genesis%2029&version=NIV
-              paragraph: MIN325.5.2.2.P.23
+              paragraph: MIN325.5.2.2.P.23.1
               UID: MIN325.5.2.2.S.1
               status: outdated 2026-08-25
               outdated_reason: re-parsed
@@ -27542,13 +27746,14 @@ courses:
             - p: 13
               text: Illustrations such as stories, quotes, or demonstrations help
                 to further explain the main point in a memorable way. The third point
-                in a sermon I preached on Leah and Rachel from Genesis 29 and 30 was,
-                “God remembers us.” To illustrate this point, I told, in great detail,
-                of the day my grandmother turned sixty-five.
+                in a sermon I preached on Leah and Rachel from Genesis 29 and Genesis
+                30 was, “God remembers us.” To illustrate this point, I told, in great
+                detail, of the day my grandmother turned sixty-five.
               kind: prose
               cls: IST_Body-Indent
-              UID: MIN325.5.2.3.P.23
+              UID: MIN325.5.2.3.P.23.1
               page: 70
+              source_uid: MIN325.5.2.3.P.23
             - p: 14
               text: This was the one birthday she had looked forward to for years.
                 It meant retirement. It meant the long-promised sports car from grandpa.
@@ -28654,6 +28859,19 @@ courses:
                 people laugh and cry. d)\texplain the main points in memorable ways."
               status: outdated 2026-07-02
               outdated_reason: re-parsed
+            - p: 13
+              text: Illustrations such as stories, quotes, or demonstrations help
+                to further explain the main point in a memorable way. The third point
+                in a sermon I preached on Leah and Rachel from Genesis 29 and 30 was,
+                “God remembers us.” To illustrate this point, I told, in great detail,
+                of the day my grandmother turned sixty-five.
+              kind: prose
+              cls: IST_Body-Indent
+              UID: MIN325.5.2.3.P.23
+              page: 70
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN325.5.2.3.P.23.1
             citations:
             - citekey: johnston2001
               pandoc: '[@johnston2001, 151]'
@@ -28676,7 +28894,7 @@ courses:
               - ref: Genesis 29
                 key: genesis.29
                 bib_gate: https://www.biblegateway.com/passage/?search=Genesis%2029&version=NIV
-              paragraph: MIN325.5.2.3.P.23
+              paragraph: MIN325.5.2.3.P.23.1
               UID: MIN325.5.2.3.S.1
               status: outdated 2026-08-25
               outdated_reason: re-parsed
@@ -28916,13 +29134,14 @@ courses:
             - p: 13
               text: Illustrations such as stories, quotes, or demonstrations help
                 to further explain the main point in a memorable way. The third point
-                in a sermon I preached on Leah and Rachel from Genesis 29 and 30 was,
-                “God remembers us.” To illustrate this point, I told, in great detail,
-                of the day my grandmother turned sixty-five.
+                in a sermon I preached on Leah and Rachel from Genesis 29 and Genesis
+                30 was, “God remembers us.” To illustrate this point, I told, in great
+                detail, of the day my grandmother turned sixty-five.
               kind: prose
               cls: IST_Body-Indent
-              UID: MIN325.5.2.4.P.23
+              UID: MIN325.5.2.4.P.23.1
               page: 70
+              source_uid: MIN325.5.2.4.P.23
             - p: 14
               text: This was the one birthday she had looked forward to for years.
                 It meant retirement. It meant the long-promised sports car from grandpa.
@@ -30028,6 +30247,19 @@ courses:
                 people laugh and cry. d)\texplain the main points in memorable ways."
               status: outdated 2026-07-02
               outdated_reason: re-parsed
+            - p: 13
+              text: Illustrations such as stories, quotes, or demonstrations help
+                to further explain the main point in a memorable way. The third point
+                in a sermon I preached on Leah and Rachel from Genesis 29 and 30 was,
+                “God remembers us.” To illustrate this point, I told, in great detail,
+                of the day my grandmother turned sixty-five.
+              kind: prose
+              cls: IST_Body-Indent
+              UID: MIN325.5.2.4.P.23
+              page: 70
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN325.5.2.4.P.23.1
             citations:
             - citekey: johnston2001
               pandoc: '[@johnston2001, 151]'
@@ -30050,7 +30282,7 @@ courses:
               - ref: Genesis 29
                 key: genesis.29
                 bib_gate: https://www.biblegateway.com/passage/?search=Genesis%2029&version=NIV
-              paragraph: MIN325.5.2.4.P.23
+              paragraph: MIN325.5.2.4.P.23.1
               UID: MIN325.5.2.4.S.1
               status: outdated 2026-08-25
               outdated_reason: re-parsed
@@ -37851,9 +38083,9 @@ courses:
             - p: 10
               text: In their book Growing Spiritual Redwoods , Bill Easum and Tom
                 Bandy state, “If you say it all with words, you have missed the point”
-                (Easum and Bandy, 1997). Visual imagery and the use of multimedia
-                is the primary language of the day and is thus the most effective
-                way to communicate to a visually oriented generation. High-tech worship
+                (Easum and Bandy 1997). Visual imagery and the use of multimedia is
+                the primary language of the day and is thus the most effective way
+                to communicate to a visually oriented generation. High-tech worship
                 is the “stained glass, and the cross, for the electronic media age
                 . . . constantly transposing new imagery before us. Icons were the
                 Bible for the illiterate, and the screen is the Bible for the post-literate”
@@ -37862,24 +38094,24 @@ courses:
               cls: IST_Body-Indent
               md: In their book *Growing Spiritual Redwoods*, Bill Easum and Tom Bandy
                 state, “If you say it all with words, you have missed the point” (Easum
-                and Bandy, 1997). Visual imagery and the use of multimedia is the
-                primary language of the day and is thus the most effective way to
-                communicate to a visually oriented generation. **High-tech worship**
-                is the “stained glass, and the cross, for the electronic media age
-                . . . constantly transposing new imagery before us. Icons were the
-                Bible for the illiterate, and the screen is the Bible for the post-literate”
-                (Schultze 2004).
-              UID: MIN325.8.2.1.P.11.1
-              source_uid: MIN325.8.2.1.P.11
+                and Bandy 1997). Visual imagery and the use of multimedia is the primary
+                language of the day and is thus the most effective way to communicate
+                to a visually oriented generation. **High-tech worship** is the “stained
+                glass, and the cross, for the electronic media age . . . constantly
+                transposing new imagery before us. Icons were the Bible for the illiterate,
+                and the screen is the Bible for the post-literate” (Schultze 2004).
+              UID: MIN325.8.2.1.P.11.2
+              source_uid: MIN325.8.2.1.P.11.1
             - p: 11
               text: Following are three examples of how to implement effective high-tech
                 worship elements.
               kind: prose
               cls: IST_Body-Indent
-              md: Following are three examples of how to implement effective **high-tech
-                worship** elements.
-              UID: MIN325.8.2.1.P.30
+              md: Following are three examples of how to implement effective high-tech
+                worship elements.
+              UID: MIN325.8.2.1.P.30.1
               page: 109
+              source_uid: MIN325.8.2.1.P.30
             - p: 12
               text: Implementing High-Tech Worship
               kind: heading
@@ -38402,6 +38634,44 @@ courses:
                 working of the Holy Spirit."
               status: outdated 2026-07-02
               outdated_reason: re-parsed
+            - p: 10
+              text: In their book Growing Spiritual Redwoods , Bill Easum and Tom
+                Bandy state, “If you say it all with words, you have missed the point”
+                (Easum and Bandy, 1997). Visual imagery and the use of multimedia
+                is the primary language of the day and is thus the most effective
+                way to communicate to a visually oriented generation. High-tech worship
+                is the “stained glass, and the cross, for the electronic media age
+                . . . constantly transposing new imagery before us. Icons were the
+                Bible for the illiterate, and the screen is the Bible for the post-literate”
+                (Schultze 2004).
+              kind: prose
+              cls: IST_Body-Indent
+              md: In their book *Growing Spiritual Redwoods*, Bill Easum and Tom Bandy
+                state, “If you say it all with words, you have missed the point” (Easum
+                and Bandy, 1997). Visual imagery and the use of multimedia is the
+                primary language of the day and is thus the most effective way to
+                communicate to a visually oriented generation. **High-tech worship**
+                is the “stained glass, and the cross, for the electronic media age
+                . . . constantly transposing new imagery before us. Icons were the
+                Bible for the illiterate, and the screen is the Bible for the post-literate”
+                (Schultze 2004).
+              UID: MIN325.8.2.1.P.11.1
+              source_uid: MIN325.8.2.1.P.11
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN325.8.2.1.P.11.2
+            - p: 11
+              text: Following are three examples of how to implement effective high-tech
+                worship elements.
+              kind: prose
+              cls: IST_Body-Indent
+              md: Following are three examples of how to implement effective **high-tech
+                worship** elements.
+              UID: MIN325.8.2.1.P.30
+              page: 109
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN325.8.2.1.P.30.1
             citations:
             - citekey: gibson2004b
               pandoc: '[@gibson2004b]'
@@ -38411,7 +38681,7 @@ courses:
             - citekey: schultze2004
               pandoc: '[@schultze2004]'
               intext: (Schultze 2004)
-              paragraph: MIN325.8.2.1.P.11.1
+              paragraph: MIN325.8.2.1.P.11.2
               UID: MIN325.8.2.1.C.3
             - citekey: wilson2002
               pandoc: '[@wilson2002, 34]'
@@ -38670,10 +38940,11 @@ courses:
                 worship elements.
               kind: prose
               cls: IST_Body-Indent
-              md: Following are three examples of how to implement effective **high-tech
-                worship** elements.
-              UID: MIN325.8.2.2.P.27
+              md: Following are three examples of how to implement effective high-tech
+                worship elements.
+              UID: MIN325.8.2.2.P.27.1
               page: 109
+              source_uid: MIN325.8.2.2.P.27
             - p: 12
               text: Implementing High-Tech Worship
               kind: heading
@@ -39048,6 +39319,18 @@ courses:
               page: 94
               status: outdated 2026-08-25
               outdated_reason: re-parsed
+            - p: 11
+              text: Following are three examples of how to implement effective high-tech
+                worship elements.
+              kind: prose
+              cls: IST_Body-Indent
+              md: Following are three examples of how to implement effective **high-tech
+                worship** elements.
+              UID: MIN325.8.2.2.P.27
+              page: 109
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN325.8.2.2.P.27.1
             interactive_questions:
             - p: 5
               text: What are some of the most influential digital platforms that you
@@ -41460,11 +41743,11 @@ courses:
                 law was framed and passed down to future generations through the compelling
                 use of story. God knew that humans intuitively and innately understand
                 stories in a manner different from the way they understand the propositions
-                of logic (Wilson and More, 2002).'
+                of logic (Wilson and More 2002).'
               kind: prose
               cls: IST_Body-Indent
-              UID: MIN325.9.1.3.P.12.1
-              source_uid: MIN325.9.1.3.P.12
+              UID: MIN325.9.1.3.P.12.2
+              source_uid: MIN325.9.1.3.P.12.1
             - p: 4
               text: Indicate how narrative preaching differs from propositional style
                 preaching.
@@ -42296,6 +42579,30 @@ courses:
                 why narrative preaching connects best to today’s postmodern culture.
               status: outdated 2026-07-02
               outdated_reason: re-parsed
+            - p: 3
+              text: 'Thankfully, God revealed himself to humanity primarily in the
+                style of storytelling. God ultimately revealed himself through a man,
+                Jesus Christ, and a book, the Bible. Both revelations go beyond facts
+                and connect truth within the context of story. This story tells of
+                God’s love for the lost and how He wants to redeem humanity. Think
+                about this: Even before God gave Israel the law and principles to
+                live by, He said, “I am the Lord your God, who brought you out of
+                Egypt, out of the land of slavery” (Exodus 20:2). Immediately, God
+                gave Israel a flashback in the form of a history lesson and reminded
+                them through this snapshot of story that He first delivered them and
+                accepted them into His family prior to giving them the facts of how
+                to live life. Even something as seemingly dry as the writing of the
+                law was framed and passed down to future generations through the compelling
+                use of story. God knew that humans intuitively and innately understand
+                stories in a manner different from the way they understand the propositions
+                of logic (Wilson and More, 2002).'
+              kind: prose
+              cls: IST_Body-Indent
+              UID: MIN325.9.1.3.P.12.1
+              source_uid: MIN325.9.1.3.P.12
+              status: outdated 2026-10-20
+              outdated_reason: revised
+              replaced_by: MIN325.9.1.3.P.12.2
             citations:
             - citekey: miller2003
               pandoc: '[@miller2003]'
@@ -42345,7 +42652,7 @@ courses:
               - ref: Exodus 20:2
                 key: exodus.20.2
                 bib_gate: https://www.biblegateway.com/passage/?search=Exodus%2020%3A2&version=NIV
-              paragraph: MIN325.9.1.3.P.12.1
+              paragraph: MIN325.9.1.3.P.12.2
               UID: MIN325.9.1.3.S.2
             - intext: John 16:13
               version: NIV
