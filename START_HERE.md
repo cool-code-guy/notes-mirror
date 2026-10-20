@@ -1312,7 +1312,7 @@ Level 3 · 13 chapters · 36 lessons · 123 subobjectives
 
 **1 - Creation (Genesis 1–2)**
 - Book of Genesis (1.1.1, 1.1.2, 1.1.3)
-- Creation of the World (Genesis 1–2:3) (1.2.1, 1.2.2, 1.2.3)
+- Creation of the World (Genesis 1:1–2:3) (1.2.1, 1.2.2, 1.2.3)
 - Creation of Humans (Genesis 1:26–28; 2) (1.3.1, 1.3.2, 1.3.3, 1.3.4, 1.3.5)
 
 **2 - The Fall and the Flood (Genesis 3–11)**
@@ -1320,18 +1320,18 @@ Level 3 · 13 chapters · 36 lessons · 123 subobjectives
 - The Flood (Genesis 6–9) (2.2.1, 2.2.2, 2.2.3, 2.2.4)
 - After the Flood (Genesis 10–11) (2.3.1, 2.3.2, 2.3.3)
 
-**3 - Abraham—God’s Promise (Genesis 12–25)**
+**3 - Abraham—God’s Promise (Genesis 12:1–25:11)**
 - Call and Promise (Genesis 12–15) (3.1.1, 3.1.2, 3.1.3, 3.1.4, 3.1.5)
 - Covenant and Promise Clarified (Genesis 16–19) (3.2.1, 3.2.2, 3.2.3, 3.2.4)
-- Now / Not Yet Fulfillment of the Promise (Genesis 20–25:11) (3.3.1, 3.3.2, 3.3.3, 3.3.4)
+- Now / Not Yet Fulfillment of the Promise (Genesis 20:1–25:11) (3.3.1, 3.3.2, 3.3.3, 3.3.4)
 
-**4 - Jacob and Joseph—Continuing the Promise(Genesis 25–50)**
+**4 - Jacob and Joseph—Continuing the Promise (Genesis 25–50)**
 - Isaac’s and Jacob’s Stories (Genesis 25:19–36:43) (4.1.1, 4.1.2, 4.1.3, 4.1.4)
 - Joseph’s Story (Genesis 37–50) (4.2.1, 4.2.2, 4.2.3, 4.2.4)
 
 **5 - The Exodus and Journey to Sinai (Exodus 1–18)**
 - Preparation for the Exodus (Exodus 1–10) (5.1.1, 5.1.2, 5.1.3, 5.1.4)
-- The Passover and the Exodus (Exodus 11–15:21) (5.2.1, 5.2.2)
+- The Passover and the Exodus (Exodus 11:1–15:21) (5.2.1, 5.2.2)
 - The Journey to Sinai (Exodus 15:22–18:27) (5.3.1, 5.3.2, 5.3.3)
 
 **6 - The Covenant at Sinai (Exodus 19–24)**
@@ -1339,8 +1339,8 @@ Level 3 · 13 chapters · 36 lessons · 123 subobjectives
 - The Ten Commandments (Exodus 20) (6.2.1, 6.2.2, 6.2.3, 6.2.4)
 - The First Biblical Collection of Laws (Exodus 21–23) (6.3.1, 6.3.2, 6.3.3)
 
-**7 - The Tabernacle and theGolden Calf Apostasy (Exodus 25–40)**
-- Losing or Valuing God’s Presence (Exodus 32–34) (7.1.1, 7.1.2)
+**7 - The Tabernacle and the Golden Calf Apostasy (Exodus 25–40)**
+- Valuing or Losing God’s Presence (Exodus 32–34) (7.1.1, 7.1.2)
 - Establishing the Place of God’s Presence (Exodus 25–31; 35–40) (7.2.1, 7.2.2)
 
 **8 - Approaching the Holy God (Leviticus 1–16)**
@@ -1353,7 +1353,7 @@ Level 3 · 13 chapters · 36 lessons · 123 subobjectives
 - Sanctification of Attitudes and Practices (Leviticus 19) (9.2.1, 9.2.2)
 - Sanctification of the Means and Symbols of Relationship with God (Leviticus 21–27) (9.3.1, 9.3.2, 9.3.3, 9.3.4, 9.3.5, 9.3.6)
 
-**10 - Preparing for the Journey (Numbers 1–20:13)**
+**10 - Preparing for the Journey (Numbers 1:1–20:13)**
 - Life in God’s Presence (Numbers 1–4) (10.1.1)
 - Holiness, Dedication, and Communication (Numbers 5:1–10:10) (10.2.1, 10.2.2, 10.2.3)
 - God Answers Challenges (Numbers 11) (10.3.1)
@@ -1363,11 +1363,11 @@ Level 3 · 13 chapters · 36 lessons · 123 subobjectives
 - Facing Opposition God’s Way (Numbers 20:14–25:18; 31) (11.1.1, 11.1.2, 11.1.3, 11.1.4)
 - Preparing to Inherit (Numbers 26–36) (11.2.1, 11.2.2, 11.2.3, 11.2.4)
 
-**12 - Covenantal Perspectives and Commandments 1–4(Deuteronomy 1:1–16:17)**
+**12 - Covenantal Perspectives and Commandments 1–4 (Deuteronomy 1:1–16:17)**
 - History and Principles of Covenantal Relationships (Deuteronomy 1–11) (12.1.1, 12.1.2, 12.1.3, 12.1.4, 12.1.5, 12.1.6)
-- Applying Commandments 1–4 (Deuteronomy 12– 16:17) (12.2.1, 12.2.2)
+- Applying Commandments 1–4 (Deuteronomy 12:1–16:17) (12.2.1, 12.2.2)
 
-**13 - Commandments 5–10 (Deuteronomy 16:18–34:12)and Conclusion**
+**13 - Commandments 5–10 (Deuteronomy 16:18–34:12) and Conclusion**
 - Applying Commandments 5–6 (Deuteronomy 16:18–21:23) (13.1.1, 13.1.2)
 - Applying Commandments 7–10 (Deuteronomy 22–26) (13.2.1, 13.2.2, 13.2.3)
 - Accountability (Deuteronomy 27–30) and the Future (Deuteronomy 31–34) (13.3.1, 13.3.2, 13.3.3)
