@@ -28,7 +28,7 @@ Level 1 · 15 chapters · 47 lessons · 84 subobjectives
 - 7. Comment on key leaders and prophets of each period from Abraham to Malachi.
 - 8. Summarize and apply two cross-cultural, timeless principles from each book of the Old Testament.
 
-**1 - Treasures from the Old Testament**
+**1 - Treasures of the Old Testament**
 - The Old Testament (1.1.1, 1.1.2)
 - The Beginnings (Genesis 1–11) (1.2.1, 1.2.2, 1.2.3)
 
@@ -69,7 +69,7 @@ Level 1 · 15 chapters · 47 lessons · 84 subobjectives
 - Psalms: Israel’s Hymnbook and Prayer Book (8.2.1, 8.2.2, 8.2.3)
 - Psalms: Categories of Psalms (8.3.1)
 
-**9 - Divine Appeals to Humanity(Proverbs, Ecclesiastes, Song of Songs)**
+**9 - Divine Appeals to Humanity (Proverbs, Ecclesiastes, Song of Songs)**
 - Proverbs (9.1.1, 9.1.2)
 - Ecclesiastes (9.2.1, 9.2.2)
 - Song of Songs (9.3.1, 9.3.2)
@@ -84,7 +84,7 @@ Level 1 · 15 chapters · 47 lessons · 84 subobjectives
 - Isaiah: The Prophet of the Messiah (11.2.1, 11.2.2)
 - Micah: The Prophet of Judgment and Mercy (11.3.1)
 
-**12 - The Preexilic Prophets(Nahum, Habakkuk, Zephaniah, Obadiah, Jeremiah)**
+**12 - The Preexilic Prophets (Nahum, Habakkuk, Zephaniah, Obadiah, Jeremiah)**
 - Nahum: The Prophet of Nineveh’s Fall (12.1.1)
 - Habakkuk: The Prophet of Faith (12.2.1, 12.2.2)
 - Zephaniah: The Prophet of the Day of the Lord (12.3.1)
