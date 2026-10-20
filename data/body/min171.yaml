@@ -13333,15 +13333,6 @@ courses:
               UID: MIN171.7.1.1.P.11
               page: 82
             - p: 13
-              text: 'Interactive Question #2 : Why is it important to assess current
-                reality and review a church’s plans for the future?'
-              kind: prose
-              cls: _Body-Indent
-              md: '**Interactive Question #2**: Why is it important to assess current
-                reality and <br/>review a church’s plans for the future?'
-              UID: MIN171.7.1.1.P.12
-              page: 87
-            - p: 14
               text: The future success of our churches and the corporate church hinges
                 on our answers to these questions and many others. Our willingness
                 to be honest and unreserved in answering these assessment questions
@@ -13351,14 +13342,14 @@ courses:
               cls: _Body-Indent
               UID: MIN171.7.1.1.P.13
               page: 83
-            - p: 15
+            - p: 14
               text: Congregational Assessment
               kind: prose
               cls: _Body-Indent
               md: '**Congregational Assessment**'
               UID: MIN171.7.1.1.P.14
               page: 219
-            - p: 16
+            - p: 15
               text: When I began leading pastors, God inspired me to equip and encourage
                 them and their churches in a specific way. We developed a survey for
                 our pastors, and we identified eight needs they had. I built a curriculum
@@ -13370,7 +13361,7 @@ courses:
               cls: _Body-Indent
               UID: MIN171.7.1.1.P.15
               page: 83
-            - p: 17
+            - p: 16
               text: In Chapter 17 of this book you will find a number of tools, assessments,
                 and other resources that have been developed from the Acts 2 Journey.
                 These will be used in a step by step process in which senior pastors
@@ -13383,7 +13374,7 @@ courses:
               cls: _Body-Indent
               UID: MIN171.7.1.1.P.16
               page: 83
-            - p: 18
+            - p: 17
               text: The congregational assessment will help you “take the temperature”
                 of your leaders, and perhaps, each team of leaders in your church.
                 With the information you derive, you and your leaders will be able
@@ -13406,6 +13397,17 @@ courses:
                 additional resources as you work through this process.
               UID: MIN171.7.1.1.P.17
               page: 83
+            - p: 13
+              text: 'Interactive Question #2 : Why is it important to assess current
+                reality and review a church’s plans for the future?'
+              kind: prose
+              cls: _Body-Indent
+              md: '**Interactive Question #2**: Why is it important to assess current
+                reality and <br/>review a church’s plans for the future?'
+              UID: MIN171.7.1.1.P.12
+              page: 87
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
             interactive_questions:
             - p: 1
               text: Describe the need for an assessment as a starting point for church
@@ -13415,6 +13417,15 @@ courses:
                 to fulfill our intended mission.
               after_body_index: 7
               UID: MIN171.7.1.1.IQ.1
+            - p: 2
+              text: Why is it important to assess current reality and review a church’s
+                plans for the future?
+              response: One can not draw a map to an intended future without knowing
+                the starting place of that journey. Then, reviewing current plans
+                to pursue that future must align with and start from our current reality
+                if forward movement is to become possible.
+              after_body_index: 12
+              UID: MIN171.7.1.1.IQ.3
             - p: 3
               text: Complete the Congregational Assessment on pages 219-221 for your
                 congregation. If you are a leader in your local church, consider this
@@ -13423,7 +13434,7 @@ courses:
                 tool will be beneficial whenever you do serve in such a role.
               response: Student will complete the Congregational Assessment on pages
                 219-221.
-              after_body_index: 17
+              after_body_index: 16
               UID: MIN171.7.1.1.IQ.2
             scripture:
             - intext: Acts 2
@@ -15406,15 +15417,6 @@ courses:
               UID: MIN171.10.2.1.P.23
               page: 114
             - p: 25
-              text: 'Interactive Question #7 : What types of things are often confused
-                with core values?'
-              kind: prose
-              cls: _Body-Indent
-              md: '**Interactive Question #7**: What types of things are often confused
-                with <br/>core values?'
-              UID: MIN171.10.2.1.P.24
-              page: 114
-            - p: 26
               text: Church practices communicate what we value but are not intrinsically
                 core values. Healthy churches are intentional about living true values
                 and making ministry adjustments to fit those values rather than making
@@ -15423,6 +15425,17 @@ courses:
               cls: _Body-Indent
               UID: MIN171.10.2.1.P.25
               page: 114
+            - p: 25
+              text: 'Interactive Question #7 : What types of things are often confused
+                with core values?'
+              kind: prose
+              cls: _Body-Indent
+              md: '**Interactive Question #7**: What types of things are often confused
+                with <br/>core values?'
+              UID: MIN171.10.2.1.P.24
+              page: 114
+              status: outdated 2026-10-20
+              outdated_reason: re-parsed
             interactive_questions:
             - p: 4
               text: What are the three exercises that form the genesis of a core values
@@ -15446,6 +15459,11 @@ courses:
               response: Core values show you the path forward to fulfill your vision.
               after_body_index: 17
               UID: MIN171.10.2.1.IQ.3
+            - p: 7
+              text: What types of things are often confused with core values?
+              response: Some confuse values with ministry models, programs, or traditions.
+              after_body_index: 24
+              UID: MIN171.10.2.1.IQ.4
       - last_modified: '2026-03-27'
         title: Core Values vs. Personal Preference
         subobjectives:
