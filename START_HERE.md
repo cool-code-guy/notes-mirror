@@ -3341,34 +3341,34 @@ Level 1 · 14 chapters · 57 lessons · 130 subobjectives
 - 11. Identify the Assemblies of God’s historical emphasis on the ministry of the Holy Spirit: baptism and gifts.
 - 12. Analyze and apply lessons and biblical principles learned from this course to life and ministry.
 
-**1**
+**1 - Prelude: Before the Pentecostal Revival**
 - American Life and the Church in the 1800s (1.1.1, 1.1.2, 1.1.3)
 - Defending the Faith and Preparing the Soil: Restorationism (1.2.1, 1.2.2, 1.2.3, 1.2.4)
 
-**2**
+**2 - Winds of Revival in America: Topeka, Azusa, and Beyond**
 - Charles Fox Parham (1873–1929): Father of Modern-day Pentecostalism (2.1.1, 2.1.2, 2.1.3, 2.1.4, 2.1.5)
 - William J. Seymour (1870–1922) and the Azusa Street Revival (2.2.1, 2.2.2, 2.2.3, 2.2.4)
 
-**3**
+**3 - Pentecostal Mission**
 - The Pentecostal Movement (3.1.1)
 - Pentecostal Methods (3.2.1, 3.2.2, 3.2.3)
 - The Pentecostal Mindset (3.3.1, 3.3.2, 3.3.3)
 - The Pentecostal Message (3.4.1, 3.4.2)
 
-**4**
+**4 - The Call to Organize**
 - The Need to Organize (4.1.1, 4.1.2)
 - Key Architects (4.2.1, 4.2.2)
 - The Call (4.3.1, 4.3.2)
 - Hot Springs Gathering: The Assemblies of God Is Born (4.4.1, 4.4.2, 4.4.3, 4.4.4)
 
-**5**
+**5 - Defining Doctrines of the Assemblies of God**
 - Four Core Beliefs (5.1.1)
 - Sanctification: A Finished Work (5.2.1)
 - God: The Trinity (5.3.1)
 - Sixteen Fundamental Truths (5.4.1)
 - Tongues: The Initial Physical Evidence (5.5.1)
 
-**6**
+**6 - The Pattern and Practice of Assemblies of God Missions**
 - In the Beginning (6.1.1)
 - Establishing a Theology of Missions (6.2.1)
 - Shapers and Champions of AG Missions (6.3.1, 6.3.2, 6.3.3, 6.3.4)
@@ -3378,24 +3378,24 @@ Level 1 · 14 chapters · 57 lessons · 130 subobjectives
 - Missionary Support (6.7.1, 6.7.TY)
 - The Pattern and Practice of Assemblies of God U.S. Missions (6.8.1, 6.8.2)
 
-**7**
+**7 - Training for Ministry**
 - Assemblies of God Education from the Beginning (7.1.1, 7.1.2)
 - Classes and Courses of AG Schools (7.2.1, 7.2.2, 7.2.3, 7.2.4, 7.2.5, 7.2.6, 7.2.7)
 - The Path for the Future (7.3.1)
 
-**8**
+**8 - Women’s Contribution to the Assemblies of God**
 - God’s Servants: Men and Women Alike (8.1.1)
 - Historical Tensions: Opportunities and Opposition (8.2.1, 8.2.2)
 - Developing an Understanding of the Bible’s Teaching on Women in Ministry (8.3.1, 8.3.2, 8.3.3)
 - Service with Distinction: Past and Present (8.4.1)
 - Leading the Way to the Future (8.5.1)
 
-**9**
+**9 - Uniters and Dividers**
 - Rejection and Isolation (9.1.1, 9.1.2, 9.1.3)
 - Bridging the Divide: Associations (9.2.1, 9.2.2, 9.2.3, 9.2.4, 9.2.5, 9.2.6, 9.2.7, 9.2.8)
 - Uniters and Dividers: New Revival Movements (9.3.1, 9.3.2, 9.3.3, 9.3.4)
 
-**10**
+**10 - Racial Reconciliation: From Hot Springs to Memphis and Beyond**
 - A Complicated History (10.1.1)
 - The Door to Racial Unity Slammed Shut (10.2.1)
 - Knocking Until the Doors Open (10.3.1)
@@ -3404,23 +3404,23 @@ Level 1 · 14 chapters · 57 lessons · 130 subobjectives
 - Beyond Memphis: The Memphis Mandate (10.6.1, 10.6.2)
 - The Individual Mandate (10.7.1)
 
-**11**
+**11 - Transformation**
 - Ethnic Transformation (11.1.1, 11.1.2)
 - Technological Transformation (11.2.1)
 - Transformation of Purpose (11.3.1)
 
-**12**
+**12 - Revitalization**
 - Revitalizing Core Principles: AGTrust (12.1.1)
 - Revitalizing Communities: The Church Multiplication Network (12.2.1, 12.2.2)
 - Revitalizing Churches: The Acts 2 Journey (12.3.1)
 - Revitalizing Christians: The Bible Engagement Project (12.4.1)
 
-**13**
+**13 - The General Council Constitution**
 - The Constitution’s Foundation (13.1.1, 13.1.2)
 - The Fellowship’s Spiritual Foundation (13.2.1, 13.2.2)
 - The Structural Foundation (13.3.1, 13.3.2, 13.3.3)
 
-**14**
+**14 - The General Council Bylaws**
 - The General Council's Executive Leadership (14.1.1, 14.1.2)
 - District Councils and Local Assemblies (14.2.1, 14.2.2, 14.2.3)
 - The Ministry: Qualifications, Procedures, and Principles (14.3.1, 14.3.2, 14.3.3, 14.3.4, 14.3.5)
