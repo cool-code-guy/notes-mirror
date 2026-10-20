@@ -27624,13 +27624,17 @@ courses:
               status: outdated 2026-08-25
               outdated_reason: re-parsed
           5.2.3:
-            last_modified: '2026-08-25'
-            text: Define deductive preaching and inductive preaching .
+            last_modified: '2026-10-20'
+            text: Define "deductive preaching" and "inductive preaching."
             glossary: []
             text_history:
             - text: Define deductive preaching and inductive preaching.
               outdated: '2026-08-25'
               outdated_reason: re-parsed
+              change: substantive
+            - text: Define deductive preaching and inductive preaching .
+              outdated: '2026-10-20'
+              outdated_reason: revised
               change: substantive
             body:
             - p: 1
