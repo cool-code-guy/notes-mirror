@@ -106,7 +106,7 @@ Published sequence toward Ordained Minister credentialing.
 | [MIN171](courses/MIN171.md) | Spirit-Empowered Church | 1 | 02.26.02 | 17 | 43 | 327 |
 | [MIN171S](courses/MIN171S.md) | Una Iglesia en el Poder del Espíritu |  | 02.26.01 | 17 | 43 | 325 |
 | [MIN181S](courses/MIN181S.md) | Relaciones interpersonales y la ética en el ministerio |  | 02.22.01 | 15 | 44 | 250 |
-| [MIN183](courses/MIN183.md) | Relationships & Ethics in Ministry | 1 | 01.26.03 | 12 | 58 | 301 |
+| [MIN183](courses/MIN183.md) | Relationships & Ethics in Ministry | 1 | 01.26.03 | 12 | 59 | 301 |
 | [MIN183S](courses/MIN183S.md) | Relaciones y ética en el ministerio |  | 01.26.01 | 12 | 58 | 218 |
 | [MIN223](courses/MIN223.md) | Introduction to Homiletics | 2 | 03.22.01 | 14 | 45 | 339 |
 | [MIN223S](courses/MIN223S.md) | Introducción a la homilética |  | 02.22.01 | 14 | 44 | 215 |

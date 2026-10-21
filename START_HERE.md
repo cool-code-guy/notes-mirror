@@ -1904,7 +1904,7 @@ Level n/a · 15 chapters · 44 lessons · 82 subobjectives
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/MIN183.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/MIN183.html)
 
-Level 1 · 12 chapters · 58 lessons · 73 subobjectives
+Level 1 · 12 chapters · 59 lessons · 74 subobjectives
 
 - 1. Explain the biblical foundations for ministerial ethics.
 - 2. Describe the areas of a minister’s personal life that must be strengthened to ensure long-term ministry and avoid moral transgression.
@@ -1969,7 +1969,8 @@ Level 1 · 12 chapters · 58 lessons · 73 subobjectives
 - Being a Good Teammate (8.1.1)
 - Normalizing Men and Women Serving Together (8.2.1)
 - Treating Your Ministry Leader with Respect (8.3.1)
-- Your Relationship with Neighboring Churches (8.5.1)
+- Your Relationship with Neighboring Churches (8.4.1)
+- Exercising Matthew 18 Principles and Ministerial Courtesy (8.5.1)
 
 **9 - The Minister and the Community**
 - Voluntary Cooperative Fellowship (9.1.1, 9.1.2, 9.1.3, 9.1.4)
