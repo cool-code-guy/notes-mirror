@@ -1904,7 +1904,7 @@ Level n/a · 15 chapters · 44 lessons · 82 subobjectives
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/MIN183.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/MIN183.html)
 
-Level 1 · 12 chapters · 58 lessons · 72 subobjectives
+Level 1 · 12 chapters · 58 lessons · 73 subobjectives
 
 - 1. Explain the biblical foundations for ministerial ethics.
 - 2. Describe the areas of a minister’s personal life that must be strengthened to ensure long-term ministry and avoid moral transgression.
@@ -1918,7 +1918,7 @@ Level 1 · 12 chapters · 58 lessons · 72 subobjectives
 - 10. Identify how a twenty-first century minister can maintain proper boundaries in digital communications and social media.
 - 11. Describe a process for making ethical decisions.
 
-**1**
+**1 - Foundations for Ministerial Ethics**
 - A Basic Understanding of Ethical Systems (1.1.1)
 - The Biblical Foundation for Ministerial Ethics (1.2.1)
 - Guarding the Gospel Message (1.3.1)
@@ -1926,18 +1926,18 @@ Level 1 · 12 chapters · 58 lessons · 72 subobjectives
 - Shepherding the Flock of God (1.5.1)
 - Qualifications for Ministry Leadership (1.6.1)
 
-**2**
+**2 - A Process for Ethical Decision-Making**
 - Different Types of Ethical Issues (2.1.1, 2.1.2)
 - A Process for Making Ethical Decisions (2.2.1, 2.2.2)
 
-**3**
+**3 - The Minister’s Personal Life**
 - Keeping Your Spiritual Tank Filled (3.1.1)
 - Keeping Your Physical Tank Filled (3.2.1)
 - Keeping Your Emotional and Mental Health Tank Filled (3.3.1)
 - Keeping Your Intellectual Tank Filled (3.4.1)
 - The Enemy of Our Souls (3.5.1)
 
-**4**
+**4 - Stewarding Power**
 - Origins of Power (4.1.1)
 - Good Leadership (4.2.1)
 - Spiritually Abusive Practices (4.3.1)
@@ -1946,37 +1946,37 @@ Level 1 · 12 chapters · 58 lessons · 72 subobjectives
 - Avoiding Spiritually Abusive Practices (4.6.1)
 - Leaving an Abusive Environment (4.7.1)
 
-**5**
+**5 - Maintaining Healthy Perspective and Boundaries in Sexual Matters**
 - The Problem of Clergy Sexual Abuse (5.1.1, 5.1.2, 5.1.3)
 - What Constitutes Clergy Sexual Misconduct (5.2.1, 5.2.2, 5.2.3)
 - Establishing Healthy Boundaries (5.3.1, 5.3.2, 5.3.3)
 - Resisting Sexual Temptation (5.4.1)
 - Biblical Sexuality (5.5.1)
 
-**6**
+**6 - Stewarding Finances**
 - Tithing and Taxes (6.1.1)
 - Living Within Your Means (6.2.1)
 - Gambling (6.3.1)
 - Preparation for the Future (6.4.1)
 - A Minister’s Ethical Duty Regarding Ministry Finances (6.5.1)
 
-**7**
+**7 - The Minister’s Family**
 - Maintaining a Vibrant Marriage While in Ministry (7.1.1, 7.1.2, 7.1.3)
-- Parenting in Ministry: God’s Blueprint for the Home (7.2.1, 7.2.2)
+- Parenting in Ministry: God’s Blueprint for the Home (7.2.1, 7.2.2, 7.2.3)
 - Single Adults and Ministry Ethics (7.3.1)
 
-**8**
+**8 - Working Together in the Harvest Fields—Being a Good Teammate**
 - Being a Good Teammate (8.1.1)
 - Normalizing Men and Women Serving Together (8.2.1)
 - Treating Your Ministry Leader with Respect (8.3.1)
-- Exercising Matthew 18 Principles and Ministerial Courtesy (8.5.1)
+- Your Relationship with Neighboring Churches (8.5.1)
 
-**9**
+**9 - The Minister and the Community**
 - Voluntary Cooperative Fellowship (9.1.1, 9.1.2, 9.1.3, 9.1.4)
 - Active Participation and Loyalty in the Fellowship (9.2.1)
 - Accountability and Ministerial Discipline (9.3.1)
 
-**10**
+**10 - Practical Ministry Ethics**
 - Communicating the Message (10.1.1)
 - Pastoral Counseling (10.2.1)
 - Conducting Weddings and Funerals (10.3.1)
@@ -1984,7 +1984,7 @@ Level 1 · 12 chapters · 58 lessons · 72 subobjectives
 - Friendships in Ministry (10.5.1)
 - Ethics in Missions (10.6.1)
 
-**11**
+**11 - Exercising Wisdom in a Digital Age**
 - Technology as a Tool (11.1.1)
 - Healthy Communication Boundaries (11.2.1)
 - Social Media and the Minister (11.3.1)
@@ -1993,7 +1993,7 @@ Level 1 · 12 chapters · 58 lessons · 72 subobjectives
 - Legal Considerations (11.6.1)
 - Overarching Ethic: Navigating the Digital World with Integrity (11.7.1)
 
-**12**
+**12 - Church Administrative Systems**
 - Child Safety and Supervision (12.1.1)
 - Financial Integrity (12.2.1)
 - Governance Systems (12.3.1)

@@ -15,9 +15,9 @@ Active content only — retired material is excluded from every figure.
 | Active courses | 49 |
 | Retired courses | 9 |
 | Assessment items | 13,627 |
-| Curriculum paragraphs | 112,189 |
-| Interactive study questions | 10,544 |
-| Scripture references | 41,244 |
+| Curriculum paragraphs | 112,397 |
+| Interactive study questions | 10,547 |
+| Scripture references | 41,232 |
 | — distinct passages | 9,163 |
 | — biblical books referenced | 65 of 66 |
 | Distinct works cited | 1,233 |
