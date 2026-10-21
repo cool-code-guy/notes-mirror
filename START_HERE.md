@@ -1109,7 +1109,7 @@ Level 2 · 13 chapters · 40 lessons · 142 subobjectives
 - 5. Recount key issues addressed in the Prison Epistles, such as conflicts, false teaching, and church successes.
 - 6. Identify key Christian doctrines addressed by Paul, and describe how Paul develops these teachings.
 
-**1 - Introducing Colossians (1:1–14)**
+**1 - Introducing Colossians (Colossians 1:1–14)**
 - Introducing Paul’s Letter to the Colossians (1:1–14) (1.1.1, 1.1.2, 1.1.3, 1.1.4, 1.1.5)
 - Paul’s Reason for Giving Thanks (1:1–8) (1.2.1, 1.2.2, 1.2.3, 1.2.4, 1.2.5)
 - Paul’s Prayer of Intercession (1:9–14) (1.3.1, 1.3.2, 1.3.3)
@@ -1117,39 +1117,39 @@ Level 2 · 13 chapters · 40 lessons · 142 subobjectives
 **2 - Who Christ Is and What He Has Accomplished (Colossians 1:15–2:23)**
 - Jesus Christ: Supreme Creator, Sustainer, and Reconciler (1:15–23) (2.1.1, 2.1.2, 2.1.3, 2.1.4)
 - Paul’s Ministry and Message (1:24–2:5) (2.2.1, 2.2.2, 2.2.3, 2.2.4)
-- A Warning about False Teaching (2:6–23) (2.3.1, 2.3.2, 2.3.3, 2.3.4)
+- A Warning About False Teaching (2:6–23) (2.3.1, 2.3.2, 2.3.3, 2.3.4)
 
 **3 - How Christians Should Live (Colossians 3:1–4:18)**
 - Living the Christ-Life in Your Interpersonal Relationships (3:1–17) (3.1.1, 3.1.2, 3.1.3)
 - Living the Christ-Life at Home (3:18–4:1) (3.2.1, 3.2.2, 3.2.3, 3.2.4, 3.2.5, 3.2.6)
 - Closing Challenges, Observations, and Greetings (4:2–18) (3.3.1, 3.3.2, 3.3.3, 3.3.4)
 
-**4 - Introducing Philemon (Philemon vv. 1–25)**
+**4 - Introducing Philemon (Philemon 1:1–25)**
 - Understanding Philemon (vv. 1–25) (4.1.1, 4.1.2, 4.1.3)
 - Paul’s Appreciation of Philemon (vv. 1–7) (4.2.1, 4.2.2, 4.2.3)
 - Paul’s Appeal on Behalf of Onesimus (vv. 8–25) (4.3.1)
 
-**5 - Introducing Ephesians (1:1–23)**
+**5 - Introducing Ephesians (Ephesians 1:1–23)**
 - Introductory Matters (1:1–23) (5.1.1, 5.1.2, 5.1.3, 5.1.4, 5.1.5)
-- Praise for Every Spiritual Blessing In Christ (1:1–14) (5.2.1, 5.2.2, 5.2.3, 5.2.4, 5.2.5, 5.2.6, 5.2.7)
+- Praise for Every Spiritual Blessing in Christ (1:1–14) (5.2.1, 5.2.2, 5.2.3, 5.2.4, 5.2.5, 5.2.6, 5.2.7)
 - Paul’s Apostolic Prayer (1:15–23) (5.3.1, 5.3.2, 5.3.3)
 
 **6 - What God Has Accomplished in Christ (Ephesians 2:1–3:21)**
-- The Before and After of Those In Christ: Part 1 (2:1–10) (6.1.1, 6.1.2, 6.1.3)
-- The Before and After of Those In Christ: Part 2 (2:11–22) (6.2.1, 6.2.2, 6.2.3, 6.2.4)
+- The Before and After of Those in Christ, Part 1 (2:1–10) (6.1.1, 6.1.2, 6.1.3)
+- The Before and After of Those in Christ, Part 2 (2:11–22) (6.2.1, 6.2.2, 6.2.3, 6.2.4)
 - The Revelation of the Mystery of Christ (3:1–13) (6.3.1, 6.3.2, 6.3.3, 6.3.4)
 - Prayer and Doxology (3:14–21) (6.4.1, 6.4.2, 6.4.3, 6.4.4)
 
 **7 - Paul’s Appeal and God’s Goal: Christ Fully Expressed (Ephesians 4:1–5:21)**
-- Christ Fully Expressed through the Church (4:1–16) (7.1.1, 7.1.2, 7.1.3, 7.1.4)
-- Christ Fully Expressed in Our Personal Lives: Part 1 (4:17–32) (7.2.1, 7.2.2)
-- Christ Fully Expressed in Our Personal Lives: Part 2 (5:1–7) (7.3.1, 7.3.2, 7.3.3)
-- Christ Fully Expressed in Our Personal Lives: Part 3 (5:8–21) (7.4.1, 7.4.2, 7.4.3)
+- Christ Fully Expressed Through the Church (4:1–16) (7.1.1, 7.1.2, 7.1.3, 7.1.4)
+- Christ Fully Expressed in Our Personal Lives, Part 1 (4:17–32) (7.2.1, 7.2.2)
+- Christ Fully Expressed in Our Personal Lives, Part 2 (5:1–7) (7.3.1, 7.3.2, 7.3.3)
+- Christ Fully Expressed in Our Personal Lives, Part 3 (5:8–21) (7.4.1, 7.4.2, 7.4.3)
 
 **8 - Paul’s Appeal and God’s Goal: Christ Fully Expressed at Home and at Work (Ephesians 5:21–6:9)**
-- Christ Fully Expressed between Husband and Wife (5:21–33) (8.1.1, 8.1.2, 8.1.3, 8.1.4)
-- Christ Fully Expressed between Parents and Children (6:1–4) (8.2.1, 8.2.2, 8.2.3)
-- Christ Fully Expressed at Work through Masters and Servants (6:5–9) (8.3.1, 8.3.2, 8.3.3)
+- Christ Fully Expressed Between Husband and Wife (5:21–33) (8.1.1, 8.1.2, 8.1.3, 8.1.4)
+- Christ Fully Expressed Between Parents and Children (6:1–4) (8.2.1, 8.2.2, 8.2.3)
+- Christ Fully Expressed Between Masters and Servants (6:5–9) (8.3.1, 8.3.2, 8.3.3)
 
 **9 - A Final Charge to Those Who Are in Christ (Ephesians 6:10–24)**
 - The Fully Outfitted Christian Warrior (6:10–17) (9.1.1, 9.1.2, 9.1.3)
@@ -1171,8 +1171,8 @@ Level 2 · 13 chapters · 40 lessons · 142 subobjectives
 - An Appeal Supported by Paul’s Personal Testimony (3:4–16; 3:20–4:1) (12.3.1, 12.3.2, 12.3.3)
 
 **13 - Concluding Exhortations, Thanks, and Greeting (Philippians 4:2–23)**
-- Exhortations: To Unity, Reconciliation, Rejoicing, and Generosity (4:2–5) (13.1.1, 13.1.2, 13.1.3)
-- Exhortations: To Prayer and Positive Participation in Culture (4:6–9) (13.2.1, 13.2.2, 13.2.3)
+- Exhortations to Unity, Reconciliation, Rejoicing, and Generosity (4:2–5) (13.1.1, 13.1.2, 13.1.3)
+- Exhortation to Prayer and Positive Participation in Culture (4:6–9) (13.2.1, 13.2.2, 13.2.3)
 - Thanksgiving and Final Greetings (4:10–23) (13.3.1, 13.3.2, 13.3.3, 13.3.4, 13.3.5)
 
 ---
