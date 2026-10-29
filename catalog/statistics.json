@@ -83,7 +83,7 @@
     ],
     "total": 58
   },
-  "generated": "2026-10-21",
+  "generated": "2026-10-29",
   "per_course": {
     "BIB111": {
       "questions": {
@@ -106,8 +106,8 @@
     "BIB111S": {
       "questions": {
         "active": {
-          "final": 0,
-          "total": 274,
+          "final": 191,
+          "total": 465,
           "ty": 150,
           "upe": 124
         },
@@ -1140,8 +1140,8 @@
   },
   "questions": {
     "active": {
-      "final": 2769,
-      "total": 13627,
+      "final": 2960,
+      "total": 13818,
       "ty": 6314,
       "upe": 4544
     },
@@ -1151,6 +1151,6 @@
       "ty": 2115,
       "upe": 1561
     },
-    "total": 17883
+    "total": 18074
   }
 }

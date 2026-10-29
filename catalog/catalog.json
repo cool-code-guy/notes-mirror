@@ -1387,6 +1387,10 @@
             {
               "subobjectives": [
                 {
+                  "id": "15.3.1",
+                  "text": null
+                },
+                {
                   "id": "15.3.2",
                   "text": null
                 }
@@ -1403,11 +1407,11 @@
         "bibliography_entries": 0,
         "chapters": 15,
         "lessons": 47,
-        "questions_active": 274,
-        "questions_final": 0,
+        "questions_active": 465,
+        "questions_final": 191,
         "questions_ty": 150,
         "questions_upe": 124,
-        "subobjectives": 82
+        "subobjectives": 83
       },
       "course_objectives": [],
       "edition_pn": "01.26.01",
@@ -37122,8 +37126,8 @@
     },
     "questions": {
       "active": {
-        "final": 2769,
-        "total": 13627,
+        "final": 2960,
+        "total": 13818,
         "ty": 6314,
         "upe": 4544
       },
@@ -37133,7 +37137,7 @@
         "ty": 2115,
         "upe": 1561
       },
-      "total": 17883
+      "total": 18074
     }
   },
   "tracks": [

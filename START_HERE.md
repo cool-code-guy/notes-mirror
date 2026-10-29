@@ -111,7 +111,7 @@ Level 1 · 15 chapters · 47 lessons · 84 subobjectives
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/BIB111S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/BIB111S.html)
 
-Level n/a · 15 chapters · 47 lessons · 82 subobjectives
+Level n/a · 15 chapters · 47 lessons · 83 subobjectives
 
 **Chapter**
 - Lesson (1.1.1, 1.1.2)
@@ -188,7 +188,7 @@ Level n/a · 15 chapters · 47 lessons · 82 subobjectives
 **Chapter**
 - Lesson (15.1.1)
 - Lesson (15.2.1)
-- Lesson (15.3.2)
+- Lesson (15.3.1, 15.3.2)
 
 ---
 
