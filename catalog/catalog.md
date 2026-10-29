@@ -20,7 +20,7 @@ Active content only — retired material is excluded from every figure.
 | Scripture references | 41,233 |
 | — distinct passages | 9,163 |
 | — biblical books referenced | 65 of 66 |
-| Distinct works cited | 1,239 |
+| Distinct works cited | 1,241 |
 
 ## Suggested pathways
 
