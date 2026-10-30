@@ -14,7 +14,7 @@ Active content only — retired material is excluded from every figure.
 | --- | --- |
 | Active courses | 49 |
 | Retired courses | 9 |
-| Assessment items | 13,818 |
+| Assessment items | 13,833 |
 | Curriculum paragraphs | 112,456 |
 | Interactive study questions | 10,544 |
 | Scripture references | 41,233 |
@@ -82,7 +82,7 @@ Published sequence toward Ordained Minister credentialing.
 | Code | Title | Level | Edition | Chapters | Lessons | Items |
 | --- | --- | --- | --- | --- | --- | --- |
 | [BIB111](courses/BIB111.md) | Old Testament Survey | 1 | 01.26.02 | 15 | 47 | 477 |
-| [BIB111S](courses/BIB111S.md) | Estudio del Antiguo Testamento |  | 01.26.01 | 15 | 47 | 465 |
+| [BIB111S](courses/BIB111S.md) | Estudio del Antiguo Testamento |  | 01.26.01 | 15 | 47 | 480 |
 | [BIB114](courses/BIB114.md) | Christ in the Synoptic Gospels | 1 | 01.22.01 | 13 | 43 | 279 |
 | [BIB114S](courses/BIB114S.md) | BIB114S |  | 01.22.01 | 13 | 42 | 205 |
 | [BIB115S](courses/BIB115S.md) | Hechos: La obra del Espíritu Santo en los creyentes |  | 02.22.01 | 13 | 38 | 318 |
