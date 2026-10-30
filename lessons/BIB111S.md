@@ -12,7 +12,7 @@ title: "BIB111S — full lesson text"
 
 La importancia del Antiguo Testamento
 
-R esumir los datos clave del Antiguo Testamento.
+Resumir los datos clave del Antiguo Testamento.
 
 La Biblia es el libro más vendido del mundo. Millones de personas viven de acuerdo con su mensaje. Los traductores de la Biblia han traducido las Escrituras a más de 2.300 idiomas. Más del 95 por ciento de la población mundial tiene acceso, al menos en parte, a la Biblia en un idioma que conoce. Mientras estudia, recuerde que se está uniendo a millones de personas que aman y obedecen la Palabra de Dios.
 
@@ -104,7 +104,7 @@ En tercer lugar, el Antiguo Testamento es la semilla y la planta de la que surgi
 
 Piense en todos los personajes del Antiguo Testamento mencionados en el Nuevo Testamento. Sin el Antiguo Testamento, no sabríamos mucho acerca de Adán, Abel, Noé, Abraham, Moisés u otros personajes a quienes Jesús y los apóstoles se referían con frecuencia. El Nuevo Testamento hace referencia al Antiguo Testamento más de seiscientas veces. Por lo tanto, debemos conocer bien el Antiguo Testamento para comprender el Nuevo Testamento.
 
-E numerar las principales divisiones del Antiguo Testamento.
+Enumerar las principales divisiones del Antiguo Testamento.
 
 Las divisiones del Antiguo Testamento
 
@@ -220,7 +220,7 @@ Figura 1.3
 
 La importancia del Antiguo Testamento
 
-R esumir los datos clave del Antiguo Testamento.
+Resumir los datos clave del Antiguo Testamento.
 
 La Biblia es el libro más vendido del mundo. Millones de personas viven de acuerdo con su mensaje. Los traductores de la Biblia han traducido las Escrituras a más de 2.300 idiomas. Más del 95 por ciento de la población mundial tiene acceso, al menos en parte, a la Biblia en un idioma que conoce. Mientras estudia, recuerde que se está uniendo a millones de personas que aman y obedecen la Palabra de Dios.
 
@@ -312,7 +312,7 @@ En tercer lugar, el Antiguo Testamento es la semilla y la planta de la que surgi
 
 Piense en todos los personajes del Antiguo Testamento mencionados en el Nuevo Testamento. Sin el Antiguo Testamento, no sabríamos mucho acerca de Adán, Abel, Noé, Abraham, Moisés u otros personajes a quienes Jesús y los apóstoles se referían con frecuencia. El Nuevo Testamento hace referencia al Antiguo Testamento más de seiscientas veces. Por lo tanto, debemos conocer bien el Antiguo Testamento para comprender el Nuevo Testamento.
 
-E numerar las principales divisiones del Antiguo Testamento.
+Enumerar las principales divisiones del Antiguo Testamento.
 
 Las divisiones del Antiguo Testamento
 
@@ -434,7 +434,7 @@ Las historias recogidas en estos primeros capítulos de la Biblia resultan funda
 
 Dado que este es un curso de introducción, no podemos abarcar cada sección del Antiguo Testamento con el detalle que nos gustaría. Aun así, las historias del Génesis son tan fundamentales para la narrativa bíblica que dedicaremos los dos primeros capítulos al estudio del Génesis.
 
-A nalizar las cuestiones relacionadas con la autoría del Pentateuco.
+Analizar las cuestiones relacionadas con la autoría del Pentateuco.
 
 Autoría
 
@@ -484,7 +484,7 @@ C. La Torre de Babel (11:1–9)
 
 D. El linaje mesiánico de Sem (11:10–32)
 
-E valuar tres puntos de vista sobre la Creación.
+Evaluar tres puntos de vista sobre la Creación.
 
 El relato de la creación (Génesis 1–2)
 
@@ -562,7 +562,7 @@ Finalmente, Dios reconoce que Adán no debe estar solo. La cuestión no es la so
 
 La caída (Génesis 3–5)
 
-D escribir la caída y el diluvio.
+Describir la caída y el diluvio.
 
 Dos acontecimientos que transformaron la vida se destacan en la historia de la humanidad: (1) la caída de la humanidad en el Jardín y (2) la venida de Cristo para salvar a la humanidad caída. Así como el libro de Génesis narra la caída, anticipa el día en que Cristo vendría a salvar a la humanidad del pecado. Por lo tanto, el libro de Génesis desempeña un papel fundamental en el establecimiento de una cosmovisión cristiana que incluye el origen de la humanidad, el problema central al que se enfrentan los seres humanos y el plan de Dios para redimir a su creación.
 
@@ -648,7 +648,7 @@ Las historias recogidas en estos primeros capítulos de la Biblia resultan funda
 
 Dado que este es un curso de introducción, no podemos abarcar cada sección del Antiguo Testamento con el detalle que nos gustaría. Aun así, las historias del Génesis son tan fundamentales para la narrativa bíblica que dedicaremos los dos primeros capítulos al estudio del Génesis.
 
-A nalizar las cuestiones relacionadas con la autoría del Pentateuco.
+Analizar las cuestiones relacionadas con la autoría del Pentateuco.
 
 Autoría
 
@@ -698,7 +698,7 @@ C. La Torre de Babel (11:1–9)
 
 D. El linaje mesiánico de Sem (11:10–32)
 
-E valuar tres puntos de vista sobre la Creación.
+Evaluar tres puntos de vista sobre la Creación.
 
 El relato de la creación (Génesis 1–2)
 
@@ -776,7 +776,7 @@ Finalmente, Dios reconoce que Adán no debe estar solo. La cuestión no es la so
 
 La caída (Génesis 3–5)
 
-D escribir la caída y el diluvio.
+Describir la caída y el diluvio.
 
 Dos acontecimientos que transformaron la vida se destacan en la historia de la humanidad: (1) la caída de la humanidad en el Jardín y (2) la venida de Cristo para salvar a la humanidad caída. Así como el libro de Génesis narra la caída, anticipa el día en que Cristo vendría a salvar a la humanidad del pecado. Por lo tanto, el libro de Génesis desempeña un papel fundamental en el establecimiento de una cosmovisión cristiana que incluye el origen de la humanidad, el problema central al que se enfrentan los seres humanos y el plan de Dios para redimir a su creación.
 
@@ -862,7 +862,7 @@ Las historias recogidas en estos primeros capítulos de la Biblia resultan funda
 
 Dado que este es un curso de introducción, no podemos abarcar cada sección del Antiguo Testamento con el detalle que nos gustaría. Aun así, las historias del Génesis son tan fundamentales para la narrativa bíblica que dedicaremos los dos primeros capítulos al estudio del Génesis.
 
-A nalizar las cuestiones relacionadas con la autoría del Pentateuco.
+Analizar las cuestiones relacionadas con la autoría del Pentateuco.
 
 Autoría
 
@@ -912,7 +912,7 @@ C. La Torre de Babel (11:1–9)
 
 D. El linaje mesiánico de Sem (11:10–32)
 
-E valuar tres puntos de vista sobre la Creación.
+Evaluar tres puntos de vista sobre la Creación.
 
 El relato de la creación (Génesis 1–2)
 
@@ -990,7 +990,7 @@ Finalmente, Dios reconoce que Adán no debe estar solo. La cuestión no es la so
 
 La caída (Génesis 3–5)
 
-D escribir la caída y el diluvio.
+Describir la caída y el diluvio.
 
 Dos acontecimientos que transformaron la vida se destacan en la historia de la humanidad: (1) la caída de la humanidad en el Jardín y (2) la venida de Cristo para salvar a la humanidad caída. Así como el libro de Génesis narra la caída, anticipa el día en que Cristo vendría a salvar a la humanidad del pecado. Por lo tanto, el libro de Génesis desempeña un papel fundamental en el establecimiento de una cosmovisión cristiana que incluye el origen de la humanidad, el problema central al que se enfrentan los seres humanos y el plan de Dios para redimir a su creación.
 
@@ -1074,7 +1074,7 @@ Génesis 11 concluye con un resumen del linaje de Sem. A los hijos de Sem se les
 
 #### 2.1.1 — Identificar el pacto que Dios establece con Abraham.
 
-I dentificar el pacto que Dios establece con Abraham.
+Identificar el pacto que Dios establece con Abraham.
 
 Abraham es una de las figuras más importantes de la historia. Tanto el judaísmo como el islam y el cristianismo lo consideran el primer patriarca y un hombre de gran fe. El camino de fe de Abraham se describe en Génesis 12–25. Estos capítulos sientan las bases del pacto de Dios con el pueblo de Israel y, en última instancia, con todos los que siguen a Jesús.
 
@@ -1224,7 +1224,7 @@ Finalmente, Dios le prometió a Abraham que salvaría a Sodoma y Gomorra si enco
 
 Tal como se describe en Génesis 19, muchos hombres en Sodoma eran homosexuales que intentaron abusar de los ángeles que Dios envió para destruir la ciudad. La Biblia sí enseña que la homosexualidad es pecado (Levítico 18:22, 30; Romanos 1:26–27), pero no es peor que incurrir en formas heterosexuales de inmoralidad. Ezequiel 16:49–50 indica que Dios destruyó a Sodoma por una multitud de pecados además del comportamiento homosexual, entre ellos la arrogancia y el orgullo, el egoísmo y la falta de preocupación por los pobres.
 
-D escribir el propósito de Dios al poner a prueba a Abraham.
+Describir el propósito de Dios al poner a prueba a Abraham.
 
 La prueba (Génesis 22)
 
@@ -1248,7 +1248,7 @@ La tradición cristiana siempre ha visto un paralelo significativo entre esta hi
 
 #### 2.1.2 — Describir el propósito de Dios al poner a prueba a Abraham.
 
-I dentificar el pacto que Dios establece con Abraham.
+Identificar el pacto que Dios establece con Abraham.
 
 Abraham es una de las figuras más importantes de la historia. Tanto el judaísmo como el islam y el cristianismo lo consideran el primer patriarca y un hombre de gran fe. El camino de fe de Abraham se describe en Génesis 12–25. Estos capítulos sientan las bases del pacto de Dios con el pueblo de Israel y, en última instancia, con todos los que siguen a Jesús.
 
@@ -1398,7 +1398,7 @@ Finalmente, Dios le prometió a Abraham que salvaría a Sodoma y Gomorra si enco
 
 Tal como se describe en Génesis 19, muchos hombres en Sodoma eran homosexuales que intentaron abusar de los ángeles que Dios envió para destruir la ciudad. La Biblia sí enseña que la homosexualidad es pecado (Levítico 18:22, 30; Romanos 1:26–27), pero no es peor que incurrir en formas heterosexuales de inmoralidad. Ezequiel 16:49–50 indica que Dios destruyó a Sodoma por una multitud de pecados además del comportamiento homosexual, entre ellos la arrogancia y el orgullo, el egoísmo y la falta de preocupación por los pobres.
 
-D escribir el propósito de Dios al poner a prueba a Abraham.
+Describir el propósito de Dios al poner a prueba a Abraham.
 
 La prueba (Génesis 22)
 
@@ -1424,7 +1424,7 @@ La tradición cristiana siempre ha visto un paralelo significativo entre esta hi
 
 #### 2.2.1 — Comparar el papel de Dios y el de la humanidad en la oración.
 
-C omparar el papel de Dios y el de la humanidad en la oración.
+Comparar el papel de Dios y el de la humanidad en la oración.
 
 Las promesas de Dios no eran solo para Abraham; se extendían a su hijo Isaac y a sus descendientes. Dios volvió a confirmar esto tanto a Abraham (Génesis 22:15–18) como a Isaac (26:1–5, 24).
 
@@ -1482,13 +1482,13 @@ Muere Isaac
 
 #### 2.3.1 — Explicar cómo la rivalidad entre hermanos puso a prueba el pacto de Dios.
 
-E xplicar cómo la rivalidad entre hermanos puso a prueba el pacto de Dios.
+Explicar cómo la rivalidad entre hermanos puso a prueba el pacto de Dios.
 
 Rebeca dio a luz no solo a un hijo, sino también a dos gemelos: Jacob y Esaú. A medida que sus dos hijos se convertían en hombres, desarrollaron una feroz rivalidad que amenazaba con dividir a la familia y obstaculizar el pacto de Dios. La lucha comenzó en el vientre de Rebeca (Génesis 25:22). Al parecer, la lucha de los bebés en el vientre era tan intensa que Rebeca llegó a temer por su vida. Cuando le preguntó al Señor por qué sucedía esto, Él le explicó que su lucha presagiaba su destino. Los dos niños se convertirían en naciones rivales, y el hijo menor acabaría por gobernar al mayor (Génesis 25:23).
 
 La rivalidad entre hermanos continuó, como se ve en la disputa por la primogenitura que llegó a ser central en la narrativa poco después del relato del nacimiento. En este acontecimiento, Jacob manipuló el hambre de Esaú para apropiarse de la primogenitura. Después, con la ayuda de Rebeca, engañó a su padre ciego que también estaba en una pobre condición física. ¿Suena esto familiar? Debería, ya que “hemos visto antes fallas de carácter en esta familia” (Stallman 2003, 206).
 
-E valuar la característica familiar del favoritismo .
+Evaluar la característica familiar del favoritismo .
 
 ¿Era necesario este engaño? Por supuesto que no. A pesar de su encomiable fe en Dios, cada miembro de la familia cometió pecados al intentar ayudarle a Dios. No solo entró en escena la rivalidad entre hermanos, sino que también surgió un conflicto entre marido y mujer, quienes preferían cada uno a un hijo diferente. Esto condujo al pecado del favoritismo , lo que resultó en la disputa familiar por la primogenitura.
 
@@ -1556,13 +1556,13 @@ El entierro de Jacob en Canaán
 
 #### 2.3.2 — Evaluar la característica familiar del favoritismo.
 
-E xplicar cómo la rivalidad entre hermanos puso a prueba el pacto de Dios.
+Explicar cómo la rivalidad entre hermanos puso a prueba el pacto de Dios.
 
 Rebeca dio a luz no solo a un hijo, sino también a dos gemelos: Jacob y Esaú. A medida que sus dos hijos se convertían en hombres, desarrollaron una feroz rivalidad que amenazaba con dividir a la familia y obstaculizar el pacto de Dios. La lucha comenzó en el vientre de Rebeca (Génesis 25:22). Al parecer, la lucha de los bebés en el vientre era tan intensa que Rebeca llegó a temer por su vida. Cuando le preguntó al Señor por qué sucedía esto, Él le explicó que su lucha presagiaba su destino. Los dos niños se convertirían en naciones rivales, y el hijo menor acabaría por gobernar al mayor (Génesis 25:23).
 
 La rivalidad entre hermanos continuó, como se ve en la disputa por la primogenitura que llegó a ser central en la narrativa poco después del relato del nacimiento. En este acontecimiento, Jacob manipuló el hambre de Esaú para apropiarse de la primogenitura. Después, con la ayuda de Rebeca, engañó a su padre ciego que también estaba en una pobre condición física. ¿Suena esto familiar? Debería, ya que “hemos visto antes fallas de carácter en esta familia” (Stallman 2003, 206).
 
-E valuar la característica familiar del favoritismo .
+Evaluar la característica familiar del favoritismo .
 
 ¿Era necesario este engaño? Por supuesto que no. A pesar de su encomiable fe en Dios, cada miembro de la familia cometió pecados al intentar ayudarle a Dios. No solo entró en escena la rivalidad entre hermanos, sino que también surgió un conflicto entre marido y mujer, quienes preferían cada uno a un hijo diferente. Esto condujo al pecado del favoritismo , lo que resultó en la disputa familiar por la primogenitura.
 
@@ -1632,7 +1632,7 @@ El entierro de Jacob en Canaán
 
 #### 2.4.1 — Explicar cómo se manifiestan la gracia, la misericordia y la soberanía divinas en la historia de José.
 
-E xplicar cómo se manifiestan la gracia, la misericordia y la soberanía divinas en la historia de José .
+Explicar cómo se manifiestan la gracia, la misericordia y la soberanía divinas en la historia de José .
 
 La historia de José es una de las más fascinantes de la Biblia y ocupa catorce capítulos al final del Génesis. A menudo se piensa en José como el soñador, el de la túnica de muchos colores y, más tarde, como el gobernante de Egipto. Sin embargo, esta historia abarca mucho más que estas pocas observaciones. Se caracteriza por el suspenso, así como por los rasgos familiares antiguos de favoritismo y celos. La historia enseña lecciones importantes sobre las disputas familiares y el perdón; las tentaciones y la victoria; y la soberanía y la gracia de Dios a pesar de las dificultades, el abandono y las duras pruebas. Aunque ningún personaje bíblico es perfecto, incluido José, él es el que más se acerca a mostrar algunas cualidades bíblicas que los creyentes deberían imitar .
 
@@ -1686,7 +1686,7 @@ La profecía y la muerte de José
 
 50:15–26
 
-E valuar las acciones de José.
+Evaluar las acciones de José.
 
 El hijo predilecto, el hermano odiado (Génesis 37)
 
@@ -1694,7 +1694,7 @@ El hijo predilecto, el hermano odiado (Génesis 37)
 
 El texto afirma sin rodeos: “amaba Israel a José más que a todos sus hijos” (37:3) y, al parecer, no hizo ningún intento de ocultar ese favoritismo. Le regaló a José una túnica ricamente adornada, que tal vez fuera el tipo de prenda que se reservaba más comúnmente para la realeza que para un joven pastor de diecisiete años. El favoritismo que había azotado a la familia patriarcal desde los días en que Isaac y Rebeca mostraron preferencias injustas hacia Jacob y Esaú (25:28) obviamente siguió siendo una fuente de considerables problemas.Los celos y la rivalidad entre hermanos continuaron caracterizando la historia patriarcal (Arnold 1998, 216).
 
-E valuar las acciones de los hermanos de José.
+Evaluar las acciones de los hermanos de José.
 
 Los celos llevaron a los hermanos a querer matar a José, pero el mayor, Rubén, convenció a los demás para que, en su lugar, lo arrojaran a un pozo. Tras vender a José a una caravana de mercaderes madianitas, los hermanos hicieron creer a su padre que José había sido asesinado.
 
@@ -1730,7 +1730,7 @@ Si bien José rescata a su familia de la hambruna, el final del Génesis plantea
 
 #### 2.4.2 — Evaluar las acciones de José.
 
-E xplicar cómo se manifiestan la gracia, la misericordia y la soberanía divinas en la historia de José .
+Explicar cómo se manifiestan la gracia, la misericordia y la soberanía divinas en la historia de José .
 
 La historia de José es una de las más fascinantes de la Biblia y ocupa catorce capítulos al final del Génesis. A menudo se piensa en José como el soñador, el de la túnica de muchos colores y, más tarde, como el gobernante de Egipto. Sin embargo, esta historia abarca mucho más que estas pocas observaciones. Se caracteriza por el suspenso, así como por los rasgos familiares antiguos de favoritismo y celos. La historia enseña lecciones importantes sobre las disputas familiares y el perdón; las tentaciones y la victoria; y la soberanía y la gracia de Dios a pesar de las dificultades, el abandono y las duras pruebas. Aunque ningún personaje bíblico es perfecto, incluido José, él es el que más se acerca a mostrar algunas cualidades bíblicas que los creyentes deberían imitar .
 
@@ -1784,7 +1784,7 @@ La profecía y la muerte de José
 
 50:15–26
 
-E valuar las acciones de José.
+Evaluar las acciones de José.
 
 El hijo predilecto, el hermano odiado (Génesis 37)
 
@@ -1792,7 +1792,7 @@ El hijo predilecto, el hermano odiado (Génesis 37)
 
 El texto afirma sin rodeos: “amaba Israel a José más que a todos sus hijos” (37:3) y, al parecer, no hizo ningún intento de ocultar ese favoritismo. Le regaló a José una túnica ricamente adornada, que tal vez fuera el tipo de prenda que se reservaba más comúnmente para la realeza que para un joven pastor de diecisiete años. El favoritismo que había azotado a la familia patriarcal desde los días en que Isaac y Rebeca mostraron preferencias injustas hacia Jacob y Esaú (25:28) obviamente siguió siendo una fuente de considerables problemas.Los celos y la rivalidad entre hermanos continuaron caracterizando la historia patriarcal (Arnold 1998, 216).
 
-E valuar las acciones de los hermanos de José.
+Evaluar las acciones de los hermanos de José.
 
 Los celos llevaron a los hermanos a querer matar a José, pero el mayor, Rubén, convenció a los demás para que, en su lugar, lo arrojaran a un pozo. Tras vender a José a una caravana de mercaderes madianitas, los hermanos hicieron creer a su padre que José había sido asesinado.
 
@@ -1828,7 +1828,7 @@ Si bien José rescata a su familia de la hambruna, el final del Génesis plantea
 
 #### 2.4.3 — Evaluar las acciones de los hermanos de José.
 
-E xplicar cómo se manifiestan la gracia, la misericordia y la soberanía divinas en la historia de José .
+Explicar cómo se manifiestan la gracia, la misericordia y la soberanía divinas en la historia de José .
 
 La historia de José es una de las más fascinantes de la Biblia y ocupa catorce capítulos al final del Génesis. A menudo se piensa en José como el soñador, el de la túnica de muchos colores y, más tarde, como el gobernante de Egipto. Sin embargo, esta historia abarca mucho más que estas pocas observaciones. Se caracteriza por el suspenso, así como por los rasgos familiares antiguos de favoritismo y celos. La historia enseña lecciones importantes sobre las disputas familiares y el perdón; las tentaciones y la victoria; y la soberanía y la gracia de Dios a pesar de las dificultades, el abandono y las duras pruebas. Aunque ningún personaje bíblico es perfecto, incluido José, él es el que más se acerca a mostrar algunas cualidades bíblicas que los creyentes deberían imitar .
 
@@ -1882,7 +1882,7 @@ La profecía y la muerte de José
 
 50:15–26
 
-E valuar las acciones de José.
+Evaluar las acciones de José.
 
 El hijo predilecto, el hermano odiado (Génesis 37)
 
@@ -1890,7 +1890,7 @@ El hijo predilecto, el hermano odiado (Génesis 37)
 
 El texto afirma sin rodeos: “amaba Israel a José más que a todos sus hijos” (37:3) y, al parecer, no hizo ningún intento de ocultar ese favoritismo. Le regaló a José una túnica ricamente adornada, que tal vez fuera el tipo de prenda que se reservaba más comúnmente para la realeza que para un joven pastor de diecisiete años. El favoritismo que había azotado a la familia patriarcal desde los días en que Isaac y Rebeca mostraron preferencias injustas hacia Jacob y Esaú (25:28) obviamente siguió siendo una fuente de considerables problemas.Los celos y la rivalidad entre hermanos continuaron caracterizando la historia patriarcal (Arnold 1998, 216).
 
-E valuar las acciones de los hermanos de José.
+Evaluar las acciones de los hermanos de José.
 
 Los celos llevaron a los hermanos a querer matar a José, pero el mayor, Rubén, convenció a los demás para que, en su lugar, lo arrojaran a un pozo. Tras vender a José a una caravana de mercaderes madianitas, los hermanos hicieron creer a su padre que José había sido asesinado.
 
@@ -1930,7 +1930,7 @@ Si bien José rescata a su familia de la hambruna, el final del Génesis plantea
 
 #### 3.1.1 — Describir el Éxodo, el viaje al Sinaí, el pacto y el tabernáculo.
 
-D escribir el Éxodo, el viaje al Sinaí, el pacto y el tabernáculo.
+Describir el Éxodo, el viaje al Sinaí, el pacto y el tabernáculo.
 
 El título en inglés del libro del Éxodo proviene de la traducción griega del Antiguo Testamento. Significa “partir” o “salir”. El nombre indica uno de los temas principales del libro: la huida de los israelitas de la esclavitud en Egipto y su viaje al Monte Sinaí. El libro se centra en tres situaciones geográficas específicas: “Israel en Egipto (1:1–12:36), Israel en el desierto (12:37–18:21) e Israel en el Monte Sinaí (19–40)” (Arnold y Beyer 1999, 104–105).
 
@@ -2352,7 +2352,7 @@ En esta parte final de Números, también leemos sobre el asentamiento de las tr
 
 #### 3.4.1 — Resumir una lección de cada uno de los tres mensajes de Moisés y de su despedida.
 
-R esumir una lección de cada uno de los tres mensajes de Moisés y de su despedida.
+Resumir una lección de cada uno de los tres mensajes de Moisés y de su despedida.
 
 La palabra Deuteronomio proviene del título griego de este libro en la Septuaginta. Deutero que significa “segundo” y nomio es una forma de la palabra ley . El libro de Deuteronomio repasa la Ley y el pacto que Dios otorgó a Israel. En lugar de dar una segunda ley, el libro de Deuteronomio reitera la ley a la nueva generación que está a punto de entrar a la tierra prometida. Recuerde que toda la generación que Dios liberó de Egipto murió en el desierto tras rebelarse contra Él.
 
@@ -2428,6 +2428,8 @@ La conclusión del libro de Deuteronomio pone fin al Pentateuco. Al igual que oc
 
 #### 4.1.1 — Describir el autor, el contexto y el propósito de Josué.
 
+Describir el autor, el contexto y el propósito de Josué.
+
 Autor
 
 Según la tradición judía, se considera que Josué es el autor del libro que lleva su nombre. Sin embargo, algunas pruebas internas de la Biblia indican que Josué no escribió ciertas secciones del libro. ¿Cómo se puede conciliar esto? Arnold y Beyer resumen la evidencia sobre la autoría:
@@ -2490,7 +2492,7 @@ D. La despedida y muerte de Josué (22–24)
 
 La entrada a Canaán (Josué 1–4)
 
-R esumir el proceso de entrada, conquista y división de Canaán.
+Resumir el proceso de entrada, conquista y división de Canaán.
 
 En el momento señalado por Dios, Israel entró en la Tierra Prometida. La promesa divina de éxito en la conquista de Canaán dependía de la obediencia a la Ley que se les había dado. Así, Josué comenzó a guiar a la nación de Israel bajo la autoridad y la presencia de Dios.
 
@@ -2536,6 +2538,8 @@ Aunque los israelitas no conquistaron por completo la tierra de Canaán, disfrut
 
 #### 4.1.2 — Resumir el proceso de entrada, conquista y división de Canaán.
 
+Describir el autor, el contexto y el propósito de Josué.
+
 Autor
 
 Según la tradición judía, se considera que Josué es el autor del libro que lleva su nombre. Sin embargo, algunas pruebas internas de la Biblia indican que Josué no escribió ciertas secciones del libro. ¿Cómo se puede conciliar esto? Arnold y Beyer resumen la evidencia sobre la autoría:
@@ -2598,7 +2602,7 @@ D. La despedida y muerte de Josué (22–24)
 
 La entrada a Canaán (Josué 1–4)
 
-R esumir el proceso de entrada, conquista y división de Canaán.
+Resumir el proceso de entrada, conquista y división de Canaán.
 
 En el momento señalado por Dios, Israel entró en la Tierra Prometida. La promesa divina de éxito en la conquista de Canaán dependía de la obediencia a la Ley que se les había dado. Así, Josué comenzó a guiar a la nación de Israel bajo la autoridad y la presencia de Dios.
 
@@ -2646,7 +2650,7 @@ Aunque los israelitas no conquistaron por completo la tierra de Canaán, disfrut
 
 #### 4.2.1 — Explicar el ciclo de fracasos de Israel durante la época de los jueces y dar un ejemplo.
 
-E xplicar el ciclo de fracasos de Israel durante la época de los jueces y dar un ejemplo.
+Explicar el ciclo de fracasos de Israel durante la época de los jueces y dar un ejemplo.
 
 Si bien el tema de la colonización de la tierra continúa en el libro de los Jueces, el relato de los Jueces hace hincapié en los problemas que enfrentaron las primeras generaciones tras la conquista inicial de la tierra por parte de Israel. El libro puede verse como una espiral descendente. El pueblo establece un patrón de rebelión y arrepentimiento que se agrava progresivamente a medida que avanza el libro. Concluye con historias trágicas y con la crítica mordaz de que cada uno hacía lo que le parecía correcto (Jueces 21:25).
 
@@ -2696,7 +2700,7 @@ El libro de los Jueces tiene dos propósitos: (1) registra la historia de Israel
 
 Como aprendimos en el libro de Josué, Dios había ordenado a Israel que expulsara a todos sus enemigos de la tierra, pero no obedecieron por completo. Algunos cananeos permanecieron en la tierra y causaron muchos problemas al pueblo de Dios (Jueces 2:1–3). Aunque en ocasiones los cananeos trabajaban para Israel y pagaban impuestos, cada vez que los israelitas se alejaban de Dios, sus enemigos los conquistaban.
 
-C omentar acerca de cada uno de los seis jueces principales y Abimelec.
+Comentar acerca de cada uno de los seis jueces principales y Abimelec.
 
 Los seis jueces principales y Abimelec (Jueces 3:7–16:31)
 
@@ -2790,7 +2794,7 @@ Los últimos cinco capítulos de Jueces se encuentran entre los pasajes más dif
 
 #### 4.2.2 — Comentar acerca de cada uno de los seis jueces principales y Abimelec.
 
-E xplicar el ciclo de fracasos de Israel durante la época de los jueces y dar un ejemplo.
+Explicar el ciclo de fracasos de Israel durante la época de los jueces y dar un ejemplo.
 
 Si bien el tema de la colonización de la tierra continúa en el libro de los Jueces, el relato de los Jueces hace hincapié en los problemas que enfrentaron las primeras generaciones tras la conquista inicial de la tierra por parte de Israel. El libro puede verse como una espiral descendente. El pueblo establece un patrón de rebelión y arrepentimiento que se agrava progresivamente a medida que avanza el libro. Concluye con historias trágicas y con la crítica mordaz de que cada uno hacía lo que le parecía correcto (Jueces 21:25).
 
@@ -2840,7 +2844,7 @@ El libro de los Jueces tiene dos propósitos: (1) registra la historia de Israel
 
 Como aprendimos en el libro de Josué, Dios había ordenado a Israel que expulsara a todos sus enemigos de la tierra, pero no obedecieron por completo. Algunos cananeos permanecieron en la tierra y causaron muchos problemas al pueblo de Dios (Jueces 2:1–3). Aunque en ocasiones los cananeos trabajaban para Israel y pagaban impuestos, cada vez que los israelitas se alejaban de Dios, sus enemigos los conquistaban.
 
-C omentar acerca de cada uno de los seis jueces principales y Abimelec.
+Comentar acerca de cada uno de los seis jueces principales y Abimelec.
 
 Los seis jueces principales y Abimelec (Jueces 3:7–16:31)
 
@@ -2938,7 +2942,7 @@ Los últimos cinco capítulos de Jueces se encuentran entre los pasajes más dif
 
 Esto demuestra hasta qué punto había caído Israel debido a su rebelión contra Dios. El libro de Rut ofrece una historia alternativa y positiva desde la misma época histórica. En lugar de destacar la infidelidad, el libro de Rut examina un ejemplo inesperado de fidelidad al pacto. La historia se centra en tres personajes: Noemí, Rut y Booz. Aunque no es israelita, Rut es la protagonista del libro (Arnold y Beyer 1999, 187; Hill y Walton 2023, 173).
 
-R esumir la historia de Rut y aplicar las lecciones que nos ofrece hoy.
+Resumir la historia de Rut y aplicar las lecciones que nos ofrece hoy.
 
 Autoría
 
@@ -2996,7 +3000,7 @@ Autoria
 
 El Talmud babilónico atribuye a Samuel la autoría de los dos libros que llevan su nombre. Sin embargo, Samuel fallece y su muerte se menciona en dos ocasiones antes del final de 1 Samuel. Lo más probable es que su protagonismo en el primer libro se considerara una evidencia razonable para el título de ambos libros (Raccah 2003, 410–411). Las similitudes temáticas con Josué, Jueces y 1–2 Reyes sugieren a muchos estudiosos que estos libros han sido editados por la misma persona o por personas distintas para relatar la historia de Israel desde su entrada en la tierra hasta el exilio babilónico.
 
-A nalizar el contexto, el autor y el propósito de 1 Samuel.
+Analizar el contexto, el autor y el propósito de 1 Samuel.
 
 Bosquejo
 
@@ -3048,7 +3052,7 @@ F. David recupera a su familia y sus riquezas (29–30)
 
 G. Saúl muere (31)
 
-R esumir las lecciones que se desprenden de las vidas de Elí, Samuel, Saúl y David.
+Resumir las lecciones que se desprenden de las vidas de Elí, Samuel, Saúl y David.
 
 Elí (1 Samuel 1–4)
 
@@ -3102,7 +3106,7 @@ Autoria
 
 El Talmud babilónico atribuye a Samuel la autoría de los dos libros que llevan su nombre. Sin embargo, Samuel fallece y su muerte se menciona en dos ocasiones antes del final de 1 Samuel. Lo más probable es que su protagonismo en el primer libro se considerara una evidencia razonable para el título de ambos libros (Raccah 2003, 410–411). Las similitudes temáticas con Josué, Jueces y 1–2 Reyes sugieren a muchos estudiosos que estos libros han sido editados por la misma persona o por personas distintas para relatar la historia de Israel desde su entrada en la tierra hasta el exilio babilónico.
 
-A nalizar el contexto, el autor y el propósito de 1 Samuel.
+Analizar el contexto, el autor y el propósito de 1 Samuel.
 
 Bosquejo
 
@@ -3154,7 +3158,7 @@ F. David recupera a su familia y sus riquezas (29–30)
 
 G. Saúl muere (31)
 
-R esumir las lecciones que se desprenden de las vidas de Elí, Samuel, Saúl y David.
+Resumir las lecciones que se desprenden de las vidas de Elí, Samuel, Saúl y David.
 
 Elí (1 Samuel 1–4)
 
@@ -3206,7 +3210,7 @@ En primer lugar, el libro destaca el peligro de rechazar el liderazgo de Dios. L
 
 #### 5.1.1 — Analizar los éxitos políticos, espirituales y militares del reinado de David.
 
-A nalizar los éxitos políticos, espirituales y militares del reinado de David.
+Analizar los éxitos políticos, espirituales y militares del reinado de David.
 
 Autor y fecha
 
@@ -3446,7 +3450,7 @@ Aunque los filisteos causaron muchos problemas a Israel, ellos eran maestros en 
 
 David mejoró considerablemente la fuerza militar de Israel. “David liberó a Israel de la opresión filistea e incorporó sus territorios y pueblo bajo su dominio (2 Samuel 5:17–25; 1 Crónicas 18:1–2; 20:4–8). Luego comenzó a construir un imperio en expansión. Israel se convirtió en la potencia dominante en Asia occidental” (Brueggeman 2003a, 472). Su motivo para conquistar Edom fue obtener tributos de ellos y, tal vez, adquirir hierro y cobre (Deuteronomio 8:9). David también conquistó a los moabitas y a los amalecitas, quitándoles oro y plata. Cuando Siria y Amón se unieron para luchar contra David, él derrotó a ambos. Tras esta gran victoria, todos los reyes sometidos a Siria hicieron las paces con Israel y quedaron bajo su dominio (2 Samuel 10:19).
 
-R esumir el gran pecado de David y cómo lo afectó a él, a su familia y a su reino.
+Resumir el gran pecado de David y cómo lo afectó a él, a su familia y a su reino.
 
 El pecado de David (2 Samuel 11–20)
 
@@ -3478,7 +3482,7 @@ David dedicó los últimos diez años de su vida a hacer planes y preparativos p
 
 #### 5.1.2 — Resumir el gran pecado de David y cómo lo afectó a él, a su familia y a su reino.
 
-A nalizar los éxitos políticos, espirituales y militares del reinado de David.
+Analizar los éxitos políticos, espirituales y militares del reinado de David.
 
 Autor y fecha
 
@@ -3718,7 +3722,7 @@ Aunque los filisteos causaron muchos problemas a Israel, ellos eran maestros en 
 
 David mejoró considerablemente la fuerza militar de Israel. “David liberó a Israel de la opresión filistea e incorporó sus territorios y pueblo bajo su dominio (2 Samuel 5:17–25; 1 Crónicas 18:1–2; 20:4–8). Luego comenzó a construir un imperio en expansión. Israel se convirtió en la potencia dominante en Asia occidental” (Brueggeman 2003a, 472). Su motivo para conquistar Edom fue obtener tributos de ellos y, tal vez, adquirir hierro y cobre (Deuteronomio 8:9). David también conquistó a los moabitas y a los amalecitas, quitándoles oro y plata. Cuando Siria y Amón se unieron para luchar contra David, él derrotó a ambos. Tras esta gran victoria, todos los reyes sometidos a Siria hicieron las paces con Israel y quedaron bajo su dominio (2 Samuel 10:19).
 
-R esumir el gran pecado de David y cómo lo afectó a él, a su familia y a su reino.
+Resumir el gran pecado de David y cómo lo afectó a él, a su familia y a su reino.
 
 El pecado de David (2 Samuel 11–20)
 
@@ -3752,7 +3756,7 @@ David dedicó los últimos diez años de su vida a hacer planes y preparativos p
 
 #### 5.2.1 — Describir el comienzo, la construcción y las relaciones internacionales de Salomón.
 
-D escribir el comienzo, la construcción y las relaciones internacionales de Salomón.
+Describir el comienzo, la construcción y las relaciones internacionales de Salomón.
 
 Autor, fecha y propósito
 
@@ -3914,7 +3918,7 @@ Debido a la desobediencia de Salomón, Dios le dijo que dividiría el reino, per
 
 #### 5.2.2 — Explicar la desobediencia de Salomón y el juicio que recibió.
 
-D escribir el comienzo, la construcción y las relaciones internacionales de Salomón.
+Describir el comienzo, la construcción y las relaciones internacionales de Salomón.
 
 Autor, fecha y propósito
 
@@ -4078,7 +4082,7 @@ Debido a la desobediencia de Salomón, Dios le dijo que dividiría el reino, per
 
 #### 5.3.1 — Nombrar las cinco dinastías del reino del norte.
 
-N ombrar las cinco dinastías del reino del norte.
+Nombrar las cinco dinastías del reino del norte.
 
 Tras la muerte de Salomón, el pueblo se rebeló contra el nuevo rey, Roboam. Como resultado, la nación se dividió en dos reinos. Diez tribus establecieron el reino del norte, o Israel, con Jeroboam como su rey. Roboam reinó sobre el reino del sur, o Judá, que estaba compuesto únicamente por dos tribus: Judá y Benjamín.
 
@@ -4512,7 +4516,7 @@ Figura 5.3
 
 #### 5.3.2 — Relacionar los gobernantes clave con los eventos importantes de cada dinastía del reino del norte.
 
-N ombrar las cinco dinastías del reino del norte.
+Nombrar las cinco dinastías del reino del norte.
 
 Tras la muerte de Salomón, el pueblo se rebeló contra el nuevo rey, Roboam. Como resultado, la nación se dividió en dos reinos. Diez tribus establecieron el reino del norte, o Israel, con Jeroboam como su rey. Roboam reinó sobre el reino del sur, o Judá, que estaba compuesto únicamente por dos tribus: Judá y Benjamín.
 
@@ -4950,6 +4954,8 @@ Figura 5.3
 
 #### 6.1.1 — Identificar los tres períodos del reino dividido.
 
+Identificar los tres períodos del reino dividido.
+
 Los tres períodos del reino dividido de Israel y Judá
 
 Reino
@@ -5128,7 +5134,7 @@ D. Acaz, padre de Ezequías
 
 Figura 6.2
 
-I dentificar a los reyes más importantes y resumir los acontecimientos de los tres períodos del reino dividido.
+Identificar a los reyes más importantes y resumir los acontecimientos de los tres períodos del reino dividido.
 
 Primer período: Sesenta años de guerra (Roboam–Asá)
 
@@ -5210,6 +5216,8 @@ Mientras Judá forcejeaba a lo largo de los años de idolatría con Acaz, el jui
 
 #### 6.1.2 — Identificar a los reyes más importantes y resumir los acontecimientos de los tres períodos del reino dividido.
 
+Identificar los tres períodos del reino dividido.
+
 Los tres períodos del reino dividido de Israel y Judá
 
 Reino
@@ -5388,7 +5396,7 @@ D. Acaz, padre de Ezequías
 
 Figura 6.2
 
-I dentificar a los reyes más importantes y resumir los acontecimientos de los tres períodos del reino dividido.
+Identificar a los reyes más importantes y resumir los acontecimientos de los tres períodos del reino dividido.
 
 Primer período: Sesenta años de guerra (Roboam–Asá)
 
@@ -5472,7 +5480,7 @@ Mientras Judá forcejeaba a lo largo de los años de idolatría con Acaz, el jui
 
 #### 6.2.1 — Resumir los reinados de Ezequías, Manasés y Josías.
 
-R esumir los reinados de Ezequías, Manasés y Josías.
+Resumir los reinados de Ezequías, Manasés y Josías.
 
 Recuerde que la historia del reino de Israel se puede dividir en tres etapas: (1) el reino unido, (2) el reino dividido y (3) el reino sobreviviente. La siguiente tabla da algunos detalles más sobre cada uno de estos períodos:
 
@@ -5674,7 +5682,7 @@ Unos años antes de que comenzara el avivamiento espiritual de Josías, las naci
 
 Aunque Necao no deseaba luchar contra Judá, Josías se negó a dar marcha atrás y se enfrentó a él en batalla. Durante el combate, Josías se disfrazó y fue alcanzado por una flecha. Falleció poco después, a la edad de treinta y nueve años. Según 2 Crónicas 35:22, Josías no reconoció que Dios realmente le había hablado a Necao y le había ordenado que atacara a los babilonios. El pueblo de Judá lloró la muerte de su rey, y el profeta Jeremías escribió un lamento en memoria de Josías (2 Crónicas 35:25).
 
-D escribir los acontecimientos relacionados con los últimos reyes de Judá.
+Describir los acontecimientos relacionados con los últimos reyes de Judá.
 
 Los últimos reyes de Judá (2 Reyes 23:31–25:30; 2 Crónicas 36)
 
@@ -6006,7 +6014,7 @@ Figura 6.5
 
 #### 6.2.2 — Describir los acontecimientos relacionados con los últimos reyes de Judá.
 
-R esumir los reinados de Ezequías, Manasés y Josías.
+Resumir los reinados de Ezequías, Manasés y Josías.
 
 Recuerde que la historia del reino de Israel se puede dividir en tres etapas: (1) el reino unido, (2) el reino dividido y (3) el reino sobreviviente. La siguiente tabla da algunos detalles más sobre cada uno de estos períodos:
 
@@ -6208,7 +6216,7 @@ Unos años antes de que comenzara el avivamiento espiritual de Josías, las naci
 
 Aunque Necao no deseaba luchar contra Judá, Josías se negó a dar marcha atrás y se enfrentó a él en batalla. Durante el combate, Josías se disfrazó y fue alcanzado por una flecha. Falleció poco después, a la edad de treinta y nueve años. Según 2 Crónicas 35:22, Josías no reconoció que Dios realmente le había hablado a Necao y le había ordenado que atacara a los babilonios. El pueblo de Judá lloró la muerte de su rey, y el profeta Jeremías escribió un lamento en memoria de Josías (2 Crónicas 35:25).
 
-D escribir los acontecimientos relacionados con los últimos reyes de Judá.
+Describir los acontecimientos relacionados con los últimos reyes de Judá.
 
 Los últimos reyes de Judá (2 Reyes 23:31–25:30; 2 Crónicas 36)
 
@@ -6544,7 +6552,7 @@ Figura 6.5
 
 #### 7.1.1 — Analizar al autor, el propósito y el contexto del libro de Esdras.
 
-A nalizar al autor, el propósito y el contexto del libro de Esdras.
+Analizar al autor, el propósito y el contexto del libro de Esdras.
 
 Autoría y la figura de Esdras
 
@@ -6634,7 +6642,7 @@ Cuando un nuevo gobernante llamado Darío llegó al poder en Persia, impidió qu
 
 En un plazo de cinco años, se completó la reconstrucción del templo. Los judíos celebraron con alegría la dedicación del templo. Se restablecieron los sacrificios en el templo conforme a la ley de Moisés y se cumplieron las esperanzas del pueblo que había regresado.
 
-C ontrastar los temas de Esdras 1–6 y Esdras 7–10.
+Contrastar los temas de Esdras 1–6 y Esdras 7–10.
 
 El segundo grupo regresa de Babilonia (Esdras 7–8)
 
@@ -6778,7 +6786,7 @@ Malaquías 1–4
 
 #### 7.1.2 — Resumir las tres etapas del exilio y las tres del regreso de los judíos.
 
-A nalizar al autor, el propósito y el contexto del libro de Esdras.
+Analizar al autor, el propósito y el contexto del libro de Esdras.
 
 Autoría y la figura de Esdras
 
@@ -6868,7 +6876,7 @@ Cuando un nuevo gobernante llamado Darío llegó al poder en Persia, impidió qu
 
 En un plazo de cinco años, se completó la reconstrucción del templo. Los judíos celebraron con alegría la dedicación del templo. Se restablecieron los sacrificios en el templo conforme a la ley de Moisés y se cumplieron las esperanzas del pueblo que había regresado.
 
-C ontrastar los temas de Esdras 1–6 y Esdras 7–10.
+Contrastar los temas de Esdras 1–6 y Esdras 7–10.
 
 El segundo grupo regresa de Babilonia (Esdras 7–8)
 
@@ -7012,7 +7020,7 @@ Malaquías 1–4
 
 #### 7.1.3 — Contrastar los temas de Esdras 1–6 y Esdras 7–10.
 
-A nalizar al autor, el propósito y el contexto del libro de Esdras.
+Analizar al autor, el propósito y el contexto del libro de Esdras.
 
 Autoría y la figura de Esdras
 
@@ -7102,7 +7110,7 @@ Cuando un nuevo gobernante llamado Darío llegó al poder en Persia, impidió qu
 
 En un plazo de cinco años, se completó la reconstrucción del templo. Los judíos celebraron con alegría la dedicación del templo. Se restablecieron los sacrificios en el templo conforme a la ley de Moisés y se cumplieron las esperanzas del pueblo que había regresado.
 
-C ontrastar los temas de Esdras 1–6 y Esdras 7–10.
+Contrastar los temas de Esdras 1–6 y Esdras 7–10.
 
 El segundo grupo regresa de Babilonia (Esdras 7–8)
 
@@ -7248,7 +7256,7 @@ Malaquías 1–4
 
 #### 7.2.1 — Analizar el carácter y la obra de Nehemías.
 
-A nalizar el carácter y la obra de Nehemías.
+Analizar el carácter y la obra de Nehemías.
 
 Como se mencionó en la lección anterior, aunque la autoría de Esdras y Nehemías es en gran medida desconocida, muchos consideran que son obra de un mismo autor o compilador. Esdras y Nehemías vivieron y ejercieron su ministerio al mismo tiempo que los profetas Hageo, Zacarías y Malaquías.
 
@@ -7334,7 +7342,7 @@ Después de captar la atención del rey, Ester organiza dos banquetes que inclui
 
 Debido a que la ley no permitía a Asuero cambiar el decreto original, él emitió un nuevo decreto que permitía a los judíos prepararse para el día de ataque y defenderse, lo que hicieron con éxito. En dos días de lucha, los judíos mataron setenta y cinco mil de sus enemigos (Ester 8:11–9:16).
 
-E xplicar el significado de Purim.
+Explicar el significado de Purim.
 
 Los judíos celebraron su liberación con una fiesta a la que llamaron Purim . En los tiempos del Antiguo Testamento, las personas lanzaron pur , o suertes, para tomar decisiones. La palabra purim significa “dos o más suertes”. Los judíos llamaron a su fiesta Purim para recordar que, aunque Amán había utilizado un pur para elegir un día en que destruirlos, Dios fue fiel y los liberó (Ester 9:19–28).
 
@@ -7388,7 +7396,7 @@ Después de captar la atención del rey, Ester organiza dos banquetes que inclui
 
 Debido a que la ley no permitía a Asuero cambiar el decreto original, él emitió un nuevo decreto que permitía a los judíos prepararse para el día de ataque y defenderse, lo que hicieron con éxito. En dos días de lucha, los judíos mataron setenta y cinco mil de sus enemigos (Ester 8:11–9:16).
 
-E xplicar el significado de Purim.
+Explicar el significado de Purim.
 
 Los judíos celebraron su liberación con una fiesta a la que llamaron Purim . En los tiempos del Antiguo Testamento, las personas lanzaron pur , o suertes, para tomar decisiones. La palabra purim significa “dos o más suertes”. Los judíos llamaron a su fiesta Purim para recordar que, aunque Amán había utilizado un pur para elegir un día en que destruirlos, Dios fue fiel y los liberó (Ester 9:19–28).
 
@@ -7426,7 +7434,7 @@ Por ejemplo, la Biblia registra con precisión la discusión entre los amigos de
 
 Tema
 
-A nalizar las reflexiones de Job sobre la justicia de Dios y el sufrimiento humano.
+Analizar las reflexiones de Job sobre la justicia de Dios y el sufrimiento humano.
 
 El término técnico para referirse a la relación problemática entre la bondad de Dios y el sufrimiento humano es teodicea . ¿Cómo reconciliamos que Dios sea todopoderoso, todo amor, y que realiza justicia, cuando a menudo no vemos que se manifieste la justicia en nuestras vidas y naciones? ¿Cómo puede un Dios bueno y afectuoso, tolerar el problema humano de la maldad y el sufrimiento?
 
@@ -7564,7 +7572,7 @@ Por ejemplo, la Biblia registra con precisión la discusión entre los amigos de
 
 Tema
 
-A nalizar las reflexiones de Job sobre la justicia de Dios y el sufrimiento humano.
+Analizar las reflexiones de Job sobre la justicia de Dios y el sufrimiento humano.
 
 El término técnico para referirse a la relación problemática entre la bondad de Dios y el sufrimiento humano es teodicea . ¿Cómo reconciliamos que Dios sea todopoderoso, todo amor, y que realiza justicia, cuando a menudo no vemos que se manifieste la justicia en nuestras vidas y naciones? ¿Cómo puede un Dios bueno y afectuoso, tolerar el problema humano de la maldad y el sufrimiento?
 
@@ -7686,7 +7694,7 @@ Al final, el libro de Job no ofrece una respuesta clara a la cuestión teodicea.
 
 #### 8.2.1 — Analizar los antecedentes históricos del libro de los Salmos, incluyendo sus autores y fechas.
 
-A nalizar el contexto histórico del libro de los Salmos, incluyendo sus autores y fechas.
+Analizar el contexto histórico del libro de los Salmos, incluyendo sus autores y fechas.
 
 Muchos de los salmos fueron musicalizados y estaban destinados tanto al culto público como al privado. Como resultado, las introducciones de algunos, como los Salmos 4 y 5, incluyen notas para el director del coro. Varios salmos alientan a cantar (por ejemplo, Salmo 95:1–2; 96:1–2; 98:1, 4–6), mientras que otros invitan a los músicos a alabar a Dios con sus instrumentos (por ejemplo, Salmo 33:2; 98:5–6; 108:1–2; 150:3–5). Muchos de estos salmos estaban destinados a ser cantados en el templo durante las ceremonias religiosas. Esto explica por qué a menudo alternan entre el singular y el plural.
 
@@ -7708,7 +7716,7 @@ El Nuevo Testamento cita el libro de Salmos 186 veces, mucho más de lo que cita
 
 Características de la poesía hebrea
 
-E xplicar cuatro tipos de poesía paralela.
+Explicar cuatro tipos de poesía paralela.
 
 La poesía hebrea no se basa en la rima. Se basa principalmente en líneas de pensamiento paralelas, como las vías de un tren. El término para esto es paralelismo . En las Escrituras se emplean al menos cuatro tipos de poesía paralela: sinónimo, antitético, sintético y quiástico.
 
@@ -7808,7 +7816,7 @@ Dado que los encabezados se agregaron mucho después, muchos eruditos cuestionan
 
 #### 8.2.2 — Explicar los cuatro tipos de poesía paralela.
 
-A nalizar el contexto histórico del libro de los Salmos, incluyendo sus autores y fechas.
+Analizar el contexto histórico del libro de los Salmos, incluyendo sus autores y fechas.
 
 Muchos de los salmos fueron musicalizados y estaban destinados tanto al culto público como al privado. Como resultado, las introducciones de algunos, como los Salmos 4 y 5, incluyen notas para el director del coro. Varios salmos alientan a cantar (por ejemplo, Salmo 95:1–2; 96:1–2; 98:1, 4–6), mientras que otros invitan a los músicos a alabar a Dios con sus instrumentos (por ejemplo, Salmo 33:2; 98:5–6; 108:1–2; 150:3–5). Muchos de estos salmos estaban destinados a ser cantados en el templo durante las ceremonias religiosas. Esto explica por qué a menudo alternan entre el singular y el plural.
 
@@ -7830,7 +7838,7 @@ El Nuevo Testamento cita el libro de Salmos 186 veces, mucho más de lo que cita
 
 Características de la poesía hebrea
 
-E xplicar cuatro tipos de poesía paralela.
+Explicar cuatro tipos de poesía paralela.
 
 La poesía hebrea no se basa en la rima. Se basa principalmente en líneas de pensamiento paralelas, como las vías de un tren. El término para esto es paralelismo . En las Escrituras se emplean al menos cuatro tipos de poesía paralela: sinónimo, antitético, sintético y quiástico.
 
@@ -7930,7 +7938,7 @@ Dado que los encabezados se agregaron mucho después, muchos eruditos cuestionan
 
 #### 8.2.3 — Identificar las cinco secciones de los Salmos y explicar su importancia.
 
-A nalizar el contexto histórico del libro de los Salmos, incluyendo sus autores y fechas.
+Analizar el contexto histórico del libro de los Salmos, incluyendo sus autores y fechas.
 
 Muchos de los salmos fueron musicalizados y estaban destinados tanto al culto público como al privado. Como resultado, las introducciones de algunos, como los Salmos 4 y 5, incluyen notas para el director del coro. Varios salmos alientan a cantar (por ejemplo, Salmo 95:1–2; 96:1–2; 98:1, 4–6), mientras que otros invitan a los músicos a alabar a Dios con sus instrumentos (por ejemplo, Salmo 33:2; 98:5–6; 108:1–2; 150:3–5). Muchos de estos salmos estaban destinados a ser cantados en el templo durante las ceremonias religiosas. Esto explica por qué a menudo alternan entre el singular y el plural.
 
@@ -7952,7 +7960,7 @@ El Nuevo Testamento cita el libro de Salmos 186 veces, mucho más de lo que cita
 
 Características de la poesía hebrea
 
-E xplicar cuatro tipos de poesía paralela.
+Explicar cuatro tipos de poesía paralela.
 
 La poesía hebrea no se basa en la rima. Se basa principalmente en líneas de pensamiento paralelas, como las vías de un tren. El término para esto es paralelismo . En las Escrituras se emplean al menos cuatro tipos de poesía paralela: sinónimo, antitético, sintético y quiástico.
 
@@ -8602,7 +8610,7 @@ El Cantar, por lo tanto, tiene un propósito didáctico y moral. Llega a nosotro
 
 #### 10.1.1 — Describir los antecedentes de Jonás, incluyendo la autoría y la fecha.
 
-D escribir los antecedentes de Jonás, incluyendo la autoría y la fecha.
+Describir los antecedentes de Jonás, incluyendo la autoría y la fecha.
 
 Jonás predicó a dos naciones diferentes: a Israel y a Asiria. En lo que respecta a Israel, la Biblia solo menciona que Jonás predicó la palabra de Dios durante el reinado de Jeroboam II. Él predijo victorias militares que se cumplieron durante el reinado de este rey (2 Reyes 14:25). Luego, el libro de Jonás describe el ministerio de este profeta en la nación de Asiria.
 
@@ -8644,7 +8652,7 @@ C. Consecuencias de la obediencia de Jonás (3:5–10)
 
 D. La lección de Jonás (4:1–11)
 
-A plicar las lecciones de Jonás a los creyentes de hoy.
+Aplicar las lecciones de Jonás a los creyentes de hoy.
 
 El primer llamado de Dios (Jonás 1–2)
 
@@ -8692,7 +8700,7 @@ Una segunda cuestión teológica se refiere al tema misionero del libro. Dios te
 
 #### 10.1.2 — Aplicar las lecciones de Jonás a los creyentes de hoy.
 
-D escribir los antecedentes de Jonás, incluyendo la autoría y la fecha.
+Describir los antecedentes de Jonás, incluyendo la autoría y la fecha.
 
 Jonás predicó a dos naciones diferentes: a Israel y a Asiria. En lo que respecta a Israel, la Biblia solo menciona que Jonás predicó la palabra de Dios durante el reinado de Jeroboam II. Él predijo victorias militares que se cumplieron durante el reinado de este rey (2 Reyes 14:25). Luego, el libro de Jonás describe el ministerio de este profeta en la nación de Asiria.
 
@@ -8734,7 +8742,7 @@ C. Consecuencias de la obediencia de Jonás (3:5–10)
 
 D. La lección de Jonás (4:1–11)
 
-A plicar las lecciones de Jonás a los creyentes de hoy.
+Aplicar las lecciones de Jonás a los creyentes de hoy.
 
 El primer llamado de Dios (Jonás 1–2)
 
@@ -8784,7 +8792,7 @@ Una segunda cuestión teológica se refiere al tema misionero del libro. Dios te
 
 #### 10.2.1 — Describir el llamado y el tema central del libro de Amós.
 
-D escribir el llamado y el tema central del libro de Amós.
+Describir el llamado y el tema central del libro de Amós.
 
 Autor y fecha
 
@@ -8808,7 +8816,7 @@ El libro de Amós es famoso por sus imágenes impactantes y su lenguaje metafór
 
 Bosquejo
 
-E xplicar tres principios de Amós 3–6.
+Explicar tres principios de Amós 3–6.
 
 I. Juicios sobre ocho naciones, Amós 1:1–2:16
 
@@ -8890,7 +8898,7 @@ Dios es, en efecto, un Dios de todas las naciones. Amós 9:11–12 no es más qu
 
 #### 10.2.2 — Explicar tres principios de Amós 3–6.
 
-D escribir el llamado y el tema central del libro de Amós.
+Describir el llamado y el tema central del libro de Amós.
 
 Autor y fecha
 
@@ -8914,7 +8922,7 @@ El libro de Amós es famoso por sus imágenes impactantes y su lenguaje metafór
 
 Bosquejo
 
-E xplicar tres principios de Amós 3–6.
+Explicar tres principios de Amós 3–6.
 
 I. Juicios sobre ocho naciones, Amós 1:1–2:16
 
@@ -9024,13 +9032,13 @@ V. La posibilidad de la restauración, Oseas 14
 
 Problemas familiares (Oseas 1–3)
 
-E xplicar en qué se parecían el matrimonio y el mensaje de Oseas.
+Explicar en qué se parecían el matrimonio y el mensaje de Oseas.
 
 Al igual que con el Cantar de los cantares, algunas personas han cuestionado el papel del libro de Oseas en la Palabra inspirada de Dios. Después de todo, si el mensaje es un llamado a Israel a arrepentirse debido a su infidelidad, ¿por qué le diría Dios a Oseas que se casara con una prostituta? ¿No es eso una contradicción?
 
 Parte de la controversia gira en torno a la pregunta de si Gomer, la esposa de Oseas, fue infiel antes o solo después de que Oseas se casara con ella. Algunos eruditos sostienen que Gomer cometió adulterio solo después de su matrimonio con Oseas. Afirman que 1) la forma plural de adulterio en el Hebreo se refiere más al carácter que a hechos específicos, (2) los hijos de fornicación se refieren a los hijos nacidos después del matrimonio de Oseas y Gomer, y (3) el primer hijo se describe como el hijo de Oseas (Dyer y Merrill 2001, 725). Ellos argumentan que este punto de vista “encaja mejor con la analogía de Dios e Israel (2:15)” (Arnold y Beyer 1999, 441). Sin embargo, a otros eruditos, el texto bíblico indica fuertemente que Gomer era una prostituta antes del matrimonio. Ellos se enfocan en el término ramera o el uso de mujer fornicaria en Oseas 1:2 y por lo menos otras doce veces en todo el Antiguo Testamento. Mientras el debate continúa sobre su significado en 1:2, en las otras ocurrencias del Antiguo Testamento, “el término se refiere a la prostitución pasada o presente, nunca a la prostitución futura” (Arnold y Beyer 1999, 441).
 
-E numerar los temas tratados en Oseas.
+Enumerar los temas tratados en Oseas.
 
 Este curso adopta la postura de que lo más probable es que Gomer fuera una prostituta antes del matrimonio y continuara con su infidelidad incluso después de casarse. Es decir, preferimos una conclusión que combine ambos aspectos a partir del texto bíblico, en lugar de una interpretación que se decante por uno u otro (véase Hill y Walton 2023, 419).
 
@@ -9090,13 +9098,13 @@ V. La posibilidad de la restauración, Oseas 14
 
 Problemas familiares (Oseas 1–3)
 
-E xplicar en qué se parecían el matrimonio y el mensaje de Oseas.
+Explicar en qué se parecían el matrimonio y el mensaje de Oseas.
 
 Al igual que con el Cantar de los cantares, algunas personas han cuestionado el papel del libro de Oseas en la Palabra inspirada de Dios. Después de todo, si el mensaje es un llamado a Israel a arrepentirse debido a su infidelidad, ¿por qué le diría Dios a Oseas que se casara con una prostituta? ¿No es eso una contradicción?
 
 Parte de la controversia gira en torno a la pregunta de si Gomer, la esposa de Oseas, fue infiel antes o solo después de que Oseas se casara con ella. Algunos eruditos sostienen que Gomer cometió adulterio solo después de su matrimonio con Oseas. Afirman que 1) la forma plural de adulterio en el Hebreo se refiere más al carácter que a hechos específicos, (2) los hijos de fornicación se refieren a los hijos nacidos después del matrimonio de Oseas y Gomer, y (3) el primer hijo se describe como el hijo de Oseas (Dyer y Merrill 2001, 725). Ellos argumentan que este punto de vista “encaja mejor con la analogía de Dios e Israel (2:15)” (Arnold y Beyer 1999, 441). Sin embargo, a otros eruditos, el texto bíblico indica fuertemente que Gomer era una prostituta antes del matrimonio. Ellos se enfocan en el término ramera o el uso de mujer fornicaria en Oseas 1:2 y por lo menos otras doce veces en todo el Antiguo Testamento. Mientras el debate continúa sobre su significado en 1:2, en las otras ocurrencias del Antiguo Testamento, “el término se refiere a la prostitución pasada o presente, nunca a la prostitución futura” (Arnold y Beyer 1999, 441).
 
-E numerar los temas tratados en Oseas.
+Enumerar los temas tratados en Oseas.
 
 Este curso adopta la postura de que lo más probable es que Gomer fuera una prostituta antes del matrimonio y continuara con su infidelidad incluso después de casarse. Es decir, preferimos una conclusión que combine ambos aspectos a partir del texto bíblico, en lugar de una interpretación que se decante por uno u otro (véase Hill y Walton 2023, 419).
 
@@ -9156,13 +9164,13 @@ V. La posibilidad de la restauración, Oseas 14
 
 Problemas familiares (Oseas 1–3)
 
-E xplicar en qué se parecían el matrimonio y el mensaje de Oseas.
+Explicar en qué se parecían el matrimonio y el mensaje de Oseas.
 
 Al igual que con el Cantar de los cantares, algunas personas han cuestionado el papel del libro de Oseas en la Palabra inspirada de Dios. Después de todo, si el mensaje es un llamado a Israel a arrepentirse debido a su infidelidad, ¿por qué le diría Dios a Oseas que se casara con una prostituta? ¿No es eso una contradicción?
 
 Parte de la controversia gira en torno a la pregunta de si Gomer, la esposa de Oseas, fue infiel antes o solo después de que Oseas se casara con ella. Algunos eruditos sostienen que Gomer cometió adulterio solo después de su matrimonio con Oseas. Afirman que 1) la forma plural de adulterio en el Hebreo se refiere más al carácter que a hechos específicos, (2) los hijos de fornicación se refieren a los hijos nacidos después del matrimonio de Oseas y Gomer, y (3) el primer hijo se describe como el hijo de Oseas (Dyer y Merrill 2001, 725). Ellos argumentan que este punto de vista “encaja mejor con la analogía de Dios e Israel (2:15)” (Arnold y Beyer 1999, 441). Sin embargo, a otros eruditos, el texto bíblico indica fuertemente que Gomer era una prostituta antes del matrimonio. Ellos se enfocan en el término ramera o el uso de mujer fornicaria en Oseas 1:2 y por lo menos otras doce veces en todo el Antiguo Testamento. Mientras el debate continúa sobre su significado en 1:2, en las otras ocurrencias del Antiguo Testamento, “el término se refiere a la prostitución pasada o presente, nunca a la prostitución futura” (Arnold y Beyer 1999, 441).
 
-E numerar los temas tratados en Oseas.
+Enumerar los temas tratados en Oseas.
 
 Este curso adopta la postura de que lo más probable es que Gomer fuera una prostituta antes del matrimonio y continuara con su infidelidad incluso después de casarse. Es decir, preferimos una conclusión que combine ambos aspectos a partir del texto bíblico, en lugar de una interpretación que se decante por uno u otro (véase Hill y Walton 2023, 419).
 
@@ -9634,7 +9642,7 @@ Judas 14
 
 #### 11.3.1 — Identificar a los reyes del tiempo de Miqueas y explicar por qué Miqueas profetizó tanto sobre el juicio como sobre la misericordia.
 
-I dentificar a los reyes de la época de Miqueas y explicar por qué Miqueas profetizó tanto sobre el juicio como sobre la misericordia.
+Identificar a los reyes de la época de Miqueas y explicar por qué Miqueas profetizó tanto sobre el juicio como sobre la misericordia.
 
 Autor y fecha
 
@@ -11508,7 +11516,7 @@ El papel de Elías como heraldo que proclama el tiempo señalado para la ira de 
 
 #### 15.1.1 — Explicar las diferencias entre el Antiguo y el Nuevo Testamento.
 
-E xplicar las diferencias entre el Antiguo y el Nuevo Testamento.
+Explicar las diferencias entre el Antiguo y el Nuevo Testamento.
 
 Existen tanto continuidad (similitudes) como discontinuidad (diferencias) entre el Antiguo y el Nuevo Testamento. Si bien es importante reconocer los aspectos del Nuevo Testamento que son genuinamente distintos del Antiguo Testamento, es fundamental enfatizar los puntos sustanciales de continuidad entre ambos. Todos los autores del Nuevo Testamento y los primeros cristianos afirmaron que el Antiguo Testamento hablaba de Jesús. Debemos afirmar lo mismo.
 
@@ -11536,7 +11544,7 @@ Por lo tanto, lo mejor es reconocer que en las Escrituras existe tanto diversida
 
 #### 15.2.1 — Explicar las similitudes y la unidad entre el Antiguo y el Nuevo Testamento.
 
-E xplicar las similitudes y la unidad entre el Antiguo y el Nuevo Testamento.
+Explicar las similitudes y la unidad entre el Antiguo y el Nuevo Testamento.
 
 El concepto de la continuidad significa que las Escrituras están unidas en su intención y propósito divinos. Es decir, el Antiguo y el Nuevo Testamento están conectados de alguna manera. ¿Qué cosas tienen en común? ¿Cómo son similares? ¿Qué temas vinculan a los dos testamentos? ¿Cómo vieron el Antiguo Testamento Jesús y los autores del Nuevo Testamento?
 
@@ -11562,15 +11570,15 @@ Como ya hemos señalado, el Antiguo Testamento es, sin lugar a dudas, la base hi
 
 #### 15.3.1 — Enumerar los principios para evaluar cómo determinar si un pasaje del Antiguo Testamento es aplicable a los creyentes de hoy.
 
-E numerar los principios para evaluar cómo determinar si un pasaje del Antiguo Testamento se aplica a los creyentes de hoy.
+Enumerar los principios para evaluar cómo determinar si un pasaje del Antiguo Testamento se aplica a los creyentes de hoy.
 
 ¿Es el Antiguo Testamento verdaderamente relevante para nuestras vidas hoy en día? A lo largo de la historia de la Iglesia, los cristianos han sostenido que el Antiguo Testamento sigue siendo relevante para el creyente. Lamentablemente, muchos cristianos a lo largo de la historia han cometido el grave error de omitir el Antiguo Testamento de sus estudios serios. Cuando esto se ha hecho de manera intencional, ha generado resultados terribles, incluido el antisemitismo del Holocausto. Si bien omitir involuntariamente el Antiguo Testamento es un error más común, también plantea problemas similares, pues distorsiona el evangelio y desconecta a Jesús de su herencia judía. La pregunta para los cristianos, entonces, no es si debemos leer el Antiguo Testamento, sino cómo debemos relacionarnos con él.
 
 Por lo tanto, tanto la continuidad como la discontinuidad entre el Antiguo y el Nuevo Testamento deben analizarse a la luz de los principios básicos de la interpretación (una disciplina denominada hermenéutica ). Debemos comprender qué leyes o conceptos estaban destinados a ser universales y cuáles fueron concebidos exclusivamente para la teocracia de Israel prevista en el antiguo pacto. Como hemos señalado, los creyentes del Nuevo Testamento no deben sacrificar animales ni considerar tales leyes como un mandato divino para la actualidad. Pero, ¿por qué no? ¿Cómo determinamos si un pasaje del Antiguo Testamento es prescriptivo para nuestros tiempos? ¿Qué principios de interpretación bíblica (hermenéutica) debemos emplear? A continuación se presentan tres principios que pueden servir como pautas:
 
-A plicar los principios a un pasaje asignado del Antiguo Testamento e indique si ese pasaje en particular es aplicable en la actualidad. Descriptivo frente a prescriptivo: Tanto el Antiguo como el Nuevo Testamento incluyen pasajes tanto descriptivos como prescriptivos. Es decir, algunos pasajes tienen como único propósito describir un comportamiento, mientras que otros pretenden prescribir o alentar ciertos comportamientos o acciones. Por ejemplo, si bien la intención de la narrativa del Antiguo Testamento es enseñar tanto historia como teología, el relato bíblico de la conquista de Canaán por parte de Israel no pretende ser una prescripción divina para que los creyentes conquisten cualquier nueva tierra que consideren que Dios les ha dado. Por el contrario, las narraciones del Antiguo Testamento suelen enseñar un principio universal que puede extraerse de la narración. Además, algunas narraciones del Antiguo Testamento, como el pecado de David contra Urías y Betsabé, tienen como objetivo advertirnos sobre los peligros de ceder a la tentación y de mentir.
+Aplicar los principios a un pasaje asignado del Antiguo Testamento e indique si ese pasaje en particular es aplicable en la actualidad. Descriptivo frente a prescriptivo: Tanto el Antiguo como el Nuevo Testamento incluyen pasajes tanto descriptivos como prescriptivos. Es decir, algunos pasajes tienen como único propósito describir un comportamiento, mientras que otros pretenden prescribir o alentar ciertos comportamientos o acciones. Por ejemplo, si bien la intención de la narrativa del Antiguo Testamento es enseñar tanto historia como teología, el relato bíblico de la conquista de Canaán por parte de Israel no pretende ser una prescripción divina para que los creyentes conquisten cualquier nueva tierra que consideren que Dios les ha dado. Por el contrario, las narraciones del Antiguo Testamento suelen enseñar un principio universal que puede extraerse de la narración. Además, algunas narraciones del Antiguo Testamento, como el pecado de David contra Urías y Betsabé, tienen como objetivo advertirnos sobre los peligros de ceder a la tentación y de mentir.
 
-A plicar los principios a un pasaje asignado del Antiguo Testamento e indique si ese pasaje en particular es aplicable en la actualidad.
+Aplicar los principios a un pasaje asignado del Antiguo Testamento e indique si ese pasaje en particular es aplicable en la actualidad.
 
 Tomar en cuenta el contexto: De acuerdo con este principio, los lectores o intérpretes deben prestar atención al contexto inmediato de la frase en cuestión; deben examinar las palabras que la rodean para comprender mejor el significado de la afirmación. A continuación, los lectores deben considerar el contexto del versículo, del capítulo y de todo el libro de la Biblia. Además, deben determinar si un pasaje del Nuevo Testamento interpreta a uno del Antiguo Testamento. Dado que el Nuevo Testamento recurre con tanta frecuencia al Antiguo Testamento, los lectores deben estar atentos a las formas en que el ministerio, la vida, la muerte y la resurrección de Cristo reinterpretan los pasajes del Antiguo Testamento. Como Jesús insistió de manera memorable en el camino a Emaús, todas las Escrituras hablan en última instancia de Él y de Su papel en la redención del mundo por parte de Dios.
 
@@ -11594,15 +11602,15 @@ La continuidad entre los dos testamentos, así como la vida, muerte y resurrecci
 
 #### 15.3.2 — Aplicar los principios a un pasaje asignado del Antiguo Testamento e indique si ese pasaje en particular es aplicable en la actualidad.
 
-E numerar los principios para evaluar cómo determinar si un pasaje del Antiguo Testamento se aplica a los creyentes de hoy.
+Enumerar los principios para evaluar cómo determinar si un pasaje del Antiguo Testamento se aplica a los creyentes de hoy.
 
 ¿Es el Antiguo Testamento verdaderamente relevante para nuestras vidas hoy en día? A lo largo de la historia de la Iglesia, los cristianos han sostenido que el Antiguo Testamento sigue siendo relevante para el creyente. Lamentablemente, muchos cristianos a lo largo de la historia han cometido el grave error de omitir el Antiguo Testamento de sus estudios serios. Cuando esto se ha hecho de manera intencional, ha generado resultados terribles, incluido el antisemitismo del Holocausto. Si bien omitir involuntariamente el Antiguo Testamento es un error más común, también plantea problemas similares, pues distorsiona el evangelio y desconecta a Jesús de su herencia judía. La pregunta para los cristianos, entonces, no es si debemos leer el Antiguo Testamento, sino cómo debemos relacionarnos con él.
 
 Por lo tanto, tanto la continuidad como la discontinuidad entre el Antiguo y el Nuevo Testamento deben analizarse a la luz de los principios básicos de la interpretación (una disciplina denominada hermenéutica ). Debemos comprender qué leyes o conceptos estaban destinados a ser universales y cuáles fueron concebidos exclusivamente para la teocracia de Israel prevista en el antiguo pacto. Como hemos señalado, los creyentes del Nuevo Testamento no deben sacrificar animales ni considerar tales leyes como un mandato divino para la actualidad. Pero, ¿por qué no? ¿Cómo determinamos si un pasaje del Antiguo Testamento es prescriptivo para nuestros tiempos? ¿Qué principios de interpretación bíblica (hermenéutica) debemos emplear? A continuación se presentan tres principios que pueden servir como pautas:
 
-A plicar los principios a un pasaje asignado del Antiguo Testamento e indique si ese pasaje en particular es aplicable en la actualidad. Descriptivo frente a prescriptivo: Tanto el Antiguo como el Nuevo Testamento incluyen pasajes tanto descriptivos como prescriptivos. Es decir, algunos pasajes tienen como único propósito describir un comportamiento, mientras que otros pretenden prescribir o alentar ciertos comportamientos o acciones. Por ejemplo, si bien la intención de la narrativa del Antiguo Testamento es enseñar tanto historia como teología, el relato bíblico de la conquista de Canaán por parte de Israel no pretende ser una prescripción divina para que los creyentes conquisten cualquier nueva tierra que consideren que Dios les ha dado. Por el contrario, las narraciones del Antiguo Testamento suelen enseñar un principio universal que puede extraerse de la narración. Además, algunas narraciones del Antiguo Testamento, como el pecado de David contra Urías y Betsabé, tienen como objetivo advertirnos sobre los peligros de ceder a la tentación y de mentir.
+Aplicar los principios a un pasaje asignado del Antiguo Testamento e indique si ese pasaje en particular es aplicable en la actualidad. Descriptivo frente a prescriptivo: Tanto el Antiguo como el Nuevo Testamento incluyen pasajes tanto descriptivos como prescriptivos. Es decir, algunos pasajes tienen como único propósito describir un comportamiento, mientras que otros pretenden prescribir o alentar ciertos comportamientos o acciones. Por ejemplo, si bien la intención de la narrativa del Antiguo Testamento es enseñar tanto historia como teología, el relato bíblico de la conquista de Canaán por parte de Israel no pretende ser una prescripción divina para que los creyentes conquisten cualquier nueva tierra que consideren que Dios les ha dado. Por el contrario, las narraciones del Antiguo Testamento suelen enseñar un principio universal que puede extraerse de la narración. Además, algunas narraciones del Antiguo Testamento, como el pecado de David contra Urías y Betsabé, tienen como objetivo advertirnos sobre los peligros de ceder a la tentación y de mentir.
 
-A plicar los principios a un pasaje asignado del Antiguo Testamento e indique si ese pasaje en particular es aplicable en la actualidad.
+Aplicar los principios a un pasaje asignado del Antiguo Testamento e indique si ese pasaje en particular es aplicable en la actualidad.
 
 Tomar en cuenta el contexto: De acuerdo con este principio, los lectores o intérpretes deben prestar atención al contexto inmediato de la frase en cuestión; deben examinar las palabras que la rodean para comprender mejor el significado de la afirmación. A continuación, los lectores deben considerar el contexto del versículo, del capítulo y de todo el libro de la Biblia. Además, deben determinar si un pasaje del Nuevo Testamento interpreta a uno del Antiguo Testamento. Dado que el Nuevo Testamento recurre con tanta frecuencia al Antiguo Testamento, los lectores deben estar atentos a las formas en que el ministerio, la vida, la muerte y la resurrección de Cristo reinterpretan los pasajes del Antiguo Testamento. Como Jesús insistió de manera memorable en el camino a Emaús, todas las Escrituras hablan en última instancia de Él y de Su papel en la redención del mundo por parte de Dios.
 
