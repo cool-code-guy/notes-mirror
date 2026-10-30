@@ -111,84 +111,84 @@ Level 1 · 15 chapters · 47 lessons · 84 subobjectives
 
 Full lesson text — https://raw.githubusercontent.com/cool-code-guy/notes-mirror/main/lessons/BIB111S.md (HTML: https://cool-code-guy.github.io/notes-mirror/lessons/BIB111S.html)
 
-Level n/a · 15 chapters · 47 lessons · 83 subobjectives
+Level n/a · 15 chapters · 47 lessons · 84 subobjectives
 
 **Chapter**
-- Lesson (1.1.1, 1.1.2)
-- Lesson (1.2.1, 1.2.2, 1.2.3)
+- El Antiguo Testamento (1.1.1, 1.1.2)
+- Los comienzos (Génesis 1–11) (1.2.1, 1.2.2, 1.2.3)
 
 **Chapter**
-- Lesson (2.1.1, 2.1.2)
-- Lesson (2.2.1)
-- Lesson (2.3.1, 2.3.2)
-- Lesson (2.4.1, 2.4.2, 2.4.3)
+- Abraham (Génesis 12:1–25:11) (2.1.1, 2.1.2)
+- Isaac (Génesis 24:1–28:9) (2.2.1)
+- Jacob (Génesis 25:19–35:27) (2.3.1, 2.3.2)
+- José (Génesis 37–50) (2.4.1, 2.4.2, 2.4.3)
 
 **Chapter**
-- Lesson (3.1.1)
-- Lesson (3.2.1)
-- Lesson (3.3.1)
-- Lesson (3.4.1)
+- Éxodo: La salida de Egipto (3.1.1)
+- Levítico: Las leyes para vivir (3.2.1)
+- Números: Las leyes para viajar (3.3.1)
+- Deuteronomio: La centralidad del pacto (3.4.1)
 
 **Chapter**
-- Lesson (4.1.1, 4.1.2)
-- Lesson (4.2.1, 4.2.2)
-- Lesson (4.3.1)
-- Lesson (4.4.1, 4.4.2)
+- Josué: La conquista de Canaán (4.1.1, 4.1.2)
+- Jueces: El asentamiento en Canaán (4.2.1, 4.2.2)
+- Rut: La gracia providencial (4.3.1)
+- 1 Samuel: Los principios del reino (4.4.1, 4.4.2)
 
 **Chapter**
-- Lesson (5.1.1, 5.1.2)
-- Lesson (5.2.1, 5.2.2)
-- Lesson (5.3.1, 5.3.2)
+- El reinado de David (2 Samuel; 1 Crónicas) (5.1.1, 5.1.2)
+- El reinado de Salomón (1 Reyes 1–11; 2 Crónicas 1–9) (5.2.1, 5.2.2)
+- El reino del norte (1 Reyes 12–2 Reyes 17) (5.3.1, 5.3.2)
 
 **Chapter**
-- Lesson (6.1.1, 6.1.2)
-- Lesson (6.2.1, 6.2.2)
+- De Roboam a Acaz: Judá durante el reino dividido (1 Reyes 12–22; 2 Reyes 8–16; 2 Crónicas 10–28) (6.1.1, 6.1.2)
+- De Ezequías a Sedequías: Judá, el reino que sobrevivió (2 Reyes 18–24; 2 Crónicas 29–36) (6.2.1, 6.2.2)
 
 **Chapter**
-- Lesson (7.1.1, 7.1.2, 7.1.3)
-- Lesson (7.2.1)
-- Lesson (7.3.1, 7.3.2)
+- Esdras: La reconstrucción del templo (7.1.1, 7.1.2, 7.1.3)
+- Nehemías: La reconstrucción de los muros (7.2.1)
+- Ester: La protección de la nación (7.3.1, 7.3.2)
 
 **Chapter**
-- Lesson (8.1.1, 8.1.2)
-- Lesson (8.2.1, 8.2.2, 8.2.3)
-- Lesson (8.3.1)
+- Job: la perseverancia en el sufrimiento (8.1.1, 8.1.2)
+- Los Salmos: el himnario y el libro de oraciones de Israel (8.2.1, 8.2.2, 8.2.3)
+- Los Salmos: categorías de los salmos (8.3.1)
 
 **Chapter**
-- Lesson (9.1.1, 9.1.2)
-- Lesson (9.2.1, 9.2.2)
-- Lesson (9.3.1, 9.3.2)
+- Proverbios (9.1.1, 9.1.2)
+- Eclesiastés (9.2.1, 9.2.2)
+- Cantar de los cantares (9.3.1, 9.3.2)
 
 **Chapter**
-- Lesson (10.1.1, 10.1.2)
-- Lesson (10.2.1, 10.2.2)
-- Lesson (10.3.1, 10.3.3)
+- Jonás: el profeta fugitivo (10.1.1, 10.1.2)
+- Amós: El pastor profeta (10.2.1, 10.2.2)
+- Oseas: el profeta y la prostituta (10.3.1, 10.3.2, 10.3.3)
 
 **Chapter**
-- Lesson (11.1.1)
-- Lesson (11.2.1, 11.2.2)
-- Lesson (11.3.1)
+- Joel: el profeta de Pentecostés (11.1.1)
+- Isaías: el profeta del Mesías (11.2.1, 11.2.2)
+- Miqueas: el profeta del juicio y la misericordia (11.3.1)
 
 **Chapter**
-- Lesson (12.1.1)
-- Lesson (12.2.1, 12.2.2)
-- Lesson (12.3.1)
-- Lesson (12.4.1)
-- Lesson (12.5.1, 12.5.2)
+- Nahúm: el profeta de la caída de Nínive (12.1.1)
+- Habacuc: el profeta de la fe (12.2.1, 12.2.2)
+- Sofonías: el profeta del Día del Señor (12.3.1)
+- Abdías: el profeta contra Edom (12.4.1)
+- Jeremías y sus Lamentaciones: El profeta del llanto (12.5.1, 12.5.2)
 
 **Chapter**
-- Lesson (13.1.1, 13.1.2)
-- Lesson (13.2.1, 13.2.2)
+- Ezequiel: el profeta de la actuación dramática (13.1.1, 13.1.2)
+- Daniel: el profeta de la soberanía divina (13.2.1, 13.2.2)
 
 **Chapter**
-- Lesson (14.1.1, 14.1.2)
-- Lesson (14.2.1, 14.2.2)
-- Lesson (14.3.1, 14.3.2)
+- Hageo: el profeta de la reconstrucción del templo (14.1.1, 14.1.2)
+- Zacarías: el profeta del estímulo visionario (14.2.1, 14.2.2)
+- Malaquías: el profeta de dar lo mejor de uno mismo (14.3.1, 14.3.2)
 
 **Chapter**
-- Lesson (15.1.1)
-- Lesson (15.2.1)
-- Lesson (15.3.1, 15.3.2)
+- La discontinuidad (15.1.1)
+- La continuidad (15.2.1)
+- La relevancia (15.3.1, 15.3.2)
 
 ---
 
