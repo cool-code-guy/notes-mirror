@@ -1864,6 +1864,18 @@ courses:
       page: 313
     - title: Solicitud de examen final impreso
       page: 315
+    revision_cycle_progress: 1.0
+    revision_cycle_timestamp: '2026-10-30'
+    revision_cycle_history:
+      '1.0':
+        timestamp: '2026-10-30'
+        PN: 01.26.01
+    bsb_revit: 1
+    bsb_revit_history:
+    - n: 1
+      date: '2026-10-30'
+      via: db cycle
+      PN: 01.26.01
     chapters:
     - chapter: 1
       intro_body:
